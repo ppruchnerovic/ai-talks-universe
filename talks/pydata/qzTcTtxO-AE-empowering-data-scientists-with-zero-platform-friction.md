@@ -4,7 +4,7 @@ title: "Empowering Data Scientists with Zero Platform Friction: Deploying Stream
 slug: empowering-data-scientists-with-zero-platform-friction
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Bernhard Schäfer"]
@@ -15,6 +15,7 @@ video_id: qzTcTtxO-AE
 url: https://www.youtube.com/watch?v=qzTcTtxO-AE
 youtube_url: https://www.youtube.com/watch?v=qzTcTtxO-AE
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

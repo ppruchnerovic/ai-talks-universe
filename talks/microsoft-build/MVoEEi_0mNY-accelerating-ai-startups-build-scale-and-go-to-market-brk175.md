@@ -4,7 +4,7 @@ title: "Accelerating AI Startups: Build Scale and Go to Market | BRK175"
 slug: accelerating-ai-startups-build-scale-and-go-to-market-brk175
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: MVoEEi_0mNY
 url: https://www.youtube.com/watch?v=MVoEEi_0mNY
 youtube_url: https://www.youtube.com/watch?v=MVoEEi_0mNY
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

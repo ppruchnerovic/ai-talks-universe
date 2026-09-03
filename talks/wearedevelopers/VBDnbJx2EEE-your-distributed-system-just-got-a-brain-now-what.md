@@ -4,7 +4,7 @@ title: "Your Distributed System Just Got a Brain. Now What?"
 slug: your-distributed-system-just-got-a-brain-now-what
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Marcin Makowski"]
@@ -15,6 +15,7 @@ video_id: VBDnbJx2EEE
 url: https://www.youtube.com/watch?v=VBDnbJx2EEE
 youtube_url: https://www.youtube.com/watch?v=VBDnbJx2EEE
 tags: ["Software Architecture", "AI Standards", "Cross-Platform", "Distributed Systems", "Large Language Models (LLMs)", "Microservices", "Scaling", "System Design"]
+topics: []
 transcript: true
 ---
 

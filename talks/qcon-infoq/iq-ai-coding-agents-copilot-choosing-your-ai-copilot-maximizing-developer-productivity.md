@@ -4,7 +4,7 @@ title: "Choosing Your AI Copilot: Maximizing Developer Productivity"
 slug: choosing-your-ai-copilot-maximizing-developer-productivity
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Sepehr Khosravi"]
@@ -15,6 +15,7 @@ video_id: iq-ai-coding-agents-copilot
 url: https://www.infoq.com/presentations/ai-coding-agents-copilot/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

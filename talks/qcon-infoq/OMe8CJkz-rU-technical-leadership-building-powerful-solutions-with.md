@@ -4,7 +4,7 @@ title: "Technical Leadership: Building Powerful Solutions with Simplicity and In
 slug: technical-leadership-building-powerful-solutions-with
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: OMe8CJkz-rU
 url: https://www.youtube.com/watch?v=OMe8CJkz-rU
 youtube_url: https://www.youtube.com/watch?v=OMe8CJkz-rU
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

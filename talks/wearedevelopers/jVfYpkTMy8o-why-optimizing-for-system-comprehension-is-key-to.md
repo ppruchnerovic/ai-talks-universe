@@ -4,7 +4,7 @@ title: "Why optimizing for system comprehension is key to implementing AI for so
 slug: why-optimizing-for-system-comprehension-is-key-to
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Peter Caron"]
@@ -15,6 +15,7 @@ video_id: jVfYpkTMy8o
 url: https://www.youtube.com/watch?v=jVfYpkTMy8o
 youtube_url: https://www.youtube.com/watch?v=jVfYpkTMy8o
 tags: ["Software Architecture", "AI Models", "Data", "Developer Experience (DevEx)"]
+topics: []
 transcript: true
 ---
 

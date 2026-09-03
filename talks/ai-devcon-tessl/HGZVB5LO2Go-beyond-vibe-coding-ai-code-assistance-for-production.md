@@ -4,7 +4,7 @@ title: "Beyond Vibe Coding: AI Code Assistance for Production Software with Matt
 slug: beyond-vibe-coding-ai-code-assistance-for-production
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: HGZVB5LO2Go
 url: https://www.youtube.com/watch?v=HGZVB5LO2Go
 youtube_url: https://www.youtube.com/watch?v=HGZVB5LO2Go
 tags: []
+topics: ["Coding assistants & agents", "Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

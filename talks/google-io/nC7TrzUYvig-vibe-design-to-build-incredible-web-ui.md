@@ -4,7 +4,7 @@ title: "Vibe design to build incredible web UI"
 slug: vibe-design-to-build-incredible-web-ui
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Dion Almaer", "David East"]
@@ -15,6 +15,7 @@ video_id: nC7TrzUYvig
 url: https://www.youtube.com/watch?v=nC7TrzUYvig
 youtube_url: https://www.youtube.com/watch?v=nC7TrzUYvig
 tags: ["Chrome", "Developers", "Google", "Web", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Chrome;", "Stitch", "Dev Tools", "MCP", "DESIGN.md"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

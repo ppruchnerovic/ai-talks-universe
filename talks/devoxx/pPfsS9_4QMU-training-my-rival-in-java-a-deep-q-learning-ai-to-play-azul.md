@@ -4,7 +4,7 @@ title: "Training My Rival in Java: A Deep Q-Learning AI to Play Azul by Victor U
 slug: training-my-rival-in-java-a-deep-q-learning-ai-to-play-azul
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Victor Uria Valle"]
@@ -15,6 +15,7 @@ video_id: pPfsS9_4QMU
 url: https://www.youtube.com/watch?v=pPfsS9_4QMU
 youtube_url: https://www.youtube.com/watch?v=pPfsS9_4QMU
 tags: []
+topics: []
 transcript: true
 ---
 

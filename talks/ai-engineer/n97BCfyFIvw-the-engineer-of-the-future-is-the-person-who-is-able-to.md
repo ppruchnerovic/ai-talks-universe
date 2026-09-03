@@ -4,7 +4,7 @@ title: "\"The engineer of the future is the person who is able to choose what is
 slug: the-engineer-of-the-future-is-the-person-who-is-able-to
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Addy Osmani"]
@@ -15,6 +15,7 @@ video_id: n97BCfyFIvw
 url: https://www.youtube.com/watch?v=n97BCfyFIvw
 youtube_url: https://www.youtube.com/watch?v=n97BCfyFIvw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

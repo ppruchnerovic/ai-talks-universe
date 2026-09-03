@@ -4,7 +4,7 @@ title: "Deepfakes, Disinformation, and AI Content are Taking over the Internet"
 slug: deepfakes-disinformation-and-ai-content-are-taking-over-the
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Shuman Ghosemajumder"]
@@ -15,6 +15,7 @@ video_id: iq-deepfakes-ai
 url: https://www.infoq.com/presentations/deepfakes-ai/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

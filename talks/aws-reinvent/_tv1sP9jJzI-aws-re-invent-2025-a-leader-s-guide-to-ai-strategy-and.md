@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - A leader's guide to AI strategy and implementation 
 slug: aws-re-invent-2025-a-leader-s-guide-to-ai-strategy-and
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _tv1sP9jJzI
 url: https://www.youtube.com/watch?v=_tv1sP9jJzI
 youtube_url: https://www.youtube.com/watch?v=_tv1sP9jJzI
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

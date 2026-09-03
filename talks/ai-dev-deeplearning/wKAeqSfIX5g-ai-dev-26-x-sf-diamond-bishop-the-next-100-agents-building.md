@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Diamond Bishop: The Next 100 Agents. Building the Agent
 slug: ai-dev-26-x-sf-diamond-bishop-the-next-100-agents-building
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: wKAeqSfIX5g
 url: https://www.youtube.com/watch?v=wKAeqSfIX5g
 youtube_url: https://www.youtube.com/watch?v=wKAeqSfIX5g
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

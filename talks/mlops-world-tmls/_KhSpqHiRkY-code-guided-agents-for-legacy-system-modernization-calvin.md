@@ -4,7 +4,7 @@ title: "Code-Guided Agents for Legacy System Modernization | Calvin Smith, OpenH
 slug: code-guided-agents-for-legacy-system-modernization-calvin
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Calvin Smith"]
@@ -15,6 +15,7 @@ video_id: _KhSpqHiRkY
 url: https://www.youtube.com/watch?v=_KhSpqHiRkY
 youtube_url: https://www.youtube.com/watch?v=_KhSpqHiRkY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

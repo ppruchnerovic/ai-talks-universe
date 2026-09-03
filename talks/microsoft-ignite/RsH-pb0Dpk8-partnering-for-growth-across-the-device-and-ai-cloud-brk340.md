@@ -4,7 +4,7 @@ title: "Partnering for Growth across the Device and AI Cloud | BRK340"
 slug: partnering-for-growth-across-the-device-and-ai-cloud-brk340
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Yann Calvez", "Gabe Gravning", "Mark Linton"]
@@ -15,6 +15,7 @@ video_id: RsH-pb0Dpk8
 url: https://www.youtube.com/watch?v=RsH-pb0Dpk8
 youtube_url: https://www.youtube.com/watch?v=RsH-pb0Dpk8
 tags: ["BRK340", "Breakout", "English (US)", "Gabe Gravning", "Mark Linton", "Partner Business", "Partner Program", "Partnering for Growth across the Device and AI Cloud | BRK340", "Version v0", "Yann Calvez", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

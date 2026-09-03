@@ -4,7 +4,7 @@ title: "Sponsored Session: Powering PyTorch: Decentralized Training for an Energ
 slug: sponsored-session-powering-pytorch-decentralized-training
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Greg Osuri"]
@@ -15,6 +15,7 @@ video_id: T3nA1nAaLss
 url: https://www.youtube.com/watch?v=T3nA1nAaLss
 youtube_url: https://www.youtube.com/watch?v=T3nA1nAaLss
 tags: []
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

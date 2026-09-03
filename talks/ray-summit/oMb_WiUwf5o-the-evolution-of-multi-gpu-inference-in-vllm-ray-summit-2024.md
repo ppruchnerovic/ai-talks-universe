@@ -4,7 +4,7 @@ title: "The Evolution of Multi-GPU Inference in vLLM | Ray Summit 2024"
 slug: the-evolution-of-multi-gpu-inference-in-vllm-ray-summit-2024
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: oMb_WiUwf5o
 url: https://www.youtube.com/watch?v=oMb_WiUwf5o
 youtube_url: https://www.youtube.com/watch?v=oMb_WiUwf5o
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

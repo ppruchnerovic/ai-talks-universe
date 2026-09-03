@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Jacky Liang: Why Agents Can't Find the Right Docs (And
 slug: ai-dev-25-x-nyc-jacky-liang-why-agents-can-t-find-the-right
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: D1XQho8jETc
 url: https://www.youtube.com/watch?v=D1XQho8jETc
 youtube_url: https://www.youtube.com/watch?v=D1XQho8jETc
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

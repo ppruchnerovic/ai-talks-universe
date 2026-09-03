@@ -4,7 +4,7 @@ title: "Serverless Agents: Real-World Tooling with Strands SDK, MCP & AWS • Ak
 slug: serverless-agents-real-world-tooling-with-strands-sdk-mcp
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Akshatha Laxmi"]
@@ -15,6 +15,7 @@ video_id: CY2VPHMhD0U
 url: https://www.youtube.com/watch?v=CY2VPHMhD0U
 youtube_url: https://www.youtube.com/watch?v=CY2VPHMhD0U
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

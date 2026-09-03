@@ -4,7 +4,7 @@ title: "Cerebral Valley: Emad Mostaque (Stability AI) with Eric Newcomer"
 slug: cerebral-valley-emad-mostaque-stability-ai-with-eric
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: k5d0A-05Gu4
 url: https://www.youtube.com/watch?v=k5d0A-05Gu4
 youtube_url: https://www.youtube.com/watch?v=k5d0A-05Gu4
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Foundry IQ: Fuel agents with enterprise knowledge and agentic retrieval 
 slug: foundry-iq-fuel-agents-with-enterprise-knowledge-and
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Pablo Castro"]
@@ -15,6 +15,7 @@ video_id: FRptM_WiBRg
 url: https://www.youtube.com/watch?v=FRptM_WiBRg
 youtube_url: https://www.youtube.com/watch?v=FRptM_WiBRg
 tags: ["AI", "Azure", "BRK246", "Context Engineer", "Developer", "Enterprise", "Evaluations", "Foundry Agents", "Foundry IQ", "Foundry IQ: Fuel agents with enterprise knowledge and agentic retrieval | BRK246", "Grounding", "Microsoft Foundry", "Pablo Castro", "Security", "ae80fe5d-7c1e-4fc5-ab1c-a37839c0a9bd_M9Z7-BRK246-1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Operation MIDAS - Tracking Fraudulent Financial Program Organizations"
 slug: operation-midas-tracking-fraudulent-financial-program
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: rMjlt8v-0eY
 url: https://www.youtube.com/watch?v=rMjlt8v-0eY
 youtube_url: https://www.youtube.com/watch?v=rMjlt8v-0eY
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

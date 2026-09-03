@@ -4,7 +4,7 @@ title: "Are We Ready for the Next Cyber Security Crisis Like Log4shell?"
 slug: are-we-ready-for-the-next-cyber-security-crisis-like
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Soroosh Khodami"]
@@ -15,6 +15,7 @@ video_id: iq-cyber-security-log4shell
 url: https://www.infoq.com/presentations/cyber-security-log4shell/
 youtube_url: null
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

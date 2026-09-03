@@ -4,7 +4,7 @@ title: "Ray for distributed mixed integer optimization at Dow"
 slug: ray-for-distributed-mixed-integer-optimization-at-dow
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: jAWKkFA6MWo
 url: https://www.youtube.com/watch?v=jAWKkFA6MWo
 youtube_url: https://www.youtube.com/watch?v=jAWKkFA6MWo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

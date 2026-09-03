@@ -4,7 +4,7 @@ title: "Shachar Azriel - Executable Specs: Building a Verification Layer for Age
 slug: shachar-azriel-executable-specs-building-a-verification
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Shachar Azriel"]
@@ -15,6 +15,7 @@ video_id: aWrGSM5vVyc
 url: https://www.youtube.com/watch?v=aWrGSM5vVyc
 youtube_url: https://www.youtube.com/watch?v=aWrGSM5vVyc
 tags: ["AI DevCon 2026", "AI code review", "AI integration", "AIDevCon", "AWS Agent Core", "Building a Verification Layer", "Figma MCP", "Figma MCP integration", "agentic coding", "ainativedev", "context engineering", "how to verify AI code", "spec-driven development", "verification layer", "what is agentic coding"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

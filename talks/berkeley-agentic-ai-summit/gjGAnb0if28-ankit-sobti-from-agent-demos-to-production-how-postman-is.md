@@ -4,7 +4,7 @@ title: "Ankit Sobti - From Agent Demos to Production: How Postman Is Building Re
 slug: ankit-sobti-from-agent-demos-to-production-how-postman-is
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Ankit Sobti"]
@@ -15,6 +15,7 @@ video_id: gjGAnb0if28
 url: https://www.youtube.com/watch?v=gjGAnb0if28
 youtube_url: https://www.youtube.com/watch?v=gjGAnb0if28
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

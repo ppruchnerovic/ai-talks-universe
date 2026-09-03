@@ -4,7 +4,7 @@ title: "Keynote: The Boring Seams"
 slug: keynote-the-boring-seams
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: HWR6cE_hynM
 url: https://www.youtube.com/watch?v=HWR6cE_hynM
 youtube_url: https://www.youtube.com/watch?v=HWR6cE_hynM
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

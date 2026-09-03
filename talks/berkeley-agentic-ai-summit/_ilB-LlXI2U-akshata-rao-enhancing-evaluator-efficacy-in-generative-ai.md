@@ -4,7 +4,7 @@ title: "Akshata Rao - Enhancing Evaluator Efficacy in Generative AI Red Teaming:
 slug: akshata-rao-enhancing-evaluator-efficacy-in-generative-ai
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Akshata Rao"]
@@ -15,6 +15,7 @@ video_id: _ilB-LlXI2U
 url: https://www.youtube.com/watch?v=_ilB-LlXI2U
 youtube_url: https://www.youtube.com/watch?v=_ilB-LlXI2U
 tags: []
+topics: ["Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Giving AI eyes: How to build a dashboard you can't see"
 slug: giving-ai-eyes-how-to-build-a-dashboard-you-can-t-see
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Josh Hobson"]
@@ -15,6 +15,7 @@ video_id: 84b86a_onJA
 url: https://www.youtube.com/watch?v=84b86a_onJA
 youtube_url: https://www.youtube.com/watch?v=84b86a_onJA
 tags: ["Frontend, Web & Mobile", "Agents", "Agentic AI", "Business Intelligence", "Generative AI (GenAI)", "Multi-Agent Systems"]
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: true
 ---
 

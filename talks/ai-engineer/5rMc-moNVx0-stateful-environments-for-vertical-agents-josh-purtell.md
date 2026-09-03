@@ -4,7 +4,7 @@ title: "Stateful environments for vertical agents — Josh Purtell, Synth Labs"
 slug: stateful-environments-for-vertical-agents-josh-purtell
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Josh Purtell"]
@@ -15,6 +15,7 @@ video_id: 5rMc-moNVx0
 url: https://www.youtube.com/watch?v=5rMc-moNVx0
 youtube_url: https://www.youtube.com/watch?v=5rMc-moNVx0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

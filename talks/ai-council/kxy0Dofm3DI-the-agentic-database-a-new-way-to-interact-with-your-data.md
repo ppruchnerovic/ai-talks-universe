@@ -4,7 +4,7 @@ title: "The Agentic Database: A New Way to Interact With Your Data"
 slug: the-agentic-database-a-new-way-to-interact-with-your-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Etienne Dilocker"]
@@ -15,6 +15,7 @@ video_id: kxy0Dofm3DI
 url: https://www.youtube.com/watch?v=kxy0Dofm3DI
 youtube_url: https://www.youtube.com/watch?v=kxy0Dofm3DI
 tags: ["agentic database", "AI database", "natural language database", "ChatGPT", "artificial intelligence", "machine learning", "AI agents", "vector database", "conversational AI", "database interaction", "CRUD operations", "Spanish translation", "Python tutorial", "future of databases", "intelligent databases", "natural language queries", "SQL generation", "database automation", "self managing databases", "adaptive systems", "context aware databases", "semantic databases"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Robots as professional Chefs - Nikhil Abraham, CloudChef"
 slug: robots-as-professional-chefs-nikhil-abraham-cloudchef
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nikhil Abraham"]
@@ -15,6 +15,7 @@ video_id: MBWGiWJDlSo
 url: https://www.youtube.com/watch?v=MBWGiWJDlSo
 youtube_url: https://www.youtube.com/watch?v=MBWGiWJDlSo
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

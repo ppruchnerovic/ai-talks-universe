@@ -4,7 +4,7 @@ title: "Arctic Inference: Open-Source LLM Inference Optimizations at Snowflake -
 slug: arctic-inference-open-source-llm-inference-optimizations-at
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Aurick Qiao"]
@@ -15,6 +15,7 @@ video_id: VQ11yE0jJ74
 url: https://www.youtube.com/watch?v=VQ11yE0jJ74
 youtube_url: https://www.youtube.com/watch?v=VQ11yE0jJ74
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Episode 22: Meeting October 9 2024 Prompt Injection Redefined, AI Bill O
 slug: episode-22-meeting-october-9-2024-prompt-injection
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: zJ3-zjXx2bk
 url: https://www.youtube.com/watch?v=zJ3-zjXx2bk
 youtube_url: https://www.youtube.com/watch?v=zJ3-zjXx2bk
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

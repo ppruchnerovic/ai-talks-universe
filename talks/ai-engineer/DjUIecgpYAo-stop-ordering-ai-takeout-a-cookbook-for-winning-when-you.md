@@ -4,7 +4,7 @@ title: "Stop Ordering AI Takeout A Cookbook for Winning When You Build In House 
 slug: stop-ordering-ai-takeout-a-cookbook-for-winning-when-you
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jan Siml"]
@@ -15,6 +15,7 @@ video_id: DjUIecgpYAo
 url: https://www.youtube.com/watch?v=DjUIecgpYAo
 youtube_url: https://www.youtube.com/watch?v=DjUIecgpYAo
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

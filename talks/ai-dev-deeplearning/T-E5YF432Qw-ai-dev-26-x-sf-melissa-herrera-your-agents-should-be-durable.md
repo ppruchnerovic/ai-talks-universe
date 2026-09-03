@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Melissa Herrera: Your Agents Should Be Durable"
 slug: ai-dev-26-x-sf-melissa-herrera-your-agents-should-be-durable
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: T-E5YF432Qw
 url: https://www.youtube.com/watch?v=T-E5YF432Qw
 youtube_url: https://www.youtube.com/watch?v=T-E5YF432Qw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

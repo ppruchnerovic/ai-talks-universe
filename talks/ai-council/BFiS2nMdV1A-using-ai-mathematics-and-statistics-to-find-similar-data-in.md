@@ -4,7 +4,7 @@ title: "Using AI, Mathematics, and Statistics to Find Similar Data in Massive Da
 slug: using-ai-mathematics-and-statistics-to-find-similar-data-in
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Eric Warner"]
@@ -15,6 +15,7 @@ video_id: BFiS2nMdV1A
 url: https://www.youtube.com/watch?v=BFiS2nMdV1A
 youtube_url: https://www.youtube.com/watch?v=BFiS2nMdV1A
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

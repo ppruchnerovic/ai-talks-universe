@@ -4,7 +4,7 @@ title: "SANS360 Talks | GenAl risks to your business and strategies to avoid com
 slug: sans360-talks-genal-risks-to-your-business-and-strategies
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fZ0JLGA_s48
 url: https://www.youtube.com/watch?v=fZ0JLGA_s48
 youtube_url: https://www.youtube.com/watch?v=fZ0JLGA_s48
 tags: []
+topics: []
 transcript: false
 ---
 

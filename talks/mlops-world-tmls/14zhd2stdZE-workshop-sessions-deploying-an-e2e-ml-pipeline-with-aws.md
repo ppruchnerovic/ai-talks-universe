@@ -4,7 +4,7 @@ title: "Workshop Sessions: Deploying an E2E ML Pipeline with AWS SageMaker - Wha
 slug: workshop-sessions-deploying-an-e2e-ml-pipeline-with-aws
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 14zhd2stdZE
 url: https://www.youtube.com/watch?v=14zhd2stdZE
 youtube_url: https://www.youtube.com/watch?v=14zhd2stdZE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Sessions: Deploying an E2E ML Pipeline with AWS SageMaker - What Amazon didn't tell you", "Deploying an E2E ML Pipeline with AWS SageMaker - What Amazon didn't tell you", "AWS SageMaker"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

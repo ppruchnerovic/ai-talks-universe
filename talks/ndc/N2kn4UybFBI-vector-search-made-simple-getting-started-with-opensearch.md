@@ -4,7 +4,7 @@ title: "Vector Search Made Simple: Getting Started with OpenSearch for AI Applic
 slug: vector-search-made-simple-getting-started-with-opensearch
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Dotan Horovits"]
@@ -15,6 +15,7 @@ video_id: N2kn4UybFBI
 url: https://www.youtube.com/watch?v=N2kn4UybFBI
 youtube_url: https://www.youtube.com/watch?v=N2kn4UybFBI
 tags: ["AI", "Database", "Linux", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "United Kingdom", "England", "Great Britain", "Dotan Horovits"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

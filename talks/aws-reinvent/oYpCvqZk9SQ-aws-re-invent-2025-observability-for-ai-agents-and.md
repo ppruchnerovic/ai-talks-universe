@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Observability for AI Agents and Traditional Workloa
 slug: aws-re-invent-2025-observability-for-ai-agents-and
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: oYpCvqZk9SQ
 url: https://www.youtube.com/watch?v=oYpCvqZk9SQ
 youtube_url: https://www.youtube.com/watch?v=oYpCvqZk9SQ
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

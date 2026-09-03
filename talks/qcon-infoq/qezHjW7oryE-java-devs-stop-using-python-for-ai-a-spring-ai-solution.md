@@ -4,7 +4,7 @@ title: "Java Devs: Stop Using Python for AI! (a Spring AI Solution)"
 slug: java-devs-stop-using-python-for-ai-a-spring-ai-solution
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qezHjW7oryE
 url: https://www.youtube.com/watch?v=qezHjW7oryE
 youtube_url: https://www.youtube.com/watch?v=qezHjW7oryE
 tags: ["Java", "Spring AI", "LLMs", "RAG", "Large Language Models", "Retrieval-Augmented Generation", "AI Agents", "InfoQ", "Transcript", "InfoQ Dev Summit", "Observability", "MCP", "Model Context Protocol", "Software Testing", "Artificial Intelligence", "Software Architecture"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

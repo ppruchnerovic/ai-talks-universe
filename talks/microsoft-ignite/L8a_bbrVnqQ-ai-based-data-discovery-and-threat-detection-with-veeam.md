@@ -4,7 +4,7 @@ title: "AI-based data discovery and threat detection with Veeam | ODSP1463"
 slug: ai-based-data-discovery-and-threat-detection-with-veeam
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: L8a_bbrVnqQ
 url: https://www.youtube.com/watch?v=L8a_bbrVnqQ
 youtube_url: https://www.youtube.com/watch?v=L8a_bbrVnqQ
 tags: ["AI-based data discovery and threat detection with Veeam | ODSP1463", "English (US)", "Innovate with Azure AI apps and agents", "ODSP1463", "ODSP1463_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

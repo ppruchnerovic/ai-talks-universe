@@ -4,7 +4,7 @@ title: "Your People Are The Future Of Your Brand"
 slug: your-people-are-the-future-of-your-brand
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ash Jones"]
@@ -15,6 +15,7 @@ video_id: Sb5T67s_Gr4
 url: https://www.youtube.com/watch?v=Sb5T67s_Gr4
 youtube_url: https://www.youtube.com/watch?v=Sb5T67s_Gr4
 tags: ["People & Culture", "Advocacy", "Marketing", "People & Culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Create enterprise apps with AI and MCP | ODSP923"
 slug: create-enterprise-apps-with-ai-and-mcp-odsp923
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Jason Beres"]
@@ -15,6 +15,7 @@ video_id: hGbAbsaaHEI
 url: https://www.youtube.com/watch?v=hGbAbsaaHEI
 youtube_url: https://www.youtube.com/watch?v=hGbAbsaaHEI
 tags: [".NET", "AI", "Agents", "Copilot", "Create enterprise apps with AI and MCP | ODSP923", "Dev Tools", "DevTools", "Developer", "Developer Frameworks", "Jason Beres", "MCP", "ODSP923", "ODSP923_v1", "Visual Studio Code", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

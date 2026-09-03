@@ -4,7 +4,7 @@ title: "A Framework for Adaptive Multi-Turn Jailbreak Attacks on Large Language 
 slug: a-framework-for-adaptive-multi-turn-jailbreak-attacks-on
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Javad Rafiei Asl"]
@@ -15,6 +15,7 @@ video_id: z_OYcwZ6Ffg
 url: https://www.youtube.com/watch?v=z_OYcwZ6Ffg
 youtube_url: https://www.youtube.com/watch?v=z_OYcwZ6Ffg
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

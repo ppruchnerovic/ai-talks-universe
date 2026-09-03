@@ -4,7 +4,7 @@ title: "Life Cycle Impact Assessment in TypeScript"
 slug: life-cycle-impact-assessment-in-typescript
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Corinna John"]
@@ -15,6 +15,7 @@ video_id: 6NC9laD5OHY
 url: https://www.youtube.com/watch?v=6NC9laD5OHY
 youtube_url: https://www.youtube.com/watch?v=6NC9laD5OHY
 tags: ["Frontend, Web & Mobile", "APIs", "TypeScript"]
+topics: []
 transcript: true
 ---
 

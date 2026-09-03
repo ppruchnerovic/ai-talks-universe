@@ -4,7 +4,7 @@ title: "Running an AI-native engineering org"
 slug: running-an-ai-native-engineering-org
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: IA5LWIGqnyM
 url: https://www.youtube.com/watch?v=IA5LWIGqnyM
 youtube_url: https://www.youtube.com/watch?v=IA5LWIGqnyM
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

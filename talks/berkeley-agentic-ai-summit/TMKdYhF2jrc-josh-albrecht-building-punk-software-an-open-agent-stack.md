@@ -4,7 +4,7 @@ title: "Josh Albrecht - Building Punk Software: An Open Agent Stack"
 slug: josh-albrecht-building-punk-software-an-open-agent-stack
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Josh Albrecht"]
@@ -15,6 +15,7 @@ video_id: TMKdYhF2jrc
 url: https://www.youtube.com/watch?v=TMKdYhF2jrc
 youtube_url: https://www.youtube.com/watch?v=TMKdYhF2jrc
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Panel: Agentic AI in Finance & Legal"
 slug: panel-agentic-ai-in-finance-legal
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: elptCI-FSCA
 url: https://www.youtube.com/watch?v=elptCI-FSCA
 youtube_url: https://www.youtube.com/watch?v=elptCI-FSCA
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

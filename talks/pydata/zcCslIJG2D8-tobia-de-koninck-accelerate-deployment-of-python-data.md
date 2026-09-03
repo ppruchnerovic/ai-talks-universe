@@ -4,7 +4,7 @@ title: "Tobia De Koninck-Accelerate deployment of Python data science apps using
 slug: tobia-de-koninck-accelerate-deployment-of-python-data
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: zcCslIJG2D8
 url: https://www.youtube.com/watch?v=zcCslIJG2D8
 youtube_url: https://www.youtube.com/watch?v=zcCslIJG2D8
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

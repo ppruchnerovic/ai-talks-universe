@@ -4,7 +4,7 @@ title: "Let the LLM Write the Prompts: An Intro to DSPy in Compound AI Pipelines
 slug: let-the-llm-write-the-prompts-an-intro-to-dspy-in-compound
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: I9ZtkgYZnOw
 url: https://www.youtube.com/watch?v=I9ZtkgYZnOw
 youtube_url: https://www.youtube.com/watch?v=I9ZtkgYZnOw
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

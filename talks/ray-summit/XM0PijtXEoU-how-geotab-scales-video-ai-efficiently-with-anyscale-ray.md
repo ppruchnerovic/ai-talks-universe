@@ -4,7 +4,7 @@ title: "How Geotab Scales Video AI Efficiently with Anyscale | Ray Summit 2025"
 slug: how-geotab-scales-video-ai-efficiently-with-anyscale-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XM0PijtXEoU
 url: https://www.youtube.com/watch?v=XM0PijtXEoU
 youtube_url: https://www.youtube.com/watch?v=XM0PijtXEoU
 tags: []
+topics: []
 transcript: false
 ---
 

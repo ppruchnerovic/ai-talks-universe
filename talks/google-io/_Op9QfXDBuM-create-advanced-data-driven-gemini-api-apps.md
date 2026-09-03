@@ -4,7 +4,7 @@ title: "Create advanced data driven Gemini API apps"
 slug: create-advanced-data-driven-gemini-api-apps
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: _Op9QfXDBuM
 url: https://www.youtube.com/watch?v=_Op9QfXDBuM
 youtube_url: https://www.youtube.com/watch?v=_Op9QfXDBuM
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Workshop;", "ct:Stack - AI;", "gemini", "gemini-api", "agent-skills", "rag", "agentic-rag", "file-search", "vibe-coding", "antigravity"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

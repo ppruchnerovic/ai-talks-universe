@@ -4,7 +4,7 @@ title: "Panel: What Every Product Manager Delivering AI Solutions Should Know"
 slug: panel-what-every-product-manager-delivering-ai-solutions
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Jessie Lamontagne"]
@@ -15,6 +15,7 @@ video_id: 4J_lx8nQoNE
 url: https://www.youtube.com/watch?v=4J_lx8nQoNE
 youtube_url: https://www.youtube.com/watch?v=4J_lx8nQoNE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

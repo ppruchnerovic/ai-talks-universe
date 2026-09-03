@@ -4,7 +4,7 @@ title: "Bootiful Spring AI by Mark Pollack, Christian Tzolov, Josh Long, James W
 slug: bootiful-spring-ai-by-mark-pollack-christian-tzolov-josh
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Mark Pollack", "Christian Tzolov", "Josh Long", "James Ward"]
@@ -15,6 +15,7 @@ video_id: Sw3PlFXfWj4
 url: https://www.youtube.com/watch?v=Sw3PlFXfWj4
 youtube_url: https://www.youtube.com/watch?v=Sw3PlFXfWj4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

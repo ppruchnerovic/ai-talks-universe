@@ -4,7 +4,7 @@ title: "PW - Passwords 101"
 slug: pw-passwords-101
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: T5fQEcvd15A
 url: https://www.youtube.com/watch?v=T5fQEcvd15A
 youtube_url: https://www.youtube.com/watch?v=T5fQEcvd15A
 tags: ["KYAVDB"]
+topics: []
 transcript: false
 ---
 

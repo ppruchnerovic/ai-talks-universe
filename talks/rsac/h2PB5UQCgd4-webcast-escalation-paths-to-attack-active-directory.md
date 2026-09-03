@@ -4,7 +4,7 @@ title: "Webcast: Escalation Paths to Attack Active Directory Certificate Service
 slug: webcast-escalation-paths-to-attack-active-directory
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: ["Derek Melber", "Enterprise Identity"]
@@ -15,6 +15,7 @@ video_id: h2PB5UQCgd4
 url: https://www.youtube.com/watch?v=h2PB5UQCgd4
 youtube_url: https://www.youtube.com/watch?v=h2PB5UQCgd4
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

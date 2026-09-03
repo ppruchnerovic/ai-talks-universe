@@ -4,7 +4,7 @@ title: "Artifact SA | Startup Pitches | Michael Wegmüller"
 slug: artifact-sa-startup-pitches-michael-wegmuller
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Startup Pitches", "Michael Wegmüller"]
@@ -15,6 +15,7 @@ video_id: x4DvU3clhJg
 url: https://www.youtube.com/watch?v=x4DvU3clhJg
 youtube_url: https://www.youtube.com/watch?v=x4DvU3clhJg
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

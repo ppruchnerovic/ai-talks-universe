@@ -4,7 +4,7 @@ title: "LIquid: a Large-Scale Relational Graph Database"
 slug: liquid-a-large-scale-relational-graph-database
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: KwGKK83368c
 url: https://www.youtube.com/watch?v=KwGKK83368c
 youtube_url: https://www.youtube.com/watch?v=KwGKK83368c
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "LinkedIn", "Graph Database", "NoSQL", "Database", "Performance", "Scalability"]
+topics: []
 transcript: false
 ---
 

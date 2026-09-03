@@ -4,7 +4,7 @@ title: "Lakehouse to Powerhouse: Reckitt's Enterprise AI Transformation Story"
 slug: lakehouse-to-powerhouse-reckitt-s-enterprise-ai
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Arxio8mNZvQ
 url: https://www.youtube.com/watch?v=Arxio8mNZvQ
 youtube_url: https://www.youtube.com/watch?v=Arxio8mNZvQ
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

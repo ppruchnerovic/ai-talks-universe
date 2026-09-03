@@ -4,7 +4,7 @@ title: "Stop Coding? Prompt Engineering's Future for Developers"
 slug: stop-coding-prompt-engineering-s-future-for-developers
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Fo-QP_SY9Dc
 url: https://www.youtube.com/watch?v=Fo-QP_SY9Dc
 youtube_url: https://www.youtube.com/watch?v=Fo-QP_SY9Dc
 tags: ["Prompt Engineering", "AI", "Software Development", "Programming", "Coding", "GenAI", "AI Agents", "InfoQ", "QCon San Francisco", "Artificial Intelligence"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Prompting & context engineering"]
 transcript: false
 ---
 

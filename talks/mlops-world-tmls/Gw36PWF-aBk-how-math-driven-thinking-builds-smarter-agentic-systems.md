@@ -4,7 +4,7 @@ title: "How Math-Driven Thinking Builds Smarter Agentic Systems | Claire Longo, 
 slug: how-math-driven-thinking-builds-smarter-agentic-systems
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Claire Longo"]
@@ -15,6 +15,7 @@ video_id: Gw36PWF-aBk
 url: https://www.youtube.com/watch?v=Gw36PWF-aBk
 youtube_url: https://www.youtube.com/watch?v=Gw36PWF-aBk
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "GF - Windows EventLog Persistence? The Windows can help us"
 slug: gf-windows-eventlog-persistence-the-windows-can-help-us
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: DKTVl1gwvCw
 url: https://www.youtube.com/watch?v=DKTVl1gwvCw
 youtube_url: https://www.youtube.com/watch?v=DKTVl1gwvCw
 tags: ["WLWZN8"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

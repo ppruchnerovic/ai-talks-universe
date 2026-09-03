@@ -4,7 +4,7 @@ title: "Taming the LLM Wild West: Unified Governance with Mosaic AI Gateway"
 slug: taming-the-llm-wild-west-unified-governance-with-mosaic-ai
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: x_16hchSFXY
 url: https://www.youtube.com/watch?v=x_16hchSFXY
 youtube_url: https://www.youtube.com/watch?v=x_16hchSFXY
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

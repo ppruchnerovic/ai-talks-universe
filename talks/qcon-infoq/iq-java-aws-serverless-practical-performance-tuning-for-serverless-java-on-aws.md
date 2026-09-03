@@ -4,7 +4,7 @@ title: "Practical Performance Tuning for Serverless Java on AWS"
 slug: practical-performance-tuning-for-serverless-java-on-aws
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Vadym Kazulkin"]
@@ -15,6 +15,7 @@ video_id: iq-java-aws-serverless
 url: https://www.infoq.com/presentations/java-aws-serverless/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

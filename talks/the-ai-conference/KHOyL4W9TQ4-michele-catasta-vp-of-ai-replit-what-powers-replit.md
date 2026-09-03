@@ -4,7 +4,7 @@ title: "Michele Catasta, VP of AI @ Replit: What Powers Replit Ghostwriter?"
 slug: michele-catasta-vp-of-ai-replit-what-powers-replit
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: KHOyL4W9TQ4
 url: https://www.youtube.com/watch?v=KHOyL4W9TQ4
 youtube_url: https://www.youtube.com/watch?v=KHOyL4W9TQ4
 tags: []
+topics: ["Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

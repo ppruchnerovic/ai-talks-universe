@@ -4,7 +4,7 @@ title: "How AI is Actually Modernizing DevOps"
 slug: how-ai-is-actually-modernizing-devops
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: rgUVPMB7sGg
 url: https://www.youtube.com/watch?v=rgUVPMB7sGg
 youtube_url: https://www.youtube.com/watch?v=rgUVPMB7sGg
 tags: ["InfoQ Live", "InfoQ", "Transcript", "Artificial Intelligence", "AI", "DevOps", "AI Agents", "Observability", "Virtual Panel", "Platform Engineering", "Generative AI", "SRE", "Software Architecture"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

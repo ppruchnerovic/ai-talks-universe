@@ -4,7 +4,7 @@ title: "Achieving AI Success with a Solid Data Foundation"
 slug: achieving-ai-success-with-a-solid-data-foundation
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: WDtD8R76M-8
 url: https://www.youtube.com/watch?v=WDtD8R76M-8
 youtube_url: https://www.youtube.com/watch?v=WDtD8R76M-8
 tags: []
+topics: []
 transcript: false
 ---
 

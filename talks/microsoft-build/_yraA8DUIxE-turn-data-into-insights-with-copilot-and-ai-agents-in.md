@@ -4,7 +4,7 @@ title: "Turn data into insights with Copilot and AI agents in Fabric | BRK208"
 slug: turn-data-into-insights-with-copilot-and-ai-agents-in
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _yraA8DUIxE
 url: https://www.youtube.com/watch?v=_yraA8DUIxE
 youtube_url: https://www.youtube.com/watch?v=_yraA8DUIxE
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

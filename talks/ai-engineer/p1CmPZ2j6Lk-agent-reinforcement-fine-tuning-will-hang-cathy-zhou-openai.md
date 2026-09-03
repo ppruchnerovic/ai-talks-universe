@@ -4,7 +4,7 @@ title: "Agent Reinforcement Fine Tuning – Will Hang & Cathy Zhou, OpenAI"
 slug: agent-reinforcement-fine-tuning-will-hang-cathy-zhou-openai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Will Hang", "Cathy Zhou"]
@@ -15,6 +15,7 @@ video_id: p1CmPZ2j6Lk
 url: https://www.youtube.com/watch?v=p1CmPZ2j6Lk
 youtube_url: https://www.youtube.com/watch?v=p1CmPZ2j6Lk
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

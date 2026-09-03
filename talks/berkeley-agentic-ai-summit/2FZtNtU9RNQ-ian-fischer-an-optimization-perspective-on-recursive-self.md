@@ -4,7 +4,7 @@ title: "Ian Fischer - An Optimization Perspective on Recursive Self Improvement"
 slug: ian-fischer-an-optimization-perspective-on-recursive-self
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Ian Fischer"]
@@ -15,6 +15,7 @@ video_id: 2FZtNtU9RNQ
 url: https://www.youtube.com/watch?v=2FZtNtU9RNQ
 youtube_url: https://www.youtube.com/watch?v=2FZtNtU9RNQ
 tags: []
+topics: []
 transcript: true
 ---
 

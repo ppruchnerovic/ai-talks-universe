@@ -4,7 +4,7 @@ title: "The Financial Architecture of Software with Ian Miell"
 slug: the-financial-architecture-of-software-with-ian-miell
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: p3FjXgKzs-8
 url: https://www.youtube.com/watch?v=p3FjXgKzs-8
 youtube_url: https://www.youtube.com/watch?v=p3FjXgKzs-8
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

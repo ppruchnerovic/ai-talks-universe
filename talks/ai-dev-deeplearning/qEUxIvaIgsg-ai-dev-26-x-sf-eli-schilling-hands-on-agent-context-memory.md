@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Eli Schilling: Hands On Agent Context & Memory Engineer
 slug: ai-dev-26-x-sf-eli-schilling-hands-on-agent-context-memory
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: qEUxIvaIgsg
 url: https://www.youtube.com/watch?v=qEUxIvaIgsg
 youtube_url: https://www.youtube.com/watch?v=qEUxIvaIgsg
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

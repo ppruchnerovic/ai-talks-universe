@@ -4,7 +4,7 @@ title: "Algorithmic Alchemy: Transforming Drug Discovery with Open AI - Gloria M
 slug: algorithmic-alchemy-transforming-drug-discovery-with-open
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Gloria Macia"]
@@ -15,6 +15,7 @@ video_id: AKWk_86fNXk
 url: https://www.youtube.com/watch?v=AKWk_86fNXk
 youtube_url: https://www.youtube.com/watch?v=AKWk_86fNXk
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

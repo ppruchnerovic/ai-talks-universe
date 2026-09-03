@@ -4,7 +4,7 @@ title: "DuckDB + PostgreSQL: Building a Data Warehouse Inside Your Favorite Data
 slug: duckdb-postgresql-building-a-data-warehouse-inside-your
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Marco Slot"]
@@ -15,6 +15,7 @@ video_id: HZArjlMB6W4
 url: https://www.youtube.com/watch?v=HZArjlMB6W4
 youtube_url: https://www.youtube.com/watch?v=HZArjlMB6W4
 tags: ["DuckDB tutorial", "PostgreSQL tutorial", "database architecture", "ChatGPT", "artificial intelligence", "machine learning", "SQL tutorial", "data analysis", "OLAP", "OLTP", "database integration", "analytical database", "transactional systems", "Python tutorial", "embedded database", "in process analytics", "columnar storage", "vectorized execution", "analytical queries", "data exploration", "interactive analytics", "SQL performance", "query engine", "database portability"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

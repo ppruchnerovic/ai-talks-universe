@@ -4,7 +4,7 @@ title: "Secure and Compliant APIs - By Design - Daniel Sandberg & Tobias Ahnoff 
 slug: secure-and-compliant-apis-by-design-daniel-sandberg-tobias
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Daniel Sandberg", "Tobias Ahnoff"]
@@ -15,6 +15,7 @@ video_id: 32UADtMRy4I
 url: https://www.youtube.com/watch?v=32UADtMRy4I
 youtube_url: https://www.youtube.com/watch?v=32UADtMRy4I
 tags: ["Application Security", "Programming", "Security Tooling", "Testing", "OWASP", "API", "DevOps", "NDC", "Conferences", "2026", "Live", "Fun", "Security", "Oslo", "Norway", "Daniel Sandberg", "Tobias Ahnoff"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Challenging Google Analytics: Building a Scalable, Cost-Effective User T
 slug: challenging-google-analytics-building-a-scalable-cost
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Alina Krasavina"]
@@ -15,6 +15,7 @@ video_id: iq-mobile-user-tracking-service
 url: https://www.infoq.com/presentations/mobile-user-tracking-service/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

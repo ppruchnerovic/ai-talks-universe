@@ -4,7 +4,7 @@ title: "Machine Learning in the Aviation Industry | AI in Aviation | Pawel Kampc
 slug: machine-learning-in-the-aviation-industry-ai-in-aviation
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Pawel Kampczyk"]
@@ -15,6 +15,7 @@ video_id: ZVajB6I6AW8
 url: https://www.youtube.com/watch?v=ZVajB6I6AW8
 youtube_url: https://www.youtube.com/watch?v=ZVajB6I6AW8
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

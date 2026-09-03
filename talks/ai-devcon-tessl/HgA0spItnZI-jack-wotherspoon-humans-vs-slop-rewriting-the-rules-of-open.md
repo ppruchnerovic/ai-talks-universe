@@ -4,7 +4,7 @@ title: "Jack Wotherspoon - Humans vs. Slop: Rewriting the Rules of Open-Source -
 slug: jack-wotherspoon-humans-vs-slop-rewriting-the-rules-of-open
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Jack Wotherspoon"]
@@ -15,6 +15,7 @@ video_id: HgA0spItnZI
 url: https://www.youtube.com/watch?v=HgA0spItnZI
 youtube_url: https://www.youtube.com/watch?v=HgA0spItnZI
 tags: ["AI DevCon", "AI DevCon London 2026", "AI agents", "AI slop", "AI-generated code", "Gemini CLI Google", "GitHub Copilot", "Google", "ainativedev", "code maintenance", "how AI is changing open source", "impact of AI on code review", "open source", "open source and AI agents", "slop chef"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 

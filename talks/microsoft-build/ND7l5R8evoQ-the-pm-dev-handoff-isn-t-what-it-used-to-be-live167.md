@@ -4,7 +4,7 @@ title: "The PM/dev handoff isn't what it used to be | LIVE167"
 slug: the-pm-dev-handoff-isn-t-what-it-used-to-be-live167
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Courtney Webster", "Burke Holland"]
@@ -15,6 +15,7 @@ video_id: ND7l5R8evoQ
 url: https://www.youtube.com/watch?v=ND7l5R8evoQ
 youtube_url: https://www.youtube.com/watch?v=ND7l5R8evoQ
 tags: ["Burke Holland", "Courtney Webster", "LIVE167", "LIVE167_v1", "The PM/dev handoff isn't what it used to be | LIVE167", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

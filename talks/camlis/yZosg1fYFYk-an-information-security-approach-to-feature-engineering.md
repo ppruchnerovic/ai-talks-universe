@@ -4,7 +4,7 @@ title: "An Information Security Approach to Feature Engineering"
 slug: an-information-security-approach-to-feature-engineering
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []
@@ -15,6 +15,7 @@ video_id: yZosg1fYFYk
 url: https://www.youtube.com/watch?v=yZosg1fYFYk
 youtube_url: https://www.youtube.com/watch?v=yZosg1fYFYk
 tags: ["camlis", "camlis2019"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Security, safety & red teaming"]
 transcript: false
 ---
 

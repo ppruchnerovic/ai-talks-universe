@@ -4,7 +4,7 @@ title: "Sebastian Wallkötter - What Happens Inside an MCP Server? (Boston Oct '
 slug: sebastian-wallkotter-what-happens-inside-an-mcp-server
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Sebastian Wallkötter"]
@@ -15,6 +15,7 @@ video_id: -AFOcmTFTT8
 url: https://www.youtube.com/watch?v=-AFOcmTFTT8
 youtube_url: https://www.youtube.com/watch?v=-AFOcmTFTT8
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

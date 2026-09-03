@@ -4,7 +4,7 @@ title: "Attacking AI"
 slug: attacking-ai
 conference: owasp-global-appsec
 conference_name: "OWASP Global AppSec"
-category: "AI security"
+category: "Security conferences"
 edition: "Global AppSec DC 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: CsKqu9eob1w
 url: https://www.youtube.com/watch?v=CsKqu9eob1w
 youtube_url: https://www.youtube.com/watch?v=CsKqu9eob1w
 tags: []
+topics: []
 transcript: false
 ---
 

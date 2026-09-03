@@ -4,7 +4,7 @@ title: "Jerry Tworek - Opportunities and Challenges for Long Horizon Agents"
 slug: jerry-tworek-opportunities-and-challenges-for-long-horizon
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Jerry Tworek"]
@@ -15,6 +15,7 @@ video_id: 6lPGqZRUr0M
 url: https://www.youtube.com/watch?v=6lPGqZRUr0M
 youtube_url: https://www.youtube.com/watch?v=6lPGqZRUr0M
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

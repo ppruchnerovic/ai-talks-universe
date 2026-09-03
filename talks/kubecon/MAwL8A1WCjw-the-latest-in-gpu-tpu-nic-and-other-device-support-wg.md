@@ -4,7 +4,7 @@ title: "The Latest in GPU, TPU, NIC and Other Device Support - WG Device Ma... J
 slug: the-latest-in-gpu-tpu-nic-and-other-device-support-wg
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: MAwL8A1WCjw
 url: https://www.youtube.com/watch?v=MAwL8A1WCjw
 youtube_url: https://www.youtube.com/watch?v=MAwL8A1WCjw
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Meryem Arik on LLM Deployment, State-of-the-art RAG Apps, and Inference 
 slug: meryem-arik-on-llm-deployment-state-of-the-art-rag-apps-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: cSlBJ0jq7Zw
 url: https://www.youtube.com/watch?v=cSlBJ0jq7Zw
 youtube_url: https://www.youtube.com/watch?v=cSlBJ0jq7Zw
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

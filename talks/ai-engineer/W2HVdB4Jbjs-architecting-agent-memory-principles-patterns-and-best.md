@@ -4,7 +4,7 @@ title: "Architecting Agent Memory: Principles, Patterns, and Best Practices — 
 slug: architecting-agent-memory-principles-patterns-and-best
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Richmond Alake"]
@@ -15,6 +15,7 @@ video_id: W2HVdB4Jbjs
 url: https://www.youtube.com/watch?v=W2HVdB4Jbjs
 youtube_url: https://www.youtube.com/watch?v=W2HVdB4Jbjs
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Stripe’s Docdb: How Zero-Downtime Data Movement Powers Trillion-Dollar
 slug: stripes-docdb-how-zero-downtime-data-movement-powers
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Jimmy Morzaria"]
@@ -15,6 +15,7 @@ video_id: iq-docdb-online-database
 url: https://www.infoq.com/presentations/docdb-online-database/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

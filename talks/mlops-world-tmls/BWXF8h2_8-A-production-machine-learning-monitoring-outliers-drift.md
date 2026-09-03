@@ -4,7 +4,7 @@ title: "Production Machine Learning Monitoring Outliers, Drift, Explainers & Sta
 slug: production-machine-learning-monitoring-outliers-drift
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: BWXF8h2_8-A
 url: https://www.youtube.com/watch?v=BWXF8h2_8-A
 youtube_url: https://www.youtube.com/watch?v=BWXF8h2_8-A
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Production Machine Learning Monitoring Outliers", "Drift", "Explainers & Statistical Performance", "Production Machine Learning", "Machine Learning Monitoring", "statistical performance", "microservice monitoring techniques", "microservices", "microservices tutorial"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

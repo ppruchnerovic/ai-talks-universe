@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Leveraging Agentic AI to process Intelligent automa
 slug: aws-re-invent-2025-leveraging-agentic-ai-to-process
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: QGQvo0Mi4JQ
 url: https://www.youtube.com/watch?v=QGQvo0Mi4JQ
 youtube_url: https://www.youtube.com/watch?v=QGQvo0Mi4JQ
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

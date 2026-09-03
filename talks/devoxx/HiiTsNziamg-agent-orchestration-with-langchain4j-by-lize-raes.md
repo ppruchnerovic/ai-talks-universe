@@ -4,7 +4,7 @@ title: "Agent Orchestration with LangChain4J by Lize Raes"
 slug: agent-orchestration-with-langchain4j-by-lize-raes
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Lize Raes"]
@@ -15,6 +15,7 @@ video_id: HiiTsNziamg
 url: https://www.youtube.com/watch?v=HiiTsNziamg
 youtube_url: https://www.youtube.com/watch?v=HiiTsNziamg
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

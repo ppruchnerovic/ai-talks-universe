@@ -4,7 +4,7 @@ title: "Episode 26: Meeting December 4 2024 Launch Updates, New GenAI Security P
 slug: episode-26-meeting-december-4-2024-launch-updates-new-genai
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: pKyRE4y0prI
 url: https://www.youtube.com/watch?v=pKyRE4y0prI
 youtube_url: https://www.youtube.com/watch?v=pKyRE4y0prI
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

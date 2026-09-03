@@ -4,7 +4,7 @@ title: "Sponsored by: Snorkel AI | Evaluating and Improving Performance of Agent
 slug: sponsored-by-snorkel-ai-evaluating-and-improving
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: tlEmxrqKGlE
 url: https://www.youtube.com/watch?v=tlEmxrqKGlE
 youtube_url: https://www.youtube.com/watch?v=tlEmxrqKGlE
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

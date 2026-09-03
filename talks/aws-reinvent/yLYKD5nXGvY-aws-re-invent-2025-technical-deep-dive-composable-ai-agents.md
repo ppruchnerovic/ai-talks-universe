@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Technical deep dive: Composable AI agents for partn
 slug: aws-re-invent-2025-technical-deep-dive-composable-ai-agents
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: yLYKD5nXGvY
 url: https://www.youtube.com/watch?v=yLYKD5nXGvY
 youtube_url: https://www.youtube.com/watch?v=yLYKD5nXGvY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

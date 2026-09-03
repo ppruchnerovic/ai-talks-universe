@@ -4,7 +4,7 @@ title: "Using Reproducible Experiments To Create Better Machine Learning Models"
 slug: using-reproducible-experiments-to-create-better-machine
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: f_M3a6YJ4S8
 url: https://www.youtube.com/watch?v=f_M3a6YJ4S8
 youtube_url: https://www.youtube.com/watch?v=f_M3a6YJ4S8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

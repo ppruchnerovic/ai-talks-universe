@@ -4,7 +4,7 @@ title: "Deploy ARM and Intel Copilot and PCs with one unified approach | ODSP151
 slug: deploy-arm-and-intel-copilot-and-pcs-with-one-unified
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Daniel Wyness"]
@@ -15,6 +15,7 @@ video_id: TLood2LUGtM
 url: https://www.youtube.com/watch?v=TLood2LUGtM
 youtube_url: https://www.youtube.com/watch?v=TLood2LUGtM
 tags: ["Daniel Wyness", "Deploy ARM and Intel Copilot and PCs with one unified approach | ODSP1513", "English (US)", "Migrate and modernize your estate", "ODSP1513", "ODSP1513_v1", "Scale with cloud and AI endpoints", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

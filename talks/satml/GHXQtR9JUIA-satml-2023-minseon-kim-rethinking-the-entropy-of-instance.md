@@ -4,7 +4,7 @@ title: "SaTML 2023 - Minseon Kim - Rethinking the Entropy of Instance in Adversa
 slug: satml-2023-minseon-kim-rethinking-the-entropy-of-instance
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Minseon Kim"]
@@ -15,6 +15,7 @@ video_id: GHXQtR9JUIA
 url: https://www.youtube.com/watch?v=GHXQtR9JUIA
 youtube_url: https://www.youtube.com/watch?v=GHXQtR9JUIA
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

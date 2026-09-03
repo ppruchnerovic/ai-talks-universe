@@ -4,7 +4,7 @@ title: "Introducing Strands Agents, an Open Source AI Agents SDK — Suman Debna
 slug: introducing-strands-agents-an-open-source-ai-agents-sdk
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Suman Debnath"]
@@ -15,6 +15,7 @@ video_id: Q3NreEAdKMc
 url: https://www.youtube.com/watch?v=Q3NreEAdKMc
 youtube_url: https://www.youtube.com/watch?v=Q3NreEAdKMc
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

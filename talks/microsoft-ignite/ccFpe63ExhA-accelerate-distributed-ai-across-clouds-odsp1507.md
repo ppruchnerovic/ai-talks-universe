@@ -4,7 +4,7 @@ title: "Accelerate Distributed AI across Clouds | ODSP1507"
 slug: accelerate-distributed-ai-across-clouds-odsp1507
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Kevin Egan"]
@@ -15,6 +15,7 @@ video_id: ccFpe63ExhA
 url: https://www.youtube.com/watch?v=ccFpe63ExhA
 youtube_url: https://www.youtube.com/watch?v=ccFpe63ExhA
 tags: ["Accelerate Distributed AI across Clouds | ODSP1507", "English (US)", "Kevin Egan", "ODSP1507", "ODSP1507_v2", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

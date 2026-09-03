@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | Faster Detection and Counteraction of N-Day Exploi
 slug: black-hat-asia-2026-faster-detection-and-counteraction-of-n
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: -xaIpNlecJM
 url: https://www.youtube.com/watch?v=-xaIpNlecJM
 youtube_url: https://www.youtube.com/watch?v=-xaIpNlecJM
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

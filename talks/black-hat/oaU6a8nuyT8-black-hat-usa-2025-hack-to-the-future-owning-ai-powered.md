@@ -4,7 +4,7 @@ title: "Black Hat USA 2025 | Hack to the Future: Owning AI-Powered Tools with Ol
 slug: black-hat-usa-2025-hack-to-the-future-owning-ai-powered
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: oaU6a8nuyT8
 url: https://www.youtube.com/watch?v=oaU6a8nuyT8
 youtube_url: https://www.youtube.com/watch?v=oaU6a8nuyT8
 tags: []
+topics: []
 transcript: false
 ---
 

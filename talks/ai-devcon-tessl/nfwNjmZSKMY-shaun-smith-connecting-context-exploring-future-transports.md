@@ -4,7 +4,7 @@ title: "Shaun Smith - Connecting Context - Exploring Future Transports - AI Nati
 slug: shaun-smith-connecting-context-exploring-future-transports
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Shaun Smith", "Connecting Context"]
@@ -15,6 +15,7 @@ video_id: nfwNjmZSKMY
 url: https://www.youtube.com/watch?v=nfwNjmZSKMY
 youtube_url: https://www.youtube.com/watch?v=nfwNjmZSKMY
 tags: ["Hugging Face open source", "MCP Client usage", "MCP Transport", "MCP Transport changes", "Streamable HTTP Servers", "ainativedev", "data analytics", "design patterns for MCP", "future of MCP transport", "machine learning models", "model connectivity", "open source", "remote servers", "stateless design", "what is stateless MCP"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

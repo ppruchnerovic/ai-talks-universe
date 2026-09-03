@@ -4,7 +4,7 @@ title: "Top 5 Lessons Learned in Helping Organizations Adopt MLOps Practices"
 slug: top-5-lessons-learned-in-helping-organizations-adopt-mlops
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Shelbee Eigenbrode"]
@@ -15,6 +15,7 @@ video_id: naUQUfEab_4
 url: https://www.youtube.com/watch?v=naUQUfEab_4
 youtube_url: https://www.youtube.com/watch?v=naUQUfEab_4
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

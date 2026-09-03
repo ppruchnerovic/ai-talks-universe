@@ -4,7 +4,7 @@ title: "Connect to and manage any data anywhere in Microsoft OneLake | BRK221"
 slug: connect-to-and-manage-any-data-anywhere-in-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Dipti Borkar", "Joshua Caplan", "Paul Purvis", "Adi Regev", "Clay Yeaman"]
@@ -15,6 +15,7 @@ video_id: HjCaHgXezys
 url: https://www.youtube.com/watch?v=HjCaHgXezys
 youtube_url: https://www.youtube.com/watch?v=HjCaHgXezys
 tags: ["02b225c3-8c07-4151-b80d-3e00d9fdbc93_Segment", "Adi Regev", "BRK221", "Clay Yeaman", "Connect to and manage any data anywhere in Microsoft OneLake | BRK221", "Dipti Borkar", "English (US)", "Joshua Caplan", "Paul Purvis", "Technical", "Unify your data platform", "Unify your data platform:Microsoft Fabric", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "What Is a Humanoid Foundation Model? An Introduction to GR00T N1 - Annik
 slug: what-is-a-humanoid-foundation-model-an-introduction-to
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: mWKYvT9Lc50
 url: https://www.youtube.com/watch?v=mWKYvT9Lc50
 youtube_url: https://www.youtube.com/watch?v=mWKYvT9Lc50
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

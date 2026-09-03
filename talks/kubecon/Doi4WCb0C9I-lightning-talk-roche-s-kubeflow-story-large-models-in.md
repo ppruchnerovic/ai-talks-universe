@@ -4,7 +4,7 @@ title: "Lightning Talk: Roche's Kubeflow Story: Large Models in Seconds, Costs C
 slug: lightning-talk-roche-s-kubeflow-story-large-models-in
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Doi4WCb0C9I
 url: https://www.youtube.com/watch?v=Doi4WCb0C9I
 youtube_url: https://www.youtube.com/watch?v=Doi4WCb0C9I
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

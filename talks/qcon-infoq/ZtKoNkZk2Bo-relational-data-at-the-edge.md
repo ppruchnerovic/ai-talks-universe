@@ -4,7 +4,7 @@ title: "Relational Data at the Edge"
 slug: relational-data-at-the-edge
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZtKoNkZk2Bo
 url: https://www.youtube.com/watch?v=ZtKoNkZk2Bo
 youtube_url: https://www.youtube.com/watch?v=ZtKoNkZk2Bo
 tags: ["Software Architecture", "DevOps", "Artificial Intelligence", "Machine Learning", "Data Engineering", "Use Cases", "Project Management", "Database", "Edge", "Agile", "InfoQ", "QCon", "Transcript"]
+topics: []
 transcript: false
 ---
 

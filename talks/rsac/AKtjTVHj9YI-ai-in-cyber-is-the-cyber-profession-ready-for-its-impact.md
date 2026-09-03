@@ -4,7 +4,7 @@ title: "AI in Cyber: Is the Cyber Profession Ready for Its Impact?"
 slug: ai-in-cyber-is-the-cyber-profession-ready-for-its-impact
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Clar Rosso"]
@@ -15,6 +15,7 @@ video_id: AKtjTVHj9YI
 url: https://www.youtube.com/watch?v=AKtjTVHj9YI
 youtube_url: https://www.youtube.com/watch?v=AKtjTVHj9YI
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

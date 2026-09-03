@@ -4,7 +4,7 @@ title: "Java as an AI development Platform by Zoran Sevarac"
 slug: java-as-an-ai-development-platform-by-zoran-sevarac
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Zoran Sevarac"]
@@ -15,6 +15,7 @@ video_id: 5DKwBUwbsUc
 url: https://www.youtube.com/watch?v=5DKwBUwbsUc
 youtube_url: https://www.youtube.com/watch?v=5DKwBUwbsUc
 tags: []
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

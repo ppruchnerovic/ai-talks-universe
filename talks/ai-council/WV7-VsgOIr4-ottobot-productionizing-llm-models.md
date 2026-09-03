@@ -4,7 +4,7 @@ title: "OttoBot: Productionizing LLM Models"
 slug: ottobot-productionizing-llm-models
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: WV7-VsgOIr4
 url: https://www.youtube.com/watch?v=WV7-VsgOIr4
 youtube_url: https://www.youtube.com/watch?v=WV7-VsgOIr4
 tags: ["machine learning", "computer vision", "AI"]
+topics: []
 transcript: false
 ---
 

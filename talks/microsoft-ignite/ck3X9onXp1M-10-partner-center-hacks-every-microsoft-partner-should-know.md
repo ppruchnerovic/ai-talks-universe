@@ -4,7 +4,7 @@ title: "10 partner center hacks every Microsoft partner should know | ODSP1405"
 slug: 10-partner-center-hacks-every-microsoft-partner-should-know
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Michelle Elston", "Justin Slagle", "Matt Soseman"]
@@ -15,6 +15,7 @@ video_id: ck3X9onXp1M
 url: https://www.youtube.com/watch?v=ck3X9onXp1M
 youtube_url: https://www.youtube.com/watch?v=ck3X9onXp1M
 tags: ["10 partner center hacks every Microsoft partner should know | ODSP1405", "Education", "English (US)", "Justin Slagle", "Matt Soseman", "Michelle Elston", "Microsoft AI Cloud Partner Program", "ODSP1405", "ODSP1405_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

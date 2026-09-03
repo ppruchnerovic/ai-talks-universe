@@ -4,7 +4,7 @@ title: "The future of trust in LLMs"
 slug: the-future-of-trust-in-llms
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: KoevVX_zCkU
 url: https://www.youtube.com/watch?v=KoevVX_zCkU
 youtube_url: https://www.youtube.com/watch?v=KoevVX_zCkU
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

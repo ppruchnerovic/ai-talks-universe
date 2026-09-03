@@ -4,7 +4,7 @@ title: "Klaviyo's Journey to Robust Model Serving with Ray Serve | Ray Summit 20
 slug: klaviyo-s-journey-to-robust-model-serving-with-ray-serve
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9vcMfdQC_p4
 url: https://www.youtube.com/watch?v=9vcMfdQC_p4
 youtube_url: https://www.youtube.com/watch?v=9vcMfdQC_p4
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

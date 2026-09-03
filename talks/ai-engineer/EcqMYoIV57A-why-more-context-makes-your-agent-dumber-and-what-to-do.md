@@ -4,7 +4,7 @@ title: "Why More Context Makes Your Agent Dumber and What to Do About It — Nup
 slug: why-more-context-makes-your-agent-dumber-and-what-to-do
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nupur Sharma"]
@@ -15,6 +15,7 @@ video_id: EcqMYoIV57A
 url: https://www.youtube.com/watch?v=EcqMYoIV57A
 youtube_url: https://www.youtube.com/watch?v=EcqMYoIV57A
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Sponsored by: EY | Unlocking Value Through AI at Takeda Pharmaceuticals"
 slug: sponsored-by-ey-unlocking-value-through-ai-at-takeda
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: iESWCPaLYRc
 url: https://www.youtube.com/watch?v=iESWCPaLYRc
 youtube_url: https://www.youtube.com/watch?v=iESWCPaLYRc
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

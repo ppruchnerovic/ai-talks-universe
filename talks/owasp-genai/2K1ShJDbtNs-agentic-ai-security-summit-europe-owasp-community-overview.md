@@ -4,7 +4,7 @@ title: "Agentic AI Security Summit, Europe: OWASP Community Overview"
 slug: agentic-ai-security-summit-europe-owasp-community-overview
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2K1ShJDbtNs
 url: https://www.youtube.com/watch?v=2K1ShJDbtNs
 youtube_url: https://www.youtube.com/watch?v=2K1ShJDbtNs
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

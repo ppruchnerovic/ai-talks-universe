@@ -4,7 +4,7 @@ title: "The Future of HR Lies in AND – Not in OR"
 slug: the-future-of-hr-lies-in-and-not-in-or
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: vDaBew1khj4
 url: https://www.youtube.com/watch?v=vDaBew1khj4
 youtube_url: https://www.youtube.com/watch?v=vDaBew1khj4
 tags: ["future", "hr", "people", "culture", "talent acquisition", "leadership", "human resources", "recruiting"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

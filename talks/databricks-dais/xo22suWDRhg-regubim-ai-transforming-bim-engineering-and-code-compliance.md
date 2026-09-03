@@ -4,7 +4,7 @@ title: "ReguBIM AI – Transforming BIM, Engineering, and Code Compliance with G
 slug: regubim-ai-transforming-bim-engineering-and-code-compliance
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xo22suWDRhg
 url: https://www.youtube.com/watch?v=xo22suWDRhg
 youtube_url: https://www.youtube.com/watch?v=xo22suWDRhg
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "A Taxonomy for Next-gen Reasoning — Nathan Lambert, Allen Institute (A
 slug: a-taxonomy-for-next-gen-reasoning-nathan-lambert-allen
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nathan Lambert"]
@@ -15,6 +15,7 @@ video_id: jQcsVk0KWiQ
 url: https://www.youtube.com/watch?v=jQcsVk0KWiQ
 youtube_url: https://www.youtube.com/watch?v=jQcsVk0KWiQ
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

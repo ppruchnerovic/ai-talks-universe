@@ -4,7 +4,7 @@ title: "Agentic productivity in Microsoft 365 apps and Copilot Chat | BRK277"
 slug: agentic-productivity-in-microsoft-365-apps-and-copilot-chat
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: VzKARba0d2g
 url: https://www.youtube.com/watch?v=VzKARba0d2g
 youtube_url: https://www.youtube.com/watch?v=VzKARba0d2g
 tags: ["Agentic productivity in Microsoft 365 apps and Copilot Chat | BRK277", "BRK277", "BRK277_v1", "Copilot and agents at work", "English (US)", "Technical", "Trevor O'Brien", "Vani Soff", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

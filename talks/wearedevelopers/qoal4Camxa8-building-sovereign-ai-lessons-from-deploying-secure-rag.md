@@ -4,7 +4,7 @@ title: "Building Sovereign AI: Lessons from Deploying Secure RAG Systems using C
 slug: building-sovereign-ai-lessons-from-deploying-secure-rag
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Isha Salania"]
@@ -15,6 +15,7 @@ video_id: qoal4Camxa8
 url: https://www.youtube.com/watch?v=qoal4Camxa8
 youtube_url: https://www.youtube.com/watch?v=qoal4Camxa8
 tags: ["Security & Privacy", "AI Standards", "Security", "Software Architecture"]
+topics: ["Governance, ethics & regulation", "RAG, retrieval & knowledge", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

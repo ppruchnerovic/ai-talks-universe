@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Scale modernization with agentic AI featuring Thoms
 slug: aws-re-invent-2025-scale-modernization-with-agentic-ai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: L5oam0A1CDw
 url: https://www.youtube.com/watch?v=L5oam0A1CDw
 youtube_url: https://www.youtube.com/watch?v=L5oam0A1CDw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Drive Revenue Growth with Agentforce Revenue Management | Dreamforce 202
 slug: drive-revenue-growth-with-agentforce-revenue-management
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Etfqrd35OVI
 url: https://www.youtube.com/watch?v=Etfqrd35OVI
 youtube_url: https://www.youtube.com/watch?v=Etfqrd35OVI
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

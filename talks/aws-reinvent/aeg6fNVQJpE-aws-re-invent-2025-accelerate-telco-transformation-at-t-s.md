@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Accelerate Telco Transformation: AT&T's AI-Powered 
 slug: aws-re-invent-2025-accelerate-telco-transformation-at-t-s
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: aeg6fNVQJpE
 url: https://www.youtube.com/watch?v=aeg6fNVQJpE
 youtube_url: https://www.youtube.com/watch?v=aeg6fNVQJpE
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

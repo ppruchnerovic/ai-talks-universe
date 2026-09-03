@@ -4,7 +4,7 @@ title: "Anna Skelton - Analyzing the Effects of Deepfakes on Market Manipulation
 slug: anna-skelton-analyzing-the-effects-of-deepfakes-on-market
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Anna Skelton"]
@@ -15,6 +15,7 @@ video_id: BlS-inTxnp8
 url: https://www.youtube.com/watch?v=BlS-inTxnp8
 youtube_url: https://www.youtube.com/watch?v=BlS-inTxnp8
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Microsoft Build 2026 Day 2 LIVE | GitHub Copilot, VS Code, Foundry & Com
 slug: microsoft-build-2026-day-2-live-github-copilot-vs-code
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: nlGqajJEsWs
 url: https://www.youtube.com/watch?v=nlGqajJEsWs
 youtube_url: https://www.youtube.com/watch?v=nlGqajJEsWs
 tags: ["Azure", "Microsoft", "Tech", "Technology", "Dev", "Development", "Cloud Computing", "GitHub", "VS Code", "AI", "Microsoft AI", "Visual Studio", "Windows", "Community"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

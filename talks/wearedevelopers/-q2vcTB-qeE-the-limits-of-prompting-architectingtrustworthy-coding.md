@@ -4,7 +4,7 @@ title: "The Limits of Prompting: ArchitectingTrustworthy Coding Agents - Nimrod 
 slug: the-limits-of-prompting-architectingtrustworthy-coding
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Nimrod Kor"]
@@ -15,6 +15,7 @@ video_id: -q2vcTB-qeE
 url: https://www.youtube.com/watch?v=-q2vcTB-qeE
 youtube_url: https://www.youtube.com/watch?v=-q2vcTB-qeE
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: false
 ---
 

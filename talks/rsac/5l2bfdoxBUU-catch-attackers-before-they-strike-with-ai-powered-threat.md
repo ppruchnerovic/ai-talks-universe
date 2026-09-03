@@ -4,7 +4,7 @@ title: "Catch Attackers Before They Strike with AI-powered Threat Intelligence"
 slug: catch-attackers-before-they-strike-with-ai-powered-threat
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5l2bfdoxBUU
 url: https://www.youtube.com/watch?v=5l2bfdoxBUU
 youtube_url: https://www.youtube.com/watch?v=5l2bfdoxBUU
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

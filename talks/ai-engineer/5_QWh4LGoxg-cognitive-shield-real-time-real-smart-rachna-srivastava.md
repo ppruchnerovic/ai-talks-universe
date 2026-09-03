@@ -4,7 +4,7 @@ title: "Cognitive Shield Real Time Real Smart - Rachna Srivastava"
 slug: cognitive-shield-real-time-real-smart-rachna-srivastava
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Rachna Srivastava"]
@@ -15,6 +15,7 @@ video_id: 5_QWh4LGoxg
 url: https://www.youtube.com/watch?v=5_QWh4LGoxg
 youtube_url: https://www.youtube.com/watch?v=5_QWh4LGoxg
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

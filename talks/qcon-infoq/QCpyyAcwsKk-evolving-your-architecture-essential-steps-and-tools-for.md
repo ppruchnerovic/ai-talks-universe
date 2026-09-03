@@ -4,7 +4,7 @@ title: "Evolving Your Architecture: Essential Steps and Tools for Modernization"
 slug: evolving-your-architecture-essential-steps-and-tools-for
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: QCpyyAcwsKk
 url: https://www.youtube.com/watch?v=QCpyyAcwsKk
 youtube_url: https://www.youtube.com/watch?v=QCpyyAcwsKk
 tags: ["Software Architecture", "Artificial Intelligence", "InfoQ", "InfoQ Dev Summit", "Transcript"]
+topics: []
 transcript: false
 ---
 

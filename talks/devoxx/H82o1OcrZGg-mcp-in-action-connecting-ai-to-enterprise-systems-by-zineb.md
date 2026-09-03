@@ -4,7 +4,7 @@ title: "MCP in Action: Connecting AI to Enterprise Systems by Zineb BENDHIBA"
 slug: mcp-in-action-connecting-ai-to-enterprise-systems-by-zineb
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: H82o1OcrZGg
 url: https://www.youtube.com/watch?v=H82o1OcrZGg
 youtube_url: https://www.youtube.com/watch?v=H82o1OcrZGg
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

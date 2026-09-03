@@ -4,7 +4,7 @@ title: "IBM's Arvind Krishna on the Future of AI and Quantum Computing | SXSW LI
 slug: ibm-s-arvind-krishna-on-the-future-of-ai-and-quantum
 conference: sxsw
 conference_name: "SXSW"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "SXSW 2025 keynotes & featured"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: wGNuTdIQ-nk
 url: https://www.youtube.com/watch?v=wGNuTdIQ-nk
 youtube_url: https://www.youtube.com/watch?v=wGNuTdIQ-nk
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - What Anthropic Learned Building AI Agents in 2025 (
 slug: aws-re-invent-2025-what-anthropic-learned-building-ai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: TledrLrVUQI
 url: https://www.youtube.com/watch?v=TledrLrVUQI
 youtube_url: https://www.youtube.com/watch?v=TledrLrVUQI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Power Apps: Reimagine the human-agent collaboration | BRK323"
 slug: power-apps-reimagine-the-human-agent-collaboration-brk323
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Miti Joshi", "Evan Lew", "Claudio Romano"]
@@ -15,6 +15,7 @@ video_id: matmvydKkmM
 url: https://www.youtube.com/watch?v=matmvydKkmM
 youtube_url: https://www.youtube.com/watch?v=matmvydKkmM
 tags: ["BRK323", "English (US)", "Innovate with low-code AI and agents", "Power Apps: Reimagine the human-agent collaboration | BRK323", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

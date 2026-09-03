@@ -4,7 +4,7 @@ title: "From Cypher to Conversation: MCP at WestJet - Anton Lysov, WestJet"
 slug: from-cypher-to-conversation-mcp-at-westjet-anton-lysov
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Anton Lysov"]
@@ -15,6 +15,7 @@ video_id: l8m0YpNf4XI
 url: https://www.youtube.com/watch?v=l8m0YpNf4XI
 youtube_url: https://www.youtube.com/watch?v=l8m0YpNf4XI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

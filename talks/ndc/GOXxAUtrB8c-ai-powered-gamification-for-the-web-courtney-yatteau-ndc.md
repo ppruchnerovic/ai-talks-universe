@@ -4,7 +4,7 @@ title: "AI-Powered Gamification for the Web - Courtney Yatteau - NDC Copenhagen 
 slug: ai-powered-gamification-for-the-web-courtney-yatteau-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Courtney Yatteau"]
@@ -15,6 +15,7 @@ video_id: GOXxAUtrB8c
 url: https://www.youtube.com/watch?v=GOXxAUtrB8c
 youtube_url: https://www.youtube.com/watch?v=GOXxAUtrB8c
 tags: ["Courtney Yatteau", "Web", "AI", "Gaming", "JavaScript", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

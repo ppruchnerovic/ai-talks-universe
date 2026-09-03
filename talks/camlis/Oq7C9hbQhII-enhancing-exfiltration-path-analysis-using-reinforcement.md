@@ -4,7 +4,7 @@ title: "Enhancing Exfiltration Path Analysis Using Reinforcement Learning"
 slug: enhancing-exfiltration-path-analysis-using-reinforcement
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: Oq7C9hbQhII
 url: https://www.youtube.com/watch?v=Oq7C9hbQhII
 youtube_url: https://www.youtube.com/watch?v=Oq7C9hbQhII
 tags: []
+topics: ["Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

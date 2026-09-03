@@ -4,7 +4,7 @@ title: "Overview of managed solutions and secure ops in Power Platform | PBRK307
 slug: overview-of-managed-solutions-and-secure-ops-in-power
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ryan Jones"]
@@ -15,6 +15,7 @@ video_id: 3lIrMl2Y8f0
 url: https://www.youtube.com/watch?v=3lIrMl2Y8f0
 youtube_url: https://www.youtube.com/watch?v=3lIrMl2Y8f0
 tags: ["382c9742-8880-4812-a1c0-96c106943e5a_Segment", "English (US)", "Innovate with low-code AI and agents", "Innovate with low-code AI and agents:Copilot Studio", "Innovate with low-code AI and agents:Dataverse", "Overview of managed solutions and secure ops in Power Platform | PBRK307", "PBRK307", "Partner Business", "Ryan Jones", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

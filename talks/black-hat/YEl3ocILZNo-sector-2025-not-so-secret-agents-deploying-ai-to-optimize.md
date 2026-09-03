@@ -4,7 +4,7 @@ title: "SecTor 2025 | Not-So-Secret Agents: Deploying AI to Optimize Security Op
 slug: sector-2025-not-so-secret-agents-deploying-ai-to-optimize
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YEl3ocILZNo
 url: https://www.youtube.com/watch?v=YEl3ocILZNo
 youtube_url: https://www.youtube.com/watch?v=YEl3ocILZNo
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

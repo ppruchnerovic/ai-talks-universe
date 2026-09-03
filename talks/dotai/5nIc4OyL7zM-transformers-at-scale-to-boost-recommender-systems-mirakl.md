@@ -4,7 +4,7 @@ title: "Transformers at scale to boost recommender systems - Mirakl at dotAI Tec
 slug: transformers-at-scale-to-boost-recommender-systems-mirakl
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5nIc4OyL7zM
 url: https://www.youtube.com/watch?v=5nIc4OyL7zM
 youtube_url: https://www.youtube.com/watch?v=5nIc4OyL7zM
 tags: []
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Why Is ML on Kubernetes Hard? Defining How ML and Software Diverge | Run
 slug: why-is-ml-on-kubernetes-hard-defining-how-ml-and-software
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Donny Greenberg", "Paul Yang"]
@@ -15,6 +15,7 @@ video_id: 7BC1JKM4ePA
 url: https://www.youtube.com/watch?v=7BC1JKM4ePA
 youtube_url: https://www.youtube.com/watch?v=7BC1JKM4ePA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

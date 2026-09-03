@@ -4,7 +4,7 @@ title: "The State of Venture Capital in Cybersecurity"
 slug: the-state-of-venture-capital-in-cybersecurity
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: YUttAWwSxT4
 url: https://www.youtube.com/watch?v=YUttAWwSxT4
 youtube_url: https://www.youtube.com/watch?v=YUttAWwSxT4
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

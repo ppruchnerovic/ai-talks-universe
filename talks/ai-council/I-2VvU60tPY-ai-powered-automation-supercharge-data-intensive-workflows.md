@@ -4,7 +4,7 @@ title: "AI-Powered Automation: Supercharge Data Intensive Workflows with Intelli
 slug: ai-powered-automation-supercharge-data-intensive-workflows
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Skip Everling"]
@@ -15,6 +15,7 @@ video_id: I-2VvU60tPY
 url: https://www.youtube.com/watch?v=I-2VvU60tPY
 youtube_url: https://www.youtube.com/watch?v=I-2VvU60tPY
 tags: ["document processing", "AI automation", "workflow automation", "ChatGPT", "artificial intelligence", "machine learning", "productivity", "intelligent agents", "business automation", "PDFs", "contracts", "compliance reports", "unstructured data", "Python tutorial", "optical character recognition", "OCR", "document understanding", "natural language processing", "information extraction", "document classification", "automated workflows", "intelligent document processing"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

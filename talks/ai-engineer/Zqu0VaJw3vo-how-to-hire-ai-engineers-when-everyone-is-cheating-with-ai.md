@@ -4,7 +4,7 @@ title: "How to Hire AI Engineers when EVERYONE is cheating with AI — Beth Glen
 slug: how-to-hire-ai-engineers-when-everyone-is-cheating-with-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Beth Glenfield"]
@@ -15,6 +15,7 @@ video_id: Zqu0VaJw3vo
 url: https://www.youtube.com/watch?v=Zqu0VaJw3vo
 youtube_url: https://www.youtube.com/watch?v=Zqu0VaJw3vo
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Securing AI Assistants: Strategies and Practices for Protecting Data"
 slug: securing-ai-assistants-strategies-and-practices-for
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Andra Lezza"]
@@ -15,6 +15,7 @@ video_id: iq-securing-ai-assistants
 url: https://www.infoq.com/presentations/securing-ai-assistants/
 youtube_url: null
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

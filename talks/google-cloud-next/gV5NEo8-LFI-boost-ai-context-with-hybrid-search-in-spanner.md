@@ -4,7 +4,7 @@ title: "Boost AI context with hybrid search in Spanner"
 slug: boost-ai-context-with-hybrid-search-in-spanner
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: gV5NEo8-LFI
 url: https://www.youtube.com/watch?v=gV5NEo8-LFI
 youtube_url: https://www.youtube.com/watch?v=gV5NEo8-LFI
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Manos Koukoumidis & Stefan Webb: VibeML: Build your AI 
 slug: ai-dev-26-x-sf-manos-koukoumidis-stefan-webb-vibeml-build
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: MlVuNCP9uxs
 url: https://www.youtube.com/watch?v=MlVuNCP9uxs
 youtube_url: https://www.youtube.com/watch?v=MlVuNCP9uxs
 tags: []
+topics: []
 transcript: true
 ---
 

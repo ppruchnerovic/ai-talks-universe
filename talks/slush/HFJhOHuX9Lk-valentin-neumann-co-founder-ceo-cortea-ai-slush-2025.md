@@ -4,7 +4,7 @@ title: "Valentin Neumann, Co-founder & CEO, Cortea AI | Slush 2025"
 slug: valentin-neumann-co-founder-ceo-cortea-ai-slush-2025
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Valentin Neumann"]
@@ -15,6 +15,7 @@ video_id: HFJhOHuX9Lk
 url: https://www.youtube.com/watch?v=HFJhOHuX9Lk
 youtube_url: https://www.youtube.com/watch?v=HFJhOHuX9Lk
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

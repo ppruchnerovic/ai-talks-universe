@@ -4,7 +4,7 @@ title: "Nathen Harvey- AI as an Amplifier: State of AI assisted Software Develop
 slug: nathen-harvey-ai-as-an-amplifier-state-of-ai-assisted
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qUo3PKw2xuE
 url: https://www.youtube.com/watch?v=qUo3PKw2xuE
 youtube_url: https://www.youtube.com/watch?v=qUo3PKw2xuE
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

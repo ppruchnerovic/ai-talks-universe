@@ -4,7 +4,7 @@ title: "From Research Models to SLAs: Operationalizing TSFMs with Python [PyCon 
 slug: from-research-models-to-slas-operationalizing-tsfms-with
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Jeyashree Krishnan"]
@@ -15,6 +15,7 @@ video_id: QkBtqERDlpg
 url: https://www.youtube.com/watch?v=QkBtqERDlpg
 youtube_url: https://www.youtube.com/watch?v=QkBtqERDlpg
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

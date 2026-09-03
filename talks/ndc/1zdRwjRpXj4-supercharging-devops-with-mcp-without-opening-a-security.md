@@ -4,7 +4,7 @@ title: "Supercharging DevOps with MCP (Without Opening a Security Hole) - Alex S
 slug: supercharging-devops-with-mcp-without-opening-a-security
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Alex Shershebnev"]
@@ -15,6 +15,7 @@ video_id: 1zdRwjRpXj4
 url: https://www.youtube.com/watch?v=1zdRwjRpXj4
 youtube_url: https://www.youtube.com/watch?v=1zdRwjRpXj4
 tags: ["LLM", "Application Security", "DevOps", "SDLC", "Security Tooling", "Tools", "Security", "MCP", "API", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "UK", "England", "United Kingdom", "Alex Shershebnev", "CI/CD"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

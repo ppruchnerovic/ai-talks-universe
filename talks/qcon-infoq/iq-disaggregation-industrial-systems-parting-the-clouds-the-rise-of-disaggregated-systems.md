@@ -4,7 +4,7 @@ title: "Parting the Clouds: the Rise of Disaggregated Systems"
 slug: parting-the-clouds-the-rise-of-disaggregated-systems
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Murat Demirbas"]
@@ -15,6 +15,7 @@ video_id: iq-disaggregation-industrial-systems
 url: https://www.infoq.com/presentations/disaggregation-industrial-systems/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

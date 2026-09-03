@@ -4,7 +4,7 @@ title: "The Ops in MLOps"
 slug: the-ops-in-mlops
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: HYCwP8Myldg
 url: https://www.youtube.com/watch?v=HYCwP8Myldg
 youtube_url: https://www.youtube.com/watch?v=HYCwP8Myldg
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

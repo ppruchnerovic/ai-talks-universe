@@ -4,7 +4,7 @@ title: "Keynote-Martin O'Reilly - LLMs and AI agents demystified | Pydata London
 slug: keynote-martin-o-reilly-llms-and-ai-agents-demystified
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: -sJRhlfySWQ
 url: https://www.youtube.com/watch?v=-sJRhlfySWQ
 youtube_url: https://www.youtube.com/watch?v=-sJRhlfySWQ
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

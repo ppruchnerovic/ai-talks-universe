@@ -4,7 +4,7 @@ title: "Extreme DevOps Automation"
 slug: extreme-devops-automation
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Sérgio Amorim"]
@@ -15,6 +15,7 @@ video_id: iq-revolut-devops-automation
 url: https://www.infoq.com/presentations/revolut-devops-automation/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

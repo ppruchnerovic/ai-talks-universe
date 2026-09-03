@@ -4,7 +4,7 @@ title: "Innovation Session: Scale Smarter: Infrastructure for the Agentic Era | 
 slug: innovation-session-scale-smarter-infrastructure-for-the
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Nidhi Chappell", "Annie Pearl", "Jeremy Winter"]
@@ -15,6 +15,7 @@ video_id: dxa_juNDoS4
 url: https://www.youtube.com/watch?v=dxa_juNDoS4
 youtube_url: https://www.youtube.com/watch?v=dxa_juNDoS4
 tags: ["Annie Pearl", "BRK1704", "BRK1704_v1", "English (US)", "Innovate with Azure AI apps and agents", "Innovation Session: Scale Smarter: Infrastructure for the Agentic Era | BRK1704", "Jeremy Winter", "Nidhi Chappell", "Signature pass", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Towards Building an Open Source AI Reference Stack for EU Sov... Madhav 
 slug: towards-building-an-open-source-ai-reference-stack-for-eu
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: WdcIOOyJaDI
 url: https://www.youtube.com/watch?v=WdcIOOyJaDI
 youtube_url: https://www.youtube.com/watch?v=WdcIOOyJaDI
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Panel: Evolution, Revolution, or Illusion? The Future of Python and Codi
 slug: panel-evolution-revolution-or-illusion-the-future-of-python
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Sebastian Neubauer"]
@@ -15,6 +15,7 @@ video_id: 20w88wM_gQk
 url: https://www.youtube.com/watch?v=20w88wM_gQk
 youtube_url: https://www.youtube.com/watch?v=20w88wM_gQk
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Coding assistants & agents", "Security, safety & red teaming"]
 transcript: true
 ---
 

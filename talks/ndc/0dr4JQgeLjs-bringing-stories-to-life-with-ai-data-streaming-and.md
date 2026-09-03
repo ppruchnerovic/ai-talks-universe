@@ -4,7 +4,7 @@ title: "Bringing stories to life with AI, data streaming and generative agents -
 slug: bringing-stories-to-life-with-ai-data-streaming-and
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Olena Kutsenko"]
@@ -15,6 +15,7 @@ video_id: 0dr4JQgeLjs
 url: https://www.youtube.com/watch?v=0dr4JQgeLjs
 youtube_url: https://www.youtube.com/watch?v=0dr4JQgeLjs
 tags: ["AI", "Architecture", "Database", "Fun", "Gaming", "RAG", "JavaScript", "NDC", "Conferences", "2026", "Live", "London", "UK", "England", "United Kingdom", "Olena Kutsenko"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

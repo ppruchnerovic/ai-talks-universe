@@ -4,7 +4,7 @@ title: "Large-scale deep learning training and tuning with Ray at Uber"
 slug: large-scale-deep-learning-training-and-tuning-with-ray-at
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: gMT_ONmI9RM
 url: https://www.youtube.com/watch?v=gMT_ONmI9RM
 youtube_url: https://www.youtube.com/watch?v=gMT_ONmI9RM
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

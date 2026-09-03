@@ -4,7 +4,7 @@ title: "Vibe debugging with GitHub Copilot and Sentry | ODFP957"
 slug: vibe-debugging-with-github-copilot-and-sentry-odfp957
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: sxCUyIg6GXk
 url: https://www.youtube.com/watch?v=sxCUyIg6GXk
 youtube_url: https://www.youtube.com/watch?v=sxCUyIg6GXk
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

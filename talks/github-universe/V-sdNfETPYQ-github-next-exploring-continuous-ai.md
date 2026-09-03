@@ -4,7 +4,7 @@ title: "GitHub Next | Exploring Continuous AI"
 slug: github-next-exploring-continuous-ai
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: V-sdNfETPYQ
 url: https://www.youtube.com/watch?v=V-sdNfETPYQ
 youtube_url: https://www.youtube.com/watch?v=V-sdNfETPYQ
 tags: []
+topics: []
 transcript: false
 ---
 

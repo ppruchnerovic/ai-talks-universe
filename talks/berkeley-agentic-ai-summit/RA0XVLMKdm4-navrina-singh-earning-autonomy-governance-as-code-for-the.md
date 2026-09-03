@@ -4,7 +4,7 @@ title: "Navrina Singh - Earning Autonomy: Governance as Code for the Agentic Ent
 slug: navrina-singh-earning-autonomy-governance-as-code-for-the
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Navrina Singh"]
@@ -15,6 +15,7 @@ video_id: RA0XVLMKdm4
 url: https://www.youtube.com/watch?v=RA0XVLMKdm4
 youtube_url: https://www.youtube.com/watch?v=RA0XVLMKdm4
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

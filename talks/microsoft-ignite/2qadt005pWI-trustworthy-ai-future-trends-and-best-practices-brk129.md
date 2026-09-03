@@ -4,7 +4,7 @@ title: "Trustworthy AI: Future trends and best practices | BRK129"
 slug: trustworthy-ai-future-trends-and-best-practices-brk129
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Sarah Bird", "Sumit Bhattacharyya"]
@@ -15,6 +15,7 @@ video_id: 2qadt005pWI
 url: https://www.youtube.com/watch?v=2qadt005pWI
 youtube_url: https://www.youtube.com/watch?v=2qadt005pWI
 tags: ["AI", "AI Governance", "AI Security", "AI-Curated", "Anna Maria Brunnhofer-Pedemonte", "BRK129", "Breakout", "ContentFilters", "English (US)", "Evaluation", "Foundational (100)", "Responsible AI", "Sarah Bird", "Sumit Bhattacharyya", "Technical", "Trustworthy AI: Future trends and best practices | BRK129", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

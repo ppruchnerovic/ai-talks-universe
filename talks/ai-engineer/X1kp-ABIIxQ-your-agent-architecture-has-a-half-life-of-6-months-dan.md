@@ -4,7 +4,7 @@ title: "Your agent architecture has a half-life of 6 months — Dan Farrelly, CT
 slug: your-agent-architecture-has-a-half-life-of-6-months-dan
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dan Farrelly"]
@@ -15,6 +15,7 @@ video_id: X1kp-ABIIxQ
 url: https://www.youtube.com/watch?v=X1kp-ABIIxQ
 youtube_url: https://www.youtube.com/watch?v=X1kp-ABIIxQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

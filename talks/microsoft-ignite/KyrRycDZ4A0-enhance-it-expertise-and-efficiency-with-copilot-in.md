@@ -4,7 +4,7 @@ title: "Enhance IT expertise and efficiency with Copilot in Microsoft Intune | B
 slug: enhance-it-expertise-and-efficiency-with-copilot-in
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Carlos Brito", "Amit Ghodke", "Aaron Hamilton", "Archana Devi Sunder Rajan"]
@@ -15,6 +15,7 @@ video_id: KyrRycDZ4A0
 url: https://www.youtube.com/watch?v=KyrRycDZ4A0
 youtube_url: https://www.youtube.com/watch?v=KyrRycDZ4A0
 tags: ["Aaron Hamilton", "Advanced (300)", "Amit Ghodke", "Archana Devi Sunder Rajan", "BRK320", "Breakout", "Carlos Brito", "Copilot", "Data", "English (US)", "Enhance IT expertise and efficiency with Copilot in Microsoft Intune | BRK320", "GenerativeAI", "Microsoft Intune", "Security", "Security-Curated", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Matthias Lubken - Piece of PI – Embedding The OpenClaw Coding Agent In
 slug: matthias-lubken-piece-of-pi-embedding-the-openclaw-coding
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Matthias Lubken"]
@@ -15,6 +15,7 @@ video_id: Ex1Zu0qel8M
 url: https://www.youtube.com/watch?v=Ex1Zu0qel8M
 youtube_url: https://www.youtube.com/watch?v=Ex1Zu0qel8M
 tags: ["AI DevCon 2026", "AI agents", "AI workflow automation", "AI workflows", "OpenClaw", "OpenClaw magic", "agentic systems", "ainativedev", "business process AI", "business process automation", "code automation", "dynamic solutions", "how to integrate AI agents", "pi.dev", "pi.dev coding agent"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

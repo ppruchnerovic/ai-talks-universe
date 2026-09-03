@@ -4,7 +4,7 @@ title: "🛰️➡️🧑‍💻: Streamlining Satellite Data for Analysis-Ready
 slug: streamlining-satellite-data-for-analysis-ready-outputs
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Vinayak Nair"]
@@ -15,6 +15,7 @@ video_id: MtC8SDWeyC8
 url: https://www.youtube.com/watch?v=MtC8SDWeyC8
 youtube_url: https://www.youtube.com/watch?v=MtC8SDWeyC8
 tags: ["AWS", "Anyscale", "Conference", "Prefect", "PyConDE", "PyData", "PyData Berlin", "Python", "Ray", "STAC", "Tech Talk", "cloud computing", "data pipeline", "distributed processing", "geospatial analytics", "infrastructure monitoring", "remote sensing", "satellite imagery"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Understanding is the new bottleneck — Geoffrey Litt, Notion"
 slug: understanding-is-the-new-bottleneck-geoffrey-litt-notion
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Geoffrey Litt"]
@@ -15,6 +15,7 @@ video_id: WkBPX-oDMnA
 url: https://www.youtube.com/watch?v=WkBPX-oDMnA
 youtube_url: https://www.youtube.com/watch?v=WkBPX-oDMnA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

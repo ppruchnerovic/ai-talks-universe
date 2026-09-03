@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - The Future is Human: Intentional Innovation in the 
 slug: aws-re-invent-2025-the-future-is-human-intentional
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Eheg5cKfFnE
 url: https://www.youtube.com/watch?v=Eheg5cKfFnE
 youtube_url: https://www.youtube.com/watch?v=Eheg5cKfFnE
 tags: []
+topics: []
 transcript: false
 ---
 

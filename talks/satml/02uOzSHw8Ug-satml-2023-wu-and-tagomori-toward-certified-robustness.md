@@ -4,7 +4,7 @@ title: "SaTML 2023 - Wu and Tagomori - Toward Certified Robustness Against Real-
 slug: satml-2023-wu-and-tagomori-toward-certified-robustness
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 02uOzSHw8Ug
 url: https://www.youtube.com/watch?v=02uOzSHw8Ug
 youtube_url: https://www.youtube.com/watch?v=02uOzSHw8Ug
 tags: []
+topics: []
 transcript: false
 ---
 

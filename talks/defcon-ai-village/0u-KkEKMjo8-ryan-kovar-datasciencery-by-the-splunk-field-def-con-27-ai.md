@@ -4,7 +4,7 @@ title: "Ryan Kovar - Datasciencery by the Splunk Field - DEF CON 27 AI Village"
 slug: ryan-kovar-datasciencery-by-the-splunk-field-def-con-27-ai
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Ryan Kovar"]
@@ -15,6 +15,7 @@ video_id: 0u-KkEKMjo8
 url: https://www.youtube.com/watch?v=0u-KkEKMjo8
 youtube_url: https://www.youtube.com/watch?v=0u-KkEKMjo8
 tags: []
+topics: []
 transcript: false
 ---
 

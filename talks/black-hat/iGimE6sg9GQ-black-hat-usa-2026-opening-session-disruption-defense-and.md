@@ -4,7 +4,7 @@ title: "Black Hat USA 2026 | Opening Session: Disruption, Defense and Operationa
 slug: black-hat-usa-2026-opening-session-disruption-defense-and
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: iGimE6sg9GQ
 url: https://www.youtube.com/watch?v=iGimE6sg9GQ
 youtube_url: https://www.youtube.com/watch?v=iGimE6sg9GQ
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

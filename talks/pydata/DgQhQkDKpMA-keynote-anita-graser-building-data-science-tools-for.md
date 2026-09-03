@@ -4,7 +4,7 @@ title: "KEYNOTE Anita Graser - Building Data Science Tools for Sustainable Trans
 slug: keynote-anita-graser-building-data-science-tools-for
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: DgQhQkDKpMA
 url: https://www.youtube.com/watch?v=DgQhQkDKpMA
 youtube_url: https://www.youtube.com/watch?v=DgQhQkDKpMA
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

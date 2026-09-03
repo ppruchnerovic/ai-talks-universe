@@ -4,7 +4,7 @@ title: "Building AI Workflows: From Local Experiments To Serving Users - Oleg Š
 slug: building-ai-workflows-from-local-experiments-to-serving
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Q_kTKGz4k5A
 url: https://www.youtube.com/watch?v=Q_kTKGz4k5A
 youtube_url: https://www.youtube.com/watch?v=Q_kTKGz4k5A
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

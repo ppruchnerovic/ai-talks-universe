@@ -4,7 +4,7 @@ title: "Put an Agent Inside Your App in 10 Minutes or Less with the GitHub Copil
 slug: put-an-agent-inside-your-app-in-10-minutes-or-less-with-the
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Daniel Ward"]
@@ -15,6 +15,7 @@ video_id: RetgcgSVa58
 url: https://www.youtube.com/watch?v=RetgcgSVa58
 youtube_url: https://www.youtube.com/watch?v=RetgcgSVa58
 tags: ["JavaScript", "GenAI", "AI", ".NET", "C#", "GitHub", "NDC", "Conferences", "2026", "Live", "Fun", "Denmark", "Copenhagen", "Daniel Ward"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "From Natural Language To Python: Advanced AI Data Analysis In Snowflake"
 slug: from-natural-language-to-python-advanced-ai-data-analysis
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8tBZ7ChYkvo
 url: https://www.youtube.com/watch?v=8tBZ7ChYkvo
 youtube_url: https://www.youtube.com/watch?v=8tBZ7ChYkvo
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

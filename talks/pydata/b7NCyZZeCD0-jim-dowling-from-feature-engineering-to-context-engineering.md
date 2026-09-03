@@ -4,7 +4,7 @@ title: "Jim Dowling-From Feature Engineering to Context Engineering for Agents-P
 slug: jim-dowling-from-feature-engineering-to-context-engineering
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: b7NCyZZeCD0
 url: https://www.youtube.com/watch?v=b7NCyZZeCD0
 youtube_url: https://www.youtube.com/watch?v=b7NCyZZeCD0
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps", "Prompting & context engineering"]
 transcript: false
 ---
 

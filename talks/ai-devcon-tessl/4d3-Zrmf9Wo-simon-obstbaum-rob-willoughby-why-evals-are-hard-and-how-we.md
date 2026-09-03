@@ -4,7 +4,7 @@ title: "Simon Obstbaum & Rob Willoughby - Why evals are hard and how we're solvi
 slug: simon-obstbaum-rob-willoughby-why-evals-are-hard-and-how-we
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Simon Obstbaum", "Rob Willoughby"]
@@ -15,6 +15,7 @@ video_id: 4d3-Zrmf9Wo
 url: https://www.youtube.com/watch?v=4d3-Zrmf9Wo
 youtube_url: https://www.youtube.com/watch?v=4d3-Zrmf9Wo
 tags: ["AI DevCon London 2026", "AI agents", "Claude Code", "Codex", "Cursor", "Stanford", "Tessl", "Tessl eval infrastructure", "agent behavior", "ainativedev", "evals", "how to evaluate AI agents", "output evals", "trajectory evals", "why evals are hard"]
+topics: ["Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

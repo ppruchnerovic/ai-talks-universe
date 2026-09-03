@@ -4,7 +4,7 @@ title: "Iryna Kondrashchenko & Oleh Kostromin - Is Prompt Engineering Dead? | Py
 slug: iryna-kondrashchenko-oleh-kostromin-is-prompt-engineering
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Iryna Kondrashchenko", "Oleh Kostromin"]
@@ -15,6 +15,7 @@ video_id: IvFlpJ7OurY
 url: https://www.youtube.com/watch?v=IvFlpJ7OurY
 youtube_url: https://www.youtube.com/watch?v=IvFlpJ7OurY
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Peter Stone - Outplaying Elite Table Tennis Players with an Autonomous R
 slug: peter-stone-outplaying-elite-table-tennis-players-with-an
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Peter Stone"]
@@ -15,6 +15,7 @@ video_id: G9E2IyiRZ-o
 url: https://www.youtube.com/watch?v=G9E2IyiRZ-o
 youtube_url: https://www.youtube.com/watch?v=G9E2IyiRZ-o
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

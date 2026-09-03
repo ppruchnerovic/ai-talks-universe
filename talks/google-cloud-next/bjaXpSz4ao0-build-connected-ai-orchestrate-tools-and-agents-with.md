@@ -4,7 +4,7 @@ title: "Build connected AI: Orchestrate tools and agents with registries and ADK
 slug: build-connected-ai-orchestrate-tools-and-agents-with
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Michael Vakoc", "Mak Ahmad", "Min Zu"]
@@ -15,6 +15,7 @@ video_id: bjaXpSz4ao0
 url: https://www.youtube.com/watch?v=bjaXpSz4ao0
 youtube_url: https://www.youtube.com/watch?v=bjaXpSz4ao0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

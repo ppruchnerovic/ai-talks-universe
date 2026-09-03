@@ -4,7 +4,7 @@ title: "Making Zero Trust Real: Top 10 Security Controls you can implement now |
 slug: making-zero-trust-real-top-10-security-controls-you-can
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ulf Larsson", "Mark Simos", "Murugiah Souppaya"]
@@ -15,6 +15,7 @@ video_id: 1RvvzpI1EyU
 url: https://www.youtube.com/watch?v=1RvvzpI1EyU
 youtube_url: https://www.youtube.com/watch?v=1RvvzpI1EyU
 tags: ["AI", "BRK328", "Breakout", "Data Security", "English (US)", "Intermediate (200)", "Making Zero Trust Real: Top 10 Security Controls you can implement now | BRK328", "Mark Simos", "Murugiah Souppaya", "Security", "Security-Curated", "Technical", "Ulf Larsson", "Version v4", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

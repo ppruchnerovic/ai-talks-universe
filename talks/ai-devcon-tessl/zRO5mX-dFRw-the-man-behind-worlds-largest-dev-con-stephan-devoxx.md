@@ -4,7 +4,7 @@ title: "The Man Behind World’s Largest Dev Con | Stephan & Devoxx"
 slug: the-man-behind-worlds-largest-dev-con-stephan-devoxx
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: zRO5mX-dFRw
 url: https://www.youtube.com/watch?v=zRO5mX-dFRw
 youtube_url: https://www.youtube.com/watch?v=zRO5mX-dFRw
 tags: ["ainativedev"]
+topics: []
 transcript: false
 ---
 

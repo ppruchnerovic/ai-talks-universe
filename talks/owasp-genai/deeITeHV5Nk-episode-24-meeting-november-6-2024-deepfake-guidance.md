@@ -4,7 +4,7 @@ title: "Episode 24: Meeting November 6 2024 Deepfake Guidance, Solutions Landsca
 slug: episode-24-meeting-november-6-2024-deepfake-guidance
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: deeITeHV5Nk
 url: https://www.youtube.com/watch?v=deeITeHV5Nk
 youtube_url: https://www.youtube.com/watch?v=deeITeHV5Nk
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

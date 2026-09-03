@@ -4,7 +4,7 @@ title: "Exploring Germany's Urban Geography with Census and OpenStreetMap Data [
 slug: exploring-germany-s-urban-geography-with-census-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Travis Hathaway"]
@@ -15,6 +15,7 @@ video_id: 1LEXE8H0BaE
 url: https://www.youtube.com/watch?v=1LEXE8H0BaE
 youtube_url: https://www.youtube.com/watch?v=1LEXE8H0BaE
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

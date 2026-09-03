@@ -4,7 +4,7 @@ title: "AI vs. AI: How to Reshape Defense Faster than Attackers Reshape Offense"
 slug: ai-vs-ai-how-to-reshape-defense-faster-than-attackers
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: X1bbj9EE9Gg
 url: https://www.youtube.com/watch?v=X1bbj9EE9Gg
 youtube_url: https://www.youtube.com/watch?v=X1bbj9EE9Gg
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

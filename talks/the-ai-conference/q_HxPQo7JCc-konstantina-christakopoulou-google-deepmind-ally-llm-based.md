@@ -4,7 +4,7 @@ title: "Konstantina Christakopoulou, Google DeepMind: ALLY: LLM-based Assistive 
 slug: konstantina-christakopoulou-google-deepmind-ally-llm-based
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: q_HxPQo7JCc
 url: https://www.youtube.com/watch?v=q_HxPQo7JCc
 youtube_url: https://www.youtube.com/watch?v=q_HxPQo7JCc
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The Agentic AI Engineer - Benedikt Sanftl, Mutagent"
 slug: the-agentic-ai-engineer-benedikt-sanftl-mutagent
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Benedikt Sanftl"]
@@ -15,6 +15,7 @@ video_id: pSto5YaNGUo
 url: https://www.youtube.com/watch?v=pSto5YaNGUo
 youtube_url: https://www.youtube.com/watch?v=pSto5YaNGUo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

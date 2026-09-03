@@ -4,7 +4,7 @@ title: "OWASP Project Rebrand, RSA Conference Highlights - GenAI Security Podcas
 slug: owasp-project-rebrand-rsa-conference-highlights-genai
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qnRnHDfaBZI
 url: https://www.youtube.com/watch?v=qnRnHDfaBZI
 youtube_url: https://www.youtube.com/watch?v=qnRnHDfaBZI
 tags: ["genai security", "podcast", "owasp", "project", "rebrand", "rsa conference", "rsac 2025", "generative ai", "ai"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

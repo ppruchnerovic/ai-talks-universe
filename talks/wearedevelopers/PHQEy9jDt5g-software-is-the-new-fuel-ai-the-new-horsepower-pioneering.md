@@ -4,7 +4,7 @@ title: "Software is the New Fuel, AI the New Horsepower - Pioneering New Paths a
 slug: software-is-the-new-fuel-ai-the-new-horsepower-pioneering
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: PHQEy9jDt5g
 url: https://www.youtube.com/watch?v=PHQEy9jDt5g
 youtube_url: https://www.youtube.com/watch?v=PHQEy9jDt5g
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: false
 ---
 

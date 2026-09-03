@@ -4,7 +4,7 @@ title: "Fine-tuning and distillation with Azure AI Foundry | BRK150"
 slug: fine-tuning-and-distillation-with-azure-ai-foundry-brk150
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: hw6-rrYtUy8
 url: https://www.youtube.com/watch?v=hw6-rrYtUy8
 youtube_url: https://www.youtube.com/watch?v=hw6-rrYtUy8
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The End of Data Governance as We Know It"
 slug: the-end-of-data-governance-as-we-know-it
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Kirit Basu"]
@@ -15,6 +15,7 @@ video_id: Msosvf98Naw
 url: https://www.youtube.com/watch?v=Msosvf98Naw
 youtube_url: https://www.youtube.com/watch?v=Msosvf98Naw
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

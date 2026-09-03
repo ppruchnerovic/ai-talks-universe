@@ -4,7 +4,7 @@ title: "Multi-agents in action with 3 AI agents, 3 frameworks, tools & models | 
 slug: multi-agents-in-action-with-3-ai-agents-3-frameworks-tools
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Vini Soto", "Jan Kalis"]
@@ -15,6 +15,7 @@ video_id: 27FNddH0g7o
 url: https://www.youtube.com/watch?v=27FNddH0g7o
 youtube_url: https://www.youtube.com/watch?v=27FNddH0g7o
 tags: ["DEM312", "Jan Kalis", "Multi-agents in action with 3 AI agents 3 frameworks tools & models | DEM312", "Vini Soto", "build", "build 2026", "d23cefd0-8854-4932-a055-1022d8c5aa15_M9Z7-DEM312-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

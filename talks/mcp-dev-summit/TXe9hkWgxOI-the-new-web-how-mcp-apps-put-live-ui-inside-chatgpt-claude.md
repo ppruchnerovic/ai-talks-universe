@@ -4,7 +4,7 @@ title: "The New Web: How MCP Apps Put Live UI Inside ChatGPT & Claude"
 slug: the-new-web-how-mcp-apps-put-live-ui-inside-chatgpt-claude
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: TXe9hkWgxOI
 url: https://www.youtube.com/watch?v=TXe9hkWgxOI
 youtube_url: https://www.youtube.com/watch?v=TXe9hkWgxOI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

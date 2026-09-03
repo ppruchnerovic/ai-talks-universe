@@ -4,7 +4,7 @@ title: "Communications transformed by Copilot | OD854"
 slug: communications-transformed-by-copilot-od854
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: DYzrTx_8H5o
 url: https://www.youtube.com/watch?v=DYzrTx_8H5o
 youtube_url: https://www.youtube.com/watch?v=DYzrTx_8H5o
 tags: ["Alexander Oddoz-mazet", "CYNTHIA BATZLI", "Communications transformed by Copilot | OD854", "English (US)", "Leon Wright", "Modern Work", "OD854", "Partner", "Pre-recorded", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

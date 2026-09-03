@@ -4,7 +4,7 @@ title: "[VDBUH2026] Brian Vermeer - Breaching LLM-Powered Apps: Overcoming Secur
 slug: vdbuh2026-brian-vermeer-breaching-llm-powered-apps
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Brian Vermeer"]
@@ -15,6 +15,7 @@ video_id: iU0ytnOo6Qw
 url: https://www.youtube.com/watch?v=iU0ytnOo6Qw
 youtube_url: https://www.youtube.com/watch?v=iU0ytnOo6Qw
 tags: []
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

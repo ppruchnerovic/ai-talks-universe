@@ -4,7 +4,7 @@ title: "Niels Rogge - State of Open Source AI Coding Models | DevCon Fall 2025"
 slug: niels-rogge-state-of-open-source-ai-coding-models-devcon
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Niels Rogge"]
@@ -15,6 +15,7 @@ video_id: eKYGLPdwgF8
 url: https://www.youtube.com/watch?v=eKYGLPdwgF8
 youtube_url: https://www.youtube.com/watch?v=eKYGLPdwgF8
 tags: ["ainativedev"]
+topics: ["Coding assistants & agents", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

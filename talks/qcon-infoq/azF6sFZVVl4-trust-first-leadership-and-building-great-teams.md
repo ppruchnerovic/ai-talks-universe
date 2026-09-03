@@ -4,7 +4,7 @@ title: "Trust-first Leadership and Building Great Teams"
 slug: trust-first-leadership-and-building-great-teams
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: azF6sFZVVl4
 url: https://www.youtube.com/watch?v=azF6sFZVVl4
 youtube_url: https://www.youtube.com/watch?v=azF6sFZVVl4
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

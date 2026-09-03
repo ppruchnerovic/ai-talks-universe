@@ -4,7 +4,7 @@ title: "CausaLens | AI and Connectivity | Darko Matovski"
 slug: causalens-ai-and-connectivity-darko-matovski
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Darko Matovski"]
@@ -15,6 +15,7 @@ video_id: WRWYZSqb2D4
 url: https://www.youtube.com/watch?v=WRWYZSqb2D4
 youtube_url: https://www.youtube.com/watch?v=WRWYZSqb2D4
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

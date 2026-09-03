@@ -4,7 +4,7 @@ title: "A First Person Identity System for Open Source - Martina Kolpondinos, We
 slug: a-first-person-identity-system-for-open-source-martina
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Martina Kolpondinos"]
@@ -15,6 +15,7 @@ video_id: R-mmEjTcBu4
 url: https://www.youtube.com/watch?v=R-mmEjTcBu4
 youtube_url: https://www.youtube.com/watch?v=R-mmEjTcBu4
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

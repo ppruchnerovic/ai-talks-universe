@@ -4,7 +4,7 @@ title: "Mirror, mirror: LLMs and the illusion of humanity - Jodie Burchell - NDC
 slug: mirror-mirror-llms-and-the-illusion-of-humanity-jodie
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Jodie Burchell"]
@@ -15,6 +15,7 @@ video_id: RSS1a8ngGRU
 url: https://www.youtube.com/watch?v=RSS1a8ngGRU
 youtube_url: https://www.youtube.com/watch?v=RSS1a8ngGRU
 tags: []
+topics: []
 transcript: false
 ---
 

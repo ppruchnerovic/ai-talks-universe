@@ -4,7 +4,7 @@ title: "Simplify End-To-End MLOps with PostgresML - Montana Low, PostgresML"
 slug: simplify-end-to-end-mlops-with-postgresml-montana-low
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Montana Low"]
@@ -15,6 +15,7 @@ video_id: kK3W2qpVa8E
 url: https://www.youtube.com/watch?v=kK3W2qpVa8E
 youtube_url: https://www.youtube.com/watch?v=kK3W2qpVa8E
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

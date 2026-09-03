@@ -4,7 +4,7 @@ title: "Accelerating AI red teaming operations with the Python Risk Identificati
 slug: accelerating-ai-red-teaming-operations-with-the-python-risk
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Nina Chikanov"]
@@ -15,6 +15,7 @@ video_id: oAttV-5rFsI
 url: https://www.youtube.com/watch?v=oAttV-5rFsI
 youtube_url: https://www.youtube.com/watch?v=oAttV-5rFsI
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

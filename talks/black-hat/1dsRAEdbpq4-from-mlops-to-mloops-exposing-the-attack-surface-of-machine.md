@@ -4,7 +4,7 @@ title: "From MLOps to MLOops - Exposing the Attack Surface of Machine Learning P
 slug: from-mlops-to-mloops-exposing-the-attack-surface-of-machine
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1dsRAEdbpq4
 url: https://www.youtube.com/watch?v=1dsRAEdbpq4
 youtube_url: https://www.youtube.com/watch?v=1dsRAEdbpq4
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Security, safety & red teaming"]
 transcript: false
 ---
 

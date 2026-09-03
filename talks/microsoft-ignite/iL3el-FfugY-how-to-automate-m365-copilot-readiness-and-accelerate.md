@@ -4,7 +4,7 @@ title: "How to automate M365 copilot readiness and accelerate secure adoption | 
 slug: how-to-automate-m365-copilot-readiness-and-accelerate
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Matt Berg", "Dux Raymond Sy"]
@@ -15,6 +15,7 @@ video_id: iL3el-FfugY
 url: https://www.youtube.com/watch?v=iL3el-FfugY
 youtube_url: https://www.youtube.com/watch?v=iL3el-FfugY
 tags: ["AI", "Adoption", "Copilot for M365", "Data Security", "Data governance", "Dux Raymond Sy", "How to automate M365 copilot readiness and accelerate secure adoption | ODFP925", "Intermediate (200)", "Matt Berg", "Microsoft 365", "ODFP925", "Pre-recorded", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

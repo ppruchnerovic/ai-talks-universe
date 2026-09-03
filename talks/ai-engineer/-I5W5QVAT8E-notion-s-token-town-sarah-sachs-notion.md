@@ -4,7 +4,7 @@ title: "Notion's Token Town — Sarah Sachs, Notion"
 slug: notion-s-token-town-sarah-sachs-notion
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Notion's Token Town", "Sarah Sachs"]
@@ -15,6 +15,7 @@ video_id: -I5W5QVAT8E
 url: https://www.youtube.com/watch?v=-I5W5QVAT8E
 youtube_url: https://www.youtube.com/watch?v=-I5W5QVAT8E
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

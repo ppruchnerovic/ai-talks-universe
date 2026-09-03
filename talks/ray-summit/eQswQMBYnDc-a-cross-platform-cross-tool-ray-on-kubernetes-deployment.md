@@ -4,7 +4,7 @@ title: "A cross-platform, cross-tool Ray on Kubernetes deployment"
 slug: a-cross-platform-cross-tool-ray-on-kubernetes-deployment
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: eQswQMBYnDc
 url: https://www.youtube.com/watch?v=eQswQMBYnDc
 youtube_url: https://www.youtube.com/watch?v=eQswQMBYnDc
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

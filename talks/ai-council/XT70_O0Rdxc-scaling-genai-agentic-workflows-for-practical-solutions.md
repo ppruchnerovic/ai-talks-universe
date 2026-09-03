@@ -4,7 +4,7 @@ title: "Scaling GenAI & Agentic Workflows for Practical Solutions with Zerve"
 slug: scaling-genai-agentic-workflows-for-practical-solutions
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Dr. Greg Michaelson"]
@@ -15,6 +15,7 @@ video_id: XT70_O0Rdxc
 url: https://www.youtube.com/watch?v=XT70_O0Rdxc
 youtube_url: https://www.youtube.com/watch?v=XT70_O0Rdxc
 tags: ["generative AI", "AI scaling", "ChatGPT", "artificial intelligence", "machine learning", "enterprise AI", "workflow automation", "AI infrastructure", "scalable AI", "AI deployment", "distributed computing engine", "Python tutorial", "large scale AI", "AI orchestration", "model management", "resource optimization", "cost efficiency", "performance monitoring", "auto scaling", "load balancing", "enterprise integration", "production AI systems"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

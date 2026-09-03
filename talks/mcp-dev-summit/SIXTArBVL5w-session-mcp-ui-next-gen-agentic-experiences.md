@@ -4,7 +4,7 @@ title: "[Session] MCP-UI: Next-gen Agentic Experiences"
 slug: session-mcp-ui-next-gen-agentic-experiences
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: SIXTArBVL5w
 url: https://www.youtube.com/watch?v=SIXTArBVL5w
 youtube_url: https://www.youtube.com/watch?v=SIXTArBVL5w
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai", "mcp ui"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Romain Clement - Machine Learning in the Browser: Fast Iteration with ON
 slug: romain-clement-machine-learning-in-the-browser-fast
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Romain Clement"]
@@ -15,6 +15,7 @@ video_id: 6kWpRAr1ic8
 url: https://www.youtube.com/watch?v=6kWpRAr1ic8
 youtube_url: https://www.youtube.com/watch?v=6kWpRAr1ic8
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

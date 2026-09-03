@@ -4,7 +4,7 @@ title: "Denny Lee - Building Agents with Agent Bricks and MCP | PyData Seattle 2
 slug: denny-lee-building-agents-with-agent-bricks-and-mcp-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Denny Lee"]
@@ -15,6 +15,7 @@ video_id: uWxR845ciCI
 url: https://www.youtube.com/watch?v=uWxR845ciCI
 youtube_url: https://www.youtube.com/watch?v=uWxR845ciCI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

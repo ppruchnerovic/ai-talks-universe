@@ -4,7 +4,7 @@ title: "Leveraging GPU-accelerated Stereo Visual Inertial Odometry in PX4 Using 
 slug: leveraging-gpu-accelerated-stereo-visual-inertial-odometry
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Andrew Brahim"]
@@ -15,6 +15,7 @@ video_id: 4JzbY_j-qBM
 url: https://www.youtube.com/watch?v=4JzbY_j-qBM
 youtube_url: https://www.youtube.com/watch?v=4JzbY_j-qBM
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

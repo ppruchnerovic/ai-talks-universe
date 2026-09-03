@@ -4,7 +4,7 @@ title: "Sponsored Session: Empowering AI Everywhere: Democratizing PyTorch with 
 slug: sponsored-session-empowering-ai-everywhere-democratizing
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["F. Zhao", "E. Wang"]
@@ -15,6 +15,7 @@ video_id: Fvm2XYHH6Rw
 url: https://www.youtube.com/watch?v=Fvm2XYHH6Rw
 youtube_url: https://www.youtube.com/watch?v=Fvm2XYHH6Rw
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "From 12 Months to 30 Days to AI Deployment: An MLOps Journey"
 slug: from-12-months-to-30-days-to-ai-deployment-an-mlops-journey
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8LwOuKvZL7k
 url: https://www.youtube.com/watch?v=8LwOuKvZL7k
 youtube_url: https://www.youtube.com/watch?v=8LwOuKvZL7k
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "From 12 Months to 30 Days to AI Deployment: An MLOps Journey", "MLOps Journey", "AI Deployment", "ai", "deployment", "Ecolab", "cloud data science architecture", "scalable AI applications"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

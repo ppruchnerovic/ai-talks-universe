@@ -4,7 +4,7 @@ title: "Key learnings of a 7 years transformation journey | AI in the Boardroom 
 slug: key-learnings-of-a-7-years-transformation-journey-ai-in-the
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Jérôme Koller"]
@@ -15,6 +15,7 @@ video_id: uBbnGncgcQk
 url: https://www.youtube.com/watch?v=uBbnGncgcQk
 youtube_url: https://www.youtube.com/watch?v=uBbnGncgcQk
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

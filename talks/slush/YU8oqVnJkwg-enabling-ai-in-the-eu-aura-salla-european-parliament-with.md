@@ -4,7 +4,7 @@ title: "Enabling AI in the EU | Aura Salla (European Parliament) with Magnus Ham
 slug: enabling-ai-in-the-eu-aura-salla-european-parliament-with
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Aura Salla"]
@@ -15,6 +15,7 @@ video_id: YU8oqVnJkwg
 url: https://www.youtube.com/watch?v=YU8oqVnJkwg
 youtube_url: https://www.youtube.com/watch?v=YU8oqVnJkwg
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

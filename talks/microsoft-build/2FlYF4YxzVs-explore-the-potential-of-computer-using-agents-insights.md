@@ -4,7 +4,7 @@ title: "Explore the potential of Computer-Using Agents: Insights from Avanade | 
 slug: explore-the-potential-of-computer-using-agents-insights
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2FlYF4YxzVs
 url: https://www.youtube.com/watch?v=2FlYF4YxzVs
 youtube_url: https://www.youtube.com/watch?v=2FlYF4YxzVs
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "dotAI 2024 - Marcin Detyniecki - Can AI design a fairer future?"
 slug: dotai-2024-marcin-detyniecki-can-ai-design-a-fairer-future
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Marcin Detyniecki"]
@@ -15,6 +15,7 @@ video_id: ApxLRptKsdE
 url: https://www.youtube.com/watch?v=ApxLRptKsdE
 youtube_url: https://www.youtube.com/watch?v=ApxLRptKsdE
 tags: []
+topics: []
 transcript: false
 ---
 

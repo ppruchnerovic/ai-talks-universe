@@ -4,7 +4,7 @@ title: "Sergey Levine - Multi-Turn Reinforcement Learning for LLM Agents"
 slug: sergey-levine-multi-turn-reinforcement-learning-for-llm
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Sergey Levine"]
@@ -15,6 +15,7 @@ video_id: AK4EVrBr720
 url: https://www.youtube.com/watch?v=AK4EVrBr720
 youtube_url: https://www.youtube.com/watch?v=AK4EVrBr720
 tags: []
+topics: ["Agents & orchestration", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

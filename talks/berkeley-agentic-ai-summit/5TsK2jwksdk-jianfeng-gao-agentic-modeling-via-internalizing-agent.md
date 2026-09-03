@@ -4,7 +4,7 @@ title: "Jianfeng Gao - Agentic Modeling via Internalizing Agent Harnesses"
 slug: jianfeng-gao-agentic-modeling-via-internalizing-agent
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Jianfeng Gao"]
@@ -15,6 +15,7 @@ video_id: 5TsK2jwksdk
 url: https://www.youtube.com/watch?v=5TsK2jwksdk
 youtube_url: https://www.youtube.com/watch?v=5TsK2jwksdk
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

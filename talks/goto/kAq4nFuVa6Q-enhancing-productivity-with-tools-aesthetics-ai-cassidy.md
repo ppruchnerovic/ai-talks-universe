@@ -4,7 +4,7 @@ title: "Enhancing Productivity with Tools, Aesthetics & AI • Cassidy Williams 
 slug: enhancing-productivity-with-tools-aesthetics-ai-cassidy
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Cassidy Williams", "Ben Hong"]
@@ -15,6 +15,7 @@ video_id: kAq4nFuVa6Q
 url: https://www.youtube.com/watch?v=kAq4nFuVa6Q
 youtube_url: https://www.youtube.com/watch?v=kAq4nFuVa6Q
 tags: []
+topics: []
 transcript: false
 ---
 

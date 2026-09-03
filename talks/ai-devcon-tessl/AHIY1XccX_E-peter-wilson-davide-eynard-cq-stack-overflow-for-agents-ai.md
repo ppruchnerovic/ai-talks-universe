@@ -4,7 +4,7 @@ title: "Peter Wilson & Davide Eynard - cq - Stack Overflow for Agents - AI Nativ
 slug: peter-wilson-davide-eynard-cq-stack-overflow-for-agents-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Peter Wilson", "Davide Eynard"]
@@ -15,6 +15,7 @@ video_id: AHIY1XccX_E
 url: https://www.youtube.com/watch?v=AHIY1XccX_E
 youtube_url: https://www.youtube.com/watch?v=AHIY1XccX_E
 tags: ["AI DevCon", "AI agents", "Davide Eynard Mozilla AI", "Mozilla.ai", "Peter Wilson Mozilla AI", "Stack Overflow for agents", "agentic coding", "ainativedev", "context engineering", "cq", "importance of context in AI", "knowledge sharing", "open source AI", "token optimization", "what is cq by Mozilla.ai"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

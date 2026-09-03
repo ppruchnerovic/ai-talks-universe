@@ -4,7 +4,7 @@ title: "PET ARENA Season 2."
 slug: pet-arena-season-2
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Sagar Sharma ."]
@@ -15,6 +15,7 @@ video_id: e-sUfhYFrpc
 url: https://www.youtube.com/watch?v=e-sUfhYFrpc
 youtube_url: https://www.youtube.com/watch?v=e-sUfhYFrpc
 tags: ["Security & Privacy", "Collaboration", "Privacy"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

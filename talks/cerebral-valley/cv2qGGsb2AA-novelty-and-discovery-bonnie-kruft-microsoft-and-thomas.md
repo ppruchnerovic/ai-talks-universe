@@ -4,7 +4,7 @@ title: "Novelty and Discovery: Bonnie Kruft (Microsoft) and Thomas Wolf (Hugging
 slug: novelty-and-discovery-bonnie-kruft-microsoft-and-thomas
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cv2qGGsb2AA
 url: https://www.youtube.com/watch?v=cv2qGGsb2AA
 youtube_url: https://www.youtube.com/watch?v=cv2qGGsb2AA
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

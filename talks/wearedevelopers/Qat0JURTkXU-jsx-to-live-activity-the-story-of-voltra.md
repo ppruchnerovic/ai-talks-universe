@@ -4,7 +4,7 @@ title: "JSX to Live Activity: The Story of Voltra"
 slug: jsx-to-live-activity-the-story-of-voltra
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Szymon Chmal"]
@@ -15,6 +15,7 @@ video_id: Qat0JURTkXU
 url: https://www.youtube.com/watch?v=Qat0JURTkXU
 youtube_url: https://www.youtube.com/watch?v=Qat0JURTkXU
 tags: ["Frontend, Web & Mobile", "Cross-Platform", "iOS", "React Native"]
+topics: []
 transcript: true
 ---
 

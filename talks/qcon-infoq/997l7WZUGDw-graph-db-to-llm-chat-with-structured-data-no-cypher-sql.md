@@ -4,7 +4,7 @@ title: "Graph DB to LLM: Chat with Structured Data (NO Cypher/SQL)"
 slug: graph-db-to-llm-chat-with-structured-data-no-cypher-sql
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 997l7WZUGDw
 url: https://www.youtube.com/watch?v=997l7WZUGDw
 youtube_url: https://www.youtube.com/watch?v=997l7WZUGDw
 tags: ["InfoQ Dev Summit", "QCon", "Knowlegde Graph", "Graph Database", "GenAI", "LLMs", "Large Language Models", "NoSQL", "Database", "InfoQ", "Transcript", "Software Architecture", "Generative AI", "Neo4J"]
+topics: ["Data engineering & MLOps", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

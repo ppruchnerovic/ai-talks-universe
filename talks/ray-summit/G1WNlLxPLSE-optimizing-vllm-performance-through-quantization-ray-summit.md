@@ -4,7 +4,7 @@ title: "Optimizing vLLM Performance through Quantization | Ray Summit 2024"
 slug: optimizing-vllm-performance-through-quantization-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: G1WNlLxPLSE
 url: https://www.youtube.com/watch?v=G1WNlLxPLSE
 youtube_url: https://www.youtube.com/watch?v=G1WNlLxPLSE
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

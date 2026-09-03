@@ -4,7 +4,7 @@ title: "Your Agent Is Wasting Tokens and You Don't Know It - Erik Hanchett, AWS"
 slug: your-agent-is-wasting-tokens-and-you-don-t-know-it-erik
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Erik Hanchett"]
@@ -15,6 +15,7 @@ video_id: uiP88SpCi1Q
 url: https://www.youtube.com/watch?v=uiP88SpCi1Q
 youtube_url: https://www.youtube.com/watch?v=uiP88SpCi1Q
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

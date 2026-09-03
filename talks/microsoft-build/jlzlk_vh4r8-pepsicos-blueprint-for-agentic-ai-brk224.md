@@ -4,7 +4,7 @@ title: "PepsiCo’s blueprint for agentic AI | BRK224"
 slug: pepsicos-blueprint-for-agentic-ai-brk224
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Rishabh Saha", "Bob Ward", "Krunalkumar Patel"]
@@ -15,6 +15,7 @@ video_id: jlzlk_vh4r8
 url: https://www.youtube.com/watch?v=jlzlk_vh4r8
 youtube_url: https://www.youtube.com/watch?v=jlzlk_vh4r8
 tags: ["95afb175-5c57-46c2-bd53-d67dda3d0888_M9Z7-BRK224-1", "Azure Cosmos DB", "Azure Database for PostgreSQL", "Azure SQL", "BRK224", "Bob Ward", "CP&D", "Data", "Krunalkumar Patel", "PepsiCo’s blueprint for agentic AI | BRK224", "Rishabh Saha", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

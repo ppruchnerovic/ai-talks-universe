@@ -4,7 +4,7 @@ title: "Sanjiban Sengupta - Advancements in optimizing ML Inference at CERN"
 slug: sanjiban-sengupta-advancements-in-optimizing-ml-inference
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Sanjiban Sengupta"]
@@ -15,6 +15,7 @@ video_id: UInkTwX-E38
 url: https://www.youtube.com/watch?v=UInkTwX-E38
 youtube_url: https://www.youtube.com/watch?v=UInkTwX-E38
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Simulating the World using SimPy: A practical Example [PyCon DE & PyData
 slug: simulating-the-world-using-simpy-a-practical-example-pycon
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: zayHuvKVr34
 url: https://www.youtube.com/watch?v=zayHuvKVr34
 youtube_url: https://www.youtube.com/watch?v=zayHuvKVr34
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

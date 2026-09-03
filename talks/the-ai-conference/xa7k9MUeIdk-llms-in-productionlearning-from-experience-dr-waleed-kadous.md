@@ -4,7 +4,7 @@ title: "LLMs In ProductionLearning From Experience, Dr. Waleed Kadous, Chief Sci
 slug: llms-in-productionlearning-from-experience-dr-waleed-kadous
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: xa7k9MUeIdk
 url: https://www.youtube.com/watch?v=xa7k9MUeIdk
 youtube_url: https://www.youtube.com/watch?v=xa7k9MUeIdk
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

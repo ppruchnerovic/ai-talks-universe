@@ -4,7 +4,7 @@ title: "Innovating on Software Development | Fast AI"
 slug: innovating-on-software-development-fast-ai
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: rX1yGxJijsI
 url: https://www.youtube.com/watch?v=rX1yGxJijsI
 youtube_url: https://www.youtube.com/watch?v=rX1yGxJijsI
 tags: ["nbev", "open source", "software engineering", "software development"]
+topics: []
 transcript: false
 ---
 

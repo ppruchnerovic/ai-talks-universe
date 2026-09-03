@@ -4,7 +4,7 @@ title: "Enable autonomous data agents with BigQuery and Cloud Run"
 slug: enable-autonomous-data-agents-with-bigquery-and-cloud-run
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Vlad Kolesnikov"]
@@ -15,6 +15,7 @@ video_id: nfCTJN42LyE
 url: https://www.youtube.com/watch?v=nfCTJN42LyE
 youtube_url: https://www.youtube.com/watch?v=nfCTJN42LyE
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

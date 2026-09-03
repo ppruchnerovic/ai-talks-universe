@@ -4,7 +4,7 @@ title: "Extracting Actionable Electronic Health Record Insights With Cortex AI"
 slug: extracting-actionable-electronic-health-record-insights
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: r1r8bCpU5O8
 url: https://www.youtube.com/watch?v=r1r8bCpU5O8
 youtube_url: https://www.youtube.com/watch?v=r1r8bCpU5O8
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

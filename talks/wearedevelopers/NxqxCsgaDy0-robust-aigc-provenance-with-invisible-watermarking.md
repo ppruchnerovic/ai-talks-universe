@@ -4,7 +4,7 @@ title: "Robust AIGC Provenance with Invisible Watermarking"
 slug: robust-aigc-provenance-with-invisible-watermarking
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Haoqi Wu"]
@@ -15,6 +15,7 @@ video_id: NxqxCsgaDy0
 url: https://www.youtube.com/watch?v=NxqxCsgaDy0
 youtube_url: https://www.youtube.com/watch?v=NxqxCsgaDy0
 tags: ["Security & Privacy", "AI Models", "Compliance", "Generative AI (GenAI)", "Regulation", "Safety"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

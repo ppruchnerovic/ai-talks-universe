@@ -4,7 +4,7 @@ title: "GenAI Project | Top10 Security Risks For Agentic AI For 2026"
 slug: genai-project-top10-security-risks-for-agentic-ai-for-2026
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Keren Katz"]
@@ -15,6 +15,7 @@ video_id: qoajxoBYghE
 url: https://www.youtube.com/watch?v=qoajxoBYghE
 youtube_url: https://www.youtube.com/watch?v=qoajxoBYghE
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "How to build world-class AI products — Sarah Sachs (AI lead @ Notion) 
 slug: how-to-build-world-class-ai-products-sarah-sachs-ai-lead
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Sarah Sachs"]
@@ -15,6 +15,7 @@ video_id: 6YdPI9YbjbI
 url: https://www.youtube.com/watch?v=6YdPI9YbjbI
 youtube_url: https://www.youtube.com/watch?v=6YdPI9YbjbI
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "RSAC 365 Innovation Showcase: The Intersection of AI and Cyber"
 slug: rsac-365-innovation-showcase-the-intersection-of-ai-and
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0ne4TdlqBt8
 url: https://www.youtube.com/watch?v=0ne4TdlqBt8
 youtube_url: https://www.youtube.com/watch?v=0ne4TdlqBt8
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

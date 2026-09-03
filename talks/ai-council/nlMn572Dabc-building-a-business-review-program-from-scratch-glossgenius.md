@@ -4,7 +4,7 @@ title: "Building a Business Review Program from Scratch | GlossGenius"
 slug: building-a-business-review-program-from-scratch-glossgenius
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: nlMn572Dabc
 url: https://www.youtube.com/watch?v=nlMn572Dabc
 youtube_url: https://www.youtube.com/watch?v=nlMn572Dabc
 tags: ["business reviews", "metrics", "KPIs", "analytics"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

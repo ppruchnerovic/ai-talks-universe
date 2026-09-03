@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Architecting scalable and secure agentic AI with Be
 slug: aws-re-invent-2025-architecting-scalable-and-secure-agentic
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: wqmeZOT6mmc
 url: https://www.youtube.com/watch?v=wqmeZOT6mmc
 youtube_url: https://www.youtube.com/watch?v=wqmeZOT6mmc
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

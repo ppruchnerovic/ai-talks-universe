@@ -4,7 +4,7 @@ title: "Automating and Scaling of Threat Modelling for Cloud Native Archit... Ha
 slug: automating-and-scaling-of-threat-modelling-for-cloud-native
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: GGdc0vihJOI
 url: https://www.youtube.com/watch?v=GGdc0vihJOI
 youtube_url: https://www.youtube.com/watch?v=GGdc0vihJOI
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Security, safety & red teaming"]
 transcript: true
 ---
 

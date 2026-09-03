@@ -4,7 +4,7 @@ title: "Patrick Debois - The Rise of Agent Enablement - AI Native DevCon June 20
 slug: patrick-debois-the-rise-of-agent-enablement-ai-native
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Patrick Debois"]
@@ -15,6 +15,7 @@ video_id: I9RWrW32QEw
 url: https://www.youtube.com/watch?v=I9RWrW32QEw
 youtube_url: https://www.youtube.com/watch?v=I9RWrW32QEw
 tags: ["AI Integration", "AI Native DevCon London 2026", "AI Tools", "AI coding", "AI coding practices", "AI tools in engineering", "DevOps", "DevOps and AI", "Governance", "agent enablement teams", "ainativedev", "context development lifecycle", "how to scale AI coding", "scaling AI in engineering", "what is agent enablement"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

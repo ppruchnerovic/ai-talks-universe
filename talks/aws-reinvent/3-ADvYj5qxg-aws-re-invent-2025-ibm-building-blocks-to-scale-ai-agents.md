@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - IBM: Building blocks to scale AI agents: hybrid, in
 slug: aws-re-invent-2025-ibm-building-blocks-to-scale-ai-agents
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3-ADvYj5qxg
 url: https://www.youtube.com/watch?v=3-ADvYj5qxg
 youtube_url: https://www.youtube.com/watch?v=3-ADvYj5qxg
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

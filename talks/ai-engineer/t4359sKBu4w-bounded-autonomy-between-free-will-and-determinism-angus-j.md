@@ -4,7 +4,7 @@ title: "Bounded Autonomy: Between Free Will and Determinism — Angus J. McLean,
 slug: bounded-autonomy-between-free-will-and-determinism-angus-j
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: t4359sKBu4w
 url: https://www.youtube.com/watch?v=t4359sKBu4w
 youtube_url: https://www.youtube.com/watch?v=t4359sKBu4w
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "State of the Art of AI Tools in Micro-Frontend Architectures • Luca Me
 slug: state-of-the-art-of-ai-tools-in-micro-frontend
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Luca Mezzalira"]
@@ -15,6 +15,7 @@ video_id: 2DciND0Ng4w
 url: https://www.youtube.com/watch?v=2DciND0Ng4w
 youtube_url: https://www.youtube.com/watch?v=2DciND0Ng4w
 tags: []
+topics: []
 transcript: false
 ---
 

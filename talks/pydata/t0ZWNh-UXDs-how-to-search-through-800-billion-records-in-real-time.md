@@ -4,7 +4,7 @@ title: "How to Search Through 800 Billion Records in Real Time [PyCon DE & PyDat
 slug: how-to-search-through-800-billion-records-in-real-time
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Mirano Tuk"]
@@ -15,6 +15,7 @@ video_id: t0ZWNh-UXDs
 url: https://www.youtube.com/watch?v=t0ZWNh-UXDs
 youtube_url: https://www.youtube.com/watch?v=t0ZWNh-UXDs
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

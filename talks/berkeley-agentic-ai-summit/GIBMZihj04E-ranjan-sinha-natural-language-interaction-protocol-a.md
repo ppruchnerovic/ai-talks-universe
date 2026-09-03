@@ -4,7 +4,7 @@ title: "Ranjan Sinha - Natural Language Interaction Protocol: A Universal Applic
 slug: ranjan-sinha-natural-language-interaction-protocol-a
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Ranjan Sinha"]
@@ -15,6 +15,7 @@ video_id: GIBMZihj04E
 url: https://www.youtube.com/watch?v=GIBMZihj04E
 youtube_url: https://www.youtube.com/watch?v=GIBMZihj04E
 tags: []
+topics: []
 transcript: false
 ---
 

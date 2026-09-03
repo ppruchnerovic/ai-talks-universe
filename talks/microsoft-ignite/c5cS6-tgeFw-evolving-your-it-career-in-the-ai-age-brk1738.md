@@ -4,7 +4,7 @@ title: "Evolving your IT career in the AI age | BRK1738"
 slug: evolving-your-it-career-in-the-ai-age-brk1738
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Rick Claus", "Sonia Cuff"]
@@ -15,6 +15,7 @@ video_id: c5cS6-tgeFw
 url: https://www.youtube.com/watch?v=c5cS6-tgeFw
 youtube_url: https://www.youtube.com/watch?v=c5cS6-tgeFw
 tags: ["BRK1738", "English (US)", "Evolving your IT career in the AI age | BRK1738", "Migrate and modernize your estate", "Rick Claus", "Sonia Cuff", "Technical", "a51bbc56-d958-40f4-9baf-298bf8d2293a_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

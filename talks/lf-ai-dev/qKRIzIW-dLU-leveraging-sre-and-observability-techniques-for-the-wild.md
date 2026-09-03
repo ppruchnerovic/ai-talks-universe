@@ -4,7 +4,7 @@ title: "Leveraging SRE and Observability Techniques for the Wild World of Buildi
 slug: leveraging-sre-and-observability-techniques-for-the-wild
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Christine Yen"]
@@ -15,6 +15,7 @@ video_id: qKRIzIW-dLU
 url: https://www.youtube.com/watch?v=qKRIzIW-dLU
 youtube_url: https://www.youtube.com/watch?v=qKRIzIW-dLU
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

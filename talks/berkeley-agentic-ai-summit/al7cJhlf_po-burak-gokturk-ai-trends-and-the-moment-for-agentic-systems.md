@@ -4,7 +4,7 @@ title: "Burak Gokturk - AI Trends and the Moment for Agentic Systems"
 slug: burak-gokturk-ai-trends-and-the-moment-for-agentic-systems
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Burak Gokturk"]
@@ -15,6 +15,7 @@ video_id: al7cJhlf_po
 url: https://www.youtube.com/watch?v=al7cJhlf_po
 youtube_url: https://www.youtube.com/watch?v=al7cJhlf_po
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

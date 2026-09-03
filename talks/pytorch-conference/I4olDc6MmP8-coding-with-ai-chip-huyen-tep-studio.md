@@ -4,7 +4,7 @@ title: "Coding with AI - Chip Huyen, Tep Studio"
 slug: coding-with-ai-chip-huyen-tep-studio
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Chip Huyen"]
@@ -15,6 +15,7 @@ video_id: I4olDc6MmP8
 url: https://www.youtube.com/watch?v=I4olDc6MmP8
 youtube_url: https://www.youtube.com/watch?v=I4olDc6MmP8
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

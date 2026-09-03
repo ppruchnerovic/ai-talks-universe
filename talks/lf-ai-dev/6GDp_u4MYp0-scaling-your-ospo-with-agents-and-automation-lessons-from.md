@@ -4,7 +4,7 @@ title: "Scaling Your OSPO With Agents and Automation: Lessons From GitHub's Open
 slug: scaling-your-ospo-with-agents-and-automation-lessons-from
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6GDp_u4MYp0
 url: https://www.youtube.com/watch?v=6GDp_u4MYp0
 youtube_url: https://www.youtube.com/watch?v=6GDp_u4MYp0
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

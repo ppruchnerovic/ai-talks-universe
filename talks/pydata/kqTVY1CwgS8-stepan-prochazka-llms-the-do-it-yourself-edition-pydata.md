@@ -4,7 +4,7 @@ title: "Štěpán Procházka - LLMs, the do-it-yourself edition (PyData Prague #
 slug: stepan-prochazka-llms-the-do-it-yourself-edition-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: kqTVY1CwgS8
 url: https://www.youtube.com/watch?v=kqTVY1CwgS8
 youtube_url: https://www.youtube.com/watch?v=kqTVY1CwgS8
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

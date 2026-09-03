@@ -4,7 +4,7 @@ title: "Harnessing the value of AI and unlock a scalable advantage | STUDIOSP79"
 slug: harnessing-the-value-of-ai-and-unlock-a-scalable-advantage
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Antoine Imbert"]
@@ -15,6 +15,7 @@ video_id: 16bACcoGh0k
 url: https://www.youtube.com/watch?v=16bACcoGh0k
 youtube_url: https://www.youtube.com/watch?v=16bACcoGh0k
 tags: ["Antoine Imbert", "English (US)", "Harnessing the value of AI and unlock a scalable advantage | STUDIOSP79", "STUDIOSP79", "STUDIOSP79_v1", "Technical", "Telecommunications", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

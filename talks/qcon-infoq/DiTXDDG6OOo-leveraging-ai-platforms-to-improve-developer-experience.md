@@ -4,7 +4,7 @@ title: "Leveraging AI Platforms to Improve Developer Experience – From Persona
 slug: leveraging-ai-platforms-to-improve-developer-experience
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: DiTXDDG6OOo
 url: https://www.youtube.com/watch?v=DiTXDDG6OOo
 youtube_url: https://www.youtube.com/watch?v=DiTXDDG6OOo
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

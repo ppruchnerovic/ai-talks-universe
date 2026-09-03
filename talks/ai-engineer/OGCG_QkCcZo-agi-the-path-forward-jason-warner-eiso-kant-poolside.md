@@ -4,7 +4,7 @@ title: "AGI: The Path Forward – Jason Warner & Eiso Kant, Poolside"
 slug: agi-the-path-forward-jason-warner-eiso-kant-poolside
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jason Warner", "Eiso Kant"]
@@ -15,6 +15,7 @@ video_id: OGCG_QkCcZo
 url: https://www.youtube.com/watch?v=OGCG_QkCcZo
 youtube_url: https://www.youtube.com/watch?v=OGCG_QkCcZo
 tags: []
+topics: []
 transcript: false
 ---
 

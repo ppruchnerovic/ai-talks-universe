@@ -4,7 +4,7 @@ title: "The Ideal Micro-Frontends Platform"
 slug: the-ideal-micro-frontends-platform
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Luca Mezzalira"]
@@ -15,6 +15,7 @@ video_id: iq-micro-frontends-platform
 url: https://www.infoq.com/presentations/micro-frontends-platform/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

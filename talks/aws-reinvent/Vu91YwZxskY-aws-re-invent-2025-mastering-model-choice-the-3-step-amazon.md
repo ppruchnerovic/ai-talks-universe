@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Mastering model choice: The 3-step Amazon Bedrock a
 slug: aws-re-invent-2025-mastering-model-choice-the-3-step-amazon
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Vu91YwZxskY
 url: https://www.youtube.com/watch?v=Vu91YwZxskY
 youtube_url: https://www.youtube.com/watch?v=Vu91YwZxskY
 tags: []
+topics: []
 transcript: false
 ---
 

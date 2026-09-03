@@ -4,7 +4,7 @@ title: "The Missing Layer After Launch - Raphael Kalandadze, Wandero AI"
 slug: the-missing-layer-after-launch-raphael-kalandadze-wandero-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Raphael Kalandadze"]
@@ -15,6 +15,7 @@ video_id: kZsf_Sfm7RU
 url: https://www.youtube.com/watch?v=kZsf_Sfm7RU
 youtube_url: https://www.youtube.com/watch?v=kZsf_Sfm7RU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

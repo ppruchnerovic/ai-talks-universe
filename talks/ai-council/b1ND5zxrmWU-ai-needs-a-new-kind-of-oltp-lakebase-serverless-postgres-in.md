@@ -4,7 +4,7 @@ title: "AI Needs a New Kind of OLTP: Lakebase & Serverless Postgres in the Agent
 slug: ai-needs-a-new-kind-of-oltp-lakebase-serverless-postgres-in
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: b1ND5zxrmWU
 url: https://www.youtube.com/watch?v=b1ND5zxrmWU
 youtube_url: https://www.youtube.com/watch?v=b1ND5zxrmWU
 tags: ["AI"]
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

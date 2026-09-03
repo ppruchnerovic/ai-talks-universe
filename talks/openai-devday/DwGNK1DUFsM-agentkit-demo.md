@@ -4,7 +4,7 @@ title: "AgentKit Demo"
 slug: agentkit-demo
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: DwGNK1DUFsM
 url: https://www.youtube.com/watch?v=DwGNK1DUFsM
 youtube_url: https://www.youtube.com/watch?v=DwGNK1DUFsM
 tags: []
+topics: []
 transcript: false
 ---
 

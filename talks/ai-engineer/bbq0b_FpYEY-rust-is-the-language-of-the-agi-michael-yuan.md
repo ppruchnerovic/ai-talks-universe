@@ -4,7 +4,7 @@ title: "Rust is the language of the AGI - Michael Yuan"
 slug: rust-is-the-language-of-the-agi-michael-yuan
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Michael Yuan"]
@@ -15,6 +15,7 @@ video_id: bbq0b_FpYEY
 url: https://www.youtube.com/watch?v=bbq0b_FpYEY
 youtube_url: https://www.youtube.com/watch?v=bbq0b_FpYEY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

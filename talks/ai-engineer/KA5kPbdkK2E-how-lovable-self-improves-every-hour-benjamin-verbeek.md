@@ -4,7 +4,7 @@ title: "How Lovable self-improves every hour — Benjamin Verbeek, Lovable"
 slug: how-lovable-self-improves-every-hour-benjamin-verbeek
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Benjamin Verbeek"]
@@ -15,6 +15,7 @@ video_id: KA5kPbdkK2E
 url: https://www.youtube.com/watch?v=KA5kPbdkK2E
 youtube_url: https://www.youtube.com/watch?v=KA5kPbdkK2E
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

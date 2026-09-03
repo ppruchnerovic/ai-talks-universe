@@ -4,7 +4,7 @@ title: "Don’t Insert Crazy! On cURL and AI Slop - Daniel Stenberg"
 slug: dont-insert-crazy-on-curl-and-ai-slop-daniel-stenberg
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Daniel Stenberg"]
@@ -15,6 +15,7 @@ video_id: Vp8K12oLs6A
 url: https://www.youtube.com/watch?v=Vp8K12oLs6A
 youtube_url: https://www.youtube.com/watch?v=Vp8K12oLs6A
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Snowflake Copilot Building the most powerful SQL LLM in the world"
 slug: snowflake-copilot-building-the-most-powerful-sql-llm-in-the
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: D9Np2fuJWjM
 url: https://www.youtube.com/watch?v=D9Np2fuJWjM
 youtube_url: https://www.youtube.com/watch?v=D9Np2fuJWjM
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Text-to-SQL Is Not the Answer: How to Effectively Use AI for Analytics"
 slug: text-to-sql-is-not-the-answer-how-to-effectively-use-ai-for
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Dillon Morrison"]
@@ -15,6 +15,7 @@ video_id: rqDHNsCRkk0
 url: https://www.youtube.com/watch?v=rqDHNsCRkk0
 youtube_url: https://www.youtube.com/watch?v=rqDHNsCRkk0
 tags: ["text to SQL", "AI analytics", "ChatGPT", "artificial intelligence", "machine learning", "business intelligence", "SQL", "data analysis", "AI BI", "analytics automation", "natural language", "dashboard replacement", "Python tutorial", "conversational analytics", "natural language queries", "automated reporting", "self service analytics", "query generation", "database interaction", "intelligent dashboards", "voice analytics"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

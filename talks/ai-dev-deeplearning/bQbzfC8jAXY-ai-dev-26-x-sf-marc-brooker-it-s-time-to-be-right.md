@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Marc Brooker: It's Time to Be Right"
 slug: ai-dev-26-x-sf-marc-brooker-it-s-time-to-be-right
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: bQbzfC8jAXY
 url: https://www.youtube.com/watch?v=bQbzfC8jAXY
 youtube_url: https://www.youtube.com/watch?v=bQbzfC8jAXY
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

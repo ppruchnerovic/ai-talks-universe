@@ -4,7 +4,7 @@ title: "Advancing Kubernetes AI Conformance: Current State and Road... Yuan Tang
 slug: advancing-kubernetes-ai-conformance-current-state-and-road
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: EdgyyJpauKU
 url: https://www.youtube.com/watch?v=EdgyyJpauKU
 youtube_url: https://www.youtube.com/watch?v=EdgyyJpauKU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

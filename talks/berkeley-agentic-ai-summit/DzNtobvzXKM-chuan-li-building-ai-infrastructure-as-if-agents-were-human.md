@@ -4,7 +4,7 @@ title: "Chuan Li - Building AI Infrastructure As If Agents Were Human"
 slug: chuan-li-building-ai-infrastructure-as-if-agents-were-human
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Chuan Li"]
@@ -15,6 +15,7 @@ video_id: DzNtobvzXKM
 url: https://www.youtube.com/watch?v=DzNtobvzXKM
 youtube_url: https://www.youtube.com/watch?v=DzNtobvzXKM
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

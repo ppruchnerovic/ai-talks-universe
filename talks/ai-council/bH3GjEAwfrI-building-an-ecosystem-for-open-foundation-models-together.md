@@ -4,7 +4,7 @@ title: "Building an Ecosystem for Open Foundation Models, Together"
 slug: building-an-ecosystem-for-open-foundation-models-together
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: bH3GjEAwfrI
 url: https://www.youtube.com/watch?v=bH3GjEAwfrI
 youtube_url: https://www.youtube.com/watch?v=bH3GjEAwfrI
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

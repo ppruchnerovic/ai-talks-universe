@@ -4,7 +4,7 @@ title: "Cybersecurity, Trust and Resilience: A European Perspective"
 slug: cybersecurity-trust-and-resilience-a-european-perspective
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2026
 speakers: ["Lynn Doan"]
@@ -15,6 +15,7 @@ video_id: MItGKRvHpLk
 url: https://www.youtube.com/watch?v=MItGKRvHpLk
 youtube_url: https://www.youtube.com/watch?v=MItGKRvHpLk
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

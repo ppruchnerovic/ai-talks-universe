@@ -4,7 +4,7 @@ title: "Tal Ifargan, Lukas Hafner: Can LLMs do research? | PyData Tel Aviv 2025"
 slug: tal-ifargan-lukas-hafner-can-llms-do-research-pydata-tel
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Tal Ifargan"]
@@ -15,6 +15,7 @@ video_id: hbZX3XqFBtk
 url: https://www.youtube.com/watch?v=hbZX3XqFBtk
 youtube_url: https://www.youtube.com/watch?v=hbZX3XqFBtk
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Week-Long Outage: Lifelong Lessons"
 slug: week-long-outage-lifelong-lessons
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Molly Struve"]
@@ -15,6 +15,7 @@ video_id: iq-outage-lessons
 url: https://www.infoq.com/presentations/outage-lessons/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

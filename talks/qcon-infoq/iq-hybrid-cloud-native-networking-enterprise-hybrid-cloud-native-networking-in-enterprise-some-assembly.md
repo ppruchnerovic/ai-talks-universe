@@ -4,7 +4,7 @@ title: "Hybrid Cloud-Native Networking in Enterprise - Some Assembly Required"
 slug: hybrid-cloud-native-networking-in-enterprise-some-assembly
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Louis Ryan"]
@@ -15,6 +15,7 @@ video_id: iq-hybrid-cloud-native-networking-enterprise
 url: https://www.infoq.com/presentations/hybrid-cloud-native-networking-enterprise/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

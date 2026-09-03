@@ -4,7 +4,7 @@ title: "Webcast: Securing Democracy Through Secure Elections"
 slug: webcast-securing-democracy-through-secure-elections
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: GoRYB1OUrjU
 url: https://www.youtube.com/watch?v=GoRYB1OUrjU
 youtube_url: https://www.youtube.com/watch?v=GoRYB1OUrjU
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

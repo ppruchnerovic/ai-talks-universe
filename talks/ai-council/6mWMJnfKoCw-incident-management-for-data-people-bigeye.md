@@ -4,7 +4,7 @@ title: "Incident Management for Data People | Bigeye"
 slug: incident-management-for-data-people-bigeye
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6mWMJnfKoCw
 url: https://www.youtube.com/watch?v=6mWMJnfKoCw
 youtube_url: https://www.youtube.com/watch?v=6mWMJnfKoCw
 tags: ["DevOps", "data teams", "data observability", "analytics"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: false
 ---
 

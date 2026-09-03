@@ -4,7 +4,7 @@ title: "Machine learning for radiology in the real world | Clinical AI | Jonas R
 slug: machine-learning-for-radiology-in-the-real-world-clinical
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Jonas Richiardi"]
@@ -15,6 +15,7 @@ video_id: tNlOS6SdL4M
 url: https://www.youtube.com/watch?v=tNlOS6SdL4M
 youtube_url: https://www.youtube.com/watch?v=tNlOS6SdL4M
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

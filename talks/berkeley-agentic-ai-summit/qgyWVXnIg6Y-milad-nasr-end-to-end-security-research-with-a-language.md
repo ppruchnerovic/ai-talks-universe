@@ -4,7 +4,7 @@ title: "Milad Nasr - End to End Security Research with a Language Model"
 slug: milad-nasr-end-to-end-security-research-with-a-language
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Milad Nasr"]
@@ -15,6 +15,7 @@ video_id: qgyWVXnIg6Y
 url: https://www.youtube.com/watch?v=qgyWVXnIg6Y
 youtube_url: https://www.youtube.com/watch?v=qgyWVXnIg6Y
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

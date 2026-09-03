@@ -4,7 +4,7 @@ title: "Making Topology-Aware Scheduling Practical for AI Workloads: From Discov
 slug: making-topology-aware-scheduling-practical-for-ai-workloads
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Jj8DNLA5hYc
 url: https://www.youtube.com/watch?v=Jj8DNLA5hYc
 youtube_url: https://www.youtube.com/watch?v=Jj8DNLA5hYc
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

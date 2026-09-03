@@ -4,7 +4,7 @@ title: "Invisible Guardrails: Enabling Developer Velocity W... James Elías Sigu
 slug: invisible-guardrails-enabling-developer-velocity-w-james
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: mxjiSCnrb3c
 url: https://www.youtube.com/watch?v=mxjiSCnrb3c
 youtube_url: https://www.youtube.com/watch?v=mxjiSCnrb3c
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Security, safety & red teaming"]
 transcript: true
 ---
 

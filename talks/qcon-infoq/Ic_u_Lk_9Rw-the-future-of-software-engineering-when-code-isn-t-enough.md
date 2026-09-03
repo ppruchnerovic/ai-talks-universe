@@ -4,7 +4,7 @@ title: "The Future of Software Engineering: When Code Isn't Enough"
 slug: the-future-of-software-engineering-when-code-isn-t-enough
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ic_u_Lk_9Rw
 url: https://www.youtube.com/watch?v=Ic_u_Lk_9Rw
 youtube_url: https://www.youtube.com/watch?v=Ic_u_Lk_9Rw
 tags: ["QCon San Fracisco", "InfoQ", "Transcript", "Software Development", "Artificial Intelligence", "Software Engineering", "Software Architecture"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

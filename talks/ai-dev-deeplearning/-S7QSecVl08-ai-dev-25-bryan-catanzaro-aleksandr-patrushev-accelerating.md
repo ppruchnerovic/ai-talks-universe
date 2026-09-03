@@ -4,7 +4,7 @@ title: "AI Dev 25 | Bryan Catanzaro & Aleksandr Patrushev: Accelerating AI Devel
 slug: ai-dev-25-bryan-catanzaro-aleksandr-patrushev-accelerating
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: -S7QSecVl08
 url: https://www.youtube.com/watch?v=-S7QSecVl08
 youtube_url: https://www.youtube.com/watch?v=-S7QSecVl08
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

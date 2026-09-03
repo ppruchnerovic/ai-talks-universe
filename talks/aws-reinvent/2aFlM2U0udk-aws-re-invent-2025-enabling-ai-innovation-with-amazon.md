@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Enabling AI innovation with Amazon SageMaker Unifie
 slug: aws-re-invent-2025-enabling-ai-innovation-with-amazon
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2aFlM2U0udk
 url: https://www.youtube.com/watch?v=2aFlM2U0udk
 youtube_url: https://www.youtube.com/watch?v=2aFlM2U0udk
 tags: []
+topics: []
 transcript: false
 ---
 

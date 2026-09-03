@@ -4,7 +4,7 @@ title: "Being a Responsible Developer in the Age of AI Hype"
 slug: being-a-responsible-developer-in-the-age-of-ai-hype
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: gt7Ko2RlAbk
 url: https://www.youtube.com/watch?v=gt7Ko2RlAbk
 youtube_url: https://www.youtube.com/watch?v=gt7Ko2RlAbk
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "InfoQ Dev Summit", "InfoQ", "transcript", "Large Language Models", "LLMs"]
+topics: []
 transcript: false
 ---
 

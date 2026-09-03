@@ -4,7 +4,7 @@ title: "Why your AI code doesn’t ship: Closing the gap to production | BRK200"
 slug: why-your-ai-code-doesnt-ship-closing-the-gap-to-production
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Mario Rodriguez", "Evan Boyle"]
@@ -15,6 +15,7 @@ video_id: 5YFPfuOhpwU
 url: https://www.youtube.com/watch?v=5YFPfuOhpwU
 youtube_url: https://www.youtube.com/watch?v=5YFPfuOhpwU
 tags: ["Agentic SDLC", "Agents", "BRK200", "Deployment Pipelines", "DevTools", "Developer", "Developer Technologies", "Evan Boyle", "GitHub", "GitHub Copilot", "GitHub Copilot CLI", "Mario Rodriguez", "Why your AI code doesn’t ship: Closing the gap to production | BRK200", "a6e942b5-ceab-40f1-9a69-03390a58d306_M9Z7-BRK200-1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

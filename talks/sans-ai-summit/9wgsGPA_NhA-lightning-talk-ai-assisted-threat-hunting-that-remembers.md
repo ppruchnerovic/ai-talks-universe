@@ -4,7 +4,7 @@ title: "Lightning Talk: AI-Assisted Threat Hunting That Remembers"
 slug: lightning-talk-ai-assisted-threat-hunting-that-remembers
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9wgsGPA_NhA
 url: https://www.youtube.com/watch?v=9wgsGPA_NhA
 youtube_url: https://www.youtube.com/watch?v=9wgsGPA_NhA
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

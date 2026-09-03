@@ -4,7 +4,7 @@ title: "Imagine Cup Finalist: HairMatch Revolutionizing Hair Care with AI | DEM5
 slug: imagine-cup-finalist-hairmatch-revolutionizing-hair-care
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: -ifAoOtJ9XE
 url: https://www.youtube.com/watch?v=-ifAoOtJ9XE
 youtube_url: https://www.youtube.com/watch?v=-ifAoOtJ9XE
 tags: []
+topics: []
 transcript: false
 ---
 

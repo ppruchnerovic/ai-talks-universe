@@ -4,7 +4,7 @@ title: "What You’re Missing About Agent Design | Yaniv Aknin"
 slug: what-youre-missing-about-agent-design-yaniv-aknin
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Yaniv Aknin"]
@@ -15,6 +15,7 @@ video_id: 0kIBwaQNxgs
 url: https://www.youtube.com/watch?v=0kIBwaQNxgs
 youtube_url: https://www.youtube.com/watch?v=0kIBwaQNxgs
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Beyond Gemini: Using RL to unlock reliable AI agents with open LLMs"
 slug: beyond-gemini-using-rl-to-unlock-reliable-ai-agents-with
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: sfg2UoCl4iw
 url: https://www.youtube.com/watch?v=sfg2UoCl4iw
 youtube_url: https://www.youtube.com/watch?v=sfg2UoCl4iw
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

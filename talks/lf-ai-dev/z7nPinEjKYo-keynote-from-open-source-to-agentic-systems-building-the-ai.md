@@ -4,7 +4,7 @@ title: "Keynote: From Open Source to Agentic Systems: Building the AI Native Era
 slug: keynote-from-open-source-to-agentic-systems-building-the-ai
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Brendan Burns"]
@@ -15,6 +15,7 @@ video_id: z7nPinEjKYo
 url: https://www.youtube.com/watch?v=z7nPinEjKYo
 youtube_url: https://www.youtube.com/watch?v=z7nPinEjKYo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

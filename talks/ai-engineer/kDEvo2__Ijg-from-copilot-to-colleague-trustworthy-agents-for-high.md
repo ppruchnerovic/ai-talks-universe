@@ -4,7 +4,7 @@ title: "From Copilot to Colleague: Trustworthy Agents for High-Stakes - Joel Hro
 slug: from-copilot-to-colleague-trustworthy-agents-for-high
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Joel Hron"]
@@ -15,6 +15,7 @@ video_id: kDEvo2__Ijg
 url: https://www.youtube.com/watch?v=kDEvo2__Ijg
 youtube_url: https://www.youtube.com/watch?v=kDEvo2__Ijg
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

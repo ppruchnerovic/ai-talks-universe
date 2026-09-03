@@ -4,7 +4,7 @@ title: "AI for enhanced systematic review and evidence synthesis | AI in Public 
 slug: ai-for-enhanced-systematic-review-and-evidence-synthesis-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Ian Shemilt"]
@@ -15,6 +15,7 @@ video_id: fZGRaDjb84g
 url: https://www.youtube.com/watch?v=fZGRaDjb84g
 youtube_url: https://www.youtube.com/watch?v=fZGRaDjb84g
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

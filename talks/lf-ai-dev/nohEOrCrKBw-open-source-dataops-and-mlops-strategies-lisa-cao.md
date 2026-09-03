@@ -4,7 +4,7 @@ title: "Open Source DataOps and MLOps Strategies - Lisa Cao, SystemsNull"
 slug: open-source-dataops-and-mlops-strategies-lisa-cao
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Lisa Cao"]
@@ -15,6 +15,7 @@ video_id: nohEOrCrKBw
 url: https://www.youtube.com/watch?v=nohEOrCrKBw
 youtube_url: https://www.youtube.com/watch?v=nohEOrCrKBw
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

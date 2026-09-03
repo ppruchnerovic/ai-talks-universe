@@ -4,7 +4,7 @@ title: "The Best Engineer in the Room Doesn't Write Code | Kilo Code"
 slug: the-best-engineer-in-the-room-doesn-t-write-code-kilo-code
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: ["Kilo Code"]
@@ -15,6 +15,7 @@ video_id: O0ELM9ZqkE8
 url: https://www.youtube.com/watch?v=O0ELM9ZqkE8
 youtube_url: https://www.youtube.com/watch?v=O0ELM9ZqkE8
 tags: ["AI"]
+topics: []
 transcript: true
 ---
 

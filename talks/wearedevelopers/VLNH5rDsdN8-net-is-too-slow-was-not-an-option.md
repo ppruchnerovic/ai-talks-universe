@@ -4,7 +4,7 @@ title: "\".Net is too slow\" was not an option"
 slug: net-is-too-slow-was-not-an-option
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Tomasz Woznica"]
@@ -15,6 +15,7 @@ video_id: VLNH5rDsdN8
 url: https://www.youtube.com/watch?v=VLNH5rDsdN8
 youtube_url: https://www.youtube.com/watch?v=VLNH5rDsdN8
 tags: ["Languages & Runtimes", "C#", "Distributed Systems", "Performance", "Scaling", "Software Architecture", "SQL", "Streaming", "System Design", "Threat Modelling"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

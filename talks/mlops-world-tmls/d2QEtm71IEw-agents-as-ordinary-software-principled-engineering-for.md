@@ -4,7 +4,7 @@ title: "Agents as Ordinary Software: Principled Engineering for Scale | Linus Le
 slug: agents-as-ordinary-software-principled-engineering-for
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Linus Lee", "Thrive Capital"]
@@ -15,6 +15,7 @@ video_id: d2QEtm71IEw
 url: https://www.youtube.com/watch?v=d2QEtm71IEw
 youtube_url: https://www.youtube.com/watch?v=d2QEtm71IEw
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

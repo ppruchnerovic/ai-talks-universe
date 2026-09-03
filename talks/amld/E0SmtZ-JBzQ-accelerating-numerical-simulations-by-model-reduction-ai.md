@@ -4,7 +4,7 @@ title: "Accelerating Numerical Simulations by Model Reduction | AI & Physics | F
 slug: accelerating-numerical-simulations-by-model-reduction-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Florent Krzakala"]
@@ -15,6 +15,7 @@ video_id: E0SmtZ-JBzQ
 url: https://www.youtube.com/watch?v=E0SmtZ-JBzQ
 youtube_url: https://www.youtube.com/watch?v=E0SmtZ-JBzQ
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

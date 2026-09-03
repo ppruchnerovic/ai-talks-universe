@@ -4,7 +4,7 @@ title: "Bouquin - MCP basics with Conda and Claude | PyData Vermont 2025"
 slug: bouquin-mcp-basics-with-conda-and-claude-pydata-vermont-2025
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: bPc0afWxEwo
 url: https://www.youtube.com/watch?v=bPc0afWxEwo
 youtube_url: https://www.youtube.com/watch?v=bPc0afWxEwo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

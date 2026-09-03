@@ -4,7 +4,7 @@ title: "How agents will unlock the $500B promise of AI - Donald Hruska, Retool"
 slug: how-agents-will-unlock-the-500b-promise-of-ai-donald-hruska
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Donald Hruska"]
@@ -15,6 +15,7 @@ video_id: Lqq_LcBaJCc
 url: https://www.youtube.com/watch?v=Lqq_LcBaJCc
 youtube_url: https://www.youtube.com/watch?v=Lqq_LcBaJCc
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

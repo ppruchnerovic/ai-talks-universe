@@ -4,7 +4,7 @@ title: "PyTorch and CPU-GPU Synchronizations [PyCon DE & PyData 2026]"
 slug: pytorch-and-cpu-gpu-synchronizations-pycon-de-pydata-2026
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Tomas Ruiz"]
@@ -15,6 +15,7 @@ video_id: dKZxUcuOb8A
 url: https://www.youtube.com/watch?v=dKZxUcuOb8A
 youtube_url: https://www.youtube.com/watch?v=dKZxUcuOb8A
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

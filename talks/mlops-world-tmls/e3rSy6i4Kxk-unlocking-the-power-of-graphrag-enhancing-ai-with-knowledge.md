@@ -4,7 +4,7 @@ title: "Unlocking the Power of GraphRAG: Enhancing AI with Knowledge Graphs, Ret
 slug: unlocking-the-power-of-graphrag-enhancing-ai-with-knowledge
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: e3rSy6i4Kxk
 url: https://www.youtube.com/watch?v=e3rSy6i4Kxk
 youtube_url: https://www.youtube.com/watch?v=e3rSy6i4Kxk
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Classic ML & data science", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

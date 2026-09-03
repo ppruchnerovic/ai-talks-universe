@@ -4,7 +4,7 @@ title: "Build your own enterprise app with the C3 Agentic AI Platform | STUDIOSP
 slug: build-your-own-enterprise-app-with-the-c3-agentic-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Adrian Rami"]
@@ -15,6 +15,7 @@ video_id: xRApEkWYsq4
 url: https://www.youtube.com/watch?v=xRApEkWYsq4
 youtube_url: https://www.youtube.com/watch?v=xRApEkWYsq4
 tags: ["Adrian Rami", "Agentic business applications", "Build your own enterprise app with the C3 Agentic AI Platform | STUDIOSP76", "English (US)", "STUDIOSP76", "STUDIOSP76_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

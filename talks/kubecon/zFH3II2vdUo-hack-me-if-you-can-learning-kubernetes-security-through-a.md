@@ -4,7 +4,7 @@ title: "Hack Me If You Can: Learning Kubernetes Security Through a Role-P... Aoi
 slug: hack-me-if-you-can-learning-kubernetes-security-through-a
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: zFH3II2vdUo
 url: https://www.youtube.com/watch?v=zFH3II2vdUo
 youtube_url: https://www.youtube.com/watch?v=zFH3II2vdUo
 tags: []
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

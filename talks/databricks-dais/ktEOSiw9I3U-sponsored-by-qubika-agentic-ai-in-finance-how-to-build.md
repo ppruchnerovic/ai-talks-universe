@@ -4,7 +4,7 @@ title: "Sponsored by: Qubika | Agentic AI In Finance: How To Build Agents Using 
 slug: sponsored-by-qubika-agentic-ai-in-finance-how-to-build
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ktEOSiw9I3U
 url: https://www.youtube.com/watch?v=ktEOSiw9I3U
 youtube_url: https://www.youtube.com/watch?v=ktEOSiw9I3U
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

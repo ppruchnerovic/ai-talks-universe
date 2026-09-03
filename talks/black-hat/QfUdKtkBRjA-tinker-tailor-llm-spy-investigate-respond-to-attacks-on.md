@@ -4,7 +4,7 @@ title: "Tinker Tailor LLM Spy: Investigate & Respond to Attacks on GenAI Chatbot
 slug: tinker-tailor-llm-spy-investigate-respond-to-attacks-on
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: QfUdKtkBRjA
 url: https://www.youtube.com/watch?v=QfUdKtkBRjA
 youtube_url: https://www.youtube.com/watch?v=QfUdKtkBRjA
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

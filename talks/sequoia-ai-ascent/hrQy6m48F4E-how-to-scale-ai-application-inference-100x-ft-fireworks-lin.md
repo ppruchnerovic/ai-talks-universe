@@ -4,7 +4,7 @@ title: "How to Scale AI Application Inference 100x ft. Fireworks’ Lin Qiao"
 slug: how-to-scale-ai-application-inference-100x-ft-fireworks-lin
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: hrQy6m48F4E
 url: https://www.youtube.com/watch?v=hrQy6m48F4E
 youtube_url: https://www.youtube.com/watch?v=hrQy6m48F4E
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

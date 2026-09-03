@@ -4,7 +4,7 @@ title: "Tammuz Dubnov - When Our PM Started Writing Code: What Merge Rate Taught
 slug: tammuz-dubnov-when-our-pm-started-writing-code-what-merge
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Tammuz Dubnov"]
@@ -15,6 +15,7 @@ video_id: KzhjnILSP0Y
 url: https://www.youtube.com/watch?v=KzhjnILSP0Y
 youtube_url: https://www.youtube.com/watch?v=KzhjnILSP0Y
 tags: ["AI DevCon London 2026", "AI adoption", "AI in software development", "AI-native organizations", "Autonomy AI", "PMs writing code", "What is merge rate?", "agentic coding", "ainativedev", "context engineering", "developer experience", "how to measure AI adoption", "merge rate", "production code", "when PMs write code"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

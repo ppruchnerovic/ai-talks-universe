@@ -4,7 +4,7 @@ title: "Secure code to cloud with AI infused DevSecOps | BRK112"
 slug: secure-code-to-cloud-with-ai-infused-devsecops-brk112
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Oz Wilder", "Charlie Doubek", "Marcelo Oliveira", "Manuel Sanchez Rodriguez"]
@@ -15,6 +15,7 @@ video_id: AiFB7jlmZ3E
 url: https://www.youtube.com/watch?v=AiFB7jlmZ3E
 youtube_url: https://www.youtube.com/watch?v=AiFB7jlmZ3E
 tags: ["BRK112", "Charlie Doubek", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:GitHub", "Innovate with Azure AI apps and agents:Microsoft Defender for Cloud", "Marcelo Oliveira", "Oz Wilder", "Secure code to cloud with AI infused DevSecOps | BRK112", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

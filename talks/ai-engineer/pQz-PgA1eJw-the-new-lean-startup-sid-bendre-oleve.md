@@ -4,7 +4,7 @@ title: "The New Lean Startup — Sid Bendre, Oleve"
 slug: the-new-lean-startup-sid-bendre-oleve
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Sid Bendre"]
@@ -15,6 +15,7 @@ video_id: pQz-PgA1eJw
 url: https://www.youtube.com/watch?v=pQz-PgA1eJw
 youtube_url: https://www.youtube.com/watch?v=pQz-PgA1eJw
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

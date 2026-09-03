@@ -4,7 +4,7 @@ title: "Microsoft Ignite: Day 1 Keynote"
 slug: microsoft-ignite-day-1-keynote
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: wb_uWHFJBnA
 url: https://www.youtube.com/watch?v=wb_uWHFJBnA
 youtube_url: https://www.youtube.com/watch?v=wb_uWHFJBnA
 tags: ["Microsoft", "Microsoft Ignite", "#MSIgnite", "AI"]
+topics: []
 transcript: false
 ---
 

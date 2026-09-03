@@ -4,7 +4,7 @@ title: "Lessons from 1,000 Hires | Elias Torres (Agency)"
 slug: lessons-from-1-000-hires-elias-torres-agency
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Elias Torres"]
@@ -15,6 +15,7 @@ video_id: dWG8e21Cr1E
 url: https://www.youtube.com/watch?v=dWG8e21Cr1E
 youtube_url: https://www.youtube.com/watch?v=dWG8e21Cr1E
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Introducing the SQL MCP Server - Jerry Nixon - NDC Toronto 2026"
 slug: introducing-the-sql-mcp-server-jerry-nixon-ndc-toronto-2026
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Jerry Nixon"]
@@ -15,6 +15,7 @@ video_id: qJCkC4wZG6E
 url: https://www.youtube.com/watch?v=qJCkC4wZG6E
 youtube_url: https://www.youtube.com/watch?v=qJCkC4wZG6E
 tags: ["SQL Server", "Azure SQL", "PostgreSQL", "Cosmos DB", "and MySQL", "GraphQL", "API", "SQL MCP Server", "Architecture", "Database", "Microsoft", "SQL", "Azure", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada"]
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

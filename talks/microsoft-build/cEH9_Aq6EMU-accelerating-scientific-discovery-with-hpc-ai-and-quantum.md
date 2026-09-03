@@ -4,7 +4,7 @@ title: "Accelerating Scientific Discovery with HPC AI and Quantum Computing | BR
 slug: accelerating-scientific-discovery-with-hpc-ai-and-quantum
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cEH9_Aq6EMU
 url: https://www.youtube.com/watch?v=cEH9_Aq6EMU
 youtube_url: https://www.youtube.com/watch?v=cEH9_Aq6EMU
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

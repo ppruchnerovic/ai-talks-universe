@@ -4,7 +4,7 @@ title: "Keynote: Chang She - Never Send a Human to do an Agent's Search | PyData
 slug: keynote-chang-she-never-send-a-human-to-do-an-agent-s
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: op5WDRVhxVc
 url: https://www.youtube.com/watch?v=op5WDRVhxVc
 youtube_url: https://www.youtube.com/watch?v=op5WDRVhxVc
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

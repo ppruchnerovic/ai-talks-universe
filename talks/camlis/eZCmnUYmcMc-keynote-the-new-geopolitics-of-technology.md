@@ -4,7 +4,7 @@ title: "Keynote - The New Geopolitics of Technology"
 slug: keynote-the-new-geopolitics-of-technology
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Nathaniel Fick"]
@@ -15,6 +15,7 @@ video_id: eZCmnUYmcMc
 url: https://www.youtube.com/watch?v=eZCmnUYmcMc
 youtube_url: https://www.youtube.com/watch?v=eZCmnUYmcMc
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "How To Lead Through Transformation in Tech • Hannah Foxwell & Charles 
 slug: how-to-lead-through-transformation-in-tech-hannah-foxwell
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Hannah Foxwell"]
@@ -15,6 +15,7 @@ video_id: 042HY4YiL5U
 url: https://www.youtube.com/watch?v=042HY4YiL5U
 youtube_url: https://www.youtube.com/watch?v=042HY4YiL5U
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

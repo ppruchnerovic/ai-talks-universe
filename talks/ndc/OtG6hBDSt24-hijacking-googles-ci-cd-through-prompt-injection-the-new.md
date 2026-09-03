@@ -4,7 +4,7 @@ title: "Hijacking Google’s CI/CD Through Prompt Injection:The New Era of AI-Ba
 slug: hijacking-googles-ci-cd-through-prompt-injection-the-new
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: OtG6hBDSt24
 url: https://www.youtube.com/watch?v=OtG6hBDSt24
 youtube_url: https://www.youtube.com/watch?v=OtG6hBDSt24
 tags: ["Application Security", "Architecture", "DevOps", "Supply Chain", "Testing", "CI/CD", "CI/CD Pipeline", "AI", "GitHub", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Mackenzie Jackson"]
+topics: ["AI in the SDLC & engineering orgs", "Security, safety & red teaming"]
 transcript: true
 ---
 

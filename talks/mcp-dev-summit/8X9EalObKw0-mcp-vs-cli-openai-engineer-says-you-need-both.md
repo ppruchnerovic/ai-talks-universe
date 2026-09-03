@@ -4,7 +4,7 @@ title: "MCP vs CLI OpenAI Engineer Says You Need Both"
 slug: mcp-vs-cli-openai-engineer-says-you-need-both
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8X9EalObKw0
 url: https://www.youtube.com/watch?v=8X9EalObKw0
 youtube_url: https://www.youtube.com/watch?v=8X9EalObKw0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

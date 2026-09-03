@@ -4,7 +4,7 @@ title: "Foreign Information Manipulation and Interference (Disinformation 2.0)"
 slug: foreign-information-manipulation-and-interference
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: I5tZlIpWMWM
 url: https://www.youtube.com/watch?v=I5tZlIpWMWM
 youtube_url: https://www.youtube.com/watch?v=I5tZlIpWMWM
 tags: []
+topics: []
 transcript: false
 ---
 

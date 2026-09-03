@@ -4,7 +4,7 @@ title: "Sandbox Operator: Enabling Session-Aware, Efficient MCP Tool Execution..
 slug: sandbox-operator-enabling-session-aware-efficient-mcp-tool
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: vi_VhZLWs9k
 url: https://www.youtube.com/watch?v=vi_VhZLWs9k
 youtube_url: https://www.youtube.com/watch?v=vi_VhZLWs9k
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

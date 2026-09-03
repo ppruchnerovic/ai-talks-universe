@@ -4,7 +4,7 @@ title: "Lightning Talk: Dynamic Shape Recompilations - Bob Ren, Meta"
 slug: lightning-talk-dynamic-shape-recompilations-bob-ren-meta
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Bob Ren"]
@@ -15,6 +15,7 @@ video_id: 41SJlmrjpYk
 url: https://www.youtube.com/watch?v=41SJlmrjpYk
 youtube_url: https://www.youtube.com/watch?v=41SJlmrjpYk
 tags: []
+topics: []
 transcript: false
 ---
 

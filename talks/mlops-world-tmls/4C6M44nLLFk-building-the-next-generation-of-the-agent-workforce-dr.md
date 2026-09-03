@@ -4,7 +4,7 @@ title: "Building the Next Generation of the Agent Workforce | Dr. Qingyun Wu, AG
 slug: building-the-next-generation-of-the-agent-workforce-dr
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Dr. Qingyun Wu"]
@@ -15,6 +15,7 @@ video_id: 4C6M44nLLFk
 url: https://www.youtube.com/watch?v=4C6M44nLLFk
 youtube_url: https://www.youtube.com/watch?v=4C6M44nLLFk
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

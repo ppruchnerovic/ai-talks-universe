@@ -4,7 +4,7 @@ title: "Evolving AI chat with MCP Apps - Phil Nash - NDC Copenhagen 2026"
 slug: evolving-ai-chat-with-mcp-apps-phil-nash-ndc-copenhagen-2026
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Phil Nash"]
@@ -15,6 +15,7 @@ video_id: CXtiHjCYSH8
 url: https://www.youtube.com/watch?v=CXtiHjCYSH8
 youtube_url: https://www.youtube.com/watch?v=CXtiHjCYSH8
 tags: ["AI", "Web", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Phil Nash"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

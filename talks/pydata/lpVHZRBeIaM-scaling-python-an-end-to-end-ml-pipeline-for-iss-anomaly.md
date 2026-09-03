@@ -4,7 +4,7 @@ title: "Scaling Python: An End-to-End ML Pipeline for ISS Anomaly Detection with
 slug: scaling-python-an-end-to-end-ml-pipeline-for-iss-anomaly
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Christian Geier"]
@@ -15,6 +15,7 @@ video_id: lpVHZRBeIaM
 url: https://www.youtube.com/watch?v=lpVHZRBeIaM
 youtube_url: https://www.youtube.com/watch?v=lpVHZRBeIaM
 tags: ["Conference", "Dask", "ISS", "KServe", "Katib", "Kubeflow", "Kubernetes", "MLFlow", "MLOps", "PyCon", "PyConDE", "PyData", "PyTorch", "Python", "Tech Talk", "anomaly detection", "data science", "distributed computing", "machine learning"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

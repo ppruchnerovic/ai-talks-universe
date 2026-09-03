@@ -4,7 +4,7 @@ title: "Eval++: Why LLM Evaluation Alone Isn’t Enough"
 slug: eval-why-llm-evaluation-alone-isnt-enough
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ggLdvIIir_I
 url: https://www.youtube.com/watch?v=ggLdvIIir_I
 youtube_url: https://www.youtube.com/watch?v=ggLdvIIir_I
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Generative AI, agents, MCP, and the future of AI-po
 slug: aws-re-invent-2025-generative-ai-agents-mcp-and-the-future
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Kq0Se1nnT3U
 url: https://www.youtube.com/watch?v=Kq0Se1nnT3U
 youtube_url: https://www.youtube.com/watch?v=Kq0Se1nnT3U
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Unlocking Enterprise Data to Agents with MCP"
 slug: unlocking-enterprise-data-to-agents-with-mcp
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: F_xdCdiWdh0
 url: https://www.youtube.com/watch?v=F_xdCdiWdh0
 youtube_url: https://www.youtube.com/watch?v=F_xdCdiWdh0
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

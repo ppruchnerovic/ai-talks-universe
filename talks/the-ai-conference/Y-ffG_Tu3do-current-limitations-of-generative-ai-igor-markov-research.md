@@ -4,7 +4,7 @@ title: "Current Limitations Of Generative AI, Igor Markov, Research Scientist, M
 slug: current-limitations-of-generative-ai-igor-markov-research
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: Y-ffG_Tu3do
 url: https://www.youtube.com/watch?v=Y-ffG_Tu3do
 youtube_url: https://www.youtube.com/watch?v=Y-ffG_Tu3do
 tags: []
+topics: []
 transcript: false
 ---
 

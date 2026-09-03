@@ -4,7 +4,7 @@ title: "GitHub Copilot's Latency Secrets: How They Built Sub-200ms Autocomplete"
 slug: github-copilot-s-latency-secrets-how-they-built-sub-200ms
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: zemBW3diXIs
 url: https://www.youtube.com/watch?v=zemBW3diXIs
 youtube_url: https://www.youtube.com/watch?v=zemBW3diXIs
 tags: ["GitHub", "GitHub Copilot", "Low Latency", "Software Architecture", "HTTP2", "Large Language Models", "LLMs", "Scalability", "AI", "Artificial Intelligence", "Performance", "InfoQ", "QCon San Francisco", "Transcript", "Availability"]
+topics: ["Coding assistants & agents", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

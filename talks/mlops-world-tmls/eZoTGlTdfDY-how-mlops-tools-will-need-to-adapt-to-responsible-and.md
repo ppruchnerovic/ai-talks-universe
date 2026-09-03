@@ -4,7 +4,7 @@ title: "How MLOps Tools Will Need to Adapt to Responsible and Ethical AI Stay Ah
 slug: how-mlops-tools-will-need-to-adapt-to-responsible-and
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Patricia Thaine"]
@@ -15,6 +15,7 @@ video_id: eZoTGlTdfDY
 url: https://www.youtube.com/watch?v=eZoTGlTdfDY
 youtube_url: https://www.youtube.com/watch?v=eZoTGlTdfDY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

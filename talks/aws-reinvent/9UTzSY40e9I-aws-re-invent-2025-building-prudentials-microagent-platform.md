@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Building Prudential’s microagent platform with MC
 slug: aws-re-invent-2025-building-prudentials-microagent-platform
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9UTzSY40e9I
 url: https://www.youtube.com/watch?v=9UTzSY40e9I
 youtube_url: https://www.youtube.com/watch?v=9UTzSY40e9I
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

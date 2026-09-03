@@ -4,7 +4,7 @@ title: "Unlocking Africa's Potential with AI — Thabang Ledwaba"
 slug: unlocking-africa-s-potential-with-ai-thabang-ledwaba
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Thabang Ledwaba"]
@@ -15,6 +15,7 @@ video_id: eD_6jP1fkKs
 url: https://www.youtube.com/watch?v=eD_6jP1fkKs
 youtube_url: https://www.youtube.com/watch?v=eD_6jP1fkKs
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

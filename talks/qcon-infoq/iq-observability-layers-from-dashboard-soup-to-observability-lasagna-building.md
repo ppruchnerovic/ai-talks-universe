@@ -4,7 +4,7 @@ title: "From Dashboard Soup to Observability Lasagna: Building Better Layers"
 slug: from-dashboard-soup-to-observability-lasagna-building
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Martha Lambert"]
@@ -15,6 +15,7 @@ video_id: iq-observability-layers
 url: https://www.infoq.com/presentations/observability-layers/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

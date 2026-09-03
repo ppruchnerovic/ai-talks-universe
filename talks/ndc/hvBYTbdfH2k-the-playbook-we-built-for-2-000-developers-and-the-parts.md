@@ -4,7 +4,7 @@ title: "The playbook we built for 2,000 developers (and the parts... - Håkon Er
 slug: the-playbook-we-built-for-2-000-developers-and-the-parts
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Håkon Eriksson", "Øyvind Viken"]
@@ -15,6 +15,7 @@ video_id: hvBYTbdfH2k
 url: https://www.youtube.com/watch?v=hvBYTbdfH2k
 youtube_url: https://www.youtube.com/watch?v=hvBYTbdfH2k
 tags: ["AI-Assisted Development", "AI", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Håkon Eriksson", "Øyvind Viken"]
+topics: []
 transcript: true
 ---
 

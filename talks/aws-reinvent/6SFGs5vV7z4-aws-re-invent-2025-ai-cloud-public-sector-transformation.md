@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - AI, Cloud & Public Sector Transformation: PwC & AWS
 slug: aws-re-invent-2025-ai-cloud-public-sector-transformation
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6SFGs5vV7z4
 url: https://www.youtube.com/watch?v=6SFGs5vV7z4
 youtube_url: https://www.youtube.com/watch?v=6SFGs5vV7z4
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

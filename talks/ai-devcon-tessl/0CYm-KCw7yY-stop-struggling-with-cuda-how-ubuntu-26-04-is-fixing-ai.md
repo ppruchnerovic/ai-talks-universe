@@ -4,7 +4,7 @@ title: "Stop Struggling with CUDA: How Ubuntu 26.04 is Fixing AI Development For
 slug: stop-struggling-with-cuda-how-ubuntu-26-04-is-fixing-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0CYm-KCw7yY
 url: https://www.youtube.com/watch?v=0CYm-KCw7yY
 youtube_url: https://www.youtube.com/watch?v=0CYm-KCw7yY
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

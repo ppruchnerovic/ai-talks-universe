@@ -4,7 +4,7 @@ title: "Ambient and Autonomous Security: Building Trust in the Agentic AI Era"
 slug: ambient-and-autonomous-security-building-trust-in-the
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: o4xrjdEPfoc
 url: https://www.youtube.com/watch?v=o4xrjdEPfoc
 youtube_url: https://www.youtube.com/watch?v=o4xrjdEPfoc
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

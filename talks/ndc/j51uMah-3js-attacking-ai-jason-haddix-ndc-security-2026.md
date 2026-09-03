@@ -4,7 +4,7 @@ title: "Attacking AI - Jason Haddix - NDC Security 2026"
 slug: attacking-ai-jason-haddix-ndc-security-2026
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Jason Haddix"]
@@ -15,6 +15,7 @@ video_id: j51uMah-3js
 url: https://www.youtube.com/watch?v=j51uMah-3js
 youtube_url: https://www.youtube.com/watch?v=j51uMah-3js
 tags: ["Jason Haddix", "AI", "ML", "Machine Learning", "Application Security", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Security"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

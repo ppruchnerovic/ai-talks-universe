@@ -4,7 +4,7 @@ title: "Technical Workshop: From Planning To Production-Ready RAG - Ezequiel Lan
 slug: technical-workshop-from-planning-to-production-ready-rag
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Ezequiel Lanza", "Andreas Kollegger"]
@@ -15,6 +15,7 @@ video_id: b3mxHjg4ukg
 url: https://www.youtube.com/watch?v=b3mxHjg4ukg
 youtube_url: https://www.youtube.com/watch?v=b3mxHjg4ukg
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

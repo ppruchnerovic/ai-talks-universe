@@ -4,7 +4,7 @@ title: "Modeling fracture using physics-informed deep learning | Scientific Mach
 slug: modeling-fracture-using-physics-informed-deep-learning
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Manav Manav"]
@@ -15,6 +15,7 @@ video_id: VXp-fTFVtX8
 url: https://www.youtube.com/watch?v=VXp-fTFVtX8
 youtube_url: https://www.youtube.com/watch?v=VXp-fTFVtX8
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "How the VAST AI Operating System Powers a Dynamic Data Plane for Ray | R
 slug: how-the-vast-ai-operating-system-powers-a-dynamic-data
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9FwufB6sHDQ
 url: https://www.youtube.com/watch?v=9FwufB6sHDQ
 youtube_url: https://www.youtube.com/watch?v=9FwufB6sHDQ
 tags: []
+topics: []
 transcript: false
 ---
 

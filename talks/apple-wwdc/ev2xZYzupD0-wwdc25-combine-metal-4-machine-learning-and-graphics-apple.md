@@ -4,7 +4,7 @@ title: "WWDC25: Combine Metal 4 machine learning and graphics | Apple"
 slug: wwdc25-combine-metal-4-machine-learning-and-graphics-apple
 conference: apple-wwdc
 conference_name: "Apple WWDC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "WWDC25"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ev2xZYzupD0
 url: https://www.youtube.com/watch?v=ev2xZYzupD0
 youtube_url: https://www.youtube.com/watch?v=ev2xZYzupD0
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

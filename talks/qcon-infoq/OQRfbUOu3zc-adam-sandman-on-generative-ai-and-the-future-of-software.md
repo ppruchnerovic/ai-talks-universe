@@ -4,7 +4,7 @@ title: "Adam Sandman on Generative AI and the Future of Software Testing"
 slug: adam-sandman-on-generative-ai-and-the-future-of-software
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: OQRfbUOu3zc
 url: https://www.youtube.com/watch?v=OQRfbUOu3zc
 youtube_url: https://www.youtube.com/watch?v=OQRfbUOu3zc
 tags: []
+topics: []
 transcript: false
 ---
 

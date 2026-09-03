@@ -4,7 +4,7 @@ title: "Connecting the Dots with Context Graphs — Stephen Chin, Neo4j"
 slug: connecting-the-dots-with-context-graphs-stephen-chin-neo4j
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Stephen Chin"]
@@ -15,6 +15,7 @@ video_id: eW_vxrjvERk
 url: https://www.youtube.com/watch?v=eW_vxrjvERk
 youtube_url: https://www.youtube.com/watch?v=eW_vxrjvERk
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

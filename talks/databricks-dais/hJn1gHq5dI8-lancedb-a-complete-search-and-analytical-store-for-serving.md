@@ -4,7 +4,7 @@ title: "LanceDB: A Complete Search and Analytical Store for Serving Production-s
 slug: lancedb-a-complete-search-and-analytical-store-for-serving
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: hJn1gHq5dI8
 url: https://www.youtube.com/watch?v=hJn1gHq5dI8
 youtube_url: https://www.youtube.com/watch?v=hJn1gHq5dI8
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

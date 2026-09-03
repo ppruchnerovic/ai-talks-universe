@@ -4,7 +4,7 @@ title: "From Fab To Token - The State Of The Market"
 slug: from-fab-to-token-the-state-of-the-market
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI Boston 2026"
 year: 2026
 speakers: ["Jordan Nanos"]
@@ -15,6 +15,7 @@ video_id: iq-ai-hardware-tokenomics
 url: https://www.infoq.com/presentations/ai-hardware-tokenomics/
 youtube_url: null
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

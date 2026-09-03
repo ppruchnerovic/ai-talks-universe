@@ -4,7 +4,7 @@ title: "The power of context: From traditional RAG to multi-agent retrieval - Co
 slug: the-power-of-context-from-traditional-rag-to-multi-agent
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: JYZXsH1Xz0I
 url: https://www.youtube.com/watch?v=JYZXsH1Xz0I
 youtube_url: https://www.youtube.com/watch?v=JYZXsH1Xz0I
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

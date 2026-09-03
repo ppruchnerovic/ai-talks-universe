@@ -4,7 +4,7 @@ title: "Dr. June Andrews, Lat Long Labs: Optimizing Quality of Life:A Feat of Br
 slug: dr-june-andrews-lat-long-labs-optimizing-quality-of-life-a
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: g-upPybdXQU
 url: https://www.youtube.com/watch?v=g-upPybdXQU
 youtube_url: https://www.youtube.com/watch?v=g-upPybdXQU
 tags: []
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

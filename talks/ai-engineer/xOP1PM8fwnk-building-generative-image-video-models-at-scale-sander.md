@@ -4,7 +4,7 @@ title: "Building Generative Image & Video models at Scale - Sander Dieleman, Goo
 slug: building-generative-image-video-models-at-scale-sander
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sander Dieleman"]
@@ -15,6 +15,7 @@ video_id: xOP1PM8fwnk
 url: https://www.youtube.com/watch?v=xOP1PM8fwnk
 youtube_url: https://www.youtube.com/watch?v=xOP1PM8fwnk
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

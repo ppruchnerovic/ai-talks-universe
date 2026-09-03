@@ -4,7 +4,7 @@ title: "Agent mode for \"serious\" developers | DEM519"
 slug: agent-mode-for-serious-developers-dem519
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: GWEZ_JN0zy0
 url: https://www.youtube.com/watch?v=GWEZ_JN0zy0
 youtube_url: https://www.youtube.com/watch?v=GWEZ_JN0zy0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

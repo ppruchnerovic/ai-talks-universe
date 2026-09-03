@@ -4,7 +4,7 @@ title: "The 50-State Plan: Public-Private Models for AI Infrastructure and Unive
 slug: the-50-state-plan-public-private-models-for-ai
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: uv8va8bIqus
 url: https://www.youtube.com/watch?v=uv8va8bIqus
 youtube_url: https://www.youtube.com/watch?v=uv8va8bIqus
 tags: ["NVIDIA", "NVIDIA GTC 2026"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

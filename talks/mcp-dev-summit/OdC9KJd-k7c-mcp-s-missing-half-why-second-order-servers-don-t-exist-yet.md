@@ -4,7 +4,7 @@ title: "MCP's Missing Half: Why Second-Order Servers Don't Exist Yet"
 slug: mcp-s-missing-half-why-second-order-servers-don-t-exist-yet
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: OdC9KJd-k7c
 url: https://www.youtube.com/watch?v=OdC9KJd-k7c
 youtube_url: https://www.youtube.com/watch?v=OdC9KJd-k7c
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

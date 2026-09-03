@@ -4,7 +4,7 @@ title: "My MCP Server Code Works, but the Agent Fails: The Case for MCP-specif..
 slug: my-mcp-server-code-works-but-the-agent-fails-the-case-for
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: r_otBm1fZmM
 url: https://www.youtube.com/watch?v=r_otBm1fZmM
 youtube_url: https://www.youtube.com/watch?v=r_otBm1fZmM
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

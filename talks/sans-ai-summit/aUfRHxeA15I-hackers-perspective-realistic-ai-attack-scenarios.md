@@ -4,7 +4,7 @@ title: "Hacker’s Perspective: Realistic AI Attack Scenarios"
 slug: hackers-perspective-realistic-ai-attack-scenarios
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: aUfRHxeA15I
 url: https://www.youtube.com/watch?v=aUfRHxeA15I
 youtube_url: https://www.youtube.com/watch?v=aUfRHxeA15I
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Lima Project Updates: Expanding the Focus To Hardening AI - Akihiro Suda
 slug: lima-project-updates-expanding-the-focus-to-hardening-ai
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Akihiro Suda"]
@@ -15,6 +15,7 @@ video_id: Cb5gGTFS5M0
 url: https://www.youtube.com/watch?v=Cb5gGTFS5M0
 youtube_url: https://www.youtube.com/watch?v=Cb5gGTFS5M0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

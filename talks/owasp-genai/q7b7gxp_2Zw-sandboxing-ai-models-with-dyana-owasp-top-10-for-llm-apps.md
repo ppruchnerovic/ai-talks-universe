@@ -4,7 +4,7 @@ title: "Sandboxing AI Models with Dyana & OWASP Top 10 for LLM Apps - Ep.4"
 slug: sandboxing-ai-models-with-dyana-owasp-top-10-for-llm-apps
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: q7b7gxp_2Zw
 url: https://www.youtube.com/watch?v=q7b7gxp_2Zw
 youtube_url: https://www.youtube.com/watch?v=q7b7gxp_2Zw
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

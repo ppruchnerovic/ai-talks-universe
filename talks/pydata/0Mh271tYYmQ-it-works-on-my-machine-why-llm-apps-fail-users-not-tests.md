@@ -4,7 +4,7 @@ title: "It Works on My Machine: Why LLM Apps Fail Users (Not Tests) [PyCon DE & 
 slug: it-works-on-my-machine-why-llm-apps-fail-users-not-tests
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Thomas Prexl"]
@@ -15,6 +15,7 @@ video_id: 0Mh271tYYmQ
 url: https://www.youtube.com/watch?v=0Mh271tYYmQ
 youtube_url: https://www.youtube.com/watch?v=0Mh271tYYmQ
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

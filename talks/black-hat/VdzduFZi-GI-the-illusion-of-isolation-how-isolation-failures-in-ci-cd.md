@@ -4,7 +4,7 @@ title: "The Illusion of Isolation: How Isolation Failures in CI/CD Servers Lead 
 slug: the-illusion-of-isolation-how-isolation-failures-in-ci-cd
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: VdzduFZi-GI
 url: https://www.youtube.com/watch?v=VdzduFZi-GI
 youtube_url: https://www.youtube.com/watch?v=VdzduFZi-GI
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

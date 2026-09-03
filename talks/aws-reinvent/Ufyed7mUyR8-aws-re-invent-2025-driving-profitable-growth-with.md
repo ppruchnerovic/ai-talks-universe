@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Driving Profitable Growth with Generative AI: From 
 slug: aws-re-invent-2025-driving-profitable-growth-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ufyed7mUyR8
 url: https://www.youtube.com/watch?v=Ufyed7mUyR8
 youtube_url: https://www.youtube.com/watch?v=Ufyed7mUyR8
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

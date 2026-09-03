@@ -4,7 +4,7 @@ title: "Why the Best AI Agents Are Built Without Frameworks (Primitives over Fra
 slug: why-the-best-ai-agents-are-built-without-frameworks
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ahmad Awais"]
@@ -15,6 +15,7 @@ video_id: fcPUqxfrE6Y
 url: https://www.youtube.com/watch?v=fcPUqxfrE6Y
 youtube_url: https://www.youtube.com/watch?v=fcPUqxfrE6Y
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

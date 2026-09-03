@@ -4,7 +4,7 @@ title: "Installed an MCP Server... Then This Happened"
 slug: installed-an-mcp-server-then-this-happened
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2_2yQ_b9fgs
 url: https://www.youtube.com/watch?v=2_2yQ_b9fgs
 youtube_url: https://www.youtube.com/watch?v=2_2yQ_b9fgs
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Build agents with knowledge, agentic RAG and Azure AI Search | BRK193"
 slug: build-agents-with-knowledge-agentic-rag-and-azure-ai-search
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Pamela Fox", "Matthew Gotteiner"]
@@ -15,6 +15,7 @@ video_id: lW47o2ss3Yg
 url: https://www.youtube.com/watch?v=lW47o2ss3Yg
 youtube_url: https://www.youtube.com/watch?v=lW47o2ss3Yg
 tags: ["BRK193", "Build agents with knowledge agentic RAG and Azure AI Search | BRK193", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Matthew Gotteiner", "Pamela Fox", "Technical", "c08e0548-1f24-417f-8424-4dc1e89f1e2f_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

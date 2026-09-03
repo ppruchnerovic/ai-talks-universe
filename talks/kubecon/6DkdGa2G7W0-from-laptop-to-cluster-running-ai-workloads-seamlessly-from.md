@@ -4,7 +4,7 @@ title: "From Laptop to Cluster: Running AI Workloads Seamlessly from Podman... A
 slug: from-laptop-to-cluster-running-ai-workloads-seamlessly-from
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6DkdGa2G7W0
 url: https://www.youtube.com/watch?v=6DkdGa2G7W0
 youtube_url: https://www.youtube.com/watch?v=6DkdGa2G7W0
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

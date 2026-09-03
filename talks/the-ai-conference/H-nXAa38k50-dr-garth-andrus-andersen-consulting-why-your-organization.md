@@ -4,7 +4,7 @@ title: "Dr. Garth Andrus, Andersen Consulting: Why Your Organization Is Built to
 slug: dr-garth-andrus-andersen-consulting-why-your-organization
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: H-nXAa38k50
 url: https://www.youtube.com/watch?v=H-nXAa38k50
 youtube_url: https://www.youtube.com/watch?v=H-nXAa38k50
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

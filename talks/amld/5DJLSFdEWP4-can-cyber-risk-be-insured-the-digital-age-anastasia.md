@@ -4,7 +4,7 @@ title: "Can cyber risk be insured? | The Digital Age | Anastasia Kartasheva"
 slug: can-cyber-risk-be-insured-the-digital-age-anastasia
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Anastasia Kartasheva"]
@@ -15,6 +15,7 @@ video_id: 5DJLSFdEWP4
 url: https://www.youtube.com/watch?v=5DJLSFdEWP4
 youtube_url: https://www.youtube.com/watch?v=5DJLSFdEWP4
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

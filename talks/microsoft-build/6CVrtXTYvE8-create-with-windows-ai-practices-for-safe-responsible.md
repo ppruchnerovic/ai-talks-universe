@@ -4,7 +4,7 @@ title: "Create with Windows AI: Practices For Safe Responsible Experiences | OD8
 slug: create-with-windows-ai-practices-for-safe-responsible
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6CVrtXTYvE8
 url: https://www.youtube.com/watch?v=6CVrtXTYvE8
 youtube_url: https://www.youtube.com/watch?v=6CVrtXTYvE8
 tags: []
+topics: []
 transcript: false
 ---
 

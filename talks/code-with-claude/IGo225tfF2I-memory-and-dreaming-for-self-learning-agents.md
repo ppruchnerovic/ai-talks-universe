@@ -4,7 +4,7 @@ title: "Memory and dreaming for self learning agents"
 slug: memory-and-dreaming-for-self-learning-agents
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: IGo225tfF2I
 url: https://www.youtube.com/watch?v=IGo225tfF2I
 youtube_url: https://www.youtube.com/watch?v=IGo225tfF2I
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

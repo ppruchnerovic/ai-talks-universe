@@ -4,7 +4,7 @@ title: "Prompt Injection: The AI Attack Hiding in Plain Sight"
 slug: prompt-injection-the-ai-attack-hiding-in-plain-sight
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: FDwXMfDHvyo
 url: https://www.youtube.com/watch?v=FDwXMfDHvyo
 youtube_url: https://www.youtube.com/watch?v=FDwXMfDHvyo
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

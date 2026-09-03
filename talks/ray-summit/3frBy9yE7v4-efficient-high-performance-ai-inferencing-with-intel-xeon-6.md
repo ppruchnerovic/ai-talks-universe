@@ -4,7 +4,7 @@ title: "Efficient, High-Performance AI Inferencing with Intel Xeon 6 | Ray Summi
 slug: efficient-high-performance-ai-inferencing-with-intel-xeon-6
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3frBy9yE7v4
 url: https://www.youtube.com/watch?v=3frBy9yE7v4
 youtube_url: https://www.youtube.com/watch?v=3frBy9yE7v4
 tags: []
+topics: []
 transcript: false
 ---
 

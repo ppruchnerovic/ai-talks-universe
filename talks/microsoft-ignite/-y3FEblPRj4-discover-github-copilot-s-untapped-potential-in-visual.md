@@ -4,7 +4,7 @@ title: "Discover GitHub Copilot's untapped potential in Visual Studio | BRK141"
 slug: discover-github-copilot-s-untapped-potential-in-visual
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Dalia Abo Sheasha", "Scott Hanselman", "Jessie Houghton"]
@@ -15,6 +15,7 @@ video_id: -y3FEblPRj4
 url: https://www.youtube.com/watch?v=-y3FEblPRj4
 youtube_url: https://www.youtube.com/watch?v=-y3FEblPRj4
 tags: [".NET", "Apps", "Apps-Curated", "BRK141", "Breakout", "Dalia Abo Sheasha", "Discover GitHub Copilot's untapped potential in Visual Studio | BRK141", "English (US)", "Github copilot", "Intermediate (200)", "Jessie Houghton", "Scott Hanselman", "Technical", "Version v1", "VisualStudio", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

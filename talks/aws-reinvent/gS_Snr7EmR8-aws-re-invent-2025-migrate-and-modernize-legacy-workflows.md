@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Migrate and Modernize Legacy Workflows to Intellige
 slug: aws-re-invent-2025-migrate-and-modernize-legacy-workflows
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: gS_Snr7EmR8
 url: https://www.youtube.com/watch?v=gS_Snr7EmR8
 youtube_url: https://www.youtube.com/watch?v=gS_Snr7EmR8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

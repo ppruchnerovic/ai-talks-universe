@@ -1,5 +1,5 @@
-// Conference / category / year filters, the three sort orders, Reset, and the
-// hash that makes any view a shareable link.
+// Conference / conference type / topic / year filters, the three sort orders, Reset,
+// and the hash that makes any view a shareable link.
 
 const L = require('./lib');
 
@@ -40,8 +40,75 @@ L.suite('filters', async browser => {
   await page.selectOption('#f-cat', cat);
   await page.waitForTimeout(400);
   const expCat = meta.talks.filter(t => t.g === cat).length;
-  L.check(`category "${cat}" returns exactly its talks`,
+  L.check(`conference type "${cat}" returns exactly its talks`,
     (await L.resultCount(page)) === expCat, `${await L.resultCount(page)} vs ${expCat}`);
+
+  // ---------- topics: multi-valued, so the test is membership ----------
+  // `k` is absent on a talk with no topic, and holds indices into the file's
+  // `topics` list; the option list is the union of the names.
+  const topicsOf = t => (t.k || []).map(i => meta.topics[i]);
+  const topics = [...new Set(meta.talks.flatMap(topicsOf))].sort();
+  await page.selectOption('#f-cat', '');
+  if (!topics.length) {
+    L.skip('topic filter', 'no talk carries a topic — run sync_catalog.py');
+  } else {
+    const topicOpts = await page.$$eval('#f-topic option', os => os.map(o => o.value));
+    L.check('the topic options are the union of every talk\'s topics, sorted',
+      JSON.stringify(topicOpts.slice(1)) === JSON.stringify(topics),
+      `${topicOpts.length - 1} options vs ${topics.length} topics`);
+
+    const topic = topics[Math.floor(topics.length / 2)];
+    await page.selectOption('#f-topic', topic);
+    await page.waitForTimeout(400);
+    const expTopic = meta.talks.filter(t => topicsOf(t).includes(topic)).length;
+    L.check(`topic "${topic}" returns exactly the talks carrying it`,
+      (await L.resultCount(page)) === expTopic, `${await L.resultCount(page)} vs ${expTopic}`);
+    L.check('every card shown carries that topic',
+      (await L.cardNs(page)).every(i => topicsOf(byN.get(i)).includes(topic)));
+
+    // A talk with two topics is under both — the facet is a set, not a column.
+    const twice = meta.talks.find(t => topicsOf(t).length >= 2);
+    if (twice) {
+      const [a, b] = topicsOf(twice);
+      const countA = meta.talks.filter(t => topicsOf(t).includes(a)).length;
+      const countB = meta.talks.filter(t => topicsOf(t).includes(b)).length;
+      await page.selectOption('#f-topic', a);
+      await page.waitForTimeout(300);
+      const gotA = await L.resultCount(page);
+      await page.selectOption('#f-topic', b);
+      await page.waitForTimeout(300);
+      const gotB = await L.resultCount(page);
+      L.check('a talk with two topics is counted under both',
+        gotA === countA && gotB === countB, `${gotA}/${countA}, ${gotB}/${countB}`);
+    }
+
+    // Stacks with conference and year like the other filters do.
+    const confWithTopic = meta.talks.find(t => topicsOf(t).includes(topic) && t.y);
+    await page.selectOption('#f-topic', topic);
+    await page.selectOption('#f-conf', confWithTopic.cs);
+    await page.selectOption('#f-year', String(confWithTopic.y));
+    await page.waitForTimeout(400);
+    const expStack = meta.talks.filter(t => topicsOf(t).includes(topic)
+      && t.cs === confWithTopic.cs && t.y === confWithTopic.y).length;
+    L.check('topic stacks with conference and year',
+      (await L.resultCount(page)) === expStack, `${await L.resultCount(page)} vs ${expStack}`);
+    await page.selectOption('#f-conf', '');
+    await page.selectOption('#f-year', '');
+
+    // The chip on a card is the same filter.
+    await page.selectOption('#f-topic', '');
+    await page.waitForTimeout(300);
+    const chip = page.locator('#results .card .b.topic').first();
+    const chipText = await chip.textContent();
+    await chip.click();
+    await page.waitForTimeout(400);
+    L.check('clicking a topic chip sets the topic filter',
+      (await page.inputValue('#f-topic')) === chipText
+        && (await L.cardNs(page)).every(i => topicsOf(byN.get(i)).includes(chipText)),
+      `chip=${chipText}, select=${await page.inputValue('#f-topic')}`);
+    await page.selectOption('#f-topic', '');
+    await page.waitForTimeout(300);
+  }
 
   // ---------- a filter narrows a search rather than replacing it ----------
   await page.selectOption('#f-cat', '');
@@ -178,6 +245,7 @@ L.suite('filters', async browser => {
   // ---------- reset ----------
   await L.search(page, 'kubernetes');
   await page.selectOption('#f-conf', conf);
+  if (topics.length) await page.selectOption('#f-topic', topics[0]);
   await page.selectOption('#f-sort', 'title');
   await page.selectOption('#f-len', 'gt60');
   await page.fill('#f-spk', 'a');
@@ -188,6 +256,7 @@ L.suite('filters', async browser => {
     q: document.querySelector('#q').value,
     conf: document.querySelector('#f-conf').value,
     cat: document.querySelector('#f-cat').value,
+    topic: document.querySelector('#f-topic').value,
     year: document.querySelector('#f-year').value,
     len: document.querySelector('#f-len').value,
     spk: document.querySelector('#f-spk').value,
@@ -197,7 +266,7 @@ L.suite('filters', async browser => {
     hash: location.hash,
   }));
   L.check('Reset clears the query, the filters and the sort',
-    after.q === '' && !after.conf && !after.cat && !after.year && !after.len && !after.spk &&
+    after.q === '' && !after.conf && !after.cat && !after.topic && !after.year && !after.len && !after.spk &&
       after.sort === 'rel' && !after.tr && !after.spoken,
     JSON.stringify(after));
   L.check('Reset restores the whole catalogue', (await L.resultCount(page)) === N);
@@ -242,7 +311,7 @@ L.suite('filters', async browser => {
     trHidden: document.querySelector('#f-tr').hidden,
   }));
   // tr=1 must not switch on a filter the UI is deliberately hiding.
-  L.check('category round-trips, and tr=1 is honoured only while that toggle is shown',
+  L.check('conference type round-trips, and tr=1 is honoured only while that toggle is shown',
     rt.cat === cat && rt.tr === !rt.trHidden, JSON.stringify(rt));
 
   await reload(`#q=agents&len=gt60&spk=${encodeURIComponent('a')}&sort=short`);
@@ -266,15 +335,33 @@ L.suite('filters', async browser => {
   await page.selectOption('#f-sort', 'rel');
   await page.waitForTimeout(300);
 
-  await reload('#conf=no-such-conference&sort=bogus&year=1999&q=agents');
+  if (topics.length) {
+    await reload(`#topic=${encodeURIComponent(topics[0])}&q=agents`);
+    const rtTopic = await page.evaluate(() => ({
+      topic: document.querySelector('#f-topic').value,
+      cards: document.querySelectorAll('#results .card').length,
+    }));
+    L.check('topic round-trips through the hash',
+      rtTopic.topic === topics[0] && rtTopic.cards > 0
+        && (await L.cardNs(page)).every(i => topicsOf(byN.get(i)).includes(topics[0])),
+      JSON.stringify(rtTopic));
+    await L.search(page, 'evals');
+    L.check('the hash carries the topic',
+      new URLSearchParams((await page.evaluate(() => location.hash)).slice(1)).get('topic') === topics[0],
+      await page.evaluate(() => location.hash));
+  }
+
+  await reload('#conf=no-such-conference&sort=bogus&year=1999&topic=no-such-topic&q=agents');
   const bad = await page.evaluate(() => ({
     conf: document.querySelector('#f-conf').value,
     year: document.querySelector('#f-year').value,
+    topic: document.querySelector('#f-topic').value,
     sort: document.querySelector('#f-sort').value,
     cards: document.querySelectorAll('#results .card').length,
   }));
   L.check('unknown filter and sort values fall back safely',
-    bad.conf === '' && bad.year === '' && bad.sort === 'rel' && bad.cards > 0, JSON.stringify(bad));
+    bad.conf === '' && bad.year === '' && bad.topic === '' && bad.sort === 'rel' && bad.cards > 0,
+    JSON.stringify(bad));
 
   L.check('no uncaught errors', page.__errors.length === 0, page.__errors.join('; '));
 });

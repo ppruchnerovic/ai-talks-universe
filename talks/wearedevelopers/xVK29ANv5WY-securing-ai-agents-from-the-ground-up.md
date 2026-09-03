@@ -4,7 +4,7 @@ title: "Securing AI Agents from the Ground Up"
 slug: securing-ai-agents-from-the-ground-up
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: xVK29ANv5WY
 url: https://www.youtube.com/watch?v=xVK29ANv5WY
 youtube_url: https://www.youtube.com/watch?v=xVK29ANv5WY
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

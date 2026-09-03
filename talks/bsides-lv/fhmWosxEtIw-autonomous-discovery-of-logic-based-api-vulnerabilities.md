@@ -4,7 +4,7 @@ title: "Autonomous Discovery of Logic-based API Vulnerabilities"
 slug: autonomous-discovery-of-logic-based-api-vulnerabilities
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fhmWosxEtIw
 url: https://www.youtube.com/watch?v=fhmWosxEtIw
 youtube_url: https://www.youtube.com/watch?v=fhmWosxEtIw
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

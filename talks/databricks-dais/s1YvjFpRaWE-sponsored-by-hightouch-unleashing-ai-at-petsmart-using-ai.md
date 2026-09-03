@@ -4,7 +4,7 @@ title: "Sponsored by: Hightouch | Unleashing AI at PetSmart: Using AI Decisionin
 slug: sponsored-by-hightouch-unleashing-ai-at-petsmart-using-ai
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: s1YvjFpRaWE
 url: https://www.youtube.com/watch?v=s1YvjFpRaWE
 youtube_url: https://www.youtube.com/watch?v=s1YvjFpRaWE
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

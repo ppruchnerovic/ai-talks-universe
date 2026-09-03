@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Architecting AI solutions for mission-critical syst
 slug: aws-re-invent-2025-architecting-ai-solutions-for-mission
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: VLjzP9n63mA
 url: https://www.youtube.com/watch?v=VLjzP9n63mA
 youtube_url: https://www.youtube.com/watch?v=VLjzP9n63mA
 tags: []
+topics: []
 transcript: false
 ---
 

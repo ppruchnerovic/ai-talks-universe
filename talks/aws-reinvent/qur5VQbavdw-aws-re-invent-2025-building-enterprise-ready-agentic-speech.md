@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Building Enterprise-Ready Agentic Speech AI Pipelin
 slug: aws-re-invent-2025-building-enterprise-ready-agentic-speech
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qur5VQbavdw
 url: https://www.youtube.com/watch?v=qur5VQbavdw
 youtube_url: https://www.youtube.com/watch?v=qur5VQbavdw
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

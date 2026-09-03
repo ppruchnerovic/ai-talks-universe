@@ -4,7 +4,7 @@ title: "Hands on refactoring session with the CodeLaser MCP server by Piet van R
 slug: hands-on-refactoring-session-with-the-codelaser-mcp-server
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Piet van Remortel", "Bart Naudts"]
@@ -15,6 +15,7 @@ video_id: n30uo20p6YI
 url: https://www.youtube.com/watch?v=n30uo20p6YI
 youtube_url: https://www.youtube.com/watch?v=n30uo20p6YI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

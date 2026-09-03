@@ -4,7 +4,7 @@ title: "Building an Agentic Enterprise: The Dreamforce 2025 Keynote in Under 6 M
 slug: building-an-agentic-enterprise-the-dreamforce-2025-keynote
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YFJyxJ8z-uU
 url: https://www.youtube.com/watch?v=YFJyxJ8z-uU
 youtube_url: https://www.youtube.com/watch?v=YFJyxJ8z-uU
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

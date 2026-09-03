@@ -4,7 +4,7 @@ title: "Lightning Talk: AI Turned Workflow into a Security Boundary"
 slug: lightning-talk-ai-turned-workflow-into-a-security-boundary
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: tEbnRWULeZ8
 url: https://www.youtube.com/watch?v=tEbnRWULeZ8
 youtube_url: https://www.youtube.com/watch?v=tEbnRWULeZ8
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

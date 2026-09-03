@@ -4,7 +4,7 @@ title: "Mentoring the Machine — Eric Hou, Augment Code"
 slug: mentoring-the-machine-eric-hou-augment-code
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Eric Hou"]
@@ -15,6 +15,7 @@ video_id: Zniw5c9_jx8
 url: https://www.youtube.com/watch?v=Zniw5c9_jx8
 youtube_url: https://www.youtube.com/watch?v=Zniw5c9_jx8
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "How We Built Zeta2: Training an Edit Prediction Model in Production — 
 slug: how-we-built-zeta2-training-an-edit-prediction-model-in
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ben Kunkle"]
@@ -15,6 +15,7 @@ video_id: phchDt63qAA
 url: https://www.youtube.com/watch?v=phchDt63qAA
 youtube_url: https://www.youtube.com/watch?v=phchDt63qAA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

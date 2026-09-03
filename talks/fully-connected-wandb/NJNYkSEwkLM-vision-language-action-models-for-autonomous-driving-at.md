@@ -4,7 +4,7 @@ title: "Vision language action models for autonomous driving at Wayve"
 slug: vision-language-action-models-for-autonomous-driving-at
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: NJNYkSEwkLM
 url: https://www.youtube.com/watch?v=NJNYkSEwkLM
 youtube_url: https://www.youtube.com/watch?v=NJNYkSEwkLM
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

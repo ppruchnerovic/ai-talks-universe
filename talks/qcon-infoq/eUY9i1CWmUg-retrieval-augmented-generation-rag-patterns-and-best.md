@@ -4,7 +4,7 @@ title: "Retrieval-Augmented Generation (RAG) Patterns and Best Practices"
 slug: retrieval-augmented-generation-rag-patterns-and-best
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: eUY9i1CWmUg
 url: https://www.youtube.com/watch?v=eUY9i1CWmUg
 youtube_url: https://www.youtube.com/watch?v=eUY9i1CWmUg
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "RAG", "Retrieval-Augmented Generation", "LLMs", "Large Language Models", "Patterns", "Best Practices", "Software Architecture", "InfoQ", "QCon London", "Transcript"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

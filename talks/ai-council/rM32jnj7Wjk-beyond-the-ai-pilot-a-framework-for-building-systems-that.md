@@ -4,7 +4,7 @@ title: "Beyond the AI Pilot: A Framework for Building Systems That Actually Deli
 slug: beyond-the-ai-pilot-a-framework-for-building-systems-that
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: rM32jnj7Wjk
 url: https://www.youtube.com/watch?v=rM32jnj7Wjk
 youtube_url: https://www.youtube.com/watch?v=rM32jnj7Wjk
 tags: ["AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

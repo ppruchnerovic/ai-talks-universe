@@ -4,7 +4,7 @@ title: "Orchestrating A Path to Success - a Conversation with Bernd Ruecker"
 slug: orchestrating-a-path-to-success-a-conversation-with-bernd
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: cxh2IrfGLvQ
 url: https://www.youtube.com/watch?v=cxh2IrfGLvQ
 youtube_url: https://www.youtube.com/watch?v=cxh2IrfGLvQ
 tags: []
+topics: []
 transcript: false
 ---
 

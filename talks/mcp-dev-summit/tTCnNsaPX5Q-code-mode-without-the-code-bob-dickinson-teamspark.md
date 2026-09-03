@@ -4,7 +4,7 @@ title: "Code Mode Without the Code - Bob Dickinson, TeamSpark"
 slug: code-mode-without-the-code-bob-dickinson-teamspark
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Bob Dickinson"]
@@ -15,6 +15,7 @@ video_id: tTCnNsaPX5Q
 url: https://www.youtube.com/watch?v=tTCnNsaPX5Q
 youtube_url: https://www.youtube.com/watch?v=tTCnNsaPX5Q
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

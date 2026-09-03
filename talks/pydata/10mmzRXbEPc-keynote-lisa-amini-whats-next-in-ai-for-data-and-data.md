@@ -4,7 +4,7 @@ title: "Keynote Lisa Amini-What’s Next in AI for Data and Data Management--Pyd
 slug: keynote-lisa-amini-whats-next-in-ai-for-data-and-data
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 10mmzRXbEPc
 url: https://www.youtube.com/watch?v=10mmzRXbEPc
 youtube_url: https://www.youtube.com/watch?v=10mmzRXbEPc
 tags: []
+topics: []
 transcript: false
 ---
 

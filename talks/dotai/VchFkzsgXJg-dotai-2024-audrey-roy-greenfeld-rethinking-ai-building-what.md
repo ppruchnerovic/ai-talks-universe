@@ -4,7 +4,7 @@ title: "dotAI 2024 - Audrey Roy Greenfeld - Rethinking AI: Building What Matters
 slug: dotai-2024-audrey-roy-greenfeld-rethinking-ai-building-what
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Audrey Roy Greenfeld"]
@@ -15,6 +15,7 @@ video_id: VchFkzsgXJg
 url: https://www.youtube.com/watch?v=VchFkzsgXJg
 youtube_url: https://www.youtube.com/watch?v=VchFkzsgXJg
 tags: []
+topics: []
 transcript: false
 ---
 

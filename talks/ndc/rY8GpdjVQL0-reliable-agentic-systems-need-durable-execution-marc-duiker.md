@@ -4,7 +4,7 @@ title: "Reliable Agentic Systems need Durable Execution 🤖 - Marc Duiker - NDC
 slug: reliable-agentic-systems-need-durable-execution-marc-duiker
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Marc Duiker"]
@@ -15,6 +15,7 @@ video_id: rY8GpdjVQL0
 url: https://www.youtube.com/watch?v=rY8GpdjVQL0
 youtube_url: https://www.youtube.com/watch?v=rY8GpdjVQL0
 tags: [".NET", "AI", "Microservices", "LLM", "CNCF", "API", "Dapr", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "Great Britain", "England", "United Kingdom", "Marc Duiker"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

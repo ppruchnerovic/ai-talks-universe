@@ -4,7 +4,7 @@ title: "James Ward & Josh Long - Hands On Building Agents | DevCon Fall 2025"
 slug: james-ward-josh-long-hands-on-building-agents-devcon-fall
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["James Ward", "Josh Long"]
@@ -15,6 +15,7 @@ video_id: JmKubcTagYw
 url: https://www.youtube.com/watch?v=JmKubcTagYw
 youtube_url: https://www.youtube.com/watch?v=JmKubcTagYw
 tags: ["ainativedev"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The New AI Security Stack: Observe, Detect, Protect"
 slug: the-new-ai-security-stack-observe-detect-protect
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jyoti Bansal", "Christian Trummer", "Tomislav Tipurić", "Milin Desai"]
@@ -15,6 +15,7 @@ video_id: DcGd21KYJNc
 url: https://www.youtube.com/watch?v=DcGd21KYJNc
 youtube_url: https://www.youtube.com/watch?v=DcGd21KYJNc
 tags: ["Security & Privacy"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

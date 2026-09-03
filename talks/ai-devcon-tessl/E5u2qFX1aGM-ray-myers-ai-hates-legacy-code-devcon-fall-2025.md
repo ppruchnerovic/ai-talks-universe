@@ -4,7 +4,7 @@ title: "Ray Myers - AI Hates Legacy Code | DevCon Fall 2025"
 slug: ray-myers-ai-hates-legacy-code-devcon-fall-2025
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Ray Myers"]
@@ -15,6 +15,7 @@ video_id: E5u2qFX1aGM
 url: https://www.youtube.com/watch?v=E5u2qFX1aGM
 youtube_url: https://www.youtube.com/watch?v=E5u2qFX1aGM
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Evals, observability & reliability"]
 transcript: false
 ---
 

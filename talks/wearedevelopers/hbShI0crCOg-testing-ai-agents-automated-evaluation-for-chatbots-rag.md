@@ -4,7 +4,7 @@ title: "Testing AI Agents: Automated Evaluation for Chatbots & RAG Systems"
 slug: testing-ai-agents-automated-evaluation-for-chatbots-rag
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Sebastian Messingfeld"]
@@ -15,6 +15,7 @@ video_id: hbShI0crCOg
 url: https://www.youtube.com/watch?v=hbShI0crCOg
 youtube_url: https://www.youtube.com/watch?v=hbShI0crCOg
 tags: ["AI Agents", "AI Models", "AI Standards", "Agentic AI", "Fine-Tuning", "PyTest", "Python", "Retrieval-Augmented Generation (RAG)", "Unit Testing"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Scaling Down, Powering Up: Can Efficient Training Beat Scaling Laws?"
 slug: scaling-down-powering-up-can-efficient-training-beat
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: UE_w2QVqhTY
 url: https://www.youtube.com/watch?v=UE_w2QVqhTY
 youtube_url: https://www.youtube.com/watch?v=UE_w2QVqhTY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

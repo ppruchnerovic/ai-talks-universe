@@ -4,7 +4,7 @@ title: "Responsible AI Innovation on Windows Copilot+ PCs | OD813"
 slug: responsible-ai-innovation-on-windows-copilot-pcs-od813
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Michael Bowman", "Benjamin Olsen"]
@@ -15,6 +15,7 @@ video_id: 1dZ1Xg1NtpE
 url: https://www.youtube.com/watch?v=1dZ1Xg1NtpE
 youtube_url: https://www.youtube.com/watch?v=1dZ1Xg1NtpE
 tags: ["AI", "Benjamin Olsen", "Copilot + PC", "Data Security", "Data governance", "English (US)", "Michael Bowman", "Modern Work", "OD813", "Pre-recorded", "Responsible AI", "Responsible AI Innovation on Windows Copilot+ PCs | OD813", "Security", "Version v1", "Windows 11", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

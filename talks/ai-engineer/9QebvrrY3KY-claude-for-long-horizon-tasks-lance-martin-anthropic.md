@@ -4,7 +4,7 @@ title: "Claude for Long-Horizon Tasks — Lance Martin, Anthropic"
 slug: claude-for-long-horizon-tasks-lance-martin-anthropic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Lance Martin"]
@@ -15,6 +15,7 @@ video_id: 9QebvrrY3KY
 url: https://www.youtube.com/watch?v=9QebvrrY3KY
 youtube_url: https://www.youtube.com/watch?v=9QebvrrY3KY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

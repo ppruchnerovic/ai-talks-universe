@@ -4,7 +4,7 @@ title: "Trustworthy AI: Advanced AI risk evaluation and mitigation | BRK113"
 slug: trustworthy-ai-advanced-ai-risk-evaluation-and-mitigation
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Sarah Bird"]
@@ -15,6 +15,7 @@ video_id: HBB2rnhdh70
 url: https://www.youtube.com/watch?v=HBB2rnhdh70
 youtube_url: https://www.youtube.com/watch?v=HBB2rnhdh70
 tags: ["AI", "Advanced (300)", "Anna Maria Brunnhofer-Pedemonte", "Azure AI", "BRK113", "Breakout", "English (US)", "GenAI", "Markus Mooslechner", "Mehrnoosh Sameki", "Paul Shealy", "Responsible AI", "Sarah Bird", "Software Company", "Technical", "Trustworthy AI: Advanced AI risk evaluation and mitigation | BRK113", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "What’s New with Google Gemini?"
 slug: whats-new-with-google-gemini
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1aJcrkB1iSY
 url: https://www.youtube.com/watch?v=1aJcrkB1iSY
 youtube_url: https://www.youtube.com/watch?v=1aJcrkB1iSY
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "Google AI", "Logan Kilpatrick", "Gemini models", "DeepMind", "AI developers", "machine learning", "developer tools", "AI APIs", "multimodal AI", "AI in production"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Key Trends from 2024: Cell-based Architecture, DORA & SPACE, LLM & SLM, 
 slug: key-trends-from-2024-cell-based-architecture-dora-space-llm
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 92rLmAlXy9A
 url: https://www.youtube.com/watch?v=92rLmAlXy9A
 youtube_url: https://www.youtube.com/watch?v=92rLmAlXy9A
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

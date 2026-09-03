@@ -4,7 +4,7 @@ title: "Developing Taste in Coding Agents: Applied Meta Neuro-Symbolic RL — Ah
 slug: developing-taste-in-coding-agents-applied-meta-neuro
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ahmad Awais"]
@@ -15,6 +15,7 @@ video_id: kWOQS3XPZ10
 url: https://www.youtube.com/watch?v=kWOQS3XPZ10
 youtube_url: https://www.youtube.com/watch?v=kWOQS3XPZ10
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

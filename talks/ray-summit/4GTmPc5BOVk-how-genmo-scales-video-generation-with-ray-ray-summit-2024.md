@@ -4,7 +4,7 @@ title: "How Genmo Scales Video Generation with Ray | Ray Summit 2024"
 slug: how-genmo-scales-video-generation-with-ray-ray-summit-2024
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4GTmPc5BOVk
 url: https://www.youtube.com/watch?v=4GTmPc5BOVk
 youtube_url: https://www.youtube.com/watch?v=4GTmPc5BOVk
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

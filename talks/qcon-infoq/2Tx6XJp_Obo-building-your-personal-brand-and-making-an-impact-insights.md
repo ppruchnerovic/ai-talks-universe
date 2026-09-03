@@ -4,7 +4,7 @@ title: "Building Your Personal Brand and Making an Impact: Insights from Princip
 slug: building-your-personal-brand-and-making-an-impact-insights
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2Tx6XJp_Obo
 url: https://www.youtube.com/watch?v=2Tx6XJp_Obo
 youtube_url: https://www.youtube.com/watch?v=2Tx6XJp_Obo
 tags: []
+topics: []
 transcript: false
 ---
 

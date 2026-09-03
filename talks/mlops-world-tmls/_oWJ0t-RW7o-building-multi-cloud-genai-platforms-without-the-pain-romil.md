@@ -4,7 +4,7 @@ title: "Building Multi-Cloud GenAI Platforms Without the Pain | Romil Bhardwaj, 
 slug: building-multi-cloud-genai-platforms-without-the-pain-romil
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Romil Bhardwaj"]
@@ -15,6 +15,7 @@ video_id: _oWJ0t-RW7o
 url: https://www.youtube.com/watch?v=_oWJ0t-RW7o
 youtube_url: https://www.youtube.com/watch?v=_oWJ0t-RW7o
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

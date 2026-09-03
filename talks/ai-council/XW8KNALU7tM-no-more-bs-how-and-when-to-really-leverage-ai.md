@@ -4,7 +4,7 @@ title: "No More BS: How and When to Really Leverage AI"
 slug: no-more-bs-how-and-when-to-really-leverage-ai
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Colleen Tartow"]
@@ -15,6 +15,7 @@ video_id: XW8KNALU7tM
 url: https://www.youtube.com/watch?v=XW8KNALU7tM
 youtube_url: https://www.youtube.com/watch?v=XW8KNALU7tM
 tags: ["critical thinking", "AI strategy", "practical AI", "ChatGPT", "artificial intelligence", "machine learning", "AI implementation", "business AI", "AI adoption", "data quality", "data governance", "AI framework", "Python tutorial", "strategic planning", "decision making", "problem solving", "analytical thinking", "business strategy", "technology strategy", "risk assessment", "change management", "stakeholder management", "project management"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Keynote: OpenSearch at the Linux Foundation: One Year of Open Innovation
 slug: keynote-opensearch-at-the-linux-foundation-one-year-of-open
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5AQSXrlbVHA
 url: https://www.youtube.com/watch?v=5AQSXrlbVHA
 youtube_url: https://www.youtube.com/watch?v=5AQSXrlbVHA
 tags: []
+topics: ["Classic ML & data science", "Governance, ethics & regulation"]
 transcript: false
 ---
 

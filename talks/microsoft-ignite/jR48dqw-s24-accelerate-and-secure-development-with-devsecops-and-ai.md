@@ -4,7 +4,7 @@ title: "Accelerate and secure development with DevSecOps and AI | BRK140"
 slug: accelerate-and-secure-development-with-devsecops-and-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Brendan Burns", "Lara Goldstein"]
@@ -15,6 +15,7 @@ video_id: jR48dqw-s24
 url: https://www.youtube.com/watch?v=jR48dqw-s24
 youtube_url: https://www.youtube.com/watch?v=jR48dqw-s24
 tags: ["Accelerate and secure development with DevSecOps and AI | BRK140", "Advanced (300)", "Apps", "Apps-Curated", "BRK140", "Breakout", "Brendan Burns", "Brittany O'Shea", "Containers", "English (US)", "GHAS", "GitHub", "Github copilot", "Johnson Shi", "Lara Goldstein", "MDC", "Software Company", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

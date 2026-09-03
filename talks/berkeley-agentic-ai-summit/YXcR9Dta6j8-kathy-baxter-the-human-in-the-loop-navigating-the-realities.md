@@ -4,7 +4,7 @@ title: "Kathy Baxter - The Human in the Loop: Navigating the Realities of AI for
 slug: kathy-baxter-the-human-in-the-loop-navigating-the-realities
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Kathy Baxter"]
@@ -15,6 +15,7 @@ video_id: YXcR9Dta6j8
 url: https://www.youtube.com/watch?v=YXcR9Dta6j8
 youtube_url: https://www.youtube.com/watch?v=YXcR9Dta6j8
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

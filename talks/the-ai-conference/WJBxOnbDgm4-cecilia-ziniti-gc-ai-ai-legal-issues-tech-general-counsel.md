@@ -4,7 +4,7 @@ title: "Cecilia Ziniti, GC AI: AI Legal Issues: Tech General Counsel Turned GPT 
 slug: cecilia-ziniti-gc-ai-ai-legal-issues-tech-general-counsel
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: WJBxOnbDgm4
 url: https://www.youtube.com/watch?v=WJBxOnbDgm4
 youtube_url: https://www.youtube.com/watch?v=WJBxOnbDgm4
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

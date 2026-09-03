@@ -4,7 +4,7 @@ title: "Introducing the new Azure Copilot for the new era of Intelligent Agents 
 slug: introducing-the-new-azure-copilot-for-the-new-era-of
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Annie Pearl", "Demi Ajayi", "Ruhiyyih Mahalati"]
@@ -15,6 +15,7 @@ video_id: WgFGGS_yKmE
 url: https://www.youtube.com/watch?v=WgFGGS_yKmE
 youtube_url: https://www.youtube.com/watch?v=WgFGGS_yKmE
 tags: ["677c9bae-96f1-4ce1-befc-84a13ac67374_Segment", "Annie Pearl", "BRK145", "Demi Ajayi", "English (US)", "Introducing the new Azure Copilot for the new era of Intelligent Agents | BRK145", "Migrate and modernize your estate", "Ruhiyyih Mahalati", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

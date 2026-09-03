@@ -4,7 +4,7 @@ title: "How I built my own intelligent Robot Arm from Scratch"
 slug: how-i-built-my-own-intelligent-robot-arm-from-scratch
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Iulia Feroli"]
@@ -15,6 +15,7 @@ video_id: Pzq4T2wrE44
 url: https://www.youtube.com/watch?v=Pzq4T2wrE44
 youtube_url: https://www.youtube.com/watch?v=Pzq4T2wrE44
 tags: ["Emerging Technologies", "Large Language Models (LLMs)", "Python", "Raspberry Pi", "Robotics"]
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

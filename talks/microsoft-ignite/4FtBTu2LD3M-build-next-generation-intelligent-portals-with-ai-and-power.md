@@ -4,7 +4,7 @@ title: "Build Next-Generation Intelligent Portals with AI and Power Pages | BRK1
 slug: build-next-generation-intelligent-portals-with-ai-and-power
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Rahul Dey", "Justin Graham"]
@@ -15,6 +15,7 @@ video_id: 4FtBTu2LD3M
 url: https://www.youtube.com/watch?v=4FtBTu2LD3M
 youtube_url: https://www.youtube.com/watch?v=4FtBTu2LD3M
 tags: ["BRK179", "Breakout", "Build Next-Generation Intelligent Portals with AI and Power Pages | BRK179", "Business Applications", "English (US)", "Intermediate (200)", "Justin Graham", "Rahul Dey", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

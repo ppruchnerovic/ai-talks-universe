@@ -4,7 +4,7 @@ title: "PG - And what if it was hacked? Tactics and Impacts of Adversarial Machi
 slug: pg-and-what-if-it-was-hacked-tactics-and-impacts-of
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: gg9Ra7pYvHs
 url: https://www.youtube.com/watch?v=gg9Ra7pYvHs
 youtube_url: https://www.youtube.com/watch?v=gg9Ra7pYvHs
 tags: ["AXJ8CR"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

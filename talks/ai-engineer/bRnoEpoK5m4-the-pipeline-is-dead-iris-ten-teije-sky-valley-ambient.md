@@ -4,7 +4,7 @@ title: "The Pipeline Is Dead - Iris ten Teije, Sky Valley Ambient Computing"
 slug: the-pipeline-is-dead-iris-ten-teije-sky-valley-ambient
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Iris ten Teije"]
@@ -15,6 +15,7 @@ video_id: bRnoEpoK5m4
 url: https://www.youtube.com/watch?v=bRnoEpoK5m4
 youtube_url: https://www.youtube.com/watch?v=bRnoEpoK5m4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

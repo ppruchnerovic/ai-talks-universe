@@ -4,7 +4,7 @@ title: "AI Dev 25 | Kate Blair & Ismael Faro: The future of agent interoperabili
 slug: ai-dev-25-kate-blair-ismael-faro-the-future-of-agent
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: KBUDhgxLND8
 url: https://www.youtube.com/watch?v=KBUDhgxLND8
 youtube_url: https://www.youtube.com/watch?v=KBUDhgxLND8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

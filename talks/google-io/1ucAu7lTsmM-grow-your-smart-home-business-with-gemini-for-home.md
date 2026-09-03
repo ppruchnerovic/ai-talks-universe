@@ -4,7 +4,7 @@ title: "Grow your smart home business with Gemini for Home"
 slug: grow-your-smart-home-business-with-gemini-for-home
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Ryan Weekes", "Liz Lee", "Mihai Antonescu"]
@@ -15,6 +15,7 @@ video_id: 1ucAu7lTsmM
 url: https://www.youtube.com/watch?v=1ucAu7lTsmM
 youtube_url: https://www.youtube.com/watch?v=1ucAu7lTsmM
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Android;", "Gemini for Home", "Google Home", "Smart Home", "Home APIs", "Gemini built in", "service providers", "smart home security"]
+topics: []
 transcript: true
 ---
 

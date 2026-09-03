@@ -4,7 +4,7 @@ title: "Ep.33 Meeting Mar 26 2025 - Project Updates: Governance, Sponsorship & G
 slug: ep-33-meeting-mar-26-2025-project-updates-governance
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6Jq2TApW77c
 url: https://www.youtube.com/watch?v=6Jq2TApW77c
 youtube_url: https://www.youtube.com/watch?v=6Jq2TApW77c
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

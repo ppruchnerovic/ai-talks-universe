@@ -4,7 +4,7 @@ title: "Streaming from Apache Iceberg - Building Low-Latency and Cost-Effective 
 slug: streaming-from-apache-iceberg-building-low-latency-and-cost
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: x6WX_JE96bU
 url: https://www.youtube.com/watch?v=x6WX_JE96bU
 youtube_url: https://www.youtube.com/watch?v=x6WX_JE96bU
 tags: ["Software Architecture", "Apache Iceberg", "Apache Flink", "Streaming", "Data Pipelines", "Apache Kafka", "Artificial Intelligence", "Machine Learning", "Data Engineering", "InfoQ", "QCon", "Transcript"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

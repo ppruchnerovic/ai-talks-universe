@@ -4,7 +4,7 @@ title: "Agentic AI in Go"
 slug: agentic-ai-in-go
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Marc Arndt"]
@@ -15,6 +15,7 @@ video_id: fIINJrolhNI
 url: https://www.youtube.com/watch?v=fIINJrolhNI
 youtube_url: https://www.youtube.com/watch?v=fIINJrolhNI
 tags: ["AI Agents", "Agentic AI", "Go", "Innovation", "Multi-Agent Systems"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

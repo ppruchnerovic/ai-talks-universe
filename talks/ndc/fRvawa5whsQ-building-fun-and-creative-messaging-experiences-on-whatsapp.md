@@ -4,7 +4,7 @@ title: "Building fun and creative messaging experiences on WhatsApp - Michelle \
 slug: building-fun-and-creative-messaging-experiences-on-whatsapp
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: fRvawa5whsQ
 url: https://www.youtube.com/watch?v=fRvawa5whsQ
 youtube_url: https://www.youtube.com/watch?v=fRvawa5whsQ
 tags: ["AI", "Cloud", "Fun", "API", "OpenAI", "WhatsApp", "NDC", "Conferences", "2026", "Live", "Copenhagen", "Denmark"]
+topics: []
 transcript: true
 ---
 

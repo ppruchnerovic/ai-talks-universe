@@ -4,7 +4,7 @@ title: "Opening Remarks - Sonya David"
 slug: opening-remarks-sonya-david
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Sonya David"]
@@ -15,6 +15,7 @@ video_id: JwuzXWe4kBw
 url: https://www.youtube.com/watch?v=JwuzXWe4kBw
 youtube_url: https://www.youtube.com/watch?v=JwuzXWe4kBw
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: []
 transcript: false
 ---
 

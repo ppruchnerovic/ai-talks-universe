@@ -4,7 +4,7 @@ title: "I Shipped a Bug to Production — Then Got an Angry Slack Message (and T
 slug: i-shipped-a-bug-to-production-then-got-an-angry-slack
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: yuRWKWagzok
 url: https://www.youtube.com/watch?v=yuRWKWagzok
 youtube_url: https://www.youtube.com/watch?v=yuRWKWagzok
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

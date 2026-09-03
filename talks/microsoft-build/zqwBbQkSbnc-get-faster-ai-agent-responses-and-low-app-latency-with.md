@@ -4,7 +4,7 @@ title: "Get faster AI agent responses and low app latency with Azure Managed Red
 slug: get-faster-ai-agent-responses-and-low-app-latency-with
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: zqwBbQkSbnc
 url: https://www.youtube.com/watch?v=zqwBbQkSbnc
 youtube_url: https://www.youtube.com/watch?v=zqwBbQkSbnc
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

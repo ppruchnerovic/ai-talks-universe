@@ -4,7 +4,7 @@ title: "Intro to GraphRAG — Zach Blumenfeld"
 slug: intro-to-graphrag-zach-blumenfeld
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Zach Blumenfeld"]
@@ -15,6 +15,7 @@ video_id: J-9EbJBxcbg
 url: https://www.youtube.com/watch?v=J-9EbJBxcbg
 youtube_url: https://www.youtube.com/watch?v=J-9EbJBxcbg
 tags: []
+topics: ["Classic ML & data science", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

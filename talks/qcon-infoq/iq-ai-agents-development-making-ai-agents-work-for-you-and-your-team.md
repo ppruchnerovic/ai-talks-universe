@@ -4,7 +4,7 @@ title: "Making AI Agents Work for You (and Your Team)"
 slug: making-ai-agents-work-for-you-and-your-team
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Hannah Foxwell"]
@@ -15,6 +15,7 @@ video_id: iq-ai-agents-development
 url: https://www.infoq.com/presentations/ai-agents-development/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

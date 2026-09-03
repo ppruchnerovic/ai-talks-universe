@@ -4,7 +4,7 @@ title: "Aarti Jha-When AI Makes Things Up_ Understanding and Tackling Hallucinat
 slug: aarti-jha-when-ai-makes-things-up-understanding-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xExUnGmwMno
 url: https://www.youtube.com/watch?v=xExUnGmwMno
 youtube_url: https://www.youtube.com/watch?v=xExUnGmwMno
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Test Smarter, Not Harder: Achieving Confidence in Complex Distributed Sy
 slug: test-smarter-not-harder-achieving-confidence-in-complex
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Elias Nogueira"]
@@ -15,6 +15,7 @@ video_id: iq-testing-distributed-systems
 url: https://www.infoq.com/presentations/testing-distributed-systems/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Keynote: Welcome + Opening Remarks - Stephen Chin, VP of Developer Relat
 slug: keynote-welcome-opening-remarks-stephen-chin-vp-of
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Stephen Chin"]
@@ -15,6 +15,7 @@ video_id: C0Flua3W2-I
 url: https://www.youtube.com/watch?v=C0Flua3W2-I
 youtube_url: https://www.youtube.com/watch?v=C0Flua3W2-I
 tags: []
+topics: []
 transcript: false
 ---
 

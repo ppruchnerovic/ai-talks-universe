@@ -4,7 +4,7 @@ title: "RAG Pipeline Evaluation - Estelle Scifo, Neo4j"
 slug: rag-pipeline-evaluation-estelle-scifo-neo4j
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Estelle Scifo"]
@@ -15,6 +15,7 @@ video_id: SlMqsayqUHM
 url: https://www.youtube.com/watch?v=SlMqsayqUHM
 youtube_url: https://www.youtube.com/watch?v=SlMqsayqUHM
 tags: []
+topics: ["Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

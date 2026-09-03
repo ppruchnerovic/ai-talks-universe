@@ -4,7 +4,7 @@ title: "Build and ship faster with a developer-optimized Windows experience | LI
 slug: build-and-ship-faster-with-a-developer-optimized-windows
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Nikola Metulev", "Beth Pan", "Aditya Ramnathkar"]
@@ -15,6 +15,7 @@ video_id: lGrcC737YLo
 url: https://www.youtube.com/watch?v=lGrcC737YLo
 youtube_url: https://www.youtube.com/watch?v=lGrcC737YLo
 tags: ["Aditya Ramnathkar", "Beth Pan", "Build and ship faster with a developer-optimized Windows experience | LIVE172", "LIVE172", "LIVE172_v1", "Nikola Metulev", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: []
 transcript: true
 ---
 

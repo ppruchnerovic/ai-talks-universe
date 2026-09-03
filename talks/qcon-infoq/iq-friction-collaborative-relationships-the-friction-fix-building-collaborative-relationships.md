@@ -4,7 +4,7 @@ title: "The Friction Fix: Building Collaborative Relationships Between Teams"
 slug: the-friction-fix-building-collaborative-relationships
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Cat Morris", "Diana Montalion"]
@@ -15,6 +15,7 @@ video_id: iq-friction-collaborative-relationships
 url: https://www.infoq.com/presentations/friction-collaborative-relationships/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

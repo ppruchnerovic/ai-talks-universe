@@ -4,7 +4,7 @@ title: "Search as Code: The Infrastructure Behind Long-Running Agents"
 slug: search-as-code-the-infrastructure-behind-long-running-agents
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Qi0Wp2eqjxs
 url: https://www.youtube.com/watch?v=Qi0Wp2eqjxs
 youtube_url: https://www.youtube.com/watch?v=Qi0Wp2eqjxs
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: true
 ---
 

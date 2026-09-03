@@ -4,7 +4,7 @@ title: "Cerebral Valley: Ali Ghodsi (Databricks) and Naveen Rao (MosiacML)"
 slug: cerebral-valley-ali-ghodsi-databricks-and-naveen-rao
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: rfPOZ4dGk20
 url: https://www.youtube.com/watch?v=rfPOZ4dGk20
 youtube_url: https://www.youtube.com/watch?v=rfPOZ4dGk20
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

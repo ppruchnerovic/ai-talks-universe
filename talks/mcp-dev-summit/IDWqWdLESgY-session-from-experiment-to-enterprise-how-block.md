@@ -4,7 +4,7 @@ title: "[Session] From Experiment to Enterprise: How Block Operationalized MCP a
 slug: session-from-experiment-to-enterprise-how-block
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: ["Angie Jones"]
@@ -15,6 +15,7 @@ video_id: IDWqWdLESgY
 url: https://www.youtube.com/watch?v=IDWqWdLESgY
 youtube_url: https://www.youtube.com/watch?v=IDWqWdLESgY
 tags: ["mcp", "model context protocol", "ai agents", "ai for devs", "mcpdevsummit"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

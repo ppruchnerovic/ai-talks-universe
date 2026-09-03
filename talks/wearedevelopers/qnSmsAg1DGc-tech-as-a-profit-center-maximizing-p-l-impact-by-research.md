@@ -4,7 +4,7 @@ title: "Tech as a Profit Center – Maximizing P&L Impact by Research Funding an
 slug: tech-as-a-profit-center-maximizing-p-l-impact-by-research
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Henriette Brune"]
@@ -15,6 +15,7 @@ video_id: qnSmsAg1DGc
 url: https://www.youtube.com/watch?v=qnSmsAg1DGc
 youtube_url: https://www.youtube.com/watch?v=qnSmsAg1DGc
 tags: ["Strategy & Innovation", "Compliance", "Entrepreneurship", "Fundraising", "Startups"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

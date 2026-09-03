@@ -4,7 +4,7 @@ title: "Unlock cloud-scale observability and optimization with Azure | BRK149"
 slug: unlock-cloud-scale-observability-and-optimization-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Rahul Bagaria", "Ritesh Kini", "Farzana Rahman"]
@@ -15,6 +15,7 @@ video_id: -IZ-PLSvDgU
 url: https://www.youtube.com/watch?v=-IZ-PLSvDgU
 youtube_url: https://www.youtube.com/watch?v=-IZ-PLSvDgU
 tags: ["2fa69a59-720b-4eca-8ee8-45f3c077583e_Segment", "BRK149", "English (US)", "Farzana Rahman", "Migrate and modernize your estate", "Rahul Bagaria", "Ritesh Kini", "Technical", "Unlock cloud-scale observability and optimization with Azure | BRK149", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

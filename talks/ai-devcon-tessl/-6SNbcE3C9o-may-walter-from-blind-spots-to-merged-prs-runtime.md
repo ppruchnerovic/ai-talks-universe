@@ -4,7 +4,7 @@ title: "May Walter - From Blind Spots to Merged PRs: Runtime Intelligence for Co
 slug: may-walter-from-blind-spots-to-merged-prs-runtime
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["May Walter"]
@@ -15,6 +15,7 @@ video_id: -6SNbcE3C9o
 url: https://www.youtube.com/watch?v=-6SNbcE3C9o
 youtube_url: https://www.youtube.com/watch?v=-6SNbcE3C9o
 tags: ["AI DevCon", "AI DevCon London 2026", "N+1 queries", "ainativedev", "benefits of actionable reports", "coding agents", "database indexes", "fixing N+1 queries", "performance optimization", "runtime intelligence", "sprint planning", "vendor neutral"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

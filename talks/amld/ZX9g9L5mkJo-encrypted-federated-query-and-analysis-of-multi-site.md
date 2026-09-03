@@ -4,7 +4,7 @@ title: "Encrypted Federated Query and Analysis of Multi-Site Clinical Data | Cli
 slug: encrypted-federated-query-and-analysis-of-multi-site
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Juan Troncoso"]
@@ -15,6 +15,7 @@ video_id: ZX9g9L5mkJo
 url: https://www.youtube.com/watch?v=ZX9g9L5mkJo
 youtube_url: https://www.youtube.com/watch?v=ZX9g9L5mkJo
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

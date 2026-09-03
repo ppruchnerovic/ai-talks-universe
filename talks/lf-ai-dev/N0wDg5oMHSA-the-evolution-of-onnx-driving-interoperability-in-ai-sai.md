@@ -4,7 +4,7 @@ title: "The Evolution of ONNX: Driving Interoperability in AI... Sai Kishan Pamp
 slug: the-evolution-of-onnx-driving-interoperability-in-ai-sai
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: N0wDg5oMHSA
 url: https://www.youtube.com/watch?v=N0wDg5oMHSA
 youtube_url: https://www.youtube.com/watch?v=N0wDg5oMHSA
 tags: []
+topics: []
 transcript: false
 ---
 

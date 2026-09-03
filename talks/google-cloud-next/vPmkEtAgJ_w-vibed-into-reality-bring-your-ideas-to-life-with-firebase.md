@@ -4,7 +4,7 @@ title: "Vibed into reality: Bring your ideas to life with Firebase and Google AI
 slug: vibed-into-reality-bring-your-ideas-to-life-with-firebase
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Kara Yu", "Sam Phillips"]
@@ -15,6 +15,7 @@ video_id: vPmkEtAgJ_w
 url: https://www.youtube.com/watch?v=vPmkEtAgJ_w
 youtube_url: https://www.youtube.com/watch?v=vPmkEtAgJ_w
 tags: []
+topics: []
 transcript: true
 ---
 

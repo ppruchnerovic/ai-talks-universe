@@ -4,7 +4,7 @@ title: "Building Adaptive AI for MRI Diagnostics: A Continual Learning Case Stud
 slug: building-adaptive-ai-for-mri-diagnostics-a-continual
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: WsHfnJLXP-U
 url: https://www.youtube.com/watch?v=WsHfnJLXP-U
 youtube_url: https://www.youtube.com/watch?v=WsHfnJLXP-U
 tags: ["AI", "Architecture", "Machine Learning", "ML", "NDC", "Conferences", "2025", "Live", "Fun", "Melbouren", "Australia", "Agata Chudzińska", "Agata Chudzinska"]
+topics: []
 transcript: false
 ---
 

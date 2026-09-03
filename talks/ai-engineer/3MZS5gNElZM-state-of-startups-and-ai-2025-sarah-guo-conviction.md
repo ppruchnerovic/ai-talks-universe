@@ -4,7 +4,7 @@ title: "State of Startups and AI 2025 - Sarah Guo, Conviction"
 slug: state-of-startups-and-ai-2025-sarah-guo-conviction
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Sarah Guo"]
@@ -15,6 +15,7 @@ video_id: 3MZS5gNElZM
 url: https://www.youtube.com/watch?v=3MZS5gNElZM
 youtube_url: https://www.youtube.com/watch?v=3MZS5gNElZM
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

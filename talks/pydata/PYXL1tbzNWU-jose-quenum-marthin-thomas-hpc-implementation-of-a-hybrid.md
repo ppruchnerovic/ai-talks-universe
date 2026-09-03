@@ -4,7 +4,7 @@ title: "José Quenum + Marthin Thomas - HPC Implementation of a Hybrid Recommen
 slug: jose-quenum-marthin-thomas-hpc-implementation-of-a-hybrid
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: PYXL1tbzNWU
 url: https://www.youtube.com/watch?v=PYXL1tbzNWU
 youtube_url: https://www.youtube.com/watch?v=PYXL1tbzNWU
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Trends Across the AI Frontier — George Cameron, ArtificialAnalysis.ai"
 slug: trends-across-the-ai-frontier-george-cameron
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["George Cameron"]
@@ -15,6 +15,7 @@ video_id: sRpqPgKeXNk
 url: https://www.youtube.com/watch?v=sRpqPgKeXNk
 youtube_url: https://www.youtube.com/watch?v=sRpqPgKeXNk
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

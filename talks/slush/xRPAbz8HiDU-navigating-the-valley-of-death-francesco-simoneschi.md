@@ -4,7 +4,7 @@ title: "Navigating The Valley of Death | Francesco Simoneschi (TrueLayer) & Maxi
 slug: navigating-the-valley-of-death-francesco-simoneschi
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Francesco Simoneschi"]
@@ -15,6 +15,7 @@ video_id: xRPAbz8HiDU
 url: https://www.youtube.com/watch?v=xRPAbz8HiDU
 youtube_url: https://www.youtube.com/watch?v=xRPAbz8HiDU
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

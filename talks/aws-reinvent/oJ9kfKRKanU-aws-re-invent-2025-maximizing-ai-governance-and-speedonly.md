@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Maximizing AI Governance and Speed—Only with Serv
 slug: aws-re-invent-2025-maximizing-ai-governance-and-speedonly
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: oJ9kfKRKanU
 url: https://www.youtube.com/watch?v=oJ9kfKRKanU
 youtube_url: https://www.youtube.com/watch?v=oJ9kfKRKanU
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

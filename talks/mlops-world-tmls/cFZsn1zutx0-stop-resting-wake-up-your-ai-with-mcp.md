@@ -4,7 +4,7 @@ title: "Stop RESTing -- Wake up your AI with MCP"
 slug: stop-resting-wake-up-your-ai-with-mcp
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cFZsn1zutx0
 url: https://www.youtube.com/watch?v=cFZsn1zutx0
 youtube_url: https://www.youtube.com/watch?v=cFZsn1zutx0
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

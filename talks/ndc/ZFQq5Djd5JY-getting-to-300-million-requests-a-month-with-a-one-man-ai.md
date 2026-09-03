@@ -4,7 +4,7 @@ title: "Getting to 300 million requests a month with a one man AI/Dev-Ops team -
 slug: getting-to-300-million-requests-a-month-with-a-one-man-ai
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Rob Frelow"]
@@ -15,6 +15,7 @@ video_id: ZFQq5Djd5JY
 url: https://www.youtube.com/watch?v=ZFQq5Djd5JY
 youtube_url: https://www.youtube.com/watch?v=ZFQq5Djd5JY
 tags: ["DevOps", "Machine Learning", "ML", "NDC", "Conferences", "2025", "Live", "Fun", "London", "Rob Frelow"]
+topics: []
 transcript: false
 ---
 

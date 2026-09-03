@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Rowhammer-Based Trojan Injection: One Bit Flip Is 
 slug: usenix-security-25-rowhammer-based-trojan-injection-one-bit
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: hyeIWwFJd40
 url: https://www.youtube.com/watch?v=hyeIWwFJd40
 youtube_url: https://www.youtube.com/watch?v=hyeIWwFJd40
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

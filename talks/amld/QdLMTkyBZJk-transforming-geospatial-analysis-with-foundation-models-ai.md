@@ -4,7 +4,7 @@ title: "Transforming Geospatial Analysis with Foundation Models | AI from the Sk
 slug: transforming-geospatial-analysis-with-foundation-models-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Benedikt Blumenstiel"]
@@ -15,6 +15,7 @@ video_id: QdLMTkyBZJk
 url: https://www.youtube.com/watch?v=QdLMTkyBZJk
 youtube_url: https://www.youtube.com/watch?v=QdLMTkyBZJk
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

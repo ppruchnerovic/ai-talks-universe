@@ -4,7 +4,7 @@ title: "Building a Workflow Engine on MCP: Orchestrating Processes With Tasks - 
 slug: building-a-workflow-engine-on-mcp-orchestrating-processes
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Donnie Adams"]
@@ -15,6 +15,7 @@ video_id: f8vPMlm0MaI
 url: https://www.youtube.com/watch?v=f8vPMlm0MaI
 youtube_url: https://www.youtube.com/watch?v=f8vPMlm0MaI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

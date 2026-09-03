@@ -4,7 +4,7 @@ title: "Voice In, Visuals Out: The Agony and the Ecstasy - Allen Pike, Forestwal
 slug: voice-in-visuals-out-the-agony-and-the-ecstasy-allen-pike
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Allen Pike"]
@@ -15,6 +15,7 @@ video_id: 65X0pQ6Lmbg
 url: https://www.youtube.com/watch?v=65X0pQ6Lmbg
 youtube_url: https://www.youtube.com/watch?v=65X0pQ6Lmbg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

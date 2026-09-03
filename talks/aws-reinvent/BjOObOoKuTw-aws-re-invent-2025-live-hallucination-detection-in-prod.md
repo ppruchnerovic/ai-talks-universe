@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Live hallucination detection in prod with LaunchDar
 slug: aws-re-invent-2025-live-hallucination-detection-in-prod
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: BjOObOoKuTw
 url: https://www.youtube.com/watch?v=BjOObOoKuTw
 youtube_url: https://www.youtube.com/watch?v=BjOObOoKuTw
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

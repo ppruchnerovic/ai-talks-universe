@@ -4,7 +4,7 @@ title: "Wenbo Guo: OpenSage: Next Generation of Agentic AI"
 slug: wenbo-guo-opensage-next-generation-of-agentic-ai
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: irMWadaKV2g
 url: https://www.youtube.com/watch?v=irMWadaKV2g
 youtube_url: https://www.youtube.com/watch?v=irMWadaKV2g
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

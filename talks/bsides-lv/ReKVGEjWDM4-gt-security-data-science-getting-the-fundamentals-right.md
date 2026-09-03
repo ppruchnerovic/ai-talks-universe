@@ -4,7 +4,7 @@ title: "GT - Security data science -- Getting the Fundamentals Right - Richard H
 slug: gt-security-data-science-getting-the-fundamentals-right
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2019
 speakers: ["Richard Harang"]
@@ -15,6 +15,7 @@ video_id: ReKVGEjWDM4
 url: https://www.youtube.com/watch?v=ReKVGEjWDM4
 youtube_url: https://www.youtube.com/watch?v=ReKVGEjWDM4
 tags: ["bslv", "BSidesLV", "bslv2019", "2019-bsideslv-049", "Ground Truth", "GT", "gt", "BSidesLV2019"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

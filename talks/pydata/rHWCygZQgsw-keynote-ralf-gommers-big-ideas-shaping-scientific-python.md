@@ -4,7 +4,7 @@ title: "KEYNOTE Ralf Gommers - Big ideas shaping scientific Python: the quest fo
 slug: keynote-ralf-gommers-big-ideas-shaping-scientific-python
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: rHWCygZQgsw
 url: https://www.youtube.com/watch?v=rHWCygZQgsw
 youtube_url: https://www.youtube.com/watch?v=rHWCygZQgsw
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Deep Dive: Create monitor and optimize enterprise apps with Power Apps |
 slug: deep-dive-create-monitor-and-optimize-enterprise-apps-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Austin Laugesen", "Marc Schweigert"]
@@ -15,6 +15,7 @@ video_id: 3cNVpk8Q8gU
 url: https://www.youtube.com/watch?v=3cNVpk8Q8gU
 youtube_url: https://www.youtube.com/watch?v=3cNVpk8Q8gU
 tags: ["Advanced (300)", "Austin Laugesen", "BRK174", "Breakout", "Business Applications", "Deep Dive: Create monitor and optimize enterprise apps with Power Apps | BRK174", "English (US)", "Marc Schweigert", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

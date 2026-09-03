@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Powering Prime Video's NASCAR Coverage: ML Fuel Ana
 slug: aws-re-invent-2025-powering-prime-video-s-nascar-coverage
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Abk9GMdn2Ig
 url: https://www.youtube.com/watch?v=Abk9GMdn2Ig
 youtube_url: https://www.youtube.com/watch?v=Abk9GMdn2Ig
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

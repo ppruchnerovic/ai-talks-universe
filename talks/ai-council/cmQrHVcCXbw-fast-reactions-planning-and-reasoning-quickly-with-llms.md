@@ -4,7 +4,7 @@ title: "Fast ReActions: Planning and Reasoning Quickly with LLMs"
 slug: fast-reactions-planning-and-reasoning-quickly-with-llms
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Ashwin Ramesh"]
@@ -15,6 +15,7 @@ video_id: cmQrHVcCXbw
 url: https://www.youtube.com/watch?v=cmQrHVcCXbw
 youtube_url: https://www.youtube.com/watch?v=cmQrHVcCXbw
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

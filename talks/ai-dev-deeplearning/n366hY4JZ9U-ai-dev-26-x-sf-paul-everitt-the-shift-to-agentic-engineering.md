@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Paul Everitt: The Shift to Agentic Engineering"
 slug: ai-dev-26-x-sf-paul-everitt-the-shift-to-agentic-engineering
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: n366hY4JZ9U
 url: https://www.youtube.com/watch?v=n366hY4JZ9U
 youtube_url: https://www.youtube.com/watch?v=n366hY4JZ9U
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

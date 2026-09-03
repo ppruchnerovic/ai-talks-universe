@@ -4,7 +4,7 @@ title: "Enchant Your AI and APIs with eBPF Magic 🪄"
 slug: enchant-your-ai-and-apis-with-ebpf-magic
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2026"
 year: 2026
 speakers: ["Dan Finneran"]
@@ -15,6 +15,7 @@ video_id: iq-ebpf-ai-gateway-kubernetes-security
 url: https://www.infoq.com/presentations/ebpf-ai-gateway-kubernetes-security/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

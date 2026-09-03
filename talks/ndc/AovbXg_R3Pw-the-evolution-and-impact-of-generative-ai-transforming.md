@@ -4,7 +4,7 @@ title: "The Evolution and Impact of Generative AI: Transforming Creativity and O
 slug: the-evolution-and-impact-of-generative-ai-transforming
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: AovbXg_R3Pw
 url: https://www.youtube.com/watch?v=AovbXg_R3Pw
 youtube_url: https://www.youtube.com/watch?v=AovbXg_R3Pw
 tags: ["AI", "Machine Learning", "People", "Security", "GenAI", "ML", "ChatGPT", "NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia", "Vanessa Van Beek"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

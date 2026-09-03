@@ -4,7 +4,7 @@ title: "Einstein Arena: Harnessing Collective Agent Intelligence for Open Scienc
 slug: einstein-arena-harnessing-collective-agent-intelligence-for
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["James Zou"]
@@ -15,6 +15,7 @@ video_id: mMNkdYnIVC4
 url: https://www.youtube.com/watch?v=mMNkdYnIVC4
 youtube_url: https://www.youtube.com/watch?v=mMNkdYnIVC4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

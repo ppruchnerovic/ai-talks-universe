@@ -4,7 +4,7 @@ title: "Harness Engineering is not Enough: Why Software Factories Fail — Dex H
 slug: harness-engineering-is-not-enough-why-software-factories
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dex Horthy"]
@@ -15,6 +15,7 @@ video_id: Ib5GBkD555M
 url: https://www.youtube.com/watch?v=Ib5GBkD555M
 youtube_url: https://www.youtube.com/watch?v=Ib5GBkD555M
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

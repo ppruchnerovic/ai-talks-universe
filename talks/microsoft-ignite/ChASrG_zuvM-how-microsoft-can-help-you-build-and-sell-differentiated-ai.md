@@ -4,7 +4,7 @@ title: "How Microsoft can help you build and sell differentiated AI apps | BRK33
 slug: how-microsoft-can-help-you-build-and-sell-differentiated-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jason Graefe", "Yina Arenas", "Adam Binnie", "Mike Hulme", "Amanda Whaley", "Jeff Zobrist"]
@@ -15,6 +15,7 @@ video_id: ChASrG_zuvM
 url: https://www.youtube.com/watch?v=ChASrG_zuvM
 youtube_url: https://www.youtube.com/watch?v=ChASrG_zuvM
 tags: ["Adam Binnie", "Amanda Whaley", "BRK339", "Breakout", "English (US)", "How Microsoft can help you build and sell differentiated AI apps | BRK339", "Intermediate (200)", "Jason Graefe", "Jeff Zobrist", "Mike Hulme", "Partner Business", "Partner Program", "Software Company", "Version v0", "Yina Arenas", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

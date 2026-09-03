@@ -4,7 +4,7 @@ title: "What GitHub's Ex-CEO Says About the Future of Developer Skills"
 slug: what-github-s-ex-ceo-says-about-the-future-of-developer
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: VwJnowQ7Iio
 url: https://www.youtube.com/watch?v=VwJnowQ7Iio
 youtube_url: https://www.youtube.com/watch?v=VwJnowQ7Iio
 tags: ["AI development", "AI in software development", "GitHub", "GitHub former CEO insights", "Thomas Dohmke GitHub", "ainativedev", "coding agents", "competitive advantage", "corporate strategy", "developer skills", "future of developer skills", "how to foster innovation", "impact of AI on coding", "innovation", "startups"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

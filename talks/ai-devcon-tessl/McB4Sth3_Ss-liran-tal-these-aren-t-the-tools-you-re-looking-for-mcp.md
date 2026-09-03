@@ -4,7 +4,7 @@ title: "Liran Tal - These Aren't the Tools You're Looking For: MCP Security Awak
 slug: liran-tal-these-aren-t-the-tools-you-re-looking-for-mcp
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Liran Tal"]
@@ -15,6 +15,7 @@ video_id: McB4Sth3_Ss
 url: https://www.youtube.com/watch?v=McB4Sth3_Ss
 youtube_url: https://www.youtube.com/watch?v=McB4Sth3_Ss
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

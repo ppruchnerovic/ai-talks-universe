@@ -4,7 +4,7 @@ title: "AI translation: Breaking down language barriers | BRK107"
 slug: ai-translation-breaking-down-language-barriers-brk107
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: a2J6Ro1E3Pk
 url: https://www.youtube.com/watch?v=a2J6Ro1E3Pk
 youtube_url: https://www.youtube.com/watch?v=a2J6Ro1E3Pk
 tags: ["AI", "AI translation: Breaking down language barriers | BRK107", "BRK107", "Breakout", "Call centers", "English (US)", "Intermediate (200)", "Krishna Doss Mohan", "Marty DeGraff", "Michelle Niethammer", "Speech", "Technical", "Translation", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024", "multimodal", "postcallanalytics"]
+topics: []
 transcript: false
 ---
 

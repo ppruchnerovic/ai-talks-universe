@@ -4,7 +4,7 @@ title: "Agents Need Receipts, Not More Tool Calls - Armanas Povilionis, Alithea 
 slug: agents-need-receipts-not-more-tool-calls-armanas-povilionis
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Armanas Povilionis"]
@@ -15,6 +15,7 @@ video_id: Q9ycQHbDdJs
 url: https://www.youtube.com/watch?v=Q9ycQHbDdJs
 youtube_url: https://www.youtube.com/watch?v=Q9ycQHbDdJs
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

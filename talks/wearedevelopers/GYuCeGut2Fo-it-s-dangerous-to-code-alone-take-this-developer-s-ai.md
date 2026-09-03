@@ -4,7 +4,7 @@ title: "It's Dangerous to Code Alone! Take This: Developer's AI Survival Guide"
 slug: it-s-dangerous-to-code-alone-take-this-developer-s-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Salih Gueler"]
@@ -15,6 +15,7 @@ video_id: GYuCeGut2Fo
 url: https://www.youtube.com/watch?v=GYuCeGut2Fo
 youtube_url: https://www.youtube.com/watch?v=GYuCeGut2Fo
 tags: ["Developer Experience", "AI Coding Assistants", "Developer Experience (DevEx)", "Productivity"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 

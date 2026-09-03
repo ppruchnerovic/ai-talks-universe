@@ -4,7 +4,7 @@ title: "Michel Semaan - Querying the queries: SQL Metaprogramming in Python | Py
 slug: michel-semaan-querying-the-queries-sql-metaprogramming-in
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Michel Semaan"]
@@ -15,6 +15,7 @@ video_id: a2As90UbmcQ
 url: https://www.youtube.com/watch?v=a2As90UbmcQ
 youtube_url: https://www.youtube.com/watch?v=a2As90UbmcQ
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AI-Powered Translation Software For Legal, Tax and Finance | AI-Powered 
 slug: ai-powered-translation-software-for-legal-tax-and-finance
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Paula Reichenberg"]
@@ -15,6 +15,7 @@ video_id: h1NaDe0Zuzs
 url: https://www.youtube.com/watch?v=h1NaDe0Zuzs
 youtube_url: https://www.youtube.com/watch?v=h1NaDe0Zuzs
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

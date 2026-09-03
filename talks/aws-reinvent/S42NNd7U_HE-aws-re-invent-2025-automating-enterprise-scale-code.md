@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Automating enterprise-scale code modernization with
 slug: aws-re-invent-2025-automating-enterprise-scale-code
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: S42NNd7U_HE
 url: https://www.youtube.com/watch?v=S42NNd7U_HE
 youtube_url: https://www.youtube.com/watch?v=S42NNd7U_HE
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

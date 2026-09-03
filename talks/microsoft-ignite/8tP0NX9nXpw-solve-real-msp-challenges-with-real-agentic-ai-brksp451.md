@@ -4,7 +4,7 @@ title: "Solve real MSP challenges with real agentic AI | BRKSP451"
 slug: solve-real-msp-challenges-with-real-agentic-ai-brksp451
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Brianna Berry", "Jan Jofra"]
@@ -15,6 +15,7 @@ video_id: 8tP0NX9nXpw
 url: https://www.youtube.com/watch?v=8tP0NX9nXpw
 youtube_url: https://www.youtube.com/watch?v=8tP0NX9nXpw
 tags: ["BRKSP451", "Brianna Berry", "Copilot and agents at work", "English (US)", "Innovate with Azure AI apps and agents", "Jan Jofra", "Partner Business", "Solve real MSP challenges with real agentic AI | BRKSP451", "cda3131b-e0c0-491a-a966-52b64ce8fe70_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

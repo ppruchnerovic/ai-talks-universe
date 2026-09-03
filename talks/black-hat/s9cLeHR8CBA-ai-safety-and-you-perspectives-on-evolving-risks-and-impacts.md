@@ -4,7 +4,7 @@ title: "AI Safety and You: Perspectives on Evolving Risks and Impacts"
 slug: ai-safety-and-you-perspectives-on-evolving-risks-and-impacts
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: s9cLeHR8CBA
 url: https://www.youtube.com/watch?v=s9cLeHR8CBA
 youtube_url: https://www.youtube.com/watch?v=s9cLeHR8CBA
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

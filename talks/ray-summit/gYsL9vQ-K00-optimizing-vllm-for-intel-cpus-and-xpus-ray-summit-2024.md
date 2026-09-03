@@ -4,7 +4,7 @@ title: "Optimizing vLLM for Intel CPUs and XPUs | Ray Summit 2024"
 slug: optimizing-vllm-for-intel-cpus-and-xpus-ray-summit-2024
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: gYsL9vQ-K00
 url: https://www.youtube.com/watch?v=gYsL9vQ-K00
 youtube_url: https://www.youtube.com/watch?v=gYsL9vQ-K00
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

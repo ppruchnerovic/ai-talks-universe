@@ -4,7 +4,7 @@ title: "Cybersecurity and Infrastructure Security Agency (CISA)"
 slug: cybersecurity-and-infrastructure-security-agency-cisa
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: jv9n9ugfE3U
 url: https://www.youtube.com/watch?v=jv9n9ugfE3U
 youtube_url: https://www.youtube.com/watch?v=jv9n9ugfE3U
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

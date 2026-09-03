@@ -4,7 +4,7 @@ title: "GT - Security AI in the real world"
 slug: gt-security-ai-in-the-real-world
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2022
 speakers: []
@@ -15,6 +15,7 @@ video_id: iRG3jOwHIl4
 url: https://www.youtube.com/watch?v=iRG3jOwHIl4
 youtube_url: https://www.youtube.com/watch?v=iRG3jOwHIl4
 tags: ["1270387", "bsides las vegas", "bsides las vegas 2022", "bsideslv", "bslv", "bslv22", "ground truth", "gt"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

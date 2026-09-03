@@ -4,7 +4,7 @@ title: "Stop Worrying About Foundation Models — Your Taste, Judgment, and UX A
 slug: stop-worrying-about-foundation-models-your-taste-judgment
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Hamel Husain"]
@@ -15,6 +15,7 @@ video_id: EEw2PpL-_NM
 url: https://www.youtube.com/watch?v=EEw2PpL-_NM
 youtube_url: https://www.youtube.com/watch?v=EEw2PpL-_NM
 tags: ["GitHub", "DataRobot", "ChatGPT", "artificial intelligence", "machine learning", "AI business", "product strategy", "foundation models", "AI products", "product development", "model capabilities", "user experience", "business considerations", "Python tutorial", "platform strategy", "developer tools", "open source strategy", "community building", "API design", "integration strategies", "partner ecosystem", "marketplace dynamics", "customer success", "product analytics"]
+topics: ["Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

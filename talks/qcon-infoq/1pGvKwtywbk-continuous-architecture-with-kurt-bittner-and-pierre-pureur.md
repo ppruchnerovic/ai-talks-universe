@@ -4,7 +4,7 @@ title: "Continuous Architecture with Kurt Bittner and Pierre Pureur"
 slug: continuous-architecture-with-kurt-bittner-and-pierre-pureur
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1pGvKwtywbk
 url: https://www.youtube.com/watch?v=1pGvKwtywbk
 youtube_url: https://www.youtube.com/watch?v=1pGvKwtywbk
 tags: []
+topics: []
 transcript: false
 ---
 

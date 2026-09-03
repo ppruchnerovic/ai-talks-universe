@@ -4,7 +4,7 @@ title: "Beyond the Black Box: Interpreting ML models with SHAP"
 slug: beyond-the-black-box-interpreting-ml-models-with-shap
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Avik Basu"]
@@ -15,6 +15,7 @@ video_id: T7iVFDG1Y14
 url: https://www.youtube.com/watch?v=T7iVFDG1Y14
 youtube_url: https://www.youtube.com/watch?v=T7iVFDG1Y14
 tags: ["Conference", "DeepSHAP", "PyCon", "PyConDE", "PyData", "PyTorch", "Python", "SHAP", "Shapley values", "Tech Talk", "TreeSHAP", "XAI", "XGBoost", "data science", "explainable AI", "feature importance", "machine learning interpretability", "model explainability", "neural networks"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

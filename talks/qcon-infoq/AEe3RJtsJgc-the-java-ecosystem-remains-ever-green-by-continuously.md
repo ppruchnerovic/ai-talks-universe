@@ -4,7 +4,7 @@ title: "The Java Ecosystem Remains Ever-Green By Continuously Adapting to Develo
 slug: the-java-ecosystem-remains-ever-green-by-continuously
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: AEe3RJtsJgc
 url: https://www.youtube.com/watch?v=AEe3RJtsJgc
 youtube_url: https://www.youtube.com/watch?v=AEe3RJtsJgc
 tags: []
+topics: []
 transcript: false
 ---
 

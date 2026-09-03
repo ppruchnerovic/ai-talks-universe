@@ -4,7 +4,7 @@ title: "Survive the AI Knife Fight: Building Products That Win — Brian Balfour
 slug: survive-the-ai-knife-fight-building-products-that-win-brian
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Brian Balfour"]
@@ -15,6 +15,7 @@ video_id: 1MVh05GDydE
 url: https://www.youtube.com/watch?v=1MVh05GDydE
 youtube_url: https://www.youtube.com/watch?v=1MVh05GDydE
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

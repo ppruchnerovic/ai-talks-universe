@@ -4,7 +4,7 @@ title: "Driving Adoption and Automation With MCP in Production at Liftoff - Tomm
 slug: driving-adoption-and-automation-with-mcp-in-production-at
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Tommy Nguyen"]
@@ -15,6 +15,7 @@ video_id: ni6hMzibnko
 url: https://www.youtube.com/watch?v=ni6hMzibnko
 youtube_url: https://www.youtube.com/watch?v=ni6hMzibnko
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

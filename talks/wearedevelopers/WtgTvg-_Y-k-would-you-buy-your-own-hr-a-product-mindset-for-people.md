@@ -4,7 +4,7 @@ title: "Would You Buy Your Own HR? A Product Mindset for People Leaders"
 slug: would-you-buy-your-own-hr-a-product-mindset-for-people
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: WtgTvg-_Y-k
 url: https://www.youtube.com/watch?v=WtgTvg-_Y-k
 youtube_url: https://www.youtube.com/watch?v=WtgTvg-_Y-k
 tags: ["HR", "people", "culture", "future of work", "AI", "leadership", "transformation"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "How We Automate Chaos: Agentic AI and Community Ops at PyCon DE & PyData
 slug: how-we-automate-chaos-agentic-ai-and-community-ops-at-pycon
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: hEL2EhQi0Rk
 url: https://www.youtube.com/watch?v=hEL2EhQi0Rk
 youtube_url: https://www.youtube.com/watch?v=hEL2EhQi0Rk
 tags: ["AI agents", "AI limitations", "Claude Code", "Conference", "Gemini AI", "PyCon DE", "PyConDE", "PyData", "Python", "Python automation", "Tech Talk", "agentic AI", "coding assistants", "community operations", "conference management", "open source tools", "practical AI", "volunteer management", "workflow automation"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

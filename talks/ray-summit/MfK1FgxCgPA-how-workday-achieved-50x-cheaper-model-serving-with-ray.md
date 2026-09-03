@@ -4,7 +4,7 @@ title: "How Workday Achieved 50x Cheaper Model Serving with Ray Serve | Ray Summ
 slug: how-workday-achieved-50x-cheaper-model-serving-with-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: MfK1FgxCgPA
 url: https://www.youtube.com/watch?v=MfK1FgxCgPA
 youtube_url: https://www.youtube.com/watch?v=MfK1FgxCgPA
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

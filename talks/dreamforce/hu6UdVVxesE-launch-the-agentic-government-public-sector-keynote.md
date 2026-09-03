@@ -4,7 +4,7 @@ title: "Launch the Agentic Government | Public Sector Keynote, Dreamforce 2025"
 slug: launch-the-agentic-government-public-sector-keynote
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: hu6UdVVxesE
 url: https://www.youtube.com/watch?v=hu6UdVVxesE
 youtube_url: https://www.youtube.com/watch?v=hu6UdVVxesE
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

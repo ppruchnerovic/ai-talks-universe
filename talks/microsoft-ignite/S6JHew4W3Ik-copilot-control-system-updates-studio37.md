@@ -4,7 +4,7 @@ title: "Copilot Control System updates | STUDIO37"
 slug: copilot-control-system-updates-studio37
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Shilpi Sinha", "Jeremy Chapman"]
@@ -15,6 +15,7 @@ video_id: S6JHew4W3Ik
 url: https://www.youtube.com/watch?v=S6JHew4W3Ik
 youtube_url: https://www.youtube.com/watch?v=S6JHew4W3Ik
 tags: ["Copilot Control System updates | STUDIO37", "English (US)", "Jeremy Chapman", "Other", "STUDIO37", "STUDIO37_v1", "Shilpi Sinha", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

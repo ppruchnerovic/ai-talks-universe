@@ -4,7 +4,7 @@ title: "Optimizing EV Charging Experience: Machine Learning for Accurate Charge 
 slug: optimizing-ev-charging-experience-machine-learning-for
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: GWdBHNQ_qLg
 url: https://www.youtube.com/watch?v=GWdBHNQ_qLg
 youtube_url: https://www.youtube.com/watch?v=GWdBHNQ_qLg
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

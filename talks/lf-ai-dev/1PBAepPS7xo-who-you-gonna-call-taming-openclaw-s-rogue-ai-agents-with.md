@@ -4,7 +4,7 @@ title: "Who You Gonna Call? Taming OpenClaw's Rogue AI Agents With OpenTelemetry
 slug: who-you-gonna-call-taming-openclaw-s-rogue-ai-agents-with
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Henrik Rexed"]
@@ -15,6 +15,7 @@ video_id: 1PBAepPS7xo
 url: https://www.youtube.com/watch?v=1PBAepPS7xo
 youtube_url: https://www.youtube.com/watch?v=1PBAepPS7xo
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

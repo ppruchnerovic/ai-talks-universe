@@ -4,7 +4,7 @@ title: "Building Responsible AI Culture: Governance, Diversity, and the Future o
 slug: building-responsible-ai-culture-governance-diversity-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YQyol3bLr8k
 url: https://www.youtube.com/watch?v=YQyol3bLr8k
 youtube_url: https://www.youtube.com/watch?v=YQyol3bLr8k
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

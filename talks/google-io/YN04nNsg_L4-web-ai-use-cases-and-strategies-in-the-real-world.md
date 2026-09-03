@@ -4,7 +4,7 @@ title: "Web AI use cases and strategies in the real world"
 slug: web-ai-use-cases-and-strategies-in-the-real-world
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YN04nNsg_L4
 url: https://www.youtube.com/watch?v=YN04nNsg_L4
 youtube_url: https://www.youtube.com/watch?v=YN04nNsg_L4
 tags: []
+topics: []
 transcript: false
 ---
 

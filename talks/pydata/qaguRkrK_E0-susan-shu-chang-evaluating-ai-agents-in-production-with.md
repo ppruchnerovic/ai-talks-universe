@@ -4,7 +4,7 @@ title: "Susan Shu Chang-✕-Evaluating AI Agents in production with Python-PyDat
 slug: susan-shu-chang-evaluating-ai-agents-in-production-with
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qaguRkrK_E0
 url: https://www.youtube.com/watch?v=qaguRkrK_E0
 youtube_url: https://www.youtube.com/watch?v=qaguRkrK_E0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

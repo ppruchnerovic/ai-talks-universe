@@ -4,7 +4,7 @@ title: "Tutorial: Attack Defense: Leverage eBPF To Reveal Attack Flows... Consta
 slug: tutorial-attack-defense-leverage-ebpf-to-reveal-attack
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: VA-ne25QX9g
 url: https://www.youtube.com/watch?v=VA-ne25QX9g
 youtube_url: https://www.youtube.com/watch?v=VA-ne25QX9g
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

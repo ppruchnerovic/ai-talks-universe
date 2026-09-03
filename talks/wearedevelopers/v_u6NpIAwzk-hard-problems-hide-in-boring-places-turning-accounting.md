@@ -4,7 +4,7 @@ title: "Hard Problems Hide in Boring Places: Turning Accounting Workflows into A
 slug: hard-problems-hide-in-boring-places-turning-accounting
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Oleksandr Korotkykh", "Tolga Sümer"]
@@ -15,6 +15,7 @@ video_id: v_u6NpIAwzk
 url: https://www.youtube.com/watch?v=v_u6NpIAwzk
 youtube_url: https://www.youtube.com/watch?v=v_u6NpIAwzk
 tags: ["AI Engineering", "Automation", "Data", "Large Language Models (LLMs)", "Security", "Software Architecture"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

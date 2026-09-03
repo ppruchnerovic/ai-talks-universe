@@ -4,7 +4,7 @@ title: "Gen AI Grows Up: Enterprise JVM Agents With Embabel by Rod Johnson"
 slug: gen-ai-grows-up-enterprise-jvm-agents-with-embabel-by-rod
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Rod Johnson"]
@@ -15,6 +15,7 @@ video_id: _Y-srK-Ad4c
 url: https://www.youtube.com/watch?v=_Y-srK-Ad4c
 youtube_url: https://www.youtube.com/watch?v=_Y-srK-Ad4c
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

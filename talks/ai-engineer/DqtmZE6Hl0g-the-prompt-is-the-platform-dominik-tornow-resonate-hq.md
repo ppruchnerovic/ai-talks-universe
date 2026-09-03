@@ -4,7 +4,7 @@ title: "The Prompt is the Platform - Dominik Tornow, Resonate HQ"
 slug: the-prompt-is-the-platform-dominik-tornow-resonate-hq
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dominik Tornow"]
@@ -15,6 +15,7 @@ video_id: DqtmZE6Hl0g
 url: https://www.youtube.com/watch?v=DqtmZE6Hl0g
 youtube_url: https://www.youtube.com/watch?v=DqtmZE6Hl0g
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy", "Prompting & context engineering"]
 transcript: true
 ---
 

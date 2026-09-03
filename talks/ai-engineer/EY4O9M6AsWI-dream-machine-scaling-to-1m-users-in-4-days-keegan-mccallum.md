@@ -4,7 +4,7 @@ title: "Dream Machine: Scaling to 1m users in 4 days — Keegan McCallum, Luma A
 slug: dream-machine-scaling-to-1m-users-in-4-days-keegan-mccallum
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: EY4O9M6AsWI
 url: https://www.youtube.com/watch?v=EY4O9M6AsWI
 youtube_url: https://www.youtube.com/watch?v=EY4O9M6AsWI
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

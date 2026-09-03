@@ -4,7 +4,7 @@ title: "From Pair to Peer Programmer - Aaron Powell - NDC Sydney 2026"
 slug: from-pair-to-peer-programmer-aaron-powell-ndc-sydney-2026
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Aaron Powell"]
@@ -15,6 +15,7 @@ video_id: nKZVd8r89nI
 url: https://www.youtube.com/watch?v=nKZVd8r89nI
 youtube_url: https://www.youtube.com/watch?v=nKZVd8r89nI
 tags: ["AI", "Tools", "Aaron Powell", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia"]
+topics: []
 transcript: true
 ---
 

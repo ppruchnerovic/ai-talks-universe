@@ -4,7 +4,7 @@ title: "MCP: The Gateway to Real-Time Human–AI Collaboration in Jupyter at Sca
 slug: mcp-the-gateway-to-real-time-humanai-collaboration-in
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: NPcY4ccny7E
 url: https://www.youtube.com/watch?v=NPcY4ccny7E
 youtube_url: https://www.youtube.com/watch?v=NPcY4ccny7E
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

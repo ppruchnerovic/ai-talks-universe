@@ -4,7 +4,7 @@ title: "The Why and How of WebMCP - Alex Nahas"
 slug: the-why-and-how-of-webmcp-alex-nahas
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Alex Nahas"]
@@ -15,6 +15,7 @@ video_id: YVWgoXWSvmk
 url: https://www.youtube.com/watch?v=YVWgoXWSvmk
 youtube_url: https://www.youtube.com/watch?v=YVWgoXWSvmk
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

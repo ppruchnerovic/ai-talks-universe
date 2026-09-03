@@ -4,7 +4,7 @@ title: "Piloting agents in GitHub Copilot - Christopher Harrison, Microsoft"
 slug: piloting-agents-in-github-copilot-christopher-harrison
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Christopher Harrison"]
@@ -15,6 +15,7 @@ video_id: DdaAABdAqZY
 url: https://www.youtube.com/watch?v=DdaAABdAqZY
 youtube_url: https://www.youtube.com/watch?v=DdaAABdAqZY
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

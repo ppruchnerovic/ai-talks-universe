@@ -4,7 +4,7 @@ title: "Fireside chat: How customers are unlocking value & growth with Copilot |
 slug: fireside-chat-how-customers-are-unlocking-value-growth-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Matt Barrington"]
@@ -15,6 +15,7 @@ video_id: 0-wWqG2ju10
 url: https://www.youtube.com/watch?v=0-wWqG2ju10
 youtube_url: https://www.youtube.com/watch?v=0-wWqG2ju10
 tags: ["Ashley Haynes-Gaspar", "BRK292", "BRK292_v1", "Colette Stallbaumer", "Copilot and agents at work", "English (US)", "Fireside chat: How customers are unlocking value & growth with Copilot | BRK292", "Greg Ulrich", "Matt Barrington", "Signature pass", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Operationalizing Openness: Standardizing AI Model Supply Chains... Vince
 slug: operationalizing-openness-standardizing-ai-model-supply
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: wLSQ2u0Ohjo
 url: https://www.youtube.com/watch?v=wLSQ2u0Ohjo
 youtube_url: https://www.youtube.com/watch?v=wLSQ2u0Ohjo
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

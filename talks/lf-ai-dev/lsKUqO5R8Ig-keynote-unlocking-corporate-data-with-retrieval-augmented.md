@@ -4,7 +4,7 @@ title: "Keynote: Unlocking Corporate Data with Retrieval-Augmented Generation - 
 slug: keynote-unlocking-corporate-data-with-retrieval-augmented
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Jerry Liu"]
@@ -15,6 +15,7 @@ video_id: lsKUqO5R8Ig
 url: https://www.youtube.com/watch?v=lsKUqO5R8Ig
 youtube_url: https://www.youtube.com/watch?v=lsKUqO5R8Ig
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

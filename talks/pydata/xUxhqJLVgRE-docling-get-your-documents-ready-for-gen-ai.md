@@ -4,7 +4,7 @@ title: "Docling: Get your documents ready for gen AI"
 slug: docling-get-your-documents-ready-for-gen-ai
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Michele Dolfi"]
@@ -15,6 +15,7 @@ video_id: xUxhqJLVgRE
 url: https://www.youtube.com/watch?v=xUxhqJLVgRE
 youtube_url: https://www.youtube.com/watch?v=xUxhqJLVgRE
 tags: ["Conference", "Docling", "LangChain", "Linux Foundation", "LlamaIndex", "OCR", "PDF extraction", "PyConDE", "PyData", "Python", "RAG", "SmolDocling", "Tech Talk", "document AI", "document parsing", "generative AI", "machine learning", "open source", "vision language model"]
+topics: ["Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

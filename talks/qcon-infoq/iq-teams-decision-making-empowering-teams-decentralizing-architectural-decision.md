@@ -4,7 +4,7 @@ title: "Empowering Teams: Decentralizing Architectural Decision-Making"
 slug: empowering-teams-decentralizing-architectural-decision
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Peter Hunter", "Elena Stojmilova"]
@@ -15,6 +15,7 @@ video_id: iq-teams-decision-making
 url: https://www.infoq.com/presentations/teams-decision-making/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

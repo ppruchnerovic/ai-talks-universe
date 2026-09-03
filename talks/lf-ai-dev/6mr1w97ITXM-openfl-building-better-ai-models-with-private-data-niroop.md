@@ -4,7 +4,7 @@ title: "OpenFL: Building Better AI Models with Private Data - Niroop Ammbashanka
 slug: openfl-building-better-ai-models-with-private-data-niroop
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Niroop Ammbashankar"]
@@ -15,6 +15,7 @@ video_id: 6mr1w97ITXM
 url: https://www.youtube.com/watch?v=6mr1w97ITXM
 youtube_url: https://www.youtube.com/watch?v=6mr1w97ITXM
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

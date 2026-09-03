@@ -4,7 +4,7 @@ title: "Agents, apps, and acceleration: Helping software companies grow | BRK214
 slug: agents-apps-and-acceleration-helping-software-companies
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Cyril Belikoff", "Rob Ferguson", "Jonathan Sobel"]
@@ -15,6 +15,7 @@ video_id: DBrfh0vOBxY
 url: https://www.youtube.com/watch?v=DBrfh0vOBxY
 youtube_url: https://www.youtube.com/watch?v=DBrfh0vOBxY
 tags: ["Agents apps and acceleration: Helping software companies grow | BRK214", "BRK214", "BRK214_v1", "Cyril Belikoff", "English (US)", "Innovate with Azure AI apps and agents", "Jonathan Sobel", "Rob Ferguson", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: false
 ---
 

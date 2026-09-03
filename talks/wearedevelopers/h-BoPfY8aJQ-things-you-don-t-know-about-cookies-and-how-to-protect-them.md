@@ -4,7 +4,7 @@ title: "Things You Don't Know About Cookies and How to Protect Them - Mohamed Sh
 slug: things-you-don-t-know-about-cookies-and-how-to-protect-them
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Mohamed Shiralizadeh"]
@@ -15,6 +15,7 @@ video_id: h-BoPfY8aJQ
 url: https://www.youtube.com/watch?v=h-BoPfY8aJQ
 youtube_url: https://www.youtube.com/watch?v=h-BoPfY8aJQ
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

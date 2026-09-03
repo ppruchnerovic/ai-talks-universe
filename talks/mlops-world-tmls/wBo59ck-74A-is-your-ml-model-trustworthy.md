@@ -4,7 +4,7 @@ title: "Is Your ML Model Trustworthy?"
 slug: is-your-ml-model-trustworthy
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: wBo59ck-74A
 url: https://www.youtube.com/watch?v=wBo59ck-74A
 youtube_url: https://www.youtube.com/watch?v=wBo59ck-74A
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "Is Your ML Model Trustworthy?", "mlops community", "ml model"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

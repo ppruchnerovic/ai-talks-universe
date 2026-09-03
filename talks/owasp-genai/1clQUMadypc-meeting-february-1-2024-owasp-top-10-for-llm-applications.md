@@ -4,7 +4,7 @@ title: "Meeting February 1, 2024 - OWASP Top 10 For LLM Applications"
 slug: meeting-february-1-2024-owasp-top-10-for-llm-applications
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1clQUMadypc
 url: https://www.youtube.com/watch?v=1clQUMadypc
 youtube_url: https://www.youtube.com/watch?v=1clQUMadypc
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

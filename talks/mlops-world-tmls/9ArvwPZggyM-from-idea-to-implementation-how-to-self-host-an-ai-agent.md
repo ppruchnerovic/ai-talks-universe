@@ -4,7 +4,7 @@ title: "From Idea to Implementation: How to Self-Host an AI Agent"
 slug: from-idea-to-implementation-how-to-self-host-an-ai-agent
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9ArvwPZggyM
 url: https://www.youtube.com/watch?v=9ArvwPZggyM
 youtube_url: https://www.youtube.com/watch?v=9ArvwPZggyM
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

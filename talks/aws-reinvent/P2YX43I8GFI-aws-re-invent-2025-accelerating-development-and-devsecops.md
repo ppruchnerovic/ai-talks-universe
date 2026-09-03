@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Accelerating Development and DevSecOps with Amazon 
 slug: aws-re-invent-2025-accelerating-development-and-devsecops
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: P2YX43I8GFI
 url: https://www.youtube.com/watch?v=P2YX43I8GFI
 youtube_url: https://www.youtube.com/watch?v=P2YX43I8GFI
 tags: []
+topics: []
 transcript: false
 ---
 

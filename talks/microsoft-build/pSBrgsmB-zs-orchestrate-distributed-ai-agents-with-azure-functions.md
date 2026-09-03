@@ -4,7 +4,7 @@ title: "Orchestrate distributed AI Agents with Azure Functions | DEM541"
 slug: orchestrate-distributed-ai-agents-with-azure-functions
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: pSBrgsmB-zs
 url: https://www.youtube.com/watch?v=pSBrgsmB-zs
 youtube_url: https://www.youtube.com/watch?v=pSBrgsmB-zs
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

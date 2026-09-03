@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - AIOps Revolution: How iHeart slashed incident respo
 slug: aws-re-invent-2025-aiops-revolution-how-iheart-slashed
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qvhmFAvG_QI
 url: https://www.youtube.com/watch?v=qvhmFAvG_QI
 youtube_url: https://www.youtube.com/watch?v=qvhmFAvG_QI
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Jerry Liu: My Agent Can't Read a PDF?"
 slug: ai-dev-26-x-sf-jerry-liu-my-agent-can-t-read-a-pdf
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 80vV6fGIlWo
 url: https://www.youtube.com/watch?v=80vV6fGIlWo
 youtube_url: https://www.youtube.com/watch?v=80vV6fGIlWo
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

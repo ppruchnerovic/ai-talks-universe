@@ -4,7 +4,7 @@ title: "Building Performant RAG Applications for Production • David Carlos Zac
 slug: building-performant-rag-applications-for-production-david
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["David Carlos Zachariae"]
@@ -15,6 +15,7 @@ video_id: NDWdkmvX91E
 url: https://www.youtube.com/watch?v=NDWdkmvX91E
 youtube_url: https://www.youtube.com/watch?v=NDWdkmvX91E
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

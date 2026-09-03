@@ -4,7 +4,7 @@ title: "Reinforcement Learning for Autonomous Resilient Cyber Defense"
 slug: reinforcement-learning-for-autonomous-resilient-cyber
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: HbadydHJs4I
 url: https://www.youtube.com/watch?v=HbadydHJs4I
 youtube_url: https://www.youtube.com/watch?v=HbadydHJs4I
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

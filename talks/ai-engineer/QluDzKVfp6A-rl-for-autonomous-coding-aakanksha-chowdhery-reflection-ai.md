@@ -4,7 +4,7 @@ title: "RL for Autonomous Coding — Aakanksha Chowdhery, Reflection.ai"
 slug: rl-for-autonomous-coding-aakanksha-chowdhery-reflection-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Aakanksha Chowdhery"]
@@ -15,6 +15,7 @@ video_id: QluDzKVfp6A
 url: https://www.youtube.com/watch?v=QluDzKVfp6A
 youtube_url: https://www.youtube.com/watch?v=QluDzKVfp6A
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

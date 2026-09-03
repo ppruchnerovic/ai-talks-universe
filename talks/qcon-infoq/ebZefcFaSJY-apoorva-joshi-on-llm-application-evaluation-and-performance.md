@@ -4,7 +4,7 @@ title: "Apoorva Joshi on LLM Application Evaluation and Performance Improvements
 slug: apoorva-joshi-on-llm-application-evaluation-and-performance
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ebZefcFaSJY
 url: https://www.youtube.com/watch?v=ebZefcFaSJY
 youtube_url: https://www.youtube.com/watch?v=ebZefcFaSJY
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

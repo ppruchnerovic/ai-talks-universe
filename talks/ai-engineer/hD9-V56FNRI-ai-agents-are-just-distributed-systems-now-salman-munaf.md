@@ -4,7 +4,7 @@ title: "AI Agents Are Just Distributed Systems Now — Salman Munaf, TikTok"
 slug: ai-agents-are-just-distributed-systems-now-salman-munaf
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Salman Munaf"]
@@ -15,6 +15,7 @@ video_id: hD9-V56FNRI
 url: https://www.youtube.com/watch?v=hD9-V56FNRI
 youtube_url: https://www.youtube.com/watch?v=hD9-V56FNRI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

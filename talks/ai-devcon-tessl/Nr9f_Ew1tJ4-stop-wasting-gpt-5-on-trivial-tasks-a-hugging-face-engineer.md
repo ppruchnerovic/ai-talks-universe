@@ -4,7 +4,7 @@ title: "Stop wasting GPT-5 on trivial tasks — a Hugging Face engineer's warnin
 slug: stop-wasting-gpt-5-on-trivial-tasks-a-hugging-face-engineer
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Nr9f_Ew1tJ4
 url: https://www.youtube.com/watch?v=Nr9f_Ew1tJ4
 youtube_url: https://www.youtube.com/watch?v=Nr9f_Ew1tJ4
 tags: []
+topics: ["Agents & orchestration", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

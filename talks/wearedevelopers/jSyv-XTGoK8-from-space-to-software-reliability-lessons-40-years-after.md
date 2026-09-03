@@ -4,7 +4,7 @@ title: "From Space to Software: Reliability Lessons 40 Years After Challenger"
 slug: from-space-to-software-reliability-lessons-40-years-after
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Robert Barron"]
@@ -15,6 +15,7 @@ video_id: jSyv-XTGoK8
 url: https://www.youtube.com/watch?v=jSyv-XTGoK8
 youtube_url: https://www.youtube.com/watch?v=jSyv-XTGoK8
 tags: ["Quality & Reliability", "Developer Experience (DevEx)", "DevOps", "DevSecOps", "IBM", "Integration Testing", "People & Culture", "Reliability", "Site Reliability Engineering (SRE)"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

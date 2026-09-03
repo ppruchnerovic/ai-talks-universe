@@ -4,7 +4,7 @@ title: "ComfyUI Full Workshop — first workshop from ComfyAnonymous himself!"
 slug: comfyui-full-workshop-first-workshop-from-comfyanonymous
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _FKeSzM9fPc
 url: https://www.youtube.com/watch?v=_FKeSzM9fPc
 youtube_url: https://www.youtube.com/watch?v=_FKeSzM9fPc
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Anthony Annunziata, AI Alliance: Scaling Intelligence Outward"
 slug: anthony-annunziata-ai-alliance-scaling-intelligence-outward
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5yzQ6wjv-Xo
 url: https://www.youtube.com/watch?v=5yzQ6wjv-Xo
 youtube_url: https://www.youtube.com/watch?v=5yzQ6wjv-Xo
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

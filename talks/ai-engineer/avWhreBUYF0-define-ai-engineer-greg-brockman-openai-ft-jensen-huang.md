@@ -4,7 +4,7 @@ title: "#define AI Engineer - Greg Brockman, OpenAI (ft. Jensen Huang)"
 slug: define-ai-engineer-greg-brockman-openai-ft-jensen-huang
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Greg Brockman"]
@@ -15,6 +15,7 @@ video_id: avWhreBUYF0
 url: https://www.youtube.com/watch?v=avWhreBUYF0
 youtube_url: https://www.youtube.com/watch?v=avWhreBUYF0
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

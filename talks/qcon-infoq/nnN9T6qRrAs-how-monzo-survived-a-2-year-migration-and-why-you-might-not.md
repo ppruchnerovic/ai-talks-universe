@@ -4,7 +4,7 @@ title: "How Monzo Survived a 2-Year Migration (and Why You Might Not)"
 slug: how-monzo-survived-a-2-year-migration-and-why-you-might-not
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: nnN9T6qRrAs
 url: https://www.youtube.com/watch?v=nnN9T6qRrAs
 youtube_url: https://www.youtube.com/watch?v=nnN9T6qRrAs
 tags: ["Software Architecture", "QCon London", "InfoQ", "Transcript", "Case Study", "Monzo", "Technical Migration", "TypeScript", "Flow", "JavaScript", "Web Development", "Dynamic Languages", "Technical Debt"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

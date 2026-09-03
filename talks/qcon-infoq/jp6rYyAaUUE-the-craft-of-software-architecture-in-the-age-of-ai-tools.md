@@ -4,7 +4,7 @@ title: "The Craft of Software Architecture in the Age of AI Tools"
 slug: the-craft-of-software-architecture-in-the-age-of-ai-tools
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: jp6rYyAaUUE
 url: https://www.youtube.com/watch?v=jp6rYyAaUUE
 youtube_url: https://www.youtube.com/watch?v=jp6rYyAaUUE
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

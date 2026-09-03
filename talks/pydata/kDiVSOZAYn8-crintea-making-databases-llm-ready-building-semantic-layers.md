@@ -4,7 +4,7 @@ title: "Crintea - Making Databases LLM-Ready Building Semantic Layers with Seman
 slug: crintea-making-databases-llm-ready-building-semantic-layers
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: kDiVSOZAYn8
 url: https://www.youtube.com/watch?v=kDiVSOZAYn8
 youtube_url: https://www.youtube.com/watch?v=kDiVSOZAYn8
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

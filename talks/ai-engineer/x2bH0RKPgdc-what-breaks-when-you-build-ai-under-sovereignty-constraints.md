@@ -4,7 +4,7 @@ title: "What Breaks When You Build AI Under Sovereignty Constraints - Bilge Yüc
 slug: what-breaks-when-you-build-ai-under-sovereignty-constraints
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Bilge Yücel"]
@@ -15,6 +15,7 @@ video_id: x2bH0RKPgdc
 url: https://www.youtube.com/watch?v=x2bH0RKPgdc
 youtube_url: https://www.youtube.com/watch?v=x2bH0RKPgdc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

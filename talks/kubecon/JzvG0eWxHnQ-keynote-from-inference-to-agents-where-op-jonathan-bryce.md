@@ -4,7 +4,7 @@ title: "Keynote: From Inference to Agents: Where Op... Jonathan Bryce, Brian Ste
 slug: keynote-from-inference-to-agents-where-op-jonathan-bryce
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: JzvG0eWxHnQ
 url: https://www.youtube.com/watch?v=JzvG0eWxHnQ
 youtube_url: https://www.youtube.com/watch?v=JzvG0eWxHnQ
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

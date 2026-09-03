@@ -4,7 +4,7 @@ title: "Using GPT Visual Capabilities to Solve a Wordle Puzzle - Jennifer Marsma
 slug: using-gpt-visual-capabilities-to-solve-a-wordle-puzzle
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Jennifer Marsman"]
@@ -15,6 +15,7 @@ video_id: sfpk4wQeS_g
 url: https://www.youtube.com/watch?v=sfpk4wQeS_g
 youtube_url: https://www.youtube.com/watch?v=sfpk4wQeS_g
 tags: []
+topics: []
 transcript: false
 ---
 

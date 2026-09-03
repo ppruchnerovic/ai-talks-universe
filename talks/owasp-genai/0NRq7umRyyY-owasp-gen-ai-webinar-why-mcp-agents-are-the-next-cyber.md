@@ -4,7 +4,7 @@ title: "OWASP Gen AI Webinar: Why MCP Agents Are the Next Cyber Battleground"
 slug: owasp-gen-ai-webinar-why-mcp-agents-are-the-next-cyber
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0NRq7umRyyY
 url: https://www.youtube.com/watch?v=0NRq7umRyyY
 youtube_url: https://www.youtube.com/watch?v=0NRq7umRyyY
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Enterprise adoption & strategy", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

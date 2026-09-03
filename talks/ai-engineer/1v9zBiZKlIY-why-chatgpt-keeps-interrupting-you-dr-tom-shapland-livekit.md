@@ -4,7 +4,7 @@ title: "Why ChatGPT Keeps Interrupting You — Dr. Tom Shapland, LiveKit"
 slug: why-chatgpt-keeps-interrupting-you-dr-tom-shapland-livekit
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dr. Tom Shapland"]
@@ -15,6 +15,7 @@ video_id: 1v9zBiZKlIY
 url: https://www.youtube.com/watch?v=1v9zBiZKlIY
 youtube_url: https://www.youtube.com/watch?v=1v9zBiZKlIY
 tags: []
+topics: ["Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

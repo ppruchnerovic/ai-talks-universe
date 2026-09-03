@@ -4,7 +4,7 @@ title: "Postgres for Production Agents: Your Relational Foundation for Enterpris
 slug: postgres-for-production-agents-your-relational-foundation
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Gwen Shapira"]
@@ -15,6 +15,7 @@ video_id: iq-postgres-ai-agents
 url: https://www.infoq.com/presentations/postgres-ai-agents/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

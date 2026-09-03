@@ -4,7 +4,7 @@ title: "Training AI for Space: Slingshot's Ray Journey | Ray Summit 2024"
 slug: training-ai-for-space-slingshot-s-ray-journey-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: UuWG2bjZdOk
 url: https://www.youtube.com/watch?v=UuWG2bjZdOk
 youtube_url: https://www.youtube.com/watch?v=UuWG2bjZdOk
 tags: []
+topics: []
 transcript: false
 ---
 

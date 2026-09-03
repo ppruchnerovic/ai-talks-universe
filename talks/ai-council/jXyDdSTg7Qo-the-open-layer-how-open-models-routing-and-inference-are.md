@@ -4,7 +4,7 @@ title: "The Open Layer: How Open Models, Routing, and Inference Are Reshaping Ag
 slug: the-open-layer-how-open-models-routing-and-inference-are
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: jXyDdSTg7Qo
 url: https://www.youtube.com/watch?v=jXyDdSTg7Qo
 youtube_url: https://www.youtube.com/watch?v=jXyDdSTg7Qo
 tags: ["AI"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

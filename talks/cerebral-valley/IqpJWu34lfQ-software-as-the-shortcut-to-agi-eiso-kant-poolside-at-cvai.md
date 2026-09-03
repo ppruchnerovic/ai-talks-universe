@@ -4,7 +4,7 @@ title: "Software as the Shortcut to AGI: Eiso Kant (poolside) at CVAI London"
 slug: software-as-the-shortcut-to-agi-eiso-kant-poolside-at-cvai
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: IqpJWu34lfQ
 url: https://www.youtube.com/watch?v=IqpJWu34lfQ
 youtube_url: https://www.youtube.com/watch?v=IqpJWu34lfQ
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

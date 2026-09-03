@@ -4,7 +4,7 @@ title: "Post-Training and Deploying Open Source Reasoning Models in Foundry | BR
 slug: post-training-and-deploying-open-source-reasoning-models-in
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Chris Lauren", "Manoj Bableshwar", "Vijay Aski"]
@@ -15,6 +15,7 @@ video_id: ISurXM76eXI
 url: https://www.youtube.com/watch?v=ISurXM76eXI
 youtube_url: https://www.youtube.com/watch?v=ISurXM76eXI
 tags: ["BRK232", "Chris Lauren", "Manoj Bableshwar", "Post-Training and Deploying Open Source Reasoning Models in Foundry | BRK232", "Vijay Aski", "b7ec6cc5-da1b-46e4-bce5-748e0e07c737_M9Z7-BRK232-1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

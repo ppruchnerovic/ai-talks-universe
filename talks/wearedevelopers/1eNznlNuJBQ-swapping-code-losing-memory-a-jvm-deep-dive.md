@@ -4,7 +4,7 @@ title: "Swapping Code, Losing Memory: A JVM Deep Dive"
 slug: swapping-code-losing-memory-a-jvm-deep-dive
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Marco Sussitz"]
@@ -15,6 +15,7 @@ video_id: 1eNznlNuJBQ
 url: https://www.youtube.com/watch?v=1eNznlNuJBQ
 youtube_url: https://www.youtube.com/watch?v=1eNznlNuJBQ
 tags: ["Languages & Runtimes", "C++", "Java", "JVM"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Workshop: LLMs Fine Tuning and Inferencing Using ON... Abhishek Jindal, 
 slug: workshop-llms-fine-tuning-and-inferencing-using-on-abhishek
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: lOp8WK0fa94
 url: https://www.youtube.com/watch?v=lOp8WK0fa94
 youtube_url: https://www.youtube.com/watch?v=lOp8WK0fa94
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

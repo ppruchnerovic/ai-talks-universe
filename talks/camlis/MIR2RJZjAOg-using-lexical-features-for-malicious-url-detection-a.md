@@ -4,7 +4,7 @@ title: "Using Lexical Features for Malicious URL Detection- A Machine Learning A
 slug: using-lexical-features-for-malicious-url-detection-a
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []
@@ -15,6 +15,7 @@ video_id: MIR2RJZjAOg
 url: https://www.youtube.com/watch?v=MIR2RJZjAOg
 youtube_url: https://www.youtube.com/watch?v=MIR2RJZjAOg
 tags: ["camlis", "camlis2019"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

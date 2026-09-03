@@ -4,7 +4,7 @@ title: "The future of Stack Overflow as the most vital source for technologists 
 slug: the-future-of-stack-overflow-as-the-most-vital-source-for
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Prashanth Chandrasekar"]
@@ -15,6 +15,7 @@ video_id: iRA1SDt5iUo
 url: https://www.youtube.com/watch?v=iRA1SDt5iUo
 youtube_url: https://www.youtube.com/watch?v=iRA1SDt5iUo
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: false
 ---
 

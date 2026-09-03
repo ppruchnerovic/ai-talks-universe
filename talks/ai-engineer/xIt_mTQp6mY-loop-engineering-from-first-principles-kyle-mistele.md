@@ -4,7 +4,7 @@ title: "Loop Engineering from First Principles — Kyle Mistele, HumanLayer"
 slug: loop-engineering-from-first-principles-kyle-mistele
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kyle Mistele"]
@@ -15,6 +15,7 @@ video_id: xIt_mTQp6mY
 url: https://www.youtube.com/watch?v=xIt_mTQp6mY
 youtube_url: https://www.youtube.com/watch?v=xIt_mTQp6mY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

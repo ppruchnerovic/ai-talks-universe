@@ -4,7 +4,7 @@ title: "AI: too good to be true, too bad to be useful | TypeSafe AI"
 slug: ai-too-good-to-be-true-too-bad-to-be-useful-typesafe-ai
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: o-y1HJ6buGQ
 url: https://www.youtube.com/watch?v=o-y1HJ6buGQ
 youtube_url: https://www.youtube.com/watch?v=o-y1HJ6buGQ
 tags: ["AI"]
+topics: []
 transcript: true
 ---
 

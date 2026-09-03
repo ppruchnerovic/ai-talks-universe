@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Adit Abraham: Better Agents with Better Data"
 slug: ai-dev-26-x-sf-adit-abraham-better-agents-with-better-data
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6Ncfa6xWavg
 url: https://www.youtube.com/watch?v=6Ncfa6xWavg
 youtube_url: https://www.youtube.com/watch?v=6Ncfa6xWavg
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

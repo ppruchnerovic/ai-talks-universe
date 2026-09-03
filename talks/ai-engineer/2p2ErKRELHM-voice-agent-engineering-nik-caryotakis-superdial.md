@@ -4,7 +4,7 @@ title: "Voice Agent Engineering — Nik Caryotakis, SuperDial"
 slug: voice-agent-engineering-nik-caryotakis-superdial
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nik Caryotakis"]
@@ -15,6 +15,7 @@ video_id: 2p2ErKRELHM
 url: https://www.youtube.com/watch?v=2p2ErKRELHM
 youtube_url: https://www.youtube.com/watch?v=2p2ErKRELHM
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

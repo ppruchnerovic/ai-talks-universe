@@ -4,7 +4,7 @@ title: "Beyond Sonic Pi: Tau5 & the Art of Coding with AI • Sam Aaron • YOW!
 slug: beyond-sonic-pi-tau5-the-art-of-coding-with-ai-sam-aaron
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Sam Aaron"]
@@ -15,6 +15,7 @@ video_id: -L4OoOgQ5Wk
 url: https://www.youtube.com/watch?v=-L4OoOgQ5Wk
 youtube_url: https://www.youtube.com/watch?v=-L4OoOgQ5Wk
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The weekly developer show: Boosting Python with CUDA, CSS Updates & Navi
 slug: the-weekly-developer-show-boosting-python-with-cuda-css
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: UC6KVN6KBvc
 url: https://www.youtube.com/watch?v=UC6KVN6KBvc
 youtube_url: https://www.youtube.com/watch?v=UC6KVN6KBvc
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "Python", "CUDA", "WebDevelopment", "CSSUpdates", "TechCareer", "MachineLearning", "SoftwareEngineering", "WorkLifeBalance", "FrontendDevelopment", "DeveloperCommunity"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

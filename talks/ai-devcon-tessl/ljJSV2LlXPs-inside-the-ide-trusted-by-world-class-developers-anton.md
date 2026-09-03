@@ -4,7 +4,7 @@ title: "Inside the IDE Trusted by World-Class Developers | Anton Arhipov"
 slug: inside-the-ide-trusted-by-world-class-developers-anton
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Anton Arhipov"]
@@ -15,6 +15,7 @@ video_id: ljJSV2LlXPs
 url: https://www.youtube.com/watch?v=ljJSV2LlXPs
 youtube_url: https://www.youtube.com/watch?v=ljJSV2LlXPs
 tags: ["ainativedev"]
+topics: []
 transcript: false
 ---
 

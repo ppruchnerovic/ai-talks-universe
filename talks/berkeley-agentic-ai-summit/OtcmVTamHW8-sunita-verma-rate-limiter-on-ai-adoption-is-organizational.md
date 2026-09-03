@@ -4,7 +4,7 @@ title: "Sunita Verma - Rate Limiter on AI Adoption Is Organizational"
 slug: sunita-verma-rate-limiter-on-ai-adoption-is-organizational
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Sunita Verma"]
@@ -15,6 +15,7 @@ video_id: OtcmVTamHW8
 url: https://www.youtube.com/watch?v=OtcmVTamHW8
 youtube_url: https://www.youtube.com/watch?v=OtcmVTamHW8
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

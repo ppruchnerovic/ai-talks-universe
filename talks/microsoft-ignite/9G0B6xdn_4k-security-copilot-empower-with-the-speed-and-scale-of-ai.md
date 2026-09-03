@@ -4,7 +4,7 @@ title: "Security Copilot: Empower with the speed and scale of AI | BRK244"
 slug: security-copilot-empower-with-the-speed-and-scale-of-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Dorothy Li"]
@@ -15,6 +15,7 @@ video_id: 9G0B6xdn_4k
 url: https://www.youtube.com/watch?v=9G0B6xdn_4k
 youtube_url: https://www.youtube.com/watch?v=9G0B6xdn_4k
 tags: ["BRK244", "BRK244_v2", "Dilip Radhakrishnan", "Dorothy Li", "English (US)", "Fabrizio Dell'Oglio", "Modernize SecOps with a unified platform", "Security Copilot: Empower with the speed and scale of AI | BRK244", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Data engineering & MLOps", "Security, safety & red teaming"]
 transcript: false
 ---
 

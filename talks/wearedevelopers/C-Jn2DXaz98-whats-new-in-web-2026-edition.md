@@ -4,7 +4,7 @@ title: "What’s New in Web? 2026 Edition"
 slug: whats-new-in-web-2026-edition
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Christian Liebel"]
@@ -15,6 +15,7 @@ video_id: C-Jn2DXaz98
 url: https://www.youtube.com/watch?v=C-Jn2DXaz98
 youtube_url: https://www.youtube.com/watch?v=C-Jn2DXaz98
 tags: ["Frontend, Web & Mobile", "Agentic AI", "CSS", "JavaScript", "Progressive Web Apps (PWAs)", "Web Standards", "WebNN"]
+topics: []
 transcript: true
 ---
 

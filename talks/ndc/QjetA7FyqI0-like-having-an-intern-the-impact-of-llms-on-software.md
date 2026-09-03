@@ -4,7 +4,7 @@ title: "Like Having an Intern? The Impact of LLMs on Software Engineering Career
 slug: like-having-an-intern-the-impact-of-llms-on-software
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: QjetA7FyqI0
 url: https://www.youtube.com/watch?v=QjetA7FyqI0
 youtube_url: https://www.youtube.com/watch?v=QjetA7FyqI0
 tags: ["GenAI", "People", "Work skills", "AI", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Tom Sellek", "Netta Avnoon"]
+topics: []
 transcript: true
 ---
 

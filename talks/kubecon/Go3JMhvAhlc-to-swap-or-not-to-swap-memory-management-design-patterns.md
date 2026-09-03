@@ -4,7 +4,7 @@ title: "To Swap or Not To Swap: Memory Management Design Patterns for AI Workloa
 slug: to-swap-or-not-to-swap-memory-management-design-patterns
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Go3JMhvAhlc
 url: https://www.youtube.com/watch?v=Go3JMhvAhlc
 youtube_url: https://www.youtube.com/watch?v=Go3JMhvAhlc
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Build robust data foundations to power enterprise A
 slug: aws-re-invent-2025-build-robust-data-foundations-to-power
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: kWPrlsHErUM
 url: https://www.youtube.com/watch?v=kWPrlsHErUM
 youtube_url: https://www.youtube.com/watch?v=kWPrlsHErUM
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

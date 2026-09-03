@@ -4,7 +4,7 @@ title: "Transforming Multimodal Data Management with LanceDB-Ray | Ray Summit 20
 slug: transforming-multimodal-data-management-with-lancedb-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: xmTFEzAh8ho
 url: https://www.youtube.com/watch?v=xmTFEzAh8ho
 youtube_url: https://www.youtube.com/watch?v=xmTFEzAh8ho
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

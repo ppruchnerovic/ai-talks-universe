@@ -4,7 +4,7 @@ title: "dotAI 2024 - Stanislas Polu - LLMs reasoning and agentic capabilities ov
 slug: dotai-2024-stanislas-polu-llms-reasoning-and-agentic
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Stanislas Polu"]
@@ -15,6 +15,7 @@ video_id: 8d1PtJBnAEM
 url: https://www.youtube.com/watch?v=8d1PtJBnAEM
 youtube_url: https://www.youtube.com/watch?v=8d1PtJBnAEM
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Causal Inference Methods for Bridging Experiments and Strategic Impact"
 slug: causal-inference-methods-for-bridging-experiments-and
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Wenjing Zheng"]
@@ -15,6 +15,7 @@ video_id: xlgY5f3OHmA
 url: https://www.youtube.com/watch?v=xlgY5f3OHmA
 youtube_url: https://www.youtube.com/watch?v=xlgY5f3OHmA
 tags: ["Roblox", "causal inference", "data science tutorial", "ChatGPT", "artificial intelligence", "machine learning", "statistics", "A B testing tutorial", "analytics", "statistical methods", "business impact", "product analytics", "experimentation", "Python tutorial", "gaming analytics", "user behavior analysis", "engagement metrics", "monetization analytics", "virtual economy", "player segmentation", "retention analysis", "social network analysis", "content recommendation"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

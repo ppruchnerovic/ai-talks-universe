@@ -4,7 +4,7 @@ title: "Full Workshop: Build Your Own Deep Research Agents - Louis-François Bou
 slug: full-workshop-build-your-own-deep-research-agents-louis
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: mYSRn6PC1mc
 url: https://www.youtube.com/watch?v=mYSRn6PC1mc
 youtube_url: https://www.youtube.com/watch?v=mYSRn6PC1mc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

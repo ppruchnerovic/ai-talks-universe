@@ -4,7 +4,7 @@ title: "The Multi-Agent Approach: Building Reliable and Controllable Software De
 slug: the-multi-agent-approach-building-reliable-and-controllable
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Itamar Friedman"]
@@ -15,6 +15,7 @@ video_id: iq-multi-agent-ai-architecture
 url: https://www.infoq.com/presentations/multi-agent-ai-architecture/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

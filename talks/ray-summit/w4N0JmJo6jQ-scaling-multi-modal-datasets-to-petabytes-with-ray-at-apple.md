@@ -4,7 +4,7 @@ title: "Scaling Multi-Modal Datasets to Petabytes with Ray at Apple | Ray Summit
 slug: scaling-multi-modal-datasets-to-petabytes-with-ray-at-apple
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: w4N0JmJo6jQ
 url: https://www.youtube.com/watch?v=w4N0JmJo6jQ
 youtube_url: https://www.youtube.com/watch?v=w4N0JmJo6jQ
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

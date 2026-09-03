@@ -4,7 +4,7 @@ title: "The weekly developer show: Guten TAG, Web Standards, AI and more"
 slug: the-weekly-developer-show-guten-tag-web-standards-ai-and
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: k3ZIIX6caus
 url: https://www.youtube.com/watch?v=k3ZIIX6caus
 youtube_url: https://www.youtube.com/watch?v=k3ZIIX6caus
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: false
 ---
 

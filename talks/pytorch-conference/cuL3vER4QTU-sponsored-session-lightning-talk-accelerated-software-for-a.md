@@ -4,7 +4,7 @@ title: "Sponsored Session: Lightning Talk: Accelerated Software for a Post-Moore
 slug: sponsored-session-lightning-talk-accelerated-software-for-a
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Jay Dawani"]
@@ -15,6 +15,7 @@ video_id: cuL3vER4QTU
 url: https://www.youtube.com/watch?v=cuL3vER4QTU
 youtube_url: https://www.youtube.com/watch?v=cuL3vER4QTU
 tags: []
+topics: []
 transcript: false
 ---
 

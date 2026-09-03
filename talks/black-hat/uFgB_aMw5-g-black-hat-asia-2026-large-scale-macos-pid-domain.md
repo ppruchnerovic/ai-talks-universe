@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | Large-Scale macOS PID-Domain Vulnerability Discove
 slug: black-hat-asia-2026-large-scale-macos-pid-domain
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: uFgB_aMw5-g
 url: https://www.youtube.com/watch?v=uFgB_aMw5-g
 youtube_url: https://www.youtube.com/watch?v=uFgB_aMw5-g
 tags: []
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

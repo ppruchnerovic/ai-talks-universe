@@ -4,7 +4,7 @@ title: "Give legacy phones a second life in a modern Microsoft Teams world | ODF
 slug: give-legacy-phones-a-second-life-in-a-modern-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: duHntQYI6GQ
 url: https://www.youtube.com/watch?v=duHntQYI6GQ
 youtube_url: https://www.youtube.com/watch?v=duHntQYI6GQ
 tags: ["Andrew McManus", "Devices", "English (US)", "Give legacy phones a second life in a modern Microsoft Teams world | ODFP944", "Intermediate (200)", "Microsoft 365", "Microsoft Teams", "ODFP944", "Pre-recorded", "Technical", "Version v1", "Workplace", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

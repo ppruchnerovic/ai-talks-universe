@@ -4,7 +4,7 @@ title: "Breaking Managed Identity Barriers In Azure Services"
 slug: breaking-managed-identity-barriers-in-azure-services
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: SGp91luDA3k
 url: https://www.youtube.com/watch?v=SGp91luDA3k
 youtube_url: https://www.youtube.com/watch?v=SGp91luDA3k
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

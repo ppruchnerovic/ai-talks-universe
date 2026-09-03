@@ -4,7 +4,7 @@ title: "I Gave an AI Agent the Keys to My Life (Here's What Happened) — Radek 
 slug: i-gave-an-ai-agent-the-keys-to-my-life-here-s-what-happened
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Radek Sienkiewicz"]
@@ -15,6 +15,7 @@ video_id: sJ2jc7leKBk
 url: https://www.youtube.com/watch?v=sJ2jc7leKBk
 youtube_url: https://www.youtube.com/watch?v=sJ2jc7leKBk
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

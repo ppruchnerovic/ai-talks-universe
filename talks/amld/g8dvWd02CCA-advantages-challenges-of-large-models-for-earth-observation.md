@@ -4,7 +4,7 @@ title: "Advantages & Challenges of large models for Earth Observation applicatio
 slug: advantages-challenges-of-large-models-for-earth-observation
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: g8dvWd02CCA
 url: https://www.youtube.com/watch?v=g8dvWd02CCA
 youtube_url: https://www.youtube.com/watch?v=g8dvWd02CCA
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

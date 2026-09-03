@@ -4,7 +4,7 @@ title: "Fighting AI with AI — Lawrence Jones, Incident"
 slug: fighting-ai-with-ai-lawrence-jones-incident
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Lawrence Jones"]
@@ -15,6 +15,7 @@ video_id: L2r6vLlLgs8
 url: https://www.youtube.com/watch?v=L2r6vLlLgs8
 youtube_url: https://www.youtube.com/watch?v=L2r6vLlLgs8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

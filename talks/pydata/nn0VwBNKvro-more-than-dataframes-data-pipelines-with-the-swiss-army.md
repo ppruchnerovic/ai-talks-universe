@@ -4,7 +4,7 @@ title: "More than DataFrames: Data Pipelines with the Swiss Army Knife DuckDB"
 slug: more-than-dataframes-data-pipelines-with-the-swiss-army
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Mehdi Ouazza"]
@@ -15,6 +15,7 @@ video_id: nn0VwBNKvro
 url: https://www.youtube.com/watch?v=nn0VwBNKvro
 youtube_url: https://www.youtube.com/watch?v=nn0VwBNKvro
 tags: ["Apache Arrow", "Conference", "DuckDB", "ETL", "OLAP", "Pandas", "Parquet", "Polars", "PyConDE", "PyData", "Python", "SQL", "Tech Talk", "analytical database", "data analysis", "data engineering", "data pipelines", "data science"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "VoiceVision RAG - Integrating Visual Document Intelligence with Voice Re
 slug: voicevision-rag-integrating-visual-document-intelligence
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Suman Debnath"]
@@ -15,6 +15,7 @@ video_id: hwCmfThIiS4
 url: https://www.youtube.com/watch?v=hwCmfThIiS4
 youtube_url: https://www.youtube.com/watch?v=hwCmfThIiS4
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

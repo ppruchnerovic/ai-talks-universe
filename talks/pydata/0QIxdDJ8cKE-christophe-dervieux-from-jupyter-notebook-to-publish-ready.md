@@ -4,7 +4,7 @@ title: "Christophe Dervieux - From Jupyter Notebook to Publish-Ready Report: Eff
 slug: christophe-dervieux-from-jupyter-notebook-to-publish-ready
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Christophe Dervieux"]
@@ -15,6 +15,7 @@ video_id: 0QIxdDJ8cKE
 url: https://www.youtube.com/watch?v=0QIxdDJ8cKE
 youtube_url: https://www.youtube.com/watch?v=0QIxdDJ8cKE
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

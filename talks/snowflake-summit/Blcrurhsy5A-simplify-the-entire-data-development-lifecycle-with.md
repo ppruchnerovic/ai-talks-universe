@@ -4,7 +4,7 @@ title: "Simplify The Entire Data Development Lifecycle with Snowflake CoCo"
 slug: simplify-the-entire-data-development-lifecycle-with
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Blcrurhsy5A
 url: https://www.youtube.com/watch?v=Blcrurhsy5A
 youtube_url: https://www.youtube.com/watch?v=Blcrurhsy5A
 tags: ["Snowflake", "Snowflake data warehouse", "Snowflake computing", "Snowflake company", "Snowflake database", "Snowflake cloud", "Data warehouse", "Business software", "Data warehousing", "Cloud storage", "cloud computing", "Data Science", "Data Engineering", "The Data Cloud", "big data", "artificial intelligence", "data scientist", "predictive analytics", "business intelligence", "data economy", "Data driven economy", "Data cloud", "data lake", "Data Warehouse"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

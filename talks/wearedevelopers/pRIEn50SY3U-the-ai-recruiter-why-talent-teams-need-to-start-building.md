@@ -4,7 +4,7 @@ title: "The AI Recruiter: Why Talent Teams Need to Start Building Their Own Tool
 slug: the-ai-recruiter-why-talent-teams-need-to-start-building
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: pRIEn50SY3U
 url: https://www.youtube.com/watch?v=pRIEn50SY3U
 youtube_url: https://www.youtube.com/watch?v=pRIEn50SY3U
 tags: ["AI", "recruiting", "hiring", "automation", "building tools", "vibe coding", "recruitment", "ai agents", "agentic ai", "tool", "coding", "HR", "people", "transformation"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

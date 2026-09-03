@@ -4,7 +4,7 @@ title: "Teddy Lazebnik: Admiral-Driven ML Framework for Marine Operations (HE) |
 slug: teddy-lazebnik-admiral-driven-ml-framework-for-marine
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YOCxk7-0yP4
 url: https://www.youtube.com/watch?v=YOCxk7-0yP4
 youtube_url: https://www.youtube.com/watch?v=YOCxk7-0yP4
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Debugging ML Models? Build a Feature Platform That Actually Works"
 slug: debugging-ml-models-build-a-feature-platform-that-actually
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: mqSNNJ3C4JQ
 url: https://www.youtube.com/watch?v=mqSNNJ3C4JQ
 youtube_url: https://www.youtube.com/watch?v=mqSNNJ3C4JQ
 tags: ["Feature Platform", "ML", "Machine Learning", "MLOps", "Software Architecture", "AI", "Artificial Intelligence", "Scalability", "Performance", "Low Latency", "Apache Flink", "InfoQ", "QCon London", "Transcript"]
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Building LinkedIn’s Resilient Data Storage: A Deep Dive into Derived D
 slug: building-linkedins-resilient-data-storage-a-deep-dive-into
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ey4kvQzkNsM
 url: https://www.youtube.com/watch?v=Ey4kvQzkNsM
 youtube_url: https://www.youtube.com/watch?v=Ey4kvQzkNsM
 tags: []
+topics: []
 transcript: false
 ---
 

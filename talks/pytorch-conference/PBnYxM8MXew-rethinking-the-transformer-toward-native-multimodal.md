@@ -4,7 +4,7 @@ title: "Rethinking the Transformer: Toward Native Multimodal Architectures - Bow
 slug: rethinking-the-transformer-toward-native-multimodal
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Bowen Peng"]
@@ -15,6 +15,7 @@ video_id: PBnYxM8MXew
 url: https://www.youtube.com/watch?v=PBnYxM8MXew
 youtube_url: https://www.youtube.com/watch?v=PBnYxM8MXew
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

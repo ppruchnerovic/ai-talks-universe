@@ -4,7 +4,7 @@ title: "A Zero Downtime Set up for Models: How and Why"
 slug: a-zero-downtime-set-up-for-models-how-and-why
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Anouk Dutrée"]
@@ -15,6 +15,7 @@ video_id: LHm8VGvzEV4
 url: https://www.youtube.com/watch?v=LHm8VGvzEV4
 youtube_url: https://www.youtube.com/watch?v=LHm8VGvzEV4
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: []
 transcript: false
 ---
 

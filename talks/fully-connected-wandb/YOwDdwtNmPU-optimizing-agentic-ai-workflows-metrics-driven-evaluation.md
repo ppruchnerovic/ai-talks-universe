@@ -4,7 +4,7 @@ title: "Optimizing agentic AI workflows: Metrics-driven evaluation with W&B Weav
 slug: optimizing-agentic-ai-workflows-metrics-driven-evaluation
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YOwDdwtNmPU
 url: https://www.youtube.com/watch?v=YOwDdwtNmPU
 youtube_url: https://www.youtube.com/watch?v=YOwDdwtNmPU
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

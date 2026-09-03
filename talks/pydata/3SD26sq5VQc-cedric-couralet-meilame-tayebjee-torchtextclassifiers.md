@@ -4,7 +4,7 @@ title: "Cédric Couralet + Meilame Tayebjee - torchTextClassifiers Modernizing 
 slug: cedric-couralet-meilame-tayebjee-torchtextclassifiers
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3SD26sq5VQc
 url: https://www.youtube.com/watch?v=3SD26sq5VQc
 youtube_url: https://www.youtube.com/watch?v=3SD26sq5VQc
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

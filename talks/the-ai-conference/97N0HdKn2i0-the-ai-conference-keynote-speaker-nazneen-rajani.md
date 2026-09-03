@@ -4,7 +4,7 @@ title: "The AI Conference Keynote speaker, Nazneen Rajani"
 slug: the-ai-conference-keynote-speaker-nazneen-rajani
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 97N0HdKn2i0
 url: https://www.youtube.com/watch?v=97N0HdKn2i0
 youtube_url: https://www.youtube.com/watch?v=97N0HdKn2i0
 tags: []
+topics: []
 transcript: false
 ---
 

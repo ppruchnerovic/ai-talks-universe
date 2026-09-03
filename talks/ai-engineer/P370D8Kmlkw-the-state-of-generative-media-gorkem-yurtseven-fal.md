@@ -4,7 +4,7 @@ title: "The State of Generative Media - Gorkem Yurtseven, FAL"
 slug: the-state-of-generative-media-gorkem-yurtseven-fal
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Gorkem Yurtseven"]
@@ -15,6 +15,7 @@ video_id: P370D8Kmlkw
 url: https://www.youtube.com/watch?v=P370D8Kmlkw
 youtube_url: https://www.youtube.com/watch?v=P370D8Kmlkw
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

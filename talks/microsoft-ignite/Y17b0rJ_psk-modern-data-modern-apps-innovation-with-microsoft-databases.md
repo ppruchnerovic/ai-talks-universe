@@ -4,7 +4,7 @@ title: "Modern data modern apps: Innovation with Microsoft Databases | BRK134"
 slug: modern-data-modern-apps-innovation-with-microsoft-databases
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Shireesh Thota", "Charles Feddersen", "Kirill Gavrylyuk", "Priya Sathy", "Shivakumar Vaithyanathan"]
@@ -15,6 +15,7 @@ video_id: Y17b0rJ_psk
 url: https://www.youtube.com/watch?v=Y17b0rJ_psk
 youtube_url: https://www.youtube.com/watch?v=Y17b0rJ_psk
 tags: ["BRK134", "BRK134_v2", "Charles Feddersen", "English (US)", "Kirill Gavrylyuk", "Modern data modern apps: Innovation with Microsoft Databases | BRK134", "Priya Sathy", "Shireesh Thota", "Shivakumar Vaithyanathan", "Signature pass", "Technical", "Unify your data platform", "Unify your data platform:Azure CosmosDB", "Unify your data platform:Azure SQL", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Data engineering & MLOps", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Accelerating workload modernization using next gene
 slug: aws-re-invent-2025-accelerating-workload-modernization
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6FkcL5RiOSs
 url: https://www.youtube.com/watch?v=6FkcL5RiOSs
 youtube_url: https://www.youtube.com/watch?v=6FkcL5RiOSs
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

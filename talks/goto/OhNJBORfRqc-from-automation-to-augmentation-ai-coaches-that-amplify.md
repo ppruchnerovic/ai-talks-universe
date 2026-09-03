@@ -4,7 +4,7 @@ title: "From Automation to Augmentation: AI Coaches That Amplify Expertise • M
 slug: from-automation-to-augmentation-ai-coaches-that-amplify
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Mike Amundsen"]
@@ -15,6 +15,7 @@ video_id: OhNJBORfRqc
 url: https://www.youtube.com/watch?v=OhNJBORfRqc
 youtube_url: https://www.youtube.com/watch?v=OhNJBORfRqc
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTOchgo", "GOTO Chicago", "Mike Amundsen", "Automation", "Augmentation", "AI Coaches", "GenAI", "Douglas Engelbart", "J. C. R. Licklider"]
+topics: []
 transcript: false
 ---
 

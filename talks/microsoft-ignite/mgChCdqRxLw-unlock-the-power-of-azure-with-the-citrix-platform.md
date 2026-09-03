@@ -4,7 +4,7 @@ title: "Unlock the power of Azure with the Citrix platform multiplier | BRKSP466
 slug: unlock-the-power-of-azure-with-the-citrix-platform
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Shawn Bass"]
@@ -15,6 +15,7 @@ video_id: mgChCdqRxLw
 url: https://www.youtube.com/watch?v=mgChCdqRxLw
 youtube_url: https://www.youtube.com/watch?v=mgChCdqRxLw
 tags: ["498f939a-6ea6-4c8a-8d68-77a52ef277d2_Segment", "BRKSP466", "English (US)", "Financial Services", "Hermann Pais", "Migrate and modernize your estate", "Quentin DRION", "Shawn Bass", "Technical", "Unlock the power of Azure with the Citrix platform multiplier | BRKSP466", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Workshop: Building Agentic Apps End to End with Replit Agent"
 slug: workshop-building-agentic-apps-end-to-end-with-replit-agent
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: NG1rIn7Y_7Y
 url: https://www.youtube.com/watch?v=NG1rIn7Y_7Y
 youtube_url: https://www.youtube.com/watch?v=NG1rIn7Y_7Y
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

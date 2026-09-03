@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Samraj Moorjani: Accelerate High quality Agent Develop
 slug: ai-dev-25-x-nyc-samraj-moorjani-accelerate-high-quality
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qOFKpHEm2zg
 url: https://www.youtube.com/watch?v=qOFKpHEm2zg
 youtube_url: https://www.youtube.com/watch?v=qOFKpHEm2zg
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: false
 ---
 

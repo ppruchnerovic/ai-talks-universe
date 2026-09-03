@@ -4,7 +4,7 @@ title: "Tutorial: DRA-matically Simple: On-Demand GPUs for MLOps - Doug Smith & 
 slug: tutorial-dra-matically-simple-on-demand-gpus-for-mlops-doug
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Doug Smith", "Miguel Duarte Barroso"]
@@ -15,6 +15,7 @@ video_id: BTSvZ3E82_w
 url: https://www.youtube.com/watch?v=BTSvZ3E82_w
 youtube_url: https://www.youtube.com/watch?v=BTSvZ3E82_w
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

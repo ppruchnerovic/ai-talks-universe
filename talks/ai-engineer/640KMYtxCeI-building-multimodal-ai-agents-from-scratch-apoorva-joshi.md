@@ -4,7 +4,7 @@ title: "Building Multimodal AI Agents From Scratch — Apoorva Joshi, MongoDB"
 slug: building-multimodal-ai-agents-from-scratch-apoorva-joshi
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Apoorva Joshi"]
@@ -15,6 +15,7 @@ video_id: 640KMYtxCeI
 url: https://www.youtube.com/watch?v=640KMYtxCeI
 youtube_url: https://www.youtube.com/watch?v=640KMYtxCeI
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

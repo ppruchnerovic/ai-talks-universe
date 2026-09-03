@@ -4,7 +4,7 @@ title: "Prototype build and deploy AI apps quickly with GitHub Models | DEM500"
 slug: prototype-build-and-deploy-ai-apps-quickly-with-github
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xJR5Dnz_yuM
 url: https://www.youtube.com/watch?v=xJR5Dnz_yuM
 youtube_url: https://www.youtube.com/watch?v=xJR5Dnz_yuM
 tags: []
+topics: []
 transcript: false
 ---
 

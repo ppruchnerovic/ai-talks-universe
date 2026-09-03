@@ -4,7 +4,7 @@ title: "Cerebral Valley: Daniela Amodei (Anthropic) and Hema Raghavan (Kumo) w/ 
 slug: cerebral-valley-daniela-amodei-anthropic-and-hema-raghavan
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: MRNKzKgjqx0
 url: https://www.youtube.com/watch?v=MRNKzKgjqx0
 youtube_url: https://www.youtube.com/watch?v=MRNKzKgjqx0
 tags: []
+topics: []
 transcript: false
 ---
 

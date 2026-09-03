@@ -4,7 +4,7 @@ title: "Foundry Local: Cutting-Edge AI experiences on device with ONNX Runtime/O
 slug: foundry-local-cutting-edge-ai-experiences-on-device-with
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Emma Ning"]
@@ -15,6 +15,7 @@ video_id: l614N5W60ls
 url: https://www.youtube.com/watch?v=l614N5W60ls
 youtube_url: https://www.youtube.com/watch?v=l614N5W60ls
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

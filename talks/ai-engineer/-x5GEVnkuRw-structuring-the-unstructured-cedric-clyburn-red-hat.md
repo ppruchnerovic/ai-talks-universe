@@ -4,7 +4,7 @@ title: "Structuring the Unstructured - Cedric Clyburn, Red Hat"
 slug: structuring-the-unstructured-cedric-clyburn-red-hat
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Cedric Clyburn"]
@@ -15,6 +15,7 @@ video_id: -x5GEVnkuRw
 url: https://www.youtube.com/watch?v=-x5GEVnkuRw
 youtube_url: https://www.youtube.com/watch?v=-x5GEVnkuRw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

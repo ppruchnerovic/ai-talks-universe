@@ -4,7 +4,7 @@ title: "​Navigating AI Native Development with Simon Maple"
 slug: navigating-ai-native-development-with-simon-maple
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: NTpu0XuQsDY
 url: https://www.youtube.com/watch?v=NTpu0XuQsDY
 youtube_url: https://www.youtube.com/watch?v=NTpu0XuQsDY
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Prompting & context engineering"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Startups building new products with Claude | Code w/ Claude"
 slug: startups-building-new-products-with-claude-code-w-claude
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 91Haz1CRoxY
 url: https://www.youtube.com/watch?v=91Haz1CRoxY
 youtube_url: https://www.youtube.com/watch?v=91Haz1CRoxY
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

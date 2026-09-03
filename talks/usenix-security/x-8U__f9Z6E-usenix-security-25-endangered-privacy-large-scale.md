@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Endangered Privacy: Large-Scale Monitoring of Vide
 slug: usenix-security-25-endangered-privacy-large-scale
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: x-8U__f9Z6E
 url: https://www.youtube.com/watch?v=x-8U__f9Z6E
 youtube_url: https://www.youtube.com/watch?v=x-8U__f9Z6E
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

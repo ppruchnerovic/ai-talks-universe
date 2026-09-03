@@ -4,7 +4,7 @@ title: "The Privacy Considerations of Production Machine Learning"
 slug: the-privacy-considerations-of-production-machine-learning
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: AOdXh0x7vr4
 url: https://www.youtube.com/watch?v=AOdXh0x7vr4
 youtube_url: https://www.youtube.com/watch?v=AOdXh0x7vr4
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

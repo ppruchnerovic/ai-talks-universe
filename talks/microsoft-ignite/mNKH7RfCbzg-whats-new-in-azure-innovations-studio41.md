@@ -4,7 +4,7 @@ title: "What’s new in Azure innovations? | STUDIO41"
 slug: whats-new-in-azure-innovations-studio41
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Mark Russinovich"]
@@ -15,6 +15,7 @@ video_id: mNKH7RfCbzg
 url: https://www.youtube.com/watch?v=mNKH7RfCbzg
 youtube_url: https://www.youtube.com/watch?v=mNKH7RfCbzg
 tags: ["English (US)", "Mark Russinovich", "Other", "STUDIO41", "STUDIO41_v1", "What’s new in Azure innovations? | STUDIO41", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

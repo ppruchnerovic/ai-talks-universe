@@ -4,7 +4,7 @@ title: "Distributed training with Ray on Kubernetes at Lyft"
 slug: distributed-training-with-ray-on-kubernetes-at-lyft
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: rowxoxMsJH0
 url: https://www.youtube.com/watch?v=rowxoxMsJH0
 youtube_url: https://www.youtube.com/watch?v=rowxoxMsJH0
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

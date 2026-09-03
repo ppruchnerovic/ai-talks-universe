@@ -4,7 +4,7 @@ title: "How Intuit uses LLMs to explain taxes to millions of taxpayers - Jaspree
 slug: how-intuit-uses-llms-to-explain-taxes-to-millions-of
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jaspreet Singh"]
@@ -15,6 +15,7 @@ video_id: _zl_zimMRak
 url: https://www.youtube.com/watch?v=_zl_zimMRak
 youtube_url: https://www.youtube.com/watch?v=_zl_zimMRak
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

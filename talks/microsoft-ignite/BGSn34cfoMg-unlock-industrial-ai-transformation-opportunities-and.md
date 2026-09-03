@@ -4,7 +4,7 @@ title: "Unlock industrial AI transformation opportunities and growth | BRK268"
 slug: unlock-industrial-ai-transformation-opportunities-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Dayan Rodriguez", "Ayora Berry", "Julián Gil", "Matthew Hansen", "Kaivan Karimi", "John Reed"]
@@ -15,6 +15,7 @@ video_id: BGSn34cfoMg
 url: https://www.youtube.com/watch?v=BGSn34cfoMg
 youtube_url: https://www.youtube.com/watch?v=BGSn34cfoMg
 tags: ["AI", "Ayora Berry", "Azure", "BRK268", "Breakout", "Copilot", "English (US)", "ISV", "Industrials", "Industry", "Industry for Partner", "Industry-Curated", "Intermediate (200)", "Manufacturing", "Mobility", "Partner Business", "SI", "Solution Area", "Unlock industrial AI transformation opportunities and growth | BRK268", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

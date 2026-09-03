@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | Lost in Normalization: From URL Quirks to Poisonin
 slug: black-hat-asia-2026-lost-in-normalization-from-url-quirks
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: CdOw22fA6Xo
 url: https://www.youtube.com/watch?v=CdOw22fA6Xo
 youtube_url: https://www.youtube.com/watch?v=CdOw22fA6Xo
 tags: []
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

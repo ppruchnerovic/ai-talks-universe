@@ -4,7 +4,7 @@ title: "Guardrails First: Engineering Member-Facing Health AI — Rashi Agrawal,
 slug: guardrails-first-engineering-member-facing-health-ai-rashi
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rashi Agrawal"]
@@ -15,6 +15,7 @@ video_id: YXEqC05WEI0
 url: https://www.youtube.com/watch?v=YXEqC05WEI0
 youtube_url: https://www.youtube.com/watch?v=YXEqC05WEI0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Agent Bricks: Building Multi-Agent Systems for Structured and Unstructur
 slug: agent-bricks-building-multi-agent-systems-for-structured
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: w8y_CGo1KQU
 url: https://www.youtube.com/watch?v=w8y_CGo1KQU
 youtube_url: https://www.youtube.com/watch?v=w8y_CGo1KQU
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

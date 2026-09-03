@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - [NEW LAUNCH] The future of co-sell: AI-Powered Part
 slug: aws-re-invent-2025-new-launch-the-future-of-co-sell-ai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: iPX-lmySSj4
 url: https://www.youtube.com/watch?v=iPX-lmySSj4
 youtube_url: https://www.youtube.com/watch?v=iPX-lmySSj4
 tags: []
+topics: []
 transcript: false
 ---
 

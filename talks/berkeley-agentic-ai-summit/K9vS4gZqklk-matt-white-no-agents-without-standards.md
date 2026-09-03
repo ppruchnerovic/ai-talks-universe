@@ -4,7 +4,7 @@ title: "Matt White - No Agents Without Standards"
 slug: matt-white-no-agents-without-standards
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Matt White"]
@@ -15,6 +15,7 @@ video_id: K9vS4gZqklk
 url: https://www.youtube.com/watch?v=K9vS4gZqklk
 youtube_url: https://www.youtube.com/watch?v=K9vS4gZqklk
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

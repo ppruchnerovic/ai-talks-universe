@@ -4,7 +4,7 @@ title: "OLAP for AI Applications and why you should care"
 slug: olap-for-ai-applications-and-why-you-should-care
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Andrey Abramov"]
@@ -15,6 +15,7 @@ video_id: IEsybU8JvqM
 url: https://www.youtube.com/watch?v=IEsybU8JvqM
 youtube_url: https://www.youtube.com/watch?v=IEsybU8JvqM
 tags: ["Data & Databases", "Analytics", "C++", "Databases", "Retrieval-Augmented Generation (RAG)", "SQL"]
+topics: ["Classic ML & data science", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

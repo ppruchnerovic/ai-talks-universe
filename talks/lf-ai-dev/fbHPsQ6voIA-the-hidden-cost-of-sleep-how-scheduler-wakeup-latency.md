@@ -4,7 +4,7 @@ title: "The Hidden Cost of Sleep: How Scheduler Wakeup Latency Impacts High-Thro
 slug: the-hidden-cost-of-sleep-how-scheduler-wakeup-latency
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: fbHPsQ6voIA
 url: https://www.youtube.com/watch?v=fbHPsQ6voIA
 youtube_url: https://www.youtube.com/watch?v=fbHPsQ6voIA
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

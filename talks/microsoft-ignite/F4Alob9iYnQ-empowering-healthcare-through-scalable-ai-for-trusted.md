@@ -4,7 +4,7 @@ title: "Empowering Healthcare Through Scalable AI for Trusted Partners | PBRK390
 slug: empowering-healthcare-through-scalable-ai-for-trusted
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Cornelis Hertogh", "Feliz Fuentes Montpellier"]
@@ -15,6 +15,7 @@ video_id: F4Alob9iYnQ
 url: https://www.youtube.com/watch?v=F4Alob9iYnQ
 youtube_url: https://www.youtube.com/watch?v=F4Alob9iYnQ
 tags: ["Cornelis Hertogh", "Empowering Healthcare Through Scalable AI for Trusted Partners | PBRK390", "English (US)", "Feliz Fuentes Montpellier", "Healthcare and Life Sciences", "Microsoft AI Cloud Partner Program", "Other", "PBRK390", "Partner Business", "d61a6d53-2423-471e-b8af-f70736c11f63_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

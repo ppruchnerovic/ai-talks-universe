@@ -4,7 +4,7 @@ title: "If only I had known ... - Hannes Lowette - NDC London 2026"
 slug: if-only-i-had-known-hannes-lowette-ndc-london-2026
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Hannes Lowette"]
@@ -15,6 +15,7 @@ video_id: ax0FEyPzEqI
 url: https://www.youtube.com/watch?v=ax0FEyPzEqI
 youtube_url: https://www.youtube.com/watch?v=ax0FEyPzEqI
 tags: ["Work skills", "Ethics", "People", "Soft Skills", "NDC", "Conferences", "2026", "Live", "Fun", "London", "AI", "Hannes Lowette"]
+topics: []
 transcript: true
 ---
 

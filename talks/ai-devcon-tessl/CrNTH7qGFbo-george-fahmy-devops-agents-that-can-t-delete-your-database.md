@@ -4,7 +4,7 @@ title: "George Fahmy - DevOps Agents That Can't Delete Your Database | DevCon Fa
 slug: george-fahmy-devops-agents-that-can-t-delete-your-database
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["George Fahmy"]
@@ -15,6 +15,7 @@ video_id: CrNTH7qGFbo
 url: https://www.youtube.com/watch?v=CrNTH7qGFbo
 youtube_url: https://www.youtube.com/watch?v=CrNTH7qGFbo
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Security, safety & red teaming"]
 transcript: false
 ---
 

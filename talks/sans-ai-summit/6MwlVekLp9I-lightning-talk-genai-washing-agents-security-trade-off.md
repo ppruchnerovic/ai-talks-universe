@@ -4,7 +4,7 @@ title: "Lightning Talk: GenAI-Washing, Agents & Security Trade-off"
 slug: lightning-talk-genai-washing-agents-security-trade-off
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6MwlVekLp9I
 url: https://www.youtube.com/watch?v=6MwlVekLp9I
 youtube_url: https://www.youtube.com/watch?v=6MwlVekLp9I
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

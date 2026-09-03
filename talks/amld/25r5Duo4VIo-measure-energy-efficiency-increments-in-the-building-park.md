@@ -4,7 +4,7 @@ title: "Measure energy efficiency increments in the building park | AI and Decar
 slug: measure-energy-efficiency-increments-in-the-building-park
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Thilo Weber"]
@@ -15,6 +15,7 @@ video_id: 25r5Duo4VIo
 url: https://www.youtube.com/watch?v=25r5Duo4VIo
 youtube_url: https://www.youtube.com/watch?v=25r5Duo4VIo
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

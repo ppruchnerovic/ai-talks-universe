@@ -4,7 +4,7 @@ title: "REST, GraphQL, gRPC, and more: A comparison of modern API styles"
 slug: rest-graphql-grpc-and-more-a-comparison-of-modern-api-styles
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Florian Bader"]
@@ -15,6 +15,7 @@ video_id: zYqhUmZLbu4
 url: https://www.youtube.com/watch?v=zYqhUmZLbu4
 youtube_url: https://www.youtube.com/watch?v=zYqhUmZLbu4
 tags: ["Backend & APIs", "APIs", "ASP.NET", "Software Architecture"]
+topics: []
 transcript: true
 ---
 

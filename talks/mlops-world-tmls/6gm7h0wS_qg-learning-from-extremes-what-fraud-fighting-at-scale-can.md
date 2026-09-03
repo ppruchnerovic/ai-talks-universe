@@ -4,7 +4,7 @@ title: "Learning from Extremes: What Fraud-Fighting at Scale Can Teach Us About 
 slug: learning-from-extremes-what-fraud-fighting-at-scale-can
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Greg Kuhlmann"]
@@ -15,6 +15,7 @@ video_id: 6gm7h0wS_qg
 url: https://www.youtube.com/watch?v=6gm7h0wS_qg
 youtube_url: https://www.youtube.com/watch?v=6gm7h0wS_qg
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

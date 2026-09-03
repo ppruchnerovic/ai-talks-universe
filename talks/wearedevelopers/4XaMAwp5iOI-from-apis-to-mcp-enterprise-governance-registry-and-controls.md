@@ -4,7 +4,7 @@ title: "From APIs to MCP: Enterprise Governance, Registry, and Controls"
 slug: from-apis-to-mcp-enterprise-governance-registry-and-controls
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Stefan Mesquita"]
@@ -15,6 +15,7 @@ video_id: 4XaMAwp5iOI
 url: https://www.youtube.com/watch?v=4XaMAwp5iOI
 youtube_url: https://www.youtube.com/watch?v=4XaMAwp5iOI
 tags: ["AI Agents", "APIs", "AWS", "Agents", "Agentic AI", "Azure", "Digital Transformation", "Distributed Systems", "Infrastructure", "Innovation"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

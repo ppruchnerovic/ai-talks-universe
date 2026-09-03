@@ -4,7 +4,7 @@ title: "Agent-first workflows from prompt to production"
 slug: agent-first-workflows-from-prompt-to-production
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Richard Seroter", "Christina Lin", "Denise Kwan"]
@@ -15,6 +15,7 @@ video_id: CBL6KgCsQNY
 url: https://www.youtube.com/watch?v=CBL6KgCsQNY
 youtube_url: https://www.youtube.com/watch?v=CBL6KgCsQNY
 tags: ["pr_pr: Google I/O;", "ct:Event - Cloud PA Keynote;", "ct:Stack - Cloud;", "Agentic Coding", "AI-native Apps", "software engineering velocity", "AI deployment", "Cloud Run", "LLMOps", "Google Cloud Code", "AI productivity tools", "enterprise AI"]
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

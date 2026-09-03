@@ -4,7 +4,7 @@ title: "Why Fetch When You Can Sync? Building Local-First Apps on a Sync Engine 
 slug: why-fetch-when-you-can-sync-building-local-first-apps-on-a
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["James Arthur"]
@@ -15,6 +15,7 @@ video_id: iq-local-first-sync-engine
 url: https://www.infoq.com/presentations/local-first-sync-engine/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

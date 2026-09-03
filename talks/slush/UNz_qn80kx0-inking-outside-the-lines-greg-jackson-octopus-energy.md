@@ -4,7 +4,7 @@ title: "Inking Outside the Lines | Greg Jackson (Octopus Energy) & Charlotte Jee
 slug: inking-outside-the-lines-greg-jackson-octopus-energy
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Greg Jackson"]
@@ -15,6 +15,7 @@ video_id: UNz_qn80kx0
 url: https://www.youtube.com/watch?v=UNz_qn80kx0
 youtube_url: https://www.youtube.com/watch?v=UNz_qn80kx0
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

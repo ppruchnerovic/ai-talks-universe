@@ -4,7 +4,7 @@ title: "Keynote: Olmo-Thinking: Training a Fully Open Reasoning Model - Nathan L
 slug: keynote-olmo-thinking-training-a-fully-open-reasoning-model
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Nathan Lambert"]
@@ -15,6 +15,7 @@ video_id: uolCS_94c4A
 url: https://www.youtube.com/watch?v=uolCS_94c4A
 youtube_url: https://www.youtube.com/watch?v=uolCS_94c4A
 tags: []
+topics: []
 transcript: false
 ---
 

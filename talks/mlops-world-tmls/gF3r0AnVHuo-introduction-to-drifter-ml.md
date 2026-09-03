@@ -4,7 +4,7 @@ title: "Introduction to Drifter ML"
 slug: introduction-to-drifter-ml
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: gF3r0AnVHuo
 url: https://www.youtube.com/watch?v=gF3r0AnVHuo
 youtube_url: https://www.youtube.com/watch?v=gF3r0AnVHuo
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

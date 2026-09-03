@@ -4,7 +4,7 @@ title: "PostgresML: Leveraging Postgres as a Vector Database for AI"
 slug: postgresml-leveraging-postgres-as-a-vector-database-for-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: D8YMMOhAeBs
 url: https://www.youtube.com/watch?v=D8YMMOhAeBs
 youtube_url: https://www.youtube.com/watch?v=D8YMMOhAeBs
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "PostgresML", "Postgres", "Relational Databases", "Database", "InfoQ", "QCon", "Transcript"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

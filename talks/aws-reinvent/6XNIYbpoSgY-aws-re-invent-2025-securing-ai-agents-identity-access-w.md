@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Securing AI Agents: Identity & Access w/ Michael Gr
 slug: aws-re-invent-2025-securing-ai-agents-identity-access-w
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6XNIYbpoSgY
 url: https://www.youtube.com/watch?v=6XNIYbpoSgY
 youtube_url: https://www.youtube.com/watch?v=6XNIYbpoSgY
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

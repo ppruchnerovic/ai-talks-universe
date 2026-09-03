@@ -4,7 +4,7 @@ title: "Global Bias in AI: When Western Data Shapes the World - Masuma Shariff -
 slug: global-bias-in-ai-when-western-data-shapes-the-world-masuma
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Masuma Shariff"]
@@ -15,6 +15,7 @@ video_id: FCgP5xLsHgQ
 url: https://www.youtube.com/watch?v=FCgP5xLsHgQ
 youtube_url: https://www.youtube.com/watch?v=FCgP5xLsHgQ
 tags: ["AI", "Ethics", "People", "NDC", "Conferences", "2026", "Live", "Fun", "Copenahgen", "Denmark", "Masuma Shariff"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

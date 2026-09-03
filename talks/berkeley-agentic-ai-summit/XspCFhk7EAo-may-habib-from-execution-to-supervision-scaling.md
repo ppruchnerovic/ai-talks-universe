@@ -4,7 +4,7 @@ title: "May Habib - From Execution to Supervision: Scaling Productivity with Age
 slug: may-habib-from-execution-to-supervision-scaling
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["May Habib"]
@@ -15,6 +15,7 @@ video_id: XspCFhk7EAo
 url: https://www.youtube.com/watch?v=XspCFhk7EAo
 youtube_url: https://www.youtube.com/watch?v=XspCFhk7EAo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

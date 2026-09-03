@@ -4,7 +4,7 @@ title: "How I Doubled eBay’s Productivity - And Still Got Fired"
 slug: how-i-doubled-ebays-productivity-and-still-got-fired
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: nSfdsue3Wps
 url: https://www.youtube.com/watch?v=nSfdsue3Wps
 youtube_url: https://www.youtube.com/watch?v=nSfdsue3Wps
 tags: ["QCon San Francisco", "InfoQ", "Transcript", "Platform Engineering", "eBay", "Velocity Initiative", "DORA metrics", "Case Study", "Agile", "Best Practices", "DevOps", "Engineering Leadership", "Engineering Productivity", "Strategy", "Planning", "Velocity", "SDLC", "Scaling", "Culture"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "How to Iterate and Productionize Machine Learning Models with Speed"
 slug: how-to-iterate-and-productionize-machine-learning-models
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: hUA64UgkLxw
 url: https://www.youtube.com/watch?v=hUA64UgkLxw
 youtube_url: https://www.youtube.com/watch?v=hUA64UgkLxw
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

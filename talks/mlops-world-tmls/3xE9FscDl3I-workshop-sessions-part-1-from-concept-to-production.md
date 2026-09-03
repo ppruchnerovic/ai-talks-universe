@@ -4,7 +4,7 @@ title: "Workshop Sessions: Part 1 From Concept to Production - Template for the 
 slug: workshop-sessions-part-1-from-concept-to-production
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3xE9FscDl3I
 url: https://www.youtube.com/watch?v=3xE9FscDl3I
 youtube_url: https://www.youtube.com/watch?v=3xE9FscDl3I
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Template for the Entire ML Journey", "From Concept to Production", "Workshop Sessions: Part 1 From Concept to Production - Template for the Entire ML Journey"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

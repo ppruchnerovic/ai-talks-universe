@@ -4,7 +4,7 @@ title: "AI and Democracy"
 slug: ai-and-democracy
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Bruce Schneier", "Harvard Kennedy School"]
@@ -15,6 +15,7 @@ video_id: HCfexxJtL5w
 url: https://www.youtube.com/watch?v=HCfexxJtL5w
 youtube_url: https://www.youtube.com/watch?v=HCfexxJtL5w
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

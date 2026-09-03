@@ -4,7 +4,7 @@ title: "Pipecat Cloud: Enterprise Voice Agents Built On Open Source - Kwindla Hu
 slug: pipecat-cloud-enterprise-voice-agents-built-on-open-source
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kwindla Hultman Kramer"]
@@ -15,6 +15,7 @@ video_id: IA4lZjh9sTs
 url: https://www.youtube.com/watch?v=IA4lZjh9sTs
 youtube_url: https://www.youtube.com/watch?v=IA4lZjh9sTs
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

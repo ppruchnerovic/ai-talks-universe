@@ -4,7 +4,7 @@ title: "Scaling the AI Complexity Wall | Keynote Day 2 | Ray Summit 2024"
 slug: scaling-the-ai-complexity-wall-keynote-day-2-ray-summit-2024
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: O-Wi-O7RWFk
 url: https://www.youtube.com/watch?v=O-Wi-O7RWFk
 youtube_url: https://www.youtube.com/watch?v=O-Wi-O7RWFk
 tags: []
+topics: []
 transcript: false
 ---
 

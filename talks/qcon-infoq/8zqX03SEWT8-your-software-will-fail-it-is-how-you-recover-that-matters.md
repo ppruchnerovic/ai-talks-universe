@@ -4,7 +4,7 @@ title: "Your Software Will Fail, It is How You Recover That Matters: A Conversat
 slug: your-software-will-fail-it-is-how-you-recover-that-matters
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8zqX03SEWT8
 url: https://www.youtube.com/watch?v=8zqX03SEWT8
 youtube_url: https://www.youtube.com/watch?v=8zqX03SEWT8
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "‘Nurturing’ AI: The Story of How an AI Copilot Was Built"
 slug: nurturing-ai-the-story-of-how-an-ai-copilot-was-built
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Ofir Israel"]
@@ -15,6 +15,7 @@ video_id: VyIXtgT5FLM
 url: https://www.youtube.com/watch?v=VyIXtgT5FLM
 youtube_url: https://www.youtube.com/watch?v=VyIXtgT5FLM
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: []
 transcript: false
 ---
 

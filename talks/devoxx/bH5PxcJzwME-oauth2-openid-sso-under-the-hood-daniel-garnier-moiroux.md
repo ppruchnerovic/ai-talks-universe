@@ -4,7 +4,7 @@ title: "OAuth2, OpenID: SSO under the hood - Daniel Garnier-Moiroux"
 slug: oauth2-openid-sso-under-the-hood-daniel-garnier-moiroux
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: bH5PxcJzwME
 url: https://www.youtube.com/watch?v=bH5PxcJzwME
 youtube_url: https://www.youtube.com/watch?v=bH5PxcJzwME
 tags: []
+topics: []
 transcript: false
 ---
 

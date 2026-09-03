@@ -4,7 +4,7 @@ title: "Beyond Transcription: Building Voice AI That Understands Conversations ‚
 slug: beyond-transcription-building-voice-ai-that-understands
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Herv√© Bredin"]
@@ -15,6 +15,7 @@ video_id: mFLlVpnGpds
 url: https://www.youtube.com/watch?v=mFLlVpnGpds
 youtube_url: https://www.youtube.com/watch?v=mFLlVpnGpds
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

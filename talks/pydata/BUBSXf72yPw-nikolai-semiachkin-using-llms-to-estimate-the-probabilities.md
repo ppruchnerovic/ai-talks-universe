@@ -4,7 +4,7 @@ title: "Nikolai Semiachkin - Using LLMs to Estimate the Probabilities of Events"
 slug: nikolai-semiachkin-using-llms-to-estimate-the-probabilities
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Nikolai Semiachkin"]
@@ -15,6 +15,7 @@ video_id: BUBSXf72yPw
 url: https://www.youtube.com/watch?v=BUBSXf72yPw
 youtube_url: https://www.youtube.com/watch?v=BUBSXf72yPw
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

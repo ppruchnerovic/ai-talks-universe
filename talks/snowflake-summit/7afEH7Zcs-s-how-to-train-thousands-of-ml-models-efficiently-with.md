@@ -4,7 +4,7 @@ title: "How To Train Thousands Of ML Models Efficiently With Snowflake ML"
 slug: how-to-train-thousands-of-ml-models-efficiently-with
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7afEH7Zcs-s
 url: https://www.youtube.com/watch?v=7afEH7Zcs-s
 youtube_url: https://www.youtube.com/watch?v=7afEH7Zcs-s
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

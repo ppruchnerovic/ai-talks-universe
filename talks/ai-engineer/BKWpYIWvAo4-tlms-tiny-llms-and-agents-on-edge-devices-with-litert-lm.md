@@ -4,7 +4,7 @@ title: "TLMs: Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Bri
 slug: tlms-tiny-llms-and-agents-on-edge-devices-with-litert-lm
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Cormac Brick"]
@@ -15,6 +15,7 @@ video_id: BKWpYIWvAo4
 url: https://www.youtube.com/watch?v=BKWpYIWvAo4
 youtube_url: https://www.youtube.com/watch?v=BKWpYIWvAo4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

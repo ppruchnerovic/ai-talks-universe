@@ -4,7 +4,7 @@ title: "Beyond Prompts: Giving AI Coders the Blueprints They Need with CreateMVP
 slug: beyond-prompts-giving-ai-coders-the-blueprints-they-need
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: A7OV2rOIp2Y
 url: https://www.youtube.com/watch?v=A7OV2rOIp2Y
 youtube_url: https://www.youtube.com/watch?v=A7OV2rOIp2Y
 tags: ["ainativedev"]
+topics: ["Coding assistants & agents", "Prompting & context engineering"]
 transcript: false
 ---
 

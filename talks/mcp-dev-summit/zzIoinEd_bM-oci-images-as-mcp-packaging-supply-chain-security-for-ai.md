@@ -4,7 +4,7 @@ title: "OCI Images as MCP Packaging: Supply Chain Security for AI Tools - Juan A
 slug: oci-images-as-mcp-packaging-supply-chain-security-for-ai
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Juan Antonio Osorio"]
@@ -15,6 +15,7 @@ video_id: zzIoinEd_bM
 url: https://www.youtube.com/watch?v=zzIoinEd_bM
 youtube_url: https://www.youtube.com/watch?v=zzIoinEd_bM
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

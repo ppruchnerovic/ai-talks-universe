@@ -4,7 +4,7 @@ title: "Testing Agents Before They Test You by Jettro Coenradie, Daniël Spee"
 slug: testing-agents-before-they-test-you-by-jettro-coenradie
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Jettro Coenradie", "Daniël Spee"]
@@ -15,6 +15,7 @@ video_id: 3uDk7gOAVSM
 url: https://www.youtube.com/watch?v=3uDk7gOAVSM
 youtube_url: https://www.youtube.com/watch?v=3uDk7gOAVSM
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

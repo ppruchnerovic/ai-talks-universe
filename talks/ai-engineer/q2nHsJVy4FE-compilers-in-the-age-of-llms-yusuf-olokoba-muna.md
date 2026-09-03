@@ -4,7 +4,7 @@ title: "Compilers in the Age of LLMs — Yusuf Olokoba, Muna"
 slug: compilers-in-the-age-of-llms-yusuf-olokoba-muna
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Yusuf Olokoba"]
@@ -15,6 +15,7 @@ video_id: q2nHsJVy4FE
 url: https://www.youtube.com/watch?v=q2nHsJVy4FE
 youtube_url: https://www.youtube.com/watch?v=q2nHsJVy4FE
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

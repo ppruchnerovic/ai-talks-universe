@@ -4,7 +4,7 @@ title: "Running Your Coding Agent Locally: Lessons from a Real-World Experiment 
 slug: running-your-coding-agent-locally-lessons-from-a-real-world
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["S. Maestri", "A. Soldano"]
@@ -15,6 +15,7 @@ video_id: DXEsG3Vo6F4
 url: https://www.youtube.com/watch?v=DXEsG3Vo6F4
 youtube_url: https://www.youtube.com/watch?v=DXEsG3Vo6F4
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

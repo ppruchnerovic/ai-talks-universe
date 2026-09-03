@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Building the Future Trading Platform leveraging AI 
 slug: aws-re-invent-2025-building-the-future-trading-platform
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: aqDCPW9oBYA
 url: https://www.youtube.com/watch?v=aqDCPW9oBYA
 youtube_url: https://www.youtube.com/watch?v=aqDCPW9oBYA
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

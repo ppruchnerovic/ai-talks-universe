@@ -4,7 +4,7 @@ title: "Unlocking Networking AI Innovation: Introducing Essedum - Arpit Joshipur
 slug: unlocking-networking-ai-innovation-introducing-essedum
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Arpit Joshipura"]
@@ -15,6 +15,7 @@ video_id: h5libNJ2_e0
 url: https://www.youtube.com/watch?v=h5libNJ2_e0
 youtube_url: https://www.youtube.com/watch?v=h5libNJ2_e0
 tags: []
+topics: []
 transcript: false
 ---
 

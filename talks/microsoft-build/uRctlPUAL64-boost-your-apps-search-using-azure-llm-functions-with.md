@@ -4,7 +4,7 @@ title: "Boost your app’s search: using Azure LLM functions with Elasticsearch 
 slug: boost-your-apps-search-using-azure-llm-functions-with
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: uRctlPUAL64
 url: https://www.youtube.com/watch?v=uRctlPUAL64
 youtube_url: https://www.youtube.com/watch?v=uRctlPUAL64
 tags: []
+topics: []
 transcript: false
 ---
 

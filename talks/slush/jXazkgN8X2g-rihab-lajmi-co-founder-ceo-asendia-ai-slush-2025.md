@@ -4,7 +4,7 @@ title: "Rihab Lajmi, Co-founder & CEO, Asendia AI | Slush 2025"
 slug: rihab-lajmi-co-founder-ceo-asendia-ai-slush-2025
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Rihab Lajmi"]
@@ -15,6 +15,7 @@ video_id: jXazkgN8X2g
 url: https://www.youtube.com/watch?v=jXazkgN8X2g
 youtube_url: https://www.youtube.com/watch?v=jXazkgN8X2g
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

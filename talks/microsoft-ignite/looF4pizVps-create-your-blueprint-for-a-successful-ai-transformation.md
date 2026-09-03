@@ -4,7 +4,7 @@ title: "Create your blueprint for a successful AI transformation | ODSP1415"
 slug: create-your-blueprint-for-a-successful-ai-transformation
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Bear Shelton"]
@@ -15,6 +15,7 @@ video_id: looF4pizVps
 url: https://www.youtube.com/watch?v=looF4pizVps
 youtube_url: https://www.youtube.com/watch?v=looF4pizVps
 tags: ["Agentic business applications", "Bear Shelton", "Create your blueprint for a successful AI transformation | ODSP1415", "English (US)", "ODSP1415", "ODSP1415_v1", "Retail and Consumer Goods", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

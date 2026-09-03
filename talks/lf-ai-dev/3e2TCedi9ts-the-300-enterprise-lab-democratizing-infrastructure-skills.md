@@ -4,7 +4,7 @@ title: "The $300 Enterprise Lab: Democratizing Infrastructure Skills Wit... Dere
 slug: the-300-enterprise-lab-democratizing-infrastructure-skills
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3e2TCedi9ts
 url: https://www.youtube.com/watch?v=3e2TCedi9ts
 youtube_url: https://www.youtube.com/watch?v=3e2TCedi9ts
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Language agents in drug discovery | AI and the Molecular World | Michael
 slug: language-agents-in-drug-discovery-ai-and-the-molecular
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Michael Craig"]
@@ -15,6 +15,7 @@ video_id: q59PXI8LwKs
 url: https://www.youtube.com/watch?v=q59PXI8LwKs
 youtube_url: https://www.youtube.com/watch?v=q59PXI8LwKs
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

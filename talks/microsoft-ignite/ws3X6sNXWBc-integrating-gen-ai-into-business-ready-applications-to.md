@@ -4,7 +4,7 @@ title: "Integrating Gen AI into business-ready applications to accelerate ROI | 
 slug: integrating-gen-ai-into-business-ready-applications-to
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Andrew Grimes"]
@@ -15,6 +15,7 @@ video_id: ws3X6sNXWBc
 url: https://www.youtube.com/watch?v=ws3X6sNXWBc
 youtube_url: https://www.youtube.com/watch?v=ws3X6sNXWBc
 tags: ["AI", "Advanced (300)", "Andrew Grimes", "English (US)", "Integrating Gen AI into business-ready applications to accelerate ROI | ODFP971", "ODFP971", "Pre-recorded", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

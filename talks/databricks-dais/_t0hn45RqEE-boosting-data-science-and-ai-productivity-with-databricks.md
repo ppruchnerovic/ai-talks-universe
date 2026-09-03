@@ -4,7 +4,7 @@ title: "Boosting Data Science and AI Productivity With Databricks Notebooks"
 slug: boosting-data-science-and-ai-productivity-with-databricks
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _t0hn45RqEE
 url: https://www.youtube.com/watch?v=_t0hn45RqEE
 youtube_url: https://www.youtube.com/watch?v=_t0hn45RqEE
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

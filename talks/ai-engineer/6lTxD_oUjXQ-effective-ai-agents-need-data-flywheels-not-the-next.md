@@ -4,7 +4,7 @@ title: "Effective AI Agents Need Data Flywheels, Not The Next Biggest LLM – Sy
 slug: effective-ai-agents-need-data-flywheels-not-the-next
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Sylendran Arunagiri"]
@@ -15,6 +15,7 @@ video_id: 6lTxD_oUjXQ
 url: https://www.youtube.com/watch?v=6lTxD_oUjXQ
 youtube_url: https://www.youtube.com/watch?v=6lTxD_oUjXQ
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

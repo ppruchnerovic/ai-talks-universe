@@ -4,7 +4,7 @@ title: "Vladimír Dušek - Dealing with today’s web scraping challenges in Pyt
 slug: vladimir-dusek-dealing-with-todays-web-scraping-challenges
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: SH9oqmTpxiI
 url: https://www.youtube.com/watch?v=SH9oqmTpxiI
 youtube_url: https://www.youtube.com/watch?v=SH9oqmTpxiI
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: true
 ---
 

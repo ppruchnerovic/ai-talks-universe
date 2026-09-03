@@ -4,7 +4,7 @@ title: "From Test Kitchen to Table: A Demo-driven Tour of Foundry Portal for AI 
 slug: from-test-kitchen-to-table-a-demo-driven-tour-of-foundry
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Nitya Narasimhan"]
@@ -15,6 +15,7 @@ video_id: vcBF4XPE6I8
 url: https://www.youtube.com/watch?v=vcBF4XPE6I8
 youtube_url: https://www.youtube.com/watch?v=vcBF4XPE6I8
 tags: ["Agent Observability", "Agents & Apps", "Carlotta Castelluccio​", "Developer", "From Test Kitchen to Table: A Demo-driven Tour of Foundry Portal for AI Developers | OD836", "Microsoft Foundry", "Nitya Narasimhan", "OD836", "OD836_v1", "Production Systems", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Elevating Developer Experience and Productivity with Platform Engineerin
 slug: elevating-developer-experience-and-productivity-with
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Shinya Yanagihara"]
@@ -15,6 +15,7 @@ video_id: 1LC5qs-EyUE
 url: https://www.youtube.com/watch?v=1LC5qs-EyUE
 youtube_url: https://www.youtube.com/watch?v=1LC5qs-EyUE
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

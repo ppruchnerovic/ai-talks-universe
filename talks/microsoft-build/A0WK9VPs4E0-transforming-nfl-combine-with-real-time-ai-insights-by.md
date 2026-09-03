@@ -4,7 +4,7 @@ title: "Transforming NFL Combine with Real-Time AI Insights by SOUTHWORKS | DEM5
 slug: transforming-nfl-combine-with-real-time-ai-insights-by
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: A0WK9VPs4E0
 url: https://www.youtube.com/watch?v=A0WK9VPs4E0
 youtube_url: https://www.youtube.com/watch?v=A0WK9VPs4E0
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Building your own AI Agent using Semantic Kernel - Johnny Hooyberghs - N
 slug: building-your-own-ai-agent-using-semantic-kernel-johnny
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Johnny Hooyberghs"]
@@ -15,6 +15,7 @@ video_id: KaC6JnStm7k
 url: https://www.youtube.com/watch?v=KaC6JnStm7k
 youtube_url: https://www.youtube.com/watch?v=KaC6JnStm7k
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

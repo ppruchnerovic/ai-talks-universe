@@ -4,7 +4,7 @@ title: "From Quora to Poe: Adam D'Angelo on Building Platforms for LLMs and Agen
 slug: from-quora-to-poe-adam-d-angelo-on-building-platforms-for
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _XWJdCZM8Ag
 url: https://www.youtube.com/watch?v=_XWJdCZM8Ag
 youtube_url: https://www.youtube.com/watch?v=_XWJdCZM8Ag
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

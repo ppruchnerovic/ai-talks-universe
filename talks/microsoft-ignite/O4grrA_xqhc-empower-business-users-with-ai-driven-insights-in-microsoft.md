@@ -4,7 +4,7 @@ title: "Empower Business Users with AI driven insights in Microsoft Fabric | BRK
 slug: empower-business-users-with-ai-driven-insights-in-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Lada Hill", "Amir Jafari", "Maya Shenhav"]
@@ -15,6 +15,7 @@ video_id: O4grrA_xqhc
 url: https://www.youtube.com/watch?v=O4grrA_xqhc
 youtube_url: https://www.youtube.com/watch?v=O4grrA_xqhc
 tags: ["Amir Jafari", "BRK223", "Empower Business Users with AI driven insights in Microsoft Fabric | BRK223", "English (US)", "Lada Hill", "Maya Shenhav", "Technical", "Unify your data platform", "Unify your data platform:Microsoft Fabric", "c2208cc4-c3b7-4400-b5b4-d5629ac2c6ca_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

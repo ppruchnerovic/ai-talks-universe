@@ -4,7 +4,7 @@ title: "Parquet, Delta, Iceberg & Ducklake - An introduction for developers"
 slug: parquet-delta-iceberg-ducklake-an-introduction-for
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Matthias Niehoff"]
@@ -15,6 +15,7 @@ video_id: hX1hUU-WqjI
 url: https://www.youtube.com/watch?v=hX1hUU-WqjI
 youtube_url: https://www.youtube.com/watch?v=hX1hUU-WqjI
 tags: ["Data & Databases", "Data", "Data Lakes"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

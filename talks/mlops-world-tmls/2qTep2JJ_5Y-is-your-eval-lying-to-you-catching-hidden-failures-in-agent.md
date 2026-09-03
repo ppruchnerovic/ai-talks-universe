@@ -4,7 +4,7 @@ title: "Is Your Eval Lying to You? Catching Hidden Failures in Agent Evaluation"
 slug: is-your-eval-lying-to-you-catching-hidden-failures-in-agent
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2qTep2JJ_5Y
 url: https://www.youtube.com/watch?v=2qTep2JJ_5Y
 youtube_url: https://www.youtube.com/watch?v=2qTep2JJ_5Y
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

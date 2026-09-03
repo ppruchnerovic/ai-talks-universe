@@ -4,7 +4,7 @@ title: "Cedric Clyburn, Andrew Igdal - What Can LLMs Do with Messy Data? | Pydat
 slug: cedric-clyburn-andrew-igdal-what-can-llms-do-with-messy
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Cedric Clyburn"]
@@ -15,6 +15,7 @@ video_id: C7LiRwI9nKE
 url: https://www.youtube.com/watch?v=C7LiRwI9nKE
 youtube_url: https://www.youtube.com/watch?v=C7LiRwI9nKE
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

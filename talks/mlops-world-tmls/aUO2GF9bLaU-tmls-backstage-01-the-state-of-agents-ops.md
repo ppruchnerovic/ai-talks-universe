@@ -4,7 +4,7 @@ title: "TMLS Backstage 01: The State of Agents OPS"
 slug: tmls-backstage-01-the-state-of-agents-ops
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: aUO2GF9bLaU
 url: https://www.youtube.com/watch?v=aUO2GF9bLaU
 youtube_url: https://www.youtube.com/watch?v=aUO2GF9bLaU
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

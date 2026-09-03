@@ -4,7 +4,7 @@ title: "A new AI powered calendar for flexible workspaces | OD809"
 slug: a-new-ai-powered-calendar-for-flexible-workspaces-od809
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mark Grimaldi", "Vani Soff"]
@@ -15,6 +15,7 @@ video_id: LaopiumGoKI
 url: https://www.youtube.com/watch?v=LaopiumGoKI
 youtube_url: https://www.youtube.com/watch?v=LaopiumGoKI
 tags: ["A new AI powered calendar for flexible workspaces | OD809", "Copilot for M365", "English (US)", "Mark Grimaldi", "Microsoft 365 Apps", "Microsoft Places", "Modern Work", "OD809", "Pre-recorded", "Vani Soff", "Version v1", "Work management", "Workplace", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

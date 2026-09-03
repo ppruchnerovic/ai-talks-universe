@@ -4,7 +4,7 @@ title: "Building the most intelligent agents with the latest knowledge sources |
 slug: building-the-most-intelligent-agents-with-the-latest
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Anjli Chaudhry", "Eli Coon", "Hardik Modi", "Nick Taylor"]
@@ -15,6 +15,7 @@ video_id: mY2qaeYN_CQ
 url: https://www.youtube.com/watch?v=mY2qaeYN_CQ
 youtube_url: https://www.youtube.com/watch?v=mY2qaeYN_CQ
 tags: ["BRK318", "Building the most intelligent agents with the latest knowledge sources | BRK318", "Copilot and agents at work:Copilot Agents", "Copilot and agents at work:Copilot Studio", "Innovate with low-code AI and agents", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

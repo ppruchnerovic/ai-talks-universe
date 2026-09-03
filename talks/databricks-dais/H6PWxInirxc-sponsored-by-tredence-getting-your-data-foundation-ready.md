@@ -4,7 +4,7 @@ title: "Sponsored by: Tredence | Getting Your Data Foundation Ready for Agentic 
 slug: sponsored-by-tredence-getting-your-data-foundation-ready
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: H6PWxInirxc
 url: https://www.youtube.com/watch?v=H6PWxInirxc
 youtube_url: https://www.youtube.com/watch?v=H6PWxInirxc
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

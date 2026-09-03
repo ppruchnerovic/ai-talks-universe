@@ -4,7 +4,7 @@ title: "OpenFeature Update From the Ma... Lukas Reining, André Silva, Thomas Po
 slug: openfeature-update-from-the-ma-lukas-reining-andre-silva
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9ebYq4cbjIY
 url: https://www.youtube.com/watch?v=9ebYq4cbjIY
 youtube_url: https://www.youtube.com/watch?v=9ebYq4cbjIY
 tags: []
+topics: []
 transcript: true
 ---
 

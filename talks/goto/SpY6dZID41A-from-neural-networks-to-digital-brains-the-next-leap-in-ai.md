@@ -4,7 +4,7 @@ title: "From Neural Networks to Digital Brains: The Next Leap in AI • Daniel L
 slug: from-neural-networks-to-digital-brains-the-next-leap-in-ai
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Daniel Lütgehetmann"]
@@ -15,6 +15,7 @@ video_id: SpY6dZID41A
 url: https://www.youtube.com/watch?v=SpY6dZID41A
 youtube_url: https://www.youtube.com/watch?v=SpY6dZID41A
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

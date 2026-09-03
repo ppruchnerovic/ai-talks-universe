@@ -4,7 +4,7 @@ title: "Take AI agents from prototype to production with OpenTelemetry | ODSP909
 slug: take-ai-agents-from-prototype-to-production-with
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Harry Kimpel"]
@@ -15,6 +15,7 @@ video_id: Jyu3QUA7XXM
 url: https://www.youtube.com/watch?v=Jyu3QUA7XXM
 youtube_url: https://www.youtube.com/watch?v=Jyu3QUA7XXM
 tags: ["Harry Kimpel", "ODSP909", "ODSP909_v1", "Take AI agents from prototype to production with OpenTelemetry | ODSP909", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

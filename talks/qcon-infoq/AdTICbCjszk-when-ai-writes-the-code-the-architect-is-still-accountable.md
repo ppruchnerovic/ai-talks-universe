@@ -4,7 +4,7 @@ title: "When AI Writes the Code, the Architect Is Still Accountable -- Grady Boo
 slug: when-ai-writes-the-code-the-architect-is-still-accountable
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: AdTICbCjszk
 url: https://www.youtube.com/watch?v=AdTICbCjszk
 youtube_url: https://www.youtube.com/watch?v=AdTICbCjszk
 tags: ["SoftwareArchitecture", "SystemDesign", "SoftwareEngineering", "TheInfoQPodcast", "AI", "GradyBooch"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

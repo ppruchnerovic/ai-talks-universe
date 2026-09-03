@@ -4,7 +4,7 @@ title: "From the Frontline Cyber for the AI Era"
 slug: from-the-frontline-cyber-for-the-ai-era
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: zzFSJZpPJw4
 url: https://www.youtube.com/watch?v=zzFSJZpPJw4
 youtube_url: https://www.youtube.com/watch?v=zzFSJZpPJw4
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "How we ship models in VS Code | LIVE161"
 slug: how-we-ship-models-in-vs-code-live161
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Julia Kasper", "Seth Juarez"]
@@ -15,6 +15,7 @@ video_id: 82WO6R--wxo
 url: https://www.youtube.com/watch?v=82WO6R--wxo
 youtube_url: https://www.youtube.com/watch?v=82WO6R--wxo
 tags: ["How we ship models in VS Code | LIVE161", "Julia Kasper", "LIVE161", "LIVE161_v1", "Seth Juarez", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Navigating Win32 App Development with WPF and WinUI | BRK305"
 slug: navigating-win32-app-development-with-wpf-and-winui-brk305
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Chigusa Sansen", "Jeffrey Stall"]
@@ -15,6 +15,7 @@ video_id: Yy1HO-wP1ok
 url: https://www.youtube.com/watch?v=Yy1HO-wP1ok
 youtube_url: https://www.youtube.com/watch?v=Yy1HO-wP1ok
 tags: ["AI", "Advanced (300)", "BRK305", "Breakout", "Chigusa Sansen", "Copilot + PC", "English (US)", "Jeffrey Stall", "Modern Work", "Navigating Win32 App Development with WPF and WinUI | BRK305", "Technical", "Version v0", "Windows", "Windows Copilot Runtime", "Windows Developer", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

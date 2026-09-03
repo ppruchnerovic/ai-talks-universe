@@ -4,7 +4,7 @@ title: "How to use Data Science Superpowers in real life, a Bayesian perspective
 slug: how-to-use-data-science-superpowers-in-real-life-a-bayesian
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Tim Lenzen"]
@@ -15,6 +15,7 @@ video_id: 0nQGPlg9e6s
 url: https://www.youtube.com/watch?v=0nQGPlg9e6s
 youtube_url: https://www.youtube.com/watch?v=0nQGPlg9e6s
 tags: ["Bayesian inference", "Conference", "PyConDE", "PyData", "PyMC", "Python", "Tech Talk", "cloud certification", "data collection", "data science methodology", "decision-making", "prior assumptions", "probability distributions", "real-life applications", "statistical modeling", "uncertainty quantification"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

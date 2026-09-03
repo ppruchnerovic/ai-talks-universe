@@ -4,7 +4,7 @@ title: "AI Evals for Cross-Functional Teams — Nachiket Paranjape & Swaroop Chi
 slug: ai-evals-for-cross-functional-teams-nachiket-paranjape
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nachiket Paranjape", "Swaroop Chitlur Haridas"]
@@ -15,6 +15,7 @@ video_id: bMjlRrWjdT0
 url: https://www.youtube.com/watch?v=bMjlRrWjdT0
 youtube_url: https://www.youtube.com/watch?v=bMjlRrWjdT0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

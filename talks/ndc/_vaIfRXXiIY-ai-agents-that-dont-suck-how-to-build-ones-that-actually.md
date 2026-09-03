@@ -4,7 +4,7 @@ title: "AI Agents That Don’t Suck: How to Build Ones That Actually Drive Busin
 slug: ai-agents-that-dont-suck-how-to-build-ones-that-actually
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Robert Koch"]
@@ -15,6 +15,7 @@ video_id: _vaIfRXXiIY
 url: https://www.youtube.com/watch?v=_vaIfRXXiIY
 youtube_url: https://www.youtube.com/watch?v=_vaIfRXXiIY
 tags: ["AI", "Cloud", "Machine Learning", "Security", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Robert Koch"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

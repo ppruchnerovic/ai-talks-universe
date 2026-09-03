@@ -4,7 +4,7 @@ title: "Agents that remember"
 slug: agents-that-remember
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: geUv4CjPpxI
 url: https://www.youtube.com/watch?v=geUv4CjPpxI
 youtube_url: https://www.youtube.com/watch?v=geUv4CjPpxI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

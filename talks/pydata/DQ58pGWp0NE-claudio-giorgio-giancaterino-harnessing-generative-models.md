@@ -4,7 +4,7 @@ title: "Claudio Giorgio Giancaterino-Harnessing Generative Models for Synthetic 
 slug: claudio-giorgio-giancaterino-harnessing-generative-models
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: DQ58pGWp0NE
 url: https://www.youtube.com/watch?v=DQ58pGWp0NE
 youtube_url: https://www.youtube.com/watch?v=DQ58pGWp0NE
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

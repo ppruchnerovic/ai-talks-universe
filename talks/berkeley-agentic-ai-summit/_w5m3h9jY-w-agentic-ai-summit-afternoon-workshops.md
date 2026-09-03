@@ -4,7 +4,7 @@ title: "Agentic AI Summit | Afternoon Workshops"
 slug: agentic-ai-summit-afternoon-workshops
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Afternoon Workshops"]
@@ -15,6 +15,7 @@ video_id: _w5m3h9jY-w
 url: https://www.youtube.com/watch?v=_w5m3h9jY-w
 youtube_url: https://www.youtube.com/watch?v=_w5m3h9jY-w
 tags: ["UC Berkeley", "Okta/Auth0 Workshop", "Vibe Coding", "Angie Jones", "Amir Zadeh", "AI agents by Lambda", "Agentic AI Summit", "Foundry Workshop", "RDI"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

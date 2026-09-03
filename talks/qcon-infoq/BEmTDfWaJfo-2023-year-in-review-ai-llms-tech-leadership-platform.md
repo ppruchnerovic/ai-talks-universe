@@ -4,7 +4,7 @@ title: "2023 Year in Review: AI/LLMs, Tech Leadership, Platform Engineering, and
 slug: 2023-year-in-review-ai-llms-tech-leadership-platform
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: BEmTDfWaJfo
 url: https://www.youtube.com/watch?v=BEmTDfWaJfo
 youtube_url: https://www.youtube.com/watch?v=BEmTDfWaJfo
 tags: ["Data", "AI", "Leadership", "LLM", "Platform Engineering"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "How Zoox Built a Reliable, High-Velocity Model Serving Platform with Ray
 slug: how-zoox-built-a-reliable-high-velocity-model-serving
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: HcnMgJ_zLIg
 url: https://www.youtube.com/watch?v=HcnMgJ_zLIg
 youtube_url: https://www.youtube.com/watch?v=HcnMgJ_zLIg
 tags: []
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

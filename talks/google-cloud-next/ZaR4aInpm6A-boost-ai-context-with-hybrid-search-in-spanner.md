@@ -4,7 +4,7 @@ title: "Boost AI context with hybrid search in Spanner"
 slug: boost-ai-context-with-hybrid-search-in-spanner
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Jeff Sosa", "Girish Baliga", "Alexander Christie"]
@@ -15,6 +15,7 @@ video_id: ZaR4aInpm6A
 url: https://www.youtube.com/watch?v=ZaR4aInpm6A
 youtube_url: https://www.youtube.com/watch?v=ZaR4aInpm6A
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

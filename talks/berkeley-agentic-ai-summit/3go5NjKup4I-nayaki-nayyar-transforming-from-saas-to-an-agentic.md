@@ -4,7 +4,7 @@ title: "Nayaki Nayyar - Transforming from SaaS to an Agentic Enterprise"
 slug: nayaki-nayyar-transforming-from-saas-to-an-agentic
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Nayaki Nayyar"]
@@ -15,6 +15,7 @@ video_id: 3go5NjKup4I
 url: https://www.youtube.com/watch?v=3go5NjKup4I
 youtube_url: https://www.youtube.com/watch?v=3go5NjKup4I
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

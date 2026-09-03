@@ -4,7 +4,7 @@ title: "Productivity Paradox: Why \"More Work\" Kills Creativity & Code Quality"
 slug: productivity-paradox-why-more-work-kills-creativity-code
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: H1qrFhg6cMc
 url: https://www.youtube.com/watch?v=H1qrFhg6cMc
 youtube_url: https://www.youtube.com/watch?v=H1qrFhg6cMc
 tags: ["Software Engineering", "Developer Productivity", "Tech Leadership", "Developer Experience", "Team Work", "Productivity", "Engineering Culture Podcast"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

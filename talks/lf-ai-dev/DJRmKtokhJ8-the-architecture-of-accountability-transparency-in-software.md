@@ -4,7 +4,7 @@ title: "The Architecture of Accountability: Transparency in Software - Hayden Bl
 slug: the-architecture-of-accountability-transparency-in-software
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Hayden Blauzvern"]
@@ -15,6 +15,7 @@ video_id: DJRmKtokhJ8
 url: https://www.youtube.com/watch?v=DJRmKtokhJ8
 youtube_url: https://www.youtube.com/watch?v=DJRmKtokhJ8
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

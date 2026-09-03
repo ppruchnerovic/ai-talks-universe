@@ -4,7 +4,7 @@ title: "Coinbase's ML Training Evolution: From Sagemaker to Ray | Ray Summit 202
 slug: coinbase-s-ml-training-evolution-from-sagemaker-to-ray-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: LGP4pR2G40Q
 url: https://www.youtube.com/watch?v=LGP4pR2G40Q
 youtube_url: https://www.youtube.com/watch?v=LGP4pR2G40Q
 tags: []
+topics: []
 transcript: false
 ---
 

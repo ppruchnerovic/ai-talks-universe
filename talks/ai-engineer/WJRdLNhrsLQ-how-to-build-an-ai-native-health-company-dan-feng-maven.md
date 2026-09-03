@@ -4,7 +4,7 @@ title: "How to build an AI-Native Health Company — Dan Feng, Maven Clinic"
 slug: how-to-build-an-ai-native-health-company-dan-feng-maven
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dan Feng"]
@@ -15,6 +15,7 @@ video_id: WJRdLNhrsLQ
 url: https://www.youtube.com/watch?v=WJRdLNhrsLQ
 youtube_url: https://www.youtube.com/watch?v=WJRdLNhrsLQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Building and Modernising Apps with Agentic AI"
 slug: building-and-modernising-apps-with-agentic-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: TwNtmbeUpzc
 url: https://www.youtube.com/watch?v=TwNtmbeUpzc
 youtube_url: https://www.youtube.com/watch?v=TwNtmbeUpzc
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

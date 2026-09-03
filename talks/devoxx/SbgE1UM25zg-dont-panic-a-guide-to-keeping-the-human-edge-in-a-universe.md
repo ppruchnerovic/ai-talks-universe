@@ -4,7 +4,7 @@ title: "Don’t Panic! A Guide to Keeping the Human Edge in a Universe of Instan
 slug: dont-panic-a-guide-to-keeping-the-human-edge-in-a-universe
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Janina Sutter"]
@@ -15,6 +15,7 @@ video_id: SbgE1UM25zg
 url: https://www.youtube.com/watch?v=SbgE1UM25zg
 youtube_url: https://www.youtube.com/watch?v=SbgE1UM25zg
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

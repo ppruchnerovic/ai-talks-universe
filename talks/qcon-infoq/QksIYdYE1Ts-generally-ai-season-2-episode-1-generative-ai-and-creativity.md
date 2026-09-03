@@ -4,7 +4,7 @@ title: "Generally AI - Season 2 - Episode 1: Generative AI and Creativity"
 slug: generally-ai-season-2-episode-1-generative-ai-and-creativity
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: QksIYdYE1Ts
 url: https://www.youtube.com/watch?v=QksIYdYE1Ts
 youtube_url: https://www.youtube.com/watch?v=QksIYdYE1Ts
 tags: []
+topics: []
 transcript: false
 ---
 

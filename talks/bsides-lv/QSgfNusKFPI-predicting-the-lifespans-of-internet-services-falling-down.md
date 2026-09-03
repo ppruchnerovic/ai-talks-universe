@@ -4,7 +4,7 @@ title: "Predicting the Lifespans of Internet Services: Falling down the ML Rabbi
 slug: predicting-the-lifespans-of-internet-services-falling-down
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: QSgfNusKFPI
 url: https://www.youtube.com/watch?v=QSgfNusKFPI
 youtube_url: https://www.youtube.com/watch?v=QSgfNusKFPI
 tags: []
+topics: []
 transcript: false
 ---
 

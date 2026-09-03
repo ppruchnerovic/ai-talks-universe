@@ -4,7 +4,7 @@ title: "How to Make Hugging Face to Hug Worms: Discovering and Exploiting Unsafe
 slug: how-to-make-hugging-face-to-hug-worms-discovering-and
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: KtbeMz2UHN0
 url: https://www.youtube.com/watch?v=KtbeMz2UHN0
 youtube_url: https://www.youtube.com/watch?v=KtbeMz2UHN0
 tags: []
+topics: ["Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

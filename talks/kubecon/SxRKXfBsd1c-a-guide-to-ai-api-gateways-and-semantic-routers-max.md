@@ -4,7 +4,7 @@ title: "A Guide To AI API Gateways and Semantic Routers - Max Körbächer, Liqui
 slug: a-guide-to-ai-api-gateways-and-semantic-routers-max
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: ["Max Körbächer"]
@@ -15,6 +15,7 @@ video_id: SxRKXfBsd1c
 url: https://www.youtube.com/watch?v=SxRKXfBsd1c
 youtube_url: https://www.youtube.com/watch?v=SxRKXfBsd1c
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Always-on agents run production without the on-call tax — Justin Smith
 slug: always-on-agents-run-production-without-the-on-call-tax
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Justin Smith"]
@@ -15,6 +15,7 @@ video_id: vSx5IULvBns
 url: https://www.youtube.com/watch?v=vSx5IULvBns
 youtube_url: https://www.youtube.com/watch?v=vSx5IULvBns
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AI Factory Accelerating Solutions with Ray"
 slug: ai-factory-accelerating-solutions-with-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZELH3S93igw
 url: https://www.youtube.com/watch?v=ZELH3S93igw
 youtube_url: https://www.youtube.com/watch?v=ZELH3S93igw
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

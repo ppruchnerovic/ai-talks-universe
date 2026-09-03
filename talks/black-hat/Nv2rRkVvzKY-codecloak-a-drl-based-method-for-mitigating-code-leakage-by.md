@@ -4,7 +4,7 @@ title: "CodeCloak: A DRL-Based Method for Mitigating Code Leakage by LLM Code As
 slug: codecloak-a-drl-based-method-for-mitigating-code-leakage-by
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: ["Amit Finkman"]
@@ -15,6 +15,7 @@ video_id: Nv2rRkVvzKY
 url: https://www.youtube.com/watch?v=Nv2rRkVvzKY
 youtube_url: https://www.youtube.com/watch?v=Nv2rRkVvzKY
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

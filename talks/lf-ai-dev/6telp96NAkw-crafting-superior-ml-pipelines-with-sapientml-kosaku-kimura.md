@@ -4,7 +4,7 @@ title: "Crafting Superior ML Pipelines with SapientML - Kosaku Kimura, Fujitsu"
 slug: crafting-superior-ml-pipelines-with-sapientml-kosaku-kimura
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Kosaku Kimura"]
@@ -15,6 +15,7 @@ video_id: 6telp96NAkw
 url: https://www.youtube.com/watch?v=6telp96NAkw
 youtube_url: https://www.youtube.com/watch?v=6telp96NAkw
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

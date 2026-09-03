@@ -4,7 +4,7 @@ title: "How GitHub Next took Copilot Workspace from concept to code"
 slug: how-github-next-took-copilot-workspace-from-concept-to-code
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: f3Yrms9r_n4
 url: https://www.youtube.com/watch?v=f3Yrms9r_n4
 youtube_url: https://www.youtube.com/watch?v=f3Yrms9r_n4
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

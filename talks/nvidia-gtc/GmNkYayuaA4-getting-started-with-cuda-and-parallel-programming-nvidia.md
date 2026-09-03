@@ -4,7 +4,7 @@ title: "Getting Started with CUDA and Parallel Programming | NVIDIA GTC 2025 Ses
 slug: getting-started-with-cuda-and-parallel-programming-nvidia
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: GmNkYayuaA4
 url: https://www.youtube.com/watch?v=GmNkYayuaA4
 youtube_url: https://www.youtube.com/watch?v=GmNkYayuaA4
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

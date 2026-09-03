@@ -4,7 +4,7 @@ title: "From Tools To Platforms: MCP Patterns for Building Open Agent Ecosystems
 slug: from-tools-to-platforms-mcp-patterns-for-building-open
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Guangya Liu"]
@@ -15,6 +15,7 @@ video_id: nNO8kD6pfM0
 url: https://www.youtube.com/watch?v=nNO8kD6pfM0
 youtube_url: https://www.youtube.com/watch?v=nNO8kD6pfM0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

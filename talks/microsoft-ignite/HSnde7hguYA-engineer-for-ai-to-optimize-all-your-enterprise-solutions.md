@@ -4,7 +4,7 @@ title: "Engineer for AI to optimize all your enterprise solutions | ODFP941"
 slug: engineer-for-ai-to-optimize-all-your-enterprise-solutions
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Manuel Cubillo"]
@@ -15,6 +15,7 @@ video_id: HSnde7hguYA
 url: https://www.youtube.com/watch?v=HSnde7hguYA
 youtube_url: https://www.youtube.com/watch?v=HSnde7hguYA
 tags: ["AI", "Cloud Endpoints", "Copilot", "Data Security", "Data governance", "Engineer for AI to optimize all your enterprise solutions | ODFP941", "English (US)", "Github copilot", "Intermediate (200)", "Manuel Cubillo", "Microsoft Copilot", "ODFP941", "Pre-recorded", "Security", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

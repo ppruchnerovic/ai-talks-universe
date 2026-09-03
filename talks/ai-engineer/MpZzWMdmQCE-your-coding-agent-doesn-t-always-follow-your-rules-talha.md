@@ -4,7 +4,7 @@ title: "Your coding agent doesn't always follow your rules — Talha Sheikh, Che
 slug: your-coding-agent-doesn-t-always-follow-your-rules-talha
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Talha Sheikh"]
@@ -15,6 +15,7 @@ video_id: MpZzWMdmQCE
 url: https://www.youtube.com/watch?v=MpZzWMdmQCE
 youtube_url: https://www.youtube.com/watch?v=MpZzWMdmQCE
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

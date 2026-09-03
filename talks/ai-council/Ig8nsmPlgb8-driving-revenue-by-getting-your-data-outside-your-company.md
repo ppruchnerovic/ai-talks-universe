@@ -4,7 +4,7 @@ title: "Driving Revenue By Getting Your Data Outside Your Company"
 slug: driving-revenue-by-getting-your-data-outside-your-company
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Solomon Kahn"]
@@ -15,6 +15,7 @@ video_id: Ig8nsmPlgb8
 url: https://www.youtube.com/watch?v=Ig8nsmPlgb8
 youtube_url: https://www.youtube.com/watch?v=Ig8nsmPlgb8
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

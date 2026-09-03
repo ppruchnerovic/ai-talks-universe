@@ -4,7 +4,7 @@ title: "Keynote: Using MCP for Skills Orchestration and Enterprise Integration -
 slug: keynote-using-mcp-for-skills-orchestration-and-enterprise
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Jacob Wilson"]
@@ -15,6 +15,7 @@ video_id: 30WU_6_wplc
 url: https://www.youtube.com/watch?v=30WU_6_wplc
 youtube_url: https://www.youtube.com/watch?v=30WU_6_wplc
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

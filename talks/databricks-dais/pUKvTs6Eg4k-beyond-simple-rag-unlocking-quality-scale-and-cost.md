@@ -4,7 +4,7 @@ title: "Beyond Simple RAG:Unlocking Quality, Scale and Cost-Efficient Retrieval 
 slug: beyond-simple-rag-unlocking-quality-scale-and-cost
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: pUKvTs6Eg4k
 url: https://www.youtube.com/watch?v=pUKvTs6Eg4k
 youtube_url: https://www.youtube.com/watch?v=pUKvTs6Eg4k
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

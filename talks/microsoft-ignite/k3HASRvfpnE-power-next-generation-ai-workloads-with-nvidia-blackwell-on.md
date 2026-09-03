@@ -4,7 +4,7 @@ title: "Power next-generation AI workloads with NVIDIA Blackwell on Azure | BRKS
 slug: power-next-generation-ai-workloads-with-nvidia-blackwell-on
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Dave Salvator"]
@@ -15,6 +15,7 @@ video_id: k3HASRvfpnE
 url: https://www.youtube.com/watch?v=k3HASRvfpnE
 youtube_url: https://www.youtube.com/watch?v=k3HASRvfpnE
 tags: ["4e412b9c-a546-4291-a734-d898e8cac3ee_Segment", "Agentic business applications", "BRKSP490", "Dave Salvator", "English (US)", "Innovate with Azure AI apps and agents", "Media and Entertainment", "Power next-generation AI workloads with NVIDIA Blackwell on Azure | BRKSP490", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

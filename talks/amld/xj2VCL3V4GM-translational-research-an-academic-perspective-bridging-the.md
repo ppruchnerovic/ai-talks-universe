@@ -4,7 +4,7 @@ title: "Translational research: an academic perspective | Bridging the Gap | Jul
 slug: translational-research-an-academic-perspective-bridging-the
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Julia Usher"]
@@ -15,6 +15,7 @@ video_id: xj2VCL3V4GM
 url: https://www.youtube.com/watch?v=xj2VCL3V4GM
 youtube_url: https://www.youtube.com/watch?v=xj2VCL3V4GM
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

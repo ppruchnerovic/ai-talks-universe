@@ -4,7 +4,7 @@ title: "The New Application Layer - Malte Ubl, CTO Vercel"
 slug: the-new-application-layer-malte-ubl-cto-vercel
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Malte Ubl"]
@@ -15,6 +15,7 @@ video_id: XKup1pj-34M
 url: https://www.youtube.com/watch?v=XKup1pj-34M
 youtube_url: https://www.youtube.com/watch?v=XKup1pj-34M
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

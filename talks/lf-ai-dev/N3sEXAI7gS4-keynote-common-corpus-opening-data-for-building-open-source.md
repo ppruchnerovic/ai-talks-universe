@@ -4,7 +4,7 @@ title: "Keynote: Common Corpus: Opening Data for Building Open Source LLMs - Ana
 slug: keynote-common-corpus-opening-data-for-building-open-source
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Anastasia Stasenko"]
@@ -15,6 +15,7 @@ video_id: N3sEXAI7gS4
 url: https://www.youtube.com/watch?v=N3sEXAI7gS4
 youtube_url: https://www.youtube.com/watch?v=N3sEXAI7gS4
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

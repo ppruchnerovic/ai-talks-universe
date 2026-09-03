@@ -4,7 +4,7 @@ title: "Bolt.new: How we scaled $0-20m ARR in 60 days, with 15 people — Eric S
 slug: bolt-new-how-we-scaled-0-20m-arr-in-60-days-with-15-people
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Eric Simons"]
@@ -15,6 +15,7 @@ video_id: s8RM8uYxkoY
 url: https://www.youtube.com/watch?v=s8RM8uYxkoY
 youtube_url: https://www.youtube.com/watch?v=s8RM8uYxkoY
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

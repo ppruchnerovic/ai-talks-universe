@@ -4,7 +4,7 @@ title: "Transform agreement workflows through Docusign's low-code automation | O
 slug: transform-agreement-workflows-through-docusign-s-low-code
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Hank Glover", "Shane Meisner"]
@@ -15,6 +15,7 @@ video_id: EY91614fGWc
 url: https://www.youtube.com/watch?v=EY91614fGWc
 youtube_url: https://www.youtube.com/watch?v=EY91614fGWc
 tags: ["AI", "Automation", "English (US)", "Foundational (100)", "Hank Glover", "ODFP937", "Power Platform", "Pre-recorded", "Shane Meisner", "Technical", "Transform agreement workflows through Docusign's low-code automation | ODFP937", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

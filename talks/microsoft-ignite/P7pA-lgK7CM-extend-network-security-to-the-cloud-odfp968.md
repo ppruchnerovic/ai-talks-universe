@@ -4,7 +4,7 @@ title: "Extend network security to the cloud | ODFP968"
 slug: extend-network-security-to-the-cloud-odfp968
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: P7pA-lgK7CM
 url: https://www.youtube.com/watch?v=P7pA-lgK7CM
 youtube_url: https://www.youtube.com/watch?v=P7pA-lgK7CM
 tags: ["AI", "Azure Virtual Desktop", "BALA MYNENI", "Data Security", "Extend network security to the cloud | ODFP968", "Foundational (100)", "Multicloud security", "ODFP968", "Pre-recorded", "Security", "Technical", "Version v1", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

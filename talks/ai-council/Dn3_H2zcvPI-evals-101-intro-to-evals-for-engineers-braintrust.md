@@ -4,7 +4,7 @@ title: "Evals 101: Intro to Evals for Engineers | Braintrust"
 slug: evals-101-intro-to-evals-for-engineers-braintrust
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Dn3_H2zcvPI
 url: https://www.youtube.com/watch?v=Dn3_H2zcvPI
 youtube_url: https://www.youtube.com/watch?v=Dn3_H2zcvPI
 tags: ["AI"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

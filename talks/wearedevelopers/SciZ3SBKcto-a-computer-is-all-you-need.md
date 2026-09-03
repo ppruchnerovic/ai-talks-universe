@@ -4,7 +4,7 @@ title: "A Computer Is All You Need"
 slug: a-computer-is-all-you-need
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Steren Giannini"]
@@ -15,6 +15,7 @@ video_id: SciZ3SBKcto
 url: https://www.youtube.com/watch?v=SciZ3SBKcto
 youtube_url: https://www.youtube.com/watch?v=SciZ3SBKcto
 tags: ["AI Agents"]
+topics: []
 transcript: true
 ---
 

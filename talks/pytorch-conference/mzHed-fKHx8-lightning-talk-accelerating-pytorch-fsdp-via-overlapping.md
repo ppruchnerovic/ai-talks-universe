@@ -4,7 +4,7 @@ title: "Lightning Talk: Accelerating PyTorch FSDP Via Overlapping Collectives Wi
 slug: lightning-talk-accelerating-pytorch-fsdp-via-overlapping
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Nariaki Tateiwa"]
@@ -15,6 +15,7 @@ video_id: mzHed-fKHx8
 url: https://www.youtube.com/watch?v=mzHed-fKHx8
 youtube_url: https://www.youtube.com/watch?v=mzHed-fKHx8
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

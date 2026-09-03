@@ -4,7 +4,7 @@ title: "Ep.35 Meeting Apr 23 2025: Agentic AI, Red Teaming & RSA 2025 Highlights
 slug: ep-35-meeting-apr-23-2025-agentic-ai-red-teaming-rsa-2025
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6SNuZwyZNaI
 url: https://www.youtube.com/watch?v=6SNuZwyZNaI
 youtube_url: https://www.youtube.com/watch?v=6SNuZwyZNaI
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

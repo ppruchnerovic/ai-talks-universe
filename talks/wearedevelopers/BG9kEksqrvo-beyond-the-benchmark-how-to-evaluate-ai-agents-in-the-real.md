@@ -4,7 +4,7 @@ title: "Beyond the Benchmark: How to Evaluate AI Agents in the Real World"
 slug: beyond-the-benchmark-how-to-evaluate-ai-agents-in-the-real
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Taylor Jordan Smith"]
@@ -15,6 +15,7 @@ video_id: BG9kEksqrvo
 url: https://www.youtube.com/watch?v=BG9kEksqrvo
 youtube_url: https://www.youtube.com/watch?v=BG9kEksqrvo
 tags: ["AI Agents", "Agents", "Agentic AI", "Infrastructure"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

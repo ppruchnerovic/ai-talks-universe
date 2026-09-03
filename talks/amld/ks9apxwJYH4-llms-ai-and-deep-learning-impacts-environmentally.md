@@ -4,7 +4,7 @@ title: "LLMs, AI and Deep Learning impacts | Environmentally Sustainable AI | Cl
 slug: llms-ai-and-deep-learning-impacts-environmentally
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Clément Morand"]
@@ -15,6 +15,7 @@ video_id: ks9apxwJYH4
 url: https://www.youtube.com/watch?v=ks9apxwJYH4
 youtube_url: https://www.youtube.com/watch?v=ks9apxwJYH4
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

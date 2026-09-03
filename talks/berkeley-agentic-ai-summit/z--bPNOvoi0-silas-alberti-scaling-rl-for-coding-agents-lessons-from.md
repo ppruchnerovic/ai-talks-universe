@@ -4,7 +4,7 @@ title: "Silas Alberti - Scaling RL for Coding Agents - Lessons from Training SWE
 slug: silas-alberti-scaling-rl-for-coding-agents-lessons-from
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Silas Alberti"]
@@ -15,6 +15,7 @@ video_id: z--bPNOvoi0
 url: https://www.youtube.com/watch?v=z--bPNOvoi0
 youtube_url: https://www.youtube.com/watch?v=z--bPNOvoi0
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

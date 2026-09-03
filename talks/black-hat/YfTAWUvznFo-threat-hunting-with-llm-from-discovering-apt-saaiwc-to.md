@@ -4,7 +4,7 @@ title: "Threat Hunting with LLM: From Discovering APT SAAIWC to Tracking APTs wi
 slug: threat-hunting-with-llm-from-discovering-apt-saaiwc-to
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YfTAWUvznFo
 url: https://www.youtube.com/watch?v=YfTAWUvznFo
 youtube_url: https://www.youtube.com/watch?v=YfTAWUvznFo
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

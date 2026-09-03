@@ -4,7 +4,7 @@ title: "Ep. 27: Meeting Dec 18 2024 - OWASP Recognition, AI Red Teaming, RSA And
 slug: ep-27-meeting-dec-18-2024-owasp-recognition-ai-red-teaming
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: xFTM5fbEzec
 url: https://www.youtube.com/watch?v=xFTM5fbEzec
 youtube_url: https://www.youtube.com/watch?v=xFTM5fbEzec
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

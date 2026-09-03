@@ -4,7 +4,7 @@ title: "How Prime Intellect Builds Scalable Infrastructure for Agentic RL | Ray 
 slug: how-prime-intellect-builds-scalable-infrastructure-for
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: NGxxxFlS4l0
 url: https://www.youtube.com/watch?v=NGxxxFlS4l0
 youtube_url: https://www.youtube.com/watch?v=NGxxxFlS4l0
 tags: []
+topics: ["Agents & orchestration", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

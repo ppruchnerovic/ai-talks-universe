@@ -4,7 +4,7 @@ title: "Between Public Benchmarks and Business Needs - Lukasz Borchmann, Snowfla
 slug: between-public-benchmarks-and-business-needs-lukasz
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Lukasz Borchmann"]
@@ -15,6 +15,7 @@ video_id: zyR7Ocdl7yI
 url: https://www.youtube.com/watch?v=zyR7Ocdl7yI
 youtube_url: https://www.youtube.com/watch?v=zyR7Ocdl7yI
 tags: []
+topics: ["Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: false
 ---
 

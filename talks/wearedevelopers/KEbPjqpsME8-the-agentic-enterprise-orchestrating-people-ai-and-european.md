@@ -4,7 +4,7 @@ title: "The Agentic Enterprise: Orchestrating People, AI, and European Sovereign
 slug: the-agentic-enterprise-orchestrating-people-ai-and-european
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Sebastian Kister"]
@@ -15,6 +15,7 @@ video_id: KEbPjqpsME8
 url: https://www.youtube.com/watch?v=KEbPjqpsME8
 youtube_url: https://www.youtube.com/watch?v=KEbPjqpsME8
 tags: ["Strategy & Innovation", "Advocacy", "AI Standards", "Containers", "Digital Transformation", "Internal Platforms", "Neo4j", "Site Reliability Engineering (SRE)", "Software Architecture"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

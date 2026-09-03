@@ -4,7 +4,7 @@ title: "Innovation Session: Microsoft 365 Copilot: AI Built For Work | BRK1710"
 slug: innovation-session-microsoft-365-copilot-ai-built-for-work
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sumit Chauhan", "Nicole Herskowitz", "Jeff Teper"]
@@ -15,6 +15,7 @@ video_id: UiCtBkC9hgs
 url: https://www.youtube.com/watch?v=UiCtBkC9hgs
 youtube_url: https://www.youtube.com/watch?v=UiCtBkC9hgs
 tags: ["BRK1710", "BRK1710_v6", "Copilot and agents at work", "English (US)", "Innovation Session: Microsoft 365 Copilot: AI Built For Work | BRK1710", "Jeff Teper", "Michael DiPaolo", "Nicole Herskowitz", "Signature pass", "Sumit Chauhan", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

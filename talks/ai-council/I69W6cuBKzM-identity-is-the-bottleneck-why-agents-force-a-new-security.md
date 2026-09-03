@@ -4,7 +4,7 @@ title: "Identity Is the Bottleneck: Why Agents Force a New Security Model | Keyc
 slug: identity-is-the-bottleneck-why-agents-force-a-new-security
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: I69W6cuBKzM
 url: https://www.youtube.com/watch?v=I69W6cuBKzM
 youtube_url: https://www.youtube.com/watch?v=I69W6cuBKzM
 tags: ["AI"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

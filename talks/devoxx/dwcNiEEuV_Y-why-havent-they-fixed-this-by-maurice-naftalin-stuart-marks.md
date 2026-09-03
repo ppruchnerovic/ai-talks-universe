@@ -4,7 +4,7 @@ title: "Why Haven’t They Fixed This? by Maurice Naftalin, Stuart Marks"
 slug: why-havent-they-fixed-this-by-maurice-naftalin-stuart-marks
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Maurice Naftalin", "Stuart Marks"]
@@ -15,6 +15,7 @@ video_id: dwcNiEEuV_Y
 url: https://www.youtube.com/watch?v=dwcNiEEuV_Y
 youtube_url: https://www.youtube.com/watch?v=dwcNiEEuV_Y
 tags: []
+topics: []
 transcript: false
 ---
 

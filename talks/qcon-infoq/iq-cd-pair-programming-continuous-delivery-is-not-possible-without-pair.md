@@ -4,7 +4,7 @@ title: "Continuous Delivery Is Not Possible without Pair Programming: Lessons fr
 slug: continuous-delivery-is-not-possible-without-pair
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Asgaut Mjølne Söderbom", "Ola Hast"]
@@ -15,6 +15,7 @@ video_id: iq-cd-pair-programming
 url: https://www.infoq.com/presentations/cd-pair-programming/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Diagnosing Failure Modes in Your ML Organization"
 slug: diagnosing-failure-modes-in-your-ml-organization
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: wsKaQEigPKE
 url: https://www.youtube.com/watch?v=wsKaQEigPKE
 youtube_url: https://www.youtube.com/watch?v=wsKaQEigPKE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Diagnosing Failure Modes in Your ML Organization", "Failure Modes in Your ML Organization", "ML Organization", "machine learning organization", "organizational structure", "organization structure", "organizational structures and ML processes", "data analysis"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

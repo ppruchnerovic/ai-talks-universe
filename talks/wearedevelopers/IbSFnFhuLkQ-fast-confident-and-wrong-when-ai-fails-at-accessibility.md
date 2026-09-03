@@ -4,7 +4,7 @@ title: "Fast, Confident, and Wrong: When AI Fails at Accessibility"
 slug: fast-confident-and-wrong-when-ai-fails-at-accessibility
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Radostina (Ina) Tsvetkova"]
@@ -15,6 +15,7 @@ video_id: IbSFnFhuLkQ
 url: https://www.youtube.com/watch?v=IbSFnFhuLkQ
 youtube_url: https://www.youtube.com/watch?v=IbSFnFhuLkQ
 tags: ["Frontend, Web & Mobile", "Accessibility", "AI Coding Assistants", "Testing", "Web Accessibility"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Skill Degradation: An Empirical Analysis of 400+ AI‑Generated Security
 slug: skill-degradation-an-empirical-analysis-of-400-aigenerated
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Pedram Hayati"]
@@ -15,6 +15,7 @@ video_id: 1tcir8BPP3M
 url: https://www.youtube.com/watch?v=1tcir8BPP3M
 youtube_url: https://www.youtube.com/watch?v=1tcir8BPP3M
 tags: ["AI", "Security", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Pedram Hayati"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Contextual + Ray: Boosting SFT, RL & Inference at Scale | Ray Summit 202
 slug: contextual-ray-boosting-sft-rl-inference-at-scale-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: -bjWiQfonMs
 url: https://www.youtube.com/watch?v=-bjWiQfonMs
 youtube_url: https://www.youtube.com/watch?v=-bjWiQfonMs
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

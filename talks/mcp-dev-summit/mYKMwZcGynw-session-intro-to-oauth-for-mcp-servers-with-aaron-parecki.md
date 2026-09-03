@@ -4,7 +4,7 @@ title: "[Session] Intro to OAuth for MCP Servers with Aaron Parecki, Okta"
 slug: session-intro-to-oauth-for-mcp-servers-with-aaron-parecki
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: mYKMwZcGynw
 url: https://www.youtube.com/watch?v=mYKMwZcGynw
 youtube_url: https://www.youtube.com/watch?v=mYKMwZcGynw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

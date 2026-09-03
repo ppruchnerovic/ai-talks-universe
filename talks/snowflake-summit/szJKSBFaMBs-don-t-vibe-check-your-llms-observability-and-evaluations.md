@@ -4,7 +4,7 @@ title: "Don't Vibe Check Your LLMs! Observability And Evaluations For GenAI Appl
 slug: don-t-vibe-check-your-llms-observability-and-evaluations
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: szJKSBFaMBs
 url: https://www.youtube.com/watch?v=szJKSBFaMBs
 youtube_url: https://www.youtube.com/watch?v=szJKSBFaMBs
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

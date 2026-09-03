@@ -4,7 +4,7 @@ title: "Platform Engineering 2.0: Just-Enough Kubernetes and AI-Native DevOps - 
 slug: platform-engineering-2-0-just-enough-kubernetes-and-ai
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Shweta Vohra"]
@@ -15,6 +15,7 @@ video_id: WksAqIZ9PFA
 url: https://www.youtube.com/watch?v=WksAqIZ9PFA
 youtube_url: https://www.youtube.com/watch?v=WksAqIZ9PFA
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

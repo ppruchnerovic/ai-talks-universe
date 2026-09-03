@@ -4,7 +4,7 @@ title: "InfoQ Architecture and Design Trends in 2025"
 slug: infoq-architecture-and-design-trends-in-2025
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: mduMpkkdhe8
 url: https://www.youtube.com/watch?v=mduMpkkdhe8
 youtube_url: https://www.youtube.com/watch?v=mduMpkkdhe8
 tags: []
+topics: []
 transcript: false
 ---
 

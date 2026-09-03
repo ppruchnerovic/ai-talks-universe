@@ -4,7 +4,7 @@ title: "Maintainers of the Future: Code, Culture, and Everything After"
 slug: maintainers-of-the-future-code-culture-and-everything-after
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Jessica Greene"]
@@ -15,6 +15,7 @@ video_id: f2WMnIFP2MI
 url: https://www.youtube.com/watch?v=f2WMnIFP2MI
 youtube_url: https://www.youtube.com/watch?v=f2WMnIFP2MI
 tags: ["AI ethics", "AI-generated code", "Conference", "PyConDE", "PyData", "PyData Berlin", "PyLadies", "Python", "Python Software Foundation", "Tech Talk", "care work", "feminist technology", "open source sustainability", "software maintenance", "sustainable development", "tech culture", "tech inequality", "tech labor"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

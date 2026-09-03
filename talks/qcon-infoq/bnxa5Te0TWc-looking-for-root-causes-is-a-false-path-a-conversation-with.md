@@ -4,7 +4,7 @@ title: "Looking for Root Causes is a False Path: A Conversation with David Blank
 slug: looking-for-root-causes-is-a-false-path-a-conversation-with
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: bnxa5Te0TWc
 url: https://www.youtube.com/watch?v=bnxa5Te0TWc
 youtube_url: https://www.youtube.com/watch?v=bnxa5Te0TWc
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

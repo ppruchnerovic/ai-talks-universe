@@ -4,7 +4,7 @@ title: "GTM Engineering: The Technical Bits — Everett Berry, Clay"
 slug: gtm-engineering-the-technical-bits-everett-berry-clay
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Everett Berry"]
@@ -15,6 +15,7 @@ video_id: UhCY231d0FQ
 url: https://www.youtube.com/watch?v=UhCY231d0FQ
 youtube_url: https://www.youtube.com/watch?v=UhCY231d0FQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

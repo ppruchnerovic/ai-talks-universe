@@ -4,7 +4,7 @@ title: "Physical AI for the Next Wave of Industrial Digitalisation"
 slug: physical-ai-for-the-next-wave-of-industrial-digitalisation
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Sergio Perez"]
@@ -15,6 +15,7 @@ video_id: bQ7cnXFETD0
 url: https://www.youtube.com/watch?v=bQ7cnXFETD0
 youtube_url: https://www.youtube.com/watch?v=bQ7cnXFETD0
 tags: ["AI Engineering", "AI Standards", "Open Source", "OpenAI", "Robotics"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

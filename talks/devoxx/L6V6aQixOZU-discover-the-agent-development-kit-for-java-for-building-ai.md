@@ -4,7 +4,7 @@ title: "Discover the Agent Development Kit for Java for building AI agents by Gu
 slug: discover-the-agent-development-kit-for-java-for-building-ai
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Guillaume Laforge"]
@@ -15,6 +15,7 @@ video_id: L6V6aQixOZU
 url: https://www.youtube.com/watch?v=L6V6aQixOZU
 youtube_url: https://www.youtube.com/watch?v=L6V6aQixOZU
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

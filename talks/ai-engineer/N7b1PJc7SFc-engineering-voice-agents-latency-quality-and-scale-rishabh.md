@@ -4,7 +4,7 @@ title: "Engineering voice agents: Latency, quality, and scale — Rishabh Bharga
 slug: engineering-voice-agents-latency-quality-and-scale-rishabh
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rishabh Bhargava"]
@@ -15,6 +15,7 @@ video_id: N7b1PJc7SFc
 url: https://www.youtube.com/watch?v=N7b1PJc7SFc
 youtube_url: https://www.youtube.com/watch?v=N7b1PJc7SFc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

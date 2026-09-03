@@ -7,7 +7,9 @@ Two layers are searched and merged:
     which also gives the timestamp — and a deep link — for each hit.
 
     python3 query.py "context engineering"
-    python3 query.py "prompt injection" --category "AI security"
+    python3 query.py "prompt injection" --category security   # one word of a label suffices
+    python3 query.py "agents" --category security --topic agents   # security-conference speakers on agents
+    python3 query.py "agent memory" --topic "RAG, retrieval & knowledge"
     python3 query.py "agents in production" --conference langchain-interrupt
     python3 query.py "evals" --year 2026 -n 20
     python3 query.py "agents -rag"             # every word but that one
@@ -21,6 +23,7 @@ Two layers are searched and merged:
     python3 query.py "mcp" --json --brief      # the same, at a third of the bytes
     python3 query.py --list-conferences        # what --conference accepts
     python3 query.py --list-categories         # what --category accepts
+    python3 query.py --list-topics             # what --topic accepts, with counts
 
 FTS5 syntax works: quoted "exact phrase", OR, NOT, prefix*, and column filters
 (`title:agents`, `speakers:"harrison chase"`, `{title tags}:rag`,
@@ -439,7 +442,7 @@ DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 def build_filters(conference=None, category=None, year=None, min_year=None, max_year=None,
                   transcript=False, speaker=None, min_duration=None, max_duration=None,
-                  since=None, before=None, exact_timing=False) -> Filters:
+                  since=None, before=None, exact_timing=False, topic=None) -> Filters:
     """Every --flag that narrows the talks table, as one WHERE fragment.
 
     A date bound compares `published_at` as text — it is ISO 8601, which sorts
@@ -447,7 +450,9 @@ def build_filters(conference=None, category=None, year=None, min_year=None, max_
     date falls back to the year, which every talk has: a 2025 talk with no
     date is inside `--since 2025-06-01`, since all we know is its year and
     the year qualifies. `--speaker` is a case-insensitive substring of the
-    comma-joined speakers column (ASCII case only — SQLite's LIKE).
+    comma-joined speakers column (ASCII case only — SQLite's LIKE). Topics
+    are multi-valued, so `--topic` is membership in the join table, and
+    several values are OR-ed as several `--conference` values are.
     """
     where, params = [], {}
     for col, vals in (("conference", conference), ("category", category), ("year", year)):
@@ -474,6 +479,15 @@ def build_filters(conference=None, category=None, year=None, min_year=None, max_
     if speaker:
         where.append("t.speakers LIKE :speaker ESCAPE '\\'")
         params["speaker"] = "%" + re.sub(r"([%_\\])", r"\\\1", speaker) + "%"
+    # Topics are multi-valued, so the test is membership in the join table
+    # rather than equality on a column. Several --topic values are OR-ed, as
+    # several --conference values are: any of them admits the talk.
+    topics = [v for v in (topic or []) if v]
+    if topics:
+        keys = [f"topic{i}" for i in range(len(topics))]
+        where.append("t.n IN (SELECT talk_n FROM talk_topics WHERE topic IN "
+                     f"({', '.join(':' + k for k in keys)}))")
+        params.update(zip(keys, topics))
     if transcript:
         where.append("t.has_transcript = 1")
     if exact_timing:
@@ -927,7 +941,7 @@ def chunks(seq: list, size: int = 400):
 
 
 TALK_COLUMNS = ("id title speakers conference conference_name category edition year channel tags "
-                "duration_min published_at url youtube_url has_transcript timing").split()
+                "duration_min published_at url youtube_url has_transcript timing topics").split()
 
 
 def add_columns(con, hits: list[dict]) -> None:
@@ -937,6 +951,9 @@ def add_columns(con, hits: list[dict]) -> None:
         sql = f"SELECT n, {','.join(TALK_COLUMNS)} FROM talks WHERE n IN ({','.join('?' * len(ids))})"
         for row in con.execute(sql, ids):
             todo[row[0]].update(zip(TALK_COLUMNS, row[1:]))
+    for h in hits:
+        if isinstance(h.get("topics"), str):
+            h["topics"] = json.loads(h["topics"] or "[]")
 
 
 def add_snippets(con, meta_q: str | None, seg_q: str | None, ranked: list[dict]) -> None:
@@ -1027,7 +1044,15 @@ def norm(s) -> str:
 
 
 def facet(con, col: str) -> list[tuple]:
-    """(value, label, count) for every value of a filterable column."""
+    """(value, label, count) for every value of a filterable column.
+
+    `topic` is not a column but a join table, since a talk carries several;
+    its counts are talks per topic, and they sum to more than the corpus.
+    """
+    if col == "topic":
+        return con.execute(
+            "SELECT topic, topic, count(*) FROM talk_topics GROUP BY topic ORDER BY 1"
+        ).fetchall()
     label = "max(conference_name)" if col == "conference" else col
     return con.execute(
         f"SELECT {col}, {label}, count(*) FROM talks "
@@ -1062,6 +1087,20 @@ def resolve(con, col: str, value, listing: str | None):
     want = norm(value)
     if want in index:
         return index[want]
+    # One word of a longer label is enough when it names exactly one value:
+    # `--topic evals` is "Evals, observability & reliability", `--conference
+    # build` is Microsoft Build. Said on stderr, so --json output stays clean
+    # and nobody wonders what "evals" was taken to mean.
+    partial = {v for k, v in index.items() if want in k.split() or k.startswith(want)}
+    if len(partial) > 1:
+        # "agents" is in two topic names; the one it *heads* is the one it
+        # names. "Agents & orchestration", not "Coding assistants & agents".
+        partial = {v for k, v in index.items() if k.startswith(want)}
+    if len(partial) == 1:
+        found = partial.pop()
+        if norm(found) != want:
+            warn(f"--{col.replace('_', '-')} {value!r} taken as {found!r}")
+        return found
 
     lines = [f"--{col.replace('_', '-')} {value!r} matches nothing"]
     close = difflib.get_close_matches(want, list(index), n=3, cutoff=0.55)
@@ -1122,9 +1161,13 @@ def stats(con) -> dict:
     confs = [{"conference": c, "name": name, "talks": n, "transcripts": t} for c, name, n, t in con.execute(
         "SELECT conference, max(conference_name), count(*), sum(has_transcript) FROM talks "
         "GROUP BY conference ORDER BY count(*) DESC, conference")]
+    topics = [{"topic": tp, "talks": n} for tp, n in con.execute(
+        "SELECT topic, count(*) FROM talk_topics GROUP BY topic ORDER BY count(*) DESC, topic")]
+    untopical, = con.execute("SELECT count(*) FROM talks WHERE topics = '[]'").fetchone()
     return {"talks": total, "transcripts": with_tr, "transcripts_exact_timing": exact,
             "transcripts_estimated_timing": with_tr - exact,
-            "conferences": len(confs), "years": years, "by_conference": confs}
+            "conferences": len(confs), "years": years, "by_conference": confs,
+            "by_topic": topics, "talks_without_topic": untopical}
 
 
 def print_stats(con) -> None:
@@ -1140,6 +1183,9 @@ def print_stats(con) -> None:
     print("\nconference                    talks  transcripts")
     for c in st["by_conference"]:
         print(f"{c['conference']:<28} {c['talks']:>6}  {c['transcripts']:>6}")
+    print(f"\ntopic (a talk may carry several; {st['talks_without_topic']:,} carry none)   talks")
+    for tp in st["by_topic"]:
+        print(f"{tp['topic']:<44} {tp['talks']:>6}")
 
 
 # ── output ───────────────────────────────────────────────────────────────────
@@ -1204,6 +1250,8 @@ def render(hits: list[dict], show_moments: bool, explain: bool = False) -> None:
               + (f"  {DIM}· match: {', '.join(h['matched'])}{OFF}" if h["matched"] else ""))
         if h.get("also"):
             print(f"   {DIM}(also: {', '.join(h['also'])}){OFF}")
+        if h["topics"]:
+            print(f"   {DIM}topics: {' · '.join(h['topics'])}{OFF}")
         if explain and h["score"] is not None:
             if "via" in h:
                 print(f"   {DIM}score {h['score']:.3f} fused by rank, via {h['via']}"
@@ -1252,7 +1300,7 @@ def render_facets(total: int, facets: dict[str, dict], top: int = 12) -> None:
 # tags, the publication timestamp or a second snippet of the same description
 # — on a 12-hit result set those fields are most of the bytes and none of the
 # decision.
-BRIEF = ("id title speakers conference year duration_min url "
+BRIEF = ("id title speakers conference year topics duration_min url "
          "has_transcript timing score snippet snippet_from matched also via").split()
 
 # Moments shown per hit under --brief. One passage says whether the talk is
@@ -1388,7 +1436,13 @@ def main() -> None:
                          "--per-year, no cap)")
     ap.add_argument("--conference", action="append",
                     help="conference slug or name, e.g. ai-engineer; repeatable")
-    ap.add_argument("--category", action="append", help='e.g. "AI security"; repeatable')
+    ap.add_argument("--category", action="append",
+                    help='conference type, the kind of venue a talk was given at — one of '
+                         'five registry labels, e.g. "Security conferences" or just '
+                         '"security"; repeatable. For what a talk is *about*, see --topic')
+    ap.add_argument("--topic", action="append",
+                    help='a per-talk topic, e.g. "evals" or "RAG, retrieval & knowledge"; '
+                         'repeatable, any of them admits a talk — see --list-topics')
     ap.add_argument("--year", type=year_int, action="append", help="repeatable")
     ap.add_argument("--min-year", type=year_int, metavar="YYYY", help="this year onwards")
     ap.add_argument("--max-year", type=year_int, metavar="YYYY", help="up to this year")
@@ -1418,7 +1472,10 @@ def main() -> None:
     ap.add_argument("--list-conferences", action="store_true",
                     help="print the conferences --conference accepts, and exit")
     ap.add_argument("--list-categories", action="store_true",
-                    help="print the categories --category accepts, and exit")
+                    help="print the conference types --category accepts, and exit")
+    ap.add_argument("--list-topics", action="store_true",
+                    help="print the topics --topic accepts, with how many talks carry "
+                         "each, and exit")
     ap.add_argument("--stats", action="store_true",
                     help="how many talks, transcripts, conferences and years the corpus "
                          "has, per year and per conference, and exit (--json for data)")
@@ -1468,8 +1525,9 @@ def main() -> None:
         else:
             print_stats(con)
         return
-    if args.list_conferences or args.list_categories:
-        print_facet(con, "conference" if args.list_conferences else "category")
+    if args.list_conferences or args.list_categories or args.list_topics:
+        print_facet(con, "conference" if args.list_conferences
+                    else "category" if args.list_categories else "topic")
         return
     if args.per_conference and args.per_year:
         ap.error("--per-conference and --per-year are one or the other")
@@ -1485,6 +1543,7 @@ def main() -> None:
         min_year=args.min_year, max_year=args.max_year, transcript=args.transcript,
         speaker=args.speaker, min_duration=args.min_duration, max_duration=args.max_duration,
         since=args.since, before=args.before, exact_timing=args.exact_timing,
+        topic=[resolve(con, "topic", t, "--list-topics") for t in args.topic or []],
     )
     raw = " ".join(args.query)
     parsed = parse_query(raw)

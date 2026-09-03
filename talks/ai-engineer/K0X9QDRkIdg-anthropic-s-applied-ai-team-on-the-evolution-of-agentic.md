@@ -4,7 +4,7 @@ title: "Anthropic's Applied AI team on the Evolution of Agentic Surfaces"
 slug: anthropic-s-applied-ai-team-on-the-evolution-of-agentic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: K0X9QDRkIdg
 url: https://www.youtube.com/watch?v=K0X9QDRkIdg
 youtube_url: https://www.youtube.com/watch?v=K0X9QDRkIdg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Breaking the Chain: Agent Continuations for Resumable AI Workflows - Gre
 slug: breaking-the-chain-agent-continuations-for-resumable-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Greg Benson"]
@@ -15,6 +15,7 @@ video_id: ZB7l4uxW3Yo
 url: https://www.youtube.com/watch?v=ZB7l4uxW3Yo
 youtube_url: https://www.youtube.com/watch?v=ZB7l4uxW3Yo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

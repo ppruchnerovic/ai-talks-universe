@@ -4,7 +4,7 @@ title: "Building LinkedIn's GenAI Platform — Xiaofeng Wang"
 slug: building-linkedin-s-genai-platform-xiaofeng-wang
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Xiaofeng Wang"]
@@ -15,6 +15,7 @@ video_id: n9rjuBuShko
 url: https://www.youtube.com/watch?v=n9rjuBuShko
 youtube_url: https://www.youtube.com/watch?v=n9rjuBuShko
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

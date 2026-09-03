@@ -4,7 +4,7 @@ title: "Lessons Learned Building the Ultimate AI Bug Reporter - Adam Cogan - NDC
 slug: lessons-learned-building-the-ultimate-ai-bug-reporter-adam
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Adam Cogan"]
@@ -15,6 +15,7 @@ video_id: 1Wu4fvmC3gI
 url: https://www.youtube.com/watch?v=1Wu4fvmC3gI
 youtube_url: https://www.youtube.com/watch?v=1Wu4fvmC3gI
 tags: []
+topics: []
 transcript: false
 ---
 

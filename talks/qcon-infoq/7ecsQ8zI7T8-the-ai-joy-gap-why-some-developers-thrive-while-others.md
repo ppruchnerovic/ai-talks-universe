@@ -4,7 +4,7 @@ title: "The AI Joy Gap: Why Some Developers Thrive While Others Struggle"
 slug: the-ai-joy-gap-why-some-developers-thrive-while-others
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7ecsQ8zI7T8
 url: https://www.youtube.com/watch?v=7ecsQ8zI7T8
 youtube_url: https://www.youtube.com/watch?v=7ecsQ8zI7T8
 tags: []
+topics: []
 transcript: true
 ---
 

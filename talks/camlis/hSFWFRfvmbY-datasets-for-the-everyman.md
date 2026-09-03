@@ -4,7 +4,7 @@ title: "Datasets for the Everyman"
 slug: datasets-for-the-everyman
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []
@@ -15,6 +15,7 @@ video_id: hSFWFRfvmbY
 url: https://www.youtube.com/watch?v=hSFWFRfvmbY
 youtube_url: https://www.youtube.com/watch?v=hSFWFRfvmbY
 tags: ["camlis", "camlis2018"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

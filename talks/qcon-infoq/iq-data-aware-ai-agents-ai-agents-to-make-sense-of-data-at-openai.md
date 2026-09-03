@@ -4,7 +4,7 @@ title: "AI Agents to Make Sense of Data at OpenAI"
 slug: ai-agents-to-make-sense-of-data-at-openai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Bonnie Xu"]
@@ -15,6 +15,7 @@ video_id: iq-data-aware-ai-agents
 url: https://www.infoq.com/presentations/data-aware-ai-agents/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

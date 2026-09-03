@@ -4,7 +4,7 @@ title: "Responsible AI is saving lives with Centru AI | STUDIO49"
 slug: responsible-ai-is-saving-lives-with-centru-ai-studio49
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: mYjhwUSCJOA
 url: https://www.youtube.com/watch?v=mYjhwUSCJOA
 youtube_url: https://www.youtube.com/watch?v=mYjhwUSCJOA
 tags: ["English (US)", "Other", "Responsible AI is saving lives with Centru AI | STUDIO49", "STUDIO49", "STUDIO49_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

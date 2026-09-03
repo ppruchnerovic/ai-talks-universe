@@ -4,7 +4,7 @@ title: "Scaling GitHub for your Agents — Sam Morrow, GitHub"
 slug: scaling-github-for-your-agents-sam-morrow-github
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sam Morrow"]
@@ -15,6 +15,7 @@ video_id: 0n3MKk7r60w
 url: https://www.youtube.com/watch?v=0n3MKk7r60w
 youtube_url: https://www.youtube.com/watch?v=0n3MKk7r60w
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

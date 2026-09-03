@@ -4,7 +4,7 @@ title: "Your Fine-Tuned Model Is Tech Debt: A 50x ROI House of Cards — Dan Bjo
 slug: your-fine-tuned-model-is-tech-debt-a-50x-roi-house-of-cards
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dan Bjornn"]
@@ -15,6 +15,7 @@ video_id: 4loPnxvWWhg
 url: https://www.youtube.com/watch?v=4loPnxvWWhg
 youtube_url: https://www.youtube.com/watch?v=4loPnxvWWhg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

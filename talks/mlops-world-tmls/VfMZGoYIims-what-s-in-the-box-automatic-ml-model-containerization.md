@@ -4,7 +4,7 @@ title: "What's in the Box: Automatic ML Model Containerization"
 slug: what-s-in-the-box-automatic-ml-model-containerization
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Clayton Davis"]
@@ -15,6 +15,7 @@ video_id: VfMZGoYIims
 url: https://www.youtube.com/watch?v=VfMZGoYIims
 youtube_url: https://www.youtube.com/watch?v=VfMZGoYIims
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

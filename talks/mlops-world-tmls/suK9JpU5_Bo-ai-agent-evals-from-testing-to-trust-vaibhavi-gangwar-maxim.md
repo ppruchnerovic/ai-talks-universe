@@ -4,7 +4,7 @@ title: "AI Agent Evals: From Testing to Trust | Vaibhavi Gangwar, Maxim AI"
 slug: ai-agent-evals-from-testing-to-trust-vaibhavi-gangwar-maxim
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Vaibhavi Gangwar"]
@@ -15,6 +15,7 @@ video_id: suK9JpU5_Bo
 url: https://www.youtube.com/watch?v=suK9JpU5_Bo
 youtube_url: https://www.youtube.com/watch?v=suK9JpU5_Bo
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

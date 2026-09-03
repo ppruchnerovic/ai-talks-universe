@@ -4,7 +4,7 @@ title: "Solving Architectural Entropy With Runnable Diagrams"
 slug: solving-architectural-entropy-with-runnable-diagrams
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Mourjo Sen"]
@@ -15,6 +15,7 @@ video_id: NRgICDRXGQg
 url: https://www.youtube.com/watch?v=NRgICDRXGQg
 youtube_url: https://www.youtube.com/watch?v=NRgICDRXGQg
 tags: ["Software Architecture", "Software Architecture", "System Design"]
+topics: []
 transcript: true
 ---
 

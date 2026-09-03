@@ -4,7 +4,7 @@ title: "Building A Unified Observability Layer For AI Systems With Aim, Gev Sogo
 slug: building-a-unified-observability-layer-for-ai-systems-with
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: N6S-DZPXI40
 url: https://www.youtube.com/watch?v=N6S-DZPXI40
 youtube_url: https://www.youtube.com/watch?v=N6S-DZPXI40
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

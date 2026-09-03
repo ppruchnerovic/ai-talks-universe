@@ -4,7 +4,7 @@ title: "Elevate the Chrome Extensions developer experience"
 slug: elevate-the-chrome-extensions-developer-experience
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Kevin Bay", "Oliver Dunk"]
@@ -15,6 +15,7 @@ video_id: g2qrMnvvL6E
 url: https://www.youtube.com/watch?v=g2qrMnvvL6E
 youtube_url: https://www.youtube.com/watch?v=g2qrMnvvL6E
 tags: ["Chrome", "Developers", "Google", "Web", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Chrome;"]
+topics: ["AI in the SDLC & engineering orgs", "Classic ML & data science"]
 transcript: true
 ---
 

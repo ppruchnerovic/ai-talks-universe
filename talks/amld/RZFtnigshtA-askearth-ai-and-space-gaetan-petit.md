@@ -4,7 +4,7 @@ title: "AskEarth | AI and Space | Gaetan Petit"
 slug: askearth-ai-and-space-gaetan-petit
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Gaetan Petit"]
@@ -15,6 +15,7 @@ video_id: RZFtnigshtA
 url: https://www.youtube.com/watch?v=RZFtnigshtA
 youtube_url: https://www.youtube.com/watch?v=RZFtnigshtA
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

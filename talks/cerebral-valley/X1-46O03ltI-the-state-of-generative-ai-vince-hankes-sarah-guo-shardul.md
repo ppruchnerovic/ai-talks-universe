@@ -4,7 +4,7 @@ title: "The State of Generative AI: Vince Hankes, Sarah Guo, & Shardul Shah with
 slug: the-state-of-generative-ai-vince-hankes-sarah-guo-shardul
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: X1-46O03ltI
 url: https://www.youtube.com/watch?v=X1-46O03ltI
 youtube_url: https://www.youtube.com/watch?v=X1-46O03ltI
 tags: []
+topics: ["Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Through the AI Fog: The Architectural Decision Agentic Security Depends 
 slug: through-the-ai-fog-the-architectural-decision-agentic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Manoj Nair"]
@@ -15,6 +15,7 @@ video_id: 1EZdpEhwmNc
 url: https://www.youtube.com/watch?v=1EZdpEhwmNc
 youtube_url: https://www.youtube.com/watch?v=1EZdpEhwmNc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

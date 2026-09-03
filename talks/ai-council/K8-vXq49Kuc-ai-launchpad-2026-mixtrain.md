@@ -4,7 +4,7 @@ title: "AI Launchpad 2026: Mixtrain"
 slug: ai-launchpad-2026-mixtrain
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: K8-vXq49Kuc
 url: https://www.youtube.com/watch?v=K8-vXq49Kuc
 youtube_url: https://www.youtube.com/watch?v=K8-vXq49Kuc
 tags: ["AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

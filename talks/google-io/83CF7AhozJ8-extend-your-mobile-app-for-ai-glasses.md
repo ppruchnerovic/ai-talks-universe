@@ -4,7 +4,7 @@ title: "Extend your mobile app for AI glasses"
 slug: extend-your-mobile-app-for-ai-glasses
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Kathleen Bryan", "Adhithya Ramakumar"]
@@ -15,6 +15,7 @@ video_id: 83CF7AhozJ8
 url: https://www.youtube.com/watch?v=83CF7AhozJ8
 youtube_url: https://www.youtube.com/watch?v=83CF7AhozJ8
 tags: ["Android", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Android;"]
+topics: []
 transcript: true
 ---
 

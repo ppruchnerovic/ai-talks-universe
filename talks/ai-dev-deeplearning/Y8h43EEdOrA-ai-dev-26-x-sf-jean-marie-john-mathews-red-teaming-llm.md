@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF: Jean-Marie John-Mathews: Red Teaming LLM Applications Sy
 slug: ai-dev-26-x-sf-jean-marie-john-mathews-red-teaming-llm
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Y8h43EEdOrA
 url: https://www.youtube.com/watch?v=Y8h43EEdOrA
 youtube_url: https://www.youtube.com/watch?v=Y8h43EEdOrA
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

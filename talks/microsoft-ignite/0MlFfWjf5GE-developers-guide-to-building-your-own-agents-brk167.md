@@ -4,7 +4,7 @@ title: "Developers guide to building your own agents | BRK167"
 slug: developers-guide-to-building-your-own-agents-brk167
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Matthew Barbour", "Sébastien Levert", "Jeremy Thake"]
@@ -15,6 +15,7 @@ video_id: 0MlFfWjf5GE
 url: https://www.youtube.com/watch?v=0MlFfWjf5GE
 youtube_url: https://www.youtube.com/watch?v=0MlFfWjf5GE
 tags: ["BRK167", "Breakout", "Business Applications", "Business Applications-Curated", "Developers guide to building your own agents | BRK167", "English (US)", "Jeremy Thake", "Matthew Barbour", "Sébastien Levert", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

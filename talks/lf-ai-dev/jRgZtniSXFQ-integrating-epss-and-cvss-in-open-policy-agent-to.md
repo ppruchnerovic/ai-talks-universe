@@ -4,7 +4,7 @@ title: "Integrating EPSS and CVSS in Open Policy Agent To Quarantine Real-world 
 slug: integrating-epss-and-cvss-in-open-policy-agent-to
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: jRgZtniSXFQ
 url: https://www.youtube.com/watch?v=jRgZtniSXFQ
 youtube_url: https://www.youtube.com/watch?v=jRgZtniSXFQ
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

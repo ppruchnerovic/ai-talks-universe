@@ -4,7 +4,7 @@ title: "Agentic Hacking or Agents Hacked"
 slug: agentic-hacking-or-agents-hacked
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: YsEIXXwtFkE
 url: https://www.youtube.com/watch?v=YsEIXXwtFkE
 youtube_url: https://www.youtube.com/watch?v=YsEIXXwtFkE
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: true
 ---
 

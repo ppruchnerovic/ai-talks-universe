@@ -4,7 +4,7 @@ title: "7 Anti-Lessons from Building a PydanticAI Agent: Mistakes We Made So You
 slug: 7-anti-lessons-from-building-a-pydanticai-agent-mistakes-we
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Joshua Görner"]
@@ -15,6 +15,7 @@ video_id: MTyO3W7MYTs
 url: https://www.youtube.com/watch?v=MTyO3W7MYTs
 youtube_url: https://www.youtube.com/watch?v=MTyO3W7MYTs
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: true
 ---
 

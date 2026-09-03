@@ -4,7 +4,7 @@ title: "How GitHub Copilot helped SAP reimagine the developer experience"
 slug: how-github-copilot-helped-sap-reimagine-the-developer
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: wGmCYMiIoUc
 url: https://www.youtube.com/watch?v=wGmCYMiIoUc
 youtube_url: https://www.youtube.com/watch?v=wGmCYMiIoUc
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Architectural Patterns: Moving Beyond Cloud-Native to Local-First - Insi
 slug: architectural-patterns-moving-beyond-cloud-native-to-local
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Fkk8ttH3sLg
 url: https://www.youtube.com/watch?v=Fkk8ttH3sLg
 youtube_url: https://www.youtube.com/watch?v=Fkk8ttH3sLg
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Building solution practices for Microsoft Cloud for Sustainability | BRK
 slug: building-solution-practices-for-microsoft-cloud-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Shelly Bakke", "Arminder Singh"]
@@ -15,6 +15,7 @@ video_id: s-H0yP6vLus
 url: https://www.youtube.com/watch?v=s-H0yP6vLus
 youtube_url: https://www.youtube.com/watch?v=s-H0yP6vLus
 tags: ["Arminder Singh", "Azure", "BRK269", "Breakout", "Building solution practices for Microsoft Cloud for Sustainability | BRK269", "Copilot", "English (US)", "ISV", "Industry", "Industry for Partner", "Industry-Curated", "Intermediate (200)", "Partner Business", "SI", "Shelly Bakke", "Solution Area", "Sustainability", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

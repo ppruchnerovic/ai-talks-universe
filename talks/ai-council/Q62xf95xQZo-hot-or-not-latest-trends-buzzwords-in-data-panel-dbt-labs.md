@@ -4,7 +4,7 @@ title: "Hot or Not: Latest Trends & Buzzwords in Data | Panel: dbt labs, Hex, We
 slug: hot-or-not-latest-trends-buzzwords-in-data-panel-dbt-labs
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: Q62xf95xQZo
 url: https://www.youtube.com/watch?v=Q62xf95xQZo
 youtube_url: https://www.youtube.com/watch?v=Q62xf95xQZo
 tags: ["streaming", "data trends", "data mesh", "SQL"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

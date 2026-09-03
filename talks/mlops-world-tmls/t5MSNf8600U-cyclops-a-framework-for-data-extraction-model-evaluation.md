@@ -4,7 +4,7 @@ title: "CyclOps - A framework for Data Extraction, Model Evaluation and Drift De
 slug: cyclops-a-framework-for-data-extraction-model-evaluation
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Amrit Krishnan"]
@@ -15,6 +15,7 @@ video_id: t5MSNf8600U
 url: https://www.youtube.com/watch?v=t5MSNf8600U
 youtube_url: https://www.youtube.com/watch?v=t5MSNf8600U
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

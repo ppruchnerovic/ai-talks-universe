@@ -4,7 +4,7 @@ title: "NOMU: Neural Optimization-based Model Uncertainty | Advances of ML Appro
 slug: nomu-neural-optimization-based-model-uncertainty-advances
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Jakob Heiss"]
@@ -15,6 +15,7 @@ video_id: 6HI9Vi4L1Jo
 url: https://www.youtube.com/watch?v=6HI9Vi4L1Jo
 youtube_url: https://www.youtube.com/watch?v=6HI9Vi4L1Jo
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

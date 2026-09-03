@@ -4,7 +4,7 @@ title: "Vibe coding in prod | Code w/ Claude"
 slug: vibe-coding-in-prod-code-w-claude
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fHWFF_pnqDk
 url: https://www.youtube.com/watch?v=fHWFF_pnqDk
 youtube_url: https://www.youtube.com/watch?v=fHWFF_pnqDk
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Be curious, not judgemental - Sergiy Dybskiy - NDC Toronto 2026"
 slug: be-curious-not-judgemental-sergiy-dybskiy-ndc-toronto-2026
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Sergiy Dybskiy"]
@@ -15,6 +15,7 @@ video_id: 1wZRxVD1lqc
 url: https://www.youtube.com/watch?v=1wZRxVD1lqc
 youtube_url: https://www.youtube.com/watch?v=1wZRxVD1lqc
 tags: ["Work skills", "Tools", "GenAI", "Soft Skills", "People", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Sergiy Dybskiy"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

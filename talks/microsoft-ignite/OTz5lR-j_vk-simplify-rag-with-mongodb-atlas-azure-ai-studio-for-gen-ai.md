@@ -4,7 +4,7 @@ title: "Simplify RAG with MongoDB Atlas + Azure AI Studio for gen AI apps | ODFP
 slug: simplify-rag-with-mongodb-atlas-azure-ai-studio-for-gen-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Diana Annie Jenosh", "Linda Li"]
@@ -15,6 +15,7 @@ video_id: OTz5lR-j_vk
 url: https://www.youtube.com/watch?v=OTz5lR-j_vk
 youtube_url: https://www.youtube.com/watch?v=OTz5lR-j_vk
 tags: ["AI", "Diana Annie Jenosh", "English (US)", "Intermediate (200)", "Linda Li", "ODFP956", "Pre-recorded", "Simplify RAG with MongoDB Atlas + Azure AI Studio for gen AI apps | ODFP956", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

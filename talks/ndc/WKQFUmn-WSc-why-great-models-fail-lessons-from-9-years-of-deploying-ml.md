@@ -4,7 +4,7 @@ title: "Why Great Models Fail: Lessons From 9 Years of Deploying ML Models - Meg
 slug: why-great-models-fail-lessons-from-9-years-of-deploying-ml
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Megan Robertson"]
@@ -15,6 +15,7 @@ video_id: WKQFUmn-WSc
 url: https://www.youtube.com/watch?v=WKQFUmn-WSc
 youtube_url: https://www.youtube.com/watch?v=WKQFUmn-WSc
 tags: ["Machine Learning", "Big Data", "Fun", "NDC", "Conferences", "2026", "Live", "Toronto", "Canada", "Megan Robertson"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

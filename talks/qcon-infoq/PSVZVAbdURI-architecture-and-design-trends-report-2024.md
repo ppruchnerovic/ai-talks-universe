@@ -4,7 +4,7 @@ title: "Architecture and Design Trends Report 2024"
 slug: architecture-and-design-trends-report-2024
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: PSVZVAbdURI
 url: https://www.youtube.com/watch?v=PSVZVAbdURI
 youtube_url: https://www.youtube.com/watch?v=PSVZVAbdURI
 tags: []
+topics: []
 transcript: false
 ---
 

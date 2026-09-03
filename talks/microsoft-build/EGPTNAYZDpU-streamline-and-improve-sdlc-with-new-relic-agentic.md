@@ -4,7 +4,7 @@ title: "Streamline and improve SDLC with New Relic Agentic Integration | DEMFP79
 slug: streamline-and-improve-sdlc-with-new-relic-agentic
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: EGPTNAYZDpU
 url: https://www.youtube.com/watch?v=EGPTNAYZDpU
 youtube_url: https://www.youtube.com/watch?v=EGPTNAYZDpU
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

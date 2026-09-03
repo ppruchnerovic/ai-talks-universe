@@ -4,7 +4,7 @@ title: "DevOps for AI: running LLMs in production with Kubernetes and KubeFlow"
 slug: devops-for-ai-running-llms-in-production-with-kubernetes
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: uVRz5BxPoog
 url: https://www.youtube.com/watch?v=uVRz5BxPoog
 youtube_url: https://www.youtube.com/watch?v=uVRz5BxPoog
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

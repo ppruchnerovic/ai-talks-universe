@@ -4,7 +4,7 @@ title: "Christopher Kirchoff and DJ Patil: AI in Government"
 slug: christopher-kirchoff-and-dj-patil-ai-in-government
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Wo1lxiR9azE
 url: https://www.youtube.com/watch?v=Wo1lxiR9azE
 youtube_url: https://www.youtube.com/watch?v=Wo1lxiR9azE
 tags: []
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Techniques for Improving Communication and Connection in Technical and S
 slug: techniques-for-improving-communication-and-connection-in
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: upwTQLkTeAo
 url: https://www.youtube.com/watch?v=upwTQLkTeAo
 youtube_url: https://www.youtube.com/watch?v=upwTQLkTeAo
 tags: []
+topics: []
 transcript: false
 ---
 

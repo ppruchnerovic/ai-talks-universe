@@ -4,7 +4,7 @@ title: "Alex Graveley - Omniscient Agents"
 slug: alex-graveley-omniscient-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Alex Graveley"]
@@ -15,6 +15,7 @@ video_id: yuIDarp_ly8
 url: https://www.youtube.com/watch?v=yuIDarp_ly8
 youtube_url: https://www.youtube.com/watch?v=yuIDarp_ly8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

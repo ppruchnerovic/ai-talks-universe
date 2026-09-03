@@ -4,7 +4,7 @@ title: "Graph RAG: Building Smarter Retrieval Workflows with Knowledge Graphs"
 slug: graph-rag-building-smarter-retrieval-workflows-with
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Cassie Shum"]
@@ -15,6 +15,7 @@ video_id: iq-graph-rag-llm
 url: https://www.infoq.com/presentations/graph-rag-llm/
 youtube_url: null
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

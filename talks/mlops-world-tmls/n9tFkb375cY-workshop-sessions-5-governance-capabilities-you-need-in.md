@@ -4,7 +4,7 @@ title: "Workshop Sessions: 5 Governance Capabilities You Need in MLOps"
 slug: workshop-sessions-5-governance-capabilities-you-need-in
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: n9tFkb375cY
 url: https://www.youtube.com/watch?v=n9tFkb375cY
 youtube_url: https://www.youtube.com/watch?v=n9tFkb375cY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Sessions: 5 Governance Capabilities You Need in MLOps", "5 Governance Capabilities"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

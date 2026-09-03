@@ -4,7 +4,7 @@ title: "Lightning Talks: Mozilla.ai Blueprints & any-suite - Empowering Devs to 
 slug: lightning-talks-mozilla-ai-blueprints-any-suite-empowering
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: aCLnIaoZ3H4
 url: https://www.youtube.com/watch?v=aCLnIaoZ3H4
 youtube_url: https://www.youtube.com/watch?v=aCLnIaoZ3H4
 tags: []
+topics: []
 transcript: false
 ---
 

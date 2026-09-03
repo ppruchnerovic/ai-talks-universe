@@ -4,7 +4,7 @@ title: "From Hours To Milliseconds: Scaling AI Inference 10x With... Anmol Krish
 slug: from-hours-to-milliseconds-scaling-ai-inference-10x-with
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: k6riIGSIEgU
 url: https://www.youtube.com/watch?v=k6riIGSIEgU
 youtube_url: https://www.youtube.com/watch?v=k6riIGSIEgU
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

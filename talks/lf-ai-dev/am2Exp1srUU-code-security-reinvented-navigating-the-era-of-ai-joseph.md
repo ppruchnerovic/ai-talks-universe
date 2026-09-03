@@ -4,7 +4,7 @@ title: "Code Security Reinvented: Navigating the Era of AI - Joseph Katsioloudes
 slug: code-security-reinvented-navigating-the-era-of-ai-joseph
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Joseph Katsioloudes"]
@@ -15,6 +15,7 @@ video_id: am2Exp1srUU
 url: https://www.youtube.com/watch?v=am2Exp1srUU
 youtube_url: https://www.youtube.com/watch?v=am2Exp1srUU
 tags: []
+topics: ["Coding assistants & agents", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "How AI is changing Software Engineering: A Conversation with Gergely Oro
 slug: how-ai-is-changing-software-engineering-a-conversation-with
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: CS5Cmz5FssI
 url: https://www.youtube.com/watch?v=CS5Cmz5FssI
 youtube_url: https://www.youtube.com/watch?v=CS5Cmz5FssI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

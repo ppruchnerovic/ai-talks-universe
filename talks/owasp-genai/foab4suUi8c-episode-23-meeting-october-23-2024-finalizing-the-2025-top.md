@@ -4,7 +4,7 @@ title: "Episode 23: Meeting October 23 2024 Finalizing The 2025 Top 10 And More!
 slug: episode-23-meeting-october-23-2024-finalizing-the-2025-top
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: foab4suUi8c
 url: https://www.youtube.com/watch?v=foab4suUi8c
 youtube_url: https://www.youtube.com/watch?v=foab4suUi8c
 tags: []
+topics: []
 transcript: false
 ---
 

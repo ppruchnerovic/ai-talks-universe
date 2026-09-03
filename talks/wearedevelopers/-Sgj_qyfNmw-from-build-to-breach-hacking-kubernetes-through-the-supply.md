@@ -4,7 +4,7 @@ title: "From Build to Breach: Hacking Kubernetes Through the Supply Chain"
 slug: from-build-to-breach-hacking-kubernetes-through-the-supply
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ali Alp"]
@@ -15,6 +15,7 @@ video_id: -Sgj_qyfNmw
 url: https://www.youtube.com/watch?v=-Sgj_qyfNmw
 youtube_url: https://www.youtube.com/watch?v=-Sgj_qyfNmw
 tags: ["Security & Privacy", "Cloud Security", "Security"]
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "From Chaos To Clarity: How MCP Transforms Incident Response - Sebastian 
 slug: from-chaos-to-clarity-how-mcp-transforms-incident-response
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Sebastian Villanelo", "Rocío Bayon"]
@@ -15,6 +15,7 @@ video_id: T8sx0-JP1DM
 url: https://www.youtube.com/watch?v=T8sx0-JP1DM
 youtube_url: https://www.youtube.com/watch?v=T8sx0-JP1DM
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

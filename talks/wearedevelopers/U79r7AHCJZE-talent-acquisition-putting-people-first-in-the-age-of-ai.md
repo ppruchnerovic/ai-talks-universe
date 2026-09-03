@@ -4,7 +4,7 @@ title: "Talent Acquisition: Putting People First in the Age of AI"
 slug: talent-acquisition-putting-people-first-in-the-age-of-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: U79r7AHCJZE
 url: https://www.youtube.com/watch?v=U79r7AHCJZE
 youtube_url: https://www.youtube.com/watch?v=U79r7AHCJZE
 tags: ["wearedevs", "wearedeveloperslive", "talent acquisition", "trends", "human-centric", "artificial intelligence", "people first", "HR", "AI", "community", "HR Leaders Summit", "TA", "Recruiting"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Polymorphic Mindset - Marina Santos Haugen - NDC AI 2026"
 slug: polymorphic-mindset-marina-santos-haugen-ndc-ai-2026
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Polymorphic Mindset", "Marina Santos Haugen"]
@@ -15,6 +15,7 @@ video_id: C37Wag4cuhU
 url: https://www.youtube.com/watch?v=C37Wag4cuhU
 youtube_url: https://www.youtube.com/watch?v=C37Wag4cuhU
 tags: ["AI", "AI Agent", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Marina Santos Haguen"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "LLMs in Practice A Guide to Recent Techniques and Trends"
 slug: llms-in-practice-a-guide-to-recent-techniques-and-trends
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Ville Tuulos"]
@@ -15,6 +15,7 @@ video_id: o_AwhzInKAE
 url: https://www.youtube.com/watch?v=o_AwhzInKAE
 youtube_url: https://www.youtube.com/watch?v=o_AwhzInKAE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

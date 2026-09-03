@@ -4,7 +4,7 @@ title: "Tracing the Digital Society | Natural Language Processing for GLAM | Rot
 slug: tracing-the-digital-society-natural-language-processing-for
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Kg3Kn6CTOzg
 url: https://www.youtube.com/watch?v=Kg3Kn6CTOzg
 youtube_url: https://www.youtube.com/watch?v=Kg3Kn6CTOzg
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

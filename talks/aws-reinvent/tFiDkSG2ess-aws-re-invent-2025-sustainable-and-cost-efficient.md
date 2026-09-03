@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Sustainable and cost-efficient generative AI with a
 slug: aws-re-invent-2025-sustainable-and-cost-efficient
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: tFiDkSG2ess
 url: https://www.youtube.com/watch?v=tFiDkSG2ess
 youtube_url: https://www.youtube.com/watch?v=tFiDkSG2ess
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "\"Looks Good to Me\": A Practical Guide to Handling AI-Generated Code - 
 slug: looks-good-to-me-a-practical-guide-to-handling-ai-generated
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Roman Zhukov"]
@@ -15,6 +15,7 @@ video_id: LnZDY6XC5pA
 url: https://www.youtube.com/watch?v=LnZDY6XC5pA
 youtube_url: https://www.youtube.com/watch?v=LnZDY6XC5pA
 tags: ["People", "Security", "DevOps", "Testing", "AI", "OWASP", "ChatGPT", "GitHub", "GitHub Copilot", "Cursor", "NDC", "Conferences", "2026", "Live", "Fun", "toronto", "Canada", "Code", "Roman Zhukov"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

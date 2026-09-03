@@ -4,7 +4,7 @@ title: "A Deep Dive on How To Leverage the NVIDIA GB200 for Ultra-Fast... Kevin 
 slug: a-deep-dive-on-how-to-leverage-the-nvidia-gb200-for-ultra
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Nlgp4T4kvdE
 url: https://www.youtube.com/watch?v=Nlgp4T4kvdE
 youtube_url: https://www.youtube.com/watch?v=Nlgp4T4kvdE
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

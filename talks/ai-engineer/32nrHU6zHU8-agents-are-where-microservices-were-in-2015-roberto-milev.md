@@ -4,7 +4,7 @@ title: "Agents Are Where Microservices Were in 2015 — Roberto Milev & Uday Kan
 slug: agents-are-where-microservices-were-in-2015-roberto-milev
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Roberto Milev", "Uday Kanagala"]
@@ -15,6 +15,7 @@ video_id: 32nrHU6zHU8
 url: https://www.youtube.com/watch?v=32nrHU6zHU8
 youtube_url: https://www.youtube.com/watch?v=32nrHU6zHU8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

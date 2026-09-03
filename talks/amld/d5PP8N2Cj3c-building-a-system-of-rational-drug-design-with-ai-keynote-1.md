@@ -4,7 +4,7 @@ title: "Building a system of rational drug design with AI | Keynote 1 | Sergei Y
 slug: building-a-system-of-rational-drug-design-with-ai-keynote-1
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Sergei Yakneen"]
@@ -15,6 +15,7 @@ video_id: d5PP8N2Cj3c
 url: https://www.youtube.com/watch?v=d5PP8N2Cj3c
 youtube_url: https://www.youtube.com/watch?v=d5PP8N2Cj3c
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

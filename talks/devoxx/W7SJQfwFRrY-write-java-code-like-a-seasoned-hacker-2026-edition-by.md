@@ -4,7 +4,7 @@ title: "Write Java Code Like a Seasoned Hacker: 2026 Edition by Soroosh Khodami"
 slug: write-java-code-like-a-seasoned-hacker-2026-edition-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Soroosh Khodami"]
@@ -15,6 +15,7 @@ video_id: W7SJQfwFRrY
 url: https://www.youtube.com/watch?v=W7SJQfwFRrY
 youtube_url: https://www.youtube.com/watch?v=W7SJQfwFRrY
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

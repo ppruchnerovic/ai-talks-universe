@@ -4,7 +4,7 @@ title: "Develop and integrate AI agents with Google Workspace"
 slug: develop-and-integrate-ai-agents-with-google-workspace
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Pierrick Voulet"]
@@ -15,6 +15,7 @@ video_id: erRPuV1EQ_c
 url: https://www.youtube.com/watch?v=erRPuV1EQ_c
 youtube_url: https://www.youtube.com/watch?v=erRPuV1EQ_c
 tags: ["pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Cloud;", "Enterprise agentic workflows", "Google Docs agent API", "Gmail Agent API", "Google Agent AI integration", "A2A Protocol", "Agent Development Kit (ADK)", "Google Workspace developer platform"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

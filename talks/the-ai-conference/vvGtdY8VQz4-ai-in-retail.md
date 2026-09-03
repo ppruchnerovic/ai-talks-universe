@@ -4,7 +4,7 @@ title: "AI in Retail"
 slug: ai-in-retail
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: vvGtdY8VQz4
 url: https://www.youtube.com/watch?v=vvGtdY8VQz4
 youtube_url: https://www.youtube.com/watch?v=vvGtdY8VQz4
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

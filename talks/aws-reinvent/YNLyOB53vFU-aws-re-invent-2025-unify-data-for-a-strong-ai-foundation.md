@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Unify Data for a Strong AI Foundation with AWS & Sa
 slug: aws-re-invent-2025-unify-data-for-a-strong-ai-foundation
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YNLyOB53vFU
 url: https://www.youtube.com/watch?v=YNLyOB53vFU
 youtube_url: https://www.youtube.com/watch?v=YNLyOB53vFU
 tags: []
+topics: []
 transcript: false
 ---
 

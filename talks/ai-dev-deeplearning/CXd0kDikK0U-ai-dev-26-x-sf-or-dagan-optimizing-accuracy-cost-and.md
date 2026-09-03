@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Or Dagan: Optimizing Accuracy, Cost, and Latency in Rea
 slug: ai-dev-26-x-sf-or-dagan-optimizing-accuracy-cost-and
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: CXd0kDikK0U
 url: https://www.youtube.com/watch?v=CXd0kDikK0U
 youtube_url: https://www.youtube.com/watch?v=CXd0kDikK0U
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

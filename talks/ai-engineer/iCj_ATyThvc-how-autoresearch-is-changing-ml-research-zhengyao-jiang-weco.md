@@ -4,7 +4,7 @@ title: "How Autoresearch is changing ML research — Zhengyao Jiang, Weco"
 slug: how-autoresearch-is-changing-ml-research-zhengyao-jiang-weco
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Zhengyao Jiang"]
@@ -15,6 +15,7 @@ video_id: iCj_ATyThvc
 url: https://www.youtube.com/watch?v=iCj_ATyThvc
 youtube_url: https://www.youtube.com/watch?v=iCj_ATyThvc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

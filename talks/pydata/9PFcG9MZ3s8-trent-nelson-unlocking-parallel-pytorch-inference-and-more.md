@@ -4,7 +4,7 @@ title: "Trent Nelson - Unlocking Parallel PyTorch Inference (and More!) | PyData
 slug: trent-nelson-unlocking-parallel-pytorch-inference-and-more
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Trent Nelson"]
@@ -15,6 +15,7 @@ video_id: 9PFcG9MZ3s8
 url: https://www.youtube.com/watch?v=9PFcG9MZ3s8
 youtube_url: https://www.youtube.com/watch?v=9PFcG9MZ3s8
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "[Session] MCP Project Update with Jerome Swannack, Member of Technical S
 slug: session-mcp-project-update-with-jerome-swannack-member-of
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: eMKyBHlqAm4
 url: https://www.youtube.com/watch?v=eMKyBHlqAm4
 youtube_url: https://www.youtube.com/watch?v=eMKyBHlqAm4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

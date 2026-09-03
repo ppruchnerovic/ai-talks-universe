@@ -4,7 +4,7 @@ title: "What Cloud Has Taught about Securing AI in the Future"
 slug: what-cloud-has-taught-about-securing-ai-in-the-future
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["John Yeoh"]
@@ -15,6 +15,7 @@ video_id: cCoXS-t4vao
 url: https://www.youtube.com/watch?v=cCoXS-t4vao
 youtube_url: https://www.youtube.com/watch?v=cCoXS-t4vao
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

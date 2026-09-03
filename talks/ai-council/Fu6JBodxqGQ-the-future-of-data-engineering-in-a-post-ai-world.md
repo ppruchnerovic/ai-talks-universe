@@ -4,7 +4,7 @@ title: "The Future of Data Engineering in a Post-AI World"
 slug: the-future-of-data-engineering-in-a-post-ai-world
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Michelle Ufford Winters"]
@@ -15,6 +15,7 @@ video_id: Fu6JBodxqGQ
 url: https://www.youtube.com/watch?v=Fu6JBodxqGQ
 youtube_url: https://www.youtube.com/watch?v=Fu6JBodxqGQ
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

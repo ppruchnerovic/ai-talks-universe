@@ -4,7 +4,7 @@ title: "DeepSpeed: Efficient Training Scalability for Deep Learning - Tunji Ruwa
 slug: deepspeed-efficient-training-scalability-for-deep-learning
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Tunji Ruwase"]
@@ -15,6 +15,7 @@ video_id: H_sCdQkp6jo
 url: https://www.youtube.com/watch?v=H_sCdQkp6jo
 youtube_url: https://www.youtube.com/watch?v=H_sCdQkp6jo
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

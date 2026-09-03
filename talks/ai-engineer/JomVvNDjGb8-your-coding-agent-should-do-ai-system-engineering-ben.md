@@ -4,7 +4,7 @@ title: "Your Coding Agent Should Do AI System Engineering — Ben Burtenshaw, Hu
 slug: your-coding-agent-should-do-ai-system-engineering-ben
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ben Burtenshaw"]
@@ -15,6 +15,7 @@ video_id: JomVvNDjGb8
 url: https://www.youtube.com/watch?v=JomVvNDjGb8
 youtube_url: https://www.youtube.com/watch?v=JomVvNDjGb8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Coding assistants & agents", "Evals, observability & reliability", "Prompting & context engineering", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

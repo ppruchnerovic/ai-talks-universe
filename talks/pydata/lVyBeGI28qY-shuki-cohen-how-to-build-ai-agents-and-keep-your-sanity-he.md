@@ -4,7 +4,7 @@ title: "Shuki Cohen: How to Build AI Agents and Keep Your Sanity (HE) | PyData T
 slug: shuki-cohen-how-to-build-ai-agents-and-keep-your-sanity-he
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: lVyBeGI28qY
 url: https://www.youtube.com/watch?v=lVyBeGI28qY
 youtube_url: https://www.youtube.com/watch?v=lVyBeGI28qY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The Missing Primitive for Agent Swarms — Lou Bichard, Ona"
 slug: the-missing-primitive-for-agent-swarms-lou-bichard-ona
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Lou Bichard"]
@@ -15,6 +15,7 @@ video_id: 5Sui_OnSRlY
 url: https://www.youtube.com/watch?v=5Sui_OnSRlY
 youtube_url: https://www.youtube.com/watch?v=5Sui_OnSRlY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

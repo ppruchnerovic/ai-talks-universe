@@ -4,7 +4,7 @@ title: "From OpenAI to Opensource AI: Navigating Between Commercial Ownership an
 slug: from-openai-to-opensource-ai-navigating-between-commercial
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Bgsln75ogMU
 url: https://www.youtube.com/watch?v=Bgsln75ogMU
 youtube_url: https://www.youtube.com/watch?v=Bgsln75ogMU
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "MLOps Platform Architecture for e2e ML Pipelines"
 slug: mlops-platform-architecture-for-e2e-ml-pipelines
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: A_MVfD7yun8
 url: https://www.youtube.com/watch?v=A_MVfD7yun8
 youtube_url: https://www.youtube.com/watch?v=A_MVfD7yun8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "MLOps Platform Architecture for e2e ML Pipelines", "MLOps Platform Architecture", "ML Pipelines", "e2e ML Pipelines"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Security, safety & red teaming"]
 transcript: false
 ---
 

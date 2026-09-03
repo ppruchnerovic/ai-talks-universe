@@ -4,7 +4,7 @@ title: "Tech Leadership Challenges: Communication & AI at FT • Alice Bartlett 
 slug: tech-leadership-challenges-communication-ai-at-ft-alice
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Alice Bartlett"]
@@ -15,6 +15,7 @@ video_id: G7s3sIDC_e8
 url: https://www.youtube.com/watch?v=G7s3sIDC_e8
 youtube_url: https://www.youtube.com/watch?v=G7s3sIDC_e8
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

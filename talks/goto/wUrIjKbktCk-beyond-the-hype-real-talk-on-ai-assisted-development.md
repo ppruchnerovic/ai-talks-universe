@@ -4,7 +4,7 @@ title: "Beyond the Hype: Real Talk on AI-Assisted Development • Jessica Kerr &
 slug: beyond-the-hype-real-talk-on-ai-assisted-development
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Jessica Kerr", "Diana Montalion"]
@@ -15,6 +15,7 @@ video_id: wUrIjKbktCk
 url: https://www.youtube.com/watch?v=wUrIjKbktCk
 youtube_url: https://www.youtube.com/watch?v=wUrIjKbktCk
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

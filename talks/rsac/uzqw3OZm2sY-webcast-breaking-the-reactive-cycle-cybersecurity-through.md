@@ -4,7 +4,7 @@ title: "Webcast: Breaking the Reactive Cycle: Cybersecurity Through Control Theo
 slug: webcast-breaking-the-reactive-cycle-cybersecurity-through
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: uzqw3OZm2sY
 url: https://www.youtube.com/watch?v=uzqw3OZm2sY
 youtube_url: https://www.youtube.com/watch?v=uzqw3OZm2sY
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

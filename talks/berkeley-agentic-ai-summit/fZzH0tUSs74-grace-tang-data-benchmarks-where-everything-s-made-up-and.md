@@ -4,7 +4,7 @@ title: "Grace Tang - Data Benchmarks: Where Everything's Made Up and the Points 
 slug: grace-tang-data-benchmarks-where-everything-s-made-up-and
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Grace Tang"]
@@ -15,6 +15,7 @@ video_id: fZzH0tUSs74
 url: https://www.youtube.com/watch?v=fZzH0tUSs74
 youtube_url: https://www.youtube.com/watch?v=fZzH0tUSs74
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Courtney Nash Discusses Incident Management, Automation, and the VOID Re
 slug: courtney-nash-discusses-incident-management-automation-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: TtLUI9_KA78
 url: https://www.youtube.com/watch?v=TtLUI9_KA78
 youtube_url: https://www.youtube.com/watch?v=TtLUI9_KA78
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Unlock AI: Assess your app and data estate for AI-powered innovation | B
 slug: unlock-ai-assess-your-app-and-data-estate-for-ai-powered
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jibson Mamerto", "Ikenna Okeke", "Gaurav Seth"]
@@ -15,6 +15,7 @@ video_id: PXi9bLxAf-s
 url: https://www.youtube.com/watch?v=PXi9bLxAf-s
 youtube_url: https://www.youtube.com/watch?v=PXi9bLxAf-s
 tags: ["Advanced (300)", "Apps", "Azure App Service", "Azure Migrate", "BRK137", "Breakout", "English (US)", "Gaurav Seth", "Ikenna Okeke", "Jibson Mamerto", "Technical", "Unlock AI: Assess your app and data estate for AI-powered innovation | BRK137", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

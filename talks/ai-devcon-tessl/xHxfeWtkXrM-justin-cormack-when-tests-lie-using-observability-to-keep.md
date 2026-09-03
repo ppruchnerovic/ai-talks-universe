@@ -4,7 +4,7 @@ title: "Justin Cormack - When Tests Lie: Using Observability to Keep AI Honest -
 slug: justin-cormack-when-tests-lie-using-observability-to-keep
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Justin Cormack"]
@@ -15,6 +15,7 @@ video_id: xHxfeWtkXrM
 url: https://www.youtube.com/watch?v=xHxfeWtkXrM
 youtube_url: https://www.youtube.com/watch?v=xHxfeWtkXrM
 tags: ["AI DevCon London 2026", "AI development", "AI in software development", "AWS S3", "AWS S3 clone with AI", "ainativedev", "distributed systems", "how to use observability in AI", "infrastructure software", "observability", "software engineering", "test coverage", "testing distributed systems", "testing strategies", "validating complex systems"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

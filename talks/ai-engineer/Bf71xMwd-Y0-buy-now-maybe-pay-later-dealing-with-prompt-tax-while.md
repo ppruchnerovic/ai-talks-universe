@@ -4,7 +4,7 @@ title: "Buy Now, Maybe Pay Later: Dealing with Prompt-Tax While Staying at the F
 slug: buy-now-maybe-pay-later-dealing-with-prompt-tax-while
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Buy Now", "Andrew Thomspson"]
@@ -15,6 +15,7 @@ video_id: Bf71xMwd-Y0
 url: https://www.youtube.com/watch?v=Bf71xMwd-Y0
 youtube_url: https://www.youtube.com/watch?v=Bf71xMwd-Y0
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

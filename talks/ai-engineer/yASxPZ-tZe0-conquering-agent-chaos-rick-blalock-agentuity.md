@@ -4,7 +4,7 @@ title: "Conquering Agent Chaos — Rick Blalock, Agentuity"
 slug: conquering-agent-chaos-rick-blalock-agentuity
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Rick Blalock"]
@@ -15,6 +15,7 @@ video_id: yASxPZ-tZe0
 url: https://www.youtube.com/watch?v=yASxPZ-tZe0
 youtube_url: https://www.youtube.com/watch?v=yASxPZ-tZe0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

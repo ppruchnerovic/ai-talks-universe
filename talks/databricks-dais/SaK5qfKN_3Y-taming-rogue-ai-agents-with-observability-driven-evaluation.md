@@ -4,7 +4,7 @@ title: "Taming Rogue AI Agents with Observability-Driven Evaluation"
 slug: taming-rogue-ai-agents-with-observability-driven-evaluation
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: SaK5qfKN_3Y
 url: https://www.youtube.com/watch?v=SaK5qfKN_3Y
 youtube_url: https://www.youtube.com/watch?v=SaK5qfKN_3Y
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

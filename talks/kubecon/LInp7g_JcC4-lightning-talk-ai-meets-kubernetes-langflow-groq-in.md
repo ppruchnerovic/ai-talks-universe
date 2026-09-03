@@ -4,7 +4,7 @@ title: "Lightning Talk: AI Meets Kubernetes: Langflow & GROQ in Automated Incide
 slug: lightning-talk-ai-meets-kubernetes-langflow-groq-in
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: ["Harini Anand"]
@@ -15,6 +15,7 @@ video_id: LInp7g_JcC4
 url: https://www.youtube.com/watch?v=LInp7g_JcC4
 youtube_url: https://www.youtube.com/watch?v=LInp7g_JcC4
 tags: []
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

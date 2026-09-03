@@ -4,7 +4,7 @@ title: "Partner: ERP transformation with AI | PBRK361"
 slug: partner-erp-transformation-with-ai-pbrk361
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jim Bretschneider", "Jared Hall", "Niels Jensen", "Sameer Verma", "Ben Vollmer"]
@@ -15,6 +15,7 @@ video_id: MUC0nVbeLKM
 url: https://www.youtube.com/watch?v=MUC0nVbeLKM
 youtube_url: https://www.youtube.com/watch?v=MUC0nVbeLKM
 tags: ["8f82e13e-bf7c-4f59-aab7-f231f4500a0f_Segment", "Agentic business applications", "Agentic business applications:Dynamics 365", "Ben Vollmer", "English (US)", "Jared Hall", "Jim Bretschneider", "Microsoft AI Cloud Partner Program", "Niels Jensen", "PBRK361", "Partner Business", "Partner: ERP transformation with AI | PBRK361", "Sameer Verma", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The Agentic Flow I Designed Versus the Actual Flow: And How I Discovered
 slug: the-agentic-flow-i-designed-versus-the-actual-flow-and-how
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: WWGjOGXYhXE
 url: https://www.youtube.com/watch?v=WWGjOGXYhXE
 youtube_url: https://www.youtube.com/watch?v=WWGjOGXYhXE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Prompting 101 | Code w/ Claude"
 slug: prompting-101-code-w-claude
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ysPbXH0LpIE
 url: https://www.youtube.com/watch?v=ysPbXH0LpIE
 youtube_url: https://www.youtube.com/watch?v=ysPbXH0LpIE
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

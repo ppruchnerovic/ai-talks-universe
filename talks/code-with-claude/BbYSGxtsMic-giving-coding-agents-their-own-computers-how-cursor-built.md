@@ -4,7 +4,7 @@ title: "Giving coding agents their own computers: How Cursor built cloud agents"
 slug: giving-coding-agents-their-own-computers-how-cursor-built
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 San Francisco"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: BbYSGxtsMic
 url: https://www.youtube.com/watch?v=BbYSGxtsMic
 youtube_url: https://www.youtube.com/watch?v=BbYSGxtsMic
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

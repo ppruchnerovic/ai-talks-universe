@@ -4,7 +4,7 @@ title: "SANS360 Talks | The Next Plague-How Al is Revolutionizing Malware Develo
 slug: sans360-talks-the-next-plague-how-al-is-revolutionizing
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: D-C9yL-l40s
 url: https://www.youtube.com/watch?v=D-C9yL-l40s
 youtube_url: https://www.youtube.com/watch?v=D-C9yL-l40s
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

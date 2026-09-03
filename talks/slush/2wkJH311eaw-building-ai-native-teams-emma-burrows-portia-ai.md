@@ -4,7 +4,7 @@ title: "Building AI-Native Teams | Emma Burrows (Portia AI)"
 slug: building-ai-native-teams-emma-burrows-portia-ai
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Emma Burrows"]
@@ -15,6 +15,7 @@ video_id: 2wkJH311eaw
 url: https://www.youtube.com/watch?v=2wkJH311eaw
 youtube_url: https://www.youtube.com/watch?v=2wkJH311eaw
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "LLM-Guided Calibration of Causal Discovery Models for Macroeconomic Anal
 slug: llm-guided-calibration-of-causal-discovery-models-for
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: YYTYixm6f4w
 url: https://www.youtube.com/watch?v=YYTYixm6f4w
 youtube_url: https://www.youtube.com/watch?v=YYTYixm6f4w
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

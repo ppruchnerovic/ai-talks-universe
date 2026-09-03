@@ -4,7 +4,7 @@ title: "Patrick Debois: Why Your Job Is Shifting from Coding to Managing Agents"
 slug: patrick-debois-why-your-job-is-shifting-from-coding-to
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: jA9XLa3ugMU
 url: https://www.youtube.com/watch?v=jA9XLa3ugMU
 youtube_url: https://www.youtube.com/watch?v=jA9XLa3ugMU
 tags: ["AI Native Development", "Artificial Intelligence", "DevOps", "InfoQ Dev Summit", "InfoQ", "Transcript", "Patterns", "Best Practices", "Software Architecture", "Generative AI", "Vibe Coding", "Patrick Debois", "Intent Engineering", "Spec-Driven Development"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

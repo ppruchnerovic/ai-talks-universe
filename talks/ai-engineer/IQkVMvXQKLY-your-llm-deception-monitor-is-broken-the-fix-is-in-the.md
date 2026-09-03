@@ -4,7 +4,7 @@ title: "Your LLM Deception Monitor Is Broken. The Fix Is in the Training Data - 
 slug: your-llm-deception-monitor-is-broken-the-fix-is-in-the
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sachin Kumar"]
@@ -15,6 +15,7 @@ video_id: IQkVMvXQKLY
 url: https://www.youtube.com/watch?v=IQkVMvXQKLY
 youtube_url: https://www.youtube.com/watch?v=IQkVMvXQKLY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

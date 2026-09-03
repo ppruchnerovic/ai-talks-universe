@@ -4,7 +4,7 @@ title: "Technical deep dive on Managed Instance for App Service | BRK102"
 slug: technical-deep-dive-on-managed-instance-for-app-service
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Scott Hunter", "Gaurav Seth", "Andrew Westgarth"]
@@ -15,6 +15,7 @@ video_id: biO3I2mFvV4
 url: https://www.youtube.com/watch?v=biO3I2mFvV4
 youtube_url: https://www.youtube.com/watch?v=biO3I2mFvV4
 tags: ["881e39f4-7921-487b-b6ad-b0cce5120b80_Segment", "Andrew Westgarth", "BRK102", "English (US)", "Gaurav Seth", "Migrate and modernize your estate", "Migrate and modernize your estate:Azure App Service", "Scott Hunter", "Technical", "Technical deep dive on Managed Instance for App Service | BRK102", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

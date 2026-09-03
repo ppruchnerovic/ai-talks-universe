@@ -4,7 +4,7 @@ title: "Lightning Talk: A Stable Limited LibTorch ABI? How?! (and Why?) - Jane X
 slug: lightning-talk-a-stable-limited-libtorch-abi-how-and-why
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Jane Xu"]
@@ -15,6 +15,7 @@ video_id: HNdEmnvMvGE
 url: https://www.youtube.com/watch?v=HNdEmnvMvGE
 youtube_url: https://www.youtube.com/watch?v=HNdEmnvMvGE
 tags: []
+topics: []
 transcript: false
 ---
 

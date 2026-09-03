@@ -4,7 +4,7 @@ title: "Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Brea
 slug: satya-nadella-microsoft-s-ai-bets-hyperscaling-quantum
 conference: yc-ai-startup-school
 conference_name: "Y Combinator AI Startup School"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Startup School 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: AUUZuzVHKdo
 url: https://www.youtube.com/watch?v=AUUZuzVHKdo
 youtube_url: https://www.youtube.com/watch?v=AUUZuzVHKdo
 tags: ["YC", "Y Combinator"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

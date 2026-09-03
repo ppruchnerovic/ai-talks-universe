@@ -4,7 +4,7 @@ title: "Optimizing Error Recovery for Cost-Ef... Radostin Stoyanov, Andrey Velic
 slug: optimizing-error-recovery-for-cost-ef-radostin-stoyanov
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: pvonHzx-z0o
 url: https://www.youtube.com/watch?v=pvonHzx-z0o
 youtube_url: https://www.youtube.com/watch?v=pvonHzx-z0o
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

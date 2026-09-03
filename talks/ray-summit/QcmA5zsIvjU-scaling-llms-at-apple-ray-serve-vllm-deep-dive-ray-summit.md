@@ -4,7 +4,7 @@ title: "Scaling LLMs at Apple: Ray Serve + vLLM Deep Dive | Ray Summit 2025"
 slug: scaling-llms-at-apple-ray-serve-vllm-deep-dive-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: QcmA5zsIvjU
 url: https://www.youtube.com/watch?v=QcmA5zsIvjU
 youtube_url: https://www.youtube.com/watch?v=QcmA5zsIvjU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

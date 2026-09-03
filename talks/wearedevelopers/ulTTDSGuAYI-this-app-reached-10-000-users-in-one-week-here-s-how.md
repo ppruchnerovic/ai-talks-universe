@@ -4,7 +4,7 @@ title: "This App Reached 10,000 Users in One Week. Here's How."
 slug: this-app-reached-10-000-users-in-one-week-here-s-how
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Mahran Meißner"]
@@ -15,6 +15,7 @@ video_id: ulTTDSGuAYI
 url: https://www.youtube.com/watch?v=ulTTDSGuAYI
 youtube_url: https://www.youtube.com/watch?v=ulTTDSGuAYI
 tags: ["AI Engineering"]
+topics: []
 transcript: true
 ---
 

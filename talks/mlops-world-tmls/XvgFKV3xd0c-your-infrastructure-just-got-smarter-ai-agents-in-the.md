@@ -4,7 +4,7 @@ title: "Your Infrastructure Just Got Smarter: AI Agents in the DevOps Loop | Kis
 slug: your-infrastructure-just-got-smarter-ai-agents-in-the
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Kishan Rao"]
@@ -15,6 +15,7 @@ video_id: XvgFKV3xd0c
 url: https://www.youtube.com/watch?v=XvgFKV3xd0c
 youtube_url: https://www.youtube.com/watch?v=XvgFKV3xd0c
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

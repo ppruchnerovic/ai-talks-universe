@@ -4,7 +4,7 @@ title: "Keynote: Giants, Standing on the Shoulders Of - Daniel Stenberg, Founder
 slug: keynote-giants-standing-on-the-shoulders-of-daniel-stenberg
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Daniel Stenberg"]
@@ -15,6 +15,7 @@ video_id: YEBBPj7pIKo
 url: https://www.youtube.com/watch?v=YEBBPj7pIKo
 youtube_url: https://www.youtube.com/watch?v=YEBBPj7pIKo
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

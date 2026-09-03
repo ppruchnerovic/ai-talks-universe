@@ -4,7 +4,7 @@ title: "Deploy next generation technologies with HP | Poly Teams solutions | ODF
 slug: deploy-next-generation-technologies-with-hp-poly-teams
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Greg Baribault", "Brandon Rebbe"]
@@ -15,6 +15,7 @@ video_id: 1kV6pHooNN0
 url: https://www.youtube.com/watch?v=1kV6pHooNN0
 youtube_url: https://www.youtube.com/watch?v=1kV6pHooNN0
 tags: ["AI", "Brandon Rebbe", "Collaborative Work Management", "Deploy next generation technologies with HP | Poly Teams solutions | ODFP949", "Devices", "English (US)", "Enterprise work management", "Foundational (100)", "Greg Baribault", "Microsoft Teams", "ODFP949", "Pre-recorded", "Technical", "Workplace", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

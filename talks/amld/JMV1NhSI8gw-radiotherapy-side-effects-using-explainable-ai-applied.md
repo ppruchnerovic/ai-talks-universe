@@ -4,7 +4,7 @@ title: "Radiotherapy side effects using explainable AI | Applied Explainable AI 
 slug: radiotherapy-side-effects-using-explainable-ai-applied
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: JMV1NhSI8gw
 url: https://www.youtube.com/watch?v=JMV1NhSI8gw
 youtube_url: https://www.youtube.com/watch?v=JMV1NhSI8gw
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

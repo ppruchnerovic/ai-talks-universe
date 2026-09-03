@@ -4,7 +4,7 @@ title: "Why Developers Abandon Your Product in the First 10 Minutes (And How to 
 slug: why-developers-abandon-your-product-in-the-first-10-minutes
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Marcos Placona"]
@@ -15,6 +15,7 @@ video_id: UDaDwDVr3Yo
 url: https://www.youtube.com/watch?v=UDaDwDVr3Yo
 youtube_url: https://www.youtube.com/watch?v=UDaDwDVr3Yo
 tags: ["Strategy & Innovation", "Advocacy", "Marketing", "Product Strategy"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

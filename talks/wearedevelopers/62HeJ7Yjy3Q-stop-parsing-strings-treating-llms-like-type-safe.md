@@ -4,7 +4,7 @@ title: "Stop Parsing Strings: Treating LLMs Like Type-Safe Microservices"
 slug: stop-parsing-strings-treating-llms-like-type-safe
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["André Behrens"]
@@ -15,6 +15,7 @@ video_id: 62HeJ7Yjy3Q
 url: https://www.youtube.com/watch?v=62HeJ7Yjy3Q
 youtube_url: https://www.youtube.com/watch?v=62HeJ7Yjy3Q
 tags: ["AI Engineering", "AI Standards", "Large Language Models (LLMs)", "Python", "Software Architecture"]
+topics: ["Prompting & context engineering"]
 transcript: true
 ---
 

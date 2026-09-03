@@ -4,7 +4,7 @@ title: "Jason Wei, AI Researcher, OpenAI: Some intuitions About Large Language M
 slug: jason-wei-ai-researcher-openai-some-intuitions-about-large
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: l898fqkjdFc
 url: https://www.youtube.com/watch?v=l898fqkjdFc
 youtube_url: https://www.youtube.com/watch?v=l898fqkjdFc
 tags: []
+topics: []
 transcript: false
 ---
 

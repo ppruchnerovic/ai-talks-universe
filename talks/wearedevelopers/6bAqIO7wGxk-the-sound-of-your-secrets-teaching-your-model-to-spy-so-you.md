@@ -4,7 +4,7 @@ title: "The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn 
 slug: the-sound-of-your-secrets-teaching-your-model-to-spy-so-you
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["David vonThenen"]
@@ -15,6 +15,7 @@ video_id: 6bAqIO7wGxk
 url: https://www.youtube.com/watch?v=6bAqIO7wGxk
 youtube_url: https://www.youtube.com/watch?v=6bAqIO7wGxk
 tags: ["Security & Privacy", "AI Models", "Deep Learning", "Privacy", "Security"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: true
 ---
 

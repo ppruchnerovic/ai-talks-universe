@@ -4,7 +4,7 @@ title: "Scaling AI in Production with PyTorch"
 slug: scaling-ai-in-production-with-pytorch
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: rBFbSF5g0no
 url: https://www.youtube.com/watch?v=rBFbSF5g0no
 youtube_url: https://www.youtube.com/watch?v=rBFbSF5g0no
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Scaling AI in Production with PyTorch", "PyTorch", "Scaling AI", "ai", "Production with PyTorch", "pytorch", "AI/PyTorch", "TorchServe"]
+topics: ["Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

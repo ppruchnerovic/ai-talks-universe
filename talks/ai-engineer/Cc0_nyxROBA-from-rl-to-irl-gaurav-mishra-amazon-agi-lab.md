@@ -4,7 +4,7 @@ title: "From RL to IRL — Gaurav Mishra, Amazon AGI Lab"
 slug: from-rl-to-irl-gaurav-mishra-amazon-agi-lab
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Gaurav Mishra"]
@@ -15,6 +15,7 @@ video_id: Cc0_nyxROBA
 url: https://www.youtube.com/watch?v=Cc0_nyxROBA
 youtube_url: https://www.youtube.com/watch?v=Cc0_nyxROBA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

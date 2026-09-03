@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Scale AI agents with custom models using Amazon Sag
 slug: aws-re-invent-2025-scale-ai-agents-with-custom-models-using
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: E5KMq9ETIG0
 url: https://www.youtube.com/watch?v=E5KMq9ETIG0
 youtube_url: https://www.youtube.com/watch?v=E5KMq9ETIG0
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

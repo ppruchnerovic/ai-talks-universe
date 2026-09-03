@@ -4,7 +4,7 @@ title: "Solving Health AI’s Data Problem"
 slug: solving-health-ais-data-problem
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: UYiGQXjZRQI
 url: https://www.youtube.com/watch?v=UYiGQXjZRQI
 youtube_url: https://www.youtube.com/watch?v=UYiGQXjZRQI
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

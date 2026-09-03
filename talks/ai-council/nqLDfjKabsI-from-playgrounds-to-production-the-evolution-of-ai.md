@@ -4,7 +4,7 @@ title: "From Playgrounds to Production: The Evolution of AI Evaluation at Coda"
 slug: from-playgrounds-to-production-the-evolution-of-ai
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Kenny Wong"]
@@ -15,6 +15,7 @@ video_id: nqLDfjKabsI
 url: https://www.youtube.com/watch?v=nqLDfjKabsI
 youtube_url: https://www.youtube.com/watch?v=nqLDfjKabsI
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

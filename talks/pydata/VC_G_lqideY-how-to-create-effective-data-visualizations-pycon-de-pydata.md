@@ -4,7 +4,7 @@ title: "How to create effective data visualizations [PyCon DE & PyData 2026]"
 slug: how-to-create-effective-data-visualizations-pycon-de-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Dominik Haitz"]
@@ -15,6 +15,7 @@ video_id: VC_G_lqideY
 url: https://www.youtube.com/watch?v=VC_G_lqideY
 youtube_url: https://www.youtube.com/watch?v=VC_G_lqideY
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

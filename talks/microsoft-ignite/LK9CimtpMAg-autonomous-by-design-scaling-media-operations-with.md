@@ -4,7 +4,7 @@ title: "Autonomous by Design: Scaling Media Operations with Microsoft AI | BRK37
 slug: autonomous-by-design-scaling-media-operations-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Simon Crownshaw", "Erik Ramberg", "Ronnie Yates"]
@@ -15,6 +15,7 @@ video_id: LK9CimtpMAg
 url: https://www.youtube.com/watch?v=LK9CimtpMAg
 youtube_url: https://www.youtube.com/watch?v=LK9CimtpMAg
 tags: ["Autonomous by Design: Scaling Media Operations with Microsoft AI | BRK379", "BRK379", "BRK379_v1", "Copilot and agents at work", "English (US)", "Erik Ramberg", "Media and Entertainment", "Ronnie Yates", "Simon Crownshaw", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

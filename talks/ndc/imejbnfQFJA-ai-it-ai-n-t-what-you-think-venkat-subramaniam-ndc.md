@@ -4,7 +4,7 @@ title: "AI: It AI-n't What You Think! - Venkat Subramaniam - NDC Copenhagen 2026
 slug: ai-it-ai-n-t-what-you-think-venkat-subramaniam-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Venkat Subramaniam"]
@@ -15,6 +15,7 @@ video_id: imejbnfQFJA
 url: https://www.youtube.com/watch?v=imejbnfQFJA
 youtube_url: https://www.youtube.com/watch?v=imejbnfQFJA
 tags: ["AI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Venkat Subramaniam"]
+topics: []
 transcript: true
 ---
 

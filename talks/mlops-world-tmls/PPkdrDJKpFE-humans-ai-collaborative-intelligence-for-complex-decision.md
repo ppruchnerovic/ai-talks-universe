@@ -4,7 +4,7 @@ title: "Humans + AI: Collaborative Intelligence for Complex Decision-Making"
 slug: humans-ai-collaborative-intelligence-for-complex-decision
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: PPkdrDJKpFE
 url: https://www.youtube.com/watch?v=PPkdrDJKpFE
 youtube_url: https://www.youtube.com/watch?v=PPkdrDJKpFE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

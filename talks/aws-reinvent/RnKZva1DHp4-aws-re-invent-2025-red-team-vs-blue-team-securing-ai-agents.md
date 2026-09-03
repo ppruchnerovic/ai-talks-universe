@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Red Team vs Blue Team: Securing AI Agents (DEV317)"
 slug: aws-re-invent-2025-red-team-vs-blue-team-securing-ai-agents
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: RnKZva1DHp4
 url: https://www.youtube.com/watch?v=RnKZva1DHp4
 youtube_url: https://www.youtube.com/watch?v=RnKZva1DHp4
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

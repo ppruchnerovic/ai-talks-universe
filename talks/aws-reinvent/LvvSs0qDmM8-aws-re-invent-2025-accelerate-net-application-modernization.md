@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Accelerate .NET application modernization with gene
 slug: aws-re-invent-2025-accelerate-net-application-modernization
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: LvvSs0qDmM8
 url: https://www.youtube.com/watch?v=LvvSs0qDmM8
 youtube_url: https://www.youtube.com/watch?v=LvvSs0qDmM8
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

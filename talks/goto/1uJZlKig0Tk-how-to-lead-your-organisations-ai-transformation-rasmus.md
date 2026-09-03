@@ -4,7 +4,7 @@ title: "How to Lead Your Organisation’s AI-Transformation • Rasmus Lystrøm 
 slug: how-to-lead-your-organisations-ai-transformation-rasmus
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Rasmus Lystrøm"]
@@ -15,6 +15,7 @@ video_id: 1uJZlKig0Tk
 url: https://www.youtube.com/watch?v=1uJZlKig0Tk
 youtube_url: https://www.youtube.com/watch?v=1uJZlKig0Tk
 tags: []
+topics: []
 transcript: false
 ---
 

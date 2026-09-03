@@ -4,7 +4,7 @@ title: "MCP Creator Reveals the 2026 Roadmap for AI Agents"
 slug: mcp-creator-reveals-the-2026-roadmap-for-ai-agents
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: kAVRFYgCPg0
 url: https://www.youtube.com/watch?v=kAVRFYgCPg0
 youtube_url: https://www.youtube.com/watch?v=kAVRFYgCPg0
 tags: ["Model Context Protocol", "Agentic AI", "Claude", "Anthropic", "Context bloat", "David Soria Parra"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

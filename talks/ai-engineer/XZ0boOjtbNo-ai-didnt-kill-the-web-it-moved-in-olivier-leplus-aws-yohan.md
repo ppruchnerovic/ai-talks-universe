@@ -4,7 +4,7 @@ title: "AI Didn’t Kill the Web, It Moved in! — Olivier Leplus (AWS) & Yohan 
 slug: ai-didnt-kill-the-web-it-moved-in-olivier-leplus-aws-yohan
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Olivier Leplus"]
@@ -15,6 +15,7 @@ video_id: XZ0boOjtbNo
 url: https://www.youtube.com/watch?v=XZ0boOjtbNo
 youtube_url: https://www.youtube.com/watch?v=XZ0boOjtbNo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

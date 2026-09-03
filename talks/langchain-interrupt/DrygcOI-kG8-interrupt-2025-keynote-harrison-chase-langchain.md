@@ -4,7 +4,7 @@ title: "Interrupt 2025 Keynote | Harrison Chase | LangChain"
 slug: interrupt-2025-keynote-harrison-chase-langchain
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: ["Harrison Chase"]
@@ -15,6 +15,7 @@ video_id: DrygcOI-kG8
 url: https://www.youtube.com/watch?v=DrygcOI-kG8
 youtube_url: https://www.youtube.com/watch?v=DrygcOI-kG8
 tags: []
+topics: []
 transcript: false
 ---
 

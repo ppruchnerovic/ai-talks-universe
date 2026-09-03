@@ -4,7 +4,7 @@ title: "Recursively Self-Improving Agents as Autonomous Software Engineering | F
 slug: recursively-self-improving-agents-as-autonomous-software
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: m0VyJ4v-jrA
 url: https://www.youtube.com/watch?v=m0VyJ4v-jrA
 youtube_url: https://www.youtube.com/watch?v=m0VyJ4v-jrA
 tags: ["AI"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

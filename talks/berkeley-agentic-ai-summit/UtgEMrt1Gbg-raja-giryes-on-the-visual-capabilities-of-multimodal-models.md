@@ -4,7 +4,7 @@ title: "Raja Giryes - On the Visual Capabilities of Multimodal Models"
 slug: raja-giryes-on-the-visual-capabilities-of-multimodal-models
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Raja Giryes"]
@@ -15,6 +15,7 @@ video_id: UtgEMrt1Gbg
 url: https://www.youtube.com/watch?v=UtgEMrt1Gbg
 youtube_url: https://www.youtube.com/watch?v=UtgEMrt1Gbg
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

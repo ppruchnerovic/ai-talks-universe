@@ -4,7 +4,7 @@ title: "Sponsored Session: Code, Control, and Community: How Open Source is Resh
 slug: sponsored-session-code-control-and-community-how-open
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: vLlT-61KiXM
 url: https://www.youtube.com/watch?v=vLlT-61KiXM
 youtube_url: https://www.youtube.com/watch?v=vLlT-61KiXM
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: false
 ---
 

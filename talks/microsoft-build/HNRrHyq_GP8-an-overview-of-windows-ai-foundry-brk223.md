@@ -4,7 +4,7 @@ title: "An overview of Windows AI Foundry | BRK223"
 slug: an-overview-of-windows-ai-foundry-brk223
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: HNRrHyq_GP8
 url: https://www.youtube.com/watch?v=HNRrHyq_GP8
 youtube_url: https://www.youtube.com/watch?v=HNRrHyq_GP8
 tags: []
+topics: []
 transcript: false
 ---
 

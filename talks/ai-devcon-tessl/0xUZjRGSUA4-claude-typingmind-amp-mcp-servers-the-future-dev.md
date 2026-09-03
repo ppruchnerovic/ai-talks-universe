@@ -4,7 +4,7 @@ title: "Claude, TypingMind, AMP & MCP Servers: The Future Dev"
 slug: claude-typingmind-amp-mcp-servers-the-future-dev
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0xUZjRGSUA4
 url: https://www.youtube.com/watch?v=0xUZjRGSUA4
 youtube_url: https://www.youtube.com/watch?v=0xUZjRGSUA4
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

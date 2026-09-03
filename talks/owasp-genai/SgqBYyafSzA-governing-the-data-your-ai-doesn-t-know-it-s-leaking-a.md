@@ -4,7 +4,7 @@ title: "Governing the Data Your AI Doesn't Know It's Leaking A Practical OWASP F
 slug: governing-the-data-your-ai-doesn-t-know-it-s-leaking-a
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Emmanuel Guilherme Junior"]
@@ -15,6 +15,7 @@ video_id: SgqBYyafSzA
 url: https://www.youtube.com/watch?v=SgqBYyafSzA
 youtube_url: https://www.youtube.com/watch?v=SgqBYyafSzA
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: true
 ---
 

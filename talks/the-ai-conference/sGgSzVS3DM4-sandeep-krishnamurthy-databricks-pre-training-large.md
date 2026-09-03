@@ -4,7 +4,7 @@ title: "Sandeep Krishnamurthy, Databricks: Pre-training large language models:Le
 slug: sandeep-krishnamurthy-databricks-pre-training-large
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: sGgSzVS3DM4
 url: https://www.youtube.com/watch?v=sGgSzVS3DM4
 youtube_url: https://www.youtube.com/watch?v=sGgSzVS3DM4
 tags: []
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Facilitating Software Architecture with Andrew Harmel-Law"
 slug: facilitating-software-architecture-with-andrew-harmel-law
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: B96vqmM7jKY
 url: https://www.youtube.com/watch?v=B96vqmM7jKY
 youtube_url: https://www.youtube.com/watch?v=B96vqmM7jKY
 tags: []
+topics: []
 transcript: false
 ---
 

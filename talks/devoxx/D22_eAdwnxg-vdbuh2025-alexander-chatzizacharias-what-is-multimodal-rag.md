@@ -4,7 +4,7 @@ title: "[VDBUH2025] Alexander Chatzizacharias - What is multimodal RAG, and can 
 slug: vdbuh2025-alexander-chatzizacharias-what-is-multimodal-rag
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Alexander Chatzizacharias"]
@@ -15,6 +15,7 @@ video_id: D22_eAdwnxg
 url: https://www.youtube.com/watch?v=D22_eAdwnxg
 youtube_url: https://www.youtube.com/watch?v=D22_eAdwnxg
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

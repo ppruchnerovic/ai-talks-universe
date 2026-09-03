@@ -4,7 +4,7 @@ title: "GenAI Project | Insights from the GenAI Security Project - Threats & Ado
 slug: genai-project-insights-from-the-genai-security-project
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Scott Clinton"]
@@ -15,6 +15,7 @@ video_id: sfpZm6lXU5E
 url: https://www.youtube.com/watch?v=sfpZm6lXU5E
 youtube_url: https://www.youtube.com/watch?v=sfpZm6lXU5E
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

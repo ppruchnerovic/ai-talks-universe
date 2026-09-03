@@ -4,7 +4,7 @@ title: "Least-Privilege for AI: Authorizing Agents and MCP Tools with A... Luc C
 slug: least-privilege-for-ai-authorizing-agents-and-mcp-tools
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: tEAkoZpdhSc
 url: https://www.youtube.com/watch?v=tEAkoZpdhSc
 youtube_url: https://www.youtube.com/watch?v=tEAkoZpdhSc
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

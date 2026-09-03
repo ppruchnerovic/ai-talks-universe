@@ -4,7 +4,7 @@ title: "Build intelligent Android apps with Google's AI"
 slug: build-intelligent-android-apps-with-google-s-ai
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Jolanda Verhoef", "Thomas Ezan"]
@@ -15,6 +15,7 @@ video_id: _iuXykdlTkk
 url: https://www.youtube.com/watch?v=_iuXykdlTkk
 youtube_url: https://www.youtube.com/watch?v=_iuXykdlTkk
 tags: ["Android", "pr_pr: Google I/O;", "ct:Stack - Android;", "ct:Event - Technical Session;"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Five things in tech that matter and we have to make work - Christian Hei
 slug: five-things-in-tech-that-matter-and-we-have-to-make-work
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Christian Heilmann"]
@@ -15,6 +15,7 @@ video_id: tBfxxVeG7iw
 url: https://www.youtube.com/watch?v=tBfxxVeG7iw
 youtube_url: https://www.youtube.com/watch?v=tBfxxVeG7iw
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: false
 ---
 

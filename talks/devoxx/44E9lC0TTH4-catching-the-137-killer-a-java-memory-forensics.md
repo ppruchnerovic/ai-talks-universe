@@ -4,7 +4,7 @@ title: "Catching the 137-Killer: A Java Memory Forensics Investigation by Martij
 slug: catching-the-137-killer-a-java-memory-forensics
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Martijn Dashorst"]
@@ -15,6 +15,7 @@ video_id: 44E9lC0TTH4
 url: https://www.youtube.com/watch?v=44E9lC0TTH4
 youtube_url: https://www.youtube.com/watch?v=44E9lC0TTH4
 tags: []
+topics: []
 transcript: true
 ---
 

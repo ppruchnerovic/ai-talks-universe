@@ -4,7 +4,7 @@ title: "Making AI Reliable in the SDLC: The Role of Deterministic Context at Sca
 slug: making-ai-reliable-in-the-sdlc-the-role-of-deterministic
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: f2IOsl1GEQU
 url: https://www.youtube.com/watch?v=f2IOsl1GEQU
 youtube_url: https://www.youtube.com/watch?v=f2IOsl1GEQU
 tags: ["AI Engineering", "Legacy Modernization", "Static Analysis", "Enterprise AI", "Software Architecture", "SDLC", "Tech Debt", "Generative AI"]
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability"]
 transcript: true
 ---
 

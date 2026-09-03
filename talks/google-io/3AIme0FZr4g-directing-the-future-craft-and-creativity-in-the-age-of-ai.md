@@ -4,7 +4,7 @@ title: "Directing the future: craft and creativity in the age of AI"
 slug: directing-the-future-craft-and-creativity-in-the-age-of-ai
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Mira Lane", "Doug Liman"]
@@ -15,6 +15,7 @@ video_id: 3AIme0FZr4g
 url: https://www.youtube.com/watch?v=3AIme0FZr4g
 youtube_url: https://www.youtube.com/watch?v=3AIme0FZr4g
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Dialogues;", "ct:Event - AI PA Keynote;"]
+topics: []
 transcript: true
 ---
 

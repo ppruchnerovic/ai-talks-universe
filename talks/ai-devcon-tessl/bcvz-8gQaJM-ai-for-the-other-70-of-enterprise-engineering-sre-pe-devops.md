@@ -4,7 +4,7 @@ title: "AI For \"The Other 70 Of Enterprise Engineering SRE:PE:DevOps with Kyle 
 slug: ai-for-the-other-70-of-enterprise-engineering-sre-pe-devops
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: bcvz-8gQaJM
 url: https://www.youtube.com/watch?v=bcvz-8gQaJM
 youtube_url: https://www.youtube.com/watch?v=bcvz-8gQaJM
 tags: ["ainativedev"]
+topics: ["Coding assistants & agents", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

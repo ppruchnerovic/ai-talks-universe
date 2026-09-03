@@ -4,7 +4,7 @@ title: "It's Not Vibe Coding If You Know What You're Doing"
 slug: it-s-not-vibe-coding-if-you-know-what-you-re-doing
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jeff Blankenburg"]
@@ -15,6 +15,7 @@ video_id: bpbbSPK2tPY
 url: https://www.youtube.com/watch?v=bpbbSPK2tPY
 youtube_url: https://www.youtube.com/watch?v=bpbbSPK2tPY
 tags: ["Developer Experience", "AI Coding Assistants", "Anthropic", "Node.js", "SQL"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

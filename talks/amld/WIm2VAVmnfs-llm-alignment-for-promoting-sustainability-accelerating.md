@@ -4,7 +4,7 @@ title: "LLM Alignment for Promoting Sustainability | Accelerating Climate Change
 slug: llm-alignment-for-promoting-sustainability-accelerating
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Cesar Ilharco"]
@@ -15,6 +15,7 @@ video_id: WIm2VAVmnfs
 url: https://www.youtube.com/watch?v=WIm2VAVmnfs
 youtube_url: https://www.youtube.com/watch?v=WIm2VAVmnfs
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

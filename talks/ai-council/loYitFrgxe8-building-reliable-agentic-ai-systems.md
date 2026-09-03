@@ -4,7 +4,7 @@ title: "Building Reliable Agentic AI Systems"
 slug: building-reliable-agentic-ai-systems
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Eno Reyes"]
@@ -15,6 +15,7 @@ video_id: loYitFrgxe8
 url: https://www.youtube.com/watch?v=loYitFrgxe8
 youtube_url: https://www.youtube.com/watch?v=loYitFrgxe8
 tags: ["agentic systems", "AI agents", "reliable AI", "ChatGPT", "artificial intelligence", "machine learning", "system design", "AI architecture", "robust AI", "system reliability", "non deterministic systems", "robotics", "cybernetics", "biology", "Python tutorial", "autonomous systems", "intelligent agents", "multi agent systems", "agent communication", "coordination", "planning", "decision making", "goal oriented behavior", "adaptive systems"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

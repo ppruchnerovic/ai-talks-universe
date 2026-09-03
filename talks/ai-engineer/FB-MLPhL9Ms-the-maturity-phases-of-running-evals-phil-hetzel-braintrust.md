@@ -4,7 +4,7 @@ title: "The maturity phases of running evals — Phil Hetzel, Braintrust"
 slug: the-maturity-phases-of-running-evals-phil-hetzel-braintrust
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Phil Hetzel"]
@@ -15,6 +15,7 @@ video_id: FB-MLPhL9Ms
 url: https://www.youtube.com/watch?v=FB-MLPhL9Ms
 youtube_url: https://www.youtube.com/watch?v=FB-MLPhL9Ms
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

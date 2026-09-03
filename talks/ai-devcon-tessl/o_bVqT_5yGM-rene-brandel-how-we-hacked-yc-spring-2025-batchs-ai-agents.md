@@ -4,7 +4,7 @@ title: "Rene Brandel - How we hacked YC Spring 2025 batch’s AI agents | DevCon
 slug: rene-brandel-how-we-hacked-yc-spring-2025-batchs-ai-agents
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Rene Brandel"]
@@ -15,6 +15,7 @@ video_id: o_bVqT_5yGM
 url: https://www.youtube.com/watch?v=o_bVqT_5yGM
 youtube_url: https://www.youtube.com/watch?v=o_bVqT_5yGM
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

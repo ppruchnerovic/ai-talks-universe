@@ -4,7 +4,7 @@ title: "OpenAI DevDay 2024 | Community Spotlight | Parloa"
 slug: openai-devday-2024-community-spotlight-parloa
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: xZc0YQbIyWE
 url: https://www.youtube.com/watch?v=xZc0YQbIyWE
 youtube_url: https://www.youtube.com/watch?v=xZc0YQbIyWE
 tags: []
+topics: []
 transcript: false
 ---
 

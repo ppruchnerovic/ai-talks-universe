@@ -4,7 +4,7 @@ title: "Workshop: Foundry: How to 10x AI Agent Price Performance with Inference 
 slug: workshop-foundry-how-to-10x-ai-agent-price-performance-with
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: B_J3yEsmrII
 url: https://www.youtube.com/watch?v=B_J3yEsmrII
 youtube_url: https://www.youtube.com/watch?v=B_J3yEsmrII
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

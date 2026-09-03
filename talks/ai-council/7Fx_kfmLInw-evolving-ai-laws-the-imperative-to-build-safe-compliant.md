@@ -4,7 +4,7 @@ title: "Evolving AI Laws & the Imperative to Build Safe, Compliant & Risk proof 
 slug: evolving-ai-laws-the-imperative-to-build-safe-compliant
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7Fx_kfmLInw
 url: https://www.youtube.com/watch?v=7Fx_kfmLInw
 youtube_url: https://www.youtube.com/watch?v=7Fx_kfmLInw
 tags: ["AI Observability", "compliance tools", "AI monitoring", "resonsible AI"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Under the hood with Google AI"
 slug: under-the-hood-with-google-ai
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: STMN5N-bDko
 url: https://www.youtube.com/watch?v=STMN5N-bDko
 youtube_url: https://www.youtube.com/watch?v=STMN5N-bDko
 tags: []
+topics: []
 transcript: false
 ---
 

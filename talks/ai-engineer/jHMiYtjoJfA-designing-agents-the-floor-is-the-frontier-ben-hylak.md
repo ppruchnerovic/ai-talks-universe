@@ -4,7 +4,7 @@ title: "Designing Agents (The Floor Is the Frontier) — Ben Hylak, Raindrop"
 slug: designing-agents-the-floor-is-the-frontier-ben-hylak
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ben Hylak"]
@@ -15,6 +15,7 @@ video_id: jHMiYtjoJfA
 url: https://www.youtube.com/watch?v=jHMiYtjoJfA
 youtube_url: https://www.youtube.com/watch?v=jHMiYtjoJfA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

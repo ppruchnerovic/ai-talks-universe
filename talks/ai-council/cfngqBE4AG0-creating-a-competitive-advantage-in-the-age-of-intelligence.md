@@ -4,7 +4,7 @@ title: "Creating a Competitive Advantage in the Age of Intelligence as a Service
 slug: creating-a-competitive-advantage-in-the-age-of-intelligence
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Miguel Paredes"]
@@ -15,6 +15,7 @@ video_id: cfngqBE4AG0
 url: https://www.youtube.com/watch?v=cfngqBE4AG0
 youtube_url: https://www.youtube.com/watch?v=cfngqBE4AG0
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

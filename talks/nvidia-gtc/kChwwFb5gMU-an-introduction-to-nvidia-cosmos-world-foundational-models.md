@@ -4,7 +4,7 @@ title: "An Introduction to NVIDIA Cosmos World Foundational Models | NVIDIA GTC 
 slug: an-introduction-to-nvidia-cosmos-world-foundational-models
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: kChwwFb5gMU
 url: https://www.youtube.com/watch?v=kChwwFb5gMU
 youtube_url: https://www.youtube.com/watch?v=kChwwFb5gMU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

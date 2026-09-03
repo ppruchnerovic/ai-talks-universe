@@ -4,7 +4,7 @@ title: "Cal Henderson: Co-founder @Slack, Workplace Productivity & Organizationa
 slug: cal-henderson-co-founder-slack-workplace-productivity
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: xErQcjk4WwI
 url: https://www.youtube.com/watch?v=xErQcjk4WwI
 youtube_url: https://www.youtube.com/watch?v=xErQcjk4WwI
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

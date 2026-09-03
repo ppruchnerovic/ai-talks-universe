@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Supercharge DevOps with AI-driven observability (DE
 slug: aws-re-invent-2025-supercharge-devops-with-ai-driven
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: TsKKTVepP7k
 url: https://www.youtube.com/watch?v=TsKKTVepP7k
 youtube_url: https://www.youtube.com/watch?v=TsKKTVepP7k
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

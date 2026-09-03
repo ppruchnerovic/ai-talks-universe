@@ -4,7 +4,7 @@ title: "how to build a cult | james hawkins (posthog)"
 slug: how-to-build-a-cult-james-hawkins-posthog
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4b3b0lkW7es
 url: https://www.youtube.com/watch?v=4b3b0lkW7es
 youtube_url: https://www.youtube.com/watch?v=4b3b0lkW7es
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

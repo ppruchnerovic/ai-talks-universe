@@ -4,7 +4,7 @@ title: "Operationalizing Ray Serve on Kubernetes"
 slug: operationalizing-ray-serve-on-kubernetes
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: NekkpRrcAWg
 url: https://www.youtube.com/watch?v=NekkpRrcAWg
 youtube_url: https://www.youtube.com/watch?v=NekkpRrcAWg
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

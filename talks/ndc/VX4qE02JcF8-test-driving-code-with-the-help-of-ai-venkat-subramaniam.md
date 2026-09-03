@@ -4,7 +4,7 @@ title: "Test Driving Code with the Help of AI - Venkat Subramaniam - NDC Copenha
 slug: test-driving-code-with-the-help-of-ai-venkat-subramaniam
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Venkat Subramaniam"]
@@ -15,6 +15,7 @@ video_id: VX4qE02JcF8
 url: https://www.youtube.com/watch?v=VX4qE02JcF8
 youtube_url: https://www.youtube.com/watch?v=VX4qE02JcF8
 tags: ["TDD", "Code", "NDC", "Conferences", "2026", "Live", "Fun", "Denmark", "Copenhagen", "Venkat Subramaniam", "AI"]
+topics: []
 transcript: true
 ---
 

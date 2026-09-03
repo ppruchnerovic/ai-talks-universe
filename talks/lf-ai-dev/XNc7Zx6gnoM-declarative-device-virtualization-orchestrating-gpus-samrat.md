@@ -4,7 +4,7 @@ title: "Declarative Device Virtualization: Orchestrating GPUs... Samrat Priyadar
 slug: declarative-device-virtualization-orchestrating-gpus-samrat
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XNc7Zx6gnoM
 url: https://www.youtube.com/watch?v=XNc7Zx6gnoM
 youtube_url: https://www.youtube.com/watch?v=XNc7Zx6gnoM
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

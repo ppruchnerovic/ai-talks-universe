@@ -4,7 +4,7 @@ title: "Austen Wallis - Fast-Forward(ing) Models with AI Emulators | Pydata Lond
 slug: austen-wallis-fast-forward-ing-models-with-ai-emulators
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Austen Wallis"]
@@ -15,6 +15,7 @@ video_id: Ln0MptWOjSc
 url: https://www.youtube.com/watch?v=Ln0MptWOjSc
 youtube_url: https://www.youtube.com/watch?v=Ln0MptWOjSc
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

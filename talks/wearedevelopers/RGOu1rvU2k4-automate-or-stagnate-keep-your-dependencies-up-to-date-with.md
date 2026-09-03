@@ -4,7 +4,7 @@ title: "Automate or Stagnate: Keep Your Dependencies up to date with Renovate"
 slug: automate-or-stagnate-keep-your-dependencies-up-to-date-with
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Susanne Bach Ladefoged Hou"]
@@ -15,6 +15,7 @@ video_id: RGOu1rvU2k4
 url: https://www.youtube.com/watch?v=RGOu1rvU2k4
 youtube_url: https://www.youtube.com/watch?v=RGOu1rvU2k4
 tags: ["DevOps", "Automation", "DevOps", "Security"]
+topics: []
 transcript: true
 ---
 

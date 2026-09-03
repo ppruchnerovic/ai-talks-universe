@@ -4,7 +4,7 @@ title: "Supercharge Android media experiences with Jetpack Media3 and CameraX"
 slug: supercharge-android-media-experiences-with-jetpack-media3
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Nevin Mital", "Kailiang Chen", "Bassam Dgheim"]
@@ -15,6 +15,7 @@ video_id: Ch1EwR18Dqc
 url: https://www.youtube.com/watch?v=Ch1EwR18Dqc
 youtube_url: https://www.youtube.com/watch?v=Ch1EwR18Dqc
 tags: ["Android", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Android;", "androidmedia", "androidcamera", "media3", "camerax", "featured"]
+topics: []
 transcript: true
 ---
 

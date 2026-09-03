@@ -4,7 +4,7 @@ title: "Keynote: The Common Pathway of AI and Software - Waren Long, Data Lead p
 slug: keynote-the-common-pathway-of-ai-and-software-waren-long
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Waren Long"]
@@ -15,6 +15,7 @@ video_id: n88rzzW49Q8
 url: https://www.youtube.com/watch?v=n88rzzW49Q8
 youtube_url: https://www.youtube.com/watch?v=n88rzzW49Q8
 tags: []
+topics: []
 transcript: false
 ---
 

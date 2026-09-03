@@ -4,7 +4,7 @@ title: "SaTML 2023 - Sanghyun Hong - Publishing Efficient On-device Models Incre
 slug: satml-2023-sanghyun-hong-publishing-efficient-on-device
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Sanghyun Hong"]
@@ -15,6 +15,7 @@ video_id: kb7NIRRMBrE
 url: https://www.youtube.com/watch?v=kb7NIRRMBrE
 youtube_url: https://www.youtube.com/watch?v=kb7NIRRMBrE
 tags: []
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "IT Strategies for Copilot Administration | BRK281"
 slug: it-strategies-for-copilot-administration-brk281
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Samer Baroudi", "Shilpi Sinha", "Tiffany Treacy"]
@@ -15,6 +15,7 @@ video_id: bJod-tV8OEA
 url: https://www.youtube.com/watch?v=bJod-tV8OEA
 youtube_url: https://www.youtube.com/watch?v=bJod-tV8OEA
 tags: ["BRK281", "Breakout", "English (US)", "IT Strategies for Copilot Administration | BRK281", "Intermediate (200)", "Modern Work", "Samer Baroudi", "Shilpi Sinha", "Technical", "Tiffany Treacy", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Exploring AI Security: Red Teaming & Offensive Agents with Ads | GenAI S
 slug: exploring-ai-security-red-teaming-offensive-agents-with-ads
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: f3VYZ-6iylM
 url: https://www.youtube.com/watch?v=f3VYZ-6iylM
 youtube_url: https://www.youtube.com/watch?v=f3VYZ-6iylM
 tags: ["agent ai", "red teaming", "owasp", "top 10 for llm applications and generative ai", "generative ai", "Aubrey King", "Ads Dawson", "offensive agents", "chatbot", "ai security", "GenAI Security"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

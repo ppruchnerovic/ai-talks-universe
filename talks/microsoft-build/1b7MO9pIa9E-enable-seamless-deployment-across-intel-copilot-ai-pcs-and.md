@@ -4,7 +4,7 @@ title: "Enable seamless deployment across Intel Copilot+ AI PCs and Azure | BRKF
 slug: enable-seamless-deployment-across-intel-copilot-ai-pcs-and
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1b7MO9pIa9E
 url: https://www.youtube.com/watch?v=1b7MO9pIa9E
 youtube_url: https://www.youtube.com/watch?v=1b7MO9pIa9E
 tags: []
+topics: []
 transcript: false
 ---
 

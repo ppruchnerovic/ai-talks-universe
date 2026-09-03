@@ -4,7 +4,7 @@ title: "Putting the Single Back in Single Sign-On: Cross-App Access for MCP - Pa
 slug: putting-the-single-back-in-single-sign-on-cross-app-access
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Paul Carleton", "Max Gerber"]
@@ -15,6 +15,7 @@ video_id: HRrzzORvy84
 url: https://www.youtube.com/watch?v=HRrzzORvy84
 youtube_url: https://www.youtube.com/watch?v=HRrzzORvy84
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Denys Linkov on Micro Metrics for LLM System Evaluation"
 slug: denys-linkov-on-micro-metrics-for-llm-system-evaluation
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: J51th2ZD6OE
 url: https://www.youtube.com/watch?v=J51th2ZD6OE
 youtube_url: https://www.youtube.com/watch?v=J51th2ZD6OE
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

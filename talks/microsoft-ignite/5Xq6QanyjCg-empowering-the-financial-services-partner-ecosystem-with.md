@@ -4,7 +4,7 @@ title: "Empowering the financial services partner ecosystem with Generative AI |
 slug: empowering-the-financial-services-partner-ecosystem-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Adrian Crockett", "Nick Reed"]
@@ -15,6 +15,7 @@ video_id: 5Xq6QanyjCg
 url: https://www.youtube.com/watch?v=5Xq6QanyjCg
 youtube_url: https://www.youtube.com/watch?v=5Xq6QanyjCg
 tags: ["AI", "Adrian Crockett", "Azure", "BRK265", "Breakout", "Copilot", "Empowering the financial services partner ecosystem with Generative AI | BRK265", "English (US)", "Financial services", "GenAI", "GenerativeAI", "ISV", "Industry", "Industry for Partner", "Intermediate (200)", "Nick Reed", "Partner Business", "SI", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

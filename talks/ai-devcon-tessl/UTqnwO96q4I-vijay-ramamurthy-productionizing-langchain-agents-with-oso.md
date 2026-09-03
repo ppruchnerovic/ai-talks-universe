@@ -4,7 +4,7 @@ title: "Vijay Ramamurthy - Productionizing LangChain Agents with Oso | DevCon Fa
 slug: vijay-ramamurthy-productionizing-langchain-agents-with-oso
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Vijay Ramamurthy"]
@@ -15,6 +15,7 @@ video_id: UTqnwO96q4I
 url: https://www.youtube.com/watch?v=UTqnwO96q4I
 youtube_url: https://www.youtube.com/watch?v=UTqnwO96q4I
 tags: ["ainativedev"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

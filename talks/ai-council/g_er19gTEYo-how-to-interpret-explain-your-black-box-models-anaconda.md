@@ -4,7 +4,7 @@ title: "How to Interpret & Explain Your Black Box Models | Anaconda"
 slug: how-to-interpret-explain-your-black-box-models-anaconda
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: g_er19gTEYo
 url: https://www.youtube.com/watch?v=g_er19gTEYo
 youtube_url: https://www.youtube.com/watch?v=g_er19gTEYo
 tags: ["Machine Learning", "Data Science", "model explainability", "SHAP", "model testing"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

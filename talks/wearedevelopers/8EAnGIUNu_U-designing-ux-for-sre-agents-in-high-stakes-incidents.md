@@ -4,7 +4,7 @@ title: "Designing UX for SRE Agents in High-Stakes Incidents"
 slug: designing-ux-for-sre-agents-in-high-stakes-incidents
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Osmar Matos"]
@@ -15,6 +15,7 @@ video_id: 8EAnGIUNu_U
 url: https://www.youtube.com/watch?v=8EAnGIUNu_U
 youtube_url: https://www.youtube.com/watch?v=8EAnGIUNu_U
 tags: ["AI Agents", "Agentic AI", "Site Reliability Engineering (SRE)", "UI/UX"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

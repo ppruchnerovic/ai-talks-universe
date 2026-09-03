@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Accelerating AI: How Sun Life reduces latency and e
 slug: aws-re-invent-2025-accelerating-ai-how-sun-life-reduces
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ag2EbZu5gUE
 url: https://www.youtube.com/watch?v=ag2EbZu5gUE
 youtube_url: https://www.youtube.com/watch?v=ag2EbZu5gUE
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

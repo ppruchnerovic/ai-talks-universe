@@ -4,7 +4,7 @@ title: "John Groetzinger - Skills Everywhere: AI Native DevCon London 2026"
 slug: john-groetzinger-skills-everywhere-ai-native-devcon-london
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["John Groetzinger"]
@@ -15,6 +15,7 @@ video_id: 78KQVxMTAQ4
 url: https://www.youtube.com/watch?v=78KQVxMTAQ4
 youtube_url: https://www.youtube.com/watch?v=78KQVxMTAQ4
 tags: ["AI DevCon London 2026", "AI Native DevCon London 2026", "AI data handling", "Cisco AI strategy", "agent architectures", "ainativedev", "balancing model costs", "context pipelines", "enterprise AI", "evaluable AI", "installable skills", "skills everywhere", "skills management", "using skills for enterprise AI", "what is context management"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

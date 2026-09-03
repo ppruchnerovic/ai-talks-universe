@@ -4,7 +4,7 @@ title: "Justin Sheehy on Being a Responsible Developer in the Age of AI Hype"
 slug: justin-sheehy-on-being-a-responsible-developer-in-the-age
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: NE2Aj_xvSw8
 url: https://www.youtube.com/watch?v=NE2Aj_xvSw8
 youtube_url: https://www.youtube.com/watch?v=NE2Aj_xvSw8
 tags: []
+topics: []
 transcript: false
 ---
 

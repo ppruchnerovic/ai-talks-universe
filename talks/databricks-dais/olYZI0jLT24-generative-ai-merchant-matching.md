@@ -4,7 +4,7 @@ title: "Generative AI Merchant Matching"
 slug: generative-ai-merchant-matching
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: olYZI0jLT24
 url: https://www.youtube.com/watch?v=olYZI0jLT24
 youtube_url: https://www.youtube.com/watch?v=olYZI0jLT24
 tags: []
+topics: []
 transcript: false
 ---
 

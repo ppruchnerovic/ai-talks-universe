@@ -4,7 +4,7 @@ title: "Meeting September 28, 2023 - OWASP Top 10 For LLM Applications"
 slug: meeting-september-28-2023-owasp-top-10-for-llm-applications
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6Xww_-u-FgA
 url: https://www.youtube.com/watch?v=6Xww_-u-FgA
 youtube_url: https://www.youtube.com/watch?v=6Xww_-u-FgA
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

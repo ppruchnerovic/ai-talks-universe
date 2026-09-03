@@ -4,7 +4,7 @@ title: "The BEST component for your RAG system"
 slug: the-best-component-for-your-rag-system
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Jeffrey Kim"]
@@ -15,6 +15,7 @@ video_id: b2WR9p1yS7Y
 url: https://www.youtube.com/watch?v=b2WR9p1yS7Y
 youtube_url: https://www.youtube.com/watch?v=b2WR9p1yS7Y
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

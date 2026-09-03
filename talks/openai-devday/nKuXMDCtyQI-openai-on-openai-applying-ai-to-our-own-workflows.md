@@ -4,7 +4,7 @@ title: "OpenAI on OpenAI: Applying AI to Our Own Workflows"
 slug: openai-on-openai-applying-ai-to-our-own-workflows
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: nKuXMDCtyQI
 url: https://www.youtube.com/watch?v=nKuXMDCtyQI
 youtube_url: https://www.youtube.com/watch?v=nKuXMDCtyQI
 tags: []
+topics: []
 transcript: false
 ---
 

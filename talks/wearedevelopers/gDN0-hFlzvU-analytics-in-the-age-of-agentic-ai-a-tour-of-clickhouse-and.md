@@ -4,7 +4,7 @@ title: "Analytics in the Age of Agentic AI: A tour of ClickHouse and Langfuse"
 slug: analytics-in-the-age-of-agentic-ai-a-tour-of-clickhouse-and
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Hellmar Becker"]
@@ -15,6 +15,7 @@ video_id: gDN0-hFlzvU
 url: https://www.youtube.com/watch?v=gDN0-hFlzvU
 youtube_url: https://www.youtube.com/watch?v=gDN0-hFlzvU
 tags: ["Data & Databases", "AI Models", "Agentic AI", "Databases"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Every Repo Is a Software Factory Now | Don Syme, GitHub"
 slug: every-repo-is-a-software-factory-now-don-syme-github
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Don Syme"]
@@ -15,6 +15,7 @@ video_id: quVzmAb9oqs
 url: https://www.youtube.com/watch?v=quVzmAb9oqs
 youtube_url: https://www.youtube.com/watch?v=quVzmAb9oqs
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Securing AI RAG Pipelines with Fine Grained Authorization - Sohan Mahesh
 slug: securing-ai-rag-pipelines-with-fine-grained-authorization
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Sohan Maheshwar"]
@@ -15,6 +15,7 @@ video_id: w57L4aNr56M
 url: https://www.youtube.com/watch?v=w57L4aNr56M
 youtube_url: https://www.youtube.com/watch?v=w57L4aNr56M
 tags: []
+topics: ["RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

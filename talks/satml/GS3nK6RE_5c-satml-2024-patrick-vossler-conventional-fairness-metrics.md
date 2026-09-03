@@ -4,7 +4,7 @@ title: "SaTML 2024 - Patrick Vossler - Conventional Fairness Metrics With Probab
 slug: satml-2024-patrick-vossler-conventional-fairness-metrics
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Patrick Vossler"]
@@ -15,6 +15,7 @@ video_id: GS3nK6RE_5c
 url: https://www.youtube.com/watch?v=GS3nK6RE_5c
 youtube_url: https://www.youtube.com/watch?v=GS3nK6RE_5c
 tags: []
+topics: ["Classic ML & data science", "Governance, ethics & regulation"]
 transcript: false
 ---
 

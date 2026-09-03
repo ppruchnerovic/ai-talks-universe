@@ -4,7 +4,7 @@ title: "Giorgia Dell'Orco, Square: Transforming a Global Company’s Customer Su
 slug: giorgia-dell-orco-square-transforming-a-global-companys
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Aq4AWbApqdA
 url: https://www.youtube.com/watch?v=Aq4AWbApqdA
 youtube_url: https://www.youtube.com/watch?v=Aq4AWbApqdA
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Completing the Feedback Loop"
 slug: completing-the-feedback-loop
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Nimrod Kor"]
@@ -15,6 +15,7 @@ video_id: Rc7Ee42hSLw
 url: https://www.youtube.com/watch?v=Rc7Ee42hSLw
 youtube_url: https://www.youtube.com/watch?v=Rc7Ee42hSLw
 tags: ["AI Engineering", "AI Coding Assistants", "Agents", "Agentic AI", "Code Reviews", "Playwright", "Python"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

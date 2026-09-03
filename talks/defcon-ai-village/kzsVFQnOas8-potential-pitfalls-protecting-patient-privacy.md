@@ -4,7 +4,7 @@ title: "Potential Pitfalls Protecting Patient Privacy"
 slug: potential-pitfalls-protecting-patient-privacy
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2021
 speakers: ["Brian Martin"]
@@ -15,6 +15,7 @@ video_id: kzsVFQnOas8
 url: https://www.youtube.com/watch?v=kzsVFQnOas8
 youtube_url: https://www.youtube.com/watch?v=kzsVFQnOas8
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Generally AI Episode 2: AI-Generated Speech and Music"
 slug: generally-ai-episode-2-ai-generated-speech-and-music
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: DjQ4MG2Gzog
 url: https://www.youtube.com/watch?v=DjQ4MG2Gzog
 youtube_url: https://www.youtube.com/watch?v=DjQ4MG2Gzog
 tags: ["AI", "Music", "Generally AI"]
+topics: []
 transcript: false
 ---
 

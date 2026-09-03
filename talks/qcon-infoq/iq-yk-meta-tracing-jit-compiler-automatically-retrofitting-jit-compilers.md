@@ -4,7 +4,7 @@ title: "Automatically Retrofitting JIT Compilers"
 slug: automatically-retrofitting-jit-compilers
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2026"
 year: 2026
 speakers: ["Laurence Tratt"]
@@ -15,6 +15,7 @@ video_id: iq-yk-meta-tracing-jit-compiler
 url: https://www.infoq.com/presentations/yk-meta-tracing-jit-compiler/
 youtube_url: null
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

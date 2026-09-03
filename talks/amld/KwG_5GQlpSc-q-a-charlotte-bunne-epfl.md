@@ -4,7 +4,7 @@ title: "Q&A | Charlotte Bunne, EPFL"
 slug: q-a-charlotte-bunne-epfl
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["Charlotte Bunne"]
@@ -15,6 +15,7 @@ video_id: KwG_5GQlpSc
 url: https://www.youtube.com/watch?v=KwG_5GQlpSc
 youtube_url: https://www.youtube.com/watch?v=KwG_5GQlpSc
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: true
 ---
 

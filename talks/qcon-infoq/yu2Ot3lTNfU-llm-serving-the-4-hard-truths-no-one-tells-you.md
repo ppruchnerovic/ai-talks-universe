@@ -4,7 +4,7 @@ title: "LLM Serving: The 4 Hard Truths No One Tells You"
 slug: llm-serving-the-4-hard-truths-no-one-tells-you
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: yu2Ot3lTNfU
 url: https://www.youtube.com/watch?v=yu2Ot3lTNfU
 youtube_url: https://www.youtube.com/watch?v=yu2Ot3lTNfU
 tags: ["LLMs", "Large Language Models", "Meta", "Facebook", "QCon San Francisco", "InfoQ", "Transcript", "AI", "Artificial Intelligence", "Case Study", "LLM Serving", "AI Infrastructure", "Software Architecture"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

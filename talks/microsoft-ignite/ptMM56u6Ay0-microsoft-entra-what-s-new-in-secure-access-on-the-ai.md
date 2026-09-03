@@ -4,7 +4,7 @@ title: "Microsoft Entra: What's New in Secure Access on the AI Frontier | BRK243
 slug: microsoft-entra-what-s-new-in-secure-access-on-the-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Joy Chik", "Nichole Peterson", "John Savill"]
@@ -15,6 +15,7 @@ video_id: ptMM56u6Ay0
 url: https://www.youtube.com/watch?v=ptMM56u6Ay0
 youtube_url: https://www.youtube.com/watch?v=ptMM56u6Ay0
 tags: ["BRK243", "BRK243_v2", "English (US)", "John Savill", "Joy Chik", "Microsoft Entra: What's New in Secure Access on the AI Frontier | BRK243", "Modernize SecOps with a unified platform", "Nichole Peterson", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

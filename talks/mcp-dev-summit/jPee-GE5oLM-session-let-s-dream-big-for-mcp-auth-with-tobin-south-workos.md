@@ -4,7 +4,7 @@ title: "[Session] Let's dream big for MCP Auth with Tobin South - WorkOS"
 slug: session-let-s-dream-big-for-mcp-auth-with-tobin-south-workos
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: jPee-GE5oLM
 url: https://www.youtube.com/watch?v=jPee-GE5oLM
 youtube_url: https://www.youtube.com/watch?v=jPee-GE5oLM
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

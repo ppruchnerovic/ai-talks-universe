@@ -4,7 +4,7 @@ title: "Durable, Asynchronous, and Tricky: Implementing MCP Tasks in Practice - 
 slug: durable-asynchronous-and-tricky-implementing-mcp-tasks-in
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Cornelia Davis"]
@@ -15,6 +15,7 @@ video_id: CD0DlPaVdN8
 url: https://www.youtube.com/watch?v=CD0DlPaVdN8
 youtube_url: https://www.youtube.com/watch?v=CD0DlPaVdN8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

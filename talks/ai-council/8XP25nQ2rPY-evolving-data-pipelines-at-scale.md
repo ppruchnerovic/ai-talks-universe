@@ -4,7 +4,7 @@ title: "Evolving Data Pipelines at Scale"
 slug: evolving-data-pipelines-at-scale
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Iaroslav Zeigerman"]
@@ -15,6 +15,7 @@ video_id: 8XP25nQ2rPY
 url: https://www.youtube.com/watch?v=8XP25nQ2rPY
 youtube_url: https://www.youtube.com/watch?v=8XP25nQ2rPY
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX"
 slug: scott-jenson-on-evolving-desktop-os-local-first-agentic-ux
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Lm-1O2gIVwg
 url: https://www.youtube.com/watch?v=Lm-1O2gIVwg
 youtube_url: https://www.youtube.com/watch?v=Lm-1O2gIVwg
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

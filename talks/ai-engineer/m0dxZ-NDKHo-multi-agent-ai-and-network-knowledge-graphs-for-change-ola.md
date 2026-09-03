@@ -4,7 +4,7 @@ title: "Multi Agent AI and Network Knowledge Graphs for Change — Ola Mabadeje,
 slug: multi-agent-ai-and-network-knowledge-graphs-for-change-ola
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ola Mabadeje"]
@@ -15,6 +15,7 @@ video_id: m0dxZ-NDKHo
 url: https://www.youtube.com/watch?v=m0dxZ-NDKHo
 youtube_url: https://www.youtube.com/watch?v=m0dxZ-NDKHo
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Machines, Learning, and Machine Learning - Dylan Beattie - NDC Copenhage
 slug: machines-learning-and-machine-learning-dylan-beattie-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Dylan Beattie"]
@@ -15,6 +15,7 @@ video_id: xunx7VvlOgs
 url: https://www.youtube.com/watch?v=xunx7VvlOgs
 youtube_url: https://www.youtube.com/watch?v=xunx7VvlOgs
 tags: ["Machine Learning", "AI", "Soft Skills", "Tooling", "People", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "ML", "ChatGPT", "CoPilot"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

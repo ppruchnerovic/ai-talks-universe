@@ -4,7 +4,7 @@ title: "Responsible AI: Adversarial Attacks on LLMs"
 slug: responsible-ai-adversarial-attacks-on-llms
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Saurabh Shintre"]
@@ -15,6 +15,7 @@ video_id: 7P5zYUX5R9s
 url: https://www.youtube.com/watch?v=7P5zYUX5R9s
 youtube_url: https://www.youtube.com/watch?v=7P5zYUX5R9s
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

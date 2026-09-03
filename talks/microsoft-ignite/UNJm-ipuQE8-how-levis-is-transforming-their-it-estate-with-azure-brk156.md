@@ -4,7 +4,7 @@ title: "How Levi’s is transforming their IT estate with Azure | BRK156"
 slug: how-levis-is-transforming-their-it-estate-with-azure-brk156
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Maria Bledsoe", "Shawn Harris", "Michael Womack"]
@@ -15,6 +15,7 @@ video_id: UNJm-ipuQE8
 url: https://www.youtube.com/watch?v=UNJm-ipuQE8
 youtube_url: https://www.youtube.com/watch?v=UNJm-ipuQE8
 tags: ["BRK156", "English (US)", "How Levi’s is transforming their IT estate with Azure | BRK156", "Maria Bledsoe", "Migrate and modernize your estate", "Migrate and modernize your estate:Azure Kubernetes Service (AKS)", "Migrate and modernize your estate:Azure SQL", "Migrate and modernize your estate:Windows Server", "Shawn Harris", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

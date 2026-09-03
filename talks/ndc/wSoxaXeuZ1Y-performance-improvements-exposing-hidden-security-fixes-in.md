@@ -4,7 +4,7 @@ title: "Performance improvements: exposing hidden security fixes in Open Source 
 slug: performance-improvements-exposing-hidden-security-fixes-in
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Mackenzie Jackson"]
@@ -15,6 +15,7 @@ video_id: wSoxaXeuZ1Y
 url: https://www.youtube.com/watch?v=wSoxaXeuZ1Y
 youtube_url: https://www.youtube.com/watch?v=wSoxaXeuZ1Y
 tags: ["Agile", "People", "AI", "Machine Learning", "Security", "Fun", "GenAI", "IoT", "NDC", "Conferences", "2025", "Live", "Oslo", "Norway", "Lightning Talks", "Mackenzie Jackson"]
+topics: ["Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

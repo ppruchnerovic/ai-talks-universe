@@ -4,7 +4,7 @@ title: "Augmented Development, the successes, surprises and pitfalls by Andy Bai
 slug: augmented-development-the-successes-surprises-and-pitfalls
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Andy Bailey"]
@@ -15,6 +15,7 @@ video_id: kjyXQdrgAi0
 url: https://www.youtube.com/watch?v=kjyXQdrgAi0
 youtube_url: https://www.youtube.com/watch?v=kjyXQdrgAi0
 tags: []
+topics: []
 transcript: false
 ---
 

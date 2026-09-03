@@ -4,7 +4,7 @@ title: "Make Legal Write Your Evals: Building Jade, Chime’s Financial Copilot 
 slug: make-legal-write-your-evals-building-jade-chimes-financial
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: yQ2HCSSsqTc
 url: https://www.youtube.com/watch?v=yQ2HCSSsqTc
 youtube_url: https://www.youtube.com/watch?v=yQ2HCSSsqTc
 tags: ["Make Legal Write Your Evals", "AI compliance evals", "LLM evals", "LLM-as-a-judge", "Chime AI", "Jade AI co-pilot", "agentic AI compliance", "LangSmith evals", "Giskard red teaming", "AI agent evals", "compliance engineering", "eval pipeline", "production AI agents", "Interrupt conference", "LangChain conference", "regulated AI", "fintech AI", "UDAAP", "AI safety evals", "eval taxonomy", "risk-based evals", "LangChain", "LangGraph", "AI agent testing", "eval-driven development"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

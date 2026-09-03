@@ -4,7 +4,7 @@ title: "Design Patterns For AI Products in 2026"
 slug: design-patterns-for-ai-products-in-2026
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Vitaly Friedman"]
@@ -15,6 +15,7 @@ video_id: FP_6JiBHrHE
 url: https://www.youtube.com/watch?v=FP_6JiBHrHE
 youtube_url: https://www.youtube.com/watch?v=FP_6JiBHrHE
 tags: ["Frontend, Web & Mobile", "Generative AI (GenAI)", "Workflows"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

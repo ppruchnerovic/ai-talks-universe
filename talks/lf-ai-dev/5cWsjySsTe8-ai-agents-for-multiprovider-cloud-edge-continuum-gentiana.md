@@ -4,7 +4,7 @@ title: "AI Agents for Multiprovider Cloud Edge Continuum - Gentiana Canga & Paol
 slug: ai-agents-for-multiprovider-cloud-edge-continuum-gentiana
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Gentiana Canga", "Paolo Fasano"]
@@ -15,6 +15,7 @@ video_id: 5cWsjySsTe8
 url: https://www.youtube.com/watch?v=5cWsjySsTe8
 youtube_url: https://www.youtube.com/watch?v=5cWsjySsTe8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

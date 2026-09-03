@@ -4,7 +4,7 @@ title: "Scaling (and failing) Trust Online | Kaarel Kotkas (Veriff) with Ott Kau
 slug: scaling-and-failing-trust-online-kaarel-kotkas-veriff-with
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Kaarel Kotkas"]
@@ -15,6 +15,7 @@ video_id: 5ibrvYnyjLY
 url: https://www.youtube.com/watch?v=5ibrvYnyjLY
 youtube_url: https://www.youtube.com/watch?v=5ibrvYnyjLY
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: []
 transcript: false
 ---
 

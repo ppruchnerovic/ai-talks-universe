@@ -4,7 +4,7 @@ title: "Why AI Agents Need a Data Harness, Not Just a Lakehouse"
 slug: why-ai-agents-need-a-data-harness-not-just-a-lakehouse
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: xR-BiPz45-4
 url: https://www.youtube.com/watch?v=xR-BiPz45-4
 youtube_url: https://www.youtube.com/watch?v=xR-BiPz45-4
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

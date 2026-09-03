@@ -4,7 +4,7 @@ title: "Kanika Narang, Meta: On-Device LLMs: Power of Conversational AI for Mobi
 slug: kanika-narang-meta-on-device-llms-power-of-conversational
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: jfCQJVifSYg
 url: https://www.youtube.com/watch?v=jfCQJVifSYg
 youtube_url: https://www.youtube.com/watch?v=jfCQJVifSYg
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

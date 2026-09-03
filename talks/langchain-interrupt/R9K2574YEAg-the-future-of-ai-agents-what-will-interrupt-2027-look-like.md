@@ -4,7 +4,7 @@ title: "The Future of AI Agents: What Will Interrupt 2027 Look Like? | Interrupt
 slug: the-future-of-ai-agents-what-will-interrupt-2027-look-like
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: R9K2574YEAg
 url: https://www.youtube.com/watch?v=R9K2574YEAg
 youtube_url: https://www.youtube.com/watch?v=R9K2574YEAg
 tags: ["LangChain", "Interrupt 2026", "AI agents", "LangSmith", "LangSmith Fleets", "Harrison Chase", "agentic AI", "AI keynote", "no-code agents", "multi-agent systems", "open source LLMs", "continual learning", "voice agents", "AI sandboxes", "long-horizon agents", "agent identity", "LLM ops", "LangGraph", "deep agents", "AI conference 2026", "AI in the enterprise", "go-to-market AI", "sales AI", "human in the loop", "agent harness", "fine-tuning", "open models", "Fireworks AI", "AI automation"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

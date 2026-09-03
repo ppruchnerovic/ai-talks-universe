@@ -4,7 +4,7 @@ title: "Are We Ready For The Next Cyber Security Crisis Like Log4Shell? by Soroo
 slug: are-we-ready-for-the-next-cyber-security-crisis-like
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Soroosh Khodami"]
@@ -15,6 +15,7 @@ video_id: z0NnBVMqo64
 url: https://www.youtube.com/watch?v=z0NnBVMqo64
 youtube_url: https://www.youtube.com/watch?v=z0NnBVMqo64
 tags: []
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "From SFT to GRPO: Fine-Tuning Open LLMs for Reasoning on Real GPU Budget
 slug: from-sft-to-grpo-fine-tuning-open-llms-for-reasoning-on
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: B1doQTDfX44
 url: https://www.youtube.com/watch?v=B1doQTDfX44
 youtube_url: https://www.youtube.com/watch?v=B1doQTDfX44
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

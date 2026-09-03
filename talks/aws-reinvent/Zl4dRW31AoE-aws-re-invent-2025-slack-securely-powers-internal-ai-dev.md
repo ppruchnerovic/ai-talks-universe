@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Slack securely powers internal AI dev tools with Be
 slug: aws-re-invent-2025-slack-securely-powers-internal-ai-dev
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Zl4dRW31AoE
 url: https://www.youtube.com/watch?v=Zl4dRW31AoE
 youtube_url: https://www.youtube.com/watch?v=Zl4dRW31AoE
 tags: []
+topics: []
 transcript: false
 ---
 

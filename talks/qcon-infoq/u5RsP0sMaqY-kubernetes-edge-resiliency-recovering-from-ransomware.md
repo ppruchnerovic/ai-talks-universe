@@ -4,7 +4,7 @@ title: "Kubernetes Edge Resiliency: Recovering from Ransomware Attacks in Minute
 slug: kubernetes-edge-resiliency-recovering-from-ransomware
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: u5RsP0sMaqY
 url: https://www.youtube.com/watch?v=u5RsP0sMaqY
 youtube_url: https://www.youtube.com/watch?v=u5RsP0sMaqY
 tags: []
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

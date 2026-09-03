@@ -4,7 +4,7 @@ title: "Snehal Antani - Building Scalable AI Companies"
 slug: snehal-antani-building-scalable-ai-companies
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Snehal Antani"]
@@ -15,6 +15,7 @@ video_id: I01DuxthctU
 url: https://www.youtube.com/watch?v=I01DuxthctU
 youtube_url: https://www.youtube.com/watch?v=I01DuxthctU
 tags: []
+topics: []
 transcript: false
 ---
 

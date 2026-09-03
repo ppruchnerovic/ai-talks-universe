@@ -4,7 +4,7 @@ title: "Engineering Culture First: Lessons from a 30-Year Veteran"
 slug: engineering-culture-first-lessons-from-a-30-year-veteran
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: q1w4GXznHTY
 url: https://www.youtube.com/watch?v=q1w4GXznHTY
 youtube_url: https://www.youtube.com/watch?v=q1w4GXznHTY
 tags: ["Engineering Leadership", "Software Engineering", "Tech Culture", "Teamwork", "Teams", "Productivity", "Psychological Safety", "Creativity", "Learning", "Engineering Culture Podcast"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

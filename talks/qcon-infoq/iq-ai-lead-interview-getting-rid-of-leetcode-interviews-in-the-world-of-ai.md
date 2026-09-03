@@ -4,7 +4,7 @@ title: "Getting Rid of LeetCode Interviews in the World of AI"
 slug: getting-rid-of-leetcode-interviews-in-the-world-of-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Daniel Doubrovkine"]
@@ -15,6 +15,7 @@ video_id: iq-ai-lead-interview
 url: https://www.infoq.com/presentations/ai-lead-interview/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

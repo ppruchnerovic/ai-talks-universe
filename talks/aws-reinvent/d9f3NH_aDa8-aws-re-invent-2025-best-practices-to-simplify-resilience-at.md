@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Best practices to simplify resilience at scale for 
 slug: aws-re-invent-2025-best-practices-to-simplify-resilience-at
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: d9f3NH_aDa8
 url: https://www.youtube.com/watch?v=d9f3NH_aDa8
 youtube_url: https://www.youtube.com/watch?v=d9f3NH_aDa8
 tags: []
+topics: []
 transcript: false
 ---
 

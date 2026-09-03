@@ -4,7 +4,7 @@ title: "Agents of Chaos: Hacktivism Spreads Fear, Disinformation, and Propaganda
 slug: agents-of-chaos-hacktivism-spreads-fear-disinformation-and
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Alexander Leslie"]
@@ -15,6 +15,7 @@ video_id: IGWVGw8tzbM
 url: https://www.youtube.com/watch?v=IGWVGw8tzbM
 youtube_url: https://www.youtube.com/watch?v=IGWVGw8tzbM
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

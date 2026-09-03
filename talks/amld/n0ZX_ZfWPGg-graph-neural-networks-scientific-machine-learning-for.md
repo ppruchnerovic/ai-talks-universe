@@ -4,7 +4,7 @@ title: "Graph Neural Networks | Scientific Machine Learning for Science and Engi
 slug: graph-neural-networks-scientific-machine-learning-for
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Vinay Sharma"]
@@ -15,6 +15,7 @@ video_id: n0ZX_ZfWPGg
 url: https://www.youtube.com/watch?v=n0ZX_ZfWPGg
 youtube_url: https://www.youtube.com/watch?v=n0ZX_ZfWPGg
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

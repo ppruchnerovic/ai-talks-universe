@@ -4,7 +4,7 @@ title: "Adaptive by Design: Contextual Reinforcement Learning for Mission-Ready 
 slug: adaptive-by-design-contextual-reinforcement-learning-for
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Jake Thomas"]
@@ -15,6 +15,7 @@ video_id: CYaTtFUKzXY
 url: https://www.youtube.com/watch?v=CYaTtFUKzXY
 youtube_url: https://www.youtube.com/watch?v=CYaTtFUKzXY
 tags: []
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

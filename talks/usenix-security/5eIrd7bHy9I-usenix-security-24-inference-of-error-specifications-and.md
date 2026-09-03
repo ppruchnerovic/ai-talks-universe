@@ -4,7 +4,7 @@ title: "USENIX Security '24 - Inference of Error Specifications and Bug Detectio
 slug: usenix-security-24-inference-of-error-specifications-and
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5eIrd7bHy9I
 url: https://www.youtube.com/watch?v=5eIrd7bHy9I
 youtube_url: https://www.youtube.com/watch?v=5eIrd7bHy9I
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

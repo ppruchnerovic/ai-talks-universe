@@ -4,7 +4,7 @@ title: "Ray at IBM: Transforming Large-Scale Data Processing for AI and Science 
 slug: ray-at-ibm-transforming-large-scale-data-processing-for-ai
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: qBPCIawHcB8
 url: https://www.youtube.com/watch?v=qBPCIawHcB8
 youtube_url: https://www.youtube.com/watch?v=qBPCIawHcB8
 tags: []
+topics: []
 transcript: false
 ---
 

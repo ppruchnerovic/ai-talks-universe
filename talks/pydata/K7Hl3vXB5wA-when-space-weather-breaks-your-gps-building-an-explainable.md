@@ -4,7 +4,7 @@ title: "When Space Weather Breaks Your GPS: Building an Explainable Early Warnin
 slug: when-space-weather-breaks-your-gps-building-an-explainable
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Vincenzo Ventriglia"]
@@ -15,6 +15,7 @@ video_id: K7Hl3vXB5wA
 url: https://www.youtube.com/watch?v=K7Hl3vXB5wA
 youtube_url: https://www.youtube.com/watch?v=K7Hl3vXB5wA
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

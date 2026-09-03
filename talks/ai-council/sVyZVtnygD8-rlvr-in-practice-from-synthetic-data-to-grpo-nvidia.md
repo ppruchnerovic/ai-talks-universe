@@ -4,7 +4,7 @@ title: "RLVR in Practice: From Synthetic Data to GRPO | NVIDIA"
 slug: rlvr-in-practice-from-synthetic-data-to-grpo-nvidia
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: sVyZVtnygD8
 url: https://www.youtube.com/watch?v=sVyZVtnygD8
 youtube_url: https://www.youtube.com/watch?v=sVyZVtnygD8
 tags: ["AI"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

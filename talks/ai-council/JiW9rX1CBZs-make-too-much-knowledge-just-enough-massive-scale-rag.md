@@ -4,7 +4,7 @@ title: "Make Too Much Knowledge Just Enough Massive Scale RAG & GraphRAG w Open 
 slug: make-too-much-knowledge-just-enough-massive-scale-rag
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Skyler Thomas"]
@@ -15,6 +15,7 @@ video_id: JiW9rX1CBZs
 url: https://www.youtube.com/watch?v=JiW9rX1CBZs
 youtube_url: https://www.youtube.com/watch?v=JiW9rX1CBZs
 tags: ["GraphRAG", "RAG tutorial", "knowledge graphs", "ChatGPT", "artificial intelligence", "machine learning", "vector database", "retrieval augmented generation", "semantic search", "AI applications", "open source", "OpenTelemetry", "OpenInference", "Python tutorial", "graph neural networks", "entity linking", "relationship extraction", "knowledge base construction", "semantic understanding", "contextual retrieval", "multi hop reasoning", "graph embeddings"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

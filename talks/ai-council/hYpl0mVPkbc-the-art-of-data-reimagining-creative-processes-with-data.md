@@ -4,7 +4,7 @@ title: "The Art of Data: Reimagining Creative Processes with Data Culture"
 slug: the-art-of-data-reimagining-creative-processes-with-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Michael Cohen"]
@@ -15,6 +15,7 @@ video_id: hYpl0mVPkbc
 url: https://www.youtube.com/watch?v=hYpl0mVPkbc
 youtube_url: https://www.youtube.com/watch?v=hYpl0mVPkbc
 tags: ["data visualization", "creative coding", "design", "ChatGPT", "artificial intelligence", "machine learning", "data storytelling", "data art", "data culture", "creative processes", "artistic creativity", "data literacy", "collaboration", "Python tutorial", "information design", "visual analytics", "interactive visualization", "dashboard design", "chart design", "color theory", "typography", "user experience design", "accessibility", "responsive design"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

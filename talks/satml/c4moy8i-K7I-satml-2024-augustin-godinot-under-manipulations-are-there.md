@@ -4,7 +4,7 @@ title: "SaTML 2024 - Augustin Godinot - Under manipulations, are there AI models
 slug: satml-2024-augustin-godinot-under-manipulations-are-there
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Augustin Godinot"]
@@ -15,6 +15,7 @@ video_id: c4moy8i-K7I
 url: https://www.youtube.com/watch?v=c4moy8i-K7I
 youtube_url: https://www.youtube.com/watch?v=c4moy8i-K7I
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

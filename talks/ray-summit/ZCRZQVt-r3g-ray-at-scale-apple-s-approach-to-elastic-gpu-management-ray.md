@@ -4,7 +4,7 @@ title: "Ray at Scale: Apple's Approach to Elastic GPU Management | Ray Summit 20
 slug: ray-at-scale-apple-s-approach-to-elastic-gpu-management-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZCRZQVt-r3g
 url: https://www.youtube.com/watch?v=ZCRZQVt-r3g
 youtube_url: https://www.youtube.com/watch?v=ZCRZQVt-r3g
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

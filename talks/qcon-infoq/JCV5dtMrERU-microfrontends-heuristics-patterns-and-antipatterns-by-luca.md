@@ -4,7 +4,7 @@ title: "Microfrontends: Heuristics, Patterns and Antipatterns by Luca Mezzalira"
 slug: microfrontends-heuristics-patterns-and-antipatterns-by-luca
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: ["Luca Mezzalira"]
@@ -15,6 +15,7 @@ video_id: JCV5dtMrERU
 url: https://www.youtube.com/watch?v=JCV5dtMrERU
 youtube_url: https://www.youtube.com/watch?v=JCV5dtMrERU
 tags: []
+topics: []
 transcript: false
 ---
 

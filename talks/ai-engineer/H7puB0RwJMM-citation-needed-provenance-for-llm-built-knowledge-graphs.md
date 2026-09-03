@@ -4,7 +4,7 @@ title: "Citation Needed: Provenance for LLM-Built Knowledge Graphs — Daniel Ch
 slug: citation-needed-provenance-for-llm-built-knowledge-graphs
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Daniel Chalef"]
@@ -15,6 +15,7 @@ video_id: H7puB0RwJMM
 url: https://www.youtube.com/watch?v=H7puB0RwJMM
 youtube_url: https://www.youtube.com/watch?v=H7puB0RwJMM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

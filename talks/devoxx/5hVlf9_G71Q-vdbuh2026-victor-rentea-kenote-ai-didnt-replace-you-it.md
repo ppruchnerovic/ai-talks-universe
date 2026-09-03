@@ -4,7 +4,7 @@ title: "[VDBUH2026] Victor Rentea - Kenote: AI Didn’t Replace You. It Promoted
 slug: vdbuh2026-victor-rentea-kenote-ai-didnt-replace-you-it
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Victor Rentea"]
@@ -15,6 +15,7 @@ video_id: 5hVlf9_G71Q
 url: https://www.youtube.com/watch?v=5hVlf9_G71Q
 youtube_url: https://www.youtube.com/watch?v=5hVlf9_G71Q
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

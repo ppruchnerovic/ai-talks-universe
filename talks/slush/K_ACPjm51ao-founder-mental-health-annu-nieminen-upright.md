@@ -4,7 +4,7 @@ title: "Founder Mental Health | Annu Nieminen (Upright)"
 slug: founder-mental-health-annu-nieminen-upright
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Annu Nieminen"]
@@ -15,6 +15,7 @@ video_id: K_ACPjm51ao
 url: https://www.youtube.com/watch?v=K_ACPjm51ao
 youtube_url: https://www.youtube.com/watch?v=K_ACPjm51ao
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

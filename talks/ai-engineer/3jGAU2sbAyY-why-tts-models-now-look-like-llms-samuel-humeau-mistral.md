@@ -4,7 +4,7 @@ title: "Why TTS Models Now Look Like LLMs — Samuel Humeau, Mistral"
 slug: why-tts-models-now-look-like-llms-samuel-humeau-mistral
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Samuel Humeau"]
@@ -15,6 +15,7 @@ video_id: 3jGAU2sbAyY
 url: https://www.youtube.com/watch?v=3jGAU2sbAyY
 youtube_url: https://www.youtube.com/watch?v=3jGAU2sbAyY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

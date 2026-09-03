@@ -4,7 +4,7 @@ title: "Accelerating vLLM with LMCache | Ray Summit 2025"
 slug: accelerating-vllm-with-lmcache-ray-summit-2025
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: TwLd15HE6AM
 url: https://www.youtube.com/watch?v=TwLd15HE6AM
 youtube_url: https://www.youtube.com/watch?v=TwLd15HE6AM
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

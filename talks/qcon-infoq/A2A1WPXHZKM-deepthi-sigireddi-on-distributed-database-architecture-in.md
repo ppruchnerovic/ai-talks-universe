@@ -4,7 +4,7 @@ title: "Deepthi Sigireddi on Distributed Database Architecture in the Cloud Nati
 slug: deepthi-sigireddi-on-distributed-database-architecture-in
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: A2A1WPXHZKM
 url: https://www.youtube.com/watch?v=A2A1WPXHZKM
 youtube_url: https://www.youtube.com/watch?v=A2A1WPXHZKM
 tags: []
+topics: []
 transcript: false
 ---
 

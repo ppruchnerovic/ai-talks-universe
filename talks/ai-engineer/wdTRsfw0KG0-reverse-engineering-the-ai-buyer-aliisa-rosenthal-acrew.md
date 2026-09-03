@@ -4,7 +4,7 @@ title: "Reverse-Engineering the AI Buyer — Aliisa Rosenthal, Acrew Capital"
 slug: reverse-engineering-the-ai-buyer-aliisa-rosenthal-acrew
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Aliisa Rosenthal"]
@@ -15,6 +15,7 @@ video_id: wdTRsfw0KG0
 url: https://www.youtube.com/watch?v=wdTRsfw0KG0
 youtube_url: https://www.youtube.com/watch?v=wdTRsfw0KG0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

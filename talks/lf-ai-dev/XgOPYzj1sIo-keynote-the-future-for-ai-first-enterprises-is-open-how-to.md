@@ -4,7 +4,7 @@ title: "Keynote: The Future for AI-First Enterprises is “Open” - How to Succ
 slug: keynote-the-future-for-ai-first-enterprises-is-open-how-to
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XgOPYzj1sIo
 url: https://www.youtube.com/watch?v=XgOPYzj1sIo
 youtube_url: https://www.youtube.com/watch?v=XgOPYzj1sIo
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

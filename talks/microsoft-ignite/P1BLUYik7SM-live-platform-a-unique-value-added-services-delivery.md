@@ -4,7 +4,7 @@ title: "Live Platform: A unique value-added services delivery platform | ODSP147
 slug: live-platform-a-unique-value-added-services-delivery
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Benny Matityahu"]
@@ -15,6 +15,7 @@ video_id: P1BLUYik7SM
 url: https://www.youtube.com/watch?v=P1BLUYik7SM
 youtube_url: https://www.youtube.com/watch?v=P1BLUYik7SM
 tags: ["Benny Matityahu", "English (US)", "Innovate with Azure AI apps and agents", "Live Platform: A unique value-added services delivery platform | ODSP1470", "ODSP1470", "ODSP1470_v1", "Technical", "Telecommunications", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

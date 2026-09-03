@@ -4,7 +4,7 @@ title: "Active directory disaster recovery: What works what fails | ODSP1472"
 slug: active-directory-disaster-recovery-what-works-what-fails
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Craig Birch"]
@@ -15,6 +15,7 @@ video_id: mVZqmcmB6FU
 url: https://www.youtube.com/watch?v=mVZqmcmB6FU
 youtube_url: https://www.youtube.com/watch?v=mVZqmcmB6FU
 tags: ["Active directory disaster recovery: What works what fails | ODSP1472", "Craig Birch", "English (US)", "Modernize SecOps with a unified platform", "ODSP1472", "ODSP1472_v1", "Protect cloud AI platform and apps", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

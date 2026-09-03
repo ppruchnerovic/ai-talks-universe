@@ -4,7 +4,7 @@ title: "S Bottani & P Lee- Applying Causal Inference in Industry 4.0: A Case Stu
 slug: s-bottani-p-lee-applying-causal-inference-in-industry-4-0-a
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: WEcFmjcT4GM
 url: https://www.youtube.com/watch?v=WEcFmjcT4GM
 youtube_url: https://www.youtube.com/watch?v=WEcFmjcT4GM
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Lex Avstreikh - Building Resilient (ML) Pipelines for MLOps"
 slug: lex-avstreikh-building-resilient-ml-pipelines-for-mlops
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Lex Avstreikh", "Building Resilient"]
@@ -15,6 +15,7 @@ video_id: q9hSXu1cz0Q
 url: https://www.youtube.com/watch?v=q9hSXu1cz0Q
 youtube_url: https://www.youtube.com/watch?v=q9hSXu1cz0Q
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: false
 ---
 

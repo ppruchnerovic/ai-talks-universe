@@ -4,7 +4,7 @@ title: "Getting to True Predictive Risk: Will Data Accuracy Thwart AI’s Potent
 slug: getting-to-true-predictive-risk-will-data-accuracy-thwart
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Z-PIPW8khKc
 url: https://www.youtube.com/watch?v=Z-PIPW8khKc
 youtube_url: https://www.youtube.com/watch?v=Z-PIPW8khKc
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Personalized Restaurant Recommendations at Scale combining Transformer w
 slug: personalized-restaurant-recommendations-at-scale-combining
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Marcel Kurovski"]
@@ -15,6 +15,7 @@ video_id: FbjpwHLaNb4
 url: https://www.youtube.com/watch?v=FbjpwHLaNb4
 youtube_url: https://www.youtube.com/watch?v=FbjpwHLaNb4
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

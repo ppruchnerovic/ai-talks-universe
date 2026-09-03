@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Phillip Snalune: AI Upskilling: A Framework Agnostic P
 slug: ai-dev-25-x-nyc-phillip-snalune-ai-upskilling-a-framework
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: iPu68fiNyBU
 url: https://www.youtube.com/watch?v=iPu68fiNyBU
 youtube_url: https://www.youtube.com/watch?v=iPu68fiNyBU
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

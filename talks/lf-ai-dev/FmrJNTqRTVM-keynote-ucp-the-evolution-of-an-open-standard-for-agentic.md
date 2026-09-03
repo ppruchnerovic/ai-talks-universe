@@ -4,7 +4,7 @@ title: "Keynote: UCP: The Evolution of an Open Standard for Agentic Commerce - A
 slug: keynote-ucp-the-evolution-of-an-open-standard-for-agentic
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Anurag Sinha"]
@@ -15,6 +15,7 @@ video_id: FmrJNTqRTVM
 url: https://www.youtube.com/watch?v=FmrJNTqRTVM
 youtube_url: https://www.youtube.com/watch?v=FmrJNTqRTVM
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

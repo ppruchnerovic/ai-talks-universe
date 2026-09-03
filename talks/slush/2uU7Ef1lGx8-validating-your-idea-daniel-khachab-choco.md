@@ -4,7 +4,7 @@ title: "Validating Your Idea | Daniel Khachab (Choco)"
 slug: validating-your-idea-daniel-khachab-choco
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: ["Daniel Khachab"]
@@ -15,6 +15,7 @@ video_id: 2uU7Ef1lGx8
 url: https://www.youtube.com/watch?v=2uU7Ef1lGx8
 youtube_url: https://www.youtube.com/watch?v=2uU7Ef1lGx8
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Slush 2019", "Venture Capital", "Innovation", "Growth", "Business"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

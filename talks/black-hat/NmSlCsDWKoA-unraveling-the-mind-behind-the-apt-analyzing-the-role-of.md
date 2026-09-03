@@ -4,7 +4,7 @@ title: "Unraveling the Mind Behind the APT - Analyzing the Role of Pretexting in
 slug: unraveling-the-mind-behind-the-apt-analyzing-the-role-of
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: NmSlCsDWKoA
 url: https://www.youtube.com/watch?v=NmSlCsDWKoA
 youtube_url: https://www.youtube.com/watch?v=NmSlCsDWKoA
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

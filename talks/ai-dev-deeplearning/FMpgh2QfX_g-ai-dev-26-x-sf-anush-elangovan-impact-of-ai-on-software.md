@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Anush Elangovan: Impact of AI on Software"
 slug: ai-dev-26-x-sf-anush-elangovan-impact-of-ai-on-software
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: FMpgh2QfX_g
 url: https://www.youtube.com/watch?v=FMpgh2QfX_g
 youtube_url: https://www.youtube.com/watch?v=FMpgh2QfX_g
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

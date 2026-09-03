@@ -4,7 +4,7 @@ title: "Employer Branding: Telling Stories That Matter"
 slug: employer-branding-telling-stories-that-matter
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XR_R12nbeD0
 url: https://www.youtube.com/watch?v=XR_R12nbeD0
 youtube_url: https://www.youtube.com/watch?v=XR_R12nbeD0
 tags: ["recruiting", "employer branding", "storytelling", "branding", "hr", "AI", "narratives", "elevator pitch", "wearedevelopers", "cappuccino with hr", "WeAreDevs", "human resources"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

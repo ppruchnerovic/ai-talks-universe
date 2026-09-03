@@ -4,7 +4,7 @@ title: "RSAC™ Innovation Showcase: Mastering OT Cyber Readiness: Strategies & 
 slug: rsactm-innovation-showcase-mastering-ot-cyber-readiness
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: bSWZ8kDRieE
 url: https://www.youtube.com/watch?v=bSWZ8kDRieE
 youtube_url: https://www.youtube.com/watch?v=bSWZ8kDRieE
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

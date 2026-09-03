@@ -4,7 +4,7 @@ title: "Chat and citations won't save your vertical AI - Atul Ramachandran, File
 slug: chat-and-citations-won-t-save-your-vertical-ai-atul
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Atul Ramachandran"]
@@ -15,6 +15,7 @@ video_id: RGiXcVxSD3s
 url: https://www.youtube.com/watch?v=RGiXcVxSD3s
 youtube_url: https://www.youtube.com/watch?v=RGiXcVxSD3s
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

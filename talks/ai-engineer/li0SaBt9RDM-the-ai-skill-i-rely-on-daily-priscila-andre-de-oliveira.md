@@ -4,7 +4,7 @@ title: "The AI Skill I Rely On Daily — Priscila Andre de Oliveira, Sentry"
 slug: the-ai-skill-i-rely-on-daily-priscila-andre-de-oliveira
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Priscila Andre de Oliveira"]
@@ -15,6 +15,7 @@ video_id: li0SaBt9RDM
 url: https://www.youtube.com/watch?v=li0SaBt9RDM
 youtube_url: https://www.youtube.com/watch?v=li0SaBt9RDM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

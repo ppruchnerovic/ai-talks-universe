@@ -4,7 +4,7 @@ title: "Ep.43 Meeting Aug 13 2025: Black Hat Recap, New Tools, and OWASP Roadmap
 slug: ep-43-meeting-aug-13-2025-black-hat-recap-new-tools-and
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ndxfYK44e0c
 url: https://www.youtube.com/watch?v=ndxfYK44e0c
 youtube_url: https://www.youtube.com/watch?v=ndxfYK44e0c
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

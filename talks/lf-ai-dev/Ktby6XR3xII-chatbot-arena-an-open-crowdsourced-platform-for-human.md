@@ -4,7 +4,7 @@ title: "Chatbot Arena: An Open Crowdsourced Platform for Human Feedback on LLMs 
 slug: chatbot-arena-an-open-crowdsourced-platform-for-human
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ktby6XR3xII
 url: https://www.youtube.com/watch?v=Ktby6XR3xII
 youtube_url: https://www.youtube.com/watch?v=Ktby6XR3xII
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

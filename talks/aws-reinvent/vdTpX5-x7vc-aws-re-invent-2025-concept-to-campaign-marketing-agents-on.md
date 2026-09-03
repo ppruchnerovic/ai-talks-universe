@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Concept to campaign: Marketing agents on Amazon Bed
 slug: aws-re-invent-2025-concept-to-campaign-marketing-agents-on
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: vdTpX5-x7vc
 url: https://www.youtube.com/watch?v=vdTpX5-x7vc
 youtube_url: https://www.youtube.com/watch?v=vdTpX5-x7vc
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

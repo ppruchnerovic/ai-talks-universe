@@ -4,7 +4,7 @@ title: "Jose Renau - Building Hardware Agents"
 slug: jose-renau-building-hardware-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Jose Renau"]
@@ -15,6 +15,7 @@ video_id: lDq-JA1khv0
 url: https://www.youtube.com/watch?v=lDq-JA1khv0
 youtube_url: https://www.youtube.com/watch?v=lDq-JA1khv0
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

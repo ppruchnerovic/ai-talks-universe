@@ -4,7 +4,7 @@ title: "Bye-Bye Query Spaghetti: Write Queries You'll Actually Understand Using 
 slug: bye-bye-query-spaghetti-write-queries-you-ll-actually
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Tobias Lampert"]
@@ -15,6 +15,7 @@ video_id: TrQir4qzsKc
 url: https://www.youtube.com/watch?v=TrQir4qzsKc
 youtube_url: https://www.youtube.com/watch?v=TrQir4qzsKc
 tags: ["Apache Spark", "BigQuery", "Conference", "Databricks", "Pipelined SQL", "PyConDE", "PyData", "Python", "SQL", "SQL syntax", "SQL transpiler", "SQLGlot", "Tech Talk", "analytics engineering", "conference talk", "data engineering", "data transformation", "database", "query optimization"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

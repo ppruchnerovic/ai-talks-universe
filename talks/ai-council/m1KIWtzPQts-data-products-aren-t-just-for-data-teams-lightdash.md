@@ -4,7 +4,7 @@ title: "Data Products Aren't Just for Data Teams! Lightdash"
 slug: data-products-aren-t-just-for-data-teams-lightdash
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: m1KIWtzPQts
 url: https://www.youtube.com/watch?v=m1KIWtzPQts
 youtube_url: https://www.youtube.com/watch?v=m1KIWtzPQts
 tags: ["data tools", "data teams", "data products"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

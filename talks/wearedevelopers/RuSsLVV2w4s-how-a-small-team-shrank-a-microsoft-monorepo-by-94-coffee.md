@@ -4,7 +4,7 @@ title: "How a Small Team Shrank a Microsoft Monorepo by 94% - Coffee with Develo
 slug: how-a-small-team-shrank-a-microsoft-monorepo-by-94-coffee
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: RuSsLVV2w4s
 url: https://www.youtube.com/watch?v=RuSsLVV2w4s
 youtube_url: https://www.youtube.com/watch?v=RuSsLVV2w4s
 tags: ["AI", "DevRel", "Software Architecture", "Cloud Computing", "DevOps", "Developer Tools", "Developer News", "Tech Careers", "Job Market", "Coding Tutorials", "Web Development", "Mobile Development", "Data Science", "Machine Learning", "Cybersecurity", "IoT", "Blockchain", "AR/VR", "UI/UX Design", "Agile Methodologies", "Tech Conferences", "Tech Interviews", "Career Advice", "Developer Jobs", "Git", "Microsoft", "Monorepo", "Repository Management", "Remote Work", "Software Development", "Coding", "GitHub", "Case Study"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

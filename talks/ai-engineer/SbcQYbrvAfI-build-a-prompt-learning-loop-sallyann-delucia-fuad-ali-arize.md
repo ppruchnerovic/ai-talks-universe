@@ -4,7 +4,7 @@ title: "Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize"
 slug: build-a-prompt-learning-loop-sallyann-delucia-fuad-ali-arize
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: SbcQYbrvAfI
 url: https://www.youtube.com/watch?v=SbcQYbrvAfI
 youtube_url: https://www.youtube.com/watch?v=SbcQYbrvAfI
 tags: []
+topics: ["Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

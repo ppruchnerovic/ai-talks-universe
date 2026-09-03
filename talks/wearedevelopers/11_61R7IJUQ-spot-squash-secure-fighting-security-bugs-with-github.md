@@ -4,7 +4,7 @@ title: "Spot, Squash, Secure: Fighting Security Bugs with GitHub Copilot"
 slug: spot-squash-secure-fighting-security-bugs-with-github
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Malte Lantin", "Marie Theresa Brosig"]
@@ -15,6 +15,7 @@ video_id: 11_61R7IJUQ
 url: https://www.youtube.com/watch?v=11_61R7IJUQ
 youtube_url: https://www.youtube.com/watch?v=11_61R7IJUQ
 tags: ["Security & Privacy", "AppSec", "DevSecOps", "GitHub", "Security"]
+topics: ["Coding assistants & agents", "Security, safety & red teaming"]
 transcript: true
 ---
 

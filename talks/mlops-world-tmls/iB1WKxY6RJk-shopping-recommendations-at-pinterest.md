@@ -4,7 +4,7 @@ title: "Shopping Recommendations at Pinterest"
 slug: shopping-recommendations-at-pinterest
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: iB1WKxY6RJk
 url: https://www.youtube.com/watch?v=iB1WKxY6RJk
 youtube_url: https://www.youtube.com/watch?v=iB1WKxY6RJk
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Shopping Recommendations at Pinterest", "Shopping Recommendations", "Pinterest", "shopping", "recommendation", "Machine Learning Engineer", "machine learning engineering", "pinterest"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

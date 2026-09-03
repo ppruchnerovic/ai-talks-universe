@@ -4,7 +4,7 @@ title: "Beyond the Code: Hiring for Cultural Alignment"
 slug: beyond-the-code-hiring-for-cultural-alignment
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Alicia Collymore"]
@@ -15,6 +15,7 @@ video_id: iq-cultural-alignment
 url: https://www.infoq.com/presentations/cultural-alignment/
 youtube_url: null
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

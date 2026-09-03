@@ -4,7 +4,7 @@ title: "Keynote: vLLM & Deepspeed Updates - Simon Mo & Tunji Ruwase"
 slug: keynote-vllm-deepspeed-updates-simon-mo-tunji-ruwase
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Simon Mo", "Tunji Ruwase"]
@@ -15,6 +15,7 @@ video_id: JQYP2l8x6oQ
 url: https://www.youtube.com/watch?v=JQYP2l8x6oQ
 youtube_url: https://www.youtube.com/watch?v=JQYP2l8x6oQ
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

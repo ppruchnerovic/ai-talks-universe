@@ -4,7 +4,7 @@ title: "The missing pieces of workflow automation — Shirsha Chaudhuri, Thomson
 slug: the-missing-pieces-of-workflow-automation-shirsha-chaudhuri
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Shirsha Chaudhuri"]
@@ -15,6 +15,7 @@ video_id: xq9sz5MksVI
 url: https://www.youtube.com/watch?v=xq9sz5MksVI
 youtube_url: https://www.youtube.com/watch?v=xq9sz5MksVI
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

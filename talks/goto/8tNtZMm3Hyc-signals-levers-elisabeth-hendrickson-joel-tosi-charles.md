@@ -4,7 +4,7 @@ title: "Signals & Levers â€¢ Elisabeth Hendrickson, Joel Tosi & Charles Humble â
 slug: signals-levers-elisabeth-hendrickson-joel-tosi-charles
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Elisabeth Hendrickson"]
@@ -15,6 +15,7 @@ video_id: 8tNtZMm3Hyc
 url: https://www.youtube.com/watch?v=8tNtZMm3Hyc
 youtube_url: https://www.youtube.com/watch?v=8tNtZMm3Hyc
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Book Club", "Elisabeth Hendrickson", "Joel Tosi", "Charles Humble", "Signals & Levers", "Systems Thiking", "Company Culture", "Company Policy", "Culture vs. Policy", "Illusions of Progress", "Causal Modeling"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

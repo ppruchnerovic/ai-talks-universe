@@ -4,7 +4,7 @@ title: "Rest API Antipatterns"
 slug: rest-api-antipatterns
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Wekoslav Stefanovski"]
@@ -15,6 +15,7 @@ video_id: S0_8mu40tTw
 url: https://www.youtube.com/watch?v=S0_8mu40tTw
 youtube_url: https://www.youtube.com/watch?v=S0_8mu40tTw
 tags: ["Backend & APIs", "APIs", "Governance", "Software Architecture"]
+topics: []
 transcript: true
 ---
 

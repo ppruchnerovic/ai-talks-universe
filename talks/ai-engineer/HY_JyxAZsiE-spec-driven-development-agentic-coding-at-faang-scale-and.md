@@ -4,7 +4,7 @@ title: "Spec-Driven Development: Agentic Coding at FAANG Scale and Quality — A
 slug: spec-driven-development-agentic-coding-at-faang-scale-and
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Al Harris"]
@@ -15,6 +15,7 @@ video_id: HY_JyxAZsiE
 url: https://www.youtube.com/watch?v=HY_JyxAZsiE
 youtube_url: https://www.youtube.com/watch?v=HY_JyxAZsiE
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

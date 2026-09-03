@@ -4,7 +4,7 @@ title: "Roman Lutz - Red Teaming AI: Getting Started with PyRIT | PyData Seattle
 slug: roman-lutz-red-teaming-ai-getting-started-with-pyrit-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Roman Lutz"]
@@ -15,6 +15,7 @@ video_id: oehEhQ93HiM
 url: https://www.youtube.com/watch?v=oehEhQ93HiM
 youtube_url: https://www.youtube.com/watch?v=oehEhQ93HiM
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

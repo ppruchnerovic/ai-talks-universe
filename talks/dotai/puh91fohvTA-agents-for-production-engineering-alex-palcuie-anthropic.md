@@ -4,7 +4,7 @@ title: "Agents for production engineering - Alex Palcuie - Anthropic"
 slug: agents-for-production-engineering-alex-palcuie-anthropic
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Alex Palcuie"]
@@ -15,6 +15,7 @@ video_id: puh91fohvTA
 url: https://www.youtube.com/watch?v=puh91fohvTA
 youtube_url: https://www.youtube.com/watch?v=puh91fohvTA
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

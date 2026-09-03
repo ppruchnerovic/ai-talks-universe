@@ -4,7 +4,7 @@ title: "Generative AI for data practitioners"
 slug: generative-ai-for-data-practitioners
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cHNy5mK0jzE
 url: https://www.youtube.com/watch?v=cHNy5mK0jzE
 youtube_url: https://www.youtube.com/watch?v=cHNy5mK0jzE
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "From Vibe Coding to Viable Code with Spec-Driven Development"
 slug: from-vibe-coding-to-viable-code-with-spec-driven-development
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Julian Wood"]
@@ -15,6 +15,7 @@ video_id: u6p3ywgZo0Q
 url: https://www.youtube.com/watch?v=u6p3ywgZo0Q
 youtube_url: https://www.youtube.com/watch?v=u6p3ywgZo0Q
 tags: ["Developer Experience", "AI Coding Assistants"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 

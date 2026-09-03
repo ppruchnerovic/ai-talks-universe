@@ -4,7 +4,7 @@ title: "What Data from 20m Pull Requests Reveal About AI Transformation — Nick
 slug: what-data-from-20m-pull-requests-reveal-about-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nick Arcolano"]
@@ -15,6 +15,7 @@ video_id: WqZq8L-v9pA
 url: https://www.youtube.com/watch?v=WqZq8L-v9pA
 youtube_url: https://www.youtube.com/watch?v=WqZq8L-v9pA
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

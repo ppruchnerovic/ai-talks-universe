@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025-Privacy-preserving AI primitives: Building blocks for
 slug: aws-re-invent-2025-privacy-preserving-ai-primitives
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: vfkKJhllnx4
 url: https://www.youtube.com/watch?v=vfkKJhllnx4
 youtube_url: https://www.youtube.com/watch?v=vfkKJhllnx4
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Diagnostic Tooling: How to get insights from your .NET services hosted i
 slug: diagnostic-tooling-how-to-get-insights-from-your-net
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Tom Crecelius"]
@@ -15,6 +15,7 @@ video_id: I7mkG1bjfV4
 url: https://www.youtube.com/watch?v=I7mkG1bjfV4
 youtube_url: https://www.youtube.com/watch?v=I7mkG1bjfV4
 tags: ["Languages & Runtimes", "Analytics", "Best Practices", "C#", "Containers", ".NET", "Tooling", "Tools"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

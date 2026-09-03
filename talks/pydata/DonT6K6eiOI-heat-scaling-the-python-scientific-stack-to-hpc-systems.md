@@ -4,7 +4,7 @@ title: "Heat: scaling the Python scientific stack to HPC systems [PyCon DE & PyD
 slug: heat-scaling-the-python-scientific-stack-to-hpc-systems
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Claudia Comito"]
@@ -15,6 +15,7 @@ video_id: DonT6K6eiOI
 url: https://www.youtube.com/watch?v=DonT6K6eiOI
 youtube_url: https://www.youtube.com/watch?v=DonT6K6eiOI
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

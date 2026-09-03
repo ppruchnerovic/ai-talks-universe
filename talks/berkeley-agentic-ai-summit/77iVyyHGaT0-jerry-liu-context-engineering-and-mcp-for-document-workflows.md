@@ -4,7 +4,7 @@ title: "Jerry Liu - Context Engineering and MCP for Document Workflows"
 slug: jerry-liu-context-engineering-and-mcp-for-document-workflows
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Jerry Liu"]
@@ -15,6 +15,7 @@ video_id: 77iVyyHGaT0
 url: https://www.youtube.com/watch?v=77iVyyHGaT0
 youtube_url: https://www.youtube.com/watch?v=77iVyyHGaT0
 tags: []
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: false
 ---
 

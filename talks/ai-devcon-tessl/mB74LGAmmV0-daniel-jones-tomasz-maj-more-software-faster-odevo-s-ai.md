@@ -4,7 +4,7 @@ title: "Daniel Jones & Tomasz Maj - More software, faster - Odevo's AI Native tr
 slug: daniel-jones-tomasz-maj-more-software-faster-odevo-s-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Daniel Jones", "Tomasz Maj"]
@@ -15,6 +15,7 @@ video_id: mB74LGAmmV0
 url: https://www.youtube.com/watch?v=mB74LGAmmV0
 youtube_url: https://www.youtube.com/watch?v=mB74LGAmmV0
 tags: ["AI DevCon 2026", "AI adoption", "AI in property management", "AI native transformation", "AI product management", "AI training", "Odevo", "Odevo AI transition", "agentic coding", "ainativedev", "business growth", "how to transform to AI native", "legacy tech challenges", "software development", "what is agentic coding"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

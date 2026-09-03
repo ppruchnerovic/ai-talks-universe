@@ -4,7 +4,7 @@ title: "Introduction | Jan Kerschgens"
 slug: introduction-jan-kerschgens
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Jan Kerschgens"]
@@ -15,6 +15,7 @@ video_id: MtamrtfVuxQ
 url: https://www.youtube.com/watch?v=MtamrtfVuxQ
 youtube_url: https://www.youtube.com/watch?v=MtamrtfVuxQ
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

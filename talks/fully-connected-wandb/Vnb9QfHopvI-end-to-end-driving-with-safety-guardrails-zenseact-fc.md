@@ -4,7 +4,7 @@ title: "End-to-end driving​ with safety guardrails - Zenseact @ FC London '25"
 slug: end-to-end-driving-with-safety-guardrails-zenseact-fc
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Vnb9QfHopvI
 url: https://www.youtube.com/watch?v=Vnb9QfHopvI
 youtube_url: https://www.youtube.com/watch?v=Vnb9QfHopvI
 tags: []
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

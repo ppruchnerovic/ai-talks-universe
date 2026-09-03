@@ -4,7 +4,7 @@ title: "Venkat Subramaniam on Architecture Patterns and Practices"
 slug: venkat-subramaniam-on-architecture-patterns-and-practices
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: RIEq1Z07DcQ
 url: https://www.youtube.com/watch?v=RIEq1Z07DcQ
 youtube_url: https://www.youtube.com/watch?v=RIEq1Z07DcQ
 tags: []
+topics: []
 transcript: false
 ---
 

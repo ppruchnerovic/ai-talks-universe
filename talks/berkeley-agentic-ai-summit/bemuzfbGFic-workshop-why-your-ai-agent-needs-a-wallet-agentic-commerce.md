@@ -4,7 +4,7 @@ title: "Workshop: Why Your AI Agent Needs a Wallet: Agentic Commerce on Arc with
 slug: workshop-why-your-ai-agent-needs-a-wallet-agentic-commerce
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: bemuzfbGFic
 url: https://www.youtube.com/watch?v=bemuzfbGFic
 youtube_url: https://www.youtube.com/watch?v=bemuzfbGFic
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

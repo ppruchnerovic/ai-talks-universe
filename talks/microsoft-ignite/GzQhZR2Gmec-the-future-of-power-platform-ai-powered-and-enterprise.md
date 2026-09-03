@@ -4,7 +4,7 @@ title: "The future of Power Platform: AI-powered and enterprise-grade | BRK322"
 slug: the-future-of-power-platform-ai-powered-and-enterprise
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ryan Cunningham"]
@@ -15,6 +15,7 @@ video_id: GzQhZR2Gmec
 url: https://www.youtube.com/watch?v=GzQhZR2Gmec
 youtube_url: https://www.youtube.com/watch?v=GzQhZR2Gmec
 tags: ["BRK322", "English (US)", "Innovate with low-code AI and agents", "Ryan Cunningham", "Technical", "The future of Power Platform: AI-powered and enterprise-grade | BRK322", "d27ea017-de61-488f-8ace-e954d35ce299_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

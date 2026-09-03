@@ -4,7 +4,7 @@ title: "Cortex AI And Streamlit: A Perfect Match For Data Analysts"
 slug: cortex-ai-and-streamlit-a-perfect-match-for-data-analysts
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 49vJRrZxVw4
 url: https://www.youtube.com/watch?v=49vJRrZxVw4
 youtube_url: https://www.youtube.com/watch?v=49vJRrZxVw4
 tags: []
+topics: []
 transcript: false
 ---
 

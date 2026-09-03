@@ -4,7 +4,7 @@ title: "Octopus AutoML: Extracting Signal from Small and High-Dimensional Data [
 slug: octopus-automl-extracting-signal-from-small-and-high
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Nils Haase"]
@@ -15,6 +15,7 @@ video_id: YPY0lY6tDvM
 url: https://www.youtube.com/watch?v=YPY0lY6tDvM
 youtube_url: https://www.youtube.com/watch?v=YPY0lY6tDvM
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

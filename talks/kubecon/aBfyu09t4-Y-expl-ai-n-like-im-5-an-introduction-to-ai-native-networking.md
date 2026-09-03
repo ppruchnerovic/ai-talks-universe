@@ -4,7 +4,7 @@ title: "Expl(AI)n Like I’m 5: An Introduction To AI-Native Networking - Niranj
 slug: expl-ai-n-like-im-5-an-introduction-to-ai-native-networking
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: ["Niranjan Shankar", "Ram Vennam"]
@@ -15,6 +15,7 @@ video_id: aBfyu09t4-Y
 url: https://www.youtube.com/watch?v=aBfyu09t4-Y
 youtube_url: https://www.youtube.com/watch?v=aBfyu09t4-Y
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

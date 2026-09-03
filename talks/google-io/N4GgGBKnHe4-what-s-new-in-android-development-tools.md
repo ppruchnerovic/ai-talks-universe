@@ -4,7 +4,7 @@ title: "What's new in Android development tools"
 slug: what-s-new-in-android-development-tools
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Jamal Eason", "Tor Norbye"]
@@ -15,6 +15,7 @@ video_id: N4GgGBKnHe4
 url: https://www.youtube.com/watch?v=N4GgGBKnHe4
 youtube_url: https://www.youtube.com/watch?v=N4GgGBKnHe4
 tags: ["Android", "pr_pr: Google I/O;", "ct:Event - Android PA Keynote;", "ct:Stack - Android;"]
+topics: []
 transcript: true
 ---
 

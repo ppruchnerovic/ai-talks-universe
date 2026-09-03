@@ -4,7 +4,7 @@ title: "Content Is Code - Matt Palmer, Conductor"
 slug: content-is-code-matt-palmer-conductor
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Matt Palmer"]
@@ -15,6 +15,7 @@ video_id: yv6xovSsB1U
 url: https://www.youtube.com/watch?v=yv6xovSsB1U
 youtube_url: https://www.youtube.com/watch?v=yv6xovSsB1U
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

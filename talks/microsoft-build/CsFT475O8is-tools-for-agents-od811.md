@@ -4,7 +4,7 @@ title: "Tools for agents | OD811"
 slug: tools-for-agents-od811
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: CsFT475O8is
 url: https://www.youtube.com/watch?v=CsFT475O8is
 youtube_url: https://www.youtube.com/watch?v=CsFT475O8is
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

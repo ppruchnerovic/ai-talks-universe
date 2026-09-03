@@ -4,7 +4,7 @@ title: "Cloud Native Artificial Intelligence - Top to Bottom - Ronald Petty, RX-
 slug: cloud-native-artificial-intelligence-top-to-bottom-ronald
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Ronald Petty"]
@@ -15,6 +15,7 @@ video_id: _ifZPGqWk4M
 url: https://www.youtube.com/watch?v=_ifZPGqWk4M
 youtube_url: https://www.youtube.com/watch?v=_ifZPGqWk4M
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

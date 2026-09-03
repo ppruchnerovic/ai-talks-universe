@@ -4,7 +4,7 @@ title: "Prompt. Build. Repeat. – The Vibe Coding Mindset - Daniel Sogl - NDC C
 slug: prompt-build-repeat-the-vibe-coding-mindset-daniel-sogl-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Prompt. Build. Repeat.", "Daniel Sogl"]
@@ -15,6 +15,7 @@ video_id: Mpg09HlgB_A
 url: https://www.youtube.com/watch?v=Mpg09HlgB_A
 youtube_url: https://www.youtube.com/watch?v=Mpg09HlgB_A
 tags: []
+topics: ["Coding assistants & agents", "Prompting & context engineering"]
 transcript: false
 ---
 

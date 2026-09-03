@@ -4,7 +4,7 @@ title: "Expertise in action: Microsoft Credentials for the AI frontier | STUDIO5
 slug: expertise-in-action-microsoft-credentials-for-the-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Elisa Graceffo"]
@@ -15,6 +15,7 @@ video_id: 1hdEkJtA2-k
 url: https://www.youtube.com/watch?v=1hdEkJtA2-k
 youtube_url: https://www.youtube.com/watch?v=1hdEkJtA2-k
 tags: ["Elisa Graceffo", "English (US)", "Expertise in action: Microsoft Credentials for the AI frontier | STUDIO51", "Other", "STUDIO51", "STUDIO51_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

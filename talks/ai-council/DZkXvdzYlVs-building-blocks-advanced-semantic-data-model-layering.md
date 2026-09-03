@@ -4,7 +4,7 @@ title: "Building Blocks: Advanced Semantic Data Model Layering"
 slug: building-blocks-advanced-semantic-data-model-layering
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Lloyd Tabb"]
@@ -15,6 +15,7 @@ video_id: DZkXvdzYlVs
 url: https://www.youtube.com/watch?v=DZkXvdzYlVs
 youtube_url: https://www.youtube.com/watch?v=DZkXvdzYlVs
 tags: ["semantic data modeling", "SQL", "Lego analogy", "ChatGPT", "artificial intelligence", "machine learning", "database design", "data engineering", "data architecture", "analytics", "business intelligence", "data warehousing", "dimensional modeling", "Python tutorial", "conceptual modeling", "logical modeling", "physical modeling", "entity relationship modeling", "data modeling techniques", "normalization", "denormalization", "schema design"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

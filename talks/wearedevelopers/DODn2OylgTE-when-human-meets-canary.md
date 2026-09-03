@@ -4,7 +4,7 @@ title: "When human meets canary"
 slug: when-human-meets-canary
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Sonja Nesic"]
@@ -15,6 +15,7 @@ video_id: DODn2OylgTE
 url: https://www.youtube.com/watch?v=DODn2OylgTE
 youtube_url: https://www.youtube.com/watch?v=DODn2OylgTE
 tags: ["DevOps", "CI/CD"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

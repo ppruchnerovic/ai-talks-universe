@@ -4,7 +4,7 @@ title: "Deepti Srivastava, Founder & CEO, Snow Leopard: Bridging the Gap between
 slug: deepti-srivastava-founder-ceo-snow-leopard-bridging-the-gap
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Xc-qHyrk634
 url: https://www.youtube.com/watch?v=Xc-qHyrk634
 youtube_url: https://www.youtube.com/watch?v=Xc-qHyrk634
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

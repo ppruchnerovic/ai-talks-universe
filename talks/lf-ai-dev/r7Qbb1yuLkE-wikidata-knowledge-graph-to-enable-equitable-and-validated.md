@@ -4,7 +4,7 @@ title: "Wikidata Knowledge Graph to Enable Equitable and Validated Ge... - Jonat
 slug: wikidata-knowledge-graph-to-enable-equitable-and-validated
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Jonathan Fraine", "Lydia Pintscher"]
@@ -15,6 +15,7 @@ video_id: r7Qbb1yuLkE
 url: https://www.youtube.com/watch?v=r7Qbb1yuLkE
 youtube_url: https://www.youtube.com/watch?v=r7Qbb1yuLkE
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

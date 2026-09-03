@@ -4,7 +4,7 @@ title: "How to build and publish your agent to the Agent Store | BRK312"
 slug: how-to-build-and-publish-your-agent-to-the-agent-store
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Steven Abrahams", "Anna Cao", "Varun Kulkarni"]
@@ -15,6 +15,7 @@ video_id: NA_T847oNC0
 url: https://www.youtube.com/watch?v=NA_T847oNC0
 youtube_url: https://www.youtube.com/watch?v=NA_T847oNC0
 tags: ["BRK312", "Copilot and agents at work", "Copilot and agents at work:Copilot Agents", "Copilot and agents at work:Microsoft 365 Copilot", "English (US)", "How to build and publish your agent to the Agent Store | BRK312", "Innovate with low-code AI and agents", "Innovate with low-code AI and agents:Copilot Studio", "Steven Abrahams", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

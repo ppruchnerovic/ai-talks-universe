@@ -4,7 +4,7 @@ title: "POC Prison: Why agentic systems never escape the lab and how to fix that
 slug: poc-prison-why-agentic-systems-never-escape-the-lab-and-how
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Luise Freese"]
@@ -15,6 +15,7 @@ video_id: qjDn-N0zp0I
 url: https://www.youtube.com/watch?v=qjDn-N0zp0I
 youtube_url: https://www.youtube.com/watch?v=qjDn-N0zp0I
 tags: ["AI Agents", "AI Standards", "Agents", "Agentic AI", "CI/CD", "Generative AI (GenAI)"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

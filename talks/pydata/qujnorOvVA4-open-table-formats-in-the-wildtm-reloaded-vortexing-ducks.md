@@ -4,7 +4,7 @@ title: "Open Table Formats in the Wild™ - Reloaded: Vortexing Ducks over Float
 slug: open-table-formats-in-the-wildtm-reloaded-vortexing-ducks
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Franz Wöllert"]
@@ -15,6 +15,7 @@ video_id: qujnorOvVA4
 url: https://www.youtube.com/watch?v=qujnorOvVA4
 youtube_url: https://www.youtube.com/watch?v=qujnorOvVA4
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Applied Intuition’s Blueprint for Scalable RL + Batch Inference | Ray 
 slug: applied-intuitions-blueprint-for-scalable-rl-batch
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: pkkV1US2IKc
 url: https://www.youtube.com/watch?v=pkkV1US2IKc
 youtube_url: https://www.youtube.com/watch?v=pkkV1US2IKc
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

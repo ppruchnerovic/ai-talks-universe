@@ -4,7 +4,7 @@ title: "My friend Ben: solid employee, DPRK agent"
 slug: my-friend-ben-solid-employee-dprk-agent
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cyuyFxjzacM
 url: https://www.youtube.com/watch?v=cyuyFxjzacM
 youtube_url: https://www.youtube.com/watch?v=cyuyFxjzacM
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

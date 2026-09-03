@@ -4,7 +4,7 @@ title: "Prepare for the Autonomous Era in ITOps | ODSP1478"
 slug: prepare-for-the-autonomous-era-in-itops-odsp1478
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jason Kikta"]
@@ -15,6 +15,7 @@ video_id: aXYQGsk5BxY
 url: https://www.youtube.com/watch?v=aXYQGsk5BxY
 youtube_url: https://www.youtube.com/watch?v=aXYQGsk5BxY
 tags: ["English (US)", "Jason Kikta", "Modernize SecOps with a unified platform", "ODSP1478", "ODSP1478_v1", "Prepare for the Autonomous Era in ITOps | ODSP1478", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

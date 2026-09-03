@@ -4,7 +4,7 @@ title: "Write Less More: How Dagster Rebuilt Our Docs From the Ground Up"
 slug: write-less-more-how-dagster-rebuilt-our-docs-from-the
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Pedram Navid"]
@@ -15,6 +15,7 @@ video_id: dVB5hLPyHCM
 url: https://www.youtube.com/watch?v=dVB5hLPyHCM
 youtube_url: https://www.youtube.com/watch?v=dVB5hLPyHCM
 tags: ["documentation", "technical writing", "ChatGPT", "artificial intelligence", "machine learning", "developer tools", "software documentation", "developer experience", "docs rebuild", "documentation maintenance", "Python tutorial", "API documentation", "user guides", "tutorials", "knowledge management", "content management", "information architecture", "writing tools", "collaboration tools", "version control", "automated documentation", "document generation"]
+topics: []
 transcript: false
 ---
 

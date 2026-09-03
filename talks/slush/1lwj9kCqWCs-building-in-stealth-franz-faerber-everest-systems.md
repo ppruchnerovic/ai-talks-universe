@@ -4,7 +4,7 @@ title: "Building in Stealth | Franz Faerber (Everest Systems)"
 slug: building-in-stealth-franz-faerber-everest-systems
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Franz Faerber"]
@@ -15,6 +15,7 @@ video_id: 1lwj9kCqWCs
 url: https://www.youtube.com/watch?v=1lwj9kCqWCs
 youtube_url: https://www.youtube.com/watch?v=1lwj9kCqWCs
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

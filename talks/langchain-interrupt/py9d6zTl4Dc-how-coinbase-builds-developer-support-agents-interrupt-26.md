@@ -4,7 +4,7 @@ title: "How Coinbase Builds Developer Support Agents | Interrupt 26"
 slug: how-coinbase-builds-developer-support-agents-interrupt-26
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: py9d6zTl4Dc
 url: https://www.youtube.com/watch?v=py9d6zTl4Dc
 youtube_url: https://www.youtube.com/watch?v=py9d6zTl4Dc
 tags: ["Coinbase", "Evan Cormos", "developer support AI", "Discord bot", "AI chat", "LangSmith", "LangChain", "Claude Code", "MCP", "RAG", "LLM-as-judge", "guardrails", "Slack triage", "agent engineering", "observability", "self-improving agent", "crypto developer platform", "multilingual adversaries", "intent-based development", "signal search", "agentic system", "Interrupt conference"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

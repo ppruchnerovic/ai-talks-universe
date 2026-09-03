@@ -4,7 +4,7 @@ title: "John Dickerson - Choice and Open Source AI"
 slug: john-dickerson-choice-and-open-source-ai
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["John Dickerson"]
@@ -15,6 +15,7 @@ video_id: V0SEA_knI4E
 url: https://www.youtube.com/watch?v=V0SEA_knI4E
 youtube_url: https://www.youtube.com/watch?v=V0SEA_knI4E
 tags: []
+topics: []
 transcript: false
 ---
 

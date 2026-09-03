@@ -4,7 +4,7 @@ title: "Operationalizing AI Workloads on Kubernetes With OpenKruise - Zhang Zhen
 slug: operationalizing-ai-workloads-on-kubernetes-with-openkruise
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Zhang Zhen", "Vec Sun"]
@@ -15,6 +15,7 @@ video_id: 0JT8iDDS74k
 url: https://www.youtube.com/watch?v=0JT8iDDS74k
 youtube_url: https://www.youtube.com/watch?v=0JT8iDDS74k
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

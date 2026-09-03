@@ -4,7 +4,7 @@ title: "Generally AI Episode 1: Large Language Models"
 slug: generally-ai-episode-1-large-language-models
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: TTZuUlZcFhc
 url: https://www.youtube.com/watch?v=TTZuUlZcFhc
 youtube_url: https://www.youtube.com/watch?v=TTZuUlZcFhc
 tags: ["AI", "Large Language Models", "Security", "OWASP", "InfoQ Podcasts", "Software Development"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

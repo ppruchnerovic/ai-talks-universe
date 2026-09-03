@@ -4,7 +4,7 @@ title: "Scaling Ray on Kubernetes: Pragmatic Strategies for Every Team | Ray Sum
 slug: scaling-ray-on-kubernetes-pragmatic-strategies-for-every
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: W65Vzqjidrg
 url: https://www.youtube.com/watch?v=W65Vzqjidrg
 youtube_url: https://www.youtube.com/watch?v=W65Vzqjidrg
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

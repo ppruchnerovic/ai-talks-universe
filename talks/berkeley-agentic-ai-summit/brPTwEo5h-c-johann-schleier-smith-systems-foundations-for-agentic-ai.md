@@ -4,7 +4,7 @@ title: "Johann Schleier Smith - Systems Foundations for Agentic AI"
 slug: johann-schleier-smith-systems-foundations-for-agentic-ai
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Johann Schleier Smith"]
@@ -15,6 +15,7 @@ video_id: brPTwEo5h-c
 url: https://www.youtube.com/watch?v=brPTwEo5h-c
 youtube_url: https://www.youtube.com/watch?v=brPTwEo5h-c
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

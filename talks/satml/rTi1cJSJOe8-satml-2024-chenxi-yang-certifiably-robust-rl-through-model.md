@@ -4,7 +4,7 @@ title: "SaTML 2024 - Chenxi Yang - Certifiably Robust RL through Model-Based Abs
 slug: satml-2024-chenxi-yang-certifiably-robust-rl-through-model
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Chenxi Yang"]
@@ -15,6 +15,7 @@ video_id: rTi1cJSJOe8
 url: https://www.youtube.com/watch?v=rTi1cJSJOe8
 youtube_url: https://www.youtube.com/watch?v=rTi1cJSJOe8
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

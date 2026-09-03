@@ -4,7 +4,7 @@ title: "15 Years of Redis: Introducing Redis 8 by Raphael De Lio"
 slug: 15-years-of-redis-introducing-redis-8-by-raphael-de-lio
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Raphael De Lio"]
@@ -15,6 +15,7 @@ video_id: J2ZFY9X7kZs
 url: https://www.youtube.com/watch?v=J2ZFY9X7kZs
 youtube_url: https://www.youtube.com/watch?v=J2ZFY9X7kZs
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

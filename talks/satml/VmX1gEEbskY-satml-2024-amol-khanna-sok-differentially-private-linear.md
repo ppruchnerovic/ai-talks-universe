@@ -4,7 +4,7 @@ title: "SaTML 2024 - Amol Khanna - SoK: Differentially Private Linear Models For
 slug: satml-2024-amol-khanna-sok-differentially-private-linear
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Amol Khanna"]
@@ -15,6 +15,7 @@ video_id: VmX1gEEbskY
 url: https://www.youtube.com/watch?v=VmX1gEEbskY
 youtube_url: https://www.youtube.com/watch?v=VmX1gEEbskY
 tags: []
+topics: []
 transcript: false
 ---
 

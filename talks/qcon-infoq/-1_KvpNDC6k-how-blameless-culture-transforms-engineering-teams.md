@@ -4,7 +4,7 @@ title: "How Blameless Culture Transforms Engineering Teams"
 slug: how-blameless-culture-transforms-engineering-teams
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: -1_KvpNDC6k
 url: https://www.youtube.com/watch?v=-1_KvpNDC6k
 youtube_url: https://www.youtube.com/watch?v=-1_KvpNDC6k
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

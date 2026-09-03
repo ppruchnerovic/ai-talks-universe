@@ -4,7 +4,7 @@ title: "Cultivating Healthy Engineering Cultures: Insights from Sophie Weston"
 slug: cultivating-healthy-engineering-cultures-insights-from
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: gcsI2Tu7Oj4
 url: https://www.youtube.com/watch?v=gcsI2Tu7Oj4
 youtube_url: https://www.youtube.com/watch?v=gcsI2Tu7Oj4
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

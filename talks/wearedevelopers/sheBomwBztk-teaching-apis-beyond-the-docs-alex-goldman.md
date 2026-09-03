@@ -4,7 +4,7 @@ title: "Teaching APIs Beyond the Docs - Alex Goldman"
 slug: teaching-apis-beyond-the-docs-alex-goldman
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Alex Goldman"]
@@ -15,6 +15,7 @@ video_id: sheBomwBztk
 url: https://www.youtube.com/watch?v=sheBomwBztk
 youtube_url: https://www.youtube.com/watch?v=sheBomwBztk
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: true
 ---
 

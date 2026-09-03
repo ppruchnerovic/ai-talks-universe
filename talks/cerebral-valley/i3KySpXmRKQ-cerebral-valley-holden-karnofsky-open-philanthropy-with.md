@@ -4,7 +4,7 @@ title: "Cerebral Valley: Holden Karnofsky (Open Philanthropy) with Casey Newton"
 slug: cerebral-valley-holden-karnofsky-open-philanthropy-with
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: i3KySpXmRKQ
 url: https://www.youtube.com/watch?v=i3KySpXmRKQ
 youtube_url: https://www.youtube.com/watch?v=i3KySpXmRKQ
 tags: []
+topics: []
 transcript: false
 ---
 

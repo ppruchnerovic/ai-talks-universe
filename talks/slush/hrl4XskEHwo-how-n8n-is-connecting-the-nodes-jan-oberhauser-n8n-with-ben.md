@@ -4,7 +4,7 @@ title: "How n8n is Connecting the Nodes | Jan Oberhauser (n8n) with Ben Fletcher
 slug: how-n8n-is-connecting-the-nodes-jan-oberhauser-n8n-with-ben
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Jan Oberhauser"]
@@ -15,6 +15,7 @@ video_id: hrl4XskEHwo
 url: https://www.youtube.com/watch?v=hrl4XskEHwo
 youtube_url: https://www.youtube.com/watch?v=hrl4XskEHwo
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "TEDAI Vienna Panel - How do you lead as AI advances?"
 slug: tedai-vienna-panel-how-do-you-lead-as-ai-advances
 conference: tedai-vienna
 conference_name: "TEDAI Vienna"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "TEDAI Vienna 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: N_kZ62-3MvU
 url: https://www.youtube.com/watch?v=N_kZ62-3MvU
 youtube_url: https://www.youtube.com/watch?v=N_kZ62-3MvU
 tags: []
+topics: []
 transcript: false
 ---
 

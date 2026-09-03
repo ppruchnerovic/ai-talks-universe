@@ -4,7 +4,7 @@ title: "Why Your Enterprise Tech Stack Isn’t Ready for AI Agents — Christoph
 slug: why-your-enterprise-tech-stack-isnt-ready-for-ai-agents
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Christopher Lovejoy", "Saul Howard"]
@@ -15,6 +15,7 @@ video_id: mav15aW9lLM
 url: https://www.youtube.com/watch?v=mav15aW9lLM
 youtube_url: https://www.youtube.com/watch?v=mav15aW9lLM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

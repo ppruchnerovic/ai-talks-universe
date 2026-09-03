@@ -4,7 +4,7 @@ title: "Mike Woodward - Building with Cursor Part 1 (PyData Boston)"
 slug: mike-woodward-building-with-cursor-part-1-pydata-boston
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Mike Woodward"]
@@ -15,6 +15,7 @@ video_id: TI2g1w1BpWM
 url: https://www.youtube.com/watch?v=TI2g1w1BpWM
 youtube_url: https://www.youtube.com/watch?v=TI2g1w1BpWM
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

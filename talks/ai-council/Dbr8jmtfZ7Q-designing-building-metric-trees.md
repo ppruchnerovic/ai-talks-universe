@@ -4,7 +4,7 @@ title: "Designing & Building Metric Trees"
 slug: designing-building-metric-trees
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: Dbr8jmtfZ7Q
 url: https://www.youtube.com/watch?v=Dbr8jmtfZ7Q
 youtube_url: https://www.youtube.com/watch?v=Dbr8jmtfZ7Q
 tags: ["metric trees", "analytics", "data analysis"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

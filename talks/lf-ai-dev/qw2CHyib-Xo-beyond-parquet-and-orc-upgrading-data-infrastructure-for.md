@@ -4,7 +4,7 @@ title: "Beyond Parquet and ORC: Upgrading Data Infrastructure for Multi-modal AI
 slug: beyond-parquet-and-orc-upgrading-data-infrastructure-for
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: qw2CHyib-Xo
 url: https://www.youtube.com/watch?v=qw2CHyib-Xo
 youtube_url: https://www.youtube.com/watch?v=qw2CHyib-Xo
 tags: []
+topics: ["Data engineering & MLOps", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

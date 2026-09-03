@@ -4,7 +4,7 @@ title: "Calvin French-Owen on the Future of Agentic Coding"
 slug: calvin-french-owen-on-the-future-of-agentic-coding
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: q-ntX4DLW_c
 url: https://www.youtube.com/watch?v=q-ntX4DLW_c
 youtube_url: https://www.youtube.com/watch?v=q-ntX4DLW_c
 tags: ["AI"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

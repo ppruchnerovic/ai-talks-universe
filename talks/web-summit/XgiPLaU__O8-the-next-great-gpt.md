@@ -4,7 +4,7 @@ title: "The next great GPT"
 slug: the-next-great-gpt
 conference: web-summit
 conference_name: "Web Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Web Summit"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XgiPLaU__O8
 url: https://www.youtube.com/watch?v=XgiPLaU__O8
 youtube_url: https://www.youtube.com/watch?v=XgiPLaU__O8
 tags: []
+topics: []
 transcript: false
 ---
 

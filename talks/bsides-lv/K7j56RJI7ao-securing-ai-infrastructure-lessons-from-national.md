@@ -4,7 +4,7 @@ title: "Securing AI Infrastructure: Lessons from National Cybersecurity Strategi
 slug: securing-ai-infrastructure-lessons-from-national
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: K7j56RJI7ao
 url: https://www.youtube.com/watch?v=K7j56RJI7ao
 youtube_url: https://www.youtube.com/watch?v=K7j56RJI7ao
 tags: []
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

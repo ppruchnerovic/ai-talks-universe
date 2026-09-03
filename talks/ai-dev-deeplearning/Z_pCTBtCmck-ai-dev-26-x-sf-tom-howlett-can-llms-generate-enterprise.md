@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Tom Howlett: Can LLMs Generate Enterprise Quality Code?
 slug: ai-dev-26-x-sf-tom-howlett-can-llms-generate-enterprise
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Z_pCTBtCmck
 url: https://www.youtube.com/watch?v=Z_pCTBtCmck
 youtube_url: https://www.youtube.com/watch?v=Z_pCTBtCmck
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

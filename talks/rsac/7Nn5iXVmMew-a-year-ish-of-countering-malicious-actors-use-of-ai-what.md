@@ -4,7 +4,7 @@ title: "A Year(ish) of Countering Malicious Actors' Use of AI: What Have We Lear
 slug: a-year-ish-of-countering-malicious-actors-use-of-ai-what
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7Nn5iXVmMew
 url: https://www.youtube.com/watch?v=7Nn5iXVmMew
 youtube_url: https://www.youtube.com/watch?v=7Nn5iXVmMew
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

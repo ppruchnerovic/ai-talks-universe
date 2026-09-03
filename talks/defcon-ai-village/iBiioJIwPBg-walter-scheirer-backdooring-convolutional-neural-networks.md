@@ -4,7 +4,7 @@ title: "Walter Scheirer - Backdooring Convolutional Neural Networks - DEF CON 27
 slug: walter-scheirer-backdooring-convolutional-neural-networks
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Walter Scheirer"]
@@ -15,6 +15,7 @@ video_id: iBiioJIwPBg
 url: https://www.youtube.com/watch?v=iBiioJIwPBg
 youtube_url: https://www.youtube.com/watch?v=iBiioJIwPBg
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

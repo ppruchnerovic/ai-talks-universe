@@ -4,7 +4,7 @@ title: "Lijie Chen - The Unit Distance Conjecture and AI for Math"
 slug: lijie-chen-the-unit-distance-conjecture-and-ai-for-math
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Lijie Chen"]
@@ -15,6 +15,7 @@ video_id: APMWvZHDCgI
 url: https://www.youtube.com/watch?v=APMWvZHDCgI
 youtube_url: https://www.youtube.com/watch?v=APMWvZHDCgI
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

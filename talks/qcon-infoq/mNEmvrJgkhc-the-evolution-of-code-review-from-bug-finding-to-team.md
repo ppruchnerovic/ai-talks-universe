@@ -4,7 +4,7 @@ title: "The Evolution of Code Review: From Bug-Finding to Team Building"
 slug: the-evolution-of-code-review-from-bug-finding-to-team
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: mNEmvrJgkhc
 url: https://www.youtube.com/watch?v=mNEmvrJgkhc
 youtube_url: https://www.youtube.com/watch?v=mNEmvrJgkhc
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "From Prompt Hacking to Architectural Determinism: Engineering Reliable G
 slug: from-prompt-hacking-to-architectural-determinism
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Z2c37dD2frA
 url: https://www.youtube.com/watch?v=Z2c37dD2frA
 youtube_url: https://www.youtube.com/watch?v=Z2c37dD2frA
 tags: ["AI", "Artificial Intelligence", "Generative AI", "LLM", "Prompt Engineering", "Software Engineering", "AI Reliability", "MLOps", "AI Governance"]
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AI without spaghetti: Clean architecture in the age of AI by Lutske de L
 slug: ai-without-spaghetti-clean-architecture-in-the-age-of-ai-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Lutske de Leeuw", "Maarten Vandeperre"]
@@ -15,6 +15,7 @@ video_id: 6Md_6KX0kOk
 url: https://www.youtube.com/watch?v=6Md_6KX0kOk
 youtube_url: https://www.youtube.com/watch?v=6Md_6KX0kOk
 tags: []
+topics: []
 transcript: true
 ---
 

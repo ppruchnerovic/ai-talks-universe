@@ -4,7 +4,7 @@ title: "The Future Is Domain-Specific Agents - Justin Schroeder, StandardAgents"
 slug: the-future-is-domain-specific-agents-justin-schroeder
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Justin Schroeder"]
@@ -15,6 +15,7 @@ video_id: spNAUEgq_A8
 url: https://www.youtube.com/watch?v=spNAUEgq_A8
 youtube_url: https://www.youtube.com/watch?v=spNAUEgq_A8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

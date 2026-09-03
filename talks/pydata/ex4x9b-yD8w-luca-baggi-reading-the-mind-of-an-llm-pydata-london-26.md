@@ -4,7 +4,7 @@ title: "Luca Baggi - Reading the Mind of an LLM | Pydata London 26"
 slug: luca-baggi-reading-the-mind-of-an-llm-pydata-london-26
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Luca Baggi"]
@@ -15,6 +15,7 @@ video_id: ex4x9b-yD8w
 url: https://www.youtube.com/watch?v=ex4x9b-yD8w
 youtube_url: https://www.youtube.com/watch?v=ex4x9b-yD8w
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

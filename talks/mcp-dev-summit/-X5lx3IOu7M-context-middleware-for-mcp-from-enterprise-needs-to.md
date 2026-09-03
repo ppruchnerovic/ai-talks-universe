@@ -4,7 +4,7 @@ title: "Context Middleware for MCP: From Enterprise Needs To Protocol Extension 
 slug: context-middleware-for-mcp-from-enterprise-needs-to
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Peder Holdgaard Pedersen"]
@@ -15,6 +15,7 @@ video_id: -X5lx3IOu7M
 url: https://www.youtube.com/watch?v=-X5lx3IOu7M
 youtube_url: https://www.youtube.com/watch?v=-X5lx3IOu7M
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

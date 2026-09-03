@@ -4,7 +4,7 @@ title: "SaTML 2024 - Sheila McIlraith - Tutorial - (Formal) Languages Help AI ag
 slug: satml-2024-sheila-mcilraith-tutorial-formal-languages-help
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: hhNB-Ud_WhM
 url: https://www.youtube.com/watch?v=hhNB-Ud_WhM
 youtube_url: https://www.youtube.com/watch?v=hhNB-Ud_WhM
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

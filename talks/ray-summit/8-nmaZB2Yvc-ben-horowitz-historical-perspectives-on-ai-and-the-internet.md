@@ -4,7 +4,7 @@ title: "Ben Horowitz - Historical Perspectives on AI and the Internet | Ray Summ
 slug: ben-horowitz-historical-perspectives-on-ai-and-the-internet
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: ["Ben Horowitz"]
@@ -15,6 +15,7 @@ video_id: 8-nmaZB2Yvc
 url: https://www.youtube.com/watch?v=8-nmaZB2Yvc
 youtube_url: https://www.youtube.com/watch?v=8-nmaZB2Yvc
 tags: []
+topics: []
 transcript: false
 ---
 

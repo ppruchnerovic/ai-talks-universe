@@ -4,7 +4,7 @@ title: "Black Hat USA 2025 | Unveiling the Hidden Perils of the TorchScript Engi
 slug: black-hat-usa-2025-unveiling-the-hidden-perils-of-the
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: rZ0Jnu5gtqo
 url: https://www.youtube.com/watch?v=rZ0Jnu5gtqo
 youtube_url: https://www.youtube.com/watch?v=rZ0Jnu5gtqo
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Dylan Bouchard + Mohit Singh Chauhan-UQLM Detecting LLM Hallucinations i
 slug: dylan-bouchard-mohit-singh-chauhan-uqlm-detecting-llm
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: HmOK1nH4boU
 url: https://www.youtube.com/watch?v=HmOK1nH4boU
 youtube_url: https://www.youtube.com/watch?v=HmOK1nH4boU
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

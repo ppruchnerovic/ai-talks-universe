@@ -4,7 +4,7 @@ title: "Safe and scalable DevOps with AI agents on GitHub | BRK107"
 slug: safe-and-scalable-devops-with-ai-agents-on-github-brk107
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Luke Hoban", "Chris Patterson"]
@@ -15,6 +15,7 @@ video_id: 16_x7e0d_SY
 url: https://www.youtube.com/watch?v=16_x7e0d_SY
 youtube_url: https://www.youtube.com/watch?v=16_x7e0d_SY
 tags: ["BRK107", "BRK107_v1", "Chris Patterson", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:GitHub", "Luke Hoban", "Safe and scalable DevOps with AI agents on GitHub | BRK107", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

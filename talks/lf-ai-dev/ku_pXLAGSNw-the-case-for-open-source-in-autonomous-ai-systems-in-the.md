@@ -4,7 +4,7 @@ title: "The Case for Open Source in Autonomous AI Systems in the Edge - Tina Tso
 slug: the-case-for-open-source-in-autonomous-ai-systems-in-the
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Tina Tsou"]
@@ -15,6 +15,7 @@ video_id: ku_pXLAGSNw
 url: https://www.youtube.com/watch?v=ku_pXLAGSNw
 youtube_url: https://www.youtube.com/watch?v=ku_pXLAGSNw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

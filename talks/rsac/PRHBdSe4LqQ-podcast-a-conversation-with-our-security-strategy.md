@@ -4,7 +4,7 @@ title: "Podcast: A Conversation with Our Security Strategy & Architecture Progra
 slug: podcast-a-conversation-with-our-security-strategy
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: PRHBdSe4LqQ
 url: https://www.youtube.com/watch?v=PRHBdSe4LqQ
 youtube_url: https://www.youtube.com/watch?v=PRHBdSe4LqQ
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Building secure AI Agents with Azure Functions | BRK189"
 slug: building-secure-ai-agents-with-azure-functions-brk189
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9DPi9SANp9s
 url: https://www.youtube.com/watch?v=9DPi9SANp9s
 youtube_url: https://www.youtube.com/watch?v=9DPi9SANp9s
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

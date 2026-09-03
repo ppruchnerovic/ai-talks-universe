@@ -4,7 +4,7 @@ title: "Emmanuel Farhi - Fighting against the instability : Debian Science at th
 slug: emmanuel-farhi-fighting-against-the-instability-debian
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Emmanuel Farhi"]
@@ -15,6 +15,7 @@ video_id: 656bI2m0tQg
 url: https://www.youtube.com/watch?v=656bI2m0tQg
 youtube_url: https://www.youtube.com/watch?v=656bI2m0tQg
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: false
 ---
 

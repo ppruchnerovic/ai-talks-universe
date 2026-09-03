@@ -4,7 +4,7 @@ title: "LLMs can't optimize schedules, but AI can! by Tom Cools"
 slug: llms-can-t-optimize-schedules-but-ai-can-by-tom-cools
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Tom Cools"]
@@ -15,6 +15,7 @@ video_id: wBTIusHmlA0
 url: https://www.youtube.com/watch?v=wBTIusHmlA0
 youtube_url: https://www.youtube.com/watch?v=wBTIusHmlA0
 tags: []
+topics: []
 transcript: true
 ---
 

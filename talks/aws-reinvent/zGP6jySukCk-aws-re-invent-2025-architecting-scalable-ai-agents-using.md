@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Architecting Scalable AI Agents using Amazon Bedroc
 slug: aws-re-invent-2025-architecting-scalable-ai-agents-using
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: zGP6jySukCk
 url: https://www.youtube.com/watch?v=zGP6jySukCk
 youtube_url: https://www.youtube.com/watch?v=zGP6jySukCk
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

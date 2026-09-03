@@ -4,7 +4,7 @@ title: "Using MCP to analyse your experiments & create reports in natural langua
 slug: using-mcp-to-analyse-your-experiments-create-reports-in
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: RocYCoZbHI8
 url: https://www.youtube.com/watch?v=RocYCoZbHI8
 youtube_url: https://www.youtube.com/watch?v=RocYCoZbHI8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

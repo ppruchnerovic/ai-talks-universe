@@ -4,7 +4,7 @@ title: "Effective Error Handling: A Uniform Strategy for Heterogeneous Distribut
 slug: effective-error-handling-a-uniform-strategy-for
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qYpbVdYshy8
 url: https://www.youtube.com/watch?v=qYpbVdYshy8
 youtube_url: https://www.youtube.com/watch?v=qYpbVdYshy8
 tags: []
+topics: []
 transcript: false
 ---
 

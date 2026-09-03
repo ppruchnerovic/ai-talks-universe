@@ -4,7 +4,7 @@ title: "Privacy-First Research with OpenSAFELY • Eli Holderness & Hannes Lowet
 slug: privacy-first-research-with-opensafely-eli-holderness
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Eli Holderness", "Hannes Lowette"]
@@ -15,6 +15,7 @@ video_id: sE34WX8DUqE
 url: https://www.youtube.com/watch?v=sE34WX8DUqE
 youtube_url: https://www.youtube.com/watch?v=sE34WX8DUqE
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

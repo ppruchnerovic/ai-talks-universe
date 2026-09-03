@@ -4,7 +4,7 @@ title: "JVM Performance Engineering • Monica Beckwith & Kirk Pepperdine"
 slug: jvm-performance-engineering-monica-beckwith-kirk-pepperdine
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Monica Beckwith", "Kirk Pepperdine"]
@@ -15,6 +15,7 @@ video_id: z1t_ShLop7U
 url: https://www.youtube.com/watch?v=z1t_ShLop7U
 youtube_url: https://www.youtube.com/watch?v=z1t_ShLop7U
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
+topics: []
 transcript: false
 ---
 

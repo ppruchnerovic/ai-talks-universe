@@ -4,7 +4,7 @@ title: "Super scaling for the Super Bowl: How to survive 30 million users hittin
 slug: super-scaling-for-the-super-bowl-how-to-survive-30-million
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Irina Branovic"]
@@ -15,6 +15,7 @@ video_id: yfKUgf2QNMo
 url: https://www.youtube.com/watch?v=yfKUgf2QNMo
 youtube_url: https://www.youtube.com/watch?v=yfKUgf2QNMo
 tags: ["Cloud & AI Infrastructure", "APIs", "Design Systems", "Distributed Systems", "Go", "Microservices", "Observability", "Performance", "Scaling"]
+topics: []
 transcript: true
 ---
 

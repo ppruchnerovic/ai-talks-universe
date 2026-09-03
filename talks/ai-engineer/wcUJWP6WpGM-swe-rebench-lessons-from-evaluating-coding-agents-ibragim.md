@@ -4,7 +4,7 @@ title: "SWE-rebench: Lessons from Evaluating Coding Agents — Ibragim Badertdin
 slug: swe-rebench-lessons-from-evaluating-coding-agents-ibragim
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ibragim Badertdinov"]
@@ -15,6 +15,7 @@ video_id: wcUJWP6WpGM
 url: https://www.youtube.com/watch?v=wcUJWP6WpGM
 youtube_url: https://www.youtube.com/watch?v=wcUJWP6WpGM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

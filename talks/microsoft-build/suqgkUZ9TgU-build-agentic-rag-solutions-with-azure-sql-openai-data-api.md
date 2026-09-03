@@ -4,7 +4,7 @@ title: "Build Agentic RAG solutions with Azure SQL OpenAI & Data API builder | D
 slug: build-agentic-rag-solutions-with-azure-sql-openai-data-api
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: suqgkUZ9TgU
 url: https://www.youtube.com/watch?v=suqgkUZ9TgU
 youtube_url: https://www.youtube.com/watch?v=suqgkUZ9TgU
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

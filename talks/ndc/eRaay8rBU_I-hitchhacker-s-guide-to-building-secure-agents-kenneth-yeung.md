@@ -4,7 +4,7 @@ title: "HitchHacker's Guide to Building Secure Agents - Kenneth Yeung & Kasimir 
 slug: hitchhacker-s-guide-to-building-secure-agents-kenneth-yeung
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Kenneth Yeung", "Kasimir Schulz"]
@@ -15,6 +15,7 @@ video_id: eRaay8rBU_I
 url: https://www.youtube.com/watch?v=eRaay8rBU_I
 youtube_url: https://www.youtube.com/watch?v=eRaay8rBU_I
 tags: ["AI Agents", "AI", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Kenneth Yeung", "Kasimir Schulz"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

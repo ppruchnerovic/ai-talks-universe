@@ -4,7 +4,7 @@ title: "How to Not Become Someone Else’s Feature | Oskari Saarenmaa, Shiv Ramj
 slug: how-to-not-become-someone-elses-feature-oskari-saarenmaa
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Oskari Saarenmaa"]
@@ -15,6 +15,7 @@ video_id: qk6wvkomSc0
 url: https://www.youtube.com/watch?v=qk6wvkomSc0
 youtube_url: https://www.youtube.com/watch?v=qk6wvkomSc0
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

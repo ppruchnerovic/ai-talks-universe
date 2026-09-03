@@ -4,7 +4,7 @@ title: "Building AI That Learns and Adapts: A Case Study in MRI Diagnostics - Ag
 slug: building-ai-that-learns-and-adapts-a-case-study-in-mri
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: gBI-uOq9btU
 url: https://www.youtube.com/watch?v=gBI-uOq9btU
 youtube_url: https://www.youtube.com/watch?v=gBI-uOq9btU
 tags: ["AI", "Architecture", "Machine Learning", "ML", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "United Kingdom", "Agata Chudzińska"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Wearable measurements, perceived physiological states | AI and Sleep | D
 slug: wearable-measurements-perceived-physiological-states-ai-and
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Davide Marzorati"]
@@ -15,6 +15,7 @@ video_id: 611n_b0Iwuo
 url: https://www.youtube.com/watch?v=611n_b0Iwuo
 youtube_url: https://www.youtube.com/watch?v=611n_b0Iwuo
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

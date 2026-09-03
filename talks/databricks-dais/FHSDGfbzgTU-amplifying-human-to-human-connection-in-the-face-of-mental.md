@@ -4,7 +4,7 @@ title: "Amplifying Human-to-Human Connection in the Face of Mental Health Crisis
 slug: amplifying-human-to-human-connection-in-the-face-of-mental
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: FHSDGfbzgTU
 url: https://www.youtube.com/watch?v=FHSDGfbzgTU
 youtube_url: https://www.youtube.com/watch?v=FHSDGfbzgTU
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

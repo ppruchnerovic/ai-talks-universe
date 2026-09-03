@@ -4,7 +4,7 @@ title: "Toxic Trust: The Psychology of Automation Bias in Generative AI - Matthi
 slug: toxic-trust-the-psychology-of-automation-bias-in-generative
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Matthijs van der Veer"]
@@ -15,6 +15,7 @@ video_id: 4vX2NJgKc14
 url: https://www.youtube.com/watch?v=4vX2NJgKc14
 youtube_url: https://www.youtube.com/watch?v=4vX2NJgKc14
 tags: ["AI", "GenAI", "Ethics", "People", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Denmark", "Matthijs van der Veer"]
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

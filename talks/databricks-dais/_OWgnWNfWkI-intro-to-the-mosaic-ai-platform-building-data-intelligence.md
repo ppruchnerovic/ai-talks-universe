@@ -4,7 +4,7 @@ title: "Intro to the Mosaic AI Platform: Building Data Intelligence Into Your AI
 slug: intro-to-the-mosaic-ai-platform-building-data-intelligence
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _OWgnWNfWkI
 url: https://www.youtube.com/watch?v=_OWgnWNfWkI
 youtube_url: https://www.youtube.com/watch?v=_OWgnWNfWkI
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "How Vercel Builds Dozens of Metrics from One Heterogenous Table"
 slug: how-vercel-builds-dozens-of-metrics-from-one-heterogenous
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: n3KUORtd5J4
 url: https://www.youtube.com/watch?v=n3KUORtd5J4
 youtube_url: https://www.youtube.com/watch?v=n3KUORtd5J4
 tags: ["metrics", "analytics", "metadata"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AI That Pays: Lessons from Revenue Cycle — Nathan Wan, Ensemble Health
 slug: ai-that-pays-lessons-from-revenue-cycle-nathan-wan-ensemble
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nathan Wan"]
@@ -15,6 +15,7 @@ video_id: TquUsN1QsWs
 url: https://www.youtube.com/watch?v=TquUsN1QsWs
 youtube_url: https://www.youtube.com/watch?v=TquUsN1QsWs
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

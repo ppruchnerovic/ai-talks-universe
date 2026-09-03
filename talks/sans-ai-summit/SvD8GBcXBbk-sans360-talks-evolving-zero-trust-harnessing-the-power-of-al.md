@@ -4,7 +4,7 @@ title: "SANS360 Talks | Evolving Zero Trust: Harnessing the Power of Al"
 slug: sans360-talks-evolving-zero-trust-harnessing-the-power-of-al
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: SvD8GBcXBbk
 url: https://www.youtube.com/watch?v=SvD8GBcXBbk
 youtube_url: https://www.youtube.com/watch?v=SvD8GBcXBbk
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

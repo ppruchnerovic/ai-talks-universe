@@ -4,7 +4,7 @@ title: "Workshop: The Open Agentic Stack: Building the Future of AI Systems with
 slug: workshop-the-open-agentic-stack-building-the-future-of-ai
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: CJwn302-TBE
 url: https://www.youtube.com/watch?v=CJwn302-TBE
 youtube_url: https://www.youtube.com/watch?v=CJwn302-TBE
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Culture & Methods Trends 2026: The Human Side of AI Engineering"
 slug: culture-methods-trends-2026-the-human-side-of-ai-engineering
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: PiIHglou4Fw
 url: https://www.youtube.com/watch?v=PiIHglou4Fw
 youtube_url: https://www.youtube.com/watch?v=PiIHglou4Fw
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

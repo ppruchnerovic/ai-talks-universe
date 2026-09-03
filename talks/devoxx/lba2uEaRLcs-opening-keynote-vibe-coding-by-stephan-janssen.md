@@ -4,7 +4,7 @@ title: "Opening Keynote: Vibe Coding by Stephan Janssen"
 slug: opening-keynote-vibe-coding-by-stephan-janssen
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Stephan Janssen"]
@@ -15,6 +15,7 @@ video_id: lba2uEaRLcs
 url: https://www.youtube.com/watch?v=lba2uEaRLcs
 youtube_url: https://www.youtube.com/watch?v=lba2uEaRLcs
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

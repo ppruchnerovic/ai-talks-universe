@@ -4,7 +4,7 @@ title: "Extend your Copilot Agent in Power Apps with Copilot Studio and new SDK'
 slug: extend-your-copilot-agent-in-power-apps-with-copilot-studio
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: iwrMubn2Al8
 url: https://www.youtube.com/watch?v=iwrMubn2Al8
 youtube_url: https://www.youtube.com/watch?v=iwrMubn2Al8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

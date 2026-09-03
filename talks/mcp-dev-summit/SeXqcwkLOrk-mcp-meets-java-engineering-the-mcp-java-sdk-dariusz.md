@@ -4,7 +4,7 @@ title: "MCP Meets Java: Engineering the MCP Java SDK - Dariusz Jędrzejczyk, Bro
 slug: mcp-meets-java-engineering-the-mcp-java-sdk-dariusz
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: SeXqcwkLOrk
 url: https://www.youtube.com/watch?v=SeXqcwkLOrk
 youtube_url: https://www.youtube.com/watch?v=SeXqcwkLOrk
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

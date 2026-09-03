@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Build a well-architected foundation for scaling gen
 slug: aws-re-invent-2025-build-a-well-architected-foundation-for
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0sfKGUZ6kcg
 url: https://www.youtube.com/watch?v=0sfKGUZ6kcg
 youtube_url: https://www.youtube.com/watch?v=0sfKGUZ6kcg
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

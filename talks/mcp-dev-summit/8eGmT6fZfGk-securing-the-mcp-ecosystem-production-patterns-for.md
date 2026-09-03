@@ -4,7 +4,7 @@ title: "Securing the MCP Ecosystem: Production Patterns for Transparency... Lisa
 slug: securing-the-mcp-ecosystem-production-patterns-for
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8eGmT6fZfGk
 url: https://www.youtube.com/watch?v=8eGmT6fZfGk
 youtube_url: https://www.youtube.com/watch?v=8eGmT6fZfGk
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

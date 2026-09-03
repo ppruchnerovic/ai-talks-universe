@@ -4,7 +4,7 @@ title: "Marit van Dijk at JCON 2026 — do we need an IDE when we have AI coding
 slug: marit-van-dijk-at-jcon-2026-do-we-need-an-ide-when-we-have
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: H2g4nFyqa8A
 url: https://www.youtube.com/watch?v=H2g4nFyqa8A
 youtube_url: https://www.youtube.com/watch?v=H2g4nFyqa8A
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Everything That Happens to Data Before Model Input During Training"
 slug: everything-that-happens-to-data-before-model-input-during
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: esmCCo8t1Yg
 url: https://www.youtube.com/watch?v=esmCCo8t1Yg
 youtube_url: https://www.youtube.com/watch?v=esmCCo8t1Yg
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

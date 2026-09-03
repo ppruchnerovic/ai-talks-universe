@@ -4,7 +4,7 @@ title: "Sudeep Das, DoorDash: Unleashing the Power of Large Language Models at D
 slug: sudeep-das-doordash-unleashing-the-power-of-large-language
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: lF-qsObpW7s
 url: https://www.youtube.com/watch?v=lF-qsObpW7s
 youtube_url: https://www.youtube.com/watch?v=lF-qsObpW7s
 tags: []
+topics: []
 transcript: false
 ---
 

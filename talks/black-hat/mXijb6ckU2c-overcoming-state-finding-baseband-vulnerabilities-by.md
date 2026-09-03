@@ -4,7 +4,7 @@ title: "Overcoming State: Finding Baseband Vulnerabilities by Fuzzing Layer-2"
 slug: overcoming-state-finding-baseband-vulnerabilities-by
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: mXijb6ckU2c
 url: https://www.youtube.com/watch?v=mXijb6ckU2c
 youtube_url: https://www.youtube.com/watch?v=mXijb6ckU2c
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

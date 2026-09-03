@@ -4,7 +4,7 @@ title: "Skill Issue: How We Used AI to Make Agents Actually Good at Supabase —
 slug: skill-issue-how-we-used-ai-to-make-agents-actually-good-at
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Pedro Rodrigues"]
@@ -15,6 +15,7 @@ video_id: GmAQKINjv1E
 url: https://www.youtube.com/watch?v=GmAQKINjv1E
 youtube_url: https://www.youtube.com/watch?v=GmAQKINjv1E
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

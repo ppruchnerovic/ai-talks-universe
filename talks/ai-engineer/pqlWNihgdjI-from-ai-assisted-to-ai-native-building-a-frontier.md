@@ -4,7 +4,7 @@ title: "From AI-Assisted to AI-Native: Building a Frontier Development Team — 
 slug: from-ai-assisted-to-ai-native-building-a-frontier
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Clare Liguori"]
@@ -15,6 +15,7 @@ video_id: pqlWNihgdjI
 url: https://www.youtube.com/watch?v=pqlWNihgdjI
 youtube_url: https://www.youtube.com/watch?v=pqlWNihgdjI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

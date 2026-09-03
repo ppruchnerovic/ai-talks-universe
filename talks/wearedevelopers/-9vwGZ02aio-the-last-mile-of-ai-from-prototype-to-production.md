@@ -4,7 +4,7 @@ title: "The Last Mile of AI: From Prototype to Production"
 slug: the-last-mile-of-ai-from-prototype-to-production
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Clemens Wasner", "Holger Hammel", "Martin Remmelgas", "Max Jacobson", "Marius Cosareanu"]
@@ -15,6 +15,7 @@ video_id: -9vwGZ02aio
 url: https://www.youtube.com/watch?v=-9vwGZ02aio
 youtube_url: https://www.youtube.com/watch?v=-9vwGZ02aio
 tags: ["Strategy & Innovation"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

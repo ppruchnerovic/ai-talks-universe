@@ -4,7 +4,7 @@ title: "Do the Boring Stuff to Make Open Source AI Win | Mozilla.ai"
 slug: do-the-boring-stuff-to-make-open-source-ai-win-mozilla-ai
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: FWyWFzUmNOA
 url: https://www.youtube.com/watch?v=FWyWFzUmNOA
 youtube_url: https://www.youtube.com/watch?v=FWyWFzUmNOA
 tags: ["AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

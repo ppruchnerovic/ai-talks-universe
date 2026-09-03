@@ -4,7 +4,7 @@ title: "GPT-4 vs Starcraft II – Strategic Decision Making using Large Language
 slug: gpt-4-vs-starcraft-ii-strategic-decision-making-using-large
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Alan Smith"]
@@ -15,6 +15,7 @@ video_id: VsheJ7Lz8aY
 url: https://www.youtube.com/watch?v=VsheJ7Lz8aY
 youtube_url: https://www.youtube.com/watch?v=VsheJ7Lz8aY
 tags: ["AI", "Fun", "GPT-4", "NDC", "Conferences", "2025", "Live", "Oslo", "Norway", "Alan Smith"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

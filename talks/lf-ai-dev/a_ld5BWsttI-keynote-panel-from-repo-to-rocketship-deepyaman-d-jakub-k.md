@@ -4,7 +4,7 @@ title: "Keynote Panel: From Repo to Rocketship... Deepyaman D, Jakub K, Libby C,
 slug: keynote-panel-from-repo-to-rocketship-deepyaman-d-jakub-k
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: a_ld5BWsttI
 url: https://www.youtube.com/watch?v=a_ld5BWsttI
 youtube_url: https://www.youtube.com/watch?v=a_ld5BWsttI
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

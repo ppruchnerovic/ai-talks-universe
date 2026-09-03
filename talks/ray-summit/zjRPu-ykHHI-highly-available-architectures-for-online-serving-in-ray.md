@@ -4,7 +4,7 @@ title: "Highly available architectures for online serving in Ray"
 slug: highly-available-architectures-for-online-serving-in-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: zjRPu-ykHHI
 url: https://www.youtube.com/watch?v=zjRPu-ykHHI
 youtube_url: https://www.youtube.com/watch?v=zjRPu-ykHHI
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

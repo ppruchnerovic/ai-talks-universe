@@ -4,7 +4,7 @@ title: "Late to agentic coding? Don't panic, build. | DEM303"
 slug: late-to-agentic-coding-don-t-panic-build-dem303
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Cassidy Williams", "Martin Woodward"]
@@ -15,6 +15,7 @@ video_id: 6F7HgRhWL9E
 url: https://www.youtube.com/watch?v=6F7HgRhWL9E
 youtube_url: https://www.youtube.com/watch?v=6F7HgRhWL9E
 tags: ["4c6da11e-f9a7-4141-b2ba-ffec4bfeb86e_M9Z7-DEM303-1", "Agentic SDLC", "Agents", "Cassidy Williams", "DEM303", "DevTools", "Developer", "GitHub", "GitHub Actions", "GitHub Copilot", "GitHub Copilot CLI", "GitHub Enterprise", "Late to agentic coding? Don't panic build. | DEM303", "Martin Woodward", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

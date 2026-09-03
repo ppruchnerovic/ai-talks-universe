@@ -4,7 +4,7 @@ title: "Reasoning at Scale: Transforming Industry Recommendations with Multi Mod
 slug: reasoning-at-scale-transforming-industry-recommendations
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: MP7Khh0gKEY
 url: https://www.youtube.com/watch?v=MP7Khh0gKEY
 youtube_url: https://www.youtube.com/watch?v=MP7Khh0gKEY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Prompting & context engineering"]
 transcript: false
 ---
 

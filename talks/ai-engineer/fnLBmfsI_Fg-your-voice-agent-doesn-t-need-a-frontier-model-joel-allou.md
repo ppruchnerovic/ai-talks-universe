@@ -4,7 +4,7 @@ title: "Your Voice Agent Doesn't Need a Frontier Model - Joel Allou & Ornella Ba
 slug: your-voice-agent-doesn-t-need-a-frontier-model-joel-allou
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Joel Allou", "Ornella Bahidika"]
@@ -15,6 +15,7 @@ video_id: fnLBmfsI_Fg
 url: https://www.youtube.com/watch?v=fnLBmfsI_Fg
 youtube_url: https://www.youtube.com/watch?v=fnLBmfsI_Fg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

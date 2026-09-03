@@ -4,7 +4,7 @@ title: "Advancing AI in Cybersecurity with Databricks & Deloitte: Data Managemen
 slug: advancing-ai-in-cybersecurity-with-databricks-deloitte-data
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: luYch_JaR5g
 url: https://www.youtube.com/watch?v=luYch_JaR5g
 youtube_url: https://www.youtube.com/watch?v=luYch_JaR5g
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Security, safety & red teaming"]
 transcript: false
 ---
 

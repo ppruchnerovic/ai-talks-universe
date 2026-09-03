@@ -4,7 +4,7 @@ title: "The future of Chrome Extensions with Gemini in your browser"
 slug: the-future-of-chrome-extensions-with-gemini-in-your-browser
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8iIvAMZ-XYU
 url: https://www.youtube.com/watch?v=8iIvAMZ-XYU
 youtube_url: https://www.youtube.com/watch?v=8iIvAMZ-XYU
 tags: []
+topics: []
 transcript: false
 ---
 

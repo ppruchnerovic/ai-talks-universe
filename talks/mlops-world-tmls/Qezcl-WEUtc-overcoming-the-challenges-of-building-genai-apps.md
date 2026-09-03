@@ -4,7 +4,7 @@ title: "Overcoming the Challenges of Building GenAI Apps"
 slug: overcoming-the-challenges-of-building-genai-apps
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: Qezcl-WEUtc
 url: https://www.youtube.com/watch?v=Qezcl-WEUtc
 youtube_url: https://www.youtube.com/watch?v=Qezcl-WEUtc
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: []
 transcript: false
 ---
 

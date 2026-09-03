@@ -4,7 +4,7 @@ title: "Parea | AI Launchpad '24"
 slug: parea-ai-launchpad-24
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Joel Alexander"]
@@ -15,6 +15,7 @@ video_id: 8X7ycvooT-c
 url: https://www.youtube.com/watch?v=8X7ycvooT-c
 youtube_url: https://www.youtube.com/watch?v=8X7ycvooT-c
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

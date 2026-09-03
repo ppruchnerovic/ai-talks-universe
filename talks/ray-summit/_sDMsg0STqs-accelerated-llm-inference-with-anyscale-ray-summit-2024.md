@@ -4,7 +4,7 @@ title: "Accelerated LLM Inference with Anyscale | Ray Summit 2024"
 slug: accelerated-llm-inference-with-anyscale-ray-summit-2024
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: _sDMsg0STqs
 url: https://www.youtube.com/watch?v=_sDMsg0STqs
 youtube_url: https://www.youtube.com/watch?v=_sDMsg0STqs
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Scaling KV Caches for LLMs: How LMCache + NIXL Handle Network and Storag
 slug: scaling-kv-caches-for-llms-how-lmcache-nixl-handle-network
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 87T-irSjXfE
 url: https://www.youtube.com/watch?v=87T-irSjXfE
 youtube_url: https://www.youtube.com/watch?v=87T-irSjXfE
 tags: []
+topics: []
 transcript: false
 ---
 

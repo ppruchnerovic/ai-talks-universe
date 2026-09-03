@@ -4,7 +4,7 @@ title: "How This Broadcom Dev Uses Spring to Power AI Workflows | Josh Long"
 slug: how-this-broadcom-dev-uses-spring-to-power-ai-workflows
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Josh Long"]
@@ -15,6 +15,7 @@ video_id: xa-jd8zrF2U
 url: https://www.youtube.com/watch?v=xa-jd8zrF2U
 youtube_url: https://www.youtube.com/watch?v=xa-jd8zrF2U
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

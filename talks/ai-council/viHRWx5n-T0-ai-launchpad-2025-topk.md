@@ -4,7 +4,7 @@ title: "AI Launchpad 2025: TopK"
 slug: ai-launchpad-2025-topk
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Marek Galovic"]
@@ -15,6 +15,7 @@ video_id: viHRWx5n-T0
 url: https://www.youtube.com/watch?v=viHRWx5n-T0
 youtube_url: https://www.youtube.com/watch?v=viHRWx5n-T0
 tags: ["startup", "search API", "vector database", "ChatGPT", "artificial intelligence", "machine learning", "unified search", "search technology", "vector search", "search platform", "dense sparse vector", "text search", "Python tutorial", "API development", "developer tools", "search infrastructure", "machine learning infrastructure", "semantic search", "similarity search", "recommendation engines", "personalization", "enterprise search"]
+topics: ["Classic ML & data science", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

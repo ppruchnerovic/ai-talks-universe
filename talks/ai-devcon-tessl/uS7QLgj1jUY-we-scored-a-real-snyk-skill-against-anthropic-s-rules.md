@@ -4,7 +4,7 @@ title: "We Scored a Real Snyk Skill Against Anthropic's Rules"
 slug: we-scored-a-real-snyk-skill-against-anthropic-s-rules
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: uS7QLgj1jUY
 url: https://www.youtube.com/watch?v=uS7QLgj1jUY
 youtube_url: https://www.youtube.com/watch?v=uS7QLgj1jUY
 tags: ["AI skill security risks", "AI-native development", "Agent Scan tool", "Anthropic best practices", "How does Tessl improve skills?", "Progressive disclosure", "Security in AI skills", "Skill improvement", "Skill vulnerabilities", "Snyk skill review", "Snyk skills", "Tessl review commands", "Tessl review process", "What is Snyk Agent Scan?", "ainativedev"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Topo Pal - From Concept to Prototype | DevCon Fall 2025"
 slug: topo-pal-from-concept-to-prototype-devcon-fall-2025
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Topo Pal"]
@@ -15,6 +15,7 @@ video_id: 9UzravDoyP8
 url: https://www.youtube.com/watch?v=9UzravDoyP8
 youtube_url: https://www.youtube.com/watch?v=9UzravDoyP8
 tags: ["ainativedev"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

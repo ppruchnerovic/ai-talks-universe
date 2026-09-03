@@ -4,7 +4,7 @@ title: "Generative UI for any agent, anywhere: A2UI, AG-UI, MCP Apps, and more"
 slug: generative-ui-for-any-agent-anywhere-a2ui-ag-ui-mcp-apps
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Alan Blount", "Atai Barkai", "Ido Salomon", "Nicolas Le Pallec"]
@@ -15,6 +15,7 @@ video_id: UsMDkEsR-ok
 url: https://www.youtube.com/watch?v=UsMDkEsR-ok
 youtube_url: https://www.youtube.com/watch?v=UsMDkEsR-ok
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

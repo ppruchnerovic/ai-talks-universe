@@ -4,7 +4,7 @@ title: "[Session] Effortless User Onboarding with MCP with Pedro Rodrigues - Sin
 slug: session-effortless-user-onboarding-with-mcp-with-pedro
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: OjglGeBvDBs
 url: https://www.youtube.com/watch?v=OjglGeBvDBs
 youtube_url: https://www.youtube.com/watch?v=OjglGeBvDBs
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

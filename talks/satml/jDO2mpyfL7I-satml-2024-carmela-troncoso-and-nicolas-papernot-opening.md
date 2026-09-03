@@ -4,7 +4,7 @@ title: "SaTML 2024 - Carmela Troncoso and Nicolas Papernot - Opening Remarks"
 slug: satml-2024-carmela-troncoso-and-nicolas-papernot-opening
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Carmela Troncoso", "Nicolas Papernot"]
@@ -15,6 +15,7 @@ video_id: jDO2mpyfL7I
 url: https://www.youtube.com/watch?v=jDO2mpyfL7I
 youtube_url: https://www.youtube.com/watch?v=jDO2mpyfL7I
 tags: []
+topics: []
 transcript: false
 ---
 

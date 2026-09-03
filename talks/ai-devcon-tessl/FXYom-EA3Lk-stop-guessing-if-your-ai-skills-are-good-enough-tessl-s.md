@@ -4,7 +4,7 @@ title: "Stop Guessing If Your AI Skills Are Good Enough — Tessl's Skill Optimi
 slug: stop-guessing-if-your-ai-skills-are-good-enough-tessl-s
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: FXYom-EA3Lk
 url: https://www.youtube.com/watch?v=FXYom-EA3Lk
 youtube_url: https://www.youtube.com/watch?v=FXYom-EA3Lk
 tags: ["AI skills", "CI/CD integration", "Marc explains Skill Optimizer", "Tessl Skill Optimizer setup", "Tessl plugin", "agentic coding", "ainativedev", "best practices", "context engineering", "evaluate AI agent skills", "how to improve AI skills", "optimizing skills with Tessl", "skill evaluation", "software optimization", "what is skill optimization"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

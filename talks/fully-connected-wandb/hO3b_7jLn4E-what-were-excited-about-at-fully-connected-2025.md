@@ -4,7 +4,7 @@ title: "What we’re excited about at Fully Connected 2025"
 slug: what-were-excited-about-at-fully-connected-2025
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: hO3b_7jLn4E
 url: https://www.youtube.com/watch?v=hO3b_7jLn4E
 youtube_url: https://www.youtube.com/watch?v=hO3b_7jLn4E
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "K8s-sigs NFD × SYLVA: Declarative Image-to-Node Compatibi... Eduardo Ar
 slug: k8s-sigs-nfd-sylva-declarative-image-to-node-compatibi
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: GPnMIIfrmi0
 url: https://www.youtube.com/watch?v=GPnMIIfrmi0
 youtube_url: https://www.youtube.com/watch?v=GPnMIIfrmi0
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

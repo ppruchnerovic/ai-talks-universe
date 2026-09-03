@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | João Moura: Building Recurring, Governed, and Embedde
 slug: ai-dev-26-x-sf-joao-moura-building-recurring-governed-and
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: hsy02uiKcAM
 url: https://www.youtube.com/watch?v=hsy02uiKcAM
 youtube_url: https://www.youtube.com/watch?v=hsy02uiKcAM
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

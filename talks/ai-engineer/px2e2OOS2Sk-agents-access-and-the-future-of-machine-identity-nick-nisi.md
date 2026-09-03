@@ -4,7 +4,7 @@ title: "Agents, Access, and the Future of Machine Identity — Nick Nisi (WorkOS
 slug: agents-access-and-the-future-of-machine-identity-nick-nisi
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nick Nisi"]
@@ -15,6 +15,7 @@ video_id: px2e2OOS2Sk
 url: https://www.youtube.com/watch?v=px2e2OOS2Sk
 youtube_url: https://www.youtube.com/watch?v=px2e2OOS2Sk
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

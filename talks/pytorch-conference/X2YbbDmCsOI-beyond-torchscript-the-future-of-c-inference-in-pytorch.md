@@ -4,7 +4,7 @@ title: "Beyond TorchScript: The Future of C++ Inference in PyTorch - Sherlock Hu
 slug: beyond-torchscript-the-future-of-c-inference-in-pytorch
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Sherlock Huang"]
@@ -15,6 +15,7 @@ video_id: X2YbbDmCsOI
 url: https://www.youtube.com/watch?v=X2YbbDmCsOI
 youtube_url: https://www.youtube.com/watch?v=X2YbbDmCsOI
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

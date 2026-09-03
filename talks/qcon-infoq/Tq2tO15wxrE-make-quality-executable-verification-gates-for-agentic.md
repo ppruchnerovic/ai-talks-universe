@@ -4,7 +4,7 @@ title: "Make Quality Executable: Verification Gates for Agentic Engineering at S
 slug: make-quality-executable-verification-gates-for-agentic
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Tq2tO15wxrE
 url: https://www.youtube.com/watch?v=Tq2tO15wxrE
 youtube_url: https://www.youtube.com/watch?v=Tq2tO15wxrE
 tags: ["Agentic Engineering", "Code Quality", "Code Review", "AI Engineering", "Developer Productivity", "DevOps", "SDLC", "Generative AI"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

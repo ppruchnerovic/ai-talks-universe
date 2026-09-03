@@ -4,7 +4,7 @@ title: "Revolutionizing Software with Moldable Development • Tudor Girba & Jul
 slug: revolutionizing-software-with-moldable-development-tudor
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Tudor Girba", "Julian Wood"]
@@ -15,6 +15,7 @@ video_id: 0EQW3olont8
 url: https://www.youtube.com/watch?v=0EQW3olont8
 youtube_url: https://www.youtube.com/watch?v=0EQW3olont8
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: []
 transcript: false
 ---
 

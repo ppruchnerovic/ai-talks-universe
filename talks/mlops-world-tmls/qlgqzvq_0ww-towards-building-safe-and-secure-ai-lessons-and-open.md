@@ -4,7 +4,7 @@ title: "Towards building safe and secure AI: Lessons and Open Challenges"
 slug: towards-building-safe-and-secure-ai-lessons-and-open
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: qlgqzvq_0ww
 url: https://www.youtube.com/watch?v=qlgqzvq_0ww
 youtube_url: https://www.youtube.com/watch?v=qlgqzvq_0ww
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Executorch: Enabling and Accelerating PyTorch Models on Edge Devices - C
 slug: executorch-enabling-and-accelerating-pytorch-models-on-edge
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Chen Lai"]
@@ -15,6 +15,7 @@ video_id: 2yJvkeG-OWc
 url: https://www.youtube.com/watch?v=2yJvkeG-OWc
 youtube_url: https://www.youtube.com/watch?v=2yJvkeG-OWc
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

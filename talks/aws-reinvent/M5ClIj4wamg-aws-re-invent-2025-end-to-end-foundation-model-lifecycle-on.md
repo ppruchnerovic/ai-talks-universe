@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - End-to-end foundation model lifecycle on AWS Traini
 slug: aws-re-invent-2025-end-to-end-foundation-model-lifecycle-on
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: M5ClIj4wamg
 url: https://www.youtube.com/watch?v=M5ClIj4wamg
 youtube_url: https://www.youtube.com/watch?v=M5ClIj4wamg
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Earth's Defense with Hera: AI Agents Battle Planet Extinction Threats | 
 slug: earth-s-defense-with-hera-ai-agents-battle-planet
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: i_YG6-0Yv9M
 url: https://www.youtube.com/watch?v=i_YG6-0Yv9M
 youtube_url: https://www.youtube.com/watch?v=i_YG6-0Yv9M
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

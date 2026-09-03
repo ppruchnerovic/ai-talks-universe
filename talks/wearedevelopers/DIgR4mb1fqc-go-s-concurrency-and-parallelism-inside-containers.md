@@ -4,7 +4,7 @@ title: "Go's Concurrency and Parallelism Inside Containers"
 slug: go-s-concurrency-and-parallelism-inside-containers
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Rick Rackow"]
@@ -15,6 +15,7 @@ video_id: DIgR4mb1fqc
 url: https://www.youtube.com/watch?v=DIgR4mb1fqc
 youtube_url: https://www.youtube.com/watch?v=DIgR4mb1fqc
 tags: ["Languages & Runtimes", "Concurrency", "Containers", "Go"]
+topics: []
 transcript: true
 ---
 

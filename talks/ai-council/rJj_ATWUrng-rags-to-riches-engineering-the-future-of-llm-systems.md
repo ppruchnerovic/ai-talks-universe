@@ -4,7 +4,7 @@ title: "RAGs to Riches: Engineering the Future of LLM Systems"
 slug: rags-to-riches-engineering-the-future-of-llm-systems
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Denis Yarats"]
@@ -15,6 +15,7 @@ video_id: rJj_ATWUrng
 url: https://www.youtube.com/watch?v=rJj_ATWUrng
 youtube_url: https://www.youtube.com/watch?v=rJj_ATWUrng
 tags: ["RAG", "retrieval augmented generation", "ChatGPT", "LLM", "OpenAI", "artificial intelligence", "machine learning", "natural language processing", "AI programming", "Python", "deep learning", "language models", "generative AI", "vector database", "semantic search", "embeddings", "knowledge graphs", "document processing", "information retrieval", "AI chatbots", "conversational AI", "prompt engineering", "fine tuning", "transformer models", "BERT", "GPT", "neural search", "similarity search", "content generation", "AI workflow", "automation"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

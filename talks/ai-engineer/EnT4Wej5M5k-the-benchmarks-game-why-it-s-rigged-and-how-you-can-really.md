@@ -4,7 +4,7 @@ title: "The Benchmarks Game: Why It's Rigged and How You Can (Really) Win - Dari
 slug: the-benchmarks-game-why-it-s-rigged-and-how-you-can-really
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Darius Emrani"]
@@ -15,6 +15,7 @@ video_id: EnT4Wej5M5k
 url: https://www.youtube.com/watch?v=EnT4Wej5M5k
 youtube_url: https://www.youtube.com/watch?v=EnT4Wej5M5k
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

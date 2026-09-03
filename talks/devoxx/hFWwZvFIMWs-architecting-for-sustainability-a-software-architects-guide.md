@@ -4,7 +4,7 @@ title: "Architecting for Sustainability: A Software Architects Guide to Green So
 slug: architecting-for-sustainability-a-software-architects-guide
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Eoin Woods"]
@@ -15,6 +15,7 @@ video_id: hFWwZvFIMWs
 url: https://www.youtube.com/watch?v=hFWwZvFIMWs
 youtube_url: https://www.youtube.com/watch?v=hFWwZvFIMWs
 tags: []
+topics: []
 transcript: false
 ---
 

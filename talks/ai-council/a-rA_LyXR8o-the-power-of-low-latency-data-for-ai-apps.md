@@ -4,7 +4,7 @@ title: "The Power of Low Latency Data for AI Apps"
 slug: the-power-of-low-latency-data-for-ai-apps
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Darlene Volas"]
@@ -15,6 +15,7 @@ video_id: a-rA_LyXR8o
 url: https://www.youtube.com/watch?v=a-rA_LyXR8o
 youtube_url: https://www.youtube.com/watch?v=a-rA_LyXR8o
 tags: ["low latency", "real time data", "AI applications", "ChatGPT", "artificial intelligence", "machine learning", "performance", "real time analytics", "RAG", "SQL analytics", "AI performance", "streaming data", "data latency", "Python tutorial", "microsecond latency", "nanosecond precision", "high frequency trading", "algorithmic trading", "real time bidding", "gaming", "financial markets", "IoT applications", "edge computing"]
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

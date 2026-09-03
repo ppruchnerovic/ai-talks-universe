@@ -4,7 +4,7 @@ title: "Debo Dutta - The Rise of Agentic AI: Building Secure, Scalable, and Ethi
 slug: debo-dutta-the-rise-of-agentic-ai-building-secure-scalable
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Debo Dutta"]
@@ -15,6 +15,7 @@ video_id: pG9ZOWO8bjU
 url: https://www.youtube.com/watch?v=pG9ZOWO8bjU
 youtube_url: https://www.youtube.com/watch?v=pG9ZOWO8bjU
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

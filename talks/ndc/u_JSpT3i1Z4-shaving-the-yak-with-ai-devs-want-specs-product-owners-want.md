@@ -4,7 +4,7 @@ title: "Shaving the Yak with AI - Devs want specs, Product Owners want speed - A
 slug: shaving-the-yak-with-ai-devs-want-specs-product-owners-want
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Adam Cogan"]
@@ -15,6 +15,7 @@ video_id: u_JSpT3i1Z4
 url: https://www.youtube.com/watch?v=u_JSpT3i1Z4
 youtube_url: https://www.youtube.com/watch?v=u_JSpT3i1Z4
 tags: ["NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia", "Adam Cogan", "AI", "Azure", "GitHub", "DevOps"]
+topics: []
 transcript: false
 ---
 

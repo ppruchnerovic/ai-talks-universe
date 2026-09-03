@@ -4,7 +4,7 @@ title: "Richard Harang - A Tutorial on Hacking Facial Recognition Systems - DEF 
 slug: richard-harang-a-tutorial-on-hacking-facial-recognition
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Richard Harang"]
@@ -15,6 +15,7 @@ video_id: b-lkYtprgVw
 url: https://www.youtube.com/watch?v=b-lkYtprgVw
 youtube_url: https://www.youtube.com/watch?v=b-lkYtprgVw
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Building next-gen audio-first experiences: Lessons from PlayStation"
 slug: building-next-gen-audio-first-experiences-lessons-from
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Haris Ioannou", "Golda James"]
@@ -15,6 +15,7 @@ video_id: mJR1g4UJcLI
 url: https://www.youtube.com/watch?v=mJR1g4UJcLI
 youtube_url: https://www.youtube.com/watch?v=mJR1g4UJcLI
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

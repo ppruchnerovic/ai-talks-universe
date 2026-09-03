@@ -4,7 +4,7 @@ title: "OpenAI DevDay 2025: Opening Keynote with Sam Altman"
 slug: openai-devday-2025-opening-keynote-with-sam-altman
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: hS1YqcewH0c
 url: https://www.youtube.com/watch?v=hS1YqcewH0c
 youtube_url: https://www.youtube.com/watch?v=hS1YqcewH0c
 tags: []
+topics: []
 transcript: false
 ---
 

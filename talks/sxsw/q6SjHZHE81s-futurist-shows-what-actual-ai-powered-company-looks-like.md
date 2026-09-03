@@ -4,7 +4,7 @@ title: "Futurist Shows What Actual AI-Powered Company Looks Like | SXSW LIVE"
 slug: futurist-shows-what-actual-ai-powered-company-looks-like
 conference: sxsw
 conference_name: "SXSW"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "SXSW 2025 keynotes & featured"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: q6SjHZHE81s
 url: https://www.youtube.com/watch?v=q6SjHZHE81s
 youtube_url: https://www.youtube.com/watch?v=q6SjHZHE81s
 tags: []
+topics: []
 transcript: false
 ---
 

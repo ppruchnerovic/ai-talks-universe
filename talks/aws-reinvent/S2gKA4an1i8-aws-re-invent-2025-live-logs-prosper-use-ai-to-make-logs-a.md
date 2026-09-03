@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Live logs & prosper: Use AI to make logs a primary 
 slug: aws-re-invent-2025-live-logs-prosper-use-ai-to-make-logs-a
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: S2gKA4an1i8
 url: https://www.youtube.com/watch?v=S2gKA4an1i8
 youtube_url: https://www.youtube.com/watch?v=S2gKA4an1i8
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

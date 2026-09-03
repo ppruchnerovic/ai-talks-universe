@@ -4,7 +4,7 @@ title: "AI Launchpad 2025: Mooncake"
 slug: ai-launchpad-2025-mooncake
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Pranav Aurora"]
@@ -15,6 +15,7 @@ video_id: vWo2DD9P3UA
 url: https://www.youtube.com/watch?v=vWo2DD9P3UA
 youtube_url: https://www.youtube.com/watch?v=vWo2DD9P3UA
 tags: ["startup", "real time search", "AI search", "ChatGPT", "artificial intelligence", "machine learning", "analytics platform", "search technology", "real time analytics", "object store", "GenAI apps", "open table formats", "Python", "search algorithms", "information retrieval", "vector search", "semantic search", "recommendation systems", "personalization", "user experience", "product development", "technology innovation", "market opportunity"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

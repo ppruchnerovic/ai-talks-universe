@@ -4,7 +4,7 @@ title: "The Future of Agentic AI - Michele Catasta, Head of AI at Replit, and Ma
 slug: the-future-of-agentic-ai-michele-catasta-head-of-ai-at
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: ["Michele Catasta"]
@@ -15,6 +15,7 @@ video_id: J91bCwHFdDA
 url: https://www.youtube.com/watch?v=J91bCwHFdDA
 youtube_url: https://www.youtube.com/watch?v=J91bCwHFdDA
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Dave Kerr - Bipolar Disorder, Dysregulation, and AI - AI Native DevCon J
 slug: dave-kerr-bipolar-disorder-dysregulation-and-ai-ai-native
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Dave Kerr", "Bipolar Disorder"]
@@ -15,6 +15,7 @@ video_id: ACL7_EsfIio
 url: https://www.youtube.com/watch?v=ACL7_EsfIio
 youtube_url: https://www.youtube.com/watch?v=ACL7_EsfIio
 tags: ["AI DevCon", "AI DevCon June 2026", "AI and creativity", "AI and mental health", "AI impact on mood disorder", "Dave Kerr bipolar disorder", "ainativedev", "bipolar disorder", "creativity and AI", "dysregulation", "how to manage bipolar disorder", "mental health management", "mood regulation", "regulators in mental health", "support systems"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

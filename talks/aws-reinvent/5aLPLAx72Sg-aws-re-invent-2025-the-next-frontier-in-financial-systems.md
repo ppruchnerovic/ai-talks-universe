@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - The Next Frontier in Financial Systems: Transformer
 slug: aws-re-invent-2025-the-next-frontier-in-financial-systems
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5aLPLAx72Sg
 url: https://www.youtube.com/watch?v=5aLPLAx72Sg
 youtube_url: https://www.youtube.com/watch?v=5aLPLAx72Sg
 tags: []
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

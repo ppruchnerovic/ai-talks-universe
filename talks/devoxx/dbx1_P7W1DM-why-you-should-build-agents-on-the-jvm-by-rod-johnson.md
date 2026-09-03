@@ -4,7 +4,7 @@ title: "Why You Should Build Agents on the JVM by Rod Johnson"
 slug: why-you-should-build-agents-on-the-jvm-by-rod-johnson
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Rod Johnson"]
@@ -15,6 +15,7 @@ video_id: dbx1_P7W1DM
 url: https://www.youtube.com/watch?v=dbx1_P7W1DM
 youtube_url: https://www.youtube.com/watch?v=dbx1_P7W1DM
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

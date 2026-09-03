@@ -4,7 +4,7 @@ title: "Sponsored Session: The Self-Improving MCP Server: Agents in a Live Devel
 slug: sponsored-session-the-self-improving-mcp-server-agents-in-a
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Enrico Toniato"]
@@ -15,6 +15,7 @@ video_id: XMPoyrgClxE
 url: https://www.youtube.com/watch?v=XMPoyrgClxE
 youtube_url: https://www.youtube.com/watch?v=XMPoyrgClxE
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

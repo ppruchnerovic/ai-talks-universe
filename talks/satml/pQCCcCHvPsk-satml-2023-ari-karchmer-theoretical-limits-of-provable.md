@@ -4,7 +4,7 @@ title: "SaTML 2023 - Ari Karchmer - Theoretical Limits of Provable Security Agai
 slug: satml-2023-ari-karchmer-theoretical-limits-of-provable
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Ari Karchmer"]
@@ -15,6 +15,7 @@ video_id: pQCCcCHvPsk
 url: https://www.youtube.com/watch?v=pQCCcCHvPsk
 youtube_url: https://www.youtube.com/watch?v=pQCCcCHvPsk
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Revolutionizing Audi's Welding Inspection System th
 slug: aws-re-invent-2025-revolutionizing-audi-s-welding
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: tLgru5Tr314
 url: https://www.youtube.com/watch?v=tLgru5Tr314
 youtube_url: https://www.youtube.com/watch?v=tLgru5Tr314
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "How to Attract & Retain in a fast moving environment"
 slug: how-to-attract-retain-in-a-fast-moving-environment
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Kent Frederiksen"]
@@ -15,6 +15,7 @@ video_id: ejyL9EXqEcA
 url: https://www.youtube.com/watch?v=ejyL9EXqEcA
 youtube_url: https://www.youtube.com/watch?v=ejyL9EXqEcA
 tags: ["Talent Strategy", "Analytics", "Communication", "People & Culture", "Performance", "Talent & Recruiting"]
+topics: []
 transcript: true
 ---
 

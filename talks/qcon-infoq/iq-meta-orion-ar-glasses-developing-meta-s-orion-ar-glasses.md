@@ -4,7 +4,7 @@ title: "Developing Meta's Orion AR Glasses"
 slug: developing-meta-s-orion-ar-glasses
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Jinsong Yu"]
@@ -15,6 +15,7 @@ video_id: iq-meta-orion-ar-glasses
 url: https://www.infoq.com/presentations/meta-orion-ar-glasses/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

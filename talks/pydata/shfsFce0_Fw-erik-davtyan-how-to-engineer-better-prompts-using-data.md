@@ -4,7 +4,7 @@ title: "Erik Davtyan - How to Engineer Better Prompts Using Data Science"
 slug: erik-davtyan-how-to-engineer-better-prompts-using-data
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Erik Davtyan"]
@@ -15,6 +15,7 @@ video_id: shfsFce0_Fw
 url: https://www.youtube.com/watch?v=shfsFce0_Fw
 youtube_url: https://www.youtube.com/watch?v=shfsFce0_Fw
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "I Broke Production at 2 AM: How AI Agents are Fixing Post-Mortems"
 slug: i-broke-production-at-2-am-how-ai-agents-are-fixing-post
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: B57MLbmpdGw
 url: https://www.youtube.com/watch?v=B57MLbmpdGw
 youtube_url: https://www.youtube.com/watch?v=B57MLbmpdGw
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

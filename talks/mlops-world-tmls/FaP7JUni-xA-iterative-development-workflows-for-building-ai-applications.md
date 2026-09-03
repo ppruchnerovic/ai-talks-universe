@@ -4,7 +4,7 @@ title: "Iterative development workflows for building AI applications"
 slug: iterative-development-workflows-for-building-ai-applications
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: FaP7JUni-xA
 url: https://www.youtube.com/watch?v=FaP7JUni-xA
 youtube_url: https://www.youtube.com/watch?v=FaP7JUni-xA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Iterative development workflows for building AI applications", "Iterative development workflows", "building AI applications", "AI applications", "ai", "workflows"]
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

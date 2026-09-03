@@ -4,7 +4,7 @@ title: "Building the quantum-AI future with Hartmut Neven and James Manyika"
 slug: building-the-quantum-ai-future-with-hartmut-neven-and-james
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["James Manyika", "Hartmut Neven"]
@@ -15,6 +15,7 @@ video_id: yQPnb4gxKRc
 url: https://www.youtube.com/watch?v=yQPnb4gxKRc
 youtube_url: https://www.youtube.com/watch?v=yQPnb4gxKRc
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Dialogues;", "ct:Event - AI PA Keynote;"]
+topics: []
 transcript: true
 ---
 

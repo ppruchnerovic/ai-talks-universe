@@ -4,7 +4,7 @@ title: "BDD, ADR, PRD, WTF: Capturing Decisions for Humans and AI Alike — Mich
 slug: bdd-adr-prd-wtf-capturing-decisions-for-humans-and-ai-alike
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Michal Cichra"]
@@ -15,6 +15,7 @@ video_id: 504PvfXou5Y
 url: https://www.youtube.com/watch?v=504PvfXou5Y
 youtube_url: https://www.youtube.com/watch?v=504PvfXou5Y
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Motional’s Blueprint for High-Performance ML Systems in Autonomous Dri
 slug: motionals-blueprint-for-high-performance-ml-systems-in
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: BLWXwFjyiHA
 url: https://www.youtube.com/watch?v=BLWXwFjyiHA
 youtube_url: https://www.youtube.com/watch?v=BLWXwFjyiHA
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

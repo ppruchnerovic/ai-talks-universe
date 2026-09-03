@@ -4,7 +4,7 @@ title: "Practical LLM Inference in Modern Java - Alina Yurenko & Alfonso² Peter
 slug: practical-llm-inference-in-modern-java-alina-yurenko
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: KooKPWB_ktk
 url: https://www.youtube.com/watch?v=KooKPWB_ktk
 youtube_url: https://www.youtube.com/watch?v=KooKPWB_ktk
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

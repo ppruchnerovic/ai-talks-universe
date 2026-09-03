@@ -4,7 +4,7 @@ title: "Beyond Copilots: How LinkedIn Scales Multi-Agent Systems"
 slug: beyond-copilots-how-linkedin-scales-multi-agent-systems
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: kaPiA0Di6lw
 url: https://www.youtube.com/watch?v=kaPiA0Di6lw
 youtube_url: https://www.youtube.com/watch?v=kaPiA0Di6lw
 tags: ["QCon London", "Case Study", "LinkedIn", "AI Agents", "Artificial Intelligence", "LLMs", "LLMOps", "Software Architecture", "LinkedIn Engineering", "Hiring Assistent", "InfoQ", "Transcript"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

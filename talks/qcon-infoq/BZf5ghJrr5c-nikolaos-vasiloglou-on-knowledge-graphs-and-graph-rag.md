@@ -4,7 +4,7 @@ title: "Nikolaos Vasiloglou on Knowledge Graphs and Graph RAG"
 slug: nikolaos-vasiloglou-on-knowledge-graphs-and-graph-rag
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: BZf5ghJrr5c
 url: https://www.youtube.com/watch?v=BZf5ghJrr5c
 youtube_url: https://www.youtube.com/watch?v=BZf5ghJrr5c
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

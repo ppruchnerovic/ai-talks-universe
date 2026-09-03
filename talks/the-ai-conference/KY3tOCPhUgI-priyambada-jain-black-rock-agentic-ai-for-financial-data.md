@@ -4,7 +4,7 @@ title: "Priyambada Jain, Black Rock: Agentic AI for Financial Data"
 slug: priyambada-jain-black-rock-agentic-ai-for-financial-data
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: KY3tOCPhUgI
 url: https://www.youtube.com/watch?v=KY3tOCPhUgI
 youtube_url: https://www.youtube.com/watch?v=KY3tOCPhUgI
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability", "Governance, ethics & regulation", "Prompting & context engineering", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

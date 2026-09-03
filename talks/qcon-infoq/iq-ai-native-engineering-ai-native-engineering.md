@@ -4,7 +4,7 @@ title: "AI Native Engineering"
 slug: ai-native-engineering
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Ian Thomas"]
@@ -15,6 +15,7 @@ video_id: iq-ai-native-engineering
 url: https://www.infoq.com/presentations/ai-native-engineering/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

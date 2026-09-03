@@ -4,7 +4,7 @@ title: "Repository as Network: Visualizing Collaboration in git"
 slug: repository-as-network-visualizing-collaboration-in-git
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Dmitry Yanter"]
@@ -15,6 +15,7 @@ video_id: BKr4nmUPU5U
 url: https://www.youtube.com/watch?v=BKr4nmUPU5U
 youtube_url: https://www.youtube.com/watch?v=BKr4nmUPU5U
 tags: ["Developer Experience", "Best Practices", "Collaboration"]
+topics: []
 transcript: true
 ---
 

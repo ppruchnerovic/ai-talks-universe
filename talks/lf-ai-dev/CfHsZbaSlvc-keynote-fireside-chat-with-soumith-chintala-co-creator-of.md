@@ -4,7 +4,7 @@ title: "Keynote: Fireside Chat with Soumith Chintala, Co-Creator of PyTorch & Me
 slug: keynote-fireside-chat-with-soumith-chintala-co-creator-of
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: CfHsZbaSlvc
 url: https://www.youtube.com/watch?v=CfHsZbaSlvc
 youtube_url: https://www.youtube.com/watch?v=CfHsZbaSlvc
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

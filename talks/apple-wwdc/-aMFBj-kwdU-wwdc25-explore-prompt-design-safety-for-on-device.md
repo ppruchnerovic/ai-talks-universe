@@ -4,7 +4,7 @@ title: "WWDC25: Explore prompt design & safety for on-device foundation models |
 slug: wwdc25-explore-prompt-design-safety-for-on-device
 conference: apple-wwdc
 conference_name: "Apple WWDC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "WWDC25"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: -aMFBj-kwdU
 url: https://www.youtube.com/watch?v=-aMFBj-kwdU
 youtube_url: https://www.youtube.com/watch?v=-aMFBj-kwdU
 tags: []
+topics: ["Inference, serving & GPU infra", "Prompting & context engineering", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

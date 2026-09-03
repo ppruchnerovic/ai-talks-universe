@@ -4,7 +4,7 @@ title: "From legacy to cloud native: Accelerating Modernization at scale and AI 
 slug: from-legacy-to-cloud-native-accelerating-modernization-at
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ohiqq1XOcq0
 url: https://www.youtube.com/watch?v=Ohiqq1XOcq0
 youtube_url: https://www.youtube.com/watch?v=Ohiqq1XOcq0
 tags: []
+topics: []
 transcript: false
 ---
 

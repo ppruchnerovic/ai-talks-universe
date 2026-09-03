@@ -4,7 +4,7 @@ title: "Inside the Rise of Autonomous AI Hackers: XBOW's Oege de Moor"
 slug: inside-the-rise-of-autonomous-ai-hackers-xbow-s-oege-de-moor
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: eHsr1Fl2jNA
 url: https://www.youtube.com/watch?v=eHsr1Fl2jNA
 youtube_url: https://www.youtube.com/watch?v=eHsr1Fl2jNA
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

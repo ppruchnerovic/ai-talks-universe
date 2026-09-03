@@ -4,7 +4,7 @@ title: "Cerebral Valley: Generative AI Taking Over The Physical World (with Raqu
 slug: cerebral-valley-generative-ai-taking-over-the-physical
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0RVD41M7R1Q
 url: https://www.youtube.com/watch?v=0RVD41M7R1Q
 youtube_url: https://www.youtube.com/watch?v=0RVD41M7R1Q
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

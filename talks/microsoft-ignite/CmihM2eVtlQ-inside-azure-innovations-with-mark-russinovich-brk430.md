@@ -4,7 +4,7 @@ title: "Inside Azure Innovations with Mark Russinovich | BRK430"
 slug: inside-azure-innovations-with-mark-russinovich-brk430
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Mark Russinovich"]
@@ -15,6 +15,7 @@ video_id: CmihM2eVtlQ
 url: https://www.youtube.com/watch?v=CmihM2eVtlQ
 youtube_url: https://www.youtube.com/watch?v=CmihM2eVtlQ
 tags: ["BRK430", "BRK430_v1", "English (US)", "Inside Azure Innovations with Mark Russinovich | BRK430", "Mark Russinovich", "Migrate and modernize your estate", "Signature pass", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

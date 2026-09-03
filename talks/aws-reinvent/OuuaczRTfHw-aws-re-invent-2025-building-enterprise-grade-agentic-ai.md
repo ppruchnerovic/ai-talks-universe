@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Building enterprise-grade Agentic AI factory (PEX30
 slug: aws-re-invent-2025-building-enterprise-grade-agentic-ai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: OuuaczRTfHw
 url: https://www.youtube.com/watch?v=OuuaczRTfHw
 youtube_url: https://www.youtube.com/watch?v=OuuaczRTfHw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

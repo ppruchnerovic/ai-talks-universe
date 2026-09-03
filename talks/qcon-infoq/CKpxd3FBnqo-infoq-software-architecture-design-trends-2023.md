@@ -4,7 +4,7 @@ title: "InfoQ Software Architecture & Design Trends 2023"
 slug: infoq-software-architecture-design-trends-2023
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: CKpxd3FBnqo
 url: https://www.youtube.com/watch?v=CKpxd3FBnqo
 youtube_url: https://www.youtube.com/watch?v=CKpxd3FBnqo
 tags: ["InfoQ Trends Reports", "Architecture & Design", "ChatGPT", "WebAssembley", "Blockchain"]
+topics: []
 transcript: false
 ---
 

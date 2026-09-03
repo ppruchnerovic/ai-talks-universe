@@ -4,7 +4,7 @@ title: "OpenAI Killed My Startup - How Product-First Companies Fight Back"
 slug: openai-killed-my-startup-how-product-first-companies-fight
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Han-chung Lee"]
@@ -15,6 +15,7 @@ video_id: 4dUFIRj-BWo
 url: https://www.youtube.com/watch?v=4dUFIRj-BWo
 youtube_url: https://www.youtube.com/watch?v=4dUFIRj-BWo
 tags: ["AI business", "product strategy", "model centric approach", "ChatGPT", "artificial intelligence", "machine learning", "competitive advantage", "tech strategy", "business model", "AI market", "innovation", "distribution moat", "AI economics", "model differentiation", "startup strategy", "Python", "AI product management", "go to market strategy", "AI adoption", "digital transformation", "business intelligence", "market analysis", "competitive intelligence", "strategic planning", "technology roadmap"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

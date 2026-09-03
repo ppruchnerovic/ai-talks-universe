@@ -4,7 +4,7 @@ title: "From HAL to HALT: Thwarting Skynet's Siblings in the GenAI Coding Era"
 slug: from-hal-to-halt-thwarting-skynet-s-siblings-in-the-genai
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: uv4AD6ICcfE
 url: https://www.youtube.com/watch?v=uv4AD6ICcfE
 youtube_url: https://www.youtube.com/watch?v=uv4AD6ICcfE
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

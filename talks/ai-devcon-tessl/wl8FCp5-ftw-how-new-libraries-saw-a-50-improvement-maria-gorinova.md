@@ -4,7 +4,7 @@ title: "How New Libraries Saw a 50% Improvement | Maria Gorinova"
 slug: how-new-libraries-saw-a-50-improvement-maria-gorinova
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Maria Gorinova"]
@@ -15,6 +15,7 @@ video_id: wl8FCp5-ftw
 url: https://www.youtube.com/watch?v=wl8FCp5-ftw
 youtube_url: https://www.youtube.com/watch?v=wl8FCp5-ftw
 tags: ["ainativedev"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Legal Firm Burges Salmon's Copilot Adoption Journey | Studio54"
 slug: legal-firm-burges-salmon-s-copilot-adoption-journey-studio54
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Chris Huntingford", "Alice Ratcliffe", "Dona Sarkar", "Eddie Twemlow"]
@@ -15,6 +15,7 @@ video_id: WD6_V2Uf4Ko
 url: https://www.youtube.com/watch?v=WD6_V2Uf4Ko
 youtube_url: https://www.youtube.com/watch?v=WD6_V2Uf4Ko
 tags: ["Alice Ratcliffe", "Chris Huntingford", "Dona Sarkar", "Eddie Twemlow", "English (US)", "Legal Firm Burges Salmon's Copilot Adoption Journey | Studio54", "Studio", "Studio54", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

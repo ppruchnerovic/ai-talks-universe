@@ -4,7 +4,7 @@ title: "Devoxx Greece 2025 - Next-Gen RAG: Advanced Techniques for Smarter AI Re
 slug: devoxx-greece-2025-next-gen-rag-advanced-techniques-for
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: zLe73DVkg0M
 url: https://www.youtube.com/watch?v=zLe73DVkg0M
 youtube_url: https://www.youtube.com/watch?v=zLe73DVkg0M
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

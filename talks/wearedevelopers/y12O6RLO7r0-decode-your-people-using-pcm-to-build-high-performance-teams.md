@@ -4,7 +4,7 @@ title: "Decode Your People: Using PCM to Build High-Performance Teams"
 slug: decode-your-people-using-pcm-to-build-high-performance-teams
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Chris Redmond"]
@@ -15,6 +15,7 @@ video_id: y12O6RLO7r0
 url: https://www.youtube.com/watch?v=y12O6RLO7r0
 youtube_url: https://www.youtube.com/watch?v=y12O6RLO7r0
 tags: ["People & Culture", "Communication", "Motivation", "People & Culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Composing AI Applications as a Graph with Haystack - Tuana Celik, deepse
 slug: composing-ai-applications-as-a-graph-with-haystack-tuana
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Tuana Celik"]
@@ -15,6 +15,7 @@ video_id: iE6lEaXlm_c
 url: https://www.youtube.com/watch?v=iE6lEaXlm_c
 youtube_url: https://www.youtube.com/watch?v=iE6lEaXlm_c
 tags: []
+topics: []
 transcript: false
 ---
 

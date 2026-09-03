@@ -4,7 +4,7 @@ title: "mxfp8, mxfp4, nvfp4 formats and applications in PyTorch - Vasily Kuznets
 slug: mxfp8-mxfp4-nvfp4-formats-and-applications-in-pytorch
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Vasily Kuznetsov", "Driss Guessous"]
@@ -15,6 +15,7 @@ video_id: Up0EfrudTSQ
 url: https://www.youtube.com/watch?v=Up0EfrudTSQ
 youtube_url: https://www.youtube.com/watch?v=Up0EfrudTSQ
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

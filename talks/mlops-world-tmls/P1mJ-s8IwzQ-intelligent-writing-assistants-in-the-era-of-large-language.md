@@ -4,7 +4,7 @@ title: "Intelligent Writing Assistants in the era of Large Language"
 slug: intelligent-writing-assistants-in-the-era-of-large-language
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Vipul Raheja"]
@@ -15,6 +15,7 @@ video_id: P1mJ-s8IwzQ
 url: https://www.youtube.com/watch?v=P1mJ-s8IwzQ
 youtube_url: https://www.youtube.com/watch?v=P1mJ-s8IwzQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Data Versioning in Generative AI: A Pathway to Cost-effective ML"
 slug: data-versioning-in-generative-ai-a-pathway-to-cost
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Dmitry Petrov"]
@@ -15,6 +15,7 @@ video_id: 1qLQ4VhgXzE
 url: https://www.youtube.com/watch?v=1qLQ4VhgXzE
 youtube_url: https://www.youtube.com/watch?v=1qLQ4VhgXzE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

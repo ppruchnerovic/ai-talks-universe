@@ -4,7 +4,7 @@ title: "Guide, Verify, Solve — Anirban Chatterjee, Sonar"
 slug: guide-verify-solve-anirban-chatterjee-sonar
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Anirban Chatterjee"]
@@ -15,6 +15,7 @@ video_id: 03l29gJXpCE
 url: https://www.youtube.com/watch?v=03l29gJXpCE
 youtube_url: https://www.youtube.com/watch?v=03l29gJXpCE
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

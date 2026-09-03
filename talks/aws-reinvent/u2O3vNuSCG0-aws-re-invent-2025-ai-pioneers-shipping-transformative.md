@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - AI Pioneers: Shipping Transformative GenAI Architec
 slug: aws-re-invent-2025-ai-pioneers-shipping-transformative
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: u2O3vNuSCG0
 url: https://www.youtube.com/watch?v=u2O3vNuSCG0
 youtube_url: https://www.youtube.com/watch?v=u2O3vNuSCG0
 tags: []
+topics: []
 transcript: false
 ---
 

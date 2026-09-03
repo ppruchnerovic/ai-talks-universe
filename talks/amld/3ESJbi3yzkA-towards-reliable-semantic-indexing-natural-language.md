@@ -4,7 +4,7 @@ title: "Towards Reliable Semantic Indexing | Natural Language Processing for GLA
 slug: towards-reliable-semantic-indexing-natural-language
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Towards Reliable Semantic Indexing", "Maud Ehrmann"]
@@ -15,6 +15,7 @@ video_id: 3ESJbi3yzkA
 url: https://www.youtube.com/watch?v=3ESJbi3yzkA
 youtube_url: https://www.youtube.com/watch?v=3ESJbi3yzkA
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

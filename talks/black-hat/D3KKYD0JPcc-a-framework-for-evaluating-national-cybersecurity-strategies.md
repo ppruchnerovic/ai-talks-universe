@@ -4,7 +4,7 @@ title: "A Framework for Evaluating National Cybersecurity Strategies"
 slug: a-framework-for-evaluating-national-cybersecurity-strategies
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: D3KKYD0JPcc
 url: https://www.youtube.com/watch?v=D3KKYD0JPcc
 youtube_url: https://www.youtube.com/watch?v=D3KKYD0JPcc
 tags: []
+topics: ["Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

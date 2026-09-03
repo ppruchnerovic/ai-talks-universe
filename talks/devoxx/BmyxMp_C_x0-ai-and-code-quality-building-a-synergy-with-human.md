@@ -4,7 +4,7 @@ title: "AI and Code Quality: Building a Synergy with Human Intelligence by Arthu
 slug: ai-and-code-quality-building-a-synergy-with-human
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Arthur Magne"]
@@ -15,6 +15,7 @@ video_id: BmyxMp_C_x0
 url: https://www.youtube.com/watch?v=BmyxMp_C_x0
 youtube_url: https://www.youtube.com/watch?v=BmyxMp_C_x0
 tags: []
+topics: []
 transcript: false
 ---
 

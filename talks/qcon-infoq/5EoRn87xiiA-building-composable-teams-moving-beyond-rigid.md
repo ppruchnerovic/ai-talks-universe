@@ -4,7 +4,7 @@ title: "Building Composable Teams: Moving Beyond Rigid Organizational Structures
 slug: building-composable-teams-moving-beyond-rigid
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5EoRn87xiiA
 url: https://www.youtube.com/watch?v=5EoRn87xiiA
 youtube_url: https://www.youtube.com/watch?v=5EoRn87xiiA
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

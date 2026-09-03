@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Epic journey: Navigating the AI-powered SDLC from b
 slug: aws-re-invent-2025-epic-journey-navigating-the-ai-powered
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qB7AobjQqsU
 url: https://www.youtube.com/watch?v=qB7AobjQqsU
 youtube_url: https://www.youtube.com/watch?v=qB7AobjQqsU
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

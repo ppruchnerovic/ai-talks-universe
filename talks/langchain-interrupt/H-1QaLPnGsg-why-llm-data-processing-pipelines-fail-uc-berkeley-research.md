@@ -4,7 +4,7 @@ title: "Why LLM Data Processing Pipelines Fail: UC Berkeley Research Insights | 
 slug: why-llm-data-processing-pipelines-fail-uc-berkeley-research
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: H-1QaLPnGsg
 url: https://www.youtube.com/watch?v=H-1QaLPnGsg
 youtube_url: https://www.youtube.com/watch?v=H-1QaLPnGsg
 tags: []
+topics: []
 transcript: false
 ---
 

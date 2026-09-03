@@ -4,7 +4,7 @@ title: "Scaling Inference of O(10K)-length Sequence Recommendation Models Using.
 slug: scaling-inference-of-o-10k-length-sequence-recommendation
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["S. Joshi", "K. Rajesh"]
@@ -15,6 +15,7 @@ video_id: 2TyulEkOMyU
 url: https://www.youtube.com/watch?v=2TyulEkOMyU
 youtube_url: https://www.youtube.com/watch?v=2TyulEkOMyU
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

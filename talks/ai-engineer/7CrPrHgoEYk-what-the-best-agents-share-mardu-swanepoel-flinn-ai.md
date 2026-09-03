@@ -4,7 +4,7 @@ title: "What the Best Agents Share — Mardu Swanepoel, Flinn AI"
 slug: what-the-best-agents-share-mardu-swanepoel-flinn-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mardu Swanepoel"]
@@ -15,6 +15,7 @@ video_id: 7CrPrHgoEYk
 url: https://www.youtube.com/watch?v=7CrPrHgoEYk
 youtube_url: https://www.youtube.com/watch?v=7CrPrHgoEYk
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

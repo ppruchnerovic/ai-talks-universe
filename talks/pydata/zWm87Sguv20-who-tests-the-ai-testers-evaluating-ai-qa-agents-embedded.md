@@ -4,7 +4,7 @@ title: "Who Tests the AI Testers? Evaluating AI QA Agents embedded in TDD-based 
 slug: who-tests-the-ai-testers-evaluating-ai-qa-agents-embedded
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: zWm87Sguv20
 url: https://www.youtube.com/watch?v=zWm87Sguv20
 youtube_url: https://www.youtube.com/watch?v=zWm87Sguv20
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Building Effective Agents | Sushant Mehta, Google DeepMind"
 slug: building-effective-agents-sushant-mehta-google-deepmind
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Sushant Mehta"]
@@ -15,6 +15,7 @@ video_id: 8FCIk6Gxa0c
 url: https://www.youtube.com/watch?v=8FCIk6Gxa0c
 youtube_url: https://www.youtube.com/watch?v=8FCIk6Gxa0c
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

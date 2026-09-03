@@ -4,7 +4,7 @@ title: "Insights into Stripe's Infrastructure and User Experience with David Sin
 slug: insights-into-stripe-s-infrastructure-and-user-experience
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: A-lzPQjds3E
 url: https://www.youtube.com/watch?v=A-lzPQjds3E
 youtube_url: https://www.youtube.com/watch?v=A-lzPQjds3E
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

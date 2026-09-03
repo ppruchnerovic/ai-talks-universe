@@ -4,7 +4,7 @@ title: "Beyond Memory Safety: How Rust Guarantees Code Correctness"
 slug: beyond-memory-safety-how-rust-guarantees-code-correctness
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Xn3vE95FPlo
 url: https://www.youtube.com/watch?v=Xn3vE95FPlo
 youtube_url: https://www.youtube.com/watch?v=Xn3vE95FPlo
 tags: ["InfoQ Dev Summit", "InfoQ", "Transcript", "Software Development", "Memory Safety", "Rust Language", "System Programming", "Reliability", "Software Architecture", "Coding"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

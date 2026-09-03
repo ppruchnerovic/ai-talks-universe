@@ -4,7 +4,7 @@ title: "State of Data — Sean Cai, Independent / State of Data"
 slug: state-of-data-sean-cai-independent-state-of-data
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sean Cai"]
@@ -15,6 +15,7 @@ video_id: ZyIoTOAbRfs
 url: https://www.youtube.com/watch?v=ZyIoTOAbRfs
 youtube_url: https://www.youtube.com/watch?v=ZyIoTOAbRfs
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

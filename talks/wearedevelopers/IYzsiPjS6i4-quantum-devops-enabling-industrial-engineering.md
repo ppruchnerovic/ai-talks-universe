@@ -4,7 +4,7 @@ title: "Quantum DevOps - Enabling Industrial Engineering"
 slug: quantum-devops-enabling-industrial-engineering
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ilie-Daniel Gheorghe-Pop"]
@@ -15,6 +15,7 @@ video_id: IYzsiPjS6i4
 url: https://www.youtube.com/watch?v=IYzsiPjS6i4
 youtube_url: https://www.youtube.com/watch?v=IYzsiPjS6i4
 tags: ["Emerging Technologies", "DevOps", "Integration", "NVIDIA", "Quantum", "Systems Programming"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

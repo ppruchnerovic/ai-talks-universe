@@ -4,7 +4,7 @@ title: "Memory Masterclass: Make Your AI Agents Remember What They Do! — Mark 
 slug: memory-masterclass-make-your-ai-agents-remember-what-they
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mark Bain"]
@@ -15,6 +15,7 @@ video_id: gsedOXz8FX4
 url: https://www.youtube.com/watch?v=gsedOXz8FX4
 youtube_url: https://www.youtube.com/watch?v=gsedOXz8FX4
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Jeremy Tuloup & Nicolas Brichet - Browser-based AI workflows in Jupyter"
 slug: jeremy-tuloup-nicolas-brichet-browser-based-ai-workflows-in
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Jeremy Tuloup", "Nicolas Brichet"]
@@ -15,6 +15,7 @@ video_id: cKeu2wA62pQ
 url: https://www.youtube.com/watch?v=cKeu2wA62pQ
 youtube_url: https://www.youtube.com/watch?v=cKeu2wA62pQ
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

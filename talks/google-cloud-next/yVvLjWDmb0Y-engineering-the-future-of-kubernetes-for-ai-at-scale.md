@@ -4,7 +4,7 @@ title: "Engineering the future of Kubernetes for AI at scale"
 slug: engineering-the-future-of-kubernetes-for-ai-at-scale
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Kaslin Fields", "Jago Macleod", "Boaz Rant"]
@@ -15,6 +15,7 @@ video_id: yVvLjWDmb0Y
 url: https://www.youtube.com/watch?v=yVvLjWDmb0Y
 youtube_url: https://www.youtube.com/watch?v=yVvLjWDmb0Y
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

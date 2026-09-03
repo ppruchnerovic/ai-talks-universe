@@ -4,7 +4,7 @@ title: "AI Literacy at Scale: K-to-Career Access That Delivers Real Student Outc
 slug: ai-literacy-at-scale-k-to-career-access-that-delivers-real
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: BAhI87RS-DQ
 url: https://www.youtube.com/watch?v=BAhI87RS-DQ
 youtube_url: https://www.youtube.com/watch?v=BAhI87RS-DQ
 tags: ["NVIDIA", "AI Literacy"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

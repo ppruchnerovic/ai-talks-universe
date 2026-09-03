@@ -4,7 +4,7 @@ title: "Python Meets .NET: Building AI Solutions with Combined Strengths | BRK11
 slug: python-meets-net-building-ai-solutions-with-combined
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fDbCqalegNU
 url: https://www.youtube.com/watch?v=fDbCqalegNU
 youtube_url: https://www.youtube.com/watch?v=fDbCqalegNU
 tags: []
+topics: []
 transcript: false
 ---
 

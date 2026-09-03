@@ -4,7 +4,7 @@ title: "Smarter Databases in Kubernetes: Applying AI for Query Optimization and 
 slug: smarter-databases-in-kubernetes-applying-ai-for-query
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: ["Peter Zaitsev"]
@@ -15,6 +15,7 @@ video_id: Y7N_FyZ-qwg
 url: https://www.youtube.com/watch?v=Y7N_FyZ-qwg
 youtube_url: https://www.youtube.com/watch?v=Y7N_FyZ-qwg
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

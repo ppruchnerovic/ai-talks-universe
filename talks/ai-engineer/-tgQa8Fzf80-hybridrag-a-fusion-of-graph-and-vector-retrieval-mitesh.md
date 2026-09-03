@@ -4,7 +4,7 @@ title: "HybridRAG: A Fusion of Graph and Vector Retrieval - Mitesh Patel, NVIDIA
 slug: hybridrag-a-fusion-of-graph-and-vector-retrieval-mitesh
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mitesh Patel"]
@@ -15,6 +15,7 @@ video_id: -tgQa8Fzf80
 url: https://www.youtube.com/watch?v=-tgQa8Fzf80
 youtube_url: https://www.youtube.com/watch?v=-tgQa8Fzf80
 tags: []
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

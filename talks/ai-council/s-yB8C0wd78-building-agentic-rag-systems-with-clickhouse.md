@@ -4,7 +4,7 @@ title: "Building Agentic RAG Systems with ClickHouse"
 slug: building-agentic-rag-systems-with-clickhouse
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: s-yB8C0wd78
 url: https://www.youtube.com/watch?v=s-yB8C0wd78
 youtube_url: https://www.youtube.com/watch?v=s-yB8C0wd78
 tags: ["AI"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Hacking the Inference Pareto Frontier - Kyle Kranen, NVIDIA"
 slug: hacking-the-inference-pareto-frontier-kyle-kranen-nvidia
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kyle Kranen"]
@@ -15,6 +15,7 @@ video_id: Y2qc0UhDSnc
 url: https://www.youtube.com/watch?v=Y2qc0UhDSnc
 youtube_url: https://www.youtube.com/watch?v=Y2qc0UhDSnc
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

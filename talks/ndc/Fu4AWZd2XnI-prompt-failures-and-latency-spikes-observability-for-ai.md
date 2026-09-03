@@ -4,7 +4,7 @@ title: "Prompt Failures and Latency Spikes: Observability for AI - Prerit Munjal
 slug: prompt-failures-and-latency-spikes-observability-for-ai
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Prerit Munjal"]
@@ -15,6 +15,7 @@ video_id: Fu4AWZd2XnI
 url: https://www.youtube.com/watch?v=Fu4AWZd2XnI
 youtube_url: https://www.youtube.com/watch?v=Fu4AWZd2XnI
 tags: ["AI", "Cloud", "DevOps", "Tools", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "United Kingdom", "Great Britain", "England", "Prerit Munjal"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra", "Prompting & context engineering"]
 transcript: true
 ---
 

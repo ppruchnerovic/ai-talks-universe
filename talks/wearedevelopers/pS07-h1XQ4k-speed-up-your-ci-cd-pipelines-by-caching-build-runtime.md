@@ -4,7 +4,7 @@ title: "Speed up your CI/CD pipelines by caching build & runtime artifacts"
 slug: speed-up-your-ci-cd-pipelines-by-caching-build-runtime
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Thijs Feryn"]
@@ -15,6 +15,7 @@ video_id: pS07-h1XQ4k
 url: https://www.youtube.com/watch?v=pS07-h1XQ4k
 youtube_url: https://www.youtube.com/watch?v=pS07-h1XQ4k
 tags: ["DevOps", "Caching", "CI/CD", "Containers", "DevOps", "Docker", "GitHub Actions", "Go", "NPM", "Varnish", "Web Performance"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

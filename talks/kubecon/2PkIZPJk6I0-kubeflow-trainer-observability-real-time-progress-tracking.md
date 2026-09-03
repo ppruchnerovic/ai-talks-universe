@@ -4,7 +4,7 @@ title: "Kubeflow Trainer Observability: Real-Time Progress Tracking for Reliab..
 slug: kubeflow-trainer-observability-real-time-progress-tracking
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2PkIZPJk6I0
 url: https://www.youtube.com/watch?v=2PkIZPJk6I0
 youtube_url: https://www.youtube.com/watch?v=2PkIZPJk6I0
 tags: []
+topics: ["Data engineering & MLOps", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

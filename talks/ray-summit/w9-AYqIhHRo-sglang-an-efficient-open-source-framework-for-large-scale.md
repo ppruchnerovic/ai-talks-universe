@@ -4,7 +4,7 @@ title: "SGLang: An Efficient Open-Source Framework for Large-Scale LLM Serving |
 slug: sglang-an-efficient-open-source-framework-for-large-scale
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: w9-AYqIhHRo
 url: https://www.youtube.com/watch?v=w9-AYqIhHRo
 youtube_url: https://www.youtube.com/watch?v=w9-AYqIhHRo
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

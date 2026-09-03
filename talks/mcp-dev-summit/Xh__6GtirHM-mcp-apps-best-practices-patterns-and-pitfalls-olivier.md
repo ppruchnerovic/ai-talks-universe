@@ -4,7 +4,7 @@ title: "MCP Apps Best Practices: Patterns and Pitfalls - Olivier Chafik & Anton 
 slug: mcp-apps-best-practices-patterns-and-pitfalls-olivier
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Olivier Chafik", "Anton Pidkuiko"]
@@ -15,6 +15,7 @@ video_id: Xh__6GtirHM
 url: https://www.youtube.com/watch?v=Xh__6GtirHM
 youtube_url: https://www.youtube.com/watch?v=Xh__6GtirHM
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

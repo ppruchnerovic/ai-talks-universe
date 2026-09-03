@@ -4,7 +4,7 @@ title: "Chuxin Liu & Yiwen Liu - Build Your MCP server - PyData Boston 2025"
 slug: chuxin-liu-yiwen-liu-build-your-mcp-server-pydata-boston
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Chuxin Liu", "Yiwen Liu"]
@@ -15,6 +15,7 @@ video_id: 0RQhU3_EBlY
 url: https://www.youtube.com/watch?v=0RQhU3_EBlY
 youtube_url: https://www.youtube.com/watch?v=0RQhU3_EBlY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

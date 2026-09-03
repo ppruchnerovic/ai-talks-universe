@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Building multi-tenant SaaS agents with Amazon Bedro
 slug: aws-re-invent-2025-building-multi-tenant-saas-agents-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: uwXrtyXXuy8
 url: https://www.youtube.com/watch?v=uwXrtyXXuy8
 youtube_url: https://www.youtube.com/watch?v=uwXrtyXXuy8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

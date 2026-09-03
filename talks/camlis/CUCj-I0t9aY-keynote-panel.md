@@ -4,7 +4,7 @@ title: "Keynote Panel"
 slug: keynote-panel
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: CUCj-I0t9aY
 url: https://www.youtube.com/watch?v=CUCj-I0t9aY
 youtube_url: https://www.youtube.com/watch?v=CUCj-I0t9aY
 tags: []
+topics: []
 transcript: false
 ---
 

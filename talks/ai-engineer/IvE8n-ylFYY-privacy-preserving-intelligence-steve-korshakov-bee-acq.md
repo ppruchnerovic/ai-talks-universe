@@ -4,7 +4,7 @@ title: "Privacy-Preserving Intelligence — Steve Korshakov, Bee (acq. Amazon)"
 slug: privacy-preserving-intelligence-steve-korshakov-bee-acq
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Steve Korshakov"]
@@ -15,6 +15,7 @@ video_id: IvE8n-ylFYY
 url: https://www.youtube.com/watch?v=IvE8n-ylFYY
 youtube_url: https://www.youtube.com/watch?v=IvE8n-ylFYY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

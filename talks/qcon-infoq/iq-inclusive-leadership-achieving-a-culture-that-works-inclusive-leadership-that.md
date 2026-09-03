@@ -4,7 +4,7 @@ title: "Achieving a Culture That Works: Inclusive Leadership that Drives Lasting
 slug: achieving-a-culture-that-works-inclusive-leadership-that
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Matthew Card"]
@@ -15,6 +15,7 @@ video_id: iq-inclusive-leadership
 url: https://www.infoq.com/presentations/inclusive-leadership/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

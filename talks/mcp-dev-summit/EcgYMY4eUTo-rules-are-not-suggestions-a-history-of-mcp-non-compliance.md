@@ -4,7 +4,7 @@ title: "Rules Are Not Suggestions: A History of MCP Non-Compliance - Sterling Dr
 slug: rules-are-not-suggestions-a-history-of-mcp-non-compliance
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Sterling Dreyer"]
@@ -15,6 +15,7 @@ video_id: EcgYMY4eUTo
 url: https://www.youtube.com/watch?v=EcgYMY4eUTo
 youtube_url: https://www.youtube.com/watch?v=EcgYMY4eUTo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

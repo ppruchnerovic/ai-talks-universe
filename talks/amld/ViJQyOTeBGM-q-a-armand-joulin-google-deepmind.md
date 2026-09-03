@@ -4,7 +4,7 @@ title: "Q&A | Armand Joulin, Google DeepMind"
 slug: q-a-armand-joulin-google-deepmind
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["Armand Joulin"]
@@ -15,6 +15,7 @@ video_id: ViJQyOTeBGM
 url: https://www.youtube.com/watch?v=ViJQyOTeBGM
 youtube_url: https://www.youtube.com/watch?v=ViJQyOTeBGM
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: true
 ---
 

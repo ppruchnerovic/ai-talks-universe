@@ -4,7 +4,7 @@ title: "Shipping an Enterprise Voice AI Agent in 100 Days - Peter Bar, Intercom 
 slug: shipping-an-enterprise-voice-ai-agent-in-100-days-peter-bar
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Peter Bar"]
@@ -15,6 +15,7 @@ video_id: HOYLZ7IVgJo
 url: https://www.youtube.com/watch?v=HOYLZ7IVgJo
 youtube_url: https://www.youtube.com/watch?v=HOYLZ7IVgJo
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

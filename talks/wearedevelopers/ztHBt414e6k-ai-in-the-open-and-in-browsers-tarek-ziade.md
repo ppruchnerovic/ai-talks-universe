@@ -4,7 +4,7 @@ title: "AI in the Open and in Browsers - Tarek Ziadé"
 slug: ai-in-the-open-and-in-browsers-tarek-ziade
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Tarek Ziadé"]
@@ -15,6 +15,7 @@ video_id: ztHBt414e6k
 url: https://www.youtube.com/watch?v=ztHBt414e6k
 youtube_url: https://www.youtube.com/watch?v=ztHBt414e6k
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: true
 ---
 

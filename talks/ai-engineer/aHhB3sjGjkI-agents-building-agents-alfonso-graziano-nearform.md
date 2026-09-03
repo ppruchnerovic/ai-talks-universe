@@ -4,7 +4,7 @@ title: "Agents Building Agents - Alfonso Graziano, Nearform"
 slug: agents-building-agents-alfonso-graziano-nearform
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Alfonso Graziano"]
@@ -15,6 +15,7 @@ video_id: aHhB3sjGjkI
 url: https://www.youtube.com/watch?v=aHhB3sjGjkI
 youtube_url: https://www.youtube.com/watch?v=aHhB3sjGjkI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

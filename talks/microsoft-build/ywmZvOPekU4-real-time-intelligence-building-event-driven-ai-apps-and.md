@@ -4,7 +4,7 @@ title: "Real-Time Intelligence: Building event-driven AI apps and agents | OD819
 slug: real-time-intelligence-building-event-driven-ai-apps-and
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Tessa Kloster", "Arindam Chatterjee", "Anshul Sharma"]
@@ -15,6 +15,7 @@ video_id: ywmZvOPekU4
 url: https://www.youtube.com/watch?v=ywmZvOPekU4
 youtube_url: https://www.youtube.com/watch?v=ywmZvOPekU4
 tags: ["Anshul Sharma", "Arindam Chatterjee", "CP&D", "Data", "Microsoft Fabric", "OD819", "OD819_v1", "Real-Time Intelligence: Building event-driven AI apps and agents | OD819", "Tessa Kloster", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Building with Claude on Google Cloud"
 slug: building-with-claude-on-google-cloud
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 San Francisco"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: SqHsS737CeA
 url: https://www.youtube.com/watch?v=SqHsS737CeA
 youtube_url: https://www.youtube.com/watch?v=SqHsS737CeA
 tags: []
+topics: []
 transcript: true
 ---
 

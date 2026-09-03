@@ -4,7 +4,7 @@ title: "Analyzing 10,000 Sales Calls With AI In 2 Weeks — Charlie Guo"
 slug: analyzing-10-000-sales-calls-with-ai-in-2-weeks-charlie-guo
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Charlie Guo"]
@@ -15,6 +15,7 @@ video_id: dvft0Gp9sEE
 url: https://www.youtube.com/watch?v=dvft0Gp9sEE
 youtube_url: https://www.youtube.com/watch?v=dvft0Gp9sEE
 tags: []
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

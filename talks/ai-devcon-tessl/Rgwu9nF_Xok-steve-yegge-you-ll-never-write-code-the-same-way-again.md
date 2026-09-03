@@ -4,7 +4,7 @@ title: "Steve Yegge: 'You'll Never Write Code the Same Way Again'"
 slug: steve-yegge-you-ll-never-write-code-the-same-way-again
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Rgwu9nF_Xok
 url: https://www.youtube.com/watch?v=Rgwu9nF_Xok
 youtube_url: https://www.youtube.com/watch?v=Rgwu9nF_Xok
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

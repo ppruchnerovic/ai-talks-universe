@@ -4,7 +4,7 @@ title: "Sponsored Session: Cloud Native AI: From Conformance to Production - Jak
 slug: sponsored-session-cloud-native-ai-from-conformance-to
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Jake Pineda"]
@@ -15,6 +15,7 @@ video_id: YTL5aFjfj08
 url: https://www.youtube.com/watch?v=YTL5aFjfj08
 youtube_url: https://www.youtube.com/watch?v=YTL5aFjfj08
 tags: []
+topics: []
 transcript: true
 ---
 

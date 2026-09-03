@@ -4,7 +4,7 @@ title: "Running LLMs locally: Practical LLM Performance on DGX Spark — Mozhgan
 slug: running-llms-locally-practical-llm-performance-on-dgx-spark
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: c5-kx2bwoCk
 url: https://www.youtube.com/watch?v=c5-kx2bwoCk
 youtube_url: https://www.youtube.com/watch?v=c5-kx2bwoCk
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

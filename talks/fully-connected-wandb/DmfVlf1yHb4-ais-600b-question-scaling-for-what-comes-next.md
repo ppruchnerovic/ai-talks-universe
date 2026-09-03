@@ -4,7 +4,7 @@ title: "AI’s $600B Question: Scaling for what comes next"
 slug: ais-600b-question-scaling-for-what-comes-next
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: DmfVlf1yHb4
 url: https://www.youtube.com/watch?v=DmfVlf1yHb4
 youtube_url: https://www.youtube.com/watch?v=DmfVlf1yHb4
 tags: []
+topics: []
 transcript: false
 ---
 

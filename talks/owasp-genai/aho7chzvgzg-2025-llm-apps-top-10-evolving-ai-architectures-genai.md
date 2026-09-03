@@ -4,7 +4,7 @@ title: "2025 LLM Apps Top 10, Evolving AI Architectures - GenAI Security Podcast
 slug: 2025-llm-apps-top-10-evolving-ai-architectures-genai
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: aho7chzvgzg
 url: https://www.youtube.com/watch?v=aho7chzvgzg
 youtube_url: https://www.youtube.com/watch?v=aho7chzvgzg
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

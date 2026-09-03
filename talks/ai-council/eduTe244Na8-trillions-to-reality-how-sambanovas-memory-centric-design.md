@@ -4,7 +4,7 @@ title: "Trillions-to-Reality: How SambaNova’s Memory-Centric Design Powers Age
 slug: trillions-to-reality-how-sambanovas-memory-centric-design
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Sumti Jairath"]
@@ -15,6 +15,7 @@ video_id: eduTe244Na8
 url: https://www.youtube.com/watch?v=eduTe244Na8
 youtube_url: https://www.youtube.com/watch?v=eduTe244Na8
 tags: ["AI hardware", "GPU", "ChatGPT", "artificial intelligence", "machine learning", "enterprise AI", "AI infrastructure", "high performance computing", "AI acceleration", "neural networks", "deep learning", "memory architecture", "trillion parameter models", "agentic AI", "NVIDIA", "Python", "data science", "CUDA", "TPU", "GPU computing", "parallel computing", "distributed training", "model training", "AI chips", "hardware acceleration", "computing architecture", "system optimization", "performance tuning", "scalable computing"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

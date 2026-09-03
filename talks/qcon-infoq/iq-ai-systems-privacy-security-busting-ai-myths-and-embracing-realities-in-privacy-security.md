@@ -4,7 +4,7 @@ title: "Busting AI Myths and Embracing Realities in Privacy & Security"
 slug: busting-ai-myths-and-embracing-realities-in-privacy-security
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Katharine Jarmul"]
@@ -15,6 +15,7 @@ video_id: iq-ai-systems-privacy-security
 url: https://www.infoq.com/presentations/ai-systems-privacy-security/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Overcoming Distributed ML Challenges with Ray Train | Ray Summit 2024"
 slug: overcoming-distributed-ml-challenges-with-ray-train-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: jLsi8-op-lg
 url: https://www.youtube.com/watch?v=jLsi8-op-lg
 youtube_url: https://www.youtube.com/watch?v=jLsi8-op-lg
 tags: []
+topics: []
 transcript: false
 ---
 

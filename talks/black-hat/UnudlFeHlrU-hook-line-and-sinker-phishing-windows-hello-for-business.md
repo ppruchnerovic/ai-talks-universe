@@ -4,7 +4,7 @@ title: "Hook, Line and Sinker: Phishing Windows Hello for Business"
 slug: hook-line-and-sinker-phishing-windows-hello-for-business
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: UnudlFeHlrU
 url: https://www.youtube.com/watch?v=UnudlFeHlrU
 youtube_url: https://www.youtube.com/watch?v=UnudlFeHlrU
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

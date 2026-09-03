@@ -4,7 +4,7 @@ title: "Platform Engineering for AI: Scaling Agents and MCP at LinkedIn"
 slug: platform-engineering-for-ai-scaling-agents-and-mcp-at
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Zf6gjWmI0lI
 url: https://www.youtube.com/watch?v=Zf6gjWmI0lI
 youtube_url: https://www.youtube.com/watch?v=Zf6gjWmI0lI
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

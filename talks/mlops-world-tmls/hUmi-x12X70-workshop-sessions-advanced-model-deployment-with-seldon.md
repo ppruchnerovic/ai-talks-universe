@@ -4,7 +4,7 @@ title: "Workshop Sessions: Advanced Model Deployment with Seldon Deploy"
 slug: workshop-sessions-advanced-model-deployment-with-seldon
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: hUmi-x12X70
 url: https://www.youtube.com/watch?v=hUmi-x12X70
 youtube_url: https://www.youtube.com/watch?v=hUmi-x12X70
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Sessions: Advanced Model Deployment with Seldon Deploy", "Seldon Deploy", "Advanced Model Deployment", "Tom Farrand", "Sean Greaves", "deployment", "Solutions Engineer", "Sales Engineer", "Seldon"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

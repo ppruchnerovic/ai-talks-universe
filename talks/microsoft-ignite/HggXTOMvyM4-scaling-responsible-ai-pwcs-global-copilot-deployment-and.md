@@ -4,7 +4,7 @@ title: "Scaling responsible AI: PwC’s global Copilot deployment and the rise o
 slug: scaling-responsible-ai-pwcs-global-copilot-deployment-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: HggXTOMvyM4
 url: https://www.youtube.com/watch?v=HggXTOMvyM4
 youtube_url: https://www.youtube.com/watch?v=HggXTOMvyM4
 tags: ["English (US)", "STUDIOSP74", "STUDIOSP74_v1", "Scaling responsible AI: PwC’s global Copilot deployment and the rise of agentic AI | STUDIOSP74", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

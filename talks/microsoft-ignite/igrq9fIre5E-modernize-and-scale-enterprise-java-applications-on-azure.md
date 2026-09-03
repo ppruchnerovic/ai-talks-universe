@@ -4,7 +4,7 @@ title: "Modernize and scale enterprise Java applications on Azure | BRK147"
 slug: modernize-and-scale-enterprise-java-applications-on-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Denver Brittain", "Sonja Gu", "Asir Selvasingh"]
@@ -15,6 +15,7 @@ video_id: igrq9fIre5E
 url: https://www.youtube.com/watch?v=igrq9fIre5E
 youtube_url: https://www.youtube.com/watch?v=igrq9fIre5E
 tags: ["Application Development", "Apps", "Asir Selvasingh", "BRK147", "Breakout", "Cloud-native", "Containers", "Denver Brittain", "English (US)", "Intermediate (200)", "Java", "Kubernetes", "Modernize and scale enterprise Java applications on Azure | BRK147", "PaaS", "Serverless", "Sonja Gu", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Putting People at the Center: Women in Tech and the Future of Work"
 slug: putting-people-at-the-center-women-in-tech-and-the-future
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ag0PZaEJ_Pw
 url: https://www.youtube.com/watch?v=Ag0PZaEJ_Pw
 youtube_url: https://www.youtube.com/watch?v=Ag0PZaEJ_Pw
 tags: ["women in tech", "HR leadership", "tech careers for women", "gender diversity in tech", "STEM education", "mentoring in STEM", "female developers", "team building strategies", "AI in HR", "workplace diversity", "career advancement", "employer branding"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

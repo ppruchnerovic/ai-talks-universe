@@ -4,7 +4,7 @@ title: "Key Lessons from Shipping AI Products beyond the Hype"
 slug: key-lessons-from-shipping-ai-products-beyond-the-hype
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Phil Calçado"]
@@ -15,6 +15,7 @@ video_id: iq-microservices-ai-systems
 url: https://www.infoq.com/presentations/microservices-ai-systems/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

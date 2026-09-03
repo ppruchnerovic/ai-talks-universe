@@ -4,7 +4,7 @@ title: "RAG is dead, right?? — Kuba Rogut, Turbopuffer"
 slug: rag-is-dead-right-kuba-rogut-turbopuffer
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kuba Rogut"]
@@ -15,6 +15,7 @@ video_id: UM6sFg_jdlE
 url: https://www.youtube.com/watch?v=UM6sFg_jdlE
 youtube_url: https://www.youtube.com/watch?v=UM6sFg_jdlE
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

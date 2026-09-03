@@ -4,7 +4,7 @@ title: "Sebastian Wallkötter-The Boringly Simple Loop Powering GenAI Apps-PyDa
 slug: sebastian-wallkotter-the-boringly-simple-loop-powering
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: X_BlQK2-Bl8
 url: https://www.youtube.com/watch?v=X_BlQK2-Bl8
 youtube_url: https://www.youtube.com/watch?v=X_BlQK2-Bl8
 tags: []
+topics: []
 transcript: false
 ---
 

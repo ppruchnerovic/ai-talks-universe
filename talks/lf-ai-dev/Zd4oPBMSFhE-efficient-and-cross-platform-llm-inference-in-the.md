@@ -4,7 +4,7 @@ title: "Efficient and Cross-Platform LLM Inference in the Heterogenous Cloud - M
 slug: efficient-and-cross-platform-llm-inference-in-the
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Michael Yuan"]
@@ -15,6 +15,7 @@ video_id: Zd4oPBMSFhE
 url: https://www.youtube.com/watch?v=Zd4oPBMSFhE
 youtube_url: https://www.youtube.com/watch?v=Zd4oPBMSFhE
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

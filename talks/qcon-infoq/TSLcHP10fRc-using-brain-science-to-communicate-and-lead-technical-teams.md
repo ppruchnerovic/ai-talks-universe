@@ -4,7 +4,7 @@ title: "Using Brain Science to Communicate and Lead Technical Teams Effectively"
 slug: using-brain-science-to-communicate-and-lead-technical-teams
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: TSLcHP10fRc
 url: https://www.youtube.com/watch?v=TSLcHP10fRc
 youtube_url: https://www.youtube.com/watch?v=TSLcHP10fRc
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

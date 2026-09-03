@@ -4,7 +4,7 @@ title: "Enabling Highly Autonomous Trusted Agents"
 slug: enabling-highly-autonomous-trusted-agents
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: l6aHWUfzk7E
 url: https://www.youtube.com/watch?v=l6aHWUfzk7E
 youtube_url: https://www.youtube.com/watch?v=l6aHWUfzk7E
 tags: ["AI"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

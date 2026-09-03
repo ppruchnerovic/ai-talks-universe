@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Pioneering Agentic AI Transformation: CSL VMware & 
 slug: aws-re-invent-2025-pioneering-agentic-ai-transformation-csl
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Wk4xch8s1MA
 url: https://www.youtube.com/watch?v=Wk4xch8s1MA
 youtube_url: https://www.youtube.com/watch?v=Wk4xch8s1MA
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

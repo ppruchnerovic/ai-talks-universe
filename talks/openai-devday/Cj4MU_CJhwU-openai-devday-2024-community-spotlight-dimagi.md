@@ -4,7 +4,7 @@ title: "OpenAI DevDay 2024 | Community Spotlight | Dimagi"
 slug: openai-devday-2024-community-spotlight-dimagi
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Cj4MU_CJhwU
 url: https://www.youtube.com/watch?v=Cj4MU_CJhwU
 youtube_url: https://www.youtube.com/watch?v=Cj4MU_CJhwU
 tags: []
+topics: []
 transcript: false
 ---
 

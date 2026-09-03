@@ -4,7 +4,7 @@ title: "Sponsored Session: Lightning Talk: Efficient Inference Serving with Kube
 slug: sponsored-session-lightning-talk-efficient-inference
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Lin Sun"]
@@ -15,6 +15,7 @@ video_id: vBLDv_bzgo8
 url: https://www.youtube.com/watch?v=vBLDv_bzgo8
 youtube_url: https://www.youtube.com/watch?v=vBLDv_bzgo8
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

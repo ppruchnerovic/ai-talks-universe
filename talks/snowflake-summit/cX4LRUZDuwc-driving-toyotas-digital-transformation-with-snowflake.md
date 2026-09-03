@@ -4,7 +4,7 @@ title: "Driving Toyota’s Digital Transformation With Snowflake Cortex AI And D
 slug: driving-toyotas-digital-transformation-with-snowflake
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cX4LRUZDuwc
 url: https://www.youtube.com/watch?v=cX4LRUZDuwc
 youtube_url: https://www.youtube.com/watch?v=cX4LRUZDuwc
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

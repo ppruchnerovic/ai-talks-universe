@@ -4,7 +4,7 @@ title: "MCP Mashups: How AI Agents are Reviving the Programmable Web - Angie Jon
 slug: mcp-mashups-how-ai-agents-are-reviving-the-programmable-web
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Angie Jones"]
@@ -15,6 +15,7 @@ video_id: dRRp4mX8v1s
 url: https://www.youtube.com/watch?v=dRRp4mX8v1s
 youtube_url: https://www.youtube.com/watch?v=dRRp4mX8v1s
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

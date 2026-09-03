@@ -4,7 +4,7 @@ title: "Anyscale's Vision and Product Announcements | Keynote Day 1 | Ray Summit
 slug: anyscale-s-vision-and-product-announcements-keynote-day-1
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: BY-GdgvOiQU
 url: https://www.youtube.com/watch?v=BY-GdgvOiQU
 youtube_url: https://www.youtube.com/watch?v=BY-GdgvOiQU
 tags: []
+topics: []
 transcript: false
 ---
 

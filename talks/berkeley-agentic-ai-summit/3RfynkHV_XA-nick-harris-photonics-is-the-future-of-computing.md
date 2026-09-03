@@ -4,7 +4,7 @@ title: "Nick Harris - Photonics Is the Future of Computing"
 slug: nick-harris-photonics-is-the-future-of-computing
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Nick Harris"]
@@ -15,6 +15,7 @@ video_id: 3RfynkHV_XA
 url: https://www.youtube.com/watch?v=3RfynkHV_XA
 youtube_url: https://www.youtube.com/watch?v=3RfynkHV_XA
 tags: []
+topics: []
 transcript: true
 ---
 

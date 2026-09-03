@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Accelerate development with Kiro's new agentic AI c
 slug: aws-re-invent-2025-accelerate-development-with-kiro-s-new
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XpgcpsGKIio
 url: https://www.youtube.com/watch?v=XpgcpsGKIio
 youtube_url: https://www.youtube.com/watch?v=XpgcpsGKIio
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Scale Trusted AI Adoption with Salesforce and AWS (
 slug: aws-re-invent-2025-scale-trusted-ai-adoption-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: GmFvv9ik3QU
 url: https://www.youtube.com/watch?v=GmFvv9ik3QU
 youtube_url: https://www.youtube.com/watch?v=GmFvv9ik3QU
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

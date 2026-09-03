@@ -4,7 +4,7 @@ title: "The Ongoing Challenges of DevSecOps Transformation and Improving Develop
 slug: the-ongoing-challenges-of-devsecops-transformation-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 944DMOKrrzc
 url: https://www.youtube.com/watch?v=944DMOKrrzc
 youtube_url: https://www.youtube.com/watch?v=944DMOKrrzc
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

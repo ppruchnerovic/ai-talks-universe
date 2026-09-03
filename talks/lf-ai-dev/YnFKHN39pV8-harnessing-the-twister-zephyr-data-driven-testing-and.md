@@ -4,7 +4,7 @@ title: "Harnessing the Twister: Zephyr Data-Driven Testing and Insights - Anas N
 slug: harnessing-the-twister-zephyr-data-driven-testing-and
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Anas Nashif"]
@@ -15,6 +15,7 @@ video_id: YnFKHN39pV8
 url: https://www.youtube.com/watch?v=YnFKHN39pV8
 youtube_url: https://www.youtube.com/watch?v=YnFKHN39pV8
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

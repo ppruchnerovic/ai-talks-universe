@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Building software like never before with Agentic AI
 slug: aws-re-invent-2025-building-software-like-never-before-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Fer2DKJ2jNA
 url: https://www.youtube.com/watch?v=Fer2DKJ2jNA
 youtube_url: https://www.youtube.com/watch?v=Fer2DKJ2jNA
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

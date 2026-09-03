@@ -4,7 +4,7 @@ title: "Startup Spotlight - Keenable AI"
 slug: startup-spotlight-keenable-ai
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Startup Spotlight"]
@@ -15,6 +15,7 @@ video_id: ju2uhv2sfkQ
 url: https://www.youtube.com/watch?v=ju2uhv2sfkQ
 youtube_url: https://www.youtube.com/watch?v=ju2uhv2sfkQ
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

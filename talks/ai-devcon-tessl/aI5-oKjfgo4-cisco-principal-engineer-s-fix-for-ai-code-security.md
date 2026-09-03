@@ -4,7 +4,7 @@ title: "Cisco Principal Engineer's Fix for AI Code Security"
 slug: cisco-principal-engineer-s-fix-for-ai-code-security
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: aI5-oKjfgo4
 url: https://www.youtube.com/watch?v=aI5-oKjfgo4
 youtube_url: https://www.youtube.com/watch?v=aI5-oKjfgo4
 tags: ["AI code security", "AI skill development", "AI tools", "Agent skills", "Agentic development", "Cisco", "Cisco open source CodeGuard", "CodeGuard", "Coding agents", "OWASP", "Tessl registry", "ainativedev", "code security AI", "how to fix insecure AI code", "what is CodeGuard"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Security, safety & red teaming"]
 transcript: true
 ---
 

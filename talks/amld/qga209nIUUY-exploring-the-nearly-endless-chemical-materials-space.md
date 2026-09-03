@@ -4,7 +4,7 @@ title: "Exploring the Nearly Endless Chemical/Materials Space | Phillippe Schwal
 slug: exploring-the-nearly-endless-chemical-materials-space
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["Phillippe Schwaller"]
@@ -15,6 +15,7 @@ video_id: qga209nIUUY
 url: https://www.youtube.com/watch?v=qga209nIUUY
 youtube_url: https://www.youtube.com/watch?v=qga209nIUUY
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: true
 ---
 

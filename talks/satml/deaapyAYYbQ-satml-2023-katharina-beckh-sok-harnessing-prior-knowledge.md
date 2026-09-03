@@ -4,7 +4,7 @@ title: "SaTML 2023 - Katharina Beckh - SoK: Harnessing Prior Knowledge for Expla
 slug: satml-2023-katharina-beckh-sok-harnessing-prior-knowledge
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Katharina Beckh"]
@@ -15,6 +15,7 @@ video_id: deaapyAYYbQ
 url: https://www.youtube.com/watch?v=deaapyAYYbQ
 youtube_url: https://www.youtube.com/watch?v=deaapyAYYbQ
 tags: []
+topics: ["Classic ML & data science", "Governance, ethics & regulation"]
 transcript: false
 ---
 

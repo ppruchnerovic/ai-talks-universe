@@ -4,7 +4,7 @@ title: "Code Once, Use Everywhere: Building Shared Libraries for Multiple Projec
 slug: code-once-use-everywhere-building-shared-libraries-for
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Vadzim Prudnikau"]
@@ -15,6 +15,7 @@ video_id: eM8Y276mSoY
 url: https://www.youtube.com/watch?v=eM8Y276mSoY
 youtube_url: https://www.youtube.com/watch?v=eM8Y276mSoY
 tags: ["Software Architecture", "Java", "Spring", "Spring Boot"]
+topics: []
 transcript: true
 ---
 

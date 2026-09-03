@@ -4,7 +4,7 @@ title: "GF - Enemy Within: Leveraging Purple Teams for Advanced Threat Detection
 slug: gf-enemy-within-leveraging-purple-teams-for-advanced-threat
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: -MT0tNi2vvc
 url: https://www.youtube.com/watch?v=-MT0tNi2vvc
 youtube_url: https://www.youtube.com/watch?v=-MT0tNi2vvc
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

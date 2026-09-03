@@ -4,7 +4,7 @@ title: "Hardening HSMs for Banking-Grade Crypto Wallets"
 slug: hardening-hsms-for-banking-grade-crypto-wallets
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: HpQP3lMg3iw
 url: https://www.youtube.com/watch?v=HpQP3lMg3iw
 youtube_url: https://www.youtube.com/watch?v=HpQP3lMg3iw
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

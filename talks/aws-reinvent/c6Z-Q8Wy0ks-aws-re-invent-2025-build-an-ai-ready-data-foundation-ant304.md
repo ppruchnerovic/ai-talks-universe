@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Build an AI-ready data foundation (ANT304)"
 slug: aws-re-invent-2025-build-an-ai-ready-data-foundation-ant304
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: c6Z-Q8Wy0ks
 url: https://www.youtube.com/watch?v=c6Z-Q8Wy0ks
 youtube_url: https://www.youtube.com/watch?v=c6Z-Q8Wy0ks
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Microsoft 365 Copilot advantages: How does it compare with other AI solu
 slug: microsoft-365-copilot-advantages-how-does-it-compare-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Rob Howard", "Seth Patton"]
@@ -15,6 +15,7 @@ video_id: PPrZ65tPWgs
 url: https://www.youtube.com/watch?v=PPrZ65tPWgs
 youtube_url: https://www.youtube.com/watch?v=PPrZ65tPWgs
 tags: ["BRK276", "Breakout", "English (US)", "Microsoft 365 Copilot advantages: How does it compare with other AI solutions | BRK276", "Modern Work", "Modern Work-Curated", "Rob Howard", "Seth Patton", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

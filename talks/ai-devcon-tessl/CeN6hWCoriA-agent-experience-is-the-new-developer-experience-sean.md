@@ -4,7 +4,7 @@ title: "Agent Experience Is the New Developer Experience | Sean Roberts"
 slug: agent-experience-is-the-new-developer-experience-sean
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Sean Roberts"]
@@ -15,6 +15,7 @@ video_id: CeN6hWCoriA
 url: https://www.youtube.com/watch?v=CeN6hWCoriA
 youtube_url: https://www.youtube.com/watch?v=CeN6hWCoriA
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

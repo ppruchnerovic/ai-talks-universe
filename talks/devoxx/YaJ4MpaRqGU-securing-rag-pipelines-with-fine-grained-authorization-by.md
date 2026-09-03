@@ -4,7 +4,7 @@ title: "Securing RAG Pipelines with Fine Grained Authorization by Sohan Maheshwa
 slug: securing-rag-pipelines-with-fine-grained-authorization-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Sohan Maheshwar"]
@@ -15,6 +15,7 @@ video_id: YaJ4MpaRqGU
 url: https://www.youtube.com/watch?v=YaJ4MpaRqGU
 youtube_url: https://www.youtube.com/watch?v=YaJ4MpaRqGU
 tags: []
+topics: ["RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: true
 ---
 

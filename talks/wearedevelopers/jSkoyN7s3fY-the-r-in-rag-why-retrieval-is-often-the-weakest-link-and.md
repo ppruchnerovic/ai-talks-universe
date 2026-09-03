@@ -4,7 +4,7 @@ title: "The R in RAG: Why retrieval is often the weakest link (and how to fix it
 slug: the-r-in-rag-why-retrieval-is-often-the-weakest-link-and
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Tomek Porożyński"]
@@ -15,6 +15,7 @@ video_id: jSkoyN7s3fY
 url: https://www.youtube.com/watch?v=jSkoyN7s3fY
 youtube_url: https://www.youtube.com/watch?v=jSkoyN7s3fY
 tags: ["AI Engineering", "AI Models", "Embeddings", "Fine-Tuning", "Retrieval-Augmented Generation (RAG)"]
+topics: ["RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

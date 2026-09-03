@@ -4,7 +4,7 @@ title: "WWDC25: Discover machine learning & AI frameworks on Apple platforms | A
 slug: wwdc25-discover-machine-learning-ai-frameworks-on-apple
 conference: apple-wwdc
 conference_name: "Apple WWDC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "WWDC25"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: wzQlws_Hxfw
 url: https://www.youtube.com/watch?v=wzQlws_Hxfw
 youtube_url: https://www.youtube.com/watch?v=wzQlws_Hxfw
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

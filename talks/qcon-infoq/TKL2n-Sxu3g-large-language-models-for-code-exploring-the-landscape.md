@@ -4,7 +4,7 @@ title: "Large Language Models for Code: Exploring the Landscape, Opportunities, 
 slug: large-language-models-for-code-exploring-the-landscape
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: TKL2n-Sxu3g
 url: https://www.youtube.com/watch?v=TKL2n-Sxu3g
 youtube_url: https://www.youtube.com/watch?v=TKL2n-Sxu3g
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "LLMs", "Large Language Models", "InfoQ", "QCon London", "Transcript"]
+topics: []
 transcript: false
 ---
 

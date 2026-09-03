@@ -4,7 +4,7 @@ title: "Learning-to-rank as a Search-as-a-Service company | AI and Search System
 slug: learning-to-rank-as-a-search-as-a-service-company-ai-and
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: LTrfSvI70Ss
 url: https://www.youtube.com/watch?v=LTrfSvI70Ss
 youtube_url: https://www.youtube.com/watch?v=LTrfSvI70Ss
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Reinforcement Learning without Verifiable Rewards — Will Brown, Prime 
 slug: reinforcement-learning-without-verifiable-rewards-will
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Will Brown"]
@@ -15,6 +15,7 @@ video_id: AQv3qRCG6Gw
 url: https://www.youtube.com/watch?v=AQv3qRCG6Gw
 youtube_url: https://www.youtube.com/watch?v=AQv3qRCG6Gw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

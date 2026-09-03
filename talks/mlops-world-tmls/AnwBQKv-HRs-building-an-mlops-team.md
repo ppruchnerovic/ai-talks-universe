@@ -4,7 +4,7 @@ title: "Building an MLOps Team"
 slug: building-an-mlops-team
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: AnwBQKv-HRs
 url: https://www.youtube.com/watch?v=AnwBQKv-HRs
 youtube_url: https://www.youtube.com/watch?v=AnwBQKv-HRs
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Maximiliano Firtman - WebMCP: Making Web Apps Faster and Cheaper for Cod
 slug: maximiliano-firtman-webmcp-making-web-apps-faster-and
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Maximiliano Firtman"]
@@ -15,6 +15,7 @@ video_id: BV7RYioryKE
 url: https://www.youtube.com/watch?v=BV7RYioryKE
 youtube_url: https://www.youtube.com/watch?v=BV7RYioryKE
 tags: ["AI DevCon", "AI DevCon London 2026", "AI agents and web apps", "Chrome DevTools MCP", "MCP ecosystem", "MCP ecosystem and agents", "WebMCP", "What is WebMCP?", "agentic coding", "ainativedev", "automation", "browser automation", "browser automation tools", "coding agents", "web apps"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

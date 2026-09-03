@@ -4,7 +4,7 @@ title: "Extinguishing the Garbage Fire of ML Testing | Mailchimp"
 slug: extinguishing-the-garbage-fire-of-ml-testing-mailchimp
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0EEN3X129f4
 url: https://www.youtube.com/watch?v=0EEN3X129f4
 youtube_url: https://www.youtube.com/watch?v=0EEN3X129f4
 tags: ["Data Science", "MLOps", "Data Engineering", "model testing"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Information Reliability Service - a novel approach to fraud detection by
 slug: information-reliability-service-a-novel-approach-to-fraud
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Giovanni Degiorgi"]
@@ -15,6 +15,7 @@ video_id: 6cZv0ZKaUoc
 url: https://www.youtube.com/watch?v=6cZv0ZKaUoc
 youtube_url: https://www.youtube.com/watch?v=6cZv0ZKaUoc
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability"]
 transcript: false
 ---
 

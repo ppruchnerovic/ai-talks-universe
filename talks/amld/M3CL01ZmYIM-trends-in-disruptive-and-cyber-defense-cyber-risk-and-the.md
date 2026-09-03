@@ -4,7 +4,7 @@ title: "Trends in Disruptive and Cyber Defense | Cyber-Risk and the Modern Data 
 slug: trends-in-disruptive-and-cyber-defense-cyber-risk-and-the
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: M3CL01ZmYIM
 url: https://www.youtube.com/watch?v=M3CL01ZmYIM
 youtube_url: https://www.youtube.com/watch?v=M3CL01ZmYIM
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

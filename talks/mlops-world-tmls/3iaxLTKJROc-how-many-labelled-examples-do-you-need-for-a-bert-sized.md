@@ -4,7 +4,7 @@ title: "How Many Labelled Examples Do You Need for a BERT-sized Model to Beat GP
 slug: how-many-labelled-examples-do-you-need-for-a-bert-sized
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3iaxLTKJROc
 url: https://www.youtube.com/watch?v=3iaxLTKJROc
 youtube_url: https://www.youtube.com/watch?v=3iaxLTKJROc
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

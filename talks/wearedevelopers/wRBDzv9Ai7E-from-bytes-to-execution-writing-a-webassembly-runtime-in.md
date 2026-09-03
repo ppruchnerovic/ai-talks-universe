@@ -4,7 +4,7 @@ title: "From Bytes to Execution: Writing a WebAssembly Runtime in Rust"
 slug: from-bytes-to-execution-writing-a-webassembly-runtime-in
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Gaurav Gahlot"]
@@ -15,6 +15,7 @@ video_id: wRBDzv9Ai7E
 url: https://www.youtube.com/watch?v=wRBDzv9Ai7E
 youtube_url: https://www.youtube.com/watch?v=wRBDzv9Ai7E
 tags: ["Languages & Runtimes", "Rust", "Runtimes", "WebAssembly"]
+topics: []
 transcript: true
 ---
 

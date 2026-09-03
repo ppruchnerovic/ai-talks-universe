@@ -4,7 +4,7 @@ title: "SaTML 2024 - Nishtha Madaan - Counterfactual Generation via Structured D
 slug: satml-2024-nishtha-madaan-counterfactual-generation-via
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Nishtha Madaan"]
@@ -15,6 +15,7 @@ video_id: Ee9QQDRPWds
 url: https://www.youtube.com/watch?v=Ee9QQDRPWds
 youtube_url: https://www.youtube.com/watch?v=Ee9QQDRPWds
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

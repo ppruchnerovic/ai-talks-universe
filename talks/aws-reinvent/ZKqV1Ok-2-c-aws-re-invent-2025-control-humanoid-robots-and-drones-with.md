@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Control humanoid robots and drones with voice and A
 slug: aws-re-invent-2025-control-humanoid-robots-and-drones-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZKqV1Ok-2-c
 url: https://www.youtube.com/watch?v=ZKqV1Ok-2-c
 youtube_url: https://www.youtube.com/watch?v=ZKqV1Ok-2-c
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

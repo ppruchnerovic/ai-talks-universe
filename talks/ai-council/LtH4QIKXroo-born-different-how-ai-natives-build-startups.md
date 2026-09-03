@@ -4,7 +4,7 @@ title: "Born Different: How AI Natives Build Startups"
 slug: born-different-how-ai-natives-build-startups
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: LtH4QIKXroo
 url: https://www.youtube.com/watch?v=LtH4QIKXroo
 youtube_url: https://www.youtube.com/watch?v=LtH4QIKXroo
 tags: ["AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

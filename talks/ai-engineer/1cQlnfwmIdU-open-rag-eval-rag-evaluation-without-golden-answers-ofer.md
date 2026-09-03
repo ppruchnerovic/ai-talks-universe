@@ -4,7 +4,7 @@ title: "open-rag-eval: RAG Evaluation without \"golden\" answers — Ofer Mendel
 slug: open-rag-eval-rag-evaluation-without-golden-answers-ofer
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ofer Mendelevitch"]
@@ -15,6 +15,7 @@ video_id: 1cQlnfwmIdU
 url: https://www.youtube.com/watch?v=1cQlnfwmIdU
 youtube_url: https://www.youtube.com/watch?v=1cQlnfwmIdU
 tags: []
+topics: ["Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

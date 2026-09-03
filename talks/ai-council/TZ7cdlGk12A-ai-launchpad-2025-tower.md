@@ -4,7 +4,7 @@ title: "AI Launchpad 2025: Tower"
 slug: ai-launchpad-2025-tower
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Serhii Sokolenko"]
@@ -15,6 +15,7 @@ video_id: TZ7cdlGk12A
 url: https://www.youtube.com/watch?v=TZ7cdlGk12A
 youtube_url: https://www.youtube.com/watch?v=TZ7cdlGk12A
 tags: ["startup", "Python frameworks", "ChatGPT", "artificial intelligence", "machine learning", "data platform", "cloud computing", "Apache Iceberg", "data infrastructure", "Python", "entrepreneurship", "startup strategy", "technology stack", "product development", "venture capital", "funding", "market analysis", "competitive analysis", "go to market", "customer acquisition", "growth strategy", "scalability", "business model", "team building"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

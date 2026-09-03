@@ -4,7 +4,7 @@ title: "Build & deploy AI-powered apps — Paige Bailey, Google DeepMind"
 slug: build-deploy-ai-powered-apps-paige-bailey-google-deepmind
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Paige Bailey"]
@@ -15,6 +15,7 @@ video_id: G_bHFmEAarM
 url: https://www.youtube.com/watch?v=G_bHFmEAarM
 youtube_url: https://www.youtube.com/watch?v=G_bHFmEAarM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

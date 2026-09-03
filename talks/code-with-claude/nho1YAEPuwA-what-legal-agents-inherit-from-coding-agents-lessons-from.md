@@ -4,7 +4,7 @@ title: "What legal agents inherit from coding agents: Lessons from Legora"
 slug: what-legal-agents-inherit-from-coding-agents-lessons-from
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: nho1YAEPuwA
 url: https://www.youtube.com/watch?v=nho1YAEPuwA
 youtube_url: https://www.youtube.com/watch?v=nho1YAEPuwA
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

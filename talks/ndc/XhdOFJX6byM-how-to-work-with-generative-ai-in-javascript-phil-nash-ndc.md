@@ -4,7 +4,7 @@ title: "How to work with generative AI in JavaScript - Phil Nash - NDC Melbourne
 slug: how-to-work-with-generative-ai-in-javascript-phil-nash-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Phil Nash"]
@@ -15,6 +15,7 @@ video_id: XhdOFJX6byM
 url: https://www.youtube.com/watch?v=XhdOFJX6byM
 youtube_url: https://www.youtube.com/watch?v=XhdOFJX6byM
 tags: []
+topics: []
 transcript: false
 ---
 

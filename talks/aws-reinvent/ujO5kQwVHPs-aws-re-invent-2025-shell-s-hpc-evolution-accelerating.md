@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Shell's HPC Evolution: Accelerating Seismic Process
 slug: aws-re-invent-2025-shell-s-hpc-evolution-accelerating
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ujO5kQwVHPs
 url: https://www.youtube.com/watch?v=ujO5kQwVHPs
 youtube_url: https://www.youtube.com/watch?v=ujO5kQwVHPs
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

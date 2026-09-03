@@ -4,7 +4,7 @@ title: "State of the Art of Biological Computing • Ewelina Kurtys & Charles Hu
 slug: state-of-the-art-of-biological-computing-ewelina-kurtys
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Ewelina Kurtys"]
@@ -15,6 +15,7 @@ video_id: 45b_lEXW9Ew
 url: https://www.youtube.com/watch?v=45b_lEXW9Ew
 youtube_url: https://www.youtube.com/watch?v=45b_lEXW9Ew
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Stat of the Art", "Ewelina Kurtys", "Charles Humble", "FinalSpark", "Biological Computing", "Biological Computers", "Organoids", "Generative AI", "Cost of AI"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

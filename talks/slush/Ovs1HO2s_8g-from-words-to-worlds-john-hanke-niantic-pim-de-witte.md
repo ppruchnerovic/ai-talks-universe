@@ -4,7 +4,7 @@ title: "From Words to Worlds | John Hanke (Niantic), Pim de Witte (General Intui
 slug: from-words-to-worlds-john-hanke-niantic-pim-de-witte
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["John Hanke"]
@@ -15,6 +15,7 @@ video_id: Ovs1HO2s_8g
 url: https://www.youtube.com/watch?v=Ovs1HO2s_8g
 youtube_url: https://www.youtube.com/watch?v=Ovs1HO2s_8g
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

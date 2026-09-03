@@ -4,7 +4,7 @@ title: "Agentic Development Security — Ezra Tanzer, Snyk"
 slug: agentic-development-security-ezra-tanzer-snyk
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ezra Tanzer"]
@@ -15,6 +15,7 @@ video_id: cgimkNGNjvU
 url: https://www.youtube.com/watch?v=cgimkNGNjvU
 youtube_url: https://www.youtube.com/watch?v=cgimkNGNjvU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

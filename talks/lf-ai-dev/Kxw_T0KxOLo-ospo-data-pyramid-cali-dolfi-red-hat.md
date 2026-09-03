@@ -4,7 +4,7 @@ title: "OSPO Data Pyramid - Cali Dolfi, Red Hat"
 slug: ospo-data-pyramid-cali-dolfi-red-hat
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Cali Dolfi"]
@@ -15,6 +15,7 @@ video_id: Kxw_T0KxOLo
 url: https://www.youtube.com/watch?v=Kxw_T0KxOLo
 youtube_url: https://www.youtube.com/watch?v=Kxw_T0KxOLo
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

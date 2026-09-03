@@ -4,7 +4,7 @@ title: "Shiva Kasiviswanthan - Toward Adaptive Agent Frameworks"
 slug: shiva-kasiviswanthan-toward-adaptive-agent-frameworks
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Shiva Kasiviswanthan"]
@@ -15,6 +15,7 @@ video_id: fWZoiBsY2CY
 url: https://www.youtube.com/watch?v=fWZoiBsY2CY
 youtube_url: https://www.youtube.com/watch?v=fWZoiBsY2CY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

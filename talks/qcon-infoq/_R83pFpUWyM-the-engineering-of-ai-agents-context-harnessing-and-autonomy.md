@@ -4,7 +4,7 @@ title: "The Engineering of AI Agents: Context, Harnessing, and Autonomy"
 slug: the-engineering-of-ai-agents-context-harnessing-and-autonomy
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: _R83pFpUWyM
 url: https://www.youtube.com/watch?v=_R83pFpUWyM
 youtube_url: https://www.youtube.com/watch?v=_R83pFpUWyM
 tags: ["QCon London", "InfoQ", "Transcript", "Artificial Intelligence", "AI", "AI Agents", "Software Architecture", "Generative AI", "Software Engineering", "Claude Code", "GitHub Copilot", "Context Engineering"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: true
 ---
 

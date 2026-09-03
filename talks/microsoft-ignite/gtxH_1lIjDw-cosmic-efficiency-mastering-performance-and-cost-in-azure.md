@@ -4,7 +4,7 @@ title: "Cosmic efficiency: mastering performance and cost in Azure Cosmos DB | B
 slug: cosmic-efficiency-mastering-performance-and-cost-in-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Estefani Arroyo", "Tara Bhatia"]
@@ -15,6 +15,7 @@ video_id: gtxH_1lIjDw
 url: https://www.youtube.com/watch?v=gtxH_1lIjDw
 youtube_url: https://www.youtube.com/watch?v=gtxH_1lIjDw
 tags: ["Azure", "BRK194", "Breakout", "Cosmic efficiency: mastering performance and cost in Azure Cosmos DB | BRK194", "Data", "English (US)", "Estefani Arroyo", "Expert (400)", "Tara Bhatia", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

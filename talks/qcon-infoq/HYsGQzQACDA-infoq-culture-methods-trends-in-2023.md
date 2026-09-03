@@ -4,7 +4,7 @@ title: "InfoQ Culture & Methods Trends in 2023"
 slug: infoq-culture-methods-trends-in-2023
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: HYsGQzQACDA
 url: https://www.youtube.com/watch?v=HYsGQzQACDA
 youtube_url: https://www.youtube.com/watch?v=HYsGQzQACDA
 tags: ["ChatGPT", "culture and methods", "The InfoQ Podcasts", "InfoQ Trends Reports"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

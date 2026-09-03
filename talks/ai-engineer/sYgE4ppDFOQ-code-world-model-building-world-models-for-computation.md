@@ -4,7 +4,7 @@ title: "Code World Model: Building World Models for Computation – Jacob Kahn, 
 slug: code-world-model-building-world-models-for-computation
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jacob Kahn"]
@@ -15,6 +15,7 @@ video_id: sYgE4ppDFOQ
 url: https://www.youtube.com/watch?v=sYgE4ppDFOQ
 youtube_url: https://www.youtube.com/watch?v=sYgE4ppDFOQ
 tags: []
+topics: []
 transcript: false
 ---
 

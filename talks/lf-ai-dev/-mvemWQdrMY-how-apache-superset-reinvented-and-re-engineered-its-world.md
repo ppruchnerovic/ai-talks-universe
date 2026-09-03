@@ -4,7 +4,7 @@ title: "How Apache Superset Reinvented (and Re-engineered) Its World of Document
 slug: how-apache-superset-reinvented-and-re-engineered-its-world
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Evan Rusackas"]
@@ -15,6 +15,7 @@ video_id: -mvemWQdrMY
 url: https://www.youtube.com/watch?v=-mvemWQdrMY
 youtube_url: https://www.youtube.com/watch?v=-mvemWQdrMY
 tags: []
+topics: []
 transcript: true
 ---
 

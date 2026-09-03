@@ -4,7 +4,7 @@ title: "The story of the Global AI Community that spans every continent | DEM376
 slug: the-story-of-the-global-ai-community-that-spans-every
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Roelant Dieben", "Stephen Simon"]
@@ -15,6 +15,7 @@ video_id: xSEVf01iGvo
 url: https://www.youtube.com/watch?v=xSEVf01iGvo
 youtube_url: https://www.youtube.com/watch?v=xSEVf01iGvo
 tags: ["9b441553-0170-41c9-9cc5-34040734f410_M9Z7-DEM376-1", "AI", "Community", "DEM376", "Roelant Dieben", "Stephen Simon", "The story of the Global AI Community that spans every continent | DEM376", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: []
 transcript: true
 ---
 

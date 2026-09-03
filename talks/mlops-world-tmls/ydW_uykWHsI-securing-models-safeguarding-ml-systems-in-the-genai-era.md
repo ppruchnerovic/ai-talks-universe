@@ -4,7 +4,7 @@ title: "Securing Models: Safeguarding ML Systems in the GenAI Era | Hudson Buzby
 slug: securing-models-safeguarding-ml-systems-in-the-genai-era
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Hudson Buzby"]
@@ -15,6 +15,7 @@ video_id: ydW_uykWHsI
 url: https://www.youtube.com/watch?v=ydW_uykWHsI
 youtube_url: https://www.youtube.com/watch?v=ydW_uykWHsI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

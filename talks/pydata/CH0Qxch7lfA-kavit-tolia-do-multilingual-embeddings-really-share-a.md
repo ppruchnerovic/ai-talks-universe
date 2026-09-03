@@ -4,7 +4,7 @@ title: "Kavit Tolia - Do Multilingual Embeddings Really Share a Semantic Space? 
 slug: kavit-tolia-do-multilingual-embeddings-really-share-a
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Kavit Tolia"]
@@ -15,6 +15,7 @@ video_id: CH0Qxch7lfA
 url: https://www.youtube.com/watch?v=CH0Qxch7lfA
 youtube_url: https://www.youtube.com/watch?v=CH0Qxch7lfA
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

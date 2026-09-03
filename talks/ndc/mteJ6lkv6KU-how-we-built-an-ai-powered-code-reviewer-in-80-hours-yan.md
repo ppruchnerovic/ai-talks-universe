@@ -4,7 +4,7 @@ title: "How we built an AI-powered code reviewer in 80 hours - Yan Cui - NDC Cop
 slug: how-we-built-an-ai-powered-code-reviewer-in-80-hours-yan
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Yan Cui"]
@@ -15,6 +15,7 @@ video_id: mteJ6lkv6KU
 url: https://www.youtube.com/watch?v=mteJ6lkv6KU
 youtube_url: https://www.youtube.com/watch?v=mteJ6lkv6KU
 tags: []
+topics: []
 transcript: false
 ---
 

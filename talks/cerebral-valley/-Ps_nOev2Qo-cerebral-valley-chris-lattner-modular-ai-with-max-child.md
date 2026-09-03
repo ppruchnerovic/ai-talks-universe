@@ -4,7 +4,7 @@ title: "Cerebral Valley: Chris Lattner (Modular AI) with Max Child"
 slug: cerebral-valley-chris-lattner-modular-ai-with-max-child
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: -Ps_nOev2Qo
 url: https://www.youtube.com/watch?v=-Ps_nOev2Qo
 youtube_url: https://www.youtube.com/watch?v=-Ps_nOev2Qo
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Feature Stores in Practice: Train and Deploy an End-to-End Fraud Detecti
 slug: feature-stores-in-practice-train-and-deploy-an-end-to-end
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Simba Khadder"]
@@ -15,6 +15,7 @@ video_id: QQeSylVBuhU
 url: https://www.youtube.com/watch?v=QQeSylVBuhU
 youtube_url: https://www.youtube.com/watch?v=QQeSylVBuhU
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

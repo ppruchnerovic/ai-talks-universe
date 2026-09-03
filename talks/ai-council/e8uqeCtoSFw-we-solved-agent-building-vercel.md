@@ -4,7 +4,7 @@ title: "We Solved Agent Building | Vercel"
 slug: we-solved-agent-building-vercel
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: e8uqeCtoSFw
 url: https://www.youtube.com/watch?v=e8uqeCtoSFw
 youtube_url: https://www.youtube.com/watch?v=e8uqeCtoSFw
 tags: ["AI"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

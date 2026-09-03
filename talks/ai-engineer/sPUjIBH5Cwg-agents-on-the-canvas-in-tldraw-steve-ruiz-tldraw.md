@@ -4,7 +4,7 @@ title: "Agents on the Canvas in tldraw — Steve Ruiz, tldraw"
 slug: agents-on-the-canvas-in-tldraw-steve-ruiz-tldraw
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Steve Ruiz"]
@@ -15,6 +15,7 @@ video_id: sPUjIBH5Cwg
 url: https://www.youtube.com/watch?v=sPUjIBH5Cwg
 youtube_url: https://www.youtube.com/watch?v=sPUjIBH5Cwg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

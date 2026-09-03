@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | Graph-Aware LLM for Windows Logon with a Closed-Lo
 slug: black-hat-asia-2026-graph-aware-llm-for-windows-logon-with
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7QVcpQA_j_I
 url: https://www.youtube.com/watch?v=7QVcpQA_j_I
 youtube_url: https://www.youtube.com/watch?v=7QVcpQA_j_I
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

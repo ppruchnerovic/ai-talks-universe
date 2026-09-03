@@ -4,7 +4,7 @@ title: "Pioneering the future: Agentic DevOps with Nicole Forsgren & Gene Kim | 
 slug: pioneering-the-future-agentic-devops-with-nicole-forsgren
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xuvejc3Y5tA
 url: https://www.youtube.com/watch?v=xuvejc3Y5tA
 youtube_url: https://www.youtube.com/watch?v=xuvejc3Y5tA
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

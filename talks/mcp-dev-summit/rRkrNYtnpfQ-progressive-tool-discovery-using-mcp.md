@@ -4,7 +4,7 @@ title: "Progressive Tool Discovery Using MCP"
 slug: progressive-tool-discovery-using-mcp
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: rRkrNYtnpfQ
 url: https://www.youtube.com/watch?v=rRkrNYtnpfQ
 youtube_url: https://www.youtube.com/watch?v=rRkrNYtnpfQ
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

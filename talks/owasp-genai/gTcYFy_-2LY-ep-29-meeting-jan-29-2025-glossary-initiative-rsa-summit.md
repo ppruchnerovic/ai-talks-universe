@@ -4,7 +4,7 @@ title: "Ep. 29: Meeting Jan 29 2025: Glossary Initiative, RSA Summit, and New Sp
 slug: ep-29-meeting-jan-29-2025-glossary-initiative-rsa-summit
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: gTcYFy_-2LY
 url: https://www.youtube.com/watch?v=gTcYFy_-2LY
 youtube_url: https://www.youtube.com/watch?v=gTcYFy_-2LY
 tags: []
+topics: []
 transcript: false
 ---
 

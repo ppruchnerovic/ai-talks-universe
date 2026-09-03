@@ -4,7 +4,7 @@ title: "The d9d Project: Building an extensible and scalable distributed trainin
 slug: the-d9d-project-building-an-extensible-and-scalable
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: BGTtk3geHoY
 url: https://www.youtube.com/watch?v=BGTtk3geHoY
 youtube_url: https://www.youtube.com/watch?v=BGTtk3geHoY
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

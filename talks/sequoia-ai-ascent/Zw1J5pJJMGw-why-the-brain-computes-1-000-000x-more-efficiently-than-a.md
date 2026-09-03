@@ -4,7 +4,7 @@ title: "Why the Brain Computes 1,000,000x More Efficiently Than A GPU: Unconvent
 slug: why-the-brain-computes-1-000-000x-more-efficiently-than-a
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Zw1J5pJJMGw
 url: https://www.youtube.com/watch?v=Zw1J5pJJMGw
 youtube_url: https://www.youtube.com/watch?v=Zw1J5pJJMGw
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

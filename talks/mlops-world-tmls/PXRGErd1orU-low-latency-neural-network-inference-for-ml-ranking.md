@@ -4,7 +4,7 @@ title: "Low latency Neural Network Inference for ML Ranking Applications Yelp Ca
 slug: low-latency-neural-network-inference-for-ml-ranking
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Ryan Irwin"]
@@ -15,6 +15,7 @@ video_id: PXRGErd1orU
 url: https://www.youtube.com/watch?v=PXRGErd1orU
 youtube_url: https://www.youtube.com/watch?v=PXRGErd1orU
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

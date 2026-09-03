@@ -4,7 +4,7 @@ title: "Goose, Chewbacca, & AI: Safely Flying the Generative AI Skies"
 slug: goose-chewbacca-ai-safely-flying-the-generative-ai-skies
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: QrprmA94UgY
 url: https://www.youtube.com/watch?v=QrprmA94UgY
 youtube_url: https://www.youtube.com/watch?v=QrprmA94UgY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: []
 transcript: false
 ---
 

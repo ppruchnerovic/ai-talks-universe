@@ -4,7 +4,7 @@ title: "Accelerating growth with AI-first strategies for small and medium busine
 slug: accelerating-growth-with-ai-first-strategies-for-small-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: KPYvju3U8uA
 url: https://www.youtube.com/watch?v=KPYvju3U8uA
 youtube_url: https://www.youtube.com/watch?v=KPYvju3U8uA
 tags: ["AI", "Accelerating growth with AI-first strategies for small and medium businesses | BRK293", "BRK293", "Breakout", "Copilot", "Copilot for M365", "Medium-sized businesses", "Microsoft 365", "Microsoft Copilot", "Modern Work", "Modern Work-Curated", "SMB", "Small and medium-sized businesses", "Small businesses", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

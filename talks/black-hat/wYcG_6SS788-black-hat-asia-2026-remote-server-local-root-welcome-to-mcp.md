@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | Remote Server, Local Root. Welcome to MCP."
 slug: black-hat-asia-2026-remote-server-local-root-welcome-to-mcp
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: ["Remote Server"]
@@ -15,6 +15,7 @@ video_id: wYcG_6SS788
 url: https://www.youtube.com/watch?v=wYcG_6SS788
 youtube_url: https://www.youtube.com/watch?v=wYcG_6SS788
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

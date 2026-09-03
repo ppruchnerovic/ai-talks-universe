@@ -4,7 +4,7 @@ title: "Local Agentic Theory For Mobile Games — Shafik Quoraishee & Joanne Son
 slug: local-agentic-theory-for-mobile-games-shafik-quoraishee
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Shafik Quoraishee", "Joanne Song"]
@@ -15,6 +15,7 @@ video_id: 418t26CVz-w
 url: https://www.youtube.com/watch?v=418t26CVz-w
 youtube_url: https://www.youtube.com/watch?v=418t26CVz-w
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

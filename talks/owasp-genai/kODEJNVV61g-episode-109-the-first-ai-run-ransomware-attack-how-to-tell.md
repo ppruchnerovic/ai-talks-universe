@@ -4,7 +4,7 @@ title: "Episode 109 | The First AI-Run Ransomware Attack & How to Tell a Bot Is 
 slug: episode-109-the-first-ai-run-ransomware-attack-how-to-tell
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: kODEJNVV61g
 url: https://www.youtube.com/watch?v=kODEJNVV61g
 youtube_url: https://www.youtube.com/watch?v=kODEJNVV61g
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Democratizing Digital Maps: How Protomaps Changes the Game"
 slug: democratizing-digital-maps-how-protomaps-changes-the-game
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Veit Schiele"]
@@ -15,6 +15,7 @@ video_id: Da7o5P-iGO8
 url: https://www.youtube.com/watch?v=Da7o5P-iGO8
 youtube_url: https://www.youtube.com/watch?v=Da7o5P-iGO8
 tags: ["Conference", "JavaScript", "Leaflet", "MapLibre", "OpenLayers", "OpenStreetMap", "PMTiles", "Protomaps", "PyConDE", "PyData", "Python", "Tech Talk", "cartography", "digital maps", "geospatial", "open source", "privacy", "self-hosted", "vector tiles", "web mapping"]
+topics: []
 transcript: false
 ---
 

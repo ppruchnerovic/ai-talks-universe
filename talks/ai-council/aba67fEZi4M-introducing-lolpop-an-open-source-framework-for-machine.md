@@ -4,7 +4,7 @@ title: "Introducing lolpop: an Open Source Framework for Machine Learning Workfl
 slug: introducing-lolpop-an-open-source-framework-for-machine
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Jordan Volz"]
@@ -15,6 +15,7 @@ video_id: aba67fEZi4M
 url: https://www.youtube.com/watch?v=aba67fEZi4M
 youtube_url: https://www.youtube.com/watch?v=aba67fEZi4M
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

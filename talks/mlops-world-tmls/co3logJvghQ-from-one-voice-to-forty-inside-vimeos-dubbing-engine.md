@@ -4,7 +4,7 @@ title: "From One Voice to Forty: Inside Vimeo’s Dubbing Engine"
 slug: from-one-voice-to-forty-inside-vimeos-dubbing-engine
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: co3logJvghQ
 url: https://www.youtube.com/watch?v=co3logJvghQ
 youtube_url: https://www.youtube.com/watch?v=co3logJvghQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

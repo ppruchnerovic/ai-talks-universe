@@ -4,7 +4,7 @@ title: "Pinterest's ML Evolution: Distributed Training with Ray | Ray Summit 202
 slug: pinterest-s-ml-evolution-distributed-training-with-ray-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: yqVLRONwDJs
 url: https://www.youtube.com/watch?v=yqVLRONwDJs
 youtube_url: https://www.youtube.com/watch?v=yqVLRONwDJs
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Dehumanizing Agents: Why Explainability is Crucial in the LLM Era - Luc√
 slug: dehumanizing-agents-why-explainability-is-crucial-in-the
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ekqXHwXbkjU
 url: https://www.youtube.com/watch?v=ekqXHwXbkjU
 youtube_url: https://www.youtube.com/watch?v=ekqXHwXbkjU
 tags: ["AI", "Ethics", "Machine Learning", "GenAI", "ML", "LLM", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Luc√≠a Conde-Moreno"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

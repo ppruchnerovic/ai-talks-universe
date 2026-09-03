@@ -4,7 +4,7 @@ title: "JavaScript in 2026 by Christian Woerz"
 slug: javascript-in-2026-by-christian-woerz
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Christian Woerz"]
@@ -15,6 +15,7 @@ video_id: capTmZrKDmM
 url: https://www.youtube.com/watch?v=capTmZrKDmM
 youtube_url: https://www.youtube.com/watch?v=capTmZrKDmM
 tags: []
+topics: []
 transcript: true
 ---
 

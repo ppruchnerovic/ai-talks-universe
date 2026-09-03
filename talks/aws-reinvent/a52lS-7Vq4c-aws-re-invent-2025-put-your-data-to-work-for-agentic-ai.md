@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Put your data to work for Agentic AI with AWS stora
 slug: aws-re-invent-2025-put-your-data-to-work-for-agentic-ai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: a52lS-7Vq4c
 url: https://www.youtube.com/watch?v=a52lS-7Vq4c
 youtube_url: https://www.youtube.com/watch?v=a52lS-7Vq4c
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

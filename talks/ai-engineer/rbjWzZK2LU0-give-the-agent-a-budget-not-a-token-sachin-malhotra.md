@@ -4,7 +4,7 @@ title: "Give the Agent a Budget, Not a Token — Sachin Malhotra, Anthropic"
 slug: give-the-agent-a-budget-not-a-token-sachin-malhotra
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sachin Malhotra"]
@@ -15,6 +15,7 @@ video_id: rbjWzZK2LU0
 url: https://www.youtube.com/watch?v=rbjWzZK2LU0
 youtube_url: https://www.youtube.com/watch?v=rbjWzZK2LU0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

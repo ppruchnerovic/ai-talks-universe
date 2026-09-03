@@ -4,7 +4,7 @@ title: "Building APIs for Agents vs Systems. Is MCP the answer?"
 slug: building-apis-for-agents-vs-systems-is-mcp-the-answer
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Adam Bird"]
@@ -15,6 +15,7 @@ video_id: GdTJWkbLpGI
 url: https://www.youtube.com/watch?v=GdTJWkbLpGI
 youtube_url: https://www.youtube.com/watch?v=GdTJWkbLpGI
 tags: ["Backend & APIs", "APIs", "Agents", "Agentic AI"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "A Brief History of Video Generation: Runway Co-founder Anastasis Germani
 slug: a-brief-history-of-video-generation-runway-co-founder
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: iMttGrkgn5E
 url: https://www.youtube.com/watch?v=iMttGrkgn5E
 youtube_url: https://www.youtube.com/watch?v=iMttGrkgn5E
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

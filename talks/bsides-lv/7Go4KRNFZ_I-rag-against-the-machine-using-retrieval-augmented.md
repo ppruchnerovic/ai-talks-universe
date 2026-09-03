@@ -4,7 +4,7 @@ title: "RAG Against the Machine: Using Retrieval-Augmented Generation & MCP to F
 slug: rag-against-the-machine-using-retrieval-augmented
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7Go4KRNFZ_I
 url: https://www.youtube.com/watch?v=7Go4KRNFZ_I
 youtube_url: https://www.youtube.com/watch?v=7Go4KRNFZ_I
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "RAG, retrieval & knowledge", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

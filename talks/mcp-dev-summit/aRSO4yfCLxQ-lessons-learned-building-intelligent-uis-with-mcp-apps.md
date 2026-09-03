@@ -4,7 +4,7 @@ title: "Lessons Learned Building Intelligent UIs With MCP Apps - Riley Scheid, R
 slug: lessons-learned-building-intelligent-uis-with-mcp-apps
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Riley Scheid"]
@@ -15,6 +15,7 @@ video_id: aRSO4yfCLxQ
 url: https://www.youtube.com/watch?v=aRSO4yfCLxQ
 youtube_url: https://www.youtube.com/watch?v=aRSO4yfCLxQ
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "IT Excellence in the AI era: Copilot and agents, impact and control | BR
 slug: it-excellence-in-the-ai-era-copilot-and-agents-impact-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ronil Dhruva", "Shilpi Sinha"]
@@ -15,6 +15,7 @@ video_id: J3QHdWAD99I
 url: https://www.youtube.com/watch?v=J3QHdWAD99I
 youtube_url: https://www.youtube.com/watch?v=J3QHdWAD99I
 tags: ["25e8d22c-0ec4-44bc-b3d4-e7682c25b8f5_Segment", "BRK294", "Copilot and agents at work", "English (US)", "IT Excellence in the AI era: Copilot and agents impact and control | BRK294", "Ronil Dhruva", "Shilpi Sinha", "Signature pass", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

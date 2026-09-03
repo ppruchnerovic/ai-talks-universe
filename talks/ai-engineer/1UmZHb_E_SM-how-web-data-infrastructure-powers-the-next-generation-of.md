@@ -4,7 +4,7 @@ title: "How Web Data Infrastructure Powers the Next Generation of AI — Patrici
 slug: how-web-data-infrastructure-powers-the-next-generation-of
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1UmZHb_E_SM
 url: https://www.youtube.com/watch?v=1UmZHb_E_SM
 youtube_url: https://www.youtube.com/watch?v=1UmZHb_E_SM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

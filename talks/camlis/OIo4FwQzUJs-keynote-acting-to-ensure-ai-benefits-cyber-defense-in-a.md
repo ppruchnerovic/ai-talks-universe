@@ -4,7 +4,7 @@ title: "Keynote - Acting to Ensure AI Benefits Cyber Defense in a Decade of Tech
 slug: keynote-acting-to-ensure-ai-benefits-cyber-defense-in-a
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: OIo4FwQzUJs
 url: https://www.youtube.com/watch?v=OIo4FwQzUJs
 youtube_url: https://www.youtube.com/watch?v=OIo4FwQzUJs
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

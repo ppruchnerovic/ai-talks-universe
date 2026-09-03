@@ -4,7 +4,7 @@ title: "Architecting AI Systems for the Messy Reality of Enterprises: Why Agenti
 slug: architecting-ai-systems-for-the-messy-reality-of
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Arun Joseph"]
@@ -15,6 +15,7 @@ video_id: iq-agentic-compute
 url: https://www.infoq.com/presentations/agentic-compute/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

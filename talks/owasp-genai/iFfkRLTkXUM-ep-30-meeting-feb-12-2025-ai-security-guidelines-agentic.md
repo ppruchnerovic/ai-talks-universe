@@ -4,7 +4,7 @@ title: "Ep.30 Meeting Feb 12 2025: AI Security Guidelines, Agentic Security, RSA
 slug: ep-30-meeting-feb-12-2025-ai-security-guidelines-agentic
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: iFfkRLTkXUM
 url: https://www.youtube.com/watch?v=iFfkRLTkXUM
 youtube_url: https://www.youtube.com/watch?v=iFfkRLTkXUM
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

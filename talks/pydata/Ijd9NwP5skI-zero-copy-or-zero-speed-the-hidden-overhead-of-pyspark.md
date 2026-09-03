@@ -4,7 +4,7 @@ title: "Zero-Copy or Zero-Speed? The hidden overhead of PySpark, Arrow & Synapse
 slug: zero-copy-or-zero-speed-the-hidden-overhead-of-pyspark
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Petar Ilijevski"]
@@ -15,6 +15,7 @@ video_id: Ijd9NwP5skI
 url: https://www.youtube.com/watch?v=Ijd9NwP5skI
 youtube_url: https://www.youtube.com/watch?v=Ijd9NwP5skI
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

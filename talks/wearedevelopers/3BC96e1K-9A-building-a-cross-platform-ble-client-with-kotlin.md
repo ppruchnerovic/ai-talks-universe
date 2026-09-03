@@ -4,7 +4,7 @@ title: "Building a Cross-Platform BLE Client with Kotlin Multiplatform and Kable
 slug: building-a-cross-platform-ble-client-with-kotlin
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Georg Dresler"]
@@ -15,6 +15,7 @@ video_id: 3BC96e1K-9A
 url: https://www.youtube.com/watch?v=3BC96e1K-9A
 youtube_url: https://www.youtube.com/watch?v=3BC96e1K-9A
 tags: ["Frontend, Web & Mobile", "Android", "Cross-Platform", "iOS", "Kotlin", "Kotlin Multiplatform"]
+topics: []
 transcript: true
 ---
 

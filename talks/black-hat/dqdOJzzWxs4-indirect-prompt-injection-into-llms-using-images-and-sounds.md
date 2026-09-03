@@ -4,7 +4,7 @@ title: "Indirect Prompt Injection Into LLMs Using Images and Sounds"
 slug: indirect-prompt-injection-into-llms-using-images-and-sounds
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: ["Ben Nassi", "Eugene Bagdasaryan"]
@@ -15,6 +15,7 @@ video_id: dqdOJzzWxs4
 url: https://www.youtube.com/watch?v=dqdOJzzWxs4
 youtube_url: https://www.youtube.com/watch?v=dqdOJzzWxs4
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

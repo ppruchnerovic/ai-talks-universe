@@ -4,7 +4,7 @@ title: "What Makes for an Effective Data Practitioner in 2024?"
 slug: what-makes-for-an-effective-data-practitioner-in-2024
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Marck Vaisman"]
@@ -15,6 +15,7 @@ video_id: lo9RK_l80mQ
 url: https://www.youtube.com/watch?v=lo9RK_l80mQ
 youtube_url: https://www.youtube.com/watch?v=lo9RK_l80mQ
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

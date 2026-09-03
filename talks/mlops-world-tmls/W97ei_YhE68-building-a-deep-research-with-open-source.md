@@ -4,7 +4,7 @@ title: "Building a Deep Research with Open-Source"
 slug: building-a-deep-research-with-open-source
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: W97ei_YhE68
 url: https://www.youtube.com/watch?v=W97ei_YhE68
 youtube_url: https://www.youtube.com/watch?v=W97ei_YhE68
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

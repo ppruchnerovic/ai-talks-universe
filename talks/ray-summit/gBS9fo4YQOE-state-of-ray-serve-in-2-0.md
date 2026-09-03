@@ -4,7 +4,7 @@ title: "State of Ray Serve in 2.0"
 slug: state-of-ray-serve-in-2-0
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: gBS9fo4YQOE
 url: https://www.youtube.com/watch?v=gBS9fo4YQOE
 youtube_url: https://www.youtube.com/watch?v=gBS9fo4YQOE
 tags: []
+topics: []
 transcript: false
 ---
 

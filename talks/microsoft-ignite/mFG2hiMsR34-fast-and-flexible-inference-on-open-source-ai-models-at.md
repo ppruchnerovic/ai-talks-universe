@@ -4,7 +4,7 @@ title: "Fast and flexible inference on open-source AI models at scale | BRK117"
 slug: fast-and-flexible-inference-on-open-source-ai-models-at
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Mehrdad Abdolghafari", "Cary Chai", "Sachi Desai"]
@@ -15,6 +15,7 @@ video_id: mFG2hiMsR34
 url: https://www.youtube.com/watch?v=mFG2hiMsR34
 youtube_url: https://www.youtube.com/watch?v=mFG2hiMsR34
 tags: ["BRK117", "Cary Chai", "English (US)", "Fast and flexible inference on open-source AI models at scale | BRK117", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Azure Container Apps", "Innovate with Azure AI apps and agents:Azure Kubernetes Service (AKS)", "Mehrdad Abdolghafari", "Sachi Desai", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

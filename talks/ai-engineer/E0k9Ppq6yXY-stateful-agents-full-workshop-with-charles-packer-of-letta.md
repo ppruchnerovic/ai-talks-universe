@@ -4,7 +4,7 @@ title: "Stateful Agents — Full Workshop with Charles Packer of Letta and MemGP
 slug: stateful-agents-full-workshop-with-charles-packer-of-letta
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: E0k9Ppq6yXY
 url: https://www.youtube.com/watch?v=E0k9Ppq6yXY
 youtube_url: https://www.youtube.com/watch?v=E0k9Ppq6yXY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

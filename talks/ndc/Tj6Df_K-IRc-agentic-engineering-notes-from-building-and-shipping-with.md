@@ -4,7 +4,7 @@ title: "Agentic Engineering: Notes from Building and Shipping with Agents - Mats
 slug: agentic-engineering-notes-from-building-and-shipping-with
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Mats Oustad"]
@@ -15,6 +15,7 @@ video_id: Tj6Df_K-IRc
 url: https://www.youtube.com/watch?v=Tj6Df_K-IRc
 youtube_url: https://www.youtube.com/watch?v=Tj6Df_K-IRc
 tags: ["AI-Assisted Development", "AI", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Mats Oustad"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

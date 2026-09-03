@@ -4,7 +4,7 @@ title: "AI On-board of Satellites, Towards Autonomous Scientific Instruments - V
 slug: ai-on-board-of-satellites-towards-autonomous-scientific
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Vit Ruzicka"]
@@ -15,6 +15,7 @@ video_id: 6le9sNvBa1k
 url: https://www.youtube.com/watch?v=6le9sNvBa1k
 youtube_url: https://www.youtube.com/watch?v=6le9sNvBa1k
 tags: []
+topics: []
 transcript: false
 ---
 

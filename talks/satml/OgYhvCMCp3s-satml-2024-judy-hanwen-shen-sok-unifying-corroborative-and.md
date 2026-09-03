@@ -4,7 +4,7 @@ title: "SaTML 2024 - Judy Hanwen Shen - SoK: Unifying Corroborative and Contribu
 slug: satml-2024-judy-hanwen-shen-sok-unifying-corroborative-and
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Judy Hanwen Shen"]
@@ -15,6 +15,7 @@ video_id: OgYhvCMCp3s
 url: https://www.youtube.com/watch?v=OgYhvCMCp3s
 youtube_url: https://www.youtube.com/watch?v=OgYhvCMCp3s
 tags: []
+topics: []
 transcript: false
 ---
 

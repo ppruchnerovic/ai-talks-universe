@@ -4,7 +4,7 @@ title: "Velocity Sickness: What Happens When Your Whole Team Gets 10x Faster —
 slug: velocity-sickness-what-happens-when-your-whole-team-gets
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Matt Dailey"]
@@ -15,6 +15,7 @@ video_id: Kz4QJmNrVXU
 url: https://www.youtube.com/watch?v=Kz4QJmNrVXU
 youtube_url: https://www.youtube.com/watch?v=Kz4QJmNrVXU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Graphs at scale with Ray, for AI in Manufacturing"
 slug: graphs-at-scale-with-ray-for-ai-in-manufacturing
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: VT5xnsmx0CU
 url: https://www.youtube.com/watch?v=VT5xnsmx0CU
 youtube_url: https://www.youtube.com/watch?v=VT5xnsmx0CU
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

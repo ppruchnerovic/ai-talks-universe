@@ -4,7 +4,7 @@ title: "How Monday.com Built Sidekick on Deep Agents | Interrupt 2026"
 slug: how-monday-com-built-sidekick-on-deep-agents-interrupt-2026
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: c2fLLS7np3Y
 url: https://www.youtube.com/watch?v=c2fLLS7np3Y
 youtube_url: https://www.youtube.com/watch?v=c2fLLS7np3Y
 tags: ["monday.com", "Sidekick AI", "Deep Agents", "LangChain", "AI agents", "agentic systems", "multi-agent architecture", "tool discovery", "deferred tools", "context pollution", "LangSmith sandbox", "self-healing agents", "production AI", "AI assistant", "Interrupt conference", "Omri Bruchim", "sub-agents", "middleware", "code-writing agent", "LLM hallucination", "agent recovery", "progressive disclosure", "ReAct loop", "AI work platform"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

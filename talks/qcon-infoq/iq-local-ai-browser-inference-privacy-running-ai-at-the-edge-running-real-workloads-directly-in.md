@@ -4,7 +4,7 @@ title: "Running AI at the Edge: Running Real Workloads Directly in the Browser"
 slug: running-ai-at-the-edge-running-real-workloads-directly-in
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2026"
 year: 2026
 speakers: ["James Hall"]
@@ -15,6 +15,7 @@ video_id: iq-local-ai-browser-inference-privacy
 url: https://www.infoq.com/presentations/local-ai-browser-inference-privacy/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

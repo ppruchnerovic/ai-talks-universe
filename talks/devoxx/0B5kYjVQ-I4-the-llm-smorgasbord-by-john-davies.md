@@ -4,7 +4,7 @@ title: "The LLM Smörgåsbord by John Davies"
 slug: the-llm-smorgasbord-by-john-davies
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["John Davies"]
@@ -15,6 +15,7 @@ video_id: 0B5kYjVQ-I4
 url: https://www.youtube.com/watch?v=0B5kYjVQ-I4
 youtube_url: https://www.youtube.com/watch?v=0B5kYjVQ-I4
 tags: []
+topics: []
 transcript: false
 ---
 

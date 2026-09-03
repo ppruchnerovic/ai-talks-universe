@@ -4,7 +4,7 @@ title: "Bypassing the Multimodal Tax: Hybrid RAG, SQL RRF & UI Telemetry - Abed 
 slug: bypassing-the-multimodal-tax-hybrid-rag-sql-rrf-ui
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Abed Matini"]
@@ -15,6 +15,7 @@ video_id: Akm1sqvWG4A
 url: https://www.youtube.com/watch?v=Akm1sqvWG4A
 youtube_url: https://www.youtube.com/watch?v=Akm1sqvWG4A
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "CTERA in action: Building the data fabric of global enterprises | ODSP14
 slug: ctera-in-action-building-the-data-fabric-of-global
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Kyle Edsall"]
@@ -15,6 +15,7 @@ video_id: GjgmoN_m3T4
 url: https://www.youtube.com/watch?v=GjgmoN_m3T4
 youtube_url: https://www.youtube.com/watch?v=GjgmoN_m3T4
 tags: ["CTERA in action: Building the data fabric of global enterprises | ODSP1436", "English (US)", "Kyle Edsall", "Migrate and modernize your estate", "ODSP1436", "ODSP1436_v1", "Technical", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

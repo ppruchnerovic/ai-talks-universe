@@ -4,7 +4,7 @@ title: "Building AI Models of Human Cell: Tahoe Therapeutics on Databricks"
 slug: building-ai-models-of-human-cell-tahoe-therapeutics-on
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: NWbfWzi6egI
 url: https://www.youtube.com/watch?v=NWbfWzi6egI
 youtube_url: https://www.youtube.com/watch?v=NWbfWzi6egI
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

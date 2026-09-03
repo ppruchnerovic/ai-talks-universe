@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Personalize customer experiences at scale w/ AI-pow
 slug: aws-re-invent-2025-personalize-customer-experiences-at
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0pQlBjEoTjY
 url: https://www.youtube.com/watch?v=0pQlBjEoTjY
 youtube_url: https://www.youtube.com/watch?v=0pQlBjEoTjY
 tags: []
+topics: []
 transcript: false
 ---
 

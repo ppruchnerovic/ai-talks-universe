@@ -4,7 +4,7 @@ title: "Excalidraw: AI and Human Whiteboarding Partnership - Christopher Chedeau
 slug: excalidraw-ai-and-human-whiteboarding-partnership
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Christopher Chedeau"]
@@ -15,6 +15,7 @@ video_id: aopgVJBQC0o
 url: https://www.youtube.com/watch?v=aopgVJBQC0o
 youtube_url: https://www.youtube.com/watch?v=aopgVJBQC0o
 tags: []
+topics: []
 transcript: false
 ---
 

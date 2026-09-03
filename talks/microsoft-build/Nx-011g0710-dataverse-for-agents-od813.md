@@ -4,7 +4,7 @@ title: "Dataverse for agents | OD813"
 slug: dataverse-for-agents-od813
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Nx-011g0710
 url: https://www.youtube.com/watch?v=Nx-011g0710
 youtube_url: https://www.youtube.com/watch?v=Nx-011g0710
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

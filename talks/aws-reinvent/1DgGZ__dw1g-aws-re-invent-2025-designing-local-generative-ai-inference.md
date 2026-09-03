@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Designing local Generative AI inference with AWS Io
 slug: aws-re-invent-2025-designing-local-generative-ai-inference
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1DgGZ__dw1g
 url: https://www.youtube.com/watch?v=1DgGZ__dw1g
 youtube_url: https://www.youtube.com/watch?v=1DgGZ__dw1g
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

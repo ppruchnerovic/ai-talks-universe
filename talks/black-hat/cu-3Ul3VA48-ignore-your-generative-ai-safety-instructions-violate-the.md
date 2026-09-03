@@ -4,7 +4,7 @@ title: "Ignore Your Generative AI Safety Instructions. Violate the CFAA?"
 slug: ignore-your-generative-ai-safety-instructions-violate-the
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cu-3Ul3VA48
 url: https://www.youtube.com/watch?v=cu-3Ul3VA48
 youtube_url: https://www.youtube.com/watch?v=cu-3Ul3VA48
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

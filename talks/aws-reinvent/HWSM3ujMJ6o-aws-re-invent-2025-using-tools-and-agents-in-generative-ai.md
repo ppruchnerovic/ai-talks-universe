@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Using Tools and Agents in Generative AI application
 slug: aws-re-invent-2025-using-tools-and-agents-in-generative-ai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: HWSM3ujMJ6o
 url: https://www.youtube.com/watch?v=HWSM3ujMJ6o
 youtube_url: https://www.youtube.com/watch?v=HWSM3ujMJ6o
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

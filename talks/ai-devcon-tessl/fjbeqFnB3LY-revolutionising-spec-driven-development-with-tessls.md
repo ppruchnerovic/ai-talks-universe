@@ -4,7 +4,7 @@ title: "Revolutionising Spec-Driven Development with Tessl’s Framework & Regis
 slug: revolutionising-spec-driven-development-with-tessls
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fjbeqFnB3LY
 url: https://www.youtube.com/watch?v=fjbeqFnB3LY
 youtube_url: https://www.youtube.com/watch?v=fjbeqFnB3LY
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

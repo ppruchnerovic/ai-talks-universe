@@ -4,7 +4,7 @@ title: "SaTML 2024 - Yiwei Lu - Indiscriminate Data Poisoning Attacks on Pre-tra
 slug: satml-2024-yiwei-lu-indiscriminate-data-poisoning-attacks
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Yiwei Lu"]
@@ -15,6 +15,7 @@ video_id: PAW7gEjVQx8
 url: https://www.youtube.com/watch?v=PAW7gEjVQx8
 youtube_url: https://www.youtube.com/watch?v=PAW7gEjVQx8
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

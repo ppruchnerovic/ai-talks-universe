@@ -4,7 +4,7 @@ title: "GF - Rolling out the C2: A Take on Modern Red Team Infrastructure"
 slug: gf-rolling-out-the-c2-a-take-on-modern-red-team
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: xOlj0rgu_G4
 url: https://www.youtube.com/watch?v=xOlj0rgu_G4
 youtube_url: https://www.youtube.com/watch?v=xOlj0rgu_G4
 tags: ["SSJKFW"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

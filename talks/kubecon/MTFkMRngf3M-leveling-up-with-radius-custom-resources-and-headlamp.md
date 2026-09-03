@@ -4,7 +4,7 @@ title: "Leveling up with Radius: Custom Resources and Headlamp Integration for R
 slug: leveling-up-with-radius-custom-resources-and-headlamp
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: MTFkMRngf3M
 url: https://www.youtube.com/watch?v=MTFkMRngf3M
 youtube_url: https://www.youtube.com/watch?v=MTFkMRngf3M
 tags: []
+topics: []
 transcript: true
 ---
 

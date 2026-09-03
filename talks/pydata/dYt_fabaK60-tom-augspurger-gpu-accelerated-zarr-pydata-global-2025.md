@@ -4,7 +4,7 @@ title: "Tom Augspurger - GPU Accelerated Zarr - PyData Global 2025"
 slug: tom-augspurger-gpu-accelerated-zarr-pydata-global-2025
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Tom Augspurger"]
@@ -15,6 +15,7 @@ video_id: dYt_fabaK60
 url: https://www.youtube.com/watch?v=dYt_fabaK60
 youtube_url: https://www.youtube.com/watch?v=dYt_fabaK60
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

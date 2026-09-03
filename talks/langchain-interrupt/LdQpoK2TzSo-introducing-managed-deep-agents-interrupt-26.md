@@ -4,7 +4,7 @@ title: "Introducing Managed Deep Agents | Interrupt 26"
 slug: introducing-managed-deep-agents-interrupt-26
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: LdQpoK2TzSo
 url: https://www.youtube.com/watch?v=LdQpoK2TzSo
 youtube_url: https://www.youtube.com/watch?v=LdQpoK2TzSo
 tags: ["Managed Deep Agents", "Deep Agents", "LangChain", "LangSmith", "LangGraph", "agent harness", "agent in production", "LangSmith Sandboxes", "Context Hub", "human in the loop", "sub-agents", "agent memory", "durable execution", "agent checkpointing", "agent interoperability", "Agent-to-Agent protocol", "production AI agents", "LLM agents", "multi-agent systems", "agent orchestration", "long-running agents", "Interrupt conference", "building AI agents"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

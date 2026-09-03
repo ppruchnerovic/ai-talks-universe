@@ -4,7 +4,7 @@ title: "Threat Detection on Kubernetes Logs Using GNN Embeddings"
 slug: threat-detection-on-kubernetes-logs-using-gnn-embeddings
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: hZbNHZKUqQg
 url: https://www.youtube.com/watch?v=hZbNHZKUqQg
 youtube_url: https://www.youtube.com/watch?v=hZbNHZKUqQg
 tags: []
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

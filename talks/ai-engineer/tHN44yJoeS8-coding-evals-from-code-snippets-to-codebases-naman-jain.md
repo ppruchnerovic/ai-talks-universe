@@ -4,7 +4,7 @@ title: "Coding Evals: From Code Snippets to Codebases – Naman Jain, Cursor"
 slug: coding-evals-from-code-snippets-to-codebases-naman-jain
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Naman Jain"]
@@ -15,6 +15,7 @@ video_id: tHN44yJoeS8
 url: https://www.youtube.com/watch?v=tHN44yJoeS8
 youtube_url: https://www.youtube.com/watch?v=tHN44yJoeS8
 tags: []
+topics: ["Coding assistants & agents", "Evals, observability & reliability"]
 transcript: false
 ---
 

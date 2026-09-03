@@ -4,7 +4,7 @@ title: "Your Support Team Should Ship Code – Lisa Orr, Zapier"
 slug: your-support-team-should-ship-code-lisa-orr-zapier
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Lisa Orr"]
@@ -15,6 +15,7 @@ video_id: RmJ4rTLV_x4
 url: https://www.youtube.com/watch?v=RmJ4rTLV_x4
 youtube_url: https://www.youtube.com/watch?v=RmJ4rTLV_x4
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

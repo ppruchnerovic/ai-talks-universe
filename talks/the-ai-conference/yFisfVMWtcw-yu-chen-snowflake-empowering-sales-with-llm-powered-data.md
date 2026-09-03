@@ -4,7 +4,7 @@ title: "Yu Chen, Snowflake: Empowering Sales with LLM-Powered Data Insights and 
 slug: yu-chen-snowflake-empowering-sales-with-llm-powered-data
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: yFisfVMWtcw
 url: https://www.youtube.com/watch?v=yFisfVMWtcw
 youtube_url: https://www.youtube.com/watch?v=yFisfVMWtcw
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

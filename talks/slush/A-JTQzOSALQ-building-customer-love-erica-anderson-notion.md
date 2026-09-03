@@ -4,7 +4,7 @@ title: "Building Customer Love | Erica Anderson (Notion)"
 slug: building-customer-love-erica-anderson-notion
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: ["Building Customer Love", "Erica Anderson"]
@@ -15,6 +15,7 @@ video_id: A-JTQzOSALQ
 url: https://www.youtube.com/watch?v=A-JTQzOSALQ
 youtube_url: https://www.youtube.com/watch?v=A-JTQzOSALQ
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Slush 2019", "Venture Capital", "Innovation", "Growth", "Business"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

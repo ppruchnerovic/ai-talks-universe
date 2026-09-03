@@ -4,7 +4,7 @@ title: "Johan Mabille & Anutosh Bhat - xeus-cpp, the new C++ kernel for Jupyter.
 slug: johan-mabille-anutosh-bhat-xeus-cpp-the-new-c-kernel-for
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Johan Mabille", "Anutosh Bhat"]
@@ -15,6 +15,7 @@ video_id: Ev4JvFUJJeY
 url: https://www.youtube.com/watch?v=Ev4JvFUJJeY
 youtube_url: https://www.youtube.com/watch?v=Ev4JvFUJJeY
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

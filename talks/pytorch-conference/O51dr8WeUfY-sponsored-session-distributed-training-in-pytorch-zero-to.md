@@ -4,7 +4,7 @@ title: "Sponsored Session: Distributed Training in PyTorch: Zero to Hero - Corey
 slug: sponsored-session-distributed-training-in-pytorch-zero-to
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Corey Lowman"]
@@ -15,6 +15,7 @@ video_id: O51dr8WeUfY
 url: https://www.youtube.com/watch?v=O51dr8WeUfY
 youtube_url: https://www.youtube.com/watch?v=O51dr8WeUfY
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

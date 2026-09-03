@@ -4,7 +4,7 @@ title: "Personal, Local, Private AI Agents: Soumith Chintala"
 slug: personal-local-private-ai-agents-soumith-chintala
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: jMoAaZP_Kkw
 url: https://www.youtube.com/watch?v=jMoAaZP_Kkw
 youtube_url: https://www.youtube.com/watch?v=jMoAaZP_Kkw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

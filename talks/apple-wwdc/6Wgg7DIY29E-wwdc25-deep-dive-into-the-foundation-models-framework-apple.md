@@ -4,7 +4,7 @@ title: "WWDC25: Deep dive into the Foundation Models framework | Apple"
 slug: wwdc25-deep-dive-into-the-foundation-models-framework-apple
 conference: apple-wwdc
 conference_name: "Apple WWDC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "WWDC25"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6Wgg7DIY29E
 url: https://www.youtube.com/watch?v=6Wgg7DIY29E
 youtube_url: https://www.youtube.com/watch?v=6Wgg7DIY29E
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "[VDBUH2026] Abdel Sghiouar - Optimizing LLM Inference for the Rest of Us
 slug: vdbuh2026-abdel-sghiouar-optimizing-llm-inference-for-the
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Abdel Sghiouar"]
@@ -15,6 +15,7 @@ video_id: G58PbxBXC8c
 url: https://www.youtube.com/watch?v=G58PbxBXC8c
 youtube_url: https://www.youtube.com/watch?v=G58PbxBXC8c
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

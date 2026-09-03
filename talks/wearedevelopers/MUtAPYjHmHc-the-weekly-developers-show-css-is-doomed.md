@@ -4,7 +4,7 @@ title: "The weekly developers show: CSS is DOOmed!"
 slug: the-weekly-developers-show-css-is-doomed
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: MUtAPYjHmHc
 url: https://www.youtube.com/watch?v=MUtAPYjHmHc
 youtube_url: https://www.youtube.com/watch?v=MUtAPYjHmHc
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

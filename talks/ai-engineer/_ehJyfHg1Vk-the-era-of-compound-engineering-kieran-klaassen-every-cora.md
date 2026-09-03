@@ -4,7 +4,7 @@ title: "The Era of Compound Engineering — Kieran Klaassen, Every/Cora"
 slug: the-era-of-compound-engineering-kieran-klaassen-every-cora
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kieran Klaassen"]
@@ -15,6 +15,7 @@ video_id: _ehJyfHg1Vk
 url: https://www.youtube.com/watch?v=_ehJyfHg1Vk
 youtube_url: https://www.youtube.com/watch?v=_ehJyfHg1Vk
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

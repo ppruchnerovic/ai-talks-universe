@@ -4,7 +4,7 @@ title: "Is it the network or is it the data? | Scientific Machine Learning | Joh
 slug: is-it-the-network-or-is-it-the-data-scientific-machine
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Johannes Brandstetter"]
@@ -15,6 +15,7 @@ video_id: gSo_tRtvy7w
 url: https://www.youtube.com/watch?v=gSo_tRtvy7w
 youtube_url: https://www.youtube.com/watch?v=gSo_tRtvy7w
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

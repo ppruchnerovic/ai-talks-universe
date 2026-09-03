@@ -4,7 +4,7 @@ title: "Patterns & Practices for building Multi-Agent Systems by Nikhil Barthwal
 slug: patterns-practices-for-building-multi-agent-systems-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Nikhil Barthwal"]
@@ -15,6 +15,7 @@ video_id: Z2l5V2Mvlx4
 url: https://www.youtube.com/watch?v=Z2l5V2Mvlx4
 youtube_url: https://www.youtube.com/watch?v=Z2l5V2Mvlx4
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

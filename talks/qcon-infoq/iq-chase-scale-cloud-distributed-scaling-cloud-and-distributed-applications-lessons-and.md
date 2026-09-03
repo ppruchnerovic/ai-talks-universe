@@ -4,7 +4,7 @@ title: "Scaling Cloud and Distributed Applications: Lessons and Strategies from 
 slug: scaling-cloud-and-distributed-applications-lessons-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Durai Arasan"]
@@ -15,6 +15,7 @@ video_id: iq-chase-scale-cloud-distributed
 url: https://www.infoq.com/presentations/chase-scale-cloud-distributed/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

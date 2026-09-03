@@ -4,7 +4,7 @@ title: "Monitor GenAI applications beyond golden signals | ODSP907"
 slug: monitor-genai-applications-beyond-golden-signals-odsp907
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: NtLuXXNKbJw
 url: https://www.youtube.com/watch?v=NtLuXXNKbJw
 youtube_url: https://www.youtube.com/watch?v=NtLuXXNKbJw
 tags: ["AI", "AI Toolkit", "Agent Observability", "Agentic SDLC", "Agentic Security", "Agents", "Automation", "Azure", "Azure Monitor", "Claws", "Containment", "Cost Management", "Dev Tools", "Developer", "MCP", "Microsoft Foundry", "Monitor GenAI applications beyond golden signals | ODSP907", "ODSP907", "ODSP907_v1", "Openclaw", "Platform Engineering", "Semantic Kernel", "Skills", "Vector Embeddings", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

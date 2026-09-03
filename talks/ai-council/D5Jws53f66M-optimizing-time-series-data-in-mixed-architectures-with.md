@@ -4,7 +4,7 @@ title: "Optimizing Time Series Data in Mixed Architectures with QuestDB"
 slug: optimizing-time-series-data-in-mixed-architectures-with
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Adam Cimarosti"]
@@ -15,6 +15,7 @@ video_id: D5Jws53f66M
 url: https://www.youtube.com/watch?v=D5Jws53f66M
 youtube_url: https://www.youtube.com/watch?v=D5Jws53f66M
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

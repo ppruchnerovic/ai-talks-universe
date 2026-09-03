@@ -4,7 +4,7 @@ title: "The Death of the Browser: Tejas Kumar on MCP & AI Agents"
 slug: the-death-of-the-browser-tejas-kumar-on-mcp-ai-agents
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: b1fgxbKPHco
 url: https://www.youtube.com/watch?v=b1fgxbKPHco
 youtube_url: https://www.youtube.com/watch?v=b1fgxbKPHco
 tags: ["Artificial Intelligence", "InfoQ Dev Summit", "InfoQ", "Transcript", "Software Architecture", "AI Agents", "MCP", "Model Context Protocol", "RAG", "Generative AI", "Software Engineering", "Retrieval-Augmented Generation"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

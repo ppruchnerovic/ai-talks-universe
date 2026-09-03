@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - AI-Native Era of Observability: How You Can Get Sta
 slug: aws-re-invent-2025-ai-native-era-of-observability-how-you
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: y7fuAOIVEGw
 url: https://www.youtube.com/watch?v=y7fuAOIVEGw
 youtube_url: https://www.youtube.com/watch?v=y7fuAOIVEGw
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

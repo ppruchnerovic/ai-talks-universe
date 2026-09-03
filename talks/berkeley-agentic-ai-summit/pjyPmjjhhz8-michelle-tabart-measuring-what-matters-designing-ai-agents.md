@@ -4,7 +4,7 @@ title: "Michelle Tabart - Measuring What Matters: Designing AI Agents That Deliv
 slug: michelle-tabart-measuring-what-matters-designing-ai-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Michelle Tabart"]
@@ -15,6 +15,7 @@ video_id: pjyPmjjhhz8
 url: https://www.youtube.com/watch?v=pjyPmjjhhz8
 youtube_url: https://www.youtube.com/watch?v=pjyPmjjhhz8
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

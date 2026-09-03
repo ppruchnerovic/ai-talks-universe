@@ -4,7 +4,7 @@ title: "Virtualizing Large Scale GPU Cluster for Sovereign AI: Petasus AI Cloud 
 slug: virtualizing-large-scale-gpu-cluster-for-sovereign-ai
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: m1buNUEmXTg
 url: https://www.youtube.com/watch?v=m1buNUEmXTg
 youtube_url: https://www.youtube.com/watch?v=m1buNUEmXTg
 tags: []
+topics: ["Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

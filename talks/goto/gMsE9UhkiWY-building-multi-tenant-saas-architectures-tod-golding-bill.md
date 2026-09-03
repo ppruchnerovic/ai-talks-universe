@@ -4,7 +4,7 @@ title: "Building Multi-Tenant SaaS Architectures • Tod Golding & Bill Tarr"
 slug: building-multi-tenant-saas-architectures-tod-golding-bill
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Tod Golding", "Bill Tarr"]
@@ -15,6 +15,7 @@ video_id: gMsE9UhkiWY
 url: https://www.youtube.com/watch?v=gMsE9UhkiWY
 youtube_url: https://www.youtube.com/watch?v=gMsE9UhkiWY
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

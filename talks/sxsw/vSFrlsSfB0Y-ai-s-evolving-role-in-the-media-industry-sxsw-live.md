@@ -4,7 +4,7 @@ title: "AI's Evolving Role in the Media Industry | SXSW LIVE"
 slug: ai-s-evolving-role-in-the-media-industry-sxsw-live
 conference: sxsw
 conference_name: "SXSW"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "SXSW 2025 keynotes & featured"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: vSFrlsSfB0Y
 url: https://www.youtube.com/watch?v=vSFrlsSfB0Y
 youtube_url: https://www.youtube.com/watch?v=vSFrlsSfB0Y
 tags: []
+topics: []
 transcript: false
 ---
 

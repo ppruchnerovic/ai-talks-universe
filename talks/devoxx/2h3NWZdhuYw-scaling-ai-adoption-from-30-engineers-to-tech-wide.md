@@ -4,7 +4,7 @@ title: "Scaling AI Adoption: From 30 Engineers to Tech Wide Transformation Lesso
 slug: scaling-ai-adoption-from-30-engineers-to-tech-wide
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2h3NWZdhuYw
 url: https://www.youtube.com/watch?v=2h3NWZdhuYw
 youtube_url: https://www.youtube.com/watch?v=2h3NWZdhuYw
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

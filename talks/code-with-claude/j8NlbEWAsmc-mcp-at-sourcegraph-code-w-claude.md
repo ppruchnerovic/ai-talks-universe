@@ -4,7 +4,7 @@ title: "MCP at Sourcegraph | Code w/ Claude"
 slug: mcp-at-sourcegraph-code-w-claude
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: j8NlbEWAsmc
 url: https://www.youtube.com/watch?v=j8NlbEWAsmc
 youtube_url: https://www.youtube.com/watch?v=j8NlbEWAsmc
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

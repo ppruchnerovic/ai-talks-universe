@@ -4,7 +4,7 @@ title: "Tim Hockin - Is Kubernetes Good for Agents? Infrastructure Solutions for
 slug: tim-hockin-is-kubernetes-good-for-agents-infrastructure
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Tim Hockin"]
@@ -15,6 +15,7 @@ video_id: PtLed3i88AA
 url: https://www.youtube.com/watch?v=PtLed3i88AA
 youtube_url: https://www.youtube.com/watch?v=PtLed3i88AA
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

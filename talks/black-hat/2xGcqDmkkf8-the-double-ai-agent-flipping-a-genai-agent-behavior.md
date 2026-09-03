@@ -4,7 +4,7 @@ title: "The Double (AI) Agent: Flipping a GenAI Agent Behavior"
 slug: the-double-ai-agent-flipping-a-genai-agent-behavior
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2xGcqDmkkf8
 url: https://www.youtube.com/watch?v=2xGcqDmkkf8
 youtube_url: https://www.youtube.com/watch?v=2xGcqDmkkf8
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

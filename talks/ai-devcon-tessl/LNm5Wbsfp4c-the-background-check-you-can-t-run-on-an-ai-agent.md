@@ -4,7 +4,7 @@ title: "The Background Check You Can't Run on an AI Agent"
 slug: the-background-check-you-can-t-run-on-an-ai-agent
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: LNm5Wbsfp4c
 url: https://www.youtube.com/watch?v=LNm5Wbsfp4c
 youtube_url: https://www.youtube.com/watch?v=LNm5Wbsfp4c
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

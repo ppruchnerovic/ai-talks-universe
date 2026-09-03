@@ -4,7 +4,7 @@ title: "Appeal of open research: a community perspective | Bridging the Gap | Je
 slug: appeal-of-open-research-a-community-perspective-bridging
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Jeremy Watson"]
@@ -15,6 +15,7 @@ video_id: 7QPLMTrTQZg
 url: https://www.youtube.com/watch?v=7QPLMTrTQZg
 youtube_url: https://www.youtube.com/watch?v=7QPLMTrTQZg
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

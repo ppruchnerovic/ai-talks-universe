@@ -4,7 +4,7 @@ title: "Your AI Product Will Fail Unless You Can Explain It - Veronica Hylak, He
 slug: your-ai-product-will-fail-unless-you-can-explain-it
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Veronica Hylak"]
@@ -15,6 +15,7 @@ video_id: d_Ftrl3vfV0
 url: https://www.youtube.com/watch?v=d_Ftrl3vfV0
 youtube_url: https://www.youtube.com/watch?v=d_Ftrl3vfV0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

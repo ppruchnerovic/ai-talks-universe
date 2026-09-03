@@ -4,7 +4,7 @@ title: "Ogunyale & Olu-Ipinlaye - Teach an LLM to Navigate the Web | Pydata Lond
 slug: ogunyale-olu-ipinlaye-teach-an-llm-to-navigate-the-web
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: gWIDMkM4doU
 url: https://www.youtube.com/watch?v=gWIDMkM4doU
 youtube_url: https://www.youtube.com/watch?v=gWIDMkM4doU
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: true
 ---
 

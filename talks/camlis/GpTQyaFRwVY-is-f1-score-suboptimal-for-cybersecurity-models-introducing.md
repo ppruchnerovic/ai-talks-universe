@@ -4,7 +4,7 @@ title: "Is F1 Score Suboptimal for Cybersecurity Models? Introducing Cscore"
 slug: is-f1-score-suboptimal-for-cybersecurity-models-introducing
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: GpTQyaFRwVY
 url: https://www.youtube.com/watch?v=GpTQyaFRwVY
 youtube_url: https://www.youtube.com/watch?v=GpTQyaFRwVY
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

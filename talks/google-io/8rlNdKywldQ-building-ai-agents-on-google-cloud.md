@@ -4,7 +4,7 @@ title: "Building AI agents on Google Cloud"
 slug: building-ai-agents-on-google-cloud
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8rlNdKywldQ
 url: https://www.youtube.com/watch?v=8rlNdKywldQ
 youtube_url: https://www.youtube.com/watch?v=8rlNdKywldQ
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

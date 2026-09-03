@@ -4,7 +4,7 @@ title: "AI Launchpad 2026: LogicStar AI"
 slug: ai-launchpad-2026-logicstar-ai
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: HBlShxKwLCc
 url: https://www.youtube.com/watch?v=HBlShxKwLCc
 youtube_url: https://www.youtube.com/watch?v=HBlShxKwLCc
 tags: ["AI"]
+topics: []
 transcript: true
 ---
 

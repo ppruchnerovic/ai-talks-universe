@@ -4,7 +4,7 @@ title: "Breaking the Monolithic ML Pipeline with a Feature Store"
 slug: breaking-the-monolithic-ml-pipeline-with-a-feature-store
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZJFEbiwPvZs
 url: https://www.youtube.com/watch?v=ZJFEbiwPvZs
 youtube_url: https://www.youtube.com/watch?v=ZJFEbiwPvZs
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Breaking the Monolithic ML Pipeline with a Feature Store", "Monolithic ML Pipeline", "Feature Store", "Breaking the Monolithic ML Pipeline"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

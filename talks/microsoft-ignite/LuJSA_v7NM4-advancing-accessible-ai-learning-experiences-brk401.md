@@ -4,7 +4,7 @@ title: "Advancing accessible AI-learning experiences | BRK401"
 slug: advancing-accessible-ai-learning-experiences-brk401
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jeana Jorgensen"]
@@ -15,6 +15,7 @@ video_id: LuJSA_v7NM4
 url: https://www.youtube.com/watch?v=LuJSA_v7NM4
 youtube_url: https://www.youtube.com/watch?v=LuJSA_v7NM4
 tags: ["77317b32-3811-4331-8496-5b9ba883db90_Segment", "Advancing accessible AI-learning experiences | BRK401", "BRK401", "Copilot and agents at work", "English (US)", "Jeana Jorgensen", "Jenny Lay-Flurrie", "Other", "Other:Accessibility", "Partner Business", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

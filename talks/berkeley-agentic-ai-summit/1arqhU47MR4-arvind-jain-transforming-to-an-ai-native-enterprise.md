@@ -4,7 +4,7 @@ title: "Arvind Jain - Transforming to an AI-Native Enterprise"
 slug: arvind-jain-transforming-to-an-ai-native-enterprise
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Arvind Jain"]
@@ -15,6 +15,7 @@ video_id: 1arqhU47MR4
 url: https://www.youtube.com/watch?v=1arqhU47MR4
 youtube_url: https://www.youtube.com/watch?v=1arqhU47MR4
 tags: []
+topics: []
 transcript: false
 ---
 

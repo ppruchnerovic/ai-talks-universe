@@ -4,7 +4,7 @@ title: "Developing Regulated Software at the Speed of Innovation: Insights from 
 slug: developing-regulated-software-at-the-speed-of-innovation
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: oJAwpwF8k_U
 url: https://www.youtube.com/watch?v=oJAwpwF8k_U
 youtube_url: https://www.youtube.com/watch?v=oJAwpwF8k_U
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

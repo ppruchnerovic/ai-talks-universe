@@ -4,7 +4,7 @@ title: "Who Let the Bots Out? A Guide to Evaluating AI Agents - James Cha-Earley
 slug: who-let-the-bots-out-a-guide-to-evaluating-ai-agents-james
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: zgK_gahNHmU
 url: https://www.youtube.com/watch?v=zgK_gahNHmU
 youtube_url: https://www.youtube.com/watch?v=zgK_gahNHmU
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: false
 ---
 

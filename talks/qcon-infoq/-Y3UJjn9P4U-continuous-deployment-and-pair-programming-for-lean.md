@@ -4,7 +4,7 @@ title: "Continuous Deployment and Pair Programming for Lean Software Delivery Ev
 slug: continuous-deployment-and-pair-programming-for-lean
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: -Y3UJjn9P4U
 url: https://www.youtube.com/watch?v=-Y3UJjn9P4U
 youtube_url: https://www.youtube.com/watch?v=-Y3UJjn9P4U
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: false
 ---
 

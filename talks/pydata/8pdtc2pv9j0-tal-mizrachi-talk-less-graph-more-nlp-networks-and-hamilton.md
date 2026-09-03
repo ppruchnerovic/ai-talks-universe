@@ -4,7 +4,7 @@ title: "Tal Mizrachi: Talk Less, Graph More: NLP, Networks and Hamilton Musical 
 slug: tal-mizrachi-talk-less-graph-more-nlp-networks-and-hamilton
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8pdtc2pv9j0
 url: https://www.youtube.com/watch?v=8pdtc2pv9j0
 youtube_url: https://www.youtube.com/watch?v=8pdtc2pv9j0
 tags: []
+topics: []
 transcript: false
 ---
 

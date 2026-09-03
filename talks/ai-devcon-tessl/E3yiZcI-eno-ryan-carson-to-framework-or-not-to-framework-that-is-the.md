@@ -4,7 +4,7 @@ title: "Ryan Carson - To Framework or Not to Framework? That is the Question | D
 slug: ryan-carson-to-framework-or-not-to-framework-that-is-the
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Ryan Carson"]
@@ -15,6 +15,7 @@ video_id: E3yiZcI-eno
 url: https://www.youtube.com/watch?v=E3yiZcI-eno
 youtube_url: https://www.youtube.com/watch?v=E3yiZcI-eno
 tags: ["ainativedev"]
+topics: []
 transcript: false
 ---
 

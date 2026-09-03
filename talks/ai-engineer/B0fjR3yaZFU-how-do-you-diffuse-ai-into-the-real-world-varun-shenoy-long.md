@@ -4,7 +4,7 @@ title: "How do you diffuse AI into the real world? — Varun Shenoy, Long Lake"
 slug: how-do-you-diffuse-ai-into-the-real-world-varun-shenoy-long
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Varun Shenoy"]
@@ -15,6 +15,7 @@ video_id: B0fjR3yaZFU
 url: https://www.youtube.com/watch?v=B0fjR3yaZFU
 youtube_url: https://www.youtube.com/watch?v=B0fjR3yaZFU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

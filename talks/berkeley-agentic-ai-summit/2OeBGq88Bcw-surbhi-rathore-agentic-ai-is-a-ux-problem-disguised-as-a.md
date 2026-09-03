@@ -4,7 +4,7 @@ title: "Surbhi Rathore - Agentic AI Is a UX Problem Disguised as a Technology Br
 slug: surbhi-rathore-agentic-ai-is-a-ux-problem-disguised-as-a
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Surbhi Rathore"]
@@ -15,6 +15,7 @@ video_id: 2OeBGq88Bcw
 url: https://www.youtube.com/watch?v=2OeBGq88Bcw
 youtube_url: https://www.youtube.com/watch?v=2OeBGq88Bcw
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

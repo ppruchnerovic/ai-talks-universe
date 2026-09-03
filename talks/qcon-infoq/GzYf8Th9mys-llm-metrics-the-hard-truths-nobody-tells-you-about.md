@@ -4,7 +4,7 @@ title: "LLM Metrics: The Hard Truths Nobody Tells You About Production AI"
 slug: llm-metrics-the-hard-truths-nobody-tells-you-about
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: GzYf8Th9mys
 url: https://www.youtube.com/watch?v=GzYf8Th9mys
 youtube_url: https://www.youtube.com/watch?v=GzYf8Th9mys
 tags: ["QCon San Francisco", "Artificial Intelligence", "LLMs", "LLM Ops", "AI in Production", "Software Architecture", "Engineering Leadership", "Observability", "Metrics", "Machine Learning", "Large Language Models"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

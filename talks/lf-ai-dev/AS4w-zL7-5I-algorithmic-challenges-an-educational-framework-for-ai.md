@@ -4,7 +4,7 @@ title: "Algorithmic Challenges. An Educational Framework for AI & Ethics Literac
 slug: algorithmic-challenges-an-educational-framework-for-ai
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Aldo Pisano"]
@@ -15,6 +15,7 @@ video_id: AS4w-zL7-5I
 url: https://www.youtube.com/watch?v=AS4w-zL7-5I
 youtube_url: https://www.youtube.com/watch?v=AS4w-zL7-5I
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Low-resource spoken translation pipeline | Accelerating the Adoption of 
 slug: low-resource-spoken-translation-pipeline-accelerating-the
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: FbdqHUV6Uhw
 url: https://www.youtube.com/watch?v=FbdqHUV6Uhw
 youtube_url: https://www.youtube.com/watch?v=FbdqHUV6Uhw
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

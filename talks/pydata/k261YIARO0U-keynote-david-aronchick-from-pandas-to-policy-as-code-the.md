@@ -4,7 +4,7 @@ title: "Keynote_David Aronchick- From Pandas to Policy-as Code The Future of ML 
 slug: keynote-david-aronchick-from-pandas-to-policy-as-code-the
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: k261YIARO0U
 url: https://www.youtube.com/watch?v=k261YIARO0U
 youtube_url: https://www.youtube.com/watch?v=k261YIARO0U
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

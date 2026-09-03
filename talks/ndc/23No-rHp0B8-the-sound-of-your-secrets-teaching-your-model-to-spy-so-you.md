@@ -4,7 +4,7 @@ title: "The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn 
 slug: the-sound-of-your-secrets-teaching-your-model-to-spy-so-you
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 23No-rHp0B8
 url: https://www.youtube.com/watch?v=23No-rHp0B8
 youtube_url: https://www.youtube.com/watch?v=23No-rHp0B8
 tags: ["Security", "Architecture", "Big Data", "Design", "Machine Learning", "GenAI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "David vonThenen"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: true
 ---
 

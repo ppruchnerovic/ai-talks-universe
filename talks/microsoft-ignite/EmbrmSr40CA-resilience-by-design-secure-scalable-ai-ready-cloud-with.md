@@ -4,7 +4,7 @@ title: "Resilience by design: Secure, scalable, AI-ready cloud with Azure | BRK2
 slug: resilience-by-design-secure-scalable-ai-ready-cloud-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Gargi Banerjee", "Molina Sharma"]
@@ -15,6 +15,7 @@ video_id: EmbrmSr40CA
 url: https://www.youtube.com/watch?v=EmbrmSr40CA
 youtube_url: https://www.youtube.com/watch?v=EmbrmSr40CA
 tags: ["BRK217", "English (US)", "Gargi Banerjee", "Innovate with Azure AI apps and agents", "Molina Sharma", "Resilience by design: Secure scalable AI-ready cloud with Azure | BRK217", "Technical", "e511dbcf-903d-4460-96f8-994a0f9189b4_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

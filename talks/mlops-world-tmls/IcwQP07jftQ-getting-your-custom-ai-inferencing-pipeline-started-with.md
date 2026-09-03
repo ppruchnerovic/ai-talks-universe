@@ -4,7 +4,7 @@ title: "Getting your Custom AI Inferencing Pipeline Started with Vector's AI Dep
 slug: getting-your-custom-ai-inferencing-pipeline-started-with
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: IcwQP07jftQ
 url: https://www.youtube.com/watch?v=IcwQP07jftQ
 youtube_url: https://www.youtube.com/watch?v=IcwQP07jftQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: []
 transcript: false
 ---
 

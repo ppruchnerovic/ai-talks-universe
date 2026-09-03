@@ -4,7 +4,7 @@ title: "Finetuning: 500m AI agents in production with 2 engineers — Mustafa Al
 slug: finetuning-500m-ai-agents-in-production-with-2-engineers
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mustafa Ali", "Kyle Corbitt"]
@@ -15,6 +15,7 @@ video_id: zM9RYqCcioM
 url: https://www.youtube.com/watch?v=zM9RYqCcioM
 youtube_url: https://www.youtube.com/watch?v=zM9RYqCcioM
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

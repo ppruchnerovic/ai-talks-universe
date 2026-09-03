@@ -4,7 +4,7 @@ title: "Reasoning on multimodal content for efficient agentic AI app building | 
 slug: reasoning-on-multimodal-content-for-efficient-agentic-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: D3WyLnMhvtY
 url: https://www.youtube.com/watch?v=D3WyLnMhvtY
 youtube_url: https://www.youtube.com/watch?v=D3WyLnMhvtY
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

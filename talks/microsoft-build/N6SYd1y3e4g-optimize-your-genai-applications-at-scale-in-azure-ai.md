@@ -4,7 +4,7 @@ title: "Optimize your GenAI applications at scale in Azure AI Foundry | BRK178"
 slug: optimize-your-genai-applications-at-scale-in-azure-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: N6SYd1y3e4g
 url: https://www.youtube.com/watch?v=N6SYd1y3e4g
 youtube_url: https://www.youtube.com/watch?v=N6SYd1y3e4g
 tags: []
+topics: []
 transcript: false
 ---
 

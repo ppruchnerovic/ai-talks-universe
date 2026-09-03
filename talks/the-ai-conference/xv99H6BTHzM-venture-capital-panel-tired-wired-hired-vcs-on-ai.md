@@ -4,7 +4,7 @@ title: "Venture Capital Panel :Tired, Wired, Hired — VCs on AI"
 slug: venture-capital-panel-tired-wired-hired-vcs-on-ai
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: xv99H6BTHzM
 url: https://www.youtube.com/watch?v=xv99H6BTHzM
 youtube_url: https://www.youtube.com/watch?v=xv99H6BTHzM
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

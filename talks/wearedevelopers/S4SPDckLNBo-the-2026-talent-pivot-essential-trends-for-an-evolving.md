@@ -4,7 +4,7 @@ title: "The 2026 Talent Pivot: Essential Trends for an Evolving Workforce"
 slug: the-2026-talent-pivot-essential-trends-for-an-evolving
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Bastian Eichler"]
@@ -15,6 +15,7 @@ video_id: S4SPDckLNBo
 url: https://www.youtube.com/watch?v=S4SPDckLNBo
 youtube_url: https://www.youtube.com/watch?v=S4SPDckLNBo
 tags: ["Talent Strategy", "HR"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

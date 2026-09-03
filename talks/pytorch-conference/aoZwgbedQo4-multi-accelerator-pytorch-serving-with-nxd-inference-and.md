@@ -4,7 +4,7 @@ title: "Multi-Accelerator PyTorch Serving With NxD Inference and vLLM - Yahav Bi
 slug: multi-accelerator-pytorch-serving-with-nxd-inference-and
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Yahav Biran", "Liangfu Chen"]
@@ -15,6 +15,7 @@ video_id: aoZwgbedQo4
 url: https://www.youtube.com/watch?v=aoZwgbedQo4
 youtube_url: https://www.youtube.com/watch?v=aoZwgbedQo4
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

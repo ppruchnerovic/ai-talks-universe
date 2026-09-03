@@ -4,7 +4,7 @@ title: "From LLM Theory to Practical Agentic Implementations - Seth Juarez"
 slug: from-llm-theory-to-practical-agentic-implementations-seth
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Seth Juarez"]
@@ -15,6 +15,7 @@ video_id: rYBAyvaF3Yo
 url: https://www.youtube.com/watch?v=rYBAyvaF3Yo
 youtube_url: https://www.youtube.com/watch?v=rYBAyvaF3Yo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Architecting the Data Layer for AI Agents: from Transactional Systems to
 slug: architecting-the-data-layer-for-ai-agents-from
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI Boston 2026"
 year: 2026
 speakers: ["Fabiane Nardon"]
@@ -15,6 +15,7 @@ video_id: iq-enterprise-data-architecture-ai-agents
 url: https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

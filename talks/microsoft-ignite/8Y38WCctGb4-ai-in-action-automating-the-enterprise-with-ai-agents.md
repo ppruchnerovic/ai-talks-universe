@@ -4,7 +4,7 @@ title: "AI in action: Automating the enterprise with AI agents | ODSP1511"
 slug: ai-in-action-automating-the-enterprise-with-ai-agents
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8Y38WCctGb4
 url: https://www.youtube.com/watch?v=8Y38WCctGb4
 youtube_url: https://www.youtube.com/watch?v=8Y38WCctGb4
 tags: ["AI in action: Automating the enterprise with AI agents | ODSP1511", "Copilot and agents at work", "English (US)", "Financial Services", "ODSP1511", "ODSP1511_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

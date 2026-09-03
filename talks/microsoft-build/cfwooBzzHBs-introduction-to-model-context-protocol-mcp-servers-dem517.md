@@ -4,7 +4,7 @@ title: "Introduction to Model Context Protocol (MCP) Servers | DEM517"
 slug: introduction-to-model-context-protocol-mcp-servers-dem517
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cfwooBzzHBs
 url: https://www.youtube.com/watch?v=cfwooBzzHBs
 youtube_url: https://www.youtube.com/watch?v=cfwooBzzHBs
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Global Flood Prediction | Accelerating Climate Change Action | Cynthia Z
 slug: global-flood-prediction-accelerating-climate-change-action
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Global Flood Prediction", "Cynthia Zeng"]
@@ -15,6 +15,7 @@ video_id: EGNcNQapk2w
 url: https://www.youtube.com/watch?v=EGNcNQapk2w
 youtube_url: https://www.youtube.com/watch?v=EGNcNQapk2w
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

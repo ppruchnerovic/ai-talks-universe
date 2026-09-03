@@ -4,7 +4,7 @@ title: "Keynote: New Advances for Cross-platform AI Applications in Docker - Mic
 slug: keynote-new-advances-for-cross-platform-ai-applications-in
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Michael Yuan", "Justin Cormack"]
@@ -15,6 +15,7 @@ video_id: ODhJFe4-n6Y
 url: https://www.youtube.com/watch?v=ODhJFe4-n6Y
 youtube_url: https://www.youtube.com/watch?v=ODhJFe4-n6Y
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

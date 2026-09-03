@@ -4,7 +4,7 @@ title: "Great Infra for Background Agents | Sail"
 slug: great-infra-for-background-agents-sail
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Gpjr-PlehnQ
 url: https://www.youtube.com/watch?v=Gpjr-PlehnQ
 youtube_url: https://www.youtube.com/watch?v=Gpjr-PlehnQ
 tags: ["AI"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

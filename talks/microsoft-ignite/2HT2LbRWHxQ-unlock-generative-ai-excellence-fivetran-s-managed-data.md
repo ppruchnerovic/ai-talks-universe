@@ -4,7 +4,7 @@ title: "Unlock generative AI excellence; Fivetran's Managed Data Lake Service | 
 slug: unlock-generative-ai-excellence-fivetran-s-managed-data
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["David Hrncir"]
@@ -15,6 +15,7 @@ video_id: 2HT2LbRWHxQ
 url: https://www.youtube.com/watch?v=2HT2LbRWHxQ
 youtube_url: https://www.youtube.com/watch?v=2HT2LbRWHxQ
 tags: ["AI", "Automation", "Data Security", "Data governance", "David Hrncir", "English (US)", "Fivetran's Managed Data Lake Service | ODFP943", "Foundational (100)", "ODFP943", "Pre-recorded", "Responsible AI", "Technical", "Unlock generative AI excellence", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

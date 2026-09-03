@@ -4,7 +4,7 @@ title: "One Login to Rule Them All: Cross-App Access for MCP — Garrett Galow, 
 slug: one-login-to-rule-them-all-cross-app-access-for-mcp-garrett
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Garrett Galow"]
@@ -15,6 +15,7 @@ video_id: EmhRyw6xeT0
 url: https://www.youtube.com/watch?v=EmhRyw6xeT0
 youtube_url: https://www.youtube.com/watch?v=EmhRyw6xeT0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

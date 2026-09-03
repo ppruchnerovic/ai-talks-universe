@@ -4,7 +4,7 @@ title: "Build AI agents on Cloud Run"
 slug: build-ai-agents-on-cloud-run
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Ryan Pei", "Taylor Money", "Edward Wright"]
@@ -15,6 +15,7 @@ video_id: zthWHEU3Y7M
 url: https://www.youtube.com/watch?v=zthWHEU3Y7M
 youtube_url: https://www.youtube.com/watch?v=zthWHEU3Y7M
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

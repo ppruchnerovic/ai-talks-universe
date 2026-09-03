@@ -4,7 +4,7 @@ title: "T Beier, I Thomas, I Paredes & A Prouvost - Expanding Programming Langua
 slug: t-beier-i-thomas-i-paredes-a-prouvost-expanding-programming
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["T Beier"]
@@ -15,6 +15,7 @@ video_id: nfn2aO6TBbk
 url: https://www.youtube.com/watch?v=nfn2aO6TBbk
 youtube_url: https://www.youtube.com/watch?v=nfn2aO6TBbk
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: false
 ---
 

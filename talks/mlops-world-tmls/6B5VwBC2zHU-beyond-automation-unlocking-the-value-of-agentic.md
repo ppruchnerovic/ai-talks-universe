@@ -4,7 +4,7 @@ title: "Beyond Automation Unlocking the Value of Agentic"
 slug: beyond-automation-unlocking-the-value-of-agentic
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6B5VwBC2zHU
 url: https://www.youtube.com/watch?v=6B5VwBC2zHU
 youtube_url: https://www.youtube.com/watch?v=6B5VwBC2zHU
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Prototype to Product | Amandine Durr (Back Market)"
 slug: prototype-to-product-amandine-durr-back-market
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Amandine Durr"]
@@ -15,6 +15,7 @@ video_id: FbvVbtvoKuY
 url: https://www.youtube.com/watch?v=FbvVbtvoKuY
 youtube_url: https://www.youtube.com/watch?v=FbvVbtvoKuY
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

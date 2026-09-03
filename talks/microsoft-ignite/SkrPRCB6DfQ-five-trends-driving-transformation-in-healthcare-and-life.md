@@ -4,7 +4,7 @@ title: "Five trends driving transformation in healthcare and life sciences | ODF
 slug: five-trends-driving-transformation-in-healthcare-and-life
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Satish Jha", "Piyush Rai"]
@@ -15,6 +15,7 @@ video_id: SkrPRCB6DfQ
 url: https://www.youtube.com/watch?v=SkrPRCB6DfQ
 youtube_url: https://www.youtube.com/watch?v=SkrPRCB6DfQ
 tags: ["AI", "Admin Copilot", "Copilot Studio", "Copilot for M365", "Copilot workflows", "Five trends driving transformation in healthcare and life sciences | ODFP993", "Intermediate (200)", "Microsoft Copilot", "ODFP993", "Piyush Rai", "Pre-recorded", "Satish Jha", "Team copilot", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

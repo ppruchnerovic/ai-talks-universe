@@ -4,7 +4,7 @@ title: "On Evaluating Adversarial Robustness"
 slug: on-evaluating-adversarial-robustness
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []
@@ -15,6 +15,7 @@ video_id: -p2il-V-0fk
 url: https://www.youtube.com/watch?v=-p2il-V-0fk
 youtube_url: https://www.youtube.com/watch?v=-p2il-V-0fk
 tags: ["camlis", "camlis2019"]
+topics: ["Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

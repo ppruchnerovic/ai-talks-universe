@@ -4,7 +4,7 @@ title: "The weekly developer show: Blockchain after the hype, Vibing all the Thi
 slug: the-weekly-developer-show-blockchain-after-the-hype-vibing
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: kqWu704rDoI
 url: https://www.youtube.com/watch?v=kqWu704rDoI
 youtube_url: https://www.youtube.com/watch?v=kqWu704rDoI
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: false
 ---
 

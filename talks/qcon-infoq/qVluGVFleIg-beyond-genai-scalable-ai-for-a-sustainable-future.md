@@ -4,7 +4,7 @@ title: "Beyond GenAI: Scalable AI for a Sustainable Future"
 slug: beyond-genai-scalable-ai-for-a-sustainable-future
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qVluGVFleIg
 url: https://www.youtube.com/watch?v=qVluGVFleIg
 youtube_url: https://www.youtube.com/watch?v=qVluGVFleIg
 tags: ["Climate Change", "InfoQ Dev Summit", "Transcript", "Artificial Intelligence", "InfoQ", "Sustainable Engineering"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

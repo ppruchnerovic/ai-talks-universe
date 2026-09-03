@@ -4,7 +4,7 @@ title: "Adarsh Hiremath - Enterprise AI"
 slug: adarsh-hiremath-enterprise-ai
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Adarsh Hiremath"]
@@ -15,6 +15,7 @@ video_id: SJgp8-c35Zg
 url: https://www.youtube.com/watch?v=SJgp8-c35Zg
 youtube_url: https://www.youtube.com/watch?v=SJgp8-c35Zg
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

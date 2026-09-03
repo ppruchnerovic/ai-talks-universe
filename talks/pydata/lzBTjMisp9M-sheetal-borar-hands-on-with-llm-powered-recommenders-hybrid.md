@@ -4,7 +4,7 @@ title: "Sheetal Borar - Hands-On with LLM-Powered Recommenders: Hybrid Architect
 slug: sheetal-borar-hands-on-with-llm-powered-recommenders-hybrid
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Sheetal Borar"]
@@ -15,6 +15,7 @@ video_id: lzBTjMisp9M
 url: https://www.youtube.com/watch?v=lzBTjMisp9M
 youtube_url: https://www.youtube.com/watch?v=lzBTjMisp9M
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

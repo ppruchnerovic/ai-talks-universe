@@ -4,7 +4,7 @@ title: "USENIX Security '25 - SelfDefend: LLMs Can Defend Themselves against Jai
 slug: usenix-security-25-selfdefend-llms-can-defend-themselves
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: bUamsPUHURA
 url: https://www.youtube.com/watch?v=bUamsPUHURA
 youtube_url: https://www.youtube.com/watch?v=bUamsPUHURA
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Shipping something to someone always wins — Kenneth Auchenberg (ex. St
 slug: shipping-something-to-someone-always-wins-kenneth
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kenneth Auchenberg"]
@@ -15,6 +15,7 @@ video_id: mHzJhXppwUA
 url: https://www.youtube.com/watch?v=mHzJhXppwUA
 youtube_url: https://www.youtube.com/watch?v=mHzJhXppwUA
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

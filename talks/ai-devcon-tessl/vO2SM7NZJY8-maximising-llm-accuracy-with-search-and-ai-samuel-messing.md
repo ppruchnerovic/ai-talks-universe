@@ -4,7 +4,7 @@ title: "Maximising LLM Accuracy with Search and AI | Samuel Messing and Slack"
 slug: maximising-llm-accuracy-with-search-and-ai-samuel-messing
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: vO2SM7NZJY8
 url: https://www.youtube.com/watch?v=vO2SM7NZJY8
 youtube_url: https://www.youtube.com/watch?v=vO2SM7NZJY8
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "No GIL, Real Gains: Porting a C++ Python Extension to Free-Threaded Pyth
 slug: no-gil-real-gains-porting-a-c-python-extension-to-free
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: soBWS_SlqJc
 url: https://www.youtube.com/watch?v=soBWS_SlqJc
 youtube_url: https://www.youtube.com/watch?v=soBWS_SlqJc
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "TornadoVM: Supercharge your Java with GPU acceleration - Christos Kotsel
 slug: tornadovm-supercharge-your-java-with-gpu-acceleration
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Christos Kotselidis"]
@@ -15,6 +15,7 @@ video_id: oRVtTEbtt_Y
 url: https://www.youtube.com/watch?v=oRVtTEbtt_Y
 youtube_url: https://www.youtube.com/watch?v=oRVtTEbtt_Y
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

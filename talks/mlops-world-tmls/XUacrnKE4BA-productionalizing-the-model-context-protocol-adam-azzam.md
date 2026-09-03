@@ -4,7 +4,7 @@ title: "Productionalizing the Model Context Protocol | Adam Azzam, Prefect"
 slug: productionalizing-the-model-context-protocol-adam-azzam
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Adam Azzam"]
@@ -15,6 +15,7 @@ video_id: XUacrnKE4BA
 url: https://www.youtube.com/watch?v=XUacrnKE4BA
 youtube_url: https://www.youtube.com/watch?v=XUacrnKE4BA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

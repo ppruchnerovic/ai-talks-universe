@@ -4,7 +4,7 @@ title: "Sanjit Paliwal-No Cloud- No Problem. Local RAG with Embedding Gemma-PyDa
 slug: sanjit-paliwal-no-cloud-no-problem-local-rag-with-embedding
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: k6K_wrhiSR8
 url: https://www.youtube.com/watch?v=k6K_wrhiSR8
 youtube_url: https://www.youtube.com/watch?v=k6K_wrhiSR8
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

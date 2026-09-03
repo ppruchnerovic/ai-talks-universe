@@ -4,7 +4,7 @@ title: "Paul Stack - The Humans Architect the System, the AI Writes the Code - A
 slug: paul-stack-the-humans-architect-the-system-the-ai-writes
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Paul Stack"]
@@ -15,6 +15,7 @@ video_id: wuGJNWhUOoE
 url: https://www.youtube.com/watch?v=wuGJNWhUOoE
 youtube_url: https://www.youtube.com/watch?v=wuGJNWhUOoE
 tags: ["AI DevCon", "AI DevCon London 2026 speakers", "AI code generation", "AI-generated code quality", "AI-native development", "Paul Stack AI", "ainativedev", "automation CLI", "best practices for AI coding", "design guidelines", "engineering team management", "machine learning", "swamp project", "system architecture", "what is automation CLI"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

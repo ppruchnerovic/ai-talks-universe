@@ -4,7 +4,7 @@ title: "Exploring Millions of High-dimensional Datapoints in the Browser for Ear
 slug: exploring-millions-of-high-dimensional-datapoints-in-the
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Matthias Orlowski"]
@@ -15,6 +15,7 @@ video_id: uv1_qe_oKkA
 url: https://www.youtube.com/watch?v=uv1_qe_oKkA
 youtube_url: https://www.youtube.com/watch?v=uv1_qe_oKkA
 tags: ["Apache Airflow", "Conference", "FastAPI", "GraphQL", "Next.js", "PyConDE", "PyData", "Python", "React", "Tech Talk", "Three.js", "bioinformatics", "browser performance", "cell painting", "conference talk", "data visualization", "drug discovery", "frontend engineering", "high-dimensional data", "performance optimization"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

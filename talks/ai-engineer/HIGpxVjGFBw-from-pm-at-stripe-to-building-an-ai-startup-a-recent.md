@@ -4,7 +4,7 @@ title: "From PM at Stripe to Building an AI startup, a recent founder's journey 
 slug: from-pm-at-stripe-to-building-an-ai-startup-a-recent
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mounir Mouawad"]
@@ -15,6 +15,7 @@ video_id: HIGpxVjGFBw
 url: https://www.youtube.com/watch?v=HIGpxVjGFBw
 youtube_url: https://www.youtube.com/watch?v=HIGpxVjGFBw
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

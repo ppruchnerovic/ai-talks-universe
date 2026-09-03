@@ -4,7 +4,7 @@ title: "Is AI Really Creating Super Hackers? What the Evidence Actually Shows."
 slug: is-ai-really-creating-super-hackers-what-the-evidence
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: TX_MyfgCK4A
 url: https://www.youtube.com/watch?v=TX_MyfgCK4A
 youtube_url: https://www.youtube.com/watch?v=TX_MyfgCK4A
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

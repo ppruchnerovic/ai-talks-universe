@@ -4,7 +4,7 @@ title: "Michele Lee, Wilson Sonsini: Adapting to AI Legislation and Crystal Ball
 slug: michele-lee-wilson-sonsini-adapting-to-ai-legislation-and
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: o5QQ3-j4snE
 url: https://www.youtube.com/watch?v=o5QQ3-j4snE
 youtube_url: https://www.youtube.com/watch?v=o5QQ3-j4snE
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

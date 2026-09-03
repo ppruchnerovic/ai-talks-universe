@@ -4,7 +4,7 @@ title: "TEDAI Vienna Panel - How to successfully roll out agentic frameworks acr
 slug: tedai-vienna-panel-how-to-successfully-roll-out-agentic
 conference: tedai-vienna
 conference_name: "TEDAI Vienna"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "TEDAI Vienna 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XK7A2z_lZKQ
 url: https://www.youtube.com/watch?v=XK7A2z_lZKQ
 youtube_url: https://www.youtube.com/watch?v=XK7A2z_lZKQ
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

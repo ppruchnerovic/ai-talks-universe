@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Reimagining Software Development and DevOps with Ag
 slug: aws-re-invent-2025-reimagining-software-development-and
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: NuFey5rCuHo
 url: https://www.youtube.com/watch?v=NuFey5rCuHo
 youtube_url: https://www.youtube.com/watch?v=NuFey5rCuHo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

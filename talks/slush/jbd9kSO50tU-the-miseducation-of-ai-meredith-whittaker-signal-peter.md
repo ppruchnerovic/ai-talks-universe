@@ -4,7 +4,7 @@ title: "The Miseducation of AI | Meredith Whittaker (Signal) & Peter Sarlin (AMD
 slug: the-miseducation-of-ai-meredith-whittaker-signal-peter
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Meredith Whittaker"]
@@ -15,6 +15,7 @@ video_id: jbd9kSO50tU
 url: https://www.youtube.com/watch?v=jbd9kSO50tU
 youtube_url: https://www.youtube.com/watch?v=jbd9kSO50tU
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: []
 transcript: false
 ---
 

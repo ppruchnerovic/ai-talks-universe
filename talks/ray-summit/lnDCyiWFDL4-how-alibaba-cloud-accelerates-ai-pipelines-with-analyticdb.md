@@ -4,7 +4,7 @@ title: "How Alibaba Cloud Accelerates AI Pipelines with AnalyticDB Ray | Ray Sum
 slug: how-alibaba-cloud-accelerates-ai-pipelines-with-analyticdb
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: lnDCyiWFDL4
 url: https://www.youtube.com/watch?v=lnDCyiWFDL4
 youtube_url: https://www.youtube.com/watch?v=lnDCyiWFDL4
 tags: []
+topics: []
 transcript: false
 ---
 

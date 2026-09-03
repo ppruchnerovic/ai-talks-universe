@@ -4,7 +4,7 @@ title: "USENIX Security '25 - EmbedX: Embedding-Based Cross-Trigger Backdoor Att
 slug: usenix-security-25-embedx-embedding-based-cross-trigger
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: gORZlaRLYPM
 url: https://www.youtube.com/watch?v=gORZlaRLYPM
 youtube_url: https://www.youtube.com/watch?v=gORZlaRLYPM
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

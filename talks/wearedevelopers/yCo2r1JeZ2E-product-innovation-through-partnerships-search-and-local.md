@@ -4,7 +4,7 @@ title: "Product Innovation through Partnerships - Search and Local Services"
 slug: product-innovation-through-partnerships-search-and-local
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Lindsey Kelt Zikry"]
@@ -15,6 +15,7 @@ video_id: yCo2r1JeZ2E
 url: https://www.youtube.com/watch?v=yCo2r1JeZ2E
 youtube_url: https://www.youtube.com/watch?v=yCo2r1JeZ2E
 tags: ["Strategy & Innovation", "AI Models", "Business Models", "Product Strategy", "Product Management"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Panel: Agentic AI Infrastructure & Platform"
 slug: panel-agentic-ai-infrastructure-platform
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: gVbLedPOnE0
 url: https://www.youtube.com/watch?v=gVbLedPOnE0
 youtube_url: https://www.youtube.com/watch?v=gVbLedPOnE0
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

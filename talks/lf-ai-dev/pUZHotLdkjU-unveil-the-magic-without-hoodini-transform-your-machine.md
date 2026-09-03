@@ -4,7 +4,7 @@ title: "Unveil the Magic Without Hoodini: Transform Your Machine Learning Pipeli
 slug: unveil-the-magic-without-hoodini-transform-your-machine
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: pUZHotLdkjU
 url: https://www.youtube.com/watch?v=pUZHotLdkjU
 youtube_url: https://www.youtube.com/watch?v=pUZHotLdkjU
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Develop Build and Deploy LLM Apps using GitHub Models and Azure AI Found
 slug: develop-build-and-deploy-llm-apps-using-github-models-and
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: HJEDoPRnZDA
 url: https://www.youtube.com/watch?v=HJEDoPRnZDA
 youtube_url: https://www.youtube.com/watch?v=HJEDoPRnZDA
 tags: []
+topics: []
 transcript: false
 ---
 

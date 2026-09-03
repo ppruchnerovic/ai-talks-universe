@@ -4,7 +4,7 @@ title: "Keynote: Not a Forecast: AI-Enabled Cyber, 12 Months On"
 slug: keynote-not-a-forecast-ai-enabled-cyber-12-months-on
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: fPODoqvx-3s
 url: https://www.youtube.com/watch?v=fPODoqvx-3s
 youtube_url: https://www.youtube.com/watch?v=fPODoqvx-3s
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training", "AI", "AI Cybersecurity", "Threat Intel", "Threat Intelligence", "Anthropic"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

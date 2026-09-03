@@ -4,7 +4,7 @@ title: "Impiger’s AI-first journey: Engineering enterprises for the AI | ODSP1
 slug: impigers-ai-first-journey-engineering-enterprises-for-the
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: o63_MuktA78
 url: https://www.youtube.com/watch?v=o63_MuktA78
 youtube_url: https://www.youtube.com/watch?v=o63_MuktA78
 tags: ["Copilot and agents at work", "English (US)", "Financial Services", "Impiger’s AI-first journey: Engineering enterprises for the AI | ODSP1516", "ODSP1516", "ODSP1516_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

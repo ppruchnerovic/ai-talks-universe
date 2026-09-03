@@ -4,7 +4,7 @@ title: "The Agent Awakens: Collaborative Development with GitHub Copilot | BRK11
 slug: the-agent-awakens-collaborative-development-with-github
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: TgwpK_ROhqo
 url: https://www.youtube.com/watch?v=TgwpK_ROhqo
 youtube_url: https://www.youtube.com/watch?v=TgwpK_ROhqo
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Google Home APIs, tools, and Gemini capabilities for your apps"
 slug: google-home-apis-tools-and-gemini-capabilities-for-your-apps
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: HZvb2t3ZBBg
 url: https://www.youtube.com/watch?v=HZvb2t3ZBBg
 youtube_url: https://www.youtube.com/watch?v=HZvb2t3ZBBg
 tags: []
+topics: []
 transcript: false
 ---
 

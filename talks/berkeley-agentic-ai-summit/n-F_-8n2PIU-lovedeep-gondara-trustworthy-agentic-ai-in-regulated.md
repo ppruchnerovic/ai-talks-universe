@@ -4,7 +4,7 @@ title: "Lovedeep Gondara - Trustworthy Agentic AI in Regulated Domains: Robustne
 slug: lovedeep-gondara-trustworthy-agentic-ai-in-regulated
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Lovedeep Gondara"]
@@ -15,6 +15,7 @@ video_id: n-F_-8n2PIU
 url: https://www.youtube.com/watch?v=n-F_-8n2PIU
 youtube_url: https://www.youtube.com/watch?v=n-F_-8n2PIU
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

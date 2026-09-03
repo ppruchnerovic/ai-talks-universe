@@ -4,7 +4,7 @@ title: "A Deep Dive into the dbt Manifest | Squarespace"
 slug: a-deep-dive-into-the-dbt-manifest-squarespace
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: cGgzHN6MG8E
 url: https://www.youtube.com/watch?v=cGgzHN6MG8E
 youtube_url: https://www.youtube.com/watch?v=cGgzHN6MG8E
 tags: ["Squarespace", "data engineering", "infrastructure", "dbt"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

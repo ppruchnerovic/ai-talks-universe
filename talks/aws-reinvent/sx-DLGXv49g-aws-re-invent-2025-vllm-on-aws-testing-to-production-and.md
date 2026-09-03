@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - vLLM on AWS: testing to production and everything i
 slug: aws-re-invent-2025-vllm-on-aws-testing-to-production-and
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: sx-DLGXv49g
 url: https://www.youtube.com/watch?v=sx-DLGXv49g
 youtube_url: https://www.youtube.com/watch?v=sx-DLGXv49g
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

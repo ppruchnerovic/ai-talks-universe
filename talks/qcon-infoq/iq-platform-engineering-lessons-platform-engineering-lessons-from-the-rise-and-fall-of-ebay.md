@@ -4,7 +4,7 @@ title: "Platform Engineering: Lessons from the Rise and Fall of eBay Velocity"
 slug: platform-engineering-lessons-from-the-rise-and-fall-of-ebay
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Randy Shoup"]
@@ -15,6 +15,7 @@ video_id: iq-platform-engineering-lessons
 url: https://www.infoq.com/presentations/platform-engineering-lessons/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

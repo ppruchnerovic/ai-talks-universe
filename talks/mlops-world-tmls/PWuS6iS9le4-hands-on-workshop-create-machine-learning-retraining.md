@@ -4,7 +4,7 @@ title: "Hands on Workshop: Create Machine Learning Retraining Pipelines"
 slug: hands-on-workshop-create-machine-learning-retraining
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: PWuS6iS9le4
 url: https://www.youtube.com/watch?v=PWuS6iS9le4
 youtube_url: https://www.youtube.com/watch?v=PWuS6iS9le4
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

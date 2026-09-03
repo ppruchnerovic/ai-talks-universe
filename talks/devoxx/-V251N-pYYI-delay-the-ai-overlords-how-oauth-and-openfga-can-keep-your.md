@@ -4,7 +4,7 @@ title: "Delay the AI Overlords: How OAuth and OpenFGA Can Keep Your AI Agents fr
 slug: delay-the-ai-overlords-how-oauth-and-openfga-can-keep-your
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Deepu Sa"]
@@ -15,6 +15,7 @@ video_id: -V251N-pYYI
 url: https://www.youtube.com/watch?v=-V251N-pYYI
 youtube_url: https://www.youtube.com/watch?v=-V251N-pYYI
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

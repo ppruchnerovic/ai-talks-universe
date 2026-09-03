@@ -4,7 +4,7 @@ title: "Build next-gen AI experiences with Google AI Studio and Google Antigravi
 slug: build-next-gen-ai-experiences-with-google-ai-studio-and
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Joana Carrasqueira", "Anshul Ramachandran"]
@@ -15,6 +15,7 @@ video_id: orudZzP8vUc
 url: https://www.youtube.com/watch?v=orudZzP8vUc
 youtube_url: https://www.youtube.com/watch?v=orudZzP8vUc
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - AI PA Keynote;", "ct:Stack - AI;"]
+topics: []
 transcript: true
 ---
 

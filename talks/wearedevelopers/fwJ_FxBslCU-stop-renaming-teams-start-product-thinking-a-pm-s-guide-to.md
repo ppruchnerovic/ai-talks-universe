@@ -4,7 +4,7 @@ title: "Stop Renaming Teams, Start Product Thinking: A PM's Guide to Platform-as
 slug: stop-renaming-teams-start-product-thinking-a-pm-s-guide-to
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Dominik Schmidle"]
@@ -15,6 +15,7 @@ video_id: fwJ_FxBslCU
 url: https://www.youtube.com/watch?v=fwJ_FxBslCU
 youtube_url: https://www.youtube.com/watch?v=fwJ_FxBslCU
 tags: ["DevOps", "DevOps", "Internal Platforms", "Product Management"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

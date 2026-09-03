@@ -4,7 +4,7 @@ title: "Layers of Abstraction — Where is the Value?: Stephen Balaban, Amr Awad
 slug: layers-of-abstraction-where-is-the-value-stephen-balaban
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2024
 speakers: ["Layers of Abstraction"]
@@ -15,6 +15,7 @@ video_id: 6XZYTzgECWI
 url: https://www.youtube.com/watch?v=6XZYTzgECWI
 youtube_url: https://www.youtube.com/watch?v=6XZYTzgECWI
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

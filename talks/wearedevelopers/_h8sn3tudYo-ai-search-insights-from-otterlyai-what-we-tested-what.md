@@ -4,7 +4,7 @@ title: "AI Search Insights from OtterlyAI: What We Tested, What Failed, and What
 slug: ai-search-insights-from-otterlyai-what-we-tested-what
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Klaus-M. Schremser"]
@@ -15,6 +15,7 @@ video_id: _h8sn3tudYo
 url: https://www.youtube.com/watch?v=_h8sn3tudYo
 youtube_url: https://www.youtube.com/watch?v=_h8sn3tudYo
 tags: ["AI Engineering", "AI Models", "Gemini", "OpenAI"]
+topics: []
 transcript: true
 ---
 

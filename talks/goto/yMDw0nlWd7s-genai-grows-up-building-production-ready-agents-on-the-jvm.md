@@ -4,7 +4,7 @@ title: "GenAI Grows Up: Building Production-Ready Agents on the JVM • Rod John
 slug: genai-grows-up-building-production-ready-agents-on-the-jvm
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Rod Johnson"]
@@ -15,6 +15,7 @@ video_id: yMDw0nlWd7s
 url: https://www.youtube.com/watch?v=yMDw0nlWd7s
 youtube_url: https://www.youtube.com/watch?v=yMDw0nlWd7s
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

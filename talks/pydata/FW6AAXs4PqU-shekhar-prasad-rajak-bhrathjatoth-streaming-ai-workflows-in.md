@@ -4,7 +4,7 @@ title: "Shekhar Prasad Rajak + bhrathjatoth - Streaming AI Workflows in Python -
 slug: shekhar-prasad-rajak-bhrathjatoth-streaming-ai-workflows-in
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: FW6AAXs4PqU
 url: https://www.youtube.com/watch?v=FW6AAXs4PqU
 youtube_url: https://www.youtube.com/watch?v=FW6AAXs4PqU
 tags: []
+topics: []
 transcript: false
 ---
 

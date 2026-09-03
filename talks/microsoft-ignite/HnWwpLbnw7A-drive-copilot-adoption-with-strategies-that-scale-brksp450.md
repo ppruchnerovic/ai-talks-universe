@@ -4,7 +4,7 @@ title: "Drive Copilot adoption with strategies that scale | BRKSP450"
 slug: drive-copilot-adoption-with-strategies-that-scale-brksp450
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Scott Fox"]
@@ -15,6 +15,7 @@ video_id: HnWwpLbnw7A
 url: https://www.youtube.com/watch?v=HnWwpLbnw7A
 youtube_url: https://www.youtube.com/watch?v=HnWwpLbnw7A
 tags: ["BRKSP450", "Brittan Trembley-Benton", "Copilot and agents at work", "Drive Copilot adoption with strategies that scale | BRKSP450", "English (US)", "Partner Business", "Scale with cloud and AI endpoints", "Scott Fox", "e66bd19c-5fa2-4c72-9719-b533f1c8fae2_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

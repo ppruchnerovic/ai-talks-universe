@@ -4,7 +4,7 @@ title: "Wayve's Dave Kirk: Why Agentic Code Review Needs Evals"
 slug: wayve-s-dave-kirk-why-agentic-code-review-needs-evals
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: qLVbCFGcABU
 url: https://www.youtube.com/watch?v=qLVbCFGcABU
 youtube_url: https://www.youtube.com/watch?v=qLVbCFGcABU
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

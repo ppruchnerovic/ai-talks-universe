@@ -4,7 +4,7 @@ title: "Keynote: Building AI with Open Source & Hugging Face - Jeff Boudier, Pro
 slug: keynote-building-ai-with-open-source-hugging-face-jeff
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Jeff Boudier"]
@@ -15,6 +15,7 @@ video_id: O7KbwmaK9Ck
 url: https://www.youtube.com/watch?v=O7KbwmaK9Ck
 youtube_url: https://www.youtube.com/watch?v=O7KbwmaK9Ck
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

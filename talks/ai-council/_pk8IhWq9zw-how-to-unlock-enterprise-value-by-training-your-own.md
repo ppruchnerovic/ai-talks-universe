@@ -4,7 +4,7 @@ title: "How to Unlock Enterprise Value by Training Your Own Language Models | Sn
 slug: how-to-unlock-enterprise-value-by-training-your-own
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: _pk8IhWq9zw
 url: https://www.youtube.com/watch?v=_pk8IhWq9zw
 youtube_url: https://www.youtube.com/watch?v=_pk8IhWq9zw
 tags: ["AI"]
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

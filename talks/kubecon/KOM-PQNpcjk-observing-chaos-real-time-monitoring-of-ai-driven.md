@@ -4,7 +4,7 @@ title: "Observing Chaos: Real-Time Monitoring of AI-Driven Kubernetes Destr... J
 slug: observing-chaos-real-time-monitoring-of-ai-driven
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: KOM-PQNpcjk
 url: https://www.youtube.com/watch?v=KOM-PQNpcjk
 youtube_url: https://www.youtube.com/watch?v=KOM-PQNpcjk
 tags: []
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

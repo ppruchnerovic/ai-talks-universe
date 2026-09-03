@@ -4,7 +4,7 @@ title: "Q&A | Brain - AI: The Dawn of True AI-Human Cognitive Symbiosis"
 slug: q-a-brain-ai-the-dawn-of-true-ai-human-cognitive-symbiosis
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: woBpQThsFQw
 url: https://www.youtube.com/watch?v=woBpQThsFQw
 youtube_url: https://www.youtube.com/watch?v=woBpQThsFQw
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: true
 ---
 

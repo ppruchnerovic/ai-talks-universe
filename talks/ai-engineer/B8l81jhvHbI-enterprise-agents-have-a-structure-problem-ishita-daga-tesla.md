@@ -4,7 +4,7 @@ title: "Enterprise Agents Have a Structure Problem - Ishita Daga, Tesla"
 slug: enterprise-agents-have-a-structure-problem-ishita-daga-tesla
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ishita Daga"]
@@ -15,6 +15,7 @@ video_id: B8l81jhvHbI
 url: https://www.youtube.com/watch?v=B8l81jhvHbI
 youtube_url: https://www.youtube.com/watch?v=B8l81jhvHbI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

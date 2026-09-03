@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Panel discussion: Breaking the Limits of AI Growth: fr
 slug: ai-dev-25-x-nyc-panel-discussion-breaking-the-limits-of-ai
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: e_CR4kN0XE4
 url: https://www.youtube.com/watch?v=e_CR4kN0XE4
 youtube_url: https://www.youtube.com/watch?v=e_CR4kN0XE4
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

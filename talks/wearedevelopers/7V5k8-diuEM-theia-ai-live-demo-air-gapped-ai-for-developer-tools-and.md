@@ -4,7 +4,7 @@ title: "Theia AI Live Demo: Air Gapped AI for Developer Tools and IDEs"
 slug: theia-ai-live-demo-air-gapped-ai-for-developer-tools-and
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Thomas Froment"]
@@ -15,6 +15,7 @@ video_id: 7V5k8-diuEM
 url: https://www.youtube.com/watch?v=7V5k8-diuEM
 youtube_url: https://www.youtube.com/watch?v=7V5k8-diuEM
 tags: ["Developer Experience", "AI Coding Assistants", "Agentic AI", "IDEs", "Open Source"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

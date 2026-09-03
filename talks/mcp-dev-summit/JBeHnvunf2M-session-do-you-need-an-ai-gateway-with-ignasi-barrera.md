@@ -4,7 +4,7 @@ title: "[Session] Do You Need an AI Gateway with Ignasi Barrera - Tetrate"
 slug: session-do-you-need-an-ai-gateway-with-ignasi-barrera
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: JBeHnvunf2M
 url: https://www.youtube.com/watch?v=JBeHnvunf2M
 youtube_url: https://www.youtube.com/watch?v=JBeHnvunf2M
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The weekly developer show: 11ty & a11y"
 slug: the-weekly-developer-show-11ty-a11y
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Z3zOcZyR0Vo
 url: https://www.youtube.com/watch?v=Z3zOcZyR0Vo
 youtube_url: https://www.youtube.com/watch?v=Z3zOcZyR0Vo
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: true
 ---
 

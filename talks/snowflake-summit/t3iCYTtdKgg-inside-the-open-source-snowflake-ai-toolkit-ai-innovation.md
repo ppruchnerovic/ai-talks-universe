@@ -4,7 +4,7 @@ title: "Inside The Open Source Snowflake AI Toolkit: AI Innovation In The Data C
 slug: inside-the-open-source-snowflake-ai-toolkit-ai-innovation
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: t3iCYTtdKgg
 url: https://www.youtube.com/watch?v=t3iCYTtdKgg
 youtube_url: https://www.youtube.com/watch?v=t3iCYTtdKgg
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

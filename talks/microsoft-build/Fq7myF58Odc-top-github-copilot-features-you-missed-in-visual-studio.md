@@ -4,7 +4,7 @@ title: "Top GitHub Copilot features you missed in Visual Studio 2022 | BRK120"
 slug: top-github-copilot-features-you-missed-in-visual-studio
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Fq7myF58Odc
 url: https://www.youtube.com/watch?v=Fq7myF58Odc
 youtube_url: https://www.youtube.com/watch?v=Fq7myF58Odc
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

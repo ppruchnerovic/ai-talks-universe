@@ -4,7 +4,7 @@ title: "How to Learn: Unlocking the Brain's Secrets • Barbara Oakley & Charles
 slug: how-to-learn-unlocking-the-brain-s-secrets-barbara-oakley
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Barbara Oakley"]
@@ -15,6 +15,7 @@ video_id: jsnCcdSkKkY
 url: https://www.youtube.com/watch?v=jsnCcdSkKkY
 youtube_url: https://www.youtube.com/watch?v=jsnCcdSkKkY
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

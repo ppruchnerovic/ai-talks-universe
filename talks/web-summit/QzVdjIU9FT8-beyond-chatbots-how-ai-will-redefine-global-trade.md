@@ -4,7 +4,7 @@ title: "Beyond chatbots: How AI will redefine global trade"
 slug: beyond-chatbots-how-ai-will-redefine-global-trade
 conference: web-summit
 conference_name: "Web Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Web Summit"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: QzVdjIU9FT8
 url: https://www.youtube.com/watch?v=QzVdjIU9FT8
 youtube_url: https://www.youtube.com/watch?v=QzVdjIU9FT8
 tags: []
+topics: []
 transcript: false
 ---
 

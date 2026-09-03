@@ -4,7 +4,7 @@ title: "Putting Resilient, Self-Recovering Agents in Production"
 slug: putting-resilient-self-recovering-agents-in-production
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: bg48_k8Q9Jc
 url: https://www.youtube.com/watch?v=bg48_k8Q9Jc
 youtube_url: https://www.youtube.com/watch?v=bg48_k8Q9Jc
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

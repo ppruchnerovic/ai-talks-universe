@@ -4,7 +4,7 @@ title: "Next Generation Process Emulation with Binee"
 slug: next-generation-process-emulation-with-binee
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []
@@ -15,6 +15,7 @@ video_id: s-1PbX9Rq2E
 url: https://www.youtube.com/watch?v=s-1PbX9Rq2E
 youtube_url: https://www.youtube.com/watch?v=s-1PbX9Rq2E
 tags: ["camlis", "camlis2019"]
+topics: []
 transcript: false
 ---
 

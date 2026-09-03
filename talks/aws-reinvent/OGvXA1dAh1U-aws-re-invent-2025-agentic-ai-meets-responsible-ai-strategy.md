@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Agentic AI Meets responsible AI: Strategy and best 
 slug: aws-re-invent-2025-agentic-ai-meets-responsible-ai-strategy
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: OGvXA1dAh1U
 url: https://www.youtube.com/watch?v=OGvXA1dAh1U
 youtube_url: https://www.youtube.com/watch?v=OGvXA1dAh1U
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

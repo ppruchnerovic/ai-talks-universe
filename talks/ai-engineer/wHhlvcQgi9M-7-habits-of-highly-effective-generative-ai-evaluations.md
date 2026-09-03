@@ -4,7 +4,7 @@ title: "7 Habits of Highly Effective Generative AI Evaluations - Justin Muller"
 slug: 7-habits-of-highly-effective-generative-ai-evaluations
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Justin Muller"]
@@ -15,6 +15,7 @@ video_id: wHhlvcQgi9M
 url: https://www.youtube.com/watch?v=wHhlvcQgi9M
 youtube_url: https://www.youtube.com/watch?v=wHhlvcQgi9M
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Chat with MLOps World: Engineering an LLM Application"
 slug: chat-with-mlops-world-engineering-an-llm-application
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ck7uBz88Q_w
 url: https://www.youtube.com/watch?v=Ck7uBz88Q_w
 youtube_url: https://www.youtube.com/watch?v=Ck7uBz88Q_w
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

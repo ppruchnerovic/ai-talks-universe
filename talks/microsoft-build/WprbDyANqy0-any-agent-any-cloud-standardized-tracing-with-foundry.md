@@ -4,7 +4,7 @@ title: "Any agent, any cloud: Standardized tracing with Foundry+OpenTelemetry | 
 slug: any-agent-any-cloud-standardized-tracing-with-foundry
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Hanchi Wang", "Nagkumar Arkalgud"]
@@ -15,6 +15,7 @@ video_id: WprbDyANqy0
 url: https://www.youtube.com/watch?v=WprbDyANqy0
 youtube_url: https://www.youtube.com/watch?v=WprbDyANqy0
 tags: [".NET", "Any agent any cloud: Standardized tracing with Foundry+OpenTelemetry | DEM341", "DEM341", "Hanchi Wang", "Microsoft Foundry", "Nagkumar Arkalgud", "Observability", "Open Telemetry", "Responsible AI", "Tracing", "build", "build 2026", "f1e85c0c-4927-4179-bf56-f6ec097af7dc_M9Z7-DEM341-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

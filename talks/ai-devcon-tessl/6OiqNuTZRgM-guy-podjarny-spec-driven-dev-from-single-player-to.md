@@ -4,7 +4,7 @@ title: "Guy Podjarny - Spec Driven Dev From Single Player to Multiplayer to Ecos
 slug: guy-podjarny-spec-driven-dev-from-single-player-to
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Guy Podjarny"]
@@ -15,6 +15,7 @@ video_id: 6OiqNuTZRgM
 url: https://www.youtube.com/watch?v=6OiqNuTZRgM
 youtube_url: https://www.youtube.com/watch?v=6OiqNuTZRgM
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

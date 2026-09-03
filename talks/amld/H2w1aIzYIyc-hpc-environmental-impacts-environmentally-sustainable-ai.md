@@ -4,7 +4,7 @@ title: "HPC environmental impacts | Environmentally Sustainable AI | Gilles Four
 slug: hpc-environmental-impacts-environmentally-sustainable-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Gilles Fourestey"]
@@ -15,6 +15,7 @@ video_id: H2w1aIzYIyc
 url: https://www.youtube.com/watch?v=H2w1aIzYIyc
 youtube_url: https://www.youtube.com/watch?v=H2w1aIzYIyc
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

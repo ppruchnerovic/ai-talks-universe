@@ -4,7 +4,7 @@ title: "The Future of Software Creation with Replit CEO Amjad Masad"
 slug: the-future-of-software-creation-with-replit-ceo-amjad-masad
 conference: yc-ai-startup-school
 conference_name: "Y Combinator AI Startup School"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Startup School 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: lWmDiDGsLK4
 url: https://www.youtube.com/watch?v=lWmDiDGsLK4
 youtube_url: https://www.youtube.com/watch?v=lWmDiDGsLK4
 tags: ["YC", "Y Combinator"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "LLMs, Meet Your Tools: The Magic of Model Context Protocol by Alex Shers
 slug: llms-meet-your-tools-the-magic-of-model-context-protocol-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Alex Shershebnev"]
@@ -15,6 +15,7 @@ video_id: 8inVNV8edTc
 url: https://www.youtube.com/watch?v=8inVNV8edTc
 youtube_url: https://www.youtube.com/watch?v=8inVNV8edTc
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

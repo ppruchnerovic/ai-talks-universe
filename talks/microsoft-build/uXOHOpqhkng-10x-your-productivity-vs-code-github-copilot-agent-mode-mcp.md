@@ -4,7 +4,7 @@ title: "10x Your Productivity: VS Code + GitHub Copilot Agent Mode & MCP | ODFP9
 slug: 10x-your-productivity-vs-code-github-copilot-agent-mode-mcp
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: uXOHOpqhkng
 url: https://www.youtube.com/watch?v=uXOHOpqhkng
 youtube_url: https://www.youtube.com/watch?v=uXOHOpqhkng
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

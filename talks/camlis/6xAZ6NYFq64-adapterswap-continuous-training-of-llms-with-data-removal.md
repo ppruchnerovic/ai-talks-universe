@@ -4,7 +4,7 @@ title: "AdapterSwap: Continuous Training of LLMs with Data Removal and Access-Co
 slug: adapterswap-continuous-training-of-llms-with-data-removal
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6xAZ6NYFq64
 url: https://www.youtube.com/watch?v=6xAZ6NYFq64
 youtube_url: https://www.youtube.com/watch?v=6xAZ6NYFq64
 tags: []
+topics: []
 transcript: false
 ---
 

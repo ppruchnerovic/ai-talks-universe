@@ -4,7 +4,7 @@ title: "Building AI Security In: MLSecOps in Practice"
 slug: building-ai-security-in-mlsecops-in-practice
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Diana Kelley"]
@@ -15,6 +15,7 @@ video_id: byWL54oyDgI
 url: https://www.youtube.com/watch?v=byWL54oyDgI
 youtube_url: https://www.youtube.com/watch?v=byWL54oyDgI
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Data engineering & MLOps", "Security, safety & red teaming"]
 transcript: false
 ---
 

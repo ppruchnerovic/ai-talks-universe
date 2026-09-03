@@ -4,7 +4,7 @@ title: "Arindam Sett - AIDaR: AI Data Readiness Evaluations Framework"
 slug: arindam-sett-aidar-ai-data-readiness-evaluations-framework
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Arindam Sett"]
@@ -15,6 +15,7 @@ video_id: KOPto5NdzEU
 url: https://www.youtube.com/watch?v=KOPto5NdzEU
 youtube_url: https://www.youtube.com/watch?v=KOPto5NdzEU
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

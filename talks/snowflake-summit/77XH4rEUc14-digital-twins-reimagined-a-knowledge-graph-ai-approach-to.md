@@ -4,7 +4,7 @@ title: "Digital Twins Reimagined: A Knowledge Graph AI Approach to Network Analy
 slug: digital-twins-reimagined-a-knowledge-graph-ai-approach-to
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 77XH4rEUc14
 url: https://www.youtube.com/watch?v=77XH4rEUc14
 youtube_url: https://www.youtube.com/watch?v=77XH4rEUc14
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

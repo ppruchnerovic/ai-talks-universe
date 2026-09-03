@@ -4,7 +4,7 @@ title: "Adam Bittlingmayer - Accelerating Human-Quality Translation in the Real 
 slug: adam-bittlingmayer-accelerating-human-quality-translation
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Adam Bittlingmayer"]
@@ -15,6 +15,7 @@ video_id: 5Wrs_jmbOD4
 url: https://www.youtube.com/watch?v=5Wrs_jmbOD4
 youtube_url: https://www.youtube.com/watch?v=5Wrs_jmbOD4
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: false
 ---
 

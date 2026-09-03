@@ -4,7 +4,7 @@ title: "How Much Energy Do Pruned LLMs Actually Save? – Pranav Reddy Danda | P
 slug: how-much-energy-do-pruned-llms-actually-save-pranav-reddy
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Pranav Reddy Danda"]
@@ -15,6 +15,7 @@ video_id: 3vh4UA4FOrU
 url: https://www.youtube.com/watch?v=3vh4UA4FOrU
 youtube_url: https://www.youtube.com/watch?v=3vh4UA4FOrU
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

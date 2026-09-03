@@ -4,7 +4,7 @@ title: "Beyond Benchmarks: Practical Evaluation Strategies for Compound AI Syste
 slug: beyond-benchmarks-practical-evaluation-strategies-for
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Iryna Kondrashchenko"]
@@ -15,6 +15,7 @@ video_id: UG4MpYvgloQ
 url: https://www.youtube.com/watch?v=UG4MpYvgloQ
 youtube_url: https://www.youtube.com/watch?v=UG4MpYvgloQ
 tags: ["AI engineering", "AI quality assurance", "AI testing", "Conference", "LLM evaluation", "LLM-as-a-judge", "MLOps", "PyConDE", "PyData", "Python", "RAG systems", "Tech Talk", "automated testing", "compound AI systems", "conference talk", "machine learning", "natural language processing", "practical AI", "production monitoring", "subject matter experts"]
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

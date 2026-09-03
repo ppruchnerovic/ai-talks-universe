@@ -4,7 +4,7 @@ title: "Concerto for Java & AI â€“ Building Production-Ready LLM Applications â€
 slug: concerto-for-java-ai-building-production-ready-llm
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Thomas Vitale"]
@@ -15,6 +15,7 @@ video_id: la4kc57F6jU
 url: https://www.youtube.com/watch?v=la4kc57F6jU
 youtube_url: https://www.youtube.com/watch?v=la4kc57F6jU
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Creating the Right Developer Community for Your Company | AWS"
 slug: creating-the-right-developer-community-for-your-company-aws
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: zCoBTPoCH8o
 url: https://www.youtube.com/watch?v=zCoBTPoCH8o
 youtube_url: https://www.youtube.com/watch?v=zCoBTPoCH8o
 tags: ["community", "developer platform", "developer community"]
+topics: []
 transcript: false
 ---
 

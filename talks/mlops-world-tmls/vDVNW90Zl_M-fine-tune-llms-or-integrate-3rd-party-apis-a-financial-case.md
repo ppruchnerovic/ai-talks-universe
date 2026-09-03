@@ -4,7 +4,7 @@ title: "Fine-Tune LLMs or Integrate 3rd party APIs? A Financial Case-Study"
 slug: fine-tune-llms-or-integrate-3rd-party-apis-a-financial-case
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: vDVNW90Zl_M
 url: https://www.youtube.com/watch?v=vDVNW90Zl_M
 youtube_url: https://www.youtube.com/watch?v=vDVNW90Zl_M
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

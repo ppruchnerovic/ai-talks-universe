@@ -4,7 +4,7 @@ title: "SkyRL tx: A unified training and inference engine | Ray Summit 2025"
 slug: skyrl-tx-a-unified-training-and-inference-engine-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _JLnESEu2gw
 url: https://www.youtube.com/watch?v=_JLnESEu2gw
 youtube_url: https://www.youtube.com/watch?v=_JLnESEu2gw
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

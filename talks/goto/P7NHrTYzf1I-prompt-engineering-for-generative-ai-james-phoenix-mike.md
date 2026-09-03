@@ -4,7 +4,7 @@ title: "Prompt Engineering for Generative AI • James Phoenix, Mike Taylor & Ph
 slug: prompt-engineering-for-generative-ai-james-phoenix-mike
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["James Phoenix"]
@@ -15,6 +15,7 @@ video_id: P7NHrTYzf1I
 url: https://www.youtube.com/watch?v=P7NHrTYzf1I
 youtube_url: https://www.youtube.com/watch?v=P7NHrTYzf1I
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Multimodal, vision, speech & robotics", "Prompting & context engineering"]
 transcript: false
 ---
 

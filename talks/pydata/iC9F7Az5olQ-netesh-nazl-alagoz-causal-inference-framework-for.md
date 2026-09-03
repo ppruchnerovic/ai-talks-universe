@@ -4,7 +4,7 @@ title: "Netesh & Nazlı Alagöz - Causal Inference Framework for incrementality
 slug: netesh-nazl-alagoz-causal-inference-framework-for
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: iC9F7Az5olQ
 url: https://www.youtube.com/watch?v=iC9F7Az5olQ
 youtube_url: https://www.youtube.com/watch?v=iC9F7Az5olQ
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

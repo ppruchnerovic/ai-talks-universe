@@ -4,7 +4,7 @@ title: "Black Hat Europe 2025 | Stress-Testing SAST And LLMs On Modern Web Backe
 slug: black-hat-europe-2025-stress-testing-sast-and-llms-on
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0v3pnoR8IyY
 url: https://www.youtube.com/watch?v=0v3pnoR8IyY
 youtube_url: https://www.youtube.com/watch?v=0v3pnoR8IyY
 tags: []
+topics: []
 transcript: false
 ---
 

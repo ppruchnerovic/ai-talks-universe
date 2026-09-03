@@ -4,7 +4,7 @@ title: "The integrated AI experience: A New Paradigm in an Agentic World"
 slug: the-integrated-ai-experience-a-new-paradigm-in-an-agentic
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Loredana Crisan", "Markus Rautert", "Stefan Ostwald", "Anna Heim"]
@@ -15,6 +15,7 @@ video_id: SPwDreFnmyA
 url: https://www.youtube.com/watch?v=SPwDreFnmyA
 youtube_url: https://www.youtube.com/watch?v=SPwDreFnmyA
 tags: ["Strategy & Innovation"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

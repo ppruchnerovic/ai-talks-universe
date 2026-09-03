@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Mission-Ready HPC: From NOAA Today to AI Tomorrow (
 slug: aws-re-invent-2025-mission-ready-hpc-from-noaa-today-to-ai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: zmWCkoi-Qlg
 url: https://www.youtube.com/watch?v=zmWCkoi-Qlg
 youtube_url: https://www.youtube.com/watch?v=zmWCkoi-Qlg
 tags: []
+topics: []
 transcript: false
 ---
 

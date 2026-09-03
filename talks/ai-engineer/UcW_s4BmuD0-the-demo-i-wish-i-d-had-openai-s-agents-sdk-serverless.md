@@ -4,7 +4,7 @@ title: "The Demo I Wish I'd Had: OpenAI's Agents SDK... serverless! - Brook Rigg
 slug: the-demo-i-wish-i-d-had-openai-s-agents-sdk-serverless
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Brook Riggio"]
@@ -15,6 +15,7 @@ video_id: UcW_s4BmuD0
 url: https://www.youtube.com/watch?v=UcW_s4BmuD0
 youtube_url: https://www.youtube.com/watch?v=UcW_s4BmuD0
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

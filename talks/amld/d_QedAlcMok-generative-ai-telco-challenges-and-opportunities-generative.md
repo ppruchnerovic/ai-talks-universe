@@ -4,7 +4,7 @@ title: "Generative AI & Telco: Challenges and Opportunities | Generative AI and 
 slug: generative-ai-telco-challenges-and-opportunities-generative
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Imen Grida Ben Yahia"]
@@ -15,6 +15,7 @@ video_id: d_QedAlcMok
 url: https://www.youtube.com/watch?v=d_QedAlcMok
 youtube_url: https://www.youtube.com/watch?v=d_QedAlcMok
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

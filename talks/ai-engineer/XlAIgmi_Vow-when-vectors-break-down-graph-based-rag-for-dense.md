@@ -4,7 +4,7 @@ title: "When Vectors Break Down: Graph-Based RAG for Dense Enterprise Knowledge 
 slug: when-vectors-break-down-graph-based-rag-for-dense
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Sam Julien"]
@@ -15,6 +15,7 @@ video_id: XlAIgmi_Vow
 url: https://www.youtube.com/watch?v=XlAIgmi_Vow
 youtube_url: https://www.youtube.com/watch?v=XlAIgmi_Vow
 tags: []
+topics: ["Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

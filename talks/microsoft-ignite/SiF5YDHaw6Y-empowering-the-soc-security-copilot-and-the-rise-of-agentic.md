@@ -4,7 +4,7 @@ title: "Empowering the SOC: Security Copilot and the Rise of Agentic Defense | B
 slug: empowering-the-soc-security-copilot-and-the-rise-of-agentic
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Cristina Da Gama", "Corina Feuerstein"]
@@ -15,6 +15,7 @@ video_id: SiF5YDHaw6Y
 url: https://www.youtube.com/watch?v=SiF5YDHaw6Y
 youtube_url: https://www.youtube.com/watch?v=SiF5YDHaw6Y
 tags: ["90c858a8-c467-4bc6-9e7f-33a328ed39f8_Segment", "BRK1731", "Corina Feuerstein", "Cristina Da Gama", "Empowering the SOC: Security Copilot and the Rise of Agentic Defense | BRK1731", "English (US)", "Modernize SecOps with a unified platform", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "MCP Tasks (async): Why Aren't Any Agents Supporting Them? — Cornelia D
 slug: mcp-tasks-async-why-aren-t-any-agents-supporting-them
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Cornelia Davis"]
@@ -15,6 +15,7 @@ video_id: s4r6nk5WsZw
 url: https://www.youtube.com/watch?v=s4r6nk5WsZw
 youtube_url: https://www.youtube.com/watch?v=s4r6nk5WsZw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AX is the only Experience that Matters - Ivan Burazin"
 slug: ax-is-the-only-experience-that-matters-ivan-burazin
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Ivan Burazin"]
@@ -15,6 +15,7 @@ video_id: KHPtrM-LU-U
 url: https://www.youtube.com/watch?v=KHPtrM-LU-U
 youtube_url: https://www.youtube.com/watch?v=KHPtrM-LU-U
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: false
 ---
 

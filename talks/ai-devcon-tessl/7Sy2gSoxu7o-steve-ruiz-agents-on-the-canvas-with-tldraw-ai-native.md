@@ -4,7 +4,7 @@ title: "Steve Ruiz - Agents on the canvas with tldraw - AI Native DevCon June 20
 slug: steve-ruiz-agents-on-the-canvas-with-tldraw-ai-native
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Steve Ruiz"]
@@ -15,6 +15,7 @@ video_id: 7Sy2gSoxu7o
 url: https://www.youtube.com/watch?v=7Sy2gSoxu7o
 youtube_url: https://www.youtube.com/watch?v=7Sy2gSoxu7o
 tags: ["AI DevCon London 2026 talks", "AI on digital canvases", "AI workflows", "Steve Ruiz on tldraw AI canvas", "ainativedev", "fairies.tldraw", "infinite canvas", "makereal", "real-time collaboration", "realtime drawing", "spatialized agents", "tldraw", "tldraw AI workflows", "vibe coding", "what is vibe coding"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

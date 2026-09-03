@@ -4,7 +4,7 @@ title: "Yu Su - Intelligence + Continual Learning = Expertise"
 slug: yu-su-intelligence-continual-learning-expertise
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Yu Su"]
@@ -15,6 +15,7 @@ video_id: VRWrA_KhHwU
 url: https://www.youtube.com/watch?v=VRWrA_KhHwU
 youtube_url: https://www.youtube.com/watch?v=VRWrA_KhHwU
 tags: []
+topics: []
 transcript: true
 ---
 

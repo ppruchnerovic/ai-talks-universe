@@ -4,7 +4,7 @@ title: "Goodbye Microservices, Hello Self-Contained Systems"
 slug: goodbye-microservices-hello-self-contained-systems
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Simon Martinelli"]
@@ -15,6 +15,7 @@ video_id: O4q-6vPHkg0
 url: https://www.youtube.com/watch?v=O4q-6vPHkg0
 youtube_url: https://www.youtube.com/watch?v=O4q-6vPHkg0
 tags: ["Software Architecture", "Microservices", "Software Architecture"]
+topics: []
 transcript: true
 ---
 

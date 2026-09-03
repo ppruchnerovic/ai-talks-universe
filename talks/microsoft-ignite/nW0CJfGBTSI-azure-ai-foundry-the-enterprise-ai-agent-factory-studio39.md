@@ -4,7 +4,7 @@ title: "Azure AI Foundry: The enterprise AI agent factory | STUDIO39"
 slug: azure-ai-foundry-the-enterprise-ai-agent-factory-studio39
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jay Parikh"]
@@ -15,6 +15,7 @@ video_id: nW0CJfGBTSI
 url: https://www.youtube.com/watch?v=nW0CJfGBTSI
 youtube_url: https://www.youtube.com/watch?v=nW0CJfGBTSI
 tags: ["Azure AI Foundry: The enterprise AI agent factory | STUDIO39", "English (US)", "Jay Parikh", "Other", "STUDIO39", "STUDIO39_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

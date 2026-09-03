@@ -4,7 +4,7 @@ title: "XAI for clinical use | Clinical AI | Enea Parimbelli"
 slug: xai-for-clinical-use-clinical-ai-enea-parimbelli
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Enea Parimbelli"]
@@ -15,6 +15,7 @@ video_id: ell_rWbuA7U
 url: https://www.youtube.com/watch?v=ell_rWbuA7U
 youtube_url: https://www.youtube.com/watch?v=ell_rWbuA7U
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

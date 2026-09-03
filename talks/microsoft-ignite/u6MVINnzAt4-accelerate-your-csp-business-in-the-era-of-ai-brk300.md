@@ -4,7 +4,7 @@ title: "Accelerate your CSP business in the era of AI | BRK300"
 slug: accelerate-your-csp-business-in-the-era-of-ai-brk300
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Marcelo Dichtchekenian", "Matt Goddard", "Sela Gu"]
@@ -15,6 +15,7 @@ video_id: u6MVINnzAt4
 url: https://www.youtube.com/watch?v=u6MVINnzAt4
 youtube_url: https://www.youtube.com/watch?v=u6MVINnzAt4
 tags: ["Accelerate your CSP business in the era of AI | BRK300", "BRK300", "Breakout", "English (US)", "Foundational (100)", "Marcelo Dichtchekenian", "Matt Goddard", "Modern Work", "Modern Work-Curated", "Partner Business", "Sela Gu", "Solution Area", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

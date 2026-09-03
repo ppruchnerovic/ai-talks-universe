@@ -4,7 +4,7 @@ title: "MLSecOps and Shift-left your security gears in Model Lifecycle"
 slug: mlsecops-and-shift-left-your-security-gears-in-model
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: zWJdvjJIO2w
 url: https://www.youtube.com/watch?v=zWJdvjJIO2w
 youtube_url: https://www.youtube.com/watch?v=zWJdvjJIO2w
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "MLSecOps and Shift-left your security gears in Model Lifecycle", "MLSecOps", "Model Lifecycle", "security gears in Model Lifecycle"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

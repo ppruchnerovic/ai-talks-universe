@@ -4,7 +4,7 @@ title: "Leonardo Ferreira - Create your Health Research Agent - PyData Boston 20
 slug: leonardo-ferreira-create-your-health-research-agent-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Leonardo Ferreira"]
@@ -15,6 +15,7 @@ video_id: nq4KhiWjRJc
 url: https://www.youtube.com/watch?v=nq4KhiWjRJc
 youtube_url: https://www.youtube.com/watch?v=nq4KhiWjRJc
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

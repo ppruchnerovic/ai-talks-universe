@@ -4,7 +4,7 @@ title: "Achieving Precision in AI: Retrieving the Right Data Using AI Agents"
 slug: achieving-precision-in-ai-retrieving-the-right-data-using
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Adi Polak"]
@@ -15,6 +15,7 @@ video_id: iq-ai-precision-rag-agents
 url: https://www.infoq.com/presentations/ai-precision-rag-agents/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Structured Concurrency in Practice: CoroutineScope vs StructuredTaskScop
 slug: structured-concurrency-in-practice-coroutinescope-vs
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Filip Egeric"]
@@ -15,6 +15,7 @@ video_id: o8t0JRkOuxE
 url: https://www.youtube.com/watch?v=o8t0JRkOuxE
 youtube_url: https://www.youtube.com/watch?v=o8t0JRkOuxE
 tags: ["Languages & Runtimes", "Concurrency", "Java", "Kotlin", "Spring Boot"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Building for the agentic web with .NET 11 | OD802"
 slug: building-for-the-agentic-web-with-net-11-od802
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Daniel Roth"]
@@ -15,6 +15,7 @@ video_id: z2ppHjPRTjQ
 url: https://www.youtube.com/watch?v=z2ppHjPRTjQ
 youtube_url: https://www.youtube.com/watch?v=z2ppHjPRTjQ
 tags: [".NET", "C#"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

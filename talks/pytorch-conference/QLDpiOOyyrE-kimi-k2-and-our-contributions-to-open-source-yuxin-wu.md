@@ -4,7 +4,7 @@ title: "Kimi K2 and Our Contributions to Open Source - Yuxin Wu, Moonshot AI"
 slug: kimi-k2-and-our-contributions-to-open-source-yuxin-wu
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Yuxin Wu"]
@@ -15,6 +15,7 @@ video_id: QLDpiOOyyrE
 url: https://www.youtube.com/watch?v=QLDpiOOyyrE
 youtube_url: https://www.youtube.com/watch?v=QLDpiOOyyrE
 tags: []
+topics: []
 transcript: false
 ---
 

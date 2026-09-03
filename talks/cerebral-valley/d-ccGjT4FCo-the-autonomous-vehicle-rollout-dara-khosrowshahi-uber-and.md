@@ -4,7 +4,7 @@ title: "The Autonomous Vehicle Rollout: Dara Khosrowshahi (Uber) and Alex Kendal
 slug: the-autonomous-vehicle-rollout-dara-khosrowshahi-uber-and
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: d-ccGjT4FCo
 url: https://www.youtube.com/watch?v=d-ccGjT4FCo
 youtube_url: https://www.youtube.com/watch?v=d-ccGjT4FCo
 tags: []
+topics: ["Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

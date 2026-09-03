@@ -4,7 +4,7 @@ title: "Etienne Dilocker, CTO, Weaviate: Large-Scale Vector Search in E-Commerce
 slug: etienne-dilocker-cto-weaviate-large-scale-vector-search-in
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Q3T_MqXHNqg
 url: https://www.youtube.com/watch?v=Q3T_MqXHNqg
 youtube_url: https://www.youtube.com/watch?v=Q3T_MqXHNqg
 tags: []
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

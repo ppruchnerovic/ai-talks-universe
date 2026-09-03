@@ -4,7 +4,7 @@ title: "Taming The Wild West Of LLMs, Nazneen Rajani, Research Lead, Hugging Fac
 slug: taming-the-wild-west-of-llms-nazneen-rajani-research-lead
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8XcRxDCzN7c
 url: https://www.youtube.com/watch?v=8XcRxDCzN7c
 youtube_url: https://www.youtube.com/watch?v=8XcRxDCzN7c
 tags: []
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

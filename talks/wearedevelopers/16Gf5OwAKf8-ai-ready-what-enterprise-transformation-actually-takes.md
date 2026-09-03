@@ -4,7 +4,7 @@ title: "AI-Ready? What Enterprise Transformation Actually Takes"
 slug: ai-ready-what-enterprise-transformation-actually-takes
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Florian Deter", "Mei Dent", "Oliver Krizek", "Stefan Lemke", "Uli Irnich"]
@@ -15,6 +15,7 @@ video_id: 16Gf5OwAKf8
 url: https://www.youtube.com/watch?v=16Gf5OwAKf8
 youtube_url: https://www.youtube.com/watch?v=16Gf5OwAKf8
 tags: ["Strategy & Innovation"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

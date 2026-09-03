@@ -4,7 +4,7 @@ title: "Building Resilient Event-Driven Microservices in Financial Systems with 
 slug: building-resilient-event-driven-microservices-in-financial
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: VrawSwkIIgU
 url: https://www.youtube.com/watch?v=VrawSwkIIgU
 youtube_url: https://www.youtube.com/watch?v=VrawSwkIIgU
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

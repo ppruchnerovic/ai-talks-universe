@@ -4,7 +4,7 @@ title: "Firenze: Model Evaluation Using Weak Signals (CAMLIS 2022)"
 slug: firenze-model-evaluation-using-weak-signals-camlis-2022
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
@@ -15,6 +15,7 @@ video_id: zz7bEUiX82Y
 url: https://www.youtube.com/watch?v=zz7bEUiX82Y
 youtube_url: https://www.youtube.com/watch?v=zz7bEUiX82Y
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

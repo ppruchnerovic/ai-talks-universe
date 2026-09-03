@@ -4,7 +4,7 @@ title: "WebAssembly on the JVM: Feature Evolution, Performance, and the Transiti
 slug: webassembly-on-the-jvm-feature-evolution-performance-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: eeLwraeAgO8
 url: https://www.youtube.com/watch?v=eeLwraeAgO8
 youtube_url: https://www.youtube.com/watch?v=eeLwraeAgO8
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

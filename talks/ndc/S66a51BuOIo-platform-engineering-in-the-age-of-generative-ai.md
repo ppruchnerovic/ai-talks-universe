@@ -4,7 +4,7 @@ title: "Platform Engineering in the age of Generative AI -"
 slug: platform-engineering-in-the-age-of-generative-ai
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: S66a51BuOIo
 url: https://www.youtube.com/watch?v=S66a51BuOIo
 youtube_url: https://www.youtube.com/watch?v=S66a51BuOIo
 tags: ["GenAI", "Architecture", "DevOps", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark"]
+topics: []
 transcript: true
 ---
 

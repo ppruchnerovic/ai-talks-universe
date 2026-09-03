@@ -4,7 +4,7 @@ title: "Theo van Kraay - Designing Semantic Memory for Multi-Agent Systems with 
 slug: theo-van-kraay-designing-semantic-memory-for-multi-agent
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Theo van Kraay"]
@@ -15,6 +15,7 @@ video_id: dgivCdGS6XU
 url: https://www.youtube.com/watch?v=dgivCdGS6XU
 youtube_url: https://www.youtube.com/watch?v=dgivCdGS6XU
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Building Secure Infrastructure for Productive AI Agents - Eric Paulsen &
 slug: building-secure-infrastructure-for-productive-ai-agents
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Eric Paulsen", "Jiachen Jiang"]
@@ -15,6 +15,7 @@ video_id: Y319gr4iBtI
 url: https://www.youtube.com/watch?v=Y319gr4iBtI
 youtube_url: https://www.youtube.com/watch?v=Y319gr4iBtI
 tags: ["AI", "Cloud", "Security", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "Great Britain", "United Kingdom", "UK", "Eric Paulsen"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

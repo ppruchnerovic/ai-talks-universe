@@ -4,7 +4,7 @@ title: "Faster Model Serving with Ray and Anyscale | Ray Summit 2024"
 slug: faster-model-serving-with-ray-and-anyscale-ray-summit-2024
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: LKUBwGTUDZE
 url: https://www.youtube.com/watch?v=LKUBwGTUDZE
 youtube_url: https://www.youtube.com/watch?v=LKUBwGTUDZE
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

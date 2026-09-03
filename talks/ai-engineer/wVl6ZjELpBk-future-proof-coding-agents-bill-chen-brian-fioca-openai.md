@@ -4,7 +4,7 @@ title: "Future-Proof Coding Agents – Bill Chen & Brian Fioca, OpenAI"
 slug: future-proof-coding-agents-bill-chen-brian-fioca-openai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Bill Chen", "Brian Fioca"]
@@ -15,6 +15,7 @@ video_id: wVl6ZjELpBk
 url: https://www.youtube.com/watch?v=wVl6ZjELpBk
 youtube_url: https://www.youtube.com/watch?v=wVl6ZjELpBk
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

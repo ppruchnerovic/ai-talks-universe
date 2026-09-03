@@ -4,7 +4,7 @@ title: "Changing Power Dynamics: What Senior Engineers Can Learn from Junior Eng
 slug: changing-power-dynamics-what-senior-engineers-can-learn
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Beth Anderson"]
@@ -15,6 +15,7 @@ video_id: iq-hierarchical-team
 url: https://www.infoq.com/presentations/hierarchical-team/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

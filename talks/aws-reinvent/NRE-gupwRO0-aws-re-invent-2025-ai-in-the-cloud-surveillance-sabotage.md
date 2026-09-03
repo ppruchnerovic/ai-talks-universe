@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - AI in the Cloud: Surveillance, Sabotage, and Securi
 slug: aws-re-invent-2025-ai-in-the-cloud-surveillance-sabotage
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: NRE-gupwRO0
 url: https://www.youtube.com/watch?v=NRE-gupwRO0
 youtube_url: https://www.youtube.com/watch?v=NRE-gupwRO0
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

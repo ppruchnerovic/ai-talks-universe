@@ -4,7 +4,7 @@ title: "​Partner acceleration in the EMEA for Small and Medium Businesses | PB
 slug: partner-acceleration-in-the-emea-for-small-and-medium
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sharon Schoenborn", "Ville Hemmilä", "Brendan Murphy", "Piotr Tomasz Paszczyk", "Bart van der Knaap"]
@@ -15,6 +15,7 @@ video_id: zZ_e9FllzCw
 url: https://www.youtube.com/watch?v=zZ_e9FllzCw
 youtube_url: https://www.youtube.com/watch?v=zZ_e9FllzCw
 tags: ["Microsoft AI Cloud Partner Program", "Modernize SecOps with a unified platform", "PBRK439", "Secure your data", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025", "​Partner acceleration in the EMEA for Small and Medium Businesses | PBRK439"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Reverse Engineering Using LLMs - Vutukuri Sreenivas, Stackup"
 slug: reverse-engineering-using-llms-vutukuri-sreenivas-stackup
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Vutukuri Sreenivas"]
@@ -15,6 +15,7 @@ video_id: w61lyzqhz7A
 url: https://www.youtube.com/watch?v=w61lyzqhz7A
 youtube_url: https://www.youtube.com/watch?v=w61lyzqhz7A
 tags: []
+topics: []
 transcript: false
 ---
 

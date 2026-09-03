@@ -4,7 +4,7 @@ title: "Beyond the Prompt: Evaluating, Testing, and Securing LLM Applications - 
 slug: beyond-the-prompt-evaluating-testing-and-securing-llm
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Mete Atamel"]
@@ -15,6 +15,7 @@ video_id: VP2OlIXVMa0
 url: https://www.youtube.com/watch?v=VP2OlIXVMa0
 youtube_url: https://www.youtube.com/watch?v=VP2OlIXVMa0
 tags: []
+topics: ["Evals, observability & reliability", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: false
 ---
 

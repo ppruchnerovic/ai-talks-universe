@@ -4,7 +4,7 @@ title: "Context Engineering: Connecting the Dots with Graphs — Stephen Chin, N
 slug: context-engineering-connecting-the-dots-with-graphs-stephen
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Stephen Chin"]
@@ -15,6 +15,7 @@ video_id: LLuKshphGOE
 url: https://www.youtube.com/watch?v=LLuKshphGOE
 youtube_url: https://www.youtube.com/watch?v=LLuKshphGOE
 tags: []
+topics: ["Governance, ethics & regulation", "Prompting & context engineering", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

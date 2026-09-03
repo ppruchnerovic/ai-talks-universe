@@ -4,7 +4,7 @@ title: "Bill Maxwell - Building with MCP: How Protocol Primitives Shape Dev Expe
 slug: bill-maxwell-building-with-mcp-how-protocol-primitives
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Bill Maxwell"]
@@ -15,6 +15,7 @@ video_id: 7llhZAqZ1Jc
 url: https://www.youtube.com/watch?v=7llhZAqZ1Jc
 youtube_url: https://www.youtube.com/watch?v=7llhZAqZ1Jc
 tags: ["ainativedev"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

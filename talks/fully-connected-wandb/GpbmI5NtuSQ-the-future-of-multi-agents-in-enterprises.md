@@ -4,7 +4,7 @@ title: "The future of multi-agents in enterprises"
 slug: the-future-of-multi-agents-in-enterprises
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: GpbmI5NtuSQ
 url: https://www.youtube.com/watch?v=GpbmI5NtuSQ
 youtube_url: https://www.youtube.com/watch?v=GpbmI5NtuSQ
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

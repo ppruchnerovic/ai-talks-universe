@@ -4,7 +4,7 @@ title: "Are LLMs good software engineers? - Anthony Shaw - NDC Sydney 2026"
 slug: are-llms-good-software-engineers-anthony-shaw-ndc-sydney
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Anthony Shaw"]
@@ -15,6 +15,7 @@ video_id: 3wQdfYFhxmE
 url: https://www.youtube.com/watch?v=3wQdfYFhxmE
 youtube_url: https://www.youtube.com/watch?v=3wQdfYFhxmE
 tags: ["Anthony Shaw", "AI", "Programming Languages", "LLM", "Code", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia"]
+topics: []
 transcript: true
 ---
 

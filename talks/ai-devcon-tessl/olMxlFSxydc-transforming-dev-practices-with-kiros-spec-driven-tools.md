@@ -4,7 +4,7 @@ title: "Transforming Dev Practices with Kiro’s Spec-Driven Tools | Nikhil and 
 slug: transforming-dev-practices-with-kiros-spec-driven-tools
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: olMxlFSxydc
 url: https://www.youtube.com/watch?v=olMxlFSxydc
 youtube_url: https://www.youtube.com/watch?v=olMxlFSxydc
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

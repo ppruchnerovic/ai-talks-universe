@@ -4,7 +4,7 @@ title: "The Sound of Privacy – What Your Spotify Data Reveals About You"
 slug: the-sound-of-privacy-what-your-spotify-data-reveals-about
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Dennis Schulz", "Thomas Hugle"]
@@ -15,6 +15,7 @@ video_id: Aux35J3Sz4c
 url: https://www.youtube.com/watch?v=Aux35J3Sz4c
 youtube_url: https://www.youtube.com/watch?v=Aux35J3Sz4c
 tags: ["Security & Privacy", "Data Science", "Privacy"]
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

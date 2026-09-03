@@ -4,7 +4,7 @@ title: "Building fun and creative messaging experiences on WhatsApp - Michelle �
 slug: building-fun-and-creative-messaging-experiences-on-whatsapp
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: q26-3exWpso
 url: https://www.youtube.com/watch?v=q26-3exWpso
 youtube_url: https://www.youtube.com/watch?v=q26-3exWpso
 tags: ["AI", "Machine Learning", "Tools", "API", "Whatsapp", "Twilio", "OpenAI", "NDC", "Conferences", "2026", "Live", "Fun", "Australia", "Norway", "Michelle “MishManners” Duke"]
+topics: []
 transcript: true
 ---
 

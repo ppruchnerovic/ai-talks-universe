@@ -4,7 +4,7 @@ title: "Large Scale Distributed LLM Inference with LLM D and Kubernetes by Abdel
 slug: large-scale-distributed-llm-inference-with-llm-d-and
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Abdel Sghiouar"]
@@ -15,6 +15,7 @@ video_id: ZcpD1M0Wa8Q
 url: https://www.youtube.com/watch?v=ZcpD1M0Wa8Q
 youtube_url: https://www.youtube.com/watch?v=ZcpD1M0Wa8Q
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

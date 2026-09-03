@@ -4,7 +4,7 @@ title: "What Is It Like to Be an LLM? - Matt Butcher, Fermyon"
 slug: what-is-it-like-to-be-an-llm-matt-butcher-fermyon
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Matt Butcher"]
@@ -15,6 +15,7 @@ video_id: jIa3WxsU7bo
 url: https://www.youtube.com/watch?v=jIa3WxsU7bo
 youtube_url: https://www.youtube.com/watch?v=jIa3WxsU7bo
 tags: []
+topics: []
 transcript: false
 ---
 

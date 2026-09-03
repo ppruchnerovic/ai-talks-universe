@@ -4,7 +4,7 @@ title: "Object-Oriented UX (OOUX) with Sophia Prater"
 slug: object-oriented-ux-ooux-with-sophia-prater
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1ENrrTuN-jI
 url: https://www.youtube.com/watch?v=1ENrrTuN-jI
 youtube_url: https://www.youtube.com/watch?v=1ENrrTuN-jI
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

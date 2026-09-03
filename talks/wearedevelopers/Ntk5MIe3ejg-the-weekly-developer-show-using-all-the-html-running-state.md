@@ -4,7 +4,7 @@ title: "The weekly developer show: Using all the HTML, Running State of the Brow
 slug: the-weekly-developer-show-using-all-the-html-running-state
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ntk5MIe3ejg
 url: https://www.youtube.com/watch?v=Ntk5MIe3ejg
 youtube_url: https://www.youtube.com/watch?v=Ntk5MIe3ejg
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: false
 ---
 

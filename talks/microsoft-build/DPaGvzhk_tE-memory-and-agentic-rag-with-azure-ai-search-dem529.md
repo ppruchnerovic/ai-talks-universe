@@ -4,7 +4,7 @@ title: "Memory and agentic RAG with Azure AI Search | DEM529"
 slug: memory-and-agentic-rag-with-azure-ai-search-dem529
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: DPaGvzhk_tE
 url: https://www.youtube.com/watch?v=DPaGvzhk_tE
 youtube_url: https://www.youtube.com/watch?v=DPaGvzhk_tE
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

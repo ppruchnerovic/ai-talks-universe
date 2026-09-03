@@ -4,7 +4,7 @@ title: "Building Tool-Calling Agents With Databricks Agent Framework and MCP"
 slug: building-tool-calling-agents-with-databricks-agent
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0X6kJzX-CgA
 url: https://www.youtube.com/watch?v=0X6kJzX-CgA
 youtube_url: https://www.youtube.com/watch?v=0X6kJzX-CgA
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: false
 ---
 

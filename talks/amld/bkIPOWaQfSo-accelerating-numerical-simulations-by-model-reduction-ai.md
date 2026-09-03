@@ -4,7 +4,7 @@ title: "Accelerating Numerical Simulations by Model Reduction | AI & Physics | C
 slug: accelerating-numerical-simulations-by-model-reduction-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Christopher L. Buckley"]
@@ -15,6 +15,7 @@ video_id: bkIPOWaQfSo
 url: https://www.youtube.com/watch?v=bkIPOWaQfSo
 youtube_url: https://www.youtube.com/watch?v=bkIPOWaQfSo
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

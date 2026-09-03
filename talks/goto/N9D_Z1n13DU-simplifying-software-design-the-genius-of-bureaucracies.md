@@ -4,7 +4,7 @@ title: "Simplifying Software Design: The Genius of Bureaucracies • Alistair Co
 slug: simplifying-software-design-the-genius-of-bureaucracies
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Alistair Cockburn"]
@@ -15,6 +15,7 @@ video_id: N9D_Z1n13DU
 url: https://www.youtube.com/watch?v=N9D_Z1n13DU
 youtube_url: https://www.youtube.com/watch?v=N9D_Z1n13DU
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTOchgo", "GOTO Chicago", "Alistair Cockburn", "Software Design", "Simplifying Software Design", "Software Architecture", "Bureaucracy", "Not-My-Job", "Developer Productivity", "DDD", "Domain-driven Design"]
+topics: []
 transcript: false
 ---
 

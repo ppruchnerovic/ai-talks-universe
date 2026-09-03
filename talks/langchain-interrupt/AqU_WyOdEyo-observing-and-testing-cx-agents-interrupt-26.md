@@ -4,7 +4,7 @@ title: "Observing And Testing CX Agents | Interrupt 26"
 slug: observing-and-testing-cx-agents-interrupt-26
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: AqU_WyOdEyo
 url: https://www.youtube.com/watch?v=AqU_WyOdEyo
 youtube_url: https://www.youtube.com/watch?v=AqU_WyOdEyo
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

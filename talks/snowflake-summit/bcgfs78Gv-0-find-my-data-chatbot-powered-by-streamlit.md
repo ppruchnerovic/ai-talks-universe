@@ -4,7 +4,7 @@ title: "Find My Data: Chatbot Powered By Streamlit"
 slug: find-my-data-chatbot-powered-by-streamlit
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: bcgfs78Gv-0
 url: https://www.youtube.com/watch?v=bcgfs78Gv-0
 youtube_url: https://www.youtube.com/watch?v=bcgfs78Gv-0
 tags: []
+topics: []
 transcript: false
 ---
 

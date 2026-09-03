@@ -4,7 +4,7 @@ title: "fighting slop with slop — Vaibhav Gupta, Boundary"
 slug: fighting-slop-with-slop-vaibhav-gupta-boundary
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vaibhav Gupta"]
@@ -15,6 +15,7 @@ video_id: AMiyLItEtLA
 url: https://www.youtube.com/watch?v=AMiyLItEtLA
 youtube_url: https://www.youtube.com/watch?v=AMiyLItEtLA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

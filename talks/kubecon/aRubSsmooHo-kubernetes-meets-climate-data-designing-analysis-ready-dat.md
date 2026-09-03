@@ -4,7 +4,7 @@ title: "Kubernetes Meets Climate Data: Designing Analysis-Ready Dat... Armagan K
 slug: kubernetes-meets-climate-data-designing-analysis-ready-dat
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: aRubSsmooHo
 url: https://www.youtube.com/watch?v=aRubSsmooHo
 youtube_url: https://www.youtube.com/watch?v=aRubSsmooHo
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

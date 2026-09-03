@@ -4,7 +4,7 @@ title: "Turn IT operational efficiency into competitive advantage | BRKSP465"
 slug: turn-it-operational-efficiency-into-competitive-advantage
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Philip Alfano", "Bill Primerano"]
@@ -15,6 +15,7 @@ video_id: nJk-O5DQzkI
 url: https://www.youtube.com/watch?v=nJk-O5DQzkI
 youtube_url: https://www.youtube.com/watch?v=nJk-O5DQzkI
 tags: ["66f7d3bb-36f4-461e-a3ce-4d2470980f2e_Segment", "BRKSP465", "Bill Primerano", "English (US)", "Migrate and modernize your estate", "Philip Alfano", "Technical", "Telecommunications", "Turn IT operational efficiency into competitive advantage | BRKSP465", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

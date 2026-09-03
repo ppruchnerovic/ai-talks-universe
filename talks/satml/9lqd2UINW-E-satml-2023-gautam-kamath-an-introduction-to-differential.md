@@ -4,7 +4,7 @@ title: "SaTML 2023 - Gautam Kamath - An Introduction to Differential Privacy"
 slug: satml-2023-gautam-kamath-an-introduction-to-differential
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Gautam Kamath"]
@@ -15,6 +15,7 @@ video_id: 9lqd2UINW-E
 url: https://www.youtube.com/watch?v=9lqd2UINW-E
 youtube_url: https://www.youtube.com/watch?v=9lqd2UINW-E
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

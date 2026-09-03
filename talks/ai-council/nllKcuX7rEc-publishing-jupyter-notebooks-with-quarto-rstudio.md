@@ -4,7 +4,7 @@ title: "Publishing Jupyter Notebooks with Quarto | RStudio"
 slug: publishing-jupyter-notebooks-with-quarto-rstudio
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: nllKcuX7rEc
 url: https://www.youtube.com/watch?v=nllKcuX7rEc
 youtube_url: https://www.youtube.com/watch?v=nllKcuX7rEc
 tags: ["open source", "data science", "Quarto", "Jupyter", "data science notebooks"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

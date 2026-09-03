@@ -4,7 +4,7 @@ title: "Observe and control agents across any framework with open source tools |
 slug: observe-and-control-agents-across-any-framework-with-open
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Sarah Bird", "Sandeep Atluri", "Mehrnoosh Sameki"]
@@ -15,6 +15,7 @@ video_id: k93337cRR2E
 url: https://www.youtube.com/watch?v=k93337cRR2E
 youtube_url: https://www.youtube.com/watch?v=k93337cRR2E
 tags: ["Agents", "BRK250", "Mehrnoosh Sameki", "Microsoft Foundry", "Observability", "Observe and control agents across any framework with open source tools | BRK250", "Responsible AI", "Sandeep Atluri", "Sarah Bird", "Security", "b919f3dd-95e5-41c4-9ea5-7604e8d87df8_M9Z7-BRK250-1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

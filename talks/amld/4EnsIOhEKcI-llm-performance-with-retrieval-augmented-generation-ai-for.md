@@ -4,7 +4,7 @@ title: "LLM performance with Retrieval-Augmented-Generation | AI for Energy Util
 slug: llm-performance-with-retrieval-augmented-generation-ai-for
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Max Zurkinden"]
@@ -15,6 +15,7 @@ video_id: 4EnsIOhEKcI
 url: https://www.youtube.com/watch?v=4EnsIOhEKcI
 youtube_url: https://www.youtube.com/watch?v=4EnsIOhEKcI
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

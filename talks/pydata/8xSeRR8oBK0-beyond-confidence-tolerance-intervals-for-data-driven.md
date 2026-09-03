@@ -4,7 +4,7 @@ title: "Beyond Confidence: Tolerance Intervals for Data-Driven Change Decisions"
 slug: beyond-confidence-tolerance-intervals-for-data-driven
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8xSeRR8oBK0
 url: https://www.youtube.com/watch?v=8xSeRR8oBK0
 youtube_url: https://www.youtube.com/watch?v=8xSeRR8oBK0
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

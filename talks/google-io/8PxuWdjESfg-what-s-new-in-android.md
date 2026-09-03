@@ -4,7 +4,7 @@ title: "What's new in Android"
 slug: what-s-new-in-android
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Nick Butcher", "Ash Nohe", "Daniel Galpin"]
@@ -15,6 +15,7 @@ video_id: 8PxuWdjESfg
 url: https://www.youtube.com/watch?v=8PxuWdjESfg
 youtube_url: https://www.youtube.com/watch?v=8PxuWdjESfg
 tags: ["Android", "pr_pr: Google I/O;", "ct:Event - Android PA Keynote;", "ct:Stack - Android;"]
+topics: []
 transcript: true
 ---
 

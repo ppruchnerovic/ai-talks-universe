@@ -4,7 +4,7 @@ title: "The Many Ends of Programming - Ray Myers"
 slug: the-many-ends-of-programming-ray-myers
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ray Myers"]
@@ -15,6 +15,7 @@ video_id: 5s6Q-y42ZZA
 url: https://www.youtube.com/watch?v=5s6Q-y42ZZA
 youtube_url: https://www.youtube.com/watch?v=5s6Q-y42ZZA
 tags: []
+topics: []
 transcript: false
 ---
 

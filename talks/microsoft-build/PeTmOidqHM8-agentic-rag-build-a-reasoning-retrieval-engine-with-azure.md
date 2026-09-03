@@ -4,7 +4,7 @@ title: "Agentic RAG: build a reasoning retrieval engine with Azure AI Search | B
 slug: agentic-rag-build-a-reasoning-retrieval-engine-with-azure
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: PeTmOidqHM8
 url: https://www.youtube.com/watch?v=PeTmOidqHM8
 youtube_url: https://www.youtube.com/watch?v=PeTmOidqHM8
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

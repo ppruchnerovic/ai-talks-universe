@@ -4,7 +4,7 @@ title: "Agentic Field Service Management | Agentforce Field Service Keynote, Dre
 slug: agentic-field-service-management-agentforce-field-service
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: ["Agentic Field Service Management"]
@@ -15,6 +15,7 @@ video_id: y1lg9rwTQgk
 url: https://www.youtube.com/watch?v=y1lg9rwTQgk
 youtube_url: https://www.youtube.com/watch?v=y1lg9rwTQgk
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

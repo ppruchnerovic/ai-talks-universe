@@ -4,7 +4,7 @@ title: "Giambattista Parascandolo - When Language Models Learned to Reason"
 slug: giambattista-parascandolo-when-language-models-learned-to
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Giambattista Parascandolo"]
@@ -15,6 +15,7 @@ video_id: mSgjbojpDzQ
 url: https://www.youtube.com/watch?v=mSgjbojpDzQ
 youtube_url: https://www.youtube.com/watch?v=mSgjbojpDzQ
 tags: []
+topics: []
 transcript: true
 ---
 

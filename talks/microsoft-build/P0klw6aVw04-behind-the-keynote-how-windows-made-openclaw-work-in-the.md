@@ -4,7 +4,7 @@ title: "Behind the Keynote: How Windows Made OpenClaw Work in the Keynote Demo |
 slug: behind-the-keynote-how-windows-made-openclaw-work-in-the
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Scott Hanselman", "Monica Cisneros"]
@@ -15,6 +15,7 @@ video_id: P0klw6aVw04
 url: https://www.youtube.com/watch?v=P0klw6aVw04
 youtube_url: https://www.youtube.com/watch?v=P0klw6aVw04
 tags: ["Behind the Keynote: How Windows Made OpenClaw Work in the Keynote Demo | LIVE144", "LIVE144", "LIVE144_v1", "Monica Cisneros", "Scott Hanselman", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

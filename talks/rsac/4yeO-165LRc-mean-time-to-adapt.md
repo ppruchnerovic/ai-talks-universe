@@ -4,7 +4,7 @@ title: "Mean Time to Adapt"
 slug: mean-time-to-adapt
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4yeO-165LRc
 url: https://www.youtube.com/watch?v=4yeO-165LRc
 youtube_url: https://www.youtube.com/watch?v=4yeO-165LRc
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

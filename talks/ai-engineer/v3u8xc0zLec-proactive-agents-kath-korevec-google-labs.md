@@ -4,7 +4,7 @@ title: "Proactive Agents – Kath Korevec, Google Labs"
 slug: proactive-agents-kath-korevec-google-labs
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kath Korevec"]
@@ -15,6 +15,7 @@ video_id: v3u8xc0zLec
 url: https://www.youtube.com/watch?v=v3u8xc0zLec
 youtube_url: https://www.youtube.com/watch?v=v3u8xc0zLec
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

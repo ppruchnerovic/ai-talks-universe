@@ -4,7 +4,7 @@ title: "GenAI Observability: Keeping GenAI Honest Without Oversharing - Liudmila
 slug: genai-observability-keeping-genai-honest-without
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Liudmila Molkova"]
@@ -15,6 +15,7 @@ video_id: Q4E9GDAslIk
 url: https://www.youtube.com/watch?v=Q4E9GDAslIk
 youtube_url: https://www.youtube.com/watch?v=Q4E9GDAslIk
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

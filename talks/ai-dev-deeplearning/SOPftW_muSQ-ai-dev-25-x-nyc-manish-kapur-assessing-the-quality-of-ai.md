@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Manish Kapur: Assessing the Quality of AI Generated Co
 slug: ai-dev-25-x-nyc-manish-kapur-assessing-the-quality-of-ai
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: SOPftW_muSQ
 url: https://www.youtube.com/watch?v=SOPftW_muSQ
 youtube_url: https://www.youtube.com/watch?v=SOPftW_muSQ
 tags: []
+topics: []
 transcript: false
 ---
 

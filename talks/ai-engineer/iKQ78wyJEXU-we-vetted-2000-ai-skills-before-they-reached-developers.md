@@ -4,7 +4,7 @@ title: "We Vetted 2000 AI Skills Before They Reached Developers — Lucas Palma,
 slug: we-vetted-2000-ai-skills-before-they-reached-developers
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Lucas Palma"]
@@ -15,6 +15,7 @@ video_id: iKQ78wyJEXU
 url: https://www.youtube.com/watch?v=iKQ78wyJEXU
 youtube_url: https://www.youtube.com/watch?v=iKQ78wyJEXU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

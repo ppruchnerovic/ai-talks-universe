@@ -4,7 +4,7 @@ title: "Kill Bill-ing? Revenge is a Dish Best Served Optimized with GenAI"
 slug: kill-bill-ing-revenge-is-a-dish-best-served-optimized-with
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: I1QQ843TLWY
 url: https://www.youtube.com/watch?v=I1QQ843TLWY
 youtube_url: https://www.youtube.com/watch?v=I1QQ843TLWY
 tags: []
+topics: []
 transcript: false
 ---
 

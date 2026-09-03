@@ -4,7 +4,7 @@ title: "Building the Simplest Possible Linux System - Rob Landley, Hobbyist"
 slug: building-the-simplest-possible-linux-system-rob-landley
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Rob Landley"]
@@ -15,6 +15,7 @@ video_id: vM_Gbx-c2Qs
 url: https://www.youtube.com/watch?v=vM_Gbx-c2Qs
 youtube_url: https://www.youtube.com/watch?v=vM_Gbx-c2Qs
 tags: []
+topics: []
 transcript: true
 ---
 

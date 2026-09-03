@@ -4,7 +4,7 @@ title: "Building and Scaling Production AI Systems With Mosaic AI"
 slug: building-and-scaling-production-ai-systems-with-mosaic-ai
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9C-iZqa3ORc
 url: https://www.youtube.com/watch?v=9C-iZqa3ORc
 youtube_url: https://www.youtube.com/watch?v=9C-iZqa3ORc
 tags: []
+topics: []
 transcript: false
 ---
 

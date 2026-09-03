@@ -4,7 +4,7 @@ title: "The Room of Requirements for Developers: Scaling AI Magic with Internal 
 slug: the-room-of-requirements-for-developers-scaling-ai-magic
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Maarten Vandeperre"]
@@ -15,6 +15,7 @@ video_id: zzyYPuMaMGc
 url: https://www.youtube.com/watch?v=zzyYPuMaMGc
 youtube_url: https://www.youtube.com/watch?v=zzyYPuMaMGc
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Evaluation Engineering: Iterative Strategies to Testing Prompts"
 slug: evaluation-engineering-iterative-strategies-to-testing
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Jared Zoneraich"]
@@ -15,6 +15,7 @@ video_id: QiNY6TQvLGA
 url: https://www.youtube.com/watch?v=QiNY6TQvLGA
 youtube_url: https://www.youtube.com/watch?v=QiNY6TQvLGA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Evals, observability & reliability", "Prompting & context engineering"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "GenAI and Datacomp: Creating the Largest Public Multimodal Dataset in Ac
 slug: genai-and-datacomp-creating-the-largest-public-multimodal
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Alex Dimakis"]
@@ -15,6 +15,7 @@ video_id: ba-aqPF6xuw
 url: https://www.youtube.com/watch?v=ba-aqPF6xuw
 youtube_url: https://www.youtube.com/watch?v=ba-aqPF6xuw
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

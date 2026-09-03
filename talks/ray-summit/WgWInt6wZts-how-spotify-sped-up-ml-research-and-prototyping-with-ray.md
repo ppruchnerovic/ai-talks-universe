@@ -4,7 +4,7 @@ title: "How Spotify sped up ML research and prototyping with Ray"
 slug: how-spotify-sped-up-ml-research-and-prototyping-with-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: WgWInt6wZts
 url: https://www.youtube.com/watch?v=WgWInt6wZts
 youtube_url: https://www.youtube.com/watch?v=WgWInt6wZts
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

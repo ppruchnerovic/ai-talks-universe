@@ -4,7 +4,7 @@ title: "Cloud Native Theater | EnvoyCon: The Future of AI Traffic: What's New in
 slug: cloud-native-theater-envoycon-the-future-of-ai-traffic-what
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7OkSrMBirmc
 url: https://www.youtube.com/watch?v=7OkSrMBirmc
 youtube_url: https://www.youtube.com/watch?v=7OkSrMBirmc
 tags: []
+topics: []
 transcript: true
 ---
 

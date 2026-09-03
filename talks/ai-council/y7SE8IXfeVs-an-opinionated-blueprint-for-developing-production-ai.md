@@ -4,7 +4,7 @@ title: "An Opinionated Blueprint for Developing Production AI Applications"
 slug: an-opinionated-blueprint-for-developing-production-ai
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Samuel Colvin"]
@@ -15,6 +15,7 @@ video_id: y7SE8IXfeVs
 url: https://www.youtube.com/watch?v=y7SE8IXfeVs
 youtube_url: https://www.youtube.com/watch?v=y7SE8IXfeVs
 tags: ["OpenTelemetry", "ChatGPT", "artificial intelligence", "machine learning", "AI development", "production AI", "Python", "observability", "MLOps", "AI monitoring", "AI engineering", "agent framework", "distributed tracing", "performance monitoring", "application monitoring", "microservices observability", "telemetry data", "metrics collection", "logging", "tracing", "debugging", "troubleshooting", "system reliability", "performance optimization"]
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

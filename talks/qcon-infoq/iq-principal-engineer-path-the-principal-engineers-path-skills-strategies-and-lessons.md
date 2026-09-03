@@ -4,7 +4,7 @@ title: "The Principal Engineer’s Path: Skills, Strategies, and Lessons Learned
 slug: the-principal-engineers-path-skills-strategies-and-lessons
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Sophie Weston"]
@@ -15,6 +15,7 @@ video_id: iq-principal-engineer-path
 url: https://www.infoq.com/presentations/principal-engineer-path/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

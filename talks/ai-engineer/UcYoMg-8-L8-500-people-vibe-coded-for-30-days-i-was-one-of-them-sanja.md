@@ -4,7 +4,7 @@ title: "500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Aut
 slug: 500-people-vibe-coded-for-30-days-i-was-one-of-them-sanja
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sanja Grbic"]
@@ -15,6 +15,7 @@ video_id: UcYoMg-8-L8
 url: https://www.youtube.com/watch?v=UcYoMg-8-L8
 youtube_url: https://www.youtube.com/watch?v=UcYoMg-8-L8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Workshop: Block: Vibe Coding with Goose Building Apps with AI Agents and
 slug: workshop-block-vibe-coding-with-goose-building-apps-with-ai
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: NtAyOP-zlvo
 url: https://www.youtube.com/watch?v=NtAyOP-zlvo
 youtube_url: https://www.youtube.com/watch?v=NtAyOP-zlvo
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

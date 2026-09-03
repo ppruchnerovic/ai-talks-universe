@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Building Scalable, Self-Orchestrating AI Workflows 
 slug: aws-re-invent-2025-building-scalable-self-orchestrating-ai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: ["Building Scalable"]
@@ -15,6 +15,7 @@ video_id: 9O9zZ1lQWiI
 url: https://www.youtube.com/watch?v=9O9zZ1lQWiI
 youtube_url: https://www.youtube.com/watch?v=9O9zZ1lQWiI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

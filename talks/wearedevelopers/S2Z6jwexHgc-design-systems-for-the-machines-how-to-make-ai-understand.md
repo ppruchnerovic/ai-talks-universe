@@ -4,7 +4,7 @@ title: "Design Systems for the Machines - How to Make AI Understand Your UI"
 slug: design-systems-for-the-machines-how-to-make-ai-understand
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jennifer Wjertzoch"]
@@ -15,6 +15,7 @@ video_id: S2Z6jwexHgc
 url: https://www.youtube.com/watch?v=S2Z6jwexHgc
 youtube_url: https://www.youtube.com/watch?v=S2Z6jwexHgc
 tags: ["Frontend, Web & Mobile", "Accessibility", "AI Models", "Automation", "Design Systems", "Large Language Models (LLMs)", "Productivity"]
+topics: []
 transcript: true
 ---
 

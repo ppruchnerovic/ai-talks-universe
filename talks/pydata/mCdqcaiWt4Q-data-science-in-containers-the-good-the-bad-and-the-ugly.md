@@ -4,7 +4,7 @@ title: "Data science in containers: the good, the bad, and the ugly"
 slug: data-science-in-containers-the-good-the-bad-and-the-ugly
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Jérôme Petazzoni"]
@@ -15,6 +15,7 @@ video_id: mCdqcaiWt4Q
 url: https://www.youtube.com/watch?v=mCdqcaiWt4Q
 youtube_url: https://www.youtube.com/watch?v=mCdqcaiWt4Q
 tags: ["BuildKit", "Conference", "DevOps", "Docker", "GPU", "Kubernetes", "MLOps", "PyCon", "PyConDE", "PyData", "PyTorch", "Python", "Tech Talk", "Whisper", "container best practices", "containers", "data science", "image optimization", "machine learning"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Using ChatGPT to Search Enterprise Data with Pamela Fox"
 slug: using-chatgpt-to-search-enterprise-data-with-pamela-fox
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: nbf-dLmyaRg
 url: https://www.youtube.com/watch?v=nbf-dLmyaRg
 youtube_url: https://www.youtube.com/watch?v=nbf-dLmyaRg
 tags: []
+topics: []
 transcript: false
 ---
 

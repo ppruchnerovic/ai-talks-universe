@@ -4,7 +4,7 @@ title: "Scaling GraphRAG: Efficient Knowledge Retrieval for AI"
 slug: scaling-graphrag-efficient-knowledge-retrieval-for-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Gal Shubeli"]
@@ -15,6 +15,7 @@ video_id: W5k-Rbou4t4
 url: https://www.youtube.com/watch?v=W5k-Rbou4t4
 youtube_url: https://www.youtube.com/watch?v=W5k-Rbou4t4
 tags: ["AI Engineering", "Agentic AI", "Retrieval-Augmented Generation (RAG)"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

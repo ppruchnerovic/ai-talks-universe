@@ -4,7 +4,7 @@ title: "LLMs as constrained generators - Fabien Potencier - Upsun"
 slug: llms-as-constrained-generators-fabien-potencier-upsun
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Fabien Potencier"]
@@ -15,6 +15,7 @@ video_id: ujdg2PwIhVc
 url: https://www.youtube.com/watch?v=ujdg2PwIhVc
 youtube_url: https://www.youtube.com/watch?v=ujdg2PwIhVc
 tags: []
+topics: []
 transcript: false
 ---
 

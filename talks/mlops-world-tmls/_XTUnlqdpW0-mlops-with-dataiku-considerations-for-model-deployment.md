@@ -4,7 +4,7 @@ title: "MLOPs with Dataiku Considerations For Model Deployment Monitoring"
 slug: mlops-with-dataiku-considerations-for-model-deployment
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: _XTUnlqdpW0
 url: https://www.youtube.com/watch?v=_XTUnlqdpW0
 youtube_url: https://www.youtube.com/watch?v=_XTUnlqdpW0
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

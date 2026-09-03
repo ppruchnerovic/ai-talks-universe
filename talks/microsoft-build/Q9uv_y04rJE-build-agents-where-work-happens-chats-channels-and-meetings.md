@@ -4,7 +4,7 @@ title: "Build agents where work happens: chats channels and meetings in Microsof
 slug: build-agents-where-work-happens-chats-channels-and-meetings
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Umang Sehgal", "Lily Du"]
@@ -15,6 +15,7 @@ video_id: Q9uv_y04rJE
 url: https://www.youtube.com/watch?v=Q9uv_y04rJE
 youtube_url: https://www.youtube.com/watch?v=Q9uv_y04rJE
 tags: ["Agents", "Build agents where work happens: chats channels and meetings in Microsoft Teams | DEM334", "DEM334", "DEM334_v2", "Developer", "Enterprise", "Lily Du", "Skills", "Umang Sehgal", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

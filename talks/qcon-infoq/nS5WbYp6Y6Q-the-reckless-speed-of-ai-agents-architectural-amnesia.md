@@ -4,7 +4,7 @@ title: "The Reckless Speed of AI Agents: Architectural Amnesia EXPOSED"
 slug: the-reckless-speed-of-ai-agents-architectural-amnesia
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: nS5WbYp6Y6Q
 url: https://www.youtube.com/watch?v=nS5WbYp6Y6Q
 youtube_url: https://www.youtube.com/watch?v=nS5WbYp6Y6Q
 tags: ["QCon AI", "InfoQ", "Transcript", "Artificial Intelligence", "AI Agents", "SDLC", "Software Development", "Software Architecture"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

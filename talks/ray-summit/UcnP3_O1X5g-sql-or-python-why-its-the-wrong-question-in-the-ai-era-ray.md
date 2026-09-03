@@ -4,7 +4,7 @@ title: "SQL or Python? Why It’s the Wrong Question in the AI Era | Ray Summit 
 slug: sql-or-python-why-its-the-wrong-question-in-the-ai-era-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: UcnP3_O1X5g
 url: https://www.youtube.com/watch?v=UcnP3_O1X5g
 youtube_url: https://www.youtube.com/watch?v=UcnP3_O1X5g
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

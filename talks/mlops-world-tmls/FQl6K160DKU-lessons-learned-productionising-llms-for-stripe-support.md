@@ -4,7 +4,7 @@ title: "Lessons Learned Productionising LLMs for Stripe Support"
 slug: lessons-learned-productionising-llms-for-stripe-support
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Sophie Daly"]
@@ -15,6 +15,7 @@ video_id: FQl6K160DKU
 url: https://www.youtube.com/watch?v=FQl6K160DKU
 youtube_url: https://www.youtube.com/watch?v=FQl6K160DKU
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: []
 transcript: false
 ---
 

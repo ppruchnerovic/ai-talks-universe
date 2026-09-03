@@ -4,7 +4,7 @@ title: "The RAG Stack We Landed On After 37 Fails - Jonathan Fernandes"
 slug: the-rag-stack-we-landed-on-after-37-fails-jonathan-fernandes
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jonathan Fernandes"]
@@ -15,6 +15,7 @@ video_id: 2CXn-CByNoo
 url: https://www.youtube.com/watch?v=2CXn-CByNoo
 youtube_url: https://www.youtube.com/watch?v=2CXn-CByNoo
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

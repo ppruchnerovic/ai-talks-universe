@@ -4,7 +4,7 @@ title: "Rising Tides with Radical Transparency: Why and How to Open Source Your 
 slug: rising-tides-with-radical-transparency-why-and-how-to-open
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Tim Castillo"]
@@ -15,6 +15,7 @@ video_id: wgMw9hqsQQ8
 url: https://www.youtube.com/watch?v=wgMw9hqsQQ8
 youtube_url: https://www.youtube.com/watch?v=wgMw9hqsQQ8
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - How Cathay Transformed DevSecOps with AI: A 75% Fas
 slug: aws-re-invent-2025-how-cathay-transformed-devsecops-with-ai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: iMC_Um32UTQ
 url: https://www.youtube.com/watch?v=iMC_Um32UTQ
 youtube_url: https://www.youtube.com/watch?v=iMC_Um32UTQ
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

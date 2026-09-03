@@ -4,7 +4,7 @@ title: "Katie Roberts - Stop Maintaining, Start Evolving: Applying AI-Native Pra
 slug: katie-roberts-stop-maintaining-start-evolving-applying-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Katie Roberts", "Stop Maintaining"]
@@ -15,6 +15,7 @@ video_id: 5SKh-FmjX7U
 url: https://www.youtube.com/watch?v=5SKh-FmjX7U
 youtube_url: https://www.youtube.com/watch?v=5SKh-FmjX7U
 tags: ["AI in brownfield environments", "AI in software engineering", "AI native engineering", "AI strategies for codebases", "AI-driven coding", "AI-driven software development", "NearForm", "ainativedev", "brownfield codebases", "evolving legacy code", "how to reduce technical debt", "legacy system modernization", "legacy systems transformation", "software development", "technical debt reduction"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

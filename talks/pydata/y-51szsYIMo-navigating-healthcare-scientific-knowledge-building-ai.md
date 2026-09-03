@@ -4,7 +4,7 @@ title: "Navigating healthcare scientific knowledge:building AI agents for accura
 slug: navigating-healthcare-scientific-knowledge-building-ai
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Laura Dumont"]
@@ -15,6 +15,7 @@ video_id: y-51szsYIMo
 url: https://www.youtube.com/watch?v=y-51szsYIMo
 youtube_url: https://www.youtube.com/watch?v=y-51szsYIMo
 tags: ["AI agents", "Conference", "LLM", "PyCon", "PyConDE", "PyData", "Python", "RAG", "SQL", "Tech Talk", "biomedical data", "data science", "drug discovery", "healthcare AI", "machine learning", "medical AI", "natural language processing", "scientific research", "vector databases"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

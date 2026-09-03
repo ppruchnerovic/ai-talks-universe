@@ -4,7 +4,7 @@ title: "Keynote: PE Binary Classification Pitfalls (CAMLIS 2022)"
 slug: keynote-pe-binary-classification-pitfalls-camlis-2022
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
@@ -15,6 +15,7 @@ video_id: Bl1h4jvmCL0
 url: https://www.youtube.com/watch?v=Bl1h4jvmCL0
 youtube_url: https://www.youtube.com/watch?v=Bl1h4jvmCL0
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

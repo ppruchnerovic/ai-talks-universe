@@ -4,7 +4,7 @@ title: "LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Ari
 slug: llm-observability-evaluation-experimentation-platform-dat
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dat Ngo"]
@@ -15,6 +15,7 @@ video_id: JsCCrBF7F1g
 url: https://www.youtube.com/watch?v=JsCCrBF7F1g
 youtube_url: https://www.youtube.com/watch?v=JsCCrBF7F1g
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

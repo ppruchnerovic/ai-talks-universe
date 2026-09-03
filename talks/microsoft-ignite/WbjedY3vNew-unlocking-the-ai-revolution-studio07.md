@@ -4,7 +4,7 @@ title: "Unlocking the AI revolution | Studio07"
 slug: unlocking-the-ai-revolution-studio07
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Seth Juarez", "Asha Sharma"]
@@ -15,6 +15,7 @@ video_id: WbjedY3vNew
 url: https://www.youtube.com/watch?v=WbjedY3vNew
 youtube_url: https://www.youtube.com/watch?v=WbjedY3vNew
 tags: ["Asha Sharma", "English (US)", "Seth Juarez", "Studio", "Studio07", "Unlocking the AI revolution | Studio07", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Future secured: The Varonis and Microsoft partnership | STUDIOSP63"
 slug: future-secured-the-varonis-and-microsoft-partnership
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Rob Sobers"]
@@ -15,6 +15,7 @@ video_id: O6XG2w3f5x4
 url: https://www.youtube.com/watch?v=O6XG2w3f5x4
 youtube_url: https://www.youtube.com/watch?v=O6XG2w3f5x4
 tags: ["English (US)", "Future secured: The Varonis and Microsoft partnership | STUDIOSP63", "Rob Sobers", "STUDIOSP63", "STUDIOSP63_v3", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

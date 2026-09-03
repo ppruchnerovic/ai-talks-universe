@@ -4,7 +4,7 @@ title: "The Stochastic Shall Inherit the Earth (But Let’s Secure It First), To
 slug: the-stochastic-shall-inherit-the-earth-but-lets-secure-it
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Steve Wilson"]
@@ -15,6 +15,7 @@ video_id: Ozd43VSkrjs
 url: https://www.youtube.com/watch?v=Ozd43VSkrjs
 youtube_url: https://www.youtube.com/watch?v=Ozd43VSkrjs
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

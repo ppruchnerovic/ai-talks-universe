@@ -4,7 +4,7 @@ title: "Introduction to LLM serving with SGLang - Philip Kiely and Yineng Zhang,
 slug: introduction-to-llm-serving-with-sglang-philip-kiely-and
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Philip Kiely", "Yineng Zhang"]
@@ -15,6 +15,7 @@ video_id: Ahtaha9fEM0
 url: https://www.youtube.com/watch?v=Ahtaha9fEM0
 youtube_url: https://www.youtube.com/watch?v=Ahtaha9fEM0
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

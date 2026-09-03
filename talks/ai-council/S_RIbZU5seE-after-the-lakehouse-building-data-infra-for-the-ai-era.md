@@ -4,7 +4,7 @@ title: "After the Lakehouse: Building Data Infra for the AI Era"
 slug: after-the-lakehouse-building-data-infra-for-the-ai-era
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: S_RIbZU5seE
 url: https://www.youtube.com/watch?v=S_RIbZU5seE
 youtube_url: https://www.youtube.com/watch?v=S_RIbZU5seE
 tags: ["AI"]
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

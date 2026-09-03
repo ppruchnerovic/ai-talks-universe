@@ -4,7 +4,7 @@ title: "Meet Goose, an Open Source AI Agent"
 slug: meet-goose-an-open-source-ai-agent
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fYhBbo900HA
 url: https://www.youtube.com/watch?v=fYhBbo900HA
 youtube_url: https://www.youtube.com/watch?v=fYhBbo900HA
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

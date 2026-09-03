@@ -4,7 +4,7 @@ title: "The Agent Attack Surface: Why AI Is Breaking Software Security As We Kno
 slug: the-agent-attack-surface-why-ai-is-breaking-software
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: XnP3td72tng
 url: https://www.youtube.com/watch?v=XnP3td72tng
 youtube_url: https://www.youtube.com/watch?v=XnP3td72tng
 tags: ["AI"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Why we need GeoLLMs to support vulnerable communities| AI from the Sky |
 slug: why-we-need-geollms-to-support-vulnerable-communities-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Maaz Sheikh"]
@@ -15,6 +15,7 @@ video_id: eLLJ4LxLEEU
 url: https://www.youtube.com/watch?v=eLLJ4LxLEEU
 youtube_url: https://www.youtube.com/watch?v=eLLJ4LxLEEU
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Platform Engineering in the age of Generative AI - Will Velida - NDC Syd
 slug: platform-engineering-in-the-age-of-generative-ai-will
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Will Velida"]
@@ -15,6 +15,7 @@ video_id: NdGBsn8tRzs
 url: https://www.youtube.com/watch?v=NdGBsn8tRzs
 youtube_url: https://www.youtube.com/watch?v=NdGBsn8tRzs
 tags: ["AI", "Architecture", "Cloud", "GitHub", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Will Velida"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

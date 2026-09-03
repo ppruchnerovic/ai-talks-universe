@@ -4,7 +4,7 @@ title: "Why your product needs an AI product manager, and why it should be you â
 slug: why-your-product-needs-an-ai-product-manager-and-why-it
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["James Lowe"]
@@ -15,6 +15,7 @@ video_id: xzJdSi2Tsqw
 url: https://www.youtube.com/watch?v=xzJdSi2Tsqw
 youtube_url: https://www.youtube.com/watch?v=xzJdSi2Tsqw
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Powering Enterprise AI Applications with Data and Open Source Software"
 slug: powering-enterprise-ai-applications-with-data-and-open
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Francisco Javier Arceo"]
@@ -15,6 +15,7 @@ video_id: iq-feast
 url: https://www.infoq.com/presentations/feast/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

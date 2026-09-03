@@ -4,7 +4,7 @@ title: "Engineering Culture and the API Revolution: A Conversation with Sagar Ba
 slug: engineering-culture-and-the-api-revolution-a-conversation
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: U7CdLKAAY0k
 url: https://www.youtube.com/watch?v=U7CdLKAAY0k
 youtube_url: https://www.youtube.com/watch?v=U7CdLKAAY0k
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

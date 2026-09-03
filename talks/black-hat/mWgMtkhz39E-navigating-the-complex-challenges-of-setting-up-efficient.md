@@ -4,7 +4,7 @@ title: "Navigating the Complex Challenges of Setting Up Efficient and Robust OT 
 slug: navigating-the-complex-challenges-of-setting-up-efficient
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: mWgMtkhz39E
 url: https://www.youtube.com/watch?v=mWgMtkhz39E
 youtube_url: https://www.youtube.com/watch?v=mWgMtkhz39E
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

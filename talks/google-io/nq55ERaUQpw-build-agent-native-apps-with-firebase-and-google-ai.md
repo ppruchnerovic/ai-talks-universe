@@ -4,7 +4,7 @@ title: "Build agent-native apps with Firebase and Google AI"
 slug: build-agent-native-apps-with-firebase-and-google-ai
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Kara Yu", "Sam Phillips"]
@@ -15,6 +15,7 @@ video_id: nq55ERaUQpw
 url: https://www.youtube.com/watch?v=nq55ERaUQpw
 youtube_url: https://www.youtube.com/watch?v=nq55ERaUQpw
 tags: ["pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Cloud;", "Agent-Native", "Google Antigravity Tutorial", "Firebase for AI Agents", "production-ready AI apps", "Google AI Studio", "App Development 2026"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

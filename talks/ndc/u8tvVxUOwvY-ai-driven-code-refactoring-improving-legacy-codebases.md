@@ -4,7 +4,7 @@ title: "AI-Driven Code Refactoring: Improving Legacy Codebases Automatically - J
 slug: ai-driven-code-refactoring-improving-legacy-codebases
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Jorrik Klijnsma"]
@@ -15,6 +15,7 @@ video_id: u8tvVxUOwvY
 url: https://www.youtube.com/watch?v=u8tvVxUOwvY
 youtube_url: https://www.youtube.com/watch?v=u8tvVxUOwvY
 tags: ["JavaScript", "AI", "Programming Languages", "Work skills", "NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia"]
+topics: []
 transcript: false
 ---
 

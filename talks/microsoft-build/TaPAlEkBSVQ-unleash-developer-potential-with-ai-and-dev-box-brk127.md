@@ -4,7 +4,7 @@ title: "Unleash developer potential with AI and Dev Box | BRK127"
 slug: unleash-developer-potential-with-ai-and-dev-box-brk127
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: TaPAlEkBSVQ
 url: https://www.youtube.com/watch?v=TaPAlEkBSVQ
 youtube_url: https://www.youtube.com/watch?v=TaPAlEkBSVQ
 tags: []
+topics: []
 transcript: false
 ---
 

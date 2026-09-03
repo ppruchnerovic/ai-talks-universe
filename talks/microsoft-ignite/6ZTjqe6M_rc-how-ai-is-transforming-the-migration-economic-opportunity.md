@@ -4,7 +4,7 @@ title: "How AI is transforming the migration economic opportunity for partners |
 slug: how-ai-is-transforming-the-migration-economic-opportunity
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Tony Guidi", "Omar Khan", "Pankaj Srivastava"]
@@ -15,6 +15,7 @@ video_id: 6ZTjqe6M_rc
 url: https://www.youtube.com/watch?v=6ZTjqe6M_rc
 youtube_url: https://www.youtube.com/watch?v=6ZTjqe6M_rc
 tags: ["AI", "Adaptive Cloud", "Azure Virtual Desktop", "BRK247", "Breakout", "End of Support (EOS)", "English (US)", "How AI is transforming the migration economic opportunity for partners | BRK247", "Infrastructure", "Infrastructure-Curated", "Microsoft Cloud for Healthcare", "Multicloud security", "Solution Area", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

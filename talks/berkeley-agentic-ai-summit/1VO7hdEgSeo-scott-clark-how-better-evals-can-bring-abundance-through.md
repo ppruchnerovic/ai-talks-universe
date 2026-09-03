@@ -4,7 +4,7 @@ title: "Scott Clark - How Better Evals Can Bring Abundance Through Accelerated S
 slug: scott-clark-how-better-evals-can-bring-abundance-through
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Scott Clark"]
@@ -15,6 +15,7 @@ video_id: 1VO7hdEgSeo
 url: https://www.youtube.com/watch?v=1VO7hdEgSeo
 youtube_url: https://www.youtube.com/watch?v=1VO7hdEgSeo
 tags: []
+topics: ["Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

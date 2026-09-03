@@ -4,7 +4,7 @@ title: "Programming robots | LIVE141"
 slug: programming-robots-live141
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Chip Huyen", "John Maeda"]
@@ -15,6 +15,7 @@ video_id: Hx0cmcDlmSU
 url: https://www.youtube.com/watch?v=Hx0cmcDlmSU
 youtube_url: https://www.youtube.com/watch?v=Hx0cmcDlmSU
 tags: ["Chip Huyen", "John Maeda", "LIVE141", "LIVE141_v1", "Programming robots | LIVE141", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AI That Fits Your Business, Not the Other Way Around"
 slug: ai-that-fits-your-business-not-the-other-way-around
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Anshul Jindal", "Cansu Kavili Örnek"]
@@ -15,6 +15,7 @@ video_id: XrlMC5sM68I
 url: https://www.youtube.com/watch?v=XrlMC5sM68I
 youtube_url: https://www.youtube.com/watch?v=XrlMC5sM68I
 tags: ["Cloud & AI Infrastructure", "Business Models", "NVIDIA", "OpenShift"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

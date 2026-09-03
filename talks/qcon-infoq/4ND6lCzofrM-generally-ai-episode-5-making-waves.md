@@ -4,7 +4,7 @@ title: "Generally AI Episode 5: Making Waves"
 slug: generally-ai-episode-5-making-waves
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4ND6lCzofrM
 url: https://www.youtube.com/watch?v=4ND6lCzofrM
 youtube_url: https://www.youtube.com/watch?v=4ND6lCzofrM
 tags: ["Generally AI", "AI", "InfoQ Podcast"]
+topics: []
 transcript: false
 ---
 

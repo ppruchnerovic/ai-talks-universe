@@ -4,7 +4,7 @@ title: "Jen Wei-I Built a Transformer from Scratch So You Don’t Have To - PyDa
 slug: jen-wei-i-built-a-transformer-from-scratch-so-you-dont-have
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ID5zSzycQBg
 url: https://www.youtube.com/watch?v=ID5zSzycQBg
 youtube_url: https://www.youtube.com/watch?v=ID5zSzycQBg
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

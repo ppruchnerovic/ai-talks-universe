@@ -4,7 +4,7 @@ title: "Securing MCP Servers by Daniel Garnier Moiroux"
 slug: securing-mcp-servers-by-daniel-garnier-moiroux
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Daniel Garnier Moiroux"]
@@ -15,6 +15,7 @@ video_id: O6G6ufT03fk
 url: https://www.youtube.com/watch?v=O6G6ufT03fk
 youtube_url: https://www.youtube.com/watch?v=O6G6ufT03fk
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

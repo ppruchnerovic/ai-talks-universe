@@ -4,7 +4,7 @@ title: "RAG Evaluation Is Broken! Here's Why (And How to Fix It) - Yuval Belfer 
 slug: rag-evaluation-is-broken-here-s-why-and-how-to-fix-it-yuval
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Yuval Belfer", "Niv Granot"]
@@ -15,6 +15,7 @@ video_id: Ywl4LsvHKzU
 url: https://www.youtube.com/watch?v=Ywl4LsvHKzU
 youtube_url: https://www.youtube.com/watch?v=Ywl4LsvHKzU
 tags: []
+topics: ["Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

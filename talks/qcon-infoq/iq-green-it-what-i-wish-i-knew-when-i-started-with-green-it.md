@@ -4,7 +4,7 @@ title: "What I Wish I Knew When I Started with Green IT"
 slug: what-i-wish-i-knew-when-i-started-with-green-it
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Ludi Akue"]
@@ -15,6 +15,7 @@ video_id: iq-green-it
 url: https://www.infoq.com/presentations/green-it/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Navigating AI Compliance: ISO 42001, the EU AI Act, and the Future of Re
 slug: navigating-ai-compliance-iso-42001-the-eu-ai-act-and-the
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: yJl_r0mKDEQ
 url: https://www.youtube.com/watch?v=yJl_r0mKDEQ
 youtube_url: https://www.youtube.com/watch?v=yJl_r0mKDEQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

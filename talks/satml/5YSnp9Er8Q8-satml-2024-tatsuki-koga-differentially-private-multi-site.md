@@ -4,7 +4,7 @@ title: "SaTML 2024 - Tatsuki Koga - Differentially Private Multi-Site Treatment 
 slug: satml-2024-tatsuki-koga-differentially-private-multi-site
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Tatsuki Koga"]
@@ -15,6 +15,7 @@ video_id: 5YSnp9Er8Q8
 url: https://www.youtube.com/watch?v=5YSnp9Er8Q8
 youtube_url: https://www.youtube.com/watch?v=5YSnp9Er8Q8
 tags: []
+topics: []
 transcript: false
 ---
 

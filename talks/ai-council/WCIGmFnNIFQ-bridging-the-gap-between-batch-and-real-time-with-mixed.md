@@ -4,7 +4,7 @@ title: "Bridging the Gap Between Batch and Real-Time with Mixed-Latency Pipeline
 slug: bridging-the-gap-between-batch-and-real-time-with-mixed
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Will Goldstein"]
@@ -15,6 +15,7 @@ video_id: WCIGmFnNIFQ
 url: https://www.youtube.com/watch?v=WCIGmFnNIFQ
 youtube_url: https://www.youtube.com/watch?v=WCIGmFnNIFQ
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

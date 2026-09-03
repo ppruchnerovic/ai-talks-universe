@@ -4,7 +4,7 @@ title: "Unlocking AI Value: Build AI Agents on SAP Data in Databricks"
 slug: unlocking-ai-value-build-ai-agents-on-sap-data-in-databricks
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: LeR7_WK5l0c
 url: https://www.youtube.com/watch?v=LeR7_WK5l0c
 youtube_url: https://www.youtube.com/watch?v=LeR7_WK5l0c
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "How to Avoid LLM Pitfalls with Mete Atamel and Guillaume Laforge"
 slug: how-to-avoid-llm-pitfalls-with-mete-atamel-and-guillaume
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fhwn6Y9r6ms
 url: https://www.youtube.com/watch?v=fhwn6Y9r6ms
 youtube_url: https://www.youtube.com/watch?v=fhwn6Y9r6ms
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "AI", "LLM", "MachineLearning", "GoogleCloud", "AIDevelopment", "GenerativeAI", "FutureOfAI", "SoftwareEngineering"]
+topics: []
 transcript: false
 ---
 

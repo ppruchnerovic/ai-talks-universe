@@ -4,7 +4,7 @@ title: "Generally AI Episode 6: You Are Here"
 slug: generally-ai-episode-6-you-are-here
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: JPPq0Zj-a0E
 url: https://www.youtube.com/watch?v=JPPq0Zj-a0E
 youtube_url: https://www.youtube.com/watch?v=JPPq0Zj-a0E
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AI Literacy as a driver for innovation | AI Literacy, Skills and Readine
 slug: ai-literacy-as-a-driver-for-innovation-ai-literacy-skills
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Katharina Schüller"]
@@ -15,6 +15,7 @@ video_id: ypC6QtG1XVM
 url: https://www.youtube.com/watch?v=ypC6QtG1XVM
 youtube_url: https://www.youtube.com/watch?v=ypC6QtG1XVM
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

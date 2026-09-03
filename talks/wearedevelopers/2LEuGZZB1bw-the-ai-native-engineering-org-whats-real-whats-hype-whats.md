@@ -4,7 +4,7 @@ title: "The AI-Native Engineering Org: What’s Real, What’s Hype, What’s Ne
 slug: the-ai-native-engineering-org-whats-real-whats-hype-whats
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Taroon Mandhana", "Sebastian Kister"]
@@ -15,6 +15,7 @@ video_id: 2LEuGZZB1bw
 url: https://www.youtube.com/watch?v=2LEuGZZB1bw
 youtube_url: https://www.youtube.com/watch?v=2LEuGZZB1bw
 tags: ["AI Engineering"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

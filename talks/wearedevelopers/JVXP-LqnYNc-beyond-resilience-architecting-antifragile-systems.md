@@ -4,7 +4,7 @@ title: "Beyond Resilience: Architecting Antifragile Systems"
 slug: beyond-resilience-architecting-antifragile-systems
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jan de Vries"]
@@ -15,6 +15,7 @@ video_id: JVXP-LqnYNc
 url: https://www.youtube.com/watch?v=JVXP-LqnYNc
 youtube_url: https://www.youtube.com/watch?v=JVXP-LqnYNc
 tags: ["Software Architecture", "Chaos Engineering", "DevOps", "DevSecOps", "Microservices", "Threat Modelling"]
+topics: []
 transcript: true
 ---
 

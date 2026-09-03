@@ -4,7 +4,7 @@ title: "Failure As a Means to Build Resilient Software Systems: A Conversation w
 slug: failure-as-a-means-to-build-resilient-software-systems-a
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: YQ2p6et4pvM
 url: https://www.youtube.com/watch?v=YQ2p6et4pvM
 youtube_url: https://www.youtube.com/watch?v=YQ2p6et4pvM
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

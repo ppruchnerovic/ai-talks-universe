@@ -43,6 +43,7 @@ import atu
 SCHEMA = """
 PRAGMA journal_mode = OFF;
 DROP TABLE IF EXISTS talks;
+DROP TABLE IF EXISTS talk_topics;
 DROP TABLE IF EXISTS talks_fts;
 DROP TABLE IF EXISTS segments;
 DROP TABLE IF EXISTS segments_fts;
@@ -54,9 +55,16 @@ CREATE TABLE talks (
     published_at TEXT, url TEXT, youtube_url TEXT, page_url TEXT,
     availability TEXT, priority INTEGER,
     has_transcript INTEGER, transcript_words INTEGER,
-    timing TEXT            -- 'exact' or 'estimated'; NULL without a transcript
+    timing TEXT,           -- 'exact' or 'estimated'; NULL without a transcript
+    topics TEXT            -- JSON list, the per-talk facet; [] when none reached the bar
 );
 CREATE INDEX idx_talks_conf ON talks(conference);
+
+-- One row per (talk, topic): what --topic filters on and --list-topics counts.
+-- Topics are a facet, not a search field — they are in neither FTS table, so
+-- the two rankers' agreement is untouched by them.
+CREATE TABLE talk_topics (talk_n INTEGER, topic TEXT);
+CREATE INDEX idx_talk_topics_topic ON talk_topics(topic, talk_n);
 
 -- Content-carrying so snippet()/highlight() work. Metadata and descriptions
 -- only; transcript text lives in `segments` and is searched through
@@ -287,13 +295,15 @@ def build_sqlite(talks: list[dict]) -> tuple[int, int]:
         speakers = ", ".join(t["speakers"])
         tags = ", ".join(t["tags"])
         con.execute(
-            "INSERT INTO talks VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+            "INSERT INTO talks VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
             (n, t["id"], t["title"], t["description"], speakers, t["conference"],
              t["conference_name"], t["category"], t["edition"], t["year"], t["channel"],
              tags, t["duration_min"], t["published_at"], t["url"], t["youtube_url"],
              t["page_url"], t["availability"], t["priority"], 1 if text else 0, words,
-             timing if text else None),
+             timing if text else None, json.dumps(t.get("topics") or [])),
         )
+        con.executemany("INSERT INTO talk_topics VALUES (?,?)",
+                        [(n, topic) for topic in t.get("topics") or []])
         con.execute(
             "INSERT INTO talks_fts (rowid, title, description, tags, speakers, conference_name)"
             " VALUES (?,?,?,?,?,?)",
@@ -378,10 +388,12 @@ def meta_stems(t: dict) -> set[str]:
     This is the browser's document frequency for the metadata layer, computed
     here because the browser no longer holds the full description: it sees a
     display clip, and the description's terms reach it through the shards.
-    The fields are the ones index.html scores, tokenised the same way.
+    The fields are the ones index.html scores, tokenised the same way. The
+    conference type (`category`) is not among them: it is a filter in both
+    rankers, never a scored field, so it must not count here either.
     """
     parts = (t["title"], " ".join(t["tags"]), " ".join(t["speakers"]),
-             f'{t["conference_name"]} {t["edition"] or ""}', t["category"] or "",
+             f'{t["conference_name"]} {t["edition"] or ""}',
              t["description"])
     return set(atu.stems(" ".join(p for p in parts if p)))
 
@@ -431,6 +443,11 @@ def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) ->
             "p": t["published_at"],
             "u": t["conference_site"],
             "w": words,
+            # The topic facet, as indices into the file's `topics` list: the
+            # names themselves added 0.4 MiB to a file every visitor downloads
+            # and took it over its size trigger; the indices add 30 KB. Omitted
+            # rather than [] on the fifth of the corpus that has none.
+            **({"k": [atu.TOPIC_NAMES.index(x) for x in t["topics"]]} if t.get("topics") else {}),
             # Only for the talks whose link the browser cannot build from "v":
             # InfoQ's own pages. Omitted otherwise, because it would repeat
             # youtube.com/watch?v= on 8,000 records of a file that ships to
@@ -458,7 +475,7 @@ def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) ->
             for term in set(atu.stems(s["text"])):
                 positions[term].setdefault(n, []).append(i)
 
-    atu.write_json(atu.SEARCH_META, {"talks": meta}, compact=True)
+    atu.write_json(atu.SEARCH_META, {"topics": atu.TOPIC_NAMES, "talks": meta}, compact=True)
 
     if atu.TINDEX.exists():
         shutil.rmtree(atu.TINDEX)

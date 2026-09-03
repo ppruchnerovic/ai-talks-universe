@@ -4,7 +4,7 @@ title: "ARNIE: Hasta La Vector, Baby! Towards Better Encoding and Vectorization 
 slug: arnie-hasta-la-vector-baby-towards-better-encoding-and
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
@@ -15,6 +15,7 @@ video_id: vJtfB5FMnHc
 url: https://www.youtube.com/watch?v=vJtfB5FMnHc
 youtube_url: https://www.youtube.com/watch?v=vJtfB5FMnHc
 tags: []
+topics: []
 transcript: false
 ---
 

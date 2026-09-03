@@ -4,7 +4,7 @@ title: "Keynote: Opening Remarks - Jim Zemlin"
 slug: keynote-opening-remarks-jim-zemlin
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Jim Zemlin"]
@@ -15,6 +15,7 @@ video_id: iTtMKaTsBFU
 url: https://www.youtube.com/watch?v=iTtMKaTsBFU
 youtube_url: https://www.youtube.com/watch?v=iTtMKaTsBFU
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

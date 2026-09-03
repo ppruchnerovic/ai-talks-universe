@@ -4,7 +4,7 @@ title: "Welcome to AIE CODE - Jed Borovik, Google DeepMind"
 slug: welcome-to-aie-code-jed-borovik-google-deepmind
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jed Borovik"]
@@ -15,6 +15,7 @@ video_id: mdEh4lBO_R0
 url: https://www.youtube.com/watch?v=mdEh4lBO_R0
 youtube_url: https://www.youtube.com/watch?v=mdEh4lBO_R0
 tags: []
+topics: []
 transcript: true
 ---
 

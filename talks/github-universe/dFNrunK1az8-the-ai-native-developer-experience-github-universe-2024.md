@@ -4,7 +4,7 @@ title: "The AI-native developer experience | GitHub Universe 2024"
 slug: the-ai-native-developer-experience-github-universe-2024
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: dFNrunK1az8
 url: https://www.youtube.com/watch?v=dFNrunK1az8
 youtube_url: https://www.youtube.com/watch?v=dFNrunK1az8
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Traditional Sessions — RSAC Virtual Seminar: Security Strategy & Archi
 slug: traditional-sessions-rsac-virtual-seminar-security-strategy
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: ["Frank Kim"]
@@ -15,6 +15,7 @@ video_id: H5cGTZffmW0
 url: https://www.youtube.com/watch?v=H5cGTZffmW0
 youtube_url: https://www.youtube.com/watch?v=H5cGTZffmW0
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

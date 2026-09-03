@@ -4,7 +4,7 @@ title: "Developer Experience in the Age of AI Coding Agents – Max Kanat-Alexan
 slug: developer-experience-in-the-age-of-ai-coding-agents-max
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Capital One"]
@@ -15,6 +15,7 @@ video_id: rT2Del5pwg4
 url: https://www.youtube.com/watch?v=rT2Del5pwg4
 youtube_url: https://www.youtube.com/watch?v=rT2Del5pwg4
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

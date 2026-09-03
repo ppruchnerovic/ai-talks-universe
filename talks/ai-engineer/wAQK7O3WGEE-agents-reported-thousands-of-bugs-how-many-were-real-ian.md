@@ -4,7 +4,7 @@ title: "Agents reported thousands of bugs, how many were real? - Ian Butler and 
 slug: agents-reported-thousands-of-bugs-how-many-were-real-ian
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ian Butler", "Nick Gregory"]
@@ -15,6 +15,7 @@ video_id: wAQK7O3WGEE
 url: https://www.youtube.com/watch?v=wAQK7O3WGEE
 youtube_url: https://www.youtube.com/watch?v=wAQK7O3WGEE
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

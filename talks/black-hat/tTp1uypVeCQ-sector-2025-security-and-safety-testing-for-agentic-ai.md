@@ -4,7 +4,7 @@ title: "SecTor 2025 | Security and Safety Testing for Agentic AI"
 slug: sector-2025-security-and-safety-testing-for-agentic-ai
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: tTp1uypVeCQ
 url: https://www.youtube.com/watch?v=tTp1uypVeCQ
 youtube_url: https://www.youtube.com/watch?v=tTp1uypVeCQ
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

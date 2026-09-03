@@ -4,7 +4,7 @@ title: "The Future of Dev: AI, Specs, Guardrails | Stephan Janssen"
 slug: the-future-of-dev-ai-specs-guardrails-stephan-janssen
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Stephan Janssen"]
@@ -15,6 +15,7 @@ video_id: EyBy5EaLmuY
 url: https://www.youtube.com/watch?v=EyBy5EaLmuY
 youtube_url: https://www.youtube.com/watch?v=EyBy5EaLmuY
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

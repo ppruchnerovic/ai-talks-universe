@@ -4,7 +4,7 @@ title: "The Seven Deadly Sins With MCP - Ricardo Ferreira, Redis"
 slug: the-seven-deadly-sins-with-mcp-ricardo-ferreira-redis
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Ricardo Ferreira"]
@@ -15,6 +15,7 @@ video_id: qgH5mOsQw64
 url: https://www.youtube.com/watch?v=qgH5mOsQw64
 youtube_url: https://www.youtube.com/watch?v=qgH5mOsQw64
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AI powered performance testing to ensure app reliability | DEM536"
 slug: ai-powered-performance-testing-to-ensure-app-reliability
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5KtfQRgul9c
 url: https://www.youtube.com/watch?v=5KtfQRgul9c
 youtube_url: https://www.youtube.com/watch?v=5KtfQRgul9c
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

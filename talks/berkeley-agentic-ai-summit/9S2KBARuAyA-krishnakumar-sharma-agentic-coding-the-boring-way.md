@@ -4,7 +4,7 @@ title: "Krishnakumar Sharma - Agentic Coding, the Boring Way"
 slug: krishnakumar-sharma-agentic-coding-the-boring-way
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Krishnakumar Sharma"]
@@ -15,6 +15,7 @@ video_id: 9S2KBARuAyA
 url: https://www.youtube.com/watch?v=9S2KBARuAyA
 youtube_url: https://www.youtube.com/watch?v=9S2KBARuAyA
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

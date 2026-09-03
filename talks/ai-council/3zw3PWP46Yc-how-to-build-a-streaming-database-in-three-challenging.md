@@ -4,7 +4,7 @@ title: "How to Build a Streaming Database in Three Challenging Steps | Materiali
 slug: how-to-build-a-streaming-database-in-three-challenging
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3zw3PWP46Yc
 url: https://www.youtube.com/watch?v=3zw3PWP46Yc
 youtube_url: https://www.youtube.com/watch?v=3zw3PWP46Yc
 tags: ["streaming database", "product development", "SQL"]
+topics: []
 transcript: false
 ---
 

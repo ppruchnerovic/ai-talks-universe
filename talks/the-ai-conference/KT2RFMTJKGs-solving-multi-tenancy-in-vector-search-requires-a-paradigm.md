@@ -4,7 +4,7 @@ title: "Solving Multi-Tenancy In Vector Search Requires A Paradigm Shift, Etienn
 slug: solving-multi-tenancy-in-vector-search-requires-a-paradigm
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: KT2RFMTJKGs
 url: https://www.youtube.com/watch?v=KT2RFMTJKGs
 youtube_url: https://www.youtube.com/watch?v=KT2RFMTJKGs
 tags: []
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

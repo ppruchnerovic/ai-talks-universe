@@ -4,7 +4,7 @@ title: "Ansh Kanwar, Reltio: Bridging the Data Chasm for the Agents of the Futur
 slug: ansh-kanwar-reltio-bridging-the-data-chasm-for-the-agents
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _pUBEWexspE
 url: https://www.youtube.com/watch?v=_pUBEWexspE
 youtube_url: https://www.youtube.com/watch?v=_pUBEWexspE
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

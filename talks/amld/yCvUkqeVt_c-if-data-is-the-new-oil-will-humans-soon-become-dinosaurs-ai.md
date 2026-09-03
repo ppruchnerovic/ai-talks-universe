@@ -4,7 +4,7 @@ title: "If data is the new oil, will humans soon become dinosaurs? | AI Safety |
 slug: if-data-is-the-new-oil-will-humans-soon-become-dinosaurs-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Joshua George"]
@@ -15,6 +15,7 @@ video_id: yCvUkqeVt_c
 url: https://www.youtube.com/watch?v=yCvUkqeVt_c
 youtube_url: https://www.youtube.com/watch?v=yCvUkqeVt_c
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

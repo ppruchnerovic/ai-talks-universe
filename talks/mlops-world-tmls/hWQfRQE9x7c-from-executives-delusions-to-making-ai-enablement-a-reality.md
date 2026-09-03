@@ -4,7 +4,7 @@ title: "From Executives' Delusions to Making AI Enablement a Reality: Bridging D
 slug: from-executives-delusions-to-making-ai-enablement-a-reality
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: hWQfRQE9x7c
 url: https://www.youtube.com/watch?v=hWQfRQE9x7c
 youtube_url: https://www.youtube.com/watch?v=hWQfRQE9x7c
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

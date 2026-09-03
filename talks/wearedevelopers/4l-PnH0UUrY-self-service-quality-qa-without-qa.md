@@ -4,7 +4,7 @@ title: "Self-service Quality: QA Without QA"
 slug: self-service-quality-qa-without-qa
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ondřej Gróf"]
@@ -15,6 +15,7 @@ video_id: 4l-PnH0UUrY
 url: https://www.youtube.com/watch?v=4l-PnH0UUrY
 youtube_url: https://www.youtube.com/watch?v=4l-PnH0UUrY
 tags: ["Quality & Reliability", "AI Models", "Quality Assurance (QA)", "Testing"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

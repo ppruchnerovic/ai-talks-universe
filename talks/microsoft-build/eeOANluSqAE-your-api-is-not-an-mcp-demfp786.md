@@ -4,7 +4,7 @@ title: "Your API is not an MCP | DEMFP786"
 slug: your-api-is-not-an-mcp-demfp786
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: eeOANluSqAE
 url: https://www.youtube.com/watch?v=eeOANluSqAE
 youtube_url: https://www.youtube.com/watch?v=eeOANluSqAE
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

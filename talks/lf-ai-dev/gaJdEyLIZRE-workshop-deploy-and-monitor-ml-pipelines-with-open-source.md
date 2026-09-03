@@ -4,7 +4,7 @@ title: "Workshop: Deploy and Monitor ML Pipelines with Open Source and Free Appl
 slug: workshop-deploy-and-monitor-ml-pipelines-with-open-source
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Rami Krispin"]
@@ -15,6 +15,7 @@ video_id: gaJdEyLIZRE
 url: https://www.youtube.com/watch?v=gaJdEyLIZRE
 youtube_url: https://www.youtube.com/watch?v=gaJdEyLIZRE
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

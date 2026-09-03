@@ -4,7 +4,7 @@ title: "Chi Wang - Visionary Stacks for Agentic Systems: Insights and Innovation
 slug: chi-wang-visionary-stacks-for-agentic-systems-insights-and
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Chi Wang"]
@@ -15,6 +15,7 @@ video_id: 1F1zyNuTtbg
 url: https://www.youtube.com/watch?v=1F1zyNuTtbg
 youtube_url: https://www.youtube.com/watch?v=1F1zyNuTtbg
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

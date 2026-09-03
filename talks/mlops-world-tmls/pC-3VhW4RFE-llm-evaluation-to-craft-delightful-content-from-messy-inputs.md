@@ -4,7 +4,7 @@ title: "LLM Evaluation to Craft Delightful Content From Messy Inputs"
 slug: llm-evaluation-to-craft-delightful-content-from-messy-inputs
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Shin Liang"]
@@ -15,6 +15,7 @@ video_id: pC-3VhW4RFE
 url: https://www.youtube.com/watch?v=pC-3VhW4RFE
 youtube_url: https://www.youtube.com/watch?v=pC-3VhW4RFE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

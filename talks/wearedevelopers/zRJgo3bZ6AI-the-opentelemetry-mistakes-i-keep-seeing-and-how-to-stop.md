@@ -4,7 +4,7 @@ title: "The OpenTelemetry mistakes I keep seeing (and how to stop making them)"
 slug: the-opentelemetry-mistakes-i-keep-seeing-and-how-to-stop
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Juraci Paixão Kröhling"]
@@ -15,6 +15,7 @@ video_id: zRJgo3bZ6AI
 url: https://www.youtube.com/watch?v=zRJgo3bZ6AI
 youtube_url: https://www.youtube.com/watch?v=zRJgo3bZ6AI
 tags: ["DevOps", "CNCF", "Observability", "OpenTelemetry"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

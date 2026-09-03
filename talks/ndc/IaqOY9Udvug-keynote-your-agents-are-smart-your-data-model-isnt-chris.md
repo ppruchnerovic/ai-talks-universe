@@ -4,7 +4,7 @@ title: "Keynote: Your Agents Are Smart. Your Data Model Isn’t - Chris Auld - N
 slug: keynote-your-agents-are-smart-your-data-model-isnt-chris
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Chris Auld"]
@@ -15,6 +15,7 @@ video_id: IaqOY9Udvug
 url: https://www.youtube.com/watch?v=IaqOY9Udvug
 youtube_url: https://www.youtube.com/watch?v=IaqOY9Udvug
 tags: ["AI", "LLM", "Data", "API", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Chris Auld"]
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

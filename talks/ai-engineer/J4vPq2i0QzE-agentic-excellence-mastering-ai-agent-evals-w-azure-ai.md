@@ -4,7 +4,7 @@ title: "Agentic Excellence: Mastering AI Agent Evals w/ Azure AI Evaluation SDK 
 slug: agentic-excellence-mastering-ai-agent-evals-w-azure-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Cedric Vidal"]
@@ -15,6 +15,7 @@ video_id: J4vPq2i0QzE
 url: https://www.youtube.com/watch?v=J4vPq2i0QzE
 youtube_url: https://www.youtube.com/watch?v=J4vPq2i0QzE
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

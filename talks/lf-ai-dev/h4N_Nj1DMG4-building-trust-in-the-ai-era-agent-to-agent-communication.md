@@ -4,7 +4,7 @@ title: "Building Trust in the AI Era: Agent-to-Agent Communication With DIDs and
 slug: building-trust-in-the-ai-era-agent-to-agent-communication
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Alexander Shcherbakov"]
@@ -15,6 +15,7 @@ video_id: h4N_Nj1DMG4
 url: https://www.youtube.com/watch?v=h4N_Nj1DMG4
 youtube_url: https://www.youtube.com/watch?v=h4N_Nj1DMG4
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

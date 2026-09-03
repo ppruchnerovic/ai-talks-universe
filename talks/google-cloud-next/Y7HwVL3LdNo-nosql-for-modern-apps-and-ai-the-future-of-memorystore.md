@@ -4,7 +4,7 @@ title: "NoSQL for modern apps and AI: The future of Memorystore, Firestore, and 
 slug: nosql-for-modern-apps-and-ai-the-future-of-memorystore
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Vaibhav Govil", "Phaneendhar Vemuru", "Chethana Savalgi"]
@@ -15,6 +15,7 @@ video_id: Y7HwVL3LdNo
 url: https://www.youtube.com/watch?v=Y7HwVL3LdNo
 youtube_url: https://www.youtube.com/watch?v=Y7HwVL3LdNo
 tags: []
+topics: []
 transcript: true
 ---
 

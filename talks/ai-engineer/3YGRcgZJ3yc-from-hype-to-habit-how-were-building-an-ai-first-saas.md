@@ -4,7 +4,7 @@ title: "From Hype to Habit: How We’re Building an AI-First SaaS Company—Whil
 slug: from-hype-to-habit-how-were-building-an-ai-first-saas
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3YGRcgZJ3yc
 url: https://www.youtube.com/watch?v=3YGRcgZJ3yc
 youtube_url: https://www.youtube.com/watch?v=3YGRcgZJ3yc
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

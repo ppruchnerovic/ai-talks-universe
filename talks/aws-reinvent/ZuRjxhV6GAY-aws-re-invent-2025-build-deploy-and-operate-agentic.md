@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Build, deploy, and operate agentic architectures on
 slug: aws-re-invent-2025-build-deploy-and-operate-agentic
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZuRjxhV6GAY
 url: https://www.youtube.com/watch?v=ZuRjxhV6GAY
 youtube_url: https://www.youtube.com/watch?v=ZuRjxhV6GAY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

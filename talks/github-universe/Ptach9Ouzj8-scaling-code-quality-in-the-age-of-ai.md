@@ -4,7 +4,7 @@ title: "Scaling code quality in the age of AI"
 slug: scaling-code-quality-in-the-age-of-ai
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ptach9Ouzj8
 url: https://www.youtube.com/watch?v=Ptach9Ouzj8
 youtube_url: https://www.youtube.com/watch?v=Ptach9Ouzj8
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "When Humans Stop Writing Code: Rethinking Languages, Compilers, and Resp
 slug: when-humans-stop-writing-code-rethinking-languages
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Simon Auer"]
@@ -15,6 +15,7 @@ video_id: qBEu0ekViG4
 url: https://www.youtube.com/watch?v=qBEu0ekViG4
 youtube_url: https://www.youtube.com/watch?v=qBEu0ekViG4
 tags: ["Languages & Runtimes", "AGI (Artificial General Intelligence)", "AI Coding Assistants", "AI Models", "AI Standards", "Anthropic", "Agents", "Agentic AI", "Best Practices", "Business Models", "Career Development", "Claude", "Clean Code", "Code Reviews", "Collaboration", "Communication", "Copilot", "Developer Experience (DevEx)", "Digital Transformation", "Entrepreneurship", "Future of Work", "Gemini", "Governance", "Mistral", "People & Culture", "Runtimes", "Safety", "Scaling", "Secure Coding", "Software Architecture", "Startups", "System Design", "Test-Driven Development (TDD)", "Tooling", "Tools", "Type Systems", "Vibe Coding"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

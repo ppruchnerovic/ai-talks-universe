@@ -4,7 +4,7 @@ title: "Building the Future of Java: AI Agents, MCP, and Next-Gen App Developmen
 slug: building-the-future-of-java-ai-agents-mcp-and-next-gen-app
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Daniel Oh"]
@@ -15,6 +15,7 @@ video_id: Jb2eGMAsKuw
 url: https://www.youtube.com/watch?v=Jb2eGMAsKuw
 youtube_url: https://www.youtube.com/watch?v=Jb2eGMAsKuw
 tags: ["AI Agents", "AI Coding Assistants", "Java", "LangChain", "Large Language Models (LLMs)", "Quarkus"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

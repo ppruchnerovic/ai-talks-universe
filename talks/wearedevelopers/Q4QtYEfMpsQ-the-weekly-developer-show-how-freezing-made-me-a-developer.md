@@ -4,7 +4,7 @@ title: "The weekly developer show: How freezing made me a developer"
 slug: the-weekly-developer-show-how-freezing-made-me-a-developer
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Q4QtYEfMpsQ
 url: https://www.youtube.com/watch?v=Q4QtYEfMpsQ
 youtube_url: https://www.youtube.com/watch?v=Q4QtYEfMpsQ
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

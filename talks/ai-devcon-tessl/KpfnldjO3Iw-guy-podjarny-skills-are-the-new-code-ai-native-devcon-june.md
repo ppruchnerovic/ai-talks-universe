@@ -4,7 +4,7 @@ title: "Guy Podjarny - Skills are the new Code - AI Native DevCon June 2026"
 slug: guy-podjarny-skills-are-the-new-code-ai-native-devcon-june
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Guy Podjarny"]
@@ -15,6 +15,7 @@ video_id: KpfnldjO3Iw
 url: https://www.youtube.com/watch?v=KpfnldjO3Iw
 youtube_url: https://www.youtube.com/watch?v=KpfnldjO3Iw
 tags: ["AI Development", "AI Harnesses", "AI Native Development", "AI Tools", "AI development stack layers", "AINativeDev", "Agentic Coding", "Code to Intent", "Context Engineering", "Skills as the new code", "Tessl", "ainativedev", "context in AI development", "importance of harnesses", "why agent skills matter"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

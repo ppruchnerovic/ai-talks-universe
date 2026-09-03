@@ -4,7 +4,7 @@ title: "Frontiers of AI and Computing: A Conversation With Yann LeCun and Bill D
 slug: frontiers-of-ai-and-computing-a-conversation-with-yann
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: eyrDM3A_YFc
 url: https://www.youtube.com/watch?v=eyrDM3A_YFc
 youtube_url: https://www.youtube.com/watch?v=eyrDM3A_YFc
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Let's Play: Flappybird (+ some Data Engineering) | Tinybird Workshop"
 slug: let-s-play-flappybird-some-data-engineering-tinybird
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["David Margulies"]
@@ -15,6 +15,7 @@ video_id: kHrTPzyVo3k
 url: https://www.youtube.com/watch?v=kHrTPzyVo3k
 youtube_url: https://www.youtube.com/watch?v=kHrTPzyVo3k
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

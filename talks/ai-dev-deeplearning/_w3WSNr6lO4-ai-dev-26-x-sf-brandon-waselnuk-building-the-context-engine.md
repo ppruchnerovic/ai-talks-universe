@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Brandon Waselnuk: Building the Context Engine AI Agents
 slug: ai-dev-26-x-sf-brandon-waselnuk-building-the-context-engine
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: _w3WSNr6lO4
 url: https://www.youtube.com/watch?v=_w3WSNr6lO4
 youtube_url: https://www.youtube.com/watch?v=_w3WSNr6lO4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

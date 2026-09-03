@@ -4,7 +4,7 @@ title: "Reproducible Machine Learning Using DVC"
 slug: reproducible-machine-learning-using-dvc
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: yJz2-LqO9qo
 url: https://www.youtube.com/watch?v=yJz2-LqO9qo
 youtube_url: https://www.youtube.com/watch?v=yJz2-LqO9qo
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

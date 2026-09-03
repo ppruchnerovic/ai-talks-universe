@@ -4,7 +4,7 @@ title: "The CHRO Agenda: Navigating AI Regulation and Organizational Change"
 slug: the-chro-agenda-navigating-ai-regulation-and-organizational
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: TJ8D6MS094E
 url: https://www.youtube.com/watch?v=TJ8D6MS094E
 youtube_url: https://www.youtube.com/watch?v=TJ8D6MS094E
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

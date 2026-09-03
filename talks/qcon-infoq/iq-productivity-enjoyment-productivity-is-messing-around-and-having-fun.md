@@ -4,7 +4,7 @@ title: "Productivity is Messing around and Having Fun"
 slug: productivity-is-messing-around-and-having-fun
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Holly Cummins", "Trisha Gee"]
@@ -15,6 +15,7 @@ video_id: iq-productivity-enjoyment
 url: https://www.infoq.com/presentations/productivity-enjoyment/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AI-equipped Threat Actors Versus AI-enhanced Cyber Tools: Who Wins?"
 slug: ai-equipped-threat-actors-versus-ai-enhanced-cyber-tools
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Shiladitya Sircar"]
@@ -15,6 +15,7 @@ video_id: TIj4PBCzcEE
 url: https://www.youtube.com/watch?v=TIj4PBCzcEE
 youtube_url: https://www.youtube.com/watch?v=TIj4PBCzcEE
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

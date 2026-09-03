@@ -4,7 +4,7 @@ title: "Trends in Engineering Leadership: Observability, Agile Backlash, and Bui
 slug: trends-in-engineering-leadership-observability-agile
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: mU25tteVjII
 url: https://www.youtube.com/watch?v=mU25tteVjII
 youtube_url: https://www.youtube.com/watch?v=mU25tteVjII
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

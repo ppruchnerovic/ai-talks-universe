@@ -4,7 +4,7 @@ title: "Eric Ma-Patterns for Productive Agent-Assisted Programming-PyData Boston
 slug: eric-ma-patterns-for-productive-agent-assisted-programming
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YuA_9x1aSZ4
 url: https://www.youtube.com/watch?v=YuA_9x1aSZ4
 youtube_url: https://www.youtube.com/watch?v=YuA_9x1aSZ4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

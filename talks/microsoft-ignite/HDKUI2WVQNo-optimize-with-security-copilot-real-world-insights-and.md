@@ -4,7 +4,7 @@ title: "Optimize with Security Copilot: Real-world insights and expert advice | 
 slug: optimize-with-security-copilot-real-world-insights-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jay James", "Dennis Mercer"]
@@ -15,6 +15,7 @@ video_id: HDKUI2WVQNo
 url: https://www.youtube.com/watch?v=HDKUI2WVQNo
 youtube_url: https://www.youtube.com/watch?v=HDKUI2WVQNo
 tags: ["BRK308", "Breakout", "Copilot for Security", "Data Security", "Dennis Mercer", "English (US)", "Intermediate (200)", "Jay James", "Optimize with Security Copilot: Real-world insights and expert advice | BRK308", "Security", "Security-Curated", "Technical", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

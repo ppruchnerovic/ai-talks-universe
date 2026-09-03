@@ -4,7 +4,7 @@ title: "AI The Future is Now | Panel: Hex, GitHub Next, Jasper, Databricks, Insi
 slug: ai-the-future-is-now-panel-hex-github-next-jasper
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: h-WLG8rGXOw
 url: https://www.youtube.com/watch?v=h-WLG8rGXOw
 youtube_url: https://www.youtube.com/watch?v=h-WLG8rGXOw
 tags: ["Artificial intelligence", "AI", "ChatGPT", "github", "data visualization"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

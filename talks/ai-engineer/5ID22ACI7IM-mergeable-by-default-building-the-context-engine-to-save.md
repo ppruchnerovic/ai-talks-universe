@@ -4,7 +4,7 @@ title: "Mergeable by default: Building the context engine to save time and token
 slug: mergeable-by-default-building-the-context-engine-to-save
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Peter Werry"]
@@ -15,6 +15,7 @@ video_id: 5ID22ACI7IM
 url: https://www.youtube.com/watch?v=5ID22ACI7IM
 youtube_url: https://www.youtube.com/watch?v=5ID22ACI7IM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

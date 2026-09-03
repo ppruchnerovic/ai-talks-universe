@@ -4,7 +4,7 @@ title: "Deep dive into AI tools in Copilot Studio | BRK315"
 slug: deep-dive-into-ai-tools-in-copilot-studio-brk315
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Derah Onuorah", "Wassim Wehbi"]
@@ -15,6 +15,7 @@ video_id: BLQ8XZ5PXF4
 url: https://www.youtube.com/watch?v=BLQ8XZ5PXF4
 youtube_url: https://www.youtube.com/watch?v=BLQ8XZ5PXF4
 tags: ["BRK315", "Copilot and agents at work", "Copilot and agents at work:Copilot Agents", "Copilot and agents at work:Copilot Studio", "Copilot and agents at work:Microsoft 365 Copilot", "Deep dive into AI tools in Copilot Studio | BRK315", "English (US)", "Innovate with low-code AI and agents", "Innovate with low-code AI and agents:Copilot Studio", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

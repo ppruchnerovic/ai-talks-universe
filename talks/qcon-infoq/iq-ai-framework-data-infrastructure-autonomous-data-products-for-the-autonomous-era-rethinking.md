@@ -4,7 +4,7 @@ title: "Autonomous Data Products for the Autonomous Era: Rethinking Data Archite
 slug: autonomous-data-products-for-the-autonomous-era-rethinking
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Jörg Schad"]
@@ -15,6 +15,7 @@ video_id: iq-ai-framework-data-infrastructure
 url: https://www.infoq.com/presentations/ai-framework-data-infrastructure/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

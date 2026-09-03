@@ -4,7 +4,7 @@ title: "Talking AI-powered IT with Atera's CTO and co-founder | ODFP924"
 slug: talking-ai-powered-it-with-atera-s-cto-and-co-founder
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Oshri Moyal"]
@@ -15,6 +15,7 @@ video_id: fqeDiOI8CFY
 url: https://www.youtube.com/watch?v=fqeDiOI8CFY
 youtube_url: https://www.youtube.com/watch?v=fqeDiOI8CFY
 tags: ["AI", "Automation", "Autopilot", "Copilot", "Custom copilot(s)", "English (US)", "Foundational (100)", "ODFP924", "Oshri Moyal", "Patch Management", "Patching", "Pre-recorded", "Responsible AI", "Talking AI-powered IT with Atera's CTO and co-founder | ODFP924", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

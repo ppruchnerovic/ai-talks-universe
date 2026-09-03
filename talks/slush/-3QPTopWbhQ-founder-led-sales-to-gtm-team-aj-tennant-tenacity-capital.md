@@ -4,7 +4,7 @@ title: "Founder-led Sales to GTM Team | AJ Tennant (Tenacity Capital)"
 slug: founder-led-sales-to-gtm-team-aj-tennant-tenacity-capital
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: -3QPTopWbhQ
 url: https://www.youtube.com/watch?v=-3QPTopWbhQ
 youtube_url: https://www.youtube.com/watch?v=-3QPTopWbhQ
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

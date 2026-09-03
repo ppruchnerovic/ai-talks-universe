@@ -4,7 +4,7 @@ title: "Sam Partee on Retrieval Augmented Generation (RAG)"
 slug: sam-partee-on-retrieval-augmented-generation-rag
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: uOUYrpvDZd8
 url: https://www.youtube.com/watch?v=uOUYrpvDZd8
 youtube_url: https://www.youtube.com/watch?v=uOUYrpvDZd8
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

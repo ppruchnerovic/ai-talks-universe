@@ -4,7 +4,7 @@ title: "From ms to µs: OSS Valkey Architecture Patterns for Modern AI"
 slug: from-ms-to-s-oss-valkey-architecture-patterns-for-modern-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Dumanshu Goyal"]
@@ -15,6 +15,7 @@ video_id: iq-valkey-architecture-patterns
 url: https://www.infoq.com/presentations/valkey-architecture-patterns/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

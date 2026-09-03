@@ -4,7 +4,7 @@ title: "A new era of discovery: AI and the frontiers of science with Demis Hassa
 slug: a-new-era-of-discovery-ai-and-the-frontiers-of-science-with
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Mike Allen", "Demis Hassabis"]
@@ -15,6 +15,7 @@ video_id: dgBLVm2L1P4
 url: https://www.youtube.com/watch?v=dgBLVm2L1P4
 youtube_url: https://www.youtube.com/watch?v=dgBLVm2L1P4
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Dialogues;", "ct:Event - AI PA Keynote;"]
+topics: []
 transcript: true
 ---
 

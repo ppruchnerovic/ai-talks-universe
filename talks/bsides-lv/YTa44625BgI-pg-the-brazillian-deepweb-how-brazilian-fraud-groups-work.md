@@ -4,7 +4,7 @@ title: "PG - The Brazillian DeepWeb. How Brazilian fraud groups work on Telegram
 slug: pg-the-brazillian-deepweb-how-brazilian-fraud-groups-work
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: YTa44625BgI
 url: https://www.youtube.com/watch?v=YTa44625BgI
 youtube_url: https://www.youtube.com/watch?v=YTa44625BgI
 tags: []
+topics: []
 transcript: false
 ---
 

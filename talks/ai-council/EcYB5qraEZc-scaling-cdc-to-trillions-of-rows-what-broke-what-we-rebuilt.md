@@ -4,7 +4,7 @@ title: "Scaling CDC to Trillions of Rows: What Broke, What We Rebuilt, and What 
 slug: scaling-cdc-to-trillions-of-rows-what-broke-what-we-rebuilt
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: EcYB5qraEZc
 url: https://www.youtube.com/watch?v=EcYB5qraEZc
 youtube_url: https://www.youtube.com/watch?v=EcYB5qraEZc
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

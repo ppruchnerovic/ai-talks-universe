@@ -4,7 +4,7 @@ title: "Pricing and Packaging Your AI Products for Scale | Ray Summit 2024"
 slug: pricing-and-packaging-your-ai-products-for-scale-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: C74PmqrAhEQ
 url: https://www.youtube.com/watch?v=C74PmqrAhEQ
 youtube_url: https://www.youtube.com/watch?v=C74PmqrAhEQ
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Training Krea 2: What matters in generative model training — Sangwu Le
 slug: training-krea-2-what-matters-in-generative-model-training
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sangwu Lee"]
@@ -15,6 +15,7 @@ video_id: -tviRdpmHvs
 url: https://www.youtube.com/watch?v=-tviRdpmHvs
 youtube_url: https://www.youtube.com/watch?v=-tviRdpmHvs
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Ansh Kanwar and Shon Burton on the Future of AI Agents"
 slug: ansh-kanwar-and-shon-burton-on-the-future-of-ai-agents
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: sVXOYsgIig8
 url: https://www.youtube.com/watch?v=sVXOYsgIig8
 youtube_url: https://www.youtube.com/watch?v=sVXOYsgIig8
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

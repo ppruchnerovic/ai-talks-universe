@@ -4,7 +4,7 @@ title: "Needle in a 930M Member Haystack: People Search AI @LinkedIn"
 slug: needle-in-a-930m-member-haystack-people-search-ai-linkedin
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: mBJoVtMGmtQ
 url: https://www.youtube.com/watch?v=mBJoVtMGmtQ
 youtube_url: https://www.youtube.com/watch?v=mBJoVtMGmtQ
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "LinkedIn", "Search", "Rankings", "Database", "InfoQ", "QCon", "Transcript"]
+topics: []
 transcript: false
 ---
 

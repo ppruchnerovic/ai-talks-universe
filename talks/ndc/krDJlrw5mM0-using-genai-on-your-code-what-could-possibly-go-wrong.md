@@ -4,7 +4,7 @@ title: "Using GenAI on your code, what could possibly go wrong? -"
 slug: using-genai-on-your-code-what-could-possibly-go-wrong
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: krDJlrw5mM0
 url: https://www.youtube.com/watch?v=krDJlrw5mM0
 youtube_url: https://www.youtube.com/watch?v=krDJlrw5mM0
 tags: ["Artificial Intelligence", "AI", "Machine Learning", "ML", "GenAI", "Security", "Application", "NDC", "conferences", "2025", "Live", "Fun", "Oslo"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

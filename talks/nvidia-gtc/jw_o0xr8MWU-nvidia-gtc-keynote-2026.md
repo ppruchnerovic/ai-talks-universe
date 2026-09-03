@@ -4,7 +4,7 @@ title: "NVIDIA GTC Keynote 2026"
 slug: nvidia-gtc-keynote-2026
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: jw_o0xr8MWU
 url: https://www.youtube.com/watch?v=jw_o0xr8MWU
 youtube_url: https://www.youtube.com/watch?v=jw_o0xr8MWU
 tags: ["NVIDIA GTC", "Jensen Huang"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

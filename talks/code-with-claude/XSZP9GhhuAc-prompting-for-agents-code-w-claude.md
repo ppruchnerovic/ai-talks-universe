@@ -4,7 +4,7 @@ title: "Prompting for Agents | Code w/ Claude"
 slug: prompting-for-agents-code-w-claude
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XSZP9GhhuAc
 url: https://www.youtube.com/watch?v=XSZP9GhhuAc
 youtube_url: https://www.youtube.com/watch?v=XSZP9GhhuAc
 tags: []
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: false
 ---
 

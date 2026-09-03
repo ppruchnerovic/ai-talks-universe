@@ -4,7 +4,7 @@ title: "Perceptual Evaluations: Evals for Aesthetics — Diego Rodriguez, Krea.a
 slug: perceptual-evaluations-evals-for-aesthetics-diego-rodriguez
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Diego Rodriguez"]
@@ -15,6 +15,7 @@ video_id: h5ItAJuB3Fc
 url: https://www.youtube.com/watch?v=h5ItAJuB3Fc
 youtube_url: https://www.youtube.com/watch?v=h5ItAJuB3Fc
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

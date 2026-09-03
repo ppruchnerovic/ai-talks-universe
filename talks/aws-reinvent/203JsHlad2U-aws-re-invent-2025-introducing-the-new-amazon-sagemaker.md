@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Introducing the new Amazon SageMaker notebooks for 
 slug: aws-re-invent-2025-introducing-the-new-amazon-sagemaker
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 203JsHlad2U
 url: https://www.youtube.com/watch?v=203JsHlad2U
 youtube_url: https://www.youtube.com/watch?v=203JsHlad2U
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

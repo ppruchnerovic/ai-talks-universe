@@ -4,7 +4,7 @@ title: "Real time Schema Discovery | Streamdal"
 slug: real-time-schema-discovery-streamdal
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: mhBNDolRfPk
 url: https://www.youtube.com/watch?v=mhBNDolRfPk
 youtube_url: https://www.youtube.com/watch?v=mhBNDolRfPk
 tags: ["schema issues", "data streaming", "data engineering", "product"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

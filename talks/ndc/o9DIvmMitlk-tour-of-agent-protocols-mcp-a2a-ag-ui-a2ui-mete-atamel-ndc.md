@@ -4,7 +4,7 @@ title: "Tour of Agent Protocols: MCP, A2A, AG-UI, A2UI - Mete Atamel - NDC Copen
 slug: tour-of-agent-protocols-mcp-a2a-ag-ui-a2ui-mete-atamel-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Mete Atamel"]
@@ -15,6 +15,7 @@ video_id: o9DIvmMitlk
 url: https://www.youtube.com/watch?v=o9DIvmMitlk
 youtube_url: https://www.youtube.com/watch?v=o9DIvmMitlk
 tags: ["AI", "Cloud", "Tools", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Mete Atamel"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

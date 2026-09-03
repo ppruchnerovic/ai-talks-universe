@@ -4,7 +4,7 @@ title: "I Built an AI Personal Assistant on WhatsApp (OpenClaw Guide)"
 slug: i-built-an-ai-personal-assistant-on-whatsapp-openclaw-guide
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: TeUXg0U13r4
 url: https://www.youtube.com/watch?v=TeUXg0U13r4
 youtube_url: https://www.youtube.com/watch?v=TeUXg0U13r4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

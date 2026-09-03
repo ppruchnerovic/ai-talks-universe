@@ -4,7 +4,7 @@ title: "AI and Data Talk with Ekaterina Sirazitdinova, Data Scientist at NVIDIA"
 slug: ai-and-data-talk-with-ekaterina-sirazitdinova-data
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: lZGQu7lResI
 url: https://www.youtube.com/watch?v=lZGQu7lResI
 youtube_url: https://www.youtube.com/watch?v=lZGQu7lResI
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Security, safety & red teaming"]
 transcript: false
 ---
 

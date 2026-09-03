@@ -4,7 +4,7 @@ title: "Your First Pitch Is to AI: How to Make Your Brand/Product Visible in the
 slug: your-first-pitch-is-to-ai-how-to-make-your-brand-product
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Anton Vedeshin, Ph.D."]
@@ -15,6 +15,7 @@ video_id: sy-FlPZtqUQ
 url: https://www.youtube.com/watch?v=sy-FlPZtqUQ
 youtube_url: https://www.youtube.com/watch?v=sy-FlPZtqUQ
 tags: ["Case Study", "Entrepreneurship", "Generative AI (GenAI)", "Large Language Models (LLMs)", "Marketing", "Product Strategy", "SEO", "Startups"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

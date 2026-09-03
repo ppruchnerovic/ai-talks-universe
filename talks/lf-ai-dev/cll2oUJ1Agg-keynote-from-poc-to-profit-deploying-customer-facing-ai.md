@@ -4,7 +4,7 @@ title: "Keynote: From POC to Profit: Deploying Customer-Facing AI Agents That Ac
 slug: keynote-from-poc-to-profit-deploying-customer-facing-ai
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Zhou Yu"]
@@ -15,6 +15,7 @@ video_id: cll2oUJ1Agg
 url: https://www.youtube.com/watch?v=cll2oUJ1Agg
 youtube_url: https://www.youtube.com/watch?v=cll2oUJ1Agg
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

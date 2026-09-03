@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - AI-powered resilience testing and disaster recovery
 slug: aws-re-invent-2025-ai-powered-resilience-testing-and
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: aG033p7YP7w
 url: https://www.youtube.com/watch?v=aG033p7YP7w
 youtube_url: https://www.youtube.com/watch?v=aG033p7YP7w
 tags: []
+topics: []
 transcript: false
 ---
 

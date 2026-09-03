@@ -4,7 +4,7 @@ title: "AI, Corporate Responsibility & Democratic Legitimacy â€¢ Joanna Bryson â
 slug: ai-corporate-responsibility-democratic-legitimacy-joanna
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Joanna Bryson"]
@@ -15,6 +15,7 @@ video_id: 9Yc7Mi7yW7g
 url: https://www.youtube.com/watch?v=9Yc7Mi7yW7g
 youtube_url: https://www.youtube.com/watch?v=9Yc7Mi7yW7g
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "First PyData in Santander - Antonio Pérez Velasco (@Predictia)"
 slug: first-pydata-in-santander-antonio-perez-velasco-predictia
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Antonio Pérez Velasco"]
@@ -15,6 +15,7 @@ video_id: 1COW_2L9ofo
 url: https://www.youtube.com/watch?v=1COW_2L9ofo
 youtube_url: https://www.youtube.com/watch?v=1COW_2L9ofo
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: true
 ---
 

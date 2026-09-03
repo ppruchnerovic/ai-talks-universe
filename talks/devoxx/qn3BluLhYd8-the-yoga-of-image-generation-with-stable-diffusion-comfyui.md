@@ -4,7 +4,7 @@ title: "The Yoga of Image Generation with Stable Diffusion & ComfyUI by Raphaë
 slug: the-yoga-of-image-generation-with-stable-diffusion-comfyui
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qn3BluLhYd8
 url: https://www.youtube.com/watch?v=qn3BluLhYd8
 youtube_url: https://www.youtube.com/watch?v=qn3BluLhYd8
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

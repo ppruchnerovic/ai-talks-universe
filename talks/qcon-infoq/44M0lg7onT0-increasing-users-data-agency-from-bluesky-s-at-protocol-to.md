@@ -4,7 +4,7 @@ title: "Increasing Users’ Data Agency: From BlueSky's AT Protocol to the Local
 slug: increasing-users-data-agency-from-bluesky-s-at-protocol-to
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 44M0lg7onT0
 url: https://www.youtube.com/watch?v=44M0lg7onT0
 youtube_url: https://www.youtube.com/watch?v=44M0lg7onT0
 tags: []
+topics: []
 transcript: true
 ---
 

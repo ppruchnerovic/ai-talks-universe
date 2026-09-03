@@ -4,7 +4,7 @@ title: "Engineering/Manager Pendulum: Generating compound interest on your caree
 slug: engineering-manager-pendulum-generating-compound-interest
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Marcin Olichwirowicz"]
@@ -15,6 +15,7 @@ video_id: pTmqsWqHlYQ
 url: https://www.youtube.com/watch?v=pTmqsWqHlYQ
 youtube_url: https://www.youtube.com/watch?v=pTmqsWqHlYQ
 tags: ["Career & Growth", "Career Development"]
+topics: []
 transcript: true
 ---
 

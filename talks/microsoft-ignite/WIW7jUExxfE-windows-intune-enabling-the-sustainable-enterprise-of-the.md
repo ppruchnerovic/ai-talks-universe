@@ -4,7 +4,7 @@ title: "Windows & Intune: Enabling the Sustainable Enterprise of the Future | OD
 slug: windows-intune-enabling-the-sustainable-enterprise-of-the
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Serah Delaini", "Ugochi Nweze"]
@@ -15,6 +15,7 @@ video_id: WIW7jUExxfE
 url: https://www.youtube.com/watch?v=WIW7jUExxfE
 youtube_url: https://www.youtube.com/watch?v=WIW7jUExxfE
 tags: ["English (US)", "OD1319", "OD1319_v1", "Scale with cloud and AI endpoints", "Serah Delaini", "Technical", "Ugochi Nweze", "Windows & Intune: Enabling the Sustainable Enterprise of the Future | OD1319", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

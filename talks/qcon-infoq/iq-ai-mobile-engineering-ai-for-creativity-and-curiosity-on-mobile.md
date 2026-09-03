@@ -4,7 +4,7 @@ title: "Engineering AI for Creativity and Curiosity on Mobile"
 slug: engineering-ai-for-creativity-and-curiosity-on-mobile
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Bhavuk Jain"]
@@ -15,6 +15,7 @@ video_id: iq-ai-mobile
 url: https://www.infoq.com/presentations/ai-mobile/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

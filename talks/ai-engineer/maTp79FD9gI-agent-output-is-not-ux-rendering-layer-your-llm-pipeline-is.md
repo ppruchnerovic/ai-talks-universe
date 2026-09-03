@@ -4,7 +4,7 @@ title: "Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - B
 slug: agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Bala Ramdoss"]
@@ -15,6 +15,7 @@ video_id: maTp79FD9gI
 url: https://www.youtube.com/watch?v=maTp79FD9gI
 youtube_url: https://www.youtube.com/watch?v=maTp79FD9gI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

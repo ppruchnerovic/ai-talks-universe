@@ -4,7 +4,7 @@ title: "Accelerate Data and AI transformation with Azure Databricks | BRK128"
 slug: accelerate-data-and-ai-transformation-with-azure-databricks
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["William Hendry", "Miranda Luna", "Anavi Nahar"]
@@ -15,6 +15,7 @@ video_id: HhtEAfo3cb4
 url: https://www.youtube.com/watch?v=HhtEAfo3cb4
 youtube_url: https://www.youtube.com/watch?v=HhtEAfo3cb4
 tags: ["8e7c0137-4f21-4976-8ece-7f8e201e5d8b_Segment", "Accelerate Data and AI transformation with Azure Databricks | BRK128", "Anavi Nahar", "BRK128", "English (US)", "Miranda Luna", "Technical", "Unify your data platform", "Unify your data platform:Azure Databricks", "William Hendry", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

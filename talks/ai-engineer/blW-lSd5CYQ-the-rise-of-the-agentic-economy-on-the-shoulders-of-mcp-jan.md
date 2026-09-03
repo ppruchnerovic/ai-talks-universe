@@ -4,7 +4,7 @@ title: "The rise of the agentic economy on the shoulders of MCP — Jan Curn, Ap
 slug: the-rise-of-the-agentic-economy-on-the-shoulders-of-mcp-jan
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jan Curn"]
@@ -15,6 +15,7 @@ video_id: blW-lSd5CYQ
 url: https://www.youtube.com/watch?v=blW-lSd5CYQ
 youtube_url: https://www.youtube.com/watch?v=blW-lSd5CYQ
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

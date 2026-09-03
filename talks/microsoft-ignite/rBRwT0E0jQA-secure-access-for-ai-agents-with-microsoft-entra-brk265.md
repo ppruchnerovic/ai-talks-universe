@@ -4,7 +4,7 @@ title: "Secure access for AI agents with Microsoft Entra | BRK265"
 slug: secure-access-for-ai-agents-with-microsoft-entra-brk265
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Alex Simons", "Sharon Sandhu", "Ehud Itshaki"]
@@ -15,6 +15,7 @@ video_id: rBRwT0E0jQA
 url: https://www.youtube.com/watch?v=rBRwT0E0jQA
 youtube_url: https://www.youtube.com/watch?v=rBRwT0E0jQA
 tags: ["Alex Simons", "BRK265", "BRK265_v1", "Ehud Itshaki", "English (US)", "Protect cloud AI platform and apps", "Secure access for AI agents with Microsoft Entra | BRK265", "Sharon Sandhu", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

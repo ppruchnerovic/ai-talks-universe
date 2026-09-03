@@ -4,7 +4,7 @@ title: "Enhancing Training Data Pipelines with Lance and the Multimodal Lakehous
 slug: enhancing-training-data-pipelines-with-lance-and-the
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: P5Lo9rYOS1U
 url: https://www.youtube.com/watch?v=P5Lo9rYOS1U
 youtube_url: https://www.youtube.com/watch?v=P5Lo9rYOS1U
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

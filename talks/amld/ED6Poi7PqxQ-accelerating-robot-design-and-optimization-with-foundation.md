@@ -4,7 +4,7 @@ title: "Accelerating Robot Design and Optimization with Foundation Models | Josi
 slug: accelerating-robot-design-and-optimization-with-foundation
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Josie Hughes"]
@@ -15,6 +15,7 @@ video_id: ED6Poi7PqxQ
 url: https://www.youtube.com/watch?v=ED6Poi7PqxQ
 youtube_url: https://www.youtube.com/watch?v=ED6Poi7PqxQ
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

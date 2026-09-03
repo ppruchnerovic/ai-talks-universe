@@ -4,7 +4,7 @@ title: "Supercharge your data with Azure AI Search and OpenAI - Peter Gallagher 
 slug: supercharge-your-data-with-azure-ai-search-and-openai-peter
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Peter Gallagher"]
@@ -15,6 +15,7 @@ video_id: kAdbFoqdQAo
 url: https://www.youtube.com/watch?v=kAdbFoqdQAo
 youtube_url: https://www.youtube.com/watch?v=kAdbFoqdQAo
 tags: []
+topics: []
 transcript: false
 ---
 

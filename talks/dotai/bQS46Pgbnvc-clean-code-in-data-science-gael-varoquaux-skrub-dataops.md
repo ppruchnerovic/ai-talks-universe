@@ -4,7 +4,7 @@ title: "Clean code in Data Science - Gael Varoquaux - Skrub DataOps, Probabl:"
 slug: clean-code-in-data-science-gael-varoquaux-skrub-dataops
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Gael Varoquaux"]
@@ -15,6 +15,7 @@ video_id: bQS46Pgbnvc
 url: https://www.youtube.com/watch?v=bQS46Pgbnvc
 youtube_url: https://www.youtube.com/watch?v=bQS46Pgbnvc
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

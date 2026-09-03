@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Breaking the Blindfold: Deep Learning-based Blind 
 slug: usenix-security-25-breaking-the-blindfold-deep-learning
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Q7UjBvix-Uc
 url: https://www.youtube.com/watch?v=Q7UjBvix-Uc
 youtube_url: https://www.youtube.com/watch?v=Q7UjBvix-Uc
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

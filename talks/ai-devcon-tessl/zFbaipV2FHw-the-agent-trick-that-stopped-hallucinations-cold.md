@@ -4,7 +4,7 @@ title: "The Agent Trick That Stopped Hallucinations Cold"
 slug: the-agent-trick-that-stopped-hallucinations-cold
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: zFbaipV2FHw
 url: https://www.youtube.com/watch?v=zFbaipV2FHw
 youtube_url: https://www.youtube.com/watch?v=zFbaipV2FHw
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

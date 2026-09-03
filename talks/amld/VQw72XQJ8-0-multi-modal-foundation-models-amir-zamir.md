@@ -4,7 +4,7 @@ title: "Multi-Modal Foundation Models | Amir Zamir"
 slug: multi-modal-foundation-models-amir-zamir
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Amir Zamir"]
@@ -15,6 +15,7 @@ video_id: VQw72XQJ8-0
 url: https://www.youtube.com/watch?v=VQw72XQJ8-0
 youtube_url: https://www.youtube.com/watch?v=VQw72XQJ8-0
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

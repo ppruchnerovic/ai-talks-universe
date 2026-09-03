@@ -4,7 +4,7 @@ title: "Scaling Ray to 10K NPUs: Huawei's Hyperscale Journey | Ray Summit 2024"
 slug: scaling-ray-to-10k-npus-huawei-s-hyperscale-journey-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: TSAWC-ZZwv4
 url: https://www.youtube.com/watch?v=TSAWC-ZZwv4
 youtube_url: https://www.youtube.com/watch?v=TSAWC-ZZwv4
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

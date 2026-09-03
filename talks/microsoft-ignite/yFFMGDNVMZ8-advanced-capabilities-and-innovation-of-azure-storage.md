@@ -4,7 +4,7 @@ title: "Advanced capabilities and innovation of Azure Storage solutions | BRK159
 slug: advanced-capabilities-and-innovation-of-azure-storage
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Yuemin Lu", "Aung Oo", "Lena Ye"]
@@ -15,6 +15,7 @@ video_id: yFFMGDNVMZ8
 url: https://www.youtube.com/watch?v=yFFMGDNVMZ8
 youtube_url: https://www.youtube.com/watch?v=yFFMGDNVMZ8
 tags: ["Advanced capabilities and innovation of Azure Storage solutions | BRK159", "Aung Oo", "BRK159", "English (US)", "Lena Ye", "Migrate and modernize your estate", "Technical", "Yuemin Lu", "aabcb448-21ef-45b1-98de-ff0b72e3601a_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Windsurf everywhere, doing everything, all at once - Kevin Hou, Windsurf
 slug: windsurf-everywhere-doing-everything-all-at-once-kevin-hou
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kevin Hou"]
@@ -15,6 +15,7 @@ video_id: JVuNPL5QO8Q
 url: https://www.youtube.com/watch?v=JVuNPL5QO8Q
 youtube_url: https://www.youtube.com/watch?v=JVuNPL5QO8Q
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

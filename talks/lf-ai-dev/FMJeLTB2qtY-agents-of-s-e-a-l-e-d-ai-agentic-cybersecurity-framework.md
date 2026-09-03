@@ -4,7 +4,7 @@ title: "AGENTS OF S.E.A.L.E.D: AI Agentic Cybersecurity Framework - Krishnendu D
 slug: agents-of-s-e-a-l-e-d-ai-agentic-cybersecurity-framework
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Krishnendu Dasgupta"]
@@ -15,6 +15,7 @@ video_id: FMJeLTB2qtY
 url: https://www.youtube.com/watch?v=FMJeLTB2qtY
 youtube_url: https://www.youtube.com/watch?v=FMJeLTB2qtY
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

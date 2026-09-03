@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Atai Barkai: Fullstack Agents & Generative UI with AG U
 slug: ai-dev-26-x-sf-atai-barkai-fullstack-agents-generative-ui
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: EeyLHsND5i0
 url: https://www.youtube.com/watch?v=EeyLHsND5i0
 youtube_url: https://www.youtube.com/watch?v=EeyLHsND5i0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

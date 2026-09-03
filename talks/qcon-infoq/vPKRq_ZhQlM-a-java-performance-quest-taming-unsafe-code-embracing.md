@@ -4,7 +4,7 @@ title: "A Java Performance Quest: Taming Unsafe Code, Embracing Idiomatic Style 
 slug: a-java-performance-quest-taming-unsafe-code-embracing
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: vPKRq_ZhQlM
 url: https://www.youtube.com/watch?v=vPKRq_ZhQlM
 youtube_url: https://www.youtube.com/watch?v=vPKRq_ZhQlM
 tags: []
+topics: []
 transcript: true
 ---
 

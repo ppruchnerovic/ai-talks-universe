@@ -4,7 +4,7 @@ title: "GitHub Copilot: Leading the AI revolution in software development"
 slug: github-copilot-leading-the-ai-revolution-in-software
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: e1kdkKDXmiM
 url: https://www.youtube.com/watch?v=e1kdkKDXmiM
 youtube_url: https://www.youtube.com/watch?v=e1kdkKDXmiM
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

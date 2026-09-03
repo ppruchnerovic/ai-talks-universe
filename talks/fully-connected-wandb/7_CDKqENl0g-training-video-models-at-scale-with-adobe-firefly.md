@@ -4,7 +4,7 @@ title: "Training video models at scale with Adobe Firefly"
 slug: training-video-models-at-scale-with-adobe-firefly
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7_CDKqENl0g
 url: https://www.youtube.com/watch?v=7_CDKqENl0g
 youtube_url: https://www.youtube.com/watch?v=7_CDKqENl0g
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

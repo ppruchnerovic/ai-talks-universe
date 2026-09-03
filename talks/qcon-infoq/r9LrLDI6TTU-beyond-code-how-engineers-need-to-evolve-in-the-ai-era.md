@@ -4,7 +4,7 @@ title: "Beyond Code: How Engineers Need to Evolve in the AI Era"
 slug: beyond-code-how-engineers-need-to-evolve-in-the-ai-era
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: r9LrLDI6TTU
 url: https://www.youtube.com/watch?v=r9LrLDI6TTU
 youtube_url: https://www.youtube.com/watch?v=r9LrLDI6TTU
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

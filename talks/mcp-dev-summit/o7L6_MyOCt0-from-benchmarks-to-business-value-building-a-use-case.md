@@ -4,7 +4,7 @@ title: "From Benchmarks To Business Value: Building a Use-Case Specific Agen... 
 slug: from-benchmarks-to-business-value-building-a-use-case
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: o7L6_MyOCt0
 url: https://www.youtube.com/watch?v=o7L6_MyOCt0
 youtube_url: https://www.youtube.com/watch?v=o7L6_MyOCt0
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

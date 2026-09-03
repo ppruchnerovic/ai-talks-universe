@@ -4,7 +4,7 @@ title: "AI Agents for Performance: Ship Faster, Pay Less — Rajat Shah, Netflix
 slug: ai-agents-for-performance-ship-faster-pay-less-rajat-shah
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rajat Shah"]
@@ -15,6 +15,7 @@ video_id: CgsWxRUY5Eo
 url: https://www.youtube.com/watch?v=CgsWxRUY5Eo
 youtube_url: https://www.youtube.com/watch?v=CgsWxRUY5Eo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Optimization and Contextual Bandits at Stripe"
 slug: optimization-and-contextual-bandits-at-stripe
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Brent Cohn"]
@@ -15,6 +15,7 @@ video_id: R6jfAlVjz5I
 url: https://www.youtube.com/watch?v=R6jfAlVjz5I
 youtube_url: https://www.youtube.com/watch?v=R6jfAlVjz5I
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

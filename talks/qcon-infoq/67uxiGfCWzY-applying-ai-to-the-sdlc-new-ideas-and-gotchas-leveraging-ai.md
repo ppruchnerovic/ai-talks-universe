@@ -4,7 +4,7 @@ title: "Applying AI to the SDLC: New Ideas and Gotchas! - Leveraging AI to Impro
 slug: applying-ai-to-the-sdlc-new-ideas-and-gotchas-leveraging-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 67uxiGfCWzY
 url: https://www.youtube.com/watch?v=67uxiGfCWzY
 youtube_url: https://www.youtube.com/watch?v=67uxiGfCWzY
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Generative AI", "Software Engineering", "DevSecOps", "Software Development Lifecycle", "Software Development", "InfoQ", "QCon London", "Transcript"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

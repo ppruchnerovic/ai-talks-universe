@@ -4,7 +4,7 @@ title: "AI customization: Optimize Phi and SLMs performance | BRK114"
 slug: ai-customization-optimize-phi-and-slms-performance-brk114
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Martin Cai", "Gina Lee", "Sameer Sharma"]
@@ -15,6 +15,7 @@ video_id: EcoqvGivPaA
 url: https://www.youtube.com/watch?v=EcoqvGivPaA
 youtube_url: https://www.youtube.com/watch?v=EcoqvGivPaA
 tags: ["AI", "AI customization: Optimize Phi and SLMs performance | BRK114", "Azure", "Azure AI", "BRK114", "Breakout", "English (US)", "Gina Lee", "Intermediate (200)", "MachineLearning", "Martin Cai", "Models", "Sameer Sharma", "Services", "Software Company", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

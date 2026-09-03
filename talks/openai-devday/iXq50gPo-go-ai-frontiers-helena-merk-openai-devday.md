@@ -4,7 +4,7 @@ title: "AI Frontiers: Helena Merk (OpenAI DevDay)"
 slug: ai-frontiers-helena-merk-openai-devday
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: iXq50gPo-go
 url: https://www.youtube.com/watch?v=iXq50gPo-go
 youtube_url: https://www.youtube.com/watch?v=iXq50gPo-go
 tags: []
+topics: []
 transcript: false
 ---
 

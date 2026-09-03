@@ -4,7 +4,7 @@ title: "Tackling Deepfakes, Wars, and Other Security Threats in the GenAI World"
 slug: tackling-deepfakes-wars-and-other-security-threats-in-the
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: l9SErt3j_YA
 url: https://www.youtube.com/watch?v=l9SErt3j_YA
 youtube_url: https://www.youtube.com/watch?v=l9SErt3j_YA
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

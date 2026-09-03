@@ -4,7 +4,7 @@ title: "Robots vs. Robots: Stories from the Frontlines of the Agentic Revolution
 slug: robots-vs-robots-stories-from-the-frontlines-of-the-agentic
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: daMEEWVlgY8
 url: https://www.youtube.com/watch?v=daMEEWVlgY8
 youtube_url: https://www.youtube.com/watch?v=daMEEWVlgY8
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics", "Security, safety & red teaming"]
 transcript: true
 ---
 

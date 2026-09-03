@@ -4,7 +4,7 @@ title: "20 billion requests a week: Upgrading Twilio's API gateway at scale"
 slug: 20-billion-requests-a-week-upgrading-twilio-s-api-gateway
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ainhoa Arruabarrena Ortiz", "Mario Román Dono", "Marius Obert"]
@@ -15,6 +15,7 @@ video_id: PoQymqm7cNo
 url: https://www.youtube.com/watch?v=PoQymqm7cNo
 youtube_url: https://www.youtube.com/watch?v=PoQymqm7cNo
 tags: ["Backend & APIs", "APIs", "Microservices"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

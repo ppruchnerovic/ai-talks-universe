@@ -4,7 +4,7 @@ title: "Tool, skill, or subagent? Decomposing an agent that outgrew its prompt"
 slug: tool-skill-or-subagent-decomposing-an-agent-that-outgrew
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: mWvtOHlZM-I
 url: https://www.youtube.com/watch?v=mWvtOHlZM-I
 youtube_url: https://www.youtube.com/watch?v=mWvtOHlZM-I
 tags: []
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

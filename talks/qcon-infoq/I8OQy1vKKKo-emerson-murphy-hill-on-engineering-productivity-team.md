@@ -4,7 +4,7 @@ title: "Emerson Murphy-Hill on Engineering Productivity, Team Dynamics and Equit
 slug: emerson-murphy-hill-on-engineering-productivity-team
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: I8OQy1vKKKo
 url: https://www.youtube.com/watch?v=I8OQy1vKKKo
 youtube_url: https://www.youtube.com/watch?v=I8OQy1vKKKo
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

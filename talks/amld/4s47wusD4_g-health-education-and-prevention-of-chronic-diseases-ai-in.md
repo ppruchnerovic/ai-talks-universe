@@ -4,7 +4,7 @@ title: "Health education and prevention of chronic diseases | AI in Public Healt
 slug: health-education-and-prevention-of-chronic-diseases-ai-in
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4s47wusD4_g
 url: https://www.youtube.com/watch?v=4s47wusD4_g
 youtube_url: https://www.youtube.com/watch?v=4s47wusD4_g
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

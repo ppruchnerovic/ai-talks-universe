@@ -4,7 +4,7 @@ title: "The $2B AI Startup Backed By Nvidia & Adobe | Synthesia"
 slug: the-2b-ai-startup-backed-by-nvidia-adobe-synthesia
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5OS3pZ3yXrg
 url: https://www.youtube.com/watch?v=5OS3pZ3yXrg
 youtube_url: https://www.youtube.com/watch?v=5OS3pZ3yXrg
 tags: ["ainativedev"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

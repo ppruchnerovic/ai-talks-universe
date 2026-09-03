@@ -4,7 +4,7 @@ title: "Brokk: an AI Native Code Platform for Java, in Java by Jonathan Ellis"
 slug: brokk-an-ai-native-code-platform-for-java-in-java-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Jonathan Ellis"]
@@ -15,6 +15,7 @@ video_id: DUFrGRbiRmU
 url: https://www.youtube.com/watch?v=DUFrGRbiRmU
 youtube_url: https://www.youtube.com/watch?v=DUFrGRbiRmU
 tags: []
+topics: []
 transcript: false
 ---
 

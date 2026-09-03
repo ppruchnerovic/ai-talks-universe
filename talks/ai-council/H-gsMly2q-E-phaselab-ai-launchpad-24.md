@@ -4,7 +4,7 @@ title: "Phaselab | AI Launchpad '24"
 slug: phaselab-ai-launchpad-24
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Josh Schwartz"]
@@ -15,6 +15,7 @@ video_id: H-gsMly2q-E
 url: https://www.youtube.com/watch?v=H-gsMly2q-E
 youtube_url: https://www.youtube.com/watch?v=H-gsMly2q-E
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Kiro: Your agentic IDE for spec-driven development 
 slug: aws-re-invent-2025-kiro-your-agentic-ide-for-spec-driven
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: S8G0qRuWweA
 url: https://www.youtube.com/watch?v=S8G0qRuWweA
 youtube_url: https://www.youtube.com/watch?v=S8G0qRuWweA
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

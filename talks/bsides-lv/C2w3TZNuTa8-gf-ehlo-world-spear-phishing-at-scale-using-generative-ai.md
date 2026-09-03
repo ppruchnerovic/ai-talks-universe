@@ -4,7 +4,7 @@ title: "GF - EHLO World: Spear-Phishing at Scale using Generative AI"
 slug: gf-ehlo-world-spear-phishing-at-scale-using-generative-ai
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: C2w3TZNuTa8
 url: https://www.youtube.com/watch?v=C2w3TZNuTa8
 youtube_url: https://www.youtube.com/watch?v=C2w3TZNuTa8
 tags: ["JJZWLU"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

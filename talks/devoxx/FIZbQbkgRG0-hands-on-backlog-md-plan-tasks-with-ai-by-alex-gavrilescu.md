@@ -4,7 +4,7 @@ title: "Hands on: Backlog.md: Plan Tasks with AI By Alex Gavrilescu"
 slug: hands-on-backlog-md-plan-tasks-with-ai-by-alex-gavrilescu
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: FIZbQbkgRG0
 url: https://www.youtube.com/watch?v=FIZbQbkgRG0
 youtube_url: https://www.youtube.com/watch?v=FIZbQbkgRG0
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

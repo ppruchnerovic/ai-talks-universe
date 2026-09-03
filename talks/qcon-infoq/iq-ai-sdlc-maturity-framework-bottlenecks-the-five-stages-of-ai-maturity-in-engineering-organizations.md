@@ -4,7 +4,7 @@ title: "The Five Stages of AI Maturity in Engineering Organizations - Where and 
 slug: the-five-stages-of-ai-maturity-in-engineering-organizations
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI Boston 2026"
 year: 2026
 speakers: ["Lizzie Matusov"]
@@ -15,6 +15,7 @@ video_id: iq-ai-sdlc-maturity-framework-bottlenecks
 url: https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

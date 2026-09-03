@@ -4,7 +4,7 @@ title: "Measuring Coding Agent Readiness: Framework for Enterprise AI Dev – Up
 slug: measuring-coding-agent-readiness-framework-for-enterprise
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2026
 speakers: ["Guillaume Moigneu"]
@@ -15,6 +15,7 @@ video_id: IgP_c4qkWxM
 url: https://www.youtube.com/watch?v=IgP_c4qkWxM
 youtube_url: https://www.youtube.com/watch?v=IgP_c4qkWxM
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

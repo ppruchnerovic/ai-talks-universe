@@ -4,7 +4,7 @@ title: "BoF: Open Source & AI: Where OSPOs Make It Work"
 slug: bof-open-source-ai-where-ospos-make-it-work
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: gJBRKNfex5Y
 url: https://www.youtube.com/watch?v=gJBRKNfex5Y
 youtube_url: https://www.youtube.com/watch?v=gJBRKNfex5Y
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

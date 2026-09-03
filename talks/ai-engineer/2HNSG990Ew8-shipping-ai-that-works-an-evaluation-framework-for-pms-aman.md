@@ -4,7 +4,7 @@ title: "Shipping AI That Works: An Evaluation Framework for PMs – Aman Khan, A
 slug: shipping-ai-that-works-an-evaluation-framework-for-pms-aman
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Aman Khan"]
@@ -15,6 +15,7 @@ video_id: 2HNSG990Ew8
 url: https://www.youtube.com/watch?v=2HNSG990Ew8
 youtube_url: https://www.youtube.com/watch?v=2HNSG990Ew8
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

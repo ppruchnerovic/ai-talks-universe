@@ -4,7 +4,7 @@ title: "Building agentic systems with VS Code extensibility and GitHub Copilot a
 slug: building-agentic-systems-with-vs-code-extensibility-and
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8rkA5vWUE4Y
 url: https://www.youtube.com/watch?v=8rkA5vWUE4Y
 youtube_url: https://www.youtube.com/watch?v=8rkA5vWUE4Y
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

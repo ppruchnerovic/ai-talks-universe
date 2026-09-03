@@ -4,7 +4,7 @@ title: "Prompt Hardening - Secure Code Generation Using AI - Sean Sinclair - NDC
 slug: prompt-hardening-secure-code-generation-using-ai-sean
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Prompt Hardening", "Sean Sinclair"]
@@ -15,6 +15,7 @@ video_id: bKphnQByVZI
 url: https://www.youtube.com/watch?v=bKphnQByVZI
 youtube_url: https://www.youtube.com/watch?v=bKphnQByVZI
 tags: []
+topics: ["Coding assistants & agents", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: false
 ---
 

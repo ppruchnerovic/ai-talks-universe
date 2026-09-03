@@ -4,7 +4,7 @@ title: "Privacy as Infrastructure: Declarative Data Protection fo... Joaquin Rod
 slug: privacy-as-infrastructure-declarative-data-protection-fo
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: mkAaguXm1ag
 url: https://www.youtube.com/watch?v=mkAaguXm1ag
 youtube_url: https://www.youtube.com/watch?v=mkAaguXm1ag
 tags: []
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Designing VS Code’s UX for the Agentic Era | LIVE156"
 slug: designing-vs-codes-ux-for-the-agentic-era-live156
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Joanna Oikawa", "Burke Holland"]
@@ -15,6 +15,7 @@ video_id: ZDYphmbJUJw
 url: https://www.youtube.com/watch?v=ZDYphmbJUJw
 youtube_url: https://www.youtube.com/watch?v=ZDYphmbJUJw
 tags: ["Burke Holland", "Designing VS Code’s UX for the Agentic Era | LIVE156", "Joanna Oikawa", "LIVE156", "LIVE156_v1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

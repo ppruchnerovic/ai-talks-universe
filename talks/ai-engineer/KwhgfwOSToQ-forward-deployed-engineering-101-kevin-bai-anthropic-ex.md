@@ -4,7 +4,7 @@ title: "Forward Deployed Engineering 101 — Kevin Bai, Anthropic, ex Palantir &
 slug: forward-deployed-engineering-101-kevin-bai-anthropic-ex
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kevin Bai"]
@@ -15,6 +15,7 @@ video_id: KwhgfwOSToQ
 url: https://www.youtube.com/watch?v=KwhgfwOSToQ
 youtube_url: https://www.youtube.com/watch?v=KwhgfwOSToQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

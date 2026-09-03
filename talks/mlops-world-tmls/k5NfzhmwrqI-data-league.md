@@ -4,7 +4,7 @@ title: "Data @ League"
 slug: data-league
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Riot Games"]
@@ -15,6 +15,7 @@ video_id: k5NfzhmwrqI
 url: https://www.youtube.com/watch?v=k5NfzhmwrqI
 youtube_url: https://www.youtube.com/watch?v=k5NfzhmwrqI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

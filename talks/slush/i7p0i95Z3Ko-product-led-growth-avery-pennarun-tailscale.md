@@ -4,7 +4,7 @@ title: "Product-led Growth | Avery Pennarun (Tailscale)"
 slug: product-led-growth-avery-pennarun-tailscale
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Product-led Growth", "Avery Pennarun"]
@@ -15,6 +15,7 @@ video_id: i7p0i95Z3Ko
 url: https://www.youtube.com/watch?v=i7p0i95Z3Ko
 youtube_url: https://www.youtube.com/watch?v=i7p0i95Z3Ko
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "HuggingFace + Ray AIR Integration: A Python Developer’s Guide to Scali
 slug: huggingface-ray-air-integration-a-python-developers-guide
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7CLoxEU-Z0M
 url: https://www.youtube.com/watch?v=7CLoxEU-Z0M
 youtube_url: https://www.youtube.com/watch?v=7CLoxEU-Z0M
 tags: ["Python", "opensource", "machine learning", "Ray", "AI"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

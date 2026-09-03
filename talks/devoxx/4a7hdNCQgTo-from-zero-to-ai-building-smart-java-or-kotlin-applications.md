@@ -4,7 +4,7 @@ title: "From Zero to AI: Building Smart Java or Kotlin Applications with Spring 
 slug: from-zero-to-ai-building-smart-java-or-kotlin-applications
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Christian Tzolov"]
@@ -15,6 +15,7 @@ video_id: 4a7hdNCQgTo
 url: https://www.youtube.com/watch?v=4a7hdNCQgTo
 youtube_url: https://www.youtube.com/watch?v=4a7hdNCQgTo
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

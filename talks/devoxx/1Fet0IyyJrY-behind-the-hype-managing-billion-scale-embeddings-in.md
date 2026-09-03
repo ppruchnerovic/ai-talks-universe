@@ -4,7 +4,7 @@ title: "Behind the hype: managing billion-scale embeddings in Elasticsearch and 
 slug: behind-the-hype-managing-billion-scale-embeddings-in
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Pietro Mele"]
@@ -15,6 +15,7 @@ video_id: 1Fet0IyyJrY
 url: https://www.youtube.com/watch?v=1Fet0IyyJrY
 youtube_url: https://www.youtube.com/watch?v=1Fet0IyyJrY
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

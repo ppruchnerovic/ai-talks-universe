@@ -4,7 +4,7 @@ title: "Claudio Pinhanez - The Non-Determinism of Small LLMs"
 slug: claudio-pinhanez-the-non-determinism-of-small-llms
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Claudio Pinhanez"]
@@ -15,6 +15,7 @@ video_id: lRY8jedtSPQ
 url: https://www.youtube.com/watch?v=lRY8jedtSPQ
 youtube_url: https://www.youtube.com/watch?v=lRY8jedtSPQ
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

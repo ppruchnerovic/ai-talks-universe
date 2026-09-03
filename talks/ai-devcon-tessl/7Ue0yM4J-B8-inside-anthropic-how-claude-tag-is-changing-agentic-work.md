@@ -4,7 +4,7 @@ title: "Inside Anthropic: How Claude Tag Is Changing Agentic Work"
 slug: inside-anthropic-how-claude-tag-is-changing-agentic-work
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7Ue0yM4J-B8
 url: https://www.youtube.com/watch?v=7Ue0yM4J-B8
 youtube_url: https://www.youtube.com/watch?v=7Ue0yM4J-B8
 tags: ["AI agents", "AI development", "AI teammates", "Anthropic", "Claude Code", "Claude Code vs Claude Tag", "Claude Tag in Slack", "Simon Maple interview", "agent identities", "agentic coding", "agentic coding explained", "ainativedev", "how does Claude Tag work", "multiplayer AI", "what is Claude Tag"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

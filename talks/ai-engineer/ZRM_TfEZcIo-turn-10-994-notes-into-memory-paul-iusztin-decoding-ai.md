@@ -4,7 +4,7 @@ title: "Turn 10,994 Notes Into Memory - Paul Iusztin, Decoding AI & Louis-Franç
 slug: turn-10-994-notes-into-memory-paul-iusztin-decoding-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Paul Iusztin"]
@@ -15,6 +15,7 @@ video_id: ZRM_TfEZcIo
 url: https://www.youtube.com/watch?v=ZRM_TfEZcIo
 youtube_url: https://www.youtube.com/watch?v=ZRM_TfEZcIo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Prompting & context engineering", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

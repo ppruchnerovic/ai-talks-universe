@@ -4,7 +4,7 @@ title: "Building a Domain Specific GenAI Chatbot with Serverless • Eric Johnso
 slug: building-a-domain-specific-genai-chatbot-with-serverless
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Eric Johnson"]
@@ -15,6 +15,7 @@ video_id: bhxcZaiPsyo
 url: https://www.youtube.com/watch?v=bhxcZaiPsyo
 youtube_url: https://www.youtube.com/watch?v=bhxcZaiPsyo
 tags: []
+topics: []
 transcript: false
 ---
 

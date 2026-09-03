@@ -4,7 +4,7 @@ title: "Technical Enshittification: Why Everything in IT is Horrible Right Now a
 slug: technical-enshittification-why-everything-in-it-is-horrible
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Baruch S"]
@@ -15,6 +15,7 @@ video_id: S3v4YrYBcr0
 url: https://www.youtube.com/watch?v=S3v4YrYBcr0
 youtube_url: https://www.youtube.com/watch?v=S3v4YrYBcr0
 tags: []
+topics: []
 transcript: true
 ---
 

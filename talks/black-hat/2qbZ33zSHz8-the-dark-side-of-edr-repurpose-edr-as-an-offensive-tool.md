@@ -4,7 +4,7 @@ title: "The Dark Side of EDR: Repurpose EDR as an Offensive Tool"
 slug: the-dark-side-of-edr-repurpose-edr-as-an-offensive-tool
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2qbZ33zSHz8
 url: https://www.youtube.com/watch?v=2qbZ33zSHz8
 youtube_url: https://www.youtube.com/watch?v=2qbZ33zSHz8
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

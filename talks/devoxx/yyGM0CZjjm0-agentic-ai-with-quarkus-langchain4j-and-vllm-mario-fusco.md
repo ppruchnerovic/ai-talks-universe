@@ -4,7 +4,7 @@ title: "Agentic AI with Quarkus, LangChain4j and vLLM - Mario Fusco & Daniele Zo
 slug: agentic-ai-with-quarkus-langchain4j-and-vllm-mario-fusco
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Mario Fusco", "Daniele Zonca"]
@@ -15,6 +15,7 @@ video_id: yyGM0CZjjm0
 url: https://www.youtube.com/watch?v=yyGM0CZjjm0
 youtube_url: https://www.youtube.com/watch?v=yyGM0CZjjm0
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

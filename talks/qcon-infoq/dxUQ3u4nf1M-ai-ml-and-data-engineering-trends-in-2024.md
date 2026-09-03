@@ -4,7 +4,7 @@ title: "AI, ML, and Data Engineering Trends in 2024"
 slug: ai-ml-and-data-engineering-trends-in-2024
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: dxUQ3u4nf1M
 url: https://www.youtube.com/watch?v=dxUQ3u4nf1M
 youtube_url: https://www.youtube.com/watch?v=dxUQ3u4nf1M
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

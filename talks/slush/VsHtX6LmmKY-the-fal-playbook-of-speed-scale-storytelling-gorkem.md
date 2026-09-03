@@ -4,7 +4,7 @@ title: "The fal Playbook of Speed, Scale & Storytelling | Görkem Yurtseven (fal
 slug: the-fal-playbook-of-speed-scale-storytelling-gorkem
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Görkem Yurtseven"]
@@ -15,6 +15,7 @@ video_id: VsHtX6LmmKY
 url: https://www.youtube.com/watch?v=VsHtX6LmmKY
 youtube_url: https://www.youtube.com/watch?v=VsHtX6LmmKY
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

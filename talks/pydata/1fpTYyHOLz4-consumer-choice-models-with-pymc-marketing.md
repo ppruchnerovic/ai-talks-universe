@@ -4,7 +4,7 @@ title: "Consumer Choice Models with PyMC Marketing"
 slug: consumer-choice-models-with-pymc-marketing
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Nathaniel Forde"]
@@ -15,6 +15,7 @@ video_id: 1fpTYyHOLz4
 url: https://www.youtube.com/watch?v=1fpTYyHOLz4
 youtube_url: https://www.youtube.com/watch?v=1fpTYyHOLz4
 tags: ["Bayesian inference", "Conference", "PyConDE", "PyData", "PyMC Marketing", "Python", "Tech Talk", "business analytics", "causal inference", "consumer choice models", "data science", "discrete choice modeling", "econometrics", "machine learning", "market analysis", "multinomial logit", "nested logit", "product strategy"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

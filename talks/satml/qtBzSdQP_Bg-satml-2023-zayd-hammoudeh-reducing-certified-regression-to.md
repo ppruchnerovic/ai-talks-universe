@@ -4,7 +4,7 @@ title: "SaTML 2023 - Zayd Hammoudeh - Reducing Certified Regression to Certified
 slug: satml-2023-zayd-hammoudeh-reducing-certified-regression-to
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Zayd Hammoudeh"]
@@ -15,6 +15,7 @@ video_id: qtBzSdQP_Bg
 url: https://www.youtube.com/watch?v=qtBzSdQP_Bg
 youtube_url: https://www.youtube.com/watch?v=qtBzSdQP_Bg
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

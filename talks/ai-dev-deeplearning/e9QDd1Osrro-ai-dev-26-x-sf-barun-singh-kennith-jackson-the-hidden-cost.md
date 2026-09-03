@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Barun Singh & Kennith Jackson; The Hidden Cost of AI Ve
 slug: ai-dev-26-x-sf-barun-singh-kennith-jackson-the-hidden-cost
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: e9QDd1Osrro
 url: https://www.youtube.com/watch?v=e9QDd1Osrro
 youtube_url: https://www.youtube.com/watch?v=e9QDd1Osrro
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

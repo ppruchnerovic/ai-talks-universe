@@ -4,7 +4,7 @@ title: "What Developers Need To Know About Agents Before 2026"
 slug: what-developers-need-to-know-about-agents-before-2026
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: BUD446V2ThE
 url: https://www.youtube.com/watch?v=BUD446V2ThE
 youtube_url: https://www.youtube.com/watch?v=BUD446V2ThE
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

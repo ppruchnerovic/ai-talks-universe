@@ -4,7 +4,7 @@ title: "Thomas Ogden - Don’t Call It 'The Forecast': Structured Prediction at 
 slug: thomas-ogden-dont-call-it-the-forecast-structured
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Thomas Ogden"]
@@ -15,6 +15,7 @@ video_id: cPhr5YWiK5o
 url: https://www.youtube.com/watch?v=cPhr5YWiK5o
 youtube_url: https://www.youtube.com/watch?v=cPhr5YWiK5o
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

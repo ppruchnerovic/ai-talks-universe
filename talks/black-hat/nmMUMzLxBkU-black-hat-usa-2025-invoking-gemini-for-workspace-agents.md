@@ -4,7 +4,7 @@ title: "Black Hat USA 2025 | Invoking Gemini for Workspace Agents with a Simple 
 slug: black-hat-usa-2025-invoking-gemini-for-workspace-agents
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: nmMUMzLxBkU
 url: https://www.youtube.com/watch?v=nmMUMzLxBkU
 youtube_url: https://www.youtube.com/watch?v=nmMUMzLxBkU
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

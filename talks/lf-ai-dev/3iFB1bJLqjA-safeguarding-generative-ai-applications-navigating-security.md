@@ -4,7 +4,7 @@ title: "Safeguarding Generative AI Applications: Navigating Security Challenges 
 slug: safeguarding-generative-ai-applications-navigating-security
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3iFB1bJLqjA
 url: https://www.youtube.com/watch?v=3iFB1bJLqjA
 youtube_url: https://www.youtube.com/watch?v=3iFB1bJLqjA
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

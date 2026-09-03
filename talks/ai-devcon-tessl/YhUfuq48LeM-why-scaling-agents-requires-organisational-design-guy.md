@@ -4,7 +4,7 @@ title: "Why Scaling Agents Requires Organisational Design | Guy Podjarny and Sim
 slug: why-scaling-agents-requires-organisational-design-guy
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Guy Podjarny", "Simon Maple"]
@@ -15,6 +15,7 @@ video_id: YhUfuq48LeM
 url: https://www.youtube.com/watch?v=YhUfuq48LeM
 youtube_url: https://www.youtube.com/watch?v=YhUfuq48LeM
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Fostering Connection- Bumble’s AI-Powered Vision for Love"
 slug: fostering-connection-bumbles-ai-powered-vision-for-love
 conference: sxsw
 conference_name: "SXSW"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "SXSW 2025 keynotes & featured"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: KwicOVok5ho
 url: https://www.youtube.com/watch?v=KwicOVok5ho
 youtube_url: https://www.youtube.com/watch?v=KwicOVok5ho
 tags: []
+topics: []
 transcript: false
 ---
 

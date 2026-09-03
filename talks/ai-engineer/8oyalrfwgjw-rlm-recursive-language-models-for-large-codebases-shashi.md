@@ -4,7 +4,7 @@ title: "RLM: Recursive Language Models for Large Codebases - Shashi, Superagenti
 slug: rlm-recursive-language-models-for-large-codebases-shashi
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8oyalrfwgjw
 url: https://www.youtube.com/watch?v=8oyalrfwgjw
 youtube_url: https://www.youtube.com/watch?v=8oyalrfwgjw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

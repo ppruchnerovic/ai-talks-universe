@@ -4,7 +4,7 @@ title: "Huan Sun - Smarter and Safer Everyday? Continual Learning and Safety in 
 slug: huan-sun-smarter-and-safer-everyday-continual-learning-and
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Huan Sun"]
@@ -15,6 +15,7 @@ video_id: wKSqGH7zOx0
 url: https://www.youtube.com/watch?v=wKSqGH7zOx0
 youtube_url: https://www.youtube.com/watch?v=wKSqGH7zOx0
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

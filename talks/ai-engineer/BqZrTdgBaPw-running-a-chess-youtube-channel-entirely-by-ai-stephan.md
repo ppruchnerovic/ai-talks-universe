@@ -4,7 +4,7 @@ title: "Running a Chess YouTube Channel entirely by AI — Stephan Steinfurt, TN
 slug: running-a-chess-youtube-channel-entirely-by-ai-stephan
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Stephan Steinfurt"]
@@ -15,6 +15,7 @@ video_id: BqZrTdgBaPw
 url: https://www.youtube.com/watch?v=BqZrTdgBaPw
 youtube_url: https://www.youtube.com/watch?v=BqZrTdgBaPw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Data + AI Summit Keynote 2026 | Day 1"
 slug: data-ai-summit-keynote-2026-day-1
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2026"
 year: 2026
 speakers: ["Ali Ghodsi"]
@@ -15,6 +15,7 @@ video_id: Qux8E-L1mk8
 url: https://www.youtube.com/watch?v=Qux8E-L1mk8
 youtube_url: https://www.youtube.com/watch?v=Qux8E-L1mk8
 tags: ["Databricks"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

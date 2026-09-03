@@ -4,7 +4,7 @@ title: "The Billable Hour is Dead; Long Live the Billable Hour — Kevin Madura 
 slug: the-billable-hour-is-dead-long-live-the-billable-hour-kevin
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kevin Madura", "Mo Bhasin"]
@@ -15,6 +15,7 @@ video_id: Wv1tAxKYLeE
 url: https://www.youtube.com/watch?v=Wv1tAxKYLeE
 youtube_url: https://www.youtube.com/watch?v=Wv1tAxKYLeE
 tags: []
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

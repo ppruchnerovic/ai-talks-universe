@@ -4,7 +4,7 @@ title: "Demystifying Agentic AI Using Small Language Models [PyCon DE & PyData 2
 slug: demystifying-agentic-ai-using-small-language-models-pycon
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Serhii Sokolenko"]
@@ -15,6 +15,7 @@ video_id: nk5BNz8v_9E
 url: https://www.youtube.com/watch?v=nk5BNz8v_9E
 youtube_url: https://www.youtube.com/watch?v=nk5BNz8v_9E
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

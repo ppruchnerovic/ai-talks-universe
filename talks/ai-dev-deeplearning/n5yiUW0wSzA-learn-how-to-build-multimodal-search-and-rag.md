@@ -4,7 +4,7 @@ title: "Learn How to Build Multimodal Search and RAG"
 slug: learn-how-to-build-multimodal-search-and-rag
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: n5yiUW0wSzA
 url: https://www.youtube.com/watch?v=n5yiUW0wSzA
 youtube_url: https://www.youtube.com/watch?v=n5yiUW0wSzA
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

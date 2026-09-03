@@ -4,7 +4,7 @@ title: "Uncertainty in neural network | Scientific Machine Learning | Lenka Zdeb
 slug: uncertainty-in-neural-network-scientific-machine-learning
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Lenka Zdeborová"]
@@ -15,6 +15,7 @@ video_id: eI0_UjW0jk0
 url: https://www.youtube.com/watch?v=eI0_UjW0jk0
 youtube_url: https://www.youtube.com/watch?v=eI0_UjW0jk0
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

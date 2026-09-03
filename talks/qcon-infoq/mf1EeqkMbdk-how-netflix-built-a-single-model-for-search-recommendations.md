@@ -4,7 +4,7 @@ title: "How Netflix Built a Single Model for Search & Recommendations"
 slug: how-netflix-built-a-single-model-for-search-recommendations
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: mf1EeqkMbdk
 url: https://www.youtube.com/watch?v=mf1EeqkMbdk
 youtube_url: https://www.youtube.com/watch?v=mf1EeqkMbdk
 tags: ["QCon London", "Case Study", "Netflix", "Foundation Model", "InfoQ", "Transcript", "Modeling", "Artificial Intelligence", "Software Architecture", "Machine Learning", "LLM", "System Design"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

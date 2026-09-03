@@ -4,7 +4,7 @@ title: "The Skills-First Agent Workflow: Reusable Agent Intelligence"
 slug: the-skills-first-agent-workflow-reusable-agent-intelligence
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: ntkM-hRblfo
 url: https://www.youtube.com/watch?v=ntkM-hRblfo
 youtube_url: https://www.youtube.com/watch?v=ntkM-hRblfo
 tags: ["AI agent performance", "AI development", "AI productivity", "AI skills package manager", "agent lifecycle management", "agent skills", "agent skills impact", "ainativedev", "coding success", "context engineering", "how to evaluate agent skills", "performance improvement", "real-world agent skill testing", "skills evaluation", "why skills matter for AI"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

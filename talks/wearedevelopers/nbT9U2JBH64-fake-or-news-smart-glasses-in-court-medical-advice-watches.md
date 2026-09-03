@@ -4,7 +4,7 @@ title: "Fake or News: Smart Glasses in Court, Medical Advice Watches and Mushroo
 slug: fake-or-news-smart-glasses-in-court-medical-advice-watches
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Jason Torres"]
@@ -15,6 +15,7 @@ video_id: nbT9U2JBH64
 url: https://www.youtube.com/watch?v=nbT9U2JBH64
 youtube_url: https://www.youtube.com/watch?v=nbT9U2JBH64
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

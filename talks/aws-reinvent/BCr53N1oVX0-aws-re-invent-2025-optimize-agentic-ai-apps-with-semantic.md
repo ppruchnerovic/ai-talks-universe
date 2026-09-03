@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Optimize agentic AI apps with semantic caching in A
 slug: aws-re-invent-2025-optimize-agentic-ai-apps-with-semantic
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: BCr53N1oVX0
 url: https://www.youtube.com/watch?v=BCr53N1oVX0
 youtube_url: https://www.youtube.com/watch?v=BCr53N1oVX0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

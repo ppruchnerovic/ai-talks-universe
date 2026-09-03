@@ -4,7 +4,7 @@ title: "Scaling AI innovation with KPMG Workbench and Microsoft | ODSP1418"
 slug: scaling-ai-innovation-with-kpmg-workbench-and-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Tim Denley"]
@@ -15,6 +15,7 @@ video_id: Benn2rBdZwA
 url: https://www.youtube.com/watch?v=Benn2rBdZwA
 youtube_url: https://www.youtube.com/watch?v=Benn2rBdZwA
 tags: ["Agentic business applications", "English (US)", "Financial Services", "ODSP1418", "ODSP1418_v1", "Scaling AI innovation with KPMG Workbench and Microsoft | ODSP1418", "Technical", "Tim Denley", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

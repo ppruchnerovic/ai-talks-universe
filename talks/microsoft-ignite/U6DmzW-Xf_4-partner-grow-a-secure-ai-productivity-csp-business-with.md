@@ -4,7 +4,7 @@ title: "Partner: Grow a Secure AI Productivity CSP business with Microsoft 365 |
 slug: partner-grow-a-secure-ai-productivity-csp-business-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ryan Argall", "Oliver Berchtold", "Dallas Cullen", "Marcelo Dichtchekenian"]
@@ -15,6 +15,7 @@ video_id: U6DmzW-Xf_4
 url: https://www.youtube.com/watch?v=U6DmzW-Xf_4
 youtube_url: https://www.youtube.com/watch?v=U6DmzW-Xf_4
 tags: ["Copilot and agents at work", "Copilot and agents at work:Microsoft 365 Copilot", "Dallas Cullen", "English (US)", "Microsoft AI Cloud Partner Program", "Oliver Berchtold", "PBRK304", "Partner Business", "Partner: Grow a Secure AI Productivity CSP business with Microsoft 365 | PBRK304", "Ryan Argall", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

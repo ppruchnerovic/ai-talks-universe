@@ -4,7 +4,7 @@ title: "Accelerating Deployment of AI with MLOps Orchestration"
 slug: accelerating-deployment-of-ai-with-mlops-orchestration
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: ghQ-tHO4iCI
 url: https://www.youtube.com/watch?v=ghQ-tHO4iCI
 youtube_url: https://www.youtube.com/watch?v=ghQ-tHO4iCI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "GenAI Security Project’s Threat Defense COMPASS Overview"
 slug: genai-security-projects-threat-defense-compass-overview
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: xWted61ncmg
 url: https://www.youtube.com/watch?v=xWted61ncmg
 youtube_url: https://www.youtube.com/watch?v=xWted61ncmg
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

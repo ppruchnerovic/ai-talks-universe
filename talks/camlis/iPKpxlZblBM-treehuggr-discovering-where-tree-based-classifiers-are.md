@@ -4,7 +4,7 @@ title: "TreeHuggr: Discovering where tree-based classifiers are vulnerable to ad
 slug: treehuggr-discovering-where-tree-based-classifiers-are
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []
@@ -15,6 +15,7 @@ video_id: iPKpxlZblBM
 url: https://www.youtube.com/watch?v=iPKpxlZblBM
 youtube_url: https://www.youtube.com/watch?v=iPKpxlZblBM
 tags: ["camlis", "camlis2018"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

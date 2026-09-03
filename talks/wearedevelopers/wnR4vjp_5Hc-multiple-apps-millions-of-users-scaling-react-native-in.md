@@ -4,7 +4,7 @@ title: "Multiple Apps, Millions of Users: Scaling React Native in Production"
 slug: multiple-apps-millions-of-users-scaling-react-native-in
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Milica Aleksic"]
@@ -15,6 +15,7 @@ video_id: wnR4vjp_5Hc
 url: https://www.youtube.com/watch?v=wnR4vjp_5Hc
 youtube_url: https://www.youtube.com/watch?v=wnR4vjp_5Hc
 tags: ["Frontend, Web & Mobile", "Android", "Cross-Platform", "iOS", "React Native"]
+topics: []
 transcript: true
 ---
 

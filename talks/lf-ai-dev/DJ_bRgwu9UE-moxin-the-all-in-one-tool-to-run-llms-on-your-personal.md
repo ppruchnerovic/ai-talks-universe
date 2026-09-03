@@ -4,7 +4,7 @@ title: "Moxin: The All-In-One Tool to Run LLMs on Your Personal Device - Michael
 slug: moxin-the-all-in-one-tool-to-run-llms-on-your-personal
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Michael Yuan"]
@@ -15,6 +15,7 @@ video_id: DJ_bRgwu9UE
 url: https://www.youtube.com/watch?v=DJ_bRgwu9UE
 youtube_url: https://www.youtube.com/watch?v=DJ_bRgwu9UE
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Computer-Use 2.0: Agents Just Got Multi-Cursor — Francesco Bonacci, Cu
 slug: computer-use-2-0-agents-just-got-multi-cursor-francesco
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Francesco Bonacci"]
@@ -15,6 +15,7 @@ video_id: ZSQb5fzRFPw
 url: https://www.youtube.com/watch?v=ZSQb5fzRFPw
 youtube_url: https://www.youtube.com/watch?v=ZSQb5fzRFPw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

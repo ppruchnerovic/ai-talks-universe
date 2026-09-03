@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Agentic AI Solutions for Financial Services & Insur
 slug: aws-re-invent-2025-agentic-ai-solutions-for-financial
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: w20B7YK_hLM
 url: https://www.youtube.com/watch?v=w20B7YK_hLM
 youtube_url: https://www.youtube.com/watch?v=w20B7YK_hLM
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

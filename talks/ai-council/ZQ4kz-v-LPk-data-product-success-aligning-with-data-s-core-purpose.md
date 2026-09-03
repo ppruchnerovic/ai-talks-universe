@@ -4,7 +4,7 @@ title: "Data Product Success: Aligning with Data's Core Purpose | Entera"
 slug: data-product-success-aligning-with-data-s-core-purpose
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZQ4kz-v-LPk
 url: https://www.youtube.com/watch?v=ZQ4kz-v-LPk
 youtube_url: https://www.youtube.com/watch?v=ZQ4kz-v-LPk
 tags: ["data strategy", "data product", "Data Product Management"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

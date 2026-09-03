@@ -4,7 +4,7 @@ title: "Lightning Talk: GPU.x - Dynamic GPU Fraction and Sharing on ML Mainstrea
 slug: lightning-talk-gpu-x-dynamic-gpu-fraction-and-sharing-on-ml
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Tiejun Chen"]
@@ -15,6 +15,7 @@ video_id: 5BNW-f6L5N8
 url: https://www.youtube.com/watch?v=5BNW-f6L5N8
 youtube_url: https://www.youtube.com/watch?v=5BNW-f6L5N8
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

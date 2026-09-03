@@ -4,7 +4,7 @@ title: "Why should anyone care about Evals? — Manu Goyal, Braintrust"
 slug: why-should-anyone-care-about-evals-manu-goyal-braintrust
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Manu Goyal"]
@@ -15,6 +15,7 @@ video_id: jJ45Yz1lJao
 url: https://www.youtube.com/watch?v=jJ45Yz1lJao
 youtube_url: https://www.youtube.com/watch?v=jJ45Yz1lJao
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

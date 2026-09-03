@@ -4,7 +4,7 @@ title: "Benchmarking Historical Reasoning in LLMs: Tasks, Metrics, and Failure M
 slug: benchmarking-historical-reasoning-in-llms-tasks-metrics-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: P-GbREWc-qI
 url: https://www.youtube.com/watch?v=P-GbREWc-qI
 youtube_url: https://www.youtube.com/watch?v=P-GbREWc-qI
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

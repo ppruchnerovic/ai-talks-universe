@@ -4,7 +4,7 @@ title: "Inside Netflix’s Mako: The Next-Gen ML Training Platform | Ray Summit 
 slug: inside-netflixs-mako-the-next-gen-ml-training-platform-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: nPHYclgj81c
 url: https://www.youtube.com/watch?v=nPHYclgj81c
 youtube_url: https://www.youtube.com/watch?v=nPHYclgj81c
 tags: []
+topics: []
 transcript: false
 ---
 

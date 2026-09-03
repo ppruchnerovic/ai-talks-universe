@@ -4,7 +4,7 @@ title: "Your #1 Docs Audience Isn't Human: Dev Ed's MCP Strategy at Apollo - Dan
 slug: your-1-docs-audience-isn-t-human-dev-ed-s-mcp-strategy-at
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Daniel Abdelsamed"]
@@ -15,6 +15,7 @@ video_id: Hw668yuvkAo
 url: https://www.youtube.com/watch?v=Hw668yuvkAo
 youtube_url: https://www.youtube.com/watch?v=Hw668yuvkAo
 tags: []
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

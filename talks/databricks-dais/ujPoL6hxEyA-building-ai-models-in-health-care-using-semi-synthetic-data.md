@@ -4,7 +4,7 @@ title: "Building AI Models In Health Care Using Semi-Synthetic Data"
 slug: building-ai-models-in-health-care-using-semi-synthetic-data
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ujPoL6hxEyA
 url: https://www.youtube.com/watch?v=ujPoL6hxEyA
 youtube_url: https://www.youtube.com/watch?v=ujPoL6hxEyA
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

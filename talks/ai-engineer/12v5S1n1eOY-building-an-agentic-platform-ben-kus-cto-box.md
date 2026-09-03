@@ -4,7 +4,7 @@ title: "Building an Agentic Platform — Ben Kus, CTO Box"
 slug: building-an-agentic-platform-ben-kus-cto-box
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ben Kus"]
@@ -15,6 +15,7 @@ video_id: 12v5S1n1eOY
 url: https://www.youtube.com/watch?v=12v5S1n1eOY
 youtube_url: https://www.youtube.com/watch?v=12v5S1n1eOY
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

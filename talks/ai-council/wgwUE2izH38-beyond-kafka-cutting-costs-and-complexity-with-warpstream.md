@@ -4,7 +4,7 @@ title: "Beyond Kafka: Cutting Costs and Complexity with WarpStream and S3"
 slug: beyond-kafka-cutting-costs-and-complexity-with-warpstream
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Ryan Worl"]
@@ -15,6 +15,7 @@ video_id: wgwUE2izH38
 url: https://www.youtube.com/watch?v=wgwUE2izH38
 youtube_url: https://www.youtube.com/watch?v=wgwUE2izH38
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

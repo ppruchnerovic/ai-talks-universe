@@ -4,7 +4,7 @@ title: "The Sustainability Race: AI's Promises, Pitfalls and Potential"
 slug: the-sustainability-race-ai-s-promises-pitfalls-and-potential
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Alexander Gerfer", "Gülnaz Öneş", "Wolfgang Oels", "Awi Lifshitz"]
@@ -15,6 +15,7 @@ video_id: XCdkpr1HUxs
 url: https://www.youtube.com/watch?v=XCdkpr1HUxs
 youtube_url: https://www.youtube.com/watch?v=XCdkpr1HUxs
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

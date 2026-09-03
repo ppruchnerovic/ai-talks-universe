@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Global GenAI trends and learnings at re:Invent (GBL
 slug: aws-re-invent-2025-global-genai-trends-and-learnings-at-re
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: CL3Sw4CTpEM
 url: https://www.youtube.com/watch?v=CL3Sw4CTpEM
 youtube_url: https://www.youtube.com/watch?v=CL3Sw4CTpEM
 tags: []
+topics: []
 transcript: false
 ---
 

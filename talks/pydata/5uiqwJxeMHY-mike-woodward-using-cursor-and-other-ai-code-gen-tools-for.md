@@ -4,7 +4,7 @@ title: "Mike Woodward-Using Cursor (and other AI code gen tools) for data scienc
 slug: mike-woodward-using-cursor-and-other-ai-code-gen-tools-for
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5uiqwJxeMHY
 url: https://www.youtube.com/watch?v=5uiqwJxeMHY
 youtube_url: https://www.youtube.com/watch?v=5uiqwJxeMHY
 tags: []
+topics: ["Classic ML & data science", "Coding assistants & agents"]
 transcript: false
 ---
 

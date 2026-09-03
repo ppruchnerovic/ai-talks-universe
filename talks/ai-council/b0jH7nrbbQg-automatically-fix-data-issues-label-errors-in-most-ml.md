@@ -4,7 +4,7 @@ title: "Automatically Fix Data Issues & Label Errors in Most ML Datasets | Clean
 slug: automatically-fix-data-issues-label-errors-in-most-ml
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: b0jH7nrbbQg
 url: https://www.youtube.com/watch?v=b0jH7nrbbQg
 youtube_url: https://www.youtube.com/watch?v=b0jH7nrbbQg
 tags: ["ML Datasets", "data issues", "python", "github"]
+topics: []
 transcript: false
 ---
 

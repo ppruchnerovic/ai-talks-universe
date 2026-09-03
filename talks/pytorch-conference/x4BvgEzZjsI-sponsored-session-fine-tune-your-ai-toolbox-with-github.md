@@ -4,7 +4,7 @@ title: "Sponsored Session: Fine Tune Your AI Toolbox with GitHub Copilot, Azure 
 slug: sponsored-session-fine-tune-your-ai-toolbox-with-github
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Sarah Kaiser"]
@@ -15,6 +15,7 @@ video_id: x4BvgEzZjsI
 url: https://www.youtube.com/watch?v=x4BvgEzZjsI
 youtube_url: https://www.youtube.com/watch?v=x4BvgEzZjsI
 tags: []
+topics: ["Coding assistants & agents", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Agentic Systems Without Chaos: Architecting & Operating at Scale"
 slug: agentic-systems-without-chaos-architecting-operating-at
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: P4AchVT4j44
 url: https://www.youtube.com/watch?v=P4AchVT4j44
 youtube_url: https://www.youtube.com/watch?v=P4AchVT4j44
 tags: ["InfoQ Podcast", "InfoQ", "AI", "Artificial Intelligence", "AgenticAI", "AIArchitecture", "AutonomousSystems", "SoftwareArchitecture", "AIOperatingModel", "AIPlatforms", "EnterpriseAI", "AIGovernance", "AIEngineering", "AIObservability", "AIWorkflows", "AIInfrastructure", "PlatformEngineering", "AIInnovation", "NextGenArchitecture"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

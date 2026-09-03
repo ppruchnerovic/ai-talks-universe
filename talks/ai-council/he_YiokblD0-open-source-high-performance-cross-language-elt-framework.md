@@ -4,7 +4,7 @@ title: "Open-Source High-Performance Cross-Language ELT Framework Powered by Apa
 slug: open-source-high-performance-cross-language-elt-framework
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Yevgeny Pats"]
@@ -15,6 +15,7 @@ video_id: he_YiokblD0
 url: https://www.youtube.com/watch?v=he_YiokblD0
 youtube_url: https://www.youtube.com/watch?v=he_YiokblD0
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

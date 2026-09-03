@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | RebirthDay Attack: Reviving DNS Cache Poisoning wi
 slug: black-hat-asia-2026-rebirthday-attack-reviving-dns-cache
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: oL12AWOwGRk
 url: https://www.youtube.com/watch?v=oL12AWOwGRk
 youtube_url: https://www.youtube.com/watch?v=oL12AWOwGRk
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "GT - Building Your Own AI Platform and Tools Using ChatGPT"
 slug: gt-building-your-own-ai-platform-and-tools-using-chatgpt
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: B-0vrx-5wr4
 url: https://www.youtube.com/watch?v=B-0vrx-5wr4
 youtube_url: https://www.youtube.com/watch?v=B-0vrx-5wr4
 tags: []
+topics: []
 transcript: false
 ---
 

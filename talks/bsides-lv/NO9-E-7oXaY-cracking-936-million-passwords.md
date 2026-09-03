@@ -4,7 +4,7 @@ title: "Cracking 936 Million Passwords"
 slug: cracking-936-million-passwords
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: NO9-E-7oXaY
 url: https://www.youtube.com/watch?v=NO9-E-7oXaY
 youtube_url: https://www.youtube.com/watch?v=NO9-E-7oXaY
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

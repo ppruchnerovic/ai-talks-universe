@@ -4,7 +4,7 @@ title: "How NVIDIA is Advancing Video Curation with Generative AI | Ray Summit 2
 slug: how-nvidia-is-advancing-video-curation-with-generative-ai
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: xOjtTPCA2Zc
 url: https://www.youtube.com/watch?v=xOjtTPCA2Zc
 youtube_url: https://www.youtube.com/watch?v=xOjtTPCA2Zc
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

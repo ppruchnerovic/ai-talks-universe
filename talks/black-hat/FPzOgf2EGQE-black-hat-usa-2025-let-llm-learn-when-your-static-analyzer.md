@@ -4,7 +4,7 @@ title: "Black Hat USA 2025 | Let LLM Learn: When Your Static Analyzer Actually '
 slug: black-hat-usa-2025-let-llm-learn-when-your-static-analyzer
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: FPzOgf2EGQE
 url: https://www.youtube.com/watch?v=FPzOgf2EGQE
 youtube_url: https://www.youtube.com/watch?v=FPzOgf2EGQE
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Run Frontier AI at Home — Alex Cheema, EXO Labs"
 slug: run-frontier-ai-at-home-alex-cheema-exo-labs
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Alex Cheema"]
@@ -15,6 +15,7 @@ video_id: ESbWpPT_9-o
 url: https://www.youtube.com/watch?v=ESbWpPT_9-o
 youtube_url: https://www.youtube.com/watch?v=ESbWpPT_9-o
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

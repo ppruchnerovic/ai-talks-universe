@@ -4,7 +4,7 @@ title: "WWDC25: Meet the Foundation Models framework | Apple"
 slug: wwdc25-meet-the-foundation-models-framework-apple
 conference: apple-wwdc
 conference_name: "Apple WWDC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "WWDC25"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: mJMvFyBvZEk
 url: https://www.youtube.com/watch?v=mJMvFyBvZEk
 youtube_url: https://www.youtube.com/watch?v=mJMvFyBvZEk
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

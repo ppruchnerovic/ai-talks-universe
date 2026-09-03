@@ -4,7 +4,7 @@ title: "POC to PROD: Hard Lessons from 200+ Enterprise GenAI Deployments - Randa
 slug: poc-to-prod-hard-lessons-from-200-enterprise-genai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Randall Hunt"]
@@ -15,6 +15,7 @@ video_id: vW8wLsb3Nnc
 url: https://www.youtube.com/watch?v=vW8wLsb3Nnc
 youtube_url: https://www.youtube.com/watch?v=vW8wLsb3Nnc
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

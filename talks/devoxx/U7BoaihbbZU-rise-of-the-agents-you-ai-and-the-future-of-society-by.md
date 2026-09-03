@@ -4,7 +4,7 @@ title: "Rise of the Agents: You, AI, and the Future of Society by Martijn Verbur
 slug: rise-of-the-agents-you-ai-and-the-future-of-society-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Martijn Verburg"]
@@ -15,6 +15,7 @@ video_id: U7BoaihbbZU
 url: https://www.youtube.com/watch?v=U7BoaihbbZU
 youtube_url: https://www.youtube.com/watch?v=U7BoaihbbZU
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

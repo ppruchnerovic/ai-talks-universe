@@ -4,7 +4,7 @@ title: "The Dark Corners of Kotlin Multiplatform"
 slug: the-dark-corners-of-kotlin-multiplatform
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Andrea Della Porta"]
@@ -15,6 +15,7 @@ video_id: x3PMKPbB-G4
 url: https://www.youtube.com/watch?v=x3PMKPbB-G4
 youtube_url: https://www.youtube.com/watch?v=x3PMKPbB-G4
 tags: ["Frontend, Web & Mobile", "Kotlin Multiplatform"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Wetterdienst: Fast, Unified Access to Open Weather Data with Polars [PyC
 slug: wetterdienst-fast-unified-access-to-open-weather-data-with
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: wegSoXmVYNM
 url: https://www.youtube.com/watch?v=wegSoXmVYNM
 youtube_url: https://www.youtube.com/watch?v=wegSoXmVYNM
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

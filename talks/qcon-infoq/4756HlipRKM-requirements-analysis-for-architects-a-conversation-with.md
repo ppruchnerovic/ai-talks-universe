@@ -4,7 +4,7 @@ title: "Requirements Analysis for Architects: A Conversation with Sonya Natanzon
 slug: requirements-analysis-for-architects-a-conversation-with
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4756HlipRKM
 url: https://www.youtube.com/watch?v=4756HlipRKM
 youtube_url: https://www.youtube.com/watch?v=4756HlipRKM
 tags: []
+topics: []
 transcript: true
 ---
 

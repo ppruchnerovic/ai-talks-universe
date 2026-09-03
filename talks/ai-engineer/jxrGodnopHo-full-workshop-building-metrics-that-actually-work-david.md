@@ -4,7 +4,7 @@ title: "[Full Workshop] Building Metrics that actually work — David Karam, Pi 
 slug: full-workshop-building-metrics-that-actually-work-david
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["David Karam"]
@@ -15,6 +15,7 @@ video_id: jxrGodnopHo
 url: https://www.youtube.com/watch?v=jxrGodnopHo
 youtube_url: https://www.youtube.com/watch?v=jxrGodnopHo
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

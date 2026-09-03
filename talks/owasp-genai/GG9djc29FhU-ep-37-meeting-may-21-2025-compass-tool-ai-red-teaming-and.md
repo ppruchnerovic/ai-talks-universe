@@ -4,7 +4,7 @@ title: "Ep.37 Meeting May 21 2025: Compass Tool, AI Red Teaming, and Post-RSA In
 slug: ep-37-meeting-may-21-2025-compass-tool-ai-red-teaming-and
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: GG9djc29FhU
 url: https://www.youtube.com/watch?v=GG9djc29FhU
 youtube_url: https://www.youtube.com/watch?v=GG9djc29FhU
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

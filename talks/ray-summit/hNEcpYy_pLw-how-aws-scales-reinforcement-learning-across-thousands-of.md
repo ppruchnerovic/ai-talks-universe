@@ -4,7 +4,7 @@ title: "How AWS Scales Reinforcement Learning Across Thousands of GPUs | Ray Sum
 slug: how-aws-scales-reinforcement-learning-across-thousands-of
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: hNEcpYy_pLw
 url: https://www.youtube.com/watch?v=hNEcpYy_pLw
 youtube_url: https://www.youtube.com/watch?v=hNEcpYy_pLw
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

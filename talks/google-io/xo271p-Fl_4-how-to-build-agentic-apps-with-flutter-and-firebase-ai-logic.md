@@ -4,7 +4,7 @@ title: "How to build agentic apps with Flutter and Firebase AI Logic"
 slug: how-to-build-agentic-apps-with-flutter-and-firebase-ai-logic
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xo271p-Fl_4
 url: https://www.youtube.com/watch?v=xo271p-Fl_4
 youtube_url: https://www.youtube.com/watch?v=xo271p-Fl_4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "WTF Are We Doing?"
 slug: wtf-are-we-doing
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Benn Stancil"]
@@ -15,6 +15,7 @@ video_id: -3U1ekNsCA0
 url: https://www.youtube.com/watch?v=-3U1ekNsCA0
 youtube_url: https://www.youtube.com/watch?v=-3U1ekNsCA0
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Transform industrial operations with SymphonyAI IRIS Foundry | ODSP1455"
 slug: transform-industrial-operations-with-symphonyai-iris
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: t37ZpdNQmAM
 url: https://www.youtube.com/watch?v=t37ZpdNQmAM
 youtube_url: https://www.youtube.com/watch?v=t37ZpdNQmAM
 tags: ["Agentic business applications", "English (US)", "Manufacturing and Mobility", "ODSP1455", "ODSP1455_v1", "Technical", "Transform industrial operations with SymphonyAI IRIS Foundry | ODSP1455", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

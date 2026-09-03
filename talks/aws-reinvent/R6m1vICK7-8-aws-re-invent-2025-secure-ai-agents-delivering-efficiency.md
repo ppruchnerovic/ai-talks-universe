@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Secure AI Agents Delivering Efficiency in Regulated
 slug: aws-re-invent-2025-secure-ai-agents-delivering-efficiency
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: R6m1vICK7-8
 url: https://www.youtube.com/watch?v=R6m1vICK7-8
 youtube_url: https://www.youtube.com/watch?v=R6m1vICK7-8
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

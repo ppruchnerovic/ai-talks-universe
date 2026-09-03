@@ -4,7 +4,7 @@ title: "Thomson Reuters Builds Scalable, Efficient, And Secure AI Agentic Workfl
 slug: thomson-reuters-builds-scalable-efficient-and-secure-ai
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: wPfBff5G0k8
 url: https://www.youtube.com/watch?v=wPfBff5G0k8
 youtube_url: https://www.youtube.com/watch?v=wPfBff5G0k8
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

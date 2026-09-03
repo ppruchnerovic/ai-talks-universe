@@ -4,7 +4,7 @@ title: "Rose Yu - Grounding Foundation Models for Physical Sciences"
 slug: rose-yu-grounding-foundation-models-for-physical-sciences
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Rose Yu"]
@@ -15,6 +15,7 @@ video_id: g-KQrAEkWLc
 url: https://www.youtube.com/watch?v=g-KQrAEkWLc
 youtube_url: https://www.youtube.com/watch?v=g-KQrAEkWLc
 tags: []
+topics: ["RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

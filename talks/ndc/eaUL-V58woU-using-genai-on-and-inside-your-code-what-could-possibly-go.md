@@ -4,7 +4,7 @@ title: "Using GenAI on and inside your code, what could possibly go wrong? - Nie
 slug: using-genai-on-and-inside-your-code-what-could-possibly-go
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Niels Tanis"]
@@ -15,6 +15,7 @@ video_id: eaUL-V58woU
 url: https://www.youtube.com/watch?v=eaUL-V58woU
 youtube_url: https://www.youtube.com/watch?v=eaUL-V58woU
 tags: ["Security", "GenAI", "NDC", "Conferences", "LLM", "Fun", "Copenhagen", "Live", "Niels Tanis", "Software"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

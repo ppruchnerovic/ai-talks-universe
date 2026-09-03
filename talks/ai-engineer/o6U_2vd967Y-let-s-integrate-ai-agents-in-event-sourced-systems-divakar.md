@@ -4,7 +4,7 @@ title: "Let's integrate AI Agents in Event-Sourced Systems — Divakar Kumar, Fl
 slug: let-s-integrate-ai-agents-in-event-sourced-systems-divakar
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Divakar Kumar"]
@@ -15,6 +15,7 @@ video_id: o6U_2vd967Y
 url: https://www.youtube.com/watch?v=o6U_2vd967Y
 youtube_url: https://www.youtube.com/watch?v=o6U_2vd967Y
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Microsoft Build 2026 | Satya Nadella Opening Keynote"
 slug: microsoft-build-2026-satya-nadella-opening-keynote
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: FFMm454fxNA
 url: https://www.youtube.com/watch?v=FFMm454fxNA
 youtube_url: https://www.youtube.com/watch?v=FFMm454fxNA
 tags: ["Microsoft", "microsoft event", "microsoft build", "satya nadella", "microsoft ai", "microsoft copilot", "microsoft build recap", "microsoft build announcements", "microsoft announcements", "microsoft", "microsoft news", "tech announcements", "tech news", "ai news", "microsoft ai copilot", "microsoft ceo", "satya nadella keynote", "microsoft keynote", "satya announcement"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

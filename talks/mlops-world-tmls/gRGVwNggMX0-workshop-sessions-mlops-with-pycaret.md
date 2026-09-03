@@ -4,7 +4,7 @@ title: "Workshop Sessions: MLOps with PyCaret"
 slug: workshop-sessions-mlops-with-pycaret
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: gRGVwNggMX0
 url: https://www.youtube.com/watch?v=gRGVwNggMX0
 youtube_url: https://www.youtube.com/watch?v=gRGVwNggMX0
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Sessions: MLOps with PyCaret", "MLOps with PyCaret"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

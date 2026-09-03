@@ -4,7 +4,7 @@ title: "Rotem Tamir - Agents on GuardRails: Deterministic Safety for Database Op
 slug: rotem-tamir-agents-on-guardrails-deterministic-safety-for
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Rotem Tamir"]
@@ -15,6 +15,7 @@ video_id: r7XSqUsLo_g
 url: https://www.youtube.com/watch?v=r7XSqUsLo_g
 youtube_url: https://www.youtube.com/watch?v=r7XSqUsLo_g
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

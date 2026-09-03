@@ -4,7 +4,7 @@ title: "GPU Cloud Deployment Without Leaving Your IDE — Audry Hsu, RunPod"
 slug: gpu-cloud-deployment-without-leaving-your-ide-audry-hsu
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Audry Hsu"]
@@ -15,6 +15,7 @@ video_id: zDGHt0LB-dA
 url: https://www.youtube.com/watch?v=zDGHt0LB-dA
 youtube_url: https://www.youtube.com/watch?v=zDGHt0LB-dA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Breaking the Monolith: Decomposing and Governing Giant LLM Jobs Across C
 slug: breaking-the-monolith-decomposing-and-governing-giant-llm
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Kevin Wang"]
@@ -15,6 +15,7 @@ video_id: tCeWbdekqJE
 url: https://www.youtube.com/watch?v=tCeWbdekqJE
 youtube_url: https://www.youtube.com/watch?v=tCeWbdekqJE
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

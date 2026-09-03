@@ -4,7 +4,7 @@ title: "Architecture 3.0: From 90% to 99.999% Reliability in Building AI Systems
 slug: architecture-3-0-from-90-to-99-999-reliability-in-building
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ingo Eichhorst"]
@@ -15,6 +15,7 @@ video_id: qT3XuMm_Aiw
 url: https://www.youtube.com/watch?v=qT3XuMm_Aiw
 youtube_url: https://www.youtube.com/watch?v=qT3XuMm_Aiw
 tags: ["Software Architecture", "AI Coding Assistants", "Agents", "Agentic AI", "Generative AI (GenAI)", "Governance", "Multi-Agent Systems", "Software Architecture"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

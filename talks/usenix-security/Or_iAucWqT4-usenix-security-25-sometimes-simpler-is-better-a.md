@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Sometimes Simpler is Better: A Comprehensive Analy
 slug: usenix-security-25-sometimes-simpler-is-better-a
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Or_iAucWqT4
 url: https://www.youtube.com/watch?v=Or_iAucWqT4
 youtube_url: https://www.youtube.com/watch?v=Or_iAucWqT4
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

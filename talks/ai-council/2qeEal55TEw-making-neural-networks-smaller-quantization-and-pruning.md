@@ -4,7 +4,7 @@ title: "Making Neural Networks Smaller: Quantization and Pruning | PrismML"
 slug: making-neural-networks-smaller-quantization-and-pruning
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2qeEal55TEw
 url: https://www.youtube.com/watch?v=2qeEal55TEw
 youtube_url: https://www.youtube.com/watch?v=2qeEal55TEw
 tags: ["AI"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

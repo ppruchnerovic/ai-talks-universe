@@ -4,7 +4,7 @@ title: "Self Coding Agents — Colin Flaherty, Augment Code"
 slug: self-coding-agents-colin-flaherty-augment-code
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Colin Flaherty"]
@@ -15,6 +15,7 @@ video_id: Iw_3cRf3lnM
 url: https://www.youtube.com/watch?v=Iw_3cRf3lnM
 youtube_url: https://www.youtube.com/watch?v=Iw_3cRf3lnM
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

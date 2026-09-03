@@ -4,7 +4,7 @@ title: "Implementing DeepMind innovation: Deep research API"
 slug: implementing-deepmind-innovation-deep-research-api
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Advait Bopardikar", "Philipp Schmid", "Patrick Starling"]
@@ -15,6 +15,7 @@ video_id: 05043f3GseE
 url: https://www.youtube.com/watch?v=05043f3GseE
 youtube_url: https://www.youtube.com/watch?v=05043f3GseE
 tags: []
+topics: []
 transcript: true
 ---
 

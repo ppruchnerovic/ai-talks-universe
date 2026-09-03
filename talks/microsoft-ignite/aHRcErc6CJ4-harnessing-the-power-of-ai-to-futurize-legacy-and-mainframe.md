@@ -4,7 +4,7 @@ title: "Harnessing the power of AI to futurize legacy and mainframe systems | BR
 slug: harnessing-the-power-of-ai-to-futurize-legacy-and-mainframe
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Vivek Desai", "Ravi Khokhar"]
@@ -15,6 +15,7 @@ video_id: aHRcErc6CJ4
 url: https://www.youtube.com/watch?v=aHRcErc6CJ4
 youtube_url: https://www.youtube.com/watch?v=aHRcErc6CJ4
 tags: ["AI", "BRKFP389", "Breakout", "English (US)", "Harnessing the power of AI to futurize legacy and mainframe systems | BRKFP389", "Intermediate (200)", "Ravi Khokhar", "Technical", "Version v4", "Vivek Desai", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

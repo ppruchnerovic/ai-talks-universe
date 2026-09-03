@@ -4,7 +4,7 @@ title: "Under 5 minutes to a deployed LLM endpoint — Audry Hsu, RunPod"
 slug: under-5-minutes-to-a-deployed-llm-endpoint-audry-hsu-runpod
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Audry Hsu"]
@@ -15,6 +15,7 @@ video_id: ILdE7FaAjVA
 url: https://www.youtube.com/watch?v=ILdE7FaAjVA
 youtube_url: https://www.youtube.com/watch?v=ILdE7FaAjVA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

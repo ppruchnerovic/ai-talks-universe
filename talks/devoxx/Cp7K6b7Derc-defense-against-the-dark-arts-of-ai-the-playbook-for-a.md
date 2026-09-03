@@ -4,7 +4,7 @@ title: "Defense against the dark arts of AI: The playbook for a sovereign model-
 slug: defense-against-the-dark-arts-of-ai-the-playbook-for-a
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Cp7K6b7Derc
 url: https://www.youtube.com/watch?v=Cp7K6b7Derc
 youtube_url: https://www.youtube.com/watch?v=Cp7K6b7Derc
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

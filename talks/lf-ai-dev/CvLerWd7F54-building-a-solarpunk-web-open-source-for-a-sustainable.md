@@ -4,7 +4,7 @@ title: "Building a Solarpunk Web: Open Source for a Sustainable Digital Future -
 slug: building-a-solarpunk-web-open-source-for-a-sustainable
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Mike Gifford"]
@@ -15,6 +15,7 @@ video_id: CvLerWd7F54
 url: https://www.youtube.com/watch?v=CvLerWd7F54
 youtube_url: https://www.youtube.com/watch?v=CvLerWd7F54
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "What’s new in Linux: How we’re collaborating to help shape its futur
 slug: whats-new-in-linux-how-were-collaborating-to-help-shape-its
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Vincent Batts", "Chris Quinn", "Andrew Randall"]
@@ -15,6 +15,7 @@ video_id: 1C5YrThpaaA
 url: https://www.youtube.com/watch?v=1C5YrThpaaA
 youtube_url: https://www.youtube.com/watch?v=1C5YrThpaaA
 tags: ["AI Infrastructure", "Advanced (300)", "Azure", "Azure Arc", "BRK228", "Breakout", "Chris Quinn", "Cloud Management", "English (US)", "Infrastructure", "Infrastructure-Curated", "Kubernetes", "Technical", "Vincent Batts", "What’s new in Linux: How we’re collaborating to help shape its future | BRK228", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

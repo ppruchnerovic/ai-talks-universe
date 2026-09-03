@@ -4,7 +4,7 @@ title: "Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Har
 slug: sam-altman-the-future-of-openai-chatgpt-s-origins-and
 conference: yc-ai-startup-school
 conference_name: "Y Combinator AI Startup School"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Startup School 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: V979Wd1gmTU
 url: https://www.youtube.com/watch?v=V979Wd1gmTU
 youtube_url: https://www.youtube.com/watch?v=V979Wd1gmTU
 tags: ["YC", "Y Combinator"]
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

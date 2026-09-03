@@ -4,7 +4,7 @@ title: "NVIDIA GTC Telecom Special Address: The AI Grid—Intelligently Connecti
 slug: nvidia-gtc-telecom-special-address-the-ai-gridintelligently
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: cxiOhp9BJTs
 url: https://www.youtube.com/watch?v=cxiOhp9BJTs
 youtube_url: https://www.youtube.com/watch?v=cxiOhp9BJTs
 tags: ["NVIDIA", "AI Grid", "Telecommunications"]
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

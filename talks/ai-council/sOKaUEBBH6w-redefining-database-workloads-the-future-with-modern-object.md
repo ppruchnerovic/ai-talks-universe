@@ -4,7 +4,7 @@ title: "Redefining Database Workloads: The Future with Modern Object Storage"
 slug: redefining-database-workloads-the-future-with-modern-object
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Brenna Buuck"]
@@ -15,6 +15,7 @@ video_id: sOKaUEBBH6w
 url: https://www.youtube.com/watch?v=sOKaUEBBH6w
 youtube_url: https://www.youtube.com/watch?v=sOKaUEBBH6w
 tags: ["machine learning", "computer vision", "AI"]
+topics: []
 transcript: false
 ---
 

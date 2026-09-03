@@ -4,7 +4,7 @@ title: "Full Workshop: Better Auth — Paola Estefania, Better Auth"
 slug: full-workshop-better-auth-paola-estefania-better-auth
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Paola Estefania"]
@@ -15,6 +15,7 @@ video_id: JvKO40CFq-s
 url: https://www.youtube.com/watch?v=JvKO40CFq-s
 youtube_url: https://www.youtube.com/watch?v=JvKO40CFq-s
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

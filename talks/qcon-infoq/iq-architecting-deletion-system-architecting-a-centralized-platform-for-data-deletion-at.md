@@ -4,7 +4,7 @@ title: "Architecting a Centralized Platform for Data Deletion at Netflix"
 slug: architecting-a-centralized-platform-for-data-deletion-at
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Vidhya Arvind", "Shawn Liu"]
@@ -15,6 +15,7 @@ video_id: iq-architecting-deletion-system
 url: https://www.infoq.com/presentations/architecting-deletion-system/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Building ChatGPT Apps: Principles for a New Kind of Interface - Elliot G
 slug: building-chatgpt-apps-principles-for-a-new-kind-of
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Elliot Garreffa"]
@@ -15,6 +15,7 @@ video_id: Km4ZZW0Aohc
 url: https://www.youtube.com/watch?v=Km4ZZW0Aohc
 youtube_url: https://www.youtube.com/watch?v=Km4ZZW0Aohc
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "End-to-End migration of applications with AI Agents to IaaS and PaaS | B
 slug: end-to-end-migration-of-applications-with-ai-agents-to-iaas
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ashish Babbar"]
@@ -15,6 +15,7 @@ video_id: YXE880TLsfk
 url: https://www.youtube.com/watch?v=YXE880TLsfk
 youtube_url: https://www.youtube.com/watch?v=YXE880TLsfk
 tags: ["Ashish Babbar", "BRK140", "BRK140_v1", "End-to-End migration of applications with AI Agents to IaaS and PaaS | BRK140", "English (US)", "Migrate and modernize your estate", "Migrate and modernize your estate:Azure Arc", "Migrate and modernize your estate:Linux Virtual Machines in Azure", "Migrate and modernize your estate:Windows Server", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Panel: Agentic AI Foundational Capabilities"
 slug: panel-agentic-ai-foundational-capabilities
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: yNpUhturXpo
 url: https://www.youtube.com/watch?v=yNpUhturXpo
 youtube_url: https://www.youtube.com/watch?v=yNpUhturXpo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

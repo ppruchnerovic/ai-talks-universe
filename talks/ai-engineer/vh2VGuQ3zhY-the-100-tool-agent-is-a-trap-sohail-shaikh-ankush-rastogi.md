@@ -4,7 +4,7 @@ title: "The 100-Tool Agent Is a Trap - Sohail Shaikh & Ankush Rastogi, Prosodica
 slug: the-100-tool-agent-is-a-trap-sohail-shaikh-ankush-rastogi
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sohail Shaikh"]
@@ -15,6 +15,7 @@ video_id: vh2VGuQ3zhY
 url: https://www.youtube.com/watch?v=vh2VGuQ3zhY
 youtube_url: https://www.youtube.com/watch?v=vh2VGuQ3zhY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability", "Inference, serving & GPU infra", "Prompting & context engineering"]
 transcript: true
 ---
 

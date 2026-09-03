@@ -4,7 +4,7 @@ title: "Sponsored by: Oxylabs | Web Scraping and AI: A Quiet but Critical Partne
 slug: sponsored-by-oxylabs-web-scraping-and-ai-a-quiet-but
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: FlJuuDkKxBA
 url: https://www.youtube.com/watch?v=FlJuuDkKxBA
 youtube_url: https://www.youtube.com/watch?v=FlJuuDkKxBA
 tags: []
+topics: []
 transcript: false
 ---
 

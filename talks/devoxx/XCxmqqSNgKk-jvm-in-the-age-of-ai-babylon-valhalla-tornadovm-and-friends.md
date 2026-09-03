@@ -4,7 +4,7 @@ title: "JVM in the Age of AI: Babylon, Valhalla, TornadoVM and friends by Artur 
 slug: jvm-in-the-age-of-ai-babylon-valhalla-tornadovm-and-friends
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Artur Skowronski"]
@@ -15,6 +15,7 @@ video_id: XCxmqqSNgKk
 url: https://www.youtube.com/watch?v=XCxmqqSNgKk
 youtube_url: https://www.youtube.com/watch?v=XCxmqqSNgKk
 tags: []
+topics: []
 transcript: false
 ---
 

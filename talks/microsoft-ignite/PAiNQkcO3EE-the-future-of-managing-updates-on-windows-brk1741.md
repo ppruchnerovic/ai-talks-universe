@@ -4,7 +4,7 @@ title: "The future of managing updates on Windows | BRK1741"
 slug: the-future-of-managing-updates-on-windows-brk1741
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["John Cable", "Cassidy Fein", "Nevine Geissa"]
@@ -15,6 +15,7 @@ video_id: PAiNQkcO3EE
 url: https://www.youtube.com/watch?v=PAiNQkcO3EE
 youtube_url: https://www.youtube.com/watch?v=PAiNQkcO3EE
 tags: ["BRK1741", "Cassidy Fein", "English (US)", "John Cable", "Nevine Geissa", "Scale with cloud and AI endpoints", "Technical", "The future of managing updates on Windows | BRK1741", "d6299676-1c05-4420-ab7d-3b8e20c99230_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

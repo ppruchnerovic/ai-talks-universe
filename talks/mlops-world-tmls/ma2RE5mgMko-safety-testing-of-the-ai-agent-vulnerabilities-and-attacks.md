@@ -4,7 +4,7 @@ title: "Safety Testing of the AI Agent: Vulnerabilities and Attacks Beyond the C
 slug: safety-testing-of-the-ai-agent-vulnerabilities-and-attacks
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ma2RE5mgMko
 url: https://www.youtube.com/watch?v=ma2RE5mgMko
 youtube_url: https://www.youtube.com/watch?v=ma2RE5mgMko
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

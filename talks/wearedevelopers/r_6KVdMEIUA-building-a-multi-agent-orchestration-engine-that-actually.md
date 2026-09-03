@@ -4,7 +4,7 @@ title: "Building a Multi-Agent Orchestration Engine That Actually Follows the Ru
 slug: building-a-multi-agent-orchestration-engine-that-actually
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Hussein Jundi", "Torsten Stiller"]
@@ -15,6 +15,7 @@ video_id: r_6KVdMEIUA
 url: https://www.youtube.com/watch?v=r_6KVdMEIUA
 youtube_url: https://www.youtube.com/watch?v=r_6KVdMEIUA
 tags: ["AI Agents", "AI Models", "AI Standards", "Agentic AI", "Code Generation", "LangChain", "Multi-Agent Systems"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: true
 ---
 

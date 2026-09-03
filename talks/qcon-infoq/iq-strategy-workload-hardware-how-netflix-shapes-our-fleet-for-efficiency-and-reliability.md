@@ -4,7 +4,7 @@ title: "How Netflix Shapes our Fleet for Efficiency and Reliability"
 slug: how-netflix-shapes-our-fleet-for-efficiency-and-reliability
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Joseph Lynch", "Argha C"]
@@ -15,6 +15,7 @@ video_id: iq-strategy-workload-hardware
 url: https://www.infoq.com/presentations/strategy-workload-hardware/
 youtube_url: null
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

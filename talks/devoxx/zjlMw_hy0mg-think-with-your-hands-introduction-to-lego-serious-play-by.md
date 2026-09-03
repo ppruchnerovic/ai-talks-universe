@@ -4,7 +4,7 @@ title: "Think with your hands: introduction to Lego Serious Play by Annabelle Bu
 slug: think-with-your-hands-introduction-to-lego-serious-play-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Annabelle Buffart"]
@@ -15,6 +15,7 @@ video_id: zjlMw_hy0mg
 url: https://www.youtube.com/watch?v=zjlMw_hy0mg
 youtube_url: https://www.youtube.com/watch?v=zjlMw_hy0mg
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

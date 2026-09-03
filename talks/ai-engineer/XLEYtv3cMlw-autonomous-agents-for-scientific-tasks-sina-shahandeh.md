@@ -4,7 +4,7 @@ title: "Autonomous Agents for Scientific Tasks - Sina Shahandeh, Radicait"
 slug: autonomous-agents-for-scientific-tasks-sina-shahandeh
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sina Shahandeh"]
@@ -15,6 +15,7 @@ video_id: XLEYtv3cMlw
 url: https://www.youtube.com/watch?v=XLEYtv3cMlw
 youtube_url: https://www.youtube.com/watch?v=XLEYtv3cMlw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

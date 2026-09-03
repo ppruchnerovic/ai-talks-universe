@@ -4,7 +4,7 @@ title: "Accelerate AI and HPC with Math Libraries on NVIDIA Blackwell GPUs | NVI
 slug: accelerate-ai-and-hpc-with-math-libraries-on-nvidia
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Kx9Z-NCF8J4
 url: https://www.youtube.com/watch?v=Kx9Z-NCF8J4
 youtube_url: https://www.youtube.com/watch?v=Kx9Z-NCF8J4
 tags: []
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

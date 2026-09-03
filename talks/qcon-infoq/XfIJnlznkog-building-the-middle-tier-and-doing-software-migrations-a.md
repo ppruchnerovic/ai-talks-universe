@@ -4,7 +4,7 @@ title: "Building the Middle Tier and Doing Software Migrations: A Conversation w
 slug: building-the-middle-tier-and-doing-software-migrations-a
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XfIJnlznkog
 url: https://www.youtube.com/watch?v=XfIJnlznkog
 youtube_url: https://www.youtube.com/watch?v=XfIJnlznkog
 tags: []
+topics: []
 transcript: false
 ---
 

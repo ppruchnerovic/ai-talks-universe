@@ -4,7 +4,7 @@ title: "Next gen AI Processors and Why We Need to Think Differently About SW 2 0
 slug: next-gen-ai-processors-and-why-we-need-to-think-differently
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: aNmKre57pNk
 url: https://www.youtube.com/watch?v=aNmKre57pNk
 youtube_url: https://www.youtube.com/watch?v=aNmKre57pNk
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

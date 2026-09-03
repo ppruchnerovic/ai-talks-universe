@@ -4,7 +4,7 @@ title: "Keynote: Enabling AI with Cloud Native - Jorge Castro, Cloud Native Comp
 slug: keynote-enabling-ai-with-cloud-native-jorge-castro-cloud
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Jorge Castro"]
@@ -15,6 +15,7 @@ video_id: 7vgoR4U2CTI
 url: https://www.youtube.com/watch?v=7vgoR4U2CTI
 youtube_url: https://www.youtube.com/watch?v=7vgoR4U2CTI
 tags: []
+topics: []
 transcript: false
 ---
 

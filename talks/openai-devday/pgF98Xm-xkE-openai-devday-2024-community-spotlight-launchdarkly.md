@@ -4,7 +4,7 @@ title: "OpenAI DevDay 2024 | Community Spotlight | LaunchDarkly"
 slug: openai-devday-2024-community-spotlight-launchdarkly
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: pgF98Xm-xkE
 url: https://www.youtube.com/watch?v=pgF98Xm-xkE
 youtube_url: https://www.youtube.com/watch?v=pgF98Xm-xkE
 tags: []
+topics: []
 transcript: false
 ---
 

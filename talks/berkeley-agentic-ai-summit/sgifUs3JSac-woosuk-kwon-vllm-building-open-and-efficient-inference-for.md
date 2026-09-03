@@ -4,7 +4,7 @@ title: "Woosuk Kwon - vLLM: Building Open and Efficient Inference for Agents"
 slug: woosuk-kwon-vllm-building-open-and-efficient-inference-for
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Woosuk Kwon"]
@@ -15,6 +15,7 @@ video_id: sgifUs3JSac
 url: https://www.youtube.com/watch?v=sgifUs3JSac
 youtube_url: https://www.youtube.com/watch?v=sgifUs3JSac
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

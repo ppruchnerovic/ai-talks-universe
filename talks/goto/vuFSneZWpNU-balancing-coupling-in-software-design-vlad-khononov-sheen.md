@@ -4,7 +4,7 @@ title: "Balancing Coupling in Software Design • Vlad Khononov & Sheen Brisals"
 slug: balancing-coupling-in-software-design-vlad-khononov-sheen
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Vlad Khononov", "Sheen Brisals"]
@@ -15,6 +15,7 @@ video_id: vuFSneZWpNU
 url: https://www.youtube.com/watch?v=vuFSneZWpNU
 youtube_url: https://www.youtube.com/watch?v=vuFSneZWpNU
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: []
 transcript: false
 ---
 

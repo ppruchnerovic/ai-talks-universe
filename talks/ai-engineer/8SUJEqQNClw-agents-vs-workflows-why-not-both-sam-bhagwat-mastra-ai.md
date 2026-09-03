@@ -4,7 +4,7 @@ title: "Agents vs Workflows: Why Not Both? — Sam Bhagwat, Mastra.ai"
 slug: agents-vs-workflows-why-not-both-sam-bhagwat-mastra-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Sam Bhagwat"]
@@ -15,6 +15,7 @@ video_id: 8SUJEqQNClw
 url: https://www.youtube.com/watch?v=8SUJEqQNClw
 youtube_url: https://www.youtube.com/watch?v=8SUJEqQNClw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

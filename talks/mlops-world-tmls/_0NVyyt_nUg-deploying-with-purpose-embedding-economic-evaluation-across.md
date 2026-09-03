@@ -4,7 +4,7 @@ title: "Deploying with Purpose: Embedding Economic Evaluation Across the AI Life
 slug: deploying-with-purpose-embedding-economic-evaluation-across
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: _0NVyyt_nUg
 url: https://www.youtube.com/watch?v=_0NVyyt_nUg
 youtube_url: https://www.youtube.com/watch?v=_0NVyyt_nUg
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Governance, ethics & regulation", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

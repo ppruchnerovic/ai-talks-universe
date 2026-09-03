@@ -4,7 +4,7 @@ title: "Building Reproducible ML Processes with an Open Source Stack - Einat Orr
 slug: building-reproducible-ml-processes-with-an-open-source
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Einat Orr"]
@@ -15,6 +15,7 @@ video_id: grBUnCCY-WQ
 url: https://www.youtube.com/watch?v=grBUnCCY-WQ
 youtube_url: https://www.youtube.com/watch?v=grBUnCCY-WQ
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

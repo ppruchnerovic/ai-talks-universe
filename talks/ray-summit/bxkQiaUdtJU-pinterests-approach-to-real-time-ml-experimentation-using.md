@@ -4,7 +4,7 @@ title: "Pinterest’s Approach to Real-Time ML Experimentation Using Ray | Ray S
 slug: pinterests-approach-to-real-time-ml-experimentation-using
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: bxkQiaUdtJU
 url: https://www.youtube.com/watch?v=bxkQiaUdtJU
 youtube_url: https://www.youtube.com/watch?v=bxkQiaUdtJU
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

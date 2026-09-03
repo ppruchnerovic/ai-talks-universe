@@ -4,7 +4,7 @@ title: "Bend, don’t break: Building resilient voice networks for contact cente
 slug: bend-dont-break-building-resilient-voice-networks-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XmwKWzNxz7c
 url: https://www.youtube.com/watch?v=XmwKWzNxz7c
 youtube_url: https://www.youtube.com/watch?v=XmwKWzNxz7c
 tags: ["Bend don’t break: Building resilient voice networks for contact centers | ODSP1451", "Copilot and agents at work", "English (US)", "ODSP1451", "ODSP1451_v1", "Technical", "Telecommunications", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

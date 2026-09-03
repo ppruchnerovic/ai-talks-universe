@@ -4,7 +4,7 @@ title: "Software Engineering Is Becoming Plan and Review — Louis Knight-Webb, 
 slug: software-engineering-is-becoming-plan-and-review-louis
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: W76woOYHlvY
 url: https://www.youtube.com/watch?v=W76woOYHlvY
 youtube_url: https://www.youtube.com/watch?v=W76woOYHlvY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

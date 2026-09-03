@@ -4,7 +4,7 @@ title: "One AI Chat to Rule Them All: Connecting Enterprise Tools with MCP by Ka
 slug: one-ai-chat-to-rule-them-all-connecting-enterprise-tools
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Karthik Sayapparaju"]
@@ -15,6 +15,7 @@ video_id: zfKqikfVSqA
 url: https://www.youtube.com/watch?v=zfKqikfVSqA
 youtube_url: https://www.youtube.com/watch?v=zfKqikfVSqA
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Duolingo's Kubernetes Leap"
 slug: duolingo-s-kubernetes-leap
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Franka Passing"]
@@ -15,6 +15,7 @@ video_id: iq-duolingo-eks-kubernetes
 url: https://www.infoq.com/presentations/duolingo-eks-kubernetes/
 youtube_url: null
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

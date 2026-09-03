@@ -4,7 +4,7 @@ title: "MLOps vs ModelOps – What’s the Difference and Why You Should Care"
 slug: mlops-vs-modelops-whats-the-difference-and-why-you-should
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: jbFsO66VLLg
 url: https://www.youtube.com/watch?v=jbFsO66VLLg
 youtube_url: https://www.youtube.com/watch?v=jbFsO66VLLg
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "MLOps vs ModelOps – What’s the Difference and Why You Should Care", "MLOps vs ModelOps", "modelops", "mlops world"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

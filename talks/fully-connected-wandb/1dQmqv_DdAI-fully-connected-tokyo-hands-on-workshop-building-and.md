@@ -4,7 +4,7 @@ title: "Fully Connected Tokyo: [Hands-on workshop] Building and improving custom
 slug: fully-connected-tokyo-hands-on-workshop-building-and
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1dQmqv_DdAI
 url: https://www.youtube.com/watch?v=1dQmqv_DdAI
 youtube_url: https://www.youtube.com/watch?v=1dQmqv_DdAI
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

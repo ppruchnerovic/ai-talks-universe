@@ -4,7 +4,7 @@ title: "Emma Burrows - How PMs can set up a product brain and become an agent or
 slug: emma-burrows-how-pms-can-set-up-a-product-brain-and-become
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Emma Burrows"]
@@ -15,6 +15,7 @@ video_id: M6Nhl4zR0uk
 url: https://www.youtube.com/watch?v=M6Nhl4zR0uk
 youtube_url: https://www.youtube.com/watch?v=M6Nhl4zR0uk
 tags: ["AI DevCon London", "AI shifts", "AI-native product management", "AI-native products", "Emma Burrows AI DevCon", "Rezonant", "UK CTO at Stripe", "agent orchestration", "ainativedev", "automated workflows", "how to set up a product brain", "product brain", "product management", "technological innovation", "what is a product brain"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

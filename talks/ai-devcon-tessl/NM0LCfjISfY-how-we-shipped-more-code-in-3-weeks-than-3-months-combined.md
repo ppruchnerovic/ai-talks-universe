@@ -4,7 +4,7 @@ title: "How We Shipped More Code in 3 Weeks Than 3 Months Combined"
 slug: how-we-shipped-more-code-in-3-weeks-than-3-months-combined
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: NM0LCfjISfY
 url: https://www.youtube.com/watch?v=NM0LCfjISfY
 youtube_url: https://www.youtube.com/watch?v=NM0LCfjISfY
 tags: ["AI", "AI and software development", "AIAssistant", "Benefits of AI tools in coding", "Claude", "Claude AI assistant in coding", "Coding", "CodingAgents", "Conductor", "Cursor", "DeveloperWorkflow", "Productivity", "SoftwareDevelopment", "What is AI-native development?", "ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

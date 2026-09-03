@@ -4,7 +4,7 @@ title: "dotAI 2024 - Merve Noyan - Gain full control of your apps with Open-Sour
 slug: dotai-2024-merve-noyan-gain-full-control-of-your-apps-with
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Merve Noyan"]
@@ -15,6 +15,7 @@ video_id: n462RhDhbK8
 url: https://www.youtube.com/watch?v=n462RhDhbK8
 youtube_url: https://www.youtube.com/watch?v=n462RhDhbK8
 tags: []
+topics: []
 transcript: false
 ---
 

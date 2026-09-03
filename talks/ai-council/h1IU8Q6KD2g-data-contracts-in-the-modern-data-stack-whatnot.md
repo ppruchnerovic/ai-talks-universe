@@ -4,7 +4,7 @@ title: "Data Contracts in the Modern Data Stack | Whatnot"
 slug: data-contracts-in-the-modern-data-stack-whatnot
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: h1IU8Q6KD2g
 url: https://www.youtube.com/watch?v=h1IU8Q6KD2g
 youtube_url: https://www.youtube.com/watch?v=h1IU8Q6KD2g
 tags: ["data stack", "data contracts", "Interface Definition Language", "DBL"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

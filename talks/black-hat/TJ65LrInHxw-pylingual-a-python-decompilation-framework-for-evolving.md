@@ -4,7 +4,7 @@ title: "PyLingual: A Python Decompilation Framework for Evolving Python Versions
 slug: pylingual-a-python-decompilation-framework-for-evolving
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: TJ65LrInHxw
 url: https://www.youtube.com/watch?v=TJ65LrInHxw
 youtube_url: https://www.youtube.com/watch?v=TJ65LrInHxw
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

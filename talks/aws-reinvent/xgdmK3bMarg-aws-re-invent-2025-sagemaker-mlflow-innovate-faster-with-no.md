@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - SageMaker & MLflow: Innovate faster with no infrast
 slug: aws-re-invent-2025-sagemaker-mlflow-innovate-faster-with-no
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xgdmK3bMarg
 url: https://www.youtube.com/watch?v=xgdmK3bMarg
 youtube_url: https://www.youtube.com/watch?v=xgdmK3bMarg
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The Future of .NET App Modernization Streamlined with AI | BRK101"
 slug: the-future-of-net-app-modernization-streamlined-with-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: GXXZpL6KuT4
 url: https://www.youtube.com/watch?v=GXXZpL6KuT4
 youtube_url: https://www.youtube.com/watch?v=GXXZpL6KuT4
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

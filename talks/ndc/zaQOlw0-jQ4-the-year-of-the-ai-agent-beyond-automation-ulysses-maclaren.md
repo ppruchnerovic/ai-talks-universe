@@ -4,7 +4,7 @@ title: "The year of the AI Agent: Beyond Automation - Ulysses Maclaren - NDC Mel
 slug: the-year-of-the-ai-agent-beyond-automation-ulysses-maclaren
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Ulysses Maclaren"]
@@ -15,6 +15,7 @@ video_id: zaQOlw0-jQ4
 url: https://www.youtube.com/watch?v=zaQOlw0-jQ4
 youtube_url: https://www.youtube.com/watch?v=zaQOlw0-jQ4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

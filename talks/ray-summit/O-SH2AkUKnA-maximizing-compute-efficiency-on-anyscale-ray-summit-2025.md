@@ -4,7 +4,7 @@ title: "Maximizing Compute Efficiency on Anyscale | Ray Summit 2025"
 slug: maximizing-compute-efficiency-on-anyscale-ray-summit-2025
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: O-SH2AkUKnA
 url: https://www.youtube.com/watch?v=O-SH2AkUKnA
 youtube_url: https://www.youtube.com/watch?v=O-SH2AkUKnA
 tags: []
+topics: []
 transcript: false
 ---
 

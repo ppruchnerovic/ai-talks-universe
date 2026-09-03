@@ -4,7 +4,7 @@ title: "What If We Designed Employee Experience Like a Customer Journey?"
 slug: what-if-we-designed-employee-experience-like-a-customer
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: JwCBh9wuEWs
 url: https://www.youtube.com/watch?v=JwCBh9wuEWs
 youtube_url: https://www.youtube.com/watch?v=JwCBh9wuEWs
 tags: ["service design", "user experience", "employee experience", "customer journey", "ui", "ux", "experience", "leadership", "people", "culture", "recruiting", "AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

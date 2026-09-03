@@ -4,7 +4,7 @@ title: "Lightning Talk: FTorch: A Library To Couple PyTorch ML Models With Fortr
 slug: lightning-talk-ftorch-a-library-to-couple-pytorch-ml-models
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["M Archer"]
@@ -15,6 +15,7 @@ video_id: WkOs1dqSwRM
 url: https://www.youtube.com/watch?v=WkOs1dqSwRM
 youtube_url: https://www.youtube.com/watch?v=WkOs1dqSwRM
 tags: []
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

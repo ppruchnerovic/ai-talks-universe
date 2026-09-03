@@ -4,7 +4,7 @@ title: "Shopify's Ray-Powered Approach to Multimodal AI in E-commerce | Ray Summ
 slug: shopify-s-ray-powered-approach-to-multimodal-ai-in-e
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: v-2qJEN_aow
 url: https://www.youtube.com/watch?v=v-2qJEN_aow
 youtube_url: https://www.youtube.com/watch?v=v-2qJEN_aow
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

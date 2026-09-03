@@ -4,7 +4,7 @@ title: "Make your UI adaptive with Android Studio's AI agent"
 slug: make-your-ui-adaptive-with-android-studio-s-ai-agent
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Don Turner", "Jose Alcérreca"]
@@ -15,6 +15,7 @@ video_id: vCHU6eUFxdk
 url: https://www.youtube.com/watch?v=vCHU6eUFxdk
 youtube_url: https://www.youtube.com/watch?v=vCHU6eUFxdk
 tags: ["Android", "pr_pr: Google I/O;", "ct:Stack - Android;", "ct:Event - Technical Session;"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

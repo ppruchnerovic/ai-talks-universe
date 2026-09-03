@@ -4,7 +4,7 @@ title: "AI Agents Are Coming to HR: Are Recruiters Ready?"
 slug: ai-agents-are-coming-to-hr-are-recruiters-ready
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Er7uLTYtgpY
 url: https://www.youtube.com/watch?v=Er7uLTYtgpY
 youtube_url: https://www.youtube.com/watch?v=Er7uLTYtgpY
 tags: ["AI", "agents", "automation", "recruiting", "hiring", "recruitment", "AI agents", "agentic AI", "recruiters", "HR", "people", "vibe coding"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

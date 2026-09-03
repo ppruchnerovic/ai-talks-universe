@@ -4,7 +4,7 @@ title: "SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Mar
 slug: safechat-building-ai-powered-safety-systems-at-scale-in-a
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI Boston 2026"
 year: 2026
 speakers: ["Bruna Pereira"]
@@ -15,6 +15,7 @@ video_id: iq-doordash-llm-ai-moderation-platform
 url: https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/
 youtube_url: null
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

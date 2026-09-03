@@ -4,7 +4,7 @@ title: "AI and Cybersecurity | Sandra Joyce, Google Cloud & Mohamed Al Kuwaiti, 
 slug: ai-and-cybersecurity-sandra-joyce-google-cloud-mohamed-al
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: ["Sandra Joyce"]
@@ -15,6 +15,7 @@ video_id: IAhU1AAqxcY
 url: https://www.youtube.com/watch?v=IAhU1AAqxcY
 youtube_url: https://www.youtube.com/watch?v=IAhU1AAqxcY
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

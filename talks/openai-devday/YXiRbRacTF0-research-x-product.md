@@ -4,7 +4,7 @@ title: "Research x Product"
 slug: research-x-product
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: YXiRbRacTF0
 url: https://www.youtube.com/watch?v=YXiRbRacTF0
 youtube_url: https://www.youtube.com/watch?v=YXiRbRacTF0
 tags: []
+topics: []
 transcript: false
 ---
 

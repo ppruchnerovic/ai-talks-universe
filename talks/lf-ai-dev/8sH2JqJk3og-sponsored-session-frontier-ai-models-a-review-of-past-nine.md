@@ -4,7 +4,7 @@ title: "Sponsored Session: Frontier AI Models: A Review of Past Nine Months - Oz
 slug: sponsored-session-frontier-ai-models-a-review-of-past-nine
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Ozgun Erdogan"]
@@ -15,6 +15,7 @@ video_id: 8sH2JqJk3og
 url: https://www.youtube.com/watch?v=8sH2JqJk3og
 youtube_url: https://www.youtube.com/watch?v=8sH2JqJk3og
 tags: []
+topics: []
 transcript: false
 ---
 

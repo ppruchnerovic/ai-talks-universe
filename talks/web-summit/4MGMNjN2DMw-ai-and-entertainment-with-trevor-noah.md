@@ -4,7 +4,7 @@ title: "AI and entertainment with Trevor Noah"
 slug: ai-and-entertainment-with-trevor-noah
 conference: web-summit
 conference_name: "Web Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Web Summit"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4MGMNjN2DMw
 url: https://www.youtube.com/watch?v=4MGMNjN2DMw
 youtube_url: https://www.youtube.com/watch?v=4MGMNjN2DMw
 tags: ["web summit", "web summit conference lisbon", "web summit paddy", "web summit youtube", "web summit lisboa", "Lisbon", "Lisboa"]
+topics: []
 transcript: false
 ---
 

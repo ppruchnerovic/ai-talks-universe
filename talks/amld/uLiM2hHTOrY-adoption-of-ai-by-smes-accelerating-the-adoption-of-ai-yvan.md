@@ -4,7 +4,7 @@ title: "Adoption of AI by SMEs | Accelerating the Adoption of AI | Yvan Cognasse
 slug: adoption-of-ai-by-smes-accelerating-the-adoption-of-ai-yvan
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Yvan Cognasse"]
@@ -15,6 +15,7 @@ video_id: uLiM2hHTOrY
 url: https://www.youtube.com/watch?v=uLiM2hHTOrY
 youtube_url: https://www.youtube.com/watch?v=uLiM2hHTOrY
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

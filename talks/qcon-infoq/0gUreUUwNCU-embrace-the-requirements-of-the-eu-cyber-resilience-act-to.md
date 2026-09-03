@@ -4,7 +4,7 @@ title: "Embrace the Requirements of The EU Cyber Resilience Act to Strengthen Yo
 slug: embrace-the-requirements-of-the-eu-cyber-resilience-act-to
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0gUreUUwNCU
 url: https://www.youtube.com/watch?v=0gUreUUwNCU
 youtube_url: https://www.youtube.com/watch?v=0gUreUUwNCU
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

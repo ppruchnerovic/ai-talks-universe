@@ -4,7 +4,7 @@ title: "Hugging Face open‑source models to production on Microsoft Foundry | D
 slug: hugging-face-opensource-models-to-production-on-microsoft
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Vaidyaraman Sambasivam", "Osi Otugo", "Jean Boudier"]
@@ -15,6 +15,7 @@ video_id: 5lB9Bk4KEF8
 url: https://www.youtube.com/watch?v=5lB9Bk4KEF8
 youtube_url: https://www.youtube.com/watch?v=5lB9Bk4KEF8
 tags: ["89dcba95-e116-4091-b82f-49452d243797_M9Z7-DEM320-1", "DEM320", "Hugging Face open‑source models to production on Microsoft Foundry | DEM320", "Jean Boudier", "Osi Otugo", "Vaidyaraman Sambasivam", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Governance, ethics & regulation", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

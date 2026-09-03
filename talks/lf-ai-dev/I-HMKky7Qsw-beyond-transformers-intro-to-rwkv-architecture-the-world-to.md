@@ -4,7 +4,7 @@ title: "Beyond Transformers - Intro to RWKV Architecture & The World To... Eugen
 slug: beyond-transformers-intro-to-rwkv-architecture-the-world-to
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Beyond Transformers"]
@@ -15,6 +15,7 @@ video_id: I-HMKky7Qsw
 url: https://www.youtube.com/watch?v=I-HMKky7Qsw
 youtube_url: https://www.youtube.com/watch?v=I-HMKky7Qsw
 tags: []
+topics: []
 transcript: false
 ---
 

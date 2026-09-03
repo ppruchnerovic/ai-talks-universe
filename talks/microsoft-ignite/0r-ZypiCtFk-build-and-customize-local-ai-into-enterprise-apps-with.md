@@ -4,7 +4,7 @@ title: "Build and customize local AI into enterprise apps with Windows AI APIs |
 slug: build-and-customize-local-ai-into-enterprise-apps-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0r-ZypiCtFk
 url: https://www.youtube.com/watch?v=0r-ZypiCtFk
 youtube_url: https://www.youtube.com/watch?v=0r-ZypiCtFk
 tags: ["BRK331", "BRK331_v1", "Build and customize local AI into enterprise apps with Windows AI APIs | BRK331", "Connor Al-Joundi", "English (US)", "Ivan Razumenic", "Scale with cloud and AI endpoints", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

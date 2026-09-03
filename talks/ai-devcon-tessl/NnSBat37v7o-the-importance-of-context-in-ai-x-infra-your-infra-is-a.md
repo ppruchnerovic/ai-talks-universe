@@ -4,7 +4,7 @@ title: "The Importance of Context in AI x Infra: Your Infra is a Graph with Roxa
 slug: the-importance-of-context-in-ai-x-infra-your-infra-is-a
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: NnSBat37v7o
 url: https://www.youtube.com/watch?v=NnSBat37v7o
 youtube_url: https://www.youtube.com/watch?v=NnSBat37v7o
 tags: ["ainativedev"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "One Flip is All It Takes: Identifying Syscall-Guard Variables for Data-O
 slug: one-flip-is-all-it-takes-identifying-syscall-guard
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: utjtAxagbr8
 url: https://www.youtube.com/watch?v=utjtAxagbr8
 youtube_url: https://www.youtube.com/watch?v=utjtAxagbr8
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

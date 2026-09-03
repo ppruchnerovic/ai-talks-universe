@@ -4,7 +4,7 @@ title: "On AI and Knowledge — Pablo Castro, Distinguished Engineer & CVP for A
 slug: on-ai-and-knowledge-pablo-castro-distinguished-engineer-cvp
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Pablo Castro"]
@@ -15,6 +15,7 @@ video_id: RGSFUqzqErE
 url: https://www.youtube.com/watch?v=RGSFUqzqErE
 youtube_url: https://www.youtube.com/watch?v=RGSFUqzqErE
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

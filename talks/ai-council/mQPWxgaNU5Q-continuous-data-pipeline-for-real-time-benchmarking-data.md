@@ -4,7 +4,7 @@ title: "Continuous Data Pipeline for Real time Benchmarking & Data Set Augmentat
 slug: continuous-data-pipeline-for-real-time-benchmarking-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: mQPWxgaNU5Q
 url: https://www.youtube.com/watch?v=mQPWxgaNU5Q
 youtube_url: https://www.youtube.com/watch?v=mQPWxgaNU5Q
 tags: ["benchmarking", "analytics", "data set"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: false
 ---
 

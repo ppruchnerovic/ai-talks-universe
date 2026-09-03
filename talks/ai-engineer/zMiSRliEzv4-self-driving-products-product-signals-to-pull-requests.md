@@ -4,7 +4,7 @@ title: "Self Driving Products: Product Signals to Pull Requests — Joshua Snyde
 slug: self-driving-products-product-signals-to-pull-requests
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Joshua Snyder"]
@@ -15,6 +15,7 @@ video_id: zMiSRliEzv4
 url: https://www.youtube.com/watch?v=zMiSRliEzv4
 youtube_url: https://www.youtube.com/watch?v=zMiSRliEzv4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

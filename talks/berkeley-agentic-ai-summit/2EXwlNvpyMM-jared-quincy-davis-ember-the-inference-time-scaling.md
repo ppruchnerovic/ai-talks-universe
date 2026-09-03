@@ -4,7 +4,7 @@ title: "Jared Quincy Davis - Ember: the Inference-Time Scaling Architectures Fra
 slug: jared-quincy-davis-ember-the-inference-time-scaling
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Jared Quincy Davis"]
@@ -15,6 +15,7 @@ video_id: 2EXwlNvpyMM
 url: https://www.youtube.com/watch?v=2EXwlNvpyMM
 youtube_url: https://www.youtube.com/watch?v=2EXwlNvpyMM
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

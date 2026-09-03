@@ -4,7 +4,7 @@ title: "Project Domino: Citizen data science against COVID misinformation"
 slug: project-domino-citizen-data-science-against-covid
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2020
 speakers: []
@@ -15,6 +15,7 @@ video_id: zSeXDcnAe0s
 url: https://www.youtube.com/watch?v=zSeXDcnAe0s
 youtube_url: https://www.youtube.com/watch?v=zSeXDcnAe0s
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

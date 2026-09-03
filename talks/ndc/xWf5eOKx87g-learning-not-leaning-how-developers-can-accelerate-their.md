@@ -4,7 +4,7 @@ title: "Learning not leaning: How developers can Accelerate their Learning with 
 slug: learning-not-leaning-how-developers-can-accelerate-their
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Emma Burstow"]
@@ -15,6 +15,7 @@ video_id: xWf5eOKx87g
 url: https://www.youtube.com/watch?v=xWf5eOKx87g
 youtube_url: https://www.youtube.com/watch?v=xWf5eOKx87g
 tags: [".NET", "AI", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "Emma Burstow"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

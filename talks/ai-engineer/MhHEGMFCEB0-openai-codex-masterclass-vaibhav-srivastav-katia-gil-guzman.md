@@ -4,7 +4,7 @@ title: "OpenAI Codex Masterclass — Vaibhav Srivastav & Katia Gil Guzman"
 slug: openai-codex-masterclass-vaibhav-srivastav-katia-gil-guzman
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vaibhav Srivastav", "Katia Gil Guzman"]
@@ -15,6 +15,7 @@ video_id: MhHEGMFCEB0
 url: https://www.youtube.com/watch?v=MhHEGMFCEB0
 youtube_url: https://www.youtube.com/watch?v=MhHEGMFCEB0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Security, safety & red teaming"]
 transcript: true
 ---
 

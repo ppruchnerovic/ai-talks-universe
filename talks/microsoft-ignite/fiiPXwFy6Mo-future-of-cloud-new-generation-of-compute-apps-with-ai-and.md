@@ -4,7 +4,7 @@ title: "Future of Cloud - New generation of compute & apps with AI and quantum |
 slug: future-of-cloud-new-generation-of-compute-apps-with-ai-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["John Link", "Gorka Madariaga"]
@@ -15,6 +15,7 @@ video_id: fiiPXwFy6Mo
 url: https://www.youtube.com/watch?v=fiiPXwFy6Mo
 youtube_url: https://www.youtube.com/watch?v=fiiPXwFy6Mo
 tags: ["AI", "Azure Arc", "Azure Monitor", "BRK221", "Breakout", "Cloud Management", "Copilot", "English (US)", "Future of Cloud - New generation of compute & apps with AI and quantum | BRK221", "Gorka Madariaga", "Infrastructure", "Infrastructure-Curated", "Intermediate (200)", "John Link", "Technical", "Version v3", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

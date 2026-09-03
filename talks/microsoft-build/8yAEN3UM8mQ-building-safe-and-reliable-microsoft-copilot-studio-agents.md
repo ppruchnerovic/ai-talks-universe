@@ -4,7 +4,7 @@ title: "Building safe and reliable Microsoft Copilot Studio agents | OD817"
 slug: building-safe-and-reliable-microsoft-copilot-studio-agents
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8yAEN3UM8mQ
 url: https://www.youtube.com/watch?v=8yAEN3UM8mQ
 youtube_url: https://www.youtube.com/watch?v=8yAEN3UM8mQ
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

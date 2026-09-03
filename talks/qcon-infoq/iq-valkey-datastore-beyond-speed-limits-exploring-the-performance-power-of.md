@@ -4,7 +4,7 @@ title: "Beyond Speed Limits: Exploring the Performance Power of Valkey"
 slug: beyond-speed-limits-exploring-the-performance-power-of
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Viktor Vedmich"]
@@ -15,6 +15,7 @@ video_id: iq-valkey-datastore
 url: https://www.infoq.com/presentations/valkey-datastore/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

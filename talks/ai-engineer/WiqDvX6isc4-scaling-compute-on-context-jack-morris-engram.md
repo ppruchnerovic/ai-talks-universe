@@ -4,7 +4,7 @@ title: "Scaling Compute on Context — Jack Morris, Engram"
 slug: scaling-compute-on-context-jack-morris-engram
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jack Morris"]
@@ -15,6 +15,7 @@ video_id: WiqDvX6isc4
 url: https://www.youtube.com/watch?v=WiqDvX6isc4
 youtube_url: https://www.youtube.com/watch?v=WiqDvX6isc4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

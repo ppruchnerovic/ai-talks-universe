@@ -4,7 +4,7 @@ title: "Accelerating Numerical Simulations by Model Reduction | AI & Physics | F
 slug: accelerating-numerical-simulations-by-model-reduction-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Federica Gerace"]
@@ -15,6 +15,7 @@ video_id: aPu02vqcvbw
 url: https://www.youtube.com/watch?v=aPu02vqcvbw
 youtube_url: https://www.youtube.com/watch?v=aPu02vqcvbw
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

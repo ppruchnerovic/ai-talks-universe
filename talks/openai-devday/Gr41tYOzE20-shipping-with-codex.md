@@ -4,7 +4,7 @@ title: "Shipping with Codex"
 slug: shipping-with-codex
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Gr41tYOzE20
 url: https://www.youtube.com/watch?v=Gr41tYOzE20
 youtube_url: https://www.youtube.com/watch?v=Gr41tYOzE20
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

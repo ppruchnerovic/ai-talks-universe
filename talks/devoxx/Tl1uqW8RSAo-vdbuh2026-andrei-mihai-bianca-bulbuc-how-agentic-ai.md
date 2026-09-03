@@ -4,7 +4,7 @@ title: "[VDBUH2026] Andrei Mihai & Bianca Bulbuc - How Agentic AI Empowers Creat
 slug: vdbuh2026-andrei-mihai-bianca-bulbuc-how-agentic-ai
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Andrei Mihai", "Bianca Bulbuc"]
@@ -15,6 +15,7 @@ video_id: Tl1uqW8RSAo
 url: https://www.youtube.com/watch?v=Tl1uqW8RSAo
 youtube_url: https://www.youtube.com/watch?v=Tl1uqW8RSAo
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

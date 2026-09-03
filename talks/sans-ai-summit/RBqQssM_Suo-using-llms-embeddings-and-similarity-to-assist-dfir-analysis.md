@@ -4,7 +4,7 @@ title: "Using LLMs, Embeddings, and Similarity to Assist DFIR Analysis"
 slug: using-llms-embeddings-and-similarity-to-assist-dfir-analysis
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: RBqQssM_Suo
 url: https://www.youtube.com/watch?v=RBqQssM_Suo
 youtube_url: https://www.youtube.com/watch?v=RBqQssM_Suo
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

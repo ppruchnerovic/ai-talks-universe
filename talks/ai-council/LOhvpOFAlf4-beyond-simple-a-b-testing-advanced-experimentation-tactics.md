@@ -4,7 +4,7 @@ title: "Beyond Simple A/B Testing: Advanced Experimentation Tactics"
 slug: beyond-simple-a-b-testing-advanced-experimentation-tactics
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Timothy Chan"]
@@ -15,6 +15,7 @@ video_id: LOhvpOFAlf4
 url: https://www.youtube.com/watch?v=LOhvpOFAlf4
 youtube_url: https://www.youtube.com/watch?v=LOhvpOFAlf4
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

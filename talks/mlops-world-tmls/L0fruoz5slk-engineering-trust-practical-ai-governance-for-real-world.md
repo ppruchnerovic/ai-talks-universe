@@ -4,7 +4,7 @@ title: "Engineering Trust: Practical AI Governance for Real-World Deployments"
 slug: engineering-trust-practical-ai-governance-for-real-world
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: L0fruoz5slk
 url: https://www.youtube.com/watch?v=L0fruoz5slk
 youtube_url: https://www.youtube.com/watch?v=L0fruoz5slk
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

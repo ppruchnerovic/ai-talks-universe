@@ -4,7 +4,7 @@ title: "Designing high quality software with AI"
 slug: designing-high-quality-software-with-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Brian Lovin"]
@@ -15,6 +15,7 @@ video_id: cASbzBz-77k
 url: https://www.youtube.com/watch?v=cASbzBz-77k
 youtube_url: https://www.youtube.com/watch?v=cASbzBz-77k
 tags: ["AI Agents"]
+topics: []
 transcript: true
 ---
 

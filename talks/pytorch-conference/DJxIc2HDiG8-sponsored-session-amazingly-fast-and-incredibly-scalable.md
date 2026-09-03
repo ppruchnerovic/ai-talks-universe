@@ -4,7 +4,7 @@ title: "Sponsored Session: Amazingly Fast and Incredibly Scalable Inference... -
 slug: sponsored-session-amazingly-fast-and-incredibly-scalable
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Harry Kim", "Laikh Tewari"]
@@ -15,6 +15,7 @@ video_id: DJxIc2HDiG8
 url: https://www.youtube.com/watch?v=DJxIc2HDiG8
 youtube_url: https://www.youtube.com/watch?v=DJxIc2HDiG8
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

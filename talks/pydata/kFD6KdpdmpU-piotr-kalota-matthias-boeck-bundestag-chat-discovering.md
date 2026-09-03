@@ -4,7 +4,7 @@ title: "Piotr Kalota+Matthias Boeck - Bundestag Chat: Discovering Political Land
 slug: piotr-kalota-matthias-boeck-bundestag-chat-discovering
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Piotr Kalota", "Matthias Boeck"]
@@ -15,6 +15,7 @@ video_id: kFD6KdpdmpU
 url: https://www.youtube.com/watch?v=kFD6KdpdmpU
 youtube_url: https://www.youtube.com/watch?v=kFD6KdpdmpU
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Keynote: Building the Open Agent Ecosystem Together: Introducing OpenEnv
 slug: keynote-building-the-open-agent-ecosystem-together
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: EflwqcbRYYs
 url: https://www.youtube.com/watch?v=EflwqcbRYYs
 youtube_url: https://www.youtube.com/watch?v=EflwqcbRYYs
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

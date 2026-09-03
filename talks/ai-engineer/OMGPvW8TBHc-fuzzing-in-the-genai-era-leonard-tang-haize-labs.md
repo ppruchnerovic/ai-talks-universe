@@ -4,7 +4,7 @@ title: "Fuzzing in the GenAI Era — Leonard Tang, Haize Labs"
 slug: fuzzing-in-the-genai-era-leonard-tang-haize-labs
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Leonard Tang"]
@@ -15,6 +15,7 @@ video_id: OMGPvW8TBHc
 url: https://www.youtube.com/watch?v=OMGPvW8TBHc
 youtube_url: https://www.youtube.com/watch?v=OMGPvW8TBHc
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Science, healthcare & applied ML", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

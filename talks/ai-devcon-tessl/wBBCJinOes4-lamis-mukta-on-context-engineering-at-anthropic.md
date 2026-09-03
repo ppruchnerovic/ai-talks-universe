@@ -4,7 +4,7 @@ title: "Lamis Mukta on Context Engineering at Anthropic"
 slug: lamis-mukta-on-context-engineering-at-anthropic
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: wBBCJinOes4
 url: https://www.youtube.com/watch?v=wBBCJinOes4
 youtube_url: https://www.youtube.com/watch?v=wBBCJinOes4
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

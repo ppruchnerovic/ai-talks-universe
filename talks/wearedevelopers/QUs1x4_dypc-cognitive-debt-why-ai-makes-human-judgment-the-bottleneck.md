@@ -4,7 +4,7 @@ title: "Cognitive Debt - Why AI makes human judgment the bottleneck"
 slug: cognitive-debt-why-ai-makes-human-judgment-the-bottleneck
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Elisa Schön"]
@@ -15,6 +15,7 @@ video_id: QUs1x4_dypc
 url: https://www.youtube.com/watch?v=QUs1x4_dypc
 youtube_url: https://www.youtube.com/watch?v=QUs1x4_dypc
 tags: ["Career & Growth", "Digital Transformation", "People & Culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

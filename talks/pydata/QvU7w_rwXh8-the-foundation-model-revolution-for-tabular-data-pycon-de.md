@@ -4,7 +4,7 @@ title: "The foundation model revolution for tabular data [PyCon DE & PyData 2026
 slug: the-foundation-model-revolution-for-tabular-data-pycon-de
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Frank Hutter"]
@@ -15,6 +15,7 @@ video_id: QvU7w_rwXh8
 url: https://www.youtube.com/watch?v=QvU7w_rwXh8
 youtube_url: https://www.youtube.com/watch?v=QvU7w_rwXh8
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

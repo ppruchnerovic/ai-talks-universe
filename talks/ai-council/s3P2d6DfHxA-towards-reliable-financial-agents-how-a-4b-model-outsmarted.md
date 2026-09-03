@@ -4,7 +4,7 @@ title: "Towards Reliable Financial Agents: How a 4B Model Outsmarted a 235B Gian
 slug: towards-reliable-financial-agents-how-a-4b-model-outsmarted
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: s3P2d6DfHxA
 url: https://www.youtube.com/watch?v=s3P2d6DfHxA
 youtube_url: https://www.youtube.com/watch?v=s3P2d6DfHxA
 tags: ["AI"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

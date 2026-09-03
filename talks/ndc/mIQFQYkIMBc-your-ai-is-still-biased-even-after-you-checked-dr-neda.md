@@ -4,7 +4,7 @@ title: "Your AI Is Still Biased (Even After You Checked) - Dr. Neda Maria Kaizum
 slug: your-ai-is-still-biased-even-after-you-checked-dr-neda
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Dr. Neda Maria Kaizumi"]
@@ -15,6 +15,7 @@ video_id: mIQFQYkIMBc
 url: https://www.youtube.com/watch?v=mIQFQYkIMBc
 youtube_url: https://www.youtube.com/watch?v=mIQFQYkIMBc
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

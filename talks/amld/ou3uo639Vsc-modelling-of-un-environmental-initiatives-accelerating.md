@@ -4,7 +4,7 @@ title: "Modelling of UN environmental initiatives | Accelerating Climate Change 
 slug: modelling-of-un-environmental-initiatives-accelerating
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Anne Sietsma"]
@@ -15,6 +15,7 @@ video_id: ou3uo639Vsc
 url: https://www.youtube.com/watch?v=ou3uo639Vsc
 youtube_url: https://www.youtube.com/watch?v=ou3uo639Vsc
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

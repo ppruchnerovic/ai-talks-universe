@@ -4,7 +4,7 @@ title: "Beyond MLOps: Building AI systems with Metaflow"
 slug: beyond-mlops-building-ai-systems-with-metaflow
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Ville Tuulos"]
@@ -15,6 +15,7 @@ video_id: tRQzhJuRXkk
 url: https://www.youtube.com/watch?v=tRQzhJuRXkk
 youtube_url: https://www.youtube.com/watch?v=tRQzhJuRXkk
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

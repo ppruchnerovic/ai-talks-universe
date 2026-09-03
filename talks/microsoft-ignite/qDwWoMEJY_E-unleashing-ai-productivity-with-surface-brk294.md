@@ -4,7 +4,7 @@ title: "Unleashing AI productivity with Surface | BRK294"
 slug: unleashing-ai-productivity-with-surface-brk294
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jack Cowett", "Chauncey Larsen"]
@@ -15,6 +15,7 @@ video_id: qDwWoMEJY_E
 url: https://www.youtube.com/watch?v=qDwWoMEJY_E
 youtube_url: https://www.youtube.com/watch?v=qDwWoMEJY_E
 tags: ["AI", "BRK294", "Breakout", "Chauncey Larsen", "Copilot", "Copilot + PC", "Copilot for M365", "Devices", "English (US)", "Intermediate (200)", "Jack Cowett", "Microsoft Copilot", "Modern Work", "Modern Work-Curated", "NPU", "Surface", "Technical", "Unleashing AI productivity with Surface | BRK294", "Version v4", "Windows 11", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

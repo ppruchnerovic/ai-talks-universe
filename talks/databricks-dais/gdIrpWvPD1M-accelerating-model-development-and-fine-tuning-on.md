@@ -4,7 +4,7 @@ title: "Accelerating Model Development and Fine-Tuning on Databricks with Twelve
 slug: accelerating-model-development-and-fine-tuning-on
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: gdIrpWvPD1M
 url: https://www.youtube.com/watch?v=gdIrpWvPD1M
 youtube_url: https://www.youtube.com/watch?v=gdIrpWvPD1M
 tags: []
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

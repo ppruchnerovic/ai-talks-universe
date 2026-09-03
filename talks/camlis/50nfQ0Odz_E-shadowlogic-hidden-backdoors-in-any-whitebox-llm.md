@@ -4,7 +4,7 @@ title: "ShadowLogic: Hidden Backdoors in Any Whitebox LLM"
 slug: shadowlogic-hidden-backdoors-in-any-whitebox-llm
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Amelia Kawasaki"]
@@ -15,6 +15,7 @@ video_id: 50nfQ0Odz_E
 url: https://www.youtube.com/watch?v=50nfQ0Odz_E
 youtube_url: https://www.youtube.com/watch?v=50nfQ0Odz_E
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Agentic Programming, this is how it's done by Jeroen Egelmeers"
 slug: agentic-programming-this-is-how-it-s-done-by-jeroen
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Jeroen Egelmeers"]
@@ -15,6 +15,7 @@ video_id: q9rf6sIH6vQ
 url: https://www.youtube.com/watch?v=q9rf6sIH6vQ
 youtube_url: https://www.youtube.com/watch?v=q9rf6sIH6vQ
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

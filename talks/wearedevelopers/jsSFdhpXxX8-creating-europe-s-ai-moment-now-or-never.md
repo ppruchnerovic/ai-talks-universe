@@ -4,7 +4,7 @@ title: "Creating Europe's AI Moment – Now or Never"
 slug: creating-europe-s-ai-moment-now-or-never
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Antonella Mei-Pochtler", "Thomas Jarzombek", "Thomas Saueressig", "Jasper Bennink"]
@@ -15,6 +15,7 @@ video_id: jsSFdhpXxX8
 url: https://www.youtube.com/watch?v=jsSFdhpXxX8
 youtube_url: https://www.youtube.com/watch?v=jsSFdhpXxX8
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

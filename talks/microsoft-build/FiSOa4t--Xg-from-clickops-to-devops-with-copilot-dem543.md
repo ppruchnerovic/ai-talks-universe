@@ -4,7 +4,7 @@ title: "From ClickOps to DevOps with Copilot | DEM543"
 slug: from-clickops-to-devops-with-copilot-dem543
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: FiSOa4t--Xg
 url: https://www.youtube.com/watch?v=FiSOa4t--Xg
 youtube_url: https://www.youtube.com/watch?v=FiSOa4t--Xg
 tags: []
+topics: []
 transcript: false
 ---
 

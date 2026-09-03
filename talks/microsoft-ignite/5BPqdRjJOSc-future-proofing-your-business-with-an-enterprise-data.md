@@ -4,7 +4,7 @@ title: "Future proofing your business with an enterprise data platform | ODFP960
 slug: future-proofing-your-business-with-an-enterprise-data
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Nick Burling"]
@@ -15,6 +15,7 @@ video_id: 5BPqdRjJOSc
 url: https://www.youtube.com/watch?v=5BPqdRjJOSc
 youtube_url: https://www.youtube.com/watch?v=5BPqdRjJOSc
 tags: ["AI", "Data Security", "Data governance", "Dataverse", "English (US)", "Foundational (100)", "Future proofing your business with an enterprise data platform | ODFP960", "Nick Burling", "ODFP960", "Pre-recorded", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

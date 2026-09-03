@@ -4,7 +4,7 @@ title: "Innovating Surface: Designing for product excellence​ | BRK337"
 slug: innovating-surface-designing-for-product-excellence-brk337
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Carlos Carrasco"]
@@ -15,6 +15,7 @@ video_id: XBp15voriIo
 url: https://www.youtube.com/watch?v=XBp15voriIo
 youtube_url: https://www.youtube.com/watch?v=XBp15voriIo
 tags: ["BRK337", "BRK337_v1", "Carlos Carrasco", "English (US)", "Innovating Surface: Designing for product excellence​ | BRK337", "Robyn McLaughlin", "Scale with cloud and AI endpoints", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

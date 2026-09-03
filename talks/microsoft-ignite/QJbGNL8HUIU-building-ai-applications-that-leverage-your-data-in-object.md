@@ -4,7 +4,7 @@ title: "Building AI applications that leverage your data in object storage | BRK
 slug: building-ai-applications-that-leverage-your-data-in-object
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Vamshidhar Kommineni", "Saurabh Sensharma"]
@@ -15,6 +15,7 @@ video_id: QJbGNL8HUIU
 url: https://www.youtube.com/watch?v=QJbGNL8HUIU
 youtube_url: https://www.youtube.com/watch?v=QJbGNL8HUIU
 tags: ["AI search", "Advanced (300)", "BRK216", "Breakout", "Building AI applications that leverage your data in object storage | BRK216", "English (US)", "GenAI", "Infrastructure", "Saurabh Sensharma", "Technical", "Vamshidhar Kommineni", "Version v3", "ignite", "ignite 2024", "knowledgeretrieval", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024", "vectorsearch"]
+topics: []
 transcript: false
 ---
 

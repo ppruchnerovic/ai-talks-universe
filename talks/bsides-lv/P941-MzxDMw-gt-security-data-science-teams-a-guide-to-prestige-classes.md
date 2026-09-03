@@ -4,7 +4,7 @@ title: "GT - Security Data Science Teams: A Guide to Prestige Classes"
 slug: gt-security-data-science-teams-a-guide-to-prestige-classes
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: P941-MzxDMw
 url: https://www.youtube.com/watch?v=P941-MzxDMw
 youtube_url: https://www.youtube.com/watch?v=P941-MzxDMw
 tags: []
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

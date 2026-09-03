@@ -4,7 +4,7 @@ title: "Generative AI + Proprietary Data | Ray Summit 2024"
 slug: generative-ai-proprietary-data-ray-summit-2024
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: W_Co8NcBw6Y
 url: https://www.youtube.com/watch?v=W_Co8NcBw6Y
 youtube_url: https://www.youtube.com/watch?v=W_Co8NcBw6Y
 tags: []
+topics: []
 transcript: false
 ---
 

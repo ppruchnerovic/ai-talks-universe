@@ -4,7 +4,7 @@ title: "SaTML 2023 - Krishna Acharya - Wealth Dynamics Over Generations: Analysi
 slug: satml-2023-krishna-acharya-wealth-dynamics-over-generations
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Krishna Acharya"]
@@ -15,6 +15,7 @@ video_id: MpkKEm8pHNs
 url: https://www.youtube.com/watch?v=MpkKEm8pHNs
 youtube_url: https://www.youtube.com/watch?v=MpkKEm8pHNs
 tags: []
+topics: []
 transcript: false
 ---
 

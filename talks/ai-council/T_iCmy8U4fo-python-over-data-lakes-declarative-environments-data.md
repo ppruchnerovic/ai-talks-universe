@@ -4,7 +4,7 @@ title: "Python Over Data Lakes: Declarative Environments, Data Management & Othe
 slug: python-over-data-lakes-declarative-environments-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Ciro Greco"]
@@ -15,6 +15,7 @@ video_id: T_iCmy8U4fo
 url: https://www.youtube.com/watch?v=T_iCmy8U4fo
 youtube_url: https://www.youtube.com/watch?v=T_iCmy8U4fo
 tags: ["Python tutorial", "data lakes", "Apache Iceberg", "ChatGPT", "artificial intelligence", "machine learning", "Apache Arrow", "Docker tutorial", "data engineering tutorial", "data science", "cloud computing", "MLOps", "data pipelines", "reproducible research", "containerization", "environment management", "dependency management", "version control", "data versioning", "experiment tracking", "model registry", "feature store", "data catalog", "metadata management"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

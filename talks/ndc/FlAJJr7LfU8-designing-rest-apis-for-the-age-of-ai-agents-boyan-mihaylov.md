@@ -4,7 +4,7 @@ title: "Designing REST APIs for the age of AI agents - Boyan Mihaylov - NDC Cope
 slug: designing-rest-apis-for-the-age-of-ai-agents-boyan-mihaylov
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Boyan Mihaylov"]
@@ -15,6 +15,7 @@ video_id: FlAJJr7LfU8
 url: https://www.youtube.com/watch?v=FlAJJr7LfU8
 youtube_url: https://www.youtube.com/watch?v=FlAJJr7LfU8
 tags: ["Web", "AI", "Architecture", "JavaScript", "REST", "API", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Boyan Mihaylov"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

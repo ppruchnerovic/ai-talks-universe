@@ -4,7 +4,7 @@ title: "Build Scalable Workflows with GenAI - Dataiku - AI Action Summit Tech Tr
 slug: build-scalable-workflows-with-genai-dataiku-ai-action
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Aude Colleville"]
@@ -15,6 +15,7 @@ video_id: 53kJldtFkaQ
 url: https://www.youtube.com/watch?v=53kJldtFkaQ
 youtube_url: https://www.youtube.com/watch?v=53kJldtFkaQ
 tags: []
+topics: []
 transcript: false
 ---
 

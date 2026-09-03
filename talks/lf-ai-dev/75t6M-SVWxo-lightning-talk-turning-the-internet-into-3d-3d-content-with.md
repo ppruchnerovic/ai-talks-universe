@@ -4,7 +4,7 @@ title: "Lightning Talk: Turning the Internet Into 3D: 3D Content with NeRF and G
 slug: lightning-talk-turning-the-internet-into-3d-3d-content-with
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 75t6M-SVWxo
 url: https://www.youtube.com/watch?v=75t6M-SVWxo
 youtube_url: https://www.youtube.com/watch?v=75t6M-SVWxo
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

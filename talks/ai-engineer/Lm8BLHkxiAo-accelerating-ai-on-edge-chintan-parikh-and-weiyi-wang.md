@@ -4,7 +4,7 @@ title: "Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMi
 slug: accelerating-ai-on-edge-chintan-parikh-and-weiyi-wang
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Chintan Parikh", "Weiyi Wang"]
@@ -15,6 +15,7 @@ video_id: Lm8BLHkxiAo
 url: https://www.youtube.com/watch?v=Lm8BLHkxiAo
 youtube_url: https://www.youtube.com/watch?v=Lm8BLHkxiAo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

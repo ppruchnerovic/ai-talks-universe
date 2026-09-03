@@ -4,7 +4,7 @@ title: "Route, Serve, Adapt, Repeat: Adaptive Routing for AI Inference Workl... 
 slug: route-serve-adapt-repeat-adaptive-routing-for-ai-inference
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: DxWAsFl9EAA
 url: https://www.youtube.com/watch?v=DxWAsFl9EAA
 youtube_url: https://www.youtube.com/watch?v=DxWAsFl9EAA
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

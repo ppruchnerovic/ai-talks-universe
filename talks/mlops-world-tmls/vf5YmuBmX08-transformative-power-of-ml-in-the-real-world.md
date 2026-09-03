@@ -4,7 +4,7 @@ title: "Transformative Power of ML in the Real World"
 slug: transformative-power-of-ml-in-the-real-world
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Tomi Poutanen"]
@@ -15,6 +15,7 @@ video_id: vf5YmuBmX08
 url: https://www.youtube.com/watch?v=vf5YmuBmX08
 youtube_url: https://www.youtube.com/watch?v=vf5YmuBmX08
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

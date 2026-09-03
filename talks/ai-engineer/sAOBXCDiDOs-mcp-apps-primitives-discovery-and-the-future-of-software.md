@@ -4,7 +4,7 @@ title: "MCP Apps: Primitives, discovery, and the Future of Software - Pietro Zul
 slug: mcp-apps-primitives-discovery-and-the-future-of-software
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Pietro Zullo"]
@@ -15,6 +15,7 @@ video_id: sAOBXCDiDOs
 url: https://www.youtube.com/watch?v=sAOBXCDiDOs
 youtube_url: https://www.youtube.com/watch?v=sAOBXCDiDOs
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

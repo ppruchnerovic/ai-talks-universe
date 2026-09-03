@@ -4,7 +4,7 @@ title: "Hyrum Anderson - Competitions in Infosec ML - DEF CON 27 AI Village"
 slug: hyrum-anderson-competitions-in-infosec-ml-def-con-27-ai
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Hyrum Anderson"]
@@ -15,6 +15,7 @@ video_id: pNsMz0zWZi0
 url: https://www.youtube.com/watch?v=pNsMz0zWZi0
 youtube_url: https://www.youtube.com/watch?v=pNsMz0zWZi0
 tags: []
+topics: []
 transcript: false
 ---
 

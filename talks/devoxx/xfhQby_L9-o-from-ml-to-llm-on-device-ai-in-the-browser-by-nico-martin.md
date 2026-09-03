@@ -4,7 +4,7 @@ title: "From ML to LLM: on-device AI in the browser by Nico Martin"
 slug: from-ml-to-llm-on-device-ai-in-the-browser-by-nico-martin
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Nico Martin"]
@@ -15,6 +15,7 @@ video_id: xfhQby_L9-o
 url: https://www.youtube.com/watch?v=xfhQby_L9-o
 youtube_url: https://www.youtube.com/watch?v=xfhQby_L9-o
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

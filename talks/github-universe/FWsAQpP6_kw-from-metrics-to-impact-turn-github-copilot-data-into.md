@@ -4,7 +4,7 @@ title: "From metrics to impact: Turn GitHub Copilot data into business value"
 slug: from-metrics-to-impact-turn-github-copilot-data-into
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: FWsAQpP6_kw
 url: https://www.youtube.com/watch?v=FWsAQpP6_kw
 youtube_url: https://www.youtube.com/watch?v=FWsAQpP6_kw
 tags: []
+topics: ["Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

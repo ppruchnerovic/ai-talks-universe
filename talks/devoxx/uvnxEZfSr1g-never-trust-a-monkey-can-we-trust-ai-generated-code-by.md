@@ -4,7 +4,7 @@ title: "Never Trust a Monkey! Can We Trust AI-Generated Code? by Baruch Sadogurs
 slug: never-trust-a-monkey-can-we-trust-ai-generated-code-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Baruch Sadogursky"]
@@ -15,6 +15,7 @@ video_id: uvnxEZfSr1g
 url: https://www.youtube.com/watch?v=uvnxEZfSr1g
 youtube_url: https://www.youtube.com/watch?v=uvnxEZfSr1g
 tags: []
+topics: []
 transcript: true
 ---
 

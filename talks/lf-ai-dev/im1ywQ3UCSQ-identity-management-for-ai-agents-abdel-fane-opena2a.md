@@ -4,7 +4,7 @@ title: "Identity Management for AI Agents - Abdel Fane, OpenA2A"
 slug: identity-management-for-ai-agents-abdel-fane-opena2a
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Abdel Fane"]
@@ -15,6 +15,7 @@ video_id: im1ywQ3UCSQ
 url: https://www.youtube.com/watch?v=im1ywQ3UCSQ
 youtube_url: https://www.youtube.com/watch?v=im1ywQ3UCSQ
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "[Session] Asynchronous Tool Calling with Nick Aldridge - Amazon Web Serv
 slug: session-asynchronous-tool-calling-with-nick-aldridge-amazon
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2Q6o1B-lCew
 url: https://www.youtube.com/watch?v=2Q6o1B-lCew
 youtube_url: https://www.youtube.com/watch?v=2Q6o1B-lCew
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "How NIB Used Snowflake Cortex AI To Reduce Noise And Manual Work"
 slug: how-nib-used-snowflake-cortex-ai-to-reduce-noise-and-manual
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ItewChEfpDY
 url: https://www.youtube.com/watch?v=ItewChEfpDY
 youtube_url: https://www.youtube.com/watch?v=ItewChEfpDY
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "A look at Tetra Pak's AI Program | From Strategy to Execution | Alberto 
 slug: a-look-at-tetra-pak-s-ai-program-from-strategy-to-execution
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Alberto Barroso"]
@@ -15,6 +15,7 @@ video_id: t7Brws6vLhc
 url: https://www.youtube.com/watch?v=t7Brws6vLhc
 youtube_url: https://www.youtube.com/watch?v=t7Brws6vLhc
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

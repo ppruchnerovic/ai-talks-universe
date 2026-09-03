@@ -4,7 +4,7 @@ title: "What's new in Firebase"
 slug: what-s-new-in-firebase
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Seba Gnagnarella", "Arthur Thompson"]
@@ -15,6 +15,7 @@ video_id: 16jTqLC66PU
 url: https://www.youtube.com/watch?v=16jTqLC66PU
 youtube_url: https://www.youtube.com/watch?v=16jTqLC66PU
 tags: []
+topics: []
 transcript: true
 ---
 

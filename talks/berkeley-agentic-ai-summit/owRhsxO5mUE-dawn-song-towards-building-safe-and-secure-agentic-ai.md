@@ -4,7 +4,7 @@ title: "Dawn Song - Towards Building Safe and Secure Agentic AI"
 slug: dawn-song-towards-building-safe-and-secure-agentic-ai
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Dawn Song"]
@@ -15,6 +15,7 @@ video_id: owRhsxO5mUE
 url: https://www.youtube.com/watch?v=owRhsxO5mUE
 youtube_url: https://www.youtube.com/watch?v=owRhsxO5mUE
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

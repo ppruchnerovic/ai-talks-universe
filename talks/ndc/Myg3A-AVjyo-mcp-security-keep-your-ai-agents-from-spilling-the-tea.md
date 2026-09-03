@@ -4,7 +4,7 @@ title: "MCP Security: Keep Your AI Agents from Spilling the Tea - Manfred Bjørl
 slug: mcp-security-keep-your-ai-agents-from-spilling-the-tea
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Manfred Bjørlin", "Awar Abdulkarim"]
@@ -15,6 +15,7 @@ video_id: Myg3A-AVjyo
 url: https://www.youtube.com/watch?v=Myg3A-AVjyo
 youtube_url: https://www.youtube.com/watch?v=Myg3A-AVjyo
 tags: ["ML", "Application Security", "Cloud Security", "AI", "Machine Learning", "NDC", "Conferences", "2026", "Live", "Fun", "Security", "Oslo", "Norway", "Manfred Bjørlin", "Awar Abdulkarim"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Practical GraphRAG: Making LLMs smarter with Knowledge Graphs — Michae
 slug: practical-graphrag-making-llms-smarter-with-knowledge
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XNneh6-eyPg
 url: https://www.youtube.com/watch?v=XNneh6-eyPg
 youtube_url: https://www.youtube.com/watch?v=XNneh6-eyPg
 tags: []
+topics: ["Governance, ethics & regulation", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

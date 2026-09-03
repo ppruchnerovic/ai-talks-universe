@@ -4,7 +4,7 @@ title: "Your Agent's Biggest Lie: \"I Searched the Web\" — Rafael Levi, Bright
 slug: your-agent-s-biggest-lie-i-searched-the-web-rafael-levi
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rafael Levi"]
@@ -15,6 +15,7 @@ video_id: btxGmN8RvNU
 url: https://www.youtube.com/watch?v=btxGmN8RvNU
 youtube_url: https://www.youtube.com/watch?v=btxGmN8RvNU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

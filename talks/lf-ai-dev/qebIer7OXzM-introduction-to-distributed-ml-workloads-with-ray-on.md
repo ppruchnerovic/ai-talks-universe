@@ -4,7 +4,7 @@ title: "Introduction to Distributed ML Workloads with Ray on Kubernetes - Abdel 
 slug: introduction-to-distributed-ml-workloads-with-ray-on
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Abdel Sghiouar"]
@@ -15,6 +15,7 @@ video_id: qebIer7OXzM
 url: https://www.youtube.com/watch?v=qebIer7OXzM
 youtube_url: https://www.youtube.com/watch?v=qebIer7OXzM
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

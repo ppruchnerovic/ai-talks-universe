@@ -4,7 +4,7 @@ title: "Advanced RAG Techniques with LlamaIndex - Pierre-Loic Doulcet, LlamaInde
 slug: advanced-rag-techniques-with-llamaindex-pierre-loic-doulcet
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Funlj8rn0PM
 url: https://www.youtube.com/watch?v=Funlj8rn0PM
 youtube_url: https://www.youtube.com/watch?v=Funlj8rn0PM
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

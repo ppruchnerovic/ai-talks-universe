@@ -4,7 +4,7 @@ title: "Deliver smart secure and scalable agents with MongoDB on Azure | ODSP144
 slug: deliver-smart-secure-and-scalable-agents-with-mongodb-on
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Diana Annie Jenosh"]
@@ -15,6 +15,7 @@ video_id: tCjQvi6qkHA
 url: https://www.youtube.com/watch?v=tCjQvi6qkHA
 youtube_url: https://www.youtube.com/watch?v=tCjQvi6qkHA
 tags: ["Deliver smart secure and scalable agents with MongoDB on Azure | ODSP1448", "Diana Annie Jenosh", "English (US)", "Innovate with Azure AI apps and agents", "ODSP1448", "ODSP1448_v1", "Technical", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

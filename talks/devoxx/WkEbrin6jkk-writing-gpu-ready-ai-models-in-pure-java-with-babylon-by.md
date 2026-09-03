@@ -4,7 +4,7 @@ title: "Writing GPU Ready AI Models in Pure Java with Babylon by Lize Raes, Ana 
 slug: writing-gpu-ready-ai-models-in-pure-java-with-babylon-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Lize Raes", "Ana Maria Mihalceanu"]
@@ -15,6 +15,7 @@ video_id: WkEbrin6jkk
 url: https://www.youtube.com/watch?v=WkEbrin6jkk
 youtube_url: https://www.youtube.com/watch?v=WkEbrin6jkk
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

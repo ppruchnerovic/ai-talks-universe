@@ -4,7 +4,7 @@ title: "How fast are LLM inference engines anyway? — Charles Frye, Modal"
 slug: how-fast-are-llm-inference-engines-anyway-charles-frye-modal
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Charles Frye"]
@@ -15,6 +15,7 @@ video_id: DeFF3J8T5Pk
 url: https://www.youtube.com/watch?v=DeFF3J8T5Pk
 youtube_url: https://www.youtube.com/watch?v=DeFF3J8T5Pk
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

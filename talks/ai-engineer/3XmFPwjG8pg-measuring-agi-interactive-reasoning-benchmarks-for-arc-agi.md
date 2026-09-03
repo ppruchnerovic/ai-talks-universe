@@ -4,7 +4,7 @@ title: "Measuring AGI: Interactive Reasoning Benchmarks for ARC-AGI-3 — Greg K
 slug: measuring-agi-interactive-reasoning-benchmarks-for-arc-agi
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Greg Kamradt"]
@@ -15,6 +15,7 @@ video_id: 3XmFPwjG8pg
 url: https://www.youtube.com/watch?v=3XmFPwjG8pg
 youtube_url: https://www.youtube.com/watch?v=3XmFPwjG8pg
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

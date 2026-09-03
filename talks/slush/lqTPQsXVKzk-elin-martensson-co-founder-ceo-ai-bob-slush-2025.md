@@ -4,7 +4,7 @@ title: "Elin Mårtensson, Co-founder & CEO, AI Bob | Slush 2025"
 slug: elin-martensson-co-founder-ceo-ai-bob-slush-2025
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Elin Mårtensson"]
@@ -15,6 +15,7 @@ video_id: lqTPQsXVKzk
 url: https://www.youtube.com/watch?v=lqTPQsXVKzk
 youtube_url: https://www.youtube.com/watch?v=lqTPQsXVKzk
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

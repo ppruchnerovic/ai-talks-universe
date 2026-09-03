@@ -4,7 +4,7 @@ title: "Frontier partners: Accelerating agentic journeys in financial services |
 slug: frontier-partners-accelerating-agentic-journeys-in
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jared Lambert", "Hemanth Sundararaj", "Adam Wheat"]
@@ -15,6 +15,7 @@ video_id: 9AQu3a7Y8so
 url: https://www.youtube.com/watch?v=9AQu3a7Y8so
 youtube_url: https://www.youtube.com/watch?v=9AQu3a7Y8so
 tags: ["49645594-b5c5-4ea4-8a8d-bb50ea94b6c9_Segment", "Adam Wheat", "English (US)", "Financial Services", "Frontier partners: Accelerating agentic journeys in financial services | PBRK393", "Hemanth Sundararaj", "Jared Lambert", "Microsoft AI Cloud Partner Program", "Other", "PBRK393", "Partner Business", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

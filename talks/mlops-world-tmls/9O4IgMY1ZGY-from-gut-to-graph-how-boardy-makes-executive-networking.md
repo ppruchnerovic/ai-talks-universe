@@ -4,7 +4,7 @@ title: "From Gut to Graph: How Boardy Makes Executive Networking Decisions at Sc
 slug: from-gut-to-graph-how-boardy-makes-executive-networking
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9O4IgMY1ZGY
 url: https://www.youtube.com/watch?v=9O4IgMY1ZGY
 youtube_url: https://www.youtube.com/watch?v=9O4IgMY1ZGY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

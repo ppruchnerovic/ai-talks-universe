@@ -4,7 +4,7 @@ title: "RSAC Open Workshop - Agentic Threat Modeling"
 slug: rsac-open-workshop-agentic-threat-modeling
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Agentic Threat Modeling"]
@@ -15,6 +15,7 @@ video_id: Rb--T0_GQ98
 url: https://www.youtube.com/watch?v=Rb--T0_GQ98
 youtube_url: https://www.youtube.com/watch?v=Rb--T0_GQ98
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

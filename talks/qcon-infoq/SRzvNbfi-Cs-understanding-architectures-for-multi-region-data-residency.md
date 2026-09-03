@@ -4,7 +4,7 @@ title: "Understanding Architectures for Multi-Region Data Residency"
 slug: understanding-architectures-for-multi-region-data-residency
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: SRzvNbfi-Cs
 url: https://www.youtube.com/watch?v=SRzvNbfi-Cs
 youtube_url: https://www.youtube.com/watch?v=SRzvNbfi-Cs
 tags: ["Software Architecture", "Artificial Intelligence", "Machine Learning", "Data Engineering", "Storage", "Data", "InfoQ", "QCon San Francisco", "Transcript"]
+topics: []
 transcript: false
 ---
 

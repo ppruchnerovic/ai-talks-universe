@@ -4,7 +4,7 @@ title: "Fasal Shah-Scaling Specialist Knowledge with AI- -PyData Boston 2025"
 slug: fasal-shah-scaling-specialist-knowledge-with-ai-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: WSV-J8c8IiQ
 url: https://www.youtube.com/watch?v=WSV-J8c8IiQ
 youtube_url: https://www.youtube.com/watch?v=WSV-J8c8IiQ
 tags: []
+topics: []
 transcript: false
 ---
 

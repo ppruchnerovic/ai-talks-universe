@@ -4,7 +4,7 @@ title: "The End of the Internet As We Know It"
 slug: the-end-of-the-internet-as-we-know-it
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: YCRE3yRvazg
 url: https://www.youtube.com/watch?v=YCRE3yRvazg
 youtube_url: https://www.youtube.com/watch?v=YCRE3yRvazg
 tags: ["AI"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

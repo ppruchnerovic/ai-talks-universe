@@ -4,7 +4,7 @@ title: "Sam Julien, Writer: Escaping AI Proof-of-Concept Purgatory:Techniques fo
 slug: sam-julien-writer-escaping-ai-proof-of-concept-purgatory
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2s4XuIQDon4
 url: https://www.youtube.com/watch?v=2s4XuIQDon4
 youtube_url: https://www.youtube.com/watch?v=2s4XuIQDon4
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

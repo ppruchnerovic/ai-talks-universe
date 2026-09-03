@@ -4,7 +4,7 @@ title: "Customizable RAG Workflows with your Own Data"
 slug: customizable-rag-workflows-with-your-own-data
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Christy Bergman"]
@@ -15,6 +15,7 @@ video_id: 911PLmbofyw
 url: https://www.youtube.com/watch?v=911PLmbofyw
 youtube_url: https://www.youtube.com/watch?v=911PLmbofyw
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

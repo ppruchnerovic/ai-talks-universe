@@ -4,7 +4,7 @@ title: "Q&A with Scott Breitenother, Kilo: Engineers need to be the CEOs of agen
 slug: q-a-with-scott-breitenother-kilo-engineers-need-to-be-the
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: tG5AQv1fAkw
 url: https://www.youtube.com/watch?v=tG5AQv1fAkw
 youtube_url: https://www.youtube.com/watch?v=tG5AQv1fAkw
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Taste & Craft: A Conversation with Tuomas Artman, CTO Linear & Gergely O
 slug: taste-craft-a-conversation-with-tuomas-artman-cto-linear
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: wjk0ulMAkbc
 url: https://www.youtube.com/watch?v=wjk0ulMAkbc
 youtube_url: https://www.youtube.com/watch?v=wjk0ulMAkbc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

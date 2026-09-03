@@ -4,7 +4,7 @@ title: "Build your website for the agentic era"
 slug: build-your-website-for-the-agentic-era
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Kasper Kulikowski"]
@@ -15,6 +15,7 @@ video_id: HdCc-KezQPk
 url: https://www.youtube.com/watch?v=HdCc-KezQPk
 youtube_url: https://www.youtube.com/watch?v=HdCc-KezQPk
 tags: ["Chrome", "Developers", "Google", "Web", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Chrome;"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

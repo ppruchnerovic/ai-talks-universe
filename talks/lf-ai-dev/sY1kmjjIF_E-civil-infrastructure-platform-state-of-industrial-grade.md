@@ -4,7 +4,7 @@ title: "Civil Infrastructure Platform: State of Industrial Grade Linux - Yoshita
 slug: civil-infrastructure-platform-state-of-industrial-grade
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Yoshitake Kobayashi", "Dinesh Kumar"]
@@ -15,6 +15,7 @@ video_id: sY1kmjjIF_E
 url: https://www.youtube.com/watch?v=sY1kmjjIF_E
 youtube_url: https://www.youtube.com/watch?v=sY1kmjjIF_E
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

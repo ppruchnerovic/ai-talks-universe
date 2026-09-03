@@ -4,7 +4,7 @@ title: "F Gravin - A Journey Through a Geospatial Data Pipeline: From Raw Coordi
 slug: f-gravin-a-journey-through-a-geospatial-data-pipeline-from
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["F Gravin"]
@@ -15,6 +15,7 @@ video_id: 1Ugoy9N0ty0
 url: https://www.youtube.com/watch?v=1Ugoy9N0ty0
 youtube_url: https://www.youtube.com/watch?v=1Ugoy9N0ty0
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

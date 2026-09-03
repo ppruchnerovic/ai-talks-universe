@@ -4,7 +4,7 @@ title: "Shaping the Future of AI Security Through Collaboration"
 slug: shaping-the-future-of-ai-security-through-collaboration
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: jhgUSSJs0MA
 url: https://www.youtube.com/watch?v=jhgUSSJs0MA
 youtube_url: https://www.youtube.com/watch?v=jhgUSSJs0MA
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

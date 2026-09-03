@@ -4,7 +4,7 @@ title: "SaTML 2024 - Shuai Tang - Improved Differentially Private Regression via
 slug: satml-2024-shuai-tang-improved-differentially-private
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Shuai Tang"]
@@ -15,6 +15,7 @@ video_id: vqcQjdUcOaU
 url: https://www.youtube.com/watch?v=vqcQjdUcOaU
 youtube_url: https://www.youtube.com/watch?v=vqcQjdUcOaU
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

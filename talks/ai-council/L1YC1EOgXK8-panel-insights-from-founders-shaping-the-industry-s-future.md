@@ -4,7 +4,7 @@ title: "Panel: Insights from Founders Shaping the Industry's Future"
 slug: panel-insights-from-founders-shaping-the-industry-s-future
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Caitlin Colgrove"]
@@ -15,6 +15,7 @@ video_id: L1YC1EOgXK8
 url: https://www.youtube.com/watch?v=L1YC1EOgXK8
 youtube_url: https://www.youtube.com/watch?v=L1YC1EOgXK8
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

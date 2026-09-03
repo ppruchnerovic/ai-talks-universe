@@ -4,7 +4,7 @@ title: "CPU Inferencing of Language Models in Teradata"
 slug: cpu-inferencing-of-language-models-in-teradata
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: sC_59Irm45E
 url: https://www.youtube.com/watch?v=sC_59Irm45E
 youtube_url: https://www.youtube.com/watch?v=sC_59Irm45E
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

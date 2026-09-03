@@ -4,7 +4,7 @@ title: "Ray Serve: Advancing scalability and flexibility | Ray Summit 2025"
 slug: ray-serve-advancing-scalability-and-flexibility-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: S3CaJ36xl_U
 url: https://www.youtube.com/watch?v=S3CaJ36xl_U
 youtube_url: https://www.youtube.com/watch?v=S3CaJ36xl_U
 tags: []
+topics: []
 transcript: false
 ---
 

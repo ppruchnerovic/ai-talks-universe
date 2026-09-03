@@ -4,7 +4,7 @@ title: "Engineering the Future in the Age of Digital Product Innovation | BRK376
 slug: engineering-the-future-in-the-age-of-digital-product
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Simon Floyd", "Dennis Goetting", "Heather Kerrick", "Alfonso Rodriguez"]
@@ -15,6 +15,7 @@ video_id: _kkIFY0G9FE
 url: https://www.youtube.com/watch?v=_kkIFY0G9FE
 youtube_url: https://www.youtube.com/watch?v=_kkIFY0G9FE
 tags: ["Alfonso Rodriguez", "BRK376", "BRK376_v1", "Dennis Goetting", "Engineering the Future in the Age of Digital Product Innovation | BRK376", "English (US)", "Heather Kerrick", "Manufacturing and Mobility", "Migrate and modernize your estate", "Simon Floyd", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

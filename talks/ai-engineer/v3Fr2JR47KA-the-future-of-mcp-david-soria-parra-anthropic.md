@@ -4,7 +4,7 @@ title: "The Future of MCP — David Soria Parra, Anthropic"
 slug: the-future-of-mcp-david-soria-parra-anthropic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["David Soria Parra"]
@@ -15,6 +15,7 @@ video_id: v3Fr2JR47KA
 url: https://www.youtube.com/watch?v=v3Fr2JR47KA
 youtube_url: https://www.youtube.com/watch?v=v3Fr2JR47KA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

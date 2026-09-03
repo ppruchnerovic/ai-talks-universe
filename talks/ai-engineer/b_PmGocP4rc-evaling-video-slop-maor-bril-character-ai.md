@@ -4,7 +4,7 @@ title: "Evaling Video Slop — Maor Bril, Character.ai"
 slug: evaling-video-slop-maor-bril-character-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Evaling Video Slop", "Maor Bril"]
@@ -15,6 +15,7 @@ video_id: b_PmGocP4rc
 url: https://www.youtube.com/watch?v=b_PmGocP4rc
 youtube_url: https://www.youtube.com/watch?v=b_PmGocP4rc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Computer-use models will agentify the web, not APIs — Dhruv Batra, Yut
 slug: computer-use-models-will-agentify-the-web-not-apis-dhruv
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dhruv Batra"]
@@ -15,6 +15,7 @@ video_id: Ki980nV0__0
 url: https://www.youtube.com/watch?v=Ki980nV0__0
 youtube_url: https://www.youtube.com/watch?v=Ki980nV0__0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

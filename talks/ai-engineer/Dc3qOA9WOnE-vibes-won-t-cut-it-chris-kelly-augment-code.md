@@ -4,7 +4,7 @@ title: "Vibes won't cut it — Chris Kelly, Augment Code"
 slug: vibes-won-t-cut-it-chris-kelly-augment-code
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Chris Kelly"]
@@ -15,6 +15,7 @@ video_id: Dc3qOA9WOnE
 url: https://www.youtube.com/watch?v=Dc3qOA9WOnE
 youtube_url: https://www.youtube.com/watch?v=Dc3qOA9WOnE
 tags: []
+topics: []
 transcript: false
 ---
 

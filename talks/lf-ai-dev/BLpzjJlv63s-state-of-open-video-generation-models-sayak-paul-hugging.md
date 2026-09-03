@@ -4,7 +4,7 @@ title: "State of Open Video Generation Models - Sayak Paul, Hugging Face"
 slug: state-of-open-video-generation-models-sayak-paul-hugging
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Sayak Paul"]
@@ -15,6 +15,7 @@ video_id: BLpzjJlv63s
 url: https://www.youtube.com/watch?v=BLpzjJlv63s
 youtube_url: https://www.youtube.com/watch?v=BLpzjJlv63s
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

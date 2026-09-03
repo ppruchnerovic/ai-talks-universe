@@ -4,7 +4,7 @@ title: "Build automated agents using optimized AI Foundry models on Snapdragon |
 slug: build-automated-agents-using-optimized-ai-foundry-models-on
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Meghana Sreenivasa Rao", "Darren Oberst"]
@@ -15,6 +15,7 @@ video_id: vc4tADfTnYY
 url: https://www.youtube.com/watch?v=vc4tADfTnYY
 youtube_url: https://www.youtube.com/watch?v=vc4tADfTnYY
 tags: ["5598fc68-e815-4c2e-b5fc-b9bd4ad90c22_M9Z7-DEMSP380-1", "AI", "Agents", "Agents on Windows", "Build automated agents using optimized AI Foundry models on Snapdragon | DEMSP380", "Compute", "DEMSP380", "Darren Oberst", "Developer", "Foundry Local", "Local AI", "Meghana Sreenivasa Rao", "Microsoft Foundry", "Windows Developer", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

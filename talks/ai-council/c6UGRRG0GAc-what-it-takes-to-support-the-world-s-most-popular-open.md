@@ -4,7 +4,7 @@ title: "What it Takes to Support the World's Most Popular Open Source Communitie
 slug: what-it-takes-to-support-the-world-s-most-popular-open
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: c6UGRRG0GAc
 url: https://www.youtube.com/watch?v=c6UGRRG0GAc
 youtube_url: https://www.youtube.com/watch?v=c6UGRRG0GAc
 tags: ["open source", "community", "NumPy", "Scipy", "Jupyter", "Pandas", "NumFocus"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

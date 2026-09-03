@@ -4,7 +4,7 @@ title: "Why You're Not Ready for the Next Log4Shell (And How to Fix It)"
 slug: why-you-re-not-ready-for-the-next-log4shell-and-how-to-fix
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0cdytZCz2Iw
 url: https://www.youtube.com/watch?v=0cdytZCz2Iw
 youtube_url: https://www.youtube.com/watch?v=0cdytZCz2Iw
 tags: ["InfoQ DevSummit", "QCon", "InfoQ", "Transcripts", "Cyber Security", "Log4shell", "Software Bill of Materials (SBOM)", "DevSecOps", "software supply chain", "Software Architecture", "Security", "Supply Chain Attack"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

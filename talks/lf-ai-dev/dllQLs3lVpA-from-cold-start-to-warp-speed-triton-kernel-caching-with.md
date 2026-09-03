@@ -4,7 +4,7 @@ title: "From Cold Start To Warp Speed: Triton Kernel Caching With OCI Container 
 slug: from-cold-start-to-warp-speed-triton-kernel-caching-with
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Maryam Tahhan"]
@@ -15,6 +15,7 @@ video_id: dllQLs3lVpA
 url: https://www.youtube.com/watch?v=dllQLs3lVpA
 youtube_url: https://www.youtube.com/watch?v=dllQLs3lVpA
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Johan Mabille, Alexis Placet - Sparrow, Pirates of the Apache Arrow"
 slug: johan-mabille-alexis-placet-sparrow-pirates-of-the-apache
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Johan Mabille"]
@@ -15,6 +15,7 @@ video_id: _6t9f-7t4mw
 url: https://www.youtube.com/watch?v=_6t9f-7t4mw
 youtube_url: https://www.youtube.com/watch?v=_6t9f-7t4mw
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: false
 ---
 

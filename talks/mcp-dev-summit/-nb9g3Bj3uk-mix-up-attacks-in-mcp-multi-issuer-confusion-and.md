@@ -4,7 +4,7 @@ title: "Mix-Up Attacks in MCP: Multi-Issuer Confusion and Mitigations - Emily La
 slug: mix-up-attacks-in-mcp-multi-issuer-confusion-and
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Emily Lauber"]
@@ -15,6 +15,7 @@ video_id: -nb9g3Bj3uk
 url: https://www.youtube.com/watch?v=-nb9g3Bj3uk
 youtube_url: https://www.youtube.com/watch?v=-nb9g3Bj3uk
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

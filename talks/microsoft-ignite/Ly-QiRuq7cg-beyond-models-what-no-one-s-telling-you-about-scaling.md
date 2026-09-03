@@ -4,7 +4,7 @@ title: "Beyond Models: What No One's Telling you about Scaling Agents | BRK411"
 slug: beyond-models-what-no-one-s-telling-you-about-scaling
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Nick Baguley", "Tom Davis", "Zion Zatlavi", "Sharon Zhang"]
@@ -15,6 +15,7 @@ video_id: Ly-QiRuq7cg
 url: https://www.youtube.com/watch?v=Ly-QiRuq7cg
 youtube_url: https://www.youtube.com/watch?v=Ly-QiRuq7cg
 tags: ["BRK411", "BRK411_v1", "Beyond Models: What No One's Telling you about Scaling Agents | BRK411", "Copilot and agents at work", "English (US)", "Nick Baguley", "Other", "Other:Startups", "Partner Business", "Sharon Zhang", "Technical", "Tom Davis", "Zion Zatlavi", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

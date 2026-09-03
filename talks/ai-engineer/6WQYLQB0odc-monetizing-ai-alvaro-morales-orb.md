@@ -4,7 +4,7 @@ title: "Monetizing AI — Alvaro Morales, Orb"
 slug: monetizing-ai-alvaro-morales-orb
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Alvaro Morales"]
@@ -15,6 +15,7 @@ video_id: 6WQYLQB0odc
 url: https://www.youtube.com/watch?v=6WQYLQB0odc
 youtube_url: https://www.youtube.com/watch?v=6WQYLQB0odc
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

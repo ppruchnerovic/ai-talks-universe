@@ -4,7 +4,7 @@ title: "RTX AI PC: Developing local and edge AI applications"
 slug: rtx-ai-pc-developing-local-and-edge-ai-applications
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Joerg Krall"]
@@ -15,6 +15,7 @@ video_id: zG-pEUxTI38
 url: https://www.youtube.com/watch?v=zG-pEUxTI38
 youtube_url: https://www.youtube.com/watch?v=zG-pEUxTI38
 tags: ["AI Engineering", "Agents", "Agentic AI", "Security"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

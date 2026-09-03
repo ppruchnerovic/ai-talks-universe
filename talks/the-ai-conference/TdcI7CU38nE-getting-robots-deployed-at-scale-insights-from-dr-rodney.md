@@ -4,7 +4,7 @@ title: "Getting Robots Deployed at Scale: Insights from Dr. Rodney Brooks"
 slug: getting-robots-deployed-at-scale-insights-from-dr-rodney
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: TdcI7CU38nE
 url: https://www.youtube.com/watch?v=TdcI7CU38nE
 youtube_url: https://www.youtube.com/watch?v=TdcI7CU38nE
 tags: []
+topics: ["Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

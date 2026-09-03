@@ -4,7 +4,7 @@ title: "Abhishek Murthy, Evans Addo - Classifying Time Series with Foundation Mo
 slug: abhishek-murthy-evans-addo-classifying-time-series-with
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Abhishek Murthy"]
@@ -15,6 +15,7 @@ video_id: 9n3dpkzPmSc
 url: https://www.youtube.com/watch?v=9n3dpkzPmSc
 youtube_url: https://www.youtube.com/watch?v=9n3dpkzPmSc
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

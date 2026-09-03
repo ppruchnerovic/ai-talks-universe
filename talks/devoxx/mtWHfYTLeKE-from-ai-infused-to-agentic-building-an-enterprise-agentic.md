@@ -4,7 +4,7 @@ title: "From AI Infused to Agentic: Building an Enterprise Agentic Framework by 
 slug: from-ai-infused-to-agentic-building-an-enterprise-agentic
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Mario Fusco", "Clement Escoff"]
@@ -15,6 +15,7 @@ video_id: mtWHfYTLeKE
 url: https://www.youtube.com/watch?v=mtWHfYTLeKE
 youtube_url: https://www.youtube.com/watch?v=mtWHfYTLeKE
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

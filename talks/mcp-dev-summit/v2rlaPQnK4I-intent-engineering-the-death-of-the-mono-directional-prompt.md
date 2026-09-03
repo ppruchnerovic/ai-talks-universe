@@ -4,7 +4,7 @@ title: "Intent Engineering: The Death of the Mono-Directional Prompt - Rizel Sca
 slug: intent-engineering-the-death-of-the-mono-directional-prompt
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Rizel Scarlett"]
@@ -15,6 +15,7 @@ video_id: v2rlaPQnK4I
 url: https://www.youtube.com/watch?v=v2rlaPQnK4I
 youtube_url: https://www.youtube.com/watch?v=v2rlaPQnK4I
 tags: []
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

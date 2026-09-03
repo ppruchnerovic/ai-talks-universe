@@ -4,7 +4,7 @@ title: "Bringing Accuracy & Predictability to Software's Most Intractable Proble
 slug: bringing-accuracy-predictability-to-software-s-most
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8A58_SFlpMs
 url: https://www.youtube.com/watch?v=8A58_SFlpMs
 youtube_url: https://www.youtube.com/watch?v=8A58_SFlpMs
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Latency is the Mind Killer. It's Time to Reimagine Data Interactions | H
 slug: latency-is-the-mind-killer-it-s-time-to-reimagine-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: B6qqvzac4z0
 url: https://www.youtube.com/watch?v=B6qqvzac4z0
 youtube_url: https://www.youtube.com/watch?v=B6qqvzac4z0
 tags: ["data tools", "data products", "business intelligence"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

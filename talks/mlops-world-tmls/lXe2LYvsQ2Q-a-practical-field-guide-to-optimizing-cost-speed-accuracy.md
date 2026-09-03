@@ -4,7 +4,7 @@ title: "A Practical Field Guide to Optimizing Cost, Speed & Accuracy of LLMs | N
 slug: a-practical-field-guide-to-optimizing-cost-speed-accuracy
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Niels Bantilan"]
@@ -15,6 +15,7 @@ video_id: lXe2LYvsQ2Q
 url: https://www.youtube.com/watch?v=lXe2LYvsQ2Q
 youtube_url: https://www.youtube.com/watch?v=lXe2LYvsQ2Q
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Build secure and enterprise-ready agents with Agent 365 | BRK251"
 slug: build-secure-and-enterprise-ready-agents-with-agent-365
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Neta Haiby", "Kendra Springer", "Lei Zhong"]
@@ -15,6 +15,7 @@ video_id: S8OtcBnfeGU
 url: https://www.youtube.com/watch?v=S8OtcBnfeGU
 youtube_url: https://www.youtube.com/watch?v=S8OtcBnfeGU
 tags: ["Agent 365", "BRK251", "BRK251_v1", "Build secure and enterprise-ready agents with Agent 365 | BRK251", "Entra", "Foundry Control Plane", "Governance", "Kendra Springer", "Lei Zhong", "Neta Haiby", "Purview", "Responsible AI", "Security", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

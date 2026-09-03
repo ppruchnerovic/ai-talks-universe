@@ -4,7 +4,7 @@ title: "How Roblox Scaled Machine Learning by Leveraging Ray for Efficient Batch
 slug: how-roblox-scaled-machine-learning-by-leveraging-ray-for
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: BN1CVDZjQRE
 url: https://www.youtube.com/watch?v=BN1CVDZjQRE
 youtube_url: https://www.youtube.com/watch?v=BN1CVDZjQRE
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Prepare your data for Microsoft Copilot with new tools | BRK272"
 slug: prepare-your-data-for-microsoft-copilot-with-new-tools
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["David Minasyan", "Alex Pozin", "Erica Toelle"]
@@ -15,6 +15,7 @@ video_id: vsl3AoIJl3w
 url: https://www.youtube.com/watch?v=vsl3AoIJl3w
 youtube_url: https://www.youtube.com/watch?v=vsl3AoIJl3w
 tags: ["AI", "BRK272", "Data Security", "Data governance", "Exposure management", "Insider risk management", "Microsoft 365", "Microsoft Copilot", "Microsoft Purview", "Modern Work", "Modern Work-Curated", "Prepare your data for Microsoft Copilot with new tools | BRK272", "SharePoint Advanced Management (SAM)", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

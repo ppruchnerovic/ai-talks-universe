@@ -4,7 +4,7 @@ title: "Build Faster, More Responsive Analytics with a Semantic Layer | Cube Wor
 slug: build-faster-more-responsive-analytics-with-a-semantic
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Paco Valdez"]
@@ -15,6 +15,7 @@ video_id: Y8t0e5aS0X4
 url: https://www.youtube.com/watch?v=Y8t0e5aS0X4
 youtube_url: https://www.youtube.com/watch?v=Y8t0e5aS0X4
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

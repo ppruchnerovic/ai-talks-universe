@@ -4,7 +4,7 @@ title: "Mind the Gap - A Developer's Roadmap To Building AI Agents - Ivan Pedraz
 slug: mind-the-gap-a-developer-s-roadmap-to-building-ai-agents
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Ivan Pedrazas"]
@@ -15,6 +15,7 @@ video_id: -l9Fmd0ifbY
 url: https://www.youtube.com/watch?v=-l9Fmd0ifbY
 youtube_url: https://www.youtube.com/watch?v=-l9Fmd0ifbY
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

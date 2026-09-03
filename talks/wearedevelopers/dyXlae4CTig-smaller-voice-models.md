@@ -4,7 +4,7 @@ title: "Smaller Voice Models"
 slug: smaller-voice-models
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Sohaib Ahmad"]
@@ -15,6 +15,7 @@ video_id: dyXlae4CTig
 url: https://www.youtube.com/watch?v=dyXlae4CTig
 youtube_url: https://www.youtube.com/watch?v=dyXlae4CTig
 tags: ["AI Models"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

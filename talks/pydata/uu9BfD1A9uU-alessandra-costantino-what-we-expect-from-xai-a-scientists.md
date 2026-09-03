@@ -4,7 +4,7 @@ title: "Alessandra Costantino - What We Expect from XAI - A scientist’s experi
 slug: alessandra-costantino-what-we-expect-from-xai-a-scientists
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Alessandra Costantino"]
@@ -15,6 +15,7 @@ video_id: uu9BfD1A9uU
 url: https://www.youtube.com/watch?v=uu9BfD1A9uU
 youtube_url: https://www.youtube.com/watch?v=uu9BfD1A9uU
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

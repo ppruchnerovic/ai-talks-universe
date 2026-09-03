@@ -4,7 +4,7 @@ title: "Keynote: Open Source AI Everywhere - Omar Sanseviero, Chief Llama Office
 slug: keynote-open-source-ai-everywhere-omar-sanseviero-chief
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Omar Sanseviero"]
@@ -15,6 +15,7 @@ video_id: TxGXkJhb0bo
 url: https://www.youtube.com/watch?v=TxGXkJhb0bo
 youtube_url: https://www.youtube.com/watch?v=TxGXkJhb0bo
 tags: []
+topics: []
 transcript: false
 ---
 

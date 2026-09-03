@@ -4,7 +4,7 @@ title: "Building agents with real-world reasoning"
 slug: building-agents-with-real-world-reasoning
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Caio Moreira", "Ken Nevarez"]
@@ -15,6 +15,7 @@ video_id: e7gFaim6vLs
 url: https://www.youtube.com/watch?v=e7gFaim6vLs
 youtube_url: https://www.youtube.com/watch?v=e7gFaim6vLs
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - AI;"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Designing Agent-Native Dev Teams: Coding Agents in 
 slug: aws-re-invent-2025-designing-agent-native-dev-teams-coding
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: FAbm2MXYaqc
 url: https://www.youtube.com/watch?v=FAbm2MXYaqc
 youtube_url: https://www.youtube.com/watch?v=FAbm2MXYaqc
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

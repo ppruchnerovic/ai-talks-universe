@@ -4,7 +4,7 @@ title: "Ship Agents that Ship: A Hands-On Workshop - Kyle Penfound, Jeremy Adams
 slug: ship-agents-that-ship-a-hands-on-workshop-kyle-penfound
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kyle Penfound"]
@@ -15,6 +15,7 @@ video_id: Fzb1a24hF-o
 url: https://www.youtube.com/watch?v=Fzb1a24hF-o
 youtube_url: https://www.youtube.com/watch?v=Fzb1a24hF-o
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

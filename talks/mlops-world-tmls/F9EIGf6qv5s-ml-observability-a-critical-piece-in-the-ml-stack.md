@@ -4,7 +4,7 @@ title: "ML Observability: A Critical Piece in the ML Stack"
 slug: ml-observability-a-critical-piece-in-the-ml-stack
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: F9EIGf6qv5s
 url: https://www.youtube.com/watch?v=F9EIGf6qv5s
 youtube_url: https://www.youtube.com/watch?v=F9EIGf6qv5s
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

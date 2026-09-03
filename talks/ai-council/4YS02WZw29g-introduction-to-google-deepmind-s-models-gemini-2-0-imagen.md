@@ -4,7 +4,7 @@ title: "Introduction to Google DeepMind's Models: Gemini 2.0, Imagen 3, and Veo"
 slug: introduction-to-google-deepmind-s-models-gemini-2-0-imagen
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Paige Bailey"]
@@ -15,6 +15,7 @@ video_id: 4YS02WZw29g
 url: https://www.youtube.com/watch?v=4YS02WZw29g
 youtube_url: https://www.youtube.com/watch?v=4YS02WZw29g
 tags: ["Google DeepMind", "Gemini 2.0", "Imagen 3", "ChatGPT", "artificial intelligence", "machine learning", "Veo", "Google AI", "AI tutorial", "image generation", "video AI", "AI tools", "generative AI", "multimodal AI", "Python tutorial", "computer vision", "natural language processing", "creative AI", "content generation", "visual AI", "video generation", "image synthesis", "AI creativity", "neural networks", "foundation models"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Vibe coding your way into a security nightmare by Arjen Wiersma"
 slug: vibe-coding-your-way-into-a-security-nightmare-by-arjen
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Arjen Wiersma"]
@@ -15,6 +15,7 @@ video_id: AQqZUzeTFOc
 url: https://www.youtube.com/watch?v=AQqZUzeTFOc
 youtube_url: https://www.youtube.com/watch?v=AQqZUzeTFOc
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Security, safety & red teaming"]
 transcript: false
 ---
 

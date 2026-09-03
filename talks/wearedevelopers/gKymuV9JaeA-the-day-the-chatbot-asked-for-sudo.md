@@ -4,7 +4,7 @@ title: "The day the chatbot asked for sudo"
 slug: the-day-the-chatbot-asked-for-sudo
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Alex Olivier"]
@@ -15,6 +15,7 @@ video_id: gKymuV9JaeA
 url: https://www.youtube.com/watch?v=gKymuV9JaeA
 youtube_url: https://www.youtube.com/watch?v=gKymuV9JaeA
 tags: ["Security & Privacy", "AGI (Artificial General Intelligence)", "AI Standards", "Security"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

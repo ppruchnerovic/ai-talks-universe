@@ -4,7 +4,7 @@ title: "Lalit Ahuja, CTO, GridGain: 3 Steps to Making Well-Informed AI-Driven De
 slug: lalit-ahuja-cto-gridgain-3-steps-to-making-well-informed-ai
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: umIKUP4f1oI
 url: https://www.youtube.com/watch?v=umIKUP4f1oI
 youtube_url: https://www.youtube.com/watch?v=umIKUP4f1oI
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

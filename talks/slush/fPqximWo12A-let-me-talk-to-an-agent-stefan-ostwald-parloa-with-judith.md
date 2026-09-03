@@ -4,7 +4,7 @@ title: "Let Me Talk to an Agent | Stefan Ostwald (Parloa) with Judith Dada (Visi
 slug: let-me-talk-to-an-agent-stefan-ostwald-parloa-with-judith
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Stefan Ostwald"]
@@ -15,6 +15,7 @@ video_id: fPqximWo12A
 url: https://www.youtube.com/watch?v=fPqximWo12A
 youtube_url: https://www.youtube.com/watch?v=fPqximWo12A
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

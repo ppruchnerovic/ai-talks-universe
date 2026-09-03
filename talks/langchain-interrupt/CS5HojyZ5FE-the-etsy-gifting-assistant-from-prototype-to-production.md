@@ -4,7 +4,7 @@ title: "The Etsy Gifting Assistant: From Prototype to Production | Interrupt 26"
 slug: the-etsy-gifting-assistant-from-prototype-to-production
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: CS5HojyZ5FE
 url: https://www.youtube.com/watch?v=CS5HojyZ5FE
 youtube_url: https://www.youtube.com/watch?v=CS5HojyZ5FE
 tags: ["LangChain", "LangGraph", "LangSmith", "AI agents", "Etsy", "gifting assistant", "conversational AI", "ReAct agent", "LLM evaluation", "agent deployment", "AI engineering", "Interrupt conference", "production AI", "LLM judge", "agent observability", "agentic AI", "AI search"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

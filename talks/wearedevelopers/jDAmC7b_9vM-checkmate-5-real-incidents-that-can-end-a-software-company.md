@@ -4,7 +4,7 @@ title: "Checkmate: 5 Real Incidents That Can End a Software Company"
 slug: checkmate-5-real-incidents-that-can-end-a-software-company
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jasmin Azemović"]
@@ -15,6 +15,7 @@ video_id: jDAmC7b_9vM
 url: https://www.youtube.com/watch?v=jDAmC7b_9vM
 youtube_url: https://www.youtube.com/watch?v=jDAmC7b_9vM
 tags: ["Security & Privacy", "AppSec", "Cloud Security", "Infosec", "Secure Coding", "Security"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

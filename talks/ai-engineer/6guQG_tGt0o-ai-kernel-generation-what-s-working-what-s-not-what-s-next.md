@@ -4,7 +4,7 @@ title: "AI Kernel Generation: What's working, what's not, what's next – Natali
 slug: ai-kernel-generation-what-s-working-what-s-not-what-s-next
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Natalie Serrino"]
@@ -15,6 +15,7 @@ video_id: 6guQG_tGt0o
 url: https://www.youtube.com/watch?v=6guQG_tGt0o
 youtube_url: https://www.youtube.com/watch?v=6guQG_tGt0o
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Michael Spranger - From Games to the Real World: How Reinforcement Learn
 slug: michael-spranger-from-games-to-the-real-world-how
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Michael Spranger"]
@@ -15,6 +15,7 @@ video_id: goUszJNGzIc
 url: https://www.youtube.com/watch?v=goUszJNGzIc
 youtube_url: https://www.youtube.com/watch?v=goUszJNGzIc
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

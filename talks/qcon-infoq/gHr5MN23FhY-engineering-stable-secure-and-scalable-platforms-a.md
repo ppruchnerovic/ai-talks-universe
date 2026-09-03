@@ -4,7 +4,7 @@ title: "Engineering Stable, Secure and Scalable Platforms: A Conversation with M
 slug: engineering-stable-secure-and-scalable-platforms-a
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: gHr5MN23FhY
 url: https://www.youtube.com/watch?v=gHr5MN23FhY
 youtube_url: https://www.youtube.com/watch?v=gHr5MN23FhY
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

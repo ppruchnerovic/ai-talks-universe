@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Scaling foundation model inference on Amazon SageMa
 slug: aws-re-invent-2025-scaling-foundation-model-inference-on
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: nHaLbyLPK7s
 url: https://www.youtube.com/watch?v=nHaLbyLPK7s
 youtube_url: https://www.youtube.com/watch?v=nHaLbyLPK7s
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

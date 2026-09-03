@@ -4,7 +4,7 @@ title: "Machine Learning In Observability Systems: From Insights To Action by Pa
 slug: machine-learning-in-observability-systems-from-insights-to
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Panos Tsilopoulos"]
@@ -15,6 +15,7 @@ video_id: tWMZWTulDrM
 url: https://www.youtube.com/watch?v=tWMZWTulDrM
 youtube_url: https://www.youtube.com/watch?v=tWMZWTulDrM
 tags: []
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: false
 ---
 

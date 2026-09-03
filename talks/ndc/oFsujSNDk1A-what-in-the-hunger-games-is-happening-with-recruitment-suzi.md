@@ -4,7 +4,7 @@ title: "What in the Hunger Games is Happening with Recruitment? - Suzi Edwards-A
 slug: what-in-the-hunger-games-is-happening-with-recruitment-suzi
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: oFsujSNDk1A
 url: https://www.youtube.com/watch?v=oFsujSNDk1A
 youtube_url: https://www.youtube.com/watch?v=oFsujSNDk1A
 tags: ["People", "Agile", "Ethics", "Fun", "Soft Skills", "NDC", "Conferences", "2026", "Live", "London", "UK", "England", "United Kingdom", "Suzi Edwards-Alexander"]
+topics: []
 transcript: true
 ---
 

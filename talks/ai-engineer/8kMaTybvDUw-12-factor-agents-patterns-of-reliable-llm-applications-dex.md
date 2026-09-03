@@ -4,7 +4,7 @@ title: "12-Factor Agents: Patterns of reliable LLM applications — Dex Horthy, 
 slug: 12-factor-agents-patterns-of-reliable-llm-applications-dex
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dex Horthy"]
@@ -15,6 +15,7 @@ video_id: 8kMaTybvDUw
 url: https://www.youtube.com/watch?v=8kMaTybvDUw
 youtube_url: https://www.youtube.com/watch?v=8kMaTybvDUw
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Trying to Make Meterpreter into an Adversarial Example"
 slug: trying-to-make-meterpreter-into-an-adversarial-example
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []
@@ -15,6 +15,7 @@ video_id: eYAZ3BTUq6c
 url: https://www.youtube.com/watch?v=eYAZ3BTUq6c
 youtube_url: https://www.youtube.com/watch?v=eYAZ3BTUq6c
 tags: ["camlis", "camlis2019"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

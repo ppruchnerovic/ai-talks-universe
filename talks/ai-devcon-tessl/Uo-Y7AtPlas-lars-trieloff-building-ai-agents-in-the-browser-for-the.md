@@ -4,7 +4,7 @@ title: "Lars Trieloff - Building AI agents in the browser, for the browser, of t
 slug: lars-trieloff-building-ai-agents-in-the-browser-for-the
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Lars Trieloff"]
@@ -15,6 +15,7 @@ video_id: Uo-Y7AtPlas
 url: https://www.youtube.com/watch?v=Uo-Y7AtPlas
 youtube_url: https://www.youtube.com/watch?v=Uo-Y7AtPlas
 tags: ["AI DevCon 2026", "AI agents", "API integration", "Adobe", "Adobe principal scientist", "Slicky", "UNIX tools", "agent enablement", "agentic tools", "ainativedev", "browser AI", "building AI agents in browser", "cloud-native", "web automation", "web development"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

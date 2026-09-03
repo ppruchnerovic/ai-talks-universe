@@ -4,7 +4,7 @@ title: "Modeling and Inferencing Customer Intent from Event Sequences: From Glas
 slug: modeling-and-inferencing-customer-intent-from-event
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Nplxymqoack
 url: https://www.youtube.com/watch?v=Nplxymqoack
 youtube_url: https://www.youtube.com/watch?v=Nplxymqoack
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Evals, observability & reliability", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

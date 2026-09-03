@@ -4,7 +4,7 @@ title: "Wild Wild Tests: Testing Recommender Systems in the Wild"
 slug: wild-wild-tests-testing-recommender-systems-in-the-wild
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Jacopo Tagliabue"]
@@ -15,6 +15,7 @@ video_id: dwlT5QotGAs
 url: https://www.youtube.com/watch?v=dwlT5QotGAs
 youtube_url: https://www.youtube.com/watch?v=dwlT5QotGAs
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

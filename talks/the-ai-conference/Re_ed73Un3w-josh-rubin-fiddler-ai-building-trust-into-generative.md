@@ -4,7 +4,7 @@ title: "Josh Rubin, Fiddler AI: Building Trust into Generative Applications with
 slug: josh-rubin-fiddler-ai-building-trust-into-generative
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Re_ed73Un3w
 url: https://www.youtube.com/watch?v=Re_ed73Un3w
 youtube_url: https://www.youtube.com/watch?v=Re_ed73Un3w
 tags: []
+topics: []
 transcript: false
 ---
 

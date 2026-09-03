@@ -4,7 +4,7 @@ title: "Technical Workshop: Meet Docling: The “Pandas” for Document AI - Pet
 slug: technical-workshop-meet-docling-the-pandas-for-document-ai
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Peter Staar", "Cesar Berrospi"]
@@ -15,6 +15,7 @@ video_id: ehONq7mY81Y
 url: https://www.youtube.com/watch?v=ehONq7mY81Y
 youtube_url: https://www.youtube.com/watch?v=ehONq7mY81Y
 tags: []
+topics: ["Classic ML & data science", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

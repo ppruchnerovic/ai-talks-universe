@@ -4,7 +4,7 @@ title: "Building WinUI Apps with C# First Patterns and AI Assisted Workflows | O
 slug: building-winui-apps-with-c-first-patterns-and-ai-assisted
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Chris Anderson"]
@@ -15,6 +15,7 @@ video_id: tPO3vwRVB-M
 url: https://www.youtube.com/watch?v=tPO3vwRVB-M
 youtube_url: https://www.youtube.com/watch?v=tPO3vwRVB-M
 tags: ["Building WinUI Apps with C# First Patterns and AI Assisted Workflows | OD854", "C#", "Chris Anderson", "OD854", "OD854_v1", "WinUI", "Windows", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Optimizing GenAI with Intel Gaudi Accelerators on Ray | Ray Summit 2024"
 slug: optimizing-genai-with-intel-gaudi-accelerators-on-ray-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0_KAKypQbtw
 url: https://www.youtube.com/watch?v=0_KAKypQbtw
 youtube_url: https://www.youtube.com/watch?v=0_KAKypQbtw
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

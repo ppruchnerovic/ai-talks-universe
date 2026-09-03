@@ -4,7 +4,7 @@ title: "Karthik Narasimhan - Reliable AI Agents for Tomorrow's World"
 slug: karthik-narasimhan-reliable-ai-agents-for-tomorrow-s-world
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Karthik Narasimhan"]
@@ -15,6 +15,7 @@ video_id: fOAAslQUceg
 url: https://www.youtube.com/watch?v=fOAAslQUceg
 youtube_url: https://www.youtube.com/watch?v=fOAAslQUceg
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

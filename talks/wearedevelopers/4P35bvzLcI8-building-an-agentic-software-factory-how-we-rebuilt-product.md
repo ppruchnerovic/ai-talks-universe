@@ -4,7 +4,7 @@ title: "Building an agentic software factory: How we rebuilt product development
 slug: building-an-agentic-software-factory-how-we-rebuilt-product
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Agur Jõgi"]
@@ -15,6 +15,7 @@ video_id: 4P35bvzLcI8
 url: https://www.youtube.com/watch?v=4P35bvzLcI8
 youtube_url: https://www.youtube.com/watch?v=4P35bvzLcI8
 tags: ["Engineering Leadership", "Analytics", "Communication", "Performance", "Scaling"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

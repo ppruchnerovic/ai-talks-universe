@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Rectifying Privacy and Efficacy Measurements in Ma
 slug: usenix-security-25-rectifying-privacy-and-efficacy
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: w851hfWRwbs
 url: https://www.youtube.com/watch?v=w851hfWRwbs
 youtube_url: https://www.youtube.com/watch?v=w851hfWRwbs
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

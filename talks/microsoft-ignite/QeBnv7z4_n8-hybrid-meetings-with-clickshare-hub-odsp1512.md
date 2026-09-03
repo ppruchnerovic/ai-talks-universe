@@ -4,7 +4,7 @@ title: "Hybrid meetings with ClickShare Hub | ODSP1512"
 slug: hybrid-meetings-with-clickshare-hub-odsp1512
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Gauthier Renard", "Oliver Van Camp"]
@@ -15,6 +15,7 @@ video_id: QeBnv7z4_n8
 url: https://www.youtube.com/watch?v=QeBnv7z4_n8
 youtube_url: https://www.youtube.com/watch?v=QeBnv7z4_n8
 tags: ["Copilot and agents at work", "Education", "English (US)", "Gauthier Renard", "Hybrid meetings with ClickShare Hub | ODSP1512", "ODSP1512", "ODSP1512_v1", "Oliver Van Camp", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Europe's Regulatory Paradox: Burden, Barrier or Competitive Advantage?"
 slug: europe-s-regulatory-paradox-burden-barrier-or-competitive
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Andreas Klinger", "Jakobus Schuster", "Thomas Eriksson", "Katharina Schneeberg"]
@@ -15,6 +15,7 @@ video_id: uvjDp-15Jqo
 url: https://www.youtube.com/watch?v=uvjDp-15Jqo
 youtube_url: https://www.youtube.com/watch?v=uvjDp-15Jqo
 tags: ["Software Architecture"]
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

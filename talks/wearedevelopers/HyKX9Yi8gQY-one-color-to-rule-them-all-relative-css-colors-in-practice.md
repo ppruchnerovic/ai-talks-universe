@@ -4,7 +4,7 @@ title: "One Color to Rule Them All: Relative CSS Colors in Practice"
 slug: one-color-to-rule-them-all-relative-css-colors-in-practice
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Mert Akça"]
@@ -15,6 +15,7 @@ video_id: HyKX9Yi8gQY
 url: https://www.youtube.com/watch?v=HyKX9Yi8gQY
 youtube_url: https://www.youtube.com/watch?v=HyKX9Yi8gQY
 tags: ["Frontend, Web & Mobile", "CSS", "Design Systems", "HTML", "Storybook", "UI/UX"]
+topics: []
 transcript: true
 ---
 

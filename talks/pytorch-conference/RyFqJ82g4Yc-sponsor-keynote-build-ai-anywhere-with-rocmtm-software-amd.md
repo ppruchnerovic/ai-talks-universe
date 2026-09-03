@@ -4,7 +4,7 @@ title: "Sponsor Keynote: Build AI Anywhere with ROCm™ Software: AMD and PyTorc
 slug: sponsor-keynote-build-ai-anywhere-with-rocmtm-software-amd
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Anush Elangovan"]
@@ -15,6 +15,7 @@ video_id: RyFqJ82g4Yc
 url: https://www.youtube.com/watch?v=RyFqJ82g4Yc
 youtube_url: https://www.youtube.com/watch?v=RyFqJ82g4Yc
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

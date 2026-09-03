@@ -4,7 +4,7 @@ title: "Knowledge Graphs + Semantic Search: Unlocking Smarter LLMs"
 slug: knowledge-graphs-semantic-search-unlocking-smarter-llms
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9_UWqdUnsTc
 url: https://www.youtube.com/watch?v=9_UWqdUnsTc
 youtube_url: https://www.youtube.com/watch?v=9_UWqdUnsTc
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Evals, observability & reliability", "Governance, ethics & regulation", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

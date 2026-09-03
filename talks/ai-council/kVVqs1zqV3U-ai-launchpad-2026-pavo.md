@@ -4,7 +4,7 @@ title: "AI Launchpad 2026: Pavo"
 slug: ai-launchpad-2026-pavo
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: kVVqs1zqV3U
 url: https://www.youtube.com/watch?v=kVVqs1zqV3U
 youtube_url: https://www.youtube.com/watch?v=kVVqs1zqV3U
 tags: ["AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

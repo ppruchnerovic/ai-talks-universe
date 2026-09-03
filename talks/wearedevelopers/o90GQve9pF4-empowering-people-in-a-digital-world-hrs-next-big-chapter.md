@@ -4,7 +4,7 @@ title: "Empowering People in a Digital World: HR’s Next Big Chapter"
 slug: empowering-people-in-a-digital-world-hrs-next-big-chapter
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: o90GQve9pF4
 url: https://www.youtube.com/watch?v=o90GQve9pF4
 youtube_url: https://www.youtube.com/watch?v=o90GQve9pF4
 tags: ["people", "transformation", "hr", "culture", "future of work", "change management", "AI", "artificial intelligence", "human resources", "people & culture", "people management", "leadership"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

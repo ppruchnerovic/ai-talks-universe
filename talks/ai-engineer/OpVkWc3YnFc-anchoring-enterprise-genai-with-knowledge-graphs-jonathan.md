@@ -4,7 +4,7 @@ title: "Anchoring Enterprise GenAI with Knowledge Graphs: Jonathan Lowe (Pfizer)
 slug: anchoring-enterprise-genai-with-knowledge-graphs-jonathan
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: OpVkWc3YnFc
 url: https://www.youtube.com/watch?v=OpVkWc3YnFc
 youtube_url: https://www.youtube.com/watch?v=OpVkWc3YnFc
 tags: []
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

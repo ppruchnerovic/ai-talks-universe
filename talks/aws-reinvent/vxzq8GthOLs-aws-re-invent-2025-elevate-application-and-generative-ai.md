@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Elevate application and generative AI observability
 slug: aws-re-invent-2025-elevate-application-and-generative-ai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: vxzq8GthOLs
 url: https://www.youtube.com/watch?v=vxzq8GthOLs
 youtube_url: https://www.youtube.com/watch?v=vxzq8GthOLs
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

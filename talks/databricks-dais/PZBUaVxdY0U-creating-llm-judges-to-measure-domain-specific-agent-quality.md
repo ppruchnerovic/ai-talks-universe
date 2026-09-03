@@ -4,7 +4,7 @@ title: "Creating LLM judges to Measure Domain-Specific Agent Quality"
 slug: creating-llm-judges-to-measure-domain-specific-agent-quality
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: PZBUaVxdY0U
 url: https://www.youtube.com/watch?v=PZBUaVxdY0U
 youtube_url: https://www.youtube.com/watch?v=PZBUaVxdY0U
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

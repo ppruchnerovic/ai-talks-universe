@@ -4,7 +4,7 @@ title: "​Bots that don't suck: How to use agents that help you write code - Am
 slug: bots-that-don-t-suck-how-to-use-agents-that-help-you-write
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Amir Shevat"]
@@ -15,6 +15,7 @@ video_id: pbjJIkarY2E
 url: https://www.youtube.com/watch?v=pbjJIkarY2E
 youtube_url: https://www.youtube.com/watch?v=pbjJIkarY2E
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

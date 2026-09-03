@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Agentic AI for VMware migrations with AWS Transform
 slug: aws-re-invent-2025-agentic-ai-for-vmware-migrations-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: BHO_45PxguI
 url: https://www.youtube.com/watch?v=BHO_45PxguI
 youtube_url: https://www.youtube.com/watch?v=BHO_45PxguI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

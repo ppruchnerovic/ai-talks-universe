@@ -4,7 +4,7 @@ title: "Sponsored Session: Model Context Pragmatism - Jeremiah Lowin, Prefect"
 slug: sponsored-session-model-context-pragmatism-jeremiah-lowin
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Jeremiah Lowin"]
@@ -15,6 +15,7 @@ video_id: vfOe10Ww6s0
 url: https://www.youtube.com/watch?v=vfOe10Ww6s0
 youtube_url: https://www.youtube.com/watch?v=vfOe10Ww6s0
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "To the moon! Navigating deep context in legacy code with Augment Agent â
 slug: to-the-moon-navigating-deep-context-in-legacy-code-with
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Forrest Brazeal"]
@@ -15,6 +15,7 @@ video_id: 6NIr_cYPglk
 url: https://www.youtube.com/watch?v=6NIr_cYPglk
 youtube_url: https://www.youtube.com/watch?v=6NIr_cYPglk
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

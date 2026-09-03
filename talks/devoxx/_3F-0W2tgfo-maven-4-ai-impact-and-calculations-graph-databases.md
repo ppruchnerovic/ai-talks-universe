@@ -4,7 +4,7 @@ title: "Maven 4, AI Impact and Calculations , Graph Databases"
 slug: maven-4-ai-impact-and-calculations-graph-databases
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _3F-0W2tgfo
 url: https://www.youtube.com/watch?v=_3F-0W2tgfo
 youtube_url: https://www.youtube.com/watch?v=_3F-0W2tgfo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

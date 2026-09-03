@@ -4,7 +4,7 @@ title: "Innovation Takes a Village / Isabelle Moret, Canton of Vaud"
 slug: innovation-takes-a-village-isabelle-moret-canton-of-vaud
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8uoMrqB2Nd4
 url: https://www.youtube.com/watch?v=8uoMrqB2Nd4
 youtube_url: https://www.youtube.com/watch?v=8uoMrqB2Nd4
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Building Support Structures • Flavia Circiumaru & Hannes Lowette"
 slug: building-support-structures-flavia-circiumaru-hannes-lowette
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Building Support Structures", "Flavia Circiumaru", "Hannes Lowette"]
@@ -15,6 +15,7 @@ video_id: 8lx6df6ENsk
 url: https://www.youtube.com/watch?v=8lx6df6ENsk
 youtube_url: https://www.youtube.com/watch?v=8lx6df6ENsk
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

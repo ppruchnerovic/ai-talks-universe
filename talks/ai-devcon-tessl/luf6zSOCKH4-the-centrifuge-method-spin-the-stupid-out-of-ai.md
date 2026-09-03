@@ -4,7 +4,7 @@ title: "The Centrifuge Method: Spin the Stupid Out of AI"
 slug: the-centrifuge-method-spin-the-stupid-out-of-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: luf6zSOCKH4
 url: https://www.youtube.com/watch?v=luf6zSOCKH4
 youtube_url: https://www.youtube.com/watch?v=luf6zSOCKH4
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

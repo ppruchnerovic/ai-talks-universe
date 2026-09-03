@@ -4,7 +4,7 @@ title: "Ian Thomas - JupyterLite: run all your code in a web browser using WebAs
 slug: ian-thomas-jupyterlite-run-all-your-code-in-a-web-browser
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Ian Thomas"]
@@ -15,6 +15,7 @@ video_id: xttVSAuv2Es
 url: https://www.youtube.com/watch?v=xttVSAuv2Es
 youtube_url: https://www.youtube.com/watch?v=xttVSAuv2Es
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: true
 ---
 

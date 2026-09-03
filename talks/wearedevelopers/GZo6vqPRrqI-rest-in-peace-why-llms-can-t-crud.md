@@ -4,7 +4,7 @@ title: "REST In Peace: Why LLMs Can't CRUD"
 slug: rest-in-peace-why-llms-can-t-crud
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Martin Sakowski", "Martin Karrer"]
@@ -15,6 +15,7 @@ video_id: GZo6vqPRrqI
 url: https://www.youtube.com/watch?v=GZo6vqPRrqI
 youtube_url: https://www.youtube.com/watch?v=GZo6vqPRrqI
 tags: ["Backend & APIs", "AI Standards", "APIs", "Agentic AI", "REST"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

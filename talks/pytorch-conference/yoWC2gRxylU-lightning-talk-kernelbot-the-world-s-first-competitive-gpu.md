@@ -4,7 +4,7 @@ title: "Lightning Talk: KernelBot: The World's First Competitive GPU Programming
 slug: lightning-talk-kernelbot-the-world-s-first-competitive-gpu
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Mark Saroufim"]
@@ -15,6 +15,7 @@ video_id: yoWC2gRxylU
 url: https://www.youtube.com/watch?v=yoWC2gRxylU
 youtube_url: https://www.youtube.com/watch?v=yoWC2gRxylU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

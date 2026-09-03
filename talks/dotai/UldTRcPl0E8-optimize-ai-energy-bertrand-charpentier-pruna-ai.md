@@ -4,7 +4,7 @@ title: "Optimize AI Energy - Bertrand Charpentier - Pruna AI"
 slug: optimize-ai-energy-bertrand-charpentier-pruna-ai
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Bertrand Charpentier"]
@@ -15,6 +15,7 @@ video_id: UldTRcPl0E8
 url: https://www.youtube.com/watch?v=UldTRcPl0E8
 youtube_url: https://www.youtube.com/watch?v=UldTRcPl0E8
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

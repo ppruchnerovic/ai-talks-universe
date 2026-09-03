@@ -4,7 +4,7 @@ title: "Human Values and AI | Natural Language Processing for GLAM | Elliott Ash
 slug: human-values-and-ai-natural-language-processing-for-glam
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Elliott Ash"]
@@ -15,6 +15,7 @@ video_id: -vu8ndwuHlI
 url: https://www.youtube.com/watch?v=-vu8ndwuHlI
 youtube_url: https://www.youtube.com/watch?v=-vu8ndwuHlI
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

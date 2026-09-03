@@ -4,7 +4,7 @@ title: "Lily Xu-Using Traditional AI & LLMs to Automate Complex + Critical Docum
 slug: lily-xu-using-traditional-ai-llms-to-automate-complex
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: pzzWuUENNxE
 url: https://www.youtube.com/watch?v=pzzWuUENNxE
 youtube_url: https://www.youtube.com/watch?v=pzzWuUENNxE
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

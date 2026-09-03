@@ -4,7 +4,7 @@ title: "Govern your estate using PowerShell and the CLI with AI | BRK170"
 slug: govern-your-estate-using-powershell-and-the-cli-with-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Steven Bucher", "Damien Caro"]
@@ -15,6 +15,7 @@ video_id: BZ9ne3qjUqk
 url: https://www.youtube.com/watch?v=BZ9ne3qjUqk
 youtube_url: https://www.youtube.com/watch?v=BZ9ne3qjUqk
 tags: ["BRK170", "Damien Caro", "English (US)", "Govern your estate using PowerShell and the CLI with AI | BRK170", "Migrate and modernize your estate", "Steven Bucher", "Technical", "a576a259-1d74-40ec-b6cc-4fc6f95b6afe_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Security, safety & red teaming"]
 transcript: false
 ---
 

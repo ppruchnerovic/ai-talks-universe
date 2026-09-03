@@ -4,7 +4,7 @@ title: "Shipping AI to a Million Patients Without an A/B Test — Jared Joselowi
 slug: shipping-ai-to-a-million-patients-without-an-a-b-test-jared
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jared Joselowitz"]
@@ -15,6 +15,7 @@ video_id: McknwOzbmyg
 url: https://www.youtube.com/watch?v=McknwOzbmyg
 youtube_url: https://www.youtube.com/watch?v=McknwOzbmyg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

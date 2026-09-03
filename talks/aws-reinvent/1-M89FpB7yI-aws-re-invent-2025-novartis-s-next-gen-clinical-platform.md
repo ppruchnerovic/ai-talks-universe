@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Novartis's next-gen clinical platform enables AI dr
 slug: aws-re-invent-2025-novartis-s-next-gen-clinical-platform
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1-M89FpB7yI
 url: https://www.youtube.com/watch?v=1-M89FpB7yI
 youtube_url: https://www.youtube.com/watch?v=1-M89FpB7yI
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

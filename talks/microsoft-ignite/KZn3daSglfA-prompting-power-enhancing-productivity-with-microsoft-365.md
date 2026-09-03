@@ -4,7 +4,7 @@ title: "Prompting Power: Enhancing Productivity with Microsoft 365 Copilot | BRK
 slug: prompting-power-enhancing-productivity-with-microsoft-365
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Tiffany Ellis", "Alina Fu"]
@@ -15,6 +15,7 @@ video_id: KZn3daSglfA
 url: https://www.youtube.com/watch?v=KZn3daSglfA
 youtube_url: https://www.youtube.com/watch?v=KZn3daSglfA
 tags: ["Alina Fu", "BRK279", "Copilot and agents at work", "English (US)", "Prompting Power: Enhancing Productivity with Microsoft 365 Copilot | BRK279", "Technical", "Tiffany Ellis", "e5982eb4-1fe0-4213-b897-6c41532b0eec_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Prompting & context engineering"]
 transcript: false
 ---
 

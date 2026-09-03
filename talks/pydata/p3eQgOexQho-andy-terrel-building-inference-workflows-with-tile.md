@@ -4,7 +4,7 @@ title: "Andy Terrel - Building Inference Workflows with Tile Languages | PyData 
 slug: andy-terrel-building-inference-workflows-with-tile
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Andy Terrel"]
@@ -15,6 +15,7 @@ video_id: p3eQgOexQho
 url: https://www.youtube.com/watch?v=p3eQgOexQho
 youtube_url: https://www.youtube.com/watch?v=p3eQgOexQho
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

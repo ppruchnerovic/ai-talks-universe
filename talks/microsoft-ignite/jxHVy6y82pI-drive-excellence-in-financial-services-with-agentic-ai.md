@@ -4,7 +4,7 @@ title: "Drive excellence in financial services with agentic AI | BRKSP462"
 slug: drive-excellence-in-financial-services-with-agentic-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Phani Damaraju", "Ravi Khokhar"]
@@ -15,6 +15,7 @@ video_id: jxHVy6y82pI
 url: https://www.youtube.com/watch?v=jxHVy6y82pI
 youtube_url: https://www.youtube.com/watch?v=jxHVy6y82pI
 tags: ["33a3d0bf-41f5-4949-aad4-a86a235027b7_Segment", "BRKSP462", "Copilot and agents at work", "Drive excellence in financial services with agentic AI | BRKSP462", "English (US)", "Financial Services", "Innovate with Azure AI apps and agents", "Phani Damaraju", "Ravi Khokhar", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

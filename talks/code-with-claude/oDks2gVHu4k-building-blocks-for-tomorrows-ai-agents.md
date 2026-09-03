@@ -4,7 +4,7 @@ title: "Building Blocks for Tomorrow’s AI Agents"
 slug: building-blocks-for-tomorrows-ai-agents
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: oDks2gVHu4k
 url: https://www.youtube.com/watch?v=oDks2gVHu4k
 youtube_url: https://www.youtube.com/watch?v=oDks2gVHu4k
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

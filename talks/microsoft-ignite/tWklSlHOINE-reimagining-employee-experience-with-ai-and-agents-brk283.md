@@ -4,7 +4,7 @@ title: "Reimagining employee experience with AI and agents | BRK283"
 slug: reimagining-employee-experience-with-ai-and-agents-brk283
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Christopher Fernandez", "Kirk Gregersen", "Lucy Hitz", "Sunita Khatri", "Karyl Singh"]
@@ -15,6 +15,7 @@ video_id: tWklSlHOINE
 url: https://www.youtube.com/watch?v=tWklSlHOINE
 youtube_url: https://www.youtube.com/watch?v=tWklSlHOINE
 tags: ["AI", "Adoption", "BRK283", "Breakout", "Christopher Fernandez", "Copilot for M365", "English (US)", "Intermediate (200)", "Karyl Singh", "Kirk Gregersen", "Lucy Hitz", "Modern Work", "Reimagining employee experience with AI and agents | BRK283", "Sunita Khatri", "Technical", "Version v4", "Viva", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

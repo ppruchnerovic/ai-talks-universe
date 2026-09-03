@@ -4,7 +4,7 @@ title: "You Might Not Need 50 Diffusion Steps — Ziv Ilan, Nvidia"
 slug: you-might-not-need-50-diffusion-steps-ziv-ilan-nvidia
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ziv Ilan"]
@@ -15,6 +15,7 @@ video_id: gHs5ZiY80PM
 url: https://www.youtube.com/watch?v=gHs5ZiY80PM
 youtube_url: https://www.youtube.com/watch?v=gHs5ZiY80PM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Ryoma: Building Open Source AI Agents for Enterprise Data Analysis - Hao
 slug: ryoma-building-open-source-ai-agents-for-enterprise-data
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Hao Xu", "Fang Feng"]
@@ -15,6 +15,7 @@ video_id: CQ6wnuT-7fg
 url: https://www.youtube.com/watch?v=CQ6wnuT-7fg
 youtube_url: https://www.youtube.com/watch?v=CQ6wnuT-7fg
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Future of Creativity: Mikey Shulman (Suno) & Anna Veronika Dorogush (Rec
 slug: future-of-creativity-mikey-shulman-suno-anna-veronika
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: GBf50fpW_8Y
 url: https://www.youtube.com/watch?v=GBf50fpW_8Y
 youtube_url: https://www.youtube.com/watch?v=GBf50fpW_8Y
 tags: []
+topics: []
 transcript: false
 ---
 

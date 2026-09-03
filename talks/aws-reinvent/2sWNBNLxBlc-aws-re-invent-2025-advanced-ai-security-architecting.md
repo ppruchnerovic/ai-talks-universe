@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Advanced AI Security: Architecting Defense-in-Depth
 slug: aws-re-invent-2025-advanced-ai-security-architecting
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2sWNBNLxBlc
 url: https://www.youtube.com/watch?v=2sWNBNLxBlc
 youtube_url: https://www.youtube.com/watch?v=2sWNBNLxBlc
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

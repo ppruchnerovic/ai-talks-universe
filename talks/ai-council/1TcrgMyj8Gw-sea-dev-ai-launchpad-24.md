@@ -4,7 +4,7 @@ title: "sea.dev | AI Launchpad '24"
 slug: sea-dev-ai-launchpad-24
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Matt Arderne"]
@@ -15,6 +15,7 @@ video_id: 1TcrgMyj8Gw
 url: https://www.youtube.com/watch?v=1TcrgMyj8Gw
 youtube_url: https://www.youtube.com/watch?v=1TcrgMyj8Gw
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

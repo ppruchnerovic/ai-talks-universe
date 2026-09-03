@@ -4,7 +4,7 @@ title: "Rockwell's AI-Powered Maintenance Copilot: Transforming Industrial Opera
 slug: rockwell-s-ai-powered-maintenance-copilot-transforming
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: lJn-YYh-Eyc
 url: https://www.youtube.com/watch?v=lJn-YYh-Eyc
 youtube_url: https://www.youtube.com/watch?v=lJn-YYh-Eyc
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

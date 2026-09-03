@@ -4,7 +4,7 @@ title: "Agents will need trillions of databases. Let's give it to them! | Turso"
 slug: agents-will-need-trillions-of-databases-let-s-give-it-to
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0FNoeIvx1K4
 url: https://www.youtube.com/watch?v=0FNoeIvx1K4
 youtube_url: https://www.youtube.com/watch?v=0FNoeIvx1K4
 tags: ["AI"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

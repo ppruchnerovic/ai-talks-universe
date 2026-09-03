@@ -4,7 +4,7 @@ title: "Cooking with Agents in VS Code — Liam Hampton, Microsoft"
 slug: cooking-with-agents-in-vs-code-liam-hampton-microsoft
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Liam Hampton"]
@@ -15,6 +15,7 @@ video_id: dyHpnnlkTc8
 url: https://www.youtube.com/watch?v=dyHpnnlkTc8
 youtube_url: https://www.youtube.com/watch?v=dyHpnnlkTc8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

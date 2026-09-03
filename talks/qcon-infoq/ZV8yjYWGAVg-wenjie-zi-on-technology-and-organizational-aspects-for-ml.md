@@ -4,7 +4,7 @@ title: "Wenjie Zi on Technology and Organizational Aspects for ML Project Succes
 slug: wenjie-zi-on-technology-and-organizational-aspects-for-ml
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZV8yjYWGAVg
 url: https://www.youtube.com/watch?v=ZV8yjYWGAVg
 youtube_url: https://www.youtube.com/watch?v=ZV8yjYWGAVg
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

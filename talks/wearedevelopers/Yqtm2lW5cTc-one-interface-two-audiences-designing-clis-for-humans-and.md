@@ -4,7 +4,7 @@ title: "One Interface, Two Audiences: Designing CLIs for Humans and AI Agents"
 slug: one-interface-two-audiences-designing-clis-for-humans-and
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Sean O'Dell", "Gala Dvoretskaya"]
@@ -15,6 +15,7 @@ video_id: Yqtm2lW5cTc
 url: https://www.youtube.com/watch?v=Yqtm2lW5cTc
 youtube_url: https://www.youtube.com/watch?v=Yqtm2lW5cTc
 tags: ["Agents", "Agentic AI", "Developer Experience (DevEx)", "Multi-Agent Systems", "Observability", "Open Source", "OpenTelemetry"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

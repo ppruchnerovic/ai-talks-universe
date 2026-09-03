@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Kiro and Amazon Bedrock: Unlock AI Agents for Your 
 slug: aws-re-invent-2025-kiro-and-amazon-bedrock-unlock-ai-agents
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8vy_UGHKKyc
 url: https://www.youtube.com/watch?v=8vy_UGHKKyc
 youtube_url: https://www.youtube.com/watch?v=8vy_UGHKKyc
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

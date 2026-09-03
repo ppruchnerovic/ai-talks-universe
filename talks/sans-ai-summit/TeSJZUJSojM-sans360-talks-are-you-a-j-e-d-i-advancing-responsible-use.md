@@ -4,7 +4,7 @@ title: "SANS360 Talks | Are you a J.E.D.I? Advancing Responsible Use of Al in th
 slug: sans360-talks-are-you-a-j-e-d-i-advancing-responsible-use
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: TeSJZUJSojM
 url: https://www.youtube.com/watch?v=TeSJZUJSojM
 youtube_url: https://www.youtube.com/watch?v=TeSJZUJSojM
 tags: []
+topics: []
 transcript: false
 ---
 

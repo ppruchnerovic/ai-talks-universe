@@ -4,7 +4,7 @@ title: "Locknote: Reasons to be Cheerful: 0, 1, 2 - Emmz Rendle - NDC Copenhagen
 slug: locknote-reasons-to-be-cheerful-0-1-2-emmz-rendle-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Emmz Rendle"]
@@ -15,6 +15,7 @@ video_id: A0TegMh8k4s
 url: https://www.youtube.com/watch?v=A0TegMh8k4s
 youtube_url: https://www.youtube.com/watch?v=A0TegMh8k4s
 tags: ["AI", "AR", "Ethics", "People", "Fun", "NDC", "Conferences", "2026", "Live", "Copenhagen", "Denmark"]
+topics: []
 transcript: true
 ---
 

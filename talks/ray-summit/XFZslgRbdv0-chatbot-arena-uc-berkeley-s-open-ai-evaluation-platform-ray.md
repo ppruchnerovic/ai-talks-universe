@@ -4,7 +4,7 @@ title: "Chatbot Arena: UC Berkeley's Open AI Evaluation Platform | Ray Summit 20
 slug: chatbot-arena-uc-berkeley-s-open-ai-evaluation-platform-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: XFZslgRbdv0
 url: https://www.youtube.com/watch?v=XFZslgRbdv0
 youtube_url: https://www.youtube.com/watch?v=XFZslgRbdv0
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

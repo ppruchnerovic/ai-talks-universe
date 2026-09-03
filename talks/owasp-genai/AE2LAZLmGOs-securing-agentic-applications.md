@@ -4,7 +4,7 @@ title: "Securing Agentic Applications"
 slug: securing-agentic-applications
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: AE2LAZLmGOs
 url: https://www.youtube.com/watch?v=AE2LAZLmGOs
 youtube_url: https://www.youtube.com/watch?v=AE2LAZLmGOs
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

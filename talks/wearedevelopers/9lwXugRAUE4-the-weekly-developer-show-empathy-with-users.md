@@ -4,7 +4,7 @@ title: "The weekly developer show: Empathy with Users"
 slug: the-weekly-developer-show-empathy-with-users
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9lwXugRAUE4
 url: https://www.youtube.com/watch?v=9lwXugRAUE4
 youtube_url: https://www.youtube.com/watch?v=9lwXugRAUE4
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: false
 ---
 

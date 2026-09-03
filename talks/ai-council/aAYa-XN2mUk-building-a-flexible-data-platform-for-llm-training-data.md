@@ -4,7 +4,7 @@ title: "Building a Flexible Data Platform for LLM Training Data Rendered 4 9 24"
 slug: building-a-flexible-data-platform-for-llm-training-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Jonathan Talmi"]
@@ -15,6 +15,7 @@ video_id: aAYa-XN2mUk
 url: https://www.youtube.com/watch?v=aAYa-XN2mUk
 youtube_url: https://www.youtube.com/watch?v=aAYa-XN2mUk
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

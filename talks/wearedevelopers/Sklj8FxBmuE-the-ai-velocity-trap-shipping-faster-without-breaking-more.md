@@ -4,7 +4,7 @@ title: "The AI Velocity Trap: Shipping Faster Without Breaking More"
 slug: the-ai-velocity-trap-shipping-faster-without-breaking-more
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ohans Emmanuel"]
@@ -15,6 +15,7 @@ video_id: Sklj8FxBmuE
 url: https://www.youtube.com/watch?v=Sklj8FxBmuE
 youtube_url: https://www.youtube.com/watch?v=Sklj8FxBmuE
 tags: ["Frontend, Web & Mobile", "AI Standards", "Generative AI (GenAI)", "React", "Vue.js"]
+topics: []
 transcript: true
 ---
 

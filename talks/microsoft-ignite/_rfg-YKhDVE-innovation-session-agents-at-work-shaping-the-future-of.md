@@ -4,7 +4,7 @@ title: "Innovation Session: Agents at work: Shaping the future of business | BRK
 slug: innovation-session-agents-at-work-shaping-the-future-of
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Bryan Goode", "Dan Lewis", "Aghogho Biakolo", "Kendra Springer"]
@@ -15,6 +15,7 @@ video_id: _rfg-YKhDVE
 url: https://www.youtube.com/watch?v=_rfg-YKhDVE
 youtube_url: https://www.youtube.com/watch?v=_rfg-YKhDVE
 tags: ["Aghogho Biakolo", "BRK1708", "BRK1708_v1", "Bryan Goode", "Copilot and agents at work", "Dan Lewis", "English (US)", "Innovation Session: Agents at work: Shaping the future of business | BRK1708", "Kendra Springer", "Signature pass", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

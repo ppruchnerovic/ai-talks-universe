@@ -4,7 +4,7 @@ title: "Intelligent Routing for Optimized Inference - Antonio Berben, Solo.io & 
 slug: intelligent-routing-for-optimized-inference-antonio-berben
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Antonio Berben"]
@@ -15,6 +15,7 @@ video_id: yeGhei0-bDA
 url: https://www.youtube.com/watch?v=yeGhei0-bDA
 youtube_url: https://www.youtube.com/watch?v=yeGhei0-bDA
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

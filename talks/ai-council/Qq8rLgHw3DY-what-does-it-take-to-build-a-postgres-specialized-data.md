@@ -4,7 +4,7 @@ title: "What does it take to build a Postgres specialized data movement tool?"
 slug: what-does-it-take-to-build-a-postgres-specialized-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Sai Srirampur"]
@@ -15,6 +15,7 @@ video_id: Qq8rLgHw3DY
 url: https://www.youtube.com/watch?v=Qq8rLgHw3DY
 youtube_url: https://www.youtube.com/watch?v=Qq8rLgHw3DY
 tags: ["machine learning", "computer vision", "AI"]
+topics: []
 transcript: false
 ---
 

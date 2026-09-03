@@ -4,7 +4,7 @@ title: "#Wanted and #Misunderstood: Decoding the Divide Between Developers and H
 slug: wanted-and-misunderstood-decoding-the-divide-between
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: GUL_ZkOWioE
 url: https://www.youtube.com/watch?v=GUL_ZkOWioE
 youtube_url: https://www.youtube.com/watch?v=GUL_ZkOWioE
 tags: ["people", "WeAreDevelopers", "wearedevelopers", "HR trends", "employee engagement", "leadership strategies", "HR professionals", "talent acquisition", "modern workplaces", "Cappuccino with HR", "developers", "candidates", "candidate experience", "findings", "survey", "research", "Hr leaders", "tech professionals", "interview stages", "remote work", "hybrid work"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

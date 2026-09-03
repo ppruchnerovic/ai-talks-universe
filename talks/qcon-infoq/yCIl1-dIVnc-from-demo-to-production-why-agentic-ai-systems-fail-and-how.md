@@ -4,7 +4,7 @@ title: "From Demo to Production: Why Agentic AI Systems Fail - and How to Fix Th
 slug: from-demo-to-production-why-agentic-ai-systems-fail-and-how
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: yCIl1-dIVnc
 url: https://www.youtube.com/watch?v=yCIl1-dIVnc
 youtube_url: https://www.youtube.com/watch?v=yCIl1-dIVnc
 tags: ["AI", "Artificial Intelligence", "Generative AI", "LLM", "Software Engineering", "Machine Learning", "AI Architecture", "Claude", "Anthropic"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

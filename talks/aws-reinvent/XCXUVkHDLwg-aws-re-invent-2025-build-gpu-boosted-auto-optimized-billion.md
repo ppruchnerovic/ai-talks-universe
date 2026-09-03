@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Build gpu-boosted, auto-optimized, billion-scale Ve
 slug: aws-re-invent-2025-build-gpu-boosted-auto-optimized-billion
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XCXUVkHDLwg
 url: https://www.youtube.com/watch?v=XCXUVkHDLwg
 youtube_url: https://www.youtube.com/watch?v=XCXUVkHDLwg
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

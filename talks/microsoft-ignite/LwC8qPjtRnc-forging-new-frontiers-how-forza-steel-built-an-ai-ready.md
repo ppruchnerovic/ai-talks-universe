@@ -4,7 +4,7 @@ title: "Forging new frontiers: How Forza Steel built an AI-ready foundation | OD
 slug: forging-new-frontiers-how-forza-steel-built-an-ai-ready
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Juan Daniel Alonso", "Clay Caldwell"]
@@ -15,6 +15,7 @@ video_id: LwC8qPjtRnc
 url: https://www.youtube.com/watch?v=LwC8qPjtRnc
 youtube_url: https://www.youtube.com/watch?v=LwC8qPjtRnc
 tags: ["Clay Caldwell", "English (US)", "Forging new frontiers: How Forza Steel built an AI-ready foundation | ODSP1449", "Innovate with Azure AI apps and agents", "Juan Daniel Alonso", "Manufacturing and Mobility", "ODSP1449", "ODSP1449_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

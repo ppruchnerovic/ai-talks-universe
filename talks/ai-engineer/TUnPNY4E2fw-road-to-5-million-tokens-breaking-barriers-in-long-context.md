@@ -4,7 +4,7 @@ title: "Road to 5 Million Tokens: Breaking Barriers in Long Context Training —
 slug: road-to-5-million-tokens-breaking-barriers-in-long-context
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Max Ryabinin"]
@@ -15,6 +15,7 @@ video_id: TUnPNY4E2fw
 url: https://www.youtube.com/watch?v=TUnPNY4E2fw
 youtube_url: https://www.youtube.com/watch?v=TUnPNY4E2fw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra", "Prompting & context engineering"]
 transcript: true
 ---
 

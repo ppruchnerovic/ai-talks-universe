@@ -4,7 +4,7 @@ title: "Oriol Vinyals - Recursive Self Improvement... of What?"
 slug: oriol-vinyals-recursive-self-improvement-of-what
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Oriol Vinyals"]
@@ -15,6 +15,7 @@ video_id: IO9N8O1HJ4k
 url: https://www.youtube.com/watch?v=IO9N8O1HJ4k
 youtube_url: https://www.youtube.com/watch?v=IO9N8O1HJ4k
 tags: []
+topics: []
 transcript: true
 ---
 

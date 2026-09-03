@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Matthew Xu: The 4-Legged Identity Challenge"
 slug: ai-dev-26-x-sf-matthew-xu-the-4-legged-identity-challenge
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 03h0SRCUAI4
 url: https://www.youtube.com/watch?v=03h0SRCUAI4
 youtube_url: https://www.youtube.com/watch?v=03h0SRCUAI4
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

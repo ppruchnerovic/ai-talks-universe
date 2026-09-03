@@ -4,7 +4,7 @@ title: "Scaling Experimentation to 20 Billion Users | Statsig"
 slug: scaling-experimentation-to-20-billion-users-statsig
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: B7JBS1P7TJg
 url: https://www.youtube.com/watch?v=B7JBS1P7TJg
 youtube_url: https://www.youtube.com/watch?v=B7JBS1P7TJg
 tags: ["statsig", "scaling", "startup growth"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

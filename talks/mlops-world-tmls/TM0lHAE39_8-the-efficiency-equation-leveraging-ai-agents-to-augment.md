@@ -4,7 +4,7 @@ title: "The Efficiency Equation: Leveraging AI Agents to Augment Human Labelers 
 slug: the-efficiency-equation-leveraging-ai-agents-to-augment
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Madhu Ramanathan"]
@@ -15,6 +15,7 @@ video_id: TM0lHAE39_8
 url: https://www.youtube.com/watch?v=TM0lHAE39_8
 youtube_url: https://www.youtube.com/watch?v=TM0lHAE39_8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

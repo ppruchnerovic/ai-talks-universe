@@ -4,7 +4,7 @@ title: "Black Hat Europe 2025 | Token Injection: Crashing LLM Inference With Spe
 slug: black-hat-europe-2025-token-injection-crashing-llm
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ILnTkeuxPPw
 url: https://www.youtube.com/watch?v=ILnTkeuxPPw
 youtube_url: https://www.youtube.com/watch?v=ILnTkeuxPPw
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

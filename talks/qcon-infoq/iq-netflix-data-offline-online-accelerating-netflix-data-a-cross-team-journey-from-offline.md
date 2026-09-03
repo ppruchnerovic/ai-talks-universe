@@ -4,7 +4,7 @@ title: "Accelerating Netflix Data: a Cross-Team Journey from Offline to Online"
 slug: accelerating-netflix-data-a-cross-team-journey-from-offline
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Rajasekhar Ummadisetty", "Ken Kurzweil"]
@@ -15,6 +15,7 @@ video_id: iq-netflix-data-offline-online
 url: https://www.infoq.com/presentations/netflix-data-offline-online/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

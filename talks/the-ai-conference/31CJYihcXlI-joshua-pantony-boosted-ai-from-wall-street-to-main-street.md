@@ -4,7 +4,7 @@ title: "Joshua Pantony, Boosted.ai: From Wall Street to Main Street: The Future 
 slug: joshua-pantony-boosted-ai-from-wall-street-to-main-street
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 31CJYihcXlI
 url: https://www.youtube.com/watch?v=31CJYihcXlI
 youtube_url: https://www.youtube.com/watch?v=31CJYihcXlI
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

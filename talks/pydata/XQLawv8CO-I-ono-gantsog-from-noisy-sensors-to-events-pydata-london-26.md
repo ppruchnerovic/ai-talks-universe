@@ -4,7 +4,7 @@ title: "Ono Gantsog - From Noisy Sensors to Events | Pydata London 26"
 slug: ono-gantsog-from-noisy-sensors-to-events-pydata-london-26
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Ono Gantsog"]
@@ -15,6 +15,7 @@ video_id: XQLawv8CO-I
 url: https://www.youtube.com/watch?v=XQLawv8CO-I
 youtube_url: https://www.youtube.com/watch?v=XQLawv8CO-I
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

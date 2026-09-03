@@ -4,7 +4,7 @@ title: "Building voice agents with OpenAI — Dominik Kundel, OpenAI"
 slug: building-voice-agents-with-openai-dominik-kundel-openai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dominik Kundel"]
@@ -15,6 +15,7 @@ video_id: iXhba366fQc
 url: https://www.youtube.com/watch?v=iXhba366fQc
 youtube_url: https://www.youtube.com/watch?v=iXhba366fQc
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

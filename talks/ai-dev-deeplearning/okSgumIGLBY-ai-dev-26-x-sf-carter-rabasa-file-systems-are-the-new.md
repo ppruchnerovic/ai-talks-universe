@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Carter Rabasa: File Systems Are the New Primitive for A
 slug: ai-dev-26-x-sf-carter-rabasa-file-systems-are-the-new
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: okSgumIGLBY
 url: https://www.youtube.com/watch?v=okSgumIGLBY
 youtube_url: https://www.youtube.com/watch?v=okSgumIGLBY
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

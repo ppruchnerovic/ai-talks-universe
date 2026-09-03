@@ -4,7 +4,7 @@ title: "Extending BCC as a Data Source for System Monitoring - Eunseon Lee, LG E
 slug: extending-bcc-as-a-data-source-for-system-monitoring
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Eunseon Lee"]
@@ -15,6 +15,7 @@ video_id: 08jXkUBgWmY
 url: https://www.youtube.com/watch?v=08jXkUBgWmY
 youtube_url: https://www.youtube.com/watch?v=08jXkUBgWmY
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

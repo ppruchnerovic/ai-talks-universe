@@ -4,7 +4,7 @@ title: "Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Use
 slug: elon-musk-digital-superintelligence-multiplanetary-life-how
 conference: yc-ai-startup-school
 conference_name: "Y Combinator AI Startup School"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Startup School 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cFIlta1GkiE
 url: https://www.youtube.com/watch?v=cFIlta1GkiE
 youtube_url: https://www.youtube.com/watch?v=cFIlta1GkiE
 tags: ["YC", "Y Combinator"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

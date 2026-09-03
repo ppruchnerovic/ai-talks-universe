@@ -4,7 +4,7 @@ title: "MCML: A Universal Schema for AI Traceability & Lifecycle Governance l PL
 slug: mcml-a-universal-schema-for-ai-traceability-lifecycle
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Lanre Ogunkunle", "Alex Olaniyan"]
@@ -15,6 +15,7 @@ video_id: BKLwwvKk0DE
 url: https://www.youtube.com/watch?v=BKLwwvKk0DE
 youtube_url: https://www.youtube.com/watch?v=BKLwwvKk0DE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

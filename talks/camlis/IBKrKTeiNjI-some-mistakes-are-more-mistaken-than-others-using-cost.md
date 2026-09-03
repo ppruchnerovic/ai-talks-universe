@@ -4,7 +4,7 @@ title: "Some Mistakes are More Mistaken Than Others: Using Cost-Matrix Clusterin
 slug: some-mistakes-are-more-mistaken-than-others-using-cost
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []
@@ -15,6 +15,7 @@ video_id: IBKrKTeiNjI
 url: https://www.youtube.com/watch?v=IBKrKTeiNjI
 youtube_url: https://www.youtube.com/watch?v=IBKrKTeiNjI
 tags: ["camlis", "camlis2018"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

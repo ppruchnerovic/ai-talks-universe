@@ -4,7 +4,7 @@ title: "Reinvent Finance & Operations with Agentic ERP | BRK355"
 slug: reinvent-finance-operations-with-agentic-erp-brk355
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Georg Glantschnig", "John Bowden", "Sinahi Lopez", "Sameer Verma"]
@@ -15,6 +15,7 @@ video_id: 1pnCTUgroo8
 url: https://www.youtube.com/watch?v=1pnCTUgroo8
 youtube_url: https://www.youtube.com/watch?v=1pnCTUgroo8
 tags: ["8147c606-c98e-4d6d-8bd3-4798e30903b7_Segment", "Agentic business applications", "BRK355", "English (US)", "Georg Glantschnig", "John Bowden", "Reinvent Finance & Operations with Agentic ERP | BRK355", "Sameer Verma", "Sinahi Lopez", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

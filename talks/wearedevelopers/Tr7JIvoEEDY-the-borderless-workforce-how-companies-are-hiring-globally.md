@@ -4,7 +4,7 @@ title: "The Borderless Workforce: How Companies Are Hiring Globally"
 slug: the-borderless-workforce-how-companies-are-hiring-globally
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Tr7JIvoEEDY
 url: https://www.youtube.com/watch?v=Tr7JIvoEEDY
 youtube_url: https://www.youtube.com/watch?v=Tr7JIvoEEDY
 tags: ["hiring", "recruiting", "recruitment", "talent", "HR", "people", "culture", "transformation", "work", "global", "organizations", "companies", "workforce", "AI", "remote work", "hybrid workplace", "teams"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

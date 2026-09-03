@@ -4,7 +4,7 @@ title: "Full Walkthrough: Workflow for AI Coding — Matt Pocock"
 slug: full-walkthrough-workflow-for-ai-coding-matt-pocock
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Matt Pocock"]
@@ -15,6 +15,7 @@ video_id: -QFHIoCo-Ko
 url: https://www.youtube.com/watch?v=-QFHIoCo-Ko
 youtube_url: https://www.youtube.com/watch?v=-QFHIoCo-Ko
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

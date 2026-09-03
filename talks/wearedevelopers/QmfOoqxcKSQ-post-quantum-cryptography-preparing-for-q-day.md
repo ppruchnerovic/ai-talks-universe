@@ -4,7 +4,7 @@ title: "Post-Quantum Cryptography: Preparing for Q-Day"
 slug: post-quantum-cryptography-preparing-for-q-day
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Tim Schade"]
@@ -15,6 +15,7 @@ video_id: QmfOoqxcKSQ
 url: https://www.youtube.com/watch?v=QmfOoqxcKSQ
 youtube_url: https://www.youtube.com/watch?v=QmfOoqxcKSQ
 tags: ["Security & Privacy", "Quantum", "Security", "Web Standards"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

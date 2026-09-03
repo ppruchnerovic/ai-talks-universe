@@ -4,7 +4,7 @@ title: "IBM Research | AI and Space | Jonas Weiss"
 slug: ibm-research-ai-and-space-jonas-weiss
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Jonas Weiss"]
@@ -15,6 +15,7 @@ video_id: RB8LlFGELEg
 url: https://www.youtube.com/watch?v=RB8LlFGELEg
 youtube_url: https://www.youtube.com/watch?v=RB8LlFGELEg
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

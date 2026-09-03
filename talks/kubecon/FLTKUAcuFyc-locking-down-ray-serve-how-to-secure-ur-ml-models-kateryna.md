@@ -4,7 +4,7 @@ title: "Locking Down Ray Serve: How to Secure Ur ML Models? - Kateryna Hrytsaien
 slug: locking-down-ray-serve-how-to-secure-ur-ml-models-kateryna
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Kateryna Hrytsaienko"]
@@ -15,6 +15,7 @@ video_id: FLTKUAcuFyc
 url: https://www.youtube.com/watch?v=FLTKUAcuFyc
 youtube_url: https://www.youtube.com/watch?v=FLTKUAcuFyc
 tags: []
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Guardians of the State: An Air-Gapped AI Fortress for Consumer Data — 
 slug: guardians-of-the-state-an-air-gapped-ai-fortress-for
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rachna Srivastava"]
@@ -15,6 +15,7 @@ video_id: 2WZsT-znFTQ
 url: https://www.youtube.com/watch?v=2WZsT-znFTQ
 youtube_url: https://www.youtube.com/watch?v=2WZsT-znFTQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation", "Inference, serving & GPU infra", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

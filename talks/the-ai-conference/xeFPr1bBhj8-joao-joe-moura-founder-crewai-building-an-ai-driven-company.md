@@ -4,7 +4,7 @@ title: "João (Joe) Moura, Founder, CrewAI: Building an AI-Driven Company with A
 slug: joao-joe-moura-founder-crewai-building-an-ai-driven-company
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xeFPr1bBhj8
 url: https://www.youtube.com/watch?v=xeFPr1bBhj8
 youtube_url: https://www.youtube.com/watch?v=xeFPr1bBhj8
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Multi-Agent Multi-User Collab thru MCP: Enabling Asynchronous Human-Agen
 slug: multi-agent-multi-user-collab-thru-mcp-enabling
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: FEqgD_m-p5E
 url: https://www.youtube.com/watch?v=FEqgD_m-p5E
 youtube_url: https://www.youtube.com/watch?v=FEqgD_m-p5E
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

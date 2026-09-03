@@ -4,7 +4,7 @@ title: "From Grassroots to Enterprise: Vanguard's Journey in SRE Transformation"
 slug: from-grassroots-to-enterprise-vanguard-s-journey-in-sre
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Christina Yakomin"]
@@ -15,6 +15,7 @@ video_id: iq-vanguard-sre-transformation
 url: https://www.infoq.com/presentations/vanguard-sre-transformation/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

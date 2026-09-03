@@ -4,7 +4,7 @@ title: "Can AI Really Build Enterprise-Grade Software? | Maor Shlomo & Base44"
 slug: can-ai-really-build-enterprise-grade-software-maor-shlomo
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: TKrXyZr6UgM
 url: https://www.youtube.com/watch?v=TKrXyZr6UgM
 youtube_url: https://www.youtube.com/watch?v=TKrXyZr6UgM
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Security, safety & red teaming"]
 transcript: false
 ---
 

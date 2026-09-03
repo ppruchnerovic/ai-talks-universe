@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - How customers build AI at scale with AWS AI infrast
 slug: aws-re-invent-2025-how-customers-build-ai-at-scale-with-aws
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _RAFKrdTHQQ
 url: https://www.youtube.com/watch?v=_RAFKrdTHQQ
 youtube_url: https://www.youtube.com/watch?v=_RAFKrdTHQQ
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

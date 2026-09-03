@@ -4,7 +4,7 @@ title: "Instant Preview Mode Real Time Feedback to Make SQL Data Exploration Fly
 slug: instant-preview-mode-real-time-feedback-to-make-sql-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Hamilton Ulmer"]
@@ -15,6 +15,7 @@ video_id: GSeBSoxAWFg
 url: https://www.youtube.com/watch?v=GSeBSoxAWFg
 youtube_url: https://www.youtube.com/watch?v=GSeBSoxAWFg
 tags: ["instant preview", "SQL tutorial", "ChatGPT", "artificial intelligence", "machine learning", "DuckDB", "database", "data analysis", "real time", "data exploration", "interactive SQL", "query optimization", "DuckDB WASM", "Python tutorial", "browser analytics", "client side analytics", "serverless analytics", "edge computing", "local first", "instant feedback", "query visualization", "result caching", "progressive enhancement", "responsive design"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

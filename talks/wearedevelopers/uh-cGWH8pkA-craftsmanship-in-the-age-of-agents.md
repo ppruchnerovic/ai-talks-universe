@@ -4,7 +4,7 @@ title: "Craftsmanship in the Age of Agents"
 slug: craftsmanship-in-the-age-of-agents
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Laura Thorson"]
@@ -15,6 +15,7 @@ video_id: uh-cGWH8pkA
 url: https://www.youtube.com/watch?v=uh-cGWH8pkA
 youtube_url: https://www.youtube.com/watch?v=uh-cGWH8pkA
 tags: ["Developer Experience", "AI Coding Assistants", "AI Models", "AI Standards"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

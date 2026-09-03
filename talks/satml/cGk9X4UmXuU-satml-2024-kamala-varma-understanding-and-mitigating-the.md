@@ -4,7 +4,7 @@ title: "SaTML 2024 - Kamala Varma - Understanding and Mitigating the Causes of I
 slug: satml-2024-kamala-varma-understanding-and-mitigating-the
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Kamala Varma"]
@@ -15,6 +15,7 @@ video_id: cGk9X4UmXuU
 url: https://www.youtube.com/watch?v=cGk9X4UmXuU
 youtube_url: https://www.youtube.com/watch?v=cGk9X4UmXuU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Computing & AI Showcase: GEMESYS (CFO & Co-Founder Moritz Schmidt) | Slu
 slug: computing-ai-showcase-gemesys-cfo-co-founder-moritz-schmidt
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: DcsQ9ca41Js
 url: https://www.youtube.com/watch?v=DcsQ9ca41Js
 youtube_url: https://www.youtube.com/watch?v=DcsQ9ca41Js
 tags: []
+topics: []
 transcript: false
 ---
 

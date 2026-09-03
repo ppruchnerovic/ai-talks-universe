@@ -4,7 +4,7 @@ title: "Anthony Annunziata, IBM: Open Source AI: Status, Opportunities, and Chal
 slug: anthony-annunziata-ibm-open-source-ai-status-opportunities
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ox0fGfpLPuc
 url: https://www.youtube.com/watch?v=Ox0fGfpLPuc
 youtube_url: https://www.youtube.com/watch?v=Ox0fGfpLPuc
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

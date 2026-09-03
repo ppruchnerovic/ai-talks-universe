@@ -4,7 +4,7 @@ title: "Workshop: Fetcherr"
 slug: workshop-fetcherr
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: sM9xIIJ6yZw
 url: https://www.youtube.com/watch?v=sM9xIIJ6yZw
 youtube_url: https://www.youtube.com/watch?v=sM9xIIJ6yZw
 tags: []
+topics: []
 transcript: true
 ---
 

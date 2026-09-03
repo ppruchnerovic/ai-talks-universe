@@ -4,7 +4,7 @@ title: "Webcast: Leveraging AI for Cybersecurity Workflow Augmentation"
 slug: webcast-leveraging-ai-for-cybersecurity-workflow
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: ["Gideon Aina"]
@@ -15,6 +15,7 @@ video_id: by5UOaza324
 url: https://www.youtube.com/watch?v=by5UOaza324
 youtube_url: https://www.youtube.com/watch?v=by5UOaza324
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

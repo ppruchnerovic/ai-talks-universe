@@ -4,7 +4,7 @@ title: "Keynote: Welcome Remarks from the AAIF Governing Board Chair - David Nal
 slug: keynote-welcome-remarks-from-the-aaif-governing-board-chair
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["David Nalley"]
@@ -15,6 +15,7 @@ video_id: -P-pLV187Bw
 url: https://www.youtube.com/watch?v=-P-pLV187Bw
 youtube_url: https://www.youtube.com/watch?v=-P-pLV187Bw
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Crossing the Feedback Chasm - a Conversation with Ken Finnigan"
 slug: crossing-the-feedback-chasm-a-conversation-with-ken-finnigan
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: sWYrIT4HfYg
 url: https://www.youtube.com/watch?v=sWYrIT4HfYg
 youtube_url: https://www.youtube.com/watch?v=sWYrIT4HfYg
 tags: []
+topics: []
 transcript: false
 ---
 

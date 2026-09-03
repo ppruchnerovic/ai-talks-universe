@@ -4,7 +4,7 @@ title: "Kamlesh Shah - Designing for high-performance execution with Arrow and P
 slug: kamlesh-shah-designing-for-high-performance-execution-with
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Kamlesh Shah"]
@@ -15,6 +15,7 @@ video_id: y1aIingcoIc
 url: https://www.youtube.com/watch?v=y1aIingcoIc
 youtube_url: https://www.youtube.com/watch?v=y1aIingcoIc
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

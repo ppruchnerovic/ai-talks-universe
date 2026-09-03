@@ -4,7 +4,7 @@ title: "Building Cursor Composer – Lee Robinson, Cursor"
 slug: building-cursor-composer-lee-robinson-cursor
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Building Cursor Composer", "Lee Robinson"]
@@ -15,6 +15,7 @@ video_id: fL1iJHtl51Q
 url: https://www.youtube.com/watch?v=fL1iJHtl51Q
 youtube_url: https://www.youtube.com/watch?v=fL1iJHtl51Q
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

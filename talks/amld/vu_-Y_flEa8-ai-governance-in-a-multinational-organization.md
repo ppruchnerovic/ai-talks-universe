@@ -4,7 +4,7 @@ title: "AI Governance in a Multinational Organization | Operationalize AI Govern
 slug: ai-governance-in-a-multinational-organization
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Lisa Bechtold"]
@@ -15,6 +15,7 @@ video_id: vu_-Y_flEa8
 url: https://www.youtube.com/watch?v=vu_-Y_flEa8
 youtube_url: https://www.youtube.com/watch?v=vu_-Y_flEa8
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

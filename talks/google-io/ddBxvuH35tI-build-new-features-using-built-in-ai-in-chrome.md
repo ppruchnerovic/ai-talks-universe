@@ -4,7 +4,7 @@ title: "Build new features using built-in AI in Chrome"
 slug: build-new-features-using-built-in-ai-in-chrome
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Thomas Steiner"]
@@ -15,6 +15,7 @@ video_id: ddBxvuH35tI
 url: https://www.youtube.com/watch?v=ddBxvuH35tI
 youtube_url: https://www.youtube.com/watch?v=ddBxvuH35tI
 tags: ["Chrome", "Developers", "Google", "Web", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Chrome;"]
+topics: []
 transcript: true
 ---
 

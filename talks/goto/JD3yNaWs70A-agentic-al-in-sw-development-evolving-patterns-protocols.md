@@ -4,7 +4,7 @@ title: "Agentic Al in SW Development: Evolving Patterns & Protocols • Bhuvanes
 slug: agentic-al-in-sw-development-evolving-patterns-protocols
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Bhuvaneswari Subramani"]
@@ -15,6 +15,7 @@ video_id: JD3yNaWs70A
 url: https://www.youtube.com/watch?v=JD3yNaWs70A
 youtube_url: https://www.youtube.com/watch?v=JD3yNaWs70A
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

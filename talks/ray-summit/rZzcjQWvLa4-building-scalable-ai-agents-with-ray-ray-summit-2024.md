@@ -4,7 +4,7 @@ title: "Building Scalable AI Agents with Ray | Ray Summit 2024"
 slug: building-scalable-ai-agents-with-ray-ray-summit-2024
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: rZzcjQWvLa4
 url: https://www.youtube.com/watch?v=rZzcjQWvLa4
 youtube_url: https://www.youtube.com/watch?v=rZzcjQWvLa4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

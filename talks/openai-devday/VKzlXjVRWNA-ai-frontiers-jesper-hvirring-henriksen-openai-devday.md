@@ -4,7 +4,7 @@ title: "AI Frontiers: Jesper Hvirring Henriksen (OpenAI DevDay)"
 slug: ai-frontiers-jesper-hvirring-henriksen-openai-devday
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: VKzlXjVRWNA
 url: https://www.youtube.com/watch?v=VKzlXjVRWNA
 youtube_url: https://www.youtube.com/watch?v=VKzlXjVRWNA
 tags: []
+topics: []
 transcript: false
 ---
 

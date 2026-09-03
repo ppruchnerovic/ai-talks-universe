@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Build a Future-Ready SOC:Transform security logging
 slug: aws-re-invent-2025-build-a-future-ready-soc-transform
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7kWvq1hRXZU
 url: https://www.youtube.com/watch?v=7kWvq1hRXZU
 youtube_url: https://www.youtube.com/watch?v=7kWvq1hRXZU
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

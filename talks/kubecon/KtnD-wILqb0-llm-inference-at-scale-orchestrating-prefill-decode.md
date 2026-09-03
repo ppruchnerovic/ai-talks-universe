@@ -4,7 +4,7 @@ title: "LLM Inference at Scale: Orchestrating Prefill-Decode Disaggregation - Zh
 slug: llm-inference-at-scale-orchestrating-prefill-decode
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Zhonghu Xu"]
@@ -15,6 +15,7 @@ video_id: KtnD-wILqb0
 url: https://www.youtube.com/watch?v=KtnD-wILqb0
 youtube_url: https://www.youtube.com/watch?v=KtnD-wILqb0
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Deciding Which Idea to Pursue | Darren Mowry (Google)"
 slug: deciding-which-idea-to-pursue-darren-mowry-google
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Darren Mowry"]
@@ -15,6 +15,7 @@ video_id: O5qDl8T3Oxc
 url: https://www.youtube.com/watch?v=O5qDl8T3Oxc
 youtube_url: https://www.youtube.com/watch?v=O5qDl8T3Oxc
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: []
 transcript: false
 ---
 

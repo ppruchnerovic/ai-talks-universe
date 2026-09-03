@@ -4,7 +4,7 @@ title: "From Postgres to ClickHouse and Back: Building a Unified OLTP + OLAP Dat
 slug: from-postgres-to-clickhouse-and-back-building-a-unified
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: A2M6gWYBuYU
 url: https://www.youtube.com/watch?v=A2M6gWYBuYU
 youtube_url: https://www.youtube.com/watch?v=A2M6gWYBuYU
 tags: ["AI"]
+topics: []
 transcript: true
 ---
 

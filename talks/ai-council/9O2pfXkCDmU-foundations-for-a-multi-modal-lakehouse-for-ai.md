@@ -4,7 +4,7 @@ title: "Foundations for a Multi-Modal Lakehouse for AI"
 slug: foundations-for-a-multi-modal-lakehouse-for-ai
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Chang She"]
@@ -15,6 +15,7 @@ video_id: 9O2pfXkCDmU
 url: https://www.youtube.com/watch?v=9O2pfXkCDmU
 youtube_url: https://www.youtube.com/watch?v=9O2pfXkCDmU
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

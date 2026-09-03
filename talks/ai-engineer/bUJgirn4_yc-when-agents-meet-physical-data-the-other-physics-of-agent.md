@@ -4,7 +4,7 @@ title: "When Agents Meet Physical Data: The Other Physics of Agent Harnesses - D
 slug: when-agents-meet-physical-data-the-other-physics-of-agent
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dmitry Petrov"]
@@ -15,6 +15,7 @@ video_id: bUJgirn4_yc
 url: https://www.youtube.com/watch?v=bUJgirn4_yc
 youtube_url: https://www.youtube.com/watch?v=bUJgirn4_yc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Prompting & context engineering", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

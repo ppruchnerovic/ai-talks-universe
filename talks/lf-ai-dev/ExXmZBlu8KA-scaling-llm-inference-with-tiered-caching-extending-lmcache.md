@@ -4,7 +4,7 @@ title: "Scaling LLM Inference With Tiered Caching: Extending LMCache With Amazon
 slug: scaling-llm-inference-with-tiered-caching-extending-lmcache
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: ExXmZBlu8KA
 url: https://www.youtube.com/watch?v=ExXmZBlu8KA
 youtube_url: https://www.youtube.com/watch?v=ExXmZBlu8KA
 tags: []
+topics: ["Inference, serving & GPU infra", "Prompting & context engineering"]
 transcript: true
 ---
 

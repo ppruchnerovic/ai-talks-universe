@@ -4,7 +4,7 @@ title: "Enabling VLLM V1 on AMD GPUs With Triton - Thomas Parnell, IBM Research 
 slug: enabling-vllm-v1-on-amd-gpus-with-triton-thomas-parnell-ibm
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Thomas Parnell"]
@@ -15,6 +15,7 @@ video_id: Ylp1Pt1nvEU
 url: https://www.youtube.com/watch?v=Ylp1Pt1nvEU
 youtube_url: https://www.youtube.com/watch?v=Ylp1Pt1nvEU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

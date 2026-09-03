@@ -4,7 +4,7 @@ title: "Dangerous Reactivity: Why AI Output Is the New XSS"
 slug: dangerous-reactivity-why-ai-output-is-the-new-xss
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ramona Schwering"]
@@ -15,6 +15,7 @@ video_id: QItw1_OQAxs
 url: https://www.youtube.com/watch?v=QItw1_OQAxs
 youtube_url: https://www.youtube.com/watch?v=QItw1_OQAxs
 tags: ["Security & Privacy", "AI Standards", "JavaScript", "Security"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

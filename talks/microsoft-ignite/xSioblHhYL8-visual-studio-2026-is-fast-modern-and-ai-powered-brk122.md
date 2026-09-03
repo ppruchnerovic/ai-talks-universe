@@ -4,7 +4,7 @@ title: "Visual Studio 2026 is fast, modern, and AI-powered | BRK122"
 slug: visual-studio-2026-is-fast-modern-and-ai-powered-brk122
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jon Galloway"]
@@ -15,6 +15,7 @@ video_id: xSioblHhYL8
 url: https://www.youtube.com/watch?v=xSioblHhYL8
 youtube_url: https://www.youtube.com/watch?v=xSioblHhYL8
 tags: ["BRK122", "English (US)", "Innovate with Azure AI apps and agents", "Jon Galloway", "Technical", "Visual Studio 2026 is fast modern and AI-powered | BRK122", "f231dc5e-5dfe-4119-9556-1431fe0e25fd_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Engineering Excellence: Declan Whelan on Technical Health, Agile Practic
 slug: engineering-excellence-declan-whelan-on-technical-health
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZfKOkUCCfRo
 url: https://www.youtube.com/watch?v=ZfKOkUCCfRo
 youtube_url: https://www.youtube.com/watch?v=ZfKOkUCCfRo
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

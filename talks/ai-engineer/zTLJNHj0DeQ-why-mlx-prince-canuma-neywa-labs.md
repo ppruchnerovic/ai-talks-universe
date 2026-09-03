@@ -4,7 +4,7 @@ title: "Why MLX — Prince Canuma, Neywa Labs"
 slug: why-mlx-prince-canuma-neywa-labs
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Prince Canuma"]
@@ -15,6 +15,7 @@ video_id: zTLJNHj0DeQ
 url: https://www.youtube.com/watch?v=zTLJNHj0DeQ
 youtube_url: https://www.youtube.com/watch?v=zTLJNHj0DeQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

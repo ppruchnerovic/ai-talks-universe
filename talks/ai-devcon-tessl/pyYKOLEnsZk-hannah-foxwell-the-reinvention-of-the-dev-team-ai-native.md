@@ -4,7 +4,7 @@ title: "Hannah Foxwell - The Reinvention of the Dev Team - AI Native DevCon June
 slug: hannah-foxwell-the-reinvention-of-the-dev-team-ai-native
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Hannah Foxwell"]
@@ -15,6 +15,7 @@ video_id: pyYKOLEnsZk
 url: https://www.youtube.com/watch?v=pyYKOLEnsZk
 youtube_url: https://www.youtube.com/watch?v=pyYKOLEnsZk
 tags: ["AI Native DevCon June 2026", "AI driven development", "AI transformations", "Hannah Foxwell insights", "MBIM", "agentic coding", "agentic software development", "ainativedev", "dev team roles", "how AI changes dev team roles", "prototyping", "reinvention of dev teams", "software development", "team composition", "team composition in AI era"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

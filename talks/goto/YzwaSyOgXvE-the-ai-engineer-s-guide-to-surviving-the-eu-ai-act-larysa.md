@@ -4,7 +4,7 @@ title: "The AI Engineer's Guide to Surviving the EU AI Act • Larysa Visengeriy
 slug: the-ai-engineer-s-guide-to-surviving-the-eu-ai-act-larysa
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Larysa Visengeriyeva", "Barbara Lampl"]
@@ -15,6 +15,7 @@ video_id: YzwaSyOgXvE
 url: https://www.youtube.com/watch?v=YzwaSyOgXvE
 youtube_url: https://www.youtube.com/watch?v=YzwaSyOgXvE
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Book Club", "Larysa Visengeriyeva", "Barbara Lampl", "EU AI Act", "AI Act", "AI Engineer", "Engineer's Guide", "CRISP-ML", "Data Governance", "Compliance", "MLOps", "MLSecOps", "Machine Learning", "Data Science", "Regulation"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

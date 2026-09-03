@@ -4,7 +4,7 @@ title: "Introducing Azure AI Foundry Agent Service to scale your AI agents | BRK
 slug: introducing-azure-ai-foundry-agent-service-to-scale-your-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mads Bolaris", "Marco Casalaina", "Brian King", "Lambert Ninteman"]
@@ -15,6 +15,7 @@ video_id: ltt7JNd30Ag
 url: https://www.youtube.com/watch?v=ltt7JNd30Ag
 youtube_url: https://www.youtube.com/watch?v=ltt7JNd30Ag
 tags: ["AI", "Agents", "Azure OpenAI", "BRK102", "Breakout", "Brian King", "English (US)", "GenAI", "GenerativeAI", "Intermediate (200)", "Introducing Azure AI Foundry Agent Service to scale your AI agents | BRK102", "Lambert Ninteman", "Mads Bolaris", "Marco Casalaina", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

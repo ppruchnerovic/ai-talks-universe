@@ -4,7 +4,7 @@ title: "Wisedocs’ Journey: Rebuilding & Accelerating ML with KubeRay | Ray Sum
 slug: wisedocs-journey-rebuilding-accelerating-ml-with-kuberay
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: H2PYMnjdDQI
 url: https://www.youtube.com/watch?v=H2PYMnjdDQI
 youtube_url: https://www.youtube.com/watch?v=H2PYMnjdDQI
 tags: []
+topics: []
 transcript: false
 ---
 

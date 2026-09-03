@@ -4,7 +4,7 @@ title: "Migrate from legacy systems to agentic CRM | BRK352"
 slug: migrate-from-legacy-systems-to-agentic-crm-brk352
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Nitasha Chopra", "Christian Lewis", "Marty Priest", "Abi Sridhar"]
@@ -15,6 +15,7 @@ video_id: HqrXIgss5UE
 url: https://www.youtube.com/watch?v=HqrXIgss5UE
 youtube_url: https://www.youtube.com/watch?v=HqrXIgss5UE
 tags: ["Abi Sridhar", "Agentic business applications", "BRK352", "BRK352_v1", "Christian Lewis", "English (US)", "Marty Priest", "Migrate from legacy systems to agentic CRM | BRK352", "Nitasha Chopra", "Partner Business", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "A serverless resilient graph analysis platform built on Ray at ByteDance
 slug: a-serverless-resilient-graph-analysis-platform-built-on-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7tMntN9kQbA
 url: https://www.youtube.com/watch?v=7tMntN9kQbA
 youtube_url: https://www.youtube.com/watch?v=7tMntN9kQbA
 tags: []
+topics: []
 transcript: false
 ---
 

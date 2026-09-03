@@ -4,7 +4,7 @@ title: "Priya Ponnapalli - Building Reliable Agents: An Evals First Approach"
 slug: priya-ponnapalli-building-reliable-agents-an-evals-first
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Priya Ponnapalli"]
@@ -15,6 +15,7 @@ video_id: msNGcO_kdmQ
 url: https://www.youtube.com/watch?v=msNGcO_kdmQ
 youtube_url: https://www.youtube.com/watch?v=msNGcO_kdmQ
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

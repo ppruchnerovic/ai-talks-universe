@@ -4,7 +4,7 @@ title: "Benchmarking AI Agents Against Realistic Analytical Tasks with ADE-bench
 slug: benchmarking-ai-agents-against-realistic-analytical-tasks
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: wLZLmGcGQZs
 url: https://www.youtube.com/watch?v=wLZLmGcGQZs
 youtube_url: https://www.youtube.com/watch?v=wLZLmGcGQZs
 tags: ["AI"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: true
 ---
 

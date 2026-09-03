@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Scaling AI with confidence: From proof of concept t
 slug: aws-re-invent-2025-scaling-ai-with-confidence-from-proof-of
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: b3d_n0rldmo
 url: https://www.youtube.com/watch?v=b3d_n0rldmo
 youtube_url: https://www.youtube.com/watch?v=b3d_n0rldmo
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

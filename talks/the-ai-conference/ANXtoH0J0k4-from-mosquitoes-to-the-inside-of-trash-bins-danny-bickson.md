@@ -4,7 +4,7 @@ title: "From Mosquitoes To The Inside Of Trash Bins: Danny Bickson, Founder and 
 slug: from-mosquitoes-to-the-inside-of-trash-bins-danny-bickson
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: ANXtoH0J0k4
 url: https://www.youtube.com/watch?v=ANXtoH0J0k4
 youtube_url: https://www.youtube.com/watch?v=ANXtoH0J0k4
 tags: []
+topics: ["Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Agentic AI Summit - Morning Workshops"
 slug: agentic-ai-summit-morning-workshops
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Morning Workshops"]
@@ -15,6 +15,7 @@ video_id: 5TFuDVvfnpg
 url: https://www.youtube.com/watch?v=5TFuDVvfnpg
 youtube_url: https://www.youtube.com/watch?v=5TFuDVvfnpg
 tags: ["UC Berkeley", "Open Source", "PyTorch", "Linux Foundation", "Agentic AI Summit", "Artificial Intelligence", "Berkeley Center for Responsible Decentralized Intelligence", "Matt White", "Mahdi Ghodsi", "MCP", "vLLM", "PydanticAI", "AMD"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

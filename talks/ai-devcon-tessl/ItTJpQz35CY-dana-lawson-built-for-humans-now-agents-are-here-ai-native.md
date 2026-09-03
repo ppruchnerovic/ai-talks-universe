@@ -4,7 +4,7 @@ title: "Dana Lawson - Built for Humans. Now Agents Are Here. - AI Native DevCon 
 slug: dana-lawson-built-for-humans-now-agents-are-here-ai-native
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Dana Lawson"]
@@ -15,6 +15,7 @@ video_id: ItTJpQz35CY
 url: https://www.youtube.com/watch?v=ItTJpQz35CY
 youtube_url: https://www.youtube.com/watch?v=ItTJpQz35CY
 tags: ["AI DevCon London", "AI DevCon London 2026", "AI DevOps", "AI Development", "AI and developer collaboration", "AI in DevOps", "AI in deployment", "AI workflows", "Netlify", "ainativedev", "build pipelines", "coding agents", "developer tools", "what is Agent Experience", "why judgment matters with AI"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

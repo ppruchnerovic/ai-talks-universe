@@ -4,7 +4,7 @@ title: "Dynamic Teams: Reteaming Patterns & Practices • Heidi Helfand & Charle
 slug: dynamic-teams-reteaming-patterns-practices-heidi-helfand
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Heidi Helfand"]
@@ -15,6 +15,7 @@ video_id: yiJ0kxFBLGs
 url: https://www.youtube.com/watch?v=yiJ0kxFBLGs
 youtube_url: https://www.youtube.com/watch?v=yiJ0kxFBLGs
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
+topics: []
 transcript: false
 ---
 

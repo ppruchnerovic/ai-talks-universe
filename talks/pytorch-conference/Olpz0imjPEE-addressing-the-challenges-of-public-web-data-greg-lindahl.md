@@ -4,7 +4,7 @@ title: "Addressing the Challenges of Public Web Data - Greg Lindahl, Common Craw
 slug: addressing-the-challenges-of-public-web-data-greg-lindahl
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Greg Lindahl"]
@@ -15,6 +15,7 @@ video_id: Olpz0imjPEE
 url: https://www.youtube.com/watch?v=Olpz0imjPEE
 youtube_url: https://www.youtube.com/watch?v=Olpz0imjPEE
 tags: []
+topics: []
 transcript: false
 ---
 

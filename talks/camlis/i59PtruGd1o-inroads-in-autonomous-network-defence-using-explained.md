@@ -4,7 +4,7 @@ title: "Inroads in Autonomous Network Defence using Explained Reinforcement Lear
 slug: inroads-in-autonomous-network-defence-using-explained
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
@@ -15,6 +15,7 @@ video_id: i59PtruGd1o
 url: https://www.youtube.com/watch?v=i59PtruGd1o
 youtube_url: https://www.youtube.com/watch?v=i59PtruGd1o
 tags: []
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

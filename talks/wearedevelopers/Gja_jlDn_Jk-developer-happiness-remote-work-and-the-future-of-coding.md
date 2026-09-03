@@ -4,7 +4,7 @@ title: "Developer Happiness, Remote Work, and the Future of Coding with Thomas D
 slug: developer-happiness-remote-work-and-the-future-of-coding
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: Gja_jlDn_Jk
 url: https://www.youtube.com/watch?v=Gja_jlDn_Jk
 youtube_url: https://www.youtube.com/watch?v=Gja_jlDn_Jk
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

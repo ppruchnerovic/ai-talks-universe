@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - SageMaker HyperPod: Checkpointless & elastic traini
 slug: aws-re-invent-2025-sagemaker-hyperpod-checkpointless
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: r9J10L2K0F4
 url: https://www.youtube.com/watch?v=r9J10L2K0F4
 youtube_url: https://www.youtube.com/watch?v=r9J10L2K0F4
 tags: []
+topics: []
 transcript: false
 ---
 

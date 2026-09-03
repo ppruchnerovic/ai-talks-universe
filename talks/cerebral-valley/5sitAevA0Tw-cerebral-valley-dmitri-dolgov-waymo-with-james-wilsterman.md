@@ -4,7 +4,7 @@ title: "Cerebral Valley: Dmitri Dolgov (Waymo) with James Wilsterman"
 slug: cerebral-valley-dmitri-dolgov-waymo-with-james-wilsterman
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5sitAevA0Tw
 url: https://www.youtube.com/watch?v=5sitAevA0Tw
 youtube_url: https://www.youtube.com/watch?v=5sitAevA0Tw
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

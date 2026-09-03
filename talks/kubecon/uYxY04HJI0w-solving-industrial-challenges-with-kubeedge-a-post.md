@@ -4,7 +4,7 @@ title: "Solving Industrial Challenges With KubeEdge: A Post-Graduation... Yue Ba
 slug: solving-industrial-challenges-with-kubeedge-a-post
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: uYxY04HJI0w
 url: https://www.youtube.com/watch?v=uYxY04HJI0w
 youtube_url: https://www.youtube.com/watch?v=uYxY04HJI0w
 tags: []
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

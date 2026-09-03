@@ -4,7 +4,7 @@ title: "Unpack the Latest Llama 4 Herd"
 slug: unpack-the-latest-llama-4-herd
 conference: meta-connect
 conference_name: "Meta Connect + LlamaCon"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "LlamaCon 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: DKPpe-cESkI
 url: https://www.youtube.com/watch?v=DKPpe-cESkI
 youtube_url: https://www.youtube.com/watch?v=DKPpe-cESkI
 tags: []
+topics: []
 transcript: false
 ---
 

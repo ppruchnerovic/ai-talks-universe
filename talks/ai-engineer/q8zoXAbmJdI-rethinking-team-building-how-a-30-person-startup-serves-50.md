@@ -4,7 +4,7 @@ title: "Rethinking Team Building: how a 30-person Startup serves 50 Million User
 slug: rethinking-team-building-how-a-30-person-startup-serves-50
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Grant Lee"]
@@ -15,6 +15,7 @@ video_id: q8zoXAbmJdI
 url: https://www.youtube.com/watch?v=q8zoXAbmJdI
 youtube_url: https://www.youtube.com/watch?v=q8zoXAbmJdI
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

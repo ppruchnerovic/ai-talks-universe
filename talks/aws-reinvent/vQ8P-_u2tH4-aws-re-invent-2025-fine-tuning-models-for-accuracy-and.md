@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Fine-tuning models for accuracy and latency at Robi
 slug: aws-re-invent-2025-fine-tuning-models-for-accuracy-and
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: vQ8P-_u2tH4
 url: https://www.youtube.com/watch?v=vQ8P-_u2tH4
 youtube_url: https://www.youtube.com/watch?v=vQ8P-_u2tH4
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

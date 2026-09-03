@@ -4,7 +4,7 @@ title: "Securing the Grid: AI’s Promise for Cyber Resilience in Power Systems"
 slug: securing-the-grid-ais-promise-for-cyber-resilience-in-power
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: R5gg3KvoEMY
 url: https://www.youtube.com/watch?v=R5gg3KvoEMY
 youtube_url: https://www.youtube.com/watch?v=R5gg3KvoEMY
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

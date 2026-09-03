@@ -4,7 +4,7 @@ title: "Drop the Bass with Embedding and Vectors in Azure AI Search - Alan Smith
 slug: drop-the-bass-with-embedding-and-vectors-in-azure-ai-search
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Alan Smith"]
@@ -15,6 +15,7 @@ video_id: e5-gDQBWu4k
 url: https://www.youtube.com/watch?v=e5-gDQBWu4k
 youtube_url: https://www.youtube.com/watch?v=e5-gDQBWu4k
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

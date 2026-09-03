@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - AI Agents for Databases: Discover, Recommend, Optim
 slug: aws-re-invent-2025-ai-agents-for-databases-discover
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3MA5HtjJ_J0
 url: https://www.youtube.com/watch?v=3MA5HtjJ_J0
 youtube_url: https://www.youtube.com/watch?v=3MA5HtjJ_J0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

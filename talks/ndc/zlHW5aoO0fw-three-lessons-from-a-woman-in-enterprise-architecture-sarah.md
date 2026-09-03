@@ -4,7 +4,7 @@ title: "Three Lessons from a Woman in Enterprise Architecture - Sarah Wimberley 
 slug: three-lessons-from-a-woman-in-enterprise-architecture-sarah
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Sarah Wimberley"]
@@ -15,6 +15,7 @@ video_id: zlHW5aoO0fw
 url: https://www.youtube.com/watch?v=zlHW5aoO0fw
 youtube_url: https://www.youtube.com/watch?v=zlHW5aoO0fw
 tags: ["Architecture", "Cross-Platform", "DevOps", "People", "Soft Skills", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Sarah Wimberley"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

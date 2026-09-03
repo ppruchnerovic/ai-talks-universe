@@ -4,7 +4,7 @@ title: "Weights & Biases and CoreWeave: Fully Connected 2025 Keynote"
 slug: weights-biases-and-coreweave-fully-connected-2025-keynote
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 09Ubfrdq508
 url: https://www.youtube.com/watch?v=09Ubfrdq508
 youtube_url: https://www.youtube.com/watch?v=09Ubfrdq508
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

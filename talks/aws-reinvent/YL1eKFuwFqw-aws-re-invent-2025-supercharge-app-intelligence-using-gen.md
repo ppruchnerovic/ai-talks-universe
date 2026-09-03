@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Supercharge app intelligence using gen AI with Amaz
 slug: aws-re-invent-2025-supercharge-app-intelligence-using-gen
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YL1eKFuwFqw
 url: https://www.youtube.com/watch?v=YL1eKFuwFqw
 youtube_url: https://www.youtube.com/watch?v=YL1eKFuwFqw
 tags: []
+topics: []
 transcript: false
 ---
 

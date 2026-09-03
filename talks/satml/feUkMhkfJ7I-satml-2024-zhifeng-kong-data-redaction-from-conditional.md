@@ -4,7 +4,7 @@ title: "SaTML 2024 - Zhifeng Kong - Data Redaction from Conditional Generative M
 slug: satml-2024-zhifeng-kong-data-redaction-from-conditional
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Zhifeng Kong"]
@@ -15,6 +15,7 @@ video_id: feUkMhkfJ7I
 url: https://www.youtube.com/watch?v=feUkMhkfJ7I
 youtube_url: https://www.youtube.com/watch?v=feUkMhkfJ7I
 tags: []
+topics: []
 transcript: false
 ---
 

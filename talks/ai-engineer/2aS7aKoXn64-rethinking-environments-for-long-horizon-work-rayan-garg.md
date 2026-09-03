@@ -4,7 +4,7 @@ title: "Rethinking Environments for Long-Horizon Work — Rayan Garg, Theta Soft
 slug: rethinking-environments-for-long-horizon-work-rayan-garg
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rayan Garg"]
@@ -15,6 +15,7 @@ video_id: 2aS7aKoXn64
 url: https://www.youtube.com/watch?v=2aS7aKoXn64
 youtube_url: https://www.youtube.com/watch?v=2aS7aKoXn64
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

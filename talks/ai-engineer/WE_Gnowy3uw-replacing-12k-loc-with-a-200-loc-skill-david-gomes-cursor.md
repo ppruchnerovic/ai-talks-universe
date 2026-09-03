@@ -4,7 +4,7 @@ title: "Replacing 12K LoC with a 200 LoC Skill — David Gomes, Cursor"
 slug: replacing-12k-loc-with-a-200-loc-skill-david-gomes-cursor
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["David Gomes"]
@@ -15,6 +15,7 @@ video_id: WE_Gnowy3uw
 url: https://www.youtube.com/watch?v=WE_Gnowy3uw
 youtube_url: https://www.youtube.com/watch?v=WE_Gnowy3uw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

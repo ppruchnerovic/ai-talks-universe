@@ -4,7 +4,7 @@ title: "Kubernetes Security at Shopify Scale: Automating Security Across an Infr
 slug: kubernetes-security-at-shopify-scale-automating-security
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: fBEG2kag4Aw
 url: https://www.youtube.com/watch?v=fBEG2kag4Aw
 youtube_url: https://www.youtube.com/watch?v=fBEG2kag4Aw
 tags: []
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

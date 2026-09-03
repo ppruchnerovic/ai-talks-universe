@@ -4,7 +4,7 @@ title: "Improve AI Inference (serving models) With KServe and VLLM - Matteo Comb
 slug: improve-ai-inference-serving-models-with-kserve-and-vllm
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Matteo Combi"]
@@ -15,6 +15,7 @@ video_id: ry8Rmkqhok8
 url: https://www.youtube.com/watch?v=ry8Rmkqhok8
 youtube_url: https://www.youtube.com/watch?v=ry8Rmkqhok8
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

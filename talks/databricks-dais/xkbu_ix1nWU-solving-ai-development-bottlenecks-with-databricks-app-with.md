@@ -4,7 +4,7 @@ title: "Solving AI development bottlenecks with Databricks App (with demo)"
 slug: solving-ai-development-bottlenecks-with-databricks-app-with
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: xkbu_ix1nWU
 url: https://www.youtube.com/watch?v=xkbu_ix1nWU
 youtube_url: https://www.youtube.com/watch?v=xkbu_ix1nWU
 tags: ["Databricks"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

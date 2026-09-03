@@ -4,7 +4,7 @@ title: "Beyond the Hype: What AI Actually Can (and Can't) Do • Jodie Burchell 
 slug: beyond-the-hype-what-ai-actually-can-and-can-t-do-jodie
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Jodie Burchell", "Michelle Frost"]
@@ -15,6 +15,7 @@ video_id: p-R7Doigqzc
 url: https://www.youtube.com/watch?v=p-R7Doigqzc
 youtube_url: https://www.youtube.com/watch?v=p-R7Doigqzc
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "Jodie Burchell", "Michelle Frost", "AI", "ML", "AI Ethics", "Ethical AI", "Data Science", "Machine Ethics", "LLM", "Large Language Model", "Artificial General Intelligence", "AGI"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation"]
 transcript: true
 ---
 

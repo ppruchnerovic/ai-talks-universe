@@ -4,7 +4,7 @@ title: "The 8th Layer: Building the Open AI Stack Before It Builds You"
 slug: the-8th-layer-building-the-open-ai-stack-before-it-builds
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Raffi Krikorian"]
@@ -15,6 +15,7 @@ video_id: Lb77eiIwi1E
 url: https://www.youtube.com/watch?v=Lb77eiIwi1E
 youtube_url: https://www.youtube.com/watch?v=Lb77eiIwi1E
 tags: ["Cloud & AI Infrastructure", "AI Models", "Agents", "Innovation", "Linux", "Motivation", "Open Source", "Privacy"]
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

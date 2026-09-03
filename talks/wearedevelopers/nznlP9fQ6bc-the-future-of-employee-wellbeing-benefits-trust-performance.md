@@ -4,7 +4,7 @@ title: "The Future of Employee Wellbeing: Benefits, Trust & Performance"
 slug: the-future-of-employee-wellbeing-benefits-trust-performance
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: nznlP9fQ6bc
 url: https://www.youtube.com/watch?v=nznlP9fQ6bc
 youtube_url: https://www.youtube.com/watch?v=nznlP9fQ6bc
 tags: ["wellbeing", "future of work", "employee", "trust", "benefits", "corporate benefits", "wellbeing initiatives", "performance", "sustainable performance"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

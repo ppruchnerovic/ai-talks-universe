@@ -4,7 +4,7 @@ title: "What If Fixing Code Wasn’t Your Job Anymore? | Jonathan Schneider & Mo
 slug: what-if-fixing-code-wasnt-your-job-anymore-jonathan
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: oLSkc0KT_V8
 url: https://www.youtube.com/watch?v=oLSkc0KT_V8
 youtube_url: https://www.youtube.com/watch?v=oLSkc0KT_V8
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

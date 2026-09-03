@@ -4,7 +4,7 @@ title: "Dragonfly V2.4.0 - Intro, Updates, Data Distribution in AI Infrastructur
 slug: dragonfly-v2-4-0-intro-updates-data-distribution-in-ai
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Wenbo Qi", "Chenyu Zhang"]
@@ -15,6 +15,7 @@ video_id: zjCFSEVvaX4
 url: https://www.youtube.com/watch?v=zjCFSEVvaX4
 youtube_url: https://www.youtube.com/watch?v=zjCFSEVvaX4
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

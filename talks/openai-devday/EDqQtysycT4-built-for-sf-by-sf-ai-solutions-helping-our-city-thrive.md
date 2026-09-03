@@ -4,7 +4,7 @@ title: "Built for SF by SF: AI Solutions Helping Our City Thrive"
 slug: built-for-sf-by-sf-ai-solutions-helping-our-city-thrive
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: EDqQtysycT4
 url: https://www.youtube.com/watch?v=EDqQtysycT4
 youtube_url: https://www.youtube.com/watch?v=EDqQtysycT4
 tags: []
+topics: []
 transcript: false
 ---
 

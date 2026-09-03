@@ -4,7 +4,7 @@ title: "Welcome to Lausanne : home of innovation | Keynote 1 | Raphaël Conz"
 slug: welcome-to-lausanne-home-of-innovation-keynote-1-raphael
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Raphaël Conz"]
@@ -15,6 +15,7 @@ video_id: YcEkEwrs0kw
 url: https://www.youtube.com/watch?v=YcEkEwrs0kw
 youtube_url: https://www.youtube.com/watch?v=YcEkEwrs0kw
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

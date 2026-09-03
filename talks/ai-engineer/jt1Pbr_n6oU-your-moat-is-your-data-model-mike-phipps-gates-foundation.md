@@ -4,7 +4,7 @@ title: "Your Moat Is Your Data Model — Mike Phipps, Gates Foundation"
 slug: your-moat-is-your-data-model-mike-phipps-gates-foundation
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mike Phipps"]
@@ -15,6 +15,7 @@ video_id: jt1Pbr_n6oU
 url: https://www.youtube.com/watch?v=jt1Pbr_n6oU
 youtube_url: https://www.youtube.com/watch?v=jt1Pbr_n6oU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

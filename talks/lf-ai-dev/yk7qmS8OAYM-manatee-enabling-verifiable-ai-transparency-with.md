@@ -4,7 +4,7 @@ title: "ManaTEE: Enabling Verifiable AI Transparency With Confidential Computing
 slug: manatee-enabling-verifiable-ai-transparency-with
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Mateus Guzzo"]
@@ -15,6 +15,7 @@ video_id: yk7qmS8OAYM
 url: https://www.youtube.com/watch?v=yk7qmS8OAYM
 youtube_url: https://www.youtube.com/watch?v=yk7qmS8OAYM
 tags: []
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: false
 ---
 

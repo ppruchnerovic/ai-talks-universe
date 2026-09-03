@@ -4,7 +4,7 @@ title: "QLoRA: Efficient Finetuning of Quantized LLMs | Tim Dettmers"
 slug: qlora-efficient-finetuning-of-quantized-llms-tim-dettmers
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Tim Dettmers"]
@@ -15,6 +15,7 @@ video_id: fQirE9N5q_Y
 url: https://www.youtube.com/watch?v=fQirE9N5q_Y
 youtube_url: https://www.youtube.com/watch?v=fQirE9N5q_Y
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

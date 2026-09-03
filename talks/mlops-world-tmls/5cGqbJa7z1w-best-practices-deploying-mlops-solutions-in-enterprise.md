@@ -4,7 +4,7 @@ title: "Best Practices Deploying MLOps Solutions in Enterprise"
 slug: best-practices-deploying-mlops-solutions-in-enterprise
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5cGqbJa7z1w
 url: https://www.youtube.com/watch?v=5cGqbJa7z1w
 youtube_url: https://www.youtube.com/watch?v=5cGqbJa7z1w
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

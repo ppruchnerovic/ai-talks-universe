@@ -4,7 +4,7 @@ title: "Code Generation in 2024: How AI Will Take Your Job…to the Next Level! 
 slug: code-generation-in-2024-how-ai-will-take-your-job-to-the
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Julien Dubois"]
@@ -15,6 +15,7 @@ video_id: tn6nkZP1iSY
 url: https://www.youtube.com/watch?v=tn6nkZP1iSY
 youtube_url: https://www.youtube.com/watch?v=tn6nkZP1iSY
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

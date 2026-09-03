@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 -How Toyota Built an AI Platform that Revolutionizes 
 slug: aws-re-invent-2025-how-toyota-built-an-ai-platform-that
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: lp_tXtr_aL4
 url: https://www.youtube.com/watch?v=lp_tXtr_aL4
 youtube_url: https://www.youtube.com/watch?v=lp_tXtr_aL4
 tags: []
+topics: []
 transcript: false
 ---
 

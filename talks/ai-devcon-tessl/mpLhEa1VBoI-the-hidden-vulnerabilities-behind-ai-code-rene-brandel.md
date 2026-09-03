@@ -4,7 +4,7 @@ title: "The Hidden Vulnerabilities Behind AI Code | René Brandel"
 slug: the-hidden-vulnerabilities-behind-ai-code-rene-brandel
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["René Brandel"]
@@ -15,6 +15,7 @@ video_id: mpLhEa1VBoI
 url: https://www.youtube.com/watch?v=mpLhEa1VBoI
 youtube_url: https://www.youtube.com/watch?v=mpLhEa1VBoI
 tags: ["ainativedev"]
+topics: ["Coding assistants & agents", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

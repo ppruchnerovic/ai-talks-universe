@@ -4,7 +4,7 @@ title: "Sanja Fidler - World Models for Physical AI Simulation"
 slug: sanja-fidler-world-models-for-physical-ai-simulation
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Sanja Fidler"]
@@ -15,6 +15,7 @@ video_id: _Cg0wAuaQdk
 url: https://www.youtube.com/watch?v=_Cg0wAuaQdk
 youtube_url: https://www.youtube.com/watch?v=_Cg0wAuaQdk
 tags: []
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

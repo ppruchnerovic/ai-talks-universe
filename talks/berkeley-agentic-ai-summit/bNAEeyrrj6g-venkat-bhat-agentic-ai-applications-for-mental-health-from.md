@@ -4,7 +4,7 @@ title: "Venkat Bhat - Agentic AI Applications for Mental Health: From Chatbots t
 slug: venkat-bhat-agentic-ai-applications-for-mental-health-from
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Venkat Bhat"]
@@ -15,6 +15,7 @@ video_id: bNAEeyrrj6g
 url: https://www.youtube.com/watch?v=bNAEeyrrj6g
 youtube_url: https://www.youtube.com/watch?v=bNAEeyrrj6g
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

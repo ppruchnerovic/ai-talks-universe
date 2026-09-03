@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Reimagining Cloud Detection & Response with Agentic
 slug: aws-re-invent-2025-reimagining-cloud-detection-response
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: IPig7Dblxag
 url: https://www.youtube.com/watch?v=IPig7Dblxag
 youtube_url: https://www.youtube.com/watch?v=IPig7Dblxag
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

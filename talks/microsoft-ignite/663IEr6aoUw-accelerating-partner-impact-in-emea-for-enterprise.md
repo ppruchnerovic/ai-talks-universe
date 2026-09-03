@@ -4,7 +4,7 @@ title: "Accelerating Partner Impact in EMEA for Enterprise Customers​ | PBRK43
 slug: accelerating-partner-impact-in-emea-for-enterprise
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["John Butler", "Florian Deter", "Angela Evans", "Ihab Foudeh", "Pavan Ganugapati", "Ahmed Mabrouk"]
@@ -15,6 +15,7 @@ video_id: 663IEr6aoUw
 url: https://www.youtube.com/watch?v=663IEr6aoUw
 youtube_url: https://www.youtube.com/watch?v=663IEr6aoUw
 tags: ["Accelerating Partner Impact in EMEA for Enterprise Customers​ | PBRK436", "Agentic business applications", "Copilot and agents at work", "Innovate with low-code AI and agents", "Microsoft AI Cloud Partner Program", "Migrate and modernize your estate", "Modernize SecOps with a unified platform", "PBRK436", "Protect cloud AI platform and apps", "Secure your data", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

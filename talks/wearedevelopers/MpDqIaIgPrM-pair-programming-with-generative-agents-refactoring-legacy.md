@@ -4,7 +4,7 @@ title: "Pair Programming with Generative Agents: Refactoring Legacy Android at S
 slug: pair-programming-with-generative-agents-refactoring-legacy
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ahmed Tikiwa"]
@@ -15,6 +15,7 @@ video_id: MpDqIaIgPrM
 url: https://www.youtube.com/watch?v=MpDqIaIgPrM
 youtube_url: https://www.youtube.com/watch?v=MpDqIaIgPrM
 tags: ["Frontend, Web & Mobile", "AI Coding Assistants", "AI Models", "Agents", "Agentic AI", "Android", "Best Practices", "Gemini"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "How Forward Deployed Engineering is done at Factory — Eno Reyes"
 slug: how-forward-deployed-engineering-is-done-at-factory-eno
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Eno Reyes"]
@@ -15,6 +15,7 @@ video_id: wpOA-UXynoM
 url: https://www.youtube.com/watch?v=wpOA-UXynoM
 youtube_url: https://www.youtube.com/watch?v=wpOA-UXynoM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

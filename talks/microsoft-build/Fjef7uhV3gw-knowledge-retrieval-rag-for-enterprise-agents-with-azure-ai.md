@@ -4,7 +4,7 @@ title: "Knowledge Retrieval: RAG for enterprise agents with Azure AI Search | BR
 slug: knowledge-retrieval-rag-for-enterprise-agents-with-azure-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Fjef7uhV3gw
 url: https://www.youtube.com/watch?v=Fjef7uhV3gw
 youtube_url: https://www.youtube.com/watch?v=Fjef7uhV3gw
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

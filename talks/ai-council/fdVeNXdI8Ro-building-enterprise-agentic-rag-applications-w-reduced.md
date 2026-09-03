@@ -4,7 +4,7 @@ title: "Building Enterprise Agentic RAG Applications w/ Reduced Hallucinations"
 slug: building-enterprise-agentic-rag-applications-w-reduced
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Ofer Mendelevitch"]
@@ -15,6 +15,7 @@ video_id: fdVeNXdI8Ro
 url: https://www.youtube.com/watch?v=fdVeNXdI8Ro
 youtube_url: https://www.youtube.com/watch?v=fdVeNXdI8Ro
 tags: ["agentic RAG", "enterprise AI", "ChatGPT", "artificial intelligence", "machine learning", "RAG", "AI accuracy", "AI hallucinations", "enterprise AI applications", "AI reliability", "context aware AI assistants", "Python tutorial", "intelligent agents", "autonomous systems", "decision making systems", "workflow automation", "knowledge management", "information retrieval", "contextual understanding", "multi step reasoning", "goal oriented AI"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Building an ML Experimentation Platform for Easy Reproducibility | Treev
 slug: building-an-ml-experimentation-platform-for-easy
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: FLtqcrJ7Vws
 url: https://www.youtube.com/watch?v=FLtqcrJ7Vws
 youtube_url: https://www.youtube.com/watch?v=FLtqcrJ7Vws
 tags: ["data cleaning", "open source", "lakefs", "machine learning"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Python Takes Root in Robotics: ROS 2, Simulation, and Reinforcement Lear
 slug: python-takes-root-in-robotics-ros-2-simulation-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: m0WGHOnAxmA
 url: https://www.youtube.com/watch?v=m0WGHOnAxmA
 youtube_url: https://www.youtube.com/watch?v=m0WGHOnAxmA
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

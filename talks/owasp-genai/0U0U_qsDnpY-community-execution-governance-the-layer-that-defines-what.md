@@ -4,7 +4,7 @@ title: "Community | Execution Governance The Layer That Defines What Agents Cann
 slug: community-execution-governance-the-layer-that-defines-what
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Sergey Vlasov"]
@@ -15,6 +15,7 @@ video_id: 0U0U_qsDnpY
 url: https://www.youtube.com/watch?v=0U0U_qsDnpY
 youtube_url: https://www.youtube.com/watch?v=0U0U_qsDnpY
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

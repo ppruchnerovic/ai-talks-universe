@@ -4,7 +4,7 @@ title: "Foundry Local: Building cutting-edge on-device AI experiences | BRK146"
 slug: foundry-local-building-cutting-edge-on-device-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: TLcyybeF2to
 url: https://www.youtube.com/watch?v=TLcyybeF2to
 youtube_url: https://www.youtube.com/watch?v=TLcyybeF2to
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

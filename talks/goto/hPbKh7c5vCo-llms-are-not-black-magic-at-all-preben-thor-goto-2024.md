@@ -4,7 +4,7 @@ title: "LLMs Are Not Black Magic At All • Preben Thorø • GOTO 2024"
 slug: llms-are-not-black-magic-at-all-preben-thor-goto-2024
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Preben Thorø"]
@@ -15,6 +15,7 @@ video_id: hPbKh7c5vCo
 url: https://www.youtube.com/watch?v=hPbKh7c5vCo
 youtube_url: https://www.youtube.com/watch?v=hPbKh7c5vCo
 tags: []
+topics: []
 transcript: false
 ---
 

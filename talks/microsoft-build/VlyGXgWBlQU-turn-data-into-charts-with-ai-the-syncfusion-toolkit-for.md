@@ -4,7 +4,7 @@ title: "Turn Data into Charts with AI & the Syncfusion Toolkit for .NET MAUI | O
 slug: turn-data-into-charts-with-ai-the-syncfusion-toolkit-for
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: VlyGXgWBlQU
 url: https://www.youtube.com/watch?v=VlyGXgWBlQU
 youtube_url: https://www.youtube.com/watch?v=VlyGXgWBlQU
 tags: []
+topics: []
 transcript: false
 ---
 

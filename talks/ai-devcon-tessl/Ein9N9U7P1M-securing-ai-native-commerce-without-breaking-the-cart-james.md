@@ -4,7 +4,7 @@ title: "​Securing AI-native Commerce Without Breaking the Cart - James Wickett
 slug: securing-ai-native-commerce-without-breaking-the-cart-james
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["James Wickett", "Adam Dyche"]
@@ -15,6 +15,7 @@ video_id: Ein9N9U7P1M
 url: https://www.youtube.com/watch?v=Ein9N9U7P1M
 youtube_url: https://www.youtube.com/watch?v=Ein9N9U7P1M
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

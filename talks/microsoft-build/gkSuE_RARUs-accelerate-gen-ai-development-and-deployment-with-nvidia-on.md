@@ -4,7 +4,7 @@ title: "Accelerate Gen AI development and deployment with NVIDIA on Azure | DEMF
 slug: accelerate-gen-ai-development-and-deployment-with-nvidia-on
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: gkSuE_RARUs
 url: https://www.youtube.com/watch?v=gkSuE_RARUs
 youtube_url: https://www.youtube.com/watch?v=gkSuE_RARUs
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Lightning Talk: Unlock the Future of Generative AI: TorchTitan's Latest.
 slug: lightning-talk-unlock-the-future-of-generative-ai
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Tianyu Liu", "Jiani Wang"]
@@ -15,6 +15,7 @@ video_id: JMbZBI0ypzc
 url: https://www.youtube.com/watch?v=JMbZBI0ypzc
 youtube_url: https://www.youtube.com/watch?v=JMbZBI0ypzc
 tags: []
+topics: []
 transcript: false
 ---
 

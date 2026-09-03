@@ -4,7 +4,7 @@ title: "dotAI 2024 - Gael Varoquaux - Skrub: Less data wrangling, more machine l
 slug: dotai-2024-gael-varoquaux-skrub-less-data-wrangling-more
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Gael Varoquaux"]
@@ -15,6 +15,7 @@ video_id: nU_WaPpnlZA
 url: https://www.youtube.com/watch?v=nU_WaPpnlZA
 youtube_url: https://www.youtube.com/watch?v=nU_WaPpnlZA
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

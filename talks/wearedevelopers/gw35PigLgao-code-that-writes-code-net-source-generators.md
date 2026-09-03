@@ -4,7 +4,7 @@ title: "Code that writes code - .NET Source generators"
 slug: code-that-writes-code-net-source-generators
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Glenn F. Henriksen"]
@@ -15,6 +15,7 @@ video_id: gw35PigLgao
 url: https://www.youtube.com/watch?v=gw35PigLgao
 youtube_url: https://www.youtube.com/watch?v=gw35PigLgao
 tags: ["Languages & Runtimes", "C#", "Clean Code", "Code Generation", ".NET"]
+topics: []
 transcript: true
 ---
 

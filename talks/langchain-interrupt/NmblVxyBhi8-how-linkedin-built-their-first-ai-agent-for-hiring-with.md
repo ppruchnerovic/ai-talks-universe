@@ -4,7 +4,7 @@ title: "How LinkedIn Built Their First AI Agent for Hiring with LangGraph | Lang
 slug: how-linkedin-built-their-first-ai-agent-for-hiring-with
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: NmblVxyBhi8
 url: https://www.youtube.com/watch?v=NmblVxyBhi8
 youtube_url: https://www.youtube.com/watch?v=NmblVxyBhi8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Community | Guardrails First Building AI Agents That Won’t Leak Your S
 slug: community-guardrails-first-building-ai-agents-that-wont
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Ihor Sasovets"]
@@ -15,6 +15,7 @@ video_id: lXK4oGjYWgs
 url: https://www.youtube.com/watch?v=lXK4oGjYWgs
 youtube_url: https://www.youtube.com/watch?v=lXK4oGjYWgs
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

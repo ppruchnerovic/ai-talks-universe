@@ -4,7 +4,7 @@ title: "Why Rust is the Ideal Language for Vibe-Coding — Daniel Szoke, Sentry"
 slug: why-rust-is-the-ideal-language-for-vibe-coding-daniel-szoke
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Daniel Szoke"]
@@ -15,6 +15,7 @@ video_id: ugUeZ8-b-u0
 url: https://www.youtube.com/watch?v=ugUeZ8-b-u0
 youtube_url: https://www.youtube.com/watch?v=ugUeZ8-b-u0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

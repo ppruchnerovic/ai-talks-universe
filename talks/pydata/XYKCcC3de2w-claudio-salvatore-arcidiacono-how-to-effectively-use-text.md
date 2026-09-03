@@ -4,7 +4,7 @@ title: "Claudio Salvatore Arcidiacono-How to Effectively use text embeddings in 
 slug: claudio-salvatore-arcidiacono-how-to-effectively-use-text
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XYKCcC3de2w
 url: https://www.youtube.com/watch?v=XYKCcC3de2w
 youtube_url: https://www.youtube.com/watch?v=XYKCcC3de2w
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

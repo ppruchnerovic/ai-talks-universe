@@ -4,7 +4,7 @@ title: "Building with IBM Bob"
 slug: building-with-ibm-bob
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Maximilian Jesch"]
@@ -15,6 +15,7 @@ video_id: knCF9uZThns
 url: https://www.youtube.com/watch?v=knCF9uZThns
 youtube_url: https://www.youtube.com/watch?v=knCF9uZThns
 tags: ["Developer Experience", "AI Coding Assistants"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

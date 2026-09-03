@@ -4,7 +4,7 @@ title: "Panel: Next Generation Enterprise Agents"
 slug: panel-next-generation-enterprise-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2-LEFdSThY0
 url: https://www.youtube.com/watch?v=2-LEFdSThY0
 youtube_url: https://www.youtube.com/watch?v=2-LEFdSThY0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

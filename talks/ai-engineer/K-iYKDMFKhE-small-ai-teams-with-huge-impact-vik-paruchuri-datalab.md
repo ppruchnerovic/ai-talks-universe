@@ -4,7 +4,7 @@ title: "Small AI Teams with Huge Impact — Vik Paruchuri, Datalab"
 slug: small-ai-teams-with-huge-impact-vik-paruchuri-datalab
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Vik Paruchuri"]
@@ -15,6 +15,7 @@ video_id: K-iYKDMFKhE
 url: https://www.youtube.com/watch?v=K-iYKDMFKhE
 youtube_url: https://www.youtube.com/watch?v=K-iYKDMFKhE
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

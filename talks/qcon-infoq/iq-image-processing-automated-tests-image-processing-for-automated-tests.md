@@ -4,7 +4,7 @@ title: "Image Processing for Automated Tests"
 slug: image-processing-for-automated-tests
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Stefan Dirnstorfer"]
@@ -15,6 +15,7 @@ video_id: iq-image-processing-automated-tests
 url: https://www.infoq.com/presentations/image-processing-automated-tests/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

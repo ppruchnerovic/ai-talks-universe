@@ -4,7 +4,7 @@ title: "Everything Is a Rollout — Alex Shaw + Ryan Marten, Terminal-Bench, Har
 slug: everything-is-a-rollout-alex-shaw-ryan-marten-terminal
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Alex Shaw", "Ryan Marten"]
@@ -15,6 +15,7 @@ video_id: jRCpXUjz4CI
 url: https://www.youtube.com/watch?v=jRCpXUjz4CI
 youtube_url: https://www.youtube.com/watch?v=jRCpXUjz4CI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

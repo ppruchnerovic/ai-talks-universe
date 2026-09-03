@@ -4,7 +4,7 @@ title: "Visual Studio Code for IT pros who like sleep | BRK111"
 slug: visual-studio-code-for-it-pros-who-like-sleep-brk111
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Liam Hampton"]
@@ -15,6 +15,7 @@ video_id: 3K9kKLMU9rs
 url: https://www.youtube.com/watch?v=3K9kKLMU9rs
 youtube_url: https://www.youtube.com/watch?v=3K9kKLMU9rs
 tags: ["BRK111", "English (US)", "Innovate with Azure AI apps and agents", "Liam Hampton", "Technical", "Visual Studio Code for IT pros who like sleep | BRK111", "f5n1", "fa682b7f-3743-43a6-b10d-e17520f555c7_Segment", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

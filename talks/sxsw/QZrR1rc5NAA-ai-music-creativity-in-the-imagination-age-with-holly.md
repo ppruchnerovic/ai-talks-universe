@@ -4,7 +4,7 @@ title: "AI, Music & Creativity in the Imagination Age with Holly Herndon"
 slug: ai-music-creativity-in-the-imagination-age-with-holly
 conference: sxsw
 conference_name: "SXSW"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "SXSW 2025 keynotes & featured"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: QZrR1rc5NAA
 url: https://www.youtube.com/watch?v=QZrR1rc5NAA
 youtube_url: https://www.youtube.com/watch?v=QZrR1rc5NAA
 tags: []
+topics: []
 transcript: false
 ---
 

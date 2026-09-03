@@ -4,7 +4,7 @@ title: "Evaluating AI Search: A Practical Framework for Augmented AI Systems —
 slug: evaluating-ai-search-a-practical-framework-for-augmented-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: wRJD0inpmjU
 url: https://www.youtube.com/watch?v=wRJD0inpmjU
 youtube_url: https://www.youtube.com/watch?v=wRJD0inpmjU
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Evals, observability & reliability", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

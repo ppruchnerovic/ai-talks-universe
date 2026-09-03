@@ -4,7 +4,7 @@ title: "Wired 2.0! Create your ultimate learning environment by Simone de Gijt"
 slug: wired-2-0-create-your-ultimate-learning-environment-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Simone de Gijt"]
@@ -15,6 +15,7 @@ video_id: vAbGZuQAX9c
 url: https://www.youtube.com/watch?v=vAbGZuQAX9c
 youtube_url: https://www.youtube.com/watch?v=vAbGZuQAX9c
 tags: []
+topics: []
 transcript: false
 ---
 

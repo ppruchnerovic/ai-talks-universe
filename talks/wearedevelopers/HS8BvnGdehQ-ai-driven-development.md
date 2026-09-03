@@ -4,7 +4,7 @@ title: "AI Driven Development"
 slug: ai-driven-development
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["David Tielke"]
@@ -15,6 +15,7 @@ video_id: HS8BvnGdehQ
 url: https://www.youtube.com/watch?v=HS8BvnGdehQ
 youtube_url: https://www.youtube.com/watch?v=HS8BvnGdehQ
 tags: ["Developer Experience", "AI Coding Assistants", "AI Models", "Anthropic", "Agents", "Agentic AI", "Code Generation", "Innovation", "OpenAI"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

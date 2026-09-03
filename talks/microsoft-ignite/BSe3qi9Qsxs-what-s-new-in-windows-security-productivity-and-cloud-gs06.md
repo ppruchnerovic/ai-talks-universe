@@ -4,7 +4,7 @@ title: "What's New in Windows Security Productivity and Cloud | GS06"
 slug: what-s-new-in-windows-security-productivity-and-cloud-gs06
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Pavan Davuluri", "Aidan Marcuss", "Navjot Virk"]
@@ -15,6 +15,7 @@ video_id: BSe3qi9Qsxs
 url: https://www.youtube.com/watch?v=BSe3qi9Qsxs
 youtube_url: https://www.youtube.com/watch?v=BSe3qi9Qsxs
 tags: ["Aidan Marcuss", "David DWIZZZLE Weston", "English (US)", "GS06", "General Session", "Navjot Virk", "Partner Business", "Pavan Davuluri", "Technical", "Version v1", "What's New in Windows Security Productivity and Cloud | GS06", "Windows", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

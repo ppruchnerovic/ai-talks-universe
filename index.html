@@ -118,9 +118,15 @@
   .b.conf:hover { border-color: var(--accent-line); }
   .b.tag { cursor: pointer; }
   .b.tag:hover { border-color: var(--accent-line); color: var(--accent); }
-  .b.tag:focus-visible, .b.conf:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
-  .b.together { background: var(--accent-soft); color: var(--accent); }
+    .b.together { background: var(--accent-soft); color: var(--accent); }
   .b.deep { font-style: italic; }
+  /* A topic chip sets the Topic filter, the way the conference badge sets its
+     filter; a tag chip runs a search. Outlined rather than filled, so the two
+     kinds of chip read differently. */
+  .b.topic { cursor: pointer; background: none; border-color: var(--border); color: var(--muted); }
+  .b.topic:hover { border-color: var(--accent-line); color: var(--accent); }
+  .b.tag:focus-visible, .b.conf:focus-visible, .b.topic:focus-visible {
+    outline: 2px solid var(--accent); outline-offset: 2px; }
   .absw { margin-bottom: 13px; }
   .abs { font-size: 0.9rem; color: var(--muted); white-space: pre-wrap; }
   /* Collapsed to a few lines; the button below only appears when there is
@@ -185,7 +191,8 @@
       <code>-kubernetes</code>, <code>rust OR zig</code>, <code>kube*</code>.</p>
     <div class="filters">
       <select id="f-conf" aria-label="Filter by conference"><option value="">All conferences</option></select>
-      <select id="f-cat" aria-label="Filter by category"><option value="">All categories</option></select>
+      <select id="f-cat" aria-label="Filter by conference type"><option value="">All conference types</option></select>
+      <select id="f-topic" aria-label="Filter by topic"><option value="">All topics</option></select>
       <select id="f-year" aria-label="Filter by year"><option value="">All years</option></select>
       <select id="f-len" aria-label="Filter by length">
         <option value="">Any length</option>
@@ -245,9 +252,11 @@ const el = { q: $('#q'), res: $('#results'), status: $('#status'), sub: $('#sub'
 //   i  dense index (also the key used by the transcript postings)
 //   v  YouTube video id      t  title            d  description (clipped)
 //   s  speakers              c  conference name  cs conference slug
-//   g  category              e  edition          y  year
+//   g  conference type (the registry `category`)   e  edition   y  year
 //   m  duration in minutes   a  tags             p  published_at
 //   u  conference site       w  transcript word count (0 = not fetched)
+//   k  topics — the per-talk facet, as indices into the file's `topics`
+//      list; absent when the talk has none. Resolved to names at boot.
 //   l  the talk's own page, only when there is no YouTube video to link
 //   x  1 when the transcript's timings are interpolated, not measured
 //   lg the transcript's language code, only when it is not "en"
@@ -414,8 +423,10 @@ async function boot() {
   MANIFEST = manifest;
   if (MANIFEST) STOP = new Set(MANIFEST.stopwords);
   TALKS = meta.talks;
+  const TOPIC_NAMES = meta.topics || [];
   TALKS.forEach(t => {
     BY_N.set(t.i, t);
+    t.k = (t.k || []).map(i => TOPIC_NAMES[i]).filter(Boolean);
     t._hay = [t.t, t.d, (t.a || []).join(' '), (t.s || []).join(' '), t.c, t.e]
       .join('   ').toLowerCase();
     // Per-field token sets. Matching on tokens rather than raw substrings is what
@@ -425,7 +436,9 @@ async function boot() {
       tags:       new Set(tokenize((t.a || []).join(' '))),
       speakers:   new Set(tokenize((t.s || []).join(' '))),
       conference: new Set(tokenize(`${t.c || ''} ${t.e || ''}`)),
-      category:   new Set(tokenize(t.g || '')),
+      // The conference type (t.g) is a filter, never a field: a venue label is
+      // not evidence about a talk, and scoring it made "security" match every
+      // talk at ten security conferences. Topics stay out for the same reason.
     };
     // The description's terms live in the shards, whole; what this file
     // carries is a clip for display. Only without an index at all is the clip
@@ -483,6 +496,10 @@ function fillFilters() {
     .forEach(([slug, name]) => $('#f-conf').add(opt(name, slug)));
   [...new Set(TALKS.map(t => t.g).filter(Boolean))].sort()
     .forEach(v => $('#f-cat').add(opt(v, v)));
+  // Topics are multi-valued, so the options are the union of every talk's
+  // list — and, unlike the conference type, a talk may match several of them.
+  [...new Set(TALKS.flatMap(t => t.k || []))].sort()
+    .forEach(v => $('#f-topic').add(opt(v, v)));
   [...new Set(TALKS.map(t => t.y).filter(Boolean))].sort((a, b) => b - a)
     .forEach(v => $('#f-year').add(opt(String(v), v)));
   for (const o of $('#f-len').options) o.dataset.name = o.textContent;
@@ -514,7 +531,7 @@ async function loadShards(terms) {
 const shardOf = term => SHARDS.get(shardKeyOf(term));
 
 // ---------- scoring ----------
-const W = { title: 9, tags: 5, speakers: 4, conference: 3, category: 2, abstract: 2 };
+const W = { title: 9, tags: 5, speakers: 4, conference: 3, abstract: 2 };
 
 // Talks whose metadata says the term, description included when the shard
 // for it has loaded — and it has, by the time anything is scored.
@@ -906,6 +923,8 @@ function card(hit, q) {
     deepMatch(hit) ? `<span class="b deep" title="A query word appears in the description beyond the clip shown here">also matches in the full description</span>` : '',
     // Buttons rather than styled spans: a chip that runs a search has to be
     // reachable by keyboard, not only by mouse.
+    ...(t.k || []).map(x =>
+      `<button type="button" class="b topic" data-topic="${esc(x)}">${esc(x)}</button>`),
     ...(t.a || []).slice(0, 6).map(x =>
       `<button type="button" class="b tag" data-tag="${esc(x)}">#${esc(x)}</button>`)
   ].join('');
@@ -966,10 +985,12 @@ function filterFn(skip) {
   // nothing: "year:1999" must not quietly show every year.
   const fc = $('#f-conf').value || qSet.conf || '', fg = $('#f-cat').value;
   const fy = $('#f-year').value || qSet.year || '', fl = $('#f-len').value;
+  const fk = $('#f-topic').value;
   const spk = el.spk.value.trim().toLowerCase();
   const trOnly = !$('#f-tr').hidden && $('#f-tr').classList.contains('on');
   return h => (skip === 'conf' || !fc || h.t.cs === fc) &&
               (skip === 'cat' || !fg || h.t.g === fg) &&
+              (skip === 'topic' || !fk || (h.t.k || []).includes(fk)) &&
               (skip === 'year' || !fy || String(h.t.y) === fy) &&
               (skip === 'len' || !fl || (h.t.m > 0 && LEN[fl](h.t.m))) &&
               (!spk || (h.t.s || []).some(x => x.toLowerCase().includes(spk))) &&
@@ -977,11 +998,14 @@ function filterFn(skip) {
 }
 
 function facetCounts(hits) {
-  for (const [dim, id, key] of [['conf', 'f-conf', t => t.cs], ['cat', 'f-cat', t => t.g],
-                                ['year', 'f-year', t => String(t.y)],
-                                ['len', 'f-len', t => t.m > 0 && Object.keys(LEN).find(k => LEN[k](t.m))]]) {
+  // Each key function returns the values a talk counts under: one for the
+  // single-valued facets, every topic a talk carries for the multi-valued one.
+  for (const [dim, id, keys] of [['conf', 'f-conf', t => [t.cs]], ['cat', 'f-cat', t => [t.g]],
+                                 ['topic', 'f-topic', t => t.k || []],
+                                 ['year', 'f-year', t => [String(t.y)]],
+                                 ['len', 'f-len', t => [t.m > 0 && Object.keys(LEN).find(k => LEN[k](t.m))]]]) {
     const n = new Map();
-    for (const h of hits.filter(filterFn(dim))) { const k = key(h.t); n.set(k, (n.get(k) || 0) + 1); }
+    for (const h of hits.filter(filterFn(dim))) for (const k of keys(h.t)) n.set(k, (n.get(k) || 0) + 1);
     // Labels only: the values are what the hash and the tests read.
     for (const o of $('#' + id).options) {
       if (o.value) o.textContent = `${o.dataset.name} (${(n.get(o.value) || 0).toLocaleString()})`;
@@ -1165,7 +1189,7 @@ async function run() {
 
 el.q.addEventListener('input', () => { shown = PAGE; clearTimeout(timer); timer = setTimeout(run, 140); });
 el.spk.addEventListener('input', () => { shown = PAGE; clearTimeout(timer); timer = setTimeout(run, 140); });
-['f-conf', 'f-cat', 'f-year', 'f-len', 'f-sort'].forEach(id =>
+['f-conf', 'f-cat', 'f-topic', 'f-year', 'f-len', 'f-sort'].forEach(id =>
   $('#' + id).addEventListener('change', () => { shown = PAGE; run(); }));
 // "Newest first" is remembered; any other choice forgets it.
 $('#f-sort').addEventListener('change', e => prefSet(e.target.value === 'new' ? 'new' : null));
@@ -1174,7 +1198,7 @@ $('#f-sort').addEventListener('change', e => prefSet(e.target.value === 'new' ? 
 }));
 $('#clear').addEventListener('click', () => {
   el.q.value = ''; el.spk.value = '';
-  ['f-conf', 'f-cat', 'f-year', 'f-len'].forEach(id => $('#' + id).value = '');
+  ['f-conf', 'f-cat', 'f-topic', 'f-year', 'f-len'].forEach(id => $('#' + id).value = '');
   $('#f-sort').value = 'rel'; prefSet(null);
   ['f-tr', 'f-spoken'].forEach(id => $('#' + id).classList.remove('on'));
   shown = PAGE; run();
@@ -1192,6 +1216,11 @@ el.res.addEventListener('click', async e => {
   const conf = e.target.closest('.conf');
   if (conf) {
     $('#f-conf').value = conf.dataset.conf; shown = PAGE; run();
+    window.scrollTo({ top: 0, behavior: 'smooth' }); return;
+  }
+  const topic = e.target.closest('.topic');
+  if (topic) {
+    $('#f-topic').value = topic.dataset.topic; shown = PAGE; run();
     window.scrollTo({ top: 0, behavior: 'smooth' }); return;
   }
   const tag = e.target.closest('.tag');
@@ -1249,7 +1278,7 @@ const LENS = ['', ...Object.keys(LEN)];
 function writeHash() {
   const p = new URLSearchParams();
   if (el.q.value.trim()) p.set('q', el.q.value.trim());
-  [['conf', 'f-conf'], ['cat', 'f-cat'], ['year', 'f-year'], ['len', 'f-len']].forEach(([k, id]) => {
+  [['conf', 'f-conf'], ['cat', 'f-cat'], ['topic', 'f-topic'], ['year', 'f-year'], ['len', 'f-len']].forEach(([k, id]) => {
     if ($('#' + id).value) p.set(k, $('#' + id).value);
   });
   if (el.spk.value.trim()) p.set('spk', el.spk.value.trim());
@@ -1264,6 +1293,7 @@ function readHash() {
   el.q.value = p.get('q') || '';
   if (p.get('conf')) $('#f-conf').value = p.get('conf');
   if (p.get('cat')) $('#f-cat').value = p.get('cat');
+  if (p.get('topic')) $('#f-topic').value = p.get('topic');
   if (p.get('year')) $('#f-year').value = p.get('year');
   if (LENS.includes(p.get('len'))) $('#f-len').value = p.get('len');
   el.spk.value = p.get('spk') || '';

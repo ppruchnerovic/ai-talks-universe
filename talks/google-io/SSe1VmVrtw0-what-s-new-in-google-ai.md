@@ -4,7 +4,7 @@ title: "What's new in Google AI"
 slug: what-s-new-in-google-ai
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Paige Bailey", "Ammaar Reshi", "Josh Gordon"]
@@ -15,6 +15,7 @@ video_id: SSe1VmVrtw0
 url: https://www.youtube.com/watch?v=SSe1VmVrtw0
 youtube_url: https://www.youtube.com/watch?v=SSe1VmVrtw0
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - AI PA Keynote;", "ct:Stack - AI;"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

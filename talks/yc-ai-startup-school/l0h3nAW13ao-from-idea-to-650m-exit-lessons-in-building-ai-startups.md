@@ -4,7 +4,7 @@ title: "From Idea to $650M Exit: Lessons in Building AI Startups"
 slug: from-idea-to-650m-exit-lessons-in-building-ai-startups
 conference: yc-ai-startup-school
 conference_name: "Y Combinator AI Startup School"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Startup School 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: l0h3nAW13ao
 url: https://www.youtube.com/watch?v=l0h3nAW13ao
 youtube_url: https://www.youtube.com/watch?v=l0h3nAW13ao
 tags: ["YC", "Y Combinator"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Ken Obata - Beyond Spark MLlib: Deduplicating Common Crawl at Scale | Py
 slug: ken-obata-beyond-spark-mllib-deduplicating-common-crawl-at
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Ken Obata"]
@@ -15,6 +15,7 @@ video_id: LkBvaesVeYo
 url: https://www.youtube.com/watch?v=LkBvaesVeYo
 youtube_url: https://www.youtube.com/watch?v=LkBvaesVeYo
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "USENIX Security '25 - GPUHammer: Rowhammer Attacks on GPU Memories are P
 slug: usenix-security-25-gpuhammer-rowhammer-attacks-on-gpu
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: KpRmVMTS3b0
 url: https://www.youtube.com/watch?v=KpRmVMTS3b0
 youtube_url: https://www.youtube.com/watch?v=KpRmVMTS3b0
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

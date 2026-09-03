@@ -4,7 +4,7 @@ title: "Beyond Conversation: Why Documents Transform Natural Language into Code 
 slug: beyond-conversation-why-documents-transform-natural
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Filip Kozera"]
@@ -15,6 +15,7 @@ video_id: 2Jom-4Brg6Q
 url: https://www.youtube.com/watch?v=2Jom-4Brg6Q
 youtube_url: https://www.youtube.com/watch?v=2Jom-4Brg6Q
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Deeptech Commercialization | Moritz von der Linden (Marvel Fusion)"
 slug: deeptech-commercialization-moritz-von-der-linden-marvel
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Deeptech Commercialization", "Moritz von der Linden"]
@@ -15,6 +15,7 @@ video_id: hv5aJJbNv5I
 url: https://www.youtube.com/watch?v=hv5aJJbNv5I
 youtube_url: https://www.youtube.com/watch?v=hv5aJJbNv5I
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

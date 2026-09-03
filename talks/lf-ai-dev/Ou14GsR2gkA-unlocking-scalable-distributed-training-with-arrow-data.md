@@ -4,7 +4,7 @@ title: "Unlocking Scalable Distributed Training With Arrow Data Cache on Kuberne
 slug: unlocking-scalable-distributed-training-with-arrow-data
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Ricardo Aravena"]
@@ -15,6 +15,7 @@ video_id: Ou14GsR2gkA
 url: https://www.youtube.com/watch?v=Ou14GsR2gkA
 youtube_url: https://www.youtube.com/watch?v=Ou14GsR2gkA
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

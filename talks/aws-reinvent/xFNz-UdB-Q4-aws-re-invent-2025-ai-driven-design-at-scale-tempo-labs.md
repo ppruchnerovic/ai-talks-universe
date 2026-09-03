@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - AI-Driven Design at Scale: Tempo Labs' Move to AWS 
 slug: aws-re-invent-2025-ai-driven-design-at-scale-tempo-labs
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xFNz-UdB-Q4
 url: https://www.youtube.com/watch?v=xFNz-UdB-Q4
 youtube_url: https://www.youtube.com/watch?v=xFNz-UdB-Q4
 tags: []
+topics: []
 transcript: false
 ---
 

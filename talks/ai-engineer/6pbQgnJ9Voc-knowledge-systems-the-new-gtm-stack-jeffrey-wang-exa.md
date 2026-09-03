@@ -4,7 +4,7 @@ title: "Knowledge Systems: The New GTM Stack — Jeffrey Wang, Exa"
 slug: knowledge-systems-the-new-gtm-stack-jeffrey-wang-exa
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jeffrey Wang"]
@@ -15,6 +15,7 @@ video_id: 6pbQgnJ9Voc
 url: https://www.youtube.com/watch?v=6pbQgnJ9Voc
 youtube_url: https://www.youtube.com/watch?v=6pbQgnJ9Voc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

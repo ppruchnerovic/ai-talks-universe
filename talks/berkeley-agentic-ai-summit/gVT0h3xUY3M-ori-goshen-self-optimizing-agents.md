@@ -4,7 +4,7 @@ title: "Ori Goshen - Self Optimizing Agents"
 slug: ori-goshen-self-optimizing-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Ori Goshen"]
@@ -15,6 +15,7 @@ video_id: gVT0h3xUY3M
 url: https://www.youtube.com/watch?v=gVT0h3xUY3M
 youtube_url: https://www.youtube.com/watch?v=gVT0h3xUY3M
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

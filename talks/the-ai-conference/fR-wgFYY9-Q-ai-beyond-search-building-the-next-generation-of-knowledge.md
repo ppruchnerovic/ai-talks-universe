@@ -4,7 +4,7 @@ title: "AI Beyond Search: Building the Next Generation of Knowledge, Assistants,
 slug: ai-beyond-search-building-the-next-generation-of-knowledge
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: fR-wgFYY9-Q
 url: https://www.youtube.com/watch?v=fR-wgFYY9-Q
 youtube_url: https://www.youtube.com/watch?v=fR-wgFYY9-Q
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

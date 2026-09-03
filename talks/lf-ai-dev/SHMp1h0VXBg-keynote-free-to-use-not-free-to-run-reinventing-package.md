@@ -4,7 +4,7 @@ title: "Keynote: Free to Use, Not Free to Run: Reinventing Package Registries - 
 slug: keynote-free-to-use-not-free-to-run-reinventing-package
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Robin Bender Ginn"]
@@ -15,6 +15,7 @@ video_id: SHMp1h0VXBg
 url: https://www.youtube.com/watch?v=SHMp1h0VXBg
 youtube_url: https://www.youtube.com/watch?v=SHMp1h0VXBg
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

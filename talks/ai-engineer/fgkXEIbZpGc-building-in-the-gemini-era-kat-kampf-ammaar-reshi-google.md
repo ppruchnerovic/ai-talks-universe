@@ -4,7 +4,7 @@ title: "Building in the Gemini Era – Kat Kampf & Ammaar Reshi, Google DeepMind
 slug: building-in-the-gemini-era-kat-kampf-ammaar-reshi-google
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kat Kampf", "Ammaar Reshi"]
@@ -15,6 +15,7 @@ video_id: fgkXEIbZpGc
 url: https://www.youtube.com/watch?v=fgkXEIbZpGc
 youtube_url: https://www.youtube.com/watch?v=fgkXEIbZpGc
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

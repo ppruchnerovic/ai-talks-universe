@@ -4,7 +4,7 @@ title: "Backlog.md: Terminal Kanban Board for Managing Tasks with AI Agents — 
 slug: backlog-md-terminal-kanban-board-for-managing-tasks-with-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Alex Gavrilescu"]
@@ -15,6 +15,7 @@ video_id: zMXKhhwiCIc
 url: https://www.youtube.com/watch?v=zMXKhhwiCIc
 youtube_url: https://www.youtube.com/watch?v=zMXKhhwiCIc
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

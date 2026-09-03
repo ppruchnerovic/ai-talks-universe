@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Ankit Mathur: The Coding Agent Multiverse of Madness"
 slug: ai-dev-26-x-sf-ankit-mathur-the-coding-agent-multiverse-of
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: bDIB8jrNhHc
 url: https://www.youtube.com/watch?v=bDIB8jrNhHc
 youtube_url: https://www.youtube.com/watch?v=bDIB8jrNhHc
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "End-to-End MLOps for Computer Vision"
 slug: end-to-end-mlops-for-computer-vision
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: uCVbE4Ub1-w
 url: https://www.youtube.com/watch?v=uCVbE4Ub1-w
 youtube_url: https://www.youtube.com/watch?v=uCVbE4Ub1-w
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

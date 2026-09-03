@@ -4,7 +4,7 @@ title: "What Most Enterprises Get WRONG About RAG & AI Agents"
 slug: what-most-enterprises-get-wrong-about-rag-ai-agents
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: eHw3O-yIZw4
 url: https://www.youtube.com/watch?v=eHw3O-yIZw4
 youtube_url: https://www.youtube.com/watch?v=eHw3O-yIZw4
 tags: ["QCon AI", "InfoQ", "Transcript", "Graph RAG", "Knowledge Graphs", "AI workflows", "Large language models", "Artificial Intelligence"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

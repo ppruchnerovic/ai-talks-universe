@@ -4,7 +4,7 @@ title: "How AI Erased the Software Implementation Bottleneck (90% Shipped Code)"
 slug: how-ai-erased-the-software-implementation-bottleneck-90
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: XqzMDWm95CM
 url: https://www.youtube.com/watch?v=XqzMDWm95CM
 youtube_url: https://www.youtube.com/watch?v=XqzMDWm95CM
 tags: ["QCon San Francisco", "InfoQ", "Transcript", "Claude Code", "Software Development Life Cycle", "AI", "Artificial Intelligence", "Software Development", "Anthropic", "AI Coding"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 

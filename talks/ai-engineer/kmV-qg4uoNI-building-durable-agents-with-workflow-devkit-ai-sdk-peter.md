@@ -4,7 +4,7 @@ title: "Building durable Agents with Workflow DevKit & AI SDK - Peter Wielander,
 slug: building-durable-agents-with-workflow-devkit-ai-sdk-peter
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Peter Wielander"]
@@ -15,6 +15,7 @@ video_id: kmV-qg4uoNI
 url: https://www.youtube.com/watch?v=kmV-qg4uoNI
 youtube_url: https://www.youtube.com/watch?v=kmV-qg4uoNI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

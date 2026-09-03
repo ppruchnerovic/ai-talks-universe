@@ -4,7 +4,7 @@ title: "AI at the Speed of Thought: Lin Qiao (Fireworks) and Renen Hallak (VAST 
 slug: ai-at-the-speed-of-thought-lin-qiao-fireworks-and-renen
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: KkBjQH09LUs
 url: https://www.youtube.com/watch?v=KkBjQH09LUs
 youtube_url: https://www.youtube.com/watch?v=KkBjQH09LUs
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

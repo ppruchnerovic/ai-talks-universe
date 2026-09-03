@@ -4,7 +4,7 @@ title: "AI Software Bill of Materials: From the EU AI Act to Your MLOps - Adrian
 slug: ai-software-bill-of-materials-from-the-eu-ai-act-to-your
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Adrian Gonzalez Sanchez"]
@@ -15,6 +15,7 @@ video_id: 0-VGjO10_V4
 url: https://www.youtube.com/watch?v=0-VGjO10_V4
 youtube_url: https://www.youtube.com/watch?v=0-VGjO10_V4
 tags: []
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "[Session] Why Clients Matter: The Other Side of MCP"
 slug: session-why-clients-matter-the-other-side-of-mcp
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: VkHi8-KANOY
 url: https://www.youtube.com/watch?v=VkHi8-KANOY
 youtube_url: https://www.youtube.com/watch?v=VkHi8-KANOY
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

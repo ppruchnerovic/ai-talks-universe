@@ -4,7 +4,7 @@ title: "How to query data using natural language - intro to AI features in Oracl
 slug: how-to-query-data-using-natural-language-intro-to-ai
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Andrzej Nowicki"]
@@ -15,6 +15,7 @@ video_id: yr1_Iw35p5s
 url: https://www.youtube.com/watch?v=yr1_Iw35p5s
 youtube_url: https://www.youtube.com/watch?v=yr1_Iw35p5s
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

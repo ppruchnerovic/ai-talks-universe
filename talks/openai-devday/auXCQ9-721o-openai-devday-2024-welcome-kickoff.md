@@ -4,7 +4,7 @@ title: "OpenAI DevDay 2024 | Welcome + kickoff"
 slug: openai-devday-2024-welcome-kickoff
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: auXCQ9-721o
 url: https://www.youtube.com/watch?v=auXCQ9-721o
 youtube_url: https://www.youtube.com/watch?v=auXCQ9-721o
 tags: []
+topics: []
 transcript: false
 ---
 

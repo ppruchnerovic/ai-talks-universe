@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Manchester Airports Group: Scaling operations with 
 slug: aws-re-invent-2025-manchester-airports-group-scaling
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: G6UTse7QGNU
 url: https://www.youtube.com/watch?v=G6UTse7QGNU
 youtube_url: https://www.youtube.com/watch?v=G6UTse7QGNU
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

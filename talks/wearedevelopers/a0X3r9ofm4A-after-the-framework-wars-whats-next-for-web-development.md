@@ -4,7 +4,7 @@ title: "After the Framework Wars: What’s Next for Web Development"
 slug: after-the-framework-wars-whats-next-for-web-development
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Edith Harbaugh", "Seth Webster", "Victor Savkin", "Francesco Ciulla"]
@@ -15,6 +15,7 @@ video_id: a0X3r9ofm4A
 url: https://www.youtube.com/watch?v=a0X3r9ofm4A
 youtube_url: https://www.youtube.com/watch?v=a0X3r9ofm4A
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

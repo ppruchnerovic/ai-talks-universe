@@ -4,7 +4,7 @@ title: "Platform Engineering • Ajay Chankramath & Nic Cheneweth • GOTO 2026"
 slug: platform-engineering-ajay-chankramath-nic-cheneweth-goto
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Ajay Chankramath", "Nic Cheneweth"]
@@ -15,6 +15,7 @@ video_id: gLMe85XyXhI
 url: https://www.youtube.com/watch?v=gLMe85XyXhI
 youtube_url: https://www.youtube.com/watch?v=gLMe85XyXhI
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "Platform Engineering", "Ajay Chankramath", "Nic Cheneweth", "DORA Report", "Backstage", "Spotify Backstage", "Kubernetes", "Platform Teams", "Platform-as-a-Service", "DevOps", "Control Planes", "API-first"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

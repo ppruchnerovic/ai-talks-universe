@@ -4,7 +4,7 @@ title: "Panel: Protecting the Software... Jennifer Mulford, Ryo Sugahara, Mihir 
 slug: panel-protecting-the-software-jennifer-mulford-ryo-sugahara
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Oh3MaO-Z-4w
 url: https://www.youtube.com/watch?v=Oh3MaO-Z-4w
 youtube_url: https://www.youtube.com/watch?v=Oh3MaO-Z-4w
 tags: []
+topics: []
 transcript: true
 ---
 

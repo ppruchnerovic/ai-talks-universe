@@ -4,7 +4,7 @@ title: "Panel: Taking Architecture out of the Echo Chamber"
 slug: panel-taking-architecture-out-of-the-echo-chamber
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Andrew Harmel-Law", "Cat Morris", "Diana Montalion", "Shana Dacres-Lawrence", "Vanessa Formicola", "Elena Stojmilova", "Peter Hunter"]
@@ -15,6 +15,7 @@ video_id: iq-panel-complexity-architecture
 url: https://www.infoq.com/presentations/panel-complexity-architecture/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

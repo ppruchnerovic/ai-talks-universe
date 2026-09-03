@@ -4,7 +4,7 @@ title: "Running Ray in Production: Google’s Guide to Operators & Observability
 slug: running-ray-in-production-googles-guide-to-operators
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: SUEBH-0oi-A
 url: https://www.youtube.com/watch?v=SUEBH-0oi-A
 youtube_url: https://www.youtube.com/watch?v=SUEBH-0oi-A
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

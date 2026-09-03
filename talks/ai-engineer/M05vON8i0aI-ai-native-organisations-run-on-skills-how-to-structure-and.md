@@ -4,7 +4,7 @@ title: "AI-Native Organisations Run on Skills: How to Structure and Scale Them â
 slug: ai-native-organisations-run-on-skills-how-to-structure-and
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Imad Touil"]
@@ -15,6 +15,7 @@ video_id: M05vON8i0aI
 url: https://www.youtube.com/watch?v=M05vON8i0aI
 youtube_url: https://www.youtube.com/watch?v=M05vON8i0aI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

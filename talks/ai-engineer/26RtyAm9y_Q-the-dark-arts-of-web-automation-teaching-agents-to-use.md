@@ -4,7 +4,7 @@ title: "The Dark Arts of Web Automation: Teaching Agents to Use Websites Like Hu
 slug: the-dark-arts-of-web-automation-teaching-agents-to-use
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Corey Gallon"]
@@ -15,6 +15,7 @@ video_id: 26RtyAm9y_Q
 url: https://www.youtube.com/watch?v=26RtyAm9y_Q
 youtube_url: https://www.youtube.com/watch?v=26RtyAm9y_Q
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

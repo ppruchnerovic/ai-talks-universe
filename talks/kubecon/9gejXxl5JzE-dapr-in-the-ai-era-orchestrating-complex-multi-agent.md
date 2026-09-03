@@ -4,7 +4,7 @@ title: "Dapr in the AI Era: Orchestrating Complex Multi-agent Workflows With Aut
 slug: dapr-in-the-ai-era-orchestrating-complex-multi-agent
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9gejXxl5JzE
 url: https://www.youtube.com/watch?v=9gejXxl5JzE
 youtube_url: https://www.youtube.com/watch?v=9gejXxl5JzE
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

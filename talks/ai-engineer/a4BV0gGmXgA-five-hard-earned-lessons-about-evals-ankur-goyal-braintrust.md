@@ -4,7 +4,7 @@ title: "Five hard earned lessons about Evals — Ankur Goyal, Braintrust"
 slug: five-hard-earned-lessons-about-evals-ankur-goyal-braintrust
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ankur Goyal"]
@@ -15,6 +15,7 @@ video_id: a4BV0gGmXgA
 url: https://www.youtube.com/watch?v=a4BV0gGmXgA
 youtube_url: https://www.youtube.com/watch?v=a4BV0gGmXgA
 tags: []
+topics: ["Evals, observability & reliability", "Prompting & context engineering"]
 transcript: false
 ---
 

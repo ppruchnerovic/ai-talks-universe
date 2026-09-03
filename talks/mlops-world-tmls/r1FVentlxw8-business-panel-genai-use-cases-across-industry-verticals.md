@@ -4,7 +4,7 @@ title: "Business Panel: GenAI Use-cases Across Industry Verticals. Early Trends 
 slug: business-panel-genai-use-cases-across-industry-verticals
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: r1FVentlxw8
 url: https://www.youtube.com/watch?v=r1FVentlxw8
 youtube_url: https://www.youtube.com/watch?v=r1FVentlxw8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Living off Microsoft Copilot"
 slug: living-off-microsoft-copilot
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: FH6P288i2PE
 url: https://www.youtube.com/watch?v=FH6P288i2PE
 youtube_url: https://www.youtube.com/watch?v=FH6P288i2PE
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

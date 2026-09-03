@@ -4,7 +4,7 @@ title: "Snowflake Summit 2026 Builder Keynote"
 slug: snowflake-summit-2026-builder-keynote
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: WFR07HIvCrQ
 url: https://www.youtube.com/watch?v=WFR07HIvCrQ
 youtube_url: https://www.youtube.com/watch?v=WFR07HIvCrQ
 tags: ["Snowflake", "Snowflake data warehouse", "Snowflake computing", "Snowflake company", "Snowflake database", "Snowflake cloud", "Data warehouse", "Business software", "Data warehousing", "Cloud storage", "cloud computing", "Data Science", "Data Engineering", "The Data Cloud", "big data", "artificial intelligence", "data scientist", "predictive analytics", "business intelligence", "data economy", "Data driven economy", "Data cloud", "data lake", "Data Warehouse"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

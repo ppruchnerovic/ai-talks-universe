@@ -4,7 +4,7 @@ title: "Your realtime AI is ngmi — Sean DuBois (OpenAI), Kwindla Kramer (Daily
 slug: your-realtime-ai-is-ngmi-sean-dubois-openai-kwindla-kramer
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: E71YtNbCFXY
 url: https://www.youtube.com/watch?v=E71YtNbCFXY
 youtube_url: https://www.youtube.com/watch?v=E71YtNbCFXY
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

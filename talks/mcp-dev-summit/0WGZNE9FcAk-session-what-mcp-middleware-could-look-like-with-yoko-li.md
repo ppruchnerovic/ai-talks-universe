@@ -4,7 +4,7 @@ title: "[Session] What MCP Middleware Could Look Like with Yoko Li from A16Z"
 slug: session-what-mcp-middleware-could-look-like-with-yoko-li
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0WGZNE9FcAk
 url: https://www.youtube.com/watch?v=0WGZNE9FcAk
 youtube_url: https://www.youtube.com/watch?v=0WGZNE9FcAk
 tags: ["mcp", "model context protocol", "ai agents", "ai for devs", "mcpdevsummit"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

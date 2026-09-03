@@ -4,7 +4,7 @@ title: "Autonomous AI Agents in AI Infrastructure"
 slug: autonomous-ai-agents-in-ai-infrastructure
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: wymv9RPFh3o
 url: https://www.youtube.com/watch?v=wymv9RPFh3o
 youtube_url: https://www.youtube.com/watch?v=wymv9RPFh3o
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AI, ML, and Data Engineering InfoQ Trends Report 2025"
 slug: ai-ml-and-data-engineering-infoq-trends-report-2025
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: DUTEpuXi-Ps
 url: https://www.youtube.com/watch?v=DUTEpuXi-Ps
 youtube_url: https://www.youtube.com/watch?v=DUTEpuXi-Ps
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Agentic Architecture to Reduce Decision Paralysis"
 slug: agentic-architecture-to-reduce-decision-paralysis
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Schaun Wheeler"]
@@ -15,6 +15,7 @@ video_id: LGpZwPmNgQQ
 url: https://www.youtube.com/watch?v=LGpZwPmNgQQ
 youtube_url: https://www.youtube.com/watch?v=LGpZwPmNgQQ
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: false
 ---
 

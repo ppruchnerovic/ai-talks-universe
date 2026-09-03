@@ -4,7 +4,7 @@ title: "Panel: Agents in Production: What It Actually Takes in Regulated Environ
 slug: panel-agents-in-production-what-it-actually-takes-in
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: E7aSQRA1yuQ
 url: https://www.youtube.com/watch?v=E7aSQRA1yuQ
 youtube_url: https://www.youtube.com/watch?v=E7aSQRA1yuQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

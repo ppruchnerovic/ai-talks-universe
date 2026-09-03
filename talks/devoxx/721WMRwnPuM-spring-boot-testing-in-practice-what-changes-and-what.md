@@ -4,7 +4,7 @@ title: "Spring Boot Testing in Practice: What Changes and What Doesn’t with Ge
 slug: spring-boot-testing-in-practice-what-changes-and-what
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Andrei S"]
@@ -15,6 +15,7 @@ video_id: 721WMRwnPuM
 url: https://www.youtube.com/watch?v=721WMRwnPuM
 youtube_url: https://www.youtube.com/watch?v=721WMRwnPuM
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

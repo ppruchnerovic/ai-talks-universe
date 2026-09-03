@@ -4,7 +4,7 @@ title: "Browser Agents Don't Need Better Models. They Need Better Eyes. - Kushan
 slug: browser-agents-don-t-need-better-models-they-need-better
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kushan Raj"]
@@ -15,6 +15,7 @@ video_id: JnubYCYunk8
 url: https://www.youtube.com/watch?v=JnubYCYunk8
 youtube_url: https://www.youtube.com/watch?v=JnubYCYunk8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

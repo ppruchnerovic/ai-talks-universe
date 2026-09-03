@@ -4,7 +4,7 @@ title: "Keynote - Semantic Layers: The Missing Link Between Al and Business Know
 slug: keynote-semantic-layers-the-missing-link-between-al-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: EGuTe4LV8z4
 url: https://www.youtube.com/watch?v=EGuTe4LV8z4
 youtube_url: https://www.youtube.com/watch?v=EGuTe4LV8z4
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

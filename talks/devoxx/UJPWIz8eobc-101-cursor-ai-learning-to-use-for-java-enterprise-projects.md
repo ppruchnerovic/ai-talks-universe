@@ -4,7 +4,7 @@ title: "101 Cursor AI, Learning to use for Java Enterprise projects by Juan Anto
 slug: 101-cursor-ai-learning-to-use-for-java-enterprise-projects
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: UJPWIz8eobc
 url: https://www.youtube.com/watch?v=UJPWIz8eobc
 youtube_url: https://www.youtube.com/watch?v=UJPWIz8eobc
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

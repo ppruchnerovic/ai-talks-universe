@@ -4,7 +4,7 @@ title: "Nothing Matters: Building Hardware in the Age of AI | Carl Pei (Nothing)
 slug: nothing-matters-building-hardware-in-the-age-of-ai-carl-pei
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Carl Pei"]
@@ -15,6 +15,7 @@ video_id: Auw0Osm-c50
 url: https://www.youtube.com/watch?v=Auw0Osm-c50
 youtube_url: https://www.youtube.com/watch?v=Auw0Osm-c50
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

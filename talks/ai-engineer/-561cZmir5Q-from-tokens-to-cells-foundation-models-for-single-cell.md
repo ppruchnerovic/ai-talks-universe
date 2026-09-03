@@ -4,7 +4,7 @@ title: "From Tokens to Cells: Foundation Models for Single-Cell Biology - Akram 
 slug: from-tokens-to-cells-foundation-models-for-single-cell
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Akram Baharlouei"]
@@ -15,6 +15,7 @@ video_id: -561cZmir5Q
 url: https://www.youtube.com/watch?v=-561cZmir5Q
 youtube_url: https://www.youtube.com/watch?v=-561cZmir5Q
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

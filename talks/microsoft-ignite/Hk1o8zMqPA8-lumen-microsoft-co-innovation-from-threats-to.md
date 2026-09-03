@@ -4,7 +4,7 @@ title: "Lumen + Microsoft Co-Innovation: From Threats to Transformation | BRK383
 slug: lumen-microsoft-co-innovation-from-threats-to
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ankur Arora"]
@@ -15,6 +15,7 @@ video_id: Hk1o8zMqPA8
 url: https://www.youtube.com/watch?v=Hk1o8zMqPA8
 youtube_url: https://www.youtube.com/watch?v=Hk1o8zMqPA8
 tags: ["Ankur Arora", "BRK383", "Craig D’Abreo", "English (US)", "Lumen + Microsoft Co-Innovation: From Threats to Transformation | BRK383", "Secure your data", "Signature pass", "Susmita Nayak", "Technical", "Telecommunications", "ca4a5b6e-13fc-402d-93a3-a9ec61e217a7_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

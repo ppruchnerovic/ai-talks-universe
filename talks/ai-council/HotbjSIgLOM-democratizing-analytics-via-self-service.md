@@ -4,7 +4,7 @@ title: "Democratizing Analytics via Self Service"
 slug: democratizing-analytics-via-self-service
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: HotbjSIgLOM
 url: https://www.youtube.com/watch?v=HotbjSIgLOM
 youtube_url: https://www.youtube.com/watch?v=HotbjSIgLOM
 tags: ["AI"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

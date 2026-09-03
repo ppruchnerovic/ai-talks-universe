@@ -4,7 +4,7 @@ title: "The Truth About RAG & vLLM: Why Your Multimodal System Fails at Scale"
 slug: the-truth-about-rag-vllm-why-your-multimodal-system-fails
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: jIgj_nVqjog
 url: https://www.youtube.com/watch?v=jIgj_nVqjog
 youtube_url: https://www.youtube.com/watch?v=jIgj_nVqjog
 tags: ["Artificial Intelligence", "InfoQ", "QCon London", "Transcript", "RAG", "vLLM", "LLMOps", "Vector Database", "Retrieval Augmented Generation", "Large Language Models", "LLMs", "Vector Search"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

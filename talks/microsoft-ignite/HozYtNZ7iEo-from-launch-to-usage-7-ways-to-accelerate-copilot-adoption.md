@@ -4,7 +4,7 @@ title: "From Launch to Usage: 7 Ways to accelerate Copilot adoption | BRK290"
 slug: from-launch-to-usage-7-ways-to-accelerate-copilot-adoption
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Kristin Ginn"]
@@ -15,6 +15,7 @@ video_id: HozYtNZ7iEo
 url: https://www.youtube.com/watch?v=HozYtNZ7iEo
 youtube_url: https://www.youtube.com/watch?v=HozYtNZ7iEo
 tags: ["BRK290", "Copilot and agents at work", "English (US)", "From Launch to Usage: 7 Ways to accelerate Copilot adoption | BRK290", "Kristin Ginn", "Technical", "a74848f3-608c-43f1-9351-fbdfd0fde786_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

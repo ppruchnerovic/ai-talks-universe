@@ -4,7 +4,7 @@ title: "Sequencing The Student Genome: Modeling Click-Level Behaviors In Snowfla
 slug: sequencing-the-student-genome-modeling-click-level
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: J9UOzkE4paU
 url: https://www.youtube.com/watch?v=J9UOzkE4paU
 youtube_url: https://www.youtube.com/watch?v=J9UOzkE4paU
 tags: []
+topics: ["Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

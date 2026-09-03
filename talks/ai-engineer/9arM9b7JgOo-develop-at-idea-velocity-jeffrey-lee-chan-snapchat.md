@@ -4,7 +4,7 @@ title: "Develop at Idea Velocity - Jeffrey Lee-Chan, Snapchat"
 slug: develop-at-idea-velocity-jeffrey-lee-chan-snapchat
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9arM9b7JgOo
 url: https://www.youtube.com/watch?v=9arM9b7JgOo
 youtube_url: https://www.youtube.com/watch?v=9arM9b7JgOo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

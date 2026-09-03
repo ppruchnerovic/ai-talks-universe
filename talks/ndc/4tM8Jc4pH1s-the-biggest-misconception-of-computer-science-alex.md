@@ -4,7 +4,7 @@ title: "The Biggest Misconception of Computer Science - Alex Dathskovsky - NDC T
 slug: the-biggest-misconception-of-computer-science-alex
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Alex Dathskovsky"]
@@ -15,6 +15,7 @@ video_id: 4tM8Jc4pH1s
 url: https://www.youtube.com/watch?v=4tM8Jc4pH1s
 youtube_url: https://www.youtube.com/watch?v=4tM8Jc4pH1s
 tags: ["Concurrency", "C++", "Tools", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Alex Dathskovsky"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

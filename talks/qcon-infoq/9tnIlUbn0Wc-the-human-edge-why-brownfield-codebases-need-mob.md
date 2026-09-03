@@ -4,7 +4,7 @@ title: "The Human Edge: Why Brownfield Codebases Need Mob Programming, Not Just 
 slug: the-human-edge-why-brownfield-codebases-need-mob
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9tnIlUbn0Wc
 url: https://www.youtube.com/watch?v=9tnIlUbn0Wc
 youtube_url: https://www.youtube.com/watch?v=9tnIlUbn0Wc
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

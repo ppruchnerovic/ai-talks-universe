@@ -4,7 +4,7 @@ title: "Engineering Mindset in the Age of AI - Gunnar Grosch, AWS"
 slug: engineering-mindset-in-the-age-of-ai-gunnar-grosch-aws
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Gunnar Grosch"]
@@ -15,6 +15,7 @@ video_id: yVXh-0lIc8o
 url: https://www.youtube.com/watch?v=yVXh-0lIc8o
 youtube_url: https://www.youtube.com/watch?v=yVXh-0lIc8o
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

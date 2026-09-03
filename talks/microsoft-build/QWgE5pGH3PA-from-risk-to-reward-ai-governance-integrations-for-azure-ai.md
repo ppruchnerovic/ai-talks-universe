@@ -4,7 +4,7 @@ title: "From risk to reward: AI governance integrations for Azure AI Foundry | D
 slug: from-risk-to-reward-ai-governance-integrations-for-azure-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: QWgE5pGH3PA
 url: https://www.youtube.com/watch?v=QWgE5pGH3PA
 youtube_url: https://www.youtube.com/watch?v=QWgE5pGH3PA
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

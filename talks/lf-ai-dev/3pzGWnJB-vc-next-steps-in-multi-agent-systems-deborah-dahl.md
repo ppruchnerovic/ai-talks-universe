@@ -4,7 +4,7 @@ title: "Next Steps in Multi-agent Systems - Deborah Dahl, Conversational Technol
 slug: next-steps-in-multi-agent-systems-deborah-dahl
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Deborah Dahl"]
@@ -15,6 +15,7 @@ video_id: 3pzGWnJB-vc
 url: https://www.youtube.com/watch?v=3pzGWnJB-vc
 youtube_url: https://www.youtube.com/watch?v=3pzGWnJB-vc
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

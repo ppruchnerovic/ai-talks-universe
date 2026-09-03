@@ -4,7 +4,7 @@ title: "The AI-Ready Workforce: Upskilling Lessons from the Real World"
 slug: the-ai-ready-workforce-upskilling-lessons-from-the-real
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Bernd Datler", "Laura Thorson", "Mark Pollok", "Hendrikje Rudnick"]
@@ -15,6 +15,7 @@ video_id: dpMZq0wW7TQ
 url: https://www.youtube.com/watch?v=dpMZq0wW7TQ
 youtube_url: https://www.youtube.com/watch?v=dpMZq0wW7TQ
 tags: ["Strategy & Innovation"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

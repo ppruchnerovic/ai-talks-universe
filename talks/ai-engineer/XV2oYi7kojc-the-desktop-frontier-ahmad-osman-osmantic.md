@@ -4,7 +4,7 @@ title: "The Desktop Frontier — Ahmad Osman, Osmantic"
 slug: the-desktop-frontier-ahmad-osman-osmantic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ahmad Osman"]
@@ -15,6 +15,7 @@ video_id: XV2oYi7kojc
 url: https://www.youtube.com/watch?v=XV2oYi7kojc
 youtube_url: https://www.youtube.com/watch?v=XV2oYi7kojc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

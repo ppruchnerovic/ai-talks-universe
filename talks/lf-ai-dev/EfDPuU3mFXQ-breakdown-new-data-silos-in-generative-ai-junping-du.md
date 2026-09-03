@@ -4,7 +4,7 @@ title: "Breakdown New Data Silos in Generative AI - Junping Du, Datastrato"
 slug: breakdown-new-data-silos-in-generative-ai-junping-du
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Junping Du"]
@@ -15,6 +15,7 @@ video_id: EfDPuU3mFXQ
 url: https://www.youtube.com/watch?v=EfDPuU3mFXQ
 youtube_url: https://www.youtube.com/watch?v=EfDPuU3mFXQ
 tags: []
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

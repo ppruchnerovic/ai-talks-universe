@@ -4,7 +4,7 @@ title: "OpenAI DevDay 2024 | Fireside chat with Olivier Godement and Mark Chen"
 slug: openai-devday-2024-fireside-chat-with-olivier-godement-and
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Mkf1JA8_RkQ
 url: https://www.youtube.com/watch?v=Mkf1JA8_RkQ
 youtube_url: https://www.youtube.com/watch?v=Mkf1JA8_RkQ
 tags: []
+topics: []
 transcript: false
 ---
 

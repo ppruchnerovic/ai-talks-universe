@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Secure in milliseconds: Visa's AI-powered fraud def
 slug: aws-re-invent-2025-secure-in-milliseconds-visa-s-ai-powered
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ms0lDo_19sM
 url: https://www.youtube.com/watch?v=Ms0lDo_19sM
 youtube_url: https://www.youtube.com/watch?v=Ms0lDo_19sM
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

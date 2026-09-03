@@ -4,7 +4,7 @@ title: "SaTML 2024 - Chulin Xie - Improving Private-Vertical FL by Efficient Com
 slug: satml-2024-chulin-xie-improving-private-vertical-fl-by
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Chulin Xie"]
@@ -15,6 +15,7 @@ video_id: 1cZYfGHmPeQ
 url: https://www.youtube.com/watch?v=1cZYfGHmPeQ
 youtube_url: https://www.youtube.com/watch?v=1cZYfGHmPeQ
 tags: []
+topics: []
 transcript: false
 ---
 

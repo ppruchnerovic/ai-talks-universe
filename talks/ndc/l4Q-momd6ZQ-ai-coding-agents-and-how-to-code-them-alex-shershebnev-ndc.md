@@ -4,7 +4,7 @@ title: "AI Coding Agents and how to code them - Alex Shershebnev - NDC Copenhage
 slug: ai-coding-agents-and-how-to-code-them-alex-shershebnev-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Alex Shershebnev"]
@@ -15,6 +15,7 @@ video_id: l4Q-momd6ZQ
 url: https://www.youtube.com/watch?v=l4Q-momd6ZQ
 youtube_url: https://www.youtube.com/watch?v=l4Q-momd6ZQ
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Mark Huang Co Founder of Gradient AI Speaks on AI Automation"
 slug: mark-huang-co-founder-of-gradient-ai-speaks-on-ai-automation
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: tTILUbud2JY
 url: https://www.youtube.com/watch?v=tTILUbud2JY
 youtube_url: https://www.youtube.com/watch?v=tTILUbud2JY
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

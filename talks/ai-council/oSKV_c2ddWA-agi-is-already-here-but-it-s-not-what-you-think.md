@@ -4,7 +4,7 @@ title: "AGI is Already Here (But It's Not What You Think)"
 slug: agi-is-already-here-but-it-s-not-what-you-think
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Joseph Gonzalez"]
@@ -15,6 +15,7 @@ video_id: oSKV_c2ddWA
 url: https://www.youtube.com/watch?v=oSKV_c2ddWA
 youtube_url: https://www.youtube.com/watch?v=oSKV_c2ddWA
 tags: ["AGI", "artificial general intelligence", "ChatGPT", "artificial intelligence", "machine learning", "AI future", "compound AI systems", "AI agents", "multi LLM orchestration", "AI support engineer", "human performance", "Python tutorial", "AI alignment", "AI safety", "superintelligence", "cognitive architecture", "reasoning systems", "planning systems", "learning systems", "adaptation", "generalization", "transfer learning", "meta learning", "continual learning"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

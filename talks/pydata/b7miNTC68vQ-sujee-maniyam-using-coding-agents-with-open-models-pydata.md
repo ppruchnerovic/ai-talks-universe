@@ -4,7 +4,7 @@ title: "Sujee Maniyam- Using coding agents with open models | Pydata London 26"
 slug: sujee-maniyam-using-coding-agents-with-open-models-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: b7miNTC68vQ
 url: https://www.youtube.com/watch?v=b7miNTC68vQ
 youtube_url: https://www.youtube.com/watch?v=b7miNTC68vQ
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

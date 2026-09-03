@@ -4,7 +4,7 @@ title: "Platforms for Humans and Machines: Engineering for the Age of Agents —
 slug: platforms-for-humans-and-machines-engineering-for-the-age
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Juan Herreros Elorza"]
@@ -15,6 +15,7 @@ video_id: cCRO3ChaYhM
 url: https://www.youtube.com/watch?v=cCRO3ChaYhM
 youtube_url: https://www.youtube.com/watch?v=cCRO3ChaYhM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

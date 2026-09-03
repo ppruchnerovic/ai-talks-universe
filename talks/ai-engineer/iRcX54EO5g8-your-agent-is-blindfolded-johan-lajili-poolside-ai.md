@@ -4,7 +4,7 @@ title: "Your agent is blindfolded — Johan Lajili, Poolside AI"
 slug: your-agent-is-blindfolded-johan-lajili-poolside-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Johan Lajili"]
@@ -15,6 +15,7 @@ video_id: iRcX54EO5g8
 url: https://www.youtube.com/watch?v=iRcX54EO5g8
 youtube_url: https://www.youtube.com/watch?v=iRcX54EO5g8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

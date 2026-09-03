@@ -4,7 +4,7 @@ title: "Above the Cloud: Building Data Centers in Space - Richard Campbell - NDC
 slug: above-the-cloud-building-data-centers-in-space-richard
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Richard Campbell"]
@@ -15,6 +15,7 @@ video_id: eo7MEPgWGic
 url: https://www.youtube.com/watch?v=eo7MEPgWGic
 youtube_url: https://www.youtube.com/watch?v=eo7MEPgWGic
 tags: ["AI", "Cloud", "Data", "Space", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Richard Campbell"]
+topics: []
 transcript: true
 ---
 

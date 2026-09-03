@@ -4,7 +4,7 @@ title: "Myrge: Code Review RevolutionUniting Human And GenAI For Lightning Fast 
 slug: myrge-code-review-revolutionuniting-human-and-genai-for
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: VO5UX5kWj9g
 url: https://www.youtube.com/watch?v=VO5UX5kWj9g
 youtube_url: https://www.youtube.com/watch?v=VO5UX5kWj9g
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The Future of AI Agents with Andrew Ng | Interrupt 26"
 slug: the-future-of-ai-agents-with-andrew-ng-interrupt-26
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: OaRhpwz_TGM
 url: https://www.youtube.com/watch?v=OaRhpwz_TGM
 youtube_url: https://www.youtube.com/watch?v=OaRhpwz_TGM
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

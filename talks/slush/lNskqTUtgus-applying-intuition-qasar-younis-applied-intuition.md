@@ -4,7 +4,7 @@ title: "Applying Intuition | Qasar Younis (Applied Intuition)"
 slug: applying-intuition-qasar-younis-applied-intuition
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Applying Intuition", "Qasar Younis"]
@@ -15,6 +15,7 @@ video_id: lNskqTUtgus
 url: https://www.youtube.com/watch?v=lNskqTUtgus
 youtube_url: https://www.youtube.com/watch?v=lNskqTUtgus
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

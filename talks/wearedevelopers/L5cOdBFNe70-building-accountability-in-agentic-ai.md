@@ -4,7 +4,7 @@ title: "Building Accountability in Agentic AI"
 slug: building-accountability-in-agentic-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Frederik Gregaard", "Mariana de la Roche W."]
@@ -15,6 +15,7 @@ video_id: L5cOdBFNe70
 url: https://www.youtube.com/watch?v=L5cOdBFNe70
 youtube_url: https://www.youtube.com/watch?v=L5cOdBFNe70
 tags: ["Strategy & Innovation"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

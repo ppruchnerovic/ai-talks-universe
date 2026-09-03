@@ -4,7 +4,7 @@ title: "Sponsored by: Google Cloud | Building Powerful Agentic Ecosystems with G
 slug: sponsored-by-google-cloud-building-powerful-agentic
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _mU60HQ1Tjw
 url: https://www.youtube.com/watch?v=_mU60HQ1Tjw
 youtube_url: https://www.youtube.com/watch?v=_mU60HQ1Tjw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

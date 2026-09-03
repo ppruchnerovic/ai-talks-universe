@@ -4,7 +4,7 @@ title: "Raphael Mitsch - Sieves - Plug-and-Play NLP Pipelines With Zero-Shot Mod
 slug: raphael-mitsch-sieves-plug-and-play-nlp-pipelines-with-zero
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Raphael Mitsch"]
@@ -15,6 +15,7 @@ video_id: 5i8tEvrYEyQ
 url: https://www.youtube.com/watch?v=5i8tEvrYEyQ
 youtube_url: https://www.youtube.com/watch?v=5i8tEvrYEyQ
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Keynote: Closing Remarks - Matt White, Executive Director, PyTorch Found
 slug: keynote-closing-remarks-matt-white-executive-director
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Matt White"]
@@ -15,6 +15,7 @@ video_id: e3zKBo73CdA
 url: https://www.youtube.com/watch?v=e3zKBo73CdA
 youtube_url: https://www.youtube.com/watch?v=e3zKBo73CdA
 tags: []
+topics: ["Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

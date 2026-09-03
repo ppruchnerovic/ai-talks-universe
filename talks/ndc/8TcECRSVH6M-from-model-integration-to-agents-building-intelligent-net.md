@@ -4,7 +4,7 @@ title: "From Model Integration to Agents: Building Intelligent .NET Applications
 slug: from-model-integration-to-agents-building-intelligent-net
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Gill Cleeren"]
@@ -15,6 +15,7 @@ video_id: 8TcECRSVH6M
 url: https://www.youtube.com/watch?v=8TcECRSVH6M
 youtube_url: https://www.youtube.com/watch?v=8TcECRSVH6M
 tags: ["AI", ".NET", "API", "Azure", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "UK", "United Kingdom", "Great Britain", "Gill Cleeren"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

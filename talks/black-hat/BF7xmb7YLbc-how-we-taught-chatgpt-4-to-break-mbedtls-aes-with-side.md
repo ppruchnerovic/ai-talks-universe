@@ -4,7 +4,7 @@ title: "How We Taught ChatGPT-4 to Break mbedTLS AES With Side-Channel Attacks"
 slug: how-we-taught-chatgpt-4-to-break-mbedtls-aes-with-side
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: ["Witold Waligóra"]
@@ -15,6 +15,7 @@ video_id: BF7xmb7YLbc
 url: https://www.youtube.com/watch?v=BF7xmb7YLbc
 youtube_url: https://www.youtube.com/watch?v=BF7xmb7YLbc
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

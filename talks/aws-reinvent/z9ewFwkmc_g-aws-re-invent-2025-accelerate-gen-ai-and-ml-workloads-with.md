@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Accelerate gen AI and ML workloads with AWS storage
 slug: aws-re-invent-2025-accelerate-gen-ai-and-ml-workloads-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: z9ewFwkmc_g
 url: https://www.youtube.com/watch?v=z9ewFwkmc_g
 youtube_url: https://www.youtube.com/watch?v=z9ewFwkmc_g
 tags: []
+topics: []
 transcript: false
 ---
 

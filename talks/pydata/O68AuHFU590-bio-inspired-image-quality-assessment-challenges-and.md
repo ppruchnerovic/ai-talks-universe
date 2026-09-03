@@ -4,7 +4,7 @@ title: "Bio-Inspired Image Quality Assessment: Challenges and Solutions."
 slug: bio-inspired-image-quality-assessment-challenges-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: O68AuHFU590
 url: https://www.youtube.com/watch?v=O68AuHFU590
 youtube_url: https://www.youtube.com/watch?v=O68AuHFU590
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

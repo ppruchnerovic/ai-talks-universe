@@ -4,7 +4,7 @@ title: "How Slack AI Agents Accelerate Dev Productivity | Samuel Messing"
 slug: how-slack-ai-agents-accelerate-dev-productivity-samuel
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Samuel Messing"]
@@ -15,6 +15,7 @@ video_id: jCVvVVXcxbQ
 url: https://www.youtube.com/watch?v=jCVvVVXcxbQ
 youtube_url: https://www.youtube.com/watch?v=jCVvVVXcxbQ
 tags: ["ainativedev"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

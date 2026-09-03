@@ -4,7 +4,7 @@ title: "Linkerd: Reliable Production in an AI/MCP World - William Morgan, Buoyan
 slug: linkerd-reliable-production-in-an-ai-mcp-world-william
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["William Morgan"]
@@ -15,6 +15,7 @@ video_id: jPWsMZFpihA
 url: https://www.youtube.com/watch?v=jPWsMZFpihA
 youtube_url: https://www.youtube.com/watch?v=jPWsMZFpihA
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

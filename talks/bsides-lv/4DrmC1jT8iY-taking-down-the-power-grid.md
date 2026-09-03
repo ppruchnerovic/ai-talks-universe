@@ -4,7 +4,7 @@ title: "Taking down the power grid!"
 slug: taking-down-the-power-grid
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4DrmC1jT8iY
 url: https://www.youtube.com/watch?v=4DrmC1jT8iY
 youtube_url: https://www.youtube.com/watch?v=4DrmC1jT8iY
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "[Session] MCP Registry: The Path To (De-)Centralizing Discovery"
 slug: session-mcp-registry-the-path-to-de-centralizing-discovery
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: dQnolGPNdQ4
 url: https://www.youtube.com/watch?v=dQnolGPNdQ4
 youtube_url: https://www.youtube.com/watch?v=dQnolGPNdQ4
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Enabling a thriving partner ecosystem: New CSP Authorization Criteria | 
 slug: enabling-a-thriving-partner-ecosystem-new-csp-authorization
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Andrew Smith", "Gina Yong"]
@@ -15,6 +15,7 @@ video_id: oGccFgst3JY
 url: https://www.youtube.com/watch?v=oGccFgst3JY
 youtube_url: https://www.youtube.com/watch?v=oGccFgst3JY
 tags: ["103abd32-35ba-4e80-a36d-ae753af8395e_Segment", "Andrew Smith", "Enabling a thriving partner ecosystem: New CSP Authorization Criteria | PBRK421", "English (US)", "Gina Yong", "Microsoft AI Cloud Partner Program", "PBRK421", "Partner Business", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

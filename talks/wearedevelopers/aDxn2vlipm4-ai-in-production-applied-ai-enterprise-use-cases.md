@@ -4,7 +4,7 @@ title: "AI in Production: applied AI & enterprise use cases"
 slug: ai-in-production-applied-ai-enterprise-use-cases
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Mohak Chadha"]
@@ -15,6 +15,7 @@ video_id: aDxn2vlipm4
 url: https://www.youtube.com/watch?v=aDxn2vlipm4
 youtube_url: https://www.youtube.com/watch?v=aDxn2vlipm4
 tags: ["AI Engineering", "AI Models", "Agents", "LLMOps", "Multi-Agent Systems"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

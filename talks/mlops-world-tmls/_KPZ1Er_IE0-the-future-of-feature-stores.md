@@ -4,7 +4,7 @@ title: "The Future of Feature Stores"
 slug: the-future-of-feature-stores
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Yurender Gill"]
@@ -15,6 +15,7 @@ video_id: _KPZ1Er_IE0
 url: https://www.youtube.com/watch?v=_KPZ1Er_IE0
 youtube_url: https://www.youtube.com/watch?v=_KPZ1Er_IE0
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

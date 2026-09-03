@@ -4,7 +4,7 @@ title: "RamaLama: Making working with AI Models Boring by Cedric Clyburn"
 slug: ramalama-making-working-with-ai-models-boring-by-cedric
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Cedric Clyburn"]
@@ -15,6 +15,7 @@ video_id: CYxwXobrL28
 url: https://www.youtube.com/watch?v=CYxwXobrL28
 youtube_url: https://www.youtube.com/watch?v=CYxwXobrL28
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

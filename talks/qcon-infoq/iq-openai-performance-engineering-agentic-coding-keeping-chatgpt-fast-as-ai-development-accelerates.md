@@ -4,7 +4,7 @@ title: "Keeping ChatGPT Fast as AI Development Accelerates"
 slug: keeping-chatgpt-fast-as-ai-development-accelerates
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI Boston 2026"
 year: 2026
 speakers: ["Martin Spier"]
@@ -15,6 +15,7 @@ video_id: iq-openai-performance-engineering-agentic-coding
 url: https://www.infoq.com/presentations/openai-performance-engineering-agentic-coding/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

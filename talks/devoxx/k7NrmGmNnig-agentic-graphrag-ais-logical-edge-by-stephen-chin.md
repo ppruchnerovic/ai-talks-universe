@@ -4,7 +4,7 @@ title: "Agentic GraphRAG: AI’s Logical Edge by Stephen Chin"
 slug: agentic-graphrag-ais-logical-edge-by-stephen-chin
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Stephen Chin"]
@@ -15,6 +15,7 @@ video_id: k7NrmGmNnig
 url: https://www.youtube.com/watch?v=k7NrmGmNnig
 youtube_url: https://www.youtube.com/watch?v=k7NrmGmNnig
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

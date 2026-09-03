@@ -4,7 +4,7 @@ title: "Running Millions of (Millisecond) AI Sandboxes without Breaking the Pigg
 slug: running-millions-of-millisecond-ai-sandboxes-without
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: ["Running Millions of"]
@@ -15,6 +15,7 @@ video_id: wB5GPUtue74
 url: https://www.youtube.com/watch?v=wB5GPUtue74
 youtube_url: https://www.youtube.com/watch?v=wB5GPUtue74
 tags: ["AI"]
+topics: []
 transcript: true
 ---
 

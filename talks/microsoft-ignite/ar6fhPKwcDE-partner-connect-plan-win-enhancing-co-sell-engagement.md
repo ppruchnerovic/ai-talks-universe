@@ -4,7 +4,7 @@ title: "Partner: Connect, Plan, Win - Enhancing Co-sell Engagement | PBRK417"
 slug: partner-connect-plan-win-enhancing-co-sell-engagement
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Fabian Grote"]
@@ -15,6 +15,7 @@ video_id: ar6fhPKwcDE
 url: https://www.youtube.com/watch?v=ar6fhPKwcDE
 youtube_url: https://www.youtube.com/watch?v=ar6fhPKwcDE
 tags: ["2db78192-621c-4137-b228-2786109d768d_Segment", "Christopher Woodin", "English (US)", "Fabian Grote", "Julie Sanford", "Microsoft AI Cloud Partner Program", "PBRK417", "Partner Business", "Partner: Connect Plan Win - Enhancing Co-sell Engagement | PBRK417", "SAURABH RANA", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

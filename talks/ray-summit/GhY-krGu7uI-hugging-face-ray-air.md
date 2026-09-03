@@ -4,7 +4,7 @@ title: "Hugging Face + Ray AIR"
 slug: hugging-face-ray-air
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: GhY-krGu7uI
 url: https://www.youtube.com/watch?v=GhY-krGu7uI
 youtube_url: https://www.youtube.com/watch?v=GhY-krGu7uI
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

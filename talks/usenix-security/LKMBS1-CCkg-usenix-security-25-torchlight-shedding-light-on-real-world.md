@@ -4,7 +4,7 @@ title: "USENIX Security '25 - TORCHLIGHT: Shedding LIGHT on Real-World Attacks o
 slug: usenix-security-25-torchlight-shedding-light-on-real-world
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: LKMBS1-CCkg
 url: https://www.youtube.com/watch?v=LKMBS1-CCkg
 youtube_url: https://www.youtube.com/watch?v=LKMBS1-CCkg
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

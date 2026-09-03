@@ -4,7 +4,7 @@ title: "Learn How Monday.com Built Their AI Agent Workforce with LangGraph | Lan
 slug: learn-how-monday-com-built-their-ai-agent-workforce-with
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: P8ewpJrZVwo
 url: https://www.youtube.com/watch?v=P8ewpJrZVwo
 youtube_url: https://www.youtube.com/watch?v=P8ewpJrZVwo
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

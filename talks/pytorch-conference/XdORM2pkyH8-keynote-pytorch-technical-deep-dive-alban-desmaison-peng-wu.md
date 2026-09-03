@@ -4,7 +4,7 @@ title: "Keynote: PyTorch Technical Deep Dive - Alban Desmaison, Peng Wu, Mark Sa
 slug: keynote-pytorch-technical-deep-dive-alban-desmaison-peng-wu
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Alban Desmaison"]
@@ -15,6 +15,7 @@ video_id: XdORM2pkyH8
 url: https://www.youtube.com/watch?v=XdORM2pkyH8
 youtube_url: https://www.youtube.com/watch?v=XdORM2pkyH8
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

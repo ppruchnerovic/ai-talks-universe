@@ -4,7 +4,7 @@ title: "GPU Reservations: Maximizing Utilization and Fairness Across Teams - Sam
 slug: gpu-reservations-maximizing-utilization-and-fairness-across
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: ["Sam Huang", "Thomas Chaton"]
@@ -15,6 +15,7 @@ video_id: O-OEqmvCkYg
 url: https://www.youtube.com/watch?v=O-OEqmvCkYg
 youtube_url: https://www.youtube.com/watch?v=O-OEqmvCkYg
 tags: []
+topics: ["Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

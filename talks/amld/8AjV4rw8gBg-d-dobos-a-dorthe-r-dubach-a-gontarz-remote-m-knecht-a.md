@@ -4,7 +4,7 @@ title: "D.Dobos, A.Dorthe, R.Dubach, A.Gontarz (remote), M.Knecht, A. Piotti, S.
 slug: d-dobos-a-dorthe-r-dubach-a-gontarz-remote-m-knecht-a
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8AjV4rw8gBg
 url: https://www.youtube.com/watch?v=8AjV4rw8gBg
 youtube_url: https://www.youtube.com/watch?v=8AjV4rw8gBg
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

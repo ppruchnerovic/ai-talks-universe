@@ -4,7 +4,7 @@ title: "How Agentic DevOps gave us Dev time back"
 slug: how-agentic-devops-gave-us-dev-time-back
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Alejandro Albuerne"]
@@ -15,6 +15,7 @@ video_id: _3YWkkEnKoU
 url: https://www.youtube.com/watch?v=_3YWkkEnKoU
 youtube_url: https://www.youtube.com/watch?v=_3YWkkEnKoU
 tags: ["AI Agents", "AI Coding Assistants", "DevOps"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

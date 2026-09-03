@@ -4,7 +4,7 @@ title: "Scalable Applications Without Polyglot tax: Azure SQL Hyperscale | OD824
 slug: scalable-applications-without-polyglot-tax-azure-sql
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: qjuHjZKqUms
 url: https://www.youtube.com/watch?v=qjuHjZKqUms
 youtube_url: https://www.youtube.com/watch?v=qjuHjZKqUms
 tags: ["Azure SQL Hyperscale", "CP&D", "Data", "OD824", "OD824_v1", "Scalable Applications Without Polyglot tax: Azure SQL Hyperscale | OD824", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

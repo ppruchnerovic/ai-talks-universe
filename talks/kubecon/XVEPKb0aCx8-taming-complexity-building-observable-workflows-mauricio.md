@@ -4,7 +4,7 @@ title: "Taming Complexity: Building Observable Workflows... Mauricio \"Salaboy\"
 slug: taming-complexity-building-observable-workflows-mauricio
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: XVEPKb0aCx8
 url: https://www.youtube.com/watch?v=XVEPKb0aCx8
 youtube_url: https://www.youtube.com/watch?v=XVEPKb0aCx8
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

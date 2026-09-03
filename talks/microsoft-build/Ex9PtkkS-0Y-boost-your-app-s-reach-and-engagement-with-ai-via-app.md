@@ -4,7 +4,7 @@ title: "Boost your app's reach and engagement with AI via App Actions on Windows
 slug: boost-your-app-s-reach-and-engagement-with-ai-via-app
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ex9PtkkS-0Y
 url: https://www.youtube.com/watch?v=Ex9PtkkS-0Y
 youtube_url: https://www.youtube.com/watch?v=Ex9PtkkS-0Y
 tags: []
+topics: []
 transcript: false
 ---
 

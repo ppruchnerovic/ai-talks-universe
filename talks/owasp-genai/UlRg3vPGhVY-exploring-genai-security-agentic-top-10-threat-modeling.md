@@ -4,7 +4,7 @@ title: "Exploring GenAI Security: Agentic Top 10, Threat Modeling & Community Ha
 slug: exploring-genai-security-agentic-top-10-threat-modeling
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: UlRg3vPGhVY
 url: https://www.youtube.com/watch?v=UlRg3vPGhVY
 youtube_url: https://www.youtube.com/watch?v=UlRg3vPGhVY
 tags: ["GenAI Security", "Agentic", "Top 10", "OWASP", "Threat Modeling", "Community", "Hackathons", "LLM", "large language model", "AI", "artificial intelligence", "cybersecurity", "exploring"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "SaTML 2024 - Ashutosh Kumar Nirala - Fast Certification Using Incrementa
 slug: satml-2024-ashutosh-kumar-nirala-fast-certification-using
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Ashutosh Kumar Nirala"]
@@ -15,6 +15,7 @@ video_id: 7NiwaA52OJc
 url: https://www.youtube.com/watch?v=7NiwaA52OJc
 youtube_url: https://www.youtube.com/watch?v=7NiwaA52OJc
 tags: []
+topics: []
 transcript: false
 ---
 

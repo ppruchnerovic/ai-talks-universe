@@ -4,7 +4,7 @@ title: "Secure and govern your enterprise-scale agents with Copilot Studio | BRK
 slug: secure-and-govern-your-enterprise-scale-agents-with-copilot
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1v4cSWpUiKg
 url: https://www.youtube.com/watch?v=1v4cSWpUiKg
 youtube_url: https://www.youtube.com/watch?v=1v4cSWpUiKg
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Agentic infrastructure needs agentic observability | ODSP933"
 slug: agentic-infrastructure-needs-agentic-observability-odsp933
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: rXd7KDBmU5A
 url: https://www.youtube.com/watch?v=rXd7KDBmU5A
 youtube_url: https://www.youtube.com/watch?v=rXd7KDBmU5A
 tags: ["AI", "Agent Observability", "Agentic infrastructure needs agentic observability | ODSP933", "Agents", "ODSP933", "ODSP933_v1", "Observability", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

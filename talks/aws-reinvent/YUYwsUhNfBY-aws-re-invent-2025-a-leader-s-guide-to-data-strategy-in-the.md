@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - A leader's guide to data strategy in the era of age
 slug: aws-re-invent-2025-a-leader-s-guide-to-data-strategy-in-the
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YUYwsUhNfBY
 url: https://www.youtube.com/watch?v=YUYwsUhNfBY
 youtube_url: https://www.youtube.com/watch?v=YUYwsUhNfBY
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "From Cloud Racks to Control Cabinets: Operating Kubernetes on Edge Devic
 slug: from-cloud-racks-to-control-cabinets-operating-kubernetes
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Thomas Weinschenk"]
@@ -15,6 +15,7 @@ video_id: ZcI5Q6wu8eE
 url: https://www.youtube.com/watch?v=ZcI5Q6wu8eE
 youtube_url: https://www.youtube.com/watch?v=ZcI5Q6wu8eE
 tags: ["Cloud & AI Infrastructure", "CI/CD", "Containers", "Embedded Systems", "GitOps", "Infrastructure", "Internet of Things (IoT)", "Observability", "On-Premise", "OpenTelemetry", "Software Architecture", "System Design"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

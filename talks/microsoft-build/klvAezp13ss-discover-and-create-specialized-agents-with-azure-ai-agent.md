@@ -4,7 +4,7 @@ title: "Discover and create specialized agents with Azure AI Agent Service and t
 slug: discover-and-create-specialized-agents-with-azure-ai-agent
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: klvAezp13ss
 url: https://www.youtube.com/watch?v=klvAezp13ss
 youtube_url: https://www.youtube.com/watch?v=klvAezp13ss
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

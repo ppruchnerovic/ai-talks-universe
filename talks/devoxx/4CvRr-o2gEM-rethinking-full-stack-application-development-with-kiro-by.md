@@ -4,7 +4,7 @@ title: "Rethinking Full Stack Application Development with Kiro by Alessandra Pa
 slug: rethinking-full-stack-application-development-with-kiro-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Alessandra Pasini", "Romain Jourdan"]
@@ -15,6 +15,7 @@ video_id: 4CvRr-o2gEM
 url: https://www.youtube.com/watch?v=4CvRr-o2gEM
 youtube_url: https://www.youtube.com/watch?v=4CvRr-o2gEM
 tags: []
+topics: []
 transcript: true
 ---
 

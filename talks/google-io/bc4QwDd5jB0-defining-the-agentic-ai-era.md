@@ -4,7 +4,7 @@ title: "Defining the agentic AI era"
 slug: defining-the-agentic-ai-era
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Logan Kilpatrick", "Koray Kavukcuoglu", "Liz Reid", "Josh Woodward", "Jeff Dean"]
@@ -15,6 +15,7 @@ video_id: bc4QwDd5jB0
 url: https://www.youtube.com/watch?v=bc4QwDd5jB0
 youtube_url: https://www.youtube.com/watch?v=bc4QwDd5jB0
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Dialogues;", "ct:Event - AI PA Keynote;"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Scaling Ultra Low Latency LLM Inference"
 slug: scaling-ultra-low-latency-llm-inference
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Thtc9NHE7Us
 url: https://www.youtube.com/watch?v=Thtc9NHE7Us
 youtube_url: https://www.youtube.com/watch?v=Thtc9NHE7Us
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Automating knowledge work with AI agents - LlamaIndex @ Fully Connected 
 slug: automating-knowledge-work-with-ai-agents-llamaindex-fully
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5jwiwaPyZCE
 url: https://www.youtube.com/watch?v=5jwiwaPyZCE
 youtube_url: https://www.youtube.com/watch?v=5jwiwaPyZCE
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

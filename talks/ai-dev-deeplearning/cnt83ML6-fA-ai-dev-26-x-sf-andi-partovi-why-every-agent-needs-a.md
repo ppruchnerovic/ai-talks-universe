@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Andi Partovi: Why Every Agent Needs a Simulation Sandbo
 slug: ai-dev-26-x-sf-andi-partovi-why-every-agent-needs-a
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: cnt83ML6-fA
 url: https://www.youtube.com/watch?v=cnt83ML6-fA
 youtube_url: https://www.youtube.com/watch?v=cnt83ML6-fA
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: true
 ---
 

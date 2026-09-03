@@ -4,7 +4,7 @@ title: "Unpredictable costs of AI vs predictable cost of Humans"
 slug: unpredictable-costs-of-ai-vs-predictable-cost-of-humans
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Hung Lee", "Leandro Gomes da Silva", "Raffi Krikorian", "Anna Ott"]
@@ -15,6 +15,7 @@ video_id: TnQTnh6rUqM
 url: https://www.youtube.com/watch?v=TnQTnh6rUqM
 youtube_url: https://www.youtube.com/watch?v=TnQTnh6rUqM
 tags: ["People & Culture"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

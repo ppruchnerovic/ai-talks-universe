@@ -4,7 +4,7 @@ title: "Chenguang Wang - From Training to Evaluation: Open Recipes for Building 
 slug: chenguang-wang-from-training-to-evaluation-open-recipes-for
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Chenguang Wang"]
@@ -15,6 +15,7 @@ video_id: j5U7_G8kvkY
 url: https://www.youtube.com/watch?v=j5U7_G8kvkY
 youtube_url: https://www.youtube.com/watch?v=j5U7_G8kvkY
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

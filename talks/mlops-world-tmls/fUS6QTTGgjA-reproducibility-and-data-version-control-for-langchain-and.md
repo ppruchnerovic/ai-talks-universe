@@ -4,7 +4,7 @@ title: "Reproducibility and Data version control for LangChain and LLM/OpenAI Mo
 slug: reproducibility-and-data-version-control-for-langchain-and
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Amit Kesarwani"]
@@ -15,6 +15,7 @@ video_id: fUS6QTTGgjA
 url: https://www.youtube.com/watch?v=fUS6QTTGgjA
 youtube_url: https://www.youtube.com/watch?v=fUS6QTTGgjA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

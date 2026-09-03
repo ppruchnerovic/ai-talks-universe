@@ -4,7 +4,7 @@ title: "Moving Spotify’s Infrastructure Management Up the Stack from Kubebu...
 slug: moving-spotifys-infrastructure-management-up-the-stack-from
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: W-_kJEX-_RY
 url: https://www.youtube.com/watch?v=W-_kJEX-_RY
 youtube_url: https://www.youtube.com/watch?v=W-_kJEX-_RY
 tags: []
+topics: []
 transcript: true
 ---
 

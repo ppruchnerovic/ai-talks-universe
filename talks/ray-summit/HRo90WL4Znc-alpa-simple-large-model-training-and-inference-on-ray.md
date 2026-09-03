@@ -4,7 +4,7 @@ title: "Alpa - Simple large model training and inference on Ray"
 slug: alpa-simple-large-model-training-and-inference-on-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: HRo90WL4Znc
 url: https://www.youtube.com/watch?v=HRo90WL4Znc
 youtube_url: https://www.youtube.com/watch?v=HRo90WL4Znc
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

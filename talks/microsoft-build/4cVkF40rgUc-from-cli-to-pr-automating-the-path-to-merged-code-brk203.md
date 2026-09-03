@@ -4,7 +4,7 @@ title: "From CLI to PR: Automating the path to merged code | BRK203"
 slug: from-cli-to-pr-automating-the-path-to-merged-code-brk203
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Cassidy Williams", "Evan Boyle"]
@@ -15,6 +15,7 @@ video_id: 4cVkF40rgUc
 url: https://www.youtube.com/watch?v=4cVkF40rgUc
 youtube_url: https://www.youtube.com/watch?v=4cVkF40rgUc
 tags: ["Agentic SDLC", "Agents", "BRK203", "BRK203_v2", "Cassidy Williams", "DevTools", "Developer", "Developer Tools & Frameworks", "Evan Boyle", "From CLI to PR: Automating the path to merged code | BRK203", "GitHub", "GitHub Actions", "GitHub Copilot", "GitHub Copilot CLI", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

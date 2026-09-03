@@ -4,7 +4,7 @@ title: "Dangerous Reactivity: Why AI Output Is the New XSS - Ramona Schwering - 
 slug: dangerous-reactivity-why-ai-output-is-the-new-xss-ramona
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Ramona Schwering"]
@@ -15,6 +15,7 @@ video_id: 1uhV9yR-WZg
 url: https://www.youtube.com/watch?v=1uhV9yR-WZg
 youtube_url: https://www.youtube.com/watch?v=1uhV9yR-WZg
 tags: ["JavaScript", "Security", "GenAI", "OWASP", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Ramona Schwering"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

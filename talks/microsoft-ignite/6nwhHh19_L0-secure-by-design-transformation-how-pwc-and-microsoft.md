@@ -4,7 +4,7 @@ title: "Secure-by-design transformation: How PwC and Microsoft Purview are shapi
 slug: secure-by-design-transformation-how-pwc-and-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6nwhHh19_L0
 url: https://www.youtube.com/watch?v=6nwhHh19_L0
 youtube_url: https://www.youtube.com/watch?v=6nwhHh19_L0
 tags: ["English (US)", "Financial Services", "STUDIOSP75", "STUDIOSP75_v2", "Secure your data", "Secure-by-design transformation: How PwC and Microsoft Purview are shaping the | STUDIOSP75", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

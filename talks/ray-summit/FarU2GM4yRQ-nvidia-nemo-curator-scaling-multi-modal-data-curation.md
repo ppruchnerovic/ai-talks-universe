@@ -4,7 +4,7 @@ title: "NVIDIA NeMo Curator: Scaling Multi-Modal Data Curation Workflows | Ray S
 slug: nvidia-nemo-curator-scaling-multi-modal-data-curation
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: FarU2GM4yRQ
 url: https://www.youtube.com/watch?v=FarU2GM4yRQ
 youtube_url: https://www.youtube.com/watch?v=FarU2GM4yRQ
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

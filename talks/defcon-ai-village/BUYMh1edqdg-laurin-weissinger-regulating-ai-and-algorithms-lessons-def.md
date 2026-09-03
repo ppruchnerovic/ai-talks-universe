@@ -4,7 +4,7 @@ title: "Laurin Weissinger - Regulating AI and Algorithms Lessons - DEF CON 27 AI
 slug: laurin-weissinger-regulating-ai-and-algorithms-lessons-def
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Laurin Weissinger"]
@@ -15,6 +15,7 @@ video_id: BUYMh1edqdg
 url: https://www.youtube.com/watch?v=BUYMh1edqdg
 youtube_url: https://www.youtube.com/watch?v=BUYMh1edqdg
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

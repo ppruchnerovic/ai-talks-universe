@@ -4,7 +4,7 @@ title: "Your agent anywhere: MultiClient MultiDevice with GitHub Copilot SDK | B
 slug: your-agent-anywhere-multiclient-multidevice-with-github
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Steve Sanderson", "Patrick Nikoletich"]
@@ -15,6 +15,7 @@ video_id: 3N5h_jb3PS0
 url: https://www.youtube.com/watch?v=3N5h_jb3PS0
 youtube_url: https://www.youtube.com/watch?v=3N5h_jb3PS0
 tags: ["77be1034-59af-4388-bdb6-37a99f2acae7_M9Z7-BRK206-R1-1", "API", "Agentic SDLC", "Agents", "BRK206-R1", "DevTools", "Developer", "Developer Tools & Frameworks", "GitHub", "GitHub Copilot", "GitHub Copilot CLI", "Patrick Nikoletich", "Steve Sanderson", "Your agent anywhere: MultiClient MultiDevice with GitHub Copilot SDK | BRK206-R1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

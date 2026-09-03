@@ -4,7 +4,7 @@ title: "AI Frontiers: Annie Hill (OpenAI DevDay)"
 slug: ai-frontiers-annie-hill-openai-devday
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: wCJejxhpz-w
 url: https://www.youtube.com/watch?v=wCJejxhpz-w
 youtube_url: https://www.youtube.com/watch?v=wCJejxhpz-w
 tags: []
+topics: []
 transcript: false
 ---
 

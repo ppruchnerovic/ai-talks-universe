@@ -4,7 +4,7 @@ title: "Open Evidence Captures Doctors’ Collective Wisdom with AI ft. Zachary 
 slug: open-evidence-captures-doctors-collective-wisdom-with-ai-ft
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: nPOZ1nA2RIw
 url: https://www.youtube.com/watch?v=nPOZ1nA2RIw
 youtube_url: https://www.youtube.com/watch?v=nPOZ1nA2RIw
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

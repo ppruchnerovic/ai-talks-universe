@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Unlocking agentic AI access for microservices (ARC3
 slug: aws-re-invent-2025-unlocking-agentic-ai-access-for
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9PgvU-76228
 url: https://www.youtube.com/watch?v=9PgvU-76228
 youtube_url: https://www.youtube.com/watch?v=9PgvU-76228
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

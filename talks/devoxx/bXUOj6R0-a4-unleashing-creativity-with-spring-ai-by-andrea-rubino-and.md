@@ -4,7 +4,7 @@ title: "Unleashing Creativity with Spring AI by Andrea Rubino and Matteo Codogno
 slug: unleashing-creativity-with-spring-ai-by-andrea-rubino-and
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Andrea Rubino", "Matteo Codogno"]
@@ -15,6 +15,7 @@ video_id: bXUOj6R0-a4
 url: https://www.youtube.com/watch?v=bXUOj6R0-a4
 youtube_url: https://www.youtube.com/watch?v=bXUOj6R0-a4
 tags: []
+topics: []
 transcript: false
 ---
 

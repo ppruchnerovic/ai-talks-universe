@@ -4,7 +4,7 @@ title: "Keynote: Where AI Meets the Physical World: The Robot MCP Ecosystem as a
 slug: keynote-where-ai-meets-the-physical-world-the-robot-mcp
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: KiJCHbzS3BM
 url: https://www.youtube.com/watch?v=KiJCHbzS3BM
 youtube_url: https://www.youtube.com/watch?v=KiJCHbzS3BM
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

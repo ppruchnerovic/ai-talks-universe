@@ -4,7 +4,7 @@ title: "Softness at Work: Weakness or the Ultimate Leadership Asset?"
 slug: softness-at-work-weakness-or-the-ultimate-leadership-asset
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: oT0YcuLWbds
 url: https://www.youtube.com/watch?v=oT0YcuLWbds
 youtube_url: https://www.youtube.com/watch?v=oT0YcuLWbds
 tags: ["softness at work", "leadership asset", "HR podcast", "somatic coaching", "business psychologist", "empathy in business", "self respect tips", "AI impact HR", "failure culture", "company culture", "human connection", "performance driven teams", "emotional regulation", "professional development", "mindset transformation"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

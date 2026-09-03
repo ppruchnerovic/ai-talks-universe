@@ -4,7 +4,7 @@ title: "From Research to AI Startup: Optimizing the grocery supply chain | AI an
 slug: from-research-to-ai-startup-optimizing-the-grocery-supply
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: tWmnMKFWzQA
 url: https://www.youtube.com/watch?v=tWmnMKFWzQA
 youtube_url: https://www.youtube.com/watch?v=tWmnMKFWzQA
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

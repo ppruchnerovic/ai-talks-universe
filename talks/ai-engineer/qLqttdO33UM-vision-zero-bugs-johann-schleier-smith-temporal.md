@@ -4,7 +4,7 @@ title: "Vision: Zero Bugs — Johann Schleier-Smith, Temporal"
 slug: vision-zero-bugs-johann-schleier-smith-temporal
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qLqttdO33UM
 url: https://www.youtube.com/watch?v=qLqttdO33UM
 youtube_url: https://www.youtube.com/watch?v=qLqttdO33UM
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

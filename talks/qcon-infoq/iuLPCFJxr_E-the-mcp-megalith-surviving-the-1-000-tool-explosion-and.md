@@ -4,7 +4,7 @@ title: "The MCP Megalith: Surviving the 1,000-Tool Explosion and Auth Fragmentat
 slug: the-mcp-megalith-surviving-the-1-000-tool-explosion-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: iuLPCFJxr_E
 url: https://www.youtube.com/watch?v=iuLPCFJxr_E
 youtube_url: https://www.youtube.com/watch?v=iuLPCFJxr_E
 tags: ["MCP Protocol", "Model Context Protocol", "AI Agents", "Enterprise AI", "LLM Security", "AI Engineering", "Generative AI", "API Design"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

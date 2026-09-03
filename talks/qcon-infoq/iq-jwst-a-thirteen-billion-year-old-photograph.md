@@ -4,7 +4,7 @@ title: "A Thirteen Billion-Year-Old Photograph"
 slug: a-thirteen-billion-year-old-photograph
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Kenneth Harris"]
@@ -15,6 +15,7 @@ video_id: iq-jwst
 url: https://www.infoq.com/presentations/jwst/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

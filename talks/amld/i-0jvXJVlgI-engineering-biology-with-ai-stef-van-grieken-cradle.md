@@ -4,7 +4,7 @@ title: "Engineering Biology with AI | Stef van Grieken, Cradle"
 slug: engineering-biology-with-ai-stef-van-grieken-cradle
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["Stef van Grieken"]
@@ -15,6 +15,7 @@ video_id: i-0jvXJVlgI
 url: https://www.youtube.com/watch?v=i-0jvXJVlgI
 youtube_url: https://www.youtube.com/watch?v=i-0jvXJVlgI
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

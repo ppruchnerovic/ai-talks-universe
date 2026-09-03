@@ -4,7 +4,7 @@ title: "Your Roadmap to a Fulfilling Career: the Pillars of Staff+ Growth"
 slug: your-roadmap-to-a-fulfilling-career-the-pillars-of-staff
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["David Grizzanti"]
@@ -15,6 +15,7 @@ video_id: iq-roadmap-staff-growth
 url: https://www.infoq.com/presentations/roadmap-staff-growth/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "How agents broke app-level infrastructure - Evan Boyle"
 slug: how-agents-broke-app-level-infrastructure-evan-boyle
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Evan Boyle"]
@@ -15,6 +15,7 @@ video_id: _-oIuRH4oGA
 url: https://www.youtube.com/watch?v=_-oIuRH4oGA
 youtube_url: https://www.youtube.com/watch?v=_-oIuRH4oGA
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

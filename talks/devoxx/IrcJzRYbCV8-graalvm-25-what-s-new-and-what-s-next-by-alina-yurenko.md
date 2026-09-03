@@ -4,7 +4,7 @@ title: "GraalVM 25: What's New and What's Next by Alina Yurenko"
 slug: graalvm-25-what-s-new-and-what-s-next-by-alina-yurenko
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Alina Yurenko"]
@@ -15,6 +15,7 @@ video_id: IrcJzRYbCV8
 url: https://www.youtube.com/watch?v=IrcJzRYbCV8
 youtube_url: https://www.youtube.com/watch?v=IrcJzRYbCV8
 tags: []
+topics: []
 transcript: true
 ---
 

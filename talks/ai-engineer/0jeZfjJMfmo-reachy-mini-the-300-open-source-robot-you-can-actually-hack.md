@@ -4,7 +4,7 @@ title: "Reachy Mini: the $300 open source robot you can actually hack — Andres
 slug: reachy-mini-the-300-open-source-robot-you-can-actually-hack
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Andres Marafioti"]
@@ -15,6 +15,7 @@ video_id: 0jeZfjJMfmo
 url: https://www.youtube.com/watch?v=0jeZfjJMfmo
 youtube_url: https://www.youtube.com/watch?v=0jeZfjJMfmo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

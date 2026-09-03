@@ -4,7 +4,7 @@ title: "Securing the Future of AI: Authorization Strategies for RAG Systems with
 slug: securing-the-future-of-ai-authorization-strategies-for-rag
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: jCLtfvO_h_E
 url: https://www.youtube.com/watch?v=jCLtfvO_h_E
 youtube_url: https://www.youtube.com/watch?v=jCLtfvO_h_E
 tags: []
+topics: ["Governance, ethics & regulation", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

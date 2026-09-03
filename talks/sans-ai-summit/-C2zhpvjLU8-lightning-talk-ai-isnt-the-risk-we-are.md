@@ -4,7 +4,7 @@ title: "Lightning Talk: AI Isn’t the Risk — We Are"
 slug: lightning-talk-ai-isnt-the-risk-we-are
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: ["We Are"]
@@ -15,6 +15,7 @@ video_id: -C2zhpvjLU8
 url: https://www.youtube.com/watch?v=-C2zhpvjLU8
 youtube_url: https://www.youtube.com/watch?v=-C2zhpvjLU8
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Qontinental Shift: Building the Future of Fintech | Alexandre Prot (Qont
 slug: qontinental-shift-building-the-future-of-fintech-alexandre
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Alexandre Prot"]
@@ -15,6 +15,7 @@ video_id: Roh2afpFCTY
 url: https://www.youtube.com/watch?v=Roh2afpFCTY
 youtube_url: https://www.youtube.com/watch?v=Roh2afpFCTY
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

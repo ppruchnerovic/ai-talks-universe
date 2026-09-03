@@ -4,7 +4,7 @@ title: "RIG-RAG: A GraphRAG Inspired Approach to Agentic Cloud Infrastructure"
 slug: rig-rag-a-graphrag-inspired-approach-to-agentic-cloud
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Benji Lilley"]
@@ -15,6 +15,7 @@ video_id: sD8JRruGMxQ
 url: https://www.youtube.com/watch?v=sD8JRruGMxQ
 youtube_url: https://www.youtube.com/watch?v=sD8JRruGMxQ
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

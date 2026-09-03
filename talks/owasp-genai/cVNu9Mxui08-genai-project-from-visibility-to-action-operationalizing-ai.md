@@ -4,7 +4,7 @@ title: "GenAI Project | From Visibility to Action Operationalizing AI Supply Cha
 slug: genai-project-from-visibility-to-action-operationalizing-ai
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Helen Oakley"]
@@ -15,6 +15,7 @@ video_id: cVNu9Mxui08
 url: https://www.youtube.com/watch?v=cVNu9Mxui08
 youtube_url: https://www.youtube.com/watch?v=cVNu9Mxui08
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Prompting & context engineering", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

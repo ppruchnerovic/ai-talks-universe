@@ -4,7 +4,7 @@ title: "A Song of Types and Agents - Roberto Stagi, Ratel"
 slug: a-song-of-types-and-agents-roberto-stagi-ratel
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Roberto Stagi"]
@@ -15,6 +15,7 @@ video_id: UlFB6efYN5Q
 url: https://www.youtube.com/watch?v=UlFB6efYN5Q
 youtube_url: https://www.youtube.com/watch?v=UlFB6efYN5Q
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

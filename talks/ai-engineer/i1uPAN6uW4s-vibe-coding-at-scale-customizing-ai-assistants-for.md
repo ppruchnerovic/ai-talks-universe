@@ -4,7 +4,7 @@ title: "Vibe Coding at Scale: Customizing AI Assistants for Enterprise Environme
 slug: vibe-coding-at-scale-customizing-ai-assistants-for
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Harald Kirshner"]
@@ -15,6 +15,7 @@ video_id: i1uPAN6uW4s
 url: https://www.youtube.com/watch?v=i1uPAN6uW4s
 youtube_url: https://www.youtube.com/watch?v=i1uPAN6uW4s
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The Dark Side of AI: The Hidden Supply Chain Risks in Open... - Jossef K
 slug: the-dark-side-of-ai-the-hidden-supply-chain-risks-in-open
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Jossef Kadouri", "Tzachi Zornshtain"]
@@ -15,6 +15,7 @@ video_id: Z5XrJifEFCM
 url: https://www.youtube.com/watch?v=Z5XrJifEFCM
 youtube_url: https://www.youtube.com/watch?v=Z5XrJifEFCM
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

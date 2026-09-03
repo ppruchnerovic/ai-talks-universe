@@ -4,7 +4,7 @@ title: "Reimagining software development with GitHub Copilot and AI agents | BRK
 slug: reimagining-software-development-with-github-copilot-and-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Mario Rodriguez", "Luke Hoban"]
@@ -15,6 +15,7 @@ video_id: 5Kfb2Zicn0A
 url: https://www.youtube.com/watch?v=5Kfb2Zicn0A
 youtube_url: https://www.youtube.com/watch?v=5Kfb2Zicn0A
 tags: ["BRK105", "BRK105_v2", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:GitHub", "Luke Hoban", "Mario Rodriguez", "Reimagining software development with GitHub Copilot and AI agents | BRK105", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

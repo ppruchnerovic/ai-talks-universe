@@ -4,7 +4,7 @@ title: "How Kepler Built Verifiable AI for Financial Services — Vinoo Ganesh"
 slug: how-kepler-built-verifiable-ai-for-financial-services-vinoo
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vinoo Ganesh"]
@@ -15,6 +15,7 @@ video_id: Tt2kX2sgQio
 url: https://www.youtube.com/watch?v=Tt2kX2sgQio
 youtube_url: https://www.youtube.com/watch?v=Tt2kX2sgQio
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

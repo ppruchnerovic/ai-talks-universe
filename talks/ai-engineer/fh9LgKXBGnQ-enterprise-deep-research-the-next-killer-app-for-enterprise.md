@@ -4,7 +4,7 @@ title: "Enterprise Deep Research: The Next Killer App for Enterprise AI — Ofer
 slug: enterprise-deep-research-the-next-killer-app-for-enterprise
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ofer Mendelevitch"]
@@ -15,6 +15,7 @@ video_id: fh9LgKXBGnQ
 url: https://www.youtube.com/watch?v=fh9LgKXBGnQ
 youtube_url: https://www.youtube.com/watch?v=fh9LgKXBGnQ
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

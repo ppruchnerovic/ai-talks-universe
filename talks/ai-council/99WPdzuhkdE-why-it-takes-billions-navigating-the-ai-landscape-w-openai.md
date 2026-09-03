@@ -4,7 +4,7 @@ title: "Why it Takes Billions: Navigating the AI landscape w/ OpenAI, Google and
 slug: why-it-takes-billions-navigating-the-ai-landscape-w-openai
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Joey Gonzalez"]
@@ -15,6 +15,7 @@ video_id: 99WPdzuhkdE
 url: https://www.youtube.com/watch?v=99WPdzuhkdE
 youtube_url: https://www.youtube.com/watch?v=99WPdzuhkdE
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

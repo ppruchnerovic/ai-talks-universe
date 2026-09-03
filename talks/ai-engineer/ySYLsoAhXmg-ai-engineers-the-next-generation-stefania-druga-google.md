@@ -4,7 +4,7 @@ title: "AI Engineers: The Next Generation — Stefania Druga, Google Gemini"
 slug: ai-engineers-the-next-generation-stefania-druga-google
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Stefania Druga"]
@@ -15,6 +15,7 @@ video_id: ySYLsoAhXmg
 url: https://www.youtube.com/watch?v=ySYLsoAhXmg
 youtube_url: https://www.youtube.com/watch?v=ySYLsoAhXmg
 tags: []
+topics: []
 transcript: false
 ---
 

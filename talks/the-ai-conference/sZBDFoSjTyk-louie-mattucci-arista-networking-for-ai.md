@@ -4,7 +4,7 @@ title: "Louie Mattucci, Arista: Networking for AI"
 slug: louie-mattucci-arista-networking-for-ai
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: sZBDFoSjTyk
 url: https://www.youtube.com/watch?v=sZBDFoSjTyk
 youtube_url: https://www.youtube.com/watch?v=sZBDFoSjTyk
 tags: []
+topics: []
 transcript: false
 ---
 

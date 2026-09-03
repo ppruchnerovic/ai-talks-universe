@@ -4,7 +4,7 @@ title: "That Gambling Site? It's Fueled by Chinese Organized Crime"
 slug: that-gambling-site-it-s-fueled-by-chinese-organized-crime
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: ["Chinese Organized Crime"]
@@ -15,6 +15,7 @@ video_id: YUNeJZ4ENkY
 url: https://www.youtube.com/watch?v=YUNeJZ4ENkY
 youtube_url: https://www.youtube.com/watch?v=YUNeJZ4ENkY
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

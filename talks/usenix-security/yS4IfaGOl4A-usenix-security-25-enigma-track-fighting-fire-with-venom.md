@@ -4,7 +4,7 @@ title: "USENIX Security '25 (Enigma Track) - Fighting Fire with Venom: Adversari
 slug: usenix-security-25-enigma-track-fighting-fire-with-venom
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: yS4IfaGOl4A
 url: https://www.youtube.com/watch?v=yS4IfaGOl4A
 youtube_url: https://www.youtube.com/watch?v=yS4IfaGOl4A
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

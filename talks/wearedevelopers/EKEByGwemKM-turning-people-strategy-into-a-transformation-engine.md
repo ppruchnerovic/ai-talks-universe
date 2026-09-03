@@ -4,7 +4,7 @@ title: "Turning People Strategy into a Transformation Engine"
 slug: turning-people-strategy-into-a-transformation-engine
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: EKEByGwemKM
 url: https://www.youtube.com/watch?v=EKEByGwemKM
 youtube_url: https://www.youtube.com/watch?v=EKEByGwemKM
 tags: ["people strategy", "transformation", "community", "people and culture", "HR", "development", "personal development", "culture", "mobility", "upskilling", "people", "change management", "change"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

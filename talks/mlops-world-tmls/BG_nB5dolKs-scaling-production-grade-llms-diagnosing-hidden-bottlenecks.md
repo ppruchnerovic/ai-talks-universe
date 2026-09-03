@@ -4,7 +4,7 @@ title: "Scaling Production-Grade LLMs: Diagnosing Hidden Bottlenecks in Training
 slug: scaling-production-grade-llms-diagnosing-hidden-bottlenecks
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: BG_nB5dolKs
 url: https://www.youtube.com/watch?v=BG_nB5dolKs
 youtube_url: https://www.youtube.com/watch?v=BG_nB5dolKs
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

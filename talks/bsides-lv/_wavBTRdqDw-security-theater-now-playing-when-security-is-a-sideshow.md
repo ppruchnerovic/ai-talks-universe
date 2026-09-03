@@ -4,7 +4,7 @@ title: "Security Theater, Now Playing: When Security Is a Sideshow Instead of a 
 slug: security-theater-now-playing-when-security-is-a-sideshow
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _wavBTRdqDw
 url: https://www.youtube.com/watch?v=_wavBTRdqDw
 youtube_url: https://www.youtube.com/watch?v=_wavBTRdqDw
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

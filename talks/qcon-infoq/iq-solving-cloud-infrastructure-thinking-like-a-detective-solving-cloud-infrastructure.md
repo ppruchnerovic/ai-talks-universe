@@ -4,7 +4,7 @@ title: "Thinking Like a Detective: Solving Cloud Infrastructure Mysteries"
 slug: thinking-like-a-detective-solving-cloud-infrastructure
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Brendan McLoughlin"]
@@ -15,6 +15,7 @@ video_id: iq-solving-cloud-infrastructure
 url: https://www.infoq.com/presentations/solving-cloud-infrastructure/
 youtube_url: null
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

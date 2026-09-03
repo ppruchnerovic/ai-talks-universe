@@ -4,7 +4,7 @@ title: "The Data Backbone of LLM Systems"
 slug: the-data-backbone-of-llm-systems
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Paul Iusztin"]
@@ -15,6 +15,7 @@ video_id: iq-llm-data-code-model-prompt
 url: https://www.infoq.com/presentations/llm-data-code-model-prompt/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

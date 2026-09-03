@@ -4,7 +4,7 @@ title: "Inside Metaview: Building Practical AI Agents for the Future of Hiring"
 slug: inside-metaview-building-practical-ai-agents-for-the-future
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7UkxUxwcKaQ
 url: https://www.youtube.com/watch?v=7UkxUxwcKaQ
 youtube_url: https://www.youtube.com/watch?v=7UkxUxwcKaQ
 tags: ["hiring", "ai agents", "people", "culture", "leadership", "agentic AI", "AI", "recruiting", "talent attraction", "automation", "tools"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

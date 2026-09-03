@@ -4,7 +4,7 @@ title: "DNS-like Trust Layer for Secure, Scalable AI-Agent Deployments on Kubern
 slug: dns-like-trust-layer-for-secure-scalable-ai-agent
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Akshay Mittal"]
@@ -15,6 +15,7 @@ video_id: 1ruNoMCpt80
 url: https://www.youtube.com/watch?v=1ruNoMCpt80
 youtube_url: https://www.youtube.com/watch?v=1ruNoMCpt80
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "KubeVirt's Evolution: Governance, Features, and Community Growth - Sreej
 slug: kubevirt-s-evolution-governance-features-and-community
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Sreeja Varnam", "Luboslav Pivarc"]
@@ -15,6 +15,7 @@ video_id: goCjV2xJDnk
 url: https://www.youtube.com/watch?v=goCjV2xJDnk
 youtube_url: https://www.youtube.com/watch?v=goCjV2xJDnk
 tags: []
+topics: ["Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Reduce endpoint complexity and prepare for AI | OD853"
 slug: reduce-endpoint-complexity-and-prepare-for-ai-od853
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ryan Argall", "Jenny Woodbury"]
@@ -15,6 +15,7 @@ video_id: LwWQvtYustI
 url: https://www.youtube.com/watch?v=LwWQvtYustI
 youtube_url: https://www.youtube.com/watch?v=LwWQvtYustI
 tags: ["English (US)", "Jenny Woodbury", "Modern Work", "OD853", "Partner", "Pre-recorded", "Reduce endpoint complexity and prepare for AI | OD853", "Ryan Argall", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

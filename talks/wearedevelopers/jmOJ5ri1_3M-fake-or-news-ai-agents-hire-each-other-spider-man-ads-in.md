@@ -4,7 +4,7 @@ title: "Fake or News: AI Agents Hire Each Other, Spider-Man Ads in Cars & RAM Th
 slug: fake-or-news-ai-agents-hire-each-other-spider-man-ads-in
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: jmOJ5ri1_3M
 url: https://www.youtube.com/watch?v=jmOJ5ri1_3M
 youtube_url: https://www.youtube.com/watch?v=jmOJ5ri1_3M
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

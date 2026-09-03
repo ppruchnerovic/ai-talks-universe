@@ -4,7 +4,7 @@ title: "GitHub Copilot & GitHub Advanced Security - A Quick Tour • Karl Krukow
 slug: github-copilot-github-advanced-security-a-quick-tour-karl
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["A Quick Tour", "Karl Krukow"]
@@ -15,6 +15,7 @@ video_id: ul5vjXTNSsE
 url: https://www.youtube.com/watch?v=ul5vjXTNSsE
 youtube_url: https://www.youtube.com/watch?v=ul5vjXTNSsE
 tags: []
+topics: ["Coding assistants & agents", "Security, safety & red teaming"]
 transcript: false
 ---
 

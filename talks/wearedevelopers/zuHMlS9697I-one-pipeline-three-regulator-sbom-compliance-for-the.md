@@ -4,7 +4,7 @@ title: "One Pipeline, Three Regulator - SBOM Compliance for the Developer"
 slug: one-pipeline-three-regulator-sbom-compliance-for-the
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Marcus Ross"]
@@ -15,6 +15,7 @@ video_id: zuHMlS9697I
 url: https://www.youtube.com/watch?v=zuHMlS9697I
 youtube_url: https://www.youtube.com/watch?v=zuHMlS9697I
 tags: ["Security & Privacy", "Automation", "Compliance", "DevSecOps", "People & Culture", "SBOM", "Software Architecture"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Modernizing Java applications with generative AI (D
 slug: aws-re-invent-2025-modernizing-java-applications-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: MfaRnbg217g
 url: https://www.youtube.com/watch?v=MfaRnbg217g
 youtube_url: https://www.youtube.com/watch?v=MfaRnbg217g
 tags: []
+topics: []
 transcript: false
 ---
 

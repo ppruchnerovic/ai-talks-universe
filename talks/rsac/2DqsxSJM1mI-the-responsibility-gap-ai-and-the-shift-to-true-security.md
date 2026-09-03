@@ -4,7 +4,7 @@ title: "The Responsibility Gap: AI and the Shift to True Security Accountability
 slug: the-responsibility-gap-ai-and-the-shift-to-true-security
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2DqsxSJM1mI
 url: https://www.youtube.com/watch?v=2DqsxSJM1mI
 youtube_url: https://www.youtube.com/watch?v=2DqsxSJM1mI
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Confessions of a Software Archaeologist: What I Did Wrong in 10 Years of
 slug: confessions-of-a-software-archaeologist-what-i-did-wrong-in
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Hendrik Lösch"]
@@ -15,6 +15,7 @@ video_id: 89BK7xYZHZM
 url: https://www.youtube.com/watch?v=89BK7xYZHZM
 youtube_url: https://www.youtube.com/watch?v=89BK7xYZHZM
 tags: ["Software Architecture", "Communication", "Project Management", "Software Architecture"]
+topics: []
 transcript: true
 ---
 

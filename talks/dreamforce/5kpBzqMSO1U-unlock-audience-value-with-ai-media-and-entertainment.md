@@ -4,7 +4,7 @@ title: "Unlock Audience Value with AI | Media and Entertainment Keynote, Dreamfo
 slug: unlock-audience-value-with-ai-media-and-entertainment
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5kpBzqMSO1U
 url: https://www.youtube.com/watch?v=5kpBzqMSO1U
 youtube_url: https://www.youtube.com/watch?v=5kpBzqMSO1U
 tags: []
+topics: []
 transcript: false
 ---
 

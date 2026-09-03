@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Rewriting the Code: Forging the future with AI, Emp
 slug: aws-re-invent-2025-rewriting-the-code-forging-the-future
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: gvz991i9PR4
 url: https://www.youtube.com/watch?v=gvz991i9PR4
 youtube_url: https://www.youtube.com/watch?v=gvz991i9PR4
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "How to Conquer Data Drift & Prevent Stale Models in Production using DVC
 slug: how-to-conquer-data-drift-prevent-stale-models-in
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: z-wW2uwDDnA
 url: https://www.youtube.com/watch?v=z-wW2uwDDnA
 youtube_url: https://www.youtube.com/watch?v=z-wW2uwDDnA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: []
 transcript: false
 ---
 

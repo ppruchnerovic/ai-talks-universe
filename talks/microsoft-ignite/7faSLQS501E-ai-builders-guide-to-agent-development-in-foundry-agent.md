@@ -4,7 +4,7 @@ title: "AI builder’s guide to agent development in Foundry Agent Service | BRK
 slug: ai-builders-guide-to-agent-development-in-foundry-agent
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Salman Quazi", "Dan Taylor", "Travis Wilson"]
@@ -15,6 +15,7 @@ video_id: 7faSLQS501E
 url: https://www.youtube.com/watch?v=7faSLQS501E
 youtube_url: https://www.youtube.com/watch?v=7faSLQS501E
 tags: ["3c652760-18ba-411a-86ca-bd5779186619_Segment", "AI builder’s guide to agent development in Foundry Agent Service | BRK201", "BRK201", "Dan Taylor", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Salman Quazi", "Technical", "Travis Wilson", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Faraz Shafiq - Reimagining Banking in the AI Era"
 slug: faraz-shafiq-reimagining-banking-in-the-ai-era
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Faraz Shafiq"]
@@ -15,6 +15,7 @@ video_id: oU1i00Pn9Jk
 url: https://www.youtube.com/watch?v=oU1i00Pn9Jk
 youtube_url: https://www.youtube.com/watch?v=oU1i00Pn9Jk
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

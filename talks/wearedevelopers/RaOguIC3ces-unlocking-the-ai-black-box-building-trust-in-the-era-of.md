@@ -4,7 +4,7 @@ title: "Unlocking the AI Black Box: Building Trust in the Era of Agentic Product
 slug: unlocking-the-ai-black-box-building-trust-in-the-era-of
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Harry Kimpel", "Jemiah Sius"]
@@ -15,6 +15,7 @@ video_id: RaOguIC3ces
 url: https://www.youtube.com/watch?v=RaOguIC3ces
 youtube_url: https://www.youtube.com/watch?v=RaOguIC3ces
 tags: ["AI Engineering", "AI Standards", "Agentic AI", "Compliance", "DevOps", "Large Language Models (LLMs)", "LLMOps", "Observability", "Reliability", "Site Reliability Engineering (SRE)"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

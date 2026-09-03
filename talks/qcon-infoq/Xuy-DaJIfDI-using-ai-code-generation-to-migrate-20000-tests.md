@@ -4,7 +4,7 @@ title: "Using AI Code Generation to Migrate 20000 Tests"
 slug: using-ai-code-generation-to-migrate-20000-tests
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Xuy-DaJIfDI
 url: https://www.youtube.com/watch?v=Xuy-DaJIfDI
 youtube_url: https://www.youtube.com/watch?v=Xuy-DaJIfDI
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

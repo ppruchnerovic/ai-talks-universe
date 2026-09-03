@@ -4,7 +4,7 @@ title: "dotAI 2024 - Clara Chappaz - Message from the Secretary of State for AI 
 slug: dotai-2024-clara-chappaz-message-from-the-secretary-of
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Clara Chappaz"]
@@ -15,6 +15,7 @@ video_id: nfmXdYzMqEI
 url: https://www.youtube.com/watch?v=nfmXdYzMqEI
 youtube_url: https://www.youtube.com/watch?v=nfmXdYzMqEI
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Making my Apache Spark™ talk more interesting using AI [PyCon DE & PyD
 slug: making-my-apache-sparktm-talk-more-interesting-using-ai
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Celeste Horgan"]
@@ -15,6 +15,7 @@ video_id: 0dZU2qzoFhA
 url: https://www.youtube.com/watch?v=0dZU2qzoFhA
 youtube_url: https://www.youtube.com/watch?v=0dZU2qzoFhA
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

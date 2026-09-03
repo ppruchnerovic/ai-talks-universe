@@ -4,7 +4,7 @@ title: "Exploring Foundation Models for Generalist Biomedical AI | Shekoofeh Azi
 slug: exploring-foundation-models-for-generalist-biomedical-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Shekoofeh Azizi"]
@@ -15,6 +15,7 @@ video_id: hQ-TQyH5WYU
 url: https://www.youtube.com/watch?v=hQ-TQyH5WYU
 youtube_url: https://www.youtube.com/watch?v=hQ-TQyH5WYU
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

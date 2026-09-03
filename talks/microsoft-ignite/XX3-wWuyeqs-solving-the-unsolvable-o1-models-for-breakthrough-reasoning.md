@@ -4,7 +4,7 @@ title: "Solving the unsolvable: o1 models for breakthrough reasoning on Azure | 
 slug: solving-the-unsolvable-o1-models-for-breakthrough-reasoning
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Marco Casalaina", "Jennifer Marsman"]
@@ -15,6 +15,7 @@ video_id: XX3-wWuyeqs
 url: https://www.youtube.com/watch?v=XX3-wWuyeqs
 youtube_url: https://www.youtube.com/watch?v=XX3-wWuyeqs
 tags: ["AI", "AI-Curated", "BRK110", "Breakout", "English (US)", "Jennifer Marsman", "Marco Casalaina", "Solving the unsolvable: o1 models for breakthrough reasoning on Azure | BRK110", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

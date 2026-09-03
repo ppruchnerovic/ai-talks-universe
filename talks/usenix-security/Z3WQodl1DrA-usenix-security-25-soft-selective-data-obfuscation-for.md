@@ -4,7 +4,7 @@ title: "USENIX Security '25 - SOFT: Selective Data Obfuscation for Protecting LL
 slug: usenix-security-25-soft-selective-data-obfuscation-for
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Z3WQodl1DrA
 url: https://www.youtube.com/watch?v=Z3WQodl1DrA
 youtube_url: https://www.youtube.com/watch?v=Z3WQodl1DrA
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

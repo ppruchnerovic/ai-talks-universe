@@ -4,7 +4,7 @@ title: "Accelerate AI on NVIDIA RTX AI PCs with Windows ML | DEMFP796"
 slug: accelerate-ai-on-nvidia-rtx-ai-pcs-with-windows-ml-demfp796
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: TuEE95ireF0
 url: https://www.youtube.com/watch?v=TuEE95ireF0
 youtube_url: https://www.youtube.com/watch?v=TuEE95ireF0
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

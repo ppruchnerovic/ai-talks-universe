@@ -4,7 +4,7 @@ title: "Build AI agents at scale with Google Cloud"
 slug: build-ai-agents-at-scale-with-google-cloud
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Brian Delahunty", "Michael Gerstenhaber", "Addy Osmani"]
@@ -15,6 +15,7 @@ video_id: ZRs1PHngOIA
 url: https://www.youtube.com/watch?v=ZRs1PHngOIA
 youtube_url: https://www.youtube.com/watch?v=ZRs1PHngOIA
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

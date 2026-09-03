@@ -4,7 +4,7 @@ title: "Coding a Multi-Agent Game Master with Spring AI by Alessandra Pasini and
 slug: coding-a-multi-agent-game-master-with-spring-ai-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Alessandra Pasini", "Arnaud Jean"]
@@ -15,6 +15,7 @@ video_id: KDHFBVaVkLU
 url: https://www.youtube.com/watch?v=KDHFBVaVkLU
 youtube_url: https://www.youtube.com/watch?v=KDHFBVaVkLU
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "InQuery | AI Launchpad '24"
 slug: inquery-ai-launchpad-24
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Erick Enriquez"]
@@ -15,6 +15,7 @@ video_id: 8f1VB2ufNHc
 url: https://www.youtube.com/watch?v=8f1VB2ufNHc
 youtube_url: https://www.youtube.com/watch?v=8f1VB2ufNHc
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

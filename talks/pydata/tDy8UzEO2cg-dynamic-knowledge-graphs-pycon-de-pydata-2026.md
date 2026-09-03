@@ -4,7 +4,7 @@ title: "Dynamic Knowledge Graphs [PyCon DE & PyData 2026]"
 slug: dynamic-knowledge-graphs-pycon-de-pydata-2026
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Jakob Leander Müller"]
@@ -15,6 +15,7 @@ video_id: tDy8UzEO2cg
 url: https://www.youtube.com/watch?v=tDy8UzEO2cg
 youtube_url: https://www.youtube.com/watch?v=tDy8UzEO2cg
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

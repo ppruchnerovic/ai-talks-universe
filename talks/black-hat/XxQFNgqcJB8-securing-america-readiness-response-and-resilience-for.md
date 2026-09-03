@@ -4,7 +4,7 @@ title: "Securing America: Readiness, Response, and Resilience for Critical Infra
 slug: securing-america-readiness-response-and-resilience-for
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: XxQFNgqcJB8
 url: https://www.youtube.com/watch?v=XxQFNgqcJB8
 youtube_url: https://www.youtube.com/watch?v=XxQFNgqcJB8
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

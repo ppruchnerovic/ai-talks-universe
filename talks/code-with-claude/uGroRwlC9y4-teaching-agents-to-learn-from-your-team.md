@@ -4,7 +4,7 @@ title: "Teaching agents to learn from your team"
 slug: teaching-agents-to-learn-from-your-team
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: uGroRwlC9y4
 url: https://www.youtube.com/watch?v=uGroRwlC9y4
 youtube_url: https://www.youtube.com/watch?v=uGroRwlC9y4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

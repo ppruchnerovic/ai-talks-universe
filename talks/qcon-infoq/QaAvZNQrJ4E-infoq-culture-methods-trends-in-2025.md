@@ -4,7 +4,7 @@ title: "InfoQ Culture & Methods Trends in 2025"
 slug: infoq-culture-methods-trends-in-2025
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: QaAvZNQrJ4E
 url: https://www.youtube.com/watch?v=QaAvZNQrJ4E
 youtube_url: https://www.youtube.com/watch?v=QaAvZNQrJ4E
 tags: ["Team Collaboration", "Productivity", "Accessibility", "Psychological Safety", "InfoQ Trends Report", "Training", "Observability", "Teamwork", "Engineering Culture Podcast", "InfoQ Trends Report 2025", "Software Development", "Engineering Leadership"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

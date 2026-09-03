@@ -4,7 +4,7 @@ title: "From Row-Wise to Columnar: Speeding Up PySpark UDFs with Arrow and Polar
 slug: from-row-wise-to-columnar-speeding-up-pyspark-udfs-with
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Aimilios Tsouvelekakis"]
@@ -15,6 +15,7 @@ video_id: Jho624IrxpM
 url: https://www.youtube.com/watch?v=Jho624IrxpM
 youtube_url: https://www.youtube.com/watch?v=Jho624IrxpM
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

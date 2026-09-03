@@ -4,7 +4,7 @@ title: "Generative AI & Harnessing The Power Of Unique LLMs, Bryan Catanzaro, VP
 slug: generative-ai-harnessing-the-power-of-unique-llms-bryan
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: wDux5_KO3Wk
 url: https://www.youtube.com/watch?v=wDux5_KO3Wk
 youtube_url: https://www.youtube.com/watch?v=wDux5_KO3Wk
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Automating Linux Kernel Crash Analysis With LLMs - Chris Arges, Cloudfla
 slug: automating-linux-kernel-crash-analysis-with-llms-chris
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Chris Arges"]
@@ -15,6 +15,7 @@ video_id: VvLeW5XAbUg
 url: https://www.youtube.com/watch?v=VvLeW5XAbUg
 youtube_url: https://www.youtube.com/watch?v=VvLeW5XAbUg
 tags: []
+topics: []
 transcript: true
 ---
 

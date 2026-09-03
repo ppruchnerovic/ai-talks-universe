@@ -4,7 +4,7 @@ title: "Future-Proofing Human Capital for the AI Economy"
 slug: future-proofing-human-capital-for-the-ai-economy
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Grisha Pavlotskyi", "Joël Mesot", "Stephanie Cohen", "Stefan Lehmann", "Fanny Jimenez"]
@@ -15,6 +15,7 @@ video_id: tb1IV_m3Vyo
 url: https://www.youtube.com/watch?v=tb1IV_m3Vyo
 youtube_url: https://www.youtube.com/watch?v=tb1IV_m3Vyo
 tags: ["Talent Strategy"]
+topics: []
 transcript: true
 ---
 

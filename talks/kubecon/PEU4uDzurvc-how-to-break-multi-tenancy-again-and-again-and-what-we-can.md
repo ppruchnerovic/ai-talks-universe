@@ -4,7 +4,7 @@ title: "How To Break Multi-Tenancy Again and Again ...and What We Can Learn F...
 slug: how-to-break-multi-tenancy-again-and-again-and-what-we-can
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: PEU4uDzurvc
 url: https://www.youtube.com/watch?v=PEU4uDzurvc
 youtube_url: https://www.youtube.com/watch?v=PEU4uDzurvc
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

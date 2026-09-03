@@ -4,7 +4,7 @@ title: "Developer Time Is Valuable - Use the Right Tools - Kilian Valkhof"
 slug: developer-time-is-valuable-use-the-right-tools-kilian
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Kilian Valkhof"]
@@ -15,6 +15,7 @@ video_id: YWHXU8Rlpq0
 url: https://www.youtube.com/watch?v=YWHXU8Rlpq0
 youtube_url: https://www.youtube.com/watch?v=YWHXU8Rlpq0
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "The Velocity Tax: The Hidden Cost of Unintentional Feature Alignment"
 slug: the-velocity-tax-the-hidden-cost-of-unintentional-feature
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Tushar Gupta"]
@@ -15,6 +15,7 @@ video_id: 4z5H6egZLnA
 url: https://www.youtube.com/watch?v=4z5H6egZLnA
 youtube_url: https://www.youtube.com/watch?v=4z5H6egZLnA
 tags: ["Software Architecture", "Clean Code", "Event-Driven Architecture (EDA)", "Microservices", "Software Architecture", "System Design"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "When Foundation Models Go Open: Unlocking the Promise From Infrastructur
 slug: when-foundation-models-go-open-unlocking-the-promise-from
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: H860RHMx6xo
 url: https://www.youtube.com/watch?v=H860RHMx6xo
 youtube_url: https://www.youtube.com/watch?v=H860RHMx6xo
 tags: []
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "CDC Stream Processing with Apache Flink"
 slug: cdc-stream-processing-with-apache-flink
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: K2ibvfmFh8Y
 url: https://www.youtube.com/watch?v=K2ibvfmFh8Y
 youtube_url: https://www.youtube.com/watch?v=K2ibvfmFh8Y
 tags: ["Apache Kafka", "SQL", "data streaming", "cdc"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

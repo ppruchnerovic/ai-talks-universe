@@ -4,7 +4,7 @@ title: "The Invisible Monster: The Carbon Footprint of AI by Olivier Bierlaire"
 slug: the-invisible-monster-the-carbon-footprint-of-ai-by-olivier
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Olivier Bierlaire"]
@@ -15,6 +15,7 @@ video_id: DagPSLimU04
 url: https://www.youtube.com/watch?v=DagPSLimU04
 youtube_url: https://www.youtube.com/watch?v=DagPSLimU04
 tags: []
+topics: []
 transcript: false
 ---
 

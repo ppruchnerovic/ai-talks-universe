@@ -4,7 +4,7 @@ title: "AI Dev 25 | Apoorva Joshi: Building Agents That Learn—Managing Memory 
 slug: ai-dev-25-apoorva-joshi-building-agents-that-learnmanaging
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 30Ofh-Myte4
 url: https://www.youtube.com/watch?v=30Ofh-Myte4
 youtube_url: https://www.youtube.com/watch?v=30Ofh-Myte4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

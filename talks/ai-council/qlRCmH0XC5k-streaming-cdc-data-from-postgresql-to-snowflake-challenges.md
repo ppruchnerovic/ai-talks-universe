@@ -4,7 +4,7 @@ title: "Streaming CDC data from PostgreSQL to Snowflake, challenges and solution
 slug: streaming-cdc-data-from-postgresql-to-snowflake-challenges
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Alexandru Cristu"]
@@ -15,6 +15,7 @@ video_id: qlRCmH0XC5k
 url: https://www.youtube.com/watch?v=qlRCmH0XC5k
 youtube_url: https://www.youtube.com/watch?v=qlRCmH0XC5k
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

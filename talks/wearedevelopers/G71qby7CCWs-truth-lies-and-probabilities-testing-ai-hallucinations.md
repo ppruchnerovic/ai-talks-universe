@@ -4,7 +4,7 @@ title: "Truth, Lies, and Probabilities: Testing AI Hallucinations"
 slug: truth-lies-and-probabilities-testing-ai-hallucinations
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Anastasia Simou"]
@@ -15,6 +15,7 @@ video_id: G71qby7CCWs
 url: https://www.youtube.com/watch?v=G71qby7CCWs
 youtube_url: https://www.youtube.com/watch?v=G71qby7CCWs
 tags: ["AI Engineering", "AI Models", "Generative AI (GenAI)", "Reliability", "Testing"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

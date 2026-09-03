@@ -4,7 +4,7 @@ title: "Fireside Chat - In conversation with Werner Vogels, CTO of Amazon.com"
 slug: fireside-chat-in-conversation-with-werner-vogels-cto-of
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Werner Vogels", "Thomas Pamminger"]
@@ -15,6 +15,7 @@ video_id: Jk1j--5LiNs
 url: https://www.youtube.com/watch?v=Jk1j--5LiNs
 youtube_url: https://www.youtube.com/watch?v=Jk1j--5LiNs
 tags: ["Strategy & Innovation"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

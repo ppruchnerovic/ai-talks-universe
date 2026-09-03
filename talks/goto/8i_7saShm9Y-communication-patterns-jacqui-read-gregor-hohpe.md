@@ -4,7 +4,7 @@ title: "Communication Patterns • Jacqui Read & Gregor Hohpe"
 slug: communication-patterns-jacqui-read-gregor-hohpe
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Communication Patterns", "Jacqui Read", "Gregor Hohpe"]
@@ -15,6 +15,7 @@ video_id: 8i_7saShm9Y
 url: https://www.youtube.com/watch?v=8i_7saShm9Y
 youtube_url: https://www.youtube.com/watch?v=8i_7saShm9Y
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

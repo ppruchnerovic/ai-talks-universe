@@ -4,7 +4,7 @@ title: "How Rad AI is Revolutionizing Radiology with Ray | Ray Summit 2024"
 slug: how-rad-ai-is-revolutionizing-radiology-with-ray-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: rmwYDbHO1h4
 url: https://www.youtube.com/watch?v=rmwYDbHO1h4
 youtube_url: https://www.youtube.com/watch?v=rmwYDbHO1h4
 tags: []
+topics: []
 transcript: false
 ---
 

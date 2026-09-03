@@ -4,7 +4,7 @@ title: "The weekly developer show: Dishonest Charts, BritCSS, Debugging with AI"
 slug: the-weekly-developer-show-dishonest-charts-britcss
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8e7yklOVYH0
 url: https://www.youtube.com/watch?v=8e7yklOVYH0
 youtube_url: https://www.youtube.com/watch?v=8e7yklOVYH0
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: false
 ---
 

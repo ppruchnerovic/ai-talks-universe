@@ -4,7 +4,7 @@ title: "What OpenAI, Stripe & ElevenLabs Devs Do Differently Now | AI Native Dev
 slug: what-openai-stripe-elevenlabs-devs-do-differently-now-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: OfsWo6zyt-4
 url: https://www.youtube.com/watch?v=OfsWo6zyt-4
 youtube_url: https://www.youtube.com/watch?v=OfsWo6zyt-4
 tags: ["AI DevCon London 2026", "AI Engineer London", "AI Native Dev", "AI development", "AI native development", "CI/CD", "ElevenLabs", "OpenAI", "Stripe", "agentic coding", "ainativedev", "automated code review", "automated code review benefits", "context engineering", "how is CI/CD changing"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

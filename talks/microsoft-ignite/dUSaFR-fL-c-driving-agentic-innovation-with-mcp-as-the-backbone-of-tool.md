@@ -4,7 +4,7 @@ title: "Driving agentic innovation with MCP as the backbone of tool-aware AI | B
 slug: driving-agentic-innovation-with-mcp-as-the-backbone-of-tool
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Maria Naggaga", "Don Scott"]
@@ -15,6 +15,7 @@ video_id: dUSaFR-fL-c
 url: https://www.youtube.com/watch?v=dUSaFR-fL-c
 youtube_url: https://www.youtube.com/watch?v=dUSaFR-fL-c
 tags: ["BRK194", "Don Scott", "Driving agentic innovation with MCP as the backbone of tool-aware AI | BRK194", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Maria Naggaga", "Technical", "f5n1", "f7a722d4-e0b4-49bd-a544-291a55008340_Segment", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

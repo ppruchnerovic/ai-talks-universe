@@ -4,7 +4,7 @@ title: "Keelin McDonnell, Google Cloud: Transforming Gen-AI Powered Applications
 slug: keelin-mcdonnell-google-cloud-transforming-gen-ai-powered
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: AzeyGPOD8xM
 url: https://www.youtube.com/watch?v=AzeyGPOD8xM
 youtube_url: https://www.youtube.com/watch?v=AzeyGPOD8xM
 tags: []
+topics: []
 transcript: false
 ---
 

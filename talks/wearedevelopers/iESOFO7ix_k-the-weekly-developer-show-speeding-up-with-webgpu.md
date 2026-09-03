@@ -4,7 +4,7 @@ title: "The weekly developer show: Speeding up with WebGPU"
 slug: the-weekly-developer-show-speeding-up-with-webgpu
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: iESOFO7ix_k
 url: https://www.youtube.com/watch?v=iESOFO7ix_k
 youtube_url: https://www.youtube.com/watch?v=iESOFO7ix_k
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Healthcare’s Agent Bytecode: X12 as the Harness for AI Agents — Vasa
 slug: healthcares-agent-bytecode-x12-as-the-harness-for-ai-agents
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vasant Kearney"]
@@ -15,6 +15,7 @@ video_id: UyyOoJmuATU
 url: https://www.youtube.com/watch?v=UyyOoJmuATU
 youtube_url: https://www.youtube.com/watch?v=UyyOoJmuATU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Scaling LLM Inference: AWS Inferentia Meets Ray Serve on EKS | Ray Summi
 slug: scaling-llm-inference-aws-inferentia-meets-ray-serve-on-eks
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6rNfYlm6s1k
 url: https://www.youtube.com/watch?v=6rNfYlm6s1k
 youtube_url: https://www.youtube.com/watch?v=6rNfYlm6s1k
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

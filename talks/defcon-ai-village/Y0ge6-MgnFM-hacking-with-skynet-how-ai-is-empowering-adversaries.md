@@ -4,7 +4,7 @@ title: "Hacking with Skynet - How AI is Empowering Adversaries"
 slug: hacking-with-skynet-how-ai-is-empowering-adversaries
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2020
 speakers: []
@@ -15,6 +15,7 @@ video_id: Y0ge6-MgnFM
 url: https://www.youtube.com/watch?v=Y0ge6-MgnFM
 youtube_url: https://www.youtube.com/watch?v=Y0ge6-MgnFM
 tags: []
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

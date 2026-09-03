@@ -4,7 +4,7 @@ title: "AI Native Dev at AI Fokus 2026 with John Davies on local AI models"
 slug: ai-native-dev-at-ai-fokus-2026-with-john-davies-on-local-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Tf81SXt7ovo
 url: https://www.youtube.com/watch?v=Tf81SXt7ovo
 youtube_url: https://www.youtube.com/watch?v=Tf81SXt7ovo
 tags: []
+topics: []
 transcript: true
 ---
 

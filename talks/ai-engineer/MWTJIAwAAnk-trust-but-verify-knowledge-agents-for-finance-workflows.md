@@ -4,7 +4,7 @@ title: "Trust, but Verify: Knowledge Agents for Finance Workflows - Mike Conover
 slug: trust-but-verify-knowledge-agents-for-finance-workflows
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mike Conover"]
@@ -15,6 +15,7 @@ video_id: MWTJIAwAAnk
 url: https://www.youtube.com/watch?v=MWTJIAwAAnk
 youtube_url: https://www.youtube.com/watch?v=MWTJIAwAAnk
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

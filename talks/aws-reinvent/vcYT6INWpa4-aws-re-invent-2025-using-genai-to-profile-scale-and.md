@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Using GenAI to profile, scale, and optimize your mu
 slug: aws-re-invent-2025-using-genai-to-profile-scale-and
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: vcYT6INWpa4
 url: https://www.youtube.com/watch?v=vcYT6INWpa4
 youtube_url: https://www.youtube.com/watch?v=vcYT6INWpa4
 tags: []
+topics: []
 transcript: false
 ---
 

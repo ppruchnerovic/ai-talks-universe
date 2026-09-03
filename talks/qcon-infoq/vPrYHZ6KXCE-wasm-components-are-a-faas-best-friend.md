@@ -4,7 +4,7 @@ title: "WASM Components are a FaaS' Best Friend"
 slug: wasm-components-are-a-faas-best-friend
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Laurent Doguin"]
@@ -15,6 +15,7 @@ video_id: vPrYHZ6KXCE
 url: https://www.youtube.com/watch?v=vPrYHZ6KXCE
 youtube_url: https://www.youtube.com/watch?v=vPrYHZ6KXCE
 tags: ["Web Development", "QCon London", "InfoQ", "Transcript", "WASM", "FaaS", "Function as a Service", "Software Development", "Software Architecture", "WebAssembly", "Serverless"]
+topics: []
 transcript: true
 ---
 

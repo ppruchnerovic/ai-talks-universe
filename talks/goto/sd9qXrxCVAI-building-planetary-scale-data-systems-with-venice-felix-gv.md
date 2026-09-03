@@ -4,7 +4,7 @@ title: "Building Planetary-Scale Data Systems with Venice • Felix GV & Olimpiu
 slug: building-planetary-scale-data-systems-with-venice-felix-gv
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: sd9qXrxCVAI
 url: https://www.youtube.com/watch?v=sd9qXrxCVAI
 youtube_url: https://www.youtube.com/watch?v=sd9qXrxCVAI
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

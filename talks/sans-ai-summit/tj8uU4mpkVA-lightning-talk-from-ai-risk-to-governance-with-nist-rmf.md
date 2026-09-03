@@ -4,7 +4,7 @@ title: "Lightning Talk: From AI Risk to Governance with NIST RMF"
 slug: lightning-talk-from-ai-risk-to-governance-with-nist-rmf
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: tj8uU4mpkVA
 url: https://www.youtube.com/watch?v=tj8uU4mpkVA
 youtube_url: https://www.youtube.com/watch?v=tj8uU4mpkVA
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

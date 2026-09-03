@@ -4,7 +4,7 @@ title: "Model Leeching: An Extraction Attack Targeting LLMs"
 slug: model-leeching-an-extraction-attack-targeting-llms
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: NAYFN1Vl09s
 url: https://www.youtube.com/watch?v=NAYFN1Vl09s
 youtube_url: https://www.youtube.com/watch?v=NAYFN1Vl09s
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

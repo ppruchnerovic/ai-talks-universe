@@ -4,7 +4,7 @@ title: "Marcela Brichtová Piptová - Getting reliable text when PDFs lie and OC
 slug: marcela-brichtova-piptova-getting-reliable-text-when-pdfs
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Marcela Brichtová Piptová"]
@@ -15,6 +15,7 @@ video_id: GmF2607-Y20
 url: https://www.youtube.com/watch?v=GmF2607-Y20
 youtube_url: https://www.youtube.com/watch?v=GmF2607-Y20
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Evals, observability & reliability", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

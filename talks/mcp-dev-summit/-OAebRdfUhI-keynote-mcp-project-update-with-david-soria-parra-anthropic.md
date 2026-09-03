@@ -4,7 +4,7 @@ title: "[Keynote] MCP Project Update with David Soria Parra - Anthropic"
 slug: keynote-mcp-project-update-with-david-soria-parra-anthropic
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: -OAebRdfUhI
 url: https://www.youtube.com/watch?v=-OAebRdfUhI
 youtube_url: https://www.youtube.com/watch?v=-OAebRdfUhI
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

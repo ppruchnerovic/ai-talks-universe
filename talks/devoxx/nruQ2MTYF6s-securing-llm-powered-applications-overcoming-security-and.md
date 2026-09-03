@@ -4,7 +4,7 @@ title: "Securing LLM-Powered Applications: Overcoming Security and Privacy Chall
 slug: securing-llm-powered-applications-overcoming-security-and
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: nruQ2MTYF6s
 url: https://www.youtube.com/watch?v=nruQ2MTYF6s
 youtube_url: https://www.youtube.com/watch?v=nruQ2MTYF6s
 tags: []
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

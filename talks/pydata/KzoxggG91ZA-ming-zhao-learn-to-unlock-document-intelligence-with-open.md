@@ -4,7 +4,7 @@ title: "Ming Zhao - Learn to Unlock Document Intelligence with Open-Source AI - 
 slug: ming-zhao-learn-to-unlock-document-intelligence-with-open
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Ming Zhao"]
@@ -15,6 +15,7 @@ video_id: KzoxggG91ZA
 url: https://www.youtube.com/watch?v=KzoxggG91ZA
 youtube_url: https://www.youtube.com/watch?v=KzoxggG91ZA
 tags: []
+topics: []
 transcript: false
 ---
 

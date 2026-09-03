@@ -4,7 +4,7 @@ title: "Arthur Andres- Kafka Streaming, the Pythonic Way | Pydata London 26"
 slug: arthur-andres-kafka-streaming-the-pythonic-way-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Arthur Andres- Kafka Streaming"]
@@ -15,6 +15,7 @@ video_id: y-b6V7jPGnI
 url: https://www.youtube.com/watch?v=y-b6V7jPGnI
 youtube_url: https://www.youtube.com/watch?v=y-b6V7jPGnI
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

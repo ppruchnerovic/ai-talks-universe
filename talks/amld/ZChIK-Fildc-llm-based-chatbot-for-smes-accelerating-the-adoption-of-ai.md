@@ -4,7 +4,7 @@ title: "LLM-based ChatBot for SMEs | Accelerating the Adoption of AI | Emmanuel 
 slug: llm-based-chatbot-for-smes-accelerating-the-adoption-of-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Emmanuel De Salis"]
@@ -15,6 +15,7 @@ video_id: ZChIK-Fildc
 url: https://www.youtube.com/watch?v=ZChIK-Fildc
 youtube_url: https://www.youtube.com/watch?v=ZChIK-Fildc
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Dawn Song - Opening Remarks, Day 1"
 slug: dawn-song-opening-remarks-day-1
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Dawn Song"]
@@ -15,6 +15,7 @@ video_id: hwVyg1Cbsgg
 url: https://www.youtube.com/watch?v=hwVyg1Cbsgg
 youtube_url: https://www.youtube.com/watch?v=hwVyg1Cbsgg
 tags: []
+topics: []
 transcript: true
 ---
 

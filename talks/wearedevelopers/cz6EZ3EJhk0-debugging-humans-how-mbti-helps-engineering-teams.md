@@ -4,7 +4,7 @@ title: "Debugging Humans: How MBTI Helps Engineering Teams Communicate Better"
 slug: debugging-humans-how-mbti-helps-engineering-teams
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Hazel Wat"]
@@ -15,6 +15,7 @@ video_id: cz6EZ3EJhk0
 url: https://www.youtube.com/watch?v=cz6EZ3EJhk0
 youtube_url: https://www.youtube.com/watch?v=cz6EZ3EJhk0
 tags: ["Engineering Leadership", "Communication", "Soft Skills"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

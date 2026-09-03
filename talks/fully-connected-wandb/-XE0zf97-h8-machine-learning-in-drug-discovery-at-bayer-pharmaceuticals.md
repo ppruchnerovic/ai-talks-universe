@@ -4,7 +4,7 @@ title: "Machine learning in drug discovery at Bayer Pharmaceuticals: from models
 slug: machine-learning-in-drug-discovery-at-bayer-pharmaceuticals
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: -XE0zf97-h8
 url: https://www.youtube.com/watch?v=-XE0zf97-h8
 youtube_url: https://www.youtube.com/watch?v=-XE0zf97-h8
 tags: []
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

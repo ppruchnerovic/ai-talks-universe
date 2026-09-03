@@ -4,7 +4,7 @@ title: "Contract Testing with MCP: Building Self-Describing, Self-Testing APIs"
 slug: contract-testing-with-mcp-building-self-describing-self
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Moataz Nabil"]
@@ -15,6 +15,7 @@ video_id: FKDv_PxACvQ
 url: https://www.youtube.com/watch?v=FKDv_PxACvQ
 youtube_url: https://www.youtube.com/watch?v=FKDv_PxACvQ
 tags: ["Quality & Reliability", "Generative AI (GenAI)", "Quality Assurance (QA)", "Testing"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

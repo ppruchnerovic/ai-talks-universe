@@ -4,7 +4,7 @@ title: "Sponsored Panel | Securing Agentic Applications — Developer & DevSecOp
 slug: sponsored-panel-securing-agentic-applications-developer
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["V. Venesulia Carr"]
@@ -15,6 +15,7 @@ video_id: l5ElTNCzp6U
 url: https://www.youtube.com/watch?v=l5ElTNCzp6U
 youtube_url: https://www.youtube.com/watch?v=l5ElTNCzp6U
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

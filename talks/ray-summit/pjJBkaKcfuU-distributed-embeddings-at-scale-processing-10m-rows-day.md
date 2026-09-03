@@ -4,7 +4,7 @@ title: "Distributed Embeddings at Scale: Processing 10M+ Rows/ Day with Ray, GPU
 slug: distributed-embeddings-at-scale-processing-10m-rows-day
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: pjJBkaKcfuU
 url: https://www.youtube.com/watch?v=pjJBkaKcfuU
 youtube_url: https://www.youtube.com/watch?v=pjJBkaKcfuU
 tags: []
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

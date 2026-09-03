@@ -4,7 +4,7 @@ title: "Elisabeth Hendrickson on Systems Thinking for Quality Engineering"
 slug: elisabeth-hendrickson-on-systems-thinking-for-quality
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xWnvIzoOC0E
 url: https://www.youtube.com/watch?v=xWnvIzoOC0E
 youtube_url: https://www.youtube.com/watch?v=xWnvIzoOC0E
 tags: []
+topics: []
 transcript: false
 ---
 

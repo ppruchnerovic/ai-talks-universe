@@ -4,7 +4,7 @@ title: "Reflections of AI: A Trilogy in 4 Parts • Rasmus Lystrøm • GOTO 202
 slug: reflections-of-ai-a-trilogy-in-4-parts-rasmus-lystrm-goto
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Rasmus Lystrøm"]
@@ -15,6 +15,7 @@ video_id: wPt6Aeui5bM
 url: https://www.youtube.com/watch?v=wPt6Aeui5bM
 youtube_url: https://www.youtube.com/watch?v=wPt6Aeui5bM
 tags: []
+topics: []
 transcript: false
 ---
 

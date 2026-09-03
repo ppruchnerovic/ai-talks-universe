@@ -4,7 +4,7 @@ title: "Divy Thakkar - Evolving Interaction Paradigms for Software Prototyping w
 slug: divy-thakkar-evolving-interaction-paradigms-for-software
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Divy Thakkar"]
@@ -15,6 +15,7 @@ video_id: JtRvEFgRhmo
 url: https://www.youtube.com/watch?v=JtRvEFgRhmo
 youtube_url: https://www.youtube.com/watch?v=JtRvEFgRhmo
 tags: []
+topics: []
 transcript: false
 ---
 

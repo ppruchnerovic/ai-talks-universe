@@ -4,7 +4,7 @@ title: "Use Generative AI to End Your Love/Hate Relationship with DLP"
 slug: use-generative-ai-to-end-your-love-hate-relationship-with
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Heidi Shey"]
@@ -15,6 +15,7 @@ video_id: y4iE-rcngSE
 url: https://www.youtube.com/watch?v=y4iE-rcngSE
 youtube_url: https://www.youtube.com/watch?v=y4iE-rcngSE
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: []
 transcript: false
 ---
 

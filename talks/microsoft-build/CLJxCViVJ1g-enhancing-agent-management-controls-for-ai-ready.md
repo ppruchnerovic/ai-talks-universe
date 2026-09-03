@@ -4,7 +4,7 @@ title: "Enhancing Agent Management Controls for AI-Ready Enterprises | BRK132"
 slug: enhancing-agent-management-controls-for-ai-ready
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: CLJxCViVJ1g
 url: https://www.youtube.com/watch?v=CLJxCViVJ1g
 youtube_url: https://www.youtube.com/watch?v=CLJxCViVJ1g
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

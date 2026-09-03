@@ -4,7 +4,7 @@ title: "Dr. Rebecca Portnoff, Thorn: Safety by Design for Generative AI: Prevent
 slug: dr-rebecca-portnoff-thorn-safety-by-design-for-generative
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: FRT95lDrR5w
 url: https://www.youtube.com/watch?v=FRT95lDrR5w
 youtube_url: https://www.youtube.com/watch?v=FRT95lDrR5w
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

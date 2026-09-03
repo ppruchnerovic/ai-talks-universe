@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Brandon Middleton: Vibe Coding Master Class"
 slug: ai-dev-26-x-sf-brandon-middleton-vibe-coding-master-class
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: sz1lB31xxqo
 url: https://www.youtube.com/watch?v=sz1lB31xxqo
 youtube_url: https://www.youtube.com/watch?v=sz1lB31xxqo
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

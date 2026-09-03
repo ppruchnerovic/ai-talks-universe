@@ -4,7 +4,7 @@ title: "Revolutionize file storage with PowerScale's Azure integration | STUDIOS
 slug: revolutionize-file-storage-with-powerscale-s-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: gKdppwvL6a4
 url: https://www.youtube.com/watch?v=gKdppwvL6a4
 youtube_url: https://www.youtube.com/watch?v=gKdppwvL6a4
 tags: ["English (US)", "Financial Services", "Innovate with Azure AI apps and agents", "Revolutionize file storage with PowerScale's Azure integration | STUDIOSP72", "STUDIOSP72", "STUDIOSP72_v1", "Scale with cloud and AI endpoints", "Stephen O'Leary", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

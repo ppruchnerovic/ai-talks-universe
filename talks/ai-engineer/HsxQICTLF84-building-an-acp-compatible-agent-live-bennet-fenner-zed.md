@@ -4,7 +4,7 @@ title: "Building an ACP-Compatible Agent Live — Bennet Fenner, Zed"
 slug: building-an-acp-compatible-agent-live-bennet-fenner-zed
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Bennet Fenner"]
@@ -15,6 +15,7 @@ video_id: HsxQICTLF84
 url: https://www.youtube.com/watch?v=HsxQICTLF84
 youtube_url: https://www.youtube.com/watch?v=HsxQICTLF84
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

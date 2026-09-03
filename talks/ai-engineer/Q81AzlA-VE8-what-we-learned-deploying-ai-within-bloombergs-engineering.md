@@ -4,7 +4,7 @@ title: "What We Learned Deploying AI within Bloomberg’s Engineering Organizati
 slug: what-we-learned-deploying-ai-within-bloombergs-engineering
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Lei Zhang"]
@@ -15,6 +15,7 @@ video_id: Q81AzlA-VE8
 url: https://www.youtube.com/watch?v=Q81AzlA-VE8
 youtube_url: https://www.youtube.com/watch?v=Q81AzlA-VE8
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

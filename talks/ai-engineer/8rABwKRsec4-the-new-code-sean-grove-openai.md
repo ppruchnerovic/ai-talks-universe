@@ -4,7 +4,7 @@ title: "The New Code — Sean Grove, OpenAI"
 slug: the-new-code-sean-grove-openai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Sean Grove"]
@@ -15,6 +15,7 @@ video_id: 8rABwKRsec4
 url: https://www.youtube.com/watch?v=8rABwKRsec4
 youtube_url: https://www.youtube.com/watch?v=8rABwKRsec4
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

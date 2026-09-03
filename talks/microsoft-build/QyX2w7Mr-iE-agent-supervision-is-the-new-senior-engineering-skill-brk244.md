@@ -4,7 +4,7 @@ title: "Agent supervision is the new senior engineering skill | BRK244"
 slug: agent-supervision-is-the-new-senior-engineering-skill-brk244
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: QyX2w7Mr-iE
 url: https://www.youtube.com/watch?v=QyX2w7Mr-iE
 youtube_url: https://www.youtube.com/watch?v=QyX2w7Mr-iE
 tags: ["Agent supervision is the new senior engineering skill | BRK244", "Azure", "BRK244", "OSS CI/CD Libraries", "Visual Studio", "build", "build 2026", "c8e844ff-d07c-427f-9168-2a7d84ac4acf_M9Z7-BRK244-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026", "swyx (Shawn Wang)"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

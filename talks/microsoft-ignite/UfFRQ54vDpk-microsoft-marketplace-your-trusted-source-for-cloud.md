@@ -4,7 +4,7 @@ title: "Microsoft Marketplace: Your trusted source for cloud solutions, AI apps,
 slug: microsoft-marketplace-your-trusted-source-for-cloud
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Cyril Belikoff"]
@@ -15,6 +15,7 @@ video_id: UfFRQ54vDpk
 url: https://www.youtube.com/watch?v=UfFRQ54vDpk
 youtube_url: https://www.youtube.com/watch?v=UfFRQ54vDpk
 tags: ["Cyril Belikoff", "English (US)", "Microsoft Marketplace: Your trusted source for cloud solutions AI apps and agents​ | STUDIO47", "Other", "STUDIO47", "STUDIO47_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

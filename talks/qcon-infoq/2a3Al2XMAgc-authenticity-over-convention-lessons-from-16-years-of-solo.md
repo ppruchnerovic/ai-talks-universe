@@ -4,7 +4,7 @@ title: "Authenticity Over Convention: Lessons from 16 Years of Solo Game Develop
 slug: authenticity-over-convention-lessons-from-16-years-of-solo
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2a3Al2XMAgc
 url: https://www.youtube.com/watch?v=2a3Al2XMAgc
 youtube_url: https://www.youtube.com/watch?v=2a3Al2XMAgc
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

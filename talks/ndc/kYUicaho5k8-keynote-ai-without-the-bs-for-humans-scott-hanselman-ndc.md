@@ -4,7 +4,7 @@ title: "Keynote: AI without the BS, for humans - Scott Hanselman - NDC London 20
 slug: keynote-ai-without-the-bs-for-humans-scott-hanselman-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Scott Hanselman"]
@@ -15,6 +15,7 @@ video_id: kYUicaho5k8
 url: https://www.youtube.com/watch?v=kYUicaho5k8
 youtube_url: https://www.youtube.com/watch?v=kYUicaho5k8
 tags: []
+topics: []
 transcript: false
 ---
 

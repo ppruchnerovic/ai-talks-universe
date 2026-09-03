@@ -4,7 +4,7 @@ title: "AI Playbook for ROI with Microsoft Foundry | BRK187"
 slug: ai-playbook-for-roi-with-microsoft-foundry-brk187
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Marco Casalaina", "Mike Gozzo", "Nikhil Kumar", "Rakhee Langer", "Sethu Raman", "Ian Wells"]
@@ -15,6 +15,7 @@ video_id: OU3yAhrB0To
 url: https://www.youtube.com/watch?v=OU3yAhrB0To
 youtube_url: https://www.youtube.com/watch?v=OU3yAhrB0To
 tags: ["AI Playbook for ROI with Microsoft Foundry | BRK187", "BRK187", "English (US)", "Ian Wells", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Marco Casalaina", "Mike Gozzo", "Nikhil Kumar", "Rakhee Langer", "Sethu Raman", "Technical", "c7be0130-e5a4-485f-8450-9b31bdcaea2c_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

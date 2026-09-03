@@ -4,7 +4,7 @@ title: "From Idle to Savings: Building a Global Scheduler for Cost‑Efficient D
 slug: from-idle-to-savings-building-a-global-scheduler-for
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8P2y_gyHQA8
 url: https://www.youtube.com/watch?v=8P2y_gyHQA8
 youtube_url: https://www.youtube.com/watch?v=8P2y_gyHQA8
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

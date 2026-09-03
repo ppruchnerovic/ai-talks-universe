@@ -4,7 +4,7 @@ title: "[Session] Lessons Learned Building the Chrome DevTools MCP Server"
 slug: session-lessons-learned-building-the-chrome-devtools-mcp
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: lRYv4STCYAc
 url: https://www.youtube.com/watch?v=lRYv4STCYAc
 youtube_url: https://www.youtube.com/watch?v=lRYv4STCYAc
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

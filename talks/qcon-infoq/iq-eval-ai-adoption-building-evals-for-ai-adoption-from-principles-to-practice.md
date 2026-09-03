@@ -4,7 +4,7 @@ title: "Building Evals for AI Adoption: from Principles to Practice"
 slug: building-evals-for-ai-adoption-from-principles-to-practice
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Mallika Rao"]
@@ -15,6 +15,7 @@ video_id: iq-eval-ai-adoption
 url: https://www.infoq.com/presentations/eval-ai-adoption/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

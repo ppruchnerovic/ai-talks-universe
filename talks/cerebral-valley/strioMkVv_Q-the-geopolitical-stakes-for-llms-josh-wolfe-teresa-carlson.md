@@ -4,7 +4,7 @@ title: "The Geopolitical Stakes for LLMs: Josh Wolfe & Teresa Carlson with Zoe W
 slug: the-geopolitical-stakes-for-llms-josh-wolfe-teresa-carlson
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: strioMkVv_Q
 url: https://www.youtube.com/watch?v=strioMkVv_Q
 youtube_url: https://www.youtube.com/watch?v=strioMkVv_Q
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

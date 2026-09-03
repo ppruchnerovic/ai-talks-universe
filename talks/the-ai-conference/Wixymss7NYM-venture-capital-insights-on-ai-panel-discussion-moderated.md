@@ -4,7 +4,7 @@ title: "Venture Capital Insights on AI, Panel Discussion moderated by Ben Miller
 slug: venture-capital-insights-on-ai-panel-discussion-moderated
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: ["Ben Miller"]
@@ -15,6 +15,7 @@ video_id: Wixymss7NYM
 url: https://www.youtube.com/watch?v=Wixymss7NYM
 youtube_url: https://www.youtube.com/watch?v=Wixymss7NYM
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

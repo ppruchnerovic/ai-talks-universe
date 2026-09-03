@@ -4,7 +4,7 @@ title: "How partners can monetize and deliver value with Copilot extensibility |
 slug: how-partners-can-monetize-and-deliver-value-with-copilot
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Thomas Abel", "Jojo Wright"]
@@ -15,6 +15,7 @@ video_id: nlmdguJDoSQ
 url: https://www.youtube.com/watch?v=nlmdguJDoSQ
 youtube_url: https://www.youtube.com/watch?v=nlmdguJDoSQ
 tags: ["BRK301", "Breakout", "English (US)", "Foundational (100)", "How partners can monetize and deliver value with Copilot extensibility | BRK301", "Jojo Wright", "Modern Work", "Modern Work-Curated", "Partner Business", "Software Company", "Solution Area", "Thomas Abel", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

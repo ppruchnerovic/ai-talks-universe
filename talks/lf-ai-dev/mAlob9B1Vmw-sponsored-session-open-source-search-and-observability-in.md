@@ -4,7 +4,7 @@ title: "Sponsored Session: Open Source Search and Observability in the Agentic E
 slug: sponsored-session-open-source-search-and-observability-in
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Bobby Mohammed"]
@@ -15,6 +15,7 @@ video_id: mAlob9B1Vmw
 url: https://www.youtube.com/watch?v=mAlob9B1Vmw
 youtube_url: https://www.youtube.com/watch?v=mAlob9B1Vmw
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

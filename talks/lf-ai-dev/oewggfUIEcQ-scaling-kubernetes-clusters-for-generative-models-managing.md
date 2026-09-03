@@ -4,7 +4,7 @@ title: "Scaling Kubernetes Clusters for Generative Models: Managing GPU Resource
 slug: scaling-kubernetes-clusters-for-generative-models-managing
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: oewggfUIEcQ
 url: https://www.youtube.com/watch?v=oewggfUIEcQ
 youtube_url: https://www.youtube.com/watch?v=oewggfUIEcQ
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

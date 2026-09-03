@@ -4,7 +4,7 @@ title: "How to Adopt Emerging Federated Learning Technologies - Myungjin Lee, Ci
 slug: how-to-adopt-emerging-federated-learning-technologies
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Myungjin Lee"]
@@ -15,6 +15,7 @@ video_id: QAhtCIhxMTg
 url: https://www.youtube.com/watch?v=QAhtCIhxMTg
 youtube_url: https://www.youtube.com/watch?v=QAhtCIhxMTg
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

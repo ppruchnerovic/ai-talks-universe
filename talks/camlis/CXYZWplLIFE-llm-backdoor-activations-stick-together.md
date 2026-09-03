@@ -4,7 +4,7 @@ title: "LLM Backdoor Activations Stick Together"
 slug: llm-backdoor-activations-stick-together
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: CXYZWplLIFE
 url: https://www.youtube.com/watch?v=CXYZWplLIFE
 youtube_url: https://www.youtube.com/watch?v=CXYZWplLIFE
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Docker Compose your Dev Toolkit for AI and Cloud workflows by Guillaume 
 slug: docker-compose-your-dev-toolkit-for-ai-and-cloud-workflows
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Guillaume Lours"]
@@ -15,6 +15,7 @@ video_id: u5XAjauwPEI
 url: https://www.youtube.com/watch?v=u5XAjauwPEI
 youtube_url: https://www.youtube.com/watch?v=u5XAjauwPEI
 tags: []
+topics: []
 transcript: false
 ---
 

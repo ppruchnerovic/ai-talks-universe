@@ -4,7 +4,7 @@ title: "How Forward Deployed Engineering is done at Decagon — Sunny Rekhi"
 slug: how-forward-deployed-engineering-is-done-at-decagon-sunny
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sunny Rekhi"]
@@ -15,6 +15,7 @@ video_id: 7wu2hsRfvV0
 url: https://www.youtube.com/watch?v=7wu2hsRfvV0
 youtube_url: https://www.youtube.com/watch?v=7wu2hsRfvV0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

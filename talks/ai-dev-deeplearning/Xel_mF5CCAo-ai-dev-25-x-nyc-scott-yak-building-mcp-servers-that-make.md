@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Scott Yak: Building MCP Servers That Make Agents More 
 slug: ai-dev-25-x-nyc-scott-yak-building-mcp-servers-that-make
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Xel_mF5CCAo
 url: https://www.youtube.com/watch?v=Xel_mF5CCAo
 youtube_url: https://www.youtube.com/watch?v=Xel_mF5CCAo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

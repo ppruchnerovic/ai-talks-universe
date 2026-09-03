@@ -4,7 +4,7 @@ title: "Generally AI - Season 2 - Episode 4: Coordinate Systems in AI and the Ph
 slug: generally-ai-season-2-episode-4-coordinate-systems-in-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: muVKIEJvYvc
 url: https://www.youtube.com/watch?v=muVKIEJvYvc
 youtube_url: https://www.youtube.com/watch?v=muVKIEJvYvc
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

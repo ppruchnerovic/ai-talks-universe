@@ -4,7 +4,7 @@ title: "Building agent fleet architectures your CISO doesn't hate — Lou Bichar
 slug: building-agent-fleet-architectures-your-ciso-doesn-t-hate
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Lou Bichard"]
@@ -15,6 +15,7 @@ video_id: d9rsC6_VLoA
 url: https://www.youtube.com/watch?v=d9rsC6_VLoA
 youtube_url: https://www.youtube.com/watch?v=d9rsC6_VLoA
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

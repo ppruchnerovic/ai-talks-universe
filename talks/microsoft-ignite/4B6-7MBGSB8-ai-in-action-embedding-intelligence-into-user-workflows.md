@@ -4,7 +4,7 @@ title: "AI in action: Embedding intelligence into user workflows | BRK220"
 slug: ai-in-action-embedding-intelligence-into-user-workflows
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Sam Kidd", "Suhel Mangera"]
@@ -15,6 +15,7 @@ video_id: 4B6-7MBGSB8
 url: https://www.youtube.com/watch?v=4B6-7MBGSB8
 youtube_url: https://www.youtube.com/watch?v=4B6-7MBGSB8
 tags: ["AI in action: Embedding intelligence into user workflows | BRK220", "BRK220", "Breakout", "English (US)", "Infrastructure", "Intermediate (200)", "Sam Kidd", "Suhel Mangera", "Technical", "Version v3", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

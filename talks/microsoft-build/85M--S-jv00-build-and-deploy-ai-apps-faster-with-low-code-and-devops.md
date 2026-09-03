@@ -4,7 +4,7 @@ title: "Build and deploy AI apps faster with low code and DevOps | BRK125"
 slug: build-and-deploy-ai-apps-faster-with-low-code-and-devops
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 85M--S-jv00
 url: https://www.youtube.com/watch?v=85M--S-jv00
 youtube_url: https://www.youtube.com/watch?v=85M--S-jv00
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Balancing Tech & Human Creativity • Susanne Kaiser, Michaela Greiler, 
 slug: balancing-tech-human-creativity-susanne-kaiser-michaela
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Susanne Kaiser"]
@@ -15,6 +15,7 @@ video_id: qwjlY6ftYMM
 url: https://www.youtube.com/watch?v=qwjlY6ftYMM
 youtube_url: https://www.youtube.com/watch?v=qwjlY6ftYMM
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
+topics: []
 transcript: false
 ---
 

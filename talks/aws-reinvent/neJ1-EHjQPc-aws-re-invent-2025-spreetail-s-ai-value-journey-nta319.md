@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Spreetail's AI Value Journey (NTA319)"
 slug: aws-re-invent-2025-spreetail-s-ai-value-journey-nta319
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: neJ1-EHjQPc
 url: https://www.youtube.com/watch?v=neJ1-EHjQPc
 youtube_url: https://www.youtube.com/watch?v=neJ1-EHjQPc
 tags: []
+topics: []
 transcript: false
 ---
 

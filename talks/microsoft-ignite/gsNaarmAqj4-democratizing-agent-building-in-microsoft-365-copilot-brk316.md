@@ -4,7 +4,7 @@ title: "Democratizing agent building in Microsoft 365 Copilot | BRK316"
 slug: democratizing-agent-building-in-microsoft-365-copilot-brk316
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Michael Chow"]
@@ -15,6 +15,7 @@ video_id: gsNaarmAqj4
 url: https://www.youtube.com/watch?v=gsNaarmAqj4
 youtube_url: https://www.youtube.com/watch?v=gsNaarmAqj4
 tags: ["BRK316", "Copilot and agents at work", "Copilot and agents at work:Microsoft 365 Copilot", "Democratizing agent building in Microsoft 365 Copilot | BRK316", "English (US)", "Heather Orta-Olmo", "Innovate with low-code AI and agents", "Innovate with low-code AI and agents:Copilot Studio", "Michael Chow", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Train a custom reasoning model at scale with Azure Machine Learning | BR
 slug: train-a-custom-reasoning-model-at-scale-with-azure-machine
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YOm_IQt3YWw
 url: https://www.youtube.com/watch?v=YOm_IQt3YWw
 youtube_url: https://www.youtube.com/watch?v=YOm_IQt3YWw
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

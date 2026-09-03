@@ -4,7 +4,7 @@ title: "Building Ethical AI: The Power of Open Source and Education - Ofer Hermo
 slug: building-ethical-ai-the-power-of-open-source-and-education
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Ofer Hermoni"]
@@ -15,6 +15,7 @@ video_id: 0A8t2QYUvyM
 url: https://www.youtube.com/watch?v=0A8t2QYUvyM
 youtube_url: https://www.youtube.com/watch?v=0A8t2QYUvyM
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

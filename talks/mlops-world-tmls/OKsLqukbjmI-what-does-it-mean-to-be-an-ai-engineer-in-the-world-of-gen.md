@@ -4,7 +4,7 @@ title: "What Does it Mean to be an AI Engineer in the World of Gen"
 slug: what-does-it-mean-to-be-an-ai-engineer-in-the-world-of-gen
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Aarushi Kansal"]
@@ -15,6 +15,7 @@ video_id: OKsLqukbjmI
 url: https://www.youtube.com/watch?v=OKsLqukbjmI
 youtube_url: https://www.youtube.com/watch?v=OKsLqukbjmI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

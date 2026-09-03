@@ -4,7 +4,7 @@ title: "Jason Lopatecki, CEO & Co-founder, Arize: Beyond Black Boxes: Rigorous E
 slug: jason-lopatecki-ceo-co-founder-arize-beyond-black-boxes
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: mv7G38U8iYY
 url: https://www.youtube.com/watch?v=mv7G38U8iYY
 youtube_url: https://www.youtube.com/watch?v=mv7G38U8iYY
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

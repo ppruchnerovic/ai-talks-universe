@@ -4,7 +4,7 @@ title: "Fast And Cheap Data Sharing Across The Cloud(S), Sarah Wooders, PhD, Sky
 slug: fast-and-cheap-data-sharing-across-the-cloud-s-sarah
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: EXC25u_qJqY
 url: https://www.youtube.com/watch?v=EXC25u_qJqY
 youtube_url: https://www.youtube.com/watch?v=EXC25u_qJqY
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Your Code Has Bugs. Lean4 Has Proofs: Formal Verification for Engineers 
 slug: your-code-has-bugs-lean4-has-proofs-formal-verification-for
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Varun Pant"]
@@ -15,6 +15,7 @@ video_id: lRa9sPaMyy4
 url: https://www.youtube.com/watch?v=lRa9sPaMyy4
 youtube_url: https://www.youtube.com/watch?v=lRa9sPaMyy4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

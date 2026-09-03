@@ -4,7 +4,7 @@ title: "Accelerate and scale physical AI development with simulation | BRKSP489"
 slug: accelerate-and-scale-physical-ai-development-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Teresa Conceicao", "Ganesh Sivaraman"]
@@ -15,6 +15,7 @@ video_id: RbVZNijijpo
 url: https://www.youtube.com/watch?v=RbVZNijijpo
 youtube_url: https://www.youtube.com/watch?v=RbVZNijijpo
 tags: ["59207c4f-8ed1-4aec-829f-fc4740f1d651_Segment", "Accelerate and scale physical AI development with simulation | BRKSP489", "BRKSP489", "English (US)", "Ganesh Sivaraman", "Manufacturing and Mobility", "Microsoft AI Cloud Partner Program", "Technical", "Teresa Conceicao", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

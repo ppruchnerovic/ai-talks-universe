@@ -4,7 +4,7 @@ title: "Build RAG from Scratch - Phil Nash - NDC Porto 2024"
 slug: build-rag-from-scratch-phil-nash-ndc-porto-2024
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2024
 speakers: ["Phil Nash"]
@@ -15,6 +15,7 @@ video_id: wkvGcbsZmPo
 url: https://www.youtube.com/watch?v=wkvGcbsZmPo
 youtube_url: https://www.youtube.com/watch?v=wkvGcbsZmPo
 tags: []
+topics: ["RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

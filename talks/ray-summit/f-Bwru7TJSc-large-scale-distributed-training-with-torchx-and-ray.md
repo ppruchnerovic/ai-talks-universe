@@ -4,7 +4,7 @@ title: "Large-scale distributed training with TorchX and Ray"
 slug: large-scale-distributed-training-with-torchx-and-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: f-Bwru7TJSc
 url: https://www.youtube.com/watch?v=f-Bwru7TJSc
 youtube_url: https://www.youtube.com/watch?v=f-Bwru7TJSc
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

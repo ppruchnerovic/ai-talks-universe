@@ -4,7 +4,7 @@ title: "Build AI agents using Claude in Microsoft Foundry"
 slug: build-ai-agents-using-claude-in-microsoft-foundry
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: TQd_YQvydVg
 url: https://www.youtube.com/watch?v=TQd_YQvydVg
 youtube_url: https://www.youtube.com/watch?v=TQd_YQvydVg
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

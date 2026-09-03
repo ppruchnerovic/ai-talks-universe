@@ -4,7 +4,7 @@ title: "Chris Fonnesbeck - Flexible Statistical Modeling | Pydata London 26"
 slug: chris-fonnesbeck-flexible-statistical-modeling-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Chris Fonnesbeck", "Flexible Statistical Modeling"]
@@ -15,6 +15,7 @@ video_id: uS-dfZ4xYHk
 url: https://www.youtube.com/watch?v=uS-dfZ4xYHk
 youtube_url: https://www.youtube.com/watch?v=uS-dfZ4xYHk
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

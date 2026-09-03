@@ -4,7 +4,7 @@ title: "Next-Gen Data Science: How Posit and Databricks Are Transforming Analyti
 slug: next-gen-data-science-how-posit-and-databricks-are
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Z6ETyHRo8kM
 url: https://www.youtube.com/watch?v=Z6ETyHRo8kM
 youtube_url: https://www.youtube.com/watch?v=Z6ETyHRo8kM
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

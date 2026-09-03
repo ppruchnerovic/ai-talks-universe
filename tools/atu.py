@@ -407,6 +407,280 @@ def looks_ai(*texts: str | None) -> bool:
     return any(AI_RE.search(t) for t in texts if t)
 
 
+# --- topics --------------------------------------------------------------------
+#
+# The per-talk topic facet. `category` is a fact about the *conference* — every
+# talk inherits one of five labels from the registry — so it cannot follow a
+# subject inside a programme: AI Engineer alone spans agents, evals, RAG,
+# inference and coding tools. These fifteen are multi-valued and derived per
+# talk, by keyword rules over the title, the tags and the description, the way
+# the AI-relevance test above is. Transcripts are left out on purpose: a third
+# of talks have one, and a label that moved when a transcript arrived would make
+# the facet drift with every fetch.
+#
+# Each topic is a list of phrases; the whole list is compiled into one regex
+# with the boundaries AI_RE uses. Scoring (topic_scores): any phrase in the
+# title scores TITLE_HIT; each *distinct* phrase in the tags or the description
+# scores one; a topic is assigned at TOPIC_THRESHOLD. So a title mention is
+# enough on its own, and the tags and description together have to say two
+# different things about a topic before it counts — matching a description on
+# any one word was measured too loose (three topics a talk, "image" and
+# "customer" pulling in whatever said them once), and a tag was measured to be
+# a channel's habit more often than a fact about the talk.
+#
+# Two boundaries are rules rather than accidents. "enterprise" alone never
+# fires *Enterprise adoption* — on this corpus it is mostly a product tier —
+# and a bare tool name (Copilot, Cursor) never fires *AI in the SDLC*, which is
+# about the process (review, CI, the team), not the keyboard. "Copilot" alone
+# is not a coding assistant either: half of Microsoft's are M365 or Studio.
+TOPICS: list[tuple[str, list[str]]] = [
+    ("Agents & orchestration", [
+        r"agents?", r"agentic", r"multi-?agents?", r"tool[- ](?:calling|use)",
+        r"function calling", r"mcp", r"model context protocol", r"a2a", r"agent2agent",
+        r"(?:agent|ai|llm|workflow)s?[- ]orchestrat\w*", r"orchestrat\w+ (?:agents|llms)",
+        r"autonomous (?:agents?|systems?|ai|workflows?)", r"langgraph", r"crewai", r"autogen",
+        r"agent (?:frameworks?|sdks?|protocols?|memory|runtimes?)",
+    ]),
+    ("Coding assistants & agents", [
+        r"github copilot", r"copilot (?:chat|workspace|cli|coding agent|agent mode|sdk)",
+        r"copilot (?:for|in) (?:vs ?code|visual studio|jetbrains|xcode|github)",
+        r"cursor", r"claude code", r"codex", r"windsurf", r"cline", r"aider",
+        r"gemini cli", r"vibe[- ]cod\w*", r"coding (?:agents?|assistants?|tools?|copilots?)",
+        r"code (?:generation|gen|completion|assistants?)", r"pair[- ]programm\w*",
+        r"ai[- ](?:assisted|powered|augmented|driven|native) (?:coding|programming)",
+        r"ai (?:coding|code)", r"code (?:with|using) (?:ai|llms?|agents?)",
+    ]),
+    ("AI in the SDLC & engineering orgs", [
+        r"sdlc", r"software development life ?cycle", r"spec[- ]driven",
+        r"code reviews?", r"pull requests?", r"prs", r"ci/?cd",
+        r"continuous (?:integration|delivery|deployment)",
+        r"developer (?:productivity|experience|velocity|workflows?)",
+        r"engineering (?:teams?|orgs?|organi[sz]ations?|productivity|leaders?|leadership|"
+        r"managers?|culture|practices?)",
+        r"ai[- ]native (?:engineering|development|software|teams?|sdlc)",
+        r"agentic (?:sdlc|engineering|software development|development)",
+        r"ai[- ](?:assisted|driven|powered|augmented|native) (?:development|engineering|"
+        r"software (?:development|engineering))",
+        r"legacy (?:code|systems?|modernization|migration)",
+        r"(?:code|application|app) (?:migration|modernization|modernisation)",
+        r"test(?:ing)? (?:generation|automation)", r"unit tests?", r"technical debt",
+        r"10x (?:developers?|engineers?)", r"software teams?",
+    ]),
+    ("RAG, retrieval & knowledge", [
+        r"rag", r"retrieval[- ]augmented(?: generation)?", r"retrieval",
+        r"vector (?:db|database|search|store|index|embeddings?)",
+        r"embeddings?", r"semantic search", r"hybrid search", r"knowledge (?:graphs?|bases?)",
+        r"graph[- ]?rag", r"re-?rank\w*", r"chunking", r"pgvector", r"pinecone", r"weaviate",
+        r"qdrant", r"milvus", r"chroma", r"llamaindex", r"search (?:relevance|quality)",
+        r"grounding",
+    ]),
+    ("Evals, observability & reliability", [
+        r"evals?", r"evaluat\w*", r"benchmark\w*", r"observability", r"llmops", r"tracing",
+        r"traces", r"hallucinat\w*", r"reliab\w*", r"(?:llm|agent|ai|model) monitoring",
+        r"testing (?:llms?|agents?|ai|models?)", r"(?:llm|agent|ai)[- ]testing",
+        r"langsmith", r"langfuse", r"arize", r"braintrust", r"opentelemetry",
+        r"quality (?:assurance|gates?|metrics)", r"failure modes?", r"regression testing",
+        r"llm[- ]as[- ]a[- ]judge", r"human[- ]in[- ]the[- ]loop",
+    ]),
+    ("Prompting & context engineering", [
+        r"prompt engineering", r"prompting", r"prompts?(?! injection| attacks?| hacking)",
+        r"context engineering", r"context windows?", r"few[- ]shot", r"zero[- ]shot",
+        r"chain[- ]of[- ]thought", r"system prompts?",
+        r"prompt (?:design|optimi[sz]ation|tuning|management|templates?|libraries|caching)",
+        r"dspy", r"long[- ]context", r"context (?:management|compression|rot|length)",
+        r"in[- ]context learning",
+    ]),
+    ("Security, safety & red teaming", [
+        r"prompt injection", r"jailbreak\w*", r"red[- ]team\w*", r"adversarial",
+        r"guardrails?", r"threats?", r"threat model\w*", r"vulnerabilit\w*", r"owasp",
+        r"(?:data|model) poisoning", r"secur(?:e|ity|ing)", r"safe(?:ty|guards?)", r"attacks?",
+        r"exploits?", r"malware", r"exfiltrat\w*", r"cves?", r"pentest\w*",
+        r"penetration test\w*", r"zero[- ]trust", r"appsec", r"cybersecurity", r"deepfakes?",
+        r"backdoors?", r"supply chain (?:attacks?|security)", r"secrets", r"phishing",
+        r"privacy[- ]preserving",
+    ]),
+    ("Governance, ethics & regulation", [
+        r"responsible ai", r"ethic\w*", r"governance", r"regulat\w*", r"(?:eu )?ai act",
+        r"complian\w*", r"bias(?:es|ed)?", r"fairness", r"privacy", r"alignment",
+        r"trustworthy", r"transparen\w*", r"explainab\w*", r"accountab\w*", r"gdpr",
+        r"(?:ai|public|data) polic(?:y|ies)", r"sovereign\w*", r"risk management",
+        r"nist", r"iso 42001", r"audit\w*", r"copyright", r"intellectual property",
+        r"legislation", r"regulators?", r"misinformation",
+    ]),
+    ("Inference, serving & GPU infra", [
+        r"inference", r"model serving", r"serving", r"vllm", r"sglang", r"tensorrt(?:-llm)?",
+        r"triton", r"latency", r"throughput", r"gpus?", r"cuda", r"quantiz\w*",
+        r"kubernetes", r"k8s", r"accelerators?", r"tpus?", r"npus?", r"on[- ]device",
+        r"edge (?:ai|inference|deployment|devices?|computing)", r"nvidia", r"llama\.?cpp",
+        r"ollama", r"kv[- ]cache", r"speculative decoding", r"batching", r"kserve",
+        r"(?:ai|ml|llm|gpu) infrastructure", r"hardware", r"chips?", r"silicon",
+        r"distributed inference", r"scaling (?:inference|llms|models)",
+        r"cost (?:optimi[sz]ation|efficiency)", r"token economics", r"clusters?",
+    ]),
+    ("Training, fine-tuning & model building", [
+        r"fine[- ]?tun\w*", r"pre[- ]?training", r"post[- ]training", r"rlhf", r"rlaif",
+        r"reinforcement learning", r"rl", r"lora", r"qlora", r"peft", r"distill\w*",
+        r"foundation models?", r"pytorch", r"jax", r"open[- ]weights?",
+        r"open[- ]source (?:models?|llms?)", r"(?:model|llm|distributed) training",
+        r"training (?:llms?|models?|data|pipelines?|runs?|a model)", r"scaling laws?",
+        r"mixture of experts", r"moe", r"tokeniz\w*", r"synthetic data", r"dpo", r"grpo",
+        r"sft", r"supervised fine", r"hugging ?face", r"small language models?", r"slms?",
+        r"from scratch", r"model (?:architectures?|building|development|weights)",
+        r"transformer architecture", r"attention mechanism",
+    ]),
+    ("Data engineering & MLOps", [
+        r"mlops", r"feature stores?",
+        r"data (?:pipelines?|platforms?|lakehouses?|lakes?|warehouses?|engineering|quality|"
+        r"mesh|infrastructure|governance|catalogs?|contracts?|products?)",
+        r"spark", r"databricks", r"snowflake", r"dbt", r"airflow", r"kafka", r"flink",
+        r"iceberg", r"delta lake", r"model registr(?:y|ies)", r"experiment tracking",
+        r"mlflow", r"kubeflow", r"etl", r"elt", r"sql", r"bigquery", r"ml platforms?",
+        r"feature engineering", r"data engineers?", r"(?:event|data|stream) streaming",
+        r"streaming (?:data|pipelines?|platforms?)", r"batch (?:jobs?|processing)",
+        r"model deployment", r"ml pipelines?", r"data teams?",
+    ]),
+    ("Multimodal, vision, speech & robotics", [
+        r"multi-?modal\w*", r"computer vision", r"machine vision",
+        r"vision (?:models?|language|transformers?|ai|systems?|encoders?)", r"vision[- ]language",
+        r"vlms?", r"(?:facial|face) recognition", r"generative media", r"remote sensing",
+        r"satellite (?:imagery|images?)",
+        r"image (?:generation|recognition|classification|models?|understanding|analysis|"
+        r"segmentation|synthesis)",
+        r"video (?:generation|understanding|models?|analysis|analytics)",
+        r"generat\w+ (?:images?|videos?)", r"text[- ]to[- ](?:image|video|speech|3d)",
+        r"speech (?:recognition|synthesis|to text|models?|ai)", r"speech[- ]to[- ]text",
+        r"voice (?:agents?|assistants?|ai|bots?|interfaces?|apps?|applications?|models?)",
+        r"real[- ]time voice", r"audio (?:models?|generation|ai|processing)", r"tts", r"asr",
+        r"whisper", r"robot\w*", r"embodied", r"humanoids?", r"diffusion(?: models?)?",
+        r"stable diffusion", r"midjourney", r"dall-?e", r"sora", r"ocr",
+        r"self[- ]driving", r"autonomous (?:vehicles?|driving|cars?)", r"drones?",
+        r"object detection", r"3d",
+    ]),
+    ("Enterprise adoption & strategy", [
+        r"adopt\w*", r"roll-?outs?", r"upskill\w*", r"reskill\w*", r"change management",
+        r"(?:ai|digital) transformation", r"enterprise ai",
+        r"ai (?:in|for|at|across) the enterprise", r"startups?", r"founders?",
+        r"roi", r"return on investment", r"leadership", r"leaders", r"future of work",
+        r"product (?:management|managers?|design|strategy|teams?|thinking|leaders?)",
+        r"ux", r"user experience",
+        r"business (?:value|strategy|case|impact|outcomes?|models?|leaders?|users?)",
+        r"go[- ]to[- ]market", r"ceos?", r"ctos?", r"c-suite", r"executives?",
+        r"(?:ai|business|data|product|platform|enterprise|agent|genai) strateg(?:y|ies)", r"strategic",
+        r"culture", r"organi[sz]ational", r"workforce",
+        r"(?:pilot|poc|prototype)s? to production", r"proof of concept", r"scaling ai",
+        r"ai[- ](?:first|native) (?:compan(?:y|ies)|organi[sz]ations?|business(?:es)?)",
+        r"venture", r"investors?", r"vcs?", r"pricing", r"monetiz\w*", r"revenue",
+        r"ai literacy", r"transformation", r"buy (?:vs\.?|or|versus) build",
+        r"build (?:vs\.?|or|versus) buy", r"customer (?:service|support|experience)",
+    ]),
+    ("Science, healthcare & applied ML", [
+        r"health\w*", r"medical", r"medicine", r"clinical", r"clinicians?", r"patients?",
+        r"hospitals?", r"biolog\w*", r"bio", r"biotech", r"drug discovery", r"pharma\w*",
+        r"proteins?", r"genom\w*", r"climate", r"weather", r"energy", r"physics",
+        r"chemistry", r"materials science", r"astronomy", r"neuroscience",
+        r"scientific (?:discovery|research|computing)", r"finance",
+        r"financial", r"fintech", r"banking", r"insurance", r"trading", r"manufacturing",
+        r"industrial", r"legal", r"law firms?", r"lawyers?", r"education", r"teachers?",
+        r"classrooms?", r"agriculture", r"farming", r"retail", r"e-?commerce",
+        r"logistics", r"supply chains?", r"automotive", r"aerospace", r"telecom\w*",
+        r"government", r"public sector", r"defen[cs]e", r"mathematics", r"math",
+        r"theorem\w*", r"journalism", r"game (?:development|dev|studios?|engines?)",
+        r"video games?", r"gaming", r"sports?", r"accessibility", r"nonprofits?",
+        r"humanitarian", r"real estate", r"construction",
+    ]),
+    ("Classic ML & data science", [
+        r"machine learning", r"data science", r"data scientists?", r"scikit[- ]learn",
+        r"sklearn", r"xgboost", r"lightgbm", r"catboost", r"regression", r"classification",
+        r"clustering", r"forecasting", r"time[- ]series", r"statistic\w*", r"bayesian",
+        r"recommend(?:er|ation) (?:systems?|engines?|models?)", r"recommenders?", r"pandas",
+        r"polars", r"numpy", r"julia", r"jupyter", r"notebooks?", r"anomaly detection",
+        r"causal (?:inference|ml|models?)", r"a/b test\w*", r"experimentation",
+        r"feature (?:engineering|selection)", r"gradient boost\w*", r"random forests?",
+        r"neural networks?", r"deep learning", r"predictive (?:models?|analytics|modeling)",
+        r"tabular", r"dimensionality", r"probabilistic", r"simulation", r"matplotlib",
+        r"visuali[sz]ation", r"dashboards?", r"analytics", r"scipy", r"r language",
+    ]),
+]
+TOPIC_NAMES = [name for name, _ in TOPICS]
+
+TITLE_HIT = 2        # a phrase in the title
+TOPIC_THRESHOLD = 2  # what a topic needs to be assigned
+
+# A phrase said by the description or a tag of more than this share of one
+# conference's talks is the channel talking, not the talk: PyData's every
+# description says "data science" and "machine learning", AI Engineer's every
+# video is tagged "startups", one channel tags everything "education".
+# sync_catalog.py measures this per conference and passes the phrases in as
+# `ignore`; titles are never ignored, since a title is written per talk.
+BOILERPLATE_SHARE = 0.5
+BOILERPLATE_MIN_TALKS = 10
+
+
+def _phrase_re(pattern: str) -> re.Pattern:
+    return re.compile(r"(?<![\w-])(?:" + pattern + r")(?!\w)", re.I)
+
+
+# (name, [one regex per phrase], the regex of all of them) — the combined one
+# scans a text once; a match is attributed to its phrase by fullmatch, which is
+# what makes "distinct phrases" countable without fifteen passes per topic.
+TOPIC_RES = [(name, [_phrase_re(p) for p in phrases], _phrase_re("|".join(phrases)))
+             for name, phrases in TOPICS]
+
+
+@functools.lru_cache(maxsize=65536)
+def _phrase_index(topic_i: int, matched: str) -> int:
+    _, phrases, _ = TOPIC_RES[topic_i]
+    for i, p in enumerate(phrases):
+        if p.fullmatch(matched):
+            return i
+    return -1
+
+
+def _said(topic_i: int, text: str) -> set[str]:
+    """The phrases of one topic this text says, lowercased."""
+    _, _, whole = TOPIC_RES[topic_i]
+    return {m.group().lower() for m in whole.finditer(text)}
+
+
+def _body(tags, description: str | None) -> str:
+    return unicodedata.normalize("NFKC", f"{' '.join(tags or [])}\n{description or ''}")
+
+
+def topic_evidence(tags, description: str | None) -> set[str]:
+    """Every topic phrase the tags and description say, lowercased.
+
+    What sync_catalog.py counts across a conference to find its boilerplate.
+    """
+    body = _body(tags, description)
+    out: set[str] = set()
+    for i in range(len(TOPIC_RES)):
+        out |= _said(i, body)
+    return out
+
+
+def topic_scores(title: str | None, tags, description: str | None,
+                 ignore: frozenset[str] | set[str] = frozenset()) -> dict[str, int]:
+    """Every topic that scored, and what it scored. See TOPICS for the rule."""
+    head = title or ""
+    body = _body(tags, description)
+    out = {}
+    for i, (name, _, whole) in enumerate(TOPIC_RES):
+        score = TITLE_HIT if whole.search(head) else 0
+        if body.strip():
+            said = _said(i, body) - set(ignore)
+            score += len({_phrase_index(i, s) for s in said})
+        if score:
+            out[name] = score
+    return out
+
+
+def topics_of(title: str | None, tags, description: str | None,
+              ignore: frozenset[str] | set[str] = frozenset()) -> list[str]:
+    """The topics a talk is filed under, sorted; [] when nothing reaches the bar."""
+    return sorted(name for name, s in topic_scores(title, tags, description, ignore).items()
+                  if s >= TOPIC_THRESHOLD)
+
+
 # Enumeration is flat and carries no publish date, so until a video is enriched
 # its year is only knowable from the edition it was listed under or from its own
 # title. sync_catalog stamps the result into the corpus; both metered stages
@@ -539,7 +813,7 @@ def human_size(n: float) -> str:
 # database built by an older script is recognised as stale rather than opened
 # and queried: the day `url` was added to `talks`, every search died with
 # "no such column: url" until someone knew to delete the file by hand.
-DB_SCHEMA_VERSION = 5
+DB_SCHEMA_VERSION = 6
 
 
 def db_stale() -> str | None:

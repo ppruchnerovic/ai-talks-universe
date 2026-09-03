@@ -4,7 +4,7 @@ title: "Lifecycle of a Parameter - Philip Bontrager, Meta"
 slug: lifecycle-of-a-parameter-philip-bontrager-meta
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Philip Bontrager"]
@@ -15,6 +15,7 @@ video_id: txxSXeBwp18
 url: https://www.youtube.com/watch?v=txxSXeBwp18
 youtube_url: https://www.youtube.com/watch?v=txxSXeBwp18
 tags: []
+topics: []
 transcript: false
 ---
 

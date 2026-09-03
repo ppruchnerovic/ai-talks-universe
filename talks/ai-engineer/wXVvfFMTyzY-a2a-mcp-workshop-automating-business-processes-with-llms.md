@@ -4,7 +4,7 @@ title: "A2A & MCP Workshop: Automating Business Processes with LLMs — Damien M
 slug: a2a-mcp-workshop-automating-business-processes-with-llms
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Damien Murphy"]
@@ -15,6 +15,7 @@ video_id: wXVvfFMTyzY
 url: https://www.youtube.com/watch?v=wXVvfFMTyzY
 youtube_url: https://www.youtube.com/watch?v=wXVvfFMTyzY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

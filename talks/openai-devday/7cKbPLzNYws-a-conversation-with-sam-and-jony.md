@@ -4,7 +4,7 @@ title: "A Conversation with Sam and Jony"
 slug: a-conversation-with-sam-and-jony
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7cKbPLzNYws
 url: https://www.youtube.com/watch?v=7cKbPLzNYws
 youtube_url: https://www.youtube.com/watch?v=7cKbPLzNYws
 tags: []
+topics: []
 transcript: false
 ---
 

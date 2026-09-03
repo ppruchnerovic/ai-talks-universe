@@ -4,7 +4,7 @@ title: "Backlog.md : Reaching 95% Task success rate with AI Agents by Alex Gavri
 slug: backlog-md-reaching-95-task-success-rate-with-ai-agents-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Alex Gavrilescu"]
@@ -15,6 +15,7 @@ video_id: LSoDQU_9MMA
 url: https://www.youtube.com/watch?v=LSoDQU_9MMA
 youtube_url: https://www.youtube.com/watch?v=LSoDQU_9MMA
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "OpenAI on Securing Code-Executing AI Agents — Fouad Matin (Codex, Agen
 slug: openai-on-securing-code-executing-ai-agents-fouad-matin
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Fouad Matin"]
@@ -15,6 +15,7 @@ video_id: w7IMuYsBNr8
 url: https://www.youtube.com/watch?v=w7IMuYsBNr8
 youtube_url: https://www.youtube.com/watch?v=w7IMuYsBNr8
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Security, safety & red teaming"]
 transcript: false
 ---
 

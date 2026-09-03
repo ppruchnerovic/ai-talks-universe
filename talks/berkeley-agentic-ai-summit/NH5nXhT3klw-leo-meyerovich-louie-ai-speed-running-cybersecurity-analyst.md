@@ -4,7 +4,7 @@ title: "Leo Meyerovich - Louie.AI: Speed Running Cybersecurity Analyst Competiti
 slug: leo-meyerovich-louie-ai-speed-running-cybersecurity-analyst
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Leo Meyerovich"]
@@ -15,6 +15,7 @@ video_id: NH5nXhT3klw
 url: https://www.youtube.com/watch?v=NH5nXhT3klw
 youtube_url: https://www.youtube.com/watch?v=NH5nXhT3klw
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

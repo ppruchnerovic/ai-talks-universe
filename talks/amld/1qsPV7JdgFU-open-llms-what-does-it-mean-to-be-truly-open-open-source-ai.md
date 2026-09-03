@@ -4,7 +4,7 @@ title: "Open LLMs - what does it mean to be truly open? | Open-Source AI Models 
 slug: open-llms-what-does-it-mean-to-be-truly-open-open-source-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Leandro Von Werra"]
@@ -15,6 +15,7 @@ video_id: 1qsPV7JdgFU
 url: https://www.youtube.com/watch?v=1qsPV7JdgFU
 youtube_url: https://www.youtube.com/watch?v=1qsPV7JdgFU
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

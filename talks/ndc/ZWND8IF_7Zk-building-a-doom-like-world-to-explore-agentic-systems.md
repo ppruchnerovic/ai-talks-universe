@@ -4,7 +4,7 @@ title: "Building a Doom-Like World to Explore Agentic Systems - Alexander Cherno
 slug: building-a-doom-like-world-to-explore-agentic-systems
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Alexander Chernov"]
@@ -15,6 +15,7 @@ video_id: ZWND8IF_7Zk
 url: https://www.youtube.com/watch?v=ZWND8IF_7Zk
 youtube_url: https://www.youtube.com/watch?v=ZWND8IF_7Zk
 tags: ["Gaming", "Architecture", "AI", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Alexander Chernov"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Key changes in the board dynamics? | AI in the Boardroom | Montassar Ben
 slug: key-changes-in-the-board-dynamics-ai-in-the-boardroom
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Montassar Benmrad"]
@@ -15,6 +15,7 @@ video_id: SXnBJgLBS6o
 url: https://www.youtube.com/watch?v=SXnBJgLBS6o
 youtube_url: https://www.youtube.com/watch?v=SXnBJgLBS6o
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

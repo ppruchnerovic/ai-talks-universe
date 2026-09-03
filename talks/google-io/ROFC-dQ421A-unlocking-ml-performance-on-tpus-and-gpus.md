@@ -4,7 +4,7 @@ title: "Unlocking ML Performance on TPUs and GPUs"
 slug: unlocking-ml-performance-on-tpus-and-gpus
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ROFC-dQ421A
 url: https://www.youtube.com/watch?v=ROFC-dQ421A
 youtube_url: https://www.youtube.com/watch?v=ROFC-dQ421A
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

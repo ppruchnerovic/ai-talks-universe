@@ -4,7 +4,7 @@ title: "Subhabrata Mukherjee: Building the first Safety-focused Conversational A
 slug: subhabrata-mukherjee-building-the-first-safety-focused
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: t0UZ30gfccA
 url: https://www.youtube.com/watch?v=t0UZ30gfccA
 youtube_url: https://www.youtube.com/watch?v=t0UZ30gfccA
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

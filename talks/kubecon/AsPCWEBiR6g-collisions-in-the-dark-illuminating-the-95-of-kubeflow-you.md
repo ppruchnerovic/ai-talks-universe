@@ -4,7 +4,7 @@ title: "Collisions in the Dark: Illuminating the 95% of Kubeflow You Can't... Am
 slug: collisions-in-the-dark-illuminating-the-95-of-kubeflow-you
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: AsPCWEBiR6g
 url: https://www.youtube.com/watch?v=AsPCWEBiR6g
 youtube_url: https://www.youtube.com/watch?v=AsPCWEBiR6g
 tags: []
+topics: ["Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

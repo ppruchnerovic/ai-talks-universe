@@ -4,7 +4,7 @@ title: "Front end development in 2040 by Fotis Adamakis"
 slug: front-end-development-in-2040-by-fotis-adamakis
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Fotis Adamakis"]
@@ -15,6 +15,7 @@ video_id: szlyZm6q2xY
 url: https://www.youtube.com/watch?v=szlyZm6q2xY
 youtube_url: https://www.youtube.com/watch?v=szlyZm6q2xY
 tags: []
+topics: []
 transcript: false
 ---
 

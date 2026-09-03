@@ -4,7 +4,7 @@ title: "Security Track Intro — Randall Degges, Snyk"
 slug: security-track-intro-randall-degges-snyk
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Randall Degges"]
@@ -15,6 +15,7 @@ video_id: 2xJoimgoqBg
 url: https://www.youtube.com/watch?v=2xJoimgoqBg
 youtube_url: https://www.youtube.com/watch?v=2xJoimgoqBg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

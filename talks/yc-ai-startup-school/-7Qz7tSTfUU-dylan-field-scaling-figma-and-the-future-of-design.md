@@ -4,7 +4,7 @@ title: "Dylan Field: Scaling Figma and the Future of Design"
 slug: dylan-field-scaling-figma-and-the-future-of-design
 conference: yc-ai-startup-school
 conference_name: "Y Combinator AI Startup School"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Startup School 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: -7Qz7tSTfUU
 url: https://www.youtube.com/watch?v=-7Qz7tSTfUU
 youtube_url: https://www.youtube.com/watch?v=-7Qz7tSTfUU
 tags: ["YC", "Y Combinator"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

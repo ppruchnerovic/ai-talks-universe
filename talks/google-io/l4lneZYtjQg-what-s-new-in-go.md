@@ -4,7 +4,7 @@ title: "What's new in Go"
 slug: what-s-new-in-go
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Marc Dougherty", "Cameron Balahan"]
@@ -15,6 +15,7 @@ video_id: l4lneZYtjQg
 url: https://www.youtube.com/watch?v=l4lneZYtjQg
 youtube_url: https://www.youtube.com/watch?v=l4lneZYtjQg
 tags: ["pr_pr: Google I/O;", "ct:Event - Cloud PA Keynote;", "ct:Stack - Cloud;", "Go 1.26", "Go 1.25", "Golang performance 2026", "Green Tea Garbage Collector", "Go Fix Modernizers", "native vectorized instructions", "archsimd package", "Green Tea GC benchmarks", "GO SIMD optimization", "goroutine leak detection", "low latency microservices", "Go 1.26 release notes", "Memory management in Go"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

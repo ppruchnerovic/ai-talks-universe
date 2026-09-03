@@ -4,7 +4,7 @@ title: "Benchmarking semantic code retrieval on Claude Code — Kuba Rogut, Turb
 slug: benchmarking-semantic-code-retrieval-on-claude-code-kuba
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kuba Rogut"]
@@ -15,6 +15,7 @@ video_id: zKk7sDMGDEQ
 url: https://www.youtube.com/watch?v=zKk7sDMGDEQ
 youtube_url: https://www.youtube.com/watch?v=zKk7sDMGDEQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

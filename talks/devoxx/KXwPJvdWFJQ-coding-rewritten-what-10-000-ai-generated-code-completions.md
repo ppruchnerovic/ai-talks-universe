@@ -4,7 +4,7 @@ title: "Coding, Rewritten: What 10.000+ AI-Generated Code Completions Taught Me 
 slug: coding-rewritten-what-10-000-ai-generated-code-completions
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: KXwPJvdWFJQ
 url: https://www.youtube.com/watch?v=KXwPJvdWFJQ
 youtube_url: https://www.youtube.com/watch?v=KXwPJvdWFJQ
 tags: []
+topics: ["Coding assistants & agents", "Prompting & context engineering"]
 transcript: false
 ---
 

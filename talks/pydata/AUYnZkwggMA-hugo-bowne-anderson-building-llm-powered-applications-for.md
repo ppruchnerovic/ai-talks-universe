@@ -4,7 +4,7 @@ title: "Hugo Bowne-Anderson - Building LLM-Powered Applications for Data Scienti
 slug: hugo-bowne-anderson-building-llm-powered-applications-for
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: AUYnZkwggMA
 url: https://www.youtube.com/watch?v=AUYnZkwggMA
 youtube_url: https://www.youtube.com/watch?v=AUYnZkwggMA
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

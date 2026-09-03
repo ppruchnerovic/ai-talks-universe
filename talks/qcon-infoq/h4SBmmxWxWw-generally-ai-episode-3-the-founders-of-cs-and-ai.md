@@ -4,7 +4,7 @@ title: "Generally AI Episode 3: The Founders of CS and AI"
 slug: generally-ai-episode-3-the-founders-of-cs-and-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: h4SBmmxWxWw
 url: https://www.youtube.com/watch?v=h4SBmmxWxWw
 youtube_url: https://www.youtube.com/watch?v=h4SBmmxWxWw
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "What if the network was the sandbox? — Remy Guercio, Tailscale"
 slug: what-if-the-network-was-the-sandbox-remy-guercio-tailscale
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Remy Guercio"]
@@ -15,6 +15,7 @@ video_id: BM2JX9hqsVQ
 url: https://www.youtube.com/watch?v=BM2JX9hqsVQ
 youtube_url: https://www.youtube.com/watch?v=BM2JX9hqsVQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

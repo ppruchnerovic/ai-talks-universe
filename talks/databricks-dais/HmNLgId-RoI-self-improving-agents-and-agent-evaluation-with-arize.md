@@ -4,7 +4,7 @@ title: "Self-Improving Agents and Agent Evaluation With Arize & Databricks ML Fl
 slug: self-improving-agents-and-agent-evaluation-with-arize
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: HmNLgId-RoI
 url: https://www.youtube.com/watch?v=HmNLgId-RoI
 youtube_url: https://www.youtube.com/watch?v=HmNLgId-RoI
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: false
 ---
 

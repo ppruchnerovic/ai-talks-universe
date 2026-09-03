@@ -4,7 +4,7 @@ title: "Hacking AI at the Edge of the Indian Ocean"
 slug: hacking-ai-at-the-edge-of-the-indian-ocean
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Anastasiia Stefanska", "James Cha-Earley"]
@@ -15,6 +15,7 @@ video_id: crcr3_XjsFA
 url: https://www.youtube.com/watch?v=crcr3_XjsFA
 youtube_url: https://www.youtube.com/watch?v=crcr3_XjsFA
 tags: ["Cloud & AI Infrastructure", "AI Models", "Agents", "Agentic AI", "Analytics", "Business Intelligence", "Case Study", "Collaboration", "Data", "Data Pipelines", "Data Science", "Databases", "Generative AI (GenAI)", "Innovation", "Large Language Models (LLMs)", "On-Premise", "SQL", "Tooling", "Tools"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

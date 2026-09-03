@@ -4,7 +4,7 @@ title: "Building a Data Infrastructure for AI/ML - Keith Pijanowski, MinIO"
 slug: building-a-data-infrastructure-for-ai-ml-keith-pijanowski
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Keith Pijanowski"]
@@ -15,6 +15,7 @@ video_id: _eHgA3B1v6U
 url: https://www.youtube.com/watch?v=_eHgA3B1v6U
 youtube_url: https://www.youtube.com/watch?v=_eHgA3B1v6U
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

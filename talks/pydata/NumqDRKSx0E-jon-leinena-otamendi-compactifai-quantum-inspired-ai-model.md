@@ -4,7 +4,7 @@ title: "Jon Leiñena Otamendi - CompactifAI: Quantum-Inspired AI Model Compressi
 slug: jon-leinena-otamendi-compactifai-quantum-inspired-ai-model
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Jon Leiñena Otamendi"]
@@ -15,6 +15,7 @@ video_id: NumqDRKSx0E
 url: https://www.youtube.com/watch?v=NumqDRKSx0E
 youtube_url: https://www.youtube.com/watch?v=NumqDRKSx0E
 tags: []
+topics: []
 transcript: false
 ---
 

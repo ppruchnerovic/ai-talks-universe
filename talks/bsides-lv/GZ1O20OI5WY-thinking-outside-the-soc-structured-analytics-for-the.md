@@ -4,7 +4,7 @@ title: "Thinking Outside the SOC: Structured Analytics for the Overloaded Cyber 
 slug: thinking-outside-the-soc-structured-analytics-for-the
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: GZ1O20OI5WY
 url: https://www.youtube.com/watch?v=GZ1O20OI5WY
 youtube_url: https://www.youtube.com/watch?v=GZ1O20OI5WY
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

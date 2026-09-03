@@ -4,7 +4,7 @@ title: "Building Scalable Cross-Modal Search with Ray | Ray Summit 2024"
 slug: building-scalable-cross-modal-search-with-ray-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: q4Na3q_gQfk
 url: https://www.youtube.com/watch?v=q4Na3q_gQfk
 youtube_url: https://www.youtube.com/watch?v=q4Na3q_gQfk
 tags: []
+topics: []
 transcript: false
 ---
 

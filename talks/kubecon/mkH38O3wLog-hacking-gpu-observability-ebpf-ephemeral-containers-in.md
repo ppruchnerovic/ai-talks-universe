@@ -4,7 +4,7 @@ title: "Hacking GPU Observability: eBPF & Ephemeral Containers in Action on Kube
 slug: hacking-gpu-observability-ebpf-ephemeral-containers-in
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Brandon Kang"]
@@ -15,6 +15,7 @@ video_id: mkH38O3wLog
 url: https://www.youtube.com/watch?v=mkH38O3wLog
 youtube_url: https://www.youtube.com/watch?v=mkH38O3wLog
 tags: []
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

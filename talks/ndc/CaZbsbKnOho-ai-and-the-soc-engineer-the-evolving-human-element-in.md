@@ -4,7 +4,7 @@ title: "AI and the SOC Engineer: The Evolving Human Element in Security - Victor
 slug: ai-and-the-soc-engineer-the-evolving-human-element-in
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Victoria Almazova"]
@@ -15,6 +15,7 @@ video_id: CaZbsbKnOho
 url: https://www.youtube.com/watch?v=CaZbsbKnOho
 youtube_url: https://www.youtube.com/watch?v=CaZbsbKnOho
 tags: ["AI", "Security", "Cybersecurity", "Security Operations Centers", "Microsoft Security Copilot", "SOC", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Victoria Almazova"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

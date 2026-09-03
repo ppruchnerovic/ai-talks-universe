@@ -4,7 +4,7 @@ title: "AI Security & the Agent-Ready Web: Experts Weigh In"
 slug: ai-security-the-agent-ready-web-experts-weigh-in
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: R8Ef0sn_HGI
 url: https://www.youtube.com/watch?v=R8Ef0sn_HGI
 youtube_url: https://www.youtube.com/watch?v=R8Ef0sn_HGI
 tags: ["AI DevCon 2026", "AI Native DevCon London", "AI readiness survey", "AI security", "WebMCP in AI", "agent experience", "agentic coding", "agentic development", "ainativedev", "how to secure AI systems", "prompt injection", "prompt injection risks", "sandboxing", "security frameworks", "webMCP"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

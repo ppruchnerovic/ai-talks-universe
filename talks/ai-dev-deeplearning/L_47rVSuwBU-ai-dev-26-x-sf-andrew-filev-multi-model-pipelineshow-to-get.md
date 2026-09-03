@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Andrew Filev: Multi Model Pipelines—How to Get Better
 slug: ai-dev-26-x-sf-andrew-filev-multi-model-pipelineshow-to-get
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: L_47rVSuwBU
 url: https://www.youtube.com/watch?v=L_47rVSuwBU
 youtube_url: https://www.youtube.com/watch?v=L_47rVSuwBU
 tags: []
+topics: []
 transcript: true
 ---
 

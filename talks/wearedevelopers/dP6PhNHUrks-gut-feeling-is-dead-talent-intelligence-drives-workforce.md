@@ -4,7 +4,7 @@ title: "Gut Feeling Is Dead: Talent Intelligence Drives Workforce Planning"
 slug: gut-feeling-is-dead-talent-intelligence-drives-workforce
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: dP6PhNHUrks
 url: https://www.youtube.com/watch?v=dP6PhNHUrks
 youtube_url: https://www.youtube.com/watch?v=dP6PhNHUrks
 tags: ["gut feeling", "hr", "talent intelligence", "workforce planning", "leadership", "talent acquisition", "strategy", "people", "skills", "future skills", "workforce", "employees", "talent", "AI", "automation", "future of hr"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

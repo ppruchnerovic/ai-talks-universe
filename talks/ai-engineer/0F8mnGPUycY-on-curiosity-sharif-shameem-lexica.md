@@ -4,7 +4,7 @@ title: "On Curiosity — Sharif Shameem, Lexica"
 slug: on-curiosity-sharif-shameem-lexica
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["On Curiosity", "Sharif Shameem"]
@@ -15,6 +15,7 @@ video_id: 0F8mnGPUycY
 url: https://www.youtube.com/watch?v=0F8mnGPUycY
 youtube_url: https://www.youtube.com/watch?v=0F8mnGPUycY
 tags: []
+topics: []
 transcript: false
 ---
 

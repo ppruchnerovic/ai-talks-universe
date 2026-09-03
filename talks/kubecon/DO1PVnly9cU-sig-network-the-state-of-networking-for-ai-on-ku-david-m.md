@@ -4,7 +4,7 @@ title: "SIG Network: The State of Networking for AI on Ku... David M, Haiyan M, 
 slug: sig-network-the-state-of-networking-for-ai-on-ku-david-m
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: DO1PVnly9cU
 url: https://www.youtube.com/watch?v=DO1PVnly9cU
 youtube_url: https://www.youtube.com/watch?v=DO1PVnly9cU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "How Claude Code Works - Jared Zoneraich, PromptLayer"
 slug: how-claude-code-works-jared-zoneraich-promptlayer
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jared Zoneraich"]
@@ -15,6 +15,7 @@ video_id: RFKCzGlAU6Q
 url: https://www.youtube.com/watch?v=RFKCzGlAU6Q
 youtube_url: https://www.youtube.com/watch?v=RFKCzGlAU6Q
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: false
 ---
 

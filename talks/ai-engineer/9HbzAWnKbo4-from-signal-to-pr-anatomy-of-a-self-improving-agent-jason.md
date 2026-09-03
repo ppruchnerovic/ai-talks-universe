@@ -4,7 +4,7 @@ title: "From Signal to PR: Anatomy of a Self-Improving Agent — Jason Lopatecki
 slug: from-signal-to-pr-anatomy-of-a-self-improving-agent-jason
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jason Lopatecki"]
@@ -15,6 +15,7 @@ video_id: 9HbzAWnKbo4
 url: https://www.youtube.com/watch?v=9HbzAWnKbo4
 youtube_url: https://www.youtube.com/watch?v=9HbzAWnKbo4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

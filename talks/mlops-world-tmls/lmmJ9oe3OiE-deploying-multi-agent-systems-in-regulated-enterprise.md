@@ -4,7 +4,7 @@ title: "Deploying Multi-Agent Systems in Regulated Enterprise Workflows"
 slug: deploying-multi-agent-systems-in-regulated-enterprise
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: lmmJ9oe3OiE
 url: https://www.youtube.com/watch?v=lmmJ9oe3OiE
 youtube_url: https://www.youtube.com/watch?v=lmmJ9oe3OiE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

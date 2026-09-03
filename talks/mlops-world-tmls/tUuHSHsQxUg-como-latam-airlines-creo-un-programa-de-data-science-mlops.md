@@ -4,7 +4,7 @@ title: "Cómo LATAM AIRLINES creó un Programa de Data Science/ MLOps Durante la
 slug: como-latam-airlines-creo-un-programa-de-data-science-mlops
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Nicolás Venegas Oliva"]
@@ -15,6 +15,7 @@ video_id: tUuHSHsQxUg
 url: https://www.youtube.com/watch?v=tUuHSHsQxUg
 youtube_url: https://www.youtube.com/watch?v=tUuHSHsQxUg
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

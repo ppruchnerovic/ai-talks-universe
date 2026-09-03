@@ -4,7 +4,7 @@ title: "Workshop: Lambda: Multimodal Challenges, Neural Operating Systems, and D
 slug: workshop-lambda-multimodal-challenges-neural-operating
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7J99iUeiCMw
 url: https://www.youtube.com/watch?v=7J99iUeiCMw
 youtube_url: https://www.youtube.com/watch?v=7J99iUeiCMw
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

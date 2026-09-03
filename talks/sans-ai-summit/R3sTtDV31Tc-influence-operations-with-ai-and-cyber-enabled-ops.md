@@ -4,7 +4,7 @@ title: "Influence Operations with AI and Cyber-Enabled Ops"
 slug: influence-operations-with-ai-and-cyber-enabled-ops
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: R3sTtDV31Tc
 url: https://www.youtube.com/watch?v=R3sTtDV31Tc
 youtube_url: https://www.youtube.com/watch?v=R3sTtDV31Tc
 tags: []
+topics: []
 transcript: false
 ---
 

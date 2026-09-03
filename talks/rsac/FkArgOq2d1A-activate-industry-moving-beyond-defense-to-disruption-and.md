@@ -4,7 +4,7 @@ title: "Activate Industry!: Moving Beyond Defense to Disruption and Active Defen
 slug: activate-industry-moving-beyond-defense-to-disruption-and
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: FkArgOq2d1A
 url: https://www.youtube.com/watch?v=FkArgOq2d1A
 youtube_url: https://www.youtube.com/watch?v=FkArgOq2d1A
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

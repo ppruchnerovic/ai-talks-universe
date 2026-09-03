@@ -4,7 +4,7 @@ title: "Why Testing Matters in AI - Luise Freese and Elio Struyf"
 slug: why-testing-matters-in-ai-luise-freese-and-elio-struyf
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Luise Freese", "Elio Struyf"]
@@ -15,6 +15,7 @@ video_id: VV4VtUQ31xI
 url: https://www.youtube.com/watch?v=VV4VtUQ31xI
 youtube_url: https://www.youtube.com/watch?v=VV4VtUQ31xI
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: true
 ---
 

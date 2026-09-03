@@ -4,7 +4,7 @@ title: "Keynote: Democracy's Biggest Year: The Fight for Secure Elections Around
 slug: keynote-democracy-s-biggest-year-the-fight-for-secure
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: vJxxzWgqlCQ
 url: https://www.youtube.com/watch?v=vJxxzWgqlCQ
 youtube_url: https://www.youtube.com/watch?v=vJxxzWgqlCQ
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

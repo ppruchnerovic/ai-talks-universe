@@ -4,7 +4,7 @@ title: "Jay Rodge - Building GPU-Accelerated Agentic Workflows"
 slug: jay-rodge-building-gpu-accelerated-agentic-workflows
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Jay Rodge"]
@@ -15,6 +15,7 @@ video_id: gx46yiGQHas
 url: https://www.youtube.com/watch?v=gx46yiGQHas
 youtube_url: https://www.youtube.com/watch?v=gx46yiGQHas
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

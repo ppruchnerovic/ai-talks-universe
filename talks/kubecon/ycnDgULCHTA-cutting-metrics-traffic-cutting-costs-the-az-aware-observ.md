@@ -4,7 +4,7 @@ title: "Cutting Metrics Traffic, Cutting Costs: The AZ-Aware Observ... Iris Dyrm
 slug: cutting-metrics-traffic-cutting-costs-the-az-aware-observ
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: ycnDgULCHTA
 url: https://www.youtube.com/watch?v=ycnDgULCHTA
 youtube_url: https://www.youtube.com/watch?v=ycnDgULCHTA
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

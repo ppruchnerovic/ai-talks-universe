@@ -4,7 +4,7 @@ title: "Building a GPU Cloud with Ray at io.net | Ray Summit 2024"
 slug: building-a-gpu-cloud-with-ray-at-io-net-ray-summit-2024
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2WTKKH7m5y4
 url: https://www.youtube.com/watch?v=2WTKKH7m5y4
 youtube_url: https://www.youtube.com/watch?v=2WTKKH7m5y4
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

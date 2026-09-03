@@ -4,7 +4,7 @@ title: "The Inherent Fragility of Machine Learning | AI Safety | Nirupam Gupta"
 slug: the-inherent-fragility-of-machine-learning-ai-safety
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Nirupam Gupta"]
@@ -15,6 +15,7 @@ video_id: Mm9Z7qOxEGM
 url: https://www.youtube.com/watch?v=Mm9Z7qOxEGM
 youtube_url: https://www.youtube.com/watch?v=Mm9Z7qOxEGM
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

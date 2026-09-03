@@ -4,7 +4,7 @@ title: "[Session] Scaling MCP Observability: How Natoma Monitors Thousands of MC
 slug: session-scaling-mcp-observability-how-natoma-monitors
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 09OrzbZC3AU
 url: https://www.youtube.com/watch?v=09OrzbZC3AU
 youtube_url: https://www.youtube.com/watch?v=09OrzbZC3AU
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability"]
 transcript: false
 ---
 

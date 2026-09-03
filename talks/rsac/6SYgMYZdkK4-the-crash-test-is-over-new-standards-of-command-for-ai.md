@@ -4,7 +4,7 @@ title: "The Crash Test is Over: New Standards of Command for AI Safety"
 slug: the-crash-test-is-over-new-standards-of-command-for-ai
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6SYgMYZdkK4
 url: https://www.youtube.com/watch?v=6SYgMYZdkK4
 youtube_url: https://www.youtube.com/watch?v=6SYgMYZdkK4
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

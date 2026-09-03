@@ -4,7 +4,7 @@ title: "How Latitude AI Trains Perception Models at Massive Scale | Ray Summit 2
 slug: how-latitude-ai-trains-perception-models-at-massive-scale
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YoO5t7Lpl74
 url: https://www.youtube.com/watch?v=YoO5t7Lpl74
 youtube_url: https://www.youtube.com/watch?v=YoO5t7Lpl74
 tags: []
+topics: []
 transcript: false
 ---
 

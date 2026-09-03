@@ -4,7 +4,7 @@ title: "Keynote: SIFT: Find Evil! Defensive AI Orchestration"
 slug: keynote-sift-find-evil-defensive-ai-orchestration
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: FzfEZ9nHKpE
 url: https://www.youtube.com/watch?v=FzfEZ9nHKpE
 youtube_url: https://www.youtube.com/watch?v=FzfEZ9nHKpE
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

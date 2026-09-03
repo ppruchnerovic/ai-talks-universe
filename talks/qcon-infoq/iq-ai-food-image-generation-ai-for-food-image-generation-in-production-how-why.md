@@ -4,7 +4,7 @@ title: "AI for Food Image Generation in Production: How & Why"
 slug: ai-for-food-image-generation-in-production-how-why
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Iaroslav Amerkhanov"]
@@ -15,6 +15,7 @@ video_id: iq-ai-food-image-generation
 url: https://www.infoq.com/presentations/ai-food-image-generation/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

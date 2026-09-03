@@ -4,7 +4,7 @@ title: "Panel: Data Lineage We’ve Come a Long Way"
 slug: panel-data-lineage-weve-come-a-long-way
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Harel Shein"]
@@ -15,6 +15,7 @@ video_id: OE1o4D_iWfw
 url: https://www.youtube.com/watch?v=OE1o4D_iWfw
 youtube_url: https://www.youtube.com/watch?v=OE1o4D_iWfw
 tags: ["machine learning", "computer vision", "AI"]
+topics: []
 transcript: false
 ---
 

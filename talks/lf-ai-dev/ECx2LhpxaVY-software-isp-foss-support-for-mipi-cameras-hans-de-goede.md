@@ -4,7 +4,7 @@ title: "Software ISP FOSS Support for MIPI Cameras - Hans de Goede, Red Hat & Br
 slug: software-isp-foss-support-for-mipi-cameras-hans-de-goede
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Hans de Goede"]
@@ -15,6 +15,7 @@ video_id: ECx2LhpxaVY
 url: https://www.youtube.com/watch?v=ECx2LhpxaVY
 youtube_url: https://www.youtube.com/watch?v=ECx2LhpxaVY
 tags: []
+topics: []
 transcript: false
 ---
 

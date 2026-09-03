@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF: Emma McGrattan: Engineering the Context Layer"
 slug: ai-dev-26-x-sf-emma-mcgrattan-engineering-the-context-layer
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: _34LbyYNoqU
 url: https://www.youtube.com/watch?v=_34LbyYNoqU
 youtube_url: https://www.youtube.com/watch?v=_34LbyYNoqU
 tags: []
+topics: ["Governance, ethics & regulation", "Inference, serving & GPU infra", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

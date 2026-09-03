@@ -4,7 +4,7 @@ title: "How to measure the impact of AI code assistants like GitHub Copilot | OD
 slug: how-to-measure-the-impact-of-ai-code-assistants-like-github
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: VUEqCcY14hA
 url: https://www.youtube.com/watch?v=VUEqCcY14hA
 youtube_url: https://www.youtube.com/watch?v=VUEqCcY14hA
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

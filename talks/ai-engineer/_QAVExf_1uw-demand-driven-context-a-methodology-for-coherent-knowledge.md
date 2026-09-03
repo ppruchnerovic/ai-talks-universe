@@ -4,7 +4,7 @@ title: "Demand-Driven Context: A Methodology for Coherent Knowledge Bases Throug
 slug: demand-driven-context-a-methodology-for-coherent-knowledge
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: _QAVExf_1uw
 url: https://www.youtube.com/watch?v=_QAVExf_1uw
 youtube_url: https://www.youtube.com/watch?v=_QAVExf_1uw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Prompting & context engineering", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Accelerating Princeton's Computational Science with Ray | Ray Summit 202
 slug: accelerating-princeton-s-computational-science-with-ray-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6Hg34YDTT0U
 url: https://www.youtube.com/watch?v=6Hg34YDTT0U
 youtube_url: https://www.youtube.com/watch?v=6Hg34YDTT0U
 tags: []
+topics: []
 transcript: false
 ---
 

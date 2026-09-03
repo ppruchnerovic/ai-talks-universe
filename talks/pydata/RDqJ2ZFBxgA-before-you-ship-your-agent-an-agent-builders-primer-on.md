@@ -4,7 +4,7 @@ title: "Before You Ship Your Agent: An Agent Builder’s Primer on Jailbreaking 
 slug: before-you-ship-your-agent-an-agent-builders-primer-on
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: RDqJ2ZFBxgA
 url: https://www.youtube.com/watch?v=RDqJ2ZFBxgA
 youtube_url: https://www.youtube.com/watch?v=RDqJ2ZFBxgA
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

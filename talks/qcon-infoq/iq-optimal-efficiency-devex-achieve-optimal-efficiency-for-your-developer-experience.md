@@ -4,7 +4,7 @@ title: "Achieve Optimal Efficiency for Your Developer Experience Teams"
 slug: achieve-optimal-efficiency-for-your-developer-experience
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Fabien Deshayes"]
@@ -15,6 +15,7 @@ video_id: iq-optimal-efficiency-devex
 url: https://www.infoq.com/presentations/optimal-efficiency-devex/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

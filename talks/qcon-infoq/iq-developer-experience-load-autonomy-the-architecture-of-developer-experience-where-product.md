@@ -4,7 +4,7 @@ title: "The Architecture of Developer Experience: Where Product, Platform, and O
 slug: the-architecture-of-developer-experience-where-product
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Live - November 2025"
 year: 2025
 speakers: ["Ran Isenberg", "Garima Bajpai", "Stephane DiCesare", "Martin Reynolds", "Renato Losio"]
@@ -15,6 +15,7 @@ video_id: iq-developer-experience-load-autonomy
 url: https://www.infoq.com/presentations/developer-experience-load-autonomy/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

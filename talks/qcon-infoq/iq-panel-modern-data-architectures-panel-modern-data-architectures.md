@@ -4,7 +4,7 @@ title: "Panel: Modern Data Architectures"
 slug: panel-modern-data-architectures
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Fabiane Nardon", "Matthias Niehoff", "Adi Polak", "Sarah Usher"]
@@ -15,6 +15,7 @@ video_id: iq-panel-modern-data-architectures
 url: https://www.infoq.com/presentations/panel-modern-data-architectures/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

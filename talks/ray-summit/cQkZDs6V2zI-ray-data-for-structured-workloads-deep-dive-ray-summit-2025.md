@@ -4,7 +4,7 @@ title: "Ray Data for Structured Workloads: Deep Dive | Ray Summit 2025"
 slug: ray-data-for-structured-workloads-deep-dive-ray-summit-2025
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cQkZDs6V2zI
 url: https://www.youtube.com/watch?v=cQkZDs6V2zI
 youtube_url: https://www.youtube.com/watch?v=cQkZDs6V2zI
 tags: []
+topics: []
 transcript: false
 ---
 

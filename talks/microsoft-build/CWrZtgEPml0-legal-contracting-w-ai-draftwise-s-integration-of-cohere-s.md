@@ -4,7 +4,7 @@ title: "Legal Contracting w/AI: DraftWise's Integration of Cohere's Models​ | 
 slug: legal-contracting-w-ai-draftwise-s-integration-of-cohere-s
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: CWrZtgEPml0
 url: https://www.youtube.com/watch?v=CWrZtgEPml0
 youtube_url: https://www.youtube.com/watch?v=CWrZtgEPml0
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

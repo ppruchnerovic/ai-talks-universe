@@ -4,7 +4,7 @@ title: "How to Unlock Insights and Enable Discovery within Petabytes of Autonomo
 slug: how-to-unlock-insights-and-enable-discovery-within
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Kyra Mozley"]
@@ -15,6 +15,7 @@ video_id: iq-autonomous-driving-data
 url: https://www.infoq.com/presentations/autonomous-driving-data/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

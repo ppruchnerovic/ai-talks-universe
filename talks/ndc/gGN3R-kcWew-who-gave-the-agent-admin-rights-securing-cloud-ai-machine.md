@@ -4,7 +4,7 @@ title: "Who Gave the Agent Admin Rights?! Securing Cloud & AI Machine Identities
 slug: who-gave-the-agent-admin-rights-securing-cloud-ai-machine
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Bodhisattva Das"]
@@ -15,6 +15,7 @@ video_id: gGN3R-kcWew
 url: https://www.youtube.com/watch?v=gGN3R-kcWew
 youtube_url: https://www.youtube.com/watch?v=gGN3R-kcWew
 tags: ["ML", "Application Security", "Cloud Security", "DevOps", "Kubernetes", "Platforms", "Programming", "Security Tooling", "SDLC", "AI", "Machine Learning", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Bodhisattva Das"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

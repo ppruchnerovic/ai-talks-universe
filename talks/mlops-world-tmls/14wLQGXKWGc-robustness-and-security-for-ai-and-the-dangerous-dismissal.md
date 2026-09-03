@@ -4,7 +4,7 @@ title: "Robustness and Security for AI and the Dangerous Dismissal of Edge Cases
 slug: robustness-and-security-for-ai-and-the-dangerous-dismissal
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["James Stewart"]
@@ -15,6 +15,7 @@ video_id: 14wLQGXKWGc
 url: https://www.youtube.com/watch?v=14wLQGXKWGc
 youtube_url: https://www.youtube.com/watch?v=14wLQGXKWGc
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Multimodal, vision, speech & robotics", "Security, safety & red teaming"]
 transcript: false
 ---
 

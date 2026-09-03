@@ -4,7 +4,7 @@ title: "Data Streaming: The Hard Truths Senior Engineers Miss (Patterns & AI)"
 slug: data-streaming-the-hard-truths-senior-engineers-miss
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: NxDjrec1VHA
 url: https://www.youtube.com/watch?v=NxDjrec1VHA
 youtube_url: https://www.youtube.com/watch?v=NxDjrec1VHA
 tags: ["Data Streaming", "QCon San Francisco", "Stream Processing", "Apache Kafka", "Apache Flink", "Data Engineering", "Distributed Systems", "ExactlyOnce", "Software Architecture", "Patterns", "InfoQ", "Transcript"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

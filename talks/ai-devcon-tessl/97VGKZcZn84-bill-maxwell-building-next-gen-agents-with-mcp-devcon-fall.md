@@ -4,7 +4,7 @@ title: "Bill Maxwell - Building Next Gen Agents with MCP | DevCon Fall 2025"
 slug: bill-maxwell-building-next-gen-agents-with-mcp-devcon-fall
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Bill Maxwell"]
@@ -15,6 +15,7 @@ video_id: 97VGKZcZn84
 url: https://www.youtube.com/watch?v=97VGKZcZn84
 youtube_url: https://www.youtube.com/watch?v=97VGKZcZn84
 tags: ["ainativedev"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

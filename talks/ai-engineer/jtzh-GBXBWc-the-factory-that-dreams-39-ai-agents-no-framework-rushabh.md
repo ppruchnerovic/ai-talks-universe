@@ -4,7 +4,7 @@ title: "The Factory That Dreams: 39 AI Agents, No Framework - Rushabh Doshi, Mac
 slug: the-factory-that-dreams-39-ai-agents-no-framework-rushabh
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rushabh Doshi"]
@@ -15,6 +15,7 @@ video_id: jtzh-GBXBWc
 url: https://www.youtube.com/watch?v=jtzh-GBXBWc
 youtube_url: https://www.youtube.com/watch?v=jtzh-GBXBWc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

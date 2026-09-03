@@ -4,7 +4,7 @@ title: "\"Data readiness\" is a Myth: Reliable AI with an Agentic Semantic Layer
 slug: data-readiness-is-a-myth-reliable-ai-with-an-agentic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Anushrut Gupta"]
@@ -15,6 +15,7 @@ video_id: 1nOTQsfe1RU
 url: https://www.youtube.com/watch?v=1nOTQsfe1RU
 youtube_url: https://www.youtube.com/watch?v=1nOTQsfe1RU
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

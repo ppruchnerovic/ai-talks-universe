@@ -4,7 +4,7 @@ title: "Everything I Learned Training Frontier Small Models — Maxime Labonne, 
 slug: everything-i-learned-training-frontier-small-models-maxime
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Maxime Labonne"]
@@ -15,6 +15,7 @@ video_id: fLUtUkqYHnQ
 url: https://www.youtube.com/watch?v=fLUtUkqYHnQ
 youtube_url: https://www.youtube.com/watch?v=fLUtUkqYHnQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

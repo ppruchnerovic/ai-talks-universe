@@ -4,7 +4,7 @@ title: "Evolution of a Backend for a Streaming Application"
 slug: evolution-of-a-backend-for-a-streaming-application
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Daniele Frasca"]
@@ -15,6 +15,7 @@ video_id: iq-streaming-application-aws-infrastructure
 url: https://www.infoq.com/presentations/streaming-application-aws-infrastructure/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

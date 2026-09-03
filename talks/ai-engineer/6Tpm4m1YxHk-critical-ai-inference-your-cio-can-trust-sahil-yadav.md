@@ -4,7 +4,7 @@ title: "Critical AI Inference your CIO can Trust — Sahil Yadav, Hariharan Gane
 slug: critical-ai-inference-your-cio-can-trust-sahil-yadav
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Sahil Yadav"]
@@ -15,6 +15,7 @@ video_id: 6Tpm4m1YxHk
 url: https://www.youtube.com/watch?v=6Tpm4m1YxHk
 youtube_url: https://www.youtube.com/watch?v=6Tpm4m1YxHk
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

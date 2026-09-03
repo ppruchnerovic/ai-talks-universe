@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Climbing the AI Mountain With Your Security Team (S
 slug: aws-re-invent-2025-climbing-the-ai-mountain-with-your
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: jv6vrzT3Bdw
 url: https://www.youtube.com/watch?v=jv6vrzT3Bdw
 youtube_url: https://www.youtube.com/watch?v=jv6vrzT3Bdw
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

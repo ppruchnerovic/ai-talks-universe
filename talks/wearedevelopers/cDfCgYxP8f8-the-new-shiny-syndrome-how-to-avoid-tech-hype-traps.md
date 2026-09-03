@@ -4,7 +4,7 @@ title: "The New Shiny Syndrome: How to Avoid Tech Hype Traps"
 slug: the-new-shiny-syndrome-how-to-avoid-tech-hype-traps
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Josip Stuhli"]
@@ -15,6 +15,7 @@ video_id: cDfCgYxP8f8
 url: https://www.youtube.com/watch?v=cDfCgYxP8f8
 youtube_url: https://www.youtube.com/watch?v=cDfCgYxP8f8
 tags: ["Engineering Leadership", "APIs", "Caching", "Containers", "Databases", "DevOps", "Infrastructure", "Microservices", "MongoDB", "Multi-Cloud", "NoSQL", "On-Premise", "Performance", "Productivity", "Reliability", "Service Mesh", "Software Architecture", "System Design", "Tooling", "Tracing", "Varnish", "Web Performance"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

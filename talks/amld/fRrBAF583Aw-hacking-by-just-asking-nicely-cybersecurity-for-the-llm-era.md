@@ -4,7 +4,7 @@ title: "Hacking by Just Asking Nicely: Cybersecurity for the LLM Era | AI Safety
 slug: hacking-by-just-asking-nicely-cybersecurity-for-the-llm-era
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: fRrBAF583Aw
 url: https://www.youtube.com/watch?v=fRrBAF583Aw
 youtube_url: https://www.youtube.com/watch?v=fRrBAF583Aw
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

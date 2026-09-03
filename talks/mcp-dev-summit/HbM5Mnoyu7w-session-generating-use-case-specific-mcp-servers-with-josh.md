@@ -4,7 +4,7 @@ title: "[Session] Generating Use Case Specific MCP Servers with Josh Dzielak at 
 slug: session-generating-use-case-specific-mcp-servers-with-josh
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: HbM5Mnoyu7w
 url: https://www.youtube.com/watch?v=HbM5Mnoyu7w
 youtube_url: https://www.youtube.com/watch?v=HbM5Mnoyu7w
 tags: ["mcp", "model context protocol", "ai for devs", "ai agents"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

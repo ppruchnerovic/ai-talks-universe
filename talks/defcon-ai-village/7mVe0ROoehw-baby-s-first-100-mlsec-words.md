@@ -4,7 +4,7 @@ title: "Baby's First 100 MLSec Words"
 slug: baby-s-first-100-mlsec-words
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2020
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7mVe0ROoehw
 url: https://www.youtube.com/watch?v=7mVe0ROoehw
 youtube_url: https://www.youtube.com/watch?v=7mVe0ROoehw
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

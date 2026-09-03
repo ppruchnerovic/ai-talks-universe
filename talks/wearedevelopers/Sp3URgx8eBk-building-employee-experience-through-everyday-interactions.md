@@ -4,7 +4,7 @@ title: "Building Employee Experience Through Everyday Interactions"
 slug: building-employee-experience-through-everyday-interactions
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Sp3URgx8eBk
 url: https://www.youtube.com/watch?v=Sp3URgx8eBk
 youtube_url: https://www.youtube.com/watch?v=Sp3URgx8eBk
 tags: ["employee experience", "teams", "employee", "engagement", "people", "culture", "development", "hr", "organization", "business", "satisfaction"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

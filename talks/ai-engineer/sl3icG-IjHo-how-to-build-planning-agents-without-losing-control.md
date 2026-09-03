@@ -4,7 +4,7 @@ title: "How to Build Planning Agents without losing control - Yogendra Miraje, F
 slug: how-to-build-planning-agents-without-losing-control
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Yogendra Miraje"]
@@ -15,6 +15,7 @@ video_id: sl3icG-IjHo
 url: https://www.youtube.com/watch?v=sl3icG-IjHo
 youtube_url: https://www.youtube.com/watch?v=sl3icG-IjHo
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

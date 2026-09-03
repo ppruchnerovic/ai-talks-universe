@@ -4,7 +4,7 @@ title: "FrameworkDesktop and IncusOS, a perfect combination for running LLMs loc
 slug: frameworkdesktop-and-incusos-a-perfect-combination-for
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Peter Smink"]
@@ -15,6 +15,7 @@ video_id: RTQdC6IgBzc
 url: https://www.youtube.com/watch?v=RTQdC6IgBzc
 youtube_url: https://www.youtube.com/watch?v=RTQdC6IgBzc
 tags: []
+topics: []
 transcript: true
 ---
 

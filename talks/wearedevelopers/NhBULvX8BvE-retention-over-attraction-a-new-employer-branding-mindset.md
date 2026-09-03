@@ -4,7 +4,7 @@ title: "Retention Over Attraction: A New Employer Branding Mindset"
 slug: retention-over-attraction-a-new-employer-branding-mindset
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: NhBULvX8BvE
 url: https://www.youtube.com/watch?v=NhBULvX8BvE
 youtube_url: https://www.youtube.com/watch?v=NhBULvX8BvE
 tags: ["retention", "talent attraction", "employer branding", "mindset", "hr", "people", "recruiting", "career development", "branding", "employer", "people strategy", "branding strategy"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Uber's Journey in Building Multi-Modal Foundation Models | Ray Summit 20
 slug: uber-s-journey-in-building-multi-modal-foundation-models
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1OzBgufIJJk
 url: https://www.youtube.com/watch?v=1OzBgufIJJk
 youtube_url: https://www.youtube.com/watch?v=1OzBgufIJJk
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

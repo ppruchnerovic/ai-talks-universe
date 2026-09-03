@@ -4,7 +4,7 @@ title: "Jakub Urban - Async to Distributed: Concurrency Patterns for Data Proces
 slug: jakub-urban-async-to-distributed-concurrency-patterns-for
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Jakub Urban"]
@@ -15,6 +15,7 @@ video_id: m7-Ha6glP-c
 url: https://www.youtube.com/watch?v=m7-Ha6glP-c
 youtube_url: https://www.youtube.com/watch?v=m7-Ha6glP-c
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: false
 ---
 

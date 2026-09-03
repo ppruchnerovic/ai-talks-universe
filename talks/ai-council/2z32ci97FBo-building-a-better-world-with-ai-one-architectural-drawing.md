@@ -4,7 +4,7 @@ title: "Building a better world with AI, one architectural drawing at a time | m
 slug: building-a-better-world-with-ai-one-architectural-drawing
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2z32ci97FBo
 url: https://www.youtube.com/watch?v=2z32ci97FBo
 youtube_url: https://www.youtube.com/watch?v=2z32ci97FBo
 tags: ["AI", "NLP", "computer vision", "data products"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

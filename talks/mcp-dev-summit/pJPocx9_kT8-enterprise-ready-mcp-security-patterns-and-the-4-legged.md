@@ -4,7 +4,7 @@ title: "Enterprise-Ready MCP: Security Patterns and the \"4-Legged\" Identity Ch
 slug: enterprise-ready-mcp-security-patterns-and-the-4-legged
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Paulina Xu"]
@@ -15,6 +15,7 @@ video_id: pJPocx9_kT8
 url: https://www.youtube.com/watch?v=pJPocx9_kT8
 youtube_url: https://www.youtube.com/watch?v=pJPocx9_kT8
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

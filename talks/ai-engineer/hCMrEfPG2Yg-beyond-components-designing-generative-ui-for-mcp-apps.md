@@ -4,7 +4,7 @@ title: "Beyond Components: Designing Generative UI for MCP Apps — Ruben Casas,
 slug: beyond-components-designing-generative-ui-for-mcp-apps
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ruben Casas"]
@@ -15,6 +15,7 @@ video_id: hCMrEfPG2Yg
 url: https://www.youtube.com/watch?v=hCMrEfPG2Yg
 youtube_url: https://www.youtube.com/watch?v=hCMrEfPG2Yg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

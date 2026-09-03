@@ -4,7 +4,7 @@ title: "LLMs in the wild: Building an AI agent that survives production"
 slug: llms-in-the-wild-building-an-ai-agent-that-survives
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Giampaolo Casolla", "Steven Mi"]
@@ -15,6 +15,7 @@ video_id: NstVzfvXXuc
 url: https://www.youtube.com/watch?v=NstVzfvXXuc
 youtube_url: https://www.youtube.com/watch?v=NstVzfvXXuc
 tags: ["AI Agents", "Agents", "Agentic AI", "Large Language Models (LLMs)", "LLMOps", "Retrieval-Augmented Generation (RAG)"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

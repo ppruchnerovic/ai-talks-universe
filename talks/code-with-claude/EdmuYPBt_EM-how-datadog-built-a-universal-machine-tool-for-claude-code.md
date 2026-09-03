@@ -4,7 +4,7 @@ title: "How Datadog built a universal machine tool for Claude Code"
 slug: how-datadog-built-a-universal-machine-tool-for-claude-code
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 San Francisco"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: EdmuYPBt_EM
 url: https://www.youtube.com/watch?v=EdmuYPBt_EM
 youtube_url: https://www.youtube.com/watch?v=EdmuYPBt_EM
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

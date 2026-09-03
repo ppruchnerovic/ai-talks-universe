@@ -4,7 +4,7 @@ title: "Java Agent vs. eBPF: A Deep Dive into OpenTelemetry Instrumentation Tech
 slug: java-agent-vs-ebpf-a-deep-dive-into-opentelemetry
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Fabian Stäber"]
@@ -15,6 +15,7 @@ video_id: DhjbD-Bhn9E
 url: https://www.youtube.com/watch?v=DhjbD-Bhn9E
 youtube_url: https://www.youtube.com/watch?v=DhjbD-Bhn9E
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

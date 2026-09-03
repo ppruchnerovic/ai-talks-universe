@@ -4,7 +4,7 @@ title: "Building Engineering Culture Through Autonomy and Ownership"
 slug: building-engineering-culture-through-autonomy-and-ownership
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Zk4XSzO5hXg
 url: https://www.youtube.com/watch?v=Zk4XSzO5hXg
 youtube_url: https://www.youtube.com/watch?v=Zk4XSzO5hXg
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

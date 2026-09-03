@@ -4,7 +4,7 @@ title: "Let’s build K.I.T.T. with JavaScript - Nico Martin"
 slug: lets-build-k-i-t-t-with-javascript-nico-martin
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Nico Martin"]
@@ -15,6 +15,7 @@ video_id: qek5U_wo308
 url: https://www.youtube.com/watch?v=qek5U_wo308
 youtube_url: https://www.youtube.com/watch?v=qek5U_wo308
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "OpenAI DevDay 2024 | Virtual AMA with Sam Altman, moderated by Harry Ste
 slug: openai-devday-2024-virtual-ama-with-sam-altman-moderated-by
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Hn27upT2m_o
 url: https://www.youtube.com/watch?v=Hn27upT2m_o
 youtube_url: https://www.youtube.com/watch?v=Hn27upT2m_o
 tags: []
+topics: []
 transcript: false
 ---
 

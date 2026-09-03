@@ -4,7 +4,7 @@ title: "ServiceNow ‘Walks the Talk’ With Databricks: Revolutionizing Go-To-M
 slug: servicenow-walks-the-talk-with-databricks-revolutionizing
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: QtxsZRUl_Js
 url: https://www.youtube.com/watch?v=QtxsZRUl_Js
 youtube_url: https://www.youtube.com/watch?v=QtxsZRUl_Js
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

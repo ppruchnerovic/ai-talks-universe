@@ -4,7 +4,7 @@ title: "Is AIOps the Future of IT Operations? Real Use Cases from the Trenches b
 slug: is-aiops-the-future-of-it-operations-real-use-cases-from
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Danilo Banjac", "Iveri Prang"]
@@ -15,6 +15,7 @@ video_id: dVy-lengAhY
 url: https://www.youtube.com/watch?v=dVy-lengAhY
 youtube_url: https://www.youtube.com/watch?v=dVy-lengAhY
 tags: []
+topics: []
 transcript: false
 ---
 

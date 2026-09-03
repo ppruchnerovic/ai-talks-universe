@@ -4,7 +4,7 @@ title: "Harness Engineering: How to Build Software When Humans Steer, Agents Exe
 slug: harness-engineering-how-to-build-software-when-humans-steer
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ryan Lopopolo"]
@@ -15,6 +15,7 @@ video_id: am_oeAoUhew
 url: https://www.youtube.com/watch?v=am_oeAoUhew
 youtube_url: https://www.youtube.com/watch?v=am_oeAoUhew
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Automated Machine Learning Tuning with FLAML"
 slug: automated-machine-learning-tuning-with-flaml
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Qingyun Wu"]
@@ -15,6 +15,7 @@ video_id: hrFd9Qek6H8
 url: https://www.youtube.com/watch?v=hrFd9Qek6H8
 youtube_url: https://www.youtube.com/watch?v=hrFd9Qek6H8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

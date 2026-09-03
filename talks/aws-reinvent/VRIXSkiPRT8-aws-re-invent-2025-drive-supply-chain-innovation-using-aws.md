@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Drive Supply Chain Innovation Using AWS Cloud and A
 slug: aws-re-invent-2025-drive-supply-chain-innovation-using-aws
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: VRIXSkiPRT8
 url: https://www.youtube.com/watch?v=VRIXSkiPRT8
 youtube_url: https://www.youtube.com/watch?v=VRIXSkiPRT8
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

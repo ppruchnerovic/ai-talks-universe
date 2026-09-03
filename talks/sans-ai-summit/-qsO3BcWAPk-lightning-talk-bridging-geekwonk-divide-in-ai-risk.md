@@ -4,7 +4,7 @@ title: "Lightning Talk: Bridging Geek–Wonk Divide in AI Risk"
 slug: lightning-talk-bridging-geekwonk-divide-in-ai-risk
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: -qsO3BcWAPk
 url: https://www.youtube.com/watch?v=-qsO3BcWAPk
 youtube_url: https://www.youtube.com/watch?v=-qsO3BcWAPk
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "What’s real, ready, and next for developers with Scott Guthrie | LIVE1
 slug: whats-real-ready-and-next-for-developers-with-scott-guthrie
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Scott Guthrie", "Seth Juarez"]
@@ -15,6 +15,7 @@ video_id: il8JKKLAtuA
 url: https://www.youtube.com/watch?v=il8JKKLAtuA
 youtube_url: https://www.youtube.com/watch?v=il8JKKLAtuA
 tags: ["LIVE109", "LIVE109_v1", "Scott Guthrie", "Seth Juarez", "What’s real ready and next for developers with Scott Guthrie | LIVE109", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

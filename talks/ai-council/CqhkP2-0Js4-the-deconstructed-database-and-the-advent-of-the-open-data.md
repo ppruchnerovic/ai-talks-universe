@@ -4,7 +4,7 @@ title: "The Deconstructed Database and the Advent of the Open Data Lake"
 slug: the-deconstructed-database-and-the-advent-of-the-open-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Julien Le Dem"]
@@ -15,6 +15,7 @@ video_id: CqhkP2-0Js4
 url: https://www.youtube.com/watch?v=CqhkP2-0Js4
 youtube_url: https://www.youtube.com/watch?v=CqhkP2-0Js4
 tags: ["database tutorial", "SQL tutorial", "ChatGPT", "artificial intelligence", "machine learning", "data engineering", "big data", "cloud computing", "open source", "data lake", "Apache Parquet", "Apache Arrow", "Apache Iceberg", "data architecture", "modern data stack", "analytics", "database design", "Python", "PostgreSQL", "MySQL", "MongoDB", "database optimization", "query optimization", "ACID transactions", "NoSQL", "relational database", "database administration", "DBA", "data modeling", "entity relationship", "normalization"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

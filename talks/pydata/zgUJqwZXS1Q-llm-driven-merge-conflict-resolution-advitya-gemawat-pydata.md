@@ -4,7 +4,7 @@ title: "LLM-driven Merge Conflict Resolution - Advitya Gemawat | PyData St. Loui
 slug: llm-driven-merge-conflict-resolution-advitya-gemawat-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Advitya Gemawat"]
@@ -15,6 +15,7 @@ video_id: zgUJqwZXS1Q
 url: https://www.youtube.com/watch?v=zgUJqwZXS1Q
 youtube_url: https://www.youtube.com/watch?v=zgUJqwZXS1Q
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: true
 ---
 

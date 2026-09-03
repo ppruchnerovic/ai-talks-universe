@@ -4,7 +4,7 @@ title: "Move Fast without Breaking Trust in the Age of AI | Marius Hobbhahn, Dia
 slug: move-fast-without-breaking-trust-in-the-age-of-ai-marius
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Marius Hobbhahn"]
@@ -15,6 +15,7 @@ video_id: HA0eGyb_joE
 url: https://www.youtube.com/watch?v=HA0eGyb_joE
 youtube_url: https://www.youtube.com/watch?v=HA0eGyb_joE
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

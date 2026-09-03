@@ -4,7 +4,7 @@ title: "Hack Me If You Can: Designing Unbreakable LLM Guardrails"
 slug: hack-me-if-you-can-designing-unbreakable-llm-guardrails
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Cansu Kavili Örnek"]
@@ -15,6 +15,7 @@ video_id: dj2TZI3uArk
 url: https://www.youtube.com/watch?v=dj2TZI3uArk
 youtube_url: https://www.youtube.com/watch?v=dj2TZI3uArk
 tags: ["Security & Privacy", "AI Standards", "Safety"]
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

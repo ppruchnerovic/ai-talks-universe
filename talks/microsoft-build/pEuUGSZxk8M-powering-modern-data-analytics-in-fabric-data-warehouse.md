@@ -4,7 +4,7 @@ title: "Powering modern data analytics in Fabric Data Warehouse | OD813"
 slug: powering-modern-data-analytics-in-fabric-data-warehouse
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Rakesh Krishnan"]
@@ -15,6 +15,7 @@ video_id: pEuUGSZxk8M
 url: https://www.youtube.com/watch?v=pEuUGSZxk8M
 youtube_url: https://www.youtube.com/watch?v=pEuUGSZxk8M
 tags: ["CP&D", "Data", "Microsoft Fabric", "OD813", "OD813_v1", "Powering modern data analytics in Fabric Data Warehouse | OD813", "Rakesh Krishnan", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

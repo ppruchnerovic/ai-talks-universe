@@ -4,7 +4,7 @@ title: "How building with AI can double the throughput of your engineering team"
 slug: how-building-with-ai-can-double-the-throughput-of-your
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Brian Scanlan"]
@@ -15,6 +15,7 @@ video_id: 2UuWFf5-_Hc
 url: https://www.youtube.com/watch?v=2UuWFf5-_Hc
 youtube_url: https://www.youtube.com/watch?v=2UuWFf5-_Hc
 tags: ["Developer Experience", "AI Coding Assistants", "Automation Testing", "Claude", "GitHub Actions", "Ruby on Rails"]
+topics: ["AI in the SDLC & engineering orgs", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

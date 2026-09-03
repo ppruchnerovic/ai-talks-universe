@@ -4,7 +4,7 @@ title: "[Keynote] Building an AI Voice Agent to Automate a Robot Cafe with Googl
 slug: keynote-building-an-ai-voice-agent-to-automate-a-robot-cafe
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: EQrdY42VwMA
 url: https://www.youtube.com/watch?v=EQrdY42VwMA
 youtube_url: https://www.youtube.com/watch?v=EQrdY42VwMA
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

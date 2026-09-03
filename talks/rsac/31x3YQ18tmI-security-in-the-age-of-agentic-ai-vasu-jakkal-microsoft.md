@@ -4,7 +4,7 @@ title: "Security in the Age of Agentic AI | Vasu Jakkal, Microsoft Security | RS
 slug: security-in-the-age-of-agentic-ai-vasu-jakkal-microsoft
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: ["Vasu Jakkal"]
@@ -15,6 +15,7 @@ video_id: 31x3YQ18tmI
 url: https://www.youtube.com/watch?v=31x3YQ18tmI
 youtube_url: https://www.youtube.com/watch?v=31x3YQ18tmI
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Prashanth Rao, Kùzu Inc: Unpacking Graph RAG:An overview of history, te
 slug: prashanth-rao-kuzu-inc-unpacking-graph-rag-an-overview-of
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: KU_EECNK30I
 url: https://www.youtube.com/watch?v=KU_EECNK30I
 youtube_url: https://www.youtube.com/watch?v=KU_EECNK30I
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The Current State of Browser Agents - Jerry Wu and Wyatt Marshall"
 slug: the-current-state-of-browser-agents-jerry-wu-and-wyatt
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jerry Wu", "Wyatt Marshall"]
@@ -15,6 +15,7 @@ video_id: Djv8Sp11UjI
 url: https://www.youtube.com/watch?v=Djv8Sp11UjI
 youtube_url: https://www.youtube.com/watch?v=Djv8Sp11UjI
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

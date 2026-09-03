@@ -4,7 +4,7 @@ title: "No QA Environment? No Problem: How Classpass Enables Testing on a Single
 slug: no-qa-environment-no-problem-how-classpass-enables-testing
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Po Linn Chia"]
@@ -15,6 +15,7 @@ video_id: iq-one-testing-environment
 url: https://www.infoq.com/presentations/one-testing-environment/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability"]
 transcript: true
 ---
 

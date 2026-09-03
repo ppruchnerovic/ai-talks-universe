@@ -4,7 +4,7 @@ title: "Leadership Panel - RSAC 365 Virtual Seminar: Infrastructure Security"
 slug: leadership-panel-rsac-365-virtual-seminar-infrastructure
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: SIlLSHphYcU
 url: https://www.youtube.com/watch?v=SIlLSHphYcU
 youtube_url: https://www.youtube.com/watch?v=SIlLSHphYcU
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

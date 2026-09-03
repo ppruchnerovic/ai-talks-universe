@@ -4,7 +4,7 @@ title: "Leadership in AI-Assisted Engineering"
 slug: leadership-in-ai-assisted-engineering
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Justin Reock"]
@@ -15,6 +15,7 @@ video_id: iq-ai-assisted-engineering
 url: https://www.infoq.com/presentations/ai-assisted-engineering/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

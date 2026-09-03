@@ -4,7 +4,7 @@ title: "From “NoOps” to \"NoDev\" Era: Adrian Cockcroft on Directing AI Agen
 slug: from-noops-to-nodev-era-adrian-cockcroft-on-directing-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: zKbYQLpfqdA
 url: https://www.youtube.com/watch?v=zKbYQLpfqdA
 youtube_url: https://www.youtube.com/watch?v=zKbYQLpfqdA
 tags: ["InfoQ", "Transcript", "QCon San Francisco", "Artificial Intelligence", "AI Agents", "Software Architecture", "Generative AI", "Engineering Leadership", "Cloud Native", "DevOps"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

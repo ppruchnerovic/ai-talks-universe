@@ -4,7 +4,7 @@ title: "Watching the Watchers: Safeguards and Security for Artificial Intelligen
 slug: watching-the-watchers-safeguards-and-security-for
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: jJ_2AxqCVHA
 url: https://www.youtube.com/watch?v=jJ_2AxqCVHA
 youtube_url: https://www.youtube.com/watch?v=jJ_2AxqCVHA
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

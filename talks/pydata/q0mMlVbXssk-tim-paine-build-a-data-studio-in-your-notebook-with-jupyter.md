@@ -4,7 +4,7 @@ title: "Tim Paine - Build a data studio in your notebook with jupyter-fs"
 slug: tim-paine-build-a-data-studio-in-your-notebook-with-jupyter
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Tim Paine"]
@@ -15,6 +15,7 @@ video_id: q0mMlVbXssk
 url: https://www.youtube.com/watch?v=q0mMlVbXssk
 youtube_url: https://www.youtube.com/watch?v=q0mMlVbXssk
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Context Engineering with Adi Polak"
 slug: context-engineering-with-adi-polak
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: dhu8wXVdJb8
 url: https://www.youtube.com/watch?v=dhu8wXVdJb8
 youtube_url: https://www.youtube.com/watch?v=dhu8wXVdJb8
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: true
 ---
 

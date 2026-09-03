@@ -4,7 +4,7 @@ title: "Zvi Topol-Uncertainty-Guided AI Red Teaming- -PyDatsa Boston 2025"
 slug: zvi-topol-uncertainty-guided-ai-red-teaming-pydatsa-boston
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qogkcFjPawQ
 url: https://www.youtube.com/watch?v=qogkcFjPawQ
 youtube_url: https://www.youtube.com/watch?v=qogkcFjPawQ
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

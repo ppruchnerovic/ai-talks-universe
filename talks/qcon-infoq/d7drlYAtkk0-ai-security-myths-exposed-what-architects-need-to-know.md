@@ -4,7 +4,7 @@ title: "AI Security Myths EXPOSED: What Architects Need to Know"
 slug: ai-security-myths-exposed-what-architects-need-to-know
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: d7drlYAtkk0
 url: https://www.youtube.com/watch?v=d7drlYAtkk0
 youtube_url: https://www.youtube.com/watch?v=d7drlYAtkk0
 tags: ["InfoQ Dev Summit", "InfoQ", "Transcript", "AI Privacy", "AI security", "Artificial Intelligence", "Guardrails", "LLMs", "LLM Security", "Generative AI", "Cyber Security"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

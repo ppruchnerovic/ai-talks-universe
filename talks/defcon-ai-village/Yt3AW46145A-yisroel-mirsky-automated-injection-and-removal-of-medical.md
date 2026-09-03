@@ -4,7 +4,7 @@ title: "Yisroel Mirsky - Automated Injection and Removal of Medical Evidence in 
 slug: yisroel-mirsky-automated-injection-and-removal-of-medical
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Yisroel Mirsky"]
@@ -15,6 +15,7 @@ video_id: Yt3AW46145A
 url: https://www.youtube.com/watch?v=Yt3AW46145A
 youtube_url: https://www.youtube.com/watch?v=Yt3AW46145A
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

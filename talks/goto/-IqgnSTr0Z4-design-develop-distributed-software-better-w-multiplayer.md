@@ -4,7 +4,7 @@ title: "Design & Develop Distributed Software Better w/ Multiplayer • Tom John
 slug: design-develop-distributed-software-better-w-multiplayer
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Tom Johnson", "Julian Wood"]
@@ -15,6 +15,7 @@ video_id: -IqgnSTr0Z4
 url: https://www.youtube.com/watch?v=-IqgnSTr0Z4
 youtube_url: https://www.youtube.com/watch?v=-IqgnSTr0Z4
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: []
 transcript: false
 ---
 

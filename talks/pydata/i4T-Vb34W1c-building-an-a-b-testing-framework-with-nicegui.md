@@ -4,7 +4,7 @@ title: "Building an A/B Testing Framework with NiceGUI"
 slug: building-an-a-b-testing-framework-with-nicegui
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Wessel van de Goor"]
@@ -15,6 +15,7 @@ video_id: i4T-Vb34W1c
 url: https://www.youtube.com/watch?v=i4T-Vb34W1c
 youtube_url: https://www.youtube.com/watch?v=i4T-Vb34W1c
 tags: ["A/B testing", "Conference", "FastAPI", "NiceGUI", "Plotly", "PyCon", "PyConDE", "PyData", "Python", "Pythonic", "Quasar", "Tailwind CSS", "Tech Talk", "analytics engineering", "dashboard", "data visualization", "internal tools", "no JavaScript", "web development"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

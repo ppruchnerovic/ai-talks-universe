@@ -4,7 +4,7 @@ title: "Unlock the Value of Microsoft 365 Copilot and Copilot Studio | GS05"
 slug: unlock-the-value-of-microsoft-365-copilot-and-copilot
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Nicole Herskowitz", "Jeff Teper", "Ryan Cunningham", "Stephan Kerametlian", "David Martin"]
@@ -15,6 +15,7 @@ video_id: cv1H7KuyQ-E
 url: https://www.youtube.com/watch?v=cv1H7KuyQ-E
 youtube_url: https://www.youtube.com/watch?v=cv1H7KuyQ-E
 tags: ["David Martin", "English (US)", "GS05", "General Session", "Jeff Teper", "Modern Work", "Nicole Herskowitz", "Ryan Cunningham", "Stephan Kerametlian", "Technical", "Unlock the Value of Microsoft 365 Copilot and Copilot Studio | GS05", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

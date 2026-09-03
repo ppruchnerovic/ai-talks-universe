@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025-State of DevEx 2025: Navigating the AI Revolution and
 slug: aws-re-invent-2025-state-of-devex-2025-navigating-the-ai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: jKoFfWC6yro
 url: https://www.youtube.com/watch?v=jKoFfWC6yro
 youtube_url: https://www.youtube.com/watch?v=jKoFfWC6yro
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

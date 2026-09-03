@@ -4,7 +4,7 @@ title: "SaTML 2024 - Francesco Croce - Prompt-Agnostic Evasion Attacks on Segmen
 slug: satml-2024-francesco-croce-prompt-agnostic-evasion-attacks
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Francesco Croce"]
@@ -15,6 +15,7 @@ video_id: WEsX_X1Z__0
 url: https://www.youtube.com/watch?v=WEsX_X1Z__0
 youtube_url: https://www.youtube.com/watch?v=WEsX_X1Z__0
 tags: []
+topics: ["Prompting & context engineering", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Ep.44 Meeting Aug 27 2025: Initiatives, New Website, and Community Growt
 slug: ep-44-meeting-aug-27-2025-initiatives-new-website-and
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: DBpj0WrJXQA
 url: https://www.youtube.com/watch?v=DBpj0WrJXQA
 youtube_url: https://www.youtube.com/watch?v=DBpj0WrJXQA
 tags: []
+topics: []
 transcript: false
 ---
 

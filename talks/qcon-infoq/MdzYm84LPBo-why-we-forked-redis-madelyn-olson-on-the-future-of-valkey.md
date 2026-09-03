@@ -4,7 +4,7 @@ title: "Why We Forked Redis: Madelyn Olson on the Future of Valkey"
 slug: why-we-forked-redis-madelyn-olson-on-the-future-of-valkey
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: MdzYm84LPBo
 url: https://www.youtube.com/watch?v=MdzYm84LPBo
 youtube_url: https://www.youtube.com/watch?v=MdzYm84LPBo
 tags: ["Valkey", "Redis", "SoftwareArchitecture", "SystemsEngineering", "OpenSource", "TheInfoQPodcast", "Distributed Cache"]
+topics: []
 transcript: true
 ---
 

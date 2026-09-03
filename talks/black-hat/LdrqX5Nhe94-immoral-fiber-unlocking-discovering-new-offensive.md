@@ -4,7 +4,7 @@ title: "Immoral Fiber: Unlocking & Discovering New Offensive Capabilities of Fib
 slug: immoral-fiber-unlocking-discovering-new-offensive
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: LdrqX5Nhe94
 url: https://www.youtube.com/watch?v=LdrqX5Nhe94
 youtube_url: https://www.youtube.com/watch?v=LdrqX5Nhe94
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

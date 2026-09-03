@@ -4,7 +4,7 @@ title: "The LLM Evolution: From Sequence Imitation to Verifiable Reasoning"
 slug: the-llm-evolution-from-sequence-imitation-to-verifiable
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Kamen Petroff"]
@@ -15,6 +15,7 @@ video_id: 6Sb2eAm3oiE
 url: https://www.youtube.com/watch?v=6Sb2eAm3oiE
 youtube_url: https://www.youtube.com/watch?v=6Sb2eAm3oiE
 tags: ["AI Engineering", "AI Models", "Large Language Models (LLMs)", "AGI (Artificial General Intelligence)", "AI Coding Assistants", "Agentic AI"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Imagine Cup World Championship | LIVE199"
 slug: imagine-cup-world-championship-live199
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Hans Yang", "Patrick Brown", "Surya Kukkapalli", "Advika Vuppala"]
@@ -15,6 +15,7 @@ video_id: PZKPxNoYs0Y
 url: https://www.youtube.com/watch?v=PZKPxNoYs0Y
 youtube_url: https://www.youtube.com/watch?v=PZKPxNoYs0Y
 tags: ["Advika Vuppala", "Agents", "Agents & Apps", "Azure", "Azure Copilot", "Foundry IQ", "GitHub", "Hans Yang", "Imagine Cup World Championship | LIVE199", "LIVE199", "LIVE199_v1", "Microsoft Fabric", "Microsoft for Startups", "Patrick Brown", "Rohan Ganesh", "Surya Kukkapalli", "Troy McBride", "Vivaan Sawant", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

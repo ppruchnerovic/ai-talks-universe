@@ -4,7 +4,7 @@ title: "Leveraging AI Agents for Adaptive Real Time API Optimization and On the 
 slug: leveraging-ai-agents-for-adaptive-real-time-api
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: CX6hcYjJ4Eg
 url: https://www.youtube.com/watch?v=CX6hcYjJ4Eg
 youtube_url: https://www.youtube.com/watch?v=CX6hcYjJ4Eg
 tags: ["ainativedev"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

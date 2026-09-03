@@ -4,7 +4,7 @@ title: "Building Software That Survives • Michael Nygard & Charles Humble"
 slug: building-software-that-survives-michael-nygard-charles
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Michael Nygard"]
@@ -15,6 +15,7 @@ video_id: Xvz3ads_wcc
 url: https://www.youtube.com/watch?v=Xvz3ads_wcc
 youtube_url: https://www.youtube.com/watch?v=Xvz3ads_wcc
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

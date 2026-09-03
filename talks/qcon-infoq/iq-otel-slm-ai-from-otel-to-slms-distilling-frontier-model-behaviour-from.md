@@ -4,7 +4,7 @@ title: "From OTEL to SLMs: Distilling Frontier Model Behaviour from Production T
 slug: from-otel-to-slms-distilling-frontier-model-behaviour-from
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Ben O'Mahony"]
@@ -15,6 +15,7 @@ video_id: iq-otel-slm-ai
 url: https://www.infoq.com/presentations/otel-slm-ai/
 youtube_url: null
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

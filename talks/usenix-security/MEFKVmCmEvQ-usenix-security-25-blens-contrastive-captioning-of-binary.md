@@ -4,7 +4,7 @@ title: "USENIX Security '25 - BLens: Contrastive Captioning of Binary Functions 
 slug: usenix-security-25-blens-contrastive-captioning-of-binary
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: MEFKVmCmEvQ
 url: https://www.youtube.com/watch?v=MEFKVmCmEvQ
 youtube_url: https://www.youtube.com/watch?v=MEFKVmCmEvQ
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

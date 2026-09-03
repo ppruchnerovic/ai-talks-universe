@@ -4,7 +4,7 @@ title: "MCP Gateways: The Control Plane for Agentic Integration - Alex Salazar, 
 slug: mcp-gateways-the-control-plane-for-agentic-integration-alex
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Alex Salazar"]
@@ -15,6 +15,7 @@ video_id: DxZ4mlSRcOc
 url: https://www.youtube.com/watch?v=DxZ4mlSRcOc
 youtube_url: https://www.youtube.com/watch?v=DxZ4mlSRcOc
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

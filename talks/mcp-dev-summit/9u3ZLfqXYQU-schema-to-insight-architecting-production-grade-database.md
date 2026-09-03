@@ -4,7 +4,7 @@ title: "Schema To Insight: Architecting Production-Grade Database MCP Tools - Ku
 slug: schema-to-insight-architecting-production-grade-database
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Kurtis Van Gent", "Wenxin Du"]
@@ -15,6 +15,7 @@ video_id: 9u3ZLfqXYQU
 url: https://www.youtube.com/watch?v=9u3ZLfqXYQU
 youtube_url: https://www.youtube.com/watch?v=9u3ZLfqXYQU
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: true
 ---
 

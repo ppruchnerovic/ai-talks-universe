@@ -4,7 +4,7 @@ title: "Java Concurrency from the Trenches: Lessons Learned in the Wild"
 slug: java-concurrency-from-the-trenches-lessons-learned-in-the
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Hugo Marques"]
@@ -15,6 +15,7 @@ video_id: tNDbpnmlsQk
 url: https://www.youtube.com/watch?v=tNDbpnmlsQk
 youtube_url: https://www.youtube.com/watch?v=tNDbpnmlsQk
 tags: ["Java", "InfoQ Dev Summit", "Case Study", "Netflix", "Concurrency", "Software Architecture", "InfoQ", "Transcript", "Virtual Threads", "Backend Engineering"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Devoxx Greece 2025 : How Simple Should Your LLM Integration Be? by Efstr
 slug: devoxx-greece-2025-how-simple-should-your-llm-integration
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Efstratios Marinos"]
@@ -15,6 +15,7 @@ video_id: br2Mo2JS-xA
 url: https://www.youtube.com/watch?v=br2Mo2JS-xA
 youtube_url: https://www.youtube.com/watch?v=br2Mo2JS-xA
 tags: []
+topics: []
 transcript: false
 ---
 

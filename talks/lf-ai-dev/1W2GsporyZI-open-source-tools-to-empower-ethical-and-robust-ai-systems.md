@@ -4,7 +4,7 @@ title: "Open Source Tools To Empower Ethical and Robust AI Systems - Alberto Rod
 slug: open-source-tools-to-empower-ethical-and-robust-ai-systems
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Alberto Rodríguez", "Miguel Fontanilla"]
@@ -15,6 +15,7 @@ video_id: 1W2GsporyZI
 url: https://www.youtube.com/watch?v=1W2GsporyZI
 youtube_url: https://www.youtube.com/watch?v=1W2GsporyZI
 tags: []
+topics: ["Governance, ethics & regulation", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: false
 ---
 

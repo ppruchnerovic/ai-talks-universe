@@ -4,7 +4,7 @@ title: "Building AI agents agentic automation agentic AI | ODSP1486"
 slug: building-ai-agents-agentic-automation-agentic-ai-odsp1486
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Karen Sartor"]
@@ -15,6 +15,7 @@ video_id: FUJ8xSNvK1Q
 url: https://www.youtube.com/watch?v=FUJ8xSNvK1Q
 youtube_url: https://www.youtube.com/watch?v=FUJ8xSNvK1Q
 tags: ["Building AI agents agentic automation agentic AI | ODSP1486", "Copilot and agents at work", "English (US)", "Karen Sartor", "ODSP1486", "ODSP1486_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

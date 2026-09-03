@@ -4,7 +4,7 @@ title: "Building AI Agents that actually automate Knowledge Work - Jerry Liu, Ll
 slug: building-ai-agents-that-actually-automate-knowledge-work
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jerry Liu"]
@@ -15,6 +15,7 @@ video_id: jVGCulhBRZI
 url: https://www.youtube.com/watch?v=jVGCulhBRZI
 youtube_url: https://www.youtube.com/watch?v=jVGCulhBRZI
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

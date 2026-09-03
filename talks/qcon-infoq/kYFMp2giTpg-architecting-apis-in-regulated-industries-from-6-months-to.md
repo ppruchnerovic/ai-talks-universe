@@ -4,7 +4,7 @@ title: "Architecting APIs in Regulated Industries: From 6 Months to 2 Hours"
 slug: architecting-apis-in-regulated-industries-from-6-months-to
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: kYFMp2giTpg
 url: https://www.youtube.com/watch?v=kYFMp2giTpg
 youtube_url: https://www.youtube.com/watch?v=kYFMp2giTpg
 tags: ["Software Architecture", "Architecture as Code", "API", "Common Architecture Language Model", "CALM", "QCon London", "InfoQ", "Transcript", "Platforms", "Security", "API Management", "Platform Engineering", "Java", "Kubernetes"]
+topics: ["AI in the SDLC & engineering orgs", "Governance, ethics & regulation", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Tanya Roosta - Information Retrieval in the Age of Agentic AI"
 slug: tanya-roosta-information-retrieval-in-the-age-of-agentic-ai
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Tanya Roosta"]
@@ -15,6 +15,7 @@ video_id: OyWElYcMPj0
 url: https://www.youtube.com/watch?v=OyWElYcMPj0
 youtube_url: https://www.youtube.com/watch?v=OyWElYcMPj0
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

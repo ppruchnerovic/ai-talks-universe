@@ -4,7 +4,7 @@ title: "Andrew Ng: State of AI Agents | LangChain Interrupt"
 slug: andrew-ng-state-of-ai-agents-langchain-interrupt
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4pYzYmSdSH4
 url: https://www.youtube.com/watch?v=4pYzYmSdSH4
 youtube_url: https://www.youtube.com/watch?v=4pYzYmSdSH4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

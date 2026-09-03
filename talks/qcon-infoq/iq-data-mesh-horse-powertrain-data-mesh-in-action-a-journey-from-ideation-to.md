@@ -4,7 +4,7 @@ title: "Data Mesh in Action: a Journey from Ideation to Implementation"
 slug: data-mesh-in-action-a-journey-from-ideation-to
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Anurag Kale"]
@@ -15,6 +15,7 @@ video_id: iq-data-mesh-horse-powertrain
 url: https://www.infoq.com/presentations/data-mesh-horse-powertrain/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

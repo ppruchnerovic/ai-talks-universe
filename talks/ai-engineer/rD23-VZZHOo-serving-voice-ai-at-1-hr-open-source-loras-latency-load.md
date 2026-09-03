@@ -4,7 +4,7 @@ title: "Serving Voice AI at $1/hr: Open-source, LoRAs, Latency, Load Balancing -
 slug: serving-voice-ai-at-1-hr-open-source-loras-latency-load
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Neil Dwyer"]
@@ -15,6 +15,7 @@ video_id: rD23-VZZHOo
 url: https://www.youtube.com/watch?v=rD23-VZZHOo
 youtube_url: https://www.youtube.com/watch?v=rD23-VZZHOo
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

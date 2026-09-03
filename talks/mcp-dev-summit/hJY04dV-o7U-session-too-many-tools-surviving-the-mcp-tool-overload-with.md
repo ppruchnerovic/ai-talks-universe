@@ -4,7 +4,7 @@ title: "[Session] Too Many Tools: Surviving the MCP Tool Overload with Shalev Sh
 slug: session-too-many-tools-surviving-the-mcp-tool-overload-with
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: hJY04dV-o7U
 url: https://www.youtube.com/watch?v=hJY04dV-o7U
 youtube_url: https://www.youtube.com/watch?v=hJY04dV-o7U
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

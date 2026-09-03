@@ -4,7 +4,7 @@ title: "Keynote: Building Agents at Scale - Tiffany Souterre, Senior Developer A
 slug: keynote-building-agents-at-scale-tiffany-souterre-senior
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Tiffany Souterre"]
@@ -15,6 +15,7 @@ video_id: dEZILA4xyDo
 url: https://www.youtube.com/watch?v=dEZILA4xyDo
 youtube_url: https://www.youtube.com/watch?v=dEZILA4xyDo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

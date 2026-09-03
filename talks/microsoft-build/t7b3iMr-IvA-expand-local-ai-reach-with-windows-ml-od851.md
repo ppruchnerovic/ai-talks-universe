@@ -4,7 +4,7 @@ title: "Expand local AI reach with Windows ML | OD851"
 slug: expand-local-ai-reach-with-windows-ml-od851
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Andrew Leader", "Maha Bayana"]
@@ -15,6 +15,7 @@ video_id: t7b3iMr-IvA
 url: https://www.youtube.com/watch?v=t7b3iMr-IvA
 youtube_url: https://www.youtube.com/watch?v=t7b3iMr-IvA
 tags: ["AI", "API", "Andrew Leader", "Developer", "Expand local AI reach with Windows ML | OD851", "Foundry Local", "Local AI", "Maha Bayana", "Microsoft Foundry", "OD851", "OD851_v1", "VS Code", "Windows", "Windows Developer", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

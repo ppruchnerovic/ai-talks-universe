@@ -4,7 +4,7 @@ title: "Cerebral Valley: Reid Hoffman with Eric Newcomer"
 slug: cerebral-valley-reid-hoffman-with-eric-newcomer
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: GQHwVhbVZz8
 url: https://www.youtube.com/watch?v=GQHwVhbVZz8
 youtube_url: https://www.youtube.com/watch?v=GQHwVhbVZz8
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

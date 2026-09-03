@@ -4,7 +4,7 @@ title: "Vincent Sunn Chen - The Art & Science of Benchmarking Agents"
 slug: vincent-sunn-chen-the-art-science-of-benchmarking-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Vincent Sunn Chen"]
@@ -15,6 +15,7 @@ video_id: J9G8bxrAwHQ
 url: https://www.youtube.com/watch?v=J9G8bxrAwHQ
 youtube_url: https://www.youtube.com/watch?v=J9G8bxrAwHQ
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

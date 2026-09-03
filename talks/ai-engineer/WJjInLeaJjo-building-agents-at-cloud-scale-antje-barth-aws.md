@@ -4,7 +4,7 @@ title: "Building Agents at Cloud Scale — Antje Barth, AWS"
 slug: building-agents-at-cloud-scale-antje-barth-aws
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Antje Barth"]
@@ -15,6 +15,7 @@ video_id: WJjInLeaJjo
 url: https://www.youtube.com/watch?v=WJjInLeaJjo
 youtube_url: https://www.youtube.com/watch?v=WJjInLeaJjo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

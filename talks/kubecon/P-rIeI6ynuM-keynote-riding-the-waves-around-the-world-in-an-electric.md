@@ -4,7 +4,7 @@ title: "Keynote: Riding the Waves: Around the World in an Electric Glider... Ric
 slug: keynote-riding-the-waves-around-the-world-in-an-electric
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: P-rIeI6ynuM
 url: https://www.youtube.com/watch?v=P-rIeI6ynuM
 youtube_url: https://www.youtube.com/watch?v=P-rIeI6ynuM
 tags: []
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

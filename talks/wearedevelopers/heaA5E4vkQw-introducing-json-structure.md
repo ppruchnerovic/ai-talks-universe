@@ -4,7 +4,7 @@ title: "Introducing JSON Structure"
 slug: introducing-json-structure
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Clemens Vasters"]
@@ -15,6 +15,7 @@ video_id: heaA5E4vkQw
 url: https://www.youtube.com/watch?v=heaA5E4vkQw
 youtube_url: https://www.youtube.com/watch?v=heaA5E4vkQw
 tags: ["Backend & APIs", "Data", "JSON"]
+topics: []
 transcript: true
 ---
 

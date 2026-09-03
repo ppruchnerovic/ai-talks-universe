@@ -4,7 +4,7 @@ title: "Maria Bader - How to Keep Your LLM Chatbots Real - A Metrics Survival Gu
 slug: maria-bader-how-to-keep-your-llm-chatbots-real-a-metrics
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Maria Bader"]
@@ -15,6 +15,7 @@ video_id: b12AicI0-Ys
 url: https://www.youtube.com/watch?v=b12AicI0-Ys
 youtube_url: https://www.youtube.com/watch?v=b12AicI0-Ys
 tags: []
+topics: []
 transcript: false
 ---
 

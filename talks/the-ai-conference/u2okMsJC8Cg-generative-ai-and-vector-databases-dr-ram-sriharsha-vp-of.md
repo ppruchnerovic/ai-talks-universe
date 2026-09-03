@@ -4,7 +4,7 @@ title: "Generative AI And Vector Databases, Dr. Ram Sriharsha, VP of Engineering
 slug: generative-ai-and-vector-databases-dr-ram-sriharsha-vp-of
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: u2okMsJC8Cg
 url: https://www.youtube.com/watch?v=u2okMsJC8Cg
 youtube_url: https://www.youtube.com/watch?v=u2okMsJC8Cg
 tags: ["THE AI CONFERENCE", "machine learning", "vector databases", "vector embeddings", "llm"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

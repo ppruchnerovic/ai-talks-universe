@@ -4,7 +4,7 @@ title: "Virtual Patient Labs: AI-Driven Simulation & Diagnostics for Precision O
 slug: virtual-patient-labs-ai-driven-simulation-diagnostics-for
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["Charlotte Bunne"]
@@ -15,6 +15,7 @@ video_id: iTgFn_Sx_Co
 url: https://www.youtube.com/watch?v=iTgFn_Sx_Co
 youtube_url: https://www.youtube.com/watch?v=iTgFn_Sx_Co
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

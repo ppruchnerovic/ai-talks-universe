@@ -4,7 +4,7 @@ title: "Let’s Talk Quality!"
 slug: lets-talk-quality
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Lilia Gargouri"]
@@ -15,6 +15,7 @@ video_id: jEF1WsdW2rM
 url: https://www.youtube.com/watch?v=jEF1WsdW2rM
 youtube_url: https://www.youtube.com/watch?v=jEF1WsdW2rM
 tags: ["Quality & Reliability", "Collaboration", "Communication", "Quality Assurance (QA)", "Soft Skills", "Software Architecture", "Testing"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

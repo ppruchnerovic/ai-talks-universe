@@ -4,7 +4,7 @@ title: "Sponsored Session: Vibing with Data -- Multi-Agent Data Modeling and Con
 slug: sponsored-session-vibing-with-data-multi-agent-data
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: lmmI_LBqkk8
 url: https://www.youtube.com/watch?v=lmmI_LBqkk8
 youtube_url: https://www.youtube.com/watch?v=lmmI_LBqkk8
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

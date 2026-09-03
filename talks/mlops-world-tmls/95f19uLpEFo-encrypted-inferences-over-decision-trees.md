@@ -4,7 +4,7 @@ title: "Encrypted inferences over decision trees"
 slug: encrypted-inferences-over-decision-trees
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 95f19uLpEFo
 url: https://www.youtube.com/watch?v=95f19uLpEFo
 youtube_url: https://www.youtube.com/watch?v=95f19uLpEFo
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

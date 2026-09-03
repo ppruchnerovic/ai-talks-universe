@@ -4,7 +4,7 @@ title: "Fine-Tuning Small Language Models for Agentic AI"
 slug: fine-tuning-small-language-models-for-agentic-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Björn Buchhold"]
@@ -15,6 +15,7 @@ video_id: OtZnGP14b0Q
 url: https://www.youtube.com/watch?v=OtZnGP14b0Q
 youtube_url: https://www.youtube.com/watch?v=OtZnGP14b0Q
 tags: ["AI Engineering", "Agentic AI", "Automation", "Reinforcement Learning", "Small Language Models (SLMs)"]
+topics: ["Agents & orchestration", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

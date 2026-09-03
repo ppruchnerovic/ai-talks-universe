@@ -4,7 +4,7 @@ title: "Hugging Face Accelerate: Making Device-Agnostic ML Training and Inferenc
 slug: hugging-face-accelerate-making-device-agnostic-ml-training
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Zachary Mueller"]
@@ -15,6 +15,7 @@ video_id: IBBeLNgGIIo
 url: https://www.youtube.com/watch?v=IBBeLNgGIIo
 youtube_url: https://www.youtube.com/watch?v=IBBeLNgGIIo
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

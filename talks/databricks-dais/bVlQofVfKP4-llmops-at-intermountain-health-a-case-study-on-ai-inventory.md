@@ -4,7 +4,7 @@ title: "LLMOps at Intermountain Health: A Case Study on AI Inventory Agents"
 slug: llmops-at-intermountain-health-a-case-study-on-ai-inventory
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: bVlQofVfKP4
 url: https://www.youtube.com/watch?v=bVlQofVfKP4
 youtube_url: https://www.youtube.com/watch?v=bVlQofVfKP4
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

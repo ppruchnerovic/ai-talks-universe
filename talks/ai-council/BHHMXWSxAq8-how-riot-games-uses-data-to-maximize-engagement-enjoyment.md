@@ -4,7 +4,7 @@ title: "How Riot Games Uses Data to Maximize Engagement & Enjoyment"
 slug: how-riot-games-uses-data-to-maximize-engagement-enjoyment
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: BHHMXWSxAq8
 url: https://www.youtube.com/watch?v=BHHMXWSxAq8
 youtube_url: https://www.youtube.com/watch?v=BHHMXWSxAq8
 tags: ["MLOps", "videogames", "data products", "data analytics", "ML"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

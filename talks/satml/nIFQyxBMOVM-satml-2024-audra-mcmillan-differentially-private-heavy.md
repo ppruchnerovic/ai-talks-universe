@@ -4,7 +4,7 @@ title: "SaTML 2024- Audra McMillan - Differentially Private Heavy Hitter Detecti
 slug: satml-2024-audra-mcmillan-differentially-private-heavy
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: nIFQyxBMOVM
 url: https://www.youtube.com/watch?v=nIFQyxBMOVM
 youtube_url: https://www.youtube.com/watch?v=nIFQyxBMOVM
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

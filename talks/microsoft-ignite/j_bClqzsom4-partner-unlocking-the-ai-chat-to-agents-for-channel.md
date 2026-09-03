@@ -4,7 +4,7 @@ title: "Partner: Unlocking the AI chat to agents for channel partners | PBRK303"
 slug: partner-unlocking-the-ai-chat-to-agents-for-channel
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Matt Goddard", "Sela Gu", "Arun Subramanian"]
@@ -15,6 +15,7 @@ video_id: j_bClqzsom4
 url: https://www.youtube.com/watch?v=j_bClqzsom4
 youtube_url: https://www.youtube.com/watch?v=j_bClqzsom4
 tags: ["Arun Subramanian", "Copilot and agents at work", "Copilot and agents at work:Microsoft 365 Copilot", "English (US)", "Matt Goddard", "Microsoft AI Cloud Partner Program", "PBRK303", "Partner Business", "Partner: Unlocking the AI chat to agents for channel partners | PBRK303", "Sela Gu", "b925397c-d514-4890-b772-e5990540cd4b_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

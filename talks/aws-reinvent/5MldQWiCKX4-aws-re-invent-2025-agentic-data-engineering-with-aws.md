@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Agentic data engineering with AWS Analytics MCP Ser
 slug: aws-re-invent-2025-agentic-data-engineering-with-aws
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5MldQWiCKX4
 url: https://www.youtube.com/watch?v=5MldQWiCKX4
 youtube_url: https://www.youtube.com/watch?v=5MldQWiCKX4
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Building, securing and governing AI infrastructure in the Era of Agentic
 slug: building-securing-and-governing-ai-infrastructure-in-the
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Rob Nertney"]
@@ -15,6 +15,7 @@ video_id: nMk6gzY71Wo
 url: https://www.youtube.com/watch?v=nMk6gzY71Wo
 youtube_url: https://www.youtube.com/watch?v=nMk6gzY71Wo
 tags: ["Security & Privacy", "AI Coding Assistants", "AI Models", "Agentic AI", "Data Pipelines", "Developer Experience (DevEx)", "Infrastructure", "NVIDIA", "Open Source", "Privacy", "Secure Coding", "Security"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

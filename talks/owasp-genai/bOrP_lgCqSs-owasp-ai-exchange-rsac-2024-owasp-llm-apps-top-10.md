@@ -4,7 +4,7 @@ title: "OWASP AI Exchange - #RSAC 2024 OWASP LLM Apps Top 10 Generative AI Summi
 slug: owasp-ai-exchange-rsac-2024-owasp-llm-apps-top-10
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: bOrP_lgCqSs
 url: https://www.youtube.com/watch?v=bOrP_lgCqSs
 youtube_url: https://www.youtube.com/watch?v=bOrP_lgCqSs
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

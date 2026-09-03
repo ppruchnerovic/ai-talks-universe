@@ -4,7 +4,7 @@ title: "How to Build Your Own Model Router"
 slug: how-to-build-your-own-model-router
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Tomas Kofman"]
@@ -15,6 +15,7 @@ video_id: ju7kKGVQRi0
 url: https://www.youtube.com/watch?v=ju7kKGVQRi0
 youtube_url: https://www.youtube.com/watch?v=ju7kKGVQRi0
 tags: ["model routing", "LLM routing", "cost optimization", "ChatGPT", "artificial intelligence", "machine learning", "AI tutorial", "API design", "AI architecture", "multi model AI", "AI engineering", "25 percent accuracy", "90 percent cost reduction", "Python", "intelligent routing", "load balancing", "model selection", "performance optimization", "latency optimization", "throughput optimization", "resource allocation", "auto scaling"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

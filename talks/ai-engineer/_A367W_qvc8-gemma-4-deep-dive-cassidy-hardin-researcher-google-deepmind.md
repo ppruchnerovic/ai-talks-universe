@@ -4,7 +4,7 @@ title: "Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind"
 slug: gemma-4-deep-dive-cassidy-hardin-researcher-google-deepmind
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Cassidy Hardin"]
@@ -15,6 +15,7 @@ video_id: _A367W_qvc8
 url: https://www.youtube.com/watch?v=_A367W_qvc8
 youtube_url: https://www.youtube.com/watch?v=_A367W_qvc8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

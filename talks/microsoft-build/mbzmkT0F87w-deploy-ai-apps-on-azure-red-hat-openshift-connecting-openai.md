@@ -4,7 +4,7 @@ title: "Deploy AI Apps on Azure Red Hat OpenShift: Connecting OpenAI Services | 
 slug: deploy-ai-apps-on-azure-red-hat-openshift-connecting-openai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: mbzmkT0F87w
 url: https://www.youtube.com/watch?v=mbzmkT0F87w
 youtube_url: https://www.youtube.com/watch?v=mbzmkT0F87w
 tags: []
+topics: []
 transcript: false
 ---
 

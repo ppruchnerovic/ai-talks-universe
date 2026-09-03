@@ -4,7 +4,7 @@ title: "Sobering lessons:between research and labor market practice | Fairness a
 slug: sobering-lessons-between-research-and-labor-market-practice
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Cynthia Liem"]
@@ -15,6 +15,7 @@ video_id: ghGiie3z0mg
 url: https://www.youtube.com/watch?v=ghGiie3z0mg
 youtube_url: https://www.youtube.com/watch?v=ghGiie3z0mg
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

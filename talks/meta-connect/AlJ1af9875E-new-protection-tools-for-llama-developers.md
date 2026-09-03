@@ -4,7 +4,7 @@ title: "New Protection Tools for Llama Developers"
 slug: new-protection-tools-for-llama-developers
 conference: meta-connect
 conference_name: "Meta Connect + LlamaCon"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "LlamaCon 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: AlJ1af9875E
 url: https://www.youtube.com/watch?v=AlJ1af9875E
 youtube_url: https://www.youtube.com/watch?v=AlJ1af9875E
 tags: []
+topics: []
 transcript: false
 ---
 

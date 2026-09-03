@@ -4,7 +4,7 @@ title: "Stop babysitting your agents... — Brandon Waselnuk, Unblocked"
 slug: stop-babysitting-your-agents-brandon-waselnuk-unblocked
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Brandon Waselnuk"]
@@ -15,6 +15,7 @@ video_id: BiG2ssibKGc
 url: https://www.youtube.com/watch?v=BiG2ssibKGc
 youtube_url: https://www.youtube.com/watch?v=BiG2ssibKGc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

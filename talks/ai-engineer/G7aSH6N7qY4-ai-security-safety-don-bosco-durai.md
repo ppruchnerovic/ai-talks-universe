@@ -4,7 +4,7 @@ title: "AI + Security & Safety — Don Bosco Durai"
 slug: ai-security-safety-don-bosco-durai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Don Bosco Durai"]
@@ -15,6 +15,7 @@ video_id: G7aSH6N7qY4
 url: https://www.youtube.com/watch?v=G7aSH6N7qY4
 youtube_url: https://www.youtube.com/watch?v=G7aSH6N7qY4
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

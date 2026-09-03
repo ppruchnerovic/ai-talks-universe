@@ -4,7 +4,7 @@ title: "Rust at the Core - Accelerating Polyglot SDK Development"
 slug: rust-at-the-core-accelerating-polyglot-sdk-development
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Spencer Judge"]
@@ -15,6 +15,7 @@ video_id: iq-rust-polyglot-sdk
 url: https://www.infoq.com/presentations/rust-polyglot-sdk/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

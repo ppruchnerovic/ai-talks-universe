@@ -4,7 +4,7 @@ title: "Data Contracts - Accountable Data Quality | Data Quality Camp"
 slug: data-contracts-accountable-data-quality-data-quality-camp
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: qT-Atu9mfvM
 url: https://www.youtube.com/watch?v=qT-Atu9mfvM
 youtube_url: https://www.youtube.com/watch?v=qT-Atu9mfvM
 tags: ["Data Engineering", "Infrastructure", "data quality", "data contracts"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

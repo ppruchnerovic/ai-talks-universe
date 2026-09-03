@@ -4,7 +4,7 @@ title: "Secure agents in Microsoft Foundry with Microsoft Security | BRK268"
 slug: secure-agents-in-microsoft-foundry-with-microsoft-security
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Neta Haiby", "Shravana Mukherjee", "Peter Simones"]
@@ -15,6 +15,7 @@ video_id: Zaew1UDiOPs
 url: https://www.youtube.com/watch?v=Zaew1UDiOPs
 youtube_url: https://www.youtube.com/watch?v=Zaew1UDiOPs
 tags: ["BRK268", "BRK268_v2", "English (US)", "Neta Haiby", "Peter Simones", "Protect cloud AI platform and apps", "Secure agents in Microsoft Foundry with Microsoft Security | BRK268", "Shravana Mukherjee", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Breno Brito - Future proof your AI product"
 slug: breno-brito-future-proof-your-ai-product
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Breno Brito"]
@@ -15,6 +15,7 @@ video_id: 01yeO-1RUcg
 url: https://www.youtube.com/watch?v=01yeO-1RUcg
 youtube_url: https://www.youtube.com/watch?v=01yeO-1RUcg
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Prompting & context engineering"]
 transcript: true
 ---
 

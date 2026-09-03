@@ -4,7 +4,7 @@ title: "Lessons Learned Orchestrating Multi-Tenant GPUs on OpenShift AI with NVI
 slug: lessons-learned-orchestrating-multi-tenant-gpus-on
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: nABVTFBmV2M
 url: https://www.youtube.com/watch?v=nABVTFBmV2M
 youtube_url: https://www.youtube.com/watch?v=nABVTFBmV2M
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

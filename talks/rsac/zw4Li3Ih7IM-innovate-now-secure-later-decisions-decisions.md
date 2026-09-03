@@ -4,7 +4,7 @@ title: "Innovate Now, Secure Later? Decisions, Decisions…"
 slug: innovate-now-secure-later-decisions-decisions
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Mohamad Ali"]
@@ -15,6 +15,7 @@ video_id: zw4Li3Ih7IM
 url: https://www.youtube.com/watch?v=zw4Li3Ih7IM
 youtube_url: https://www.youtube.com/watch?v=zw4Li3Ih7IM
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

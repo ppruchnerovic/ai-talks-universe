@@ -4,7 +4,7 @@ title: "MCPwned: Hacking MCP Servers With One Skeleton Key Vulnerability - Jonat
 slug: mcpwned-hacking-mcp-servers-with-one-skeleton-key
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Jonathan Leitschuh"]
@@ -15,6 +15,7 @@ video_id: baardVGG3v0
 url: https://www.youtube.com/watch?v=baardVGG3v0
 youtube_url: https://www.youtube.com/watch?v=baardVGG3v0
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

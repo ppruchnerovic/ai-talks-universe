@@ -4,7 +4,7 @@ title: "The Last Human Code Review: Building Trust in AI-Generated Code — Itam
 slug: the-last-human-code-review-building-trust-in-ai-generated
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Itamar Friedman"]
@@ -15,6 +15,7 @@ video_id: s-aixZYJG4c
 url: https://www.youtube.com/watch?v=s-aixZYJG4c
 youtube_url: https://www.youtube.com/watch?v=s-aixZYJG4c
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

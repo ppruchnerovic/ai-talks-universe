@@ -4,7 +4,7 @@ title: "AI Dev 25 | Aman Khan: Beyond Vibe Checks—Rethinking How We Evaluate A
 slug: ai-dev-25-aman-khan-beyond-vibe-checksrethinking-how-we
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: GzxdGpFhn04
 url: https://www.youtube.com/watch?v=GzxdGpFhn04
 youtube_url: https://www.youtube.com/watch?v=GzxdGpFhn04
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

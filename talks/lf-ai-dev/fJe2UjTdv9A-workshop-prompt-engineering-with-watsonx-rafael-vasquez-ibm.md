@@ -4,7 +4,7 @@ title: "Workshop: Prompt Engineering with Watsonx - Rafael Vasquez, IBM"
 slug: workshop-prompt-engineering-with-watsonx-rafael-vasquez-ibm
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Rafael Vasquez"]
@@ -15,6 +15,7 @@ video_id: fJe2UjTdv9A
 url: https://www.youtube.com/watch?v=fJe2UjTdv9A
 youtube_url: https://www.youtube.com/watch?v=fJe2UjTdv9A
 tags: []
+topics: ["Prompting & context engineering", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

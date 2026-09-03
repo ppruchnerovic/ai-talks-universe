@@ -4,7 +4,7 @@ title: "The Silent Update That Turns Skills Malicious (Before It's Too Late)"
 slug: the-silent-update-that-turns-skills-malicious-before-it-s
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: BJSxktD4ezc
 url: https://www.youtube.com/watch?v=BJSxktD4ezc
 youtube_url: https://www.youtube.com/watch?v=BJSxktD4ezc
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

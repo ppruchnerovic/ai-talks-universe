@@ -4,7 +4,7 @@ title: "Rajesh - Securing Retrieval-Augmented Generation | PyData Seattle 2025"
 slug: rajesh-securing-retrieval-augmented-generation-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Hfspu0UO2Sc
 url: https://www.youtube.com/watch?v=Hfspu0UO2Sc
 youtube_url: https://www.youtube.com/watch?v=Hfspu0UO2Sc
 tags: []
+topics: ["RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

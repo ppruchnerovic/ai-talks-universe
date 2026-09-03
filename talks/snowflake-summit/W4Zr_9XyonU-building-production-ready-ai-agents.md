@@ -4,7 +4,7 @@ title: "Building Production-Ready AI Agents"
 slug: building-production-ready-ai-agents
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: W4Zr_9XyonU
 url: https://www.youtube.com/watch?v=W4Zr_9XyonU
 youtube_url: https://www.youtube.com/watch?v=W4Zr_9XyonU
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

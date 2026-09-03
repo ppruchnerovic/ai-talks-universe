@@ -4,7 +4,7 @@ title: "The weekly developer show: Why Your Code Might Be Dangerous - A Develope
 slug: the-weekly-developer-show-why-your-code-might-be-dangerous
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ruGhJhoq4Eo
 url: https://www.youtube.com/watch?v=ruGhJhoq4Eo
 youtube_url: https://www.youtube.com/watch?v=ruGhJhoq4Eo
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "security", "AI", "cybersecurity", "developers", "web development", "chatgpt", "data breaches", "api keys", "regex", "open source", "dev advocacy", "javascript", "vibe coding", "LLMs", "developer podcast", "dev tips", "cloud security"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

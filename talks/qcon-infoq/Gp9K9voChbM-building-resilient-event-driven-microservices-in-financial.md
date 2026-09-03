@@ -4,7 +4,7 @@ title: "Building Resilient Event-Driven Microservices in Financial Systems"
 slug: building-resilient-event-driven-microservices-in-financial
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Gp9K9voChbM
 url: https://www.youtube.com/watch?v=Gp9K9voChbM
 youtube_url: https://www.youtube.com/watch?v=Gp9K9voChbM
 tags: ["Software Architecture", "Kafka", "Microservices", "JPMorgan", "LegacyMigration", "The InfoQ Podcast", "Observability", "Event Driven Architecture"]
+topics: ["AI in the SDLC & engineering orgs", "Data engineering & MLOps", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

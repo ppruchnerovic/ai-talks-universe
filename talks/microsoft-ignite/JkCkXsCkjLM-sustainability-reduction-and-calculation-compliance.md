@@ -4,7 +4,7 @@ title: "Sustainability reduction and calculation compliance simplified with Copi
 slug: sustainability-reduction-and-calculation-compliance
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Amanda Giglio", "Robin Smith"]
@@ -15,6 +15,7 @@ video_id: JkCkXsCkjLM
 url: https://www.youtube.com/watch?v=JkCkXsCkjLM
 youtube_url: https://www.youtube.com/watch?v=JkCkXsCkjLM
 tags: ["AI", "AI Studio", "Amanda Giglio", "BRK254", "Breakout", "English (US)", "Industry", "Industry-Curated", "Intermediate (200)", "Robin Smith", "Sustainability", "Sustainability reduction and calculation compliance simplified with Copilot Studio | BRK254", "Technical", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Keynote: Every Doorknob, All At Once: AI Cyber Lessons"
 slug: keynote-every-doorknob-all-at-once-ai-cyber-lessons
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1oArF1HDIXM
 url: https://www.youtube.com/watch?v=1oArF1HDIXM
 youtube_url: https://www.youtube.com/watch?v=1oArF1HDIXM
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: []
 transcript: true
 ---
 

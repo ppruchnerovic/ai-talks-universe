@@ -4,7 +4,7 @@ title: "Community | From Copilots to Autonomous Agents A Ref Architecture for Se
 slug: community-from-copilots-to-autonomous-agents-a-ref
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Vidura Wijekoon"]
@@ -15,6 +15,7 @@ video_id: ZQIs-udMB3g
 url: https://www.youtube.com/watch?v=ZQIs-udMB3g
 youtube_url: https://www.youtube.com/watch?v=ZQIs-udMB3g
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

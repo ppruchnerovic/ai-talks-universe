@@ -4,7 +4,7 @@ title: "SaTML 2024 - Lea Schönherr - CodeLMSec: Finding Security Vulnerabiliti
 slug: satml-2024-lea-schonherr-codelmsec-finding-security
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: T5Yh3Sj4hFU
 url: https://www.youtube.com/watch?v=T5Yh3Sj4hFU
 youtube_url: https://www.youtube.com/watch?v=T5Yh3Sj4hFU
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

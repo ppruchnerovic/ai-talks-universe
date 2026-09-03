@@ -4,7 +4,7 @@ title: "Why Semantics & Knowledge Graphs Are Essential for AI-Ready Data Systems
 slug: why-semantics-knowledge-graphs-are-essential-for-ai-ready
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Juan Sequeda"]
@@ -15,6 +15,7 @@ video_id: l_2Uuv8HyXY
 url: https://www.youtube.com/watch?v=l_2Uuv8HyXY
 youtube_url: https://www.youtube.com/watch?v=l_2Uuv8HyXY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

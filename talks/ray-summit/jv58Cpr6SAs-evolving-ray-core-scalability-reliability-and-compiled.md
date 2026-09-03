@@ -4,7 +4,7 @@ title: "Evolving Ray Core: Scalability, Reliability, and Compiled Graphs | Ray S
 slug: evolving-ray-core-scalability-reliability-and-compiled
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: jv58Cpr6SAs
 url: https://www.youtube.com/watch?v=jv58Cpr6SAs
 youtube_url: https://www.youtube.com/watch?v=jv58Cpr6SAs
 tags: []
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

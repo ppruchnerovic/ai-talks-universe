@@ -4,7 +4,7 @@ title: "The Celestial Mechanics of Attention Mechanisms"
 slug: the-celestial-mechanics-of-attention-mechanisms
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: QZm39ZvTt3k
 url: https://www.youtube.com/watch?v=QZm39ZvTt3k
 youtube_url: https://www.youtube.com/watch?v=QZm39ZvTt3k
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

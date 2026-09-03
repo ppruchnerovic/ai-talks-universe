@@ -4,7 +4,7 @@ title: "Quantum Computing: Separating the Breakthroughs from the Buzz"
 slug: quantum-computing-separating-the-breakthroughs-from-the-buzz
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Yuval Dvir", "Marcus Hennig"]
@@ -15,6 +15,7 @@ video_id: dlG3d3VGXHw
 url: https://www.youtube.com/watch?v=dlG3d3VGXHw
 youtube_url: https://www.youtube.com/watch?v=dlG3d3VGXHw
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

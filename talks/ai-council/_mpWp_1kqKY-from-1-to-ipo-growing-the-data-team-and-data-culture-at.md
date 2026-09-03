@@ -4,7 +4,7 @@ title: "From 1 to IPO: Growing the Data Team and Data Culture at GitLab"
 slug: from-1-to-ipo-growing-the-data-team-and-data-culture-at
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: _mpWp_1kqKY
 url: https://www.youtube.com/watch?v=_mpWp_1kqKY
 youtube_url: https://www.youtube.com/watch?v=_mpWp_1kqKY
 tags: ["data teams", "team culture", "data culture"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Can we control AI"
 slug: can-we-control-ai
 conference: web-summit
 conference_name: "Web Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Web Summit"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: AbCsKK3CTaU
 url: https://www.youtube.com/watch?v=AbCsKK3CTaU
 youtube_url: https://www.youtube.com/watch?v=AbCsKK3CTaU
 tags: ["web summit", "web summit conference lisbon", "web summit paddy", "web summit youtube", "web summit lisboa", "Lisbon", "Lisboa"]
+topics: []
 transcript: false
 ---
 

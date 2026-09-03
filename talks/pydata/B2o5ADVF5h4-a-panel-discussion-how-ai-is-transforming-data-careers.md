@@ -4,7 +4,7 @@ title: "A Panel Discussion - How AI Is Transforming Data Careers-PyData Boston 2
 slug: a-panel-discussion-how-ai-is-transforming-data-careers
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: B2o5ADVF5h4
 url: https://www.youtube.com/watch?v=B2o5ADVF5h4
 youtube_url: https://www.youtube.com/watch?v=B2o5ADVF5h4
 tags: []
+topics: []
 transcript: false
 ---
 

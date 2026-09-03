@@ -4,7 +4,7 @@ title: "Every company should have a Brain — Garry Tan, Y Combinator"
 slug: every-company-should-have-a-brain-garry-tan-y-combinator
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Garry Tan"]
@@ -15,6 +15,7 @@ video_id: eBUyTS7SzV4
 url: https://www.youtube.com/watch?v=eBUyTS7SzV4
 youtube_url: https://www.youtube.com/watch?v=eBUyTS7SzV4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

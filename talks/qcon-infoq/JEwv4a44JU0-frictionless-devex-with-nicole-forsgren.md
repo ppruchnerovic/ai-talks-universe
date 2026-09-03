@@ -4,7 +4,7 @@ title: "Frictionless DevEx with Nicole Forsgren"
 slug: frictionless-devex-with-nicole-forsgren
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: JEwv4a44JU0
 url: https://www.youtube.com/watch?v=JEwv4a44JU0
 youtube_url: https://www.youtube.com/watch?v=JEwv4a44JU0
 tags: ["Developer Experience", "Architecture & Design", "Software Development", "Productivity", "The InfoQ Podcast"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

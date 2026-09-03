@@ -4,7 +4,7 @@ title: "Amazon DynamoDB Distributed Transactions at Scale"
 slug: amazon-dynamodb-distributed-transactions-at-scale
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: T04txhFtcvo
 url: https://www.youtube.com/watch?v=T04txhFtcvo
 youtube_url: https://www.youtube.com/watch?v=T04txhFtcvo
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "DynamoDB", "AWS", "Amazon", "Key-Value Store", "NoSQL", "Database", "Transactions", "InfoQ", "QCon", "Transcript"]
+topics: []
 transcript: false
 ---
 

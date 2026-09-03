@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Build Enterprise AI Apps Faster: Amazon Bedrock's M
 slug: aws-re-invent-2025-build-enterprise-ai-apps-faster-amazon
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: SrB-LIAIx5I
 url: https://www.youtube.com/watch?v=SrB-LIAIx5I
 youtube_url: https://www.youtube.com/watch?v=SrB-LIAIx5I
 tags: []
+topics: ["Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

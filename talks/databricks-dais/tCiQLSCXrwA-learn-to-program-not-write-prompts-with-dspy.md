@@ -4,7 +4,7 @@ title: "Learn to Program Not Write Prompts with DSPy"
 slug: learn-to-program-not-write-prompts-with-dspy
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: tCiQLSCXrwA
 url: https://www.youtube.com/watch?v=tCiQLSCXrwA
 youtube_url: https://www.youtube.com/watch?v=tCiQLSCXrwA
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

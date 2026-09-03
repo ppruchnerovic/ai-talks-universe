@@ -4,7 +4,7 @@ title: "Developers become Orchestrators: From Human-in-the-Loop to Spec-in-the-L
 slug: developers-become-orchestrators-from-human-in-the-loop-to
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Bastian Heilemann", "Stefan Bley"]
@@ -15,6 +15,7 @@ video_id: M74vomMsLRQ
 url: https://www.youtube.com/watch?v=M74vomMsLRQ
 youtube_url: https://www.youtube.com/watch?v=M74vomMsLRQ
 tags: ["Developer Experience", "AI Coding Assistants", "APIs", "Agents", "Automation", "Developer Experience (DevEx)", "Generative AI (GenAI)", "Governance", "Microservices", "Test-Driven Development (TDD)"]
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

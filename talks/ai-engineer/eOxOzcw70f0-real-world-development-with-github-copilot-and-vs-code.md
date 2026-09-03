@@ -4,7 +4,7 @@ title: "Real World Development with GitHub Copilot and VS Code — Harald Kirsch
 slug: real-world-development-with-github-copilot-and-vs-code
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Harald Kirschner"]
@@ -15,6 +15,7 @@ video_id: eOxOzcw70f0
 url: https://www.youtube.com/watch?v=eOxOzcw70f0
 youtube_url: https://www.youtube.com/watch?v=eOxOzcw70f0
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

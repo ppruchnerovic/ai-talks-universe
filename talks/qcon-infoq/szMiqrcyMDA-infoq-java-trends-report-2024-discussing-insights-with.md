@@ -4,7 +4,7 @@ title: "InfoQ Java Trends Report 2024 - Discussing Insights with Ixchel Ruiz and
 slug: infoq-java-trends-report-2024-discussing-insights-with
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: szMiqrcyMDA
 url: https://www.youtube.com/watch?v=szMiqrcyMDA
 youtube_url: https://www.youtube.com/watch?v=szMiqrcyMDA
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AI-First Project Management for Developers | Alex Gavrilescu on Backlog.
 slug: ai-first-project-management-for-developers-alex-gavrilescu
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3-W0Et-X5Ew
 url: https://www.youtube.com/watch?v=3-W0Et-X5Ew
 youtube_url: https://www.youtube.com/watch?v=3-W0Et-X5Ew
 tags: ["ainativedev"]
+topics: []
 transcript: false
 ---
 

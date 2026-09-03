@@ -4,7 +4,7 @@ title: "Cerebral Valley: Ali Ghodsi (Databricks) with John Curtius (Cedar)"
 slug: cerebral-valley-ali-ghodsi-databricks-with-john-curtius
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1StidE83-Xs
 url: https://www.youtube.com/watch?v=1StidE83-Xs
 youtube_url: https://www.youtube.com/watch?v=1StidE83-Xs
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

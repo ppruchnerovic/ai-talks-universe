@@ -4,7 +4,7 @@ title: "Mor Hananovitz, Ortal Ashkenazi: Learning How to Learn in the AI Era (HE
 slug: mor-hananovitz-ortal-ashkenazi-learning-how-to-learn-in-the
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Mor Hananovitz"]
@@ -15,6 +15,7 @@ video_id: HvqA2hwSQUA
 url: https://www.youtube.com/watch?v=HvqA2hwSQUA
 youtube_url: https://www.youtube.com/watch?v=HvqA2hwSQUA
 tags: []
+topics: []
 transcript: false
 ---
 

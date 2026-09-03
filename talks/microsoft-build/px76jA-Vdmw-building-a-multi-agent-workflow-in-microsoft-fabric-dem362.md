@@ -4,7 +4,7 @@ title: "Building a Multi-Agent Workflow in Microsoft Fabric | DEM362"
 slug: building-a-multi-agent-workflow-in-microsoft-fabric-dem362
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Alexander Wachtel"]
@@ -15,6 +15,7 @@ video_id: px76jA-Vdmw
 url: https://www.youtube.com/watch?v=px76jA-Vdmw
 youtube_url: https://www.youtube.com/watch?v=px76jA-Vdmw
 tags: ["81eb53e4-8657-49d5-b228-c473ded735dc_M9Z7-DEM362-1", "Alexander Wachtel", "Building a Multi-Agent Workflow in Microsoft Fabric | DEM362", "CP&D", "Community", "DEM362", "Data", "MVP", "Microsoft Fabric", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

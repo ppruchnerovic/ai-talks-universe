@@ -4,7 +4,7 @@ title: "Itsik Mantin - When Good Agents Go Rogue"
 slug: itsik-mantin-when-good-agents-go-rogue
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Itsik Mantin"]
@@ -15,6 +15,7 @@ video_id: Ti4d0hQYbh0
 url: https://www.youtube.com/watch?v=Ti4d0hQYbh0
 youtube_url: https://www.youtube.com/watch?v=Ti4d0hQYbh0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

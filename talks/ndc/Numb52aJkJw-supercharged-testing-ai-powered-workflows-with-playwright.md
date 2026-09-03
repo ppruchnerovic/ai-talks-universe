@@ -4,7 +4,7 @@ title: "Supercharged Testing: AI-Powered Workflows with Playwright + MCP - Debbi
 slug: supercharged-testing-ai-powered-workflows-with-playwright
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Numb52aJkJw
 url: https://www.youtube.com/watch?v=Numb52aJkJw
 youtube_url: https://www.youtube.com/watch?v=Numb52aJkJw
 tags: [".NET", "AI", "JavaScript", "Testing", "Tools", "Web", "MCP", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "Debbie O'Brien"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Accelerate AI red teaming for your GenAI apps | DEM552"
 slug: accelerate-ai-red-teaming-for-your-genai-apps-dem552
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 225qScwLBqU
 url: https://www.youtube.com/watch?v=225qScwLBqU
 youtube_url: https://www.youtube.com/watch?v=225qScwLBqU
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

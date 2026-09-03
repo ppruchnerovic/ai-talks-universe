@@ -4,7 +4,7 @@ title: "A Hopeful View of Truly Open Source AI - Julia Ferraioli & Tom Callaway,
 slug: a-hopeful-view-of-truly-open-source-ai-julia-ferraioli-tom
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Julia Ferraioli", "Tom Callaway"]
@@ -15,6 +15,7 @@ video_id: dAwLJrVtTRw
 url: https://www.youtube.com/watch?v=dAwLJrVtTRw
 youtube_url: https://www.youtube.com/watch?v=dAwLJrVtTRw
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

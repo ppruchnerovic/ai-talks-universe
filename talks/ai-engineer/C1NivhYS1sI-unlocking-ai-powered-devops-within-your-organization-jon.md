@@ -4,7 +4,7 @@ title: "Unlocking AI Powered DevOps Within Your Organization — Jon Peck, GitHu
 slug: unlocking-ai-powered-devops-within-your-organization-jon
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jon Peck"]
@@ -15,6 +15,7 @@ video_id: C1NivhYS1sI
 url: https://www.youtube.com/watch?v=C1NivhYS1sI
 youtube_url: https://www.youtube.com/watch?v=C1NivhYS1sI
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

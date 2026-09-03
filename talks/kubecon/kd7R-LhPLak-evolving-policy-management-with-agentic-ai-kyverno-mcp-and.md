@@ -4,7 +4,7 @@ title: "Evolving Policy Management with Agentic AI: Kyverno MCP and Kagent for..
 slug: evolving-policy-management-with-agentic-ai-kyverno-mcp-and
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: kd7R-LhPLak
 url: https://www.youtube.com/watch?v=kd7R-LhPLak
 youtube_url: https://www.youtube.com/watch?v=kd7R-LhPLak
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

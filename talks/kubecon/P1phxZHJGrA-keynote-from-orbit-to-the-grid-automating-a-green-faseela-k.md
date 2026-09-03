@@ -4,7 +4,7 @@ title: "Keynote: From Orbit to the Grid: Automating a Green... Faseela K, Chris 
 slug: keynote-from-orbit-to-the-grid-automating-a-green-faseela-k
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: P1phxZHJGrA
 url: https://www.youtube.com/watch?v=P1phxZHJGrA
 youtube_url: https://www.youtube.com/watch?v=P1phxZHJGrA
 tags: []
+topics: []
 transcript: true
 ---
 

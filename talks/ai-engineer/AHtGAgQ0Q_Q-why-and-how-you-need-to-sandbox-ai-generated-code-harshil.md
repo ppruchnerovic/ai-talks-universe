@@ -4,7 +4,7 @@ title: "Why, and how you need to sandbox AI-Generated Code? — Harshil Agrawal,
 slug: why-and-how-you-need-to-sandbox-ai-generated-code-harshil
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Harshil Agrawal"]
@@ -15,6 +15,7 @@ video_id: AHtGAgQ0Q_Q
 url: https://www.youtube.com/watch?v=AHtGAgQ0Q_Q
 youtube_url: https://www.youtube.com/watch?v=AHtGAgQ0Q_Q
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

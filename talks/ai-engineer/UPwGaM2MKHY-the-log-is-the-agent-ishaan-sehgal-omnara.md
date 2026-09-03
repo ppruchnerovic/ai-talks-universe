@@ -4,7 +4,7 @@ title: "The Log Is The Agent - Ishaan Sehgal, Omnara"
 slug: the-log-is-the-agent-ishaan-sehgal-omnara
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ishaan Sehgal"]
@@ -15,6 +15,7 @@ video_id: UPwGaM2MKHY
 url: https://www.youtube.com/watch?v=UPwGaM2MKHY
 youtube_url: https://www.youtube.com/watch?v=UPwGaM2MKHY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

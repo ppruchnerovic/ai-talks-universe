@@ -4,7 +4,7 @@ title: "Building Agents Is Trivial Now, Context Is the Next Frontier — Jeff Ng
 slug: building-agents-is-trivial-now-context-is-the-next-frontier
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jeff Ng"]
@@ -15,6 +15,7 @@ video_id: HvMyYLTfvhg
 url: https://www.youtube.com/watch?v=HvMyYLTfvhg
 youtube_url: https://www.youtube.com/watch?v=HvMyYLTfvhg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Brian Douglas - The beginners guide to training AI on your own code - AI
 slug: brian-douglas-the-beginners-guide-to-training-ai-on-your
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Brian Douglas"]
@@ -15,6 +15,7 @@ video_id: o-IunU6b1t8
 url: https://www.youtube.com/watch?v=o-IunU6b1t8
 youtube_url: https://www.youtube.com/watch?v=o-IunU6b1t8
 tags: ["AI training", "DPO", "Flink SQL", "Flink SQL anomaly detection", "Kafka", "Kafka and AI training", "Merkle DAG", "Tapes", "agentic coding", "ainativedev", "building AI training datasets", "how to use Tapes", "self-healing loops", "telemetry proxy", "training AI on code"]
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

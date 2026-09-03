@@ -4,7 +4,7 @@ title: "Bulletproof Web Applications: The 2025 OWASP Top Ten"
 slug: bulletproof-web-applications-the-2025-owasp-top-ten
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Christian Wenz"]
@@ -15,6 +15,7 @@ video_id: jMprQg54rZI
 url: https://www.youtube.com/watch?v=jMprQg54rZI
 youtube_url: https://www.youtube.com/watch?v=jMprQg54rZI
 tags: ["Security & Privacy", "OWASP", "Security"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

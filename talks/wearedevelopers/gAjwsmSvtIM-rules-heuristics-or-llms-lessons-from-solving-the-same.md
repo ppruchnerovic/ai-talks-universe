@@ -4,7 +4,7 @@ title: "Rules, Heuristics, or LLMs? Lessons from Solving the Same Problem Twice"
 slug: rules-heuristics-or-llms-lessons-from-solving-the-same
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Artur Naumenko"]
@@ -15,6 +15,7 @@ video_id: gAjwsmSvtIM
 url: https://www.youtube.com/watch?v=gAjwsmSvtIM
 youtube_url: https://www.youtube.com/watch?v=gAjwsmSvtIM
 tags: ["AI Engineering", "AI Models", "Large Language Models (LLMs)", "Small Language Models (SLMs)", "Software Architecture", "System Design"]
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

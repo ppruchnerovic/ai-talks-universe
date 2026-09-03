@@ -4,7 +4,7 @@ title: "Rust in the Real World: Adoption, Migration, and Tradeoffs"
 slug: rust-in-the-real-world-adoption-migration-and-tradeoffs
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Vitaly Bragilevsky"]
@@ -15,6 +15,7 @@ video_id: zOu_O6u3-yI
 url: https://www.youtube.com/watch?v=zOu_O6u3-yI
 youtube_url: https://www.youtube.com/watch?v=zOu_O6u3-yI
 tags: ["Languages & Runtimes", "Advocacy", "AI Coding Assistants", "AI Models", "C++", "Career Development", "Cargo", "Case Study", "Cloudflare", "Cross-Platform", "dApps", "Migration", "Polkadot", "Productivity", "PyCharm", "Python", "Rust", "Tools", "Web3"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Cerebral Valley: Adam D'Angelo (Quora) + Harrison Chase (LangChain) with
 slug: cerebral-valley-adam-d-angelo-quora-harrison-chase
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: CUCBXyJym3M
 url: https://www.youtube.com/watch?v=CUCBXyJym3M
 youtube_url: https://www.youtube.com/watch?v=CUCBXyJym3M
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

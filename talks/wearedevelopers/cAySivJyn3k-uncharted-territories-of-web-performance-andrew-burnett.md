@@ -4,7 +4,7 @@ title: "Uncharted Territories of Web Performance - Andrew Burnett-Thompson and D
 slug: uncharted-territories-of-web-performance-andrew-burnett
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cAySivJyn3k
 url: https://www.youtube.com/watch?v=cAySivJyn3k
 youtube_url: https://www.youtube.com/watch?v=cAySivJyn3k
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "SciChart interview", "Coffee with Developers", "web charting performance", "WebAssembly charts", "real time data visualization", "scientific charts", "custom chart library", "JavaScript charts", "high performance charting", "industrial monitoring charts", "WPF charts", "multi chart dashboards", "browser performance optimization"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

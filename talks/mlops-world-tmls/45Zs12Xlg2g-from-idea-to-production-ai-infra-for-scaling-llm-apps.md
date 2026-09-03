@@ -4,7 +4,7 @@ title: "From Idea to Production: AI Infra for Scaling LLM Apps"
 slug: from-idea-to-production-ai-infra-for-scaling-llm-apps
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Guy Eshet"]
@@ -15,6 +15,7 @@ video_id: 45Zs12Xlg2g
 url: https://www.youtube.com/watch?v=45Zs12Xlg2g
 youtube_url: https://www.youtube.com/watch?v=45Zs12Xlg2g
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

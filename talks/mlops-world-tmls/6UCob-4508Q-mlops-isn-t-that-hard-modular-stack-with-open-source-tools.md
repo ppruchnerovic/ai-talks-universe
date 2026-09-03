@@ -4,7 +4,7 @@ title: "MLOps isn't that hard: Modular Stack with Open-Source Tools"
 slug: mlops-isn-t-that-hard-modular-stack-with-open-source-tools
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6UCob-4508Q
 url: https://www.youtube.com/watch?v=6UCob-4508Q
 youtube_url: https://www.youtube.com/watch?v=6UCob-4508Q
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

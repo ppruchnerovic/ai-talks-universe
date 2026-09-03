@@ -4,7 +4,7 @@ title: "Spotlight on Manus | Code w/ Claude"
 slug: spotlight-on-manus-code-w-claude
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: UjboGsztHd8
 url: https://www.youtube.com/watch?v=UjboGsztHd8
 youtube_url: https://www.youtube.com/watch?v=UjboGsztHd8
 tags: []
+topics: []
 transcript: false
 ---
 

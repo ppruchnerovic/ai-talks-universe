@@ -4,7 +4,7 @@ title: "OpenAI DevDay 2024 | Balancing accuracy, latency, and cost at scale"
 slug: openai-devday-2024-balancing-accuracy-latency-and-cost-at
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Bx6sUDRMx-8
 url: https://www.youtube.com/watch?v=Bx6sUDRMx-8
 youtube_url: https://www.youtube.com/watch?v=Bx6sUDRMx-8
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

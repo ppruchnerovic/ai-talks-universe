@@ -4,7 +4,7 @@ title: "Nathan Fulton - Generative Programming with Mellea: from Agentic - PyDat
 slug: nathan-fulton-generative-programming-with-mellea-from
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Nathan Fulton"]
@@ -15,6 +15,7 @@ video_id: WFm0nao9hlY
 url: https://www.youtube.com/watch?v=WFm0nao9hlY
 youtube_url: https://www.youtube.com/watch?v=WFm0nao9hlY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

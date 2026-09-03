@@ -4,7 +4,7 @@ title: "Reinforcement Learning for LLMs to Enhance Safety"
 slug: reinforcement-learning-for-llms-to-enhance-safety
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: EhC8Bih47Y8
 url: https://www.youtube.com/watch?v=EhC8Bih47Y8
 youtube_url: https://www.youtube.com/watch?v=EhC8Bih47Y8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

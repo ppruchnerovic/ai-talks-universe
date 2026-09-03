@@ -4,7 +4,7 @@ title: "Product-First Engineers: Why Your Code-First Mindset Fails"
 slug: product-first-engineers-why-your-code-first-mindset-fails
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3AFZ2Ak1izI
 url: https://www.youtube.com/watch?v=3AFZ2Ak1izI
 youtube_url: https://www.youtube.com/watch?v=3AFZ2Ak1izI
 tags: ["engineering culture", "AI", "software development", "teamwork", "teams", "productivity", "AI tools", "developer experience", "career pathways", "leadership"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

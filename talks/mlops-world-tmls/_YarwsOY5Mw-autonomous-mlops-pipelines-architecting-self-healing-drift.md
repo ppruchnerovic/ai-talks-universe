@@ -4,7 +4,7 @@ title: "Autonomous MLOps Pipelines:Architecting Self-Healing, Drift Resistant Mo
 slug: autonomous-mlops-pipelines-architecting-self-healing-drift
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Kamal Singh Bisht", "Discover Financial Services"]
@@ -15,6 +15,7 @@ video_id: _YarwsOY5Mw
 url: https://www.youtube.com/watch?v=_YarwsOY5Mw
 youtube_url: https://www.youtube.com/watch?v=_YarwsOY5Mw
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

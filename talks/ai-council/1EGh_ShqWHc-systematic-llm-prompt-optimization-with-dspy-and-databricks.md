@@ -4,7 +4,7 @@ title: "Systematic LLM Prompt Optimization with DSPy and Databricks"
 slug: systematic-llm-prompt-optimization-with-dspy-and-databricks
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1EGh_ShqWHc
 url: https://www.youtube.com/watch?v=1EGh_ShqWHc
 youtube_url: https://www.youtube.com/watch?v=1EGh_ShqWHc
 tags: ["AI"]
+topics: ["Data engineering & MLOps", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

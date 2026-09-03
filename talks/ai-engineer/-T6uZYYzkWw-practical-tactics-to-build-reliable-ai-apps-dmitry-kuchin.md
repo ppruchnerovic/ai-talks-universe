@@ -4,7 +4,7 @@ title: "Practical tactics to build reliable AI apps — Dmitry Kuchin, Multinear
 slug: practical-tactics-to-build-reliable-ai-apps-dmitry-kuchin
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dmitry Kuchin"]
@@ -15,6 +15,7 @@ video_id: -T6uZYYzkWw
 url: https://www.youtube.com/watch?v=-T6uZYYzkWw
 youtube_url: https://www.youtube.com/watch?v=-T6uZYYzkWw
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

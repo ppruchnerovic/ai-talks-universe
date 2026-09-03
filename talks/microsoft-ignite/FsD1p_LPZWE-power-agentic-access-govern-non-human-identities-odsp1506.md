@@ -4,7 +4,7 @@ title: "Power Agentic Access. Govern Non-Human Identities | ODSP1506"
 slug: power-agentic-access-govern-non-human-identities-odsp1506
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Yonit Glozshtein"]
@@ -15,6 +15,7 @@ video_id: FsD1p_LPZWE
 url: https://www.youtube.com/watch?v=FsD1p_LPZWE
 youtube_url: https://www.youtube.com/watch?v=FsD1p_LPZWE
 tags: ["English (US)", "ODSP1506", "ODSP1506_v1", "Power Agentic Access. Govern Non-Human Identities | ODSP1506", "Protect cloud AI platform and apps", "Technical", "Yonit Glozshtein", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

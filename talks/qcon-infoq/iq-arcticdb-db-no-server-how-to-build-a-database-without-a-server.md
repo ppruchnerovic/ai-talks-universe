@@ -4,7 +4,7 @@ title: "How to Build a Database without a Server"
 slug: how-to-build-a-database-without-a-server
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Alex Seaton"]
@@ -15,6 +15,7 @@ video_id: iq-arcticdb-db-no-server
 url: https://www.infoq.com/presentations/arcticdb-db-no-server/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

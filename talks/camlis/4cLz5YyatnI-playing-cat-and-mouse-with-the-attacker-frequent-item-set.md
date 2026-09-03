@@ -4,7 +4,7 @@ title: "Playing Cat and Mouse with the Attacker: Frequent Item Set Mining in the
 slug: playing-cat-and-mouse-with-the-attacker-frequent-item-set
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4cLz5YyatnI
 url: https://www.youtube.com/watch?v=4cLz5YyatnI
 youtube_url: https://www.youtube.com/watch?v=4cLz5YyatnI
 tags: []
+topics: []
 transcript: false
 ---
 

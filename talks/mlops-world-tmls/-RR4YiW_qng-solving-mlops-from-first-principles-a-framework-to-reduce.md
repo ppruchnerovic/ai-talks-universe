@@ -4,7 +4,7 @@ title: "Solving MLOps From First Principles A Framework to Reduce Complexity"
 slug: solving-mlops-from-first-principles-a-framework-to-reduce
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Dean Pleban"]
@@ -15,6 +15,7 @@ video_id: -RR4YiW_qng
 url: https://www.youtube.com/watch?v=-RR4YiW_qng
 youtube_url: https://www.youtube.com/watch?v=-RR4YiW_qng
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

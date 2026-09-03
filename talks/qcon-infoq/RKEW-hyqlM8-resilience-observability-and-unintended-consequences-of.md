@@ -4,7 +4,7 @@ title: "Resilience, Observability and Unintended Consequences of Automation"
 slug: resilience-observability-and-unintended-consequences-of
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: RKEW-hyqlM8
 url: https://www.youtube.com/watch?v=RKEW-hyqlM8
 youtube_url: https://www.youtube.com/watch?v=RKEW-hyqlM8
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

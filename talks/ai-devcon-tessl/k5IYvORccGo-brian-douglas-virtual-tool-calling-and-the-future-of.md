@@ -4,7 +4,7 @@ title: "Brian Douglas - Virtual Tool Calling and the Future of Portable AI Toolc
 slug: brian-douglas-virtual-tool-calling-and-the-future-of
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Brian Douglas"]
@@ -15,6 +15,7 @@ video_id: k5IYvORccGo
 url: https://www.youtube.com/watch?v=k5IYvORccGo
 youtube_url: https://www.youtube.com/watch?v=k5IYvORccGo
 tags: ["ainativedev"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

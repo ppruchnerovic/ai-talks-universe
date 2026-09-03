@@ -4,7 +4,7 @@ title: "Dan Roth - AI for Data and Data for AI"
 slug: dan-roth-ai-for-data-and-data-for-ai
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Dan Roth"]
@@ -15,6 +15,7 @@ video_id: xXf9z-ie8wM
 url: https://www.youtube.com/watch?v=xXf9z-ie8wM
 youtube_url: https://www.youtube.com/watch?v=xXf9z-ie8wM
 tags: []
+topics: []
 transcript: true
 ---
 

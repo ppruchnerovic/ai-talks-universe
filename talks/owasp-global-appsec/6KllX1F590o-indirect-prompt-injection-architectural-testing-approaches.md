@@ -4,7 +4,7 @@ title: "Indirect Prompt Injection: Architectural Testing Approaches for Real Wor
 slug: indirect-prompt-injection-architectural-testing-approaches
 conference: owasp-global-appsec
 conference_name: "OWASP Global AppSec"
-category: "AI security"
+category: "Security conferences"
 edition: "Global AppSec DC 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6KllX1F590o
 url: https://www.youtube.com/watch?v=6KllX1F590o
 youtube_url: https://www.youtube.com/watch?v=6KllX1F590o
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

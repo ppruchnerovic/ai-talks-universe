@@ -4,7 +4,7 @@ title: "Inference for Async Agents in Production | Doubleword"
 slug: inference-for-async-agents-in-production-doubleword
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: kfn0khygHYQ
 url: https://www.youtube.com/watch?v=kfn0khygHYQ
 youtube_url: https://www.youtube.com/watch?v=kfn0khygHYQ
 tags: ["AI"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "OAKS: Open Agentic Knowledge Stack"
 slug: oaks-open-agentic-knowledge-stack
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Alexy Khrabrov"]
@@ -15,6 +15,7 @@ video_id: WgZA1FHSuLA
 url: https://www.youtube.com/watch?v=WgZA1FHSuLA
 youtube_url: https://www.youtube.com/watch?v=WgZA1FHSuLA
 tags: ["Neo4j", "knowledge graphs", "ChatGPT", "artificial intelligence", "machine learning", "AI agents", "open source", "graph database", "GraphRAG", "semantic web", "knowledge representation", "Microsoft", "Amazon", "Google", "Python tutorial", "graph algorithms", "graph neural networks", "connected data", "relationship analysis", "network analysis", "social networks", "recommendation engines", "fraud detection", "master data management", "data lineage"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

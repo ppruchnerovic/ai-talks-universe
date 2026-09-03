@@ -4,7 +4,7 @@ title: "What 500+ Production Environments Taught Us About Shipping AI Agents"
 slug: what-500-production-environments-taught-us-about-shipping
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Liran Hason"]
@@ -15,6 +15,7 @@ video_id: Q3Pm_hsw588
 url: https://www.youtube.com/watch?v=Q3Pm_hsw588
 youtube_url: https://www.youtube.com/watch?v=Q3Pm_hsw588
 tags: ["AI Agents", "Agents", "Agentic AI", "Multi-Agent Systems", "Observability"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

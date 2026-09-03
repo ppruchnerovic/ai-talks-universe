@@ -4,7 +4,7 @@ title: "Dive into AI and the Metaverse with Benjamin Bayart, Senior Solutions Ar
 slug: dive-into-ai-and-the-metaverse-with-benjamin-bayart-senior
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 22_ydhWpKeE
 url: https://www.youtube.com/watch?v=22_ydhWpKeE
 youtube_url: https://www.youtube.com/watch?v=22_ydhWpKeE
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

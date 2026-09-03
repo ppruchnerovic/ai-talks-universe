@@ -4,7 +4,7 @@ title: "Java Sucks (So C# Didn't Have To)"
 slug: java-sucks-so-c-didn-t-have-to
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Adele Carpenter"]
@@ -15,6 +15,7 @@ video_id: GyfiwdgviTg
 url: https://www.youtube.com/watch?v=GyfiwdgviTg
 youtube_url: https://www.youtube.com/watch?v=GyfiwdgviTg
 tags: ["Languages & Runtimes", "C#", "Java"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Choose Your Own Adventure: AI Meets Internal Developer Platform - Whitne
 slug: choose-your-own-adventure-ai-meets-internal-developer
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Whitney Lee", "Viktor Farcic"]
@@ -15,6 +15,7 @@ video_id: k7ct4sW-97E
 url: https://www.youtube.com/watch?v=k7ct4sW-97E
 youtube_url: https://www.youtube.com/watch?v=k7ct4sW-97E
 tags: []
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

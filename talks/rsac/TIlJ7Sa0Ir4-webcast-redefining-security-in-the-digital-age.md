@@ -4,7 +4,7 @@ title: "Webcast: Redefining Security in the Digital Age"
 slug: webcast-redefining-security-in-the-digital-age
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: ["Jabez Abraham"]
@@ -15,6 +15,7 @@ video_id: TIlJ7Sa0Ir4
 url: https://www.youtube.com/watch?v=TIlJ7Sa0Ir4
 youtube_url: https://www.youtube.com/watch?v=TIlJ7Sa0Ir4
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Maximize AI performance with AMD ROCm tools and Azure integrations | BRK
 slug: maximize-ai-performance-with-amd-rocm-tools-and-azure
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: mS8F5OhmFtA
 url: https://www.youtube.com/watch?v=mS8F5OhmFtA
 youtube_url: https://www.youtube.com/watch?v=mS8F5OhmFtA
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Ethical Bias - Robert Glenn, Glennium, LLC & Diana Zhawn, Kopacetic, Inc
 slug: ethical-bias-robert-glenn-glennium-llc-diana-zhawn
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: ["Ethical Bias", "Robert Glenn"]
@@ -15,6 +15,7 @@ video_id: oKanfWKOCjs
 url: https://www.youtube.com/watch?v=oKanfWKOCjs
 youtube_url: https://www.youtube.com/watch?v=oKanfWKOCjs
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

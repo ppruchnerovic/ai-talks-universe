@@ -4,7 +4,7 @@ title: "When Architecture Betrays Security: 3 Risks Senior Devs Miss"
 slug: when-architecture-betrays-security-3-risks-senior-devs-miss
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7H3uCfN1Kr8
 url: https://www.youtube.com/watch?v=7H3uCfN1Kr8
 youtube_url: https://www.youtube.com/watch?v=7H3uCfN1Kr8
 tags: ["InfoQ", "QCon London", "Transcript", "Software Architecture", "Security", "Software Security", "Cyber Security"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "What Do Engineers Not Get About Working with Data Scientists"
 slug: what-do-engineers-not-get-about-working-with-data-scientists
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Azin Asgarian"]
@@ -15,6 +15,7 @@ video_id: kT-8RoPQi9w
 url: https://www.youtube.com/watch?v=kT-8RoPQi9w
 youtube_url: https://www.youtube.com/watch?v=kT-8RoPQi9w
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

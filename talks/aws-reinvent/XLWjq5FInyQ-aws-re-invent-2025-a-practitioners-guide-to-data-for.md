@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - A practitioner’s guide to data for agentic AI (DA
 slug: aws-re-invent-2025-a-practitioners-guide-to-data-for
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XLWjq5FInyQ
 url: https://www.youtube.com/watch?v=XLWjq5FInyQ
 youtube_url: https://www.youtube.com/watch?v=XLWjq5FInyQ
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

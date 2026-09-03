@@ -4,7 +4,7 @@ title: "How to favour AI introduction in sleep medicine | AI and Sleep | Markus 
 slug: how-to-favour-ai-introduction-in-sleep-medicine-ai-and
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Markus Schmidt"]
@@ -15,6 +15,7 @@ video_id: ZEHJKkse854
 url: https://www.youtube.com/watch?v=ZEHJKkse854
 youtube_url: https://www.youtube.com/watch?v=ZEHJKkse854
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

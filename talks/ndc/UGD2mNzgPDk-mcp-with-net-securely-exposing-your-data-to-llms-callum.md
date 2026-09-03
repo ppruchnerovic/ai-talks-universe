@@ -4,7 +4,7 @@ title: "MCP with .NET: securely exposing your data to LLMs - Callum Whyte - NDC 
 slug: mcp-with-net-securely-exposing-your-data-to-llms-callum
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Callum Whyte"]
@@ -15,6 +15,7 @@ video_id: UGD2mNzgPDk
 url: https://www.youtube.com/watch?v=UGD2mNzgPDk
 youtube_url: https://www.youtube.com/watch?v=UGD2mNzgPDk
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

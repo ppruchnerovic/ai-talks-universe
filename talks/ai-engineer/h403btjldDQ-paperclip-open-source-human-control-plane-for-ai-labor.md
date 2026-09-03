@@ -4,7 +4,7 @@ title: "Paperclip: Open Source Human Control Plane for AI Labor — Dotta Bippa"
 slug: paperclip-open-source-human-control-plane-for-ai-labor
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dotta Bippa"]
@@ -15,6 +15,7 @@ video_id: h403btjldDQ
 url: https://www.youtube.com/watch?v=h403btjldDQ
 youtube_url: https://www.youtube.com/watch?v=h403btjldDQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "[Keynote] Revolutionizing Travel with AI How We Built the Turkish Airlin
 slug: keynote-revolutionizing-travel-with-ai-how-we-built-the
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: KWvkPFnHwlM
 url: https://www.youtube.com/watch?v=KWvkPFnHwlM
 youtube_url: https://www.youtube.com/watch?v=KWvkPFnHwlM
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

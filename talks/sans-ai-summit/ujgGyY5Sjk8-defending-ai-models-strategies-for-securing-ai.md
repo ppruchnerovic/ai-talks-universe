@@ -4,7 +4,7 @@ title: "Defending AI Models: Strategies for Securing AI Implementations Against 
 slug: defending-ai-models-strategies-for-securing-ai
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ujgGyY5Sjk8
 url: https://www.youtube.com/watch?v=ujgGyY5Sjk8
 youtube_url: https://www.youtube.com/watch?v=ujgGyY5Sjk8
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

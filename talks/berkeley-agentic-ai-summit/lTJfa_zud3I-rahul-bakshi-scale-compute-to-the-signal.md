@@ -4,7 +4,7 @@ title: "Rahul Bakshi - Scale Compute to the Signal"
 slug: rahul-bakshi-scale-compute-to-the-signal
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Rahul Bakshi"]
@@ -15,6 +15,7 @@ video_id: lTJfa_zud3I
 url: https://www.youtube.com/watch?v=lTJfa_zud3I
 youtube_url: https://www.youtube.com/watch?v=lTJfa_zud3I
 tags: []
+topics: []
 transcript: true
 ---
 

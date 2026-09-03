@@ -4,7 +4,7 @@ title: "AppleStorm - Unmasking the Privacy Risks of Apple Intelligence"
 slug: applestorm-unmasking-the-privacy-risks-of-apple-intelligence
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: iL2McWODDnc
 url: https://www.youtube.com/watch?v=iL2McWODDnc
 youtube_url: https://www.youtube.com/watch?v=iL2McWODDnc
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

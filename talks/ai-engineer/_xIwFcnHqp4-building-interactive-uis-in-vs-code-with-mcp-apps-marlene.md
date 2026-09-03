@@ -4,7 +4,7 @@ title: "Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami &
 slug: building-interactive-uis-in-vs-code-with-mcp-apps-marlene
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Marlene Mhangami", "Liam Hampton"]
@@ -15,6 +15,7 @@ video_id: _xIwFcnHqp4
 url: https://www.youtube.com/watch?v=_xIwFcnHqp4
 youtube_url: https://www.youtube.com/watch?v=_xIwFcnHqp4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - AI-Driven Operations: Scaling Observability and Cos
 slug: aws-re-invent-2025-ai-driven-operations-scaling
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: mREGY3cM_P0
 url: https://www.youtube.com/watch?v=mREGY3cM_P0
 youtube_url: https://www.youtube.com/watch?v=mREGY3cM_P0
 tags: []
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

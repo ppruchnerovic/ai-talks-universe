@@ -4,7 +4,7 @@ title: "Thinking Deeper in Gemini — Jack Rae, Google DeepMind"
 slug: thinking-deeper-in-gemini-jack-rae-google-deepmind
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jack Rae"]
@@ -15,6 +15,7 @@ video_id: 8EQo4J2BWKw
 url: https://www.youtube.com/watch?v=8EQo4J2BWKw
 youtube_url: https://www.youtube.com/watch?v=8EQo4J2BWKw
 tags: []
+topics: []
 transcript: false
 ---
 

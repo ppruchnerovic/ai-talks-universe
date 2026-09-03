@@ -4,7 +4,7 @@ title: "Cloud Native at the Far(m) Edge: Running Kubernetes and AI... Mauro Mora
 slug: cloud-native-at-the-far-m-edge-running-kubernetes-and-ai
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: qCyDeCGavB8
 url: https://www.youtube.com/watch?v=qCyDeCGavB8
 youtube_url: https://www.youtube.com/watch?v=qCyDeCGavB8
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

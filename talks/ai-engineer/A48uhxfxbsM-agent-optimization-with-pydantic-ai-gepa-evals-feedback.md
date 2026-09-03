@@ -4,7 +4,7 @@ title: "Agent Optimization with Pydantic AI: GEPA, Evals, Feedback Loops — Sam
 slug: agent-optimization-with-pydantic-ai-gepa-evals-feedback
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Samuel Colvin"]
@@ -15,6 +15,7 @@ video_id: A48uhxfxbsM
 url: https://www.youtube.com/watch?v=A48uhxfxbsM
 youtube_url: https://www.youtube.com/watch?v=A48uhxfxbsM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

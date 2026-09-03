@@ -4,7 +4,7 @@ title: "Go-To-Market Data Enrichment: Practical Strategies to Drive Business Val
 slug: go-to-market-data-enrichment-practical-strategies-to-drive
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Nathan Sooter"]
@@ -15,6 +15,7 @@ video_id: 18zOpmUHtdc
 url: https://www.youtube.com/watch?v=18zOpmUHtdc
 youtube_url: https://www.youtube.com/watch?v=18zOpmUHtdc
 tags: ["sales automation", "CRM", "go to market", "ChatGPT", "artificial intelligence", "machine learning", "data analysis", "business intelligence", "sales data", "marketing automation", "Salesforce", "LLM data cleaning", "data enrichment", "Python tutorial", "sales analytics", "pipeline management", "lead scoring", "opportunity management", "forecasting", "territory management", "quota management", "commission tracking", "customer segmentation"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

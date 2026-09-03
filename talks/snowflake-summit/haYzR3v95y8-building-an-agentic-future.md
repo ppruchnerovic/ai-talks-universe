@@ -4,7 +4,7 @@ title: "Building An Agentic Future"
 slug: building-an-agentic-future
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: haYzR3v95y8
 url: https://www.youtube.com/watch?v=haYzR3v95y8
 youtube_url: https://www.youtube.com/watch?v=haYzR3v95y8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The Agentic Assembly Line"
 slug: the-agentic-assembly-line
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Thomas Dohmke"]
@@ -15,6 +15,7 @@ video_id: ggh3kdcer2U
 url: https://www.youtube.com/watch?v=ggh3kdcer2U
 youtube_url: https://www.youtube.com/watch?v=ggh3kdcer2U
 tags: ["Developer Experience"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

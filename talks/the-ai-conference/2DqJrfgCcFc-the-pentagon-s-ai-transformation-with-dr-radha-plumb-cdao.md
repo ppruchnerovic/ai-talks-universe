@@ -4,7 +4,7 @@ title: "The Pentagon's AI Transformation with Dr. Radha Plumb, CDAO and Brian Ra
 slug: the-pentagon-s-ai-transformation-with-dr-radha-plumb-cdao
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2DqJrfgCcFc
 url: https://www.youtube.com/watch?v=2DqJrfgCcFc
 youtube_url: https://www.youtube.com/watch?v=2DqJrfgCcFc
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

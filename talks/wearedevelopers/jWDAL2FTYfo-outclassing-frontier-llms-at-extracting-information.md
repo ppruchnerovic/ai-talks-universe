@@ -4,7 +4,7 @@ title: "Outclassing Frontier LLMs at Extracting Information"
 slug: outclassing-frontier-llms-at-extracting-information
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Etienne Bernard"]
@@ -15,6 +15,7 @@ video_id: jWDAL2FTYfo
 url: https://www.youtube.com/watch?v=jWDAL2FTYfo
 youtube_url: https://www.youtube.com/watch?v=jWDAL2FTYfo
 tags: ["AI Engineering", "JSON", "Large Language Models (LLMs)", "Retrieval-Augmented Generation (RAG)", "AI Models"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

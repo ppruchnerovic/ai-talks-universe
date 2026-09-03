@@ -4,7 +4,7 @@ title: "RSAC 365 Innovation Showcase: Building a Holistic Approach to DevSecOps"
 slug: rsac-365-innovation-showcase-building-a-holistic-approach
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Rqhep8zkAuE
 url: https://www.youtube.com/watch?v=Rqhep8zkAuE
 youtube_url: https://www.youtube.com/watch?v=Rqhep8zkAuE
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

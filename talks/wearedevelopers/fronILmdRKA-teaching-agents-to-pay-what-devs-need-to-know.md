@@ -4,7 +4,7 @@ title: "Teaching agents to pay: what devs need to know"
 slug: teaching-agents-to-pay-what-devs-need-to-know
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Benjamin Smith"]
@@ -15,6 +15,7 @@ video_id: fronILmdRKA
 url: https://www.youtube.com/watch?v=fronILmdRKA
 youtube_url: https://www.youtube.com/watch?v=fronILmdRKA
 tags: ["AI Agents", "AI Standards", "eCommerce", "Open Source"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Data Generation: Simulators and Domain Adaptation | Overcoming Data Scar
 slug: data-generation-simulators-and-domain-adaptation-overcoming
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Elisa Ricci"]
@@ -15,6 +15,7 @@ video_id: msdfGsDURHc
 url: https://www.youtube.com/watch?v=msdfGsDURHc
 youtube_url: https://www.youtube.com/watch?v=msdfGsDURHc
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

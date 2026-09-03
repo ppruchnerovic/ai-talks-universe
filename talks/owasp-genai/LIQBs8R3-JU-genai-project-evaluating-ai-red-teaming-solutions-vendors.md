@@ -4,7 +4,7 @@ title: "GenAI Project | Evaluating AI Red Teaming Solutions/Vendors: New OWASP C
 slug: genai-project-evaluating-ai-red-teaming-solutions-vendors
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Jason Ross"]
@@ -15,6 +15,7 @@ video_id: LIQBs8R3-JU
 url: https://www.youtube.com/watch?v=LIQBs8R3-JU
 youtube_url: https://www.youtube.com/watch?v=LIQBs8R3-JU
 tags: []
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

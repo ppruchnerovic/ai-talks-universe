@@ -4,7 +4,7 @@ title: "Big Data is Dead | MotherDuck"
 slug: big-data-is-dead-motherduck
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: lisIQ9ohU8g
 url: https://www.youtube.com/watch?v=lisIQ9ohU8g
 youtube_url: https://www.youtube.com/watch?v=lisIQ9ohU8g
 tags: ["BigQuery", "Big Data", "Machine Learning", "duckdb", "databases", "data infrastructure"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

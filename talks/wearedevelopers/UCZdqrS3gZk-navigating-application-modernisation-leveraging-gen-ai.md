@@ -4,7 +4,7 @@ title: "Navigating Application Modernisation - Leveraging Gen-AI - Shaaf Syed"
 slug: navigating-application-modernisation-leveraging-gen-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Shaaf Syed"]
@@ -15,6 +15,7 @@ video_id: UCZdqrS3gZk
 url: https://www.youtube.com/watch?v=UCZdqrS3gZk
 youtube_url: https://www.youtube.com/watch?v=UCZdqrS3gZk
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["AI in the SDLC & engineering orgs", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "LLM Knowledge Bases: a practical guide — Ben Holmes, Warp"
 slug: llm-knowledge-bases-a-practical-guide-ben-holmes-warp
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ben Holmes"]
@@ -15,6 +15,7 @@ video_id: I3bpdgFJCUY
 url: https://www.youtube.com/watch?v=I3bpdgFJCUY
 youtube_url: https://www.youtube.com/watch?v=I3bpdgFJCUY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

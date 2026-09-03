@@ -4,7 +4,7 @@ title: "Collaborative AI Engineering: One Dev, Two Dozen Agents, Zero Alignment 
 slug: collaborative-ai-engineering-one-dev-two-dozen-agents-zero
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Maggie Appleton"]
@@ -15,6 +15,7 @@ video_id: ClWD8OEYgp8
 url: https://www.youtube.com/watch?v=ClWD8OEYgp8
 youtube_url: https://www.youtube.com/watch?v=ClWD8OEYgp8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

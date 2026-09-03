@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Redefining service excellence: Canada Life’s AI-p
 slug: aws-re-invent-2025-redefining-service-excellence-canada
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: IFIk6dk-8fI
 url: https://www.youtube.com/watch?v=IFIk6dk-8fI
 youtube_url: https://www.youtube.com/watch?v=IFIk6dk-8fI
 tags: []
+topics: []
 transcript: false
 ---
 

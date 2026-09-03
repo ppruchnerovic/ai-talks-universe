@@ -4,7 +4,7 @@ title: "Panel On Red Teaming AI - #RSAC 2024 OWASP LLM Apps Top 10 Generative AI
 slug: panel-on-red-teaming-ai-rsac-2024-owasp-llm-apps-top-10
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: htba_b-vxxE
 url: https://www.youtube.com/watch?v=htba_b-vxxE
 youtube_url: https://www.youtube.com/watch?v=htba_b-vxxE
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

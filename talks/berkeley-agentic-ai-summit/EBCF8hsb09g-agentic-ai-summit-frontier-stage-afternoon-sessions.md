@@ -4,7 +4,7 @@ title: "Agentic AI Summit - Frontier Stage, Afternoon Sessions"
 slug: agentic-ai-summit-frontier-stage-afternoon-sessions
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: EBCF8hsb09g
 url: https://www.youtube.com/watch?v=EBCF8hsb09g
 youtube_url: https://www.youtube.com/watch?v=EBCF8hsb09g
 tags: ["UC Berkeley", "Agentic AI Summit", "Artificial Intelligence", "Berkeley Center for Responsible Decentralized Intelligence", "LLM Agents MOOC", "future"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

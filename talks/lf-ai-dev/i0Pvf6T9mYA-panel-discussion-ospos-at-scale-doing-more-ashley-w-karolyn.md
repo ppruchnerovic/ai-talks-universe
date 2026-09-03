@@ -4,7 +4,7 @@ title: "Panel Discussion: OSPOs at Scale: Doing More... Ashley W, Karolyn M, Nat
 slug: panel-discussion-ospos-at-scale-doing-more-ashley-w-karolyn
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: i0Pvf6T9mYA
 url: https://www.youtube.com/watch?v=i0Pvf6T9mYA
 youtube_url: https://www.youtube.com/watch?v=i0Pvf6T9mYA
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

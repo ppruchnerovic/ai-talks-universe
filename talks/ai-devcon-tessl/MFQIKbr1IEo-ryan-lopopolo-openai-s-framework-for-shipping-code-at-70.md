@@ -4,7 +4,7 @@ title: "Ryan Lopopolo: OpenAI's Framework for Shipping Code at 70 PRs/Week"
 slug: ryan-lopopolo-openai-s-framework-for-shipping-code-at-70
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: MFQIKbr1IEo
 url: https://www.youtube.com/watch?v=MFQIKbr1IEo
 youtube_url: https://www.youtube.com/watch?v=MFQIKbr1IEo
 tags: ["AI Development", "AI Native DevCon", "AI Native DevCon London 2026", "AI agent trust building", "AIDevCon", "Agentic Coding", "Coding Agents", "OpenAI", "OpenAI Harness Engineering", "PR Throughput", "ainativedev", "anti-slopification CI loop", "how to improve PR throughput", "no-human-written code approach", "what is Harness Engineering"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

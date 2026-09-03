@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - From Lab to Market - AstraZeneca's Enterprise-Wide 
 slug: aws-re-invent-2025-from-lab-to-market-astrazeneca-s
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: EFXkgy3Fd_c
 url: https://www.youtube.com/watch?v=EFXkgy3Fd_c
 youtube_url: https://www.youtube.com/watch?v=EFXkgy3Fd_c
 tags: []
+topics: []
 transcript: false
 ---
 

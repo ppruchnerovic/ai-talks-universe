@@ -4,7 +4,7 @@ title: "Simplifying Serverless with AI-Powered CLI Tools • Todd Shaffer • GO
 slug: simplifying-serverless-with-ai-powered-cli-tools-todd
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Todd Shaffer"]
@@ -15,6 +15,7 @@ video_id: W6f8nslLYzk
 url: https://www.youtube.com/watch?v=W6f8nslLYzk
 youtube_url: https://www.youtube.com/watch?v=W6f8nslLYzk
 tags: []
+topics: []
 transcript: false
 ---
 

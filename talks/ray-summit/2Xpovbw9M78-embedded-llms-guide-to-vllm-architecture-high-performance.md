@@ -4,7 +4,7 @@ title: "Embedded LLM’s Guide to vLLM Architecture & High-Performance Serving |
 slug: embedded-llms-guide-to-vllm-architecture-high-performance
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2Xpovbw9M78
 url: https://www.youtube.com/watch?v=2Xpovbw9M78
 youtube_url: https://www.youtube.com/watch?v=2Xpovbw9M78
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

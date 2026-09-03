@@ -4,7 +4,7 @@ title: "The Hyperscale Uncertainty Principle: Debugging Tail Latency in a Trilli
 slug: the-hyperscale-uncertainty-principle-debugging-tail-latency
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: hpFqElHNLaY
 url: https://www.youtube.com/watch?v=hpFqElHNLaY
 youtube_url: https://www.youtube.com/watch?v=hpFqElHNLaY
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

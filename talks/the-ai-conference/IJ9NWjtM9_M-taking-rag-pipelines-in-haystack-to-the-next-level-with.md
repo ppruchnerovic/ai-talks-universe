@@ -4,7 +4,7 @@ title: "Taking RAG Pipelines in Haystack to the Next Level With Document Ranking
 slug: taking-rag-pipelines-in-haystack-to-the-next-level-with
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: IJ9NWjtM9_M
 url: https://www.youtube.com/watch?v=IJ9NWjtM9_M
 youtube_url: https://www.youtube.com/watch?v=IJ9NWjtM9_M
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

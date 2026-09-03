@@ -4,7 +4,7 @@ title: "Keynote - Build-to-own AI: Agentic Development for Humans"
 slug: keynote-build-to-own-ai-agentic-development-for-humans
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: _36H0I4dG2g
 url: https://www.youtube.com/watch?v=_36H0I4dG2g
 youtube_url: https://www.youtube.com/watch?v=_36H0I4dG2g
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Classic ML & data science"]
 transcript: true
 ---
 

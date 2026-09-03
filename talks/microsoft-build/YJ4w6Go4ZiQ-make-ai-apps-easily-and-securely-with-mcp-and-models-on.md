@@ -4,7 +4,7 @@ title: "Make AI apps easily and securely with MCP and Models on Docker | DEMFP79
 slug: make-ai-apps-easily-and-securely-with-mcp-and-models-on
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YJ4w6Go4ZiQ
 url: https://www.youtube.com/watch?v=YJ4w6Go4ZiQ
 youtube_url: https://www.youtube.com/watch?v=YJ4w6Go4ZiQ
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

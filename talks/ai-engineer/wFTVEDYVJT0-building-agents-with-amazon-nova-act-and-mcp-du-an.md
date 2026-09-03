@@ -4,7 +4,7 @@ title: "Building Agents with Amazon Nova Act and MCP - Du'An Lightfoot, Amazon (
 slug: building-agents-with-amazon-nova-act-and-mcp-du-an
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: wFTVEDYVJT0
 url: https://www.youtube.com/watch?v=wFTVEDYVJT0
 youtube_url: https://www.youtube.com/watch?v=wFTVEDYVJT0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

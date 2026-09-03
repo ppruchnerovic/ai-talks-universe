@@ -4,7 +4,7 @@ title: "Lightning Talk: AI vs. AI: They're Already Inside"
 slug: lightning-talk-ai-vs-ai-they-re-already-inside
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: v5O9czdvHbo
 url: https://www.youtube.com/watch?v=v5O9czdvHbo
 youtube_url: https://www.youtube.com/watch?v=v5O9czdvHbo
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

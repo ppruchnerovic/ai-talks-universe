@@ -4,7 +4,7 @@ title: "AI, MCP, and Enterprise Workflows | Steve Manuel"
 slug: ai-mcp-and-enterprise-workflows-steve-manuel
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Steve Manuel"]
@@ -15,6 +15,7 @@ video_id: rGp8QJNPlr8
 url: https://www.youtube.com/watch?v=rGp8QJNPlr8
 youtube_url: https://www.youtube.com/watch?v=rGp8QJNPlr8
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

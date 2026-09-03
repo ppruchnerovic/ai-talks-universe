@@ -4,7 +4,7 @@ title: "OpenAI DevDay: Opening Keynote"
 slug: openai-devday-opening-keynote
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: U9mJuUkhUzk
 url: https://www.youtube.com/watch?v=U9mJuUkhUzk
 youtube_url: https://www.youtube.com/watch?v=U9mJuUkhUzk
 tags: []
+topics: []
 transcript: false
 ---
 

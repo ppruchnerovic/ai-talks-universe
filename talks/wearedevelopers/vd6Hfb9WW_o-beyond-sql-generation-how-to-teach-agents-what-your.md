@@ -4,7 +4,7 @@ title: "Beyond SQL Generation: How to Teach Agents What Your Database Actually M
 slug: beyond-sql-generation-how-to-teach-agents-what-your
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Celeste Horgan"]
@@ -15,6 +15,7 @@ video_id: vd6Hfb9WW_o
 url: https://www.youtube.com/watch?v=vd6Hfb9WW_o
 youtube_url: https://www.youtube.com/watch?v=vd6Hfb9WW_o
 tags: ["Data & Databases", "AI Coding Assistants", "Databases"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Data engineering & MLOps"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "How Clay runs 350 million GTM agents a month | Interrupt 26"
 slug: how-clay-runs-350-million-gtm-agents-a-month-interrupt-26
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: LmQtSORYPfw
 url: https://www.youtube.com/watch?v=LmQtSORYPfw
 youtube_url: https://www.youtube.com/watch?v=LmQtSORYPfw
 tags: ["Clay GTM agents", "go-to-market AI", "scaling AI agents", "LLM production", "agent infrastructure", "LangGraph", "LangSmith", "AI at scale", "go-to-market alpha", "outbound AI", "LLM caching", "agent cost optimization", "Jeff Bard Clay", "LangChain conference", "AI agents production", "rate limits LLM", "token cost reduction", "agent quality evals", "GTM engineering", "Clay Claygent"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

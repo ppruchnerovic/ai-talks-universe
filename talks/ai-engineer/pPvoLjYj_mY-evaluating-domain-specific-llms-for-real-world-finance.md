@@ -4,7 +4,7 @@ title: "Evaluating Domain Specific LLMs for Real World Finance — Waseem Alshik
 slug: evaluating-domain-specific-llms-for-real-world-finance
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Waseem Alshikh"]
@@ -15,6 +15,7 @@ video_id: pPvoLjYj_mY
 url: https://www.youtube.com/watch?v=pPvoLjYj_mY
 youtube_url: https://www.youtube.com/watch?v=pPvoLjYj_mY
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

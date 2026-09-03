@@ -4,7 +4,7 @@ title: "AI Operations to own the fleet master the mission in Microsoft Foundry |
 slug: ai-operations-to-own-the-fleet-master-the-mission-in
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ken Archer", "Sarah Bird", "Florent Ricci"]
@@ -15,6 +15,7 @@ video_id: oOO6OG4biEY
 url: https://www.youtube.com/watch?v=oOO6OG4biEY
 youtube_url: https://www.youtube.com/watch?v=oOO6OG4biEY
 tags: ["AI Operations to own the fleet master the mission in Microsoft Foundry | BRK205", "BRK205", "BRK205_v1", "English (US)", "Florent Ricci", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Ken Archer", "Sarah Bird", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

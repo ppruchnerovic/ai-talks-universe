@@ -4,7 +4,7 @@ title: "Keynote: Navigating Turbulent Waters of AI: Building a Secure and Safe F
 slug: keynote-navigating-turbulent-waters-of-ai-building-a-secure
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Dan Lorenc"]
@@ -15,6 +15,7 @@ video_id: n1BNeMVh9-8
 url: https://www.youtube.com/watch?v=n1BNeMVh9-8
 youtube_url: https://www.youtube.com/watch?v=n1BNeMVh9-8
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

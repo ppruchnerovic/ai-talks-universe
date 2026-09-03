@@ -4,7 +4,7 @@ title: "Bootstrapping Your Company | Peter Sarlin (Silo AI)"
 slug: bootstrapping-your-company-peter-sarlin-silo-ai
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: ["Peter Sarlin"]
@@ -15,6 +15,7 @@ video_id: U4RmrEr0X3I
 url: https://www.youtube.com/watch?v=U4RmrEr0X3I
 youtube_url: https://www.youtube.com/watch?v=U4RmrEr0X3I
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Slush 2019", "Venture Capital", "Innovation", "Growth", "Business"]
+topics: []
 transcript: false
 ---
 

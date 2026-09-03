@@ -4,7 +4,7 @@ title: "Investing in Open Source: The Open Source Pledge and Why it Matters"
 slug: investing-in-open-source-the-open-source-pledge-and-why-it
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: vjzAuNQNWAU
 url: https://www.youtube.com/watch?v=vjzAuNQNWAU
 youtube_url: https://www.youtube.com/watch?v=vjzAuNQNWAU
 tags: []
+topics: []
 transcript: false
 ---
 

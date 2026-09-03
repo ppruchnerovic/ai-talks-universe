@@ -4,7 +4,7 @@ title: "OmnibusCyber: a schema-ready strongly typed database to model all cyber 
 slug: omnibuscyber-a-schema-ready-strongly-typed-database-to
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
@@ -15,6 +15,7 @@ video_id: gO3Q7fCoOdU
 url: https://www.youtube.com/watch?v=gO3Q7fCoOdU
 youtube_url: https://www.youtube.com/watch?v=gO3Q7fCoOdU
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Under the hood of Microsoft AI models | DEM323"
 slug: under-the-hood-of-microsoft-ai-models-dem323
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Dave Citron"]
@@ -15,6 +15,7 @@ video_id: 5vz1pUSpRAE
 url: https://www.youtube.com/watch?v=5vz1pUSpRAE
 youtube_url: https://www.youtube.com/watch?v=5vz1pUSpRAE
 tags: ["737e6687-341c-48f1-955a-62f5f84e88a1_M9Z7-DEM323-1", "AI Toolkit", "DEM323", "Dave Citron", "Microsoft Foundry", "Microsoft for Startups", "Under the hood of Microsoft AI models | DEM323", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Web3 + AI: Agents that mean business (DAT318)"
 slug: aws-re-invent-2025-web3-ai-agents-that-mean-business-dat318
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: wuB3Sq5AWo8
 url: https://www.youtube.com/watch?v=wuB3Sq5AWo8
 youtube_url: https://www.youtube.com/watch?v=wuB3Sq5AWo8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

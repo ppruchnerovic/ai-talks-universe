@@ -4,7 +4,7 @@ title: "How Uber Built AI Agents That Save 21,000 Developer Hours with LangGraph
 slug: how-uber-built-ai-agents-that-save-21-000-developer-hours
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Bugs0dVcNI8
 url: https://www.youtube.com/watch?v=Bugs0dVcNI8
 youtube_url: https://www.youtube.com/watch?v=Bugs0dVcNI8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

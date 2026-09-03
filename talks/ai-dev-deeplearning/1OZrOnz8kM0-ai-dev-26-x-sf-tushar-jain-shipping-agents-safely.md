@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Tushar Jain: Shipping Agents Safely, Boundaries That Ac
 slug: ai-dev-26-x-sf-tushar-jain-shipping-agents-safely
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1OZrOnz8kM0
 url: https://www.youtube.com/watch?v=1OZrOnz8kM0
 youtube_url: https://www.youtube.com/watch?v=1OZrOnz8kM0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

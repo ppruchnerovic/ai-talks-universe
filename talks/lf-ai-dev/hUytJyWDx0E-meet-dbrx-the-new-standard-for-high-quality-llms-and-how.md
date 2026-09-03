@@ -4,7 +4,7 @@ title: "Meet DBRX, the New Standard for High-quality LLMs, and How... - Anastasi
 slug: meet-dbrx-the-new-standard-for-high-quality-llms-and-how
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Anastasia Prokaieva", "Niall Turbitt"]
@@ -15,6 +15,7 @@ video_id: hUytJyWDx0E
 url: https://www.youtube.com/watch?v=hUytJyWDx0E
 youtube_url: https://www.youtube.com/watch?v=hUytJyWDx0E
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

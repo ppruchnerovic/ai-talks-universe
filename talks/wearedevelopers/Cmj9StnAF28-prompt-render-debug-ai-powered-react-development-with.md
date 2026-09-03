@@ -4,7 +4,7 @@ title: "Prompt, Render, Debug: AI-Powered React Development with Chrome DevTools
 slug: prompt-render-debug-ai-powered-react-development-with
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Suchitra Swain"]
@@ -15,6 +15,7 @@ video_id: Cmj9StnAF28
 url: https://www.youtube.com/watch?v=Cmj9StnAF28
 youtube_url: https://www.youtube.com/watch?v=Cmj9StnAF28
 tags: ["Frontend, Web & Mobile", "AI Coding Assistants", "AI Standards", "Edge AI", "React"]
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

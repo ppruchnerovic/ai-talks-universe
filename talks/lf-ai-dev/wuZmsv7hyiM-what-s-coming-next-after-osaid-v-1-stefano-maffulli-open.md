@@ -4,7 +4,7 @@ title: "What's Coming Next After OSAID V.1 - Stefano Maffulli, Open Source Initi
 slug: what-s-coming-next-after-osaid-v-1-stefano-maffulli-open
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Stefano Maffulli"]
@@ -15,6 +15,7 @@ video_id: wuZmsv7hyiM
 url: https://www.youtube.com/watch?v=wuZmsv7hyiM
 youtube_url: https://www.youtube.com/watch?v=wuZmsv7hyiM
 tags: []
+topics: []
 transcript: false
 ---
 

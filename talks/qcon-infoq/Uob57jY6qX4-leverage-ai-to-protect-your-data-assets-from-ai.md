@@ -4,7 +4,7 @@ title: "Leverage AI to Protect Your Data Assets... from AI"
 slug: leverage-ai-to-protect-your-data-assets-from-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Uob57jY6qX4
 url: https://www.youtube.com/watch?v=Uob57jY6qX4
 youtube_url: https://www.youtube.com/watch?v=Uob57jY6qX4
 tags: ["AI", "Artificial Intelligence", "Generative AI", "Data Engineering", "Cyber Security", "RAG", "LLM", "Data Protection", "MLOps"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

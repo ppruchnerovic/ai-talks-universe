@@ -4,7 +4,7 @@ title: "Simplify AI development maximizing the power of local models and MCPs | 
 slug: simplify-ai-development-maximizing-the-power-of-local
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: R-cJ5HO-rkc
 url: https://www.youtube.com/watch?v=R-cJ5HO-rkc
 youtube_url: https://www.youtube.com/watch?v=R-cJ5HO-rkc
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Unlock Copilot with Purview data security and BDO Digital | ODFP927"
 slug: unlock-copilot-with-purview-data-security-and-bdo-digital
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Wayne Anderson"]
@@ -15,6 +15,7 @@ video_id: 49qs7gXCaBk
 url: https://www.youtube.com/watch?v=49qs7gXCaBk
 youtube_url: https://www.youtube.com/watch?v=49qs7gXCaBk
 tags: ["AI", "Advanced (300)", "Copilot", "Data Security", "Data governance", "English (US)", "Microsoft Copilot", "Microsoft Purview", "ODFP927", "Pre-recorded", "Security", "Technical", "Unlock Copilot with Purview data security and BDO Digital | ODFP927", "Version v1", "Wayne Anderson", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

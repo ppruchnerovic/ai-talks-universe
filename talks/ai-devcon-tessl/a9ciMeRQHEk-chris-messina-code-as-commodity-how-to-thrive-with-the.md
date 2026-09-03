@@ -4,7 +4,7 @@ title: "Chris Messina - Code As Commodity: How To Thrive With The Medium Of Gene
 slug: chris-messina-code-as-commodity-how-to-thrive-with-the
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Chris Messina"]
@@ -15,6 +15,7 @@ video_id: a9ciMeRQHEk
 url: https://www.youtube.com/watch?v=a9ciMeRQHEk
 youtube_url: https://www.youtube.com/watch?v=a9ciMeRQHEk
 tags: ["ainativedev"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

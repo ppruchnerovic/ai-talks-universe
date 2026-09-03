@@ -4,7 +4,7 @@ title: "Agents in the Enterprise with MongoDB | Interrupt 26"
 slug: agents-in-the-enterprise-with-mongodb-interrupt-26
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: k4l-rtwezVg
 url: https://www.youtube.com/watch?v=k4l-rtwezVg
 youtube_url: https://www.youtube.com/watch?v=k4l-rtwezVg
 tags: ["MongoDB", "LangChain", "AI agents", "enterprise AI", "agentic AI", "LLM applications", "vector search", "hybrid search", "RAG", "retrieval augmented generation", "AI infrastructure", "open source AI", "agent memory", "context layer", "ElevenLabs", "Adobe", "AI native startups", "coding agents", "token cost", "AI productivity", "CJ Desai", "Harrison Chase", "fireside chat", "enterprise software", "headless APIs", "system of intelligence", "open memory", "LangSmith", "AI orchestration", "multi-agent systems", "customer-facing agents"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

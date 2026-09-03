@@ -4,7 +4,7 @@ title: "OpenAI DevDay 2024 | Community Spotlight | Dust"
 slug: openai-devday-2024-community-spotlight-dust
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: RNcXWPCaLqg
 url: https://www.youtube.com/watch?v=RNcXWPCaLqg
 youtube_url: https://www.youtube.com/watch?v=RNcXWPCaLqg
 tags: []
+topics: []
 transcript: false
 ---
 

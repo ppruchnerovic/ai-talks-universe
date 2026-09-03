@@ -4,7 +4,7 @@ title: "Instant PR Feedback Without leaving GitHub | Merrill Lutsky on Graphite"
 slug: instant-pr-feedback-without-leaving-github-merrill-lutsky
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: kH_Z_k6hIwg
 url: https://www.youtube.com/watch?v=kH_Z_k6hIwg
 youtube_url: https://www.youtube.com/watch?v=kH_Z_k6hIwg
 tags: ["ai", "ainativedev", "code", "coding", "github", "native", "pod", "podcast", "tech", "technology", "uk"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

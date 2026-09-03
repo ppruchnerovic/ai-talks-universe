@@ -4,7 +4,7 @@ title: "The Friction is Your Judgment — Armin Ronacher & Cristina Poncela Cube
 slug: the-friction-is-your-judgment-armin-ronacher-cristina
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Armin Ronacher", "Cristina Poncela Cubeiro"]
@@ -15,6 +15,7 @@ video_id: _Zcw_sVF6hU
 url: https://www.youtube.com/watch?v=_Zcw_sVF6hU
 youtube_url: https://www.youtube.com/watch?v=_Zcw_sVF6hU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

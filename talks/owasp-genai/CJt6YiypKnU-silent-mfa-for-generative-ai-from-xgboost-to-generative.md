@@ -4,7 +4,7 @@ title: "Silent MFA for Generative AI From XGBoost to Generative Threat Detection
 slug: silent-mfa-for-generative-ai-from-xgboost-to-generative
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: CJt6YiypKnU
 url: https://www.youtube.com/watch?v=CJt6YiypKnU
 youtube_url: https://www.youtube.com/watch?v=CJt6YiypKnU
 tags: []
+topics: ["Classic ML & data science", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

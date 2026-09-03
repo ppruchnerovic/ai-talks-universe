@@ -4,7 +4,7 @@ title: "Under the Hood of Building on Lovable"
 slug: under-the-hood-of-building-on-lovable
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Fabian Hedin"]
@@ -15,6 +15,7 @@ video_id: heVaZ1SpldA
 url: https://www.youtube.com/watch?v=heVaZ1SpldA
 youtube_url: https://www.youtube.com/watch?v=heVaZ1SpldA
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Pushing limits of supercomputing innovation on Azure AI Infra | BRK181"
 slug: pushing-limits-of-supercomputing-innovation-on-azure-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Hugo Affaticati", "Nitin Nagarkatte"]
@@ -15,6 +15,7 @@ video_id: _NRldsqv__w
 url: https://www.youtube.com/watch?v=_NRldsqv__w
 youtube_url: https://www.youtube.com/watch?v=_NRldsqv__w
 tags: ["8cd571f3-80f6-4395-ad95-32f194851f36_Segment", "BRK181", "English (US)", "Hugo Affaticati", "Migrate and modernize your estate", "Nitin Nagarkatte", "Pushing limits of supercomputing innovation on Azure AI Infra | BRK181", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

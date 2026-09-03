@@ -4,7 +4,7 @@ title: "GPU-less, Trust-less, Limit-less: Reimagining the Confidential AI Cloud 
 slug: gpu-less-trust-less-limit-less-reimagining-the-confidential
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mike Bursell"]
@@ -15,6 +15,7 @@ video_id: A0PxE39xaMc
 url: https://www.youtube.com/watch?v=A0PxE39xaMc
 youtube_url: https://www.youtube.com/watch?v=A0PxE39xaMc
 tags: []
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

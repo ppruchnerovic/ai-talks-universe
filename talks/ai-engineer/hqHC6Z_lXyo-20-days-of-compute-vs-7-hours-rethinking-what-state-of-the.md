@@ -4,7 +4,7 @@ title: "20 days of compute vs 7 hours: rethinking what state-of-the-art means â€
 slug: 20-days-of-compute-vs-7-hours-rethinking-what-state-of-the
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Bertrand Charpentier"]
@@ -15,6 +15,7 @@ video_id: hqHC6Z_lXyo
 url: https://www.youtube.com/watch?v=hqHC6Z_lXyo
 youtube_url: https://www.youtube.com/watch?v=hqHC6Z_lXyo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

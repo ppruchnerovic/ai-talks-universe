@@ -4,7 +4,7 @@ title: "Nick Radcliffe - Test-Driven Data Analysis | Pydata London 26"
 slug: nick-radcliffe-test-driven-data-analysis-pydata-london-26
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Nick Radcliffe"]
@@ -15,6 +15,7 @@ video_id: EH0WpGFAV_g
 url: https://www.youtube.com/watch?v=EH0WpGFAV_g
 youtube_url: https://www.youtube.com/watch?v=EH0WpGFAV_g
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

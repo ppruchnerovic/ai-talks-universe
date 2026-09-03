@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC Nicholas Clegg: How AWS Moved Beyond Orchestration with 
 slug: ai-dev-25-x-nyc-nicholas-clegg-how-aws-moved-beyond
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: lVgrowsPASU
 url: https://www.youtube.com/watch?v=lVgrowsPASU
 youtube_url: https://www.youtube.com/watch?v=lVgrowsPASU
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

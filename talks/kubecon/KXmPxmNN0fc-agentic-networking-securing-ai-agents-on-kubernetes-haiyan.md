@@ -4,7 +4,7 @@ title: "Agentic Networking: Securing AI Agents on Kubernetes - Haiyan Meng, Goog
 slug: agentic-networking-securing-ai-agents-on-kubernetes-haiyan
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Haiyan Meng"]
@@ -15,6 +15,7 @@ video_id: KXmPxmNN0fc
 url: https://www.youtube.com/watch?v=KXmPxmNN0fc
 youtube_url: https://www.youtube.com/watch?v=KXmPxmNN0fc
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

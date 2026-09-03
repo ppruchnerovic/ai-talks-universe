@@ -4,7 +4,7 @@ title: "Easily Add GenAI to .NET Apps using Microsoft.Extensions.AI - Brandon Mi
 slug: easily-add-genai-to-net-apps-using-microsoft-extensions-ai
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Brandon Minnick"]
@@ -15,6 +15,7 @@ video_id: sgrsopf-fzo
 url: https://www.youtube.com/watch?v=sgrsopf-fzo
 youtube_url: https://www.youtube.com/watch?v=sgrsopf-fzo
 tags: []
+topics: []
 transcript: false
 ---
 

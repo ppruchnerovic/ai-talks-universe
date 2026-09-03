@@ -4,7 +4,7 @@ title: "Deploying Efficient Data centric AI 100x Faster"
 slug: deploying-efficient-data-centric-ai-100x-faster
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: h5FyRze_z7o
 url: https://www.youtube.com/watch?v=h5FyRze_z7o
 youtube_url: https://www.youtube.com/watch?v=h5FyRze_z7o
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

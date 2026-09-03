@@ -4,7 +4,7 @@ title: "What's new with Gemini from Google DeepMind"
 slug: what-s-new-with-gemini-from-google-deepmind
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["David Thacker", "Michael Gerstenhaber", "Michele Catasta"]
@@ -15,6 +15,7 @@ video_id: 92LvgAcR6fI
 url: https://www.youtube.com/watch?v=92LvgAcR6fI
 youtube_url: https://www.youtube.com/watch?v=92LvgAcR6fI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

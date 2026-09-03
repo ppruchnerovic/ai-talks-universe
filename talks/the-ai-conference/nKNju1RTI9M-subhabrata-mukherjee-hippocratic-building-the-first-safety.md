@@ -4,7 +4,7 @@ title: "Subhabrata Mukherjee, Hippocratic:Building the first Safety-focused Conv
 slug: subhabrata-mukherjee-hippocratic-building-the-first-safety
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: nKNju1RTI9M
 url: https://www.youtube.com/watch?v=nKNju1RTI9M
 youtube_url: https://www.youtube.com/watch?v=nKNju1RTI9M
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

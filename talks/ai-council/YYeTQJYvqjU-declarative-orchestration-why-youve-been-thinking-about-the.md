@@ -4,7 +4,7 @@ title: "Declarative Orchestration: Why You’ve Been Thinking About the Wrong DA
 slug: declarative-orchestration-why-youve-been-thinking-about-the
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Pete Hunt"]
@@ -15,6 +15,7 @@ video_id: YYeTQJYvqjU
 url: https://www.youtube.com/watch?v=YYeTQJYvqjU
 youtube_url: https://www.youtube.com/watch?v=YYeTQJYvqjU
 tags: ["machine learning", "computer vision", "AI"]
+topics: []
 transcript: false
 ---
 

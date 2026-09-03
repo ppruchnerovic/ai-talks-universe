@@ -4,7 +4,7 @@ title: "Unbundling of the Cloud Data Warehouse"
 slug: unbundling-of-the-cloud-data-warehouse
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Tanya Bragin"]
@@ -15,6 +15,7 @@ video_id: 9wo4ZYge23k
 url: https://www.youtube.com/watch?v=9wo4ZYge23k
 youtube_url: https://www.youtube.com/watch?v=9wo4ZYge23k
 tags: ["ClickHouse tutorial", "cloud data warehouse", "ChatGPT", "artificial intelligence", "machine learning", "data engineering tutorial", "database tutorial", "SQL tutorial", "big data", "open source", "cost optimization", "vendor lock in", "data architecture", "modern data stack", "Python", "columnar database", "OLAP", "analytical queries", "real time analytics", "data compression", "query performance", "distributed computing", "cluster management", "data replication"]
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

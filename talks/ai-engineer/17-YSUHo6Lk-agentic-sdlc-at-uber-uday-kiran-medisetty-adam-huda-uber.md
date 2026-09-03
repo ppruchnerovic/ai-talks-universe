@@ -4,7 +4,7 @@ title: "Agentic SDLC at Uber — Uday Kiran Medisetty & Adam Huda, Uber"
 slug: agentic-sdlc-at-uber-uday-kiran-medisetty-adam-huda-uber
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Uday Kiran Medisetty", "Adam Huda"]
@@ -15,6 +15,7 @@ video_id: 17-YSUHo6Lk
 url: https://www.youtube.com/watch?v=17-YSUHo6Lk
 youtube_url: https://www.youtube.com/watch?v=17-YSUHo6Lk
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

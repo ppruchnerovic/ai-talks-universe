@@ -4,7 +4,7 @@ title: "Why Rust Will Help You Deliver Better Low-latency Systems and Happier De
 slug: why-rust-will-help-you-deliver-better-low-latency-systems
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: UbgX100pl4k
 url: https://www.youtube.com/watch?v=UbgX100pl4k
 youtube_url: https://www.youtube.com/watch?v=UbgX100pl4k
 tags: []
+topics: []
 transcript: false
 ---
 

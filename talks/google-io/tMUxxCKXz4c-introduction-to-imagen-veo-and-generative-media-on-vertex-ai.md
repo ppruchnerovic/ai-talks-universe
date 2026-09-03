@@ -4,7 +4,7 @@ title: "Introduction to Imagen, Veo, and Generative Media on Vertex AI"
 slug: introduction-to-imagen-veo-and-generative-media-on-vertex-ai
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: tMUxxCKXz4c
 url: https://www.youtube.com/watch?v=tMUxxCKXz4c
 youtube_url: https://www.youtube.com/watch?v=tMUxxCKXz4c
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

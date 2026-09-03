@@ -4,7 +4,7 @@ title: "Chemical Language Modeling with Structured State Spaces | AI and the Mol
 slug: chemical-language-modeling-with-structured-state-spaces-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: XeLeW2dnZmM
 url: https://www.youtube.com/watch?v=XeLeW2dnZmM
 youtube_url: https://www.youtube.com/watch?v=XeLeW2dnZmM
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

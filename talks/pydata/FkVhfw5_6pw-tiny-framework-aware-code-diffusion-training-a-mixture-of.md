@@ -4,7 +4,7 @@ title: "Tiny, Framework-Aware Code Diffusion: Training a Mixture-of-Experts on a
 slug: tiny-framework-aware-code-diffusion-training-a-mixture-of
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: FkVhfw5_6pw
 url: https://www.youtube.com/watch?v=FkVhfw5_6pw
 youtube_url: https://www.youtube.com/watch?v=FkVhfw5_6pw
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

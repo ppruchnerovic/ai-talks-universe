@@ -4,7 +4,7 @@ title: "Insights from The State of AI Report 2023 - Corina Gurau, Air Street Cap
 slug: insights-from-the-state-of-ai-report-2023-corina-gurau-air
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Corina Gurau"]
@@ -15,6 +15,7 @@ video_id: Ge99fqjD8HY
 url: https://www.youtube.com/watch?v=Ge99fqjD8HY
 youtube_url: https://www.youtube.com/watch?v=Ge99fqjD8HY
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

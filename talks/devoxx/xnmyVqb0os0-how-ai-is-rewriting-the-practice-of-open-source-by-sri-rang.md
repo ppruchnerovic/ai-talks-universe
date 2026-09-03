@@ -4,7 +4,7 @@ title: "How AI Is Rewriting the Practice of Open Source by Sri Rang"
 slug: how-ai-is-rewriting-the-practice-of-open-source-by-sri-rang
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Sri Rang"]
@@ -15,6 +15,7 @@ video_id: xnmyVqb0os0
 url: https://www.youtube.com/watch?v=xnmyVqb0os0
 youtube_url: https://www.youtube.com/watch?v=xnmyVqb0os0
 tags: []
+topics: []
 transcript: true
 ---
 

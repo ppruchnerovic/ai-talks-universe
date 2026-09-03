@@ -4,7 +4,7 @@ title: "Power autonomous IT with TeamViewer AI | STUDIOSP90"
 slug: power-autonomous-it-with-teamviewer-ai-studiosp90
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sebastian Schroetel"]
@@ -15,6 +15,7 @@ video_id: MSMmAhLZEn4
 url: https://www.youtube.com/watch?v=MSMmAhLZEn4
 youtube_url: https://www.youtube.com/watch?v=MSMmAhLZEn4
 tags: ["English (US)", "Manufacturing and Mobility", "Power autonomous IT with TeamViewer AI | STUDIOSP90", "STUDIOSP90", "STUDIOSP90_v1", "Sebastian Schroetel", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

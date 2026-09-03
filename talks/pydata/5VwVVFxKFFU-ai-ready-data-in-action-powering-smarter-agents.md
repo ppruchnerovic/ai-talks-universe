@@ -4,7 +4,7 @@ title: "AI-Ready Data in Action: Powering Smarter Agents"
 slug: ai-ready-data-in-action-powering-smarter-agents
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Violetta Mishechkina"]
@@ -15,6 +15,7 @@ video_id: 5VwVVFxKFFU
 url: https://www.youtube.com/watch?v=5VwVVFxKFFU
 youtube_url: https://www.youtube.com/watch?v=5VwVVFxKFFU
 tags: ["AI agents", "AI data pipelines", "Conference", "LanceDB", "PyCon", "PyConDE", "PyData", "Python", "RAG", "Tech Talk", "data engineering", "data ingestion", "dltHub", "embeddings", "hybrid retrieval", "machine learning", "semantic search", "tutorial", "vector search"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

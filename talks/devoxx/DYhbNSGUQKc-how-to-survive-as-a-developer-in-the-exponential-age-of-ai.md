@@ -4,7 +4,7 @@ title: "How to survive as a developer in the exponential age of AI by Sander Hoo
 slug: how-to-survive-as-a-developer-in-the-exponential-age-of-ai
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Sander Hoogendoorn"]
@@ -15,6 +15,7 @@ video_id: DYhbNSGUQKc
 url: https://www.youtube.com/watch?v=DYhbNSGUQKc
 youtube_url: https://www.youtube.com/watch?v=DYhbNSGUQKc
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

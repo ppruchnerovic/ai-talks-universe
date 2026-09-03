@@ -4,7 +4,7 @@ title: "The Anatomy of a Thriving Innovation Ecosystem"
 slug: the-anatomy-of-a-thriving-innovation-ecosystem
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Helmut Schönenberger", "Julian Teicke", "Mats Kuuskemaa", "Fanny Jimenez"]
@@ -15,6 +15,7 @@ video_id: a7N6E3kayJs
 url: https://www.youtube.com/watch?v=a7N6E3kayJs
 youtube_url: https://www.youtube.com/watch?v=a7N6E3kayJs
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

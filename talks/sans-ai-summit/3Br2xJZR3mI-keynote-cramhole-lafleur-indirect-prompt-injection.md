@@ -4,7 +4,7 @@ title: "Keynote: Cramhole, LaFleur: Indirect Prompt Injection"
 slug: keynote-cramhole-lafleur-indirect-prompt-injection
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3Br2xJZR3mI
 url: https://www.youtube.com/watch?v=3Br2xJZR3mI
 youtube_url: https://www.youtube.com/watch?v=3Br2xJZR3mI
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

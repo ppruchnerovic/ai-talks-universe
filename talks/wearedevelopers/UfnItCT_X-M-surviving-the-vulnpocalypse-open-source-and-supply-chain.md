@@ -4,7 +4,7 @@ title: "Surviving the Vulnpocalypse: Open Source and Supply Chain Security in a 
 slug: surviving-the-vulnpocalypse-open-source-and-supply-chain
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Adrian Mouat"]
@@ -15,6 +15,7 @@ video_id: UfnItCT_X-M
 url: https://www.youtube.com/watch?v=UfnItCT_X-M
 youtube_url: https://www.youtube.com/watch?v=UfnItCT_X-M
 tags: ["Security & Privacy", "AI Models", "Anthropic", "Security"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

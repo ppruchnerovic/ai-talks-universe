@@ -4,7 +4,7 @@ title: "Lightning Talk: AI as the Attack: Weaponizing APIs"
 slug: lightning-talk-ai-as-the-attack-weaponizing-apis
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3u3cECUbPu4
 url: https://www.youtube.com/watch?v=3u3cECUbPu4
 youtube_url: https://www.youtube.com/watch?v=3u3cECUbPu4
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

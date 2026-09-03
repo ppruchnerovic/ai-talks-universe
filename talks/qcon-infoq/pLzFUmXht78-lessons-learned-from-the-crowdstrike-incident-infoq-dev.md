@@ -4,7 +4,7 @@ title: "Lessons Learned From the CrowdStrike Incident: InfoQ Dev Summit Munich 2
 slug: lessons-learned-from-the-crowdstrike-incident-infoq-dev
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: pLzFUmXht78
 url: https://www.youtube.com/watch?v=pLzFUmXht78
 youtube_url: https://www.youtube.com/watch?v=pLzFUmXht78
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

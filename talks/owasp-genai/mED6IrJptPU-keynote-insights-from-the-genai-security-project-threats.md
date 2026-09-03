@@ -4,7 +4,7 @@ title: "Keynote Insights from the GenAI Security Project Threats & Adoption"
 slug: keynote-insights-from-the-genai-security-project-threats
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: mED6IrJptPU
 url: https://www.youtube.com/watch?v=mED6IrJptPU
 youtube_url: https://www.youtube.com/watch?v=mED6IrJptPU
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

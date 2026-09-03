@@ -4,7 +4,7 @@ title: "CG - On Your Ocean's 11 Team, I'm the AI Guy (or Girl)"
 slug: cg-on-your-ocean-s-11-team-i-m-the-ai-guy-or-girl
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: tq_saeZkF18
 url: https://www.youtube.com/watch?v=tq_saeZkF18
 youtube_url: https://www.youtube.com/watch?v=tq_saeZkF18
 tags: ["ZLNGMS"]
+topics: ["Multimodal, vision, speech & robotics", "Security, safety & red teaming"]
 transcript: false
 ---
 

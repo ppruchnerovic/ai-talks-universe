@@ -4,7 +4,7 @@ title: "Unlocking Peak Workload Performance & Efficiency with Ray on Kubernetes 
 slug: unlocking-peak-workload-performance-efficiency-with-ray-on
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: gHmHnrIJPPI
 url: https://www.youtube.com/watch?v=gHmHnrIJPPI
 youtube_url: https://www.youtube.com/watch?v=gHmHnrIJPPI
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

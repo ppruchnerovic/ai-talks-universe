@@ -4,7 +4,7 @@ title: "[Evals Workshop] Mastering AI Evaluation: From Playground to Production"
 slug: evals-workshop-mastering-ai-evaluation-from-playground-to
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9iN-cPnp7xg
 url: https://www.youtube.com/watch?v=9iN-cPnp7xg
 youtube_url: https://www.youtube.com/watch?v=9iN-cPnp7xg
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

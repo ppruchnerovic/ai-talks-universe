@@ -4,7 +4,7 @@ title: "From Learning to Leading: Why HR Needs a ChatGPT License"
 slug: from-learning-to-leading-why-hr-needs-a-chatgpt-license
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cDHBs2dcN3I
 url: https://www.youtube.com/watch?v=cDHBs2dcN3I
 youtube_url: https://www.youtube.com/watch?v=cDHBs2dcN3I
 tags: ["WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "chatgpt", "ai", "automation", "hr", "innovation", "regulation", "disruption", "adoption", "change", "leadership"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

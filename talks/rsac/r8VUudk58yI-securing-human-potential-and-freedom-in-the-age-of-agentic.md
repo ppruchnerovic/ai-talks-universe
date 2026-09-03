@@ -4,7 +4,7 @@ title: "Securing Human Potential and Freedom in the Age of Agentic AI"
 slug: securing-human-potential-and-freedom-in-the-age-of-agentic
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: r8VUudk58yI
 url: https://www.youtube.com/watch?v=r8VUudk58yI
 youtube_url: https://www.youtube.com/watch?v=r8VUudk58yI
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

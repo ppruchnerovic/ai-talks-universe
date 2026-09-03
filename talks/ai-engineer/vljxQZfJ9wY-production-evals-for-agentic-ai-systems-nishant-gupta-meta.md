@@ -4,7 +4,7 @@ title: "Production Evals For Agentic AI Systems - Nishant Gupta, Meta Superintel
 slug: production-evals-for-agentic-ai-systems-nishant-gupta-meta
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nishant Gupta"]
@@ -15,6 +15,7 @@ video_id: vljxQZfJ9wY
 url: https://www.youtube.com/watch?v=vljxQZfJ9wY
 youtube_url: https://www.youtube.com/watch?v=vljxQZfJ9wY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

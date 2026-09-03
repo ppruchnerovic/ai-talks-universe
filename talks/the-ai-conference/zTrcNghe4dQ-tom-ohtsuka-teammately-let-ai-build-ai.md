@@ -4,7 +4,7 @@ title: "Tom Ohtsuka, Teammately: Let AI Build AI"
 slug: tom-ohtsuka-teammately-let-ai-build-ai
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: zTrcNghe4dQ
 url: https://www.youtube.com/watch?v=zTrcNghe4dQ
 youtube_url: https://www.youtube.com/watch?v=zTrcNghe4dQ
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Prompting & context engineering", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

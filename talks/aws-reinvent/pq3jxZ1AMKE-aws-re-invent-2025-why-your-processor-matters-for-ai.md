@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Why Your Processor Matters for AI Inference and Gen
 slug: aws-re-invent-2025-why-your-processor-matters-for-ai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: pq3jxZ1AMKE
 url: https://www.youtube.com/watch?v=pq3jxZ1AMKE
 youtube_url: https://www.youtube.com/watch?v=pq3jxZ1AMKE
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

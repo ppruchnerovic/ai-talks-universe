@@ -4,7 +4,7 @@ title: "RSAC Open Workshop - Securing Agentic Apps"
 slug: rsac-open-workshop-securing-agentic-apps
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Securing Agentic Apps"]
@@ -15,6 +15,7 @@ video_id: npHi2irl44k
 url: https://www.youtube.com/watch?v=npHi2irl44k
 youtube_url: https://www.youtube.com/watch?v=npHi2irl44k
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

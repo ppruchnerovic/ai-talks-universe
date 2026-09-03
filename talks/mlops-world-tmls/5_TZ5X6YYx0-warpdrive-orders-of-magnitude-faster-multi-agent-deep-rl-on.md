@@ -4,7 +4,7 @@ title: "WarpDrive: Orders of Magnitude Faster Multi-Agent Deep RL on a GPU"
 slug: warpdrive-orders-of-magnitude-faster-multi-agent-deep-rl-on
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Stephan Zheng"]
@@ -15,6 +15,7 @@ video_id: 5_TZ5X6YYx0
 url: https://www.youtube.com/watch?v=5_TZ5X6YYx0
 youtube_url: https://www.youtube.com/watch?v=5_TZ5X6YYx0
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Inference, serving & GPU infra", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

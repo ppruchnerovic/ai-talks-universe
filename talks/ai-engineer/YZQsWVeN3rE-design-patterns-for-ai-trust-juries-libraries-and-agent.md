@@ -4,7 +4,7 @@ title: "Design Patterns for AI Trust: Juries, Libraries, and Agent Tiers — Ale
 slug: design-patterns-for-ai-trust-juries-libraries-and-agent
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Alex Bauer"]
@@ -15,6 +15,7 @@ video_id: YZQsWVeN3rE
 url: https://www.youtube.com/watch?v=YZQsWVeN3rE
 youtube_url: https://www.youtube.com/watch?v=YZQsWVeN3rE
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

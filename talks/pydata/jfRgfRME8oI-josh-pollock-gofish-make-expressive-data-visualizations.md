@@ -4,7 +4,7 @@ title: "Josh Pollock - GoFish: Make Expressive Data Visualizations with Ease (Py
 slug: josh-pollock-gofish-make-expressive-data-visualizations
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Josh Pollock"]
@@ -15,6 +15,7 @@ video_id: jfRgfRME8oI
 url: https://www.youtube.com/watch?v=jfRgfRME8oI
 youtube_url: https://www.youtube.com/watch?v=jfRgfRME8oI
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "The Agentic Web: A conversation with Jay Parikh [Part 2] | KEY035"
 slug: the-agentic-web-a-conversation-with-jay-parikh-part-2-key035
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xvZdki3FqzY
 url: https://www.youtube.com/watch?v=xvZdki3FqzY
 youtube_url: https://www.youtube.com/watch?v=xvZdki3FqzY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "SaTML 2023 - Sayanton Dibbo - Model Inversion Attack with Least Informat
 slug: satml-2023-sayanton-dibbo-model-inversion-attack-with-least
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Sayanton Dibbo"]
@@ -15,6 +15,7 @@ video_id: CrIn0we1Hvc
 url: https://www.youtube.com/watch?v=CrIn0we1Hvc
 youtube_url: https://www.youtube.com/watch?v=CrIn0we1Hvc
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Python in Climate Tech: Vehicle-to-Grid [PyCon DE & PyData 2026]"
 slug: python-in-climate-tech-vehicle-to-grid-pycon-de-pydata-2026
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: meJu96TGw5Y
 url: https://www.youtube.com/watch?v=meJu96TGw5Y
 youtube_url: https://www.youtube.com/watch?v=meJu96TGw5Y
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

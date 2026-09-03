@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025-From fragmented to unified platform: Rocket Companies
 slug: aws-re-invent-2025-from-fragmented-to-unified-platform
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: nfVRNsFIfBA
 url: https://www.youtube.com/watch?v=nfVRNsFIfBA
 youtube_url: https://www.youtube.com/watch?v=nfVRNsFIfBA
 tags: []
+topics: []
 transcript: false
 ---
 

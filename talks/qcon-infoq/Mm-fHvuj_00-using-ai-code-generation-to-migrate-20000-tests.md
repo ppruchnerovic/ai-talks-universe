@@ -4,7 +4,7 @@ title: "Using AI Code Generation to Migrate 20000 Tests"
 slug: using-ai-code-generation-to-migrate-20000-tests
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Mm-fHvuj_00
 url: https://www.youtube.com/watch?v=Mm-fHvuj_00
 youtube_url: https://www.youtube.com/watch?v=Mm-fHvuj_00
 tags: ["LLM", "Software Architecture", "AI in Software", "Code Migration", "Developer Experience", "Engineering Leadership", "React Testing Library", "Engineering Culture Podcast", "Testing", "Migration", "Code Generation", "Artificial Intelligence"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

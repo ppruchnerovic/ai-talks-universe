@@ -4,7 +4,7 @@ title: "Data Lake CDC: Are we there yet? | ClickHouse"
 slug: data-lake-cdc-are-we-there-yet-clickhouse
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: XsEBpU1lrhs
 url: https://www.youtube.com/watch?v=XsEBpU1lrhs
 youtube_url: https://www.youtube.com/watch?v=XsEBpU1lrhs
 tags: ["AI"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

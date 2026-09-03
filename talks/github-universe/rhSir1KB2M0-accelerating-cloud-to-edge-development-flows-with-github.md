@@ -4,7 +4,7 @@ title: "Accelerating cloud-to-edge development flows with GitHub Copilot and Git
 slug: accelerating-cloud-to-edge-development-flows-with-github
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: rhSir1KB2M0
 url: https://www.youtube.com/watch?v=rhSir1KB2M0
 youtube_url: https://www.youtube.com/watch?v=rhSir1KB2M0
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

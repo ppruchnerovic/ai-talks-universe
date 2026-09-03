@@ -4,7 +4,7 @@ title: "Your Enterprise RAG Has No Legal Basis"
 slug: your-enterprise-rag-has-no-legal-basis
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["David Klemme", "Tilman Mürle"]
@@ -15,6 +15,7 @@ video_id: UpwAj792WvI
 url: https://www.youtube.com/watch?v=UpwAj792WvI
 youtube_url: https://www.youtube.com/watch?v=UpwAj792WvI
 tags: ["Security & Privacy", "AI Coding Assistants", "AI Standards", "Agentic AI", "Best Practices", "Documentation", "Generative AI (GenAI)", "Governance", "Next.js", "Node.js", "PostgreSQL", "Privacy", "React", "Software Architecture", "TypeScript", "Vector Databases", "Vibe Coding"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Governance, ethics & regulation", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Make GenAI Production-Ready With Kubernetes Patterns - Roland Huss, Red 
 slug: make-genai-production-ready-with-kubernetes-patterns-roland
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Roland Huss"]
@@ -15,6 +15,7 @@ video_id: tLK5jyhQOgA
 url: https://www.youtube.com/watch?v=tLK5jyhQOgA
 youtube_url: https://www.youtube.com/watch?v=tLK5jyhQOgA
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Build Resilient GenAI & Agentic Apps with Intellige
 slug: aws-re-invent-2025-build-resilient-genai-agentic-apps-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _jxYmIrr3Xc
 url: https://www.youtube.com/watch?v=_jxYmIrr3Xc
 youtube_url: https://www.youtube.com/watch?v=_jxYmIrr3Xc
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "DIP-ECOD: Improving Anomaly Detection in Multimodal Distributions"
 slug: dip-ecod-improving-anomaly-detection-in-multimodal
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Tpsu9xpsIvs
 url: https://www.youtube.com/watch?v=Tpsu9xpsIvs
 youtube_url: https://www.youtube.com/watch?v=Tpsu9xpsIvs
 tags: []
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

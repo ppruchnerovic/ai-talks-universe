@@ -4,7 +4,7 @@ title: "Building the Database for Trillion-Scale AI Search | turbopuffer"
 slug: building-the-database-for-trillion-scale-ai-search
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: gGgZiThcGyw
 url: https://www.youtube.com/watch?v=gGgZiThcGyw
 youtube_url: https://www.youtube.com/watch?v=gGgZiThcGyw
 tags: ["AI"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

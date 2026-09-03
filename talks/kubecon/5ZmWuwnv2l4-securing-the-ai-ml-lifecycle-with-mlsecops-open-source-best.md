@@ -4,7 +4,7 @@ title: "Securing the AI/ML Lifecycle With MLSecOps: Open Source Best... Bahauldd
 slug: securing-the-ai-ml-lifecycle-with-mlsecops-open-source-best
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5ZmWuwnv2l4
 url: https://www.youtube.com/watch?v=5ZmWuwnv2l4
 youtube_url: https://www.youtube.com/watch?v=5ZmWuwnv2l4
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Synthetic Insiders: The New AI Risk to Your Org"
 slug: synthetic-insiders-the-new-ai-risk-to-your-org
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["George Proorocu"]
@@ -15,6 +15,7 @@ video_id: WumO37oMvDc
 url: https://www.youtube.com/watch?v=WumO37oMvDc
 youtube_url: https://www.youtube.com/watch?v=WumO37oMvDc
 tags: ["Security & Privacy", "AI Models", "Agentic AI", "Future of Work", "Multi-Agent Systems", "Security"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

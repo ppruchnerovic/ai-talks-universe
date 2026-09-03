@@ -4,7 +4,7 @@ title: "Azure Accelerate in action: Confidently migrate, modernize, and build fa
 slug: azure-accelerate-in-action-confidently-migrate-modernize
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Cyril Belikoff"]
@@ -15,6 +15,7 @@ video_id: oOYANh0FVLo
 url: https://www.youtube.com/watch?v=oOYANh0FVLo
 youtube_url: https://www.youtube.com/watch?v=oOYANh0FVLo
 tags: ["Azure Accelerate in action: Confidently migrate modernize and build faster | STUDIO48", "Cyril Belikoff", "English (US)", "Other", "STUDIO48", "STUDIO48_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

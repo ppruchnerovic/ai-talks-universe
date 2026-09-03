@@ -4,7 +4,7 @@ title: "Ed Chi - The Future of Personalized Universal Agents"
 slug: ed-chi-the-future-of-personalized-universal-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Ed Chi"]
@@ -15,6 +15,7 @@ video_id: BUG4FbF__nA
 url: https://www.youtube.com/watch?v=BUG4FbF__nA
 youtube_url: https://www.youtube.com/watch?v=BUG4FbF__nA
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

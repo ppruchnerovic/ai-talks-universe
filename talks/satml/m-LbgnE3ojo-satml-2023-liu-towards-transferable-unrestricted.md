@@ -4,7 +4,7 @@ title: "SaTML 2023 - Liu - Towards Transferable Unrestricted Adversarial Example
 slug: satml-2023-liu-towards-transferable-unrestricted
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: m-LbgnE3ojo
 url: https://www.youtube.com/watch?v=m-LbgnE3ojo
 youtube_url: https://www.youtube.com/watch?v=m-LbgnE3ojo
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

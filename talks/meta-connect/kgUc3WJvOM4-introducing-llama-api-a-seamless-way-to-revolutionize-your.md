@@ -4,7 +4,7 @@ title: "Introducing Llama API: A Seamless Way to Revolutionize Your Workflow"
 slug: introducing-llama-api-a-seamless-way-to-revolutionize-your
 conference: meta-connect
 conference_name: "Meta Connect + LlamaCon"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "LlamaCon 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: kgUc3WJvOM4
 url: https://www.youtube.com/watch?v=kgUc3WJvOM4
 youtube_url: https://www.youtube.com/watch?v=kgUc3WJvOM4
 tags: []
+topics: []
 transcript: false
 ---
 

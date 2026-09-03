@@ -4,7 +4,7 @@ title: "PyData Madrid June Meet-Up"
 slug: pydata-madrid-june-meet-up
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Bh7phaQGSBk
 url: https://www.youtube.com/watch?v=Bh7phaQGSBk
 youtube_url: https://www.youtube.com/watch?v=Bh7phaQGSBk
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: true
 ---
 

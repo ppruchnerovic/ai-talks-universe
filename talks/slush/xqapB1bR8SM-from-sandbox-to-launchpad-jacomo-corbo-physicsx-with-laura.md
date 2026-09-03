@@ -4,7 +4,7 @@ title: "From Sandbox to Launchpad | Jacomo Corbo (PhysicsX) with Laura Connell (
 slug: from-sandbox-to-launchpad-jacomo-corbo-physicsx-with-laura
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Jacomo Corbo"]
@@ -15,6 +15,7 @@ video_id: xqapB1bR8SM
 url: https://www.youtube.com/watch?v=xqapB1bR8SM
 youtube_url: https://www.youtube.com/watch?v=xqapB1bR8SM
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

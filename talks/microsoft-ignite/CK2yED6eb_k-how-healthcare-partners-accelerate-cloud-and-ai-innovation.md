@@ -4,7 +4,7 @@ title: "How healthcare partners accelerate cloud and AI innovation | BRK270"
 slug: how-healthcare-partners-accelerate-cloud-and-ai-innovation
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Kees Hertogh", "Feliz Fuentes Montpellier"]
@@ -15,6 +15,7 @@ video_id: CK2yED6eb_k
 url: https://www.youtube.com/watch?v=CK2yED6eb_k
 youtube_url: https://www.youtube.com/watch?v=CK2yED6eb_k
 tags: ["Azure", "Azure AI Studio", "BRK270", "Copilot", "Copilot Studio", "Custom copilot(s)", "Healthcare", "Healthcare data", "Healthcare data solutions", "How healthcare partners accelerate cloud and AI innovation | BRK270", "Industry", "Microsoft Cloud for Healthcare", "Microsoft Copilot", "Microsoft Fabric", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Set the course: Crafting a legal and regulatory landscape for AI | Roger
 slug: set-the-course-crafting-a-legal-and-regulatory-landscape
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Roger Dubach"]
@@ -15,6 +15,7 @@ video_id: eYst8JqSxjE
 url: https://www.youtube.com/watch?v=eYst8JqSxjE
 youtube_url: https://www.youtube.com/watch?v=eYst8JqSxjE
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

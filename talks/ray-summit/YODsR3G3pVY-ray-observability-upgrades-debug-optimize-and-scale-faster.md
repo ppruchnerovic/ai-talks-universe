@@ -4,7 +4,7 @@ title: "Ray Observability Upgrades: Debug, Optimize, and Scale Faster | Ray Summ
 slug: ray-observability-upgrades-debug-optimize-and-scale-faster
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YODsR3G3pVY
 url: https://www.youtube.com/watch?v=YODsR3G3pVY
 youtube_url: https://www.youtube.com/watch?v=YODsR3G3pVY
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

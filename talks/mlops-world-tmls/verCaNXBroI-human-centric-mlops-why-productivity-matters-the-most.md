@@ -4,7 +4,7 @@ title: "Human Centric MLOps: Why Productivity Matters the Most"
 slug: human-centric-mlops-why-productivity-matters-the-most
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: verCaNXBroI
 url: https://www.youtube.com/watch?v=verCaNXBroI
 youtube_url: https://www.youtube.com/watch?v=verCaNXBroI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

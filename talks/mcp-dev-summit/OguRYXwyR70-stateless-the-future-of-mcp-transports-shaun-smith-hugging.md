@@ -4,7 +4,7 @@ title: "Stateless: The Future of MCP Transports - Shaun Smith, Hugging Face & Ku
 slug: stateless-the-future-of-mcp-transports-shaun-smith-hugging
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Shaun Smith"]
@@ -15,6 +15,7 @@ video_id: OguRYXwyR70
 url: https://www.youtube.com/watch?v=OguRYXwyR70
 youtube_url: https://www.youtube.com/watch?v=OguRYXwyR70
 tags: []
+topics: ["Agents & orchestration", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

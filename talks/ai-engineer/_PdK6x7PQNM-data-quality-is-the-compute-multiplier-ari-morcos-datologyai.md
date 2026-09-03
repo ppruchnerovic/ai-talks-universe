@@ -4,7 +4,7 @@ title: "Data Quality Is the Compute Multiplier — Ari Morcos, DatologyAI"
 slug: data-quality-is-the-compute-multiplier-ari-morcos-datologyai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ari Morcos"]
@@ -15,6 +15,7 @@ video_id: _PdK6x7PQNM
 url: https://www.youtube.com/watch?v=_PdK6x7PQNM
 youtube_url: https://www.youtube.com/watch?v=_PdK6x7PQNM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

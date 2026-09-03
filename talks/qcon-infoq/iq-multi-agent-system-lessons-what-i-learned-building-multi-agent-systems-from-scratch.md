@@ -4,7 +4,7 @@ title: "What I Learned Building Multi-Agent Systems from Scratch"
 slug: what-i-learned-building-multi-agent-systems-from-scratch
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Paulo Arruda"]
@@ -15,6 +15,7 @@ video_id: iq-multi-agent-system-lessons
 url: https://www.infoq.com/presentations/multi-agent-system-lessons/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

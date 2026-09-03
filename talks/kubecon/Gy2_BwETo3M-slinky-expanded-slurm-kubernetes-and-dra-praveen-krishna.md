@@ -4,7 +4,7 @@ title: "Slinky Expanded: Slurm, Kubernetes, and DRA - Praveen Krishna, Google & 
 slug: slinky-expanded-slurm-kubernetes-and-dra-praveen-krishna
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Praveen Krishna"]
@@ -15,6 +15,7 @@ video_id: Gy2_BwETo3M
 url: https://www.youtube.com/watch?v=Gy2_BwETo3M
 youtube_url: https://www.youtube.com/watch?v=Gy2_BwETo3M
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

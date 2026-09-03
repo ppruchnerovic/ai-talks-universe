@@ -4,7 +4,7 @@ title: "Mission: Scalable – Elastic Cloud Serverless Meets Azure OpenAI | ODFP
 slug: mission-scalable-elastic-cloud-serverless-meets-azure
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: PmPt9uOxMJY
 url: https://www.youtube.com/watch?v=PmPt9uOxMJY
 youtube_url: https://www.youtube.com/watch?v=PmPt9uOxMJY
 tags: []
+topics: []
 transcript: false
 ---
 

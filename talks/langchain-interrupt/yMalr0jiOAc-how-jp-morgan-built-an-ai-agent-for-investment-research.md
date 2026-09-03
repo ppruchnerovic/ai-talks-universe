@@ -4,7 +4,7 @@ title: "How JP Morgan Built An AI Agent for Investment Research with LangGraph |
 slug: how-jp-morgan-built-an-ai-agent-for-investment-research
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: yMalr0jiOAc
 url: https://www.youtube.com/watch?v=yMalr0jiOAc
 youtube_url: https://www.youtube.com/watch?v=yMalr0jiOAc
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

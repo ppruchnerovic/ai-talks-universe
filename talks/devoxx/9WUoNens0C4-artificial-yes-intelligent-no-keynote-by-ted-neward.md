@@ -4,7 +4,7 @@ title: "Artificial, yes; Intelligent, no. - Keynote by Ted Neward"
 slug: artificial-yes-intelligent-no-keynote-by-ted-neward
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Ted Neward"]
@@ -15,6 +15,7 @@ video_id: 9WUoNens0C4
 url: https://www.youtube.com/watch?v=9WUoNens0C4
 youtube_url: https://www.youtube.com/watch?v=9WUoNens0C4
 tags: []
+topics: []
 transcript: false
 ---
 

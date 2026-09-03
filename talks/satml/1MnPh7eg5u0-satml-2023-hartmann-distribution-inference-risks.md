@@ -4,7 +4,7 @@ title: "SaTML 2023 - Hartmann - Distribution inference risks: Identifying and mi
 slug: satml-2023-hartmann-distribution-inference-risks
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1MnPh7eg5u0
 url: https://www.youtube.com/watch?v=1MnPh7eg5u0
 youtube_url: https://www.youtube.com/watch?v=1MnPh7eg5u0
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

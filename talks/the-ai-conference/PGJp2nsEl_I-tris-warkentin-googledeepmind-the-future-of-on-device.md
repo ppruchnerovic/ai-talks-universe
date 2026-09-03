@@ -4,7 +4,7 @@ title: "Tris Warkentin, GoogleDeepMind: The future of on-device intelligence: Ge
 slug: tris-warkentin-googledeepmind-the-future-of-on-device
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: PGJp2nsEl_I
 url: https://www.youtube.com/watch?v=PGJp2nsEl_I
 youtube_url: https://www.youtube.com/watch?v=PGJp2nsEl_I
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

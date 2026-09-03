@@ -4,7 +4,7 @@ title: "Unmasking Unfair Correlation | Fairness and Bias in AI | Jana Mareckova"
 slug: unmasking-unfair-correlation-fairness-and-bias-in-ai-jana
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Unmasking Unfair Correlation", "Jana Mareckova"]
@@ -15,6 +15,7 @@ video_id: 9rsbkh9pLPk
 url: https://www.youtube.com/watch?v=9rsbkh9pLPk
 youtube_url: https://www.youtube.com/watch?v=9rsbkh9pLPk
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

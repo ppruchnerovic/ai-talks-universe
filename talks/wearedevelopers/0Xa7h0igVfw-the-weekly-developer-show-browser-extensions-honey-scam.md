@@ -4,7 +4,7 @@ title: "The weekly developer show: Browser Extensions, Honey Scam, Jailbreaking 
 slug: the-weekly-developer-show-browser-extensions-honey-scam
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0Xa7h0igVfw
 url: https://www.youtube.com/watch?v=0Xa7h0igVfw
 youtube_url: https://www.youtube.com/watch?v=0Xa7h0igVfw
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "AI", "ChatGPT", "LLM", "TechPodcast", "MachineLearning", "InfluencerScam", "JailbreakingAI", "GoogleVsChatGPT", "ChatbotOptimization", "ArtificialIntelligence"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

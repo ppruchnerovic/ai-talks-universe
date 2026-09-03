@@ -4,7 +4,7 @@ title: "Fireside Chat: Harnessing AI for Financial Services Innovation - Luca Bo
 slug: fireside-chat-harnessing-ai-for-financial-services
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Luca Borella", "Jane Gavronsky"]
@@ -15,6 +15,7 @@ video_id: gSaqTvpzThk
 url: https://www.youtube.com/watch?v=gSaqTvpzThk
 youtube_url: https://www.youtube.com/watch?v=gSaqTvpzThk
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

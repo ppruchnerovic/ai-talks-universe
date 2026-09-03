@@ -4,7 +4,7 @@ title: "Microsoft Foundry: The AI app and agent factory | STUDIO31"
 slug: microsoft-foundry-the-ai-app-and-agent-factory-studio31
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Yina Arenas"]
@@ -15,6 +15,7 @@ video_id: a0byEIaDi8U
 url: https://www.youtube.com/watch?v=a0byEIaDi8U
 youtube_url: https://www.youtube.com/watch?v=a0byEIaDi8U
 tags: ["English (US)", "Microsoft Foundry: The AI app and agent factory | STUDIO31", "Other", "STUDIO31", "STUDIO31_v1", "Yina Arenas", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

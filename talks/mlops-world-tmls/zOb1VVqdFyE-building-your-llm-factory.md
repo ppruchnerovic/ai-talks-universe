@@ -4,7 +4,7 @@ title: "Building Your LLM Factory"
 slug: building-your-llm-factory
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: zOb1VVqdFyE
 url: https://www.youtube.com/watch?v=zOb1VVqdFyE
 youtube_url: https://www.youtube.com/watch?v=zOb1VVqdFyE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: []
 transcript: false
 ---
 

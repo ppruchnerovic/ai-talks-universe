@@ -4,7 +4,7 @@ title: "What it takes to scale agents in the enterprise: context, control and ch
 slug: what-it-takes-to-scale-agents-in-the-enterprise-context
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2026"
 year: 2026
 speakers: ["Ali Ghodsi"]
@@ -15,6 +15,7 @@ video_id: 67Rjht678_g
 url: https://www.youtube.com/watch?v=67Rjht678_g
 youtube_url: https://www.youtube.com/watch?v=67Rjht678_g
 tags: ["Databricks"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Forward Focus: Perspectives on AI, Hype, and Security"
 slug: forward-focus-perspectives-on-ai-hype-and-security
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: ["Nathan Hamiel", "Rich Harang", "Ram Shankar Siva Kumar"]
@@ -15,6 +15,7 @@ video_id: um41l2VfvAg
 url: https://www.youtube.com/watch?v=um41l2VfvAg
 youtube_url: https://www.youtube.com/watch?v=um41l2VfvAg
 tags: []
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

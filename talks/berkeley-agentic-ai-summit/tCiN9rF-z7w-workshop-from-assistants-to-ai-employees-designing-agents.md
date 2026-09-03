@@ -4,7 +4,7 @@ title: "Workshop: From Assistants to AI Employees: Designing Agents That Own a R
 slug: workshop-from-assistants-to-ai-employees-designing-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: tCiN9rF-z7w
 url: https://www.youtube.com/watch?v=tCiN9rF-z7w
 youtube_url: https://www.youtube.com/watch?v=tCiN9rF-z7w
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

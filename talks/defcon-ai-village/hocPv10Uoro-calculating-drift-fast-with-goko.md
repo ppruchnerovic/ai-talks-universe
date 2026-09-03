@@ -4,7 +4,7 @@ title: "Calculating Drift, Fast with Goko"
 slug: calculating-drift-fast-with-goko
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2020
 speakers: []
@@ -15,6 +15,7 @@ video_id: hocPv10Uoro
 url: https://www.youtube.com/watch?v=hocPv10Uoro
 youtube_url: https://www.youtube.com/watch?v=hocPv10Uoro
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

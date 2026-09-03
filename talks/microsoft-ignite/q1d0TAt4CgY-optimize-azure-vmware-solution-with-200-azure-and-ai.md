@@ -4,7 +4,7 @@ title: "Optimize Azure VMware Solution with 200+ Azure and AI services | BRK230"
 slug: optimize-azure-vmware-solution-with-200-azure-and-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Prasad Gandham", "Husam Hilal"]
@@ -15,6 +15,7 @@ video_id: q1d0TAt4CgY
 url: https://www.youtube.com/watch?v=q1d0TAt4CgY
 youtube_url: https://www.youtube.com/watch?v=q1d0TAt4CgY
 tags: ["BRK230", "Backup", "Breakout", "Copilot", "English (US)", "Husam Hilal", "Infrastructure", "Intermediate (200)", "Optimize Azure VMware Solution with 200+ Azure and AI services | BRK230", "Prasad Gandham", "Technical", "Threatprotection", "Version v3", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

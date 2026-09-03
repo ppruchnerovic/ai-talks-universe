@@ -4,7 +4,7 @@ title: "The Boring Attack That Will Actually Get You - Craig Jellick, Obot AI"
 slug: the-boring-attack-that-will-actually-get-you-craig-jellick
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Craig Jellick"]
@@ -15,6 +15,7 @@ video_id: 6Tn4YKRcR-E
 url: https://www.youtube.com/watch?v=6Tn4YKRcR-E
 youtube_url: https://www.youtube.com/watch?v=6Tn4YKRcR-E
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

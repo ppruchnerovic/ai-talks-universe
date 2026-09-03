@@ -4,7 +4,7 @@ title: "How to Lie with AI: Understanding Bias, Ethics, and the Hidden Risks in 
 slug: how-to-lie-with-ai-understanding-bias-ethics-and-the-hidden
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Clarissa Rodrigues"]
@@ -15,6 +15,7 @@ video_id: ooaSTz6zL4w
 url: https://www.youtube.com/watch?v=ooaSTz6zL4w
 youtube_url: https://www.youtube.com/watch?v=ooaSTz6zL4w
 tags: ["AI", "Machine Learning", "ML", "NDC", "Conferences", "2026", "Live", "Fun", "Denmark", "Copenhagen", "Clarissa Rodrigues"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation"]
 transcript: true
 ---
 

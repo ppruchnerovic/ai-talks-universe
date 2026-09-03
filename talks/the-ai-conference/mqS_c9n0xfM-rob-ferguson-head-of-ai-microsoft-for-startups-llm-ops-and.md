@@ -4,7 +4,7 @@ title: "Rob Ferguson, Head of AI, Microsoft for Startups: LLM Ops and What Comes
 slug: rob-ferguson-head-of-ai-microsoft-for-startups-llm-ops-and
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: mqS_c9n0xfM
 url: https://www.youtube.com/watch?v=mqS_c9n0xfM
 youtube_url: https://www.youtube.com/watch?v=mqS_c9n0xfM
 tags: []
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

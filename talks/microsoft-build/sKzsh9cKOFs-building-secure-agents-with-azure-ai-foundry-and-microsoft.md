@@ -4,7 +4,7 @@ title: "Building secure agents with Azure AI Foundry and Microsoft Security | BR
 slug: building-secure-agents-with-azure-ai-foundry-and-microsoft
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: sKzsh9cKOFs
 url: https://www.youtube.com/watch?v=sKzsh9cKOFs
 youtube_url: https://www.youtube.com/watch?v=sKzsh9cKOFs
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

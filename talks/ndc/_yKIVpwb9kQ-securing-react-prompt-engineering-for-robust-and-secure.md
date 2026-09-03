@@ -4,7 +4,7 @@ title: "Securing React: Prompt Engineering for Robust and Secure Code Generation
 slug: securing-react-prompt-engineering-for-robust-and-secure
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Jim Manico"]
@@ -15,6 +15,7 @@ video_id: _yKIVpwb9kQ
 url: https://www.youtube.com/watch?v=_yKIVpwb9kQ
 youtube_url: https://www.youtube.com/watch?v=_yKIVpwb9kQ
 tags: ["Jim Manico", "Application Security", "Security", "AI", "XSS", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo"]
+topics: ["Coding assistants & agents", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: false
 ---
 

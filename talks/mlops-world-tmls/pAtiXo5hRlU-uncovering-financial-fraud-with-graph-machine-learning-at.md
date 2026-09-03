@@ -4,7 +4,7 @@ title: "Uncovering Financial Fraud with Graph Machine Learning at Scale"
 slug: uncovering-financial-fraud-with-graph-machine-learning-at
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: pAtiXo5hRlU
 url: https://www.youtube.com/watch?v=pAtiXo5hRlU
 youtube_url: https://www.youtube.com/watch?v=pAtiXo5hRlU
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "From Text to Video: A Unified Multimodal Data Lake for Next-Generation A
 slug: from-text-to-video-a-unified-multimodal-data-lake-for-next
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8zMeYwR9uQI
 url: https://www.youtube.com/watch?v=8zMeYwR9uQI
 youtube_url: https://www.youtube.com/watch?v=8zMeYwR9uQI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

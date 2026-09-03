@@ -4,7 +4,7 @@ title: "Sponsored Keynote: From Transactions to Transformers: Hardware Built for
 slug: sponsored-keynote-from-transactions-to-transformers
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Christian Jacobi"]
@@ -15,6 +15,7 @@ video_id: xYgP-vjFDi4
 url: https://www.youtube.com/watch?v=xYgP-vjFDi4
 youtube_url: https://www.youtube.com/watch?v=xYgP-vjFDi4
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

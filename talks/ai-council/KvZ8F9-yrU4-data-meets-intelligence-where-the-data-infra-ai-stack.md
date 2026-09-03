@@ -4,7 +4,7 @@ title: "Data Meets Intelligence: Where the Data Infra & AI Stack Converge"
 slug: data-meets-intelligence-where-the-data-infra-ai-stack
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Naveen Rao"]
@@ -15,6 +15,7 @@ video_id: KvZ8F9-yrU4
 url: https://www.youtube.com/watch?v=KvZ8F9-yrU4
 youtube_url: https://www.youtube.com/watch?v=KvZ8F9-yrU4
 tags: ["artificial intelligence", "machine learning", "data engineering", "AI infrastructure", "enterprise AI", "ChatGPT", "data science", "big data", "modern data stack", "AI development", "data platform", "scalability", "Python", "deep learning", "neural networks", "cloud computing", "tech stack", "AI tools", "database", "MLOps", "AI deployment", "production AI", "AI architecture", "enterprise solutions", "AI strategy", "business intelligence", "data analytics", "AI frameworks", "distributed systems", "microservices", "Kubernetes", "Docker"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

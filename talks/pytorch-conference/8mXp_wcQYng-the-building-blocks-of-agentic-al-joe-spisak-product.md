@@ -4,7 +4,7 @@ title: "The Building Blocks of Agentic Al - Joe Spisak, Product Director, Meta S
 slug: the-building-blocks-of-agentic-al-joe-spisak-product
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Joe Spisak"]
@@ -15,6 +15,7 @@ video_id: 8mXp_wcQYng
 url: https://www.youtube.com/watch?v=8mXp_wcQYng
 youtube_url: https://www.youtube.com/watch?v=8mXp_wcQYng
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

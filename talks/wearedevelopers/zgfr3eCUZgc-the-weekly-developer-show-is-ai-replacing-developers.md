@@ -4,7 +4,7 @@ title: "The weekly developer show: Is AI replacing developers?, Stopping bots, A
 slug: the-weekly-developer-show-is-ai-replacing-developers
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: zgfr3eCUZgc
 url: https://www.youtube.com/watch?v=zgfr3eCUZgc
 youtube_url: https://www.youtube.com/watch?v=zgfr3eCUZgc
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "GenAI", "senior developers", "prompt engineering", "Thinktecture", "Sebastian Ginter", "WeAreDevelopers Live", "local LLMs", "AI hallucinations", "secure code", "ChatGPT", "GitHub Copilot", "dev tools", "model fatigue", "coding with AI", "developer podcast", "AI software risks"]
+topics: ["Coding assistants & agents", "Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

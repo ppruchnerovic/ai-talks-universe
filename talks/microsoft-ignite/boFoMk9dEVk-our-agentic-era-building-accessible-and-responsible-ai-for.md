@@ -4,7 +4,7 @@ title: "Our Agentic Era: Building Accessible and Responsible AI for Everyone | B
 slug: our-agentic-era-building-accessible-and-responsible-ai-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Natasha Crampton"]
@@ -15,6 +15,7 @@ video_id: boFoMk9dEVk
 url: https://www.youtube.com/watch?v=boFoMk9dEVk
 youtube_url: https://www.youtube.com/watch?v=boFoMk9dEVk
 tags: ["BRK402", "BRK402_v1", "Copilot and agents at work", "English (US)", "Jenny Lay-Flurrie", "Natasha Crampton", "Other", "Other:Accessibility", "Our Agentic Era: Building Accessible and Responsible AI for Everyone | BRK402", "Partner Business", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

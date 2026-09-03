@@ -4,7 +4,7 @@ title: "Small language models with Google AI Edge"
 slug: small-language-models-with-google-ai-edge
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xLmJJk1gbuE
 url: https://www.youtube.com/watch?v=xLmJJk1gbuE
 youtube_url: https://www.youtube.com/watch?v=xLmJJk1gbuE
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

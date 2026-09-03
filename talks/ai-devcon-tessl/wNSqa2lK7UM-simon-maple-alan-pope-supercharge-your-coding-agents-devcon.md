@@ -4,7 +4,7 @@ title: "Simon Maple & Alan Pope - Supercharge Your Coding Agents | DevCon Fall 2
 slug: simon-maple-alan-pope-supercharge-your-coding-agents-devcon
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Simon Maple", "Alan Pope"]
@@ -15,6 +15,7 @@ video_id: wNSqa2lK7UM
 url: https://www.youtube.com/watch?v=wNSqa2lK7UM
 youtube_url: https://www.youtube.com/watch?v=wNSqa2lK7UM
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Prompting & context engineering"]
 transcript: true
 ---
 

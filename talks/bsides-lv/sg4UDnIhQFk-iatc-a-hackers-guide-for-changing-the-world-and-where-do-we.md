@@ -4,7 +4,7 @@ title: "IATC - A Hacker’s Guide for Changing The World (and Where do we go fro
 slug: iatc-a-hackers-guide-for-changing-the-world-and-where-do-we
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: sg4UDnIhQFk
 url: https://www.youtube.com/watch?v=sg4UDnIhQFk
 youtube_url: https://www.youtube.com/watch?v=sg4UDnIhQFk
 tags: []
+topics: []
 transcript: false
 ---
 

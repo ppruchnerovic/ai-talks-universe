@@ -4,7 +4,7 @@ title: "SkyML: Infra-less machine learning on any cloud"
 slug: skyml-infra-less-machine-learning-on-any-cloud
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: cN2SX6jPS9A
 url: https://www.youtube.com/watch?v=cN2SX6jPS9A
 youtube_url: https://www.youtube.com/watch?v=cN2SX6jPS9A
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

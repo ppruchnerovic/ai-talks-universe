@@ -4,7 +4,7 @@ title: "Make your own event-sourced agent harness using stream processors — Jo
 slug: make-your-own-event-sourced-agent-harness-using-stream
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jonas Templestein"]
@@ -15,6 +15,7 @@ video_id: vi-2nasppAg
 url: https://www.youtube.com/watch?v=vi-2nasppAg
 youtube_url: https://www.youtube.com/watch?v=vi-2nasppAg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Uber's GenAI Leap: Batch Predictions Using Ray and vLLM | Ray Summit 202
 slug: uber-s-genai-leap-batch-predictions-using-ray-and-vllm-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Gi27FbMLdGE
 url: https://www.youtube.com/watch?v=Gi27FbMLdGE
 youtube_url: https://www.youtube.com/watch?v=Gi27FbMLdGE
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

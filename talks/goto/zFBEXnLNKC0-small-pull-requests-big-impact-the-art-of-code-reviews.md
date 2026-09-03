@@ -4,7 +4,7 @@ title: "Small Pull Requests, Big Impact: The Art of Code Reviews • Adrienne Br
 slug: small-pull-requests-big-impact-the-art-of-code-reviews
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Small Pull Requests", "Adrienne Braganza Tacke", "Sasa Juric"]
@@ -15,6 +15,7 @@ video_id: zFBEXnLNKC0
 url: https://www.youtube.com/watch?v=zFBEXnLNKC0
 youtube_url: https://www.youtube.com/watch?v=zFBEXnLNKC0
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

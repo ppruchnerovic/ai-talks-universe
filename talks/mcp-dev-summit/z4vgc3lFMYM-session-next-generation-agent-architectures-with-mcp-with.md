@@ -4,7 +4,7 @@ title: "[Session] Next Generation Agent Architectures with MCP with Darren Sheph
 slug: session-next-generation-agent-architectures-with-mcp-with
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: z4vgc3lFMYM
 url: https://www.youtube.com/watch?v=z4vgc3lFMYM
 youtube_url: https://www.youtube.com/watch?v=z4vgc3lFMYM
 tags: ["mcp", "model context protocol", "ai for devs", "ai agents"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

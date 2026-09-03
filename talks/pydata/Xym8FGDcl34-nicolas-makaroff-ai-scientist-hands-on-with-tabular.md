@@ -4,7 +4,7 @@ title: "Nicolas Makaroff - AI Scientist - Hands-On with Tabular Foundation Model
 slug: nicolas-makaroff-ai-scientist-hands-on-with-tabular
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Nicolas Makaroff"]
@@ -15,6 +15,7 @@ video_id: Xym8FGDcl34
 url: https://www.youtube.com/watch?v=Xym8FGDcl34
 youtube_url: https://www.youtube.com/watch?v=Xym8FGDcl34
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

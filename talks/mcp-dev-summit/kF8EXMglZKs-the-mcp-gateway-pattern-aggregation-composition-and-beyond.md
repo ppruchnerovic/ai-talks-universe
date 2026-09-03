@@ -4,7 +4,7 @@ title: "The MCP Gateway Pattern: Aggregation, Composition, and Beyond - Juan Ant
 slug: the-mcp-gateway-pattern-aggregation-composition-and-beyond
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Juan Antonio Osorio"]
@@ -15,6 +15,7 @@ video_id: kF8EXMglZKs
 url: https://www.youtube.com/watch?v=kF8EXMglZKs
 youtube_url: https://www.youtube.com/watch?v=kF8EXMglZKs
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

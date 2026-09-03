@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Robert Crowe: JAX Made Simple: An Intuitive Guide to B
 slug: ai-dev-25-x-nyc-robert-crowe-jax-made-simple-an-intuitive
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: FEVFMXvwPuM
 url: https://www.youtube.com/watch?v=FEVFMXvwPuM
 youtube_url: https://www.youtube.com/watch?v=FEVFMXvwPuM
 tags: []
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

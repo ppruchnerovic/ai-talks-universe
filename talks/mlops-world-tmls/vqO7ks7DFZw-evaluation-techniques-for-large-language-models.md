@@ -4,7 +4,7 @@ title: "Evaluation Techniques for Large Language Models"
 slug: evaluation-techniques-for-large-language-models
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Hugging Face"]
@@ -15,6 +15,7 @@ video_id: vqO7ks7DFZw
 url: https://www.youtube.com/watch?v=vqO7ks7DFZw
 youtube_url: https://www.youtube.com/watch?v=vqO7ks7DFZw
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Governance, ethics & regulation", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

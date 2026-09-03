@@ -4,7 +4,7 @@ title: "Using Anomaly Detection on User Demographic Distributions to Identify Fa
 slug: using-anomaly-detection-on-user-demographic-distributions
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []
@@ -15,6 +15,7 @@ video_id: RBu2WXbD684
 url: https://www.youtube.com/watch?v=RBu2WXbD684
 youtube_url: https://www.youtube.com/watch?v=RBu2WXbD684
 tags: ["camlis", "camlis2018"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

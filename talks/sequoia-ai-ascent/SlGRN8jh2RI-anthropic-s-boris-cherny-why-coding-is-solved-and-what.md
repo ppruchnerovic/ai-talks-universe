@@ -4,7 +4,7 @@ title: "Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next"
 slug: anthropic-s-boris-cherny-why-coding-is-solved-and-what
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: SlGRN8jh2RI
 url: https://www.youtube.com/watch?v=SlGRN8jh2RI
 youtube_url: https://www.youtube.com/watch?v=SlGRN8jh2RI
 tags: []
+topics: []
 transcript: true
 ---
 

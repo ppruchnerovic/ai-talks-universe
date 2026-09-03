@@ -4,7 +4,7 @@ title: "Keynote: 25 Years of the Microsoft SDL - Michael Howard - NDC Security 2
 slug: keynote-25-years-of-the-microsoft-sdl-michael-howard-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Michael Howard"]
@@ -15,6 +15,7 @@ video_id: Co8GypVSTHE
 url: https://www.youtube.com/watch?v=Co8GypVSTHE
 youtube_url: https://www.youtube.com/watch?v=Co8GypVSTHE
 tags: ["Application Security", "Cloud Security", "Design", "Experience report", "Process", "Programming", "SDLC", "Security Tooling", "SDL", "Cloud", "Security", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Michael Howard"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Microsoft Entra Suite: Accelerate Zero Trust and Secure AI Access | BRK2
 slug: microsoft-entra-suite-accelerate-zero-trust-and-secure-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Igor Sakhnov", "Kaitlin Murphy", "Carmichael Patton"]
@@ -15,6 +15,7 @@ video_id: Ze0v1HkIk-o
 url: https://www.youtube.com/watch?v=Ze0v1HkIk-o
 youtube_url: https://www.youtube.com/watch?v=Ze0v1HkIk-o
 tags: ["BRK260", "Carmichael Patton", "English (US)", "Igor Sakhnov", "Kaitlin Murphy", "Microsoft Entra Suite: Accelerate Zero Trust and Secure AI Access | BRK260", "Protect cloud AI platform and apps", "Technical", "bdd3123d-5a91-4257-a801-eb7001b15d73_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Agentic Service, Limitless Growth | Financial Services Keynote, Dreamfor
 slug: agentic-service-limitless-growth-financial-services-keynote
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: ["Agentic Service"]
@@ -15,6 +15,7 @@ video_id: 3p7uk4lPj58
 url: https://www.youtube.com/watch?v=3p7uk4lPj58
 youtube_url: https://www.youtube.com/watch?v=3p7uk4lPj58
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

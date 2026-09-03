@@ -4,7 +4,7 @@ title: "Multi-domain large language model adaptation using synthetic data genera
 slug: multi-domain-large-language-model-adaptation-using
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: DFDjmoW2JdQ
 url: https://www.youtube.com/watch?v=DFDjmoW2JdQ
 youtube_url: https://www.youtube.com/watch?v=DFDjmoW2JdQ
 tags: []
+topics: ["Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

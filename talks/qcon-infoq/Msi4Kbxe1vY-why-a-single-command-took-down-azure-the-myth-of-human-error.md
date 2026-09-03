@@ -4,7 +4,7 @@ title: "Why a Single Command Took Down Azure: The Myth of \"Human Error\""
 slug: why-a-single-command-took-down-azure-the-myth-of-human-error
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Msi4Kbxe1vY
 url: https://www.youtube.com/watch?v=Msi4Kbxe1vY
 youtube_url: https://www.youtube.com/watch?v=Msi4Kbxe1vY
 tags: ["QCon San Francisco", "InfoQ", "Transcript", "DevOps", "Microsoft", "Azure", "Incident Response", "Software Architecture", "System Design", "SRE"]
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

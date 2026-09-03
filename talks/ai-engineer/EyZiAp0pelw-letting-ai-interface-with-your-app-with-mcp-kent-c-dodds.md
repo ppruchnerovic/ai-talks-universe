@@ -4,7 +4,7 @@ title: "Letting AI Interface with your App with MCP — Kent C Dodds"
 slug: letting-ai-interface-with-your-app-with-mcp-kent-c-dodds
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kent C Dodds"]
@@ -15,6 +15,7 @@ video_id: EyZiAp0pelw
 url: https://www.youtube.com/watch?v=EyZiAp0pelw
 youtube_url: https://www.youtube.com/watch?v=EyZiAp0pelw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

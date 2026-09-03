@@ -4,7 +4,7 @@ title: "Innovate with AI at Enterprise Scale​ | BRK410"
 slug: innovate-with-ai-at-enterprise-scale-brk410
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Surojit Chatterjee", "Amee Desjourdy", "Heena Purohit", "Hans Yang"]
@@ -15,6 +15,7 @@ video_id: jSlfqAb2HEw
 url: https://www.youtube.com/watch?v=jSlfqAb2HEw
 youtube_url: https://www.youtube.com/watch?v=jSlfqAb2HEw
 tags: ["Amee Desjourdy", "BRK410", "BRK410_v1", "Copilot and agents at work", "English (US)", "Hans Yang", "Heena Purohit", "Innovate with AI at Enterprise Scale​ | BRK410", "Other", "Other:Startups", "Partner Business", "Signature pass", "Surojit Chatterjee", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

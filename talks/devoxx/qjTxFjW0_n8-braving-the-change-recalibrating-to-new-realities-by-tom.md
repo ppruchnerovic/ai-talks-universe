@@ -4,7 +4,7 @@ title: "Braving the Change: Recalibrating to new realities by Tom Cools"
 slug: braving-the-change-recalibrating-to-new-realities-by-tom
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Tom Cools"]
@@ -15,6 +15,7 @@ video_id: qjTxFjW0_n8
 url: https://www.youtube.com/watch?v=qjTxFjW0_n8
 youtube_url: https://www.youtube.com/watch?v=qjTxFjW0_n8
 tags: []
+topics: []
 transcript: false
 ---
 

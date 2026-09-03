@@ -43,7 +43,7 @@ Do not quote coverage numbers from memory — they change with every fetch.
 Ask the index, which takes a second:
 
 ```bash
-python3 tools/query.py --stats            # talks, transcripts, conferences, per year and per conference
+python3 tools/query.py --stats            # talks, transcripts, conferences, per year, per conference, per topic
 python3 tools/query.py "agent reliability" --facets   # the same counts, for this query's matches
 ```
 
@@ -96,7 +96,7 @@ tenth of that.
 
 ```bash
 python3 tools/query.py "context engineering" -n 15 --brief
-python3 tools/query.py --list-conferences        # valid slugs; --list-categories too
+python3 tools/query.py --list-conferences        # valid slugs; --list-categories and --list-topics too
 ```
 
 **`-n` here is the number of results.** In `excerpt.py` the same letter is a
@@ -154,13 +154,35 @@ The rest of the syntax, when the question has a shape:
   *said* rather than what the channel wrote.
 * `"exact phrase"`, `prefix*`, `AND`/`OR`/`NOT` as in FTS5.
 
-Filters: `--conference langchain-interrupt` (repeatable), `--category "AI
-security"`, `--year 2026` (repeatable), `--min-year` / `--max-year`,
+Filters: `--conference langchain-interrupt` (repeatable), `--category
+security` (the conference type: five kinds of venue, `--list-categories`),
+`--topic evals` (repeatable; `--list-topics` prints the fifteen), `--year 2026`
+(repeatable), `--min-year` / `--max-year`,
 `--since` / `--before YYYY-MM-DD`, `--speaker NAME` (part of a name is
 enough), `--min-duration` / `--max-duration MIN`, `--transcript`,
 `--exact-timing`. `--sort newest|oldest|duration|title` reorders the
 best-scoring candidates; with no query at all the filters simply list the
 corpus, newest first, and `--random --seed N` draws from it.
+
+`--category` is where a talk was given — *Practitioner AI conferences*,
+*General software conferences*, *Security conferences*, *Vendor events*,
+*Business & industry events* — and `--topic` is what it is about. They
+cross: `--category security --topic agents` is what security-conference
+speakers say about agents; `--category vendor --topic security` is what
+vendor keynotes say about security. Only 577 of the 1,314 security-topic
+talks are from security conferences, so neither flag substitutes for the
+other.
+
+`--topic` is a per-talk facet — fifteen subjects such as *Agents &
+orchestration*, *Evals, observability & reliability*, *RAG, retrieval &
+knowledge*, *Security, safety & red teaming* — derived by keyword rules from
+each talk's title, tags and description, never from its transcript. A talk
+may carry several, and about a fifth carry none (keynotes, panels, talks
+with no description), so it narrows a search rather than replacing one:
+`query.py "memory" --topic agents` is memory as an agent concern, `--topic
+rag` memory as retrieval. One word of a topic's name resolves when it is
+unambiguous (`evals`, `rag`, `security`); `--brief` prints each hit's topics,
+which is a cheap way to see what a result set is actually about.
 
 **To compare conferences or years, do not run one query per conference.**
 `--per-conference K` and `--per-year K` give the best K of each in one ranked

@@ -4,7 +4,7 @@ title: "Getting more out of the Claude Platform"
 slug: getting-more-out-of-the-claude-platform
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: QIriO1-vHYw
 url: https://www.youtube.com/watch?v=QIriO1-vHYw
 youtube_url: https://www.youtube.com/watch?v=QIriO1-vHYw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Ctrl-X, Ctrl-V Your Pods: WG Checkpoint Restore in Kub... Peter H, Adria
 slug: ctrl-x-ctrl-v-your-pods-wg-checkpoint-restore-in-kub-peter
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: lLxrtmpIlMk
 url: https://www.youtube.com/watch?v=lLxrtmpIlMk
 youtube_url: https://www.youtube.com/watch?v=lLxrtmpIlMk
 tags: []
+topics: []
 transcript: true
 ---
 

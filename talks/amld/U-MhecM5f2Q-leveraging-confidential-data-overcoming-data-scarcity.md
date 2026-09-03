@@ -4,7 +4,7 @@ title: "Leveraging Confidential Data | Overcoming Data Scarcity | Giulia Gualtie
 slug: leveraging-confidential-data-overcoming-data-scarcity
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Giulia Gualtieri"]
@@ -15,6 +15,7 @@ video_id: U-MhecM5f2Q
 url: https://www.youtube.com/watch?v=U-MhecM5f2Q
 youtube_url: https://www.youtube.com/watch?v=U-MhecM5f2Q
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

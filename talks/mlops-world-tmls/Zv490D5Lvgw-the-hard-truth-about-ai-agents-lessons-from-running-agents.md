@@ -4,7 +4,7 @@ title: "The Hard Truth About AI Agents: Lessons from Running Agents in Productio
 slug: the-hard-truth-about-ai-agents-lessons-from-running-agents
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Hannes Hapke"]
@@ -15,6 +15,7 @@ video_id: Zv490D5Lvgw
 url: https://www.youtube.com/watch?v=Zv490D5Lvgw
 youtube_url: https://www.youtube.com/watch?v=Zv490D5Lvgw
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Coding the future of AI | BRK115"
 slug: coding-the-future-of-ai-brk115
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Rob Chambers", "Dan Taylor"]
@@ -15,6 +15,7 @@ video_id: TdgBWewM25I
 url: https://www.youtube.com/watch?v=TdgBWewM25I
 youtube_url: https://www.youtube.com/watch?v=TdgBWewM25I
 tags: ["AI", "AI-Curated", "Agents", "Apps-Curated", "Azure AI", "Azure AI SDK", "Azure AI Studio", "BRK115", "Breakout", "Coding the future of AI | BRK115", "Copilot Studio", "CopilotStack", "Developer", "English (US)", "GenerativeAI", "GitHub", "Intermediate (200)", "Rob Chambers", "Software Company", "Technical", "VisualStudio", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

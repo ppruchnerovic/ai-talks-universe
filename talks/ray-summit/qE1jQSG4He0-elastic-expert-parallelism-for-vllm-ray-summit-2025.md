@@ -4,7 +4,7 @@ title: "Elastic Expert Parallelism for vLLM | Ray Summit 2025"
 slug: elastic-expert-parallelism-for-vllm-ray-summit-2025
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qE1jQSG4He0
 url: https://www.youtube.com/watch?v=qE1jQSG4He0
 youtube_url: https://www.youtube.com/watch?v=qE1jQSG4He0
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

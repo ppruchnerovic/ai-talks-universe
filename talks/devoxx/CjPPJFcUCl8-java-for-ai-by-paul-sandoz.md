@@ -4,7 +4,7 @@ title: "Java for AI by Paul Sandoz"
 slug: java-for-ai-by-paul-sandoz
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Paul Sandoz"]
@@ -15,6 +15,7 @@ video_id: CjPPJFcUCl8
 url: https://www.youtube.com/watch?v=CjPPJFcUCl8
 youtube_url: https://www.youtube.com/watch?v=CjPPJFcUCl8
 tags: []
+topics: []
 transcript: false
 ---
 

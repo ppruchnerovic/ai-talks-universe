@@ -4,7 +4,7 @@ title: "Let's build an AI agent - Phil Nash - NDC Oslo 2025"
 slug: let-s-build-an-ai-agent-phil-nash-ndc-oslo-2025
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Phil Nash"]
@@ -15,6 +15,7 @@ video_id: fjJyr75dWhs
 url: https://www.youtube.com/watch?v=fjJyr75dWhs
 youtube_url: https://www.youtube.com/watch?v=fjJyr75dWhs
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

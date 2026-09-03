@@ -4,7 +4,7 @@ title: "Lightning Talk: Operationalizing AIBOMs in AI Supply Chains"
 slug: lightning-talk-operationalizing-aiboms-in-ai-supply-chains
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: QIUHetsI3LA
 url: https://www.youtube.com/watch?v=QIUHetsI3LA
 youtube_url: https://www.youtube.com/watch?v=QIUHetsI3LA
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

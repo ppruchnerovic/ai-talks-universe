@@ -4,7 +4,7 @@ title: "Running Secure Life Science Research at Scale using Hybrid GPU HPC and K
 slug: running-secure-life-science-research-at-scale-using-hybrid
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jeremy Murray"]
@@ -15,6 +15,7 @@ video_id: 5WuxrjBcUhA
 url: https://www.youtube.com/watch?v=5WuxrjBcUhA
 youtube_url: https://www.youtube.com/watch?v=5WuxrjBcUhA
 tags: ["Cloud & AI Infrastructure", "AI Models", "ArgoCD", "Best Practices", "Docker", "GitOps", "Helm", "InfluxDB", "Infrastructure", "Infrastructure as Code (IaC)", "Multi-Cloud"]
+topics: ["Governance, ethics & regulation", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

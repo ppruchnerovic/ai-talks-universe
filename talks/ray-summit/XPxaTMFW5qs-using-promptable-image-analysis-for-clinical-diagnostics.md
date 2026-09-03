@@ -4,7 +4,7 @@ title: "Using Promptable Image Analysis for Clinical Diagnostics | Ray Summit 20
 slug: using-promptable-image-analysis-for-clinical-diagnostics
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: XPxaTMFW5qs
 url: https://www.youtube.com/watch?v=XPxaTMFW5qs
 youtube_url: https://www.youtube.com/watch?v=XPxaTMFW5qs
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

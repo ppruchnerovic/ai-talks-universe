@@ -4,7 +4,7 @@ title: "Why Agentic AI Requires a New Approach to Orchestration | Niels Bantilan
 slug: why-agentic-ai-requires-a-new-approach-to-orchestration
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Niels Bantilan"]
@@ -15,6 +15,7 @@ video_id: u4lAQ5TeuN8
 url: https://www.youtube.com/watch?v=u4lAQ5TeuN8
 youtube_url: https://www.youtube.com/watch?v=u4lAQ5TeuN8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

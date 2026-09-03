@@ -4,7 +4,7 @@ title: "Your Models Are Vulnerable: How KitOps Turns KServe Into a Zero-Tru... B
 slug: your-models-are-vulnerable-how-kitops-turns-kserve-into-a
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: OE6t8_V7ZU4
 url: https://www.youtube.com/watch?v=OE6t8_V7ZU4
 youtube_url: https://www.youtube.com/watch?v=OE6t8_V7ZU4
 tags: []
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

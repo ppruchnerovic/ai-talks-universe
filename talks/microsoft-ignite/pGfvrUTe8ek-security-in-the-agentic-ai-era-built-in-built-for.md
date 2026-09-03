@@ -4,7 +4,7 @@ title: "Security in the agentic AI era: built-in, built for autonomous defense |
 slug: security-in-the-agentic-ai-era-built-in-built-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Vasu Jakkal"]
@@ -15,6 +15,7 @@ video_id: pGfvrUTe8ek
 url: https://www.youtube.com/watch?v=pGfvrUTe8ek
 youtube_url: https://www.youtube.com/watch?v=pGfvrUTe8ek
 tags: ["English (US)", "Other", "STUDIO40", "STUDIO40_v1", "Security in the agentic AI era: built-in built for autonomous defense | STUDIO40", "Vasu Jakkal", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

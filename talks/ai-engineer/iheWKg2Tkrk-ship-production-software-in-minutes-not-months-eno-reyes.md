@@ -4,7 +4,7 @@ title: "Ship Production Software in Minutes, Not Months — Eno Reyes, Factory"
 slug: ship-production-software-in-minutes-not-months-eno-reyes
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Eno Reyes"]
@@ -15,6 +15,7 @@ video_id: iheWKg2Tkrk
 url: https://www.youtube.com/watch?v=iheWKg2Tkrk
 youtube_url: https://www.youtube.com/watch?v=iheWKg2Tkrk
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

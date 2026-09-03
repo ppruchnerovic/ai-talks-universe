@@ -4,7 +4,7 @@ title: "Workshop: GenOps: Building a MLOps Platform to Support GenAI Workloads w
 slug: workshop-genops-building-a-mlops-platform-to-support-genai
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: w8a7Pu7n5Nc
 url: https://www.youtube.com/watch?v=w8a7Pu7n5Nc
 youtube_url: https://www.youtube.com/watch?v=w8a7Pu7n5Nc
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

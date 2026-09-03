@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025-The state of AI in software development:Insights acro
 slug: aws-re-invent-2025-the-state-of-ai-in-software-development
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 83QP_GyPNUE
 url: https://www.youtube.com/watch?v=83QP_GyPNUE
 youtube_url: https://www.youtube.com/watch?v=83QP_GyPNUE
 tags: []
+topics: []
 transcript: false
 ---
 

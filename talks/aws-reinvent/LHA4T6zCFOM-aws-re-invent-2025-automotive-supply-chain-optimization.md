@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Automotive Supply Chain Optimization using AI (PEX3
 slug: aws-re-invent-2025-automotive-supply-chain-optimization
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: LHA4T6zCFOM
 url: https://www.youtube.com/watch?v=LHA4T6zCFOM
 youtube_url: https://www.youtube.com/watch?v=LHA4T6zCFOM
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Optimizing Vector Search: Why You Should Flatten Structured Data"
 slug: optimizing-vector-search-why-you-should-flatten-structured
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: rX__jw454Q8
 url: https://www.youtube.com/watch?v=rX__jw454Q8
 youtube_url: https://www.youtube.com/watch?v=rX__jw454Q8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

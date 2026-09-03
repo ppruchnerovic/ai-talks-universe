@@ -4,7 +4,7 @@ title: "The Technical Founder's Path: Code, Leadership, and Balance"
 slug: the-technical-founder-s-path-code-leadership-and-balance
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: LZFs2yYz9FU
 url: https://www.youtube.com/watch?v=LZFs2yYz9FU
 youtube_url: https://www.youtube.com/watch?v=LZFs2yYz9FU
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

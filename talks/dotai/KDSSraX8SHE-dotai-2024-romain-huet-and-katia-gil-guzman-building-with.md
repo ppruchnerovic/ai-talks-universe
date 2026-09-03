@@ -4,7 +4,7 @@ title: "dotAI 2024 - Romain Huet and Katia Gil Guzman - Building with OpenAI: Wh
 slug: dotai-2024-romain-huet-and-katia-gil-guzman-building-with
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Romain Huet", "Katia Gil Guzman"]
@@ -15,6 +15,7 @@ video_id: KDSSraX8SHE
 url: https://www.youtube.com/watch?v=KDSSraX8SHE
 youtube_url: https://www.youtube.com/watch?v=KDSSraX8SHE
 tags: []
+topics: []
 transcript: false
 ---
 

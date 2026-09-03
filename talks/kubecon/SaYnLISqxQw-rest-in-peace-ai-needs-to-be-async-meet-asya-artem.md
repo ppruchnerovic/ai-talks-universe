@@ -4,7 +4,7 @@ title: "REST in Peace: AI Needs to Be Async - Meet Asya - Artem Yushkovskiy, Del
 slug: rest-in-peace-ai-needs-to-be-async-meet-asya-artem
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Meet Asya", "Artem Yushkovskiy"]
@@ -15,6 +15,7 @@ video_id: SaYnLISqxQw
 url: https://www.youtube.com/watch?v=SaYnLISqxQw
 youtube_url: https://www.youtube.com/watch?v=SaYnLISqxQw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Anthropic Workshop: Build Agents That Run for Hours — Ash Prabaker & A
 slug: anthropic-workshop-build-agents-that-run-for-hours-ash
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ash Prabaker", "Andrew Wilson"]
@@ -15,6 +15,7 @@ video_id: mR-WAvEPRwE
 url: https://www.youtube.com/watch?v=mR-WAvEPRwE
 youtube_url: https://www.youtube.com/watch?v=mR-WAvEPRwE
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Finding the Humanity in AI — 80+ Global Conversations | Graham Toppin,
 slug: finding-the-humanity-in-ai-80-global-conversations-graham
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Graham Toppin"]
@@ -15,6 +15,7 @@ video_id: cc8RlR6WMb8
 url: https://www.youtube.com/watch?v=cc8RlR6WMb8
 youtube_url: https://www.youtube.com/watch?v=cc8RlR6WMb8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: []
 transcript: false
 ---
 

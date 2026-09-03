@@ -4,7 +4,7 @@ title: "Simpler smarter and more secure endpoint management with Intune | BRK319
 slug: simpler-smarter-and-more-secure-endpoint-management-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Eugenie Burrage", "Jason Roszak"]
@@ -15,6 +15,7 @@ video_id: ExbYpfAM0x4
 url: https://www.youtube.com/watch?v=ExbYpfAM0x4
 youtube_url: https://www.youtube.com/watch?v=ExbYpfAM0x4
 tags: ["AI", "Automation", "BRK319", "Breakout", "Data Security", "English (US)", "Eugenie Burrage", "Intermediate (200)", "Jason Roszak", "Microsoft Intune", "Security", "Simpler smarter and more secure endpoint management with Intune | BRK319", "Technical", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

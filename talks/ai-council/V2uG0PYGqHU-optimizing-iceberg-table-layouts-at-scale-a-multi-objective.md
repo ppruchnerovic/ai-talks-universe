@@ -4,7 +4,7 @@ title: "Optimizing Iceberg Table Layouts at Scale A Multi Objective Approach"
 slug: optimizing-iceberg-table-layouts-at-scale-a-multi-objective
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Sumedh Sakdeo"]
@@ -15,6 +15,7 @@ video_id: V2uG0PYGqHU
 url: https://www.youtube.com/watch?v=V2uG0PYGqHU
 youtube_url: https://www.youtube.com/watch?v=V2uG0PYGqHU
 tags: ["Apache Iceberg tutorial", "database optimization", "ChatGPT", "artificial intelligence", "machine learning", "data engineering tutorial", "SQL tutorial", "analytics", "table formats", "data lakehouse", "performance tuning", "data management", "cloud storage", "query optimization", "Python", "open table format", "schema evolution", "time travel", "ACID transactions", "data versioning", "partition management", "metadata management", "lake house architecture", "data lake optimization", "Parquet optimization"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

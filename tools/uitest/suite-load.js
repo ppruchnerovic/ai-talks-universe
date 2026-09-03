@@ -31,6 +31,7 @@ L.suite('load', async browser => {
   const opts = await page.evaluate(() => ({
     conf: [...document.querySelectorAll('#f-conf option')].map(o => o.value),
     cat: [...document.querySelectorAll('#f-cat option')].map(o => o.value),
+    topic: [...document.querySelectorAll('#f-topic option')].map(o => o.value),
     year: [...document.querySelectorAll('#f-year option')].map(o => o.value),
     sort: [...document.querySelectorAll('#f-sort option')].map(o => o.value),
   }));
@@ -39,10 +40,15 @@ L.suite('load', async browser => {
   L.check('conference options match the data, ordered by display name',
     JSON.stringify(opts.conf.slice(1)) === JSON.stringify(confSlugs),
     `${opts.conf.length - 1} options vs ${confSlugs.length} conferences`);
-  L.check('category options match the data',
+  L.check('conference-type options match the data',
     JSON.stringify(opts.cat.slice(1)) ===
       JSON.stringify([...new Set(meta.talks.map(t => t.g).filter(Boolean))].sort()),
     `${opts.cat.length - 1} options`);
+  const topicsOf = t => (t.k || []).map(i => meta.topics[i]);
+  const topics = [...new Set(meta.talks.flatMap(topicsOf))].sort();
+  L.check('topic options are the union of every talk\'s topics, sorted',
+    JSON.stringify(opts.topic.slice(1)) === JSON.stringify(topics),
+    `${opts.topic.length - 1} options vs ${topics.length} topics`);
   L.check('year options are newest first',
     JSON.stringify(opts.year.slice(1)) ===
       JSON.stringify([...new Set(meta.talks.map(t => t.y).filter(Boolean))]
@@ -101,6 +107,19 @@ L.suite('load', async browser => {
     a.badges.length >= 2, JSON.stringify(a.badges));
   L.check('"Find this in the talk" is absent until something is searched for',
     a.findLink === false);
+
+  // Topic chips: one per topic the talk carries, and none on a talk with none.
+  const chips = await page.$$eval('#results .card', cs => cs.map(c => ({
+    n: Number(c.dataset.n),
+    chips: [...c.querySelectorAll('.b.topic')].map(b => ({ text: b.textContent, data: b.dataset.topic })),
+  })));
+  const chipsRight = chips.every(({ n, chips: cc }) =>
+    JSON.stringify(cc.map(x => x.text)) === JSON.stringify(topicsOf(byN.get(n)))
+    && cc.every(x => x.text === x.data));
+  const withChips = chips.filter(c => c.chips.length).length;
+  if (!topics.length) L.skip('topic chips', 'no talk carries a topic — run sync_catalog.py');
+  else L.check('each card shows exactly its topics as chips, and the chip carries its value',
+    chipsRight && withChips > 0, `${withChips} of ${chips.length} cards carry chips`);
 
   L.check('no uncaught errors', page.__errors.length === 0, page.__errors.join('; '));
   L.check('no failed requests', page.__requests.length === 0, page.__requests.join('; '));

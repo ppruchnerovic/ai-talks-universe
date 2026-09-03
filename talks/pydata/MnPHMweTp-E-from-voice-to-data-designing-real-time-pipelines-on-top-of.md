@@ -4,7 +4,7 @@ title: "From Voice to Data: Designing Real-Time Pipelines on Top of Scraped Sour
 slug: from-voice-to-data-designing-real-time-pipelines-on-top-of
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: MnPHMweTp-E
 url: https://www.youtube.com/watch?v=MnPHMweTp-E
 youtube_url: https://www.youtube.com/watch?v=MnPHMweTp-E
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

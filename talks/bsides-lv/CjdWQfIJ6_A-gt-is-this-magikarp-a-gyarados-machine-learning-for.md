@@ -4,7 +4,7 @@ title: "GT - Is This Magikarp a Gyarados?: Machine Learning for Phishing Detecti
 slug: gt-is-this-magikarp-a-gyarados-machine-learning-for
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2019
 speakers: ["Veronica Weiss"]
@@ -15,6 +15,7 @@ video_id: CjdWQfIJ6_A
 url: https://www.youtube.com/watch?v=CjdWQfIJ6_A
 youtube_url: https://www.youtube.com/watch?v=CjdWQfIJ6_A
 tags: ["bslv", "GT", "2019-bsideslv-058", "gt", "bslv2019", "BSidesLV", "BSidesLV2019", "Ground Truth"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

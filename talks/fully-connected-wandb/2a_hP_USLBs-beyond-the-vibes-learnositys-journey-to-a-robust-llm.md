@@ -4,7 +4,7 @@ title: "Beyond the vibes: Learnosity’s journey to a robust LLM evaluation fram
 slug: beyond-the-vibes-learnositys-journey-to-a-robust-llm
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2a_hP_USLBs
 url: https://www.youtube.com/watch?v=2a_hP_USLBs
 youtube_url: https://www.youtube.com/watch?v=2a_hP_USLBs
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

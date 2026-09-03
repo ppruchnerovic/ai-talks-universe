@@ -4,7 +4,7 @@ title: "Turning Outward: Growing From Code to Influence"
 slug: turning-outward-growing-from-code-to-influence
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Brad Grantham"]
@@ -15,6 +15,7 @@ video_id: iq-working-across-teams
 url: https://www.infoq.com/presentations/working-across-teams/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

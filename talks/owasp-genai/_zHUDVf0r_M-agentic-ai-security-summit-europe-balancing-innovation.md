@@ -4,7 +4,7 @@ title: "Agentic AI Security Summit, Europe: Balancing Innovation, Adoption, Regu
 slug: agentic-ai-security-summit-europe-balancing-innovation
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: _zHUDVf0r_M
 url: https://www.youtube.com/watch?v=_zHUDVf0r_M
 youtube_url: https://www.youtube.com/watch?v=_zHUDVf0r_M
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

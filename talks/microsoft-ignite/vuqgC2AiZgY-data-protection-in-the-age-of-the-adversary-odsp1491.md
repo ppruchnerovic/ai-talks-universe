@@ -4,7 +4,7 @@ title: "Data protection in the age of the adversary | ODSP1491"
 slug: data-protection-in-the-age-of-the-adversary-odsp1491
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: vuqgC2AiZgY
 url: https://www.youtube.com/watch?v=vuqgC2AiZgY
 youtube_url: https://www.youtube.com/watch?v=vuqgC2AiZgY
 tags: ["Caleb McDowell", "Data protection in the age of the adversary | ODSP1491", "English (US)", "Modernize SecOps with a unified platform", "ODSP1491", "ODSP1491_v1", "Quentin Rhoads-Herrera", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

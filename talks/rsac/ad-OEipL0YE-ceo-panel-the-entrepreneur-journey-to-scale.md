@@ -4,7 +4,7 @@ title: "CEO Panel: The Entrepreneur Journey to Scale"
 slug: ceo-panel-the-entrepreneur-journey-to-scale
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: ad-OEipL0YE
 url: https://www.youtube.com/watch?v=ad-OEipL0YE
 youtube_url: https://www.youtube.com/watch?v=ad-OEipL0YE
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

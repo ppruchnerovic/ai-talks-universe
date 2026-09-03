@@ -4,7 +4,7 @@ title: "Leveraging LLMs and LangGraph @ FlightAware | Ray Summit 2024"
 slug: leveraging-llms-and-langgraph-flightaware-ray-summit-2024
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1C6IsAn1D_8
 url: https://www.youtube.com/watch?v=1C6IsAn1D_8
 youtube_url: https://www.youtube.com/watch?v=1C6IsAn1D_8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

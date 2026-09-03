@@ -4,7 +4,7 @@ title: "Beyond Linear Funnels: Visualizing Conditional User Journeys with Python
 slug: beyond-linear-funnels-visualizing-conditional-user-journeys
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Yaseen Esmaeelpour"]
@@ -15,6 +15,7 @@ video_id: moEOrrtd93c
 url: https://www.youtube.com/watch?v=moEOrrtd93c
 youtube_url: https://www.youtube.com/watch?v=moEOrrtd93c
 tags: ["Conference", "Graphviz", "PyConDE", "PyData", "PyData Berlin", "Python", "Streamlit", "Tech Talk", "conditional funnels", "conversion optimization", "data analytics", "data science", "data visualization", "funnel analysis", "open source", "pandas", "user behavior", "user journey mapping", "web analytics"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

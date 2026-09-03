@@ -4,7 +4,7 @@ title: "AI Building Blocks for .NET: Add intelligence to your C# apps | OD805"
 slug: ai-building-blocks-for-net-add-intelligence-to-your-c-apps
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: LB64QnwhLZM
 url: https://www.youtube.com/watch?v=LB64QnwhLZM
 youtube_url: https://www.youtube.com/watch?v=LB64QnwhLZM
 tags: ["C#"]
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

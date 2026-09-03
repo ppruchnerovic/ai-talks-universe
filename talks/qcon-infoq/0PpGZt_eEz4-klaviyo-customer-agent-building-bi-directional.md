@@ -4,7 +4,7 @@ title: "Klaviyo Customer Agent: Building Bi-Directional Conversational Commerce 
 slug: klaviyo-customer-agent-building-bi-directional
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0PpGZt_eEz4
 url: https://www.youtube.com/watch?v=0PpGZt_eEz4
 youtube_url: https://www.youtube.com/watch?v=0PpGZt_eEz4
 tags: ["Conversational AI", "Conversational Commerce", "RAG", "Generative AI", "Ecommerce", "AI Engineering", "LLM", "Klaviyo"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

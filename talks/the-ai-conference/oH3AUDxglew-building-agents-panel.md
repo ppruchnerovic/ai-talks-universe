@@ -4,7 +4,7 @@ title: "Building Agents Panel"
 slug: building-agents-panel
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: oH3AUDxglew
 url: https://www.youtube.com/watch?v=oH3AUDxglew
 youtube_url: https://www.youtube.com/watch?v=oH3AUDxglew
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

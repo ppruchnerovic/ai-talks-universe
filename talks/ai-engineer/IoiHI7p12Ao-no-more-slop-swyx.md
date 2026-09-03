@@ -4,7 +4,7 @@ title: "No More Slop – swyx"
 slug: no-more-slop-swyx
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["No More Slop"]
@@ -15,6 +15,7 @@ video_id: IoiHI7p12Ao
 url: https://www.youtube.com/watch?v=IoiHI7p12Ao
 youtube_url: https://www.youtube.com/watch?v=IoiHI7p12Ao
 tags: []
+topics: []
 transcript: false
 ---
 

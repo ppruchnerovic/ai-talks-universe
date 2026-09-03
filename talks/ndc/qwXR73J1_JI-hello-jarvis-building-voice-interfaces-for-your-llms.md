@@ -4,7 +4,7 @@ title: "Hello JARVIS - Building Voice Interfaces for Your LLMS - Nathaniel Okenw
 slug: hello-jarvis-building-voice-interfaces-for-your-llms
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Nathaniel Okenwa"]
@@ -15,6 +15,7 @@ video_id: qwXR73J1_JI
 url: https://www.youtube.com/watch?v=qwXR73J1_JI
 youtube_url: https://www.youtube.com/watch?v=qwXR73J1_JI
 tags: ["AI", "UI", "UX", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "UK", "Great Britain", "United Kingdom", "Nathaniel Okenwa"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Zero Trust for Agentic Systems: Managing Non-Human 
 slug: aws-re-invent-2025-zero-trust-for-agentic-systems-managing
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1TWq4tpTIsc
 url: https://www.youtube.com/watch?v=1TWq4tpTIsc
 youtube_url: https://www.youtube.com/watch?v=1TWq4tpTIsc
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Episode 10: Meeting March 14 2024 - OWASP Top 10 For LLM Applications"
 slug: episode-10-meeting-march-14-2024-owasp-top-10-for-llm
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: DRlruv0c9RA
 url: https://www.youtube.com/watch?v=DRlruv0c9RA
 youtube_url: https://www.youtube.com/watch?v=DRlruv0c9RA
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Théo Gnassounou - Tackling Domain Shift with SKADA: A Hands-On Guide to
 slug: theo-gnassounou-tackling-domain-shift-with-skada-a-hands-on
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Théo Gnassounou"]
@@ -15,6 +15,7 @@ video_id: VmP2C8anxE0
 url: https://www.youtube.com/watch?v=VmP2C8anxE0
 youtube_url: https://www.youtube.com/watch?v=VmP2C8anxE0
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: false
 ---
 

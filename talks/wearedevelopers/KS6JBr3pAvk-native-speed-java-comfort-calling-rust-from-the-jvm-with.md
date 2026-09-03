@@ -4,7 +4,7 @@ title: "Native Speed, Java Comfort: Calling Rust from the JVM with Project Panam
 slug: native-speed-java-comfort-calling-rust-from-the-jvm-with
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Gonzalo Ortiz Jaureguizar"]
@@ -15,6 +15,7 @@ video_id: KS6JBr3pAvk
 url: https://www.youtube.com/watch?v=KS6JBr3pAvk
 youtube_url: https://www.youtube.com/watch?v=KS6JBr3pAvk
 tags: ["Languages & Runtimes", "Java", "JVM", "Performance", "Rust"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Evals Are Not Unit Tests — Ido Pesok, Vercel v0"
 slug: evals-are-not-unit-tests-ido-pesok-vercel-v0
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ido Pesok"]
@@ -15,6 +15,7 @@ video_id: L8OoYeDI_ls
 url: https://www.youtube.com/watch?v=L8OoYeDI_ls
 youtube_url: https://www.youtube.com/watch?v=L8OoYeDI_ls
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability"]
 transcript: false
 ---
 

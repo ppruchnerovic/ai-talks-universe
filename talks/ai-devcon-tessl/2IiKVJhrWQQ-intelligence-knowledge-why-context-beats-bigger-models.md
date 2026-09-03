@@ -4,7 +4,7 @@ title: "Intelligence ≠ Knowledge: Why Context Beats Bigger Models"
 slug: intelligence-knowledge-why-context-beats-bigger-models
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2IiKVJhrWQQ
 url: https://www.youtube.com/watch?v=2IiKVJhrWQQ
 youtube_url: https://www.youtube.com/watch?v=2IiKVJhrWQQ
 tags: ["ainativedev"]
+topics: ["Coding assistants & agents", "Prompting & context engineering"]
 transcript: true
 ---
 

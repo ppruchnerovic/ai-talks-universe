@@ -4,7 +4,7 @@ title: "Confused Learning: Supply Chain Attacks through Machine Learning Models"
 slug: confused-learning-supply-chain-attacks-through-machine
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: HJm-luyvVR8
 url: https://www.youtube.com/watch?v=HJm-luyvVR8
 youtube_url: https://www.youtube.com/watch?v=HJm-luyvVR8
 tags: []
+topics: ["Classic ML & data science", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

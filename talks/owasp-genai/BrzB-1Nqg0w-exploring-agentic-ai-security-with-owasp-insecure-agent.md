@@ -4,7 +4,7 @@ title: "Exploring Agentic AI Security with OWASP: Insecure Agent Hackathon Apr 1
 slug: exploring-agentic-ai-security-with-owasp-insecure-agent
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: BrzB-1Nqg0w
 url: https://www.youtube.com/watch?v=BrzB-1Nqg0w
 youtube_url: https://www.youtube.com/watch?v=BrzB-1Nqg0w
 tags: ["owasp", "genai security project", "ai security", "agent ai", "ai agents", "NYC", "Apr 1", "insecure agent hackathon", "hackathon"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "POC Prison: Why agentic systems never escape the lab and how to fix that
 slug: poc-prison-why-agentic-systems-never-escape-the-lab-and-how
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Luise Freese"]
@@ -15,6 +15,7 @@ video_id: L-J29rWtnkY
 url: https://www.youtube.com/watch?v=L-J29rWtnkY
 youtube_url: https://www.youtube.com/watch?v=L-J29rWtnkY
 tags: ["AI", "Architecture", "Cloud", "Continuous Delivery", "GenAI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Luise Freese"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

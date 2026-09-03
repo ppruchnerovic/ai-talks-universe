@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Train, Simulate, Deploy: Building NVIDIA-Powered Ph
 slug: aws-re-invent-2025-train-simulate-deploy-building-nvidia
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Z89T_c0J5xA
 url: https://www.youtube.com/watch?v=Z89T_c0J5xA
 youtube_url: https://www.youtube.com/watch?v=Z89T_c0J5xA
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

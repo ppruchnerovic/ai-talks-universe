@@ -4,7 +4,7 @@ title: "Is it still C#? Practical systems programming with .NET (war stories inc
 slug: is-it-still-c-practical-systems-programming-with-net-war
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Szymon Kulec"]
@@ -15,6 +15,7 @@ video_id: gHZ73dS1uSo
 url: https://www.youtube.com/watch?v=gHZ73dS1uSo
 youtube_url: https://www.youtube.com/watch?v=gHZ73dS1uSo
 tags: ["Languages & Runtimes", "C#", "Databases", ".NET", "Performance"]
+topics: []
 transcript: true
 ---
 

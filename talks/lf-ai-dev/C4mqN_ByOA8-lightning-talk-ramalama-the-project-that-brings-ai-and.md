@@ -4,7 +4,7 @@ title: "Lightning Talk: Ramalama - The Project That Brings AI and Containers Tog
 slug: lightning-talk-ramalama-the-project-that-brings-ai-and
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: C4mqN_ByOA8
 url: https://www.youtube.com/watch?v=C4mqN_ByOA8
 youtube_url: https://www.youtube.com/watch?v=C4mqN_ByOA8
 tags: []
+topics: []
 transcript: false
 ---
 

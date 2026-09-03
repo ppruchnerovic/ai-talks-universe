@@ -4,7 +4,7 @@ title: "How Meta Scaling AI-Native Engineering Tripled Code Coverage (And Cut Sl
 slug: how-meta-scaling-ai-native-engineering-tripled-code
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: pT-nyd6o_WY
 url: https://www.youtube.com/watch?v=pT-nyd6o_WY
 youtube_url: https://www.youtube.com/watch?v=pT-nyd6o_WY
 tags: ["Artificial Intelligence", "AI Native Engineering", "Meta", "Case Study", "QCon AI New York", "InfoQ", "Transcript", "Software Engineering", "Software Architecture", "Developer Experience"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

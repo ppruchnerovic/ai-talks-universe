@@ -4,7 +4,7 @@ title: "Jan Kislinger - Forged in Rust, Spoken in Python (PyData Prague #32)"
 slug: jan-kislinger-forged-in-rust-spoken-in-python-pydata-prague
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Jan Kislinger"]
@@ -15,6 +15,7 @@ video_id: ES7GsF_1Y_I
 url: https://www.youtube.com/watch?v=ES7GsF_1Y_I
 youtube_url: https://www.youtube.com/watch?v=ES7GsF_1Y_I
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

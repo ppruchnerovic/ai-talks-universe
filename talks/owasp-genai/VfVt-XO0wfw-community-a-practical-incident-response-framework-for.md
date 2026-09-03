@@ -4,7 +4,7 @@ title: "Community | A Practical Incident Response Framework for Generative AI Sy
 slug: community-a-practical-incident-response-framework-for
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Derrisa Tuscano"]
@@ -15,6 +15,7 @@ video_id: VfVt-XO0wfw
 url: https://www.youtube.com/watch?v=VfVt-XO0wfw
 youtube_url: https://www.youtube.com/watch?v=VfVt-XO0wfw
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

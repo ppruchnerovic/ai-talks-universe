@@ -4,7 +4,7 @@ title: "Inside Kikimora: We Built a Dark Software Factory"
 slug: inside-kikimora-we-built-a-dark-software-factory
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: u37qkpp5eB8
 url: https://www.youtube.com/watch?v=u37qkpp5eB8
 youtube_url: https://www.youtube.com/watch?v=u37qkpp5eB8
 tags: ["AI coding", "Kikimora", "Kikimora software factory", "Tessl's coding transformation", "agent development", "ainativedev", "automated PRs", "autonomous coding agents", "autonomous software production", "coding agents", "dark factory", "engineering teamwork", "software factory", "trust in automated PRs", "what is a dark factory"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

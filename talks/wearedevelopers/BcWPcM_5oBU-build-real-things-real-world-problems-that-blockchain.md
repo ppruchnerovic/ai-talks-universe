@@ -4,7 +4,7 @@ title: "Build Real Things: Real-World Problems That Blockchain Actually Solves"
 slug: build-real-things-real-world-problems-that-blockchain
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: BcWPcM_5oBU
 url: https://www.youtube.com/watch?v=BcWPcM_5oBU
 youtube_url: https://www.youtube.com/watch?v=BcWPcM_5oBU
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "algorand", "blockchain development", "smart contracts", "web3", "dapps", "crypto for developers", "humanitarian tech", "python", "typescript", "algokit", "developer tools", "live coding", "tokenization", "real world use cases", "blockchain tutorial", "get started with blockchain", "decentralized applications"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

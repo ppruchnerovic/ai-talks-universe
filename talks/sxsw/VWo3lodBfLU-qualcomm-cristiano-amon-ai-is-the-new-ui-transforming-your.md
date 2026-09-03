@@ -4,7 +4,7 @@ title: "Qualcomm Cristiano Amon: AI is the new UI - Transforming Your Everyday |
 slug: qualcomm-cristiano-amon-ai-is-the-new-ui-transforming-your
 conference: sxsw
 conference_name: "SXSW"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "SXSW 2025 keynotes & featured"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: VWo3lodBfLU
 url: https://www.youtube.com/watch?v=VWo3lodBfLU
 youtube_url: https://www.youtube.com/watch?v=VWo3lodBfLU
 tags: []
+topics: []
 transcript: false
 ---
 

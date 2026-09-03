@@ -4,7 +4,7 @@ title: "The Art of Staying Secure | Gianni Cuozzo (Exein) with Elena Moneta (Bal
 slug: the-art-of-staying-secure-gianni-cuozzo-exein-with-elena
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Gianni Cuozzo"]
@@ -15,6 +15,7 @@ video_id: PmHK79iu_es
 url: https://www.youtube.com/watch?v=PmHK79iu_es
 youtube_url: https://www.youtube.com/watch?v=PmHK79iu_es
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

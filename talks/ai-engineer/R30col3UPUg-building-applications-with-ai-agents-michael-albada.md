@@ -4,7 +4,7 @@ title: "Building Applications with AI Agents — Michael Albada, Microsoft"
 slug: building-applications-with-ai-agents-michael-albada
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Michael Albada"]
@@ -15,6 +15,7 @@ video_id: R30col3UPUg
 url: https://www.youtube.com/watch?v=R30col3UPUg
 youtube_url: https://www.youtube.com/watch?v=R30col3UPUg
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

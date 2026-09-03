@@ -4,7 +4,7 @@ title: "Local First – How to Build Software Which Still Works after the Acquih
 slug: local-first-how-to-build-software-which-still-works-after
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Alex Good"]
@@ -15,6 +15,7 @@ video_id: iq-local-first-build-software
 url: https://www.infoq.com/presentations/local-first-build-software/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

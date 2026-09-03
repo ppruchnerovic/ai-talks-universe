@@ -4,7 +4,7 @@ title: "Episode 107 | Anthropic's Fable & Mythos Shutdown"
 slug: episode-107-anthropic-s-fable-mythos-shutdown
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Anthropic's Fable", "Mythos Shutdown"]
@@ -15,6 +15,7 @@ video_id: wDQiK9sjnx4
 url: https://www.youtube.com/watch?v=wDQiK9sjnx4
 youtube_url: https://www.youtube.com/watch?v=wDQiK9sjnx4
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

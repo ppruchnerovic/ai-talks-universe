@@ -4,7 +4,7 @@ title: "Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefe
 slug: your-mcp-server-is-bad-and-you-should-feel-bad-jeremiah
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jeremiah Lowin"]
@@ -15,6 +15,7 @@ video_id: 96G7FLab8xc
 url: https://www.youtube.com/watch?v=96G7FLab8xc
 youtube_url: https://www.youtube.com/watch?v=96G7FLab8xc
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

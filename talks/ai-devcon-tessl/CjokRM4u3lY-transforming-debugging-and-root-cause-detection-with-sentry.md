@@ -4,7 +4,7 @@ title: "Transforming Debugging and Root Cause Detection with Sentry | David Cram
 slug: transforming-debugging-and-root-cause-detection-with-sentry
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["David Cramer"]
@@ -15,6 +15,7 @@ video_id: CjokRM4u3lY
 url: https://www.youtube.com/watch?v=CjokRM4u3lY
 youtube_url: https://www.youtube.com/watch?v=CjokRM4u3lY
 tags: ["ainativedev"]
+topics: []
 transcript: false
 ---
 

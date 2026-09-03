@@ -4,7 +4,7 @@ title: "Unlock smart collaboration with Microsoft Teams | BRK280"
 slug: unlock-smart-collaboration-with-microsoft-teams-brk280
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ilya Bukshteyn", "Pete Daderko", "Kerry Perez Heffernan"]
@@ -15,6 +15,7 @@ video_id: 9jWgw1GuNnU
 url: https://www.youtube.com/watch?v=9jWgw1GuNnU
 youtube_url: https://www.youtube.com/watch?v=9jWgw1GuNnU
 tags: ["AI", "Admin Copilot", "BRK280", "Breakout", "Copilot for M365", "Devices", "English (US)", "Ilya Bukshteyn", "Intermediate (200)", "Microsoft Places", "Microsoft Teams", "Modern Work", "Modern Work-Curated", "Pete Daderko", "Technical", "Unlock smart collaboration with Microsoft Teams | BRK280", "Workplace", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

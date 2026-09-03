@@ -4,7 +4,7 @@ title: "Fireside Chat: Andrew Ng and Alfred Lin"
 slug: fireside-chat-andrew-ng-and-alfred-lin
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 26a2jf1AXf8
 url: https://www.youtube.com/watch?v=26a2jf1AXf8
 youtube_url: https://www.youtube.com/watch?v=26a2jf1AXf8
 tags: []
+topics: []
 transcript: true
 ---
 

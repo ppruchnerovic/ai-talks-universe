@@ -4,7 +4,7 @@ title: "Beyond local tools: Deep dive into MCP by James Ward, Maximilian Schellh
 slug: beyond-local-tools-deep-dive-into-mcp-by-james-ward
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["James Ward", "Maximilian Schellhorn"]
@@ -15,6 +15,7 @@ video_id: EgKsRsx1-HM
 url: https://www.youtube.com/watch?v=EgKsRsx1-HM
 youtube_url: https://www.youtube.com/watch?v=EgKsRsx1-HM
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

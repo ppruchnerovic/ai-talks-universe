@@ -4,7 +4,7 @@ title: "Your Docs Are Now AI Infrastructure (Treat Them Like It)"
 slug: your-docs-are-now-ai-infrastructure-treat-them-like-it
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Emil Sorensen"]
@@ -15,6 +15,7 @@ video_id: yYU2V1aN91I
 url: https://www.youtube.com/watch?v=yYU2V1aN91I
 youtube_url: https://www.youtube.com/watch?v=yYU2V1aN91I
 tags: ["Developer Experience", "Advocacy", "AI Coding Assistants", "APIs", "Documentation", "Embeddings", "Retrieval-Augmented Generation (RAG)", "Vector Databases"]
+topics: ["Coding assistants & agents", "Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

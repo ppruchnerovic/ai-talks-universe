@@ -4,7 +4,7 @@ title: "State of vLLM 2025 | Ray Summit 2025"
 slug: state-of-vllm-2025-ray-summit-2025
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: tN_-nktp1Hk
 url: https://www.youtube.com/watch?v=tN_-nktp1Hk
 youtube_url: https://www.youtube.com/watch?v=tN_-nktp1Hk
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

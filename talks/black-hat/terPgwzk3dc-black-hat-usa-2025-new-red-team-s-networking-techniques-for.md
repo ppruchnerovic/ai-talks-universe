@@ -4,7 +4,7 @@ title: "Black Hat USA 2025 | New Red Team's Networking Techniques for Initial Ac
 slug: black-hat-usa-2025-new-red-team-s-networking-techniques-for
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: terPgwzk3dc
 url: https://www.youtube.com/watch?v=terPgwzk3dc
 youtube_url: https://www.youtube.com/watch?v=terPgwzk3dc
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

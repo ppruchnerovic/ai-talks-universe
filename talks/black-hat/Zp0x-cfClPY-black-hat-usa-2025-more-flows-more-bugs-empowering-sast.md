@@ -4,7 +4,7 @@ title: "Black Hat USA 2025 | More Flows, More Bugs: Empowering SAST with LLMs an
 slug: black-hat-usa-2025-more-flows-more-bugs-empowering-sast
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: ["More Flows"]
@@ -15,6 +15,7 @@ video_id: Zp0x-cfClPY
 url: https://www.youtube.com/watch?v=Zp0x-cfClPY
 youtube_url: https://www.youtube.com/watch?v=Zp0x-cfClPY
 tags: []
+topics: []
 transcript: false
 ---
 

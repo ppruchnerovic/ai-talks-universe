@@ -4,7 +4,7 @@ title: "Startup Spotlight - ArmorIQ"
 slug: startup-spotlight-armoriq
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Startup Spotlight"]
@@ -15,6 +15,7 @@ video_id: 5MYJ_2MDA-k
 url: https://www.youtube.com/watch?v=5MYJ_2MDA-k
 youtube_url: https://www.youtube.com/watch?v=5MYJ_2MDA-k
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

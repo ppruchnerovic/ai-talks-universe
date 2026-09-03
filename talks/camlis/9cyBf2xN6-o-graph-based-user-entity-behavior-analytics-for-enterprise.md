@@ -4,7 +4,7 @@ title: "Graph-Based User-Entity Behavior Analytics for Enterprise Insider Threat
 slug: graph-based-user-entity-behavior-analytics-for-enterprise
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9cyBf2xN6-o
 url: https://www.youtube.com/watch?v=9cyBf2xN6-o
 youtube_url: https://www.youtube.com/watch?v=9cyBf2xN6-o
 tags: []
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

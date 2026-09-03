@@ -4,7 +4,7 @@ title: "AI-Driven Development with Olivia McVicker"
 slug: ai-driven-development-with-olivia-mcvicker
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: mUgb8OZ-8pM
 url: https://www.youtube.com/watch?v=mUgb8OZ-8pM
 youtube_url: https://www.youtube.com/watch?v=mUgb8OZ-8pM
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

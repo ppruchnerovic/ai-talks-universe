@@ -4,7 +4,7 @@ title: "Anyscale's Ray Data: Revolutionizing Batch Inference | Ray Summit 2024"
 slug: anyscale-s-ray-data-revolutionizing-batch-inference-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: j-JzWvN3REw
 url: https://www.youtube.com/watch?v=j-JzWvN3REw
 youtube_url: https://www.youtube.com/watch?v=j-JzWvN3REw
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

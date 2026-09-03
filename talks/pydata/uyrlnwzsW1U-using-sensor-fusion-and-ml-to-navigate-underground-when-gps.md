@@ -4,7 +4,7 @@ title: "Using Sensor Fusion and ML to Navigate Underground When GPS Fails [PyCon
 slug: using-sensor-fusion-and-ml-to-navigate-underground-when-gps
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Étienne Tremblay"]
@@ -15,6 +15,7 @@ video_id: uyrlnwzsW1U
 url: https://www.youtube.com/watch?v=uyrlnwzsW1U
 youtube_url: https://www.youtube.com/watch?v=uyrlnwzsW1U
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

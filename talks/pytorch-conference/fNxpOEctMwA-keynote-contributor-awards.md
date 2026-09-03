@@ -4,7 +4,7 @@ title: "Keynote: Contributor Awards"
 slug: keynote-contributor-awards
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fNxpOEctMwA
 url: https://www.youtube.com/watch?v=fNxpOEctMwA
 youtube_url: https://www.youtube.com/watch?v=fNxpOEctMwA
 tags: []
+topics: []
 transcript: false
 ---
 

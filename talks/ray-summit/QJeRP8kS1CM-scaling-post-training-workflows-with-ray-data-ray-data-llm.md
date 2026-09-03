@@ -4,7 +4,7 @@ title: "Scaling Post-Training Workflows with Ray Data, Ray Data LLM, and vLLM | 
 slug: scaling-post-training-workflows-with-ray-data-ray-data-llm
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: QJeRP8kS1CM
 url: https://www.youtube.com/watch?v=QJeRP8kS1CM
 youtube_url: https://www.youtube.com/watch?v=QJeRP8kS1CM
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

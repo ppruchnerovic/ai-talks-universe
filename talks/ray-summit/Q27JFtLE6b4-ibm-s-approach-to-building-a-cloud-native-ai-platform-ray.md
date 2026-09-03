@@ -4,7 +4,7 @@ title: "IBM's Approach to Building a Cloud-Native AI Platform | Ray Summit 2024"
 slug: ibm-s-approach-to-building-a-cloud-native-ai-platform-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Q27JFtLE6b4
 url: https://www.youtube.com/watch?v=Q27JFtLE6b4
 youtube_url: https://www.youtube.com/watch?v=Q27JFtLE6b4
 tags: []
+topics: []
 transcript: false
 ---
 

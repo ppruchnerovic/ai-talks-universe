@@ -4,7 +4,7 @@ title: "Are ‘Friends’ Electric?: What It Means to Be Human Now and Tomorrow 
 slug: are-friends-electric-what-it-means-to-be-human-now-and
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Lianne Potter"]
@@ -15,6 +15,7 @@ video_id: qusJcdQ1CPo
 url: https://www.youtube.com/watch?v=qusJcdQ1CPo
 youtube_url: https://www.youtube.com/watch?v=qusJcdQ1CPo
 tags: ["AI", "ML", "Machine Learning", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "England", "United Kingdom", "UK", "Lianne Potter"]
+topics: []
 transcript: true
 ---
 

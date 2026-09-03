@@ -4,7 +4,7 @@ title: "Stop Renting Your Cognitive Infrastructure - Thiyagarajan Maruthavanan, 
 slug: stop-renting-your-cognitive-infrastructure-thiyagarajan
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Thiyagarajan Maruthavanan"]
@@ -15,6 +15,7 @@ video_id: Bck7ABCZRZI
 url: https://www.youtube.com/watch?v=Bck7ABCZRZI
 youtube_url: https://www.youtube.com/watch?v=Bck7ABCZRZI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Build AI that understands your business | ODSP1462"
 slug: build-ai-that-understands-your-business-odsp1462
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Oren Eini"]
@@ -15,6 +15,7 @@ video_id: CpdCQZzT-Rk
 url: https://www.youtube.com/watch?v=CpdCQZzT-Rk
 youtube_url: https://www.youtube.com/watch?v=CpdCQZzT-Rk
 tags: ["Build AI that understands your business | ODSP1462", "Education", "English (US)", "Innovate with low-code AI and agents", "ODSP1462", "ODSP1462_v1", "Oren Eini", "Technical", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

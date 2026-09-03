@@ -4,7 +4,7 @@ title: "The Future of Refactoring: Test Driven Navigation By Alex Bunardzic"
 slug: the-future-of-refactoring-test-driven-navigation-by-alex
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: tH8aqbHWgIM
 url: https://www.youtube.com/watch?v=tH8aqbHWgIM
 youtube_url: https://www.youtube.com/watch?v=tH8aqbHWgIM
 tags: []
+topics: []
 transcript: false
 ---
 

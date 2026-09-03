@@ -4,7 +4,7 @@ title: "When Kubernetes Meets MLflow: Orchestrating MLOps Processes the Cloud Na
 slug: when-kubernetes-meets-mlflow-orchestrating-mlops-processes
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Diego Braga"]
@@ -15,6 +15,7 @@ video_id: wFXSTnnAdjc
 url: https://www.youtube.com/watch?v=wFXSTnnAdjc
 youtube_url: https://www.youtube.com/watch?v=wFXSTnnAdjc
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

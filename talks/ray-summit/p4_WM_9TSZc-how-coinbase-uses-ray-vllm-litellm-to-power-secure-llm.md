@@ -4,7 +4,7 @@ title: "How Coinbase Uses Ray, vLLM & LiteLLM to Power Secure LLM Services | Ray
 slug: how-coinbase-uses-ray-vllm-litellm-to-power-secure-llm
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: p4_WM_9TSZc
 url: https://www.youtube.com/watch?v=p4_WM_9TSZc
 youtube_url: https://www.youtube.com/watch?v=p4_WM_9TSZc
 tags: []
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Power AI apps with insights from SQL database in Fabric | BRK196"
 slug: power-ai-apps-with-insights-from-sql-database-in-fabric
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: rVa5ygSevDQ
 url: https://www.youtube.com/watch?v=rVa5ygSevDQ
 youtube_url: https://www.youtube.com/watch?v=rVa5ygSevDQ
 tags: ["Analytics", "Anna Hoffman", "Asad Khan", "BRK196", "Breakout", "Data", "Data-Curated", "DataAnalytics", "English (US)", "Intermediate (200)", "Microsoft Fabric", "Panos/Panagiotis Antonopoulos", "Power AI apps with insights from SQL database in Fabric | BRK196", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

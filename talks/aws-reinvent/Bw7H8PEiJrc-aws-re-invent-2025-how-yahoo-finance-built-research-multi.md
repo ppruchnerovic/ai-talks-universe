@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - How Yahoo! Finance built research multi-agent syste
 slug: aws-re-invent-2025-how-yahoo-finance-built-research-multi
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Bw7H8PEiJrc
 url: https://www.youtube.com/watch?v=Bw7H8PEiJrc
 youtube_url: https://www.youtube.com/watch?v=Bw7H8PEiJrc
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

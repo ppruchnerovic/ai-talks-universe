@@ -4,7 +4,7 @@ title: "What is the Shape of an Executable?"
 slug: what-is-the-shape-of-an-executable
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []
@@ -15,6 +15,7 @@ video_id: s3exsQI9feI
 url: https://www.youtube.com/watch?v=s3exsQI9feI
 youtube_url: https://www.youtube.com/watch?v=s3exsQI9feI
 tags: ["camlis", "camlis2019"]
+topics: []
 transcript: false
 ---
 

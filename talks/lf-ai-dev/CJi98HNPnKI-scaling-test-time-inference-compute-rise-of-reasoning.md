@@ -4,7 +4,7 @@ title: "Scaling Test-time Inference Compute & Rise of Reasoning Models- Jayita B
 slug: scaling-test-time-inference-compute-rise-of-reasoning
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: CJi98HNPnKI
 url: https://www.youtube.com/watch?v=CJi98HNPnKI
 youtube_url: https://www.youtube.com/watch?v=CJi98HNPnKI
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

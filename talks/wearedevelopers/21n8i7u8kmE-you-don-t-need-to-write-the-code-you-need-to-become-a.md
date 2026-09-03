@@ -4,7 +4,7 @@ title: "You don't need to write the code. You need to become a verification arch
 slug: you-don-t-need-to-write-the-code-you-need-to-become-a
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Guillaume Moigneu"]
@@ -15,6 +15,7 @@ video_id: 21n8i7u8kmE
 url: https://www.youtube.com/watch?v=21n8i7u8kmE
 youtube_url: https://www.youtube.com/watch?v=21n8i7u8kmE
 tags: ["Developer Experience", "AI Coding Assistants", "AI Standards", "Developer Experience (DevEx)", "DevOps"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 

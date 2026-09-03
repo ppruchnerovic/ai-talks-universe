@@ -4,7 +4,7 @@ title: "Katrina Riehl - CUDA Python Kernel Authoring - PyData Boston 2025"
 slug: katrina-riehl-cuda-python-kernel-authoring-pydata-boston
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Katrina Riehl"]
@@ -15,6 +15,7 @@ video_id: 7PdoFilV8R8
 url: https://www.youtube.com/watch?v=7PdoFilV8R8
 youtube_url: https://www.youtube.com/watch?v=7PdoFilV8R8
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

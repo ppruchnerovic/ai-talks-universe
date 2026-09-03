@@ -4,7 +4,7 @@ title: "Explore technical details and applications of Microsoft 365 Copilot Busi
 slug: explore-technical-details-and-applications-of-microsoft-365
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ned Friend", "Maya Rodrig", "Kevin Sherman"]
@@ -15,6 +15,7 @@ video_id: J9bg9uZH3Jg
 url: https://www.youtube.com/watch?v=J9bg9uZH3Jg
 youtube_url: https://www.youtube.com/watch?v=J9bg9uZH3Jg
 tags: ["Adoption", "BRK274", "Breakout", "Copilot for M365", "English (US)", "Explore technical details and applications of Microsoft 365 Copilot Business Chat | BRK274", "Intermediate (200)", "Kevin Sherman", "Maya Rodrig", "Microsoft 365", "Modern Work", "Modern Work-Curated", "Ned Friend", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Deploying a GenAI Agent using Databricks Mosaic AI, Anthropic, LangGraph
 slug: deploying-a-genai-agent-using-databricks-mosaic-ai
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 11wkIH8ktrc
 url: https://www.youtube.com/watch?v=11wkIH8ktrc
 youtube_url: https://www.youtube.com/watch?v=11wkIH8ktrc
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: false
 ---
 

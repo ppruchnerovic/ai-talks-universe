@@ -4,7 +4,7 @@ title: "Data security and governance in the age of AI with Microsoft Purview | B
 slug: data-security-and-governance-in-the-age-of-ai-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Rohan Kumar", "Rudra Mitra"]
@@ -15,6 +15,7 @@ video_id: 7FpeYx0f1ck
 url: https://www.youtube.com/watch?v=7FpeYx0f1ck
 youtube_url: https://www.youtube.com/watch?v=7FpeYx0f1ck
 tags: ["BRK251", "Data security and governance in the age of AI with Microsoft Purview | BRK251", "English (US)", "Nick O'Keefe", "Rohan Kumar", "Rudra Mitra", "Secure your data", "Technical", "f28523e2-658c-4ead-9792-0deaee99be83_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

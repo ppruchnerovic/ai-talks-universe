@@ -4,7 +4,7 @@ title: "Questioning Convention: C# as a Shortcut to Startup Velocity"
 slug: questioning-convention-c-as-a-shortcut-to-startup-velocity
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Sam Cox"]
@@ -15,6 +15,7 @@ video_id: iq-c-sharp-startup
 url: https://www.infoq.com/presentations/c-sharp-startup/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

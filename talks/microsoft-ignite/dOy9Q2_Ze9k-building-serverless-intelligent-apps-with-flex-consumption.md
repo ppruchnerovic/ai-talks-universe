@@ -4,7 +4,7 @@ title: "Building serverless intelligent apps with Flex Consumption and GPUs | BR
 slug: building-serverless-intelligent-apps-with-flex-consumption
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Simon Jakesch", "Abhay Pradhan", "Paul Yuknewicz"]
@@ -15,6 +15,7 @@ video_id: dOy9Q2_Ze9k
 url: https://www.youtube.com/watch?v=dOy9Q2_Ze9k
 youtube_url: https://www.youtube.com/watch?v=dOy9Q2_Ze9k
 tags: ["AI", "Abhay Pradhan", "Advanced (300)", "Apps", "Apps-Curated", "Azure Container Apps", "Azure Functions", "BRK145", "Breakout", "Building serverless intelligent apps with Flex Consumption and GPUs | BRK145", "Cloud-native", "Containers", "English (US)", "Paul Yuknewicz", "Serverless", "Simon Jakesch", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

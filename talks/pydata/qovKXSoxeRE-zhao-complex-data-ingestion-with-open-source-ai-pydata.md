@@ -4,7 +4,7 @@ title: "Zhao - Complex Data Ingestion with Open Source AI | PyData Vermont 2025"
 slug: zhao-complex-data-ingestion-with-open-source-ai-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qovKXSoxeRE
 url: https://www.youtube.com/watch?v=qovKXSoxeRE
 youtube_url: https://www.youtube.com/watch?v=qovKXSoxeRE
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Lightning Talk: When Humans Stop Thinking: Agentic AI"
 slug: lightning-talk-when-humans-stop-thinking-agentic-ai
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: B9edzrY5fnU
 url: https://www.youtube.com/watch?v=B9edzrY5fnU
 youtube_url: https://www.youtube.com/watch?v=B9edzrY5fnU
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

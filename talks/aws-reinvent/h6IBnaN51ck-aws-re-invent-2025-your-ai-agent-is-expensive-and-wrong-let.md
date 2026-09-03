@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Your AI Agent Is Expensive and Wrong (Let's Fix Bot
 slug: aws-re-invent-2025-your-ai-agent-is-expensive-and-wrong-let
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: h6IBnaN51ck
 url: https://www.youtube.com/watch?v=h6IBnaN51ck
 youtube_url: https://www.youtube.com/watch?v=h6IBnaN51ck
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The EU AI Act: Unveiling Lesser-Known Aspects, Implementation Entities, 
 slug: the-eu-ai-act-unveiling-lesser-known-aspects-implementation
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Adrin Jalali"]
@@ -15,6 +15,7 @@ video_id: yq-p7nNMW_U
 url: https://www.youtube.com/watch?v=yq-p7nNMW_U
 youtube_url: https://www.youtube.com/watch?v=yq-p7nNMW_U
 tags: ["AI auditing", "AI ethics", "AI fairness", "AI policy", "AI regulation", "Conference", "EU AI Act", "European AI regulation", "GDPR", "PyConDE", "PyData", "Python", "Tech Talk", "algorithmic accountability", "biometric identification", "high-risk AI systems", "law enforcement AI", "machine learning governance", "regulatory compliance", "tech policy"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

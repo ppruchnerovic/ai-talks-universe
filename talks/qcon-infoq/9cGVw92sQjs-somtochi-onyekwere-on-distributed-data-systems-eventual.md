@@ -4,7 +4,7 @@ title: "Somtochi Onyekwere on Distributed Data Systems, Eventual Consistency and
 slug: somtochi-onyekwere-on-distributed-data-systems-eventual
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9cGVw92sQjs
 url: https://www.youtube.com/watch?v=9cGVw92sQjs
 youtube_url: https://www.youtube.com/watch?v=9cGVw92sQjs
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

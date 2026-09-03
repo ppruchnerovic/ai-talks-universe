@@ -4,7 +4,7 @@ title: "AI Adoption at scale in an engineering team, Thomas Bentkowski , Product
 slug: ai-adoption-at-scale-in-an-engineering-team-thomas
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: RTCKpPnxe6g
 url: https://www.youtube.com/watch?v=RTCKpPnxe6g
 youtube_url: https://www.youtube.com/watch?v=RTCKpPnxe6g
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

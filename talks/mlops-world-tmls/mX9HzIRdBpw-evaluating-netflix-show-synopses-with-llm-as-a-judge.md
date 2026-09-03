@@ -4,7 +4,7 @@ title: "Evaluating Netflix Show Synopses with LLM-as-a-Judge"
 slug: evaluating-netflix-show-synopses-with-llm-as-a-judge
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: mX9HzIRdBpw
 url: https://www.youtube.com/watch?v=mX9HzIRdBpw
 youtube_url: https://www.youtube.com/watch?v=mX9HzIRdBpw
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "OpenAI DevDay 2024 | Multimodal apps with the Realtime API"
 slug: openai-devday-2024-multimodal-apps-with-the-realtime-api
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: mM8KhTxwPgs
 url: https://www.youtube.com/watch?v=mM8KhTxwPgs
 youtube_url: https://www.youtube.com/watch?v=mM8KhTxwPgs
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

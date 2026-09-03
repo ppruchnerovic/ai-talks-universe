@@ -4,7 +4,7 @@ title: "Managing Data and AI Security Risks With DASF 2.0 — and a Customer Sto
 slug: managing-data-and-ai-security-risks-with-dasf-2-0-and-a
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: bub7eHNFtO8
 url: https://www.youtube.com/watch?v=bub7eHNFtO8
 youtube_url: https://www.youtube.com/watch?v=bub7eHNFtO8
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "USENIX Security '25 (Enigma Track) - AI Red Teaming and Automation: Expl
 slug: usenix-security-25-enigma-track-ai-red-teaming-and
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fZhl18D3O8U
 url: https://www.youtube.com/watch?v=fZhl18D3O8U
 youtube_url: https://www.youtube.com/watch?v=fZhl18D3O8U
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

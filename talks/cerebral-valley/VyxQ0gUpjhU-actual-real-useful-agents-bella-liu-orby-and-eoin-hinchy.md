@@ -4,7 +4,7 @@ title: "Actual, Real, Useful Agents: Bella Liu (Orby) and Eoin Hinchy (Tines)"
 slug: actual-real-useful-agents-bella-liu-orby-and-eoin-hinchy
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: VyxQ0gUpjhU
 url: https://www.youtube.com/watch?v=VyxQ0gUpjhU
 youtube_url: https://www.youtube.com/watch?v=VyxQ0gUpjhU
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "How Runhouse Orchestrates Multi-Cluster Ray Workloads | Ray Summit 2025"
 slug: how-runhouse-orchestrates-multi-cluster-ray-workloads-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Jv4qLDK7VMc
 url: https://www.youtube.com/watch?v=Jv4qLDK7VMc
 youtube_url: https://www.youtube.com/watch?v=Jv4qLDK7VMc
 tags: []
+topics: []
 transcript: false
 ---
 

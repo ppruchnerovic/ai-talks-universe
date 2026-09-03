@@ -4,7 +4,7 @@ title: "Open Source Success: Learnings from 1 Billion Downloads"
 slug: open-source-success-learnings-from-1-billion-downloads
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Avi Press"]
@@ -15,6 +15,7 @@ video_id: NFS-xDVVdXE
 url: https://www.youtube.com/watch?v=NFS-xDVVdXE
 youtube_url: https://www.youtube.com/watch?v=NFS-xDVVdXE
 tags: ["open source", "GitHub", "OSS business model", "ChatGPT", "artificial intelligence", "machine learning", "software development", "developer tools", "project adoption", "user behavior analysis", "maintainer best practices", "open source monetization", "Python tutorial", "community building", "contributor management", "licensing", "intellectual property", "software sustainability", "funding models", "sponsorship", "grants", "commercial support"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

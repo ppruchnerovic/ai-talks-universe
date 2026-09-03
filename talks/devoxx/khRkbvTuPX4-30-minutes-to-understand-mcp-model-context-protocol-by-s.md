@@ -4,7 +4,7 @@ title: "30 minutes to understand MCP Model Context Protocol by S ébastien Blan
 slug: 30-minutes-to-understand-mcp-model-context-protocol-by-s
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: khRkbvTuPX4
 url: https://www.youtube.com/watch?v=khRkbvTuPX4
 youtube_url: https://www.youtube.com/watch?v=khRkbvTuPX4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "WASM in the Enterprise: Secure, Portable, and Ready for Business"
 slug: wasm-in-the-enterprise-secure-portable-and-ready-for
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Andrea Peruffo"]
@@ -15,6 +15,7 @@ video_id: iq-wasm-enterprise
 url: https://www.infoq.com/presentations/wasm-enterprise/
 youtube_url: null
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Half-Day Vulnerabilities: A Study of the First Days of CVE Entries (CAML
 slug: half-day-vulnerabilities-a-study-of-the-first-days-of-cve
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
@@ -15,6 +15,7 @@ video_id: 947Zn0iZctw
 url: https://www.youtube.com/watch?v=947Zn0iZctw
 youtube_url: https://www.youtube.com/watch?v=947Zn0iZctw
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

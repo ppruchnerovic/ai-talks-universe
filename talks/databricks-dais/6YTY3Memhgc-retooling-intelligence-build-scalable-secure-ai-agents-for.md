@@ -4,7 +4,7 @@ title: "Retooling Intelligence: Build Scalable, Secure AI Agents for the Enterpr
 slug: retooling-intelligence-build-scalable-secure-ai-agents-for
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6YTY3Memhgc
 url: https://www.youtube.com/watch?v=6YTY3Memhgc
 youtube_url: https://www.youtube.com/watch?v=6YTY3Memhgc
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Security, safety & red teaming"]
 transcript: false
 ---
 

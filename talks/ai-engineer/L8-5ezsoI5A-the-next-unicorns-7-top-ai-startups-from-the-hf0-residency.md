@@ -4,7 +4,7 @@ title: "The Next Unicorns: 7 Top AI startups from the HF0 Residency"
 slug: the-next-unicorns-7-top-ai-startups-from-the-hf0-residency
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: L8-5ezsoI5A
 url: https://www.youtube.com/watch?v=L8-5ezsoI5A
 youtube_url: https://www.youtube.com/watch?v=L8-5ezsoI5A
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

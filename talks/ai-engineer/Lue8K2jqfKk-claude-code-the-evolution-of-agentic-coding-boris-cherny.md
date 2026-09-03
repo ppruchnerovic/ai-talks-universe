@@ -4,7 +4,7 @@ title: "Claude Code & the evolution of agentic coding — Boris Cherny, Anthropi
 slug: claude-code-the-evolution-of-agentic-coding-boris-cherny
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Boris Cherny"]
@@ -15,6 +15,7 @@ video_id: Lue8K2jqfKk
 url: https://www.youtube.com/watch?v=Lue8K2jqfKk
 youtube_url: https://www.youtube.com/watch?v=Lue8K2jqfKk
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

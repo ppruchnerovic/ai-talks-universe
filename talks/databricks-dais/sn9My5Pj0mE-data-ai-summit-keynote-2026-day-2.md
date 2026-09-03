@@ -4,7 +4,7 @@ title: "Data + AI Summit Keynote 2026 | Day 2"
 slug: data-ai-summit-keynote-2026-day-2
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: sn9My5Pj0mE
 url: https://www.youtube.com/watch?v=sn9My5Pj0mE
 youtube_url: https://www.youtube.com/watch?v=sn9My5Pj0mE
 tags: ["Databricks"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

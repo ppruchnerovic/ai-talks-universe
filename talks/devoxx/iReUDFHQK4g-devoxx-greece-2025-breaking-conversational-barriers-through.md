@@ -4,7 +4,7 @@ title: "Devoxx Greece 2025 - Breaking conversational barriers through multi-moda
 slug: devoxx-greece-2025-breaking-conversational-barriers-through
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: iReUDFHQK4g
 url: https://www.youtube.com/watch?v=iReUDFHQK4g
 youtube_url: https://www.youtube.com/watch?v=iReUDFHQK4g
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

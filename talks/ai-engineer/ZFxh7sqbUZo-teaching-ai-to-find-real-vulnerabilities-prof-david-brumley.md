@@ -4,7 +4,7 @@ title: "Teaching AI to Find Real Vulnerabilities — Prof. David Brumley, Bugcro
 slug: teaching-ai-to-find-real-vulnerabilities-prof-david-brumley
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Prof. David Brumley"]
@@ -15,6 +15,7 @@ video_id: ZFxh7sqbUZo
 url: https://www.youtube.com/watch?v=ZFxh7sqbUZo
 youtube_url: https://www.youtube.com/watch?v=ZFxh7sqbUZo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

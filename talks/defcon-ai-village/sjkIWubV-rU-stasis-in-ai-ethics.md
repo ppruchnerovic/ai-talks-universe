@@ -4,7 +4,7 @@ title: "Stasis in AI Ethics"
 slug: stasis-in-ai-ethics
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2021
 speakers: ["Abhishek Gupta"]
@@ -15,6 +15,7 @@ video_id: sjkIWubV-rU
 url: https://www.youtube.com/watch?v=sjkIWubV-rU
 youtube_url: https://www.youtube.com/watch?v=sjkIWubV-rU
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

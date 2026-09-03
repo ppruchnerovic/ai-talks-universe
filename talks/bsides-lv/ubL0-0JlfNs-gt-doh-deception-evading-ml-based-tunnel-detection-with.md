@@ -4,7 +4,7 @@ title: "GT - DoH Deception: Evading ML-Based Tunnel Detection with Black-Box Att
 slug: gt-doh-deception-evading-ml-based-tunnel-detection-with
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: ubL0-0JlfNs
 url: https://www.youtube.com/watch?v=ubL0-0JlfNs
 youtube_url: https://www.youtube.com/watch?v=ubL0-0JlfNs
 tags: ["MV7T7E"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

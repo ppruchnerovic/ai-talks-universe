@@ -4,7 +4,7 @@ title: "Keeping data private in real-time pipelines by Olena Kutsenko"
 slug: keeping-data-private-in-real-time-pipelines-by-olena
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Olena Kutsenko"]
@@ -15,6 +15,7 @@ video_id: coeonD6Xwxg
 url: https://www.youtube.com/watch?v=coeonD6Xwxg
 youtube_url: https://www.youtube.com/watch?v=coeonD6Xwxg
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Agentic AI Patterns by Kevin Dubois"
 slug: agentic-ai-patterns-by-kevin-dubois
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Kevin Dubois"]
@@ -15,6 +15,7 @@ video_id: V_Jg0mc9C04
 url: https://www.youtube.com/watch?v=V_Jg0mc9C04
 youtube_url: https://www.youtube.com/watch?v=V_Jg0mc9C04
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "From Logs to Decisions: Autonomous AI Agents for Real-Time Kubernetes Th
 slug: from-logs-to-decisions-autonomous-ai-agents-for-real-time
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: XiNsfhUxO2Y
 url: https://www.youtube.com/watch?v=XiNsfhUxO2Y
 youtube_url: https://www.youtube.com/watch?v=XiNsfhUxO2Y
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

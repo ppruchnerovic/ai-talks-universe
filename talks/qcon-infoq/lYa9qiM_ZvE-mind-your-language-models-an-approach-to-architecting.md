@@ -4,7 +4,7 @@ title: "Mind Your Language Models: an Approach to Architecting Intelligent Syste
 slug: mind-your-language-models-an-approach-to-architecting
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: lYa9qiM_ZvE
 url: https://www.youtube.com/watch?v=lYa9qiM_ZvE
 youtube_url: https://www.youtube.com/watch?v=lYa9qiM_ZvE
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Large Language Models", "LLMs", "Software Architecture", "InfoQ", "QCon London", "Transcript"]
+topics: []
 transcript: false
 ---
 

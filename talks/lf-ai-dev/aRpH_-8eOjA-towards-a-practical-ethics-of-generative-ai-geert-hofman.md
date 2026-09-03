@@ -4,7 +4,7 @@ title: "Towards a Practical Ethics of Generative AI - Geert Hofman"
 slug: towards-a-practical-ethics-of-generative-ai-geert-hofman
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Geert Hofman"]
@@ -15,6 +15,7 @@ video_id: aRpH_-8eOjA
 url: https://www.youtube.com/watch?v=aRpH_-8eOjA
 youtube_url: https://www.youtube.com/watch?v=aRpH_-8eOjA
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "SaTML 2024 - Andrew Geng - Model Reprogramming Outperforms Fine-tuning o
 slug: satml-2024-andrew-geng-model-reprogramming-outperforms-fine
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Andrew Geng"]
@@ -15,6 +15,7 @@ video_id: q30gKxOBPCE
 url: https://www.youtube.com/watch?v=q30gKxOBPCE
 youtube_url: https://www.youtube.com/watch?v=q30gKxOBPCE
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

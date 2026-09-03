@@ -4,7 +4,7 @@ title: "SAP Behind the Scenes"
 slug: sap-behind-the-scenes
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: n8nnvayQSjc
 url: https://www.youtube.com/watch?v=n8nnvayQSjc
 youtube_url: https://www.youtube.com/watch?v=n8nnvayQSjc
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

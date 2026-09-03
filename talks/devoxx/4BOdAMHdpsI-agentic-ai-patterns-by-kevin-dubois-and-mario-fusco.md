@@ -4,7 +4,7 @@ title: "Agentic AI Patterns by Kevin Dubois and Mario Fusco"
 slug: agentic-ai-patterns-by-kevin-dubois-and-mario-fusco
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Kevin Dubois", "Mario Fusco"]
@@ -15,6 +15,7 @@ video_id: 4BOdAMHdpsI
 url: https://www.youtube.com/watch?v=4BOdAMHdpsI
 youtube_url: https://www.youtube.com/watch?v=4BOdAMHdpsI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

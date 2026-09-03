@@ -4,7 +4,7 @@ title: "See only what you are allowed to see: Fine-Grained Authorization"
 slug: see-only-what-you-are-allowed-to-see-fine-grained
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Maria Knorps"]
@@ -15,6 +15,7 @@ video_id: sHL5aXHdcUE
 url: https://www.youtube.com/watch?v=sHL5aXHdcUE
 youtube_url: https://www.youtube.com/watch?v=sHL5aXHdcUE
 tags: ["Conference", "Google Zanzibar", "OpenFGA", "PyConDE", "PyData", "Python", "Python SDK", "ReBAC", "Tech Talk", "access control", "authorization patterns", "data security", "fine-grained authorization", "hands-on tutorial", "microservices", "permission management", "relationship-based access control", "row-level security"]
+topics: []
 transcript: false
 ---
 

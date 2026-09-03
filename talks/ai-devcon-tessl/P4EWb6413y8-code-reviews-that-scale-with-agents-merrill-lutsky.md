@@ -4,7 +4,7 @@ title: "Code Reviews That Scale with Agents | Merrill Lutsky"
 slug: code-reviews-that-scale-with-agents-merrill-lutsky
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Merrill Lutsky"]
@@ -15,6 +15,7 @@ video_id: P4EWb6413y8
 url: https://www.youtube.com/watch?v=P4EWb6413y8
 youtube_url: https://www.youtube.com/watch?v=P4EWb6413y8
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

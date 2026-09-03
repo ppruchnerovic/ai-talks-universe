@@ -4,7 +4,7 @@ title: "Annie Pearl, Microsoft: How Microsoft Azure is Fueling the Next Wave of 
 slug: annie-pearl-microsoft-how-microsoft-azure-is-fueling-the
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: thdmh_vwbsc
 url: https://www.youtube.com/watch?v=thdmh_vwbsc
 youtube_url: https://www.youtube.com/watch?v=thdmh_vwbsc
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

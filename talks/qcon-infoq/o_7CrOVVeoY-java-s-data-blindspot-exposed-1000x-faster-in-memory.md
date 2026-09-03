@@ -4,7 +4,7 @@ title: "Java's Data Blindspot EXPOSED: 1000x Faster In-Memory Processing?"
 slug: java-s-data-blindspot-exposed-1000x-faster-in-memory
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: o_7CrOVVeoY
 url: https://www.youtube.com/watch?v=o_7CrOVVeoY
 youtube_url: https://www.youtube.com/watch?v=o_7CrOVVeoY
 tags: ["Java", "Database", "EclipseStore", "AI", "ML", "Data Engineering", "InfoQ Dev Summit", "InfoQ", "Transcript", "Database Design", "In-Memory Databases", "Performance", "Software Architecture"]
+topics: []
 transcript: false
 ---
 

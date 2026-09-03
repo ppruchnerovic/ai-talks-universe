@@ -4,7 +4,7 @@ title: "TypeScript Features That Changed the Game"
 slug: typescript-features-that-changed-the-game
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Dani Coll"]
@@ -15,6 +15,7 @@ video_id: mDBU6GbvrB8
 url: https://www.youtube.com/watch?v=mDBU6GbvrB8
 youtube_url: https://www.youtube.com/watch?v=mDBU6GbvrB8
 tags: ["Languages & Runtimes", "TypeScript"]
+topics: []
 transcript: true
 ---
 

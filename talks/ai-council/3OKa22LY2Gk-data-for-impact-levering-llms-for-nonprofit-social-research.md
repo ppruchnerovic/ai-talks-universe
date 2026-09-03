@@ -4,7 +4,7 @@ title: "Data for Impact: Levering LLMs for Nonprofit Social Research"
 slug: data-for-impact-levering-llms-for-nonprofit-social-research
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Tobias Lunt"]
@@ -15,6 +15,7 @@ video_id: 3OKa22LY2Gk
 url: https://www.youtube.com/watch?v=3OKa22LY2Gk
 youtube_url: https://www.youtube.com/watch?v=3OKa22LY2Gk
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

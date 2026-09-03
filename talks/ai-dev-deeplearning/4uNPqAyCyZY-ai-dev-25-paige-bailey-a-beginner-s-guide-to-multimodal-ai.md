@@ -4,7 +4,7 @@ title: "AI Dev 25 | Paige Bailey: A Beginner's Guide to Multimodal AI with Gemin
 slug: ai-dev-25-paige-bailey-a-beginner-s-guide-to-multimodal-ai
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4uNPqAyCyZY
 url: https://www.youtube.com/watch?v=4uNPqAyCyZY
 youtube_url: https://www.youtube.com/watch?v=4uNPqAyCyZY
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

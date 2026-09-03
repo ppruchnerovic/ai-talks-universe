@@ -4,7 +4,7 @@ title: "NLP and Graph-Based Product Tracing in Supply Chains"
 slug: nlp-and-graph-based-product-tracing-in-supply-chains
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: WyOZzRtT1ZE
 url: https://www.youtube.com/watch?v=WyOZzRtT1ZE
 youtube_url: https://www.youtube.com/watch?v=WyOZzRtT1ZE
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

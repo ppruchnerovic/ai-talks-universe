@@ -4,7 +4,7 @@ title: "Edge of Intelligence: The State of AI in Browsers"
 slug: edge-of-intelligence-the-state-of-ai-in-browsers
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Johannes Kolbe"]
@@ -15,6 +15,7 @@ video_id: 7PZoZhqiV8U
 url: https://www.youtube.com/watch?v=7PZoZhqiV8U
 youtube_url: https://www.youtube.com/watch?v=7PZoZhqiV8U
 tags: ["Conference", "Hugging Face", "JavaScript AI", "ONNX", "PyConDE", "PyData", "Python", "Python conference", "Tech Talk", "TensorFlow.js", "Transformers.js", "WebAI", "WebAssembly", "WebGPU", "browser AI", "client-side ML", "edge AI", "machine learning", "privacy AI", "web development"]
+topics: []
 transcript: false
 ---
 

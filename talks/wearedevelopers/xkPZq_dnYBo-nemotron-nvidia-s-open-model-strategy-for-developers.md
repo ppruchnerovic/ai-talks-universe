@@ -4,7 +4,7 @@ title: "Nemotron: NVIDIA's open model strategy for developers"
 slug: nemotron-nvidia-s-open-model-strategy-for-developers
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Sergio Perez"]
@@ -15,6 +15,7 @@ video_id: xkPZq_dnYBo
 url: https://www.youtube.com/watch?v=xkPZq_dnYBo
 youtube_url: https://www.youtube.com/watch?v=xkPZq_dnYBo
 tags: ["AI Engineering", "AI Models", "LLMOps", "Open Source"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

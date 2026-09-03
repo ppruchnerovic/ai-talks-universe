@@ -4,7 +4,7 @@ title: "Doors of (AI)pportunity: The Front and Backdoors of LLMs - Kasimir Schul
 slug: doors-of-ai-pportunity-the-front-and-backdoors-of-llms
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Doors of", "Kasimir Schulz", "Kenneth Yeung"]
@@ -15,6 +15,7 @@ video_id: -RH4uWmgjCI
 url: https://www.youtube.com/watch?v=-RH4uWmgjCI
 youtube_url: https://www.youtube.com/watch?v=-RH4uWmgjCI
 tags: ["Security", "AI", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Norway", "Kenneth Yeung", "Kasimir Schulz", "Kasimir Schulz & Kenneth Yeung"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

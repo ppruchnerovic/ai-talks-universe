@@ -4,7 +4,7 @@ title: "Amp Code: Next Generation AI Coding – Beyang Liu, Amp Code"
 slug: amp-code-next-generation-ai-coding-beyang-liu-amp-code
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Amp Code"]
@@ -15,6 +15,7 @@ video_id: gvIAkmZUEZY
 url: https://www.youtube.com/watch?v=gvIAkmZUEZY
 youtube_url: https://www.youtube.com/watch?v=gvIAkmZUEZY
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

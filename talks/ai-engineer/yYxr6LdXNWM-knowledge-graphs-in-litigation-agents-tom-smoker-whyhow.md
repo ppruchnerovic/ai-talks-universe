@@ -4,7 +4,7 @@ title: "Knowledge Graphs in Litigation Agents — Tom Smoker, WhyHow"
 slug: knowledge-graphs-in-litigation-agents-tom-smoker-whyhow
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Tom Smoker"]
@@ -15,6 +15,7 @@ video_id: yYxr6LdXNWM
 url: https://www.youtube.com/watch?v=yYxr6LdXNWM
 youtube_url: https://www.youtube.com/watch?v=yYxr6LdXNWM
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

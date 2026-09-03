@@ -4,7 +4,7 @@ title: "Load Management for AI Models - Managing OpenAI Rate Limits with Request
 slug: load-management-for-ai-models-managing-openai-rate-limits
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0r0Tmb9pPx4
 url: https://www.youtube.com/watch?v=0r0Tmb9pPx4
 youtube_url: https://www.youtube.com/watch?v=0r0Tmb9pPx4
 tags: []
+topics: []
 transcript: false
 ---
 

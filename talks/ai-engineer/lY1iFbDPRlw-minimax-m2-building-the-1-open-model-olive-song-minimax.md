@@ -4,7 +4,7 @@ title: "Minimax M2: Building the #1 Open Model – Olive Song, MiniMax"
 slug: minimax-m2-building-the-1-open-model-olive-song-minimax
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Olive Song"]
@@ -15,6 +15,7 @@ video_id: lY1iFbDPRlw
 url: https://www.youtube.com/watch?v=lY1iFbDPRlw
 youtube_url: https://www.youtube.com/watch?v=lY1iFbDPRlw
 tags: []
+topics: []
 transcript: false
 ---
 

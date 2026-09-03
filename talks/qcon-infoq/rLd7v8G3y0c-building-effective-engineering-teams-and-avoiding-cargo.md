@@ -4,7 +4,7 @@ title: "Building Effective Engineering Teams and Avoiding Cargo Cult Practices"
 slug: building-effective-engineering-teams-and-avoiding-cargo
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: rLd7v8G3y0c
 url: https://www.youtube.com/watch?v=rLd7v8G3y0c
 youtube_url: https://www.youtube.com/watch?v=rLd7v8G3y0c
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

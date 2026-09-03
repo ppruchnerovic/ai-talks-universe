@@ -4,7 +4,7 @@ title: "Keynote: What's New in AI - Eve Phillips, Director of Product Management
 slug: keynote-what-s-new-in-ai-eve-phillips-director-of-product
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Eve Phillips"]
@@ -15,6 +15,7 @@ video_id: p9bUuOzpBGE
 url: https://www.youtube.com/watch?v=p9bUuOzpBGE
 youtube_url: https://www.youtube.com/watch?v=p9bUuOzpBGE
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

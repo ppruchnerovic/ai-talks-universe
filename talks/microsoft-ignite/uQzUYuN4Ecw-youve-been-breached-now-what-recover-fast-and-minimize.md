@@ -4,7 +4,7 @@ title: "You’ve been breached now what? Recover fast and minimize impact | BRKF
 slug: youve-been-breached-now-what-recover-fast-and-minimize
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jeremy Nelson"]
@@ -15,6 +15,7 @@ video_id: uQzUYuN4Ecw
 url: https://www.youtube.com/watch?v=uQzUYuN4Ecw
 youtube_url: https://www.youtube.com/watch?v=uQzUYuN4Ecw
 tags: ["BRKFP376", "Breakout", "Copilot for Security", "Data Security", "Data governance", "English (US)", "Exposure management", "Microsoft Defender XDR", "Microsoft Entra", "Microsoft Purview", "Microsoft Sentinel", "Security", "You’ve been breached now what? Recover fast and minimize impact | BRKFP376", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Platform Engineering Patterns for Scalable Software Delivery"
 slug: platform-engineering-patterns-for-scalable-software-delivery
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Live - August 2025"
 year: 2025
 speakers: ["Cat Morris", "Martin Reynolds", "Mike Fiedler", "Boyan Dimitrov", "Renato Losio"]
@@ -15,6 +15,7 @@ video_id: iq-platform-engineering-patterns-scalability
 url: https://www.infoq.com/presentations/platform-engineering-patterns-scalability/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

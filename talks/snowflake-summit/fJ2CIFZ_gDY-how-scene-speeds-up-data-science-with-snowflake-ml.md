@@ -4,7 +4,7 @@ title: "How Scene+ Speeds Up Data Science With Snowflake ML"
 slug: how-scene-speeds-up-data-science-with-snowflake-ml
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fJ2CIFZ_gDY
 url: https://www.youtube.com/watch?v=fJ2CIFZ_gDY
 youtube_url: https://www.youtube.com/watch?v=fJ2CIFZ_gDY
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

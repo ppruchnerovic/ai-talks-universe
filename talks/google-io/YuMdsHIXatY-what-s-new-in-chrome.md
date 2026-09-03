@@ -4,7 +4,7 @@ title: "What's new in Chrome"
 slug: what-s-new-in-chrome
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Paul Kinlan"]
@@ -15,6 +15,7 @@ video_id: YuMdsHIXatY
 url: https://www.youtube.com/watch?v=YuMdsHIXatY
 youtube_url: https://www.youtube.com/watch?v=YuMdsHIXatY
 tags: ["Chrome", "Developers", "Google", "Web", "pr_pr: Google I/O;", "ct:Event - Chrome PA Keynote;", "ct:Stack - Chrome;"]
+topics: []
 transcript: true
 ---
 

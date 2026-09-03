@@ -4,7 +4,7 @@ title: "Black Hat Europe 2025 | Why We Can't Retrofit Old Security Principles On
 slug: black-hat-europe-2025-why-we-can-t-retrofit-old-security
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: HGCwYIUgoKc
 url: https://www.youtube.com/watch?v=HGCwYIUgoKc
 youtube_url: https://www.youtube.com/watch?v=HGCwYIUgoKc
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

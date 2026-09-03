@@ -4,7 +4,7 @@ title: "AI Colearner Platform for Adaptive Self-Learning"
 slug: ai-colearner-platform-for-adaptive-self-learning
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: _kbjv5_QXwU
 url: https://www.youtube.com/watch?v=_kbjv5_QXwU
 youtube_url: https://www.youtube.com/watch?v=_kbjv5_QXwU
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

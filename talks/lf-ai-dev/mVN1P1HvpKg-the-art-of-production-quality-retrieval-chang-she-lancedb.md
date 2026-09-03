@@ -4,7 +4,7 @@ title: "The Art of Production Quality Retrieval - Chang She, LanceDB"
 slug: the-art-of-production-quality-retrieval-chang-she-lancedb
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Chang She"]
@@ -15,6 +15,7 @@ video_id: mVN1P1HvpKg
 url: https://www.youtube.com/watch?v=mVN1P1HvpKg
 youtube_url: https://www.youtube.com/watch?v=mVN1P1HvpKg
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Agent development and AgentOps with BigQuery, ADK, and MCP"
 slug: agent-development-and-agentops-with-bigquery-adk-and-mcp
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Sandeep Karmarkar", "Jiaxun Wu", "Guillaume Blaquiere"]
@@ -15,6 +15,7 @@ video_id: AKGV5wPQdd8
 url: https://www.youtube.com/watch?v=AKGV5wPQdd8
 youtube_url: https://www.youtube.com/watch?v=AKGV5wPQdd8
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

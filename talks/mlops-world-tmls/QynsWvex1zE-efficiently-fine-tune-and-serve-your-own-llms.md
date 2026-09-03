@@ -4,7 +4,7 @@ title: "Efficiently Fine-Tune And Serve Your Own LLMs"
 slug: efficiently-fine-tune-and-serve-your-own-llms
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Alex Sherstinsky"]
@@ -15,6 +15,7 @@ video_id: QynsWvex1zE
 url: https://www.youtube.com/watch?v=QynsWvex1zE
 youtube_url: https://www.youtube.com/watch?v=QynsWvex1zE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

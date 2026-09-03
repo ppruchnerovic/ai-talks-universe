@@ -4,7 +4,7 @@ title: "Modern Post-Training: A Deep Dive — Will Brown, Prime Intellect"
 slug: modern-post-training-a-deep-dive-will-brown-prime-intellect
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Will Brown"]
@@ -15,6 +15,7 @@ video_id: V-EDrhIhHzQ
 url: https://www.youtube.com/watch?v=V-EDrhIhHzQ
 youtube_url: https://www.youtube.com/watch?v=V-EDrhIhHzQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

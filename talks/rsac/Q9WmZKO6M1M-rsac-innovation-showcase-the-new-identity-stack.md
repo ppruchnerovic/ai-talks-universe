@@ -4,7 +4,7 @@ title: "RSAC Innovation Showcase: The New Identity Stack"
 slug: rsac-innovation-showcase-the-new-identity-stack
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Q9WmZKO6M1M
 url: https://www.youtube.com/watch?v=Q9WmZKO6M1M
 youtube_url: https://www.youtube.com/watch?v=Q9WmZKO6M1M
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The Agent Native Company — Rick Blalock, Agentuity"
 slug: the-agent-native-company-rick-blalock-agentuity
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Rick Blalock"]
@@ -15,6 +15,7 @@ video_id: 0ZPAvzhpGjw
 url: https://www.youtube.com/watch?v=0ZPAvzhpGjw
 youtube_url: https://www.youtube.com/watch?v=0ZPAvzhpGjw
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

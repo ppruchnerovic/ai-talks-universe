@@ -4,7 +4,7 @@ title: "Supercharging Developer Productivity with GitHub Copilot | DEM504"
 slug: supercharging-developer-productivity-with-github-copilot
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: z9528I7aSJM
 url: https://www.youtube.com/watch?v=z9528I7aSJM
 youtube_url: https://www.youtube.com/watch?v=z9528I7aSJM
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: false
 ---
 

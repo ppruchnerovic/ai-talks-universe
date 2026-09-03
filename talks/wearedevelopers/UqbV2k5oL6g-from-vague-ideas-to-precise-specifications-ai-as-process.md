@@ -4,7 +4,7 @@ title: "From Vague Ideas to Precise Specifications – AI as Process Catalyst"
 slug: from-vague-ideas-to-precise-specifications-ai-as-process
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Patrick Schnell"]
@@ -15,6 +15,7 @@ video_id: UqbV2k5oL6g
 url: https://www.youtube.com/watch?v=UqbV2k5oL6g
 youtube_url: https://www.youtube.com/watch?v=UqbV2k5oL6g
 tags: ["Developer Experience", "AI Coding Assistants", "Project Management"]
+topics: []
 transcript: true
 ---
 

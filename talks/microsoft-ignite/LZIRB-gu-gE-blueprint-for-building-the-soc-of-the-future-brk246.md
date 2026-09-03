@@ -4,7 +4,7 @@ title: "Blueprint for Building the SOC of the Future | BRK246"
 slug: blueprint-for-building-the-soc-of-the-future-brk246
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Gary Berletti", "Matt Graham", "Raviv Tamir"]
@@ -15,6 +15,7 @@ video_id: LZIRB-gu-gE
 url: https://www.youtube.com/watch?v=LZIRB-gu-gE
 youtube_url: https://www.youtube.com/watch?v=LZIRB-gu-gE
 tags: ["7f7731ed-8e90-44e8-8e47-01c7ab505d92_Segment", "BRK246", "Blueprint for Building the SOC of the Future | BRK246", "English (US)", "Gary Berletti", "Matt Graham", "Modernize SecOps with a unified platform", "Raviv Tamir", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

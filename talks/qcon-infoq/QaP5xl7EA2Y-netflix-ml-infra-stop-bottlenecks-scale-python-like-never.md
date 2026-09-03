@@ -4,7 +4,7 @@ title: "Netflix ML Infra: Stop Bottlenecks! Scale Python Like Never Before"
 slug: netflix-ml-infra-stop-bottlenecks-scale-python-like-never
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: QaP5xl7EA2Y
 url: https://www.youtube.com/watch?v=QaP5xl7EA2Y
 youtube_url: https://www.youtube.com/watch?v=QaP5xl7EA2Y
 tags: ["Case Study", "QCon San Francisco", "Netflix", "Machine Learning", "Python", "Software Architecture", "MLOps", "Transcript"]
+topics: []
 transcript: false
 ---
 

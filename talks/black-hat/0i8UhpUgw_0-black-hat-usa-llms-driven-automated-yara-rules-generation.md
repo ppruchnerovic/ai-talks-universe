@@ -4,7 +4,7 @@ title: "Black Hat USA | LLMs-Driven Automated YARA Rules Generation with Explain
 slug: black-hat-usa-llms-driven-automated-yara-rules-generation
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0i8UhpUgw_0
 url: https://www.youtube.com/watch?v=0i8UhpUgw_0
 youtube_url: https://www.youtube.com/watch?v=0i8UhpUgw_0
 tags: []
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

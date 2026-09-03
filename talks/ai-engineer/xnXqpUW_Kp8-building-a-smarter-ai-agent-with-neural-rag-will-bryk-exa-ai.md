@@ -4,7 +4,7 @@ title: "Building a Smarter AI Agent with Neural RAG - Will Bryk, Exa.ai"
 slug: building-a-smarter-ai-agent-with-neural-rag-will-bryk-exa-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Will Bryk"]
@@ -15,6 +15,7 @@ video_id: xnXqpUW_Kp8
 url: https://www.youtube.com/watch?v=xnXqpUW_Kp8
 youtube_url: https://www.youtube.com/watch?v=xnXqpUW_Kp8
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

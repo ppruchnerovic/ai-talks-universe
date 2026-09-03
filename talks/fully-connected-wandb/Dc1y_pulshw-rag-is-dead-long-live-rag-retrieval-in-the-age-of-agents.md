@@ -4,7 +4,7 @@ title: "RAG is dead, long live RAG: Retrieval in the age of agents - LightOn @ F
 slug: rag-is-dead-long-live-rag-retrieval-in-the-age-of-agents
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Dc1y_pulshw
 url: https://www.youtube.com/watch?v=Dc1y_pulshw
 youtube_url: https://www.youtube.com/watch?v=Dc1y_pulshw
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

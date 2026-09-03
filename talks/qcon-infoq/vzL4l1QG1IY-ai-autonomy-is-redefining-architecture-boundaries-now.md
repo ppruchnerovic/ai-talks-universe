@@ -4,7 +4,7 @@ title: "AI Autonomy Is Redefining Architecture: Boundaries Now Matter Most"
 slug: ai-autonomy-is-redefining-architecture-boundaries-now
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: vzL4l1QG1IY
 url: https://www.youtube.com/watch?v=vzL4l1QG1IY
 youtube_url: https://www.youtube.com/watch?v=vzL4l1QG1IY
 tags: ["Architecture", "AI systems", "Generative AI", "The InfoQ Podcast", "AI"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

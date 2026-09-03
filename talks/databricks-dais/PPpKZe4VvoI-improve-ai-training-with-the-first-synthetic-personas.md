@@ -4,7 +4,7 @@ title: "Improve AI Training With the First Synthetic Personas Dataset Aligned to
 slug: improve-ai-training-with-the-first-synthetic-personas
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: PPpKZe4VvoI
 url: https://www.youtube.com/watch?v=PPpKZe4VvoI
 youtube_url: https://www.youtube.com/watch?v=PPpKZe4VvoI
 tags: []
+topics: []
 transcript: false
 ---
 

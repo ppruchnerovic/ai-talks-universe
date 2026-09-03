@@ -4,7 +4,7 @@ title: "No Dropped Frames: designing a VLM around a latency budget | Moondream"
 slug: no-dropped-frames-designing-a-vlm-around-a-latency-budget
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZTYxdekag-k
 url: https://www.youtube.com/watch?v=ZTYxdekag-k
 youtube_url: https://www.youtube.com/watch?v=ZTYxdekag-k
 tags: ["AI"]
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

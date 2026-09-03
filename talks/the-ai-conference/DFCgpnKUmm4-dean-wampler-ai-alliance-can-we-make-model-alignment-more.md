@@ -4,7 +4,7 @@ title: "Dean Wampler, AI Alliance: Can We Make Model Alignment More Like Softwar
 slug: dean-wampler-ai-alliance-can-we-make-model-alignment-more
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: DFCgpnKUmm4
 url: https://www.youtube.com/watch?v=DFCgpnKUmm4
 youtube_url: https://www.youtube.com/watch?v=DFCgpnKUmm4
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

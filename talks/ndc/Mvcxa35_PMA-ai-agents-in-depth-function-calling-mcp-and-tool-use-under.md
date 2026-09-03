@@ -4,7 +4,7 @@ title: "AI Agents In-Depth – Function Calling, MCP and Tool Use Under the Hood
 slug: ai-agents-in-depth-function-calling-mcp-and-tool-use-under
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Function Calling", "Alan Smith"]
@@ -15,6 +15,7 @@ video_id: Mvcxa35_PMA
 url: https://www.youtube.com/watch?v=Mvcxa35_PMA
 youtube_url: https://www.youtube.com/watch?v=Mvcxa35_PMA
 tags: ["AI Tools and Data", "AI Agents", "AI Fundamentals", "NDC", "conferences", "2026", "Live", "Fun", "Oslo", "Norway", "LLM", "MCP", "Code", "AI", "OpenAI", "Alan Smith"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

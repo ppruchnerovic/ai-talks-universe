@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - AI in Action: How Companies Unlock Global Value & F
 slug: aws-re-invent-2025-ai-in-action-how-companies-unlock-global
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xTw9baDfXkU
 url: https://www.youtube.com/watch?v=xTw9baDfXkU
 youtube_url: https://www.youtube.com/watch?v=xTw9baDfXkU
 tags: []
+topics: []
 transcript: false
 ---
 

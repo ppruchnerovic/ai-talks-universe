@@ -4,7 +4,7 @@ title: "Accelerate CI/CD with coding agents"
 slug: accelerate-ci-cd-with-coding-agents
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Haroon Chaudhry", "Yeshwanth Gunasekaran"]
@@ -15,6 +15,7 @@ video_id: lRcMin582KI
 url: https://www.youtube.com/watch?v=lRcMin582KI
 youtube_url: https://www.youtube.com/watch?v=lRcMin582KI
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

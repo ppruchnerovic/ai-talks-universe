@@ -4,7 +4,7 @@ title: "AI Eats the World | Benedict Evans"
 slug: ai-eats-the-world-benedict-evans
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Benedict Evans"]
@@ -15,6 +15,7 @@ video_id: rTrFb-cSiwE
 url: https://www.youtube.com/watch?v=rTrFb-cSiwE
 youtube_url: https://www.youtube.com/watch?v=rTrFb-cSiwE
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: []
 transcript: false
 ---
 

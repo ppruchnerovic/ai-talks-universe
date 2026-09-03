@@ -4,7 +4,7 @@ title: "Vibe Engineering Effect Apps — Michael Arnaldi, Effectful"
 slug: vibe-engineering-effect-apps-michael-arnaldi-effectful
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Michael Arnaldi"]
@@ -15,6 +15,7 @@ video_id: Wmp2Tku2PrI
 url: https://www.youtube.com/watch?v=Wmp2Tku2PrI
 youtube_url: https://www.youtube.com/watch?v=Wmp2Tku2PrI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Prompting & context engineering"]
 transcript: true
 ---
 

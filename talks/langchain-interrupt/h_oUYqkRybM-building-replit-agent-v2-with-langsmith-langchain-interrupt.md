@@ -4,7 +4,7 @@ title: "Building Replit Agent V2 with LangSmith | LangChain Interrupt"
 slug: building-replit-agent-v2-with-langsmith-langchain-interrupt
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: h_oUYqkRybM
 url: https://www.youtube.com/watch?v=h_oUYqkRybM
 youtube_url: https://www.youtube.com/watch?v=h_oUYqkRybM
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

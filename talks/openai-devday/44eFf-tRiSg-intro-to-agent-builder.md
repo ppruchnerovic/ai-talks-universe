@@ -4,7 +4,7 @@ title: "Intro to Agent Builder"
 slug: intro-to-agent-builder
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 44eFf-tRiSg
 url: https://www.youtube.com/watch?v=44eFf-tRiSg
 youtube_url: https://www.youtube.com/watch?v=44eFf-tRiSg
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The Era of AAP: Ai Augmented Programming using only Java by Stephan Jans
 slug: the-era-of-aap-ai-augmented-programming-using-only-java-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Stephan Janssen", "Alfonso Peterssen"]
@@ -15,6 +15,7 @@ video_id: m2Wu0rveVTo
 url: https://www.youtube.com/watch?v=m2Wu0rveVTo
 youtube_url: https://www.youtube.com/watch?v=m2Wu0rveVTo
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

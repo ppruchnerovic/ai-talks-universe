@@ -4,7 +4,7 @@ title: "Evals Are Broken, Use Them Anyway — Ara Khan, Cline"
 slug: evals-are-broken-use-them-anyway-ara-khan-cline
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Evals Are Broken", "Ara Khan"]
@@ -15,6 +15,7 @@ video_id: QuuIywMG4s8
 url: https://www.youtube.com/watch?v=QuuIywMG4s8
 youtube_url: https://www.youtube.com/watch?v=QuuIywMG4s8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

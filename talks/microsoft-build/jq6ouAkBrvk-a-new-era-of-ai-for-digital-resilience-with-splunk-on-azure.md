@@ -4,7 +4,7 @@ title: "A new era of AI for digital resilience with Splunk on Azure | ODFP960"
 slug: a-new-era-of-ai-for-digital-resilience-with-splunk-on-azure
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: jq6ouAkBrvk
 url: https://www.youtube.com/watch?v=jq6ouAkBrvk
 youtube_url: https://www.youtube.com/watch?v=jq6ouAkBrvk
 tags: []
+topics: []
 transcript: false
 ---
 

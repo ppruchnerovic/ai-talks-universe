@@ -4,7 +4,7 @@ title: "[Session] Securing MCP in an Agentic World with Arjun Sambamoorthy from 
 slug: session-securing-mcp-in-an-agentic-world-with-arjun
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: W9y_a2ZOatI
 url: https://www.youtube.com/watch?v=W9y_a2ZOatI
 youtube_url: https://www.youtube.com/watch?v=W9y_a2ZOatI
 tags: ["mcp", "model context protocol", "ai agents", "ai for devs", "mcpdevsummit"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

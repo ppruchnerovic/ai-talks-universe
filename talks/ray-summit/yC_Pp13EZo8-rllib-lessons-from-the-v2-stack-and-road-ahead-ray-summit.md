@@ -4,7 +4,7 @@ title: "RLlib: Lessons from the V2 Stack and Road Ahead | Ray Summit 2025"
 slug: rllib-lessons-from-the-v2-stack-and-road-ahead-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: yC_Pp13EZo8
 url: https://www.youtube.com/watch?v=yC_Pp13EZo8
 youtube_url: https://www.youtube.com/watch?v=yC_Pp13EZo8
 tags: []
+topics: []
 transcript: false
 ---
 

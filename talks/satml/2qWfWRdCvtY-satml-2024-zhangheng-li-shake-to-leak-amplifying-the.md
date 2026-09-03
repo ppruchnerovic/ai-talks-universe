@@ -4,7 +4,7 @@ title: "SaTML 2024 - Zhangheng Li - Shake to Leak: Amplifying the Generative Pri
 slug: satml-2024-zhangheng-li-shake-to-leak-amplifying-the
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Zhangheng Li"]
@@ -15,6 +15,7 @@ video_id: 2qWfWRdCvtY
 url: https://www.youtube.com/watch?v=2qWfWRdCvtY
 youtube_url: https://www.youtube.com/watch?v=2qWfWRdCvtY
 tags: []
+topics: ["Governance, ethics & regulation", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

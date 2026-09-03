@@ -4,7 +4,7 @@ title: "Deploying GenAI for Audio Generation on Mobile CPUs With ExecuTorch - Gi
 slug: deploying-genai-for-audio-generation-on-mobile-cpus-with
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Gian Marco Iodice"]
@@ -15,6 +15,7 @@ video_id: uM5yXhb60hw
 url: https://www.youtube.com/watch?v=uM5yXhb60hw
 youtube_url: https://www.youtube.com/watch?v=uM5yXhb60hw
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

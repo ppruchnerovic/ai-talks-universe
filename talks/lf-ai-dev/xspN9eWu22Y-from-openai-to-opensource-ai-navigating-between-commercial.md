@@ -4,7 +4,7 @@ title: "From OpenAI to Opensource AI: Navigating Between Commercial Ownership an
 slug: from-openai-to-opensource-ai-navigating-between-commercial
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Raphaël Semeteys"]
@@ -15,6 +15,7 @@ video_id: xspN9eWu22Y
 url: https://www.youtube.com/watch?v=xspN9eWu22Y
 youtube_url: https://www.youtube.com/watch?v=xspN9eWu22Y
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

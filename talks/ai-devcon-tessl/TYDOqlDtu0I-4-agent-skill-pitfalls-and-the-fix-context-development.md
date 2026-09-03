@@ -4,7 +4,7 @@ title: "4 Agent Skill Pitfalls (and the Fix): Context Development Lifecycle"
 slug: 4-agent-skill-pitfalls-and-the-fix-context-development
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: TYDOqlDtu0I
 url: https://www.youtube.com/watch?v=TYDOqlDtu0I
 youtube_url: https://www.youtube.com/watch?v=TYDOqlDtu0I
 tags: ["AI DevCon", "AI Development", "AI Engineering", "AI agent skill pitfalls", "AI engineering shifts", "Anthropic model performance", "Context Engineering", "Node.js", "Node.js agent skills", "Tessl context management", "ainativedev", "evaluating AI skills", "how to optimize agent skills", "importance of context in AI", "optimizing AI models"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "[Session] MCP vs ACP vs A2A: Comparing Agent Protocols with Laurie Voss 
 slug: session-mcp-vs-acp-vs-a2a-comparing-agent-protocols-with
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: kqB_xML1SfA
 url: https://www.youtube.com/watch?v=kqB_xML1SfA
 youtube_url: https://www.youtube.com/watch?v=kqB_xML1SfA
 tags: ["mcp", "model context protocol", "ai agents", "ai for devs", "mcpdevsummit"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

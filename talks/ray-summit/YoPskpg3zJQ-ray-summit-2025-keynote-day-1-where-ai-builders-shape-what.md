@@ -4,7 +4,7 @@ title: "Ray Summit 2025 Keynote Day 1| Where AI Builders Shape What's Next"
 slug: ray-summit-2025-keynote-day-1-where-ai-builders-shape-what
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YoPskpg3zJQ
 url: https://www.youtube.com/watch?v=YoPskpg3zJQ
 youtube_url: https://www.youtube.com/watch?v=YoPskpg3zJQ
 tags: []
+topics: []
 transcript: false
 ---
 

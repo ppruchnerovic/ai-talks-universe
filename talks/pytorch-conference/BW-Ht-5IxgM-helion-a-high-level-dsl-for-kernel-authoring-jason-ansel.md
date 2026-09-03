@@ -4,7 +4,7 @@ title: "Helion: A High-level DSL for Kernel Authoring - Jason Ansel, Meta"
 slug: helion-a-high-level-dsl-for-kernel-authoring-jason-ansel
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Jason Ansel"]
@@ -15,6 +15,7 @@ video_id: BW-Ht-5IxgM
 url: https://www.youtube.com/watch?v=BW-Ht-5IxgM
 youtube_url: https://www.youtube.com/watch?v=BW-Ht-5IxgM
 tags: []
+topics: []
 transcript: false
 ---
 

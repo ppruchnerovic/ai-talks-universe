@@ -4,7 +4,7 @@ title: "Playing Pong on a shoulder press machine"
 slug: playing-pong-on-a-shoulder-press-machine
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Daniel Meilak", "Enris Nogare von Tein"]
@@ -15,6 +15,7 @@ video_id: Uw1zFipBs1I
 url: https://www.youtube.com/watch?v=Uw1zFipBs1I
 youtube_url: https://www.youtube.com/watch?v=Uw1zFipBs1I
 tags: ["Emerging Technologies", "Internet of Things (IoT)"]
+topics: []
 transcript: true
 ---
 

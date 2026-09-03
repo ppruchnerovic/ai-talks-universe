@@ -4,7 +4,7 @@ title: "BG - JARVIS Never Saw It Coming: Hacking machine learning (ML) in Speech
 slug: bg-jarvis-never-saw-it-coming-hacking-machine-learning-ml
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2018
 speakers: []
@@ -15,6 +15,7 @@ video_id: d99QshMaGtQ
 url: https://www.youtube.com/watch?v=d99QshMaGtQ
 youtube_url: https://www.youtube.com/watch?v=d99QshMaGtQ
 tags: ["bslv", "bslv2018", "bsideslv", "bsideslv2018", "bg", "breaking ground"]
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

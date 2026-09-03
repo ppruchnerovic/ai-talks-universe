@@ -4,7 +4,7 @@ title: "Context Is Eating Software Development"
 slug: context-is-eating-software-development
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: z6mgrQCg1NM
 url: https://www.youtube.com/watch?v=z6mgrQCg1NM
 youtube_url: https://www.youtube.com/watch?v=z6mgrQCg1NM
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

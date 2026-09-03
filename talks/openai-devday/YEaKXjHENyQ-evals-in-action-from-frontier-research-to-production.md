@@ -4,7 +4,7 @@ title: "Evals in Action: From Frontier Research to Production Applications"
 slug: evals-in-action-from-frontier-research-to-production
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YEaKXjHENyQ
 url: https://www.youtube.com/watch?v=YEaKXjHENyQ
 youtube_url: https://www.youtube.com/watch?v=YEaKXjHENyQ
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

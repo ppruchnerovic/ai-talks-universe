@@ -4,7 +4,7 @@ title: "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Inci
 slug: black-hat-usa-2026-the-breaking-news-the-openaihugging-face
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: ["Michael Dalton"]
@@ -15,6 +15,7 @@ video_id: 87DyyMV0kCY
 url: https://www.youtube.com/watch?v=87DyyMV0kCY
 youtube_url: https://www.youtube.com/watch?v=87DyyMV0kCY
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

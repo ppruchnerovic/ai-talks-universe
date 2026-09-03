@@ -4,7 +4,7 @@ title: "Evals for taste: Hill-climbing a slide-generation agent"
 slug: evals-for-taste-hill-climbing-a-slide-generation-agent
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: v9FTCvkV_a0
 url: https://www.youtube.com/watch?v=v9FTCvkV_a0
 youtube_url: https://www.youtube.com/watch?v=v9FTCvkV_a0
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

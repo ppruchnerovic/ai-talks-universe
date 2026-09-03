@@ -4,7 +4,7 @@ title: "Securing Code in the Age of AI - Simona Toader - NDC Security 2026"
 slug: securing-code-in-the-age-of-ai-simona-toader-ndc-security
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Simona Toader"]
@@ -15,6 +15,7 @@ video_id: nKKNrgGuU8M
 url: https://www.youtube.com/watch?v=nKKNrgGuU8M
 youtube_url: https://www.youtube.com/watch?v=nKKNrgGuU8M
 tags: ["Application Security", "Security Tooling", "SDLC", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Security", "Simona Toader"]
+topics: ["AI in the SDLC & engineering orgs", "Security, safety & red teaming"]
 transcript: true
 ---
 

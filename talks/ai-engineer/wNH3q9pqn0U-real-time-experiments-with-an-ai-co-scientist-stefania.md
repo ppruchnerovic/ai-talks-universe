@@ -4,7 +4,7 @@ title: "Real-time Experiments with an AI Co-Scientist - Stefania Druga, fmr. Goo
 slug: real-time-experiments-with-an-ai-co-scientist-stefania
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Stefania Druga"]
@@ -15,6 +15,7 @@ video_id: wNH3q9pqn0U
 url: https://www.youtube.com/watch?v=wNH3q9pqn0U
 youtube_url: https://www.youtube.com/watch?v=wNH3q9pqn0U
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

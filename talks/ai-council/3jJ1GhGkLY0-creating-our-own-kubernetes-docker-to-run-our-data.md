@@ -4,7 +4,7 @@ title: "Creating our Own Kubernetes & Docker to Run Our Data Infrastructure | Mo
 slug: creating-our-own-kubernetes-docker-to-run-our-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3jJ1GhGkLY0
 url: https://www.youtube.com/watch?v=3jJ1GhGkLY0
 youtube_url: https://www.youtube.com/watch?v=3jJ1GhGkLY0
 tags: ["data infrastructure", "data engineering", "cloud systems", "rust", "docker", "kubernetes"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

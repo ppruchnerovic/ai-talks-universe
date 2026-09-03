@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Leuvenshtein: Efficient FHE-based Edit Distance Co
 slug: usenix-security-25-leuvenshtein-efficient-fhe-based-edit
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ysvbuWkbhnQ
 url: https://www.youtube.com/watch?v=ysvbuWkbhnQ
 youtube_url: https://www.youtube.com/watch?v=ysvbuWkbhnQ
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

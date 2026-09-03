@@ -4,7 +4,7 @@ title: "Let your agentic apps talk with Azure Speech | BRK198"
 slug: let-your-agentic-apps-talk-with-azure-speech-brk198
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jacky Kang"]
@@ -15,6 +15,7 @@ video_id: mQHsytPpHmU
 url: https://www.youtube.com/watch?v=mQHsytPpHmU
 youtube_url: https://www.youtube.com/watch?v=mQHsytPpHmU
 tags: ["41b5bb55-0232-483f-b01a-36a3e77f0e1b_Segment", "BRK198", "CMP09022025", "English (US)", "Heiko Rahmel", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Jacky Kang", "James McMahon", "Let your agentic apps talk with Azure Speech | BRK198", "Sidd Shah", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The Limits of LLMs in Real-World Applications"
 slug: the-limits-of-llms-in-real-world-applications
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Deivids Vilkinsons", "Guillaume Esnou", "Laura Moritz", "Mariam Hakobyan"]
@@ -15,6 +15,7 @@ video_id: IlekqKuGBPA
 url: https://www.youtube.com/watch?v=IlekqKuGBPA
 youtube_url: https://www.youtube.com/watch?v=IlekqKuGBPA
 tags: ["AI Engineering"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

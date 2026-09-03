@@ -4,7 +4,7 @@ title: "Reliable Data Flows and Scalable Platforms: Tackling Key Data Challenges
 slug: reliable-data-flows-and-scalable-platforms-tackling-key
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Matthias Niehoff"]
@@ -15,6 +15,7 @@ video_id: iq-data-architectures-challenges
 url: https://www.infoq.com/presentations/data-architectures-challenges/
 youtube_url: null
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

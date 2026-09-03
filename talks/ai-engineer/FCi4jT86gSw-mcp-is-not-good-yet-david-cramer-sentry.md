@@ -4,7 +4,7 @@ title: "MCP Is Not Good Yet — David Cramer, Sentry"
 slug: mcp-is-not-good-yet-david-cramer-sentry
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["David Cramer"]
@@ -15,6 +15,7 @@ video_id: FCi4jT86gSw
 url: https://www.youtube.com/watch?v=FCi4jT86gSw
 youtube_url: https://www.youtube.com/watch?v=FCi4jT86gSw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

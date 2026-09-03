@@ -4,7 +4,7 @@ title: "Making Documentation AI-Ready: Preparing Your Docs for the LLM Era"
 slug: making-documentation-ai-ready-preparing-your-docs-for-the
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Edvin Teskeredzic"]
@@ -15,6 +15,7 @@ video_id: KTlgZX-fAB0
 url: https://www.youtube.com/watch?v=KTlgZX-fAB0
 youtube_url: https://www.youtube.com/watch?v=KTlgZX-fAB0
 tags: ["Developer Experience", "Documentation"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | David Loker: Context Engineering for AI Code Reviews w
 slug: ai-dev-25-x-nyc-david-loker-context-engineering-for-ai-code
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6Zrbs8_hjwM
 url: https://www.youtube.com/watch?v=6Zrbs8_hjwM
 youtube_url: https://www.youtube.com/watch?v=6Zrbs8_hjwM
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Prompting & context engineering"]
 transcript: false
 ---
 

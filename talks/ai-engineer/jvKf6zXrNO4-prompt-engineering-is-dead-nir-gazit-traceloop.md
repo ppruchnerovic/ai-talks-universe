@@ -4,7 +4,7 @@ title: "Prompt Engineering is Dead — Nir Gazit, Traceloop"
 slug: prompt-engineering-is-dead-nir-gazit-traceloop
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nir Gazit"]
@@ -15,6 +15,7 @@ video_id: jvKf6zXrNO4
 url: https://www.youtube.com/watch?v=jvKf6zXrNO4
 youtube_url: https://www.youtube.com/watch?v=jvKf6zXrNO4
 tags: []
+topics: ["Evals, observability & reliability", "Prompting & context engineering"]
 transcript: false
 ---
 

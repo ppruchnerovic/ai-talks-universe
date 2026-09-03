@@ -4,7 +4,7 @@ title: "Retrieval Augmented Generation with LangChain: â€œChatGPT for Your Dataâ
 slug: retrieval-augmented-generation-with-langchain-chatgpt-for
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: JpQ61Vi5ijs
 url: https://www.youtube.com/watch?v=JpQ61Vi5ijs
 youtube_url: https://www.youtube.com/watch?v=JpQ61Vi5ijs
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

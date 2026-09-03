@@ -4,7 +4,7 @@ title: "How Unify Built AI Research Agents at Scale with LangGraph and LangSmith
 slug: how-unify-built-ai-research-agents-at-scale-with-langgraph
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: pKk-LfhujwI
 url: https://www.youtube.com/watch?v=pKk-LfhujwI
 youtube_url: https://www.youtube.com/watch?v=pKk-LfhujwI
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

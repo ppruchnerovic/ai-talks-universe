@@ -4,7 +4,7 @@ title: "How to govern Vibe Coding for the Enterprise"
 slug: how-to-govern-vibe-coding-for-the-enterprise
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Neena Thomas"]
@@ -15,6 +15,7 @@ video_id: 3UHE26i_lfM
 url: https://www.youtube.com/watch?v=3UHE26i_lfM
 youtube_url: https://www.youtube.com/watch?v=3UHE26i_lfM
 tags: ["Security & Privacy", "AI Models", "Developer Experience (DevEx)", "Governance", "Internal Platforms"]
+topics: ["Coding assistants & agents", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

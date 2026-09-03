@@ -4,7 +4,7 @@ title: "Black Hat USA 2026 | Kinetic Prompt Injection: Agent Compromise With a P
 slug: black-hat-usa-2026-kinetic-prompt-injection-agent
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: LZkdihOzfe4
 url: https://www.youtube.com/watch?v=LZkdihOzfe4
 youtube_url: https://www.youtube.com/watch?v=LZkdihOzfe4
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

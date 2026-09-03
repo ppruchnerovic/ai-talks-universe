@@ -4,7 +4,7 @@ title: "The capability curve"
 slug: the-capability-curve
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 San Francisco"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: tP4MGcJ80Y0
 url: https://www.youtube.com/watch?v=tP4MGcJ80Y0
 youtube_url: https://www.youtube.com/watch?v=tP4MGcJ80Y0
 tags: []
+topics: []
 transcript: true
 ---
 

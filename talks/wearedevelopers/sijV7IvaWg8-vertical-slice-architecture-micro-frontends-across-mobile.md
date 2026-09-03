@@ -4,7 +4,7 @@ title: "Vertical Slice Architecture: Micro Frontends Across Mobile, Backend & ML
 slug: vertical-slice-architecture-micro-frontends-across-mobile
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jens Posingies", "Robert Pazurek", "Vivek Kuppenhalli"]
@@ -15,6 +15,7 @@ video_id: sijV7IvaWg8
 url: https://www.youtube.com/watch?v=sijV7IvaWg8
 youtube_url: https://www.youtube.com/watch?v=sijV7IvaWg8
 tags: ["Software Architecture", "Kotlin", "Kotlin Multiplatform", "TensorFlow"]
+topics: []
 transcript: true
 ---
 

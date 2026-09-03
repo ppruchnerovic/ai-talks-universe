@@ -4,7 +4,7 @@ title: "Morgan Stanley's ALPHALAB: Multi-Agent Research Across Optimization Doma
 slug: morgan-stanley-s-alphalab-multi-agent-research-across
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Brendan Rappazzo"]
@@ -15,6 +15,7 @@ video_id: kiqubc5b5Yo
 url: https://www.youtube.com/watch?v=kiqubc5b5Yo
 youtube_url: https://www.youtube.com/watch?v=kiqubc5b5Yo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "ML in Production: What Does Production Even Mean | Dagshub"
 slug: ml-in-production-what-does-production-even-mean-dagshub
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: zFViFLlcfFU
 url: https://www.youtube.com/watch?v=zFViFLlcfFU
 youtube_url: https://www.youtube.com/watch?v=zFViFLlcfFU
 tags: ["ML", "production", "data science"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

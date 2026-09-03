@@ -4,7 +4,7 @@ title: "Your AI Ships Code Faster Than Anyone Can Review It"
 slug: your-ai-ships-code-faster-than-anyone-can-review-it
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Rasmus Klärck"]
@@ -15,6 +15,7 @@ video_id: pDhlie4JR0I
 url: https://www.youtube.com/watch?v=pDhlie4JR0I
 youtube_url: https://www.youtube.com/watch?v=pDhlie4JR0I
 tags: ["Quality & Reliability", "AppSec", "Agents", "DevSecOps", "Security", "Threat Modelling"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Security, safety & red teaming"]
 transcript: true
 ---
 

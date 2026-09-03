@@ -4,7 +4,7 @@ title: "Generative AI: Scaling Adobe Firefly Infrastructure and ML Workflows"
 slug: generative-ai-scaling-adobe-firefly-infrastructure-and-ml
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1URG0BhaDW4
 url: https://www.youtube.com/watch?v=1URG0BhaDW4
 youtube_url: https://www.youtube.com/watch?v=1URG0BhaDW4
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

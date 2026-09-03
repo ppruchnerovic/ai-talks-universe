@@ -4,7 +4,7 @@ title: "Cerebral Valley: Kanjun Qiu (Imbue) and Jason Warner (Poolside) with Ale
 slug: cerebral-valley-kanjun-qiu-imbue-and-jason-warner-poolside
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: xD9IzJJy5k0
 url: https://www.youtube.com/watch?v=xD9IzJJy5k0
 youtube_url: https://www.youtube.com/watch?v=xD9IzJJy5k0
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

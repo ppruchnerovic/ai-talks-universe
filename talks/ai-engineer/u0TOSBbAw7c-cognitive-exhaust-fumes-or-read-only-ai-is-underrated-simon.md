@@ -4,7 +4,7 @@ title: "Cognitive Exhaust Fumes, or: Read-Only AI Is Underrated — Šimon Podha
 slug: cognitive-exhaust-fumes-or-read-only-ai-is-underrated-simon
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Cognitive Exhaust Fumes"]
@@ -15,6 +15,7 @@ video_id: u0TOSBbAw7c
 url: https://www.youtube.com/watch?v=u0TOSBbAw7c
 youtube_url: https://www.youtube.com/watch?v=u0TOSBbAw7c
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

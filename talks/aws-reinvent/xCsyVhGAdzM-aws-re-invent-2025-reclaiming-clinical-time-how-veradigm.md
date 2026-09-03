@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Reclaiming Clinical Time: How Veradigm Uses AI to T
 slug: aws-re-invent-2025-reclaiming-clinical-time-how-veradigm
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xCsyVhGAdzM
 url: https://www.youtube.com/watch?v=xCsyVhGAdzM
 youtube_url: https://www.youtube.com/watch?v=xCsyVhGAdzM
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

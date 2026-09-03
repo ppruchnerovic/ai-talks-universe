@@ -4,7 +4,7 @@ title: "SMART Test Automation - the experience of legacy transformation"
 slug: smart-test-automation-the-experience-of-legacy
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Leszek Włodarski"]
@@ -15,6 +15,7 @@ video_id: AFmZmKE8kCM
 url: https://www.youtube.com/watch?v=AFmZmKE8kCM
 youtube_url: https://www.youtube.com/watch?v=AFmZmKE8kCM
 tags: ["Quality & Reliability", "Automation Testing", "Best Practices", "C#", "Integration Testing", "Legacy", "PostgreSQL", "Software Architecture", "Testing"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

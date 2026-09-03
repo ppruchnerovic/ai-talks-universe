@@ -4,7 +4,7 @@ title: "Real-Time Analytics for Small Data Teams"
 slug: real-time-analytics-for-small-data-teams
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Matt Helm"]
@@ -15,6 +15,7 @@ video_id: pLb5sFZ7nWw
 url: https://www.youtube.com/watch?v=pLb5sFZ7nWw
 youtube_url: https://www.youtube.com/watch?v=pLb5sFZ7nWw
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

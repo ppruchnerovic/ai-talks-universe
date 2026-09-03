@@ -4,7 +4,7 @@ title: "Observability in Java with Micrometer - a Conversation with Marcin Grzej
 slug: observability-in-java-with-micrometer-a-conversation-with
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: LvOYFfIjLuU
 url: https://www.youtube.com/watch?v=LvOYFfIjLuU
 youtube_url: https://www.youtube.com/watch?v=LvOYFfIjLuU
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

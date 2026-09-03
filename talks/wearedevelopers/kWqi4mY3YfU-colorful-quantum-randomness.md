@@ -4,7 +4,7 @@ title: "Colorful quantum randomness"
 slug: colorful-quantum-randomness
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jakub Gaj"]
@@ -15,6 +15,7 @@ video_id: kWqi4mY3YfU
 url: https://www.youtube.com/watch?v=kWqi4mY3YfU
 youtube_url: https://www.youtube.com/watch?v=kWqi4mY3YfU
 tags: ["Emerging Technologies", "AWS", "IBM", "Quantum"]
+topics: []
 transcript: true
 ---
 

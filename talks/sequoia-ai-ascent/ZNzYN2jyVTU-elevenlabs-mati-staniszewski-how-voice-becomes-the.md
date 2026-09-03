@@ -4,7 +4,7 @@ title: "ElevenLabs' Mati Staniszewski: How Voice Becomes the Interface for AI"
 slug: elevenlabs-mati-staniszewski-how-voice-becomes-the
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZNzYN2jyVTU
 url: https://www.youtube.com/watch?v=ZNzYN2jyVTU
 youtube_url: https://www.youtube.com/watch?v=ZNzYN2jyVTU
 tags: []
+topics: ["Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

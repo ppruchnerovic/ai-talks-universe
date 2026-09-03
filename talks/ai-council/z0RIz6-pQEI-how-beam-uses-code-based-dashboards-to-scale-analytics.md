@@ -4,7 +4,7 @@ title: "How Beam Uses Code-Based Dashboards to Scale Analytics Products"
 slug: how-beam-uses-code-based-dashboards-to-scale-analytics
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Emilio Tamez"]
@@ -15,6 +15,7 @@ video_id: z0RIz6-pQEI
 url: https://www.youtube.com/watch?v=z0RIz6-pQEI
 youtube_url: https://www.youtube.com/watch?v=z0RIz6-pQEI
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

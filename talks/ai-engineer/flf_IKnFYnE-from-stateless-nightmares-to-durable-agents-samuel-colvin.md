@@ -4,7 +4,7 @@ title: "From Stateless Nightmares to Durable Agents — Samuel Colvin, Pydantic"
 slug: from-stateless-nightmares-to-durable-agents-samuel-colvin
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Samuel Colvin"]
@@ -15,6 +15,7 @@ video_id: flf_IKnFYnE
 url: https://www.youtube.com/watch?v=flf_IKnFYnE
 youtube_url: https://www.youtube.com/watch?v=flf_IKnFYnE
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

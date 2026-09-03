@@ -4,7 +4,7 @@ title: "Keynote: Cyber Threats in the Age of AI"
 slug: keynote-cyber-threats-in-the-age-of-ai
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7HVUgbuX-ZU
 url: https://www.youtube.com/watch?v=7HVUgbuX-ZU
 youtube_url: https://www.youtube.com/watch?v=7HVUgbuX-ZU
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

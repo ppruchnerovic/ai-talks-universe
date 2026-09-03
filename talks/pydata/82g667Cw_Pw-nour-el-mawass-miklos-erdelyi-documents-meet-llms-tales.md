@@ -4,7 +4,7 @@ title: "Nour El Mawass & Miklos Erdelyi - Documents Meet LLMs: Tales from the Tr
 slug: nour-el-mawass-miklos-erdelyi-documents-meet-llms-tales
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Nour El Mawass", "Miklos Erdelyi"]
@@ -15,6 +15,7 @@ video_id: 82g667Cw_Pw
 url: https://www.youtube.com/watch?v=82g667Cw_Pw
 youtube_url: https://www.youtube.com/watch?v=82g667Cw_Pw
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

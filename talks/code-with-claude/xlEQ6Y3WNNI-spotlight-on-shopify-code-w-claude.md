@@ -4,7 +4,7 @@ title: "Spotlight on Shopify | Code w/ Claude"
 slug: spotlight-on-shopify-code-w-claude
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xlEQ6Y3WNNI
 url: https://www.youtube.com/watch?v=xlEQ6Y3WNNI
 youtube_url: https://www.youtube.com/watch?v=xlEQ6Y3WNNI
 tags: []
+topics: []
 transcript: false
 ---
 

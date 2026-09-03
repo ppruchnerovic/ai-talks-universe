@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Move beyond reactive: Transform cloud ops with AWS 
 slug: aws-re-invent-2025-move-beyond-reactive-transform-cloud-ops
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: JajBEYle67I
 url: https://www.youtube.com/watch?v=JajBEYle67I
 youtube_url: https://www.youtube.com/watch?v=JajBEYle67I
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

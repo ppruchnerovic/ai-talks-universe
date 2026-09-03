@@ -4,7 +4,7 @@ title: "Fighting Fire with Algorithms: Lockheed's RL-Based Wildfire Solution | R
 slug: fighting-fire-with-algorithms-lockheed-s-rl-based-wildfire
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: rhJgOEwXw-g
 url: https://www.youtube.com/watch?v=rhJgOEwXw-g
 youtube_url: https://www.youtube.com/watch?v=rhJgOEwXw-g
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

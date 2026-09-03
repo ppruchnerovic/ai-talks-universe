@@ -4,7 +4,7 @@ title: "Empowering Data Teams: A Step-by-Step Playbook for Leads and Managers"
 slug: empowering-data-teams-a-step-by-step-playbook-for-leads-and
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: TJ8mtivMyvQ
 url: https://www.youtube.com/watch?v=TJ8mtivMyvQ
 youtube_url: https://www.youtube.com/watch?v=TJ8mtivMyvQ
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

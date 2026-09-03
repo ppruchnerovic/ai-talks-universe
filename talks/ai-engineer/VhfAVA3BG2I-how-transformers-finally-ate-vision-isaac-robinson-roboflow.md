@@ -4,7 +4,7 @@ title: "How Transformers Finally Ate Vision – Isaac Robinson, Roboflow"
 slug: how-transformers-finally-ate-vision-isaac-robinson-roboflow
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Isaac Robinson"]
@@ -15,6 +15,7 @@ video_id: VhfAVA3BG2I
 url: https://www.youtube.com/watch?v=VhfAVA3BG2I
 youtube_url: https://www.youtube.com/watch?v=VhfAVA3BG2I
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "How Meta Engineered Orion: 11 MCUs, Silicon Carbide, and the Death of So
 slug: how-meta-engineered-orion-11-mcus-silicon-carbide-and-the
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: MSz0w1YBlB8
 url: https://www.youtube.com/watch?v=MSz0w1YBlB8
 youtube_url: https://www.youtube.com/watch?v=MSz0w1YBlB8
 tags: ["Software Development", "Meta", "Orion Glasses", "AR Glasses", "QCon London", "InfoQ", "Transcript", "Augmented Reality", "Case Study", "AR", "Software Architecture"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

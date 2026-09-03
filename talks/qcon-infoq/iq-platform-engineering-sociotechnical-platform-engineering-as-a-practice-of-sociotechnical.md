@@ -4,7 +4,7 @@ title: "Platform Engineering as a Practice of Sociotechnical Excellence"
 slug: platform-engineering-as-a-practice-of-sociotechnical
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Lesley Cordero"]
@@ -15,6 +15,7 @@ video_id: iq-platform-engineering-sociotechnical
 url: https://www.infoq.com/presentations/platform-engineering-sociotechnical/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

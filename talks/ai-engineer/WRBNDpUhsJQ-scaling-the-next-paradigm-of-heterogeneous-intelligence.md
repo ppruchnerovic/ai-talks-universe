@@ -4,7 +4,7 @@ title: "Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Berta
 slug: scaling-the-next-paradigm-of-heterogeneous-intelligence
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Adrian Bertagnoli"]
@@ -15,6 +15,7 @@ video_id: WRBNDpUhsJQ
 url: https://www.youtube.com/watch?v=WRBNDpUhsJQ
 youtube_url: https://www.youtube.com/watch?v=WRBNDpUhsJQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra", "Prompting & context engineering", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

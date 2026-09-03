@@ -4,7 +4,7 @@ title: "Gateways are All You Need — Karan Sampath, Anthropic"
 slug: gateways-are-all-you-need-karan-sampath-anthropic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Karan Sampath"]
@@ -15,6 +15,7 @@ video_id: CD6R4Wf3jnY
 url: https://www.youtube.com/watch?v=CD6R4Wf3jnY
 youtube_url: https://www.youtube.com/watch?v=CD6R4Wf3jnY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

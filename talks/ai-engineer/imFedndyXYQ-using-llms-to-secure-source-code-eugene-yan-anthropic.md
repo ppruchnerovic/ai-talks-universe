@@ -4,7 +4,7 @@ title: "Using LLMs to Secure Source Code — Eugene Yan, Anthropic"
 slug: using-llms-to-secure-source-code-eugene-yan-anthropic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Eugene Yan"]
@@ -15,6 +15,7 @@ video_id: imFedndyXYQ
 url: https://www.youtube.com/watch?v=imFedndyXYQ
 youtube_url: https://www.youtube.com/watch?v=imFedndyXYQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

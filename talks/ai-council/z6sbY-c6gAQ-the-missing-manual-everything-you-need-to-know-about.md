@@ -4,7 +4,7 @@ title: "The Missing Manual: Everything You Need to Know about Snowflake Optimiza
 slug: the-missing-manual-everything-you-need-to-know-about
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: z6sbY-c6gAQ
 url: https://www.youtube.com/watch?v=z6sbY-c6gAQ
 youtube_url: https://www.youtube.com/watch?v=z6sbY-c6gAQ
 tags: ["optimization", "big data", "data storage", "analytics", "snowflake"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

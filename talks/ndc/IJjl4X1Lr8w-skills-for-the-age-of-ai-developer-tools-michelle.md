@@ -4,7 +4,7 @@ title: "Skills for the age of AI developer tools - Michelle \"MishManners\" Duke
 slug: skills-for-the-age-of-ai-developer-tools-michelle
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: IJjl4X1Lr8w
 url: https://www.youtube.com/watch?v=IJjl4X1Lr8w
 youtube_url: https://www.youtube.com/watch?v=IJjl4X1Lr8w
 tags: []
+topics: []
 transcript: false
 ---
 

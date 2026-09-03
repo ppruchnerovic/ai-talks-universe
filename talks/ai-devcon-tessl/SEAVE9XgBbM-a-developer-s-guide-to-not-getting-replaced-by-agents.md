@@ -4,7 +4,7 @@ title: "A Developer's Guide to Not Getting Replaced by Agents"
 slug: a-developer-s-guide-to-not-getting-replaced-by-agents
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: SEAVE9XgBbM
 url: https://www.youtube.com/watch?v=SEAVE9XgBbM
 youtube_url: https://www.youtube.com/watch?v=SEAVE9XgBbM
 tags: ["AI DevCon events", "AI Productivity", "AI Transformation", "AI agent management", "AIDevCon", "Coding Agents", "ainativedev", "enterprise AI rollout strategy", "good engineering practices", "how to manage AGENTS.md", "re:cinq", "re:cinq AI insights", "test coverage", "version control", "what is agentic coding"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

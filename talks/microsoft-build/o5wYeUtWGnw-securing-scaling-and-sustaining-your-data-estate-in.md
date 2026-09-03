@@ -4,7 +4,7 @@ title: "Securing, scaling, and sustaining your data estate in Microsoft Fabric |
 slug: securing-scaling-and-sustaining-your-data-estate-in
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Kim Manis"]
@@ -15,6 +15,7 @@ video_id: o5wYeUtWGnw
 url: https://www.youtube.com/watch?v=o5wYeUtWGnw
 youtube_url: https://www.youtube.com/watch?v=o5wYeUtWGnw
 tags: ["CP&D", "Data", "Kim Manis", "Microsoft Fabric", "OD816", "OD816_v1", "Securing scaling and sustaining your data estate in Microsoft Fabric | OD816", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

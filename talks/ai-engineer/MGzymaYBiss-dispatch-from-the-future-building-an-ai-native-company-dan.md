@@ -4,7 +4,7 @@ title: "Dispatch from the Future: building an AI-native Company – Dan Shipper,
 slug: dispatch-from-the-future-building-an-ai-native-company-dan
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dan Shipper"]
@@ -15,6 +15,7 @@ video_id: MGzymaYBiss
 url: https://www.youtube.com/watch?v=MGzymaYBiss
 youtube_url: https://www.youtube.com/watch?v=MGzymaYBiss
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

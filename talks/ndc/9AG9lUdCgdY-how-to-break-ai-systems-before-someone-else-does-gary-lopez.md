@@ -4,7 +4,7 @@ title: "How to Break AI Systems (Before Someone Else Does) - Gary Lopez - NDC To
 slug: how-to-break-ai-systems-before-someone-else-does-gary-lopez
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Gary Lopez"]
@@ -15,6 +15,7 @@ video_id: 9AG9lUdCgdY
 url: https://www.youtube.com/watch?v=9AG9lUdCgdY
 youtube_url: https://www.youtube.com/watch?v=9AG9lUdCgdY
 tags: ["Security", "AI", "Machine Learning", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Gary Lopez"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

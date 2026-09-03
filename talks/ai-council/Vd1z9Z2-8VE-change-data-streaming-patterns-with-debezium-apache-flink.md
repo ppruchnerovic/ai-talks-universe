@@ -4,7 +4,7 @@ title: "Change Data Streaming Patterns With Debezium & Apache Flink | Decodable"
 slug: change-data-streaming-patterns-with-debezium-apache-flink
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: Vd1z9Z2-8VE
 url: https://www.youtube.com/watch?v=Vd1z9Z2-8VE
 youtube_url: https://www.youtube.com/watch?v=Vd1z9Z2-8VE
 tags: ["apache flink", "data streaming", "debezium", "cdc"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

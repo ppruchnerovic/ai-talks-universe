@@ -4,7 +4,7 @@ title: "Mastering Modern Architecture - Oliver Sturm"
 slug: mastering-modern-architecture-oliver-sturm
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Mastering Modern Architecture", "Oliver Sturm"]
@@ -15,6 +15,7 @@ video_id: i4LAZzL8R0Y
 url: https://www.youtube.com/watch?v=i4LAZzL8R0Y
 youtube_url: https://www.youtube.com/watch?v=i4LAZzL8R0Y
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: true
 ---
 

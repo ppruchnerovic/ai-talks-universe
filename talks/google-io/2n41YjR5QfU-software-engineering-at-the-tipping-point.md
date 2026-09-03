@@ -4,7 +4,7 @@ title: "Software engineering at the tipping point"
 slug: software-engineering-at-the-tipping-point
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Adam Bender"]
@@ -15,6 +15,7 @@ video_id: 2n41YjR5QfU
 url: https://www.youtube.com/watch?v=2n41YjR5QfU
 youtube_url: https://www.youtube.com/watch?v=2n41YjR5QfU
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Professional Development;"]
+topics: []
 transcript: true
 ---
 

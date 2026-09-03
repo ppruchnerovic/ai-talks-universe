@@ -4,7 +4,7 @@ title: "From Hallucinations To Hardware: Diagnosing LLM Failures - Ryan Peirce"
 slug: from-hallucinations-to-hardware-diagnosing-llm-failures
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: ["Ryan Peirce"]
@@ -15,6 +15,7 @@ video_id: BtVwC5lGeWk
 url: https://www.youtube.com/watch?v=BtVwC5lGeWk
 youtube_url: https://www.youtube.com/watch?v=BtVwC5lGeWk
 tags: []
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

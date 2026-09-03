@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - From prompt to production: On-brand marketing image
 slug: aws-re-invent-2025-from-prompt-to-production-on-brand
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: OiJ7MU8Gdus
 url: https://www.youtube.com/watch?v=OiJ7MU8Gdus
 youtube_url: https://www.youtube.com/watch?v=OiJ7MU8Gdus
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

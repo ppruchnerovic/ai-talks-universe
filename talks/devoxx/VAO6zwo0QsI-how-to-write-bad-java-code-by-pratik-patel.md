@@ -4,7 +4,7 @@ title: "How to Write Bad Java Code by Pratik Patel"
 slug: how-to-write-bad-java-code-by-pratik-patel
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Pratik Patel"]
@@ -15,6 +15,7 @@ video_id: VAO6zwo0QsI
 url: https://www.youtube.com/watch?v=VAO6zwo0QsI
 youtube_url: https://www.youtube.com/watch?v=VAO6zwo0QsI
 tags: []
+topics: []
 transcript: true
 ---
 

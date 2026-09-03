@@ -4,7 +4,7 @@ title: "Dotphoton AG | Startup Pitches | Bruno Sanguinetti"
 slug: dotphoton-ag-startup-pitches-bruno-sanguinetti
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Startup Pitches", "Bruno Sanguinetti"]
@@ -15,6 +15,7 @@ video_id: Ym16ISv84LI
 url: https://www.youtube.com/watch?v=Ym16ISv84LI
 youtube_url: https://www.youtube.com/watch?v=Ym16ISv84LI
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

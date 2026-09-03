@@ -4,7 +4,7 @@ title: "Post-Processing and Visualization of Astrophysical Data with PyPLUTO [Py
 slug: post-processing-and-visualization-of-astrophysical-data
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Giancarlo Mattia"]
@@ -15,6 +15,7 @@ video_id: VUoxwMPVG8I
 url: https://www.youtube.com/watch?v=VUoxwMPVG8I
 youtube_url: https://www.youtube.com/watch?v=VUoxwMPVG8I
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

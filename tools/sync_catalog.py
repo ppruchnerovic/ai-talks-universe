@@ -696,6 +696,47 @@ def keep_video(v: dict, conf: dict, ai_filter: bool, src: dict | None = None,
     return True, ""
 
 
+# What makes a line of description or a tag the channel's rather than the
+# talk's: how much of one conference says it, verbatim. PyData's every
+# description carries "PyData is an educational program of NumFOCUS…" and half
+# its videos are tagged "julia" and "education"; AI Engineer tags every upload
+# "startups" and "machine learning". Topic rules reading that would file the
+# whole conference under one subject. A short line is not counted — "Speakers:"
+# is a heading, not boilerplate — and neither threshold reaches a conference's
+# real subject, because a subject is said in different words in every abstract
+# and a tag on a third of a channel's videos was set by habit, not by the talk.
+BOILERPLATE_LINE_SHARE = 0.10
+BOILERPLATE_TAG_SHARE = 0.30
+BOILERPLATE_MIN_TALKS = 10
+BOILERPLATE_MIN_CHARS = 40
+
+
+def boilerplate(descriptions: list[str], tag_lists: list[list[str]]) -> tuple[set[str], set[str]]:
+    """The description lines and the tags one conference repeats: (lines, tags).
+
+    Both lowercased and whitespace-folded, which is how without_lines() and
+    build_talks() compare them.
+    """
+    n = len(descriptions)
+    if n < BOILERPLATE_MIN_TALKS:
+        return set(), set()
+    lines = collections.Counter()
+    for d in descriptions:
+        lines.update({" ".join(l.split()).lower() for l in (d or "").split("\n")
+                      if len(l.strip()) >= BOILERPLATE_MIN_CHARS})
+    tags = collections.Counter()
+    for tg in tag_lists:
+        tags.update({t.lower() for t in tg or []})
+    return ({l for l, c in lines.items() if c > BOILERPLATE_LINE_SHARE * n},
+            {t for t, c in tags.items() if c > BOILERPLATE_TAG_SHARE * n})
+
+
+def without_lines(desc: str, stock: set[str]) -> str:
+    if not stock or not desc:
+        return desc or ""
+    return "\n".join(l for l in desc.split("\n") if " ".join(l.split()).lower() not in stock)
+
+
 def build_talks(reg: dict, only: list[str], ai_filter: bool,
                 floor: int | None) -> tuple[list[dict], dict]:
     confs = [c for c in reg["conferences"] if not only or c["slug"] in only]
@@ -770,9 +811,19 @@ def build_talks(reg: dict, only: list[str], ai_filter: bool,
         overused = {n for n, c in counts.items() if c > ceiling}
         overused |= {n for n in counts if any(w.lower() in hot for w in n.split())}
 
+        # Topics read the tags and the description, and both carry the channel's
+        # habits as well as the talk's — see boilerplate().
+        cleaned = {vid: (clean_tags(v.get("tags")), clean_description(v.get("description")))
+                   for vid, v in candidates}
+        stock_lines, stock_tags = boilerplate([d for _, d in cleaned.values()],
+                                              [tg for tg, _ in cleaned.values()])
+
         for vid, v in candidates:
             names = stated.get(vid) or [n for n in raw[vid] if n not in overused]
-            desc = clean_description(v.get("description"))
+            tags, desc = cleaned[vid]
+            topics = atu.topics_of(v.get("title"),
+                                   [x for x in tags if x.lower() not in stock_tags],
+                                   without_lines(desc, stock_lines))
             talks.append({
                 "id": vid,
                 "video_id": vid,
@@ -789,7 +840,8 @@ def build_talks(reg: dict, only: list[str], ai_filter: bool,
                 "duration_min": round(v["duration_s"] / 60) if v.get("duration_s") else None,
                 "duration_s": v.get("duration_s"),
                 "published_at": v.get("published_at"),
-                "tags": clean_tags(v.get("tags")),
+                "tags": tags,
+                "topics": topics,
                 # Not every record is a YouTube one any more. `url` is the
                 # canonical link — the video where there is a video, the talk's
                 # own page where InfoQ is all there is — and `youtube_url` says
@@ -834,6 +886,7 @@ video_id: {video_id}
 url: {url}
 youtube_url: {youtube_url}
 tags: {tags_json}
+topics: {topics_json}
 transcript: {has_transcript}
 ---
 
@@ -915,6 +968,7 @@ def render_md(t: dict) -> str:
         youtube_url=t["youtube_url"] or "null",
         conference_site=t["conference_site"],
         tags_json=json.dumps(t["tags"], ensure_ascii=False),
+        topics_json=json.dumps(t["topics"], ensure_ascii=False),
         tag_line=("\n\n" + " ".join(f"`#{x}`" for x in t["tags"])) if t["tags"] else "",
         has_transcript=str(atu.transcript_path(t["id"]).exists()).lower(),
         description=t["description"] or ("*No description published on YouTube.*"
@@ -923,13 +977,14 @@ def render_md(t: dict) -> str:
     )
 
 
-CSV_FIELDS = ["id", "title", "conference", "conference_name", "category", "edition", "year",
-              "speakers", "channel", "duration_min", "published_at", "url", "description"]
+CSV_FIELDS = ["id", "title", "conference", "conference_name", "category", "topics", "edition",
+              "year", "speakers", "channel", "duration_min", "published_at", "url", "description"]
 
 
 def csv_row(t: dict) -> dict:
     r = {k: t.get(k) for k in CSV_FIELDS}
     r["speakers"] = ", ".join(t["speakers"])
+    r["topics"] = "; ".join(t["topics"])
     return r
 
 
@@ -1068,6 +1123,14 @@ def main() -> None:
         dropped = ", ".join(f"{v} {k}" for k, v in sorted(d.items()) if v and k != "overused_speaker_names")
         print(f"  {per_conf.get(c['slug'], 0):>5}  {c['slug']:<24}"
               + (f"  (dropped {dropped})" if dropped else ""))
+    # The topic distribution, so a refresh shows it moving — and so a rule that
+    # quietly starts firing on a channel's boilerplate is seen in the run that
+    # did it rather than in the browser.
+    per_topic = collections.Counter(x for t in talks for x in t["topics"])
+    untopical = sum(1 for t in talks if not t["topics"])
+    print(f"\ntopics ({len(talks) - untopical} talks carry at least one, {untopical} none):")
+    for name in atu.TOPIC_NAMES:
+        print(f"  {per_topic.get(name, 0):>5}  {name}")
     print(f"\n  data/talks.json · data/talks.csv · talks/")
 
 

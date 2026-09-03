@@ -4,7 +4,7 @@ title: "Empowering your AI Ambitions with Azure | GS04"
 slug: empowering-your-ai-ambitions-with-azure-gs04
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Bernardo Caldas", "Asha Sharma", "Arun Ulagaratchagan", "Jeremy Winter", "Christine Sarros"]
@@ -15,6 +15,7 @@ video_id: FrZzULGfd0U
 url: https://www.youtube.com/watch?v=FrZzULGfd0U
 youtube_url: https://www.youtube.com/watch?v=FrZzULGfd0U
 tags: ["Microsoft", "Microsoft Ignite", "Arun Ulagaratchagan", "Asha Sharma", "Azure", "Bernardo Caldas", "Christine Sarros", "Empowering your AI Ambitions with Azure | GS04", "English (US)", "GS04", "General Session", "Jeremy Winter", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

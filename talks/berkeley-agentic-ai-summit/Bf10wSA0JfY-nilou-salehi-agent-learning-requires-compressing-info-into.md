@@ -4,7 +4,7 @@ title: "Nilou Salehi - Agent Learning Requires Compressing Info into an Executab
 slug: nilou-salehi-agent-learning-requires-compressing-info-into
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Nilou Salehi"]
@@ -15,6 +15,7 @@ video_id: Bf10wSA0JfY
 url: https://www.youtube.com/watch?v=Bf10wSA0JfY
 youtube_url: https://www.youtube.com/watch?v=Bf10wSA0JfY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Bootiful Spring Boot by Josh Long"
 slug: bootiful-spring-boot-by-josh-long
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Josh Long"]
@@ -15,6 +15,7 @@ video_id: NCd3-JuB5NE
 url: https://www.youtube.com/watch?v=NCd3-JuB5NE
 youtube_url: https://www.youtube.com/watch?v=NCd3-JuB5NE
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Sponsored Session: Future-Proofing AI Agents: The Strategic Role of MCP 
 slug: sponsored-session-future-proofing-ai-agents-the-strategic
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Don Murray"]
@@ -15,6 +15,7 @@ video_id: Fp-31qAW1PQ
 url: https://www.youtube.com/watch?v=Fp-31qAW1PQ
 youtube_url: https://www.youtube.com/watch?v=Fp-31qAW1PQ
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Nyah Macklin: The AI Said So? How to Build Auditable AI
 slug: ai-dev-26-x-sf-nyah-macklin-the-ai-said-so-how-to-build
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: jkHVVrZhZjQ
 url: https://www.youtube.com/watch?v=jkHVVrZhZjQ
 youtube_url: https://www.youtube.com/watch?v=jkHVVrZhZjQ
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

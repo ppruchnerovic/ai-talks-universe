@@ -4,7 +4,7 @@ title: "The Value of Data Agentic Tooling: A Work in Progress | Josh Goldstein, 
 slug: the-value-of-data-agentic-tooling-a-work-in-progress-josh
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Josh Goldstein"]
@@ -15,6 +15,7 @@ video_id: Ld4fW-DVrLI
 url: https://www.youtube.com/watch?v=Ld4fW-DVrLI
 youtube_url: https://www.youtube.com/watch?v=Ld4fW-DVrLI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

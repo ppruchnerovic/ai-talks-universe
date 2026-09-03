@@ -4,7 +4,7 @@ title: "Philip Rathle - Graphs Are the Knowledge Layer for Agentic AI"
 slug: philip-rathle-graphs-are-the-knowledge-layer-for-agentic-ai
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Philip Rathle"]
@@ -15,6 +15,7 @@ video_id: aSJL9EuT2aE
 url: https://www.youtube.com/watch?v=aSJL9EuT2aE
 youtube_url: https://www.youtube.com/watch?v=aSJL9EuT2aE
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

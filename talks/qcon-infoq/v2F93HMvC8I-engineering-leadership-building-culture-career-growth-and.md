@@ -4,7 +4,7 @@ title: "Engineering Leadership: Building Culture, Career Growth, and Ownership"
 slug: engineering-leadership-building-culture-career-growth-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: v2F93HMvC8I
 url: https://www.youtube.com/watch?v=v2F93HMvC8I
 youtube_url: https://www.youtube.com/watch?v=v2F93HMvC8I
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

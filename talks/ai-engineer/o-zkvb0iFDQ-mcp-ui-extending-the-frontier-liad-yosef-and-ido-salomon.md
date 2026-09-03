@@ -4,7 +4,7 @@ title: "MCP UI: Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps"
 slug: mcp-ui-extending-the-frontier-liad-yosef-and-ido-salomon
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Liad Yosef", "Ido Salomon"]
@@ -15,6 +15,7 @@ video_id: o-zkvb0iFDQ
 url: https://www.youtube.com/watch?v=o-zkvb0iFDQ
 youtube_url: https://www.youtube.com/watch?v=o-zkvb0iFDQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

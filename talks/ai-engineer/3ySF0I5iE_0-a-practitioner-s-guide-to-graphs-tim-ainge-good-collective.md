@@ -4,7 +4,7 @@ title: "A Practitioner's Guide to Graphs - Tim Ainge, Good Collective"
 slug: a-practitioner-s-guide-to-graphs-tim-ainge-good-collective
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Tim Ainge"]
@@ -15,6 +15,7 @@ video_id: 3ySF0I5iE_0
 url: https://www.youtube.com/watch?v=3ySF0I5iE_0
 youtube_url: https://www.youtube.com/watch?v=3ySF0I5iE_0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

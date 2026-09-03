@@ -4,7 +4,7 @@ title: "Enabling Multi-User Ray Clusters with Runhouse | Ray Summit 2024"
 slug: enabling-multi-user-ray-clusters-with-runhouse-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Tq2UNQ0IQYE
 url: https://www.youtube.com/watch?v=Tq2UNQ0IQYE
 youtube_url: https://www.youtube.com/watch?v=Tq2UNQ0IQYE
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

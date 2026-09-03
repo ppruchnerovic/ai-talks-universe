@@ -4,7 +4,7 @@ title: "The Time it Wasn't DNS"
 slug: the-time-it-wasn-t-dns
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Sean Klein"]
@@ -15,6 +15,7 @@ video_id: iq-incident-dns
 url: https://www.infoq.com/presentations/incident-dns/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

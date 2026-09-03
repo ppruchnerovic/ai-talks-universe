@@ -4,7 +4,7 @@ title: "Detecting Greenwashing Signals | Advances of ML Approaches | Susie Xi Ra
 slug: detecting-greenwashing-signals-advances-of-ml-approaches
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Detecting Greenwashing Signals", "Susie Xi Rao"]
@@ -15,6 +15,7 @@ video_id: -eNfRtGqU4o
 url: https://www.youtube.com/watch?v=-eNfRtGqU4o
 youtube_url: https://www.youtube.com/watch?v=-eNfRtGqU4o
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

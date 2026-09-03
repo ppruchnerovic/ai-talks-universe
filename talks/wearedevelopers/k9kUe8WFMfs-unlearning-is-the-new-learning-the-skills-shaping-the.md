@@ -4,7 +4,7 @@ title: "Unlearning Is the New Learning: The Skills Shaping the Future of Work"
 slug: unlearning-is-the-new-learning-the-skills-shaping-the
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: k9kUe8WFMfs
 url: https://www.youtube.com/watch?v=k9kUe8WFMfs
 youtube_url: https://www.youtube.com/watch?v=k9kUe8WFMfs
 tags: ["unlearning", "learning", "people", "culture", "hr", "leadership", "future of work", "skills", "resilience", "uncertainty", "failure culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

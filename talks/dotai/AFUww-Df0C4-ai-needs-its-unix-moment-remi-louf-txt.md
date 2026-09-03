@@ -4,7 +4,7 @@ title: "AI needs its Unix moment - Rémi Louf - .txt"
 slug: ai-needs-its-unix-moment-remi-louf-txt
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Rémi Louf"]
@@ -15,6 +15,7 @@ video_id: AFUww-Df0C4
 url: https://www.youtube.com/watch?v=AFUww-Df0C4
 youtube_url: https://www.youtube.com/watch?v=AFUww-Df0C4
 tags: []
+topics: []
 transcript: false
 ---
 

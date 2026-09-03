@@ -4,7 +4,7 @@ title: "From MCP and Vibe Coding to Harness Engineering: How Did AI Native Engin
 slug: from-mcp-and-vibe-coding-to-harness-engineering-how-did-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0givsV3pA9w
 url: https://www.youtube.com/watch?v=0givsV3pA9w
 youtube_url: https://www.youtube.com/watch?v=0givsV3pA9w
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

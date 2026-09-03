@@ -4,7 +4,7 @@ title: "From Benchmarks to Reality: Embedding HITL in Your MLOps Stack | Micaela
 slug: from-benchmarks-to-reality-embedding-hitl-in-your-mlops
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Micaela Kaplan"]
@@ -15,6 +15,7 @@ video_id: 2a0C2GEre-0
 url: https://www.youtube.com/watch?v=2a0C2GEre-0
 youtube_url: https://www.youtube.com/watch?v=2a0C2GEre-0
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

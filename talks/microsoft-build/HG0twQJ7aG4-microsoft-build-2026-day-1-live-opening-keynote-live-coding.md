@@ -4,7 +4,7 @@ title: "Microsoft Build 2026 Day 1 LIVE | Opening Keynote, Live Coding & Demos"
 slug: microsoft-build-2026-day-1-live-opening-keynote-live-coding
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: HG0twQJ7aG4
 url: https://www.youtube.com/watch?v=HG0twQJ7aG4
 youtube_url: https://www.youtube.com/watch?v=HG0twQJ7aG4
 tags: ["Azure", "Microsoft", "Tech", "Technology", "Dev", "Development", "Cloud Computing", "AI", "Microsoft AI", "GitHub", "Visual Studio", "Visual Studio Code", "VS Code"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

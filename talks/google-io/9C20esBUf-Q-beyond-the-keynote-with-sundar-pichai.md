@@ -4,7 +4,7 @@ title: "Beyond the keynote with Sundar Pichai"
 slug: beyond-the-keynote-with-sundar-pichai
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9C20esBUf-Q
 url: https://www.youtube.com/watch?v=9C20esBUf-Q
 youtube_url: https://www.youtube.com/watch?v=9C20esBUf-Q
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Dialogues;", "ct:Event - AI PA Keynote;"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Language versus thought in human brains and machines? | Evelina Federenk
 slug: language-versus-thought-in-human-brains-and-machines
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Evelina Federenko"]
@@ -15,6 +15,7 @@ video_id: YollRkMm5kA
 url: https://www.youtube.com/watch?v=YollRkMm5kA
 youtube_url: https://www.youtube.com/watch?v=YollRkMm5kA
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "ML Data Version Control and Reproducibility at Scale - Einat Orr, Treeve
 slug: ml-data-version-control-and-reproducibility-at-scale-einat
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Einat Orr"]
@@ -15,6 +15,7 @@ video_id: -xpJX014o4A
 url: https://www.youtube.com/watch?v=-xpJX014o4A
 youtube_url: https://www.youtube.com/watch?v=-xpJX014o4A
 tags: []
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

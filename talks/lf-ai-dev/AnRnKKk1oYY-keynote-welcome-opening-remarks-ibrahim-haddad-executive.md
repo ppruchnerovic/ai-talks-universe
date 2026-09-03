@@ -4,7 +4,7 @@ title: "Keynote: Welcome & Opening Remarks - Ibrahim Haddad, Executive Director,
 slug: keynote-welcome-opening-remarks-ibrahim-haddad-executive
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Ibrahim Haddad"]
@@ -15,6 +15,7 @@ video_id: AnRnKKk1oYY
 url: https://www.youtube.com/watch?v=AnRnKKk1oYY
 youtube_url: https://www.youtube.com/watch?v=AnRnKKk1oYY
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

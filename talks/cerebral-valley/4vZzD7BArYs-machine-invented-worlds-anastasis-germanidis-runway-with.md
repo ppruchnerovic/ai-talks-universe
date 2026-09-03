@@ -4,7 +4,7 @@ title: "Machine Invented Worlds: Anastasis Germanidis (Runway) with Max Child at
 slug: machine-invented-worlds-anastasis-germanidis-runway-with
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4vZzD7BArYs
 url: https://www.youtube.com/watch?v=4vZzD7BArYs
 youtube_url: https://www.youtube.com/watch?v=4vZzD7BArYs
 tags: []
+topics: []
 transcript: false
 ---
 

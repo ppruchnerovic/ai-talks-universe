@@ -4,7 +4,7 @@ title: "Technical Workshop: Observability Without Overs... Joaquin Rodriguez & A
 slug: technical-workshop-observability-without-overs-joaquin
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XiUEXVkTMsc
 url: https://www.youtube.com/watch?v=XiUEXVkTMsc
 youtube_url: https://www.youtube.com/watch?v=XiUEXVkTMsc
 tags: []
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: false
 ---
 

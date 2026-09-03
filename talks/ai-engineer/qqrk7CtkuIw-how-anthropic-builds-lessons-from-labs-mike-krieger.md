@@ -4,7 +4,7 @@ title: "How Anthropic Builds: Lessons from Labs — Mike Krieger, Anthropic"
 slug: how-anthropic-builds-lessons-from-labs-mike-krieger
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mike Krieger"]
@@ -15,6 +15,7 @@ video_id: qqrk7CtkuIw
 url: https://www.youtube.com/watch?v=qqrk7CtkuIw
 youtube_url: https://www.youtube.com/watch?v=qqrk7CtkuIw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

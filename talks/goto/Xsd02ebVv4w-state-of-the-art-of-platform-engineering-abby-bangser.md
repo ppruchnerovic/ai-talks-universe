@@ -4,7 +4,7 @@ title: "State of the Art of Platform Engineering • Abby Bangser & Charles Humb
 slug: state-of-the-art-of-platform-engineering-abby-bangser
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Abby Bangser"]
@@ -15,6 +15,7 @@ video_id: Xsd02ebVv4w
 url: https://www.youtube.com/watch?v=Xsd02ebVv4w
 youtube_url: https://www.youtube.com/watch?v=Xsd02ebVv4w
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO State of the Art", "Abby Bangser", "Platform as a Product", "Platform Engineering", "Platform Teams", "Observability", "DevEx", "Developer Experience", "DX", "Charles Humble", "Terraform"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Events are the Wrong Abstraction for Your AI Agents - Mason Egger, Tempo
 slug: events-are-the-wrong-abstraction-for-your-ai-agents-mason
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mason Egger"]
@@ -15,6 +15,7 @@ video_id: KJ9eZYTWS1Y
 url: https://www.youtube.com/watch?v=KJ9eZYTWS1Y
 youtube_url: https://www.youtube.com/watch?v=KJ9eZYTWS1Y
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

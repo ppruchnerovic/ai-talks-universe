@@ -4,7 +4,7 @@ title: "Unveiling Latest Innovations in Azure AI Foundry Model Catalog | BRK174"
 slug: unveiling-latest-innovations-in-azure-ai-foundry-model
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: gvYO5d-6kfA
 url: https://www.youtube.com/watch?v=gvYO5d-6kfA
 youtube_url: https://www.youtube.com/watch?v=gvYO5d-6kfA
 tags: []
+topics: []
 transcript: false
 ---
 

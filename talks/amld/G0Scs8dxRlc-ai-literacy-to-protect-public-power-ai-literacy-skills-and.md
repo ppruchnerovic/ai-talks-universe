@@ -4,7 +4,7 @@ title: "AI Literacy to Protect Public Power | AI Literacy, Skills and Readiness 
 slug: ai-literacy-to-protect-public-power-ai-literacy-skills-and
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Tania Duarte"]
@@ -15,6 +15,7 @@ video_id: G0Scs8dxRlc
 url: https://www.youtube.com/watch?v=G0Scs8dxRlc
 youtube_url: https://www.youtube.com/watch?v=G0Scs8dxRlc
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

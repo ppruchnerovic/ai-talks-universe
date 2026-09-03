@@ -4,7 +4,7 @@ title: ".NET Meets MCP: Build Your Own AI-Powered Service with C# - Gerald Versl
 slug: net-meets-mcp-build-your-own-ai-powered-service-with-c
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Gerald Versluis"]
@@ -15,6 +15,7 @@ video_id: 1MAvdjpew1g
 url: https://www.youtube.com/watch?v=1MAvdjpew1g
 youtube_url: https://www.youtube.com/watch?v=1MAvdjpew1g
 tags: [".NET", "AI", "Tools", "C#", "ChatGPT", "MCP", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "UK", "United Kingdom", "Gerald Versluis"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

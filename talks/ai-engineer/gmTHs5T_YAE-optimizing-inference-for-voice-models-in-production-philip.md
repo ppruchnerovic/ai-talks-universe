@@ -4,7 +4,7 @@ title: "Optimizing inference for voice models in production - Philip Kiely, Base
 slug: optimizing-inference-for-voice-models-in-production-philip
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Philip Kiely"]
@@ -15,6 +15,7 @@ video_id: gmTHs5T_YAE
 url: https://www.youtube.com/watch?v=gmTHs5T_YAE
 youtube_url: https://www.youtube.com/watch?v=gmTHs5T_YAE
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

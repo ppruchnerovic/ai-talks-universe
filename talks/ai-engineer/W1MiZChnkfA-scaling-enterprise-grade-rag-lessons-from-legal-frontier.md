@@ -4,7 +4,7 @@ title: "Scaling Enterprise-Grade RAG: Lessons from Legal Frontier - Calvin Qi (H
 slug: scaling-enterprise-grade-rag-lessons-from-legal-frontier
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Calvin Qi"]
@@ -15,6 +15,7 @@ video_id: W1MiZChnkfA
 url: https://www.youtube.com/watch?v=W1MiZChnkfA
 youtube_url: https://www.youtube.com/watch?v=W1MiZChnkfA
 tags: []
+topics: ["Governance, ethics & regulation", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

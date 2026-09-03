@@ -4,7 +4,7 @@ title: "An alternative approach to digital sovereignty: Confidential Computing"
 slug: an-alternative-approach-to-digital-sovereignty-confidential
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Mike Bursell"]
@@ -15,6 +15,7 @@ video_id: cLPvc-enx5I
 url: https://www.youtube.com/watch?v=cLPvc-enx5I
 youtube_url: https://www.youtube.com/watch?v=cLPvc-enx5I
 tags: ["Security & Privacy", "Security", "Zero Trust"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

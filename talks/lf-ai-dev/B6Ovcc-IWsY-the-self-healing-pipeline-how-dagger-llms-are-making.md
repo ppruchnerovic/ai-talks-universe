@@ -4,7 +4,7 @@ title: "The Self-Healing Pipeline: How Dagger + LLMs Are Making Traditional CI/C
 slug: the-self-healing-pipeline-how-dagger-llms-are-making
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Vikram Vaswani"]
@@ -15,6 +15,7 @@ video_id: B6Ovcc-IWsY
 url: https://www.youtube.com/watch?v=B6Ovcc-IWsY
 youtube_url: https://www.youtube.com/watch?v=B6Ovcc-IWsY
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

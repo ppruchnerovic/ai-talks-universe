@@ -4,7 +4,7 @@ title: "Feedback Loops are All You Need — Mehedi Hassan, Granola"
 slug: feedback-loops-are-all-you-need-mehedi-hassan-granola
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mehedi Hassan"]
@@ -15,6 +15,7 @@ video_id: ON5LIT0M4do
 url: https://www.youtube.com/watch?v=ON5LIT0M4do
 youtube_url: https://www.youtube.com/watch?v=ON5LIT0M4do
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability"]
 transcript: true
 ---
 

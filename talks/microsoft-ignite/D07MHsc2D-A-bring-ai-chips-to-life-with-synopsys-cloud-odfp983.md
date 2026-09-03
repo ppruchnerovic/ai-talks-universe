@@ -4,7 +4,7 @@ title: "Bring AI chips to life with Synopsys Cloud | ODFP983"
 slug: bring-ai-chips-to-life-with-synopsys-cloud-odfp983
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: D07MHsc2D-A
 url: https://www.youtube.com/watch?v=D07MHsc2D-A
 youtube_url: https://www.youtube.com/watch?v=D07MHsc2D-A
 tags: ["AI", "Bring AI chips to life with Synopsys Cloud | ODFP983", "Cloud Endpoints", "Cloud PC", "Development", "Foundational (100)", "ODFP983", "Pre-recorded", "Security", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Implementing AI Responsibly and Securely | BRK358"
 slug: implementing-ai-responsibly-and-securely-brk358
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Annie Pearl", "Sam Dover", "Adriano Koshiyama", "Kevin Magee", "Heena Purohit", "Tahseen Shabab"]
@@ -15,6 +15,7 @@ video_id: bx101UYgE8g
 url: https://www.youtube.com/watch?v=bx101UYgE8g
 youtube_url: https://www.youtube.com/watch?v=bx101UYgE8g
 tags: ["AI", "AI Development", "AI Governance", "AI Security", "AI adoption", "AI framework", "AI implementation", "AI scalability", "BRK358", "Breakout", "Cross-Industry", "Decision Maker", "English (US)", "Implementing AI Responsibly and Securely | BRK358", "Intermediate (200)", "Other", "Sam Dover", "Security", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

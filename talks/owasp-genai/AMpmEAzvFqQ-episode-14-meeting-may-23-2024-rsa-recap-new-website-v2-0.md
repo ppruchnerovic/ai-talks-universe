@@ -4,7 +4,7 @@ title: "Episode 14: Meeting May 23 2024 - RSA Recap, New Website, v2.0 Efforts"
 slug: episode-14-meeting-may-23-2024-rsa-recap-new-website-v2-0
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: AMpmEAzvFqQ
 url: https://www.youtube.com/watch?v=AMpmEAzvFqQ
 youtube_url: https://www.youtube.com/watch?v=AMpmEAzvFqQ
 tags: []
+topics: []
 transcript: false
 ---
 

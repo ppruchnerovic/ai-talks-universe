@@ -4,7 +4,7 @@ title: "Agentic Threat Modeling Sub-Group Meeting - 2024-12-17"
 slug: agentic-threat-modeling-sub-group-meeting-2024-12-17
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0WzcOIntwQM
 url: https://www.youtube.com/watch?v=0WzcOIntwQM
 youtube_url: https://www.youtube.com/watch?v=0WzcOIntwQM
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

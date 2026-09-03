@@ -4,7 +4,7 @@ title: "What Can You Learn from the Fastest Code in the World?"
 slug: what-can-you-learn-from-the-fastest-code-in-the-world
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: HY8LQDMcX3s
 url: https://www.youtube.com/watch?v=HY8LQDMcX3s
 youtube_url: https://www.youtube.com/watch?v=HY8LQDMcX3s
 tags: ["DevOps", "Software Development", "Artificial Intelligence", "Machine Learning", "Data Engineering", "Language Oriented Programming", "Domain Specific Languages", "Performance", "InfoQ", "QCon London", "Transcript"]
+topics: []
 transcript: false
 ---
 

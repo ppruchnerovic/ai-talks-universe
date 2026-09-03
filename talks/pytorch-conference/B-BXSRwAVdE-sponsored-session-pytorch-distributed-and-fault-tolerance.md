@@ -4,7 +4,7 @@ title: "Sponsored Session: PyTorch Distributed and Fault Tolerance - Tristan Ric
 slug: sponsored-session-pytorch-distributed-and-fault-tolerance
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Tristan Rice"]
@@ -15,6 +15,7 @@ video_id: B-BXSRwAVdE
 url: https://www.youtube.com/watch?v=B-BXSRwAVdE
 youtube_url: https://www.youtube.com/watch?v=B-BXSRwAVdE
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

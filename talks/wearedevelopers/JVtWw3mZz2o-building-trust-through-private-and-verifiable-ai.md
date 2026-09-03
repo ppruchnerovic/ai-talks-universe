@@ -4,7 +4,7 @@ title: "Building Trust Through Private and Verifiable AI"
 slug: building-trust-through-private-and-verifiable-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Mingshen Sun"]
@@ -15,6 +15,7 @@ video_id: JVtWw3mZz2o
 url: https://www.youtube.com/watch?v=JVtWw3mZz2o
 youtube_url: https://www.youtube.com/watch?v=JVtWw3mZz2o
 tags: ["Security & Privacy", "Privacy", "Security"]
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

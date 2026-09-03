@@ -4,7 +4,7 @@ title: "Probably Fun: Games to teach Machine Learning"
 slug: probably-fun-games-to-teach-machine-learning
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Dr. Kristian Rother"]
@@ -15,6 +15,7 @@ video_id: vyhwnu5mdr4
 url: https://www.youtube.com/watch?v=vyhwnu5mdr4
 youtube_url: https://www.youtube.com/watch?v=vyhwnu5mdr4
 tags: ["AI education", "Conference", "NLP", "PyConDE", "PyData", "PyData Berlin", "Python", "Tech Talk", "beginner friendly", "board games", "classroom activities", "data science education", "decision trees", "education", "gamification", "interactive learning", "machine learning", "random forests", "teaching methods", "technical training"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

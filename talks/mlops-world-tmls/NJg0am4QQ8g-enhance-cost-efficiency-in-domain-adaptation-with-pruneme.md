@@ -4,7 +4,7 @@ title: "Enhance Cost Efficiency in Domain Adaptation with PruneMe"
 slug: enhance-cost-efficiency-in-domain-adaptation-with-pruneme
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Shamane Siri"]
@@ -15,6 +15,7 @@ video_id: NJg0am4QQ8g
 url: https://www.youtube.com/watch?v=NJg0am4QQ8g
 youtube_url: https://www.youtube.com/watch?v=NJg0am4QQ8g
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

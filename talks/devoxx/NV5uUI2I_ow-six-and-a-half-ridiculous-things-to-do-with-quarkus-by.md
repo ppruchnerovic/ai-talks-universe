@@ -4,7 +4,7 @@ title: "Six and a half ridiculous things to do with Quarkus by Holly Cummins"
 slug: six-and-a-half-ridiculous-things-to-do-with-quarkus-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Holly Cummins"]
@@ -15,6 +15,7 @@ video_id: NV5uUI2I_ow
 url: https://www.youtube.com/watch?v=NV5uUI2I_ow
 youtube_url: https://www.youtube.com/watch?v=NV5uUI2I_ow
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

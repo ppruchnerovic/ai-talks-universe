@@ -4,7 +4,7 @@ title: "RecSys, Topic Modeling and Agents: Bridging the GenAI-Traditional ML Div
 slug: recsys-topic-modeling-and-agents-bridging-the-genai
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: scupt4mzGIs
 url: https://www.youtube.com/watch?v=scupt4mzGIs
 youtube_url: https://www.youtube.com/watch?v=scupt4mzGIs
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

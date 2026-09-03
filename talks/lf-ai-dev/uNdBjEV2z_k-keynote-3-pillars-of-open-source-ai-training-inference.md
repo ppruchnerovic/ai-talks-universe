@@ -4,7 +4,7 @@ title: "Keynote: 3 Pillars of Open Source AI: Training, Inference, Agents - Mark
 slug: keynote-3-pillars-of-open-source-ai-training-inference
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: uNdBjEV2z_k
 url: https://www.youtube.com/watch?v=uNdBjEV2z_k
 youtube_url: https://www.youtube.com/watch?v=uNdBjEV2z_k
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

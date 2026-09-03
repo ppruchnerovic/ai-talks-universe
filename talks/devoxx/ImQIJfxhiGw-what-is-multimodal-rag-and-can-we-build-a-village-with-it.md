@@ -4,7 +4,7 @@ title: "What is multimodal RAG, and can we build a village with it? by Alexander
 slug: what-is-multimodal-rag-and-can-we-build-a-village-with-it
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Alexander Chatzizacharias"]
@@ -15,6 +15,7 @@ video_id: ImQIJfxhiGw
 url: https://www.youtube.com/watch?v=ImQIJfxhiGw
 youtube_url: https://www.youtube.com/watch?v=ImQIJfxhiGw
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

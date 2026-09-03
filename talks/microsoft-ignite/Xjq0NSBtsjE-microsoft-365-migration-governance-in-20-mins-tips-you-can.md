@@ -4,7 +4,7 @@ title: "Microsoft 365 migration & governance in 20 mins: Tips you can't miss | O
 slug: microsoft-365-migration-governance-in-20-mins-tips-you-can
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Richard Harbridge"]
@@ -15,6 +15,7 @@ video_id: Xjq0NSBtsjE
 url: https://www.youtube.com/watch?v=Xjq0NSBtsjE
 youtube_url: https://www.youtube.com/watch?v=Xjq0NSBtsjE
 tags: ["Copilot and agents at work", "English (US)", "Microsoft 365 migration & governance in 20 mins: Tips you can't miss | ODSP1505", "Migrate and modernize your estate", "ODSP1505", "ODSP1505_v2", "Richard Harbridge", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

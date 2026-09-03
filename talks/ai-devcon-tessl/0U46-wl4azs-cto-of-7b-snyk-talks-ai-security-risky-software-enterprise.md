@@ -4,7 +4,7 @@ title: "CTO of $7B Snyk Talks AI Security, Risky Software & Enterprise Adoption"
 slug: cto-of-7b-snyk-talks-ai-security-risky-software-enterprise
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0U46-wl4azs
 url: https://www.youtube.com/watch?v=0U46-wl4azs
 youtube_url: https://www.youtube.com/watch?v=0U46-wl4azs
 tags: ["ainativedev"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

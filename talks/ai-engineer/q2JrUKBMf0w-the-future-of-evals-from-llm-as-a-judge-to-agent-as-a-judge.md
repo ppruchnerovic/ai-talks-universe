@@ -4,7 +4,7 @@ title: "The Future of Evals: From LLM as a Judge to Agent as a Judge — Aparna 
 slug: the-future-of-evals-from-llm-as-a-judge-to-agent-as-a-judge
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Aparna Dhinakaran"]
@@ -15,6 +15,7 @@ video_id: q2JrUKBMf0w
 url: https://www.youtube.com/watch?v=q2JrUKBMf0w
 youtube_url: https://www.youtube.com/watch?v=q2JrUKBMf0w
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

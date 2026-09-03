@@ -4,7 +4,7 @@ title: "Skills Vs. MCP Vs. Code Mode: Cutting Through the Hype (and the Rage) - 
 slug: skills-vs-mcp-vs-code-mode-cutting-through-the-hype-and-the
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Nikolay Rodionov"]
@@ -15,6 +15,7 @@ video_id: DoedEqfI6Hg
 url: https://www.youtube.com/watch?v=DoedEqfI6Hg
 youtube_url: https://www.youtube.com/watch?v=DoedEqfI6Hg
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

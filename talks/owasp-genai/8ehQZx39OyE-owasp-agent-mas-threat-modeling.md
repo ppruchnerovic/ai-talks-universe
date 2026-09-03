@@ -4,7 +4,7 @@ title: "OWASP Agent MAS Threat Modeling"
 slug: owasp-agent-mas-threat-modeling
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8ehQZx39OyE
 url: https://www.youtube.com/watch?v=8ehQZx39OyE
 youtube_url: https://www.youtube.com/watch?v=8ehQZx39OyE
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: true
 ---
 

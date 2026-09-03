@@ -4,7 +4,7 @@ title: "Building Empathy and Accessibility: Fostering Better Engineering Culture
 slug: building-empathy-and-accessibility-fostering-better
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: iXhdlc3kgnk
 url: https://www.youtube.com/watch?v=iXhdlc3kgnk
 youtube_url: https://www.youtube.com/watch?v=iXhdlc3kgnk
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

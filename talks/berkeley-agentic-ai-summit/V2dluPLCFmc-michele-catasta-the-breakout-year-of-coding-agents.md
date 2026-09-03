@@ -4,7 +4,7 @@ title: "Michele Catasta - The Breakout Year of Coding Agents"
 slug: michele-catasta-the-breakout-year-of-coding-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Michele Catasta"]
@@ -15,6 +15,7 @@ video_id: V2dluPLCFmc
 url: https://www.youtube.com/watch?v=V2dluPLCFmc
 youtube_url: https://www.youtube.com/watch?v=V2dluPLCFmc
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

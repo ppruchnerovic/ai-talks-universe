@@ -4,7 +4,7 @@ title: "AI Dev 25 | Krishna Sridhar: Shifting Paradigms—The Move of AI's Cente
 slug: ai-dev-25-krishna-sridhar-shifting-paradigmsthe-move-of-ai
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: UkgMVkj1kdM
 url: https://www.youtube.com/watch?v=UkgMVkj1kdM
 youtube_url: https://www.youtube.com/watch?v=UkgMVkj1kdM
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

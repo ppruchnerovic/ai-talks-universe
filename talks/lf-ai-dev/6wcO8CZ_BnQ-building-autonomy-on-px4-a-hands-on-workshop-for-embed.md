@@ -4,7 +4,7 @@ title: "Building Autonomy on PX4: A Hands-On Workshop for Embed... (Continued) -
 slug: building-autonomy-on-px4-a-hands-on-workshop-for-embed
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Ramon Roche", "Nuno Marques"]
@@ -15,6 +15,7 @@ video_id: 6wcO8CZ_BnQ
 url: https://www.youtube.com/watch?v=6wcO8CZ_BnQ
 youtube_url: https://www.youtube.com/watch?v=6wcO8CZ_BnQ
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

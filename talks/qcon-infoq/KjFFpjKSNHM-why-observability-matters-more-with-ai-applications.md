@@ -4,7 +4,7 @@ title: "Why Observability Matters (More!) with AI Applications"
 slug: why-observability-matters-more-with-ai-applications
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Sally O'Malley"]
@@ -15,6 +15,7 @@ video_id: KjFFpjKSNHM
 url: https://www.youtube.com/watch?v=KjFFpjKSNHM
 youtube_url: https://www.youtube.com/watch?v=KjFFpjKSNHM
 tags: ["InfoQ Dev Summit", "QCon", "InfoQ", "Transcript", "Observability", "Prometheus", "Grafana", "OpenTelemetry", "Tempo", "vLLM", "Llama Stack", "Kubernetes", "LLMs", "Open Source", "Monitoring", "Large Language Models", "Artificial Intelligence", "Performance"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

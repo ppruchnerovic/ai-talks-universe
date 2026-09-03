@@ -4,7 +4,7 @@ title: "How AI is Reinventing Software Business Models ft. Bret Taylor of Sierra
 slug: how-ai-is-reinventing-software-business-models-ft-bret
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xlQB_0Nzoog
 url: https://www.youtube.com/watch?v=xlQB_0Nzoog
 youtube_url: https://www.youtube.com/watch?v=xlQB_0Nzoog
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

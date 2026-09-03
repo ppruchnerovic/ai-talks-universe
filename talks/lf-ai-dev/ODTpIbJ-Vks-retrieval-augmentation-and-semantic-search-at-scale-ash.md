@@ -4,7 +4,7 @@ title: "Retrieval Augmentation and Semantic Search at Scale - Ash Vardanian, Unu
 slug: retrieval-augmentation-and-semantic-search-at-scale-ash
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Ash Vardanian"]
@@ -15,6 +15,7 @@ video_id: ODTpIbJ-Vks
 url: https://www.youtube.com/watch?v=ODTpIbJ-Vks
 youtube_url: https://www.youtube.com/watch?v=ODTpIbJ-Vks
 tags: []
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

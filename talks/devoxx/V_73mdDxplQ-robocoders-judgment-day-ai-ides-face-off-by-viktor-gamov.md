@@ -4,7 +4,7 @@ title: "RoboCoders: Judgment Day – AI IDEs Face Off By Viktor Gamov, Baruch Sa
 slug: robocoders-judgment-day-ai-ides-face-off-by-viktor-gamov
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: V_73mdDxplQ
 url: https://www.youtube.com/watch?v=V_73mdDxplQ
 youtube_url: https://www.youtube.com/watch?v=V_73mdDxplQ
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

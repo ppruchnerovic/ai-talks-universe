@@ -4,7 +4,7 @@ title: "Panel: Building a Culture that Works"
 slug: panel-building-a-culture-that-works
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Nicky Wrightson", "Suhail Patel", "Lesley Cordero", "Matthew Card", "Natan Žabkar Nordberg"]
@@ -15,6 +15,7 @@ video_id: iq-panel-positive-culture
 url: https://www.infoq.com/presentations/panel-positive-culture/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

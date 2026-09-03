@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Unlock Advanced Model Training: Reinforcement Fine-
 slug: aws-re-invent-2025-unlock-advanced-model-training
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: oNERioZEJiw
 url: https://www.youtube.com/watch?v=oNERioZEJiw
 youtube_url: https://www.youtube.com/watch?v=oNERioZEJiw
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

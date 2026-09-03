@@ -4,7 +4,7 @@ title: "How Notion Cut Millions from Their Vector DB Bill Without Sacrificing Se
 slug: how-notion-cut-millions-from-their-vector-db-bill-without
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Simon Hørup Eskildsen"]
@@ -15,6 +15,7 @@ video_id: _yb6Nw21QxA
 url: https://www.youtube.com/watch?v=_yb6Nw21QxA
 youtube_url: https://www.youtube.com/watch?v=_yb6Nw21QxA
 tags: ["vector database tutorial", "Notion", "AI search", "ChatGPT", "artificial intelligence", "machine learning", "embeddings", "semantic search", "vector search", "billion scale", "object storage", "Spark", "Python", "data pipeline", "text chunking", "approximate nearest neighbor", "RAG", "similarity search", "machine learning embeddings", "neural embeddings", "vector indexing", "high dimensional data", "nearest neighbor search", "vector similarity", "content recommendation", "personalization", "search relevance"]
+topics: ["Data engineering & MLOps", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

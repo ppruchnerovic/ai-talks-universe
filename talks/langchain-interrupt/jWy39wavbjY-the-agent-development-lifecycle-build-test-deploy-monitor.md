@@ -4,7 +4,7 @@ title: "The Agent Development Lifecycle: Build, Test, Deploy, Monitor | Interrup
 slug: the-agent-development-lifecycle-build-test-deploy-monitor
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: jWy39wavbjY
 url: https://www.youtube.com/watch?v=jWy39wavbjY
 youtube_url: https://www.youtube.com/watch?v=jWy39wavbjY
 tags: ["LangChain", "LangSmith", "LangGraph", "AI agents", "agent development", "agentic AI", "LLM", "large language models", "AI engineering", "Interrupt 2026", "Harrison Chase", "Ankush Gola", "DeepAgents", "SmithDB", "LangSmith Engine", "Context Hub", "LLM Gateway", "AI observability", "AI in production", "agent lifecycle", "AI conference", "developer tools", "open source AI", "DeepSeek", "AI keynote 2026"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

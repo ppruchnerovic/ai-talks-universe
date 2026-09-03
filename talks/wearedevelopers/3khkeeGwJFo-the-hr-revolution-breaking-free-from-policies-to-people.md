@@ -4,7 +4,7 @@ title: "The HR Revolution: Breaking Free from Policies to People Experience"
 slug: the-hr-revolution-breaking-free-from-policies-to-people
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3khkeeGwJFo
 url: https://www.youtube.com/watch?v=3khkeeGwJFo
 youtube_url: https://www.youtube.com/watch?v=3khkeeGwJFo
 tags: ["hr revolution", "hr", "people", "employer branding", "leadership", "transformation", "people experience", "employee experience", "people and culture", "culture", "policies"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

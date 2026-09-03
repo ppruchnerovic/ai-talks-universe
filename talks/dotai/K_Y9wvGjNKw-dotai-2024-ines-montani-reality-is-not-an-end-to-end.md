@@ -4,7 +4,7 @@ title: "dotAI 2024 - Ines Montani - Reality is not an end-to-end prediction prob
 slug: dotai-2024-ines-montani-reality-is-not-an-end-to-end
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Ines Montani"]
@@ -15,6 +15,7 @@ video_id: K_Y9wvGjNKw
 url: https://www.youtube.com/watch?v=K_Y9wvGjNKw
 youtube_url: https://www.youtube.com/watch?v=K_Y9wvGjNKw
 tags: []
+topics: []
 transcript: false
 ---
 

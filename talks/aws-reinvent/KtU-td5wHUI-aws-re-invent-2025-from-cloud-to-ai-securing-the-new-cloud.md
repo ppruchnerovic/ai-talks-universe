@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - From Cloud to AI Securing the New Cloud Attack Surf
 slug: aws-re-invent-2025-from-cloud-to-ai-securing-the-new-cloud
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: KtU-td5wHUI
 url: https://www.youtube.com/watch?v=KtU-td5wHUI
 youtube_url: https://www.youtube.com/watch?v=KtU-td5wHUI
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

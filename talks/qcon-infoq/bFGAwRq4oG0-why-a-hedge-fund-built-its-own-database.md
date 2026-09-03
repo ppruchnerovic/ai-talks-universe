@@ -4,7 +4,7 @@ title: "Why a Hedge Fund Built Its Own Database"
 slug: why-a-hedge-fund-built-its-own-database
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: bFGAwRq4oG0
 url: https://www.youtube.com/watch?v=bFGAwRq4oG0
 youtube_url: https://www.youtube.com/watch?v=bFGAwRq4oG0
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "ArcticDB", "Database", "Python", "Database Design", "Performance", "Scalability", "InfoQ", "QCon London", "Transcript"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

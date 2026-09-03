@@ -4,7 +4,7 @@ title: "How I became my son's hero by building an AI Minecraft Mod with LangChai
 slug: how-i-became-my-son-s-hero-by-building-an-ai-minecraft-mod
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Dominique Broeglin"]
@@ -15,6 +15,7 @@ video_id: PmUeJ7UWUD4
 url: https://www.youtube.com/watch?v=PmUeJ7UWUD4
 youtube_url: https://www.youtube.com/watch?v=PmUeJ7UWUD4
 tags: []
+topics: []
 transcript: false
 ---
 

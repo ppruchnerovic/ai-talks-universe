@@ -4,7 +4,7 @@ title: "Security Partner Growth: Scale AI with customers while Securing Data | B
 slug: security-partner-growth-scale-ai-with-customers-while
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jim Banach", "Shilpa Bothra"]
@@ -15,6 +15,7 @@ video_id: Dk4xIsERi5k
 url: https://www.youtube.com/watch?v=Dk4xIsERi5k
 youtube_url: https://www.youtube.com/watch?v=Dk4xIsERi5k
 tags: ["BRK334", "Breakout", "English (US)", "Foundational (100)", "Jim Banach", "Partner Business", "Security", "Security Partner Growth: Scale AI with customers while Securing Data | BRK334", "Security-Curated", "Shilpa Bothra", "Solution Area", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

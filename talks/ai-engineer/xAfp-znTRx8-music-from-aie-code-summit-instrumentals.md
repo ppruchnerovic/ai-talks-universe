@@ -4,7 +4,7 @@ title: "Music from AIE Code Summit - Instrumentals"
 slug: music-from-aie-code-summit-instrumentals
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xAfp-znTRx8
 url: https://www.youtube.com/watch?v=xAfp-znTRx8
 youtube_url: https://www.youtube.com/watch?v=xAfp-znTRx8
 tags: []
+topics: []
 transcript: false
 ---
 

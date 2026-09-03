@@ -4,7 +4,7 @@ title: "Keeping Up with the Algorithms: A Journey in Artificial Intelligence"
 slug: keeping-up-with-the-algorithms-a-journey-in-artificial
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: BkYF9LcxaBs
 url: https://www.youtube.com/watch?v=BkYF9LcxaBs
 youtube_url: https://www.youtube.com/watch?v=BkYF9LcxaBs
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: []
 transcript: false
 ---
 

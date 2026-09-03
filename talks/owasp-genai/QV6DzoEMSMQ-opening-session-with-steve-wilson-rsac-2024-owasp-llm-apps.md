@@ -4,7 +4,7 @@ title: "Opening Session With Steve Wilson - #RSAC 2024 OWASP LLM Apps Top 10 Gen
 slug: opening-session-with-steve-wilson-rsac-2024-owasp-llm-apps
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: QV6DzoEMSMQ
 url: https://www.youtube.com/watch?v=QV6DzoEMSMQ
 youtube_url: https://www.youtube.com/watch?v=QV6DzoEMSMQ
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

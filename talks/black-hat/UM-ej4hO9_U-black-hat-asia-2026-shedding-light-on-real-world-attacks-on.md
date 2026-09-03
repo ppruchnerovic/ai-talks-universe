@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | Shedding LIGHT on Real-World Attacks on Cloudless 
 slug: black-hat-asia-2026-shedding-light-on-real-world-attacks-on
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: UM-ej4hO9_U
 url: https://www.youtube.com/watch?v=UM-ej4hO9_U
 youtube_url: https://www.youtube.com/watch?v=UM-ej4hO9_U
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

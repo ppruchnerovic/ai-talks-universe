@@ -4,7 +4,7 @@ title: "Roc & Zig: A Compiler Rewrite Story â€¢ Anjana Vakil & Richard Feldman â
 slug: roc-zig-a-compiler-rewrite-story-anjana-vakil-richard
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Anjana Vakil", "Richard Feldman"]
@@ -15,6 +15,7 @@ video_id: XSXGf3oN2yU
 url: https://www.youtube.com/watch?v=XSXGf3oN2yU
 youtube_url: https://www.youtube.com/watch?v=XSXGf3oN2yU
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "Anjana Vakil", "Richard Feldman", "Roc Language", "Zig Language", "Rust Language", "Elm Language", "Functional Programming", "Compiler", "Zig Compiler"]
+topics: []
 transcript: true
 ---
 

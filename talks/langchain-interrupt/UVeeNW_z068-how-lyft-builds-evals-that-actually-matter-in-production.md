@@ -4,7 +4,7 @@ title: "How Lyft Builds Evals That Actually Matter in Production | Interrupt 26"
 slug: how-lyft-builds-evals-that-actually-matter-in-production
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: UVeeNW_z068
 url: https://www.youtube.com/watch?v=UVeeNW_z068
 youtube_url: https://www.youtube.com/watch?v=UVeeNW_z068
 tags: ["LangChain", "LangSmith", "LangGraph", "AI evals", "LLM evaluation", "AI agents", "production AI", "customer support AI", "offline evaluation", "LLM as judge", "Lyft AI", "agent engineering", "AI observability", "eval framework", "RAG", "AI in production"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

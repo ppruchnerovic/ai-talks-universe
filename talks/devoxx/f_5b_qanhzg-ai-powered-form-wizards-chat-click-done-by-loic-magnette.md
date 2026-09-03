@@ -4,7 +4,7 @@ title: "AI Powered Form Wizards: Chat, Click, Done by Loïc Magnette"
 slug: ai-powered-form-wizards-chat-click-done-by-loic-magnette
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: f_5b_qanhzg
 url: https://www.youtube.com/watch?v=f_5b_qanhzg
 youtube_url: https://www.youtube.com/watch?v=f_5b_qanhzg
 tags: []
+topics: []
 transcript: false
 ---
 

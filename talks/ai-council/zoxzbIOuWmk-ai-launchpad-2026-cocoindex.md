@@ -4,7 +4,7 @@ title: "AI Launchpad 2026: CocoIndex"
 slug: ai-launchpad-2026-cocoindex
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: zoxzbIOuWmk
 url: https://www.youtube.com/watch?v=zoxzbIOuWmk
 youtube_url: https://www.youtube.com/watch?v=zoxzbIOuWmk
 tags: ["AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

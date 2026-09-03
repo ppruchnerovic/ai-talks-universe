@@ -4,7 +4,7 @@ title: "Wind farm optimization using RL and large-scale simulation"
 slug: wind-farm-optimization-using-rl-and-large-scale-simulation
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0RQiuIss-SY
 url: https://www.youtube.com/watch?v=0RQiuIss-SY
 youtube_url: https://www.youtube.com/watch?v=0RQiuIss-SY
 tags: []
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

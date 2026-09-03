@@ -4,7 +4,7 @@ title: "Panel: From Risk to Resilience , Securing Agentic Frontiers"
 slug: panel-from-risk-to-resilience-securing-agentic-frontiers
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: j-8LLVC6unM
 url: https://www.youtube.com/watch?v=j-8LLVC6unM
 youtube_url: https://www.youtube.com/watch?v=j-8LLVC6unM
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

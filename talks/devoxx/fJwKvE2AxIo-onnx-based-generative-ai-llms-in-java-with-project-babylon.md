@@ -4,7 +4,7 @@ title: "ONNX Based Generative AI LLMs in Java with Project Babylon by Adam Soton
 slug: onnx-based-generative-ai-llms-in-java-with-project-babylon
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Adam Sotona"]
@@ -15,6 +15,7 @@ video_id: fJwKvE2AxIo
 url: https://www.youtube.com/watch?v=fJwKvE2AxIo
 youtube_url: https://www.youtube.com/watch?v=fJwKvE2AxIo
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Accelerating LLM-Driven Developer Productivity at Zoox"
 slug: accelerating-llm-driven-developer-productivity-at-zoox
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Amit Navindgi"]
@@ -15,6 +15,7 @@ video_id: iq-ai-software-development
 url: https://www.infoq.com/presentations/ai-software-development/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

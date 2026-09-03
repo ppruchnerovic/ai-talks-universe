@@ -4,7 +4,7 @@ title: "Beyond Chat: AI Workflows That Actually Investigate Alerts (So You Don't
 slug: beyond-chat-ai-workflows-that-actually-investigate-alerts
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Aram Hakobyan", "Nune Isabekyan"]
@@ -15,6 +15,7 @@ video_id: fK6Ck1OdvoI
 url: https://www.youtube.com/watch?v=fK6Ck1OdvoI
 youtube_url: https://www.youtube.com/watch?v=fK6Ck1OdvoI
 tags: ["DevOps", "Automation", "DevOps", "Generative AI (GenAI)", "LLMOps", "Site Reliability Engineering (SRE)", "Workflow Automation"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

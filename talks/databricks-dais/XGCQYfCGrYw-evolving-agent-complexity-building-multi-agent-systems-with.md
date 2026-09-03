@@ -4,7 +4,7 @@ title: "Evolving Agent Complexity: Building Multi-Agent Systems With Mosaic AI"
 slug: evolving-agent-complexity-building-multi-agent-systems-with
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XGCQYfCGrYw
 url: https://www.youtube.com/watch?v=XGCQYfCGrYw
 youtube_url: https://www.youtube.com/watch?v=XGCQYfCGrYw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Ray Summit 2025 Keynote: Physical AI Turing Test with Jim Fan from NVIDI
 slug: ray-summit-2025-keynote-physical-ai-turing-test-with-jim
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7fDiui8cAVQ
 url: https://www.youtube.com/watch?v=7fDiui8cAVQ
 youtube_url: https://www.youtube.com/watch?v=7fDiui8cAVQ
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

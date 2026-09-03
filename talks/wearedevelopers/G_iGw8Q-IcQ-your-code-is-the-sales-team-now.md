@@ -4,7 +4,7 @@ title: "Your Code Is the Sales Team Now"
 slug: your-code-is-the-sales-team-now
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Marcus König"]
@@ -15,6 +15,7 @@ video_id: G_iGw8Q-IcQ
 url: https://www.youtube.com/watch?v=G_iGw8Q-IcQ
 youtube_url: https://www.youtube.com/watch?v=G_iGw8Q-IcQ
 tags: ["Strategy & Innovation", "Business Models", "Collaboration", "Data", "Entrepreneurship", "Monetization", "People & Culture", "Product Management", "Startups"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

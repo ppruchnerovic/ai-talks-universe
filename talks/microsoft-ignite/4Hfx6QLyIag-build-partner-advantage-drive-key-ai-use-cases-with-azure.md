@@ -4,7 +4,7 @@ title: "Build Partner Advantage: Drive Key AI Use-Cases with Azure Tech Stack | 
 slug: build-partner-advantage-drive-key-ai-use-cases-with-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ashley Asdourian", "Tim Denley", "Don Scott"]
@@ -15,6 +15,7 @@ video_id: 4Hfx6QLyIag
 url: https://www.youtube.com/watch?v=4Hfx6QLyIag
 youtube_url: https://www.youtube.com/watch?v=4Hfx6QLyIag
 tags: ["Ashley Asdourian", "Build Partner Advantage: Drive Key AI Use-Cases with Azure Tech Stack | PBRK208", "Don Scott", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Microsoft AI Cloud Partner Program", "PBRK208", "Partner Business", "Tim Denley", "a01448f8-981b-4b73-a36c-daadb6176543_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

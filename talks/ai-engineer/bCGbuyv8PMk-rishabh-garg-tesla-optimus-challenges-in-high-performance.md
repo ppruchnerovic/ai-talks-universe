@@ -4,7 +4,7 @@ title: "Rishabh Garg, Tesla Optimus — Challenges in High Performance Robotics 
 slug: rishabh-garg-tesla-optimus-challenges-in-high-performance
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Rishabh Garg"]
@@ -15,6 +15,7 @@ video_id: bCGbuyv8PMk
 url: https://www.youtube.com/watch?v=bCGbuyv8PMk
 youtube_url: https://www.youtube.com/watch?v=bCGbuyv8PMk
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

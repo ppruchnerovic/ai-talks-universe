@@ -4,7 +4,7 @@ title: "The Startup Showdown with Amy Wu, Roger Chen, and Tomasz Tunguz"
 slug: the-startup-showdown-with-amy-wu-roger-chen-and-tomasz
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: KXOwblpn55M
 url: https://www.youtube.com/watch?v=KXOwblpn55M
 youtube_url: https://www.youtube.com/watch?v=KXOwblpn55M
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

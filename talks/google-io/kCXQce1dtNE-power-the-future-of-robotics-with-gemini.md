@@ -4,7 +4,7 @@ title: "Power the future of robotics with Gemini"
 slug: power-the-future-of-robotics-with-gemini
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Paul Ruiz"]
@@ -15,6 +15,7 @@ video_id: kCXQce1dtNE
 url: https://www.youtube.com/watch?v=kCXQce1dtNE
 youtube_url: https://www.youtube.com/watch?v=kCXQce1dtNE
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - AI;"]
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

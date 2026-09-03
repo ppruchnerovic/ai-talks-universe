@@ -4,7 +4,7 @@ title: "Lightning Talk: Why Don't AI Technologies and CI/CD Pipelines Get Along?
 slug: lightning-talk-why-don-t-ai-technologies-and-ci-cd
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Ryo Sugahara"]
@@ -15,6 +15,7 @@ video_id: XWNfBM5VFcU
 url: https://www.youtube.com/watch?v=XWNfBM5VFcU
 youtube_url: https://www.youtube.com/watch?v=XWNfBM5VFcU
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Running Enterprise Agents in Production: Architecture and Secure Executi
 slug: running-enterprise-agents-in-production-architecture-and
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: LthkAkIQhgc
 url: https://www.youtube.com/watch?v=LthkAkIQhgc
 youtube_url: https://www.youtube.com/watch?v=LthkAkIQhgc
 tags: ["AI"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

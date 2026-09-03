@@ -4,7 +4,7 @@ title: "From prompt to production: observing Azure OpenAI with Elasticsearch | D
 slug: from-prompt-to-production-observing-azure-openai-with
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: wJRZvHfg5FI
 url: https://www.youtube.com/watch?v=wJRZvHfg5FI
 youtube_url: https://www.youtube.com/watch?v=wJRZvHfg5FI
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

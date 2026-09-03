@@ -4,7 +4,7 @@ title: "Episode 106 | Meta AI Account Takeovers & AI-Discovered Zero-Days | Thre
 slug: episode-106-meta-ai-account-takeovers-ai-discovered-zero
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Threat Intel Podcast"]
@@ -15,6 +15,7 @@ video_id: Ptux_zUZReQ
 url: https://www.youtube.com/watch?v=Ptux_zUZReQ
 youtube_url: https://www.youtube.com/watch?v=Ptux_zUZReQ
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

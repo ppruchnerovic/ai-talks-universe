@@ -4,7 +4,7 @@ title: "USENIX Security '25- A Crack in the Bark: Leveraging Public Knowledge to
 slug: usenix-security-25-a-crack-in-the-bark-leveraging-public
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XKnubeU14Vg
 url: https://www.youtube.com/watch?v=XKnubeU14Vg
 youtube_url: https://www.youtube.com/watch?v=XKnubeU14Vg
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

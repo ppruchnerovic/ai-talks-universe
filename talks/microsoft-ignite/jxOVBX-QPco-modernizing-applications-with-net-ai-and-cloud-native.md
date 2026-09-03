@@ -4,7 +4,7 @@ title: "Modernizing applications with .NET AI and Cloud-Native practices | BRK14
 slug: modernizing-applications-with-net-ai-and-cloud-native
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jeff Fritz", "Luis Quintanilla", "Melba Swapna"]
@@ -15,6 +15,7 @@ video_id: jxOVBX-QPco
 url: https://www.youtube.com/watch?v=jxOVBX-QPco
 youtube_url: https://www.youtube.com/watch?v=jxOVBX-QPco
 tags: [".NET", "AI", "Advanced (300)", "Application Development", "Apps", "BRK149", "Breakout", "Cloud-native", "Containers", "English (US)", "Jeff Fritz", "Luis Quintanilla", "Melba Swapna", "Modernizing applications with .NET AI and Cloud-Native practices | BRK149", "PaaS", "Serverless", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

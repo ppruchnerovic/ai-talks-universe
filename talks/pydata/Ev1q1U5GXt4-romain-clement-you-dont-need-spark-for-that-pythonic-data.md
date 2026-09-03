@@ -4,7 +4,7 @@ title: "Romain Clement - You Don’t Need Spark for That: Pythonic Data Lakehous
 slug: romain-clement-you-dont-need-spark-for-that-pythonic-data
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Romain Clement"]
@@ -15,6 +15,7 @@ video_id: Ev1q1U5GXt4
 url: https://www.youtube.com/watch?v=Ev1q1U5GXt4
 youtube_url: https://www.youtube.com/watch?v=Ev1q1U5GXt4
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

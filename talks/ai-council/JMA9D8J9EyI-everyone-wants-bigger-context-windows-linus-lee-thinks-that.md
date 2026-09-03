@@ -4,7 +4,7 @@ title: "Everyone wants bigger context windows. Linus Lee thinks that's the wrong
 slug: everyone-wants-bigger-context-windows-linus-lee-thinks-that
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: JMA9D8J9EyI
 url: https://www.youtube.com/watch?v=JMA9D8J9EyI
 youtube_url: https://www.youtube.com/watch?v=JMA9D8J9EyI
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

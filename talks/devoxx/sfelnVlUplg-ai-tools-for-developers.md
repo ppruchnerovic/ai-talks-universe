@@ -4,7 +4,7 @@ title: "AI Tools for Developers"
 slug: ai-tools-for-developers
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: sfelnVlUplg
 url: https://www.youtube.com/watch?v=sfelnVlUplg
 youtube_url: https://www.youtube.com/watch?v=sfelnVlUplg
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

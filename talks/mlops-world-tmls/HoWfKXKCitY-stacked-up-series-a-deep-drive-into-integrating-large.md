@@ -4,7 +4,7 @@ title: "Stacked Up Series: A Deep Drive Into Integrating Large Language Models I
 slug: stacked-up-series-a-deep-drive-into-integrating-large
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: HoWfKXKCitY
 url: https://www.youtube.com/watch?v=HoWfKXKCitY
 youtube_url: https://www.youtube.com/watch?v=HoWfKXKCitY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "llms", "largelanguagemodel"]
+topics: []
 transcript: false
 ---
 

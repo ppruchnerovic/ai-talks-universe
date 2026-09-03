@@ -4,7 +4,7 @@ title: "The Production AI Playbook: Deploying Agents at Enterprise Scale — San
 slug: the-production-ai-playbook-deploying-agents-at-enterprise
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sandipan Bhaumik"]
@@ -15,6 +15,7 @@ video_id: ObTPqBGsEbA
 url: https://www.youtube.com/watch?v=ObTPqBGsEbA
 youtube_url: https://www.youtube.com/watch?v=ObTPqBGsEbA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "How Engineering Teams Automate Quality at Scale"
 slug: how-engineering-teams-automate-quality-at-scale
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4JKzfCdwiSo
 url: https://www.youtube.com/watch?v=4JKzfCdwiSo
 youtube_url: https://www.youtube.com/watch?v=4JKzfCdwiSo
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

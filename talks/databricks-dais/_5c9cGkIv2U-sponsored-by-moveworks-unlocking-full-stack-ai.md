@@ -4,7 +4,7 @@ title: "Sponsored by: Moveworks | Unlocking Full-stack AI Transformation with th
 slug: sponsored-by-moveworks-unlocking-full-stack-ai
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _5c9cGkIv2U
 url: https://www.youtube.com/watch?v=_5c9cGkIv2U
 youtube_url: https://www.youtube.com/watch?v=_5c9cGkIv2U
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

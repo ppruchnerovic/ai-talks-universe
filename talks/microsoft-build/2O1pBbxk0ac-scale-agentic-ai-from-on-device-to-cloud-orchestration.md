@@ -4,7 +4,7 @@ title: "Scale agentic AI from on-device to cloud orchestration | BRKSP92"
 slug: scale-agentic-ai-from-on-device-to-cloud-orchestration
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Karthik Vijayan", "Colin Helms"]
@@ -15,6 +15,7 @@ video_id: 2O1pBbxk0ac
 url: https://www.youtube.com/watch?v=2O1pBbxk0ac
 youtube_url: https://www.youtube.com/watch?v=2O1pBbxk0ac
 tags: ["AI", "Agent 365", "Agent Observability", "Agentic Security", "Agents", "Agents on Windows", "App Developers", "AppTrust", "Azure", "BRKSP92", "Colin Helms", "Cross-device", "Deployment Pipelines", "Foundry Agents", "ISV", "Java", "Jayneel Vora", "Karthik Vijayan", "Local AI", "MS Teams", "Scale agentic AI from on-device to cloud orchestration | BRKSP92", "Windows 365 for Agents", "build", "build 2026", "imran Sheik Mohamed", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

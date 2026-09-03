@@ -4,7 +4,7 @@ title: "Chuan Li - A Lab Notebook for Agents"
 slug: chuan-li-a-lab-notebook-for-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Chuan Li"]
@@ -15,6 +15,7 @@ video_id: 9jqQbEU3tdY
 url: https://www.youtube.com/watch?v=9jqQbEU3tdY
 youtube_url: https://www.youtube.com/watch?v=9jqQbEU3tdY
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: true
 ---
 

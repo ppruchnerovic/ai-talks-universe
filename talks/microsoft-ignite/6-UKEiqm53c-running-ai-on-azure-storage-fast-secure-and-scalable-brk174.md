@@ -4,7 +4,7 @@ title: "Running AI on Azure Storage: Fast, secure, and scalable | BRK174"
 slug: running-ai-on-azure-storage-fast-secure-and-scalable-brk174
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Vamshi Kommineni", "Natalie Mao", "Saurabh Sensharma"]
@@ -15,6 +15,7 @@ video_id: 6-UKEiqm53c
 url: https://www.youtube.com/watch?v=6-UKEiqm53c
 youtube_url: https://www.youtube.com/watch?v=6-UKEiqm53c
 tags: ["BRK174", "English (US)", "Migrate and modernize your estate", "Natalie Mao", "Running AI on Azure Storage: Fast secure and scalable | BRK174", "Saurabh Sensharma", "Technical", "Vamshi Kommineni", "e6a9ef89-0aad-4a42-adb0-b0441c1f13ca_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

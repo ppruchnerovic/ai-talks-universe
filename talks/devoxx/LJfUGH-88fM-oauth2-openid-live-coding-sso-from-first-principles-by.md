@@ -4,7 +4,7 @@ title: "OAuth2, OpenID: live-coding SSO, from first principles by Daniel Garnier
 slug: oauth2-openid-live-coding-sso-from-first-principles-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: LJfUGH-88fM
 url: https://www.youtube.com/watch?v=LJfUGH-88fM
 youtube_url: https://www.youtube.com/watch?v=LJfUGH-88fM
 tags: []
+topics: []
 transcript: false
 ---
 

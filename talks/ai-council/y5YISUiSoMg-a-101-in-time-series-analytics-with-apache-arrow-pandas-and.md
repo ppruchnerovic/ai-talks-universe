@@ -4,7 +4,7 @@ title: "A 101 in Time Series Analytics with Apache Arrow, Pandas and Parquet"
 slug: a-101-in-time-series-analytics-with-apache-arrow-pandas-and
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Zoe Steinkamp"]
@@ -15,6 +15,7 @@ video_id: y5YISUiSoMg
 url: https://www.youtube.com/watch?v=y5YISUiSoMg
 youtube_url: https://www.youtube.com/watch?v=y5YISUiSoMg
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

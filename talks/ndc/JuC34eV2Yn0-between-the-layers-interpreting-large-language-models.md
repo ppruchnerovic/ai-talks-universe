@@ -4,7 +4,7 @@ title: "Between the Layers– Interpreting Large Language Models - Michelle Fros
 slug: between-the-layers-interpreting-large-language-models
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Michelle Frost"]
@@ -15,6 +15,7 @@ video_id: JuC34eV2Yn0
 url: https://www.youtube.com/watch?v=JuC34eV2Yn0
 youtube_url: https://www.youtube.com/watch?v=JuC34eV2Yn0
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Vector Sync Patterns: Keeping AI Features Fresh When Your Data Changes"
 slug: vector-sync-patterns-keeping-ai-features-fresh-when-your
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Ricardo Ferreira"]
@@ -15,6 +15,7 @@ video_id: iq-ai-vector-event-driven
 url: https://www.infoq.com/presentations/ai-vector-event-driven/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

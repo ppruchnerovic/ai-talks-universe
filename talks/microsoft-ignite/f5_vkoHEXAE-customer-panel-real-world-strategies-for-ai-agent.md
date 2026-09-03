@@ -4,7 +4,7 @@ title: "Customer panel: Real-world strategies for AI Agent transformation | BRK2
 slug: customer-panel-real-world-strategies-for-ai-agent
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Srini Raghavan", "Sean Alexander", "Tim Holt", "Saurabh Pant", "Mona Riemenschneider", "John Whittaker"]
@@ -15,6 +15,7 @@ video_id: f5_vkoHEXAE
 url: https://www.youtube.com/watch?v=f5_vkoHEXAE
 youtube_url: https://www.youtube.com/watch?v=f5_vkoHEXAE
 tags: ["BRK295", "Copilot and agents at work", "Customer panel: Real-world strategies for AI Agent transformation | BRK295", "English (US)", "John Whittaker", "Mona Riemenschneider", "Saurabh Pant", "Sean Alexander", "Srini Raghavan", "Technical", "Tim Holt", "ac007537-9754-41d6-a4c9-bc685b2b435d_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

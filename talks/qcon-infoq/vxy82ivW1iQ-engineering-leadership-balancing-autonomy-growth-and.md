@@ -4,7 +4,7 @@ title: "Engineering Leadership: Balancing Autonomy, Growth, and Culture with Mic
 slug: engineering-leadership-balancing-autonomy-growth-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: vxy82ivW1iQ
 url: https://www.youtube.com/watch?v=vxy82ivW1iQ
 youtube_url: https://www.youtube.com/watch?v=vxy82ivW1iQ
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

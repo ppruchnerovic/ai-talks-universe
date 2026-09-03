@@ -4,7 +4,7 @@ title: "Loïc Estève - PyPI in the face: running jokes that PyPI download stats
 slug: loic-esteve-pypi-in-the-face-running-jokes-that-pypi
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Loïc Estève"]
@@ -15,6 +15,7 @@ video_id: 6SHB2v8uj84
 url: https://www.youtube.com/watch?v=6SHB2v8uj84
 youtube_url: https://www.youtube.com/watch?v=6SHB2v8uj84
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

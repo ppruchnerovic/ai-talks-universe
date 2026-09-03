@@ -4,7 +4,7 @@ title: "Microsoft Fabric: what's new and what's next | BRK204"
 slug: microsoft-fabric-what-s-new-and-what-s-next-brk204
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Amir Netz", "Arun Ulagaratchagan"]
@@ -15,6 +15,7 @@ video_id: plctQ6CQwvU
 url: https://www.youtube.com/watch?v=plctQ6CQwvU
 youtube_url: https://www.youtube.com/watch?v=plctQ6CQwvU
 tags: ["AI", "Analytics", "BRK204", "Cloud", "Data", "Data Security", "Data Warehouse", "Decision Maker", "Lakehouse", "Microsoft Fabric", "Microsoft Fabric: what's new and what's next | BRK204", "PowerBI", "Real-timeIntelligence", "Software Company", "databases", "datalake", "datalossprevention", "datascience", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024", "realtimeanalytics"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

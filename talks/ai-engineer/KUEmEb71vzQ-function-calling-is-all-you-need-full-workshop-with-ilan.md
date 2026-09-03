@@ -4,7 +4,7 @@ title: "Function Calling is All You Need — Full Workshop, with Ilan Bigio of O
 slug: function-calling-is-all-you-need-full-workshop-with-ilan
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: KUEmEb71vzQ
 url: https://www.youtube.com/watch?v=KUEmEb71vzQ
 youtube_url: https://www.youtube.com/watch?v=KUEmEb71vzQ
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

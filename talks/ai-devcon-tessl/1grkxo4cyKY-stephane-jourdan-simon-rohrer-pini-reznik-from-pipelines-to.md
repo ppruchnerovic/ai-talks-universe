@@ -4,7 +4,7 @@ title: "Stephane Jourdan, Simon Rohrer & Pini Reznik - From Pipelines to Prompts
 slug: stephane-jourdan-simon-rohrer-pini-reznik-from-pipelines-to
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Stephane Jourdan"]
@@ -15,6 +15,7 @@ video_id: 1grkxo4cyKY
 url: https://www.youtube.com/watch?v=1grkxo4cyKY
 youtube_url: https://www.youtube.com/watch?v=1grkxo4cyKY
 tags: ["AI DevCon", "AI advancement in development", "AI panel discussion", "AI-native development", "DevOps", "DevSecOps", "DevSecOps role in AI", "ainativedev", "cloud and DevOps habits", "cloud computing", "development pipelines", "foundational practices", "software development", "technology transition", "what is AI-native development"]
+topics: ["Prompting & context engineering"]
 transcript: true
 ---
 

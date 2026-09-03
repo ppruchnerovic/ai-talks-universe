@@ -4,7 +4,7 @@ title: "Understanding Event-Driven Architecture in a Multicloud Environment"
 slug: understanding-event-driven-architecture-in-a-multicloud
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: SQGUWQjqESk
 url: https://www.youtube.com/watch?v=SQGUWQjqESk
 youtube_url: https://www.youtube.com/watch?v=SQGUWQjqESk
 tags: []
+topics: []
 transcript: false
 ---
 

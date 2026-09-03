@@ -4,7 +4,7 @@ title: "From Hype to Strong Foundations: What the Rise, Fall and Resurgence of A
 slug: from-hype-to-strong-foundations-what-the-rise-fall-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Aditya Kumarakrishnan"]
@@ -15,6 +15,7 @@ video_id: iq-llm-compound-ai-systems
 url: https://www.infoq.com/presentations/llm-compound-ai-systems/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

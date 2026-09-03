@@ -4,7 +4,7 @@ title: "Black Hat Europe 2025 | Compromising The AI Agent Ecosystem Via Its \"Un
 slug: black-hat-europe-2025-compromising-the-ai-agent-ecosystem
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fG36PSl_sgo
 url: https://www.youtube.com/watch?v=fG36PSl_sgo
 youtube_url: https://www.youtube.com/watch?v=fG36PSl_sgo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

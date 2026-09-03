@@ -4,7 +4,7 @@ title: "Episode 16: Meeting June 20 2024 - v2.0 Voting, Conferences & CFPs, PDF 
 slug: episode-16-meeting-june-20-2024-v2-0-voting-conferences
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: x-ReFMKlstU
 url: https://www.youtube.com/watch?v=x-ReFMKlstU
 youtube_url: https://www.youtube.com/watch?v=x-ReFMKlstU
 tags: []
+topics: []
 transcript: false
 ---
 

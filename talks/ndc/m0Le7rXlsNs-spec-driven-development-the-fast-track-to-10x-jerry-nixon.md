@@ -4,7 +4,7 @@ title: "Spec-Driven Development: The Fast Track to 10x? - Jerry Nixon - NDC Sydn
 slug: spec-driven-development-the-fast-track-to-10x-jerry-nixon
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Jerry Nixon"]
@@ -15,6 +15,7 @@ video_id: m0Le7rXlsNs
 url: https://www.youtube.com/watch?v=m0Le7rXlsNs
 youtube_url: https://www.youtube.com/watch?v=m0Le7rXlsNs
 tags: ["AI", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "SSD", "Coding", "Jerry Nixon"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

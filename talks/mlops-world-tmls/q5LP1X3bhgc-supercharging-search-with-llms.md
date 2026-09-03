@@ -4,7 +4,7 @@ title: "Supercharging Search with LLMs"
 slug: supercharging-search-with-llms
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: q5LP1X3bhgc
 url: https://www.youtube.com/watch?v=q5LP1X3bhgc
 youtube_url: https://www.youtube.com/watch?v=q5LP1X3bhgc
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: []
 transcript: false
 ---
 

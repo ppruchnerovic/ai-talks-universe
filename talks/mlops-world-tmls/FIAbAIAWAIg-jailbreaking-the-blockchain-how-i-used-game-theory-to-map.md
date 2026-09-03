@@ -4,7 +4,7 @@ title: "Jailbreaking the Blockchain: How I Used Game Theory to Map Prompt Inject
 slug: jailbreaking-the-blockchain-how-i-used-game-theory-to-map
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: FIAbAIAWAIg
 url: https://www.youtube.com/watch?v=FIAbAIAWAIg
 youtube_url: https://www.youtube.com/watch?v=FIAbAIAWAIg
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

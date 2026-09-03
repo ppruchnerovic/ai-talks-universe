@@ -4,7 +4,7 @@ title: "Martin Renou & Arjun Verma - Collaborative GIS editing in JupyterLab"
 slug: martin-renou-arjun-verma-collaborative-gis-editing-in
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Martin Renou", "Arjun Verma"]
@@ -15,6 +15,7 @@ video_id: dBchK-EcE2k
 url: https://www.youtube.com/watch?v=dBchK-EcE2k
 youtube_url: https://www.youtube.com/watch?v=dBchK-EcE2k
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

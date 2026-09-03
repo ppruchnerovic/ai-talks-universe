@@ -4,7 +4,7 @@ title: "Keynote - Samuel Colvin - Pydantic Monty & Logfire | Pydata London 26"
 slug: keynote-samuel-colvin-pydantic-monty-logfire-pydata-london
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Samuel Colvin"]
@@ -15,6 +15,7 @@ video_id: 41NimccrfP8
 url: https://www.youtube.com/watch?v=41NimccrfP8
 youtube_url: https://www.youtube.com/watch?v=41NimccrfP8
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Devoxx Greece 2025 - Navigating the Impact of AI, Developer Experience &
 slug: devoxx-greece-2025-navigating-the-impact-of-ai-developer
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: -2BU_Me-wxc
 url: https://www.youtube.com/watch?v=-2BU_Me-wxc
 youtube_url: https://www.youtube.com/watch?v=-2BU_Me-wxc
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

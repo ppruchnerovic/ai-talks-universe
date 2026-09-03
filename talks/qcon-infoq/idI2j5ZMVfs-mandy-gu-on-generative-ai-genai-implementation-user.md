@@ -4,7 +4,7 @@ title: "Mandy Gu on Generative AI (GenAI) Implementation, User Profiles and Adop
 slug: mandy-gu-on-generative-ai-genai-implementation-user
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: idI2j5ZMVfs
 url: https://www.youtube.com/watch?v=idI2j5ZMVfs
 youtube_url: https://www.youtube.com/watch?v=idI2j5ZMVfs
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

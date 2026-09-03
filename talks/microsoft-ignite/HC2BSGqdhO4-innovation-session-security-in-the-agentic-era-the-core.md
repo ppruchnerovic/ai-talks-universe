@@ -4,7 +4,7 @@ title: "Innovation Session: Security in the Agentic Era – the Core Primitive |
 slug: innovation-session-security-in-the-agentic-era-the-core
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Charlie Bell", "Vasu Jakkal"]
@@ -15,6 +15,7 @@ video_id: HC2BSGqdhO4
 url: https://www.youtube.com/watch?v=HC2BSGqdhO4
 youtube_url: https://www.youtube.com/watch?v=HC2BSGqdhO4
 tags: ["BRK1712", "BRK1712_v1", "Charlie Bell", "English (US)", "Innovation Session: Security in the Agentic Era – the Core Primitive | BRK1712", "Modernize SecOps with a unified platform", "Protect cloud AI platform and apps", "Secure your data", "Signature pass", "Technical", "Vasu Jakkal", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

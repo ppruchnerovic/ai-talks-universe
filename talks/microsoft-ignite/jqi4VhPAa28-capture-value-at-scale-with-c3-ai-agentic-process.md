@@ -4,7 +4,7 @@ title: "Capture value at scale with C3 AI Agentic Process Automation | STUDIOSP7
 slug: capture-value-at-scale-with-c3-ai-agentic-process
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Nikhil Krishnan"]
@@ -15,6 +15,7 @@ video_id: jqi4VhPAa28
 url: https://www.youtube.com/watch?v=jqi4VhPAa28
 youtube_url: https://www.youtube.com/watch?v=jqi4VhPAa28
 tags: ["Capture value at scale with C3 AI Agentic Process Automation | STUDIOSP77", "Copilot and agents at work", "English (US)", "Nikhil Krishnan", "STUDIOSP77", "STUDIOSP77_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

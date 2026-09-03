@@ -4,7 +4,7 @@ title: "What If Your Chip Design Team Moved Like a Single Body? — Abduallah Mo
 slug: what-if-your-chip-design-team-moved-like-a-single-body
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Abduallah Mohamed"]
@@ -15,6 +15,7 @@ video_id: 0I6aoPSRzVc
 url: https://www.youtube.com/watch?v=0I6aoPSRzVc
 youtube_url: https://www.youtube.com/watch?v=0I6aoPSRzVc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

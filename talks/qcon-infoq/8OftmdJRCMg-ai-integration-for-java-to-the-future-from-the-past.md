@@ -4,7 +4,7 @@ title: "AI Integration for Java: To the Future, From the Past"
 slug: ai-integration-for-java-to-the-future-from-the-past
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8OftmdJRCMg
 url: https://www.youtube.com/watch?v=8OftmdJRCMg
 youtube_url: https://www.youtube.com/watch?v=8OftmdJRCMg
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Java", "InfoQ", "Transcript"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Is Kubernetes a Database?"
 slug: is-kubernetes-a-database
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Ryanne Dolan"]
@@ -15,6 +15,7 @@ video_id: gm-AJqOdKyo
 url: https://www.youtube.com/watch?v=gm-AJqOdKyo
 youtube_url: https://www.youtube.com/watch?v=gm-AJqOdKyo
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

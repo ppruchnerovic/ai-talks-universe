@@ -4,7 +4,7 @@ title: "Executing on the channel-led marketplace opportunity for partners | PBRK
 slug: executing-on-the-channel-led-marketplace-opportunity-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: NmgusUF8Hmc
 url: https://www.youtube.com/watch?v=NmgusUF8Hmc
 youtube_url: https://www.youtube.com/watch?v=NmgusUF8Hmc
 tags: ["64a75406-434c-441b-9ac5-9212697784f3_Segment", "Darren Sharpe", "English (US)", "Executing on the channel-led marketplace opportunity for partners | PBRK420", "James McBain", "Jason Rook", "Microsoft AI Cloud Partner Program", "PBRK420", "Partner Business", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

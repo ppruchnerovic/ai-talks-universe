@@ -4,7 +4,7 @@ title: "OpenAI + @Temporalio : Building Durable, Production Ready Agents - Corne
 slug: openai-temporalio-building-durable-production-ready-agents
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Cornelia Davis"]
@@ -15,6 +15,7 @@ video_id: k8cnVCMYmNc
 url: https://www.youtube.com/watch?v=k8cnVCMYmNc
 youtube_url: https://www.youtube.com/watch?v=k8cnVCMYmNc
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

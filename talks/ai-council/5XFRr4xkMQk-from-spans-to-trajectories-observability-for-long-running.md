@@ -4,7 +4,7 @@ title: "From Spans to Trajectories: Observability for Long-Running Agents | Hone
 slug: from-spans-to-trajectories-observability-for-long-running
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5XFRr4xkMQk
 url: https://www.youtube.com/watch?v=5XFRr4xkMQk
 youtube_url: https://www.youtube.com/watch?v=5XFRr4xkMQk
 tags: ["AI"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Build an AI agent app with Go ADK, Cloud Run, and Flutter"
 slug: build-an-ai-agent-app-with-go-adk-cloud-run-and-flutter
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Annie Wang", "Marc Dougherty", "Khanh Nguyen"]
@@ -15,6 +15,7 @@ video_id: zuYmRY4X0rg
 url: https://www.youtube.com/watch?v=zuYmRY4X0rg
 youtube_url: https://www.youtube.com/watch?v=zuYmRY4X0rg
 tags: ["pr_pr: Google I/O;", "ct:Event - Workshop;", "ct:Stack - Cloud;", "Production AI Agents 2026", "Agent Development Kit (ADK) tutorial", "Deploying AI to Cloud Run", "Multi-Agent Orchestration Go", "AI Tool Calling in Go", "Cloud Run Serverless AI", "Multi-Agent Systems Deployment"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

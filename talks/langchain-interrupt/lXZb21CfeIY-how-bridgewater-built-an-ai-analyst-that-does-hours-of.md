@@ -4,7 +4,7 @@ title: "How Bridgewater Built an AI Analyst That Does Hours of Expert Research i
 slug: how-bridgewater-built-an-ai-analyst-that-does-hours-of
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: lXZb21CfeIY
 url: https://www.youtube.com/watch?v=lXZb21CfeIY
 youtube_url: https://www.youtube.com/watch?v=lXZb21CfeIY
 tags: ["Bridgewater", "Bridgewater Associates", "PAT", "Pocket Analyst Tool", "Brendan McManus", "Michael Ran", "Santi Weight", "hedge fund AI", "coding agent", "compiler theory", "deterministic agent", "LangGraph", "LangChain", "parallel code generation", "DAG validation", "static analysis", "agent for finance", "investment research AI", "time series search", "RAG", "human-in-the-loop", "self-improving agent", "agent evals", "Interrupt conference", "agentic coding"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

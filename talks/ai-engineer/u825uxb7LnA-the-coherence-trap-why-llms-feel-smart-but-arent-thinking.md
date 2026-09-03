@@ -4,7 +4,7 @@ title: "The Coherence Trap: Why LLMs Feel Smart (But Aren’t Thinking) - Travis
 slug: the-coherence-trap-why-llms-feel-smart-but-arent-thinking
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Travis Frisinger"]
@@ -15,6 +15,7 @@ video_id: u825uxb7LnA
 url: https://www.youtube.com/watch?v=u825uxb7LnA
 youtube_url: https://www.youtube.com/watch?v=u825uxb7LnA
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

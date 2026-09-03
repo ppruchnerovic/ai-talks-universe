@@ -4,7 +4,7 @@ title: "Optimize Azure cloud operations with end-to-end IT automation | BRKFP373
 slug: optimize-azure-cloud-operations-with-end-to-end-it
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Philip Alfano", "Leon Harris"]
@@ -15,6 +15,7 @@ video_id: 8iyBUPQyG8A
 url: https://www.youtube.com/watch?v=8iyBUPQyG8A
 youtube_url: https://www.youtube.com/watch?v=8iyBUPQyG8A
 tags: ["AI", "Automation", "BRKFP373", "Breakout", "English (US)", "Foundational (100)", "Leon Harris", "Optimize Azure cloud operations with end-to-end IT automation | BRKFP373", "Philip Alfano", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

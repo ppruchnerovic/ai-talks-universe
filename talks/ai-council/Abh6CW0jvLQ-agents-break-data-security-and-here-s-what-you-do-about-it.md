@@ -4,7 +4,7 @@ title: "Agents Break Data Security — And Here's What You Do About It | Skyflow
 slug: agents-break-data-security-and-here-s-what-you-do-about-it
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Abh6CW0jvLQ
 url: https://www.youtube.com/watch?v=Abh6CW0jvLQ
 youtube_url: https://www.youtube.com/watch?v=Abh6CW0jvLQ
 tags: ["AI"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

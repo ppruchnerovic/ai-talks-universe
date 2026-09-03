@@ -4,7 +4,7 @@ title: "Infra that fixes itself, thanks to coding agents — Mahmoud Abdelwahab,
 slug: infra-that-fixes-itself-thanks-to-coding-agents-mahmoud
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mahmoud Abdelwahab"]
@@ -15,6 +15,7 @@ video_id: Q5IVm_CxN2w
 url: https://www.youtube.com/watch?v=Q5IVm_CxN2w
 youtube_url: https://www.youtube.com/watch?v=Q5IVm_CxN2w
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

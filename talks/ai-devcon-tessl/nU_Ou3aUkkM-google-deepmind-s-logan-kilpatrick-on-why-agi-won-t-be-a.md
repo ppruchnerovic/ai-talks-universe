@@ -4,7 +4,7 @@ title: "Google DeepMind's Logan Kilpatrick on Why AGI Won't Be a Model"
 slug: google-deepmind-s-logan-kilpatrick-on-why-agi-won-t-be-a
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: nU_Ou3aUkkM
 url: https://www.youtube.com/watch?v=nU_Ou3aUkkM
 youtube_url: https://www.youtube.com/watch?v=nU_Ou3aUkkM
 tags: ["AGI as a product", "AGI product", "AI DevCon", "AI Native Dev", "AI development", "AI development trends", "AI ecosystem", "AI engineering", "Gemini team", "Google DeepMind", "OpenAI experience", "ainativedev", "development tools", "future of AGI", "how AI tools are changing"]
+topics: ["Enterprise adoption & strategy", "Prompting & context engineering"]
 transcript: true
 ---
 

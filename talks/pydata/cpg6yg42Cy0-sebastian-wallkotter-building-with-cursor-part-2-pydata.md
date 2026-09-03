@@ -4,7 +4,7 @@ title: "Sebastian Wallkötter - Building with Cursor Part 2 (PyData Boston)"
 slug: sebastian-wallkotter-building-with-cursor-part-2-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Sebastian Wallkötter"]
@@ -15,6 +15,7 @@ video_id: cpg6yg42Cy0
 url: https://www.youtube.com/watch?v=cpg6yg42Cy0
 youtube_url: https://www.youtube.com/watch?v=cpg6yg42Cy0
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

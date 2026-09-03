@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Extend Kiro with MCP support for richer context (DV
 slug: aws-re-invent-2025-extend-kiro-with-mcp-support-for-richer
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: s4sRgzNBlbU
 url: https://www.youtube.com/watch?v=s4sRgzNBlbU
 youtube_url: https://www.youtube.com/watch?v=s4sRgzNBlbU
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

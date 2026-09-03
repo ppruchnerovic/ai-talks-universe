@@ -4,7 +4,7 @@ title: "Lightning Talk: Tuning Linux for Embedded Space Applications - Simon Cor
 slug: lightning-talk-tuning-linux-for-embedded-space-applications
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Simon Corbin"]
@@ -15,6 +15,7 @@ video_id: d6H6nuyD5iE
 url: https://www.youtube.com/watch?v=d6H6nuyD5iE
 youtube_url: https://www.youtube.com/watch?v=d6H6nuyD5iE
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

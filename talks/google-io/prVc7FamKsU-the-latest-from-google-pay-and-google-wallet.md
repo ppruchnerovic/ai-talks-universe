@@ -4,7 +4,7 @@ title: "The latest from Google Pay and Google Wallet"
 slug: the-latest-from-google-pay-and-google-wallet
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Edson Yanaga", "Kushagra Patel", "Gokmen Goksel"]
@@ -15,6 +15,7 @@ video_id: prVc7FamKsU
 url: https://www.youtube.com/watch?v=prVc7FamKsU
 youtube_url: https://www.youtube.com/watch?v=prVc7FamKsU
 tags: ["Android", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Android;", "Google Pay", "Google Wallet"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

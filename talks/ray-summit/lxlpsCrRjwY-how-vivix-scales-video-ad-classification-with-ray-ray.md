@@ -4,7 +4,7 @@ title: "How Vivix Scales Video Ad Classification with Ray | Ray Summit 2024"
 slug: how-vivix-scales-video-ad-classification-with-ray-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: lxlpsCrRjwY
 url: https://www.youtube.com/watch?v=lxlpsCrRjwY
 youtube_url: https://www.youtube.com/watch?v=lxlpsCrRjwY
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Embedding OLAP, Everywhere Lessons from Okta"
 slug: embedding-olap-everywhere-lessons-from-okta
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Jake Thomas"]
@@ -15,6 +15,7 @@ video_id: GjwvwiSb4Ww
 url: https://www.youtube.com/watch?v=GjwvwiSb4Ww
 youtube_url: https://www.youtube.com/watch?v=GjwvwiSb4Ww
 tags: ["Okta", "embedded OLAP", "ChatGPT", "artificial intelligence", "machine learning", "analytics", "business intelligence", "data engineering tutorial", "serverless databases", "data architecture", "real time analytics", "embedded analytics", "Python tutorial", "identity analytics", "security analytics", "access analytics", "user behavior analytics", "authentication metrics", "authorization patterns", "compliance reporting", "audit logs", "risk assessment", "fraud detection"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

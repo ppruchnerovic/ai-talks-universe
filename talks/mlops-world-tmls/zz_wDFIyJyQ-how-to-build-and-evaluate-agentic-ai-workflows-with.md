@@ -4,7 +4,7 @@ title: "How to Build and Evaluate Agentic AI Workflows with FloTorch | Dr. Heman
 slug: how-to-build-and-evaluate-agentic-ai-workflows-with
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Dr. Hemant Joshi"]
@@ -15,6 +15,7 @@ video_id: zz_wDFIyJyQ
 url: https://www.youtube.com/watch?v=zz_wDFIyJyQ
 youtube_url: https://www.youtube.com/watch?v=zz_wDFIyJyQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

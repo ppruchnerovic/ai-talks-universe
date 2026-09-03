@@ -4,7 +4,7 @@ title: "What’s New in Azure Data: HorizonDB and Rayfin | LIVE143"
 slug: whats-new-in-azure-data-horizondb-and-rayfin-live143
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: j8iKPajnkWQ
 url: https://www.youtube.com/watch?v=j8iKPajnkWQ
 youtube_url: https://www.youtube.com/watch?v=j8iKPajnkWQ
 tags: ["Charles Feddersen", "LIVE143", "LIVE143_v3", "Nikisha Reyes-Grange", "Sachin Patney", "What’s New in Azure Data: HorizonDB and Rayfin | LIVE143", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: []
 transcript: true
 ---
 

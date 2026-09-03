@@ -4,7 +4,7 @@ title: "DevCon London: Real Talk on AI ROI, Harnesses & Evals (BONUS EP)"
 slug: devcon-london-real-talk-on-ai-roi-harnesses-evals-bonus-ep
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: bsCZTNAQIf0
 url: https://www.youtube.com/watch?v=bsCZTNAQIf0
 youtube_url: https://www.youtube.com/watch?v=bsCZTNAQIf0
 tags: ["AI Native DevCon", "AI Native DevCon London 2026", "AI ROI", "AI development", "AutonomyAI", "AutonomyAI production process", "NearForm", "agentic coding", "ainativedev", "change management", "evals", "harness engineering", "how NearForm reduced backlog", "importance of evals in AI", "real AI ROI strategies"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

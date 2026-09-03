@@ -4,7 +4,7 @@ title: "The Trust Lifecycle for Safe, Secure and Reliable AI Agents"
 slug: the-trust-lifecycle-for-safe-secure-and-reliable-ai-agents
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0lKSZs38Jq8
 url: https://www.youtube.com/watch?v=0lKSZs38Jq8
 youtube_url: https://www.youtube.com/watch?v=0lKSZs38Jq8
 tags: ["AI Agents", "AI Safety", "LLM Security", "Generative AI", "EU AI Act", "AI Engineering", "MLOps", "Machine Learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

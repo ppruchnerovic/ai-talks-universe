@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Cloud Application Security in the AI Era: Lessons f
 slug: aws-re-invent-2025-cloud-application-security-in-the-ai-era
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5oAbpxdZtXs
 url: https://www.youtube.com/watch?v=5oAbpxdZtXs
 youtube_url: https://www.youtube.com/watch?v=5oAbpxdZtXs
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

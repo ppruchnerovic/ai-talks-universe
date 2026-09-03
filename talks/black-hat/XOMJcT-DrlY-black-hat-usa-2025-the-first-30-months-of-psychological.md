@@ -4,7 +4,7 @@ title: "Black Hat USA 2025 | The First 30 Months of Psychological Manipulation o
 slug: black-hat-usa-2025-the-first-30-months-of-psychological
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XOMJcT-DrlY
 url: https://www.youtube.com/watch?v=XOMJcT-DrlY
 youtube_url: https://www.youtube.com/watch?v=XOMJcT-DrlY
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "MFA? Game over! Watch your protection collapse – live"
 slug: mfa-game-over-watch-your-protection-collapse-live
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Christoph Menzel"]
@@ -15,6 +15,7 @@ video_id: q9jjBA_XBnc
 url: https://www.youtube.com/watch?v=q9jjBA_XBnc
 youtube_url: https://www.youtube.com/watch?v=q9jjBA_XBnc
 tags: ["Security & Privacy", "Authentication", "Security"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

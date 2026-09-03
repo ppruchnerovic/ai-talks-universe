@@ -4,7 +4,7 @@ title: "AI Engineering with the Google Gemini 2.5 Model Family - Philipp Schmid,
 slug: ai-engineering-with-the-google-gemini-2-5-model-family
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Philipp Schmid"]
@@ -15,6 +15,7 @@ video_id: zK9lYrLbjSg
 url: https://www.youtube.com/watch?v=zK9lYrLbjSg
 youtube_url: https://www.youtube.com/watch?v=zK9lYrLbjSg
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

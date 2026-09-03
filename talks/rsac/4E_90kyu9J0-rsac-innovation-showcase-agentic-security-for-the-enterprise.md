@@ -4,7 +4,7 @@ title: "RSAC Innovation Showcase: Agentic Security for the Enterprise"
 slug: rsac-innovation-showcase-agentic-security-for-the-enterprise
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4E_90kyu9J0
 url: https://www.youtube.com/watch?v=4E_90kyu9J0
 youtube_url: https://www.youtube.com/watch?v=4E_90kyu9J0
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

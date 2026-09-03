@@ -4,7 +4,7 @@ title: "Fireside Chat - Why the future is built on “AND”"
 slug: fireside-chat-why-the-future-is-built-on-and
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jürgen Hartwig", "Rudi Bauer"]
@@ -15,6 +15,7 @@ video_id: Rqy00DMhvtc
 url: https://www.youtube.com/watch?v=Rqy00DMhvtc
 youtube_url: https://www.youtube.com/watch?v=Rqy00DMhvtc
 tags: ["People & Culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

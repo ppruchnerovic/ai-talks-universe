@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF: Andrew Ng: The Future of Software Engineering"
 slug: ai-dev-26-x-sf-andrew-ng-the-future-of-software-engineering
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: g8um2AEf5ZA
 url: https://www.youtube.com/watch?v=g8um2AEf5ZA
 youtube_url: https://www.youtube.com/watch?v=g8um2AEf5ZA
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

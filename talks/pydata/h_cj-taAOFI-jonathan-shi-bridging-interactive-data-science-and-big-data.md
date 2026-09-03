@@ -4,7 +4,7 @@ title: "Jonathan Shi-Bridging Interactive Data Science and Big Data with Hybrid 
 slug: jonathan-shi-bridging-interactive-data-science-and-big-data
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: h_cj-taAOFI
 url: https://www.youtube.com/watch?v=h_cj-taAOFI
 youtube_url: https://www.youtube.com/watch?v=h_cj-taAOFI
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

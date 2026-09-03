@@ -4,7 +4,7 @@ title: "Andrew Lonsberry: Co-founder & CEO @Path Robotics, Integrating Hardware,
 slug: andrew-lonsberry-co-founder-ceo-path-robotics-integrating
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: jVGBj_ZAWeI
 url: https://www.youtube.com/watch?v=jVGBj_ZAWeI
 youtube_url: https://www.youtube.com/watch?v=jVGBj_ZAWeI
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

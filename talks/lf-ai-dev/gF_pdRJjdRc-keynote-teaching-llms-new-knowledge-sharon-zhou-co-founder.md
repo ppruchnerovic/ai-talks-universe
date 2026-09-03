@@ -4,7 +4,7 @@ title: "Keynote: Teaching LLMs New Knowledge - Sharon Zhou, Co-founder & CEO, La
 slug: keynote-teaching-llms-new-knowledge-sharon-zhou-co-founder
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Sharon Zhou"]
@@ -15,6 +15,7 @@ video_id: gF_pdRJjdRc
 url: https://www.youtube.com/watch?v=gF_pdRJjdRc
 youtube_url: https://www.youtube.com/watch?v=gF_pdRJjdRc
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

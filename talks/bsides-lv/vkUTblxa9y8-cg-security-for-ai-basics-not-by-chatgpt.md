@@ -4,7 +4,7 @@ title: "CG - Security for AI Basics - Not by ChatGPT"
 slug: cg-security-for-ai-basics-not-by-chatgpt
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: vkUTblxa9y8
 url: https://www.youtube.com/watch?v=vkUTblxa9y8
 youtube_url: https://www.youtube.com/watch?v=vkUTblxa9y8
 tags: ["Q3AXGD"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

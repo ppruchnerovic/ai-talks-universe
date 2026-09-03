@@ -4,7 +4,7 @@ title: "Daniel Homola - From Multi Agent Patterns to Reliable Orchestration"
 slug: daniel-homola-from-multi-agent-patterns-to-reliable
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Daniel Homola"]
@@ -15,6 +15,7 @@ video_id: H6E46K0WPWg
 url: https://www.youtube.com/watch?v=H6E46K0WPWg
 youtube_url: https://www.youtube.com/watch?v=H6E46K0WPWg
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

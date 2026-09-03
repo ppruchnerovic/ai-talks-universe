@@ -4,7 +4,7 @@ title: "Beyond DALL-E: Advanced Image Generation Workflows with ComfyUI"
 slug: beyond-dall-e-advanced-image-generation-workflows-with
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["René Fa"]
@@ -15,6 +15,7 @@ video_id: EwuqWBIKhqs
 url: https://www.youtube.com/watch?v=EwuqWBIKhqs
 youtube_url: https://www.youtube.com/watch?v=EwuqWBIKhqs
 tags: ["API integration", "ComfyUI", "Conference", "ControlNet", "LoRA models", "Programming", "PyConDE", "PyData", "Python", "Segment Anything Model", "Stable Diffusion", "Tech Talk", "computer vision", "generative AI", "image inpainting", "latent space manipulation", "node-based interfaces", "style transfer"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

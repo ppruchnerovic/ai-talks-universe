@@ -4,7 +4,7 @@ title: "Derek Ashmore - AI-Powered Application Modernization | DevCon Fall 2025"
 slug: derek-ashmore-ai-powered-application-modernization-devcon
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Derek Ashmore"]
@@ -15,6 +15,7 @@ video_id: LX_AAUS3MWU
 url: https://www.youtube.com/watch?v=LX_AAUS3MWU
 youtube_url: https://www.youtube.com/watch?v=LX_AAUS3MWU
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

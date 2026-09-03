@@ -4,7 +4,7 @@ title: "Keynote: BAML - A New Programming Language for Building Agents - Vaibhav
 slug: keynote-baml-a-new-programming-language-for-building-agents
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Vaibhav Gupta"]
@@ -15,6 +15,7 @@ video_id: 2tWnjEGzRss
 url: https://www.youtube.com/watch?v=2tWnjEGzRss
 youtube_url: https://www.youtube.com/watch?v=2tWnjEGzRss
 tags: []
+topics: ["Agents & orchestration", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

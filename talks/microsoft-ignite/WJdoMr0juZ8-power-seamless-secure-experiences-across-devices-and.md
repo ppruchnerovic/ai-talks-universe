@@ -4,7 +4,7 @@ title: "Power seamless, secure experiences across devices and services | STUDIOS
 slug: power-seamless-secure-experiences-across-devices-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Dave Mooney"]
@@ -15,6 +15,7 @@ video_id: WJdoMr0juZ8
 url: https://www.youtube.com/watch?v=WJdoMr0juZ8
 youtube_url: https://www.youtube.com/watch?v=WJdoMr0juZ8
 tags: ["Dave Mooney", "English (US)", "Power seamless secure experiences across devices and services | STUDIOSP81", "Retail and Consumer Goods", "STUDIOSP81", "STUDIOSP81_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

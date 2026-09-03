@@ -4,7 +4,7 @@ title: "Cloud and DevOps InfoQ Trends Report 2026: AI, Resilience, Platforms, Fi
 slug: cloud-and-devops-infoq-trends-report-2026-ai-resilience
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: pJ8YPFlzGOo
 url: https://www.youtube.com/watch?v=pJ8YPFlzGOo
 youtube_url: https://www.youtube.com/watch?v=pJ8YPFlzGOo
 tags: ["cloud", "DevOps", "Platform Engineering", "Multi-cloud", "Resilience", "AI", "FinOps", "Sovereignty", "Cloud architecture", "The InfoQ Podcast", "Trends Report 2026"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

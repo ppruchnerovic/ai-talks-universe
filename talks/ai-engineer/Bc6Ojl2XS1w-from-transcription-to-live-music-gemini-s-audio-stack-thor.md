@@ -4,7 +4,7 @@ title: "From Transcription to Live Music: Gemini's Audio Stack — Thor Schaeff,
 slug: from-transcription-to-live-music-gemini-s-audio-stack-thor
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Thor Schaeff"]
@@ -15,6 +15,7 @@ video_id: Bc6Ojl2XS1w
 url: https://www.youtube.com/watch?v=Bc6Ojl2XS1w
 youtube_url: https://www.youtube.com/watch?v=Bc6Ojl2XS1w
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

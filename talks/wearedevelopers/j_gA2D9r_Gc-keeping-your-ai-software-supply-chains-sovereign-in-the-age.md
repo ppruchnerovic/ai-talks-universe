@@ -4,7 +4,7 @@ title: "Keeping Your AI Software Supply Chains Sovereign in the Age of Commercia
 slug: keeping-your-ai-software-supply-chains-sovereign-in-the-age
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Franz Kiraly"]
@@ -15,6 +15,7 @@ video_id: j_gA2D9r_Gc
 url: https://www.youtube.com/watch?v=j_gA2D9r_Gc
 youtube_url: https://www.youtube.com/watch?v=j_gA2D9r_Gc
 tags: ["Strategy & Innovation", "Open Source", "Product Strategy", "Reliability"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Why I Am Not Afraid AI Will Take My Job by Maarten Mulders"
 slug: why-i-am-not-afraid-ai-will-take-my-job-by-maarten-mulders
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Maarten Mulders"]
@@ -15,6 +15,7 @@ video_id: w-TXBwukxqY
 url: https://www.youtube.com/watch?v=w-TXBwukxqY
 youtube_url: https://www.youtube.com/watch?v=w-TXBwukxqY
 tags: []
+topics: []
 transcript: false
 ---
 

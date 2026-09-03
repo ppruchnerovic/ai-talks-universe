@@ -4,7 +4,7 @@ title: "The Tessl Agent: Build Your Software Factory on Autopilot"
 slug: the-tessl-agent-build-your-software-factory-on-autopilot
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7PKEXIq25H0
 url: https://www.youtube.com/watch?v=7PKEXIq25H0
 youtube_url: https://www.youtube.com/watch?v=7PKEXIq25H0
 tags: ["AI Automation", "AI automation tips", "AINativeDev", "Agentic coding practices", "Avoiding vendor lock-in", "Claude Code", "Coding Agents", "Outcome-Oriented UX", "Outcome-oriented UX design", "Scaling AI agents", "Tessl Agent demo", "Tessl Agent explained", "Tessl platform integration", "What is loop engineering?"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

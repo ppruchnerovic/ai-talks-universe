@@ -4,7 +4,7 @@ title: "Ion Stoica - The Limits of AI Coding Agents: Two Fundamental Gaps in Age
 slug: ion-stoica-the-limits-of-ai-coding-agents-two-fundamental
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Ion Stoica"]
@@ -15,6 +15,7 @@ video_id: vuDurF3b_ds
 url: https://www.youtube.com/watch?v=vuDurF3b_ds
 youtube_url: https://www.youtube.com/watch?v=vuDurF3b_ds
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

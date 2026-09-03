@@ -4,7 +4,7 @@ title: "AI Slop Is Destroying The Internet | Anthropic x Newcomer"
 slug: ai-slop-is-destroying-the-internet-anthropic-x-newcomer
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: gUsOixBy438
 url: https://www.youtube.com/watch?v=gUsOixBy438
 youtube_url: https://www.youtube.com/watch?v=gUsOixBy438
 tags: ["AI podcast", "Anthropic", "ElevenLabs", "AI slop", "AI brainrot", "Cerebral Valley AI Summit", "agentic AI", "voice AI", "AI truth-seeking", "artificial intelligence", "tech interview", "Max Child", "MongoDB", "Mike Krieger", "Mati Stunashevsky", "vertical AI", "celebrity voice cloning", "AI authenticity", "machine learning", "future of AI", "industry trends", "innovation", "italian brainrot"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Building an Internal Developer Portal that Empowers Developers"
 slug: building-an-internal-developer-portal-that-empowers
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Travis Gosselin"]
@@ -15,6 +15,7 @@ video_id: iq-internal-developer-portal
 url: https://www.infoq.com/presentations/internal-developer-portal/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

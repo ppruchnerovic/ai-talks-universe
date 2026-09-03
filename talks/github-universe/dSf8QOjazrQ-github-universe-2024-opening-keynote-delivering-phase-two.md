@@ -4,7 +4,7 @@ title: "GitHub Universe 2024 opening keynote: delivering phase two of AI code ge
 slug: github-universe-2024-opening-keynote-delivering-phase-two
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: dSf8QOjazrQ
 url: https://www.youtube.com/watch?v=dSf8QOjazrQ
 youtube_url: https://www.youtube.com/watch?v=dSf8QOjazrQ
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

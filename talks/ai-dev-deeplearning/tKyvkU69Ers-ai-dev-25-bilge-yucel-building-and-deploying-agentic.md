@@ -4,7 +4,7 @@ title: "AI Dev 25 | Bilge Yücel: Building and Deploying Agentic Workflows with
 slug: ai-dev-25-bilge-yucel-building-and-deploying-agentic
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: tKyvkU69Ers
 url: https://www.youtube.com/watch?v=tKyvkU69Ers
 youtube_url: https://www.youtube.com/watch?v=tKyvkU69Ers
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

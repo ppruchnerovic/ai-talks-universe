@@ -4,7 +4,7 @@ title: "From Code Completion to Autonomous Software Engineering Agents"
 slug: from-code-completion-to-autonomous-software-engineering
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: OefEyzkW6dM
 url: https://www.youtube.com/watch?v=OefEyzkW6dM
 youtube_url: https://www.youtube.com/watch?v=OefEyzkW6dM
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

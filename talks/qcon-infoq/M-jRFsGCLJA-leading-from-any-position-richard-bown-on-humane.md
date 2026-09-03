@@ -4,7 +4,7 @@ title: "Leading from Any Position: Richard Bown on Humane Engineering Organizati
 slug: leading-from-any-position-richard-bown-on-humane
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: M-jRFsGCLJA
 url: https://www.youtube.com/watch?v=M-jRFsGCLJA
 youtube_url: https://www.youtube.com/watch?v=M-jRFsGCLJA
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

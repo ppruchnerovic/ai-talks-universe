@@ -4,7 +4,7 @@ title: "The Sanity Check: Observability for AI Data Pipelines - David Aronchick,
 slug: the-sanity-check-observability-for-ai-data-pipelines-david
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: ["David Aronchick"]
@@ -15,6 +15,7 @@ video_id: VGdBUaiusjQ
 url: https://www.youtube.com/watch?v=VGdBUaiusjQ
 youtube_url: https://www.youtube.com/watch?v=VGdBUaiusjQ
 tags: []
+topics: ["Data engineering & MLOps", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

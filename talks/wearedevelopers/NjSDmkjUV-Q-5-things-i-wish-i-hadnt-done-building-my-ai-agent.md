@@ -4,7 +4,7 @@ title: "5 things I wish I hadn’t done building my AI agent"
 slug: 5-things-i-wish-i-hadnt-done-building-my-ai-agent
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Shachar Azriel"]
@@ -15,6 +15,7 @@ video_id: NjSDmkjUV-Q
 url: https://www.youtube.com/watch?v=NjSDmkjUV-Q
 youtube_url: https://www.youtube.com/watch?v=NjSDmkjUV-Q
 tags: ["AI Agents", "Agentic AI", "Best Practices", "Startups"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

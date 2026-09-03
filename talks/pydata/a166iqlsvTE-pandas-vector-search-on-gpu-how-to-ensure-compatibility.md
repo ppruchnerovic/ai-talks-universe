@@ -4,7 +4,7 @@ title: "Pandas + Vector Search on GPU: How to Ensure Compatibility"
 slug: pandas-vector-search-on-gpu-how-to-ensure-compatibility
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: a166iqlsvTE
 url: https://www.youtube.com/watch?v=a166iqlsvTE
 youtube_url: https://www.youtube.com/watch?v=a166iqlsvTE
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

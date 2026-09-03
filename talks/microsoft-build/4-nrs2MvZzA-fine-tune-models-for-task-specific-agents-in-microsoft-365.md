@@ -4,7 +4,7 @@ title: "Fine-tune models for task-specific agents in Microsoft 365 Copilot | BRK
 slug: fine-tune-models-for-task-specific-agents-in-microsoft-365
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4-nrs2MvZzA
 url: https://www.youtube.com/watch?v=4-nrs2MvZzA
 youtube_url: https://www.youtube.com/watch?v=4-nrs2MvZzA
 tags: []
+topics: ["Agents & orchestration", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

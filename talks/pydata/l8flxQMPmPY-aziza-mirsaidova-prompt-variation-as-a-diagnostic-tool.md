@@ -4,7 +4,7 @@ title: "Aziza Mirsaidova - Prompt Variation as a Diagnostic Tool | PyData Seattl
 slug: aziza-mirsaidova-prompt-variation-as-a-diagnostic-tool
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Aziza Mirsaidova"]
@@ -15,6 +15,7 @@ video_id: l8flxQMPmPY
 url: https://www.youtube.com/watch?v=l8flxQMPmPY
 youtube_url: https://www.youtube.com/watch?v=l8flxQMPmPY
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

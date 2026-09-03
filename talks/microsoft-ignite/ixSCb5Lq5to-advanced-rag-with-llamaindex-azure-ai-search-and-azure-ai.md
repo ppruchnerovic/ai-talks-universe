@@ -4,7 +4,7 @@ title: "Advanced RAG with LlamaIndex Azure AI Search and Azure AI Foundry | BRK1
 slug: advanced-rag-with-llamaindex-azure-ai-search-and-azure-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Farzad Sunavala", "Laurie Voss"]
@@ -15,6 +15,7 @@ video_id: ixSCb5Lq5to
 url: https://www.youtube.com/watch?v=ixSCb5Lq5to
 youtube_url: https://www.youtube.com/watch?v=ixSCb5Lq5to
 tags: ["AI", "AI search", "Advanced (300)", "Advanced RAG with LlamaIndex Azure AI Search and Azure AI Foundry | BRK106", "BRK106", "Breakout", "English (US)", "Farzad Sunavala", "GenAI", "Laurie Voss", "Technical", "Version v1", "ignite", "ignite 2024", "knowledgeretrieval", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024", "vectorsearch"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AI Dev 25 | Panel Discussion: Building AI Application in 2025"
 slug: ai-dev-25-panel-discussion-building-ai-application-in-2025
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: IHtN03NZOYI
 url: https://www.youtube.com/watch?v=IHtN03NZOYI
 youtube_url: https://www.youtube.com/watch?v=IHtN03NZOYI
 tags: []
+topics: []
 transcript: false
 ---
 

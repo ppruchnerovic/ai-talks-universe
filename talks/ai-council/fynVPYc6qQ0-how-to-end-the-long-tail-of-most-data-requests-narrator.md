@@ -4,7 +4,7 @@ title: "How to End the Long tail of Most Data Requests | Narrator"
 slug: how-to-end-the-long-tail-of-most-data-requests-narrator
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: fynVPYc6qQ0
 url: https://www.youtube.com/watch?v=fynVPYc6qQ0
 youtube_url: https://www.youtube.com/watch?v=fynVPYc6qQ0
 tags: ["AI algorithms", "SQL", "data analyst"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

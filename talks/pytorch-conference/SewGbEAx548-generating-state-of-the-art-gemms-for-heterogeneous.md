@@ -4,7 +4,7 @@ title: "Generating State-of-the-Art GEMMs for Heterogeneous Hardware with... - M
 slug: generating-state-of-the-art-gemms-for-heterogeneous
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Michael Lazos", "Henry Tsang"]
@@ -15,6 +15,7 @@ video_id: SewGbEAx548
 url: https://www.youtube.com/watch?v=SewGbEAx548
 youtube_url: https://www.youtube.com/watch?v=SewGbEAx548
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

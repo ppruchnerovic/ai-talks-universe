@@ -4,7 +4,7 @@ title: "Capitalize on Microsoft 365 Copilot partner opportunity in Enterprise | 
 slug: capitalize-on-microsoft-365-copilot-partner-opportunity-in
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ananthram Balakrishnan", "Danny Burlage", "Uriel Rootshtain", "Gloria Sanchez", "Ryan Toenies"]
@@ -15,6 +15,7 @@ video_id: WgECvrG_Lkw
 url: https://www.youtube.com/watch?v=WgECvrG_Lkw
 youtube_url: https://www.youtube.com/watch?v=WgECvrG_Lkw
 tags: ["Ananthram Balakrishnan", "BRK299", "Breakout", "Capitalize on Microsoft 365 Copilot partner opportunity in Enterprise | BRK299", "Danny Burlage", "English (US)", "Foundational (100)", "Gloria Sanchez", "Modern Work", "Modern Work-Curated", "Partner Business", "Solution Area", "Uriel Rootshtain", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

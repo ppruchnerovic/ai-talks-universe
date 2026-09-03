@@ -4,7 +4,7 @@ title: "CUDA Python: GPU programming for the modern developer"
 slug: cuda-python-gpu-programming-for-the-modern-developer
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Paul Graham"]
@@ -15,6 +15,7 @@ video_id: 8bLOMUInqYM
 url: https://www.youtube.com/watch?v=8bLOMUInqYM
 youtube_url: https://www.youtube.com/watch?v=8bLOMUInqYM
 tags: ["Languages & Runtimes", "APIs", "Best Practices", "Developer Experience (DevEx)", "NVIDIA", "Performance", "Python"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

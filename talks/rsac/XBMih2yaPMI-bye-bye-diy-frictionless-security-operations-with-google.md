@@ -4,7 +4,7 @@ title: "Bye-Bye DIY: Frictionless Security Operations with Google"
 slug: bye-bye-diy-frictionless-security-operations-with-google
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Lorenz Jakober"]
@@ -15,6 +15,7 @@ video_id: XBMih2yaPMI
 url: https://www.youtube.com/watch?v=XBMih2yaPMI
 youtube_url: https://www.youtube.com/watch?v=XBMih2yaPMI
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

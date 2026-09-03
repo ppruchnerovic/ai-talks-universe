@@ -4,7 +4,7 @@ title: "How Block is Making Data Human: Democratizing Insights With Streamlit An
 slug: how-block-is-making-data-human-democratizing-insights-with
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: JyA26c-9Zt0
 url: https://www.youtube.com/watch?v=JyA26c-9Zt0
 youtube_url: https://www.youtube.com/watch?v=JyA26c-9Zt0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

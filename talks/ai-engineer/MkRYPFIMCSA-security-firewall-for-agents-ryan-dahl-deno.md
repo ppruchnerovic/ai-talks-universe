@@ -4,7 +4,7 @@ title: "Security Firewall for Agents — Ryan Dahl, Deno"
 slug: security-firewall-for-agents-ryan-dahl-deno
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ryan Dahl"]
@@ -15,6 +15,7 @@ video_id: MkRYPFIMCSA
 url: https://www.youtube.com/watch?v=MkRYPFIMCSA
 youtube_url: https://www.youtube.com/watch?v=MkRYPFIMCSA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

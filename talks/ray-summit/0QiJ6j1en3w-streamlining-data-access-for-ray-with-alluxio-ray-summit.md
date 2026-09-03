@@ -4,7 +4,7 @@ title: "Streamlining Data Access for Ray with Alluxio | Ray Summit 2024"
 slug: streamlining-data-access-for-ray-with-alluxio-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0QiJ6j1en3w
 url: https://www.youtube.com/watch?v=0QiJ6j1en3w
 youtube_url: https://www.youtube.com/watch?v=0QiJ6j1en3w
 tags: []
+topics: []
 transcript: false
 ---
 

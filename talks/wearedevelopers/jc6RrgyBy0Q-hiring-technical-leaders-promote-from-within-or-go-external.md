@@ -4,7 +4,7 @@ title: "Hiring Technical Leaders: Promote from Within or Go External?"
 slug: hiring-technical-leaders-promote-from-within-or-go-external
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Barbara Wilk"]
@@ -15,6 +15,7 @@ video_id: jc6RrgyBy0Q
 url: https://www.youtube.com/watch?v=jc6RrgyBy0Q
 youtube_url: https://www.youtube.com/watch?v=jc6RrgyBy0Q
 tags: ["Talent Strategy", "HR", "People & Culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "From Global Capability Centers to AI-Powered Command Centers"
 slug: from-global-capability-centers-to-ai-powered-command-centers
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Sandeep Kusuma"]
@@ -15,6 +15,7 @@ video_id: S2huPDfLh6I
 url: https://www.youtube.com/watch?v=S2huPDfLh6I
 youtube_url: https://www.youtube.com/watch?v=S2huPDfLh6I
 tags: ["Strategy & Innovation", "AI Models", "AI Standards", "Business Models", "Digital Transformation", "Entrepreneurship", "Future of Work", "Innovation", "Scaling"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

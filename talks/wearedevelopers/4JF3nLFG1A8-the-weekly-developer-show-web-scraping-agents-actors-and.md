@@ -4,7 +4,7 @@ title: "The weekly developer show: Web Scraping, Agents, Actors and more"
 slug: the-weekly-developer-show-web-scraping-agents-actors-and
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4JF3nLFG1A8
 url: https://www.youtube.com/watch?v=4JF3nLFG1A8
 youtube_url: https://www.youtube.com/watch?v=4JF3nLFG1A8
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

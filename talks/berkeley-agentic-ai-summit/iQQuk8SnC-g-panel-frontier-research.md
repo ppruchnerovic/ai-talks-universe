@@ -4,7 +4,7 @@ title: "Panel: Frontier Research"
 slug: panel-frontier-research
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: iQQuk8SnC-g
 url: https://www.youtube.com/watch?v=iQQuk8SnC-g
 youtube_url: https://www.youtube.com/watch?v=iQQuk8SnC-g
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Panel GenAI Red Teaming guidance and best practices"
 slug: panel-genai-red-teaming-guidance-and-best-practices
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: VYDSIhskmEM
 url: https://www.youtube.com/watch?v=VYDSIhskmEM
 youtube_url: https://www.youtube.com/watch?v=VYDSIhskmEM
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: true
 ---
 

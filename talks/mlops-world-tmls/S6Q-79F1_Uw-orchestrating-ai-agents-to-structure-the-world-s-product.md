@@ -4,7 +4,7 @@ title: "Orchestrating AI Agents to Structure the World's Product Knowledge | Sho
 slug: orchestrating-ai-agents-to-structure-the-world-s-product
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Kshetrajna Raghavan", "Ricardo Tejedor"]
@@ -15,6 +15,7 @@ video_id: S6Q-79F1_Uw
 url: https://www.youtube.com/watch?v=S6Q-79F1_Uw
 youtube_url: https://www.youtube.com/watch?v=S6Q-79F1_Uw
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: false
 ---
 

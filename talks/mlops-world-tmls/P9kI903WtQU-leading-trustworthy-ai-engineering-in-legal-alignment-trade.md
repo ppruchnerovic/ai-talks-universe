@@ -4,7 +4,7 @@ title: "Leading Trustworthy AI Engineering in Legal: Alignment, Trade-offs, and 
 slug: leading-trustworthy-ai-engineering-in-legal-alignment-trade
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: P9kI903WtQU
 url: https://www.youtube.com/watch?v=P9kI903WtQU
 youtube_url: https://www.youtube.com/watch?v=P9kI903WtQU
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Governance, ethics & regulation", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

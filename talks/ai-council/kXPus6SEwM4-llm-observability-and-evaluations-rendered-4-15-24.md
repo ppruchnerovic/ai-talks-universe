@@ -4,7 +4,7 @@ title: "LLM Observability and Evaluations Rendered 4 15 24"
 slug: llm-observability-and-evaluations-rendered-4-15-24
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Amber Roberts"]
@@ -15,6 +15,7 @@ video_id: kXPus6SEwM4
 url: https://www.youtube.com/watch?v=kXPus6SEwM4
 youtube_url: https://www.youtube.com/watch?v=kXPus6SEwM4
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Building a Debugger • Sy Brand & Tim Misiak"
 slug: building-a-debugger-sy-brand-tim-misiak
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Sy Brand", "Tim Misiak"]
@@ -15,6 +15,7 @@ video_id: geGJLtro_90
 url: https://www.youtube.com/watch?v=geGJLtro_90
 youtube_url: https://www.youtube.com/watch?v=geGJLtro_90
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

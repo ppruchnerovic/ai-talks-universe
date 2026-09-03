@@ -4,7 +4,7 @@ title: "Harnessing Databricks for Advanced LLM Time-Series Models in Healthcare 
 slug: harnessing-databricks-for-advanced-llm-time-series-models
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Dqx1tJ_PsAA
 url: https://www.youtube.com/watch?v=Dqx1tJ_PsAA
 youtube_url: https://www.youtube.com/watch?v=Dqx1tJ_PsAA
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

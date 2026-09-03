@@ -4,7 +4,7 @@ title: "Micro-Frontends: Stop Building a Distributed Monolith! (Scale with Conwa
 slug: micro-frontends-stop-building-a-distributed-monolith-scale
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YBkaO0TkNaA
 url: https://www.youtube.com/watch?v=YBkaO0TkNaA
 youtube_url: https://www.youtube.com/watch?v=YBkaO0TkNaA
 tags: ["Software Architecture", "QCon London", "Micro-Frontends", "Monolith", "Platform Team", "Developer Experience", "InfoQ", "Transcript", "Platforms", "Frontend Development"]
+topics: []
 transcript: false
 ---
 

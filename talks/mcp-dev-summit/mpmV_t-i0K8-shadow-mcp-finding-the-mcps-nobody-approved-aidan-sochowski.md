@@ -4,7 +4,7 @@ title: "Shadow MCP: Finding the MCPs Nobody Approved - Aidan Sochowski & Alexand
 slug: shadow-mcp-finding-the-mcps-nobody-approved-aidan-sochowski
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Aidan Sochowski", "Alexander Frazer"]
@@ -15,6 +15,7 @@ video_id: mpmV_t-i0K8
 url: https://www.youtube.com/watch?v=mpmV_t-i0K8
 youtube_url: https://www.youtube.com/watch?v=mpmV_t-i0K8
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

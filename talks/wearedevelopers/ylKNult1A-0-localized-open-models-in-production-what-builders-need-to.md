@@ -4,7 +4,7 @@ title: "Localized Open Models in Production: What Builders Need to Know"
 slug: localized-open-models-in-production-what-builders-need-to
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ankit Patel", "Pierre-Louis Cedoz", "Jamie Madden", "Stephen Batifol"]
@@ -15,6 +15,7 @@ video_id: ylKNult1A-0
 url: https://www.youtube.com/watch?v=ylKNult1A-0
 youtube_url: https://www.youtube.com/watch?v=ylKNult1A-0
 tags: ["AI Engineering"]
+topics: []
 transcript: true
 ---
 

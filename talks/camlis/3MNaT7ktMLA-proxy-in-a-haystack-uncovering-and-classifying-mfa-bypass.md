@@ -4,7 +4,7 @@ title: "Proxy in a Haystack: Uncovering and Classifying MFA Bypass Phishing Atta
 slug: proxy-in-a-haystack-uncovering-and-classifying-mfa-bypass
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3MNaT7ktMLA
 url: https://www.youtube.com/watch?v=3MNaT7ktMLA
 youtube_url: https://www.youtube.com/watch?v=3MNaT7ktMLA
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Amit Kushwaha - Benchmarking the Agent Era: Measuring Performance Beyond
 slug: amit-kushwaha-benchmarking-the-agent-era-measuring
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Amit Kushwaha"]
@@ -15,6 +15,7 @@ video_id: guhTp2Q8VX0
 url: https://www.youtube.com/watch?v=guhTp2Q8VX0
 youtube_url: https://www.youtube.com/watch?v=guhTp2Q8VX0
 tags: ["AI DevCon London", "AI DevCon London 2026", "AI code optimization", "KV cache", "KV caching optimization", "Nvidia", "agent focused benchmarks", "agent performance metrics", "agentic workloads", "ainativedev", "benchmarking AI", "benchmarking agentic workloads", "measuring AI performance", "speculative decoding", "speculative decoding in AI"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

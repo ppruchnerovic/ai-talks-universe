@@ -4,7 +4,7 @@ title: "AI native development not working? Write rules Brian Douglas"
 slug: ai-native-development-not-working-write-rules-brian-douglas
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4wC4u4krt70
 url: https://www.youtube.com/watch?v=4wC4u4krt70
 youtube_url: https://www.youtube.com/watch?v=4wC4u4krt70
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

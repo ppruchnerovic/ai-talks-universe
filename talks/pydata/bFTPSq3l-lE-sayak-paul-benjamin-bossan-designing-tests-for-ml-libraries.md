@@ -4,7 +4,7 @@ title: "Sayak Paul & Benjamin Bossan - Designing tests for ML libraries | PyData
 slug: sayak-paul-benjamin-bossan-designing-tests-for-ml-libraries
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Sayak Paul", "Benjamin Bossan"]
@@ -15,6 +15,7 @@ video_id: bFTPSq3l-lE
 url: https://www.youtube.com/watch?v=bFTPSq3l-lE
 youtube_url: https://www.youtube.com/watch?v=bFTPSq3l-lE
 tags: []
+topics: []
 transcript: false
 ---
 

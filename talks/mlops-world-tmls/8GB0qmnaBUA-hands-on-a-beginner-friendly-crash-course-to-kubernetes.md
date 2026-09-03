@@ -4,7 +4,7 @@ title: "Hands on: A Beginner Friendly Crash Course to Kubernetes"
 slug: hands-on-a-beginner-friendly-crash-course-to-kubernetes
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Eric Hammel"]
@@ -15,6 +15,7 @@ video_id: 8GB0qmnaBUA
 url: https://www.youtube.com/watch?v=8GB0qmnaBUA
 youtube_url: https://www.youtube.com/watch?v=8GB0qmnaBUA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

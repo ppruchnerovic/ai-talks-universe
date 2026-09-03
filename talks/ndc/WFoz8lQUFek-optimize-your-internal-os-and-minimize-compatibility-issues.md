@@ -4,7 +4,7 @@ title: "Optimize Your Internal OS and Minimize Compatibility Issues at Work - Al
 slug: optimize-your-internal-os-and-minimize-compatibility-issues
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Alice Meredith"]
@@ -15,6 +15,7 @@ video_id: WFoz8lQUFek
 url: https://www.youtube.com/watch?v=WFoz8lQUFek
 youtube_url: https://www.youtube.com/watch?v=WFoz8lQUFek
 tags: ["People", "Soft Skills", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Alice Meredith"]
+topics: []
 transcript: false
 ---
 

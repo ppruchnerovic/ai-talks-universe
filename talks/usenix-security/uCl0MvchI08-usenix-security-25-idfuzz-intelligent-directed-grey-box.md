@@ -4,7 +4,7 @@ title: "USENIX Security '25 - IDFuzz: Intelligent Directed Grey-box Fuzzing"
 slug: usenix-security-25-idfuzz-intelligent-directed-grey-box
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: uCl0MvchI08
 url: https://www.youtube.com/watch?v=uCl0MvchI08
 youtube_url: https://www.youtube.com/watch?v=uCl0MvchI08
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

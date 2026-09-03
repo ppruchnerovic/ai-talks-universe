@@ -4,7 +4,7 @@ title: "Panel: Routing Intelligence Vs Traffic Control: Arc... Abdullah G, Morga
 slug: panel-routing-intelligence-vs-traffic-control-arc-abdullah
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: TGIqzoCqfjA
 url: https://www.youtube.com/watch?v=TGIqzoCqfjA
 youtube_url: https://www.youtube.com/watch?v=TGIqzoCqfjA
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

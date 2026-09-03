@@ -4,7 +4,7 @@ title: "AI vs AI: Protect email and collaboration tools with Microsoft Defender 
 slug: ai-vs-ai-protect-email-and-collaboration-tools-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ramya Chitrakar", "David Fantham", "Jeff Pinkston"]
@@ -15,6 +15,7 @@ video_id: VZiUn_Nwd5Q
 url: https://www.youtube.com/watch?v=VZiUn_Nwd5Q
 youtube_url: https://www.youtube.com/watch?v=VZiUn_Nwd5Q
 tags: ["060249b4-78ea-4b76-b922-855af5474aa9_Segment", "AI vs AI: Protect email and collaboration tools with Microsoft Defender | BRK239", "BRK239", "David Fantham", "English (US)", "Jeff Pinkston", "Modernize SecOps with a unified platform", "Ramya Chitrakar", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

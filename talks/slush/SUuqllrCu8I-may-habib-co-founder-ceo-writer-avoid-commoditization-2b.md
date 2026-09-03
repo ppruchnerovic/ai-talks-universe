@@ -4,7 +4,7 @@ title: "May Habib: Co-founder & CEO @Writer, Avoid Commoditization, $2B Full-sta
 slug: may-habib-co-founder-ceo-writer-avoid-commoditization-2b
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: SUuqllrCu8I
 url: https://www.youtube.com/watch?v=SUuqllrCu8I
 youtube_url: https://www.youtube.com/watch?v=SUuqllrCu8I
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Democratizing Large Language Models | Armand Joulin"
 slug: democratizing-large-language-models-armand-joulin
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Armand Joulin"]
@@ -15,6 +15,7 @@ video_id: zWG8p6QqBcI
 url: https://www.youtube.com/watch?v=zWG8p6QqBcI
 youtube_url: https://www.youtube.com/watch?v=zWG8p6QqBcI
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

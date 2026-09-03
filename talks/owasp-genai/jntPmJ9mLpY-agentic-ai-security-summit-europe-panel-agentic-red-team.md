@@ -4,7 +4,7 @@ title: "Agentic AI Security Summit, Europe: Panel - Agentic Red Team Challenges"
 slug: agentic-ai-security-summit-europe-panel-agentic-red-team
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: jntPmJ9mLpY
 url: https://www.youtube.com/watch?v=jntPmJ9mLpY
 youtube_url: https://www.youtube.com/watch?v=jntPmJ9mLpY
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

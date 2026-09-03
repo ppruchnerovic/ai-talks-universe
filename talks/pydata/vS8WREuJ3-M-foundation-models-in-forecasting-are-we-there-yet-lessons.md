@@ -4,7 +4,7 @@ title: "Foundation Models in Forecasting: Are We There Yet? Lessons from the Tre
 slug: foundation-models-in-forecasting-are-we-there-yet-lessons
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Dr. Irena Bojarovska"]
@@ -15,6 +15,7 @@ video_id: vS8WREuJ3-M
 url: https://www.youtube.com/watch?v=vS8WREuJ3-M
 youtube_url: https://www.youtube.com/watch?v=vS8WREuJ3-M
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Learning Microsoft Azure • Jonah Andersson & Håkan Silfvernagel"
 slug: learning-microsoft-azure-jonah-andersson-hakan-silfvernagel
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Jonah Andersson", "Håkan Silfvernagel"]
@@ -15,6 +15,7 @@ video_id: gEQZBmoN8LM
 url: https://www.youtube.com/watch?v=gEQZBmoN8LM
 youtube_url: https://www.youtube.com/watch?v=gEQZBmoN8LM
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
+topics: []
 transcript: false
 ---
 

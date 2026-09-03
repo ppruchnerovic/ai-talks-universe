@@ -4,7 +4,7 @@ title: "Transform Cancer Care Management with Multimodal AI Agents | OD815"
 slug: transform-cancer-care-management-with-multimodal-ai-agents
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1vXLHrYJFv8
 url: https://www.youtube.com/watch?v=1vXLHrYJFv8
 youtube_url: https://www.youtube.com/watch?v=1vXLHrYJFv8
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

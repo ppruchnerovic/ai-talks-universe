@@ -4,7 +4,7 @@ title: "Apache Airflow: Where data engineers and ML engineers meet"
 slug: apache-airflow-where-data-engineers-and-ml-engineers-meet
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Tamara Fingerlin"]
@@ -15,6 +15,7 @@ video_id: XPcrVK13GIk
 url: https://www.youtube.com/watch?v=XPcrVK13GIk
 youtube_url: https://www.youtube.com/watch?v=XPcrVK13GIk
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

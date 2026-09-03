@@ -4,7 +4,7 @@ title: "Sponsored Session: Beyond the Node: Scaling Inference with Cluster-Wide 
 slug: sponsored-session-beyond-the-node-scaling-inference-with
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Alon Yariv"]
@@ -15,6 +15,7 @@ video_id: v_z5BqWi0aI
 url: https://www.youtube.com/watch?v=v_z5BqWi0aI
 youtube_url: https://www.youtube.com/watch?v=v_z5BqWi0aI
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

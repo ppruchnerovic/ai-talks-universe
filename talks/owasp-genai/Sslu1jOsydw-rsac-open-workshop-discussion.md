@@ -4,7 +4,7 @@ title: "RSAC Open Workshop - Discussion"
 slug: rsac-open-workshop-discussion
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Sslu1jOsydw
 url: https://www.youtube.com/watch?v=Sslu1jOsydw
 youtube_url: https://www.youtube.com/watch?v=Sslu1jOsydw
 tags: []
+topics: []
 transcript: true
 ---
 

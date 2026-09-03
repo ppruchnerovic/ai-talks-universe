@@ -4,7 +4,7 @@ title: "When MCP Becomes a Product - Gautam Baghel, HashiCorp & Roy Derks, IBM"
 slug: when-mcp-becomes-a-product-gautam-baghel-hashicorp-roy
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Gautam Baghel"]
@@ -15,6 +15,7 @@ video_id: RjOWGzovw_U
 url: https://www.youtube.com/watch?v=RjOWGzovw_U
 youtube_url: https://www.youtube.com/watch?v=RjOWGzovw_U
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

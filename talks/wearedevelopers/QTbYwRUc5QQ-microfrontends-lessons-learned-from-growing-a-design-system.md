@@ -4,7 +4,7 @@ title: "Microfrontends: Lessons Learned from Growing a Design System and Shared 
 slug: microfrontends-lessons-learned-from-growing-a-design-system
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Erasmo Hernandez"]
@@ -15,6 +15,7 @@ video_id: QTbYwRUc5QQ
 url: https://www.youtube.com/watch?v=QTbYwRUc5QQ
 youtube_url: https://www.youtube.com/watch?v=QTbYwRUc5QQ
 tags: ["Frontend, Web & Mobile", "Microfrontends", "Next.js", "Storybook"]
+topics: []
 transcript: true
 ---
 

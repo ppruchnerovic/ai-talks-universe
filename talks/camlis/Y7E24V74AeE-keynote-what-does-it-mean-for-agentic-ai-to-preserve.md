@@ -4,7 +4,7 @@ title: "Keynote - What Does It Mean for Agentic AI to Preserve Privacy? Mapping 
 slug: keynote-what-does-it-mean-for-agentic-ai-to-preserve
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Niloofar Mireshghallah"]
@@ -15,6 +15,7 @@ video_id: Y7E24V74AeE
 url: https://www.youtube.com/watch?v=Y7E24V74AeE
 youtube_url: https://www.youtube.com/watch?v=Y7E24V74AeE
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

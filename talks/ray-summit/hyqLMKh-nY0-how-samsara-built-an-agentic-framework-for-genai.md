@@ -4,7 +4,7 @@ title: "How Samsara Built an Agentic Framework for GenAI Applications | Ray Summ
 slug: how-samsara-built-an-agentic-framework-for-genai
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: hyqLMKh-nY0
 url: https://www.youtube.com/watch?v=hyqLMKh-nY0
 youtube_url: https://www.youtube.com/watch?v=hyqLMKh-nY0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

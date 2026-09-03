@@ -4,7 +4,7 @@ title: "Robert Brennan - Managing fleets of coding agents with OpenHands | DevCo
 slug: robert-brennan-managing-fleets-of-coding-agents-with
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Robert Brennan"]
@@ -15,6 +15,7 @@ video_id: TwiVYcqWbj0
 url: https://www.youtube.com/watch?v=TwiVYcqWbj0
 youtube_url: https://www.youtube.com/watch?v=TwiVYcqWbj0
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

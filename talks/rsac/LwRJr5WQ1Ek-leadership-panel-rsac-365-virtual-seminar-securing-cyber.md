@@ -4,7 +4,7 @@ title: "Leadership Panel — RSAC 365 Virtual Seminar: Securing Cyber-Physical S
 slug: leadership-panel-rsac-365-virtual-seminar-securing-cyber
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: LwRJr5WQ1Ek
 url: https://www.youtube.com/watch?v=LwRJr5WQ1Ek
 youtube_url: https://www.youtube.com/watch?v=LwRJr5WQ1Ek
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

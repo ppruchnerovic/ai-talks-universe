@@ -4,7 +4,7 @@ title: "AI is the World’s largest Relationship Therapist — Clay Cockrell & T
 slug: ai-is-the-worlds-largest-relationship-therapist-clay
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Clay Cockrell", "Tony Fabrikant"]
@@ -15,6 +15,7 @@ video_id: yoONZwV2smc
 url: https://www.youtube.com/watch?v=yoONZwV2smc
 youtube_url: https://www.youtube.com/watch?v=yoONZwV2smc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

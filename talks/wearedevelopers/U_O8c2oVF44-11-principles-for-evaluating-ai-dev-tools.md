@@ -4,7 +4,7 @@ title: "11 Principles for Evaluating AI Dev Tools"
 slug: 11-principles-for-evaluating-ai-dev-tools
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Nnenna Ndukwe"]
@@ -15,6 +15,7 @@ video_id: U_O8c2oVF44
 url: https://www.youtube.com/watch?v=U_O8c2oVF44
 youtube_url: https://www.youtube.com/watch?v=U_O8c2oVF44
 tags: ["Developer Experience", "AI Coding Assistants", "Agents", "Agentic AI", "Code Generation", "Code Reviews", "Developer Experience (DevEx)", "Multi-Agent Systems", "Python", "Tools"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

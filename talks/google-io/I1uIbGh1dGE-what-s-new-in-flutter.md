@@ -4,7 +4,7 @@ title: "What's new in Flutter"
 slug: what-s-new-in-flutter
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Khanh Nguyen", "Kate Lovett"]
@@ -15,6 +15,7 @@ video_id: I1uIbGh1dGE
 url: https://www.youtube.com/watch?v=I1uIbGh1dGE
 youtube_url: https://www.youtube.com/watch?v=I1uIbGh1dGE
 tags: ["pr_pr: Google I/O;", "ct:Event - Cloud PA Keynote;", "ct:Stack - Cloud;", "Flutter GenUI", "Generative UI", "Adaptive User Experiences", "A2UI (Agent-To-UI) Protocol", "Flutter 4.0", "multi-platform apps", "dynamic UI"]
+topics: []
 transcript: true
 ---
 

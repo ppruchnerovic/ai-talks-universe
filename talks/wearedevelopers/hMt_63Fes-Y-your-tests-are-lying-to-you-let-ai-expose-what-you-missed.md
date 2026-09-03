@@ -4,7 +4,7 @@ title: "Your Tests Are Lying to You: Let AI Expose What You Missed"
 slug: your-tests-are-lying-to-you-let-ai-expose-what-you-missed
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Maish Saidel-Keesing"]
@@ -15,6 +15,7 @@ video_id: hMt_63Fes-Y
 url: https://www.youtube.com/watch?v=hMt_63Fes-Y
 youtube_url: https://www.youtube.com/watch?v=hMt_63Fes-Y
 tags: ["Quality & Reliability", "AI Coding Assistants", "Productivity", "Testing"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

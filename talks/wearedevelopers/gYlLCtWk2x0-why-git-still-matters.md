@@ -4,7 +4,7 @@ title: "Why Git Still Matters"
 slug: why-git-still-matters
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["PJ Hagerty"]
@@ -15,6 +15,7 @@ video_id: gYlLCtWk2x0
 url: https://www.youtube.com/watch?v=gYlLCtWk2x0
 youtube_url: https://www.youtube.com/watch?v=gYlLCtWk2x0
 tags: ["Developer Experience", "GitOps", "Open Source", "Ruby", "Rust"]
+topics: []
 transcript: true
 ---
 

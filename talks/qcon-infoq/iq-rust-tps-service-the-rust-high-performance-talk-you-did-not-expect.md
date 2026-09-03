@@ -4,7 +4,7 @@ title: "The Rust High Performance Talk You Did Not Expect"
 slug: the-rust-high-performance-talk-you-did-not-expect
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Ruth Linehan"]
@@ -15,6 +15,7 @@ video_id: iq-rust-tps-service
 url: https://www.infoq.com/presentations/rust-tps-service/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

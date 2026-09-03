@@ -4,7 +4,7 @@ title: "Swapping a Data Warehouse at Runtime: Zero-Downtime Migration Without Ch
 slug: swapping-a-data-warehouse-at-runtime-zero-downtime
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Max Fischer", "Michael O'Toole"]
@@ -15,6 +15,7 @@ video_id: iFtXbl-lMew
 url: https://www.youtube.com/watch?v=iFtXbl-lMew
 youtube_url: https://www.youtube.com/watch?v=iFtXbl-lMew
 tags: ["Data & Databases", "Apache Iceberg", "Data Lakes", "DuckDB", "Lakehouse", "Performance", "Python", "Rust", "SQL"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Joel Hellermark: Founder & CEO @Sana, Reimagining User Interfaces for Ge
 slug: joel-hellermark-founder-ceo-sana-reimagining-user
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: jRU5bfHkLZg
 url: https://www.youtube.com/watch?v=jRU5bfHkLZg
 youtube_url: https://www.youtube.com/watch?v=jRU5bfHkLZg
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

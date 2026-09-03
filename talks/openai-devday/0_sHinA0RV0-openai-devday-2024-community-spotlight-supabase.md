@@ -4,7 +4,7 @@ title: "OpenAI DevDay 2024 | Community Spotlight | Supabase"
 slug: openai-devday-2024-community-spotlight-supabase
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0_sHinA0RV0
 url: https://www.youtube.com/watch?v=0_sHinA0RV0
 youtube_url: https://www.youtube.com/watch?v=0_sHinA0RV0
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Agentic AI Security Summit, Europe: ASI:01 - Agentic Goal Hijack"
 slug: agentic-ai-security-summit-europe-asi-01-agentic-goal-hijack
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Agentic Goal Hijack"]
@@ -15,6 +15,7 @@ video_id: 49tji8u2wM4
 url: https://www.youtube.com/watch?v=49tji8u2wM4
 youtube_url: https://www.youtube.com/watch?v=49tji8u2wM4
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

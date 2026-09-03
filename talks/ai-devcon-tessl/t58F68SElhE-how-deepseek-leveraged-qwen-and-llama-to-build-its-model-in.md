@@ -4,7 +4,7 @@ title: "How DeepSeek leveraged Qwen and Llama to build its model in $5M"
 slug: how-deepseek-leveraged-qwen-and-llama-to-build-its-model-in
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: t58F68SElhE
 url: https://www.youtube.com/watch?v=t58F68SElhE
 youtube_url: https://www.youtube.com/watch?v=t58F68SElhE
 tags: ["ainativedev"]
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

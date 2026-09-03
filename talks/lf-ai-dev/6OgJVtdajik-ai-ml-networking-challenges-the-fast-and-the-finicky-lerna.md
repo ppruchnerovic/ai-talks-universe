@@ -4,7 +4,7 @@ title: "AI/ML Networking Challenges: The Fast and the Finicky! - Lerna Ekmekciog
 slug: ai-ml-networking-challenges-the-fast-and-the-finicky-lerna
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Lerna Ekmekcioglu"]
@@ -15,6 +15,7 @@ video_id: 6OgJVtdajik
 url: https://www.youtube.com/watch?v=6OgJVtdajik
 youtube_url: https://www.youtube.com/watch?v=6OgJVtdajik
 tags: []
+topics: []
 transcript: false
 ---
 

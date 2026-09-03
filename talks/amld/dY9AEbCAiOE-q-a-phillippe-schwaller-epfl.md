@@ -4,7 +4,7 @@ title: "Q&A | Phillippe Schwaller, EPFL"
 slug: q-a-phillippe-schwaller-epfl
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["Phillippe Schwaller"]
@@ -15,6 +15,7 @@ video_id: dY9AEbCAiOE
 url: https://www.youtube.com/watch?v=dY9AEbCAiOE
 youtube_url: https://www.youtube.com/watch?v=dY9AEbCAiOE
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: true
 ---
 

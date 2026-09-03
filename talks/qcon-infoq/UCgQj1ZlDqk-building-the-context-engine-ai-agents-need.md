@@ -4,7 +4,7 @@ title: "Building the Context Engine AI Agents Need"
 slug: building-the-context-engine-ai-agents-need
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: UCgQj1ZlDqk
 url: https://www.youtube.com/watch?v=UCgQj1ZlDqk
 youtube_url: https://www.youtube.com/watch?v=UCgQj1ZlDqk
 tags: ["AI Agents", "Context Engineering", "Coding Agents", "Developer Productivity", "RAG", "AI Engineering", "Generative AI", "MCP Protocol"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

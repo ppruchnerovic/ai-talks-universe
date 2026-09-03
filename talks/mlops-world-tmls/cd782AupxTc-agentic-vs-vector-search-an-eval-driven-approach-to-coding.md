@@ -4,7 +4,7 @@ title: "Agentic vs. Vector Search: An Eval-Driven Approach to Coding Agent Perfo
 slug: agentic-vs-vector-search-an-eval-driven-approach-to-coding
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: cd782AupxTc
 url: https://www.youtube.com/watch?v=cd782AupxTc
 youtube_url: https://www.youtube.com/watch?v=cd782AupxTc
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

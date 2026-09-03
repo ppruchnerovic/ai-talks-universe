@@ -4,7 +4,7 @@ title: "Your Insecure MCP Server Won't Survive Production — Tun Shwe, Lenses"
 slug: your-insecure-mcp-server-won-t-survive-production-tun-shwe
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Tun Shwe"]
@@ -15,6 +15,7 @@ video_id: BurJvbqFr4c
 url: https://www.youtube.com/watch?v=BurJvbqFr4c
 youtube_url: https://www.youtube.com/watch?v=BurJvbqFr4c
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "The Unofficial Guide to Apple’s Private Cloud Compute"
 slug: the-unofficial-guide-to-apples-private-cloud-compute
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Jonathan Mortensen"]
@@ -15,6 +15,7 @@ video_id: -s-xkUd9P9E
 url: https://www.youtube.com/watch?v=-s-xkUd9P9E
 youtube_url: https://www.youtube.com/watch?v=-s-xkUd9P9E
 tags: ["Apple tutorial", "Private Cloud Compute", "privacy", "ChatGPT", "artificial intelligence", "machine learning", "confidential computing", "Apple AI", "cloud security", "data privacy", "enterprise security", "cryptographic privacy", "multi tenant workloads", "Python", "secure enclaves", "homomorphic encryption", "differential privacy", "federated learning", "privacy preserving ML", "secure computation", "zero knowledge proofs", "trusted execution environments"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

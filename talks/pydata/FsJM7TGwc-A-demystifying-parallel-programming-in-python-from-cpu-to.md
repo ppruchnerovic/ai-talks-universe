@@ -4,7 +4,7 @@ title: "Demystifying Parallel Programming in Python: from CPU to quantum process
 slug: demystifying-parallel-programming-in-python-from-cpu-to
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Gaël Pegliasco"]
@@ -15,6 +15,7 @@ video_id: FsJM7TGwc-A
 url: https://www.youtube.com/watch?v=FsJM7TGwc-A
 youtube_url: https://www.youtube.com/watch?v=FsJM7TGwc-A
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

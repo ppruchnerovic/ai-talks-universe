@@ -4,7 +4,7 @@ title: "Integrate AI in enterprise apps using Windows Copilot Runtime APIs power
 slug: integrate-ai-in-enterprise-apps-using-windows-copilot
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Rahul Amlekar", "Aditi Narvekar"]
@@ -15,6 +15,7 @@ video_id: Ob_63Fv1cLI
 url: https://www.youtube.com/watch?v=Ob_63Fv1cLI
 youtube_url: https://www.youtube.com/watch?v=Ob_63Fv1cLI
 tags: ["AI", "Aditi Narvekar", "Advanced (300)", "BRK303", "Breakout", "Copilot", "Copilot + PC", "English (US)", "Integrate AI in enterprise apps using Windows Copilot Runtime APIs powered by | BRK303", "Modern Work", "Rahul Amlekar", "Technical", "Version v0", "Windows", "Windows Copilot Runtime", "Windows Developer", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

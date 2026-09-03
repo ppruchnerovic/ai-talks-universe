@@ -4,7 +4,7 @@ title: "GenAI | Project Conference Wrap-up"
 slug: genai-project-conference-wrap-up
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ph5rUxlx3-s
 url: https://www.youtube.com/watch?v=Ph5rUxlx3-s
 youtube_url: https://www.youtube.com/watch?v=Ph5rUxlx3-s
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

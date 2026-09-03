@@ -4,7 +4,7 @@ title: "What It Takes to Build Reliable AI Systems for Production Operations | R
 slug: what-it-takes-to-build-reliable-ai-systems-for-production
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: USe4fZk1mag
 url: https://www.youtube.com/watch?v=USe4fZk1mag
 youtube_url: https://www.youtube.com/watch?v=USe4fZk1mag
 tags: ["AI"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

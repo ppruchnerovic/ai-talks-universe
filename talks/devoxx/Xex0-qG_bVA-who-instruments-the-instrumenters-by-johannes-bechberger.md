@@ -4,7 +4,7 @@ title: "Who Instruments the Instrumenters? by Johannes Bechberger"
 slug: who-instruments-the-instrumenters-by-johannes-bechberger
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Johannes Bechberger"]
@@ -15,6 +15,7 @@ video_id: Xex0-qG_bVA
 url: https://www.youtube.com/watch?v=Xex0-qG_bVA
 youtube_url: https://www.youtube.com/watch?v=Xex0-qG_bVA
 tags: []
+topics: []
 transcript: false
 ---
 

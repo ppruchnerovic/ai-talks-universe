@@ -4,7 +4,7 @@ title: "Creating an AI Security and Incident Response Team"
 slug: creating-an-ai-security-and-incident-response-team
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ata8v22mI_U
 url: https://www.youtube.com/watch?v=Ata8v22mI_U
 youtube_url: https://www.youtube.com/watch?v=Ata8v22mI_U
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

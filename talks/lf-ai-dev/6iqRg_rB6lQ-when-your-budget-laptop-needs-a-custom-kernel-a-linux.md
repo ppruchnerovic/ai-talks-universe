@@ -4,7 +4,7 @@ title: "When Your Budget Laptop Needs a Custom Kernel: A Linux Troubleshooting A
 slug: when-your-budget-laptop-needs-a-custom-kernel-a-linux
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Andrei Pokhilko"]
@@ -15,6 +15,7 @@ video_id: 6iqRg_rB6lQ
 url: https://www.youtube.com/watch?v=6iqRg_rB6lQ
 youtube_url: https://www.youtube.com/watch?v=6iqRg_rB6lQ
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

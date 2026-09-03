@@ -4,7 +4,7 @@ title: "Building Organizations That Can Actually Adapt"
 slug: building-organizations-that-can-actually-adapt
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Anastasija Removic", "Claudia Tattanelli", "Kerstin Wagner", "Nazim Ünlü"]
@@ -15,6 +15,7 @@ video_id: VI9gbponHdA
 url: https://www.youtube.com/watch?v=VI9gbponHdA
 youtube_url: https://www.youtube.com/watch?v=VI9gbponHdA
 tags: ["People & Culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

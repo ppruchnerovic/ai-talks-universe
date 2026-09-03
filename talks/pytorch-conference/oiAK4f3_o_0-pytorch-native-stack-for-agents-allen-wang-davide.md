@@ -4,7 +4,7 @@ title: "PyTorch-Native Stack for Agents - Allen Wang & Davide Testuggine, Meta"
 slug: pytorch-native-stack-for-agents-allen-wang-davide
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Allen Wang", "Davide Testuggine"]
@@ -15,6 +15,7 @@ video_id: oiAK4f3_o_0
 url: https://www.youtube.com/watch?v=oiAK4f3_o_0
 youtube_url: https://www.youtube.com/watch?v=oiAK4f3_o_0
 tags: []
+topics: ["Agents & orchestration", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

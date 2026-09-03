@@ -4,7 +4,7 @@ title: "[Session] MCP & Contextual Smart Tooling with Jason Kneen - BouncingFish
 slug: session-mcp-contextual-smart-tooling-with-jason-kneen
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: s413Hw1HXoU
 url: https://www.youtube.com/watch?v=s413Hw1HXoU
 youtube_url: https://www.youtube.com/watch?v=s413Hw1HXoU
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

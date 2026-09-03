@@ -4,7 +4,7 @@ title: "Black Hat Europe 2025 | Breaking AI Inference Systems: Lessons From Pwn2
 slug: black-hat-europe-2025-breaking-ai-inference-systems-lessons
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Qy1Uu5Wdkg8
 url: https://www.youtube.com/watch?v=Qy1Uu5Wdkg8
 youtube_url: https://www.youtube.com/watch?v=Qy1Uu5Wdkg8
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

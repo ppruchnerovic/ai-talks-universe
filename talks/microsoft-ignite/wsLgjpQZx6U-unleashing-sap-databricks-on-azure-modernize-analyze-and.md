@@ -4,7 +4,7 @@ title: "Unleashing SAP Databricks on Azure: Modernize analyze and innovate | BRK
 slug: unleashing-sap-databricks-on-azure-modernize-analyze-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Anavi Nahar", "Shanku Niyogi"]
@@ -15,6 +15,7 @@ video_id: wsLgjpQZx6U
 url: https://www.youtube.com/watch?v=wsLgjpQZx6U
 youtube_url: https://www.youtube.com/watch?v=wsLgjpQZx6U
 tags: ["5276145b-e80e-487f-bce9-fbf26c648893_Segment", "Anavi Nahar", "BRK136", "English (US)", "Shanku Niyogi", "Technical", "Unify your data platform", "Unify your data platform:Azure Databricks", "Unify your data platform:SAP on Azure", "Unleashing SAP Databricks on Azure: Modernize analyze and innovate | BRK136", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

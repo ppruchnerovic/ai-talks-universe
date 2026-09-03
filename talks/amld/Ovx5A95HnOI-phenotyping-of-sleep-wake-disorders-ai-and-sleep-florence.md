@@ -4,7 +4,7 @@ title: "Phenotyping of sleep-wake disorders | AI and Sleep | Florence Aellen"
 slug: phenotyping-of-sleep-wake-disorders-ai-and-sleep-florence
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Florence Aellen"]
@@ -15,6 +15,7 @@ video_id: Ovx5A95HnOI
 url: https://www.youtube.com/watch?v=Ovx5A95HnOI
 youtube_url: https://www.youtube.com/watch?v=Ovx5A95HnOI
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

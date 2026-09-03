@@ -4,7 +4,7 @@ title: "RSAC™ Innovation Showcase: Making a Difference in Application Security
 slug: rsactm-innovation-showcase-making-a-difference-in
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: ["Jenny Brock"]
@@ -15,6 +15,7 @@ video_id: jhLC6Edo6Go
 url: https://www.youtube.com/watch?v=jhLC6Edo6Go
 youtube_url: https://www.youtube.com/watch?v=jhLC6Edo6Go
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

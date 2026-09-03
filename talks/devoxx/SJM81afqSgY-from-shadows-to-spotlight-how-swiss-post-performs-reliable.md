@@ -4,7 +4,7 @@ title: "From Shadows to Spotlight - How Swiss Post Performs Reliable ML Deployme
 slug: from-shadows-to-spotlight-how-swiss-post-performs-reliable
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Giovanni Degiorgi"]
@@ -15,6 +15,7 @@ video_id: SJM81afqSgY
 url: https://www.youtube.com/watch?v=SJM81afqSgY
 youtube_url: https://www.youtube.com/watch?v=SJM81afqSgY
 tags: []
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

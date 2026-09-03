@@ -4,7 +4,7 @@ title: "Building Code First AI Agents with Azure AI Agent Service — Cedric Vid
 slug: building-code-first-ai-agents-with-azure-ai-agent-service
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Cedric Vidal"]
@@ -15,6 +15,7 @@ video_id: N4vCBM5YbN0
 url: https://www.youtube.com/watch?v=N4vCBM5YbN0
 youtube_url: https://www.youtube.com/watch?v=N4vCBM5YbN0
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

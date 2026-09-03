@@ -4,7 +4,7 @@ title: "The Future of Evals - Ankur Goyal, Braintrust"
 slug: the-future-of-evals-ankur-goyal-braintrust
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ankur Goyal"]
@@ -15,6 +15,7 @@ video_id: MC55hdWLq4o
 url: https://www.youtube.com/watch?v=MC55hdWLq4o
 youtube_url: https://www.youtube.com/watch?v=MC55hdWLq4o
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

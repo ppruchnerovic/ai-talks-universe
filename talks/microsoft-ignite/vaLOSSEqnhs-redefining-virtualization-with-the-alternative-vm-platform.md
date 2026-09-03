@@ -4,7 +4,7 @@ title: "Redefining virtualization with the alternative VM platform you seek | OD
 slug: redefining-virtualization-with-the-alternative-vm-platform
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jeff Ready"]
@@ -15,6 +15,7 @@ video_id: vaLOSSEqnhs
 url: https://www.youtube.com/watch?v=vaLOSSEqnhs
 youtube_url: https://www.youtube.com/watch?v=vaLOSSEqnhs
 tags: ["AI", "Deployment", "Enterprise work management", "Intermediate (200)", "Jeff Ready", "ODFP973", "Pre-recorded", "Redefining virtualization with the alternative VM platform you seek | ODFP973", "SMB", "Small and medium-sized businesses", "Small businesses", "Technical", "Version v1", "Work management", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

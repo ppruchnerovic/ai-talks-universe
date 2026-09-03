@@ -4,7 +4,7 @@ title: "Building with Claude Managed Agents and Asana AI teammates"
 slug: building-with-claude-managed-agents-and-asana-ai-teammates
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 San Francisco"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: BrpB-h1e--k
 url: https://www.youtube.com/watch?v=BrpB-h1e--k
 youtube_url: https://www.youtube.com/watch?v=BrpB-h1e--k
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Applying ML techniques to forecast reserves | AI in Aviation | Ma Theres
 slug: applying-ml-techniques-to-forecast-reserves-ai-in-aviation
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Ma Theresa Pareno"]
@@ -15,6 +15,7 @@ video_id: JN8WEUY9pdE
 url: https://www.youtube.com/watch?v=JN8WEUY9pdE
 youtube_url: https://www.youtube.com/watch?v=JN8WEUY9pdE
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

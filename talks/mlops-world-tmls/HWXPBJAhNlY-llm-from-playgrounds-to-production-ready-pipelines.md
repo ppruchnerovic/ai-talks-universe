@@ -4,7 +4,7 @@ title: "LLM, from Playgrounds to Production-ready Pipelines"
 slug: llm-from-playgrounds-to-production-ready-pipelines
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: HWXPBJAhNlY
 url: https://www.youtube.com/watch?v=HWXPBJAhNlY
 youtube_url: https://www.youtube.com/watch?v=HWXPBJAhNlY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: []
 transcript: false
 ---
 

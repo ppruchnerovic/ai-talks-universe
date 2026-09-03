@@ -4,7 +4,7 @@ title: "Agentic Security Initiative (ASI) Core Team Meeting"
 slug: agentic-security-initiative-asi-core-team-meeting
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 26tVDZ4Dt2U
 url: https://www.youtube.com/watch?v=26tVDZ4Dt2U
 youtube_url: https://www.youtube.com/watch?v=26tVDZ4Dt2U
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

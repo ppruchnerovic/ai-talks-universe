@@ -4,7 +4,7 @@ title: "Deploying MCP at Scale Without Skipping Compliance - Becky Brooks, MCP M
 slug: deploying-mcp-at-scale-without-skipping-compliance-becky
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Becky Brooks"]
@@ -15,6 +15,7 @@ video_id: cjsr-HKiZok
 url: https://www.youtube.com/watch?v=cjsr-HKiZok
 youtube_url: https://www.youtube.com/watch?v=cjsr-HKiZok
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

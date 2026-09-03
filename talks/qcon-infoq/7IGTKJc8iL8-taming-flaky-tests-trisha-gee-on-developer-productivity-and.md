@@ -4,7 +4,7 @@ title: "Taming Flaky Tests: Trisha Gee on Developer Productivity and Testing Bes
 slug: taming-flaky-tests-trisha-gee-on-developer-productivity-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7IGTKJc8iL8
 url: https://www.youtube.com/watch?v=7IGTKJc8iL8
 youtube_url: https://www.youtube.com/watch?v=7IGTKJc8iL8
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

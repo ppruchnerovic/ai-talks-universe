@@ -4,7 +4,7 @@ title: "Solving Real-World Problems with Blockchain: What Devs Need to Know Now"
 slug: solving-real-world-problems-with-blockchain-what-devs-need
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qKr-FE-KMo0
 url: https://www.youtube.com/watch?v=qKr-FE-KMo0
 youtube_url: https://www.youtube.com/watch?v=qKr-FE-KMo0
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "blockchain", "algorand", "web3", "ai agents", "stablecoins", "crypto", "smart contracts", "developer tools", "typescript", "brian wippo", "coffee with developers", "future of blockchain", "crypto dev", "quantum security", "distributed systems"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Infra behind Krea 2: How to train and serve at scale — Gabriel Jorge M
 slug: infra-behind-krea-2-how-to-train-and-serve-at-scale-gabriel
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Gabriel Jorge Menezes"]
@@ -15,6 +15,7 @@ video_id: byn9PURoBNY
 url: https://www.youtube.com/watch?v=byn9PURoBNY
 youtube_url: https://www.youtube.com/watch?v=byn9PURoBNY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

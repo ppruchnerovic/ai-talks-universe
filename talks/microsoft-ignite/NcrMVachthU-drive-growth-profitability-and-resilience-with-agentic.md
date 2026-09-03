@@ -4,7 +4,7 @@ title: "Drive Growth, Profitability and Resilience with Agentic Supply Chains | 
 slug: drive-growth-profitability-and-resilience-with-agentic
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Chris Burchett", "Armando Duran", "Yury Gomez"]
@@ -15,6 +15,7 @@ video_id: NcrMVachthU
 url: https://www.youtube.com/watch?v=NcrMVachthU
 youtube_url: https://www.youtube.com/watch?v=NcrMVachthU
 tags: ["4575c3cb-cce1-4ce8-b73c-70f00eaa7d4e_Segment", "Armando Duran", "BRK375", "Chris Burchett", "Drive Growth Profitability and Resilience with Agentic Supply Chains | BRK375", "English (US)", "Manufacturing and Mobility", "Signature pass", "Technical", "Unify your data platform", "Yury Gomez", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

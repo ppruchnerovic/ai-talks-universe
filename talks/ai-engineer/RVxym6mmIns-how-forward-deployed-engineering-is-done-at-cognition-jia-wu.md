@@ -4,7 +4,7 @@ title: "How Forward Deployed Engineering is done at Cognition — Jia Wu"
 slug: how-forward-deployed-engineering-is-done-at-cognition-jia-wu
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jia Wu"]
@@ -15,6 +15,7 @@ video_id: RVxym6mmIns
 url: https://www.youtube.com/watch?v=RVxym6mmIns
 youtube_url: https://www.youtube.com/watch?v=RVxym6mmIns
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

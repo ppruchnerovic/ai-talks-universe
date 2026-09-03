@@ -4,7 +4,7 @@ title: "Yes, We Put AI Agents for Healthcare in Production No, Don't Try This at
 slug: yes-we-put-ai-agents-for-healthcare-in-production-no-don-t
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Marie Alice Blet"]
@@ -15,6 +15,7 @@ video_id: dQIpU-X4QvU
 url: https://www.youtube.com/watch?v=dQIpU-X4QvU
 youtube_url: https://www.youtube.com/watch?v=dQIpU-X4QvU
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

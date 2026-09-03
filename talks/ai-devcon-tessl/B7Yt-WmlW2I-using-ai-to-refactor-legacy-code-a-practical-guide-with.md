@@ -4,7 +4,7 @@ title: "Using AI to Refactor Legacy Code: A Practical Guide with Scott Wierschem
 slug: using-ai-to-refactor-legacy-code-a-practical-guide-with
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: B7Yt-WmlW2I
 url: https://www.youtube.com/watch?v=B7Yt-WmlW2I
 youtube_url: https://www.youtube.com/watch?v=B7Yt-WmlW2I
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

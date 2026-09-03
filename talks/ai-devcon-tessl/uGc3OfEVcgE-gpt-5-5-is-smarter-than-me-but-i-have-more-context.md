@@ -4,7 +4,7 @@ title: "GPT 5.5 Is Smarter Than Me — But I Have More Context"
 slug: gpt-5-5-is-smarter-than-me-but-i-have-more-context
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: uGc3OfEVcgE
 url: https://www.youtube.com/watch?v=uGc3OfEVcgE
 youtube_url: https://www.youtube.com/watch?v=uGc3OfEVcgE
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

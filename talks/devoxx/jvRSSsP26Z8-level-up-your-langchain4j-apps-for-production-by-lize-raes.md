@@ -4,7 +4,7 @@ title: "Level Up Your LangChain4j Apps for Production by Lize Raes"
 slug: level-up-your-langchain4j-apps-for-production-by-lize-raes
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Lize Raes"]
@@ -15,6 +15,7 @@ video_id: jvRSSsP26Z8
 url: https://www.youtube.com/watch?v=jvRSSsP26Z8
 youtube_url: https://www.youtube.com/watch?v=jvRSSsP26Z8
 tags: []
+topics: []
 transcript: false
 ---
 

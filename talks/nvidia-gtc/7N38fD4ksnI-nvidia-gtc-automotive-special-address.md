@@ -4,7 +4,7 @@ title: "NVIDIA GTC Automotive Special Address"
 slug: nvidia-gtc-automotive-special-address
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7N38fD4ksnI
 url: https://www.youtube.com/watch?v=7N38fD4ksnI
 youtube_url: https://www.youtube.com/watch?v=7N38fD4ksnI
 tags: ["NVIDIA", "autonomous vehicles", "physical ai", "level 4 autonomy", "drive hyperion", "robotaxi"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

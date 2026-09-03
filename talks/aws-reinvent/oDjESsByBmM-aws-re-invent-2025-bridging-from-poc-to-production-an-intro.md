@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Bridging from POC to production: An intro to Amazon
 slug: aws-re-invent-2025-bridging-from-poc-to-production-an-intro
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: oDjESsByBmM
 url: https://www.youtube.com/watch?v=oDjESsByBmM
 youtube_url: https://www.youtube.com/watch?v=oDjESsByBmM
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

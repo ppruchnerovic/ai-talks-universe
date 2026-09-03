@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Symbolic AI in the age of LLMs (DAT443)"
 slug: aws-re-invent-2025-symbolic-ai-in-the-age-of-llms-dat443
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Atf4DVKGuMg
 url: https://www.youtube.com/watch?v=Atf4DVKGuMg
 youtube_url: https://www.youtube.com/watch?v=Atf4DVKGuMg
 tags: []
+topics: []
 transcript: false
 ---
 

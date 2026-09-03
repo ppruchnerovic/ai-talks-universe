@@ -4,7 +4,7 @@ title: "Immutable Patterns of System Design; From Monolith to Agentic AI - James
 slug: immutable-patterns-of-system-design-from-monolith-to
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["James Eastham"]
@@ -15,6 +15,7 @@ video_id: EDwtofkScdI
 url: https://www.youtube.com/watch?v=EDwtofkScdI
 youtube_url: https://www.youtube.com/watch?v=EDwtofkScdI
 tags: [".NET", "Architecture", "Cloud", "Microservices", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "James Eastham"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

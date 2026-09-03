@@ -4,7 +4,7 @@ title: "Identity for AI Agents - Patrick Riley & Carlos Galan, Auth0"
 slug: identity-for-ai-agents-patrick-riley-carlos-galan-auth0
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Patrick Riley", "Carlos Galan"]
@@ -15,6 +15,7 @@ video_id: VSdV-AdSlis
 url: https://www.youtube.com/watch?v=VSdV-AdSlis
 youtube_url: https://www.youtube.com/watch?v=VSdV-AdSlis
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

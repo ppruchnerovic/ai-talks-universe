@@ -4,7 +4,7 @@ title: "Think You Can Build a Game with AI? Think Again! - Danielle An & David H
 slug: think-you-can-build-a-game-with-ai-think-again-danielle-an
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Danielle An", "David Hoe"]
@@ -15,6 +15,7 @@ video_id: grdoOC1BT1s
 url: https://www.youtube.com/watch?v=grdoOC1BT1s
 youtube_url: https://www.youtube.com/watch?v=grdoOC1BT1s
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

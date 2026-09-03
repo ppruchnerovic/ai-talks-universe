@@ -4,7 +4,7 @@ title: "Your Database Wasn't Built for This | CockroachDB"
 slug: your-database-wasn-t-built-for-this-cockroachdb
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: c0TUB9uez8k
 url: https://www.youtube.com/watch?v=c0TUB9uez8k
 youtube_url: https://www.youtube.com/watch?v=c0TUB9uez8k
 tags: ["AI"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

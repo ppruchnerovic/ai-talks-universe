@@ -4,7 +4,7 @@ title: "Why Engineering Culture Is Everything: Building Teams That Actually Work
 slug: why-engineering-culture-is-everything-building-teams-that
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Vix4Mtdxneo
 url: https://www.youtube.com/watch?v=Vix4Mtdxneo
 youtube_url: https://www.youtube.com/watch?v=Vix4Mtdxneo
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

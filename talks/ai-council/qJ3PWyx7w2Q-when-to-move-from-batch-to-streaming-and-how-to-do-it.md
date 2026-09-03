@@ -4,7 +4,7 @@ title: "When to Move from Batch to Streaming and how to do it without hiring an 
 slug: when-to-move-from-batch-to-streaming-and-how-to-do-it
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: qJ3PWyx7w2Q
 url: https://www.youtube.com/watch?v=qJ3PWyx7w2Q
 youtube_url: https://www.youtube.com/watch?v=qJ3PWyx7w2Q
 tags: ["data pipelines", "data streaming", "open source tools"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

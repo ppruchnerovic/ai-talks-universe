@@ -4,7 +4,7 @@ title: "Keynote: Build Accelerated LLM Applications with Open Source Tools from 
 slug: keynote-build-accelerated-llm-applications-with-open-source
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Ankit Patel"]
@@ -15,6 +15,7 @@ video_id: nSSuHY2rRb4
 url: https://www.youtube.com/watch?v=nSSuHY2rRb4
 youtube_url: https://www.youtube.com/watch?v=nSSuHY2rRb4
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

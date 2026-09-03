@@ -4,7 +4,7 @@ title: "Scale cloud-native workloads with Azure Linux | DEM311"
 slug: scale-cloud-native-workloads-with-azure-linux-dem311
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Jim Perrin", "Poorvi Narang"]
@@ -15,6 +15,7 @@ video_id: mkeb8FbATG8
 url: https://www.youtube.com/watch?v=mkeb8FbATG8
 youtube_url: https://www.youtube.com/watch?v=mkeb8FbATG8
 tags: ["1b886f16-d29b-4873-a32c-b8002baa7b46_M9Z7-DEM311-1", "Azure Linux", "DEM311", "Jim Perrin", "Poorvi Narang", "Scale cloud-native workloads with Azure Linux | DEM311", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Japan Wrap-up Session [Language: Japanese] | BRK405"
 slug: japan-wrap-up-session-language-japanese-brk405
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Yuna Funamoto", "Tadashi Okazaki"]
@@ -15,6 +15,7 @@ video_id: IXeUNP4mt78
 url: https://www.youtube.com/watch?v=IXeUNP4mt78
 youtube_url: https://www.youtube.com/watch?v=IXeUNP4mt78
 tags: ["BRK405", "BRK405_v1", "Japan Wrap-up Session [Language: Japanese] | BRK405", "Japanese", "Other", "Tadashi Okazaki", "Technical", "Yuna Funamoto", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

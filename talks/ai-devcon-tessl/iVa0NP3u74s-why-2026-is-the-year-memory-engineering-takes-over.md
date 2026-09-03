@@ -4,7 +4,7 @@ title: "Why 2026 is the Year Memory Engineering Takes Over"
 slug: why-2026-is-the-year-memory-engineering-takes-over
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: iVa0NP3u74s
 url: https://www.youtube.com/watch?v=iVa0NP3u74s
 youtube_url: https://www.youtube.com/watch?v=iVa0NP3u74s
 tags: []
+topics: []
 transcript: true
 ---
 

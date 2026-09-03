@@ -4,7 +4,7 @@ title: "Solving Context Bloat: Semantic Tool Routing in Multi-Server MCP Environ
 slug: solving-context-bloat-semantic-tool-routing-in-multi-server
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: L665WzukVcI
 url: https://www.youtube.com/watch?v=L665WzukVcI
 youtube_url: https://www.youtube.com/watch?v=L665WzukVcI
 tags: ["AI", "Artificial Intelligence", "Generative AI", "LLM", "Model Context Protocol", "AI Engineering", "AI Architecture", "Software Engineering", "Claude"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

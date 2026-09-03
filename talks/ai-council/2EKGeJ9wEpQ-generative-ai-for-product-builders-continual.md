@@ -4,7 +4,7 @@ title: "Generative AI for Product Builders | Continual"
 slug: generative-ai-for-product-builders-continual
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2EKGeJ9wEpQ
 url: https://www.youtube.com/watch?v=2EKGeJ9wEpQ
 youtube_url: https://www.youtube.com/watch?v=2EKGeJ9wEpQ
 tags: ["generative AI", "data products", "machine learning", "data privacy", "AI"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

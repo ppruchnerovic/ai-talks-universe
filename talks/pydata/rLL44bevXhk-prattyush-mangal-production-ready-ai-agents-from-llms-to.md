@@ -4,7 +4,7 @@ title: "Prattyush Mangal - Production-Ready AI Agents: From LLMs to Small Langua
 slug: prattyush-mangal-production-ready-ai-agents-from-llms-to
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Prattyush Mangal"]
@@ -15,6 +15,7 @@ video_id: rLL44bevXhk
 url: https://www.youtube.com/watch?v=rLL44bevXhk
 youtube_url: https://www.youtube.com/watch?v=rLL44bevXhk
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Enterprise adoption & strategy", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

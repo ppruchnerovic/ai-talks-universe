@@ -4,7 +4,7 @@ title: "Your AI Agent Just Deleted Your Database. Now What?"
 slug: your-ai-agent-just-deleted-your-database-now-what
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: CD-ukN1bmqY
 url: https://www.youtube.com/watch?v=CD-ukN1bmqY
 youtube_url: https://www.youtube.com/watch?v=CD-ukN1bmqY
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Foundation Models in Drug Discovery: Recursion VP of AI Stephen MacKinno
 slug: foundation-models-in-drug-discovery-recursion-vp-of-ai
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4X6RS0wFpek
 url: https://www.youtube.com/watch?v=4X6RS0wFpek
 youtube_url: https://www.youtube.com/watch?v=4X6RS0wFpek
 tags: []
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

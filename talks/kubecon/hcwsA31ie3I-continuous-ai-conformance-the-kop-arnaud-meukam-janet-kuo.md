@@ -4,7 +4,7 @@ title: "Continuous AI Conformance: The kOp... Arnaud Meukam, Janet Kuo, Justin S
 slug: continuous-ai-conformance-the-kop-arnaud-meukam-janet-kuo
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: hcwsA31ie3I
 url: https://www.youtube.com/watch?v=hcwsA31ie3I
 youtube_url: https://www.youtube.com/watch?v=hcwsA31ie3I
 tags: []
+topics: []
 transcript: true
 ---
 

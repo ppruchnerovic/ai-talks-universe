@@ -4,7 +4,7 @@ title: "The Hidden Costs of CPU Limits in Kubernetes"
 slug: the-hidden-costs-of-cpu-limits-in-kubernetes
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Pavel Malyarevsky"]
@@ -15,6 +15,7 @@ video_id: AW9iRjKIqj0
 url: https://www.youtube.com/watch?v=AW9iRjKIqj0
 youtube_url: https://www.youtube.com/watch?v=AW9iRjKIqj0
 tags: ["Cloud & AI Infrastructure", "DevOps", "Google Cloud (GCP)", "Infrastructure", "Observability", "Performance"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "EMBER Improvements"
 slug: ember-improvements
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []
@@ -15,6 +15,7 @@ video_id: MsZmnUO5lkY
 url: https://www.youtube.com/watch?v=MsZmnUO5lkY
 youtube_url: https://www.youtube.com/watch?v=MsZmnUO5lkY
 tags: ["camlis", "camlis2019"]
+topics: []
 transcript: false
 ---
 

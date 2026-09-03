@@ -4,7 +4,7 @@ title: "SaTML 2023 - Lorenzo Cazzaro - Explainable Global Fairness Verification 
 slug: satml-2023-lorenzo-cazzaro-explainable-global-fairness
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Lorenzo Cazzaro"]
@@ -15,6 +15,7 @@ video_id: lLqtqRFUHao
 url: https://www.youtube.com/watch?v=lLqtqRFUHao
 youtube_url: https://www.youtube.com/watch?v=lLqtqRFUHao
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

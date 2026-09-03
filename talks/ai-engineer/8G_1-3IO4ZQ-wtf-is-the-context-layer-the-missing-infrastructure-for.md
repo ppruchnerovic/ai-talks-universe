@@ -4,7 +4,7 @@ title: "WTF Is the Context Layer? The Missing Infrastructure for Production Agen
 slug: wtf-is-the-context-layer-the-missing-infrastructure-for
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Prukalpa Sankar"]
@@ -15,6 +15,7 @@ video_id: 8G_1-3IO4ZQ
 url: https://www.youtube.com/watch?v=8G_1-3IO4ZQ
 youtube_url: https://www.youtube.com/watch?v=8G_1-3IO4ZQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy", "Prompting & context engineering"]
 transcript: true
 ---
 

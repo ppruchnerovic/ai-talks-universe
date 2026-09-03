@@ -4,7 +4,7 @@ title: "Out Of The Lab And Into The Product, Rob Zuber, CTO, CircleCI"
 slug: out-of-the-lab-and-into-the-product-rob-zuber-cto-circleci
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: snpkULBzido
 url: https://www.youtube.com/watch?v=snpkULBzido
 youtube_url: https://www.youtube.com/watch?v=snpkULBzido
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

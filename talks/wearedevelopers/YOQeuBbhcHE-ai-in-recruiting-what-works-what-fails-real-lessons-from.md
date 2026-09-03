@@ -4,7 +4,7 @@ title: "AI in Recruiting: What Works, What Fails - Real Lessons from Office & Vo
 slug: ai-in-recruiting-what-works-what-fails-real-lessons-from
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Barbara Kryslak"]
@@ -15,6 +15,7 @@ video_id: YOQeuBbhcHE
 url: https://www.youtube.com/watch?v=YOQeuBbhcHE
 youtube_url: https://www.youtube.com/watch?v=YOQeuBbhcHE
 tags: ["Talent Strategy", "HR", "Talent & Recruiting"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

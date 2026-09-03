@@ -4,7 +4,7 @@ title: "[VDBUH2025] Jonathan Vila - Code Quality in the AI era, needed more than
 slug: vdbuh2025-jonathan-vila-code-quality-in-the-ai-era-needed
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Jonathan Vila"]
@@ -15,6 +15,7 @@ video_id: elCwcpxa0xY
 url: https://www.youtube.com/watch?v=elCwcpxa0xY
 youtube_url: https://www.youtube.com/watch?v=elCwcpxa0xY
 tags: []
+topics: []
 transcript: false
 ---
 

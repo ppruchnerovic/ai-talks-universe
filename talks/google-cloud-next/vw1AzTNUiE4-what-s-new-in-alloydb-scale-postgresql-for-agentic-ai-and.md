@@ -4,7 +4,7 @@ title: "What's new in AlloyDB: Scale PostgreSQL for agentic AI and hybrid clouds
 slug: what-s-new-in-alloydb-scale-postgresql-for-agentic-ai-and
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Sujatha Mandava", "Ravi Murthy", "Bhaven Avalani", "Riaan Postma"]
@@ -15,6 +15,7 @@ video_id: vw1AzTNUiE4
 url: https://www.youtube.com/watch?v=vw1AzTNUiE4
 youtube_url: https://www.youtube.com/watch?v=vw1AzTNUiE4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

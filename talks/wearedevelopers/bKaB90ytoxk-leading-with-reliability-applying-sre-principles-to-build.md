@@ -4,7 +4,7 @@ title: "Leading with Reliability: Applying SRE Principles to Build Stronger Engi
 slug: leading-with-reliability-applying-sre-principles-to-build
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Maxim Schepelin"]
@@ -15,6 +15,7 @@ video_id: bKaB90ytoxk
 url: https://www.youtube.com/watch?v=bKaB90ytoxk
 youtube_url: https://www.youtube.com/watch?v=bKaB90ytoxk
 tags: ["Engineering Leadership", "Metrics", "Site Reliability Engineering (SRE)", "Software Architecture"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

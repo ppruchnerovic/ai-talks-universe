@@ -4,7 +4,7 @@ title: "CIAM for AI: Authn/Authz for Agents — Michael Grinich, CEO of WorkOS"
 slug: ciam-for-ai-authn-authz-for-agents-michael-grinich-ceo-of
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Michael Grinich"]
@@ -15,6 +15,7 @@ video_id: D4Dswf-__RM
 url: https://www.youtube.com/watch?v=D4Dswf-__RM
 youtube_url: https://www.youtube.com/watch?v=D4Dswf-__RM
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

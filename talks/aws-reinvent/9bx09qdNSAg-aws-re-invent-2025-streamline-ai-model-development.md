@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Streamline AI model development lifecycle with Amaz
 slug: aws-re-invent-2025-streamline-ai-model-development
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9bx09qdNSAg
 url: https://www.youtube.com/watch?v=9bx09qdNSAg
 youtube_url: https://www.youtube.com/watch?v=9bx09qdNSAg
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

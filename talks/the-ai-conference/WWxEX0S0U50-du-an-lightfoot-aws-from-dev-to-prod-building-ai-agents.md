@@ -4,7 +4,7 @@ title: "Du'an Lightfoot, AWS: From Dev to Prod: Building AI Agents That Scale Be
 slug: du-an-lightfoot-aws-from-dev-to-prod-building-ai-agents
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: WWxEX0S0U50
 url: https://www.youtube.com/watch?v=WWxEX0S0U50
 youtube_url: https://www.youtube.com/watch?v=WWxEX0S0U50
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

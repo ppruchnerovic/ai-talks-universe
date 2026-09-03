@@ -4,7 +4,7 @@ title: "SaTML 2023 - Xiaojun Xu - EDoG: Adversarial Edge Detection For Graph Neu
 slug: satml-2023-xiaojun-xu-edog-adversarial-edge-detection-for
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Xiaojun Xu"]
@@ -15,6 +15,7 @@ video_id: hD9h7PxTLFc
 url: https://www.youtube.com/watch?v=hD9h7PxTLFc
 youtube_url: https://www.youtube.com/watch?v=hD9h7PxTLFc
 tags: []
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

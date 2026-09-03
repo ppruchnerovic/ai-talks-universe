@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Aditya Dave, John Pepino: Productionizing AI Capabilit
 slug: ai-dev-25-x-nyc-aditya-dave-john-pepino-productionizing-ai
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: ["Aditya Dave"]
@@ -15,6 +15,7 @@ video_id: H_2EL7F9YaA
 url: https://www.youtube.com/watch?v=H_2EL7F9YaA
 youtube_url: https://www.youtube.com/watch?v=H_2EL7F9YaA
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

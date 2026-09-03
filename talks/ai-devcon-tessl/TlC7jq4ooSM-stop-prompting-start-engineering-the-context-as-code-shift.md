@@ -4,7 +4,7 @@ title: "Stop Prompting, Start Engineering: The \"Context as Code\" Shift"
 slug: stop-prompting-start-engineering-the-context-as-code-shift
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: TlC7jq4ooSM
 url: https://www.youtube.com/watch?v=TlC7jq4ooSM
 youtube_url: https://www.youtube.com/watch?v=TlC7jq4ooSM
 tags: ["AI Engineering", "AI Native DevCon", "AI Native Development", "Agentic development processes", "Building a software factory", "Context as Code", "Tessl", "Tessl software factory", "Understanding Tessl's vision", "What is harness engineering", "ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

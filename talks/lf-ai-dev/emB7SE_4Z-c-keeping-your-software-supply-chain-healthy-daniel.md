@@ -4,7 +4,7 @@ title: "Keeping Your Software Supply Chain Healthy - Daniel Rabinovitz, GitLab"
 slug: keeping-your-software-supply-chain-healthy-daniel
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Daniel Rabinovitz"]
@@ -15,6 +15,7 @@ video_id: emB7SE_4Z-c
 url: https://www.youtube.com/watch?v=emB7SE_4Z-c
 youtube_url: https://www.youtube.com/watch?v=emB7SE_4Z-c
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

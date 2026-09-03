@@ -4,7 +4,7 @@ title: "GenAI Project | FinBot Goes Live Hands On Agentic AI Security with the A
 slug: genai-project-finbot-goes-live-hands-on-agentic-ai-security
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Venkata Sai Kishore Modalavalasa"]
@@ -15,6 +15,7 @@ video_id: TEDlJhVxgSM
 url: https://www.youtube.com/watch?v=TEDlJhVxgSM
 youtube_url: https://www.youtube.com/watch?v=TEDlJhVxgSM
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

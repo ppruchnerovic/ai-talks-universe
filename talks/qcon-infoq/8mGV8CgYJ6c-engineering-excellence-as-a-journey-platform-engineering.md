@@ -4,7 +4,7 @@ title: "Engineering Excellence as a Journey: Platform Engineering, Culture, and 
 slug: engineering-excellence-as-a-journey-platform-engineering
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8mGV8CgYJ6c
 url: https://www.youtube.com/watch?v=8mGV8CgYJ6c
 youtube_url: https://www.youtube.com/watch?v=8mGV8CgYJ6c
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

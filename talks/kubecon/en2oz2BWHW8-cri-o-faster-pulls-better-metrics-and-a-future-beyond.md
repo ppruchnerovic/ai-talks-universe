@@ -4,7 +4,7 @@ title: "CRI-O: Faster Pulls, Better Metrics, and a Future Beyond Images - Sohan 
 slug: cri-o-faster-pulls-better-metrics-and-a-future-beyond
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Sohan Kunkerkar", "Ayato Tokubi"]
@@ -15,6 +15,7 @@ video_id: en2oz2BWHW8
 url: https://www.youtube.com/watch?v=en2oz2BWHW8
 youtube_url: https://www.youtube.com/watch?v=en2oz2BWHW8
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

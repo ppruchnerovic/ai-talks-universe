@@ -4,7 +4,7 @@ title: "Let Your Network Speak! - Nadia Pinaeva, NVIDIA & Joel Takvorian, Red Ha
 slug: let-your-network-speak-nadia-pinaeva-nvidia-joel-takvorian
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Nadia Pinaeva"]
@@ -15,6 +15,7 @@ video_id: PHLfqvgaYq4
 url: https://www.youtube.com/watch?v=PHLfqvgaYq4
 youtube_url: https://www.youtube.com/watch?v=PHLfqvgaYq4
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

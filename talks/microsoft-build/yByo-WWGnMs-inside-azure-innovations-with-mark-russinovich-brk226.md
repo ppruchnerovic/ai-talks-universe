@@ -4,7 +4,7 @@ title: "Inside Azure innovations with Mark Russinovich | BRK226"
 slug: inside-azure-innovations-with-mark-russinovich-brk226
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Mark Russinovich"]
@@ -15,6 +15,7 @@ video_id: yByo-WWGnMs
 url: https://www.youtube.com/watch?v=yByo-WWGnMs
 youtube_url: https://www.youtube.com/watch?v=yByo-WWGnMs
 tags: ["BRK226", "BRK226_v1", "Cloud Platform & Data", "Inside Azure innovations with Mark Russinovich | BRK226", "Mark Russinovich", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

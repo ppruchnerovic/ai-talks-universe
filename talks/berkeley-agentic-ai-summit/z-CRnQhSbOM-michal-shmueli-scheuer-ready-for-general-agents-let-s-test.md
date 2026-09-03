@@ -4,7 +4,7 @@ title: "Michal Shmueli Scheuer - Ready for General Agents? Let's Test It"
 slug: michal-shmueli-scheuer-ready-for-general-agents-let-s-test
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Michal Shmueli Scheuer"]
@@ -15,6 +15,7 @@ video_id: z-CRnQhSbOM
 url: https://www.youtube.com/watch?v=z-CRnQhSbOM
 youtube_url: https://www.youtube.com/watch?v=z-CRnQhSbOM
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "MLOps That Ships: Accelerating AI Deployment at Vizient"
 slug: mlops-that-ships-accelerating-ai-deployment-at-vizient
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: h19vccYpCEY
 url: https://www.youtube.com/watch?v=h19vccYpCEY
 youtube_url: https://www.youtube.com/watch?v=h19vccYpCEY
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

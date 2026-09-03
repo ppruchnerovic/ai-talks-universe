@@ -4,7 +4,7 @@ title: "Agents That Talk Back: MCP, ACP, A2A, Oh my! - Taswar Bhatti - NDC Manch
 slug: agents-that-talk-back-mcp-acp-a2a-oh-my-taswar-bhatti-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Taswar Bhatti"]
@@ -15,6 +15,7 @@ video_id: 4gbUULDnPVE
 url: https://www.youtube.com/watch?v=4gbUULDnPVE
 youtube_url: https://www.youtube.com/watch?v=4gbUULDnPVE
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

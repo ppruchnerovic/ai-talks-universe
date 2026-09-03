@@ -4,7 +4,7 @@ title: "Workhorse of GenAI: Powering High-ROI Projects with Accelerated Batch In
 slug: workhorse-of-genai-powering-high-roi-projects-with
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Seth Kimmel"]
@@ -15,6 +15,7 @@ video_id: YxKtMlfEuhE
 url: https://www.youtube.com/watch?v=YxKtMlfEuhE
 youtube_url: https://www.youtube.com/watch?v=YxKtMlfEuhE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "When Value Becomes Programmable: A Developer's Guide to Tokenization"
 slug: when-value-becomes-programmable-a-developer-s-guide-to
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Luke Forrest"]
@@ -15,6 +15,7 @@ video_id: 7fo0t96oRB8
 url: https://www.youtube.com/watch?v=7fo0t96oRB8
 youtube_url: https://www.youtube.com/watch?v=7fo0t96oRB8
 tags: ["Emerging Technologies", "Cryptography", "FinTech", "Infrastructure", "Smart Contracts"]
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

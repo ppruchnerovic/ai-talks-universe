@@ -4,7 +4,7 @@ title: "Choosing The Right Funding | Marcus Räder (Hostaway)"
 slug: choosing-the-right-funding-marcus-rader-hostaway
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Marcus Räder"]
@@ -15,6 +15,7 @@ video_id: 7f1EE_zdrfU
 url: https://www.youtube.com/watch?v=7f1EE_zdrfU
 youtube_url: https://www.youtube.com/watch?v=7f1EE_zdrfU
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

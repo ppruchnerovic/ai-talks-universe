@@ -4,7 +4,7 @@ title: "Rediscovering single-node processing: When does it make sense to move fr
 slug: rediscovering-single-node-processing-when-does-it-make
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Jonas Böer"]
@@ -15,6 +15,7 @@ video_id: gy4_2CwQpPQ
 url: https://www.youtube.com/watch?v=gy4_2CwQpPQ
 youtube_url: https://www.youtube.com/watch?v=gy4_2CwQpPQ
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

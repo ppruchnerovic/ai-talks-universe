@@ -4,7 +4,7 @@ title: "Building Real Time ML Pipelines with a Feature Store"
 slug: building-real-time-ml-pipelines-with-a-feature-store
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: aONQnXJWqVY
 url: https://www.youtube.com/watch?v=aONQnXJWqVY
 youtube_url: https://www.youtube.com/watch?v=aONQnXJWqVY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

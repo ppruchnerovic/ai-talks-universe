@@ -4,7 +4,7 @@ title: "Sandbox breakout evals with Inspect - UK AISI @ FC London '25"
 slug: sandbox-breakout-evals-with-inspect-uk-aisi-fc-london-25
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: J79pSSAENYc
 url: https://www.youtube.com/watch?v=J79pSSAENYc
 youtube_url: https://www.youtube.com/watch?v=J79pSSAENYc
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Sasha Rush on Building Cursor Composer and the Future of Agentic Coding"
 slug: sasha-rush-on-building-cursor-composer-and-the-future-of
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: vH5cGOxoXGY
 url: https://www.youtube.com/watch?v=vH5cGOxoXGY
 youtube_url: https://www.youtube.com/watch?v=vH5cGOxoXGY
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

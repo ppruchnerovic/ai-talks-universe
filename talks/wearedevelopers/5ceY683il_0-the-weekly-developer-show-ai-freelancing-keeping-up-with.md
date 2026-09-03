@@ -4,7 +4,7 @@ title: "The weekly developer show: AI, Freelancing, Keeping Up with Tech and Mor
 slug: the-weekly-developer-show-ai-freelancing-keeping-up-with
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5ceY683il_0
 url: https://www.youtube.com/watch?v=5ceY683il_0
 youtube_url: https://www.youtube.com/watch?v=5ceY683il_0
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: true
 ---
 

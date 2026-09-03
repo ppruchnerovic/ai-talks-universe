@@ -4,7 +4,7 @@ title: "Unlocking Performance: Harnessing LLMs To Streamline GPU Kernel Developm
 slug: unlocking-performance-harnessing-llms-to-streamline-gpu
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Jiannan Wang"]
@@ -15,6 +15,7 @@ video_id: DvFmVYA8nmA
 url: https://www.youtube.com/watch?v=DvFmVYA8nmA
 youtube_url: https://www.youtube.com/watch?v=DvFmVYA8nmA
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Kubeflow in Cloud Native AI: Orchestrati... Johnu G, Valentina S, Antoni
 slug: kubeflow-in-cloud-native-ai-orchestrati-johnu-g-valentina-s
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: AYmD3LNlNYs
 url: https://www.youtube.com/watch?v=AYmD3LNlNYs
 youtube_url: https://www.youtube.com/watch?v=AYmD3LNlNYs
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

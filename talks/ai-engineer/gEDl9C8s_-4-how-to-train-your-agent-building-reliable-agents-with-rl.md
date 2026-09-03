@@ -4,7 +4,7 @@ title: "How to Train Your Agent: Building Reliable Agents with RL — Kyle Corbi
 slug: how-to-train-your-agent-building-reliable-agents-with-rl
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kyle Corbitt"]
@@ -15,6 +15,7 @@ video_id: gEDl9C8s_-4
 url: https://www.youtube.com/watch?v=gEDl9C8s_-4
 youtube_url: https://www.youtube.com/watch?v=gEDl9C8s_-4
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

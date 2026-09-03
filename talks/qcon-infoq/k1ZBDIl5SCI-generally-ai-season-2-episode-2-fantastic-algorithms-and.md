@@ -4,7 +4,7 @@ title: "Generally AI - Season 2 - Episode 2: Fantastic Algorithms and Where to F
 slug: generally-ai-season-2-episode-2-fantastic-algorithms-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: k1ZBDIl5SCI
 url: https://www.youtube.com/watch?v=k1ZBDIl5SCI
 youtube_url: https://www.youtube.com/watch?v=k1ZBDIl5SCI
 tags: []
+topics: []
 transcript: false
 ---
 

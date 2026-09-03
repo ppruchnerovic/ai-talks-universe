@@ -4,7 +4,7 @@ title: "Agentic AI Summit - Mainstage, Afternoon Sessions"
 slug: agentic-ai-summit-mainstage-afternoon-sessions
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: uJXAZlZ0A2s
 url: https://www.youtube.com/watch?v=uJXAZlZ0A2s
 youtube_url: https://www.youtube.com/watch?v=uJXAZlZ0A2s
 tags: ["UC Berkeley", "Agentic AI Summit", "Artificial Intelligence", "Berkeley Center for Responsible Decentralized Intelligence", "LLM Agents MOOC"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

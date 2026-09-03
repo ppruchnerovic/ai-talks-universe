@@ -4,7 +4,7 @@ title: "From prototype to production: 45 minutes to a reliable Gemini Enterprise
 slug: from-prototype-to-production-45-minutes-to-a-reliable
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Alibek Datbayev", "Manasa Kandula", "Naz Bayrak"]
@@ -15,6 +15,7 @@ video_id: fkCTifAqVGg
 url: https://www.youtube.com/watch?v=fkCTifAqVGg
 youtube_url: https://www.youtube.com/watch?v=fkCTifAqVGg
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

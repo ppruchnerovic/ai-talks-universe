@@ -4,7 +4,7 @@ title: "What Holds Devs Back From Multi-Agent Thinking | Guy Podjarny"
 slug: what-holds-devs-back-from-multi-agent-thinking-guy-podjarny
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Guy Podjarny"]
@@ -15,6 +15,7 @@ video_id: EmgLPwmhBD8
 url: https://www.youtube.com/watch?v=EmgLPwmhBD8
 youtube_url: https://www.youtube.com/watch?v=EmgLPwmhBD8
 tags: ["ainativedev"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

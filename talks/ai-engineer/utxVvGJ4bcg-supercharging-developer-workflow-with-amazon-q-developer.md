@@ -4,7 +4,7 @@ title: "Supercharging developer workflow with Amazon Q Developer - Vikash Agrawa
 slug: supercharging-developer-workflow-with-amazon-q-developer
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Vikash Agrawal"]
@@ -15,6 +15,7 @@ video_id: utxVvGJ4bcg
 url: https://www.youtube.com/watch?v=utxVvGJ4bcg
 youtube_url: https://www.youtube.com/watch?v=utxVvGJ4bcg
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

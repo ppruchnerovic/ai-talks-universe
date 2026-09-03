@@ -4,7 +4,7 @@ title: "Angstfreude - AI and Corporate Culture - The Thrill and the Threat"
 slug: angstfreude-ai-and-corporate-culture-the-thrill-and-the
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Axel Ebert", "Karin Krobath"]
@@ -15,6 +15,7 @@ video_id: p0RmkpovCvo
 url: https://www.youtube.com/watch?v=p0RmkpovCvo
 youtube_url: https://www.youtube.com/watch?v=p0RmkpovCvo
 tags: ["People & Culture"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Software Development Agents: What Works and What Doesn't - Robert Brenna
 slug: software-development-agents-what-works-and-what-doesn-t
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Robert Brennan"]
@@ -15,6 +15,7 @@ video_id: o_hhkJtlbSs
 url: https://www.youtube.com/watch?v=o_hhkJtlbSs
 youtube_url: https://www.youtube.com/watch?v=o_hhkJtlbSs
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

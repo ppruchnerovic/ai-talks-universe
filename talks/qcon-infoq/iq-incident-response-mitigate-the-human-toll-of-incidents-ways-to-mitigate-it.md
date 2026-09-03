@@ -4,7 +4,7 @@ title: "The Human Toll of Incidents & Ways to Mitigate it"
 slug: the-human-toll-of-incidents-ways-to-mitigate-it
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Kyle Lexmond"]
@@ -15,6 +15,7 @@ video_id: iq-incident-response-mitigate
 url: https://www.infoq.com/presentations/incident-response-mitigate/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

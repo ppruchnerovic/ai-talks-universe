@@ -4,7 +4,7 @@ title: "Microsoft Teams: the AI-powered platform for work ​ | BRK296"
 slug: microsoft-teams-the-ai-powered-platform-for-work-brk296
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ilya Bukshteyn", "Justin Hamilton", "Kerry Perez Heffernan"]
@@ -15,6 +15,7 @@ video_id: QyKiy8ethw0
 url: https://www.youtube.com/watch?v=QyKiy8ethw0
 youtube_url: https://www.youtube.com/watch?v=QyKiy8ethw0
 tags: ["557ffe75-e72f-4bd3-9b78-09e07df3e0f1_Segment", "BRK296", "Copilot and agents at work", "English (US)", "Ilya Bukshteyn", "Justin Hamilton", "Kerry Perez Heffernan", "Microsoft Teams: the AI-powered platform for work ​ | BRK296", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

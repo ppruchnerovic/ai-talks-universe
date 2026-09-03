@@ -4,7 +4,7 @@ title: "Build Agents for Copilot with the Microsoft 365 Agents Toolkit | BRK319"
 slug: build-agents-for-copilot-with-the-microsoft-365-agents
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Robert Howard", "Matthew Barbour", "Sébastien Levert"]
@@ -15,6 +15,7 @@ video_id: z6gIaCYmvos
 url: https://www.youtube.com/watch?v=z6gIaCYmvos
 youtube_url: https://www.youtube.com/watch?v=z6gIaCYmvos
 tags: ["BRK319", "Build Agents for Copilot with the Microsoft 365 Agents Toolkit | BRK319", "Copilot and agents at work:Copilot Studio", "Copilot and agents at work:Microsoft 365 Copilot", "Innovate with low-code AI and agents", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

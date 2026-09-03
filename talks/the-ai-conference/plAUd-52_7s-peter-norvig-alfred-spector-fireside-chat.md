@@ -4,7 +4,7 @@ title: "Peter Norvig & Alfred Spector: Fireside Chat"
 slug: peter-norvig-alfred-spector-fireside-chat
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: plAUd-52_7s
 url: https://www.youtube.com/watch?v=plAUd-52_7s
 youtube_url: https://www.youtube.com/watch?v=plAUd-52_7s
 tags: []
+topics: []
 transcript: false
 ---
 

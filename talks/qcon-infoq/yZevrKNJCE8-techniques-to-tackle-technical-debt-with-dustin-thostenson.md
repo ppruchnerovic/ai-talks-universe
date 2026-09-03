@@ -4,7 +4,7 @@ title: "Techniques to Tackle Technical Debt with Dustin Thostenson"
 slug: techniques-to-tackle-technical-debt-with-dustin-thostenson
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: yZevrKNJCE8
 url: https://www.youtube.com/watch?v=yZevrKNJCE8
 youtube_url: https://www.youtube.com/watch?v=yZevrKNJCE8
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

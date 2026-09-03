@@ -4,7 +4,7 @@ title: "ML Platform Beyond Kaggle Paradigm"
 slug: ml-platform-beyond-kaggle-paradigm
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Stealth Startup"]
@@ -15,6 +15,7 @@ video_id: 0TdJrBfxI6E
 url: https://www.youtube.com/watch?v=0TdJrBfxI6E
 youtube_url: https://www.youtube.com/watch?v=0TdJrBfxI6E
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

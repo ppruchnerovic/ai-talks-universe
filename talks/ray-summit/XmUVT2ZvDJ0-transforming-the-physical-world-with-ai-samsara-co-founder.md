@@ -4,7 +4,7 @@ title: "Transforming the Physical World with AI: Samsara Co-founder John Bicket 
 slug: transforming-the-physical-world-with-ai-samsara-co-founder
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: XmUVT2ZvDJ0
 url: https://www.youtube.com/watch?v=XmUVT2ZvDJ0
 youtube_url: https://www.youtube.com/watch?v=XmUVT2ZvDJ0
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "API, MCP or MCP App? Choosing the right surface for AI agents"
 slug: api-mcp-or-mcp-app-choosing-the-right-surface-for-ai-agents
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Rishabh Budhiraja", "Rishi Deorukhkar"]
@@ -15,6 +15,7 @@ video_id: z1kRfBwwFN8
 url: https://www.youtube.com/watch?v=z1kRfBwwFN8
 youtube_url: https://www.youtube.com/watch?v=z1kRfBwwFN8
 tags: ["AI Agents", "AI Coding Assistants", "AI Models", "AI Standards", "Anthropic", "APIs", "Agents", "Agentic AI", "Autonomous Systems", "Best Practices", "Case Study", "Claude", "Code Generation", "Developer Experience (DevEx)", "Documentation", "Future of Work", "Generative AI (GenAI)", "Integration", "LangChain", "Large Language Models (LLMs)", "LLMOps", "Prompt Engineering"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

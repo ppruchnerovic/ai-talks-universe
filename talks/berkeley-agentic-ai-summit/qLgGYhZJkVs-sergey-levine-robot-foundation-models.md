@@ -4,7 +4,7 @@ title: "Sergey Levine - Robot Foundation Models"
 slug: sergey-levine-robot-foundation-models
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Sergey Levine"]
@@ -15,6 +15,7 @@ video_id: qLgGYhZJkVs
 url: https://www.youtube.com/watch?v=qLgGYhZJkVs
 youtube_url: https://www.youtube.com/watch?v=qLgGYhZJkVs
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

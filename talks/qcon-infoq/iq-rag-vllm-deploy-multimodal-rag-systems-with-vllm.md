@@ -4,7 +4,7 @@ title: "Deploy MultiModal RAG Systems with vLLM"
 slug: deploy-multimodal-rag-systems-with-vllm
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Stephen Batifol"]
@@ -15,6 +15,7 @@ video_id: iq-rag-vllm
 url: https://www.infoq.com/presentations/rag-vllm/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

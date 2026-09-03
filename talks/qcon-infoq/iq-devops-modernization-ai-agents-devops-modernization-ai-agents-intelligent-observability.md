@@ -4,7 +4,7 @@ title: "DevOps Modernization: AI Agents, Intelligent Observability and Automatio
 slug: devops-modernization-ai-agents-intelligent-observability
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Live - February 2026"
 year: 2026
 speakers: ["Olalekan Elesin", "Patrick Debois", "Mallika Rao", "Martin Reynolds", "Renato Losio"]
@@ -15,6 +15,7 @@ video_id: iq-devops-modernization-ai-agents
 url: https://www.infoq.com/presentations/devops-modernization-ai-agents/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

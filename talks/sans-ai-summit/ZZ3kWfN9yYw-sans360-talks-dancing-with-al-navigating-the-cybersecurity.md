@@ -4,7 +4,7 @@ title: "SANS360 Talks | Dancing with Al: Navigating the Cybersecurity Choreograp
 slug: sans360-talks-dancing-with-al-navigating-the-cybersecurity
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZZ3kWfN9yYw
 url: https://www.youtube.com/watch?v=ZZ3kWfN9yYw
 youtube_url: https://www.youtube.com/watch?v=ZZ3kWfN9yYw
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

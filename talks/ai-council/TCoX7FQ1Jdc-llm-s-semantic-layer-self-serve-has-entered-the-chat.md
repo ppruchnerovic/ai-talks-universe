@@ -4,7 +4,7 @@ title: "LLM's & Semantic Layer: Self Serve has Entered the Chat | Zenlytic"
 slug: llm-s-semantic-layer-self-serve-has-entered-the-chat
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: TCoX7FQ1Jdc
 url: https://www.youtube.com/watch?v=TCoX7FQ1Jdc
 youtube_url: https://www.youtube.com/watch?v=TCoX7FQ1Jdc
 tags: ["analytics", "data science", "LLM", "semantic layer", "AI"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

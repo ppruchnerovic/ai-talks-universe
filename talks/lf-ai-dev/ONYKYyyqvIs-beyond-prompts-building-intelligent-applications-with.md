@@ -4,7 +4,7 @@ title: "Beyond Prompts: Building Intelligent Applications With Genkit and the Mo
 slug: beyond-prompts-building-intelligent-applications-with
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ONYKYyyqvIs
 url: https://www.youtube.com/watch?v=ONYKYyyqvIs
 youtube_url: https://www.youtube.com/watch?v=ONYKYyyqvIs
 tags: []
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: false
 ---
 

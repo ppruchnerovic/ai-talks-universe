@@ -4,7 +4,7 @@ title: "Beyond Vector Search: Building Knowledge Graphs for Autonomous Infrastru
 slug: beyond-vector-search-building-knowledge-graphs-for
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Torsten Boettjer"]
@@ -15,6 +15,7 @@ video_id: wfcGVGZKNoE
 url: https://www.youtube.com/watch?v=wfcGVGZKNoE
 youtube_url: https://www.youtube.com/watch?v=wfcGVGZKNoE
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

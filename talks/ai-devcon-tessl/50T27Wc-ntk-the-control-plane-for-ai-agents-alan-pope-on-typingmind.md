@@ -4,7 +4,7 @@ title: "The Control Plane for AI Agents | Alan Pope on TypingMind"
 slug: the-control-plane-for-ai-agents-alan-pope-on-typingmind
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 50T27Wc-ntk
 url: https://www.youtube.com/watch?v=50T27Wc-ntk
 youtube_url: https://www.youtube.com/watch?v=50T27Wc-ntk
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

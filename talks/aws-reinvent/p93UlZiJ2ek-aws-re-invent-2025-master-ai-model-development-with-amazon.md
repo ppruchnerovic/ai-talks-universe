@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Master AI model development with Amazon SageMaker A
 slug: aws-re-invent-2025-master-ai-model-development-with-amazon
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: p93UlZiJ2ek
 url: https://www.youtube.com/watch?v=p93UlZiJ2ek
 youtube_url: https://www.youtube.com/watch?v=p93UlZiJ2ek
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

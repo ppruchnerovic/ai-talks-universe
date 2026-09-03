@@ -4,7 +4,7 @@ title: "Maggie Hott: GTM Leadership @OpenAI, Mistakes Founders Make Building Go-
 slug: maggie-hott-gtm-leadership-openai-mistakes-founders-make
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: vJF9cTolQto
 url: https://www.youtube.com/watch?v=vJF9cTolQto
 youtube_url: https://www.youtube.com/watch?v=vJF9cTolQto
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

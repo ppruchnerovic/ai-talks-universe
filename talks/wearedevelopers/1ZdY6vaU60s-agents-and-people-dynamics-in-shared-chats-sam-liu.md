@@ -4,7 +4,7 @@ title: "Agents and People Dynamics in Shared Chats - Sam Liu"
 slug: agents-and-people-dynamics-in-shared-chats-sam-liu
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Sam Liu"]
@@ -15,6 +15,7 @@ video_id: 1ZdY6vaU60s
 url: https://www.youtube.com/watch?v=1ZdY6vaU60s
 youtube_url: https://www.youtube.com/watch?v=1ZdY6vaU60s
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Chris Kucharczyk - How to make public data more accessible with \"baked\
 slug: chris-kucharczyk-how-to-make-public-data-more-accessible
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Chris Kucharczyk"]
@@ -15,6 +15,7 @@ video_id: k8HCCZ7FNOE
 url: https://www.youtube.com/watch?v=k8HCCZ7FNOE
 youtube_url: https://www.youtube.com/watch?v=k8HCCZ7FNOE
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: false
 ---
 

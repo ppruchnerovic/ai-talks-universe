@@ -4,7 +4,7 @@ title: "Designing with Claude: From prompt to production"
 slug: designing-with-claude-from-prompt-to-production
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Uvl-tRga98g
 url: https://www.youtube.com/watch?v=Uvl-tRga98g
 youtube_url: https://www.youtube.com/watch?v=Uvl-tRga98g
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: true
 ---
 

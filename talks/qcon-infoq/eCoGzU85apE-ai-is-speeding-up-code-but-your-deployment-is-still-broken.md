@@ -4,7 +4,7 @@ title: "AI is Speeding Up Code - But Your Deployment is Still Broken"
 slug: ai-is-speeding-up-code-but-your-deployment-is-still-broken
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: eCoGzU85apE
 url: https://www.youtube.com/watch?v=eCoGzU85apE
 youtube_url: https://www.youtube.com/watch?v=eCoGzU85apE
 tags: ["DevEx", "Developer Experience", "Best Practices", "InfoQ", "QCon San Francisco", "Transcript", "Agile", "Software Architecture", "DevOps", "DORA Metrics", "GenAI", "Engineering Leadership"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

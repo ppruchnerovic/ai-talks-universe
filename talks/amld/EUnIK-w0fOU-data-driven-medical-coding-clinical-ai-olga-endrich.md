@@ -4,7 +4,7 @@ title: "Data Driven Medical Coding | Clinical AI | Olga Endrich"
 slug: data-driven-medical-coding-clinical-ai-olga-endrich
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Olga Endrich"]
@@ -15,6 +15,7 @@ video_id: EUnIK-w0fOU
 url: https://www.youtube.com/watch?v=EUnIK-w0fOU
 youtube_url: https://www.youtube.com/watch?v=EUnIK-w0fOU
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

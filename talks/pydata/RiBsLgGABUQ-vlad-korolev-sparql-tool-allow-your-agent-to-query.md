@@ -4,7 +4,7 @@ title: "Vlad Korolev - SPARQL-TOOL: Allow your Agent to query knowledge graphs (
 slug: vlad-korolev-sparql-tool-allow-your-agent-to-query
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Vlad Korolev"]
@@ -15,6 +15,7 @@ video_id: RiBsLgGABUQ
 url: https://www.youtube.com/watch?v=RiBsLgGABUQ
 youtube_url: https://www.youtube.com/watch?v=RiBsLgGABUQ
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

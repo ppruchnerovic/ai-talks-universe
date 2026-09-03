@@ -4,7 +4,7 @@ title: "Combining AI and psychological models to drive food choices | Food and N
 slug: combining-ai-and-psychological-models-to-drive-food-choices
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Patrizia Catellani"]
@@ -15,6 +15,7 @@ video_id: t7gS4MPBZ-8
 url: https://www.youtube.com/watch?v=t7gS4MPBZ-8
 youtube_url: https://www.youtube.com/watch?v=t7gS4MPBZ-8
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

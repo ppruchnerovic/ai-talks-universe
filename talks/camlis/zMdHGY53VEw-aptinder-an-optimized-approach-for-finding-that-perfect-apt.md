@@ -4,7 +4,7 @@ title: "APTinder: An optimized approach for finding that perfect APT match"
 slug: aptinder-an-optimized-approach-for-finding-that-perfect-apt
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []
@@ -15,6 +15,7 @@ video_id: zMdHGY53VEw
 url: https://www.youtube.com/watch?v=zMdHGY53VEw
 youtube_url: https://www.youtube.com/watch?v=zMdHGY53VEw
 tags: ["camlis", "camlis2018"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

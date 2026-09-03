@@ -4,7 +4,7 @@ title: "Mapping the Open Model Landscape in 2025 - Nathan Lambert, Ai2"
 slug: mapping-the-open-model-landscape-in-2025-nathan-lambert-ai2
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Nathan Lambert"]
@@ -15,6 +15,7 @@ video_id: QlrGr-D4vTg
 url: https://www.youtube.com/watch?v=QlrGr-D4vTg
 youtube_url: https://www.youtube.com/watch?v=QlrGr-D4vTg
 tags: []
+topics: []
 transcript: false
 ---
 

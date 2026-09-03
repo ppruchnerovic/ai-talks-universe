@@ -4,7 +4,7 @@ title: "Partners are Accelerating Media Innovation with AI Agents | PBRK391"
 slug: partners-are-accelerating-media-innovation-with-ai-agents
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Alessandra Antonelli", "Tanya Khaiyanun", "Erik Ramberg"]
@@ -15,6 +15,7 @@ video_id: _4DACLSHtFg
 url: https://www.youtube.com/watch?v=_4DACLSHtFg
 youtube_url: https://www.youtube.com/watch?v=_4DACLSHtFg
 tags: ["53f02de8-5d00-4545-bd9f-19b2275f8bc8_Segment", "Alessandra Antonelli", "English (US)", "Erik Ramberg", "Media and Entertainment", "Microsoft AI Cloud Partner Program", "Other", "PBRK391", "Partner Business", "Partners are Accelerating Media Innovation with AI Agents | PBRK391", "Tanya Khaiyanun", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

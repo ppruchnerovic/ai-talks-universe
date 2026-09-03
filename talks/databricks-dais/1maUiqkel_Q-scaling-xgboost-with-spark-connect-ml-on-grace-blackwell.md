@@ -4,7 +4,7 @@ title: "Scaling XGBoost With Spark Connect ML on Grace Blackwell"
 slug: scaling-xgboost-with-spark-connect-ml-on-grace-blackwell
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1maUiqkel_Q
 url: https://www.youtube.com/watch?v=1maUiqkel_Q
 youtube_url: https://www.youtube.com/watch?v=1maUiqkel_Q
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

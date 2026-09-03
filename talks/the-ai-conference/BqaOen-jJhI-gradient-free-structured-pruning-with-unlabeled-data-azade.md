@@ -4,7 +4,7 @@ title: "Gradient-Free Structured Pruning With Unlabeled Data, Azade Nova, Resear
 slug: gradient-free-structured-pruning-with-unlabeled-data-azade
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: BqaOen-jJhI
 url: https://www.youtube.com/watch?v=BqaOen-jJhI
 youtube_url: https://www.youtube.com/watch?v=BqaOen-jJhI
 tags: []
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

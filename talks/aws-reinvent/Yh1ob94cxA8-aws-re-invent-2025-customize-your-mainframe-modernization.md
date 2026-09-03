@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Customize Your Mainframe Modernization with Composa
 slug: aws-re-invent-2025-customize-your-mainframe-modernization
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Yh1ob94cxA8
 url: https://www.youtube.com/watch?v=Yh1ob94cxA8
 youtube_url: https://www.youtube.com/watch?v=Yh1ob94cxA8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

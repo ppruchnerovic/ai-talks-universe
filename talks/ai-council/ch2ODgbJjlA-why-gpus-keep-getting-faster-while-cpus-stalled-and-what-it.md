@@ -4,7 +4,7 @@ title: "Why GPUs Keep Getting Faster While CPUs Stalled - And What It Means for 
 slug: why-gpus-keep-getting-faster-while-cpus-stalled-and-what-it
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Charles Frye"]
@@ -15,6 +15,7 @@ video_id: ch2ODgbJjlA
 url: https://www.youtube.com/watch?v=ch2ODgbJjlA
 youtube_url: https://www.youtube.com/watch?v=ch2ODgbJjlA
 tags: ["GPU computing", "NVIDIA", "data science", "ChatGPT", "artificial intelligence", "machine learning", "Python", "deep learning", "AI hardware", "PyTorch", "RAPIDS", "CUDA", "parallel computing", "high performance computing", "AI acceleration", "system latency", "GPU programming", "tensor operations", "matrix operations", "neural network training", "model inference", "distributed training", "multi GPU training", "GPU clusters", "cloud computing"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

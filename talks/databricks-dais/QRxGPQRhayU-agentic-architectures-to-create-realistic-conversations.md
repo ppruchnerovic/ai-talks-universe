@@ -4,7 +4,7 @@ title: "Agentic Architectures to Create Realistic Conversations: Using GenAI to 
 slug: agentic-architectures-to-create-realistic-conversations
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: QRxGPQRhayU
 url: https://www.youtube.com/watch?v=QRxGPQRhayU
 youtube_url: https://www.youtube.com/watch?v=QRxGPQRhayU
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

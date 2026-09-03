@@ -4,7 +4,7 @@ title: "Bo Li - Securing AI Agents: From Risk Assessment and Runtime Guardrails 
 slug: bo-li-securing-ai-agents-from-risk-assessment-and-runtime
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Bo Li"]
@@ -15,6 +15,7 @@ video_id: RqTX7KXukZ4
 url: https://www.youtube.com/watch?v=RqTX7KXukZ4
 youtube_url: https://www.youtube.com/watch?v=RqTX7KXukZ4
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

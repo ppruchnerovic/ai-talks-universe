@@ -4,7 +4,7 @@ title: "Global Threat Overview"
 slug: global-threat-overview
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Alex Stamos"]
@@ -15,6 +15,7 @@ video_id: 7pM09yBmV6U
 url: https://www.youtube.com/watch?v=7pM09yBmV6U
 youtube_url: https://www.youtube.com/watch?v=7pM09yBmV6U
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

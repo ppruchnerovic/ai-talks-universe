@@ -4,7 +4,7 @@ title: "Özge Çinko - LLM-Based Recommendation Systems | Pydata London 26"
 slug: ozge-cinko-llm-based-recommendation-systems-pydata-london-26
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Özge Çinko"]
@@ -15,6 +15,7 @@ video_id: _S_af9C9z2Q
 url: https://www.youtube.com/watch?v=_S_af9C9z2Q
 youtube_url: https://www.youtube.com/watch?v=_S_af9C9z2Q
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

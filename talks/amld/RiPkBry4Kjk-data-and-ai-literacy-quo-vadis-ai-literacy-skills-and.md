@@ -4,7 +4,7 @@ title: "Data and AI Literacy - Quo Vadis | AI Literacy, Skills and Readiness | P
 slug: data-and-ai-literacy-quo-vadis-ai-literacy-skills-and
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Quo Vadis"]
@@ -15,6 +15,7 @@ video_id: RiPkBry4Kjk
 url: https://www.youtube.com/watch?v=RiPkBry4Kjk
 youtube_url: https://www.youtube.com/watch?v=RiPkBry4Kjk
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

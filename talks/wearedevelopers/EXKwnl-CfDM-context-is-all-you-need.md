@@ -4,7 +4,7 @@ title: "Context is all you need"
 slug: context-is-all-you-need
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Raphael De Lio", "Samuel Agbede"]
@@ -15,6 +15,7 @@ video_id: EXKwnl-CfDM
 url: https://www.youtube.com/watch?v=EXKwnl-CfDM
 youtube_url: https://www.youtube.com/watch?v=EXKwnl-CfDM
 tags: ["AI Agents", "AI Models", "Agents", "Agentic AI", "Data", "Generative AI (GenAI)", "LangChain", "Large Language Models (LLMs)", "LLMOps", "Redis", "Security", "Vector Databases"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

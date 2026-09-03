@@ -4,7 +4,7 @@ title: "AI in Robotics, Manufacturing, and Media How Good Practices Can Shape th
 slug: ai-in-robotics-manufacturing-and-media-how-good-practices
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Maryam Emami"]
@@ -15,6 +15,7 @@ video_id: I3J3iNQUgF8
 url: https://www.youtube.com/watch?v=I3J3iNQUgF8
 youtube_url: https://www.youtube.com/watch?v=I3J3iNQUgF8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

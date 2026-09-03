@@ -4,7 +4,7 @@ title: "Shrey Shah - Testing and Securing AI generated code with Cursor | DevCon
 slug: shrey-shah-testing-and-securing-ai-generated-code-with
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Shrey Shah"]
@@ -15,6 +15,7 @@ video_id: IZ8FjLGhiQw
 url: https://www.youtube.com/watch?v=IZ8FjLGhiQw
 youtube_url: https://www.youtube.com/watch?v=IZ8FjLGhiQw
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Security, safety & red teaming"]
 transcript: true
 ---
 

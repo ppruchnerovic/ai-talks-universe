@@ -4,7 +4,7 @@ title: "How to Defend Against Data Manipulation Attacks - Bozidar Spirovski & We
 slug: how-to-defend-against-data-manipulation-attacks-bozidar
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Bozidar Spirovski", "Wekoslav Stefanovski"]
@@ -15,6 +15,7 @@ video_id: noymokmpRF4
 url: https://www.youtube.com/watch?v=noymokmpRF4
 youtube_url: https://www.youtube.com/watch?v=noymokmpRF4
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

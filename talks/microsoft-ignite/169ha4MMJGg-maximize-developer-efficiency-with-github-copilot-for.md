@@ -4,7 +4,7 @@ title: "Maximize developer efficiency with GitHub Copilot for partner success | 
 slug: maximize-developer-efficiency-with-github-copilot-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Andrew Flick", "Justine Modot", "Wenqi Ou"]
@@ -15,6 +15,7 @@ video_id: 169ha4MMJGg
 url: https://www.youtube.com/watch?v=169ha4MMJGg
 youtube_url: https://www.youtube.com/watch?v=169ha4MMJGg
 tags: ["AI", "Andrew Flick", "Apps", "Apps-Curated", "BRK158", "Breakout", "Developer", "English (US)", "Github copilot", "Intermediate (200)", "Justine Modot", "Maximize developer efficiency with GitHub Copilot for partner success | BRK158", "Partner Business", "Solution Area", "Version v0", "Wenqi Ou", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

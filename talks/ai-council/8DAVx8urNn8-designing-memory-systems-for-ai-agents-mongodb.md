@@ -4,7 +4,7 @@ title: "Designing Memory Systems for AI Agents | MongoDB"
 slug: designing-memory-systems-for-ai-agents-mongodb
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8DAVx8urNn8
 url: https://www.youtube.com/watch?v=8DAVx8urNn8
 youtube_url: https://www.youtube.com/watch?v=8DAVx8urNn8
 tags: ["AI"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

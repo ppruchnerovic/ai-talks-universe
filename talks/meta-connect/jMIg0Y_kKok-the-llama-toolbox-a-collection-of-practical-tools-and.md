@@ -4,7 +4,7 @@ title: "The Llama Toolbox: A Collection of Practical Tools and Recipes"
 slug: the-llama-toolbox-a-collection-of-practical-tools-and
 conference: meta-connect
 conference_name: "Meta Connect + LlamaCon"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "LlamaCon 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: jMIg0Y_kKok
 url: https://www.youtube.com/watch?v=jMIg0Y_kKok
 youtube_url: https://www.youtube.com/watch?v=jMIg0Y_kKok
 tags: []
+topics: []
 transcript: false
 ---
 

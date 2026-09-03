@@ -4,7 +4,7 @@ title: "Airflow: Where data engineers and ML engineers meet"
 slug: airflow-where-data-engineers-and-ml-engineers-meet
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: UZjWTsigcG4
 url: https://www.youtube.com/watch?v=UZjWTsigcG4
 youtube_url: https://www.youtube.com/watch?v=UZjWTsigcG4
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

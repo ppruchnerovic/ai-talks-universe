@@ -4,7 +4,7 @@ title: "Episode 12: Meeting April 11 2024 - RSA, OWASP Media Blitz"
 slug: episode-12-meeting-april-11-2024-rsa-owasp-media-blitz
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: drRsd3Nrv24
 url: https://www.youtube.com/watch?v=drRsd3Nrv24
 youtube_url: https://www.youtube.com/watch?v=drRsd3Nrv24
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

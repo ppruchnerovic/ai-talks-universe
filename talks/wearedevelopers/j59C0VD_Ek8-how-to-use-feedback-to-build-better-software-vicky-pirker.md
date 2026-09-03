@@ -4,7 +4,7 @@ title: "How to use Feedback to Build Better Software - Vicky Pirker"
 slug: how-to-use-feedback-to-build-better-software-vicky-pirker
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Vicky Pirker"]
@@ -15,6 +15,7 @@ video_id: j59C0VD_Ek8
 url: https://www.youtube.com/watch?v=j59C0VD_Ek8
 youtube_url: https://www.youtube.com/watch?v=j59C0VD_Ek8
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: true
 ---
 

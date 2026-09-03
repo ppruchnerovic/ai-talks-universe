@@ -4,7 +4,7 @@ title: "TEDAI Vienna Panel - Protecting human intent in a space of generative AI
 slug: tedai-vienna-panel-protecting-human-intent-in-a-space-of
 conference: tedai-vienna
 conference_name: "TEDAI Vienna"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "TEDAI Vienna 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YBw7IrZBoAM
 url: https://www.youtube.com/watch?v=YBw7IrZBoAM
 youtube_url: https://www.youtube.com/watch?v=YBw7IrZBoAM
 tags: []
+topics: []
 transcript: false
 ---
 

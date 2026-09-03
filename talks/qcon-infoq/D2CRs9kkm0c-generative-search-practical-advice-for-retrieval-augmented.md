@@ -4,7 +4,7 @@ title: "Generative Search: Practical Advice for Retrieval Augmented Generation (
 slug: generative-search-practical-advice-for-retrieval-augmented
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: D2CRs9kkm0c
 url: https://www.youtube.com/watch?v=D2CRs9kkm0c
 youtube_url: https://www.youtube.com/watch?v=D2CRs9kkm0c
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "RAG", "LLMs", "Retrieval Augmented generation", "Large Language Models", "InfoQ", "QCon San Francisco", "Transcript"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

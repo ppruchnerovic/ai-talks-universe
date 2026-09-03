@@ -4,7 +4,7 @@ title: "Open-source LLM Promoting Sustainability | Accelerating Climate Change A
 slug: open-source-llm-promoting-sustainability-accelerating
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Dominik Stammbach"]
@@ -15,6 +15,7 @@ video_id: KV0UWyZlcko
 url: https://www.youtube.com/watch?v=KV0UWyZlcko
 youtube_url: https://www.youtube.com/watch?v=KV0UWyZlcko
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

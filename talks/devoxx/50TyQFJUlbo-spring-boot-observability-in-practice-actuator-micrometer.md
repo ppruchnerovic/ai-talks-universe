@@ -4,7 +4,7 @@ title: "Spring Boot Observability in Practice: Actuator, Micrometer & OpenTeleme
 slug: spring-boot-observability-in-practice-actuator-micrometer
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Patrick Baumgartner"]
@@ -15,6 +15,7 @@ video_id: 50TyQFJUlbo
 url: https://www.youtube.com/watch?v=50TyQFJUlbo
 youtube_url: https://www.youtube.com/watch?v=50TyQFJUlbo
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

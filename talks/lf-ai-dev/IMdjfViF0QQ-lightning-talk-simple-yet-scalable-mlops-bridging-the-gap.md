@@ -4,7 +4,7 @@ title: "Lightning Talk: Simple Yet Scalable MLOps: Bridging the Gap Between... S
 slug: lightning-talk-simple-yet-scalable-mlops-bridging-the-gap
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: IMdjfViF0QQ
 url: https://www.youtube.com/watch?v=IMdjfViF0QQ
 youtube_url: https://www.youtube.com/watch?v=IMdjfViF0QQ
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

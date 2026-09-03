@@ -4,7 +4,7 @@ title: "Behind the Curtain: How Recruiters Shortlist Devs in an AI-Driven Market
 slug: behind-the-curtain-how-recruiters-shortlist-devs-in-an-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Mina Golesorkhi"]
@@ -15,6 +15,7 @@ video_id: TXYoPnqg0Mc
 url: https://www.youtube.com/watch?v=TXYoPnqg0Mc
 youtube_url: https://www.youtube.com/watch?v=TXYoPnqg0Mc
 tags: ["Career & Growth", "Talent & Recruiting"]
+topics: []
 transcript: true
 ---
 

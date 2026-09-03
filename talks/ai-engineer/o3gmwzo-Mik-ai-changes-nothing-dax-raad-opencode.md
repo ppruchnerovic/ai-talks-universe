@@ -4,7 +4,7 @@ title: "AI changes *Nothing* — Dax Raad, OpenCode"
 slug: ai-changes-nothing-dax-raad-opencode
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dax Raad"]
@@ -15,6 +15,7 @@ video_id: o3gmwzo-Mik
 url: https://www.youtube.com/watch?v=o3gmwzo-Mik
 youtube_url: https://www.youtube.com/watch?v=o3gmwzo-Mik
 tags: []
+topics: []
 transcript: false
 ---
 

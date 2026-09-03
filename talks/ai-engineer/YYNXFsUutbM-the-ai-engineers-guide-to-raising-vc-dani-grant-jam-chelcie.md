@@ -4,7 +4,7 @@ title: "The AI Engineer’s Guide to Raising VC — Dani Grant (Jam), Chelcie Ta
 slug: the-ai-engineers-guide-to-raising-vc-dani-grant-jam-chelcie
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dani Grant"]
@@ -15,6 +15,7 @@ video_id: YYNXFsUutbM
 url: https://www.youtube.com/watch?v=YYNXFsUutbM
 youtube_url: https://www.youtube.com/watch?v=YYNXFsUutbM
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

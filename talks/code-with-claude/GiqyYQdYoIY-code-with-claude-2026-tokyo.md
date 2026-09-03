@@ -4,7 +4,7 @@ title: "Code with Claude 2026 | Tokyo"
 slug: code-with-claude-2026-tokyo
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 Japan"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: GiqyYQdYoIY
 url: https://www.youtube.com/watch?v=GiqyYQdYoIY
 youtube_url: https://www.youtube.com/watch?v=GiqyYQdYoIY
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Traeger accelerates contact center agent productivi
 slug: aws-re-invent-2025-traeger-accelerates-contact-center-agent
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fa6DqyaRMaI
 url: https://www.youtube.com/watch?v=fa6DqyaRMaI
 youtube_url: https://www.youtube.com/watch?v=fa6DqyaRMaI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

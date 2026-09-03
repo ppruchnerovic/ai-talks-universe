@@ -4,7 +4,7 @@ title: "Supercharge Spring Boot Tests with Kotlin DSL Power by Urs Peter"
 slug: supercharge-spring-boot-tests-with-kotlin-dsl-power-by-urs
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Urs Peter"]
@@ -15,6 +15,7 @@ video_id: KwxJEA_9ulI
 url: https://www.youtube.com/watch?v=KwxJEA_9ulI
 youtube_url: https://www.youtube.com/watch?v=KwxJEA_9ulI
 tags: []
+topics: []
 transcript: true
 ---
 

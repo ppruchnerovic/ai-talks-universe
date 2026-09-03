@@ -4,7 +4,7 @@ title: "Al Harris-Evolving specs in Kiro to deliver incremental features faster,
 slug: al-harris-evolving-specs-in-kiro-to-deliver-incremental
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: kos3u63J9NU
 url: https://www.youtube.com/watch?v=kos3u63J9NU
 youtube_url: https://www.youtube.com/watch?v=kos3u63J9NU
 tags: ["ainativedev"]
+topics: []
 transcript: false
 ---
 

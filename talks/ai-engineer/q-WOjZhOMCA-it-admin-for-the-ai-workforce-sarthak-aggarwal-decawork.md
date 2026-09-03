@@ -4,7 +4,7 @@ title: "IT Admin for the AI Workforce — Sarthak Aggarwal, Decawork"
 slug: it-admin-for-the-ai-workforce-sarthak-aggarwal-decawork
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sarthak Aggarwal"]
@@ -15,6 +15,7 @@ video_id: q-WOjZhOMCA
 url: https://www.youtube.com/watch?v=q-WOjZhOMCA
 youtube_url: https://www.youtube.com/watch?v=q-WOjZhOMCA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

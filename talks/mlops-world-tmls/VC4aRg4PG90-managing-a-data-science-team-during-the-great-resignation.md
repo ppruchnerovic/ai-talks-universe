@@ -4,7 +4,7 @@ title: "Managing a Data Science Team During the Great Resignation"
 slug: managing-a-data-science-team-during-the-great-resignation
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Jessie Lamontagne"]
@@ -15,6 +15,7 @@ video_id: VC4aRg4PG90
 url: https://www.youtube.com/watch?v=VC4aRg4PG90
 youtube_url: https://www.youtube.com/watch?v=VC4aRg4PG90
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

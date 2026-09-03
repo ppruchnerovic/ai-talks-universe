@@ -4,7 +4,7 @@ title: "When AI Runs the Business: The Reality of Enterprise-Wide Automation"
 slug: when-ai-runs-the-business-the-reality-of-enterprise-wide
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Axel Schell", "Michael Ameling", "Ines Erker"]
@@ -15,6 +15,7 @@ video_id: Psv5t4zKpco
 url: https://www.youtube.com/watch?v=Psv5t4zKpco
 youtube_url: https://www.youtube.com/watch?v=Psv5t4zKpco
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

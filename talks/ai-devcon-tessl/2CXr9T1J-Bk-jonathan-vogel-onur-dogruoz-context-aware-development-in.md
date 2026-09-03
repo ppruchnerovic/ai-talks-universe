@@ -4,7 +4,7 @@ title: "Jonathan Vogel & Onur Dogruoz - Context Aware Development in Kiro | DevC
 slug: jonathan-vogel-onur-dogruoz-context-aware-development-in
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Jonathan Vogel", "Onur Dogruoz"]
@@ -15,6 +15,7 @@ video_id: 2CXr9T1J-Bk
 url: https://www.youtube.com/watch?v=2CXr9T1J-Bk
 youtube_url: https://www.youtube.com/watch?v=2CXr9T1J-Bk
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

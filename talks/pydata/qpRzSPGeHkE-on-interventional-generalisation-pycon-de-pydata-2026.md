@@ -4,7 +4,7 @@ title: "On Interventional Generalisation [PyCon DE & PyData 2026]"
 slug: on-interventional-generalisation-pycon-de-pydata-2026
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Andy Kitchen"]
@@ -15,6 +15,7 @@ video_id: qpRzSPGeHkE
 url: https://www.youtube.com/watch?v=qpRzSPGeHkE
 youtube_url: https://www.youtube.com/watch?v=qpRzSPGeHkE
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "RAG at Scale: Logging, Traceability, and the Architecture for Control - 
 slug: rag-at-scale-logging-traceability-and-the-architecture-for
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Alison Cossette"]
@@ -15,6 +15,7 @@ video_id: Uodf6I7yWC8
 url: https://www.youtube.com/watch?v=Uodf6I7yWC8
 youtube_url: https://www.youtube.com/watch?v=Uodf6I7yWC8
 tags: []
+topics: ["Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Unleashing Generative AI for Amazon Ads at Scale (A
 slug: aws-re-invent-2025-unleashing-generative-ai-for-amazon-ads
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _kBGc4UkC5I
 url: https://www.youtube.com/watch?v=_kBGc4UkC5I
 youtube_url: https://www.youtube.com/watch?v=_kBGc4UkC5I
 tags: []
+topics: []
 transcript: false
 ---
 

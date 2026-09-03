@@ -4,7 +4,7 @@ title: "AI-Powered Bug Hunting • Ben Sadeghipour @NahamSec • GOTO 2024"
 slug: ai-powered-bug-hunting-ben-sadeghipour-nahamsec-goto-2024
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: lCZtgN7b4TE
 url: https://www.youtube.com/watch?v=lCZtgN7b4TE
 youtube_url: https://www.youtube.com/watch?v=lCZtgN7b4TE
 tags: []
+topics: []
 transcript: false
 ---
 

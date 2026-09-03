@@ -4,7 +4,7 @@ title: "The Agentic Commerce Stack — Ahnaf Prio, Best Buy"
 slug: the-agentic-commerce-stack-ahnaf-prio-best-buy
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ahnaf Prio"]
@@ -15,6 +15,7 @@ video_id: G7cgLjZtmMU
 url: https://www.youtube.com/watch?v=G7cgLjZtmMU
 youtube_url: https://www.youtube.com/watch?v=G7cgLjZtmMU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

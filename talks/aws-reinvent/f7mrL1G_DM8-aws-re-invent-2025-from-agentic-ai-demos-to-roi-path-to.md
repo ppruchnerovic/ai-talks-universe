@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 -From Agentic AI Demos to ROI: Path to Production Wit
 slug: aws-re-invent-2025-from-agentic-ai-demos-to-roi-path-to
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: f7mrL1G_DM8
 url: https://www.youtube.com/watch?v=f7mrL1G_DM8
 youtube_url: https://www.youtube.com/watch?v=f7mrL1G_DM8
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Evolving the developer experience in the age of AI"
 slug: evolving-the-developer-experience-in-the-age-of-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Thomas Jung", "Michael Ameling"]
@@ -15,6 +15,7 @@ video_id: bn5c_ThoaxE
 url: https://www.youtube.com/watch?v=bn5c_ThoaxE
 youtube_url: https://www.youtube.com/watch?v=bn5c_ThoaxE
 tags: ["Developer Experience", "Advocacy", "Career Development", "Developer Experience (DevEx)", "DevRel & Advocacy"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

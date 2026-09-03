@@ -4,7 +4,7 @@ title: "Bootiful Spring Boot: the Deep Dive by Josh Long"
 slug: bootiful-spring-boot-the-deep-dive-by-josh-long
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Josh Long"]
@@ -15,6 +15,7 @@ video_id: nzDpu4qh0jA
 url: https://www.youtube.com/watch?v=nzDpu4qh0jA
 youtube_url: https://www.youtube.com/watch?v=nzDpu4qh0jA
 tags: []
+topics: []
 transcript: false
 ---
 

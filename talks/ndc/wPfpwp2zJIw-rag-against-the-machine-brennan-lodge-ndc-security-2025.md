@@ -4,7 +4,7 @@ title: "RAG Against the Machine - Brennan Lodge - NDC Security 2025"
 slug: rag-against-the-machine-brennan-lodge-ndc-security-2025
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Brennan Lodge"]
@@ -15,6 +15,7 @@ video_id: wPfpwp2zJIw
 url: https://www.youtube.com/watch?v=wPfpwp2zJIw
 youtube_url: https://www.youtube.com/watch?v=wPfpwp2zJIw
 tags: []
+topics: ["RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Outpace Cyber Threats with Agentic AI + Human Ingenuity | Tomer Weingart
 slug: outpace-cyber-threats-with-agentic-ai-human-ingenuity-tomer
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: ["Tomer Weingarten"]
@@ -15,6 +15,7 @@ video_id: YiIvCs4beA4
 url: https://www.youtube.com/watch?v=YiIvCs4beA4
 youtube_url: https://www.youtube.com/watch?v=YiIvCs4beA4
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

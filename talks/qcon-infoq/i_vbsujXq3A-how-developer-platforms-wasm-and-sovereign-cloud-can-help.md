@@ -4,7 +4,7 @@ title: "How developer platforms, Wasm and sovereign cloud can help build a more 
 slug: how-developer-platforms-wasm-and-sovereign-cloud-can-help
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: i_vbsujXq3A
 url: https://www.youtube.com/watch?v=i_vbsujXq3A
 youtube_url: https://www.youtube.com/watch?v=i_vbsujXq3A
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

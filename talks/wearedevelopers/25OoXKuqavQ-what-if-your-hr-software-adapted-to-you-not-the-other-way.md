@@ -4,7 +4,7 @@ title: "What if your HR software adapted to you, not the other way around?"
 slug: what-if-your-hr-software-adapted-to-you-not-the-other-way
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Christian Voigt"]
@@ -15,6 +15,7 @@ video_id: 25OoXKuqavQ
 url: https://www.youtube.com/watch?v=25OoXKuqavQ
 youtube_url: https://www.youtube.com/watch?v=25OoXKuqavQ
 tags: ["People & Culture", "AI Standards", "Agents", "Agentic AI", "Best Practices", "Distributed Systems", "Employer Branding", "Future of Work", "HR", "Multi-Agent Systems", "People & Culture"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

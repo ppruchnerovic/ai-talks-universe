@@ -4,7 +4,7 @@ title: "No Keys for the Robot: GitOps as the Control Plane for Autonomous Agents
 slug: no-keys-for-the-robot-gitops-as-the-control-plane-for
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jaroslaw Gajewski"]
@@ -15,6 +15,7 @@ video_id: pd2etELNLxw
 url: https://www.youtube.com/watch?v=pd2etELNLxw
 youtube_url: https://www.youtube.com/watch?v=pd2etELNLxw
 tags: ["DevOps", "AI Standards", "Agents", "Agentic AI", "Automation", "Best Practices", "DevOps", "DevSecOps", "Generative AI (GenAI)", "GitOps", "Governance", "Infrastructure as Code (IaC)", "System Design", "YAML"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Multimodal, vision, speech & robotics", "Security, safety & red teaming"]
 transcript: true
 ---
 

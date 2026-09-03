@@ -4,7 +4,7 @@ title: "Moving Mountains: Migrating Legacy Code in Weeks Instead of Years"
 slug: moving-mountains-migrating-legacy-code-in-weeks-instead-of
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["David Stein"]
@@ -15,6 +15,7 @@ video_id: iq-refactoring-ai-agents
 url: https://www.infoq.com/presentations/refactoring-ai-agents/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "[VDBUH2026] Magda Miu & Alin Miu - Engineering Leadership in the Age of 
 slug: vdbuh2026-magda-miu-alin-miu-engineering-leadership-in-the
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Magda Miu", "Alin Miu"]
@@ -15,6 +15,7 @@ video_id: DAgVdXO4NFM
 url: https://www.youtube.com/watch?v=DAgVdXO4NFM
 youtube_url: https://www.youtube.com/watch?v=DAgVdXO4NFM
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

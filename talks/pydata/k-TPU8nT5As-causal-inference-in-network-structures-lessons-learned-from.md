@@ -4,7 +4,7 @@ title: "Causal Inference in Network Structures: Lessons learned From Financial S
 slug: causal-inference-in-network-structures-lessons-learned-from
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Danial Senejohnny"]
@@ -15,6 +15,7 @@ video_id: k-TPU8nT5As
 url: https://www.youtube.com/watch?v=k-TPU8nT5As
 youtube_url: https://www.youtube.com/watch?v=k-TPU8nT5As
 tags: ["Conference", "PyConDE", "PyData", "Python", "Tech Talk", "applied machine learning", "banking analytics", "causal inference", "confounding variables", "data science", "difference in difference", "financial services", "network analysis", "observational data", "propensity score matching", "real world data science", "statistical methods", "time series analysis", "treatment effects", "wealth management"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

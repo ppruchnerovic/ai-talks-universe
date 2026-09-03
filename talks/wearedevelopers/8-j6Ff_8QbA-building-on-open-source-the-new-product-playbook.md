@@ -4,7 +4,7 @@ title: "Building on Open Source: The New Product Playbook"
 slug: building-on-open-source-the-new-product-playbook
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Cédric Gégout", "Dana Lawson", "Michael \"Monty\" Widenius", "Sebastian Kister", "Ignacio Riesgo"]
@@ -15,6 +15,7 @@ video_id: 8-j6Ff_8QbA
 url: https://www.youtube.com/watch?v=8-j6Ff_8QbA
 youtube_url: https://www.youtube.com/watch?v=8-j6Ff_8QbA
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

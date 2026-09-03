@@ -4,7 +4,7 @@ title: "[Session] OAuth Everywhere: What I Learned Building MCP Clients, Servers
 slug: session-oauth-everywhere-what-i-learned-building-mcp
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: UjMYWi-tkP0
 url: https://www.youtube.com/watch?v=UjMYWi-tkP0
 youtube_url: https://www.youtube.com/watch?v=UjMYWi-tkP0
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

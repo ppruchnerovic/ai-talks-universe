@@ -4,7 +4,7 @@ title: "The Future of AI – Key Trends Shaping What’s Next • Ekaterina Sira
 slug: the-future-of-ai-key-trends-shaping-whats-next-ekaterina
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Ekaterina Sirazitdinova"]
@@ -15,6 +15,7 @@ video_id: WOmgmKSi_BQ
 url: https://www.youtube.com/watch?v=WOmgmKSi_BQ
 youtube_url: https://www.youtube.com/watch?v=WOmgmKSi_BQ
 tags: []
+topics: []
 transcript: false
 ---
 

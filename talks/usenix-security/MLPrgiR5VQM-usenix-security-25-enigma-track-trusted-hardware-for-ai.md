@@ -4,7 +4,7 @@ title: "USENIX Security '25 (Enigma Track) - Trusted Hardware for AI Workloads: 
 slug: usenix-security-25-enigma-track-trusted-hardware-for-ai
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: MLPrgiR5VQM
 url: https://www.youtube.com/watch?v=MLPrgiR5VQM
 youtube_url: https://www.youtube.com/watch?v=MLPrgiR5VQM
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

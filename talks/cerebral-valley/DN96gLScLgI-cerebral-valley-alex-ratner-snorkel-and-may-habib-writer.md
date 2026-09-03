@@ -4,7 +4,7 @@ title: "Cerebral Valley: Alex Ratner (Snorkel) and May Habib (Writer) with Max C
 slug: cerebral-valley-alex-ratner-snorkel-and-may-habib-writer
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: DN96gLScLgI
 url: https://www.youtube.com/watch?v=DN96gLScLgI
 youtube_url: https://www.youtube.com/watch?v=DN96gLScLgI
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

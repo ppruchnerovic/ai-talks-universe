@@ -4,7 +4,7 @@ title: "Keynote: AI in CI/CD Without the Hype: Practical Patterns for Platform E
 slug: keynote-ai-in-ci-cd-without-the-hype-practical-patterns-for
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Jennifer Mulford"]
@@ -15,6 +15,7 @@ video_id: 3WM28MuCOtU
 url: https://www.youtube.com/watch?v=3WM28MuCOtU
 youtube_url: https://www.youtube.com/watch?v=3WM28MuCOtU
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

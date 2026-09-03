@@ -4,7 +4,7 @@ title: "From GitOps to AIOps: Evolving RBI's Kubernetes Platform with Cross... G
 slug: from-gitops-to-aiops-evolving-rbi-s-kubernetes-platform
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: cqDVeqLvh00
 url: https://www.youtube.com/watch?v=cqDVeqLvh00
 youtube_url: https://www.youtube.com/watch?v=cqDVeqLvh00
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

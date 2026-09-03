@@ -4,7 +4,7 @@ title: "Guide to Responsible Governance of GenAI in Organizations"
 slug: guide-to-responsible-governance-of-genai-in-organizations
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: lfBy6puqFP4
 url: https://www.youtube.com/watch?v=lfBy6puqFP4
 youtube_url: https://www.youtube.com/watch?v=lfBy6puqFP4
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

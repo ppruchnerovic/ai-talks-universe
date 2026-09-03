@@ -4,7 +4,7 @@ title: "AI is Going to Break Your Data Platform - Are You Ready?"
 slug: ai-is-going-to-break-your-data-platform-are-you-ready
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Doron Porat"]
@@ -15,6 +15,7 @@ video_id: afIbbzHaAiM
 url: https://www.youtube.com/watch?v=afIbbzHaAiM
 youtube_url: https://www.youtube.com/watch?v=afIbbzHaAiM
 tags: ["AI disruption", "data platform", "future of data", "ChatGPT", "artificial intelligence", "machine learning", "AI impact", "data architecture", "platform engineering", "data strategy", "AI transformation", "query patterns", "Python tutorial", "digital transformation", "technology disruption", "industry transformation", "competitive advantage", "innovation strategy", "market dynamics", "business model innovation", "organizational transformation"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The Miranda Hypothesis: How Hamilton Poisoned Persona Evals - Jacob E. T
 slug: the-miranda-hypothesis-how-hamilton-poisoned-persona-evals
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jacob E. Thomas"]
@@ -15,6 +15,7 @@ video_id: IJXjTLPzvAU
 url: https://www.youtube.com/watch?v=IJXjTLPzvAU
 youtube_url: https://www.youtube.com/watch?v=IJXjTLPzvAU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

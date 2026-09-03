@@ -4,7 +4,7 @@ title: "Understanding LLM Performance in Snowflake Using Weights & Biases And Sn
 slug: understanding-llm-performance-in-snowflake-using-weights
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: u2GHDdY5ziE
 url: https://www.youtube.com/watch?v=u2GHDdY5ziE
 youtube_url: https://www.youtube.com/watch?v=u2GHDdY5ziE
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

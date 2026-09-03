@@ -4,7 +4,7 @@ title: "Agentic machine learning with Genie Code (includes demo)"
 slug: agentic-machine-learning-with-genie-code-includes-demo
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2026"
 year: 2026
 speakers: ["Mike Del Balso"]
@@ -15,6 +15,7 @@ video_id: C1rEj2VQtwU
 url: https://www.youtube.com/watch?v=C1rEj2VQtwU
 youtube_url: https://www.youtube.com/watch?v=C1rEj2VQtwU
 tags: ["Databricks"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

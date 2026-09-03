@@ -4,7 +4,7 @@ title: "AI’s Agentic Near Future"
 slug: ais-agentic-near-future
 conference: sxsw
 conference_name: "SXSW"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "SXSW 2025 keynotes & featured"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xWL4Y23gYRk
 url: https://www.youtube.com/watch?v=xWL4Y23gYRk
 youtube_url: https://www.youtube.com/watch?v=xWL4Y23gYRk
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

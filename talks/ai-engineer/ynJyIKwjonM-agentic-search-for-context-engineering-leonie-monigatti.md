@@ -4,7 +4,7 @@ title: "Agentic Search for Context Engineering — Leonie Monigatti, Elastic"
 slug: agentic-search-for-context-engineering-leonie-monigatti
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Leonie Monigatti"]
@@ -15,6 +15,7 @@ video_id: ynJyIKwjonM
 url: https://www.youtube.com/watch?v=ynJyIKwjonM
 youtube_url: https://www.youtube.com/watch?v=ynJyIKwjonM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Prompting & context engineering", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "From Scopes To Intent: Reimagining Authorization for Autonomou... Andres
 slug: from-scopes-to-intent-reimagining-authorization-for
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: pQnsFT7BViE
 url: https://www.youtube.com/watch?v=pQnsFT7BViE
 youtube_url: https://www.youtube.com/watch?v=pQnsFT7BViE
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

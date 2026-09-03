@@ -4,7 +4,7 @@ title: "Drive Growth with Agentforce Commerce | Commerce Keynote, Dreamforce 202
 slug: drive-growth-with-agentforce-commerce-commerce-keynote
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: dUZvCpqbbfQ
 url: https://www.youtube.com/watch?v=dUZvCpqbbfQ
 youtube_url: https://www.youtube.com/watch?v=dUZvCpqbbfQ
 tags: []
+topics: []
 transcript: false
 ---
 

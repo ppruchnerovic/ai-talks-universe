@@ -4,7 +4,7 @@ title: "The Pivotal Role of Large Language Models in Extracting Actionable TTP A
 slug: the-pivotal-role-of-large-language-models-in-extracting
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7S3OSvWXP0I
 url: https://www.youtube.com/watch?v=7S3OSvWXP0I
 youtube_url: https://www.youtube.com/watch?v=7S3OSvWXP0I
 tags: []
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

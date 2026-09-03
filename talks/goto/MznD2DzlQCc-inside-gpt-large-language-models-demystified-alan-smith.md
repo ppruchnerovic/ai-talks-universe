@@ -4,7 +4,7 @@ title: "Inside GPT – Large Language Models Demystified • Alan Smith • GOTO
 slug: inside-gpt-large-language-models-demystified-alan-smith
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Alan Smith"]
@@ -15,6 +15,7 @@ video_id: MznD2DzlQCc
 url: https://www.youtube.com/watch?v=MznD2DzlQCc
 youtube_url: https://www.youtube.com/watch?v=MznD2DzlQCc
 tags: []
+topics: []
 transcript: false
 ---
 

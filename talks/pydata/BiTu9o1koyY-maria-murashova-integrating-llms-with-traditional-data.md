@@ -4,7 +4,7 @@ title: "Maria Murashova: Integrating LLMs with Traditional Data Analysis | PyDat
 slug: maria-murashova-integrating-llms-with-traditional-data
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: BiTu9o1koyY
 url: https://www.youtube.com/watch?v=BiTu9o1koyY
 youtube_url: https://www.youtube.com/watch?v=BiTu9o1koyY
 tags: []
+topics: []
 transcript: false
 ---
 

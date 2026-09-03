@@ -4,7 +4,7 @@ title: "Your Next Move: Skilling for the AI Era with Microsoft | STUDIO52"
 slug: your-next-move-skilling-for-the-ai-era-with-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jeana Jorgensen"]
@@ -15,6 +15,7 @@ video_id: d5PRtJ8LPVs
 url: https://www.youtube.com/watch?v=d5PRtJ8LPVs
 youtube_url: https://www.youtube.com/watch?v=d5PRtJ8LPVs
 tags: ["English (US)", "Jeana Jorgensen", "Other", "STUDIO52", "STUDIO52_v1", "Your Next Move: Skilling for the AI Era with Microsoft | STUDIO52", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

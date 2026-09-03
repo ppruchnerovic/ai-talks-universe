@@ -4,7 +4,7 @@ title: "Lucas Colley - A Hitchhiker's Guide to the Array API Standard Ecosystem"
 slug: lucas-colley-a-hitchhiker-s-guide-to-the-array-api-standard
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Lucas Colley"]
@@ -15,6 +15,7 @@ video_id: LBVzkCSmjsQ
 url: https://www.youtube.com/watch?v=LBVzkCSmjsQ
 youtube_url: https://www.youtube.com/watch?v=LBVzkCSmjsQ
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

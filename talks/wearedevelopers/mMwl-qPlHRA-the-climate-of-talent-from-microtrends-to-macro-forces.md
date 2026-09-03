@@ -4,7 +4,7 @@ title: "The Climate of Talent: From Microtrends to Macro Forces"
 slug: the-climate-of-talent-from-microtrends-to-macro-forces
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: mMwl-qPlHRA
 url: https://www.youtube.com/watch?v=mMwl-qPlHRA
 youtube_url: https://www.youtube.com/watch?v=mMwl-qPlHRA
 tags: ["talent", "micro", "macro", "hr", "people and culture", "leadership", "AI", "transformation"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

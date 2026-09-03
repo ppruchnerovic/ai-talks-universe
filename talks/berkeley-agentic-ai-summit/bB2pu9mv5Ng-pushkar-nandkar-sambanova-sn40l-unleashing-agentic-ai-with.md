@@ -4,7 +4,7 @@ title: "Pushkar Nandkar - SambaNova SN40L: Unleashing Agentic AI with Dataflow"
 slug: pushkar-nandkar-sambanova-sn40l-unleashing-agentic-ai-with
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Pushkar Nandkar"]
@@ -15,6 +15,7 @@ video_id: bB2pu9mv5Ng
 url: https://www.youtube.com/watch?v=bB2pu9mv5Ng
 youtube_url: https://www.youtube.com/watch?v=bB2pu9mv5Ng
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Machine Learning on Dynamic Graphs"
 slug: machine-learning-on-dynamic-graphs
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: IPqIqyp0QXQ
 url: https://www.youtube.com/watch?v=IPqIqyp0QXQ
 youtube_url: https://www.youtube.com/watch?v=IPqIqyp0QXQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Machine Learning on Dynamic Graphs", "Dynamic Graphs", "graphs"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

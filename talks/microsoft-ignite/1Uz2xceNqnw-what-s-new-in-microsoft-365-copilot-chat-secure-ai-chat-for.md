@@ -4,7 +4,7 @@ title: "What's new in Microsoft 365 Copilot Chat: Secure AI chat for everyone | 
 slug: what-s-new-in-microsoft-365-copilot-chat-secure-ai-chat-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1Uz2xceNqnw
 url: https://www.youtube.com/watch?v=1Uz2xceNqnw
 youtube_url: https://www.youtube.com/watch?v=1Uz2xceNqnw
 tags: ["AJ Brush", "BRK278", "BRK278_v1", "Copilot and agents at work", "English (US)", "Pooja Rastogi", "Technical", "What's new in Microsoft 365 Copilot Chat: Secure AI chat for everyone | BRK278", "Yana Terukhova", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Coding assistants & agents", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

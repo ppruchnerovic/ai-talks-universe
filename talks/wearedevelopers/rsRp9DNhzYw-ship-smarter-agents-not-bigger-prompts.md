@@ -4,7 +4,7 @@ title: "Ship Smarter Agents, Not Bigger Prompts"
 slug: ship-smarter-agents-not-bigger-prompts
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["April Yoho"]
@@ -15,6 +15,7 @@ video_id: rsRp9DNhzYw
 url: https://www.youtube.com/watch?v=rsRp9DNhzYw
 youtube_url: https://www.youtube.com/watch?v=rsRp9DNhzYw
 tags: ["AI Agents", "AI Coding Assistants", "AI Models", "AI Standards", "Agents", "Agentic AI", "Prompt Engineering"]
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

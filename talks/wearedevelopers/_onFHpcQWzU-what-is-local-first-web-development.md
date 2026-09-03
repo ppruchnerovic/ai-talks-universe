@@ -4,7 +4,7 @@ title: "What is Local-first Web Development?"
 slug: what-is-local-first-web-development
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Alexander Opalic"]
@@ -15,6 +15,7 @@ video_id: _onFHpcQWzU
 url: https://www.youtube.com/watch?v=_onFHpcQWzU
 youtube_url: https://www.youtube.com/watch?v=_onFHpcQWzU
 tags: ["Frontend, Web & Mobile", "Progressive Web Apps (PWAs)", "Vue.js"]
+topics: []
 transcript: true
 ---
 

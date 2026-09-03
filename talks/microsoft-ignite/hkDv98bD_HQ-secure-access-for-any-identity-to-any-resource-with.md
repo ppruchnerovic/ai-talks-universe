@@ -4,7 +4,7 @@ title: "Secure access for any identity to any resource with Microsoft Entra | BR
 slug: secure-access-for-any-identity-to-any-resource-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Alex Simons", "Nichole Peterson"]
@@ -15,6 +15,7 @@ video_id: hkDv98bD_HQ
 url: https://www.youtube.com/watch?v=hkDv98bD_HQ
 youtube_url: https://www.youtube.com/watch?v=hkDv98bD_HQ
 tags: ["Advanced (300)", "Alex Simons", "BRK313", "Breakout", "Cloud", "Copilot for Security", "Data Security", "English (US)", "GenerativeAI", "Microsoft Entra", "Nichole Peterson", "Secure access for any identity to any resource with Microsoft Entra | BRK313", "Security", "Technical", "Version v0", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

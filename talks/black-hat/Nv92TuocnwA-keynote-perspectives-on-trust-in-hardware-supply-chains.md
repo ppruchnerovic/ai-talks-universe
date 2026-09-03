@@ -4,7 +4,7 @@ title: "Keynote: Perspectives on Trust in Hardware Supply Chains"
 slug: keynote-perspectives-on-trust-in-hardware-supply-chains
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Nv92TuocnwA
 url: https://www.youtube.com/watch?v=Nv92TuocnwA
 youtube_url: https://www.youtube.com/watch?v=Nv92TuocnwA
 tags: []
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

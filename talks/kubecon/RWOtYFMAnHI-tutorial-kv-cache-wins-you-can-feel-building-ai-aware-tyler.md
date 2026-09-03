@@ -4,7 +4,7 @@ title: "Tutorial: KV-Cache Wins You Can Feel: Building AI-Aware... Tyler S, Kay 
 slug: tutorial-kv-cache-wins-you-can-feel-building-ai-aware-tyler
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: RWOtYFMAnHI
 url: https://www.youtube.com/watch?v=RWOtYFMAnHI
 youtube_url: https://www.youtube.com/watch?v=RWOtYFMAnHI
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

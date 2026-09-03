@@ -4,7 +4,7 @@ title: "Detection of illegal landfills through Earth Observation | AI from the S
 slug: detection-of-illegal-landfills-through-earth-observation-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Andrea Diecidue"]
@@ -15,6 +15,7 @@ video_id: kenVUYNlrTA
 url: https://www.youtube.com/watch?v=kenVUYNlrTA
 youtube_url: https://www.youtube.com/watch?v=kenVUYNlrTA
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

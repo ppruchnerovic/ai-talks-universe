@@ -4,7 +4,7 @@ title: "From Deep Research to Evaluation and Optimization of Advanced AI Age... 
 slug: from-deep-research-to-evaluation-and-optimization-of
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: TNuHK2QBjEc
 url: https://www.youtube.com/watch?v=TNuHK2QBjEc
 youtube_url: https://www.youtube.com/watch?v=TNuHK2QBjEc
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

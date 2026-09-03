@@ -4,7 +4,7 @@ title: "Modern Data Platform"
 slug: modern-data-platform
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: M0gf4JEAjXY
 url: https://www.youtube.com/watch?v=M0gf4JEAjXY
 youtube_url: https://www.youtube.com/watch?v=M0gf4JEAjXY
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

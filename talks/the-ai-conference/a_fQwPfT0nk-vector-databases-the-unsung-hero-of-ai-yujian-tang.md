@@ -4,7 +4,7 @@ title: "Vector Databases, the Unsung Hero of AI, Yujian Tang, Developer Advocate
 slug: vector-databases-the-unsung-hero-of-ai-yujian-tang
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: a_fQwPfT0nk
 url: https://www.youtube.com/watch?v=a_fQwPfT0nk
 youtube_url: https://www.youtube.com/watch?v=a_fQwPfT0nk
 tags: []
+topics: []
 transcript: false
 ---
 

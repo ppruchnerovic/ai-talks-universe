@@ -4,7 +4,7 @@ title: "Intune Cloud-native Management: Prepare for AI and Next-Gen Cloud PCs | 
 slug: intune-cloud-native-management-prepare-for-ai-and-next-gen
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Lior Bela", "Rob York"]
@@ -15,6 +15,7 @@ video_id: mpRtxCxIpr0
 url: https://www.youtube.com/watch?v=mpRtxCxIpr0
 youtube_url: https://www.youtube.com/watch?v=mpRtxCxIpr0
 tags: ["AVD", "Azure Virtual Desktop", "BRK291", "Cloud PC", "Copilot administration", "Copilot for Security", "Intune Cloud-native Management: Prepare for AI and Next-Gen Cloud PCs | BRK291", "Management", "Microsoft Intune", "Modern Work", "Modern Work-Curated", "Windows 365", "Windows in the Cloud", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

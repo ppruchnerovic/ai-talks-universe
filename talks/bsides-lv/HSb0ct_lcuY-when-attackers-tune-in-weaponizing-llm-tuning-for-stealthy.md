@@ -4,7 +4,7 @@ title: "When Attackers Tune In: Weaponizing LLM Tuning for Stealthy C2 and Exfil
 slug: when-attackers-tune-in-weaponizing-llm-tuning-for-stealthy
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: HSb0ct_lcuY
 url: https://www.youtube.com/watch?v=HSb0ct_lcuY
 youtube_url: https://www.youtube.com/watch?v=HSb0ct_lcuY
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Change Data Capture for Microservices"
 slug: change-data-capture-for-microservices
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: M6Z-RpEdaN4
 url: https://www.youtube.com/watch?v=M6Z-RpEdaN4
 youtube_url: https://www.youtube.com/watch?v=M6Z-RpEdaN4
 tags: ["Software Architecture", "Microservices", "Change Data Capture", "CDC", "Debezium", "Artificial Intelligence", "Machine Learning", "Data Engineering", "InfoQ", "QCon London", "Transcript"]
+topics: []
 transcript: false
 ---
 

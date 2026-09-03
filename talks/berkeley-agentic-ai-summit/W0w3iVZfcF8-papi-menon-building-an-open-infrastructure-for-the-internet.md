@@ -4,7 +4,7 @@ title: "Papi Menon - Building an Open Infrastructure for the Internet of Agents"
 slug: papi-menon-building-an-open-infrastructure-for-the-internet
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Papi Menon"]
@@ -15,6 +15,7 @@ video_id: W0w3iVZfcF8
 url: https://www.youtube.com/watch?v=W0w3iVZfcF8
 youtube_url: https://www.youtube.com/watch?v=W0w3iVZfcF8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "From Generalist to Specialist: Customizing LLMs for Building Laws in Nor
 slug: from-generalist-to-specialist-customizing-llms-for-building
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: DOKeX7lubEg
 url: https://www.youtube.com/watch?v=DOKeX7lubEg
 youtube_url: https://www.youtube.com/watch?v=DOKeX7lubEg
 tags: ["AI", "GenAI", "LLM", "RAG", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Norway", "Malte Loller-Andersen"]
+topics: []
 transcript: false
 ---
 

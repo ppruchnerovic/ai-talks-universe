@@ -4,7 +4,7 @@ title: "Benchmarks Are Memes: How What We Measure Shapes AI—and Us - Alex Duff
 slug: benchmarks-are-memes-how-what-we-measure-shapes-aiand-us
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Alex Duffy"]
@@ -15,6 +15,7 @@ video_id: W3khHzajE04
 url: https://www.youtube.com/watch?v=W3khHzajE04
 youtube_url: https://www.youtube.com/watch?v=W3khHzajE04
 tags: []
+topics: ["Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

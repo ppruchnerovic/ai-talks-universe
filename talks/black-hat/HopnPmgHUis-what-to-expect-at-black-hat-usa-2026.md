@@ -4,7 +4,7 @@ title: "What to Expect at Black Hat USA 2026"
 slug: what-to-expect-at-black-hat-usa-2026
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: HopnPmgHUis
 url: https://www.youtube.com/watch?v=HopnPmgHUis
 youtube_url: https://www.youtube.com/watch?v=HopnPmgHUis
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

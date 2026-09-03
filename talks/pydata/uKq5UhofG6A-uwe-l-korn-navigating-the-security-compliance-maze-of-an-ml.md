@@ -4,7 +4,7 @@ title: "Uwe L. Korn - Navigating the security compliance maze of an ML service"
 slug: uwe-l-korn-navigating-the-security-compliance-maze-of-an-ml
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Uwe L. Korn"]
@@ -15,6 +15,7 @@ video_id: uKq5UhofG6A
 url: https://www.youtube.com/watch?v=uKq5UhofG6A
 youtube_url: https://www.youtube.com/watch?v=uKq5UhofG6A
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

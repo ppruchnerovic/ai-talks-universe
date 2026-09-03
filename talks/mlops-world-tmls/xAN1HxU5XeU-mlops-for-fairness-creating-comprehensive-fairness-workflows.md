@@ -4,7 +4,7 @@ title: "MLOps for Fairness: Creating Comprehensive Fairness workflows"
 slug: mlops-for-fairness-creating-comprehensive-fairness-workflows
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Bhaktipriya Radharapu"]
@@ -15,6 +15,7 @@ video_id: xAN1HxU5XeU
 url: https://www.youtube.com/watch?v=xAN1HxU5XeU
 youtube_url: https://www.youtube.com/watch?v=xAN1HxU5XeU
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

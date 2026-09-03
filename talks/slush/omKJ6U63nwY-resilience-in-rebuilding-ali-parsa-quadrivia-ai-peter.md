@@ -4,7 +4,7 @@ title: "Resilience in Rebuilding | Ali Parsa (Quadrivia AI), Peter Carlsson (Ari
 slug: resilience-in-rebuilding-ali-parsa-quadrivia-ai-peter
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Ali Parsa"]
@@ -15,6 +15,7 @@ video_id: omKJ6U63nwY
 url: https://www.youtube.com/watch?v=omKJ6U63nwY
 youtube_url: https://www.youtube.com/watch?v=omKJ6U63nwY
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: []
 transcript: false
 ---
 

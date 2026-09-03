@@ -4,7 +4,7 @@ title: "When AI Says 'I Don't Know': Uncertainty Quantification in Multimodal Cl
 slug: when-ai-says-i-don-t-know-uncertainty-quantification-in
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: O3eoGdAHksc
 url: https://www.youtube.com/watch?v=O3eoGdAHksc
 youtube_url: https://www.youtube.com/watch?v=O3eoGdAHksc
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

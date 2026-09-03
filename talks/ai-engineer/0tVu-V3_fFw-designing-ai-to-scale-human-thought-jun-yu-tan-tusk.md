@@ -4,7 +4,7 @@ title: "Designing AI To Scale Human Thought — Jun Yu Tan, Tusk"
 slug: designing-ai-to-scale-human-thought-jun-yu-tan-tusk
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jun Yu Tan"]
@@ -15,6 +15,7 @@ video_id: 0tVu-V3_fFw
 url: https://www.youtube.com/watch?v=0tVu-V3_fFw
 youtube_url: https://www.youtube.com/watch?v=0tVu-V3_fFw
 tags: []
+topics: []
 transcript: false
 ---
 

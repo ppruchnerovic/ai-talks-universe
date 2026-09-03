@@ -4,7 +4,7 @@ title: "Searching for Meaning in the Age of AI"
 slug: searching-for-meaning-in-the-age-of-ai
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: RMZwp1A6cYs
 url: https://www.youtube.com/watch?v=RMZwp1A6cYs
 youtube_url: https://www.youtube.com/watch?v=RMZwp1A6cYs
 tags: []
+topics: []
 transcript: false
 ---
 

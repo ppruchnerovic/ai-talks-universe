@@ -4,7 +4,7 @@ title: "KEYNOTE Alenka Frim - You Don’t Have to Be an Expert: Stories from the
 slug: keynote-alenka-frim-you-dont-have-to-be-an-expert-stories
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6YoLlcF7cKM
 url: https://www.youtube.com/watch?v=6YoLlcF7cKM
 youtube_url: https://www.youtube.com/watch?v=6YoLlcF7cKM
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: false
 ---
 

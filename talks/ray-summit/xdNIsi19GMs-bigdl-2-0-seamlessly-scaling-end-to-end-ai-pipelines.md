@@ -4,7 +4,7 @@ title: "BigDL 2.0- Seamlessly scaling end-to-end AI pipelines"
 slug: bigdl-2-0-seamlessly-scaling-end-to-end-ai-pipelines
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: xdNIsi19GMs
 url: https://www.youtube.com/watch?v=xdNIsi19GMs
 youtube_url: https://www.youtube.com/watch?v=xdNIsi19GMs
 tags: []
+topics: []
 transcript: false
 ---
 

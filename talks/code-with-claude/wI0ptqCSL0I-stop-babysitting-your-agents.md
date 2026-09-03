@@ -4,7 +4,7 @@ title: "Stop babysitting your agents"
 slug: stop-babysitting-your-agents
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: wI0ptqCSL0I
 url: https://www.youtube.com/watch?v=wI0ptqCSL0I
 youtube_url: https://www.youtube.com/watch?v=wI0ptqCSL0I
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Reason. Search. Retrieve. Repeat. Iterative Retrieval for Automating Vul
 slug: reason-search-retrieve-repeat-iterative-retrieval-for
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Supriti Vijay"]
@@ -15,6 +15,7 @@ video_id: Pj8yTn6CF2Y
 url: https://www.youtube.com/watch?v=Pj8yTn6CF2Y
 youtube_url: https://www.youtube.com/watch?v=Pj8yTn6CF2Y
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

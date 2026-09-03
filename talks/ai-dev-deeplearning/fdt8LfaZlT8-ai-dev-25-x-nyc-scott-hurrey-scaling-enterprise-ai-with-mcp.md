@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Scott Hurrey: Scaling Enterprise AI with MCP and A2A"
 slug: ai-dev-25-x-nyc-scott-hurrey-scaling-enterprise-ai-with-mcp
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fdt8LfaZlT8
 url: https://www.youtube.com/watch?v=fdt8LfaZlT8
 youtube_url: https://www.youtube.com/watch?v=fdt8LfaZlT8
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

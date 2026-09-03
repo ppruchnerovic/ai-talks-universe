@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | David Park: Building Production Grade Agentic Systems w
 slug: ai-dev-26-x-sf-david-park-building-production-grade-agentic
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: JqyB0taAo7w
 url: https://www.youtube.com/watch?v=JqyB0taAo7w
 youtube_url: https://www.youtube.com/watch?v=JqyB0taAo7w
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

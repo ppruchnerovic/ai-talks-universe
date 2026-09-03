@@ -4,7 +4,7 @@ title: "Building and Deploying LLM Platforms in the Enterprise: From Innovation 
 slug: building-and-deploying-llm-platforms-in-the-enterprise-from
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: XxH0bdL6C68
 url: https://www.youtube.com/watch?v=XxH0bdL6C68
 youtube_url: https://www.youtube.com/watch?v=XxH0bdL6C68
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "GenAI Project | Inside the OWASP State of Agentic AI Security and Govern
 slug: genai-project-inside-the-owasp-state-of-agentic-ai-security
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Ariel Fogel"]
@@ -15,6 +15,7 @@ video_id: 7oB9PTTV-9E
 url: https://www.youtube.com/watch?v=7oB9PTTV-9E
 youtube_url: https://www.youtube.com/watch?v=7oB9PTTV-9E
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

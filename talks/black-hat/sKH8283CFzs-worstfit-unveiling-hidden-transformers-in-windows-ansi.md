@@ -4,7 +4,7 @@ title: "WorstFit: Unveiling Hidden Transformers in Windows ANSI!"
 slug: worstfit-unveiling-hidden-transformers-in-windows-ansi
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: sKH8283CFzs
 url: https://www.youtube.com/watch?v=sKH8283CFzs
 youtube_url: https://www.youtube.com/watch?v=sKH8283CFzs
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

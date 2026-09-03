@@ -4,7 +4,7 @@ title: "Threat Hunting with Python and Pandas"
 slug: threat-hunting-with-python-and-pandas
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Matt Dulle"]
@@ -15,6 +15,7 @@ video_id: czbzvMpl0I8
 url: https://www.youtube.com/watch?v=czbzvMpl0I8
 youtube_url: https://www.youtube.com/watch?v=czbzvMpl0I8
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

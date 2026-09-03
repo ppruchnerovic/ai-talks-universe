@@ -4,7 +4,7 @@ title: "Embrace the opportunities of the AI-enabled partner of the future | BRKF
 slug: embrace-the-opportunities-of-the-ai-enabled-partner-of-the
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Angela Byers"]
@@ -15,6 +15,7 @@ video_id: oalFugB2olg
 url: https://www.youtube.com/watch?v=oalFugB2olg
 youtube_url: https://www.youtube.com/watch?v=oalFugB2olg
 tags: ["AI", "Administration", "BRKFP382", "Data governance", "Embrace the opportunities of the AI-enabled partner of the future | BRKFP382", "Insider risk management", "Multicloud security", "Product management", "Program management", "Project Management", "SMB", "Small and medium-sized businesses", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

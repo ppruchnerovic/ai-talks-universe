@@ -4,7 +4,7 @@ title: "Running prompts at CI does not make your GenAI app enterprise ready"
 slug: running-prompts-at-ci-does-not-make-your-genai-app
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Jakob Frick"]
@@ -15,6 +15,7 @@ video_id: SRdmJ_c0Mz4
 url: https://www.youtube.com/watch?v=SRdmJ_c0Mz4
 youtube_url: https://www.youtube.com/watch?v=SRdmJ_c0Mz4
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Baby Sitting Your AI Models in Production? STOP! - Ram Iyengar, Linux Fo
 slug: baby-sitting-your-ai-models-in-production-stop-ram-iyengar
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: ["Ram Iyengar"]
@@ -15,6 +15,7 @@ video_id: wFj9HGBU4M4
 url: https://www.youtube.com/watch?v=wFj9HGBU4M4
 youtube_url: https://www.youtube.com/watch?v=wFj9HGBU4M4
 tags: []
+topics: []
 transcript: true
 ---
 

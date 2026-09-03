@@ -4,7 +4,7 @@ title: "Your codebase, your rules: Customizing Copilot with context engineering"
 slug: your-codebase-your-rules-customizing-copilot-with-context
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0jEzUhU8bLc
 url: https://www.youtube.com/watch?v=0jEzUhU8bLc
 youtube_url: https://www.youtube.com/watch?v=0jEzUhU8bLc
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

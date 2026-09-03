@@ -4,7 +4,7 @@ title: "How to Build a Culture of Sustainable High Performance"
 slug: how-to-build-a-culture-of-sustainable-high-performance
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Bianca Errigo"]
@@ -15,6 +15,7 @@ video_id: PaIog2tdlYw
 url: https://www.youtube.com/watch?v=PaIog2tdlYw
 youtube_url: https://www.youtube.com/watch?v=PaIog2tdlYw
 tags: ["People & Culture", "Best Practices", "Career Development", "Collaboration", "Communication", "Community", "Employer Branding", "Ethics", "Future of Work", "HealthTech", "HR", "Mental Health", "People & Culture", "Performance", "Productivity", "Scaling", "Soft Skills", "Talent & Recruiting", "Team Building"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

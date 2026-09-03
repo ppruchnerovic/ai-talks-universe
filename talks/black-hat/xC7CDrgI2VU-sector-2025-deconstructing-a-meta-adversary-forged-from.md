@@ -4,7 +4,7 @@ title: "SecTor 2025 | Deconstructing a Meta-Adversary Forged from Offensive AI"
 slug: sector-2025-deconstructing-a-meta-adversary-forged-from
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xC7CDrgI2VU
 url: https://www.youtube.com/watch?v=xC7CDrgI2VU
 youtube_url: https://www.youtube.com/watch?v=xC7CDrgI2VU
 tags: []
+topics: []
 transcript: false
 ---
 

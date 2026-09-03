@@ -4,7 +4,7 @@ title: "Hot Takes and Tragic Mistakes: How (not) to Integrate Data People in You
 slug: hot-takes-and-tragic-mistakes-how-not-to-integrate-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: op3Bhf1w4PY
 url: https://www.youtube.com/watch?v=op3Bhf1w4PY
 youtube_url: https://www.youtube.com/watch?v=op3Bhf1w4PY
 tags: ["dev teams", "data products", "data science"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

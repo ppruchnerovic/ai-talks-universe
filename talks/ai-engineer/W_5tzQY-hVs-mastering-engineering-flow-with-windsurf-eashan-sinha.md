@@ -4,7 +4,7 @@ title: "Mastering Engineering Flow with Windsurf - Eashan Sinha, Windsurf"
 slug: mastering-engineering-flow-with-windsurf-eashan-sinha
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Eashan Sinha"]
@@ -15,6 +15,7 @@ video_id: W_5tzQY-hVs
 url: https://www.youtube.com/watch?v=W_5tzQY-hVs
 youtube_url: https://www.youtube.com/watch?v=W_5tzQY-hVs
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

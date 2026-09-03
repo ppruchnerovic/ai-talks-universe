@@ -4,7 +4,7 @@ title: "Large-scale deep learning to augment production RL workloads at Riot Gam
 slug: large-scale-deep-learning-to-augment-production-rl
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8EsQkFxWYhU
 url: https://www.youtube.com/watch?v=8EsQkFxWYhU
 youtube_url: https://www.youtube.com/watch?v=8EsQkFxWYhU
 tags: []
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

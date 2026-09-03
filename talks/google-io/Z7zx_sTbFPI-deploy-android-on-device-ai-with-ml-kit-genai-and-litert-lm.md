@@ -4,7 +4,7 @@ title: "Deploy Android on-device AI with ML Kit GenAI and LiteRT-LM"
 slug: deploy-android-on-device-ai-with-ml-kit-genai-and-litert-lm
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Caren Chang", "Erin Walsh"]
@@ -15,6 +15,7 @@ video_id: Z7zx_sTbFPI
 url: https://www.youtube.com/watch?v=Z7zx_sTbFPI
 youtube_url: https://www.youtube.com/watch?v=Z7zx_sTbFPI
 tags: ["Android", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Android;"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

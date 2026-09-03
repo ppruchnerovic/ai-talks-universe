@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Driving Fan Engagement with Data, Analytics, & AI (
 slug: aws-re-invent-2025-driving-fan-engagement-with-data
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: c6WB1JGabYM
 url: https://www.youtube.com/watch?v=c6WB1JGabYM
 youtube_url: https://www.youtube.com/watch?v=c6WB1JGabYM
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

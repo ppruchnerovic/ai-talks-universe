@@ -4,7 +4,7 @@ title: "The H Factor | Laurent Sifre (H Company) with Beatrice Nolan (Fortune)"
 slug: the-h-factor-laurent-sifre-h-company-with-beatrice-nolan
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Laurent Sifre"]
@@ -15,6 +15,7 @@ video_id: HUtS7GHmciw
 url: https://www.youtube.com/watch?v=HUtS7GHmciw
 youtube_url: https://www.youtube.com/watch?v=HUtS7GHmciw
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

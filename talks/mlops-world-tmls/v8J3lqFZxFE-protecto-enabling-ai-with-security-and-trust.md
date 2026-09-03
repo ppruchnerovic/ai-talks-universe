@@ -4,7 +4,7 @@ title: "Protecto - Enabling AI with Security and Trust"
 slug: protecto-enabling-ai-with-security-and-trust
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: v8J3lqFZxFE
 url: https://www.youtube.com/watch?v=v8J3lqFZxFE
 youtube_url: https://www.youtube.com/watch?v=v8J3lqFZxFE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

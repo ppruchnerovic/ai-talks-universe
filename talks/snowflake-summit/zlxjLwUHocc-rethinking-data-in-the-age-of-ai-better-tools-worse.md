@@ -4,7 +4,7 @@ title: "Rethinking Data in the Age of AI: Better Tools, Worse Decisions?"
 slug: rethinking-data-in-the-age-of-ai-better-tools-worse
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: zlxjLwUHocc
 url: https://www.youtube.com/watch?v=zlxjLwUHocc
 youtube_url: https://www.youtube.com/watch?v=zlxjLwUHocc
 tags: []
+topics: []
 transcript: false
 ---
 

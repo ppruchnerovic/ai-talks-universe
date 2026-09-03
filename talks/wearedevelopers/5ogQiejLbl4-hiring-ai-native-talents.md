@@ -4,7 +4,7 @@ title: "Hiring AI Native Talents"
 slug: hiring-ai-native-talents
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Zahhar Kirillov"]
@@ -15,6 +15,7 @@ video_id: 5ogQiejLbl4
 url: https://www.youtube.com/watch?v=5ogQiejLbl4
 youtube_url: https://www.youtube.com/watch?v=5ogQiejLbl4
 tags: ["Talent Strategy", "HR"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

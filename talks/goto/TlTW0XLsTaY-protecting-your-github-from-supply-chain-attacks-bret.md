@@ -4,7 +4,7 @@ title: "Protecting Your GitHub from Supply Chain Attacks • Bret Fisher • GOT
 slug: protecting-your-github-from-supply-chain-attacks-bret
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Bret Fisher"]
@@ -15,6 +15,7 @@ video_id: TlTW0XLsTaY
 url: https://www.youtube.com/watch?v=TlTW0XLsTaY
 youtube_url: https://www.youtube.com/watch?v=TlTW0XLsTaY
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTOchgo", "GOTO Chicago", "Bret Fisher", "GitHub Actions", "Security", "Cybersecurity", "Supply Chain Attacks", "S1ngularity", "GitHub", "TeamPCP", "Shai-Hulud Attack", "Trivy", "Axios", "Zapier", "PostHog", "Dependabot"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

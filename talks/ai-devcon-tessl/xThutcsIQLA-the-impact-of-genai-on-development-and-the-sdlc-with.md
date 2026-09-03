@@ -4,7 +4,7 @@ title: "​The impact of genAI on development and the SDLC with Patrick Debois, 
 slug: the-impact-of-genai-on-development-and-the-sdlc-with
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: xThutcsIQLA
 url: https://www.youtube.com/watch?v=xThutcsIQLA
 youtube_url: https://www.youtube.com/watch?v=xThutcsIQLA
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

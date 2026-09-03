@@ -4,7 +4,7 @@ title: "Context Engineering 2.0: Unifying MCP, Agentic RAG, and Memory | Redis"
 slug: context-engineering-2-0-unifying-mcp-agentic-rag-and-memory
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: AhKFNkgl760
 url: https://www.youtube.com/watch?v=AhKFNkgl760
 youtube_url: https://www.youtube.com/watch?v=AhKFNkgl760
 tags: ["AI"]
+topics: ["Agents & orchestration", "Prompting & context engineering", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

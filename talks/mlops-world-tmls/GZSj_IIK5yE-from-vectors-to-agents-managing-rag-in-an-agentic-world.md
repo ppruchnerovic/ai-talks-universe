@@ -4,7 +4,7 @@ title: "From Vectors to Agents: Managing RAG in an Agentic World | Rajiv Shah, C
 slug: from-vectors-to-agents-managing-rag-in-an-agentic-world
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Rajiv Shah"]
@@ -15,6 +15,7 @@ video_id: GZSj_IIK5yE
 url: https://www.youtube.com/watch?v=GZSj_IIK5yE
 youtube_url: https://www.youtube.com/watch?v=GZSj_IIK5yE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

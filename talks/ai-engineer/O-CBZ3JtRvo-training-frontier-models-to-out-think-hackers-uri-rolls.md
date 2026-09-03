@@ -4,7 +4,7 @@ title: "Training Frontier Models to Out-Think Hackers — Uri Rolls, Arithmetic 
 slug: training-frontier-models-to-out-think-hackers-uri-rolls
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Uri Rolls"]
@@ -15,6 +15,7 @@ video_id: O-CBZ3JtRvo
 url: https://www.youtube.com/watch?v=O-CBZ3JtRvo
 youtube_url: https://www.youtube.com/watch?v=O-CBZ3JtRvo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

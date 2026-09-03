@@ -4,7 +4,7 @@ title: "Cerebral Valley: Lisha Li, Medha Basu, Chun Jiang, and Caroline Zhang wi
 slug: cerebral-valley-lisha-li-medha-basu-chun-jiang-and-caroline
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 75I898ZK2oU
 url: https://www.youtube.com/watch?v=75I898ZK2oU
 youtube_url: https://www.youtube.com/watch?v=75I898ZK2oU
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

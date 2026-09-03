@@ -4,7 +4,7 @@ title: "An Open Source Post-Training Stack: Kubernetes + Ray + PyTorch + vLLM - 
 slug: an-open-source-post-training-stack-kubernetes-ray-pytorch
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Robert Nishihara"]
@@ -15,6 +15,7 @@ video_id: JEM-tA3XDjc
 url: https://www.youtube.com/watch?v=JEM-tA3XDjc
 youtube_url: https://www.youtube.com/watch?v=JEM-tA3XDjc
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Sponsored Session: OpenSearch and the Path to a Trillion-s... Vamshi Vij
 slug: sponsored-session-opensearch-and-the-path-to-a-trillion-s
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: j6aBSnrO7u8
 url: https://www.youtube.com/watch?v=j6aBSnrO7u8
 youtube_url: https://www.youtube.com/watch?v=j6aBSnrO7u8
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

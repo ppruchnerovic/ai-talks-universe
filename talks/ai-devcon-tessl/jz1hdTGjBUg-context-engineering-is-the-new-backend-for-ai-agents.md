@@ -4,7 +4,7 @@ title: "Context Engineering Is the New Backend for AI Agents"
 slug: context-engineering-is-the-new-backend-for-ai-agents
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: jz1hdTGjBUg
 url: https://www.youtube.com/watch?v=jz1hdTGjBUg
 youtube_url: https://www.youtube.com/watch?v=jz1hdTGjBUg
 tags: []
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: false
 ---
 

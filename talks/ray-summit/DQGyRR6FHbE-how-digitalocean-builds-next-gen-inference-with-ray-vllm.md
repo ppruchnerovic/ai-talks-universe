@@ -4,7 +4,7 @@ title: "How DigitalOcean Builds Next-Gen Inference with Ray, vLLM & More | Ray S
 slug: how-digitalocean-builds-next-gen-inference-with-ray-vllm
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: DQGyRR6FHbE
 url: https://www.youtube.com/watch?v=DQGyRR6FHbE
 youtube_url: https://www.youtube.com/watch?v=DQGyRR6FHbE
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

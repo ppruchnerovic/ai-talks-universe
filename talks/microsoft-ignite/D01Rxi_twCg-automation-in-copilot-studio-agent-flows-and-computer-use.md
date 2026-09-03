@@ -4,7 +4,7 @@ title: "Automation in Copilot Studio: Agent flows and computer use | BRK320"
 slug: automation-in-copilot-studio-agent-flows-and-computer-use
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jose Luis Fernandez"]
@@ -15,6 +15,7 @@ video_id: D01Rxi_twCg
 url: https://www.youtube.com/watch?v=D01Rxi_twCg
 youtube_url: https://www.youtube.com/watch?v=D01Rxi_twCg
 tags: ["Automation in Copilot Studio: Agent flows and computer use | BRK320", "BRK320", "Copilot and agents at work:Copilot Agents", "Copilot and agents at work:Copilot Studio", "Innovate with low-code AI and agents", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

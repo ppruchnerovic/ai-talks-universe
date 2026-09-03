@@ -4,7 +4,7 @@ title: "Scott and Mark learn to Vibe Check with Cassidy Williams | LIVE114"
 slug: scott-and-mark-learn-to-vibe-check-with-cassidy-williams
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Scott Hanselman", "Cassidy Williams"]
@@ -15,6 +15,7 @@ video_id: la02mLeX0Is
 url: https://www.youtube.com/watch?v=la02mLeX0Is
 youtube_url: https://www.youtube.com/watch?v=la02mLeX0Is
 tags: ["Cassidy Williams", "LIVE114", "LIVE114_v1", "Scott Hanselman", "Scott and Mark learn to Vibe Check with Cassidy Williams | LIVE114", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Malloy An Experimental Language for Data | Google"
 slug: malloy-an-experimental-language-for-data-google
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: zmmJgwc3oPI
 url: https://www.youtube.com/watch?v=zmmJgwc3oPI
 youtube_url: https://www.youtube.com/watch?v=zmmJgwc3oPI
 tags: ["programming language", "Data Engineering", "SQL", "query language", "open source"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

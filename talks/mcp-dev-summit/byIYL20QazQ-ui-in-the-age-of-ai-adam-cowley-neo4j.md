@@ -4,7 +4,7 @@ title: "UI in the Age of AI - Adam Cowley, Neo4j"
 slug: ui-in-the-age-of-ai-adam-cowley-neo4j
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Adam Cowley"]
@@ -15,6 +15,7 @@ video_id: byIYL20QazQ
 url: https://www.youtube.com/watch?v=byIYL20QazQ
 youtube_url: https://www.youtube.com/watch?v=byIYL20QazQ
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

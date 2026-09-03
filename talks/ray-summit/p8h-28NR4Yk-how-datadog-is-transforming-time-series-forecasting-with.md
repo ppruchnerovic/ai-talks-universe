@@ -4,7 +4,7 @@ title: "How Datadog is Transforming Time Series Forecasting with Toto | Ray Summ
 slug: how-datadog-is-transforming-time-series-forecasting-with
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: p8h-28NR4Yk
 url: https://www.youtube.com/watch?v=p8h-28NR4Yk
 youtube_url: https://www.youtube.com/watch?v=p8h-28NR4Yk
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

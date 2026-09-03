@@ -4,7 +4,7 @@ title: "Spec-Driven Testing for Agents With A Brain the Size of A Planet — Ste
 slug: spec-driven-testing-for-agents-with-a-brain-the-size-of-a
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Steven Willmott"]
@@ -15,6 +15,7 @@ video_id: UQKg0td-Bf4
 url: https://www.youtube.com/watch?v=UQKg0td-Bf4
 youtube_url: https://www.youtube.com/watch?v=UQKg0td-Bf4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

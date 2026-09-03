@@ -4,7 +4,7 @@ title: "Where code meets court: AI at the legal-technical frontier"
 slug: where-code-meets-court-ai-at-the-legal-technical-frontier
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: T8N0MED3IJo
 url: https://www.youtube.com/watch?v=T8N0MED3IJo
 youtube_url: https://www.youtube.com/watch?v=T8N0MED3IJo
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

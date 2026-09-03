@@ -4,7 +4,7 @@ title: "Route to Success: Scalable Routing Agents With Databricks and DSPy"
 slug: route-to-success-scalable-routing-agents-with-databricks
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: dc8KoEmB3PM
 url: https://www.youtube.com/watch?v=dc8KoEmB3PM
 youtube_url: https://www.youtube.com/watch?v=dc8KoEmB3PM
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Prompting & context engineering"]
 transcript: false
 ---
 

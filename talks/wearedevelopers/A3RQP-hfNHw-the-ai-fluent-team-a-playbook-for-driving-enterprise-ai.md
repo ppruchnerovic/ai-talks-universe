@@ -4,7 +4,7 @@ title: "The AI-Fluent Team: A Playbook for Driving Enterprise AI Transformation"
 slug: the-ai-fluent-team-a-playbook-for-driving-enterprise-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Avani Prabhakar"]
@@ -15,6 +15,7 @@ video_id: A3RQP-hfNHw
 url: https://www.youtube.com/watch?v=A3RQP-hfNHw
 youtube_url: https://www.youtube.com/watch?v=A3RQP-hfNHw
 tags: ["People & Culture", "AI Models", "AI Standards"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AI at Goldman and the Enterprise: Marco Argenti (CIO at Goldman Sachs) w
 slug: ai-at-goldman-and-the-enterprise-marco-argenti-cio-at
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: fGQv9yFd6JQ
 url: https://www.youtube.com/watch?v=fGQv9yFd6JQ
 youtube_url: https://www.youtube.com/watch?v=fGQv9yFd6JQ
 tags: []
+topics: []
 transcript: false
 ---
 

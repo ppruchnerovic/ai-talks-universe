@@ -4,7 +4,7 @@ title: "Unlocking creativity with AI"
 slug: unlocking-creativity-with-ai
 conference: web-summit
 conference_name: "Web Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Web Summit"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: S1C3dB6H-WY
 url: https://www.youtube.com/watch?v=S1C3dB6H-WY
 youtube_url: https://www.youtube.com/watch?v=S1C3dB6H-WY
 tags: []
+topics: []
 transcript: false
 ---
 

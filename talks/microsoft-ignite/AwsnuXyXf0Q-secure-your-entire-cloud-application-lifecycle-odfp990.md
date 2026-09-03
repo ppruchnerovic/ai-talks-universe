@@ -4,7 +4,7 @@ title: "Secure your entire cloud application lifecycle | ODFP990"
 slug: secure-your-entire-cloud-application-lifecycle-odfp990
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: AwsnuXyXf0Q
 url: https://www.youtube.com/watch?v=AwsnuXyXf0Q
 youtube_url: https://www.youtube.com/watch?v=AwsnuXyXf0Q
 tags: ["Intermediate (200)", "Multicloud security", "ODFP990", "Pre-recorded", "Secure your entire cloud application lifecycle | ODFP990", "Security", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

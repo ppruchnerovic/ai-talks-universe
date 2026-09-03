@@ -4,7 +4,7 @@ title: "AI: Law, Policy, and Common Sense Suggestions to Stay Out of Trouble"
 slug: ai-law-policy-and-common-sense-suggestions-to-stay-out-of
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Behnam Dayanim", "Digital Commerce", "Orrick Herrington"]
@@ -15,6 +15,7 @@ video_id: HXJSCPBRrNQ
 url: https://www.youtube.com/watch?v=HXJSCPBRrNQ
 youtube_url: https://www.youtube.com/watch?v=HXJSCPBRrNQ
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

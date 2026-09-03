@@ -4,7 +4,7 @@ title: "Scaling Production LLM Inference Using EKS Auto Mode & Ray Serve | Ray S
 slug: scaling-production-llm-inference-using-eks-auto-mode-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _r_uCC9jEyE
 url: https://www.youtube.com/watch?v=_r_uCC9jEyE
 youtube_url: https://www.youtube.com/watch?v=_r_uCC9jEyE
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

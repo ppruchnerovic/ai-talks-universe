@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Thierry Damiba: Edge to Cloud Video Anomaly Detection"
 slug: ai-dev-26-x-sf-thierry-damiba-edge-to-cloud-video-anomaly
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: NtvEHHwKdUE
 url: https://www.youtube.com/watch?v=NtvEHHwKdUE
 youtube_url: https://www.youtube.com/watch?v=NtvEHHwKdUE
 tags: []
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

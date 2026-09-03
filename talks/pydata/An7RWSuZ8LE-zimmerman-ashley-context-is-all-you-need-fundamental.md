@@ -4,7 +4,7 @@ title: "Zimmerman, Ashley - Context is all you need: FUNdamental linguistics for
 slug: zimmerman-ashley-context-is-all-you-need-fundamental
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: An7RWSuZ8LE
 url: https://www.youtube.com/watch?v=An7RWSuZ8LE
 youtube_url: https://www.youtube.com/watch?v=An7RWSuZ8LE
 tags: []
+topics: []
 transcript: false
 ---
 

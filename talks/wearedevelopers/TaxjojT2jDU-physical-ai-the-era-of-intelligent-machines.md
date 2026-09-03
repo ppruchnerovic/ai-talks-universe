@@ -4,7 +4,7 @@ title: "Physical AI: The Era of Intelligent Machines"
 slug: physical-ai-the-era-of-intelligent-machines
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Dr. Ramin Hasani", "Vinesh Sukumar", "Zohar Fox", "Clemens Wasner"]
@@ -15,6 +15,7 @@ video_id: TaxjojT2jDU
 url: https://www.youtube.com/watch?v=TaxjojT2jDU
 youtube_url: https://www.youtube.com/watch?v=TaxjojT2jDU
 tags: ["Emerging Technologies"]
+topics: []
 transcript: true
 ---
 

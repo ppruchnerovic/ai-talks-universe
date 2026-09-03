@@ -4,7 +4,7 @@ title: "A Local-First Approach to Extremely Fast Streaming Visualization"
 slug: a-local-first-approach-to-extremely-fast-streaming
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Parham Parvizi"]
@@ -15,6 +15,7 @@ video_id: S5upxdqT76Y
 url: https://www.youtube.com/watch?v=S5upxdqT76Y
 youtube_url: https://www.youtube.com/watch?v=S5upxdqT76Y
 tags: ["WASM", "streaming visualization", "ChatGPT", "artificial intelligence", "machine learning", "data visualization", "real time charts", "web development", "local first", "browser analytics", "WebAssembly", "DuckDB", "Python tutorial", "client side computing", "edge computing", "portable applications", "high performance web apps", "streaming data visualization", "interactive dashboards", "real time analytics", "browser based analytics"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Wanted: A Silver Bullet MLOps Solution for Enterprise"
 slug: wanted-a-silver-bullet-mlops-solution-for-enterprise
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Muller Mu"]
@@ -15,6 +15,7 @@ video_id: xGzkqSKy4IU
 url: https://www.youtube.com/watch?v=xGzkqSKy4IU
 youtube_url: https://www.youtube.com/watch?v=xGzkqSKy4IU
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

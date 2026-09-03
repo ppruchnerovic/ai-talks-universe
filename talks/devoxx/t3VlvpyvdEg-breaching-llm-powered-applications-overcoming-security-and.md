@@ -4,7 +4,7 @@ title: "Breaching LLM Powered Applications: Overcoming Security and Privacy Chal
 slug: breaching-llm-powered-applications-overcoming-security-and
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Brian Vermeer"]
@@ -15,6 +15,7 @@ video_id: t3VlvpyvdEg
 url: https://www.youtube.com/watch?v=t3VlvpyvdEg
 youtube_url: https://www.youtube.com/watch?v=t3VlvpyvdEg
 tags: []
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

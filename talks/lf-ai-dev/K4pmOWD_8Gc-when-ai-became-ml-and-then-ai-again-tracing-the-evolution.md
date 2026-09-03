@@ -4,7 +4,7 @@ title: "When AI Became ML, and then AI Again: Tracing the Evolution of Terms and
 slug: when-ai-became-ml-and-then-ai-again-tracing-the-evolution
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Marcus Eagan"]
@@ -15,6 +15,7 @@ video_id: K4pmOWD_8Gc
 url: https://www.youtube.com/watch?v=K4pmOWD_8Gc
 youtube_url: https://www.youtube.com/watch?v=K4pmOWD_8Gc
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

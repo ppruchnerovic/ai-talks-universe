@@ -4,7 +4,7 @@ title: "GenAI Project | Conference Welcome with Scott Clinton"
 slug: genai-project-conference-welcome-with-scott-clinton
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5ACQEP0ZKX0
 url: https://www.youtube.com/watch?v=5ACQEP0ZKX0
 youtube_url: https://www.youtube.com/watch?v=5ACQEP0ZKX0
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

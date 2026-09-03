@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Spec-driven development: Shaping the next generatio
 slug: aws-re-invent-2025-spec-driven-development-shaping-the-next
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: p0BLnE9CJcA
 url: https://www.youtube.com/watch?v=p0BLnE9CJcA
 youtube_url: https://www.youtube.com/watch?v=p0BLnE9CJcA
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

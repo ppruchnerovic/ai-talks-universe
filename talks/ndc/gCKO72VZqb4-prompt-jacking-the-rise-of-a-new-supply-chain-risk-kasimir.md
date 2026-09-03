@@ -4,7 +4,7 @@ title: "Prompt-Jacking: The Rise of a New Supply Chain Risk - Kasimir Schulz & K
 slug: prompt-jacking-the-rise-of-a-new-supply-chain-risk-kasimir
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Kasimir Schulz", "Kenneth Yeung"]
@@ -15,6 +15,7 @@ video_id: gCKO72VZqb4
 url: https://www.youtube.com/watch?v=gCKO72VZqb4
 youtube_url: https://www.youtube.com/watch?v=gCKO72VZqb4
 tags: ["AI", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Norway", "Kenneth Yeung", "Kasimir Schulz"]
+topics: ["Coding assistants & agents", "Prompting & context engineering", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

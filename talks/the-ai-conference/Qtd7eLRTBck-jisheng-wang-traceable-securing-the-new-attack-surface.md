@@ -4,7 +4,7 @@ title: "Jisheng Wang, Traceable: Securing the New Attack Surface"
 slug: jisheng-wang-traceable-securing-the-new-attack-surface
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Qtd7eLRTBck
 url: https://www.youtube.com/watch?v=Qtd7eLRTBck
 youtube_url: https://www.youtube.com/watch?v=Qtd7eLRTBck
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

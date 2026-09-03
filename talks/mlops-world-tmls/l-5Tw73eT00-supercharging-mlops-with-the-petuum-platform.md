@@ -4,7 +4,7 @@ title: "Supercharging MLOps with the Petuum Platform"
 slug: supercharging-mlops-with-the-petuum-platform
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Aurick Qiao"]
@@ -15,6 +15,7 @@ video_id: l-5Tw73eT00
 url: https://www.youtube.com/watch?v=l-5Tw73eT00
 youtube_url: https://www.youtube.com/watch?v=l-5Tw73eT00
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Why We Killed Our Multi-Agent Pipeline — Subbiah Sethuraman and Abhila
 slug: why-we-killed-our-multi-agent-pipeline-subbiah-sethuraman
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Subbiah Sethuraman", "Abhilash Asokan"]
@@ -15,6 +15,7 @@ video_id: u6jJcIFDLE4
 url: https://www.youtube.com/watch?v=u6jJcIFDLE4
 youtube_url: https://www.youtube.com/watch?v=u6jJcIFDLE4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

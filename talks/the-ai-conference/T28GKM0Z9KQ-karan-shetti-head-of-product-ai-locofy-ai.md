@@ -4,7 +4,7 @@ title: "Karan Shetti, Head of Product & AI, Locofy.ai"
 slug: karan-shetti-head-of-product-ai-locofy-ai
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: T28GKM0Z9KQ
 url: https://www.youtube.com/watch?v=T28GKM0Z9KQ
 youtube_url: https://www.youtube.com/watch?v=T28GKM0Z9KQ
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Optimizing LLM Inference for the Rest of Us - Abdel Sghiouar, Google"
 slug: optimizing-llm-inference-for-the-rest-of-us-abdel-sghiouar
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Abdel Sghiouar"]
@@ -15,6 +15,7 @@ video_id: xLum3amp6h0
 url: https://www.youtube.com/watch?v=xLum3amp6h0
 youtube_url: https://www.youtube.com/watch?v=xLum3amp6h0
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

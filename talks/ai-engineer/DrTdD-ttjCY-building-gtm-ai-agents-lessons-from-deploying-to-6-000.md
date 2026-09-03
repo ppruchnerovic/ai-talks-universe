@@ -4,7 +4,7 @@ title: "Building GTM AI Agents: Lessons from Deploying to 6,000 Users — Sait I
 slug: building-gtm-ai-agents-lessons-from-deploying-to-6-000
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sait Izmit"]
@@ -15,6 +15,7 @@ video_id: DrTdD-ttjCY
 url: https://www.youtube.com/watch?v=DrTdD-ttjCY
 youtube_url: https://www.youtube.com/watch?v=DrTdD-ttjCY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

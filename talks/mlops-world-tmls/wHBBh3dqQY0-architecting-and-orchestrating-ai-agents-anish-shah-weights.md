@@ -4,7 +4,7 @@ title: "Architecting and Orchestrating AI Agents | Anish Shah, Weights & Biases"
 slug: architecting-and-orchestrating-ai-agents-anish-shah-weights
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Anish Shah"]
@@ -15,6 +15,7 @@ video_id: wHBBh3dqQY0
 url: https://www.youtube.com/watch?v=wHBBh3dqQY0
 youtube_url: https://www.youtube.com/watch?v=wHBBh3dqQY0
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: false
 ---
 

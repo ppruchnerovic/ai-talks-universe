@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - The Next Cyber Frontier: AI, Fans, and Global Platf
 slug: aws-re-invent-2025-the-next-cyber-frontier-ai-fans-and
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: NrpAFbYYzak
 url: https://www.youtube.com/watch?v=NrpAFbYYzak
 youtube_url: https://www.youtube.com/watch?v=NrpAFbYYzak
 tags: []
+topics: []
 transcript: false
 ---
 

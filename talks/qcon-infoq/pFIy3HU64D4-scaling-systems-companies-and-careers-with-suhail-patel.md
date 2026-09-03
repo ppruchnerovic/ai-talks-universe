@@ -4,7 +4,7 @@ title: "Scaling Systems, Companies, and Careers with Suhail Patel"
 slug: scaling-systems-companies-and-careers-with-suhail-patel
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: pFIy3HU64D4
 url: https://www.youtube.com/watch?v=pFIy3HU64D4
 youtube_url: https://www.youtube.com/watch?v=pFIy3HU64D4
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Luke Kim: The Agent Data Stack—Why Every AI Agent Nee
 slug: ai-dev-26-x-sf-luke-kim-the-agent-data-stackwhy-every-ai
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: ycKLqk5tezw
 url: https://www.youtube.com/watch?v=ycKLqk5tezw
 youtube_url: https://www.youtube.com/watch?v=ycKLqk5tezw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

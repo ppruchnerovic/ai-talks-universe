@@ -4,7 +4,7 @@ title: "The Retrieval Layer for Edge AI"
 slug: the-retrieval-layer-for-edge-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Sasha Denisov", "Chadha Sridi"]
@@ -15,6 +15,7 @@ video_id: ZiiBY2HKEvE
 url: https://www.youtube.com/watch?v=ZiiBY2HKEvE
 youtube_url: https://www.youtube.com/watch?v=ZiiBY2HKEvE
 tags: ["AI Engineering", "Edge AI", "Vector Databases"]
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

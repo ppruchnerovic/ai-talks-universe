@@ -4,7 +4,7 @@ title: "A Guide for Start ups; How to Scale a PoC to Production System and Not G
 slug: a-guide-for-start-ups-how-to-scale-a-poc-to-production
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Maia Brenner"]
@@ -15,6 +15,7 @@ video_id: QJC6m-mfuxo
 url: https://www.youtube.com/watch?v=QJC6m-mfuxo
 youtube_url: https://www.youtube.com/watch?v=QJC6m-mfuxo
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

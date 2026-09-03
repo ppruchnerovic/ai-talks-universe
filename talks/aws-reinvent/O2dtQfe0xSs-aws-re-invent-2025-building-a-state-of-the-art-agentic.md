@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Building a State of the Art Agentic Infrastructure 
 slug: aws-re-invent-2025-building-a-state-of-the-art-agentic
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: O2dtQfe0xSs
 url: https://www.youtube.com/watch?v=O2dtQfe0xSs
 youtube_url: https://www.youtube.com/watch?v=O2dtQfe0xSs
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

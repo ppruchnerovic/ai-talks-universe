@@ -4,7 +4,7 @@ title: "Allison Ding - Scaling Data Processing for LLMs with NeMo Curator - PyDa
 slug: allison-ding-scaling-data-processing-for-llms-with-nemo
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Allison Ding"]
@@ -15,6 +15,7 @@ video_id: YNgmNquLBWw
 url: https://www.youtube.com/watch?v=YNgmNquLBWw
 youtube_url: https://www.youtube.com/watch?v=YNgmNquLBWw
 tags: []
+topics: []
 transcript: false
 ---
 

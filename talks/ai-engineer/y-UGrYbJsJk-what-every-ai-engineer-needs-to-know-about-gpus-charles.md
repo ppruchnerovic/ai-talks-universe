@@ -4,7 +4,7 @@ title: "What every AI engineer needs to know about GPUs — Charles Frye, Modal"
 slug: what-every-ai-engineer-needs-to-know-about-gpus-charles
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Charles Frye"]
@@ -15,6 +15,7 @@ video_id: y-UGrYbJsJk
 url: https://www.youtube.com/watch?v=y-UGrYbJsJk
 youtube_url: https://www.youtube.com/watch?v=y-UGrYbJsJk
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

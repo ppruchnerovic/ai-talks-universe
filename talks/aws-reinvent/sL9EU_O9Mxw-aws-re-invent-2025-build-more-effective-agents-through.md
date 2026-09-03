@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Build more effective agents through model customiza
 slug: aws-re-invent-2025-build-more-effective-agents-through
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: sL9EU_O9Mxw
 url: https://www.youtube.com/watch?v=sL9EU_O9Mxw
 youtube_url: https://www.youtube.com/watch?v=sL9EU_O9Mxw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

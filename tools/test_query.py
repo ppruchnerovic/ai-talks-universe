@@ -170,5 +170,71 @@ check("an InfoQ id is tried longest prefix first",
 check("a plain id needs no file name", E.ids_in_filename("dQw4w9WgXcQ") == ["dQw4w9WgXcQ"],
       E.ids_in_filename("dQw4w9WgXcQ"))
 
+print("\n-- filters: --topic joins the facet table --")
+f = Q.build_filters(topic=["RAG, retrieval & knowledge"])
+check("--topic tests membership in talk_topics, not a column",
+      "SELECT talk_n FROM talk_topics WHERE topic IN (:topic0)" in f.clause
+      and f.params == {"topic0": "RAG, retrieval & knowledge"}, f.clause)
+f = Q.build_filters(topic=["a", "b"], category=["c"])
+check("several topics are OR-ed inside one IN, and stack with the other filters",
+      f.clause.count("talk_topics") == 1 and ":topic1" in f.clause and "t.category IN" in f.clause,
+      f.clause)
+check("no topic, no clause", Q.build_filters(topic=[]).clause == "")
+
+# resolve() reads the facet from the database, so a throwaway one with the
+# two tables it asks about — a corpus of three talks and four topics.
+import sqlite3
+con = sqlite3.connect(":memory:")
+con.executescript("""
+CREATE TABLE talks (n INTEGER PRIMARY KEY, conference TEXT, conference_name TEXT,
+                    category TEXT, year INTEGER);
+CREATE TABLE talk_topics (talk_n INTEGER, topic TEXT);
+INSERT INTO talks VALUES (1, 'ai-engineer', 'AI Engineer', 'Practitioner AI conferences', 2026),
+                         (2, 'microsoft-build', 'Microsoft Build', 'Vendor events', 2026),
+                         (3, 'pydata', 'PyData', 'General software conferences', 2025);
+INSERT INTO talk_topics VALUES (1, 'Evals, observability & reliability'), (1, 'Agents & orchestration'),
+                               (2, 'Agents & orchestration'), (2, 'Coding assistants & agents'),
+                               (2, 'AI in the SDLC & engineering orgs'), (3, 'Data engineering & MLOps'),
+                               (3, 'Classic ML & data science');
+""")
+print("\n-- --topic resolution: case, separators, one word of a label --")
+check("--list-topics counts talks per topic",
+      Q.facet(con, "topic") == [("AI in the SDLC & engineering orgs", "AI in the SDLC & engineering orgs", 1),
+                                ("Agents & orchestration", "Agents & orchestration", 2),
+                                ("Classic ML & data science", "Classic ML & data science", 1),
+                                ("Coding assistants & agents", "Coding assistants & agents", 1),
+                                ("Data engineering & MLOps", "Data engineering & MLOps", 1),
+                                ("Evals, observability & reliability", "Evals, observability & reliability", 1)],
+      repr(Q.facet(con, "topic")))
+check("the exact name resolves", Q.resolve(con, "topic", "Agents & orchestration", None) == "Agents & orchestration")
+check("case and separators do not matter",
+      Q.resolve(con, "topic", "agents-ORCHESTRATION", None) == "Agents & orchestration")
+check("one word of the label resolves when only one topic has it",
+      Q.resolve(con, "topic", "evals", None) == "Evals, observability & reliability")
+check("…and for a conference too", Q.resolve(con, "conference", "build", None) == "microsoft-build")
+check("…and for a conference type: the word that names the venue",
+      Q.resolve(con, "category", "vendor", None) == "Vendor events"
+      and Q.resolve(con, "category", "software", None) == "General software conferences")
+try:
+    Q.resolve(con, "category", "conferences", "--list-categories")
+    check("a word every conference type shares does not resolve", False)
+except SystemExit as e:
+    check("a word every conference type shares does not resolve", "matches nothing" in str(e), str(e))
+check("a word two topics share resolves to the one it heads",
+      Q.resolve(con, "topic", "agents", None) == "Agents & orchestration"
+      and Q.resolve(con, "topic", "data", None) == "Data engineering & MLOps")
+try:
+    Q.resolve(con, "topic", "engineering", "--list-topics")
+    check("a word two topics share and neither heads does not resolve", False)
+except SystemExit as e:
+    check("a word two topics share and neither heads does not resolve", "matches nothing" in str(e), str(e))
+    check("…and the error names the listing flag", "--list-topics" in str(e), str(e))
+try:
+    Q.resolve(con, "topic", "observabilty", "--list-topics")
+    check("a near miss is refused with a suggestion", False)
+except SystemExit as e:
+    check("a near miss is refused with a suggestion",
+          "did you mean" in str(e) and "Evals" in str(e), str(e))
+
 print("\n" + (f"{len(FAILS)} FAILED: {FAILS}" if FAILS else "all checks passed"))
 sys.exit(1 if FAILS else 0)

@@ -4,7 +4,7 @@ title: "How I used AI voice to help me play Magic: The Gathering - Michelle “M
 slug: how-i-used-ai-voice-to-help-me-play-magic-the-gathering
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: hP-Zo9yODqo
 url: https://www.youtube.com/watch?v=hP-Zo9yODqo
 youtube_url: https://www.youtube.com/watch?v=hP-Zo9yODqo
 tags: ["AI", "Machine Learning", "ML", "NDC", "Conferences", "2025", "Live", "Fun", "London", "England", "UK", "United Kingdom", "Michelle “MishManners” Duke", "Mish Manners", "Michelle Duke", "Michelle Manners"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

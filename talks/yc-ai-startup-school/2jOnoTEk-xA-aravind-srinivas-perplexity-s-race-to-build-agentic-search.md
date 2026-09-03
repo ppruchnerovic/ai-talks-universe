@@ -4,7 +4,7 @@ title: "Aravind Srinivas: Perplexity's Race to Build Agentic Search"
 slug: aravind-srinivas-perplexity-s-race-to-build-agentic-search
 conference: yc-ai-startup-school
 conference_name: "Y Combinator AI Startup School"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Startup School 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2jOnoTEk-xA
 url: https://www.youtube.com/watch?v=2jOnoTEk-xA
 youtube_url: https://www.youtube.com/watch?v=2jOnoTEk-xA
 tags: ["YC", "Y Combinator"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

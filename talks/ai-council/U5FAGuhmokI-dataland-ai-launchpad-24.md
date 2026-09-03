@@ -4,7 +4,7 @@ title: "Dataland | AI Launchpad '24"
 slug: dataland-ai-launchpad-24
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Arthur Wu"]
@@ -15,6 +15,7 @@ video_id: U5FAGuhmokI
 url: https://www.youtube.com/watch?v=U5FAGuhmokI
 youtube_url: https://www.youtube.com/watch?v=U5FAGuhmokI
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

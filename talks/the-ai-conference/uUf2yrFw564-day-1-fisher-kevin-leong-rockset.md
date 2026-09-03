@@ -4,7 +4,7 @@ title: "Day 1 Fisher Kevin Leong Rockset"
 slug: day-1-fisher-kevin-leong-rockset
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: uUf2yrFw564
 url: https://www.youtube.com/watch?v=uUf2yrFw564
 youtube_url: https://www.youtube.com/watch?v=uUf2yrFw564
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Mastering the Hex: A Case Study in Reinforcement Learning for Strategy G
 slug: mastering-the-hex-a-case-study-in-reinforcement-learning
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Simon Hedrich"]
@@ -15,6 +15,7 @@ video_id: Cp2KOlwDix8
 url: https://www.youtube.com/watch?v=Cp2KOlwDix8
 youtube_url: https://www.youtube.com/watch?v=Cp2KOlwDix8
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

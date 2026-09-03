@@ -4,7 +4,7 @@ title: "90% of Engineering Leaders Scale Tech But Fail the Humans"
 slug: 90-of-engineering-leaders-scale-tech-but-fail-the-humans
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: G1VxUFeSboM
 url: https://www.youtube.com/watch?v=G1VxUFeSboM
 youtube_url: https://www.youtube.com/watch?v=G1VxUFeSboM
 tags: ["InfoQ Dev Summit", "InfoQ", "Transcript", "Culture", "Agile", "Scaling", "Scalability", "Teamwork", "Performance", "Software Engineering", "Software Leadership", "Psychological Safety", "Tech Lead"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "The Downside of AI Coding No One Talks About"
 slug: the-downside-of-ai-coding-no-one-talks-about
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Yw6P8cef7RE
 url: https://www.youtube.com/watch?v=Yw6P8cef7RE
 youtube_url: https://www.youtube.com/watch?v=Yw6P8cef7RE
 tags: ["AI Native DevCon", "AI Native DevCon event", "AI coding", "AI coding evolution", "AI integration", "Claude Code", "Claude Code tools", "DevOps", "DevOps in AI", "Meta engineers", "agent enablement", "ainativedev", "context engineering", "how to manage AI agents", "software development lifecycle"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Prompting & context engineering"]
 transcript: true
 ---
 

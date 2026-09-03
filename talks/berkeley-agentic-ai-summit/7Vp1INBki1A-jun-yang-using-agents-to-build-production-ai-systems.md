@@ -4,7 +4,7 @@ title: "Jun Yang - Using Agents to Build Production AI Systems: Lessons, Pitfall
 slug: jun-yang-using-agents-to-build-production-ai-systems
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Jun Yang"]
@@ -15,6 +15,7 @@ video_id: 7Vp1INBki1A
 url: https://www.youtube.com/watch?v=7Vp1INBki1A
 youtube_url: https://www.youtube.com/watch?v=7Vp1INBki1A
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

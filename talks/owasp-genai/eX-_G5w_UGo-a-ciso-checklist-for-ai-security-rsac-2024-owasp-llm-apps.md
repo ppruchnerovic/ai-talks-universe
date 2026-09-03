@@ -4,7 +4,7 @@ title: "A CISO Checklist For AI Security - #RSAC 2024 OWASP LLM Apps Top 10 Gene
 slug: a-ciso-checklist-for-ai-security-rsac-2024-owasp-llm-apps
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: eX-_G5w_UGo
 url: https://www.youtube.com/watch?v=eX-_G5w_UGo
 youtube_url: https://www.youtube.com/watch?v=eX-_G5w_UGo
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

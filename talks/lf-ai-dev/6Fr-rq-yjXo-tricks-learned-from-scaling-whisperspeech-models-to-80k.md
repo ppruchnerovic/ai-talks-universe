@@ -4,7 +4,7 @@ title: "Tricks Learned from Scaling WhisperSpeech Models to 80k+ Hours of Speech
 slug: tricks-learned-from-scaling-whisperspeech-models-to-80k
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6Fr-rq-yjXo
 url: https://www.youtube.com/watch?v=6Fr-rq-yjXo
 youtube_url: https://www.youtube.com/watch?v=6Fr-rq-yjXo
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

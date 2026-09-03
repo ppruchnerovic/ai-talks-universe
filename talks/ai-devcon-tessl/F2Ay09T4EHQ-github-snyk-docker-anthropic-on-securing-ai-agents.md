@@ -4,7 +4,7 @@ title: "GitHub, Snyk, Docker & Anthropic on Securing AI Agents"
 slug: github-snyk-docker-anthropic-on-securing-ai-agents
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: F2Ay09T4EHQ
 url: https://www.youtube.com/watch?v=F2Ay09T4EHQ
 youtube_url: https://www.youtube.com/watch?v=F2Ay09T4EHQ
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

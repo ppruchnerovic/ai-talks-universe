@@ -4,7 +4,7 @@ title: "SaTML 2023 - Keith Manville and Deepesh Chaudhari - Model Attribution Ch
 slug: satml-2023-keith-manville-and-deepesh-chaudhari-model
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Keith Manville", "Deepesh Chaudhari"]
@@ -15,6 +15,7 @@ video_id: d-f-elaiIt8
 url: https://www.youtube.com/watch?v=d-f-elaiIt8
 youtube_url: https://www.youtube.com/watch?v=d-f-elaiIt8
 tags: []
+topics: []
 transcript: false
 ---
 

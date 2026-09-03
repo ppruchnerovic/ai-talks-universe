@@ -4,7 +4,7 @@ title: "Data Culture 2.0: Leveraging AI to Build Human Connections and Expand Yo
 slug: data-culture-2-0-leveraging-ai-to-build-human-connections
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Celina Wong"]
@@ -15,6 +15,7 @@ video_id: xAFqjek3g34
 url: https://www.youtube.com/watch?v=xAFqjek3g34
 youtube_url: https://www.youtube.com/watch?v=xAFqjek3g34
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

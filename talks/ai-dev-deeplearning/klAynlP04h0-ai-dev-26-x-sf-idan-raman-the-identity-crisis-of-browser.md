@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Idan Raman: The Identity Crisis of Browser Agents"
 slug: ai-dev-26-x-sf-idan-raman-the-identity-crisis-of-browser
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: klAynlP04h0
 url: https://www.youtube.com/watch?v=klAynlP04h0
 youtube_url: https://www.youtube.com/watch?v=klAynlP04h0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

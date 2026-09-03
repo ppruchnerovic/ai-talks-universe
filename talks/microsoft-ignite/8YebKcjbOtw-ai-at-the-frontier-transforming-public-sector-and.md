@@ -4,7 +4,7 @@ title: "AI at the Frontier: Transforming Public Sector and Healthcare | STUDIO44
 slug: ai-at-the-frontier-transforming-public-sector-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Cornelis Hertogh"]
@@ -15,6 +15,7 @@ video_id: 8YebKcjbOtw
 url: https://www.youtube.com/watch?v=8YebKcjbOtw
 youtube_url: https://www.youtube.com/watch?v=8YebKcjbOtw
 tags: ["AI at the Frontier: Transforming Public Sector and Healthcare | STUDIO44", "Cornelis Hertogh", "English (US)", "Other", "STUDIO44", "STUDIO44_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

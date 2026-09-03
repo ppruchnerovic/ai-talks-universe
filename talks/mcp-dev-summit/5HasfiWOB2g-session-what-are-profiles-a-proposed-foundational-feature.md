@@ -4,7 +4,7 @@ title: "[Session] What are Profiles? A Proposed Foundational Feature of MCP Serv
 slug: session-what-are-profiles-a-proposed-foundational-feature
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5HasfiWOB2g
 url: https://www.youtube.com/watch?v=5HasfiWOB2g
 youtube_url: https://www.youtube.com/watch?v=5HasfiWOB2g
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

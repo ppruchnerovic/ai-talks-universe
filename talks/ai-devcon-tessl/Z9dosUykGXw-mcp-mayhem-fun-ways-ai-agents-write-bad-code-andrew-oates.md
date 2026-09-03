@@ -4,7 +4,7 @@ title: "​MCP Mayhem: Fun Ways AI Agents Write Bad Code - Andrew Oates"
 slug: mcp-mayhem-fun-ways-ai-agents-write-bad-code-andrew-oates
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Andrew Oates"]
@@ -15,6 +15,7 @@ video_id: Z9dosUykGXw
 url: https://www.youtube.com/watch?v=Z9dosUykGXw
 youtube_url: https://www.youtube.com/watch?v=Z9dosUykGXw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

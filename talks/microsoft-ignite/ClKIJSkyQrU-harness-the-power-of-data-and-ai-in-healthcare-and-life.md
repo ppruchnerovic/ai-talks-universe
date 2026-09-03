@@ -4,7 +4,7 @@ title: "Harness the power of data and AI in healthcare and life sciences | BRK25
 slug: harness-the-power-of-data-and-ai-in-healthcare-and-life
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["David Ardman", "Will Guyman", "Miriam Ney"]
@@ -15,6 +15,7 @@ video_id: ClKIJSkyQrU
 url: https://www.youtube.com/watch?v=ClKIJSkyQrU
 youtube_url: https://www.youtube.com/watch?v=ClKIJSkyQrU
 tags: ["AI", "Azure", "Azure AI Studio", "BRK256", "Copilot", "Copilot workflows", "Custom copilot(s)", "Harness the power of data and AI in healthcare and life sciences | BRK256", "Healthcare", "Healthcare data", "Healthcare data solutions", "Industry", "Industry-Curated", "MicrosoftFabric", "Software Company", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

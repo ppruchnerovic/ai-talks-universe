@@ -4,7 +4,7 @@ title: "Lightning Talk: FlexCP: FlexAttention for Long Sequence Training... - Xi
 slug: lightning-talk-flexcp-flexattention-for-long-sequence
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fxvR3K5CV_A
 url: https://www.youtube.com/watch?v=fxvR3K5CV_A
 youtube_url: https://www.youtube.com/watch?v=fxvR3K5CV_A
 tags: []
+topics: []
 transcript: false
 ---
 

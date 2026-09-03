@@ -4,7 +4,7 @@ title: "This is AGI: Sequoia AI Ascent 2026 Keynote"
 slug: this-is-agi-sequoia-ai-ascent-2026-keynote
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: LRo33rnv6rQ
 url: https://www.youtube.com/watch?v=LRo33rnv6rQ
 youtube_url: https://www.youtube.com/watch?v=LRo33rnv6rQ
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Building a Custom AI Chatbot with Spring Boot, React, and LangChain4j - 
 slug: building-a-custom-ai-chatbot-with-spring-boot-react-and
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Marcus Hellberg"]
@@ -15,6 +15,7 @@ video_id: ffNeV4DpNzg
 url: https://www.youtube.com/watch?v=ffNeV4DpNzg
 youtube_url: https://www.youtube.com/watch?v=ffNeV4DpNzg
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Memory Harnesses for Long-Running Research Agents — Stefania Druga, Sa
 slug: memory-harnesses-for-long-running-research-agents-stefania
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Stefania Druga"]
@@ -15,6 +15,7 @@ video_id: R3-anFK1YM8
 url: https://www.youtube.com/watch?v=R3-anFK1YM8
 youtube_url: https://www.youtube.com/watch?v=R3-anFK1YM8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

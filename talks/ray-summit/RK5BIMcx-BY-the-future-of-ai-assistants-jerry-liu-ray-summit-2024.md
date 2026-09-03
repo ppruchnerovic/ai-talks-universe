@@ -4,7 +4,7 @@ title: "The Future of AI Assistants: Jerry Liu | Ray Summit 2024"
 slug: the-future-of-ai-assistants-jerry-liu-ray-summit-2024
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: RK5BIMcx-BY
 url: https://www.youtube.com/watch?v=RK5BIMcx-BY
 youtube_url: https://www.youtube.com/watch?v=RK5BIMcx-BY
 tags: []
+topics: []
 transcript: false
 ---
 

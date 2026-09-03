@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - AI at the speed of news: Bloomberg Media’s vision
 slug: aws-re-invent-2025-ai-at-the-speed-of-news-bloomberg-medias
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5CkOnwmJkpQ
 url: https://www.youtube.com/watch?v=5CkOnwmJkpQ
 youtube_url: https://www.youtube.com/watch?v=5CkOnwmJkpQ
 tags: []
+topics: []
 transcript: false
 ---
 

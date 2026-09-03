@@ -4,7 +4,7 @@ title: "Become an Agentic Enterprise | Agentforce Keynote, Dreamforce 2025"
 slug: become-an-agentic-enterprise-agentforce-keynote-dreamforce
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: oueQd73JHUA
 url: https://www.youtube.com/watch?v=oueQd73JHUA
 youtube_url: https://www.youtube.com/watch?v=oueQd73JHUA
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

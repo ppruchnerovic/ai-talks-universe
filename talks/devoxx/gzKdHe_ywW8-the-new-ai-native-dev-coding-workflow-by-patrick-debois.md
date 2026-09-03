@@ -4,7 +4,7 @@ title: "The New AI Native Dev Coding Workflow by Patrick Debois"
 slug: the-new-ai-native-dev-coding-workflow-by-patrick-debois
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Patrick Debois"]
@@ -15,6 +15,7 @@ video_id: gzKdHe_ywW8
 url: https://www.youtube.com/watch?v=gzKdHe_ywW8
 youtube_url: https://www.youtube.com/watch?v=gzKdHe_ywW8
 tags: []
+topics: []
 transcript: false
 ---
 

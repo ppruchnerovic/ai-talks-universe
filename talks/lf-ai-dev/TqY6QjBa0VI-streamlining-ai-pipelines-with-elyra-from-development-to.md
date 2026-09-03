@@ -4,7 +4,7 @@ title: "Streamlining AI Pipelines With Elyra: From Development To Inference With
 slug: streamlining-ai-pipelines-with-elyra-from-development-to
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Ritesh Shah"]
@@ -15,6 +15,7 @@ video_id: TqY6QjBa0VI
 url: https://www.youtube.com/watch?v=TqY6QjBa0VI
 youtube_url: https://www.youtube.com/watch?v=TqY6QjBa0VI
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

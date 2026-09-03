@@ -4,7 +4,7 @@ title: "Sponsored Session: Lightning Talk: Per-iteration PyTorch Visibility... -
 slug: sponsored-session-lightning-talk-per-iteration-pytorch
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1IQxX2R2rzI
 url: https://www.youtube.com/watch?v=1IQxX2R2rzI
 youtube_url: https://www.youtube.com/watch?v=1IQxX2R2rzI
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

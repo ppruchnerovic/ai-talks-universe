@@ -4,7 +4,7 @@ title: "Architecting for resiliency on Azure Infrastructure | BRK178"
 slug: architecting-for-resiliency-on-azure-infrastructure-brk178
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Eric Henry", "Sudha Mahajan", "Jon Ormond"]
@@ -15,6 +15,7 @@ video_id: I5nYaLQnL1Q
 url: https://www.youtube.com/watch?v=I5nYaLQnL1Q
 youtube_url: https://www.youtube.com/watch?v=I5nYaLQnL1Q
 tags: ["Architecting for resiliency on Azure Infrastructure | BRK178", "BRK178", "English (US)", "Eric Henry", "Jon Ormond", "Migrate and modernize your estate", "Sudha Mahajan", "Technical", "b6782c7e-8340-4a22-b48f-6b66b34d599f_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

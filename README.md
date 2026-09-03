@@ -145,6 +145,72 @@ its host or its brand and dropped. The rule is conservative on purpose:
 false positive lands under every talk that carries it. 55% of talks have a
 speaker; a seeded or InfoQ talk carries the one its programme stated.
 
+### What the talk is about
+
+`category` is a fact about the conference — every talk inherits one of five
+registry labels, and they name the *kind of venue*, not a subject:
+
+| Conference type | talks |
+|---|---:|
+| Practitioner AI conferences | 3,903 |
+| General software conferences | 2,301 |
+| Vendor events | 1,796 |
+| Security conferences | 839 |
+| Business & industry events | 209 |
+
+The browser calls this facet **Conference type**; the field, the CSV column
+and the CLI flag keep the name `category`. A venue label cannot follow a
+subject inside a programme: AI Engineer alone spans agents, evals, RAG,
+inference and coding tools. So each talk also carries `topics`, zero or more
+of fifteen subjects, derived by keyword rules in `tools/atu.py` the way the
+AI-relevance test is:
+
+| Topic | talks |
+|---|---:|
+| Agents & orchestration | 2,456 |
+| Enterprise adoption & strategy | 1,572 |
+| Security, safety & red teaming | 1,314 |
+| Inference, serving & GPU infra | 912 |
+| Classic ML & data science | 908 |
+| Evals, observability & reliability | 828 |
+| Science, healthcare & applied ML | 811 |
+| Governance, ethics & regulation | 679 |
+| Data engineering & MLOps | 602 |
+| Training, fine-tuning & model building | 534 |
+| Coding assistants & agents | 424 |
+| RAG, retrieval & knowledge | 414 |
+| AI in the SDLC & engineering orgs | 409 |
+| Multimodal, vision, speech & robotics | 316 |
+| Prompting & context engineering | 216 |
+
+A phrase in the title is enough on its own; the tags and the description
+together have to say two *different* things about a subject before it
+counts, because matching a description on any one word filed three topics on
+the median talk and "image" or "customer" pulled in whatever said them once.
+Transcripts are deliberately not read — a third of talks have one, and a
+label that moved when a transcript arrived would make the facet drift with
+every fetch. What a whole conference repeats is stripped first: a description
+line under more than a tenth of its talks (PyData's "PyData is an educational
+program of NumFOCUS…"), a tag on more than three tenths of its videos (AI
+Engineer tags every upload `startups`). 7,162 talks carry at least one topic
+and 1,886 none — keynotes, panels, the non-AI half of the WeAreDevelopers
+programme, and 613 talks with no description at all. The rule is precise
+rather than generous on purpose, and `sync_catalog.py` prints the
+distribution on every run so a phrase that starts firing on boilerplate is
+seen in the run that did it. Topics enter no ranker: they narrow a search,
+they never reorder one. Neither does the conference type, since 2026-09-02
+in the browser and from the start in the CLI: a venue label is not evidence
+about a talk.
+
+The two facets cross rather than nest, which is why both are kept. Only 577
+of the 1,314 talks on *Security, safety & red teaming* were given at a
+security conference; 276 were at general software conferences and 219 at
+vendor events. Inside the security conferences, 122 talks are on *Agents &
+orchestration* and 84 on *Governance, ethics & regulation*. "What do
+security-conference speakers say about agents" and "what do vendor keynotes
+say about security" are different questions, and only the two facets
+together can ask either.
+
 ## Layout
 
 ```
@@ -182,6 +248,7 @@ speaker; a seeded or InfoQ talk carries the one its programme stated.
     ├── test_query.py              offline checks for the query parser and id resolution
     ├── test_infoq.py              offline checks for the InfoQ fold-in
     ├── test_speakers.py           offline checks for the speaker extraction
+    ├── test_topics.py             offline checks for the topic rules and the boilerplate filter
     ├── test_stem.py               the Python and JavaScript stemmers agree
     └── uitest/                    browser tests for index.html
 ```
@@ -202,8 +269,9 @@ of them are generated from the same run.
 
 ### In a browser
 
-<https://ppruchnerovic.github.io/ai-talks-universe/> — type a topic, filter by
-conference, category or year, sort by relevance / newest / title, and click
+<https://ppruchnerovic.github.io/ai-talks-universe/> — type a subject, filter
+by conference, conference type, topic or year, sort by relevance / newest / title,
+click a topic chip on a card to filter to that topic, and click
 **Find this in the talk** to jump to the exact seconds where a phrase is
 spoken. That link only appears for talks that have a transcript, and only once
 you have searched for something, since what it finds are the moments matching
@@ -253,7 +321,9 @@ caption source mislabelled.
 ```bash
 cd tools
 python3 query.py "context engineering"
-python3 query.py "prompt injection" --category "AI security" -n 20
+python3 query.py "prompt injection" --category security -n 20   # the venue: one word suffices
+python3 query.py "memory" --topic agents             # vs --topic rag: a different question
+python3 query.py "agents" --category security --topic agents   # what security conferences say about agents
 python3 query.py "agents in production" --conference langchain-interrupt
 python3 query.py "evals" --year 2026 --json          # for scripts and agents
 python3 query.py "agent memory" -n 6 --excerpt      # the list, then what each hit says
@@ -274,12 +344,17 @@ talk says at all is dropped first, then the commonest, one at a time, and
 stderr says which — so a question with a typo in it costs the typo, not the
 question.
 
-`--conference`, `--category` and `--year` are repeatable, case- and
-separator-insensitive and suggest near misses; `--min-year` takes a year
-onwards; `--transcript` keeps only talks that can be quoted;
-`--list-conferences` and `--list-categories` print the valid values. `--stats`
-prints what the corpus is — talks, transcripts, conferences, per year and per
-conference — from the index rather than from anyone's memory. `--brief` drops
+`--conference`, `--category`, `--topic` and `--year` are repeatable, case- and
+separator-insensitive and suggest near misses, and one word of a label is
+enough when it names exactly one value (`--topic evals`, `--conference
+build`, `--category vendor`; `--topic agents` is *Agents & orchestration*,
+the label it heads, not *Coding assistants & agents*); `--category` is the
+conference type, the kind of venue, and `--topic` what the talk is about;
+`--min-year` takes a year onwards;
+`--transcript` keeps only talks that can be quoted; `--list-conferences`,
+`--list-categories` and `--list-topics` print the valid values. `--stats`
+prints what the corpus is — talks, transcripts, conferences, per year, per
+conference and per topic — from the index rather than from anyone's memory. `--brief` drops
 the fields and the extra transcript moments that help you *read* a result but
 not *choose* one, which is about a fifth of the bytes; `--ids` prints nothing
 but the video ids, to pipe into the next command.
@@ -748,18 +823,25 @@ talk dropped because its proxy was benched costs a fetch nobody notices.
 ```bash
 cd tools && python3 test_query.py                 # ~0.1s, no database
 cd tools && python3 test_speakers.py              # ~0.1s, no corpus
+cd tools && python3 test_topics.py                # ~0.1s, no corpus
 cd tools && python3 test_stem.py                  # ~6s; reads the corpus, runs node if present
 cd tools && python3 test_semantic.py              # ~0.2s; skips its end-to-end block when the layer is absent
 ```
 
 `test_query.py` holds the OR chains the skill recommends, the ids that once
 cut short at a hyphen, the column filters that used to be split at the colon,
-and the synonym expansion both rankers share. `test_semantic.py` covers what
+the synonym expansion both rankers share, and `--topic`'s and `--category`'s
+resolution against a throwaway database. `test_semantic.py` covers what
 the optional layer does on the standard library alone — the staleness rules,
 reciprocal-rank fusion, the pool mapping — so the fallback is tested on a
 machine that never installed it. `test_speakers.py` holds each shape a speaker is
 read from and the false positives the rules exist to stop — a brand or a job
-title in that field ranks under every talk that carries it. `test_stem.py`
+title in that field ranks under every talk that carries it. `test_topics.py`
+does the same for the topic rules: a title each topic must and must not fire
+on, the boundaries that are rules (a bare "enterprise", a bare tool name,
+"prompt injection"), a phrase derived from every pattern that the pattern must
+match, and the boilerplate filter that keeps PyData's channel text from filing
+every PyData talk under one subject. `test_stem.py`
 runs the JavaScript stemmer out of `index.html` under node over every token in
 the corpus and diffs it against the Python one, because a disagreement is a
 silent miss: a shard keyed on one spelling of a stem, a query asking for the
@@ -787,7 +869,7 @@ looks exactly like a search with no results.
 ```bash
 cd tools/uitest
 npm install            # playwright + chromium, ignored by git
-node run.js            # 183 checks, about four minutes
+node run.js            # 192 checks, about four minutes
 node run.js search filters      # just those suites
 ```
 
@@ -799,7 +881,7 @@ and exits non-zero if anything failed. Every check prints what it actually saw.
 | `load` | catalogue loads, filters built from the data, one card end to end |
 | `search` | every field, phrases, prefixes, stems, relaxation, the description tail beyond the clip, the transcript layer, tokenising |
 | `controls` | pagination, description unfold, tag chips, `/` shortcut |
-| `filters` | conference / category / year, the three sorts, Reset, the shareable hash |
+| `filters` | conference / conference type / topic / year, the three sorts, Reset, the shareable hash, topic chips |
 | `moments` | "Find this in the talk" — ranking, deep links, caching |
 | `resilience` | missing data at each layer, hostile queries, a 390px phone |
 | `a11y` | accessible names, keyboard reach, announcements, contrast |

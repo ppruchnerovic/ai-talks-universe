@@ -4,7 +4,7 @@ title: "Scalable Continuous Monitoring for Large scale A/B Experimentation"
 slug: scalable-continuous-monitoring-for-large-scale-a-b
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Chenyu Qiu"]
@@ -15,6 +15,7 @@ video_id: ADaPkGbpp7Y
 url: https://www.youtube.com/watch?v=ADaPkGbpp7Y
 youtube_url: https://www.youtube.com/watch?v=ADaPkGbpp7Y
 tags: ["Uber", "A B testing tutorial", "experimentation platform", "ChatGPT", "artificial intelligence", "machine learning", "data science tutorial", "analytics", "experimentation", "statistics", "product analytics", "continuous monitoring", "statistical inference", "Python tutorial", "large scale experimentation", "multi variate testing", "causal inference", "treatment effect estimation", "network effects", "interference", "randomization strategies", "stratification", "matching"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

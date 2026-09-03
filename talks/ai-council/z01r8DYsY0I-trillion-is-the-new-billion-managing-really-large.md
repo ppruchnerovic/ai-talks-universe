@@ -4,7 +4,7 @@ title: "Trillion is the New Billion: Managing Really Large Multimodal Datasets f
 slug: trillion-is-the-new-billion-managing-really-large
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: z01r8DYsY0I
 url: https://www.youtube.com/watch?v=z01r8DYsY0I
 youtube_url: https://www.youtube.com/watch?v=z01r8DYsY0I
 tags: ["AI"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

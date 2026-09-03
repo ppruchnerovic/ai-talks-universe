@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 -Building Fast, Cost-Efficient, Sovereign Inference P
 slug: aws-re-invent-2025-building-fast-cost-efficient-sovereign
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: kznBgkPNc7M
 url: https://www.youtube.com/watch?v=kznBgkPNc7M
 youtube_url: https://www.youtube.com/watch?v=kznBgkPNc7M
 tags: []
+topics: ["Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

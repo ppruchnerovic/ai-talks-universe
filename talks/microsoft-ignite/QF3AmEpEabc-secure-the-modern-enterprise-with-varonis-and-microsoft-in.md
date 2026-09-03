@@ -4,7 +4,7 @@ title: "Secure the modern enterprise with Varonis and Microsoft in action | STUD
 slug: secure-the-modern-enterprise-with-varonis-and-microsoft-in
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Brian Vecci"]
@@ -15,6 +15,7 @@ video_id: QF3AmEpEabc
 url: https://www.youtube.com/watch?v=QF3AmEpEabc
 youtube_url: https://www.youtube.com/watch?v=QF3AmEpEabc
 tags: ["Brian Vecci", "English (US)", "Protect cloud AI platform and apps", "STUDIOSP62", "STUDIOSP62_v3", "Secure the modern enterprise with Varonis and Microsoft in action | STUDIOSP62", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

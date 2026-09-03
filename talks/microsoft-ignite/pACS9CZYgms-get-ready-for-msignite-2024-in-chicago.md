@@ -4,7 +4,7 @@ title: "Get ready for #MSIgnite 2024 in Chicago!"
 slug: get-ready-for-msignite-2024-in-chicago
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: pACS9CZYgms
 url: https://www.youtube.com/watch?v=pACS9CZYgms
 youtube_url: https://www.youtube.com/watch?v=pACS9CZYgms
 tags: ["Microsoft", "Microsoft Ignite"]
+topics: []
 transcript: false
 ---
 

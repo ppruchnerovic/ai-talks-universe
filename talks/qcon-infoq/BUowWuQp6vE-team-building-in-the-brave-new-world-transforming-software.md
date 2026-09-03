@@ -4,7 +4,7 @@ title: "Team Building in the Brave New World: Transforming Software Engineering 
 slug: team-building-in-the-brave-new-world-transforming-software
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: BUowWuQp6vE
 url: https://www.youtube.com/watch?v=BUowWuQp6vE
 youtube_url: https://www.youtube.com/watch?v=BUowWuQp6vE
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Does AI Actually Boost Developer Productivity? (100k Devs Study) - Yegor
 slug: does-ai-actually-boost-developer-productivity-100k-devs
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: tbDDYKRFjhk
 url: https://www.youtube.com/watch?v=tbDDYKRFjhk
 youtube_url: https://www.youtube.com/watch?v=tbDDYKRFjhk
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

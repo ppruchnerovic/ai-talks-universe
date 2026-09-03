@@ -4,7 +4,7 @@ title: "Workshop: Infrastructure You Can Talk To by SUSE"
 slug: workshop-infrastructure-you-can-talk-to-by-suse
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZNuibU4L8A8
 url: https://www.youtube.com/watch?v=ZNuibU4L8A8
 youtube_url: https://www.youtube.com/watch?v=ZNuibU4L8A8
 tags: []
+topics: []
 transcript: true
 ---
 

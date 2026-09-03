@@ -4,7 +4,7 @@ title: "Reproducible software provisioning for high performance computing & rese
 slug: reproducible-software-provisioning-for-high-performance
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qpKldaSbjeg
 url: https://www.youtube.com/watch?v=qpKldaSbjeg
 youtube_url: https://www.youtube.com/watch?v=qpKldaSbjeg
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: false
 ---
 

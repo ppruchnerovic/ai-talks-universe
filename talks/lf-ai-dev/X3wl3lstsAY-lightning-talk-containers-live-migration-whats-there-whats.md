@@ -4,7 +4,7 @@ title: "Lightning Talk: Containers Live Migration: What’s There, What’s Miss
 slug: lightning-talk-containers-live-migration-whats-there-whats
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: X3wl3lstsAY
 url: https://www.youtube.com/watch?v=X3wl3lstsAY
 youtube_url: https://www.youtube.com/watch?v=X3wl3lstsAY
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Rewriting the People Playbook: Leading HR Through the AI Era | Hanno Ren
 slug: rewriting-the-people-playbook-leading-hr-through-the-ai-era
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Hanno Renner"]
@@ -15,6 +15,7 @@ video_id: wSx3X68CnM4
 url: https://www.youtube.com/watch?v=wSx3X68CnM4
 youtube_url: https://www.youtube.com/watch?v=wSx3X68CnM4
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: []
 transcript: false
 ---
 

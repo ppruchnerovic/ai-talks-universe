@@ -4,7 +4,7 @@ title: "Enabling Lightweight, High-Performance FSDP With NVIDIA GPU - J. Chang C
 slug: enabling-lightweight-high-performance-fsdp-with-nvidia-gpu
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Enabling Lightweight"]
@@ -15,6 +15,7 @@ video_id: EoePOh9bTKs
 url: https://www.youtube.com/watch?v=EoePOh9bTKs
 youtube_url: https://www.youtube.com/watch?v=EoePOh9bTKs
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Dive into Poolside: AI Models for Highly Secure Sof
 slug: aws-re-invent-2025-dive-into-poolside-ai-models-for-highly
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: V7wvTHgZiwg
 url: https://www.youtube.com/watch?v=V7wvTHgZiwg
 youtube_url: https://www.youtube.com/watch?v=V7wvTHgZiwg
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

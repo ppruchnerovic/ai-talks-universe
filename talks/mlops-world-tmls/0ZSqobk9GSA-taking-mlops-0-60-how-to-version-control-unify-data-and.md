@@ -4,7 +4,7 @@ title: "Taking MLOps 0-60: How to Version Control, Unify Data and Manage Code Li
 slug: taking-mlops-0-60-how-to-version-control-unify-data-and
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Jimmy Whitaker"]
@@ -15,6 +15,7 @@ video_id: 0ZSqobk9GSA
 url: https://www.youtube.com/watch?v=0ZSqobk9GSA
 youtube_url: https://www.youtube.com/watch?v=0ZSqobk9GSA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

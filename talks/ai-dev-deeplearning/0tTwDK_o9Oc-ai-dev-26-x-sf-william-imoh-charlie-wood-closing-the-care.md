@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | William Imoh & Charlie Wood: Closing the Care Gap"
 slug: ai-dev-26-x-sf-william-imoh-charlie-wood-closing-the-care
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0tTwDK_o9Oc
 url: https://www.youtube.com/watch?v=0tTwDK_o9Oc
 youtube_url: https://www.youtube.com/watch?v=0tTwDK_o9Oc
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

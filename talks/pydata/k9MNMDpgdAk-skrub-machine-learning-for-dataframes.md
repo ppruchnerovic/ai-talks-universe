@@ -4,7 +4,7 @@ title: "Skrub: machine learning for dataframes"
 slug: skrub-machine-learning-for-dataframes
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: k9MNMDpgdAk
 url: https://www.youtube.com/watch?v=k9MNMDpgdAk
 youtube_url: https://www.youtube.com/watch?v=k9MNMDpgdAk
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

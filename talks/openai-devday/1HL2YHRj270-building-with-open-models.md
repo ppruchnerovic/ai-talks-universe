@@ -4,7 +4,7 @@ title: "Building with Open Models"
 slug: building-with-open-models
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 1HL2YHRj270
 url: https://www.youtube.com/watch?v=1HL2YHRj270
 youtube_url: https://www.youtube.com/watch?v=1HL2YHRj270
 tags: []
+topics: []
 transcript: false
 ---
 

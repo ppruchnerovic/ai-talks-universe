@@ -4,7 +4,7 @@ title: "Pitfall or Opportunity: GenAI Legal Case Studies Revealing Practical Adv
 slug: pitfall-or-opportunity-genai-legal-case-studies-revealing
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0OgXZRl9lJg
 url: https://www.youtube.com/watch?v=0OgXZRl9lJg
 youtube_url: https://www.youtube.com/watch?v=0OgXZRl9lJg
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

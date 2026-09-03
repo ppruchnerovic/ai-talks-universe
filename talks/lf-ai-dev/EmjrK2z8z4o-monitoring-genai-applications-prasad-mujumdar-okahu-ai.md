@@ -4,7 +4,7 @@ title: "Monitoring GenAI Applications - Prasad Mujumdar, Okahu AI"
 slug: monitoring-genai-applications-prasad-mujumdar-okahu-ai
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Prasad Mujumdar"]
@@ -15,6 +15,7 @@ video_id: EmjrK2z8z4o
 url: https://www.youtube.com/watch?v=EmjrK2z8z4o
 youtube_url: https://www.youtube.com/watch?v=EmjrK2z8z4o
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

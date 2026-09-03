@@ -4,7 +4,7 @@ title: "Volcano: Orchestrating the Full AI Lifecycle – From Training To Infere
 slug: volcano-orchestrating-the-full-ai-lifecycle-from-training
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: mzA0yuZ4QuY
 url: https://www.youtube.com/watch?v=mzA0yuZ4QuY
 youtube_url: https://www.youtube.com/watch?v=mzA0yuZ4QuY
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

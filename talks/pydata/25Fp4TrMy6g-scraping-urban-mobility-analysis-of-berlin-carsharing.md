@@ -4,7 +4,7 @@ title: "Scraping urban mobility: analysis of Berlin carsharing"
 slug: scraping-urban-mobility-analysis-of-berlin-carsharing
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Florian König"]
@@ -15,6 +15,7 @@ video_id: 25Fp4TrMy6g
 url: https://www.youtube.com/watch?v=25Fp4TrMy6g
 youtube_url: https://www.youtube.com/watch?v=25Fp4TrMy6g
 tags: ["Berlin", "CCC", "Conference", "PostgreSQL", "PyConDE", "PyData", "PyTorch", "Python", "Tech Talk", "TypeScript", "carsharing", "data scraping", "fleet optimization", "geospatial analysis", "machine learning", "mobility systems", "predictive modeling", "transportation analytics", "urban data science", "urban mobility"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

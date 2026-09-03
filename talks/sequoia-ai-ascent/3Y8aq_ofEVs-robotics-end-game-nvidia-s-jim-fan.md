@@ -4,7 +4,7 @@ title: "Robotics' End Game: Nvidia's Jim Fan"
 slug: robotics-end-game-nvidia-s-jim-fan
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3Y8aq_ofEVs
 url: https://www.youtube.com/watch?v=3Y8aq_ofEVs
 youtube_url: https://www.youtube.com/watch?v=3Y8aq_ofEVs
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

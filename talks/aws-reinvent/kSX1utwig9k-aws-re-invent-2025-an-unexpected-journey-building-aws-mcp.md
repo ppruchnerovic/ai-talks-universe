@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - An unexpected journey building AWS MCP Servers (OPN
 slug: aws-re-invent-2025-an-unexpected-journey-building-aws-mcp
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: kSX1utwig9k
 url: https://www.youtube.com/watch?v=kSX1utwig9k
 youtube_url: https://www.youtube.com/watch?v=kSX1utwig9k
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

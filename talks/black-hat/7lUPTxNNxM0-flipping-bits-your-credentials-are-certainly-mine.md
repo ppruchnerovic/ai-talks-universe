@@ -4,7 +4,7 @@ title: "Flipping Bits: Your Credentials Are Certainly Mine"
 slug: flipping-bits-your-credentials-are-certainly-mine
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7lUPTxNNxM0
 url: https://www.youtube.com/watch?v=7lUPTxNNxM0
 youtube_url: https://www.youtube.com/watch?v=7lUPTxNNxM0
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

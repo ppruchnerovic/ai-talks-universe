@@ -4,7 +4,7 @@ title: "Nasdaq Boardvantage: AI-driven governance on PostgreSQL and Microsoft Fo
 slug: nasdaq-boardvantage-ai-driven-governance-on-postgresql-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Charles Feddersen", "Mohsin Shafqat"]
@@ -15,6 +15,7 @@ video_id: BkOcPQntsk4
 url: https://www.youtube.com/watch?v=BkOcPQntsk4
 youtube_url: https://www.youtube.com/watch?v=BkOcPQntsk4
 tags: ["BRK137", "Innovate with Azure AI apps and agents:Azure PostgreSQL", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Nasdaq Boardvantage: AI-driven governance on PostgreSQL and Microsoft Foundry | BRK137", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

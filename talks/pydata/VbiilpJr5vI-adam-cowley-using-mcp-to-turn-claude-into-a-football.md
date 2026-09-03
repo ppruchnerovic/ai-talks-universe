@@ -4,7 +4,7 @@ title: "Adam Cowley - Using MCP to turn Claude into a Football Opposition Analys
 slug: adam-cowley-using-mcp-to-turn-claude-into-a-football
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Adam Cowley"]
@@ -15,6 +15,7 @@ video_id: VbiilpJr5vI
 url: https://www.youtube.com/watch?v=VbiilpJr5vI
 youtube_url: https://www.youtube.com/watch?v=VbiilpJr5vI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

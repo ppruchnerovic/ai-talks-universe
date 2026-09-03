@@ -4,7 +4,7 @@ title: "Cubing and Metrics in SQL, Oh My!"
 slug: cubing-and-metrics-in-sql-oh-my
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: oo1uwJ3qHwE
 url: https://www.youtube.com/watch?v=oo1uwJ3qHwE
 youtube_url: https://www.youtube.com/watch?v=oo1uwJ3qHwE
 tags: ["SQL", "metrics", "Apache Calcite", "data management systems"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

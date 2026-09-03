@@ -4,7 +4,7 @@ title: "How We Built an Autonomous Development Workflow at Nordic Corporate Bank
 slug: how-we-built-an-autonomous-development-workflow-at-nordic
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: p8M8--12h1Y
 url: https://www.youtube.com/watch?v=p8M8--12h1Y
 youtube_url: https://www.youtube.com/watch?v=p8M8--12h1Y
 tags: ["AI", "AI Assisted Development", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Hallstein Brøtan"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

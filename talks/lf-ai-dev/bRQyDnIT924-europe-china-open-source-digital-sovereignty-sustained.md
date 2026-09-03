@@ -4,7 +4,7 @@ title: "Europe-China Open Source: Digital Sovereignty & Sustained... Yehui Wang 
 slug: europe-china-open-source-digital-sovereignty-sustained
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: bRQyDnIT924
 url: https://www.youtube.com/watch?v=bRQyDnIT924
 youtube_url: https://www.youtube.com/watch?v=bRQyDnIT924
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

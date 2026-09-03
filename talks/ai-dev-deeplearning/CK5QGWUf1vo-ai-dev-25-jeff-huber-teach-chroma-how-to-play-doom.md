@@ -4,7 +4,7 @@ title: "AI Dev 25 | Jeff Huber: Teach Chroma how to play Doom"
 slug: ai-dev-25-jeff-huber-teach-chroma-how-to-play-doom
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: CK5QGWUf1vo
 url: https://www.youtube.com/watch?v=CK5QGWUf1vo
 youtube_url: https://www.youtube.com/watch?v=CK5QGWUf1vo
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

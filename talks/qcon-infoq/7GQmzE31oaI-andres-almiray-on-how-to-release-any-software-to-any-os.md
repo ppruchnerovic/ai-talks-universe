@@ -4,7 +4,7 @@ title: "Andres Almiray on How to Release Any Software to Any OS with JReleaser"
 slug: andres-almiray-on-how-to-release-any-software-to-any-os
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7GQmzE31oaI
 url: https://www.youtube.com/watch?v=7GQmzE31oaI
 youtube_url: https://www.youtube.com/watch?v=7GQmzE31oaI
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

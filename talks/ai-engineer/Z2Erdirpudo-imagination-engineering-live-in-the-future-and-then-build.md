@@ -4,7 +4,7 @@ title: "Imagination Engineering: \"Live in the future and then build what's miss
 slug: imagination-engineering-live-in-the-future-and-then-build
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Z2Erdirpudo
 url: https://www.youtube.com/watch?v=Z2Erdirpudo
 youtube_url: https://www.youtube.com/watch?v=Z2Erdirpudo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

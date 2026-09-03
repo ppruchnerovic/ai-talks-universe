@@ -4,7 +4,7 @@ title: "Speed at Scale: Optimizing the Largest CX Platform out There"
 slug: speed-at-scale-optimizing-the-largest-cx-platform-out-there
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Matheus Albuquerque"]
@@ -15,6 +15,7 @@ video_id: iq-optimize-performance-cx-platform
 url: https://www.infoq.com/presentations/optimize-performance-cx-platform/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

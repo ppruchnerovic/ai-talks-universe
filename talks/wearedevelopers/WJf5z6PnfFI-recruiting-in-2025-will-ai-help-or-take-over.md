@@ -4,7 +4,7 @@ title: "Recruiting in 2025: Will AI Help or Take Over?"
 slug: recruiting-in-2025-will-ai-help-or-take-over
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: WJf5z6PnfFI
 url: https://www.youtube.com/watch?v=WJf5z6PnfFI
 youtube_url: https://www.youtube.com/watch?v=WJf5z6PnfFI
 tags: []
+topics: []
 transcript: false
 ---
 

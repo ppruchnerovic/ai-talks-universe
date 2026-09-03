@@ -4,7 +4,7 @@ title: "Building AI Agents with Model Context Protocol: From Specification to Im
 slug: building-ai-agents-with-model-context-protocol-from
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: oSGVQIZxi7s
 url: https://www.youtube.com/watch?v=oSGVQIZxi7s
 youtube_url: https://www.youtube.com/watch?v=oSGVQIZxi7s
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

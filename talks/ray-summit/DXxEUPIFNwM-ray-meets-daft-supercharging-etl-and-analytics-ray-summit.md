@@ -4,7 +4,7 @@ title: "Ray Meets Daft: Supercharging ETL and Analytics | Ray Summit 2024"
 slug: ray-meets-daft-supercharging-etl-and-analytics-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: DXxEUPIFNwM
 url: https://www.youtube.com/watch?v=DXxEUPIFNwM
 youtube_url: https://www.youtube.com/watch?v=DXxEUPIFNwM
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

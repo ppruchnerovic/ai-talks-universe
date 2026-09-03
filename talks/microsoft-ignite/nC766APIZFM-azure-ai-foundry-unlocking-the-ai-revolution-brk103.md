@@ -4,7 +4,7 @@ title: "Azure AI Foundry unlocking the AI revolution | BRK103"
 slug: azure-ai-foundry-unlocking-the-ai-revolution-brk103
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Asha Sharma"]
@@ -15,6 +15,7 @@ video_id: nC766APIZFM
 url: https://www.youtube.com/watch?v=nC766APIZFM
 youtube_url: https://www.youtube.com/watch?v=nC766APIZFM
 tags: ["AI", "Asha Sharma", "Azure AI Foundry unlocking the AI revolution | BRK103", "BRK103", "Breakout", "English (US)", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

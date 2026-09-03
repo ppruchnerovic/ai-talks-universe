@@ -4,7 +4,7 @@ title: "The Rise of the Serverless Data Architectures"
 slug: the-rise-of-the-serverless-data-architectures
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: QVQPhOHBWBk
 url: https://www.youtube.com/watch?v=QVQPhOHBWBk
 youtube_url: https://www.youtube.com/watch?v=QVQPhOHBWBk
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Serverless", "Software Architecture", "Cloud Computing", "Data", "FaaS", "InfoQ", "QCon", "Transcript"]
+topics: []
 transcript: false
 ---
 

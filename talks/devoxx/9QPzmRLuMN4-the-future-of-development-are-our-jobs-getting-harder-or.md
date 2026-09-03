@@ -4,7 +4,7 @@ title: "The future of development: Are our jobs getting harder or easier? by Hol
 slug: the-future-of-development-are-our-jobs-getting-harder-or
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Holly Cummins"]
@@ -15,6 +15,7 @@ video_id: 9QPzmRLuMN4
 url: https://www.youtube.com/watch?v=9QPzmRLuMN4
 youtube_url: https://www.youtube.com/watch?v=9QPzmRLuMN4
 tags: []
+topics: []
 transcript: false
 ---
 

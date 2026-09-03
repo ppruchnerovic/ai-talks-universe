@@ -4,7 +4,7 @@ title: "One Pipeline to Rule Them All: Unifying Multimodal and AI Data Processin
 slug: one-pipeline-to-rule-them-all-unifying-multimodal-and-ai
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ggC6LBTDcMA
 url: https://www.youtube.com/watch?v=ggC6LBTDcMA
 youtube_url: https://www.youtube.com/watch?v=ggC6LBTDcMA
 tags: []
+topics: ["Data engineering & MLOps", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

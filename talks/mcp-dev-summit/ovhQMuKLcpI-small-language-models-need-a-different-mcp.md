@@ -4,7 +4,7 @@ title: "Small Language Models Need a Different MCP"
 slug: small-language-models-need-a-different-mcp
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: ovhQMuKLcpI
 url: https://www.youtube.com/watch?v=ovhQMuKLcpI
 youtube_url: https://www.youtube.com/watch?v=ovhQMuKLcpI
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Inference, serving & GPU infra", "Prompting & context engineering", "Science, healthcare & applied ML", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

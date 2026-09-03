@@ -4,7 +4,7 @@ title: "Be more productive in your SAP Environment with ABAP AI model in VS Code
 slug: be-more-productive-in-your-sap-environment-with-abap-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: BlvSF-t0AC8
 url: https://www.youtube.com/watch?v=BlvSF-t0AC8
 youtube_url: https://www.youtube.com/watch?v=BlvSF-t0AC8
 tags: ["Be more productive in your SAP Environment with ABAP AI model in VS Code | STUDIOSP70", "English (US)", "STUDIOSP70", "STUDIOSP70_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

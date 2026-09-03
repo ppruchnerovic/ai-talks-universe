@@ -4,7 +4,7 @@ title: "Building AI Agents in Kotlin • Anton Arhipov • YOW! 2025"
 slug: building-ai-agents-in-kotlin-anton-arhipov-yow-2025
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Anton Arhipov"]
@@ -15,6 +15,7 @@ video_id: Lq1lZRhsZjs
 url: https://www.youtube.com/watch?v=Lq1lZRhsZjs
 youtube_url: https://www.youtube.com/watch?v=Lq1lZRhsZjs
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

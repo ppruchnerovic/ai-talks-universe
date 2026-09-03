@@ -4,7 +4,7 @@ title: "Create agents for Microsoft 365 Copilot with Microsoft 365 Agents SDK | 
 slug: create-agents-for-microsoft-365-copilot-with-microsoft-365
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: R-I_WdirVh4
 url: https://www.youtube.com/watch?v=R-I_WdirVh4
 youtube_url: https://www.youtube.com/watch?v=R-I_WdirVh4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

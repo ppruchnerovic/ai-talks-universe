@@ -4,7 +4,7 @@ title: "Streamlining RAG Applications with Pinecone's OSS Framework: Canopy - Au
 slug: streamlining-rag-applications-with-pinecone-s-oss-framework
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Audrey Lorberfeld"]
@@ -15,6 +15,7 @@ video_id: pLSDTTMhWhk
 url: https://www.youtube.com/watch?v=pLSDTTMhWhk
 youtube_url: https://www.youtube.com/watch?v=pLSDTTMhWhk
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Persona Engineering: A Field Guide to AI Synthetic Personas — Ishan An
 slug: persona-engineering-a-field-guide-to-ai-synthetic-personas
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ishan Anand"]
@@ -15,6 +15,7 @@ video_id: YnNF55QV0zs
 url: https://www.youtube.com/watch?v=YnNF55QV0zs
 youtube_url: https://www.youtube.com/watch?v=YnNF55QV0zs
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Prompting & context engineering"]
 transcript: true
 ---
 

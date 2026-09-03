@@ -4,7 +4,7 @@ title: "Why Great Developers Stay Poor"
 slug: why-great-developers-stay-poor
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jawed Sahebjan"]
@@ -15,6 +15,7 @@ video_id: tQHw3fErD7c
 url: https://www.youtube.com/watch?v=tQHw3fErD7c
 youtube_url: https://www.youtube.com/watch?v=tQHw3fErD7c
 tags: ["Career & Growth", "Business Models", "Collaboration", "Employer Branding", "Entrepreneurship", "Networking", "People & Culture", "Product Strategy", "Product Management"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

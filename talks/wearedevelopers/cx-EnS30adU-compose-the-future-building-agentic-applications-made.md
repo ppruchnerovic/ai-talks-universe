@@ -4,7 +4,7 @@ title: "Compose the Future: Building Agentic Applications, Made Simple with Dock
 slug: compose-the-future-building-agentic-applications-made
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cx-EnS30adU
 url: https://www.youtube.com/watch?v=cx-EnS30adU
 youtube_url: https://www.youtube.com/watch?v=cx-EnS30adU
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

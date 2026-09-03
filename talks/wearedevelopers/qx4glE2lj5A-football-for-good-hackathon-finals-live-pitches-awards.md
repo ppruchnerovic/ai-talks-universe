@@ -4,7 +4,7 @@ title: "Football for Good: Hackathon Finals - Live Pitches & Awards"
 slug: football-for-good-hackathon-finals-live-pitches-awards
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Salih Guler"]
@@ -15,6 +15,7 @@ video_id: qx4glE2lj5A
 url: https://www.youtube.com/watch?v=qx4glE2lj5A
 youtube_url: https://www.youtube.com/watch?v=qx4glE2lj5A
 tags: ["AI Agents", "AI Coding Assistants", "AI Models", "AWS", "Agents", "Agentic AI"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

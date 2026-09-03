@@ -4,7 +4,7 @@ title: "How Real AI Agents Reuse Intelligence I Guy & Simon"
 slug: how-real-ai-agents-reuse-intelligence-i-guy-simon
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: bUGvKXR1MIQ
 url: https://www.youtube.com/watch?v=bUGvKXR1MIQ
 youtube_url: https://www.youtube.com/watch?v=bUGvKXR1MIQ
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

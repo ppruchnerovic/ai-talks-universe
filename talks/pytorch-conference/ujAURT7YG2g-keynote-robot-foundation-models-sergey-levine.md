@@ -4,7 +4,7 @@ title: "Keynote: Robot Foundation Models - Sergey Levine"
 slug: keynote-robot-foundation-models-sergey-levine
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Sergey Levine"]
@@ -15,6 +15,7 @@ video_id: ujAURT7YG2g
 url: https://www.youtube.com/watch?v=ujAURT7YG2g
 youtube_url: https://www.youtube.com/watch?v=ujAURT7YG2g
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

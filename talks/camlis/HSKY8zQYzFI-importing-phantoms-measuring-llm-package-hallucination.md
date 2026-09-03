@@ -4,7 +4,7 @@ title: "Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities"
 slug: importing-phantoms-measuring-llm-package-hallucination
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Arjun Krishna"]
@@ -15,6 +15,7 @@ video_id: HSKY8zQYzFI
 url: https://www.youtube.com/watch?v=HSKY8zQYzFI
 youtube_url: https://www.youtube.com/watch?v=HSKY8zQYzFI
 tags: []
+topics: ["Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Innovating with Open Generative AI"
 slug: innovating-with-open-generative-ai
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Amit Sangani"]
@@ -15,6 +15,7 @@ video_id: ExrssraUlJ4
 url: https://www.youtube.com/watch?v=ExrssraUlJ4
 youtube_url: https://www.youtube.com/watch?v=ExrssraUlJ4
 tags: ["machine learning", "computer vision", "AI"]
+topics: []
 transcript: false
 ---
 

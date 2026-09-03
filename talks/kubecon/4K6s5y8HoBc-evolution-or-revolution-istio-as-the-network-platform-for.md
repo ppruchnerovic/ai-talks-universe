@@ -4,7 +4,7 @@ title: "Evolution or Revolution: Istio as the Network Platform for Cloud Nat... 
 slug: evolution-or-revolution-istio-as-the-network-platform-for
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4K6s5y8HoBc
 url: https://www.youtube.com/watch?v=4K6s5y8HoBc
 youtube_url: https://www.youtube.com/watch?v=4K6s5y8HoBc
 tags: []
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

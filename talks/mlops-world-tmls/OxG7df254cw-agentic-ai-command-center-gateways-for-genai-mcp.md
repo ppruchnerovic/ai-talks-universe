@@ -4,7 +4,7 @@ title: "Agentic AI Command Center: Gateways for GenAI & MCP Integration | Nikunj
 slug: agentic-ai-command-center-gateways-for-genai-mcp
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Nikunj Bajaj"]
@@ -15,6 +15,7 @@ video_id: OxG7df254cw
 url: https://www.youtube.com/watch?v=OxG7df254cw
 youtube_url: https://www.youtube.com/watch?v=OxG7df254cw
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

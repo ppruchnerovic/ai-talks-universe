@@ -4,7 +4,7 @@ title: "Machine learning at the service of the weary warrior | Clinical AI | Syl
 slug: machine-learning-at-the-service-of-the-weary-warrior
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Sylvain Meylan"]
@@ -15,6 +15,7 @@ video_id: B-pqcx8S4FU
 url: https://www.youtube.com/watch?v=B-pqcx8S4FU
 youtube_url: https://www.youtube.com/watch?v=B-pqcx8S4FU
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

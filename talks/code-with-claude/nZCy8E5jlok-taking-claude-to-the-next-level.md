@@ -4,7 +4,7 @@ title: "Taking Claude to the Next Level"
 slug: taking-claude-to-the-next-level
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: nZCy8E5jlok
 url: https://www.youtube.com/watch?v=nZCy8E5jlok
 youtube_url: https://www.youtube.com/watch?v=nZCy8E5jlok
 tags: []
+topics: []
 transcript: false
 ---
 

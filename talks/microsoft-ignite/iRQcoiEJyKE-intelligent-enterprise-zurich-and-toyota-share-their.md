@@ -4,7 +4,7 @@ title: "Intelligent enterprise: Zurich and Toyota share their playbook | BRKSP47
 slug: intelligent-enterprise-zurich-and-toyota-share-their
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Brouhon Cédric", "Tim Stabler", "Ravi Chandu Ummadisetti"]
@@ -15,6 +15,7 @@ video_id: iRQcoiEJyKE
 url: https://www.youtube.com/watch?v=iRQcoiEJyKE
 youtube_url: https://www.youtube.com/watch?v=iRQcoiEJyKE
 tags: ["BRKSP476", "BRKSP476_v1", "Brouhon Cédric", "English (US)", "Financial Services", "Innovate with Azure AI apps and agents", "Intelligent enterprise: Zurich and Toyota share their playbook | BRKSP476", "Ravi Chandu Ummadisetti", "Technical", "Tim Stabler", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

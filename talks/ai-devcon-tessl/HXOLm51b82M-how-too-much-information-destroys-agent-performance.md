@@ -4,7 +4,7 @@ title: "How Too Much Information Destroys Agent Performance"
 slug: how-too-much-information-destroys-agent-performance
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: HXOLm51b82M
 url: https://www.youtube.com/watch?v=HXOLm51b82M
 youtube_url: https://www.youtube.com/watch?v=HXOLm51b82M
 tags: ["ainativedev"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

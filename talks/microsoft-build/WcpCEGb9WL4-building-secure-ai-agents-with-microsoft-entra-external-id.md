@@ -4,7 +4,7 @@ title: "Building Secure AI Agents with Microsoft Entra External ID | BRK231"
 slug: building-secure-ai-agents-with-microsoft-entra-external-id
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: WcpCEGb9WL4
 url: https://www.youtube.com/watch?v=WcpCEGb9WL4
 youtube_url: https://www.youtube.com/watch?v=WcpCEGb9WL4
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

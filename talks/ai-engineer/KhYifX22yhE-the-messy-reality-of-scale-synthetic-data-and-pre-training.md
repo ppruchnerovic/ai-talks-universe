@@ -4,7 +4,7 @@ title: "The Messy Reality of Scale: Synthetic Data and Pre-Training — Marah Ab
 slug: the-messy-reality-of-scale-synthetic-data-and-pre-training
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: KhYifX22yhE
 url: https://www.youtube.com/watch?v=KhYifX22yhE
 youtube_url: https://www.youtube.com/watch?v=KhYifX22yhE
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

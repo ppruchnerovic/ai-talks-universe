@@ -4,7 +4,7 @@ title: "How to Get Your Org to Adopt Coding Agents (Without Shipping Garbage) â€
 slug: how-to-get-your-org-to-adopt-coding-agents-without-shipping
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Eyal Blum"]
@@ -15,6 +15,7 @@ video_id: 5Bn0xro2ol8
 url: https://www.youtube.com/watch?v=5Bn0xro2ol8
 youtube_url: https://www.youtube.com/watch?v=5Bn0xro2ol8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

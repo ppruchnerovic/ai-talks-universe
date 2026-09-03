@@ -4,7 +4,7 @@ title: "Recursive Language Models: Architectural Fragilities and the Path Toward
 slug: recursive-language-models-architectural-fragilities-and-the
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0vaXNRBhDaU
 url: https://www.youtube.com/watch?v=0vaXNRBhDaU
 youtube_url: https://www.youtube.com/watch?v=0vaXNRBhDaU
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: true
 ---
 

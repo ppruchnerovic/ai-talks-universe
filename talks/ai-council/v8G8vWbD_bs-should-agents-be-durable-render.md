@@ -4,7 +4,7 @@ title: "Should agents be durable? | Render"
 slug: should-agents-be-durable-render
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: v8G8vWbD_bs
 url: https://www.youtube.com/watch?v=v8G8vWbD_bs
 youtube_url: https://www.youtube.com/watch?v=v8G8vWbD_bs
 tags: ["AI"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

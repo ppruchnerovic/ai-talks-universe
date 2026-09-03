@@ -4,7 +4,7 @@ title: "How To Support Multiple Display Controllers With Different Inter... Deva
 slug: how-to-support-multiple-display-controllers-with-different
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: yE3uRMefUDk
 url: https://www.youtube.com/watch?v=yE3uRMefUDk
 youtube_url: https://www.youtube.com/watch?v=yE3uRMefUDk
 tags: []
+topics: []
 transcript: false
 ---
 

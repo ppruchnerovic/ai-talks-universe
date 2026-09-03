@@ -4,7 +4,7 @@ title: "Adam Hill - From Chat-with-PDF to Quiz-Master | Pydata London 26"
 slug: adam-hill-from-chat-with-pdf-to-quiz-master-pydata-london-26
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Adam Hill"]
@@ -15,6 +15,7 @@ video_id: caJusFmHqAM
 url: https://www.youtube.com/watch?v=caJusFmHqAM
 youtube_url: https://www.youtube.com/watch?v=caJusFmHqAM
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

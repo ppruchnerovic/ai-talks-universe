@@ -4,7 +4,7 @@ title: "From LLMs to DSLMs: Practical Solution for Faster, More Resource-Efficie
 slug: from-llms-to-dslms-practical-solution-for-faster-more
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: vJOnLkd2o6k
 url: https://www.youtube.com/watch?v=vJOnLkd2o6k
 youtube_url: https://www.youtube.com/watch?v=vJOnLkd2o6k
 tags: []
+topics: []
 transcript: false
 ---
 

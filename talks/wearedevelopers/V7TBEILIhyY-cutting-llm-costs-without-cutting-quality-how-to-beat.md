@@ -4,7 +4,7 @@ title: "Cutting LLM Costs Without Cutting Quality: How to Beat Proprietary LLMs 
 slug: cutting-llm-costs-without-cutting-quality-how-to-beat
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Viktoria Semaan"]
@@ -15,6 +15,7 @@ video_id: V7TBEILIhyY
 url: https://www.youtube.com/watch?v=V7TBEILIhyY
 youtube_url: https://www.youtube.com/watch?v=V7TBEILIhyY
 tags: ["AI Engineering", "Agentic AI", "Databricks"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Agentic AIOps: How LogicMonitor Prepares Enterprise
 slug: aws-re-invent-2025-agentic-aiops-how-logicmonitor-prepares
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Zt9xGZkw77Q
 url: https://www.youtube.com/watch?v=Zt9xGZkw77Q
 youtube_url: https://www.youtube.com/watch?v=Zt9xGZkw77Q
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

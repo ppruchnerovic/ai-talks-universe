@@ -4,7 +4,7 @@ title: "Deploy AI infrastructure at scale on Azure in minutes!​ | BRK232"
 slug: deploy-ai-infrastructure-at-scale-on-azure-in-minutes-brk232
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Benjamin George"]
@@ -15,6 +15,7 @@ video_id: icQLydHK0rc
 url: https://www.youtube.com/watch?v=icQLydHK0rc
 youtube_url: https://www.youtube.com/watch?v=icQLydHK0rc
 tags: ["AI", "AI Infrastructure", "Azure Arc", "BRK232", "Benjamin George", "Breakout", "Copilot", "Deploy AI infrastructure at scale on Azure in minutes!​ | BRK232", "English (US)", "Infrastructure", "MachineLearning", "Technical", "Version v3", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

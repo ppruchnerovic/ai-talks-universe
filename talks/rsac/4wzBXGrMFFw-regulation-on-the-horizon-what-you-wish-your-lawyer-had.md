@@ -4,7 +4,7 @@ title: "Regulation on the Horizon: What You Wish Your Lawyer Had Told You About"
 slug: regulation-on-the-horizon-what-you-wish-your-lawyer-had
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4wzBXGrMFFw
 url: https://www.youtube.com/watch?v=4wzBXGrMFFw
 youtube_url: https://www.youtube.com/watch?v=4wzBXGrMFFw
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

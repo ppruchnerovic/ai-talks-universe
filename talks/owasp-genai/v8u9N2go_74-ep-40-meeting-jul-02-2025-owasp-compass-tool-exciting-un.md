@@ -4,7 +4,7 @@ title: "Ep.40 Meeting Jul 02 2025: OWASP Compass Tool & Exciting UN Week Highlig
 slug: ep-40-meeting-jul-02-2025-owasp-compass-tool-exciting-un
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: v8u9N2go_74
 url: https://www.youtube.com/watch?v=v8u9N2go_74
 youtube_url: https://www.youtube.com/watch?v=v8u9N2go_74
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

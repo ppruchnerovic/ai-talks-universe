@@ -4,7 +4,7 @@ title: "Adam Kaplan - Building Autonomous Agents"
 slug: adam-kaplan-building-autonomous-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Adam Kaplan"]
@@ -15,6 +15,7 @@ video_id: MKu1Ed7z7Ks
 url: https://www.youtube.com/watch?v=MKu1Ed7z7Ks
 youtube_url: https://www.youtube.com/watch?v=MKu1Ed7z7Ks
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

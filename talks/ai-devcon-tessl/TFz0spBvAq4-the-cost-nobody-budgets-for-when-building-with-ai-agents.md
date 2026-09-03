@@ -4,7 +4,7 @@ title: "The Cost Nobody Budgets for When Building With AI Agents"
 slug: the-cost-nobody-budgets-for-when-building-with-ai-agents
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: TFz0spBvAq4
 url: https://www.youtube.com/watch?v=TFz0spBvAq4
 youtube_url: https://www.youtube.com/watch?v=TFz0spBvAq4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "BAML: a new programming language for AI - Vaibhav Gupta"
 slug: baml-a-new-programming-language-for-ai-vaibhav-gupta
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Vaibhav Gupta"]
@@ -15,6 +15,7 @@ video_id: wD3zieaV0Yc
 url: https://www.youtube.com/watch?v=wD3zieaV0Yc
 youtube_url: https://www.youtube.com/watch?v=wD3zieaV0Yc
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

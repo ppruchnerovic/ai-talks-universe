@@ -4,7 +4,7 @@ title: "Defending Against Decision Degradation with Full Spectrum Model Monitori
 slug: defending-against-decision-degradation-with-full-spectrum
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Mihir Mathur"]
@@ -15,6 +15,7 @@ video_id: Px9hkOiN4_c
 url: https://www.youtube.com/watch?v=Px9hkOiN4_c
 youtube_url: https://www.youtube.com/watch?v=Px9hkOiN4_c
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

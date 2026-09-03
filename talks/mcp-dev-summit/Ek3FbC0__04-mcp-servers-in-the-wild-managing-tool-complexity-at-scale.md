@@ -4,7 +4,7 @@ title: "MCP Servers in the Wild: Managing Tool Complexity at Scale - Arnav Balya
 slug: mcp-servers-in-the-wild-managing-tool-complexity-at-scale
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Arnav Balyan"]
@@ -15,6 +15,7 @@ video_id: Ek3FbC0__04
 url: https://www.youtube.com/watch?v=Ek3FbC0__04
 youtube_url: https://www.youtube.com/watch?v=Ek3FbC0__04
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

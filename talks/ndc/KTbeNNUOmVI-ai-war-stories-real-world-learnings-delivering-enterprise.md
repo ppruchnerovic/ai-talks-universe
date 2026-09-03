@@ -4,7 +4,7 @@ title: "AI War Stories: Real world learnings delivering enterprise AI solutions 
 slug: ai-war-stories-real-world-learnings-delivering-enterprise
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Adam Stephenson"]
@@ -15,6 +15,7 @@ video_id: KTbeNNUOmVI
 url: https://www.youtube.com/watch?v=KTbeNNUOmVI
 youtube_url: https://www.youtube.com/watch?v=KTbeNNUOmVI
 tags: ["AI", ".NET", "Architecture", "NDC", "Conferences", "Melbourne", "Australia", "Fun", "Live", "2025", "Adam Stephenson"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

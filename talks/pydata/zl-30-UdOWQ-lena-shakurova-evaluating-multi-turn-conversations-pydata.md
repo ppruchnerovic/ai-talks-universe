@@ -4,7 +4,7 @@ title: "Lena Shakurova - Evaluating multi-turn conversations | Pydata London 26"
 slug: lena-shakurova-evaluating-multi-turn-conversations-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Lena Shakurova"]
@@ -15,6 +15,7 @@ video_id: zl-30-UdOWQ
 url: https://www.youtube.com/watch?v=zl-30-UdOWQ
 youtube_url: https://www.youtube.com/watch?v=zl-30-UdOWQ
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

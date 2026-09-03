@@ -4,7 +4,7 @@ title: "Participatory Leadership and Developing a Culture of Psychological Safet
 slug: participatory-leadership-and-developing-a-culture-of
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: v-PqOD6_FSo
 url: https://www.youtube.com/watch?v=v-PqOD6_FSo
 youtube_url: https://www.youtube.com/watch?v=v-PqOD6_FSo
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

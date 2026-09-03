@@ -4,7 +4,7 @@ title: "ToolShell, Patch Bypass, and the AI That Might Have Seen It Coming - Ped
 slug: toolshell-patch-bypass-and-the-ai-that-might-have-seen-it
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Pedram Hayati", "Soroush Dalili"]
@@ -15,6 +15,7 @@ video_id: lQgjBvrWh84
 url: https://www.youtube.com/watch?v=lQgjBvrWh84
 youtube_url: https://www.youtube.com/watch?v=lQgjBvrWh84
 tags: ["AI/ML", "Application Security", "Bug Bounties", "Design", "Fun", "Security", "Tooling", "Testing", "AI", "ML", "Machinelearning", "NDC", "Conferences", "2025", "Live", "Manchester", "England", "UK", "United Kingdom", "Pedram Hayati", "Soroush Dalili"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

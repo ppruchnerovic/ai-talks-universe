@@ -4,7 +4,7 @@ title: "Metashade: Compilerless Immediate-Mode Shader Generation in Pure Python 
 slug: metashade-compilerless-immediate-mode-shader-generation-in
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Pavlo Penenko"]
@@ -15,6 +15,7 @@ video_id: 6yQmEvqMDCQ
 url: https://www.youtube.com/watch?v=6yQmEvqMDCQ
 youtube_url: https://www.youtube.com/watch?v=6yQmEvqMDCQ
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

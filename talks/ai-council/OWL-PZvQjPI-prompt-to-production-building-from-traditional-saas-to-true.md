@@ -4,7 +4,7 @@ title: "Prompt to Production: Building from Traditional SaaS to True AI-Native S
 slug: prompt-to-production-building-from-traditional-saas-to-true
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: OWL-PZvQjPI
 url: https://www.youtube.com/watch?v=OWL-PZvQjPI
 youtube_url: https://www.youtube.com/watch?v=OWL-PZvQjPI
 tags: ["AI"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Prompting & context engineering"]
 transcript: true
 ---
 

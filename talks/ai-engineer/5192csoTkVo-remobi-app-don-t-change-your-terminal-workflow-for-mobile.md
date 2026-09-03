@@ -4,7 +4,7 @@ title: "remobi.app: Don't change your terminal workflow for mobile"
 slug: remobi-app-don-t-change-your-terminal-workflow-for-mobile
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5192csoTkVo
 url: https://www.youtube.com/watch?v=5192csoTkVo
 youtube_url: https://www.youtube.com/watch?v=5192csoTkVo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Emergency Discussion: Can’t Hire the Right Developers? Here’s What E
 slug: emergency-discussion-cant-hire-the-right-developers-heres
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: dYSnWxfOlmw
 url: https://www.youtube.com/watch?v=dYSnWxfOlmw
 youtube_url: https://www.youtube.com/watch?v=dYSnWxfOlmw
 tags: ["hiring", "recruiting", "tech talent", "tech professionals", "developers", "recruitment", "talent acquisition", "perks", "salary transparency", "growth", "job openings", "job opportunities", "passive candidates", "skills-based hiring"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

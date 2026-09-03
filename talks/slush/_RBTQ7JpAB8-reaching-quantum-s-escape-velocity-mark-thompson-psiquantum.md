@@ -4,7 +4,7 @@ title: "Reaching Quantum's Escape Velocity | Mark Thompson (PsiQuantum)"
 slug: reaching-quantum-s-escape-velocity-mark-thompson-psiquantum
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Reaching Quantum's Escape Velocity", "Mark Thompson"]
@@ -15,6 +15,7 @@ video_id: _RBTQ7JpAB8
 url: https://www.youtube.com/watch?v=_RBTQ7JpAB8
 youtube_url: https://www.youtube.com/watch?v=_RBTQ7JpAB8
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

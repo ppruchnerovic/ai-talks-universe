@@ -4,7 +4,7 @@ title: "Securing MCP at Scale: From Principles To Production - Peter Smulovics, 
 slug: securing-mcp-at-scale-from-principles-to-production-peter
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Peter Smulovics"]
@@ -15,6 +15,7 @@ video_id: E515s-EwF9M
 url: https://www.youtube.com/watch?v=E515s-EwF9M
 youtube_url: https://www.youtube.com/watch?v=E515s-EwF9M
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

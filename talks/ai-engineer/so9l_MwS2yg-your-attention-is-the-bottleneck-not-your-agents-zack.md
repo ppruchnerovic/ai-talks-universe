@@ -4,7 +4,7 @@ title: "Your Attention Is the Bottleneck, Not Your Agents — Zack Proser, WorkO
 slug: your-attention-is-the-bottleneck-not-your-agents-zack
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Zack Proser"]
@@ -15,6 +15,7 @@ video_id: so9l_MwS2yg
 url: https://www.youtube.com/watch?v=so9l_MwS2yg
 youtube_url: https://www.youtube.com/watch?v=so9l_MwS2yg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

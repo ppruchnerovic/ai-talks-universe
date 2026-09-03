@@ -4,7 +4,7 @@ title: "Waymo's EMMA: Teaching Cars to Think - Jyh Jing Hwang, Waymo"
 slug: waymo-s-emma-teaching-cars-to-think-jyh-jing-hwang-waymo
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jyh Jing Hwang"]
@@ -15,6 +15,7 @@ video_id: iS9YFW28XyM
 url: https://www.youtube.com/watch?v=iS9YFW28XyM
 youtube_url: https://www.youtube.com/watch?v=iS9YFW28XyM
 tags: []
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

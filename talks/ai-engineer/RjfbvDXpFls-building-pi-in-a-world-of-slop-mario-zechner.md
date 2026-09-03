@@ -4,7 +4,7 @@ title: "Building pi in a World of Slop — Mario Zechner"
 slug: building-pi-in-a-world-of-slop-mario-zechner
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mario Zechner"]
@@ -15,6 +15,7 @@ video_id: RjfbvDXpFls
 url: https://www.youtube.com/watch?v=RjfbvDXpFls
 youtube_url: https://www.youtube.com/watch?v=RjfbvDXpFls
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "How students build with Claude | Code w/ Claude"
 slug: how-students-build-with-claude-code-w-claude
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: PHuXXeadV_g
 url: https://www.youtube.com/watch?v=PHuXXeadV_g
 youtube_url: https://www.youtube.com/watch?v=PHuXXeadV_g
 tags: []
+topics: []
 transcript: false
 ---
 

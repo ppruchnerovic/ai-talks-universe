@@ -4,7 +4,7 @@ title: "Building enterprise-grade AI agents: How enterprises scale business with
 slug: building-enterprise-grade-ai-agents-how-enterprises-scale
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Piyush Saxena", "Gina Fratarcangeli", "Brandon Weilbacher", "Josh Siebert", "Kristina Rogers"]
@@ -15,6 +15,7 @@ video_id: 3vf9eL-LKUY
 url: https://www.youtube.com/watch?v=3vf9eL-LKUY
 youtube_url: https://www.youtube.com/watch?v=3vf9eL-LKUY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

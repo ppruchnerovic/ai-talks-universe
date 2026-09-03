@@ -4,7 +4,7 @@ title: "AI Evaluation from First Principles: You Can't Manage What You Can't Mea
 slug: ai-evaluation-from-first-principles-you-can-t-manage-what
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: INJBrNBVhU4
 url: https://www.youtube.com/watch?v=INJBrNBVhU4
 youtube_url: https://www.youtube.com/watch?v=INJBrNBVhU4
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

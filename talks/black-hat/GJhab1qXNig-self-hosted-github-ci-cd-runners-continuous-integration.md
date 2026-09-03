@@ -4,7 +4,7 @@ title: "Self-Hosted GitHub CI/CD Runners: Continuous Integration, Continuous Des
 slug: self-hosted-github-ci-cd-runners-continuous-integration
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: GJhab1qXNig
 url: https://www.youtube.com/watch?v=GJhab1qXNig
 youtube_url: https://www.youtube.com/watch?v=GJhab1qXNig
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Security, safety & red teaming"]
 transcript: false
 ---
 

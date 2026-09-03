@@ -4,7 +4,7 @@ title: "Gemini CLI in Action by Wietse Venema"
 slug: gemini-cli-in-action-by-wietse-venema
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Wietse Venema"]
@@ -15,6 +15,7 @@ video_id: jBQ0WdiNbdA
 url: https://www.youtube.com/watch?v=jBQ0WdiNbdA
 youtube_url: https://www.youtube.com/watch?v=jBQ0WdiNbdA
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

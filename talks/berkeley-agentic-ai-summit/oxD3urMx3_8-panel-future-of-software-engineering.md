@@ -4,7 +4,7 @@ title: "Panel: Future of Software Engineering"
 slug: panel-future-of-software-engineering
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: oxD3urMx3_8
 url: https://www.youtube.com/watch?v=oxD3urMx3_8
 youtube_url: https://www.youtube.com/watch?v=oxD3urMx3_8
 tags: []
+topics: []
 transcript: true
 ---
 

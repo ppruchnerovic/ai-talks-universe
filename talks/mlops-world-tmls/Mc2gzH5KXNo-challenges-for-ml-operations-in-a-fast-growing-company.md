@@ -4,7 +4,7 @@ title: "Challenges for ML Operations in a Fast Growing Company"
 slug: challenges-for-ml-operations-in-a-fast-growing-company
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: Mc2gzH5KXNo
 url: https://www.youtube.com/watch?v=Mc2gzH5KXNo
 youtube_url: https://www.youtube.com/watch?v=Mc2gzH5KXNo
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Challenges for ML Operations in a Fast Growing Company", "ML Operations", "ML Operations in a Fast Growing Company", "Challenges for ML Operations"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

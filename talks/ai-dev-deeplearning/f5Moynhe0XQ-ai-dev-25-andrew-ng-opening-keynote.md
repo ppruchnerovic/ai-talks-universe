@@ -4,7 +4,7 @@ title: "AI Dev 25 | Andrew Ng: Opening Keynote"
 slug: ai-dev-25-andrew-ng-opening-keynote
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: f5Moynhe0XQ
 url: https://www.youtube.com/watch?v=f5Moynhe0XQ
 youtube_url: https://www.youtube.com/watch?v=f5Moynhe0XQ
 tags: []
+topics: []
 transcript: false
 ---
 

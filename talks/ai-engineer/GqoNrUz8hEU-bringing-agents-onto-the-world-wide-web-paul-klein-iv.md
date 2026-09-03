@@ -4,7 +4,7 @@ title: "Bringing agents onto the world wide web — Paul Klein IV, Browserbase"
 slug: bringing-agents-onto-the-world-wide-web-paul-klein-iv
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: GqoNrUz8hEU
 url: https://www.youtube.com/watch?v=GqoNrUz8hEU
 youtube_url: https://www.youtube.com/watch?v=GqoNrUz8hEU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

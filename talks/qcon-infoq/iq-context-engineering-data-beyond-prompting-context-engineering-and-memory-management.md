@@ -4,7 +4,7 @@ title: "Beyond Prompting: Context Engineering and Memory Management for AI Syste
 slug: beyond-prompting-context-engineering-and-memory-management
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Adi Polak"]
@@ -15,6 +15,7 @@ video_id: iq-context-engineering-data
 url: https://www.infoq.com/presentations/context-engineering-data/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps", "Prompting & context engineering"]
 transcript: true
 ---
 

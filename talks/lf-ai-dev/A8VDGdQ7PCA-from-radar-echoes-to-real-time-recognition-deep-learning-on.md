@@ -4,7 +4,7 @@ title: "From Radar Echoes To Real-Time Recognition: Deep Learning on Another Pla
 slug: from-radar-echoes-to-real-time-recognition-deep-learning-on
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: A8VDGdQ7PCA
 url: https://www.youtube.com/watch?v=A8VDGdQ7PCA
 youtube_url: https://www.youtube.com/watch?v=A8VDGdQ7PCA
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

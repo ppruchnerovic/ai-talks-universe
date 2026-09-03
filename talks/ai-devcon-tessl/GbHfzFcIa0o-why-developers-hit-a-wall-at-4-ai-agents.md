@@ -4,7 +4,7 @@ title: "Why Developers Hit a Wall at 4 AI Agents"
 slug: why-developers-hit-a-wall-at-4-ai-agents
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: GbHfzFcIa0o
 url: https://www.youtube.com/watch?v=GbHfzFcIa0o
 youtube_url: https://www.youtube.com/watch?v=GbHfzFcIa0o
 tags: ["AI adoption in engineering", "AI adoption strategies", "AI agents", "AI code review", "AI coding tools", "AI pull request merge rates", "Jellyfish", "Jellyfish AI research", "Nick Arcolano insights", "agentic coding", "ainativedev", "codebase management", "context engineering", "engineering leadership", "pull request merge rates"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

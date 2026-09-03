@@ -4,7 +4,7 @@ title: "Microsoft Fabric IQ: Turning unified data into unified intelligence | BR
 slug: microsoft-fabric-iq-turning-unified-data-into-unified
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Yitzhak Kesselman", "Chafia Aouissi", "Tony de Bos", "Tessa Kloster"]
@@ -15,6 +15,7 @@ video_id: yy7M_O_z_wQ
 url: https://www.youtube.com/watch?v=yy7M_O_z_wQ
 youtube_url: https://www.youtube.com/watch?v=yy7M_O_z_wQ
 tags: ["65e35a56-4031-45dd-9b20-18d137888b5e_Segment", "BRK222", "Chafia Aouissi", "English (US)", "Microsoft Fabric IQ: Turning unified data into unified intelligence | BRK222", "Technical", "Tessa Kloster", "Tony de Bos", "Truman seto", "Unify your data platform", "Unify your data platform:Microsoft Fabric", "Yitzhak Kesselman", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

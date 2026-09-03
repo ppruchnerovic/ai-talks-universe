@@ -4,7 +4,7 @@ title: "Tackling I/O Challenges in Modern Data Lakes"
 slug: tackling-i-o-challenges-in-modern-data-lakes
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Hope Wang"]
@@ -15,6 +15,7 @@ video_id: -4befD1Uj80
 url: https://www.youtube.com/watch?v=-4befD1Uj80
 youtube_url: https://www.youtube.com/watch?v=-4befD1Uj80
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

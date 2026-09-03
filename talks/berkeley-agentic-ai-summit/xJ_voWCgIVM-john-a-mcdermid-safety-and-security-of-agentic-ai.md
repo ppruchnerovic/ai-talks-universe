@@ -4,7 +4,7 @@ title: "John A McDermid - Safety and Security of Agentic AI"
 slug: john-a-mcdermid-safety-and-security-of-agentic-ai
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: xJ_voWCgIVM
 url: https://www.youtube.com/watch?v=xJ_voWCgIVM
 youtube_url: https://www.youtube.com/watch?v=xJ_voWCgIVM
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

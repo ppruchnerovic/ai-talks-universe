@@ -4,7 +4,7 @@ title: "Context Engineering in 2026 — Louis-François Bouchard, Omar Solano & 
 slug: context-engineering-in-2026-louis-francois-bouchard-omar
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: WP3hjUXd918
 url: https://www.youtube.com/watch?v=WP3hjUXd918
 youtube_url: https://www.youtube.com/watch?v=WP3hjUXd918
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra", "Prompting & context engineering", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

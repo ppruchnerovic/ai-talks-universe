@@ -4,7 +4,7 @@ title: "Docker build without Docker"
 slug: docker-build-without-docker
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Oliver Seitz"]
@@ -15,6 +15,7 @@ video_id: AVr_6VN1-24
 url: https://www.youtube.com/watch?v=AVr_6VN1-24
 youtube_url: https://www.youtube.com/watch?v=AVr_6VN1-24
 tags: ["DevOps", "Containers", "DevOps", "Docker", "Linux"]
+topics: []
 transcript: true
 ---
 

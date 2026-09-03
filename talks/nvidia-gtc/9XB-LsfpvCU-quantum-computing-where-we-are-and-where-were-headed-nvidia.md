@@ -4,7 +4,7 @@ title: "Quantum Computing: Where We Are and Where We’re Headed | NVIDIA GTC 20
 slug: quantum-computing-where-we-are-and-where-were-headed-nvidia
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9XB-LsfpvCU
 url: https://www.youtube.com/watch?v=9XB-LsfpvCU
 youtube_url: https://www.youtube.com/watch?v=9XB-LsfpvCU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

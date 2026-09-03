@@ -4,7 +4,7 @@ title: "Performance and Scale - Domain-Oriented Objects vs Tabular Data Structur
 slug: performance-and-scale-domain-oriented-objects-vs-tabular
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: SbXFI5IyjL8
 url: https://www.youtube.com/watch?v=SbXFI5IyjL8
 youtube_url: https://www.youtube.com/watch?v=SbXFI5IyjL8
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Data Analysis", "Database", "InfoQ", "QCon", "Transcript"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

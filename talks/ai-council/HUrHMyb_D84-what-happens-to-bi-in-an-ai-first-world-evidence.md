@@ -4,7 +4,7 @@ title: "What Happens to BI in an AI-First World? | Evidence"
 slug: what-happens-to-bi-in-an-ai-first-world-evidence
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: HUrHMyb_D84
 url: https://www.youtube.com/watch?v=HUrHMyb_D84
 youtube_url: https://www.youtube.com/watch?v=HUrHMyb_D84
 tags: ["AI"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

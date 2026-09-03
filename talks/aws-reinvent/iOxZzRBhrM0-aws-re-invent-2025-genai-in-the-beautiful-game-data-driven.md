@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - GenAI in the Beautiful Game: Data-Driven Success in
 slug: aws-re-invent-2025-genai-in-the-beautiful-game-data-driven
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: iOxZzRBhrM0
 url: https://www.youtube.com/watch?v=iOxZzRBhrM0
 youtube_url: https://www.youtube.com/watch?v=iOxZzRBhrM0
 tags: []
+topics: []
 transcript: false
 ---
 

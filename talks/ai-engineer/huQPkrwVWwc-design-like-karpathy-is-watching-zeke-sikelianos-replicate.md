@@ -4,7 +4,7 @@ title: "Design like Karpathy is watching — Zeke Sikelianos, Replicate"
 slug: design-like-karpathy-is-watching-zeke-sikelianos-replicate
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Zeke Sikelianos"]
@@ -15,6 +15,7 @@ video_id: huQPkrwVWwc
 url: https://www.youtube.com/watch?v=huQPkrwVWwc
 youtube_url: https://www.youtube.com/watch?v=huQPkrwVWwc
 tags: []
+topics: []
 transcript: false
 ---
 

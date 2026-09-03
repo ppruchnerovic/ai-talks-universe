@@ -4,7 +4,7 @@ title: "Information Flow: The Hidden Driver of Engineering Culture"
 slug: information-flow-the-hidden-driver-of-engineering-culture
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: OlyRNeoh0-Q
 url: https://www.youtube.com/watch?v=OlyRNeoh0-Q
 youtube_url: https://www.youtube.com/watch?v=OlyRNeoh0-Q
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

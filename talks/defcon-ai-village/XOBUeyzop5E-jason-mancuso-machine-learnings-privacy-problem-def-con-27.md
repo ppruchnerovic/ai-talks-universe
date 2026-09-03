@@ -4,7 +4,7 @@ title: "Jason Mancuso - Machine Learnings Privacy Problem - DEF CON 27 AI Villag
 slug: jason-mancuso-machine-learnings-privacy-problem-def-con-27
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Jason Mancuso", "Machine Learnings Privacy Problem"]
@@ -15,6 +15,7 @@ video_id: XOBUeyzop5E
 url: https://www.youtube.com/watch?v=XOBUeyzop5E
 youtube_url: https://www.youtube.com/watch?v=XOBUeyzop5E
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

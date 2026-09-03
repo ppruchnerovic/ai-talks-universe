@@ -4,7 +4,7 @@ title: "Sponsored Session: Lightning Talk: Build and Deploy AI Flows with an Age
 slug: sponsored-session-lightning-talk-build-and-deploy-ai-flows
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Arjun Upadhyay"]
@@ -15,6 +15,7 @@ video_id: VfERNHVmL4o
 url: https://www.youtube.com/watch?v=VfERNHVmL4o
 youtube_url: https://www.youtube.com/watch?v=VfERNHVmL4o
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

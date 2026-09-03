@@ -4,7 +4,7 @@ title: "Ekin Dogus Cubuk - Combining Experiments, LLMs, and Theory to Discover Q
 slug: ekin-dogus-cubuk-combining-experiments-llms-and-theory-to
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Ekin Dogus Cubuk", "Combining Experiments"]
@@ -15,6 +15,7 @@ video_id: I-OlxZ7h2s0
 url: https://www.youtube.com/watch?v=I-OlxZ7h2s0
 youtube_url: https://www.youtube.com/watch?v=I-OlxZ7h2s0
 tags: []
+topics: []
 transcript: true
 ---
 

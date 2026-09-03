@@ -4,7 +4,7 @@ title: "Agentic AI CTF - FinBot DEMO Goal Manipulation"
 slug: agentic-ai-ctf-finbot-demo-goal-manipulation
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: iVlzfyMvdGc
 url: https://www.youtube.com/watch?v=iVlzfyMvdGc
 youtube_url: https://www.youtube.com/watch?v=iVlzfyMvdGc
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

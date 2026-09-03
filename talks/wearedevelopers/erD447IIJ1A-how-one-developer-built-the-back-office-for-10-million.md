@@ -4,7 +4,7 @@ title: "How One Developer Built the Back Office for 10 Million Companies"
 slug: how-one-developer-built-the-back-office-for-10-million
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Alija Nuredini"]
@@ -15,6 +15,7 @@ video_id: erD447IIJ1A
 url: https://www.youtube.com/watch?v=erD447IIJ1A
 youtube_url: https://www.youtube.com/watch?v=erD447IIJ1A
 tags: ["Strategy & Innovation", "Design Systems", "Figma", "Software Architecture", "Startups", "UI/UX"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

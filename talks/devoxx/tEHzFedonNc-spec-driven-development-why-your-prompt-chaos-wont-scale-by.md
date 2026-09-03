@@ -4,7 +4,7 @@ title: "Spec Driven Development Why your prompt chaos won’t scale by Simon Map
 slug: spec-driven-development-why-your-prompt-chaos-wont-scale-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Simon Maple"]
@@ -15,6 +15,7 @@ video_id: tEHzFedonNc
 url: https://www.youtube.com/watch?v=tEHzFedonNc
 youtube_url: https://www.youtube.com/watch?v=tEHzFedonNc
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Prompting & context engineering"]
 transcript: false
 ---
 

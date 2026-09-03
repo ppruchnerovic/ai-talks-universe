@@ -4,7 +4,7 @@ title: "The Middle Ground: Balancing Batch and Real-Time Processing in a Data La
 slug: the-middle-ground-balancing-batch-and-real-time-processing
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Brenna Buuck"]
@@ -15,6 +15,7 @@ video_id: v__lcEOvE9E
 url: https://www.youtube.com/watch?v=v__lcEOvE9E
 youtube_url: https://www.youtube.com/watch?v=v__lcEOvE9E
 tags: ["batch processing", "real time processing", "data lakehouse", "ChatGPT", "artificial intelligence", "machine learning", "data engineering", "streaming", "data architecture", "stream processing", "real time analytics", "data platform", "scalability", "Python tutorial", "lambda architecture", "kappa architecture", "micro batching", "windowing", "stateful processing", "event time processing", "watermarks", "late data handling", "backpressure"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

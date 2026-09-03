@@ -4,7 +4,7 @@ title: "Where thinking stops - Yngve Bakken Nilsen - NDC AI 2026"
 slug: where-thinking-stops-yngve-bakken-nilsen-ndc-ai-2026
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Yngve Bakken Nilsen"]
@@ -15,6 +15,7 @@ video_id: ZpTl_uDoSsw
 url: https://www.youtube.com/watch?v=ZpTl_uDoSsw
 youtube_url: https://www.youtube.com/watch?v=ZpTl_uDoSsw
 tags: ["AI-Assisted Development", "AI Fundamentals", "AI", "NDC", "Conferences", "2026", "Live", "fun", "Oslo", "Norway", "Yngve Bakken Nilsen"]
+topics: []
 transcript: true
 ---
 

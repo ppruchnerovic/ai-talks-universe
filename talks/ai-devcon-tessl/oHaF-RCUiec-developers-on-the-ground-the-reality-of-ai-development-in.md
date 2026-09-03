@@ -4,7 +4,7 @@ title: "Developers on the Ground: The Reality of AI Development in 2025"
 slug: developers-on-the-ground-the-reality-of-ai-development-in
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: oHaF-RCUiec
 url: https://www.youtube.com/watch?v=oHaF-RCUiec
 youtube_url: https://www.youtube.com/watch?v=oHaF-RCUiec
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

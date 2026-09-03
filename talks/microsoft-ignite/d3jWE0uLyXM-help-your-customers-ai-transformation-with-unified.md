@@ -4,7 +4,7 @@ title: "Help your customers’ AI transformation with unified analytics | BRK210
 slug: help-your-customers-ai-transformation-with-unified
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ashley Asdourian"]
@@ -15,6 +15,7 @@ video_id: d3jWE0uLyXM
 url: https://www.youtube.com/watch?v=d3jWE0uLyXM
 youtube_url: https://www.youtube.com/watch?v=d3jWE0uLyXM
 tags: ["AI", "Ashley Asdourian", "BRK210", "Breakout", "Data", "Data governance", "Data-Curated", "English (US)", "Help your customers’ AI transformation with unified analytics | BRK210", "Intermediate (200)", "Partner Business", "Solution Area", "Version v1", "Wangui McKelvey", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

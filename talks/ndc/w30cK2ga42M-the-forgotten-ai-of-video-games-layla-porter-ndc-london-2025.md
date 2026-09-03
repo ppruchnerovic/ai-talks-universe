@@ -4,7 +4,7 @@ title: "The Forgotten AI of Video Games - Layla Porter - NDC London 2025"
 slug: the-forgotten-ai-of-video-games-layla-porter-ndc-london-2025
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Layla Porter"]
@@ -15,6 +15,7 @@ video_id: w30cK2ga42M
 url: https://www.youtube.com/watch?v=w30cK2ga42M
 youtube_url: https://www.youtube.com/watch?v=w30cK2ga42M
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne
 slug: how-google-deepmind-runs-agents-at-scale-kp-sawhney-ian
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7gujZrJ9L5I
 url: https://www.youtube.com/watch?v=7gujZrJ9L5I
 youtube_url: https://www.youtube.com/watch?v=7gujZrJ9L5I
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

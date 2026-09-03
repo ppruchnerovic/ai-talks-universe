@@ -4,7 +4,7 @@ title: "Scaling LinkedIn's Online Training Solution with Ray | Ray Summit 2025"
 slug: scaling-linkedin-s-online-training-solution-with-ray-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: dMvZu4W0SG4
 url: https://www.youtube.com/watch?v=dMvZu4W0SG4
 youtube_url: https://www.youtube.com/watch?v=dMvZu4W0SG4
 tags: []
+topics: []
 transcript: false
 ---
 

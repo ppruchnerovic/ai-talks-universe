@@ -4,7 +4,7 @@ title: "Sponsored Session: Streamlining AI Solutions Development: S... Shinsuke 
 slug: sponsored-session-streamlining-ai-solutions-development-s
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: AEi_qWJ2z2Y
 url: https://www.youtube.com/watch?v=AEi_qWJ2z2Y
 youtube_url: https://www.youtube.com/watch?v=AEi_qWJ2z2Y
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

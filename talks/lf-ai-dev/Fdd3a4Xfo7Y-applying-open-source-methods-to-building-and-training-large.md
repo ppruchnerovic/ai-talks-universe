@@ -4,7 +4,7 @@ title: "Applying Open Source Methods to Building and Training Large Langu...- Ca
 slug: applying-open-source-methods-to-building-and-training-large
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Fdd3a4Xfo7Y
 url: https://www.youtube.com/watch?v=Fdd3a4Xfo7Y
 youtube_url: https://www.youtube.com/watch?v=Fdd3a4Xfo7Y
 tags: []
+topics: []
 transcript: false
 ---
 

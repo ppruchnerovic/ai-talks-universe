@@ -4,7 +4,7 @@ title: "The Future of Qwen: A Generalist Agent Model — Junyang Lin, Alibaba Qw
 slug: the-future-of-qwen-a-generalist-agent-model-junyang-lin
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Junyang Lin"]
@@ -15,6 +15,7 @@ video_id: b0xlsQ_6wUQ
 url: https://www.youtube.com/watch?v=b0xlsQ_6wUQ
 youtube_url: https://www.youtube.com/watch?v=b0xlsQ_6wUQ
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

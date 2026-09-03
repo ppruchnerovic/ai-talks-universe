@@ -4,7 +4,7 @@ title: "The #1 Mistake Killing MCP Adoption Inside Your Company"
 slug: the-1-mistake-killing-mcp-adoption-inside-your-company
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: g1zZXm_6Bx8
 url: https://www.youtube.com/watch?v=g1zZXm_6Bx8
 youtube_url: https://www.youtube.com/watch?v=g1zZXm_6Bx8
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

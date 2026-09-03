@@ -4,7 +4,7 @@ title: "Will Open Source AI Overtake Closed Models? Ft. Olama, Fireworks and Ope
 slug: will-open-source-ai-overtake-closed-models-ft-olama
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: aRpzxkct-WA
 url: https://www.youtube.com/watch?v=aRpzxkct-WA
 youtube_url: https://www.youtube.com/watch?v=aRpzxkct-WA
 tags: []
+topics: []
 transcript: false
 ---
 

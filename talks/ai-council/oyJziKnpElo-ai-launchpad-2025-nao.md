@@ -4,7 +4,7 @@ title: "AI Launchpad 2025: NAO"
 slug: ai-launchpad-2025-nao
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Claire Gouze"]
@@ -15,6 +15,7 @@ video_id: oyJziKnpElo
 url: https://www.youtube.com/watch?v=oyJziKnpElo
 youtube_url: https://www.youtube.com/watch?v=oyJziKnpElo
 tags: ["startup", "AI code editor", "analytics engineering", "ChatGPT", "artificial intelligence", "machine learning", "data tools", "SQL editor", "data development", "IDE", "data teams", "context switching", "Python tutorial", "developer tools", "code editor", "integrated development environment", "workflow optimization", "productivity tools", "collaboration tools", "version control integration", "debugging tools", "code completionRetryClaude can make mistakes. Please double-check responses."]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

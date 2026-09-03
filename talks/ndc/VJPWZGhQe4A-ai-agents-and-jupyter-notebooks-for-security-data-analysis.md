@@ -4,7 +4,7 @@ title: "AI Agents and Jupyter Notebooks for Security Data Analysis - Roberto Rod
 slug: ai-agents-and-jupyter-notebooks-for-security-data-analysis
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Roberto Rodriguez"]
@@ -15,6 +15,7 @@ video_id: VJPWZGhQe4A
 url: https://www.youtube.com/watch?v=VJPWZGhQe4A
 youtube_url: https://www.youtube.com/watch?v=VJPWZGhQe4A
 tags: ["ML", "AI", "Machine Learning", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Security", "Roberto Rodriguez"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Security, safety & red teaming"]
 transcript: true
 ---
 

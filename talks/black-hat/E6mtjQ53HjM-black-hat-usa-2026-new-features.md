@@ -4,7 +4,7 @@ title: "Black Hat USA 2026 - New Features"
 slug: black-hat-usa-2026-new-features
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: E6mtjQ53HjM
 url: https://www.youtube.com/watch?v=E6mtjQ53HjM
 youtube_url: https://www.youtube.com/watch?v=E6mtjQ53HjM
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

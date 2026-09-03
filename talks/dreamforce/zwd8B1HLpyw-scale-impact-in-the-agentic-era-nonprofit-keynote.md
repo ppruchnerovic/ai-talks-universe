@@ -4,7 +4,7 @@ title: "Scale Impact in the Agentic Era | Nonprofit Keynote, Dreamforce 2025"
 slug: scale-impact-in-the-agentic-era-nonprofit-keynote
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: zwd8B1HLpyw
 url: https://www.youtube.com/watch?v=zwd8B1HLpyw
 youtube_url: https://www.youtube.com/watch?v=zwd8B1HLpyw
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

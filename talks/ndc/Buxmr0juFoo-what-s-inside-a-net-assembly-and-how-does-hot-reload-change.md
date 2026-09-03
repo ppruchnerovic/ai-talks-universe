@@ -4,7 +4,7 @@ title: "What's Inside: A .NET assembly! (and how does Hot Reload change it?) - D
 slug: what-s-inside-a-net-assembly-and-how-does-hot-reload-change
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["David Wengier"]
@@ -15,6 +15,7 @@ video_id: Buxmr0juFoo
 url: https://www.youtube.com/watch?v=Buxmr0juFoo
 youtube_url: https://www.youtube.com/watch?v=Buxmr0juFoo
 tags: [".NET", "Programming Languages", "Tools", "Roslyn", "C#", "NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia", "David Wengier"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "The power of Cursor rules in Java Enterprise development by Juan Antonio
 slug: the-power-of-cursor-rules-in-java-enterprise-development-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: -OSYyY17VzE
 url: https://www.youtube.com/watch?v=-OSYyY17VzE
 youtube_url: https://www.youtube.com/watch?v=-OSYyY17VzE
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

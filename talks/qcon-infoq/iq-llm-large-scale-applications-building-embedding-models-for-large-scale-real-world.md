@@ -4,7 +4,7 @@ title: "Building Embedding Models for Large-Scale Real-World Applications"
 slug: building-embedding-models-for-large-scale-real-world
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Sahil Dua"]
@@ -15,6 +15,7 @@ video_id: iq-llm-large-scale-applications
 url: https://www.infoq.com/presentations/llm-large-scale-applications/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

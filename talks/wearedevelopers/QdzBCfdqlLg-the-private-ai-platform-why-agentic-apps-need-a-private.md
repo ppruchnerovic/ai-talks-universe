@@ -4,7 +4,7 @@ title: "The Private AI Platform: Why Agentic Apps Need a Private Application Pla
 slug: the-private-ai-platform-why-agentic-apps-need-a-private
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Oren Penso"]
@@ -15,6 +15,7 @@ video_id: QdzBCfdqlLg
 url: https://www.youtube.com/watch?v=QdzBCfdqlLg
 youtube_url: https://www.youtube.com/watch?v=QdzBCfdqlLg
 tags: ["Cloud & AI Infrastructure", "AI Coding Assistants", "Generative AI (GenAI)", "Internal Platforms", "Multi-Cloud"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

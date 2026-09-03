@@ -4,7 +4,7 @@ title: "Tidy Finance in Practice: How Explicit Assumptions Avoid Bad Investment 
 slug: tidy-finance-in-practice-how-explicit-assumptions-avoid-bad
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Christoph Frey"]
@@ -15,6 +15,7 @@ video_id: QAxh5FpVqT8
 url: https://www.youtube.com/watch?v=QAxh5FpVqT8
 youtube_url: https://www.youtube.com/watch?v=QAxh5FpVqT8
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

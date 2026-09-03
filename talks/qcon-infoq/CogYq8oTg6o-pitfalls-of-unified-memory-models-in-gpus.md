@@ -4,7 +4,7 @@ title: "Pitfalls of Unified Memory Models in GPUs"
 slug: pitfalls-of-unified-memory-models-in-gpus
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: CogYq8oTg6o
 url: https://www.youtube.com/watch?v=CogYq8oTg6o
 youtube_url: https://www.youtube.com/watch?v=CogYq8oTg6o
 tags: ["Software Development", "CPU", "GPU", "Performance", "InfoQ", "QCon London", "Transcript"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

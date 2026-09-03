@@ -4,7 +4,7 @@ title: "Unveiling the simple math that powers AI by Marianne Hoornenborg"
 slug: unveiling-the-simple-math-that-powers-ai-by-marianne
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Marianne Hoornenborg"]
@@ -15,6 +15,7 @@ video_id: wY2JEeRZSI8
 url: https://www.youtube.com/watch?v=wY2JEeRZSI8
 youtube_url: https://www.youtube.com/watch?v=wY2JEeRZSI8
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

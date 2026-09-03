@@ -4,7 +4,7 @@ title: "AI Agents Beyond Context Limits | Maksim Shaposhnikov"
 slug: ai-agents-beyond-context-limits-maksim-shaposhnikov
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Maksim Shaposhnikov"]
@@ -15,6 +15,7 @@ video_id: BQbuAykmleQ
 url: https://www.youtube.com/watch?v=BQbuAykmleQ
 youtube_url: https://www.youtube.com/watch?v=BQbuAykmleQ
 tags: ["ainativedev"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

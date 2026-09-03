@@ -4,7 +4,7 @@ title: "Spec-Driven Dev Is Back. But Not How You Think • Daniel Terhorst-North
 slug: spec-driven-dev-is-back-but-not-how-you-think-daniel
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6mLYZF97oaU
 url: https://www.youtube.com/watch?v=6mLYZF97oaU
 youtube_url: https://www.youtube.com/watch?v=6mLYZF97oaU
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "Daniel Terhorst-North", "Gojko Adzic", "Dan North", "Spec-driven", "Spec-driven-design", "AI Teams", "Spec-Driven Development"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

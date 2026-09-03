@@ -4,7 +4,7 @@ title: "Beyond Sandboxes: Architecting Durable Runtimes for AI Agents"
 slug: beyond-sandboxes-architecting-durable-runtimes-for-ai-agents
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: WFyFCFC15dE
 url: https://www.youtube.com/watch?v=WFyFCFC15dE
 youtube_url: https://www.youtube.com/watch?v=WFyFCFC15dE
 tags: ["AI Agents", "Agent Orchestration", "Agentic AI", "MLOps", "Software Architecture", "Generative AI", "AI Engineering", "Distributed Systems"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

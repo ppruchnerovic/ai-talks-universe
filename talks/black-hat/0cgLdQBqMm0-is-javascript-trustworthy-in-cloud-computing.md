@@ -4,7 +4,7 @@ title: "Is JavaScript Trustworthy in Cloud Computing?"
 slug: is-javascript-trustworthy-in-cloud-computing
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0cgLdQBqMm0
 url: https://www.youtube.com/watch?v=0cgLdQBqMm0
 youtube_url: https://www.youtube.com/watch?v=0cgLdQBqMm0
 tags: []
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

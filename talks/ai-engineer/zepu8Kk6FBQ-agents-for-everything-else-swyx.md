@@ -4,7 +4,7 @@ title: "Agents for Everything Else — swyx"
 slug: agents-for-everything-else-swyx
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: zepu8Kk6FBQ
 url: https://www.youtube.com/watch?v=zepu8Kk6FBQ
 youtube_url: https://www.youtube.com/watch?v=zepu8Kk6FBQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

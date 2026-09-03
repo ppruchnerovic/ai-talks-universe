@@ -4,7 +4,7 @@ title: "How xAI Scales Image & Video Processing with Ray | Ray Summit 2025"
 slug: how-xai-scales-image-video-processing-with-ray-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: z9RHaQZnWM4
 url: https://www.youtube.com/watch?v=z9RHaQZnWM4
 youtube_url: https://www.youtube.com/watch?v=z9RHaQZnWM4
 tags: []
+topics: []
 transcript: false
 ---
 

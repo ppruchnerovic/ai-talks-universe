@@ -4,7 +4,7 @@ title: "Advancing Network Threat Detection Thru Standardized Feature Extraction 
 slug: advancing-network-threat-detection-thru-standardized
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _06VmadFSTI
 url: https://www.youtube.com/watch?v=_06VmadFSTI
 youtube_url: https://www.youtube.com/watch?v=_06VmadFSTI
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

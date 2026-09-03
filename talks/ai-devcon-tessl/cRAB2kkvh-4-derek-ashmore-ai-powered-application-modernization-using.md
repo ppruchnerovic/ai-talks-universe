@@ -4,7 +4,7 @@ title: "Derek Ashmore - AI Powered Application Modernization using Claude Flow |
 slug: derek-ashmore-ai-powered-application-modernization-using
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Derek Ashmore"]
@@ -15,6 +15,7 @@ video_id: cRAB2kkvh-4
 url: https://www.youtube.com/watch?v=cRAB2kkvh-4
 youtube_url: https://www.youtube.com/watch?v=cRAB2kkvh-4
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

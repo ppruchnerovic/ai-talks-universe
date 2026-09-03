@@ -4,7 +4,7 @@ title: "The Infrastructure Challenge behind Production AI"
 slug: the-infrastructure-challenge-behind-production-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Live - June 2026"
 year: 2026
 speakers: ["Simerus Mahesh", "Alex Infanzon", "Meryem Arik", "Luca Bianchi", "Renato Losio"]
@@ -15,6 +15,7 @@ video_id: iq-ai-infrastructure-scaling-architecture
 url: https://www.infoq.com/presentations/ai-infrastructure-scaling-architecture/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

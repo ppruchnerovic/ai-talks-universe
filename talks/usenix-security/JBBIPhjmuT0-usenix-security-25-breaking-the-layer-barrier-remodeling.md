@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Breaking the Layer Barrier: Remodeling Private Tra
 slug: usenix-security-25-breaking-the-layer-barrier-remodeling
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: JBBIPhjmuT0
 url: https://www.youtube.com/watch?v=JBBIPhjmuT0
 youtube_url: https://www.youtube.com/watch?v=JBBIPhjmuT0
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

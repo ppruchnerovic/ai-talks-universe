@@ -4,7 +4,7 @@ title: "Navigate the agentic shift in software development with Google"
 slug: navigate-the-agentic-shift-in-software-development-with
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Z9Zz75pmOeg
 url: https://www.youtube.com/watch?v=Z9Zz75pmOeg
 youtube_url: https://www.youtube.com/watch?v=Z9Zz75pmOeg
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

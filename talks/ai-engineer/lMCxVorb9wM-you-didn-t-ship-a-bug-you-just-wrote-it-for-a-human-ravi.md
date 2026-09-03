@@ -4,7 +4,7 @@ title: "You Didn't Ship a Bug. You Just Wrote It for a Human. - Ravi Madabhushi,
 slug: you-didn-t-ship-a-bug-you-just-wrote-it-for-a-human-ravi
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ravi Madabhushi"]
@@ -15,6 +15,7 @@ video_id: lMCxVorb9wM
 url: https://www.youtube.com/watch?v=lMCxVorb9wM
 youtube_url: https://www.youtube.com/watch?v=lMCxVorb9wM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

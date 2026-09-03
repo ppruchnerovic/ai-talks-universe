@@ -4,7 +4,7 @@ title: "Inside AI-First Companies: How They Hire and Build Teams"
 slug: inside-ai-first-companies-how-they-hire-and-build-teams
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: pEYBr27h87k
 url: https://www.youtube.com/watch?v=pEYBr27h87k
 youtube_url: https://www.youtube.com/watch?v=pEYBr27h87k
 tags: ["tech", "AI", "artifical intelligence", "ai-first companies", "people", "culture", "hiring", "recruiting", "recrutiment", "automation", "human-first", "leadership", "transformation"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

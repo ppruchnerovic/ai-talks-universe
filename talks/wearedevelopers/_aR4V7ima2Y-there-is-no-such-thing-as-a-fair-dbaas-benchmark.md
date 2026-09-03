@@ -4,7 +4,7 @@ title: "There Is No Such Thing as a Fair DBaaS Benchmark"
 slug: there-is-no-such-thing-as-a-fair-dbaas-benchmark
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Daniel Seybold"]
@@ -15,6 +15,7 @@ video_id: _aR4V7ima2Y
 url: https://www.youtube.com/watch?v=_aR4V7ima2Y
 youtube_url: https://www.youtube.com/watch?v=_aR4V7ima2Y
 tags: ["Data & Databases", "Cassandra", "MongoDB", "Multi-Cloud", "Performance", "PostgreSQL"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

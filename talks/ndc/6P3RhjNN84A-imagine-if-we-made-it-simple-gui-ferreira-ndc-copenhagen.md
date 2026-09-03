@@ -4,7 +4,7 @@ title: "Imagine If We Made It Simple - Gui Ferreira - NDC Copenhagen 2026"
 slug: imagine-if-we-made-it-simple-gui-ferreira-ndc-copenhagen
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Gui Ferreira"]
@@ -15,6 +15,7 @@ video_id: 6P3RhjNN84A
 url: https://www.youtube.com/watch?v=6P3RhjNN84A
 youtube_url: https://www.youtube.com/watch?v=6P3RhjNN84A
 tags: ["Agile", "Soft Skills", "People", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Gui Ferreira"]
+topics: []
 transcript: true
 ---
 

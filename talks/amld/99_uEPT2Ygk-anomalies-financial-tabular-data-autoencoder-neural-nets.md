@@ -4,7 +4,7 @@ title: "Anomalies: Financial Tabular Data, Autoencoder Neural Nets | Applied Exp
 slug: anomalies-financial-tabular-data-autoencoder-neural-nets
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Timur Sattarov"]
@@ -15,6 +15,7 @@ video_id: 99_uEPT2Ygk
 url: https://www.youtube.com/watch?v=99_uEPT2Ygk
 youtube_url: https://www.youtube.com/watch?v=99_uEPT2Ygk
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

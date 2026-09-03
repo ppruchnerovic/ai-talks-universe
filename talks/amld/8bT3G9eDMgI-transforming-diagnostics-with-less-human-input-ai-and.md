@@ -4,7 +4,7 @@ title: "Transforming diagnostics with less human input | AI and Healthcare Insig
 slug: transforming-diagnostics-with-less-human-input-ai-and
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Marios Anthimopoulos"]
@@ -15,6 +15,7 @@ video_id: 8bT3G9eDMgI
 url: https://www.youtube.com/watch?v=8bT3G9eDMgI
 youtube_url: https://www.youtube.com/watch?v=8bT3G9eDMgI
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

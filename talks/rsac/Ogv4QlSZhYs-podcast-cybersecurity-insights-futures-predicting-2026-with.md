@@ -4,7 +4,7 @@ title: "Podcast: Cybersecurity Insights & Futures: Predicting 2026 with the RSAC
 slug: podcast-cybersecurity-insights-futures-predicting-2026-with
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ogv4QlSZhYs
 url: https://www.youtube.com/watch?v=Ogv4QlSZhYs
 youtube_url: https://www.youtube.com/watch?v=Ogv4QlSZhYs
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

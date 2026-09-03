@@ -4,7 +4,7 @@ title: "Data Culture as a Product"
 slug: data-culture-as-a-product
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Abhi Sivasailam"]
@@ -15,6 +15,7 @@ video_id: cylAr9oUluI
 url: https://www.youtube.com/watch?v=cylAr9oUluI
 youtube_url: https://www.youtube.com/watch?v=cylAr9oUluI
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

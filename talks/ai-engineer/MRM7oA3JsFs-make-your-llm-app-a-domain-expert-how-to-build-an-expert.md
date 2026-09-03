@@ -4,7 +4,7 @@ title: "Make your LLM app a Domain Expert: How to Build an Expert System — Chr
 slug: make-your-llm-app-a-domain-expert-how-to-build-an-expert
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Christopher Lovejoy"]
@@ -15,6 +15,7 @@ video_id: MRM7oA3JsFs
 url: https://www.youtube.com/watch?v=MRM7oA3JsFs
 youtube_url: https://www.youtube.com/watch?v=MRM7oA3JsFs
 tags: []
+topics: ["Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Spies, Lies, and Cybercrime: Insider Perspectives from a Former FBI Agen
 slug: spies-lies-and-cybercrime-insider-perspectives-from-a
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3SOw8rwKr7g
 url: https://www.youtube.com/watch?v=3SOw8rwKr7g
 youtube_url: https://www.youtube.com/watch?v=3SOw8rwKr7g
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

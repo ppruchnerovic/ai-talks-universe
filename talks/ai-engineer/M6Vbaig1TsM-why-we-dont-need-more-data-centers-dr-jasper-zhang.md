@@ -4,7 +4,7 @@ title: "Why We Don’t Need More Data Centers - Dr. Jasper Zhang, Hyperbolic"
 slug: why-we-dont-need-more-data-centers-dr-jasper-zhang
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dr. Jasper Zhang"]
@@ -15,6 +15,7 @@ video_id: M6Vbaig1TsM
 url: https://www.youtube.com/watch?v=M6Vbaig1TsM
 youtube_url: https://www.youtube.com/watch?v=M6Vbaig1TsM
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "GenAI Is a Junior Dev With Root Access"
 slug: genai-is-a-junior-dev-with-root-access
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Julian Totzek-Hallhuber"]
@@ -15,6 +15,7 @@ video_id: T84T6TKd5-I
 url: https://www.youtube.com/watch?v=T84T6TKd5-I
 youtube_url: https://www.youtube.com/watch?v=T84T6TKd5-I
 tags: ["Security & Privacy", "AI Coding Assistants", "Code Generation", "Security"]
+topics: ["Coding assistants & agents", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

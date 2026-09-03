@@ -4,7 +4,7 @@ title: "Predictive Auto-Scaling at MongoDB"
 slug: predictive-auto-scaling-at-mongodb
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["A. Jesse Jiryu Davis"]
@@ -15,6 +15,7 @@ video_id: SqyLP1CZDFk
 url: https://www.youtube.com/watch?v=SqyLP1CZDFk
 youtube_url: https://www.youtube.com/watch?v=SqyLP1CZDFk
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

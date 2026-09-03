@@ -4,7 +4,7 @@ title: "The MCP Features Bloomberg Built for High Stakes Financial AI"
 slug: the-mcp-features-bloomberg-built-for-high-stakes-financial
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: z6SuFQYClQI
 url: https://www.youtube.com/watch?v=z6SuFQYClQI
 youtube_url: https://www.youtube.com/watch?v=z6SuFQYClQI
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

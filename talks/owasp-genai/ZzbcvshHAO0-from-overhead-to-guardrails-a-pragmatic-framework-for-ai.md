@@ -4,7 +4,7 @@ title: "From Overhead to Guardrails, a pragmatic Framework for AI Security at Sc
 slug: from-overhead-to-guardrails-a-pragmatic-framework-for-ai
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZzbcvshHAO0
 url: https://www.youtube.com/watch?v=ZzbcvshHAO0
 youtube_url: https://www.youtube.com/watch?v=ZzbcvshHAO0
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

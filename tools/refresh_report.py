@@ -39,7 +39,7 @@ import atu
 
 # Fields worth watching. A refresh legitimately adds to all of them; every one
 # of them has also been silently emptied by a throttled run.
-FIELDS = ("channel", "description", "year", "speakers", "tags", "published_at")
+FIELDS = ("channel", "description", "year", "speakers", "tags", "published_at", "topics")
 
 # Fraction of the corpus a field may lose before the run is called a
 # regression. Small non-zero: re-enumeration does drop the occasional video

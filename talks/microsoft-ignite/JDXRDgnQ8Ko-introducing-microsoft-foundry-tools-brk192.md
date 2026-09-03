@@ -4,7 +4,7 @@ title: "Introducing Microsoft Foundry Tools | BRK192"
 slug: introducing-microsoft-foundry-tools-brk192
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Xiaoying Guo", "Vinod Kurpad", "Zhuoqun Li"]
@@ -15,6 +15,7 @@ video_id: JDXRDgnQ8Ko
 url: https://www.youtube.com/watch?v=JDXRDgnQ8Ko
 youtube_url: https://www.youtube.com/watch?v=JDXRDgnQ8Ko
 tags: ["BRK192", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Introducing Microsoft Foundry Tools | BRK192", "Technical", "Vinod Kurpad", "Xiaoying Guo", "Zhuoqun Li", "abbf69c1-9421-45b2-ab13-8f07ddeac71f_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

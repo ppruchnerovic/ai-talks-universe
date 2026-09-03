@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Accelerating Business Value with Cloud and AI (BIZ3
 slug: aws-re-invent-2025-accelerating-business-value-with-cloud
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: DLzJw-2AAVw
 url: https://www.youtube.com/watch?v=DLzJw-2AAVw
 youtube_url: https://www.youtube.com/watch?v=DLzJw-2AAVw
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Piotr Stepinski-From Handwritten Notes to Smart Knowledge_ Build Local A
 slug: piotr-stepinski-from-handwritten-notes-to-smart-knowledge
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: aRaqkmDv-MU
 url: https://www.youtube.com/watch?v=aRaqkmDv-MU
 youtube_url: https://www.youtube.com/watch?v=aRaqkmDv-MU
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

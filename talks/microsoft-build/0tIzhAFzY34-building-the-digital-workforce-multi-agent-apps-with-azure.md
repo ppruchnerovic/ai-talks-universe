@@ -4,7 +4,7 @@ title: "Building the digital workforce: Multi-agent apps with Azure AI Foundry |
 slug: building-the-digital-workforce-multi-agent-apps-with-azure
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0tIzhAFzY34
 url: https://www.youtube.com/watch?v=0tIzhAFzY34
 youtube_url: https://www.youtube.com/watch?v=0tIzhAFzY34
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

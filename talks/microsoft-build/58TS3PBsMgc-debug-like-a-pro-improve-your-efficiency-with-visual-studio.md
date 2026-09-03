@@ -4,7 +4,7 @@ title: "Debug Like a Pro: Improve Your Efficiency with Visual Studio & Copilot |
 slug: debug-like-a-pro-improve-your-efficiency-with-visual-studio
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 58TS3PBsMgc
 url: https://www.youtube.com/watch?v=58TS3PBsMgc
 youtube_url: https://www.youtube.com/watch?v=58TS3PBsMgc
 tags: []
+topics: []
 transcript: false
 ---
 

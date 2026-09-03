@@ -4,7 +4,7 @@ title: "No More Screenshots. Web MCP Lets Agents Talk to Your Website Directly"
 slug: no-more-screenshots-web-mcp-lets-agents-talk-to-your
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: vuxztj8MXxI
 url: https://www.youtube.com/watch?v=vuxztj8MXxI
 youtube_url: https://www.youtube.com/watch?v=vuxztj8MXxI
 tags: ["AI agents", "Apple AI model", "Apple AI model usage", "ChatGPT browsing", "Claude agent mode", "JavaScript API", "Web MCP", "Web MCP vs traditional API", "agentic browsing", "ainativedev", "future of web apps and AI", "how to improve agent browsing", "web app development", "website interactions", "what is Web MCP"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

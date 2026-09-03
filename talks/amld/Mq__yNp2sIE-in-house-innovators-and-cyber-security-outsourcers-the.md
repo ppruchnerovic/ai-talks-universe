@@ -4,7 +4,7 @@ title: "In-house Innovators and Cyber Security Outsourcers | The Digital Age | O
 slug: in-house-innovators-and-cyber-security-outsourcers-the
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Orlando Gomes"]
@@ -15,6 +15,7 @@ video_id: Mq__yNp2sIE
 url: https://www.youtube.com/watch?v=Mq__yNp2sIE
 youtube_url: https://www.youtube.com/watch?v=Mq__yNp2sIE
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

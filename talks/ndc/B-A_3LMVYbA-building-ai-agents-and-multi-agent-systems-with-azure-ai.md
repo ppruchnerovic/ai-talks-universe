@@ -4,7 +4,7 @@ title: "Building AI Agents and Multi-Agent Systems with Azure AI - Henri Schulte
 slug: building-ai-agents-and-multi-agent-systems-with-azure-ai
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Henri Schulte"]
@@ -15,6 +15,7 @@ video_id: B-A_3LMVYbA
 url: https://www.youtube.com/watch?v=B-A_3LMVYbA
 youtube_url: https://www.youtube.com/watch?v=B-A_3LMVYbA
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

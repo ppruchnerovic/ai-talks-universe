@@ -4,7 +4,7 @@ title: "Best Practices For Cost-Effective Development And Deployment On Snowflak
 slug: best-practices-for-cost-effective-development-and
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Wr2eatgTdR0
 url: https://www.youtube.com/watch?v=Wr2eatgTdR0
 youtube_url: https://www.youtube.com/watch?v=Wr2eatgTdR0
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

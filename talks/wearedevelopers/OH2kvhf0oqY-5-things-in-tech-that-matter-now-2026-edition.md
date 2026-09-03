@@ -4,7 +4,7 @@ title: "5 Things in Tech That Matter Now - 2026 Edition"
 slug: 5-things-in-tech-that-matter-now-2026-edition
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Christian Heilmann"]
@@ -15,6 +15,7 @@ video_id: OH2kvhf0oqY
 url: https://www.youtube.com/watch?v=OH2kvhf0oqY
 youtube_url: https://www.youtube.com/watch?v=OH2kvhf0oqY
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

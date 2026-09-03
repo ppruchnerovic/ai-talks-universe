@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | Social Media Manipulation Wargaming for Cyberliter
 slug: black-hat-asia-2026-social-media-manipulation-wargaming-for
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: zihOGGeoaTU
 url: https://www.youtube.com/watch?v=zihOGGeoaTU
 youtube_url: https://www.youtube.com/watch?v=zihOGGeoaTU
 tags: []
+topics: []
 transcript: true
 ---
 

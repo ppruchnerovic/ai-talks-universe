@@ -4,7 +4,7 @@ title: "Building an AI Pen-Testing Assistant"
 slug: building-an-ai-pen-testing-assistant
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: I7e8NpxFoxo
 url: https://www.youtube.com/watch?v=I7e8NpxFoxo
 youtube_url: https://www.youtube.com/watch?v=I7e8NpxFoxo
 tags: []
+topics: []
 transcript: false
 ---
 

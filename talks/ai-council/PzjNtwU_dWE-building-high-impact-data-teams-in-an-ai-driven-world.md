@@ -4,7 +4,7 @@ title: "Building High-Impact Data Teams in an AI-Driven World"
 slug: building-high-impact-data-teams-in-an-ai-driven-world
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Alexa Garrison"]
@@ -15,6 +15,7 @@ video_id: PzjNtwU_dWE
 url: https://www.youtube.com/watch?v=PzjNtwU_dWE
 youtube_url: https://www.youtube.com/watch?v=PzjNtwU_dWE
 tags: ["team building", "data teams", "AI leadership", "ChatGPT", "artificial intelligence", "machine learning", "data strategy", "organizational design", "AI driven teams", "data leadership", "team management", "data culture", "Python tutorial", "talent acquisition", "skill development", "team dynamics", "leadership development", "performance management", "organizational behavior", "culture transformation", "change leadership"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

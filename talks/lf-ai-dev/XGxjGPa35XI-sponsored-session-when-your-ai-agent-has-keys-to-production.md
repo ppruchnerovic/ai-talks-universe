@@ -4,7 +4,7 @@ title: "Sponsored Session: When Your AI Agent Has Keys to Production: Governance
 slug: sponsored-session-when-your-ai-agent-has-keys-to-production
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: XGxjGPa35XI
 url: https://www.youtube.com/watch?v=XGxjGPa35XI
 youtube_url: https://www.youtube.com/watch?v=XGxjGPa35XI
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

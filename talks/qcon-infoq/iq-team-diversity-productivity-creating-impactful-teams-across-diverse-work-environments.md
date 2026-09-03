@@ -4,7 +4,7 @@ title: "Creating Impactful Teams across Diverse Work Environments"
 slug: creating-impactful-teams-across-diverse-work-environments
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Natan Žabkar Nordberg"]
@@ -15,6 +15,7 @@ video_id: iq-team-diversity-productivity
 url: https://www.infoq.com/presentations/team-diversity-productivity/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Webcast: Securing AI Like a Boss"
 slug: webcast-securing-ai-like-a-boss
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Malcolm Harkins", "Hidden Layer"]
@@ -15,6 +15,7 @@ video_id: S8WpaFxTtlQ
 url: https://www.youtube.com/watch?v=S8WpaFxTtlQ
 youtube_url: https://www.youtube.com/watch?v=S8WpaFxTtlQ
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

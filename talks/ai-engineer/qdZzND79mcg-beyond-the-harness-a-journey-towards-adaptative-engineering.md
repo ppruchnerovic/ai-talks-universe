@@ -4,7 +4,7 @@ title: "Beyond the Harness: A Journey Towards Adaptative Engineering - Rajiv Cha
 slug: beyond-the-harness-a-journey-towards-adaptative-engineering
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rajiv Chandegra"]
@@ -15,6 +15,7 @@ video_id: qdZzND79mcg
 url: https://www.youtube.com/watch?v=qdZzND79mcg
 youtube_url: https://www.youtube.com/watch?v=qdZzND79mcg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

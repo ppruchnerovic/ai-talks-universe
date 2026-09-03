@@ -4,7 +4,7 @@ title: "Power Play: AI Dominance Depends on Energy Resilience"
 slug: power-play-ai-dominance-depends-on-energy-resilience
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: o1r1PEgoTX8
 url: https://www.youtube.com/watch?v=o1r1PEgoTX8
 youtube_url: https://www.youtube.com/watch?v=o1r1PEgoTX8
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

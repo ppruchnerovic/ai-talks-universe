@@ -4,7 +4,7 @@ title: "The Right 300 Tokens Beat 100k Noisy Ones: The Architecture of Context E
 slug: the-right-300-tokens-beat-100k-noisy-ones-the-architecture
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2026"
 year: 2026
 speakers: ["Patrick Debois", "Baruch Sadogursky"]
@@ -15,6 +15,7 @@ video_id: iq-architecture-context-engineering
 url: https://www.infoq.com/presentations/architecture-context-engineering/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

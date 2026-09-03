@@ -4,7 +4,7 @@ title: "Robotics AI for Industrial Applications"
 slug: robotics-ai-for-industrial-applications
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: hL_GKapQd1k
 url: https://www.youtube.com/watch?v=hL_GKapQd1k
 youtube_url: https://www.youtube.com/watch?v=hL_GKapQd1k
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Understanding Kubernetes in a visual way"
 slug: understanding-kubernetes-in-a-visual-way
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Aurélie Vache"]
@@ -15,6 +15,7 @@ video_id: 8uTU388vyVU
 url: https://www.youtube.com/watch?v=8uTU388vyVU
 youtube_url: https://www.youtube.com/watch?v=8uTU388vyVU
 tags: ["Cloud & AI Infrastructure", "Containers"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

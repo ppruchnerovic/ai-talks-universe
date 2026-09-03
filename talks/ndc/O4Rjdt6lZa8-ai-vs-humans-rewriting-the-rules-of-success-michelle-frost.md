@@ -4,7 +4,7 @@ title: "AI vs Humans: Rewriting the Rules of Success - Michelle Frost - NDC Lond
 slug: ai-vs-humans-rewriting-the-rules-of-success-michelle-frost
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Michelle Frost"]
@@ -15,6 +15,7 @@ video_id: O4Rjdt6lZa8
 url: https://www.youtube.com/watch?v=O4Rjdt6lZa8
 youtube_url: https://www.youtube.com/watch?v=O4Rjdt6lZa8
 tags: []
+topics: []
 transcript: false
 ---
 

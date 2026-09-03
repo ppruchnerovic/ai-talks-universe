@@ -4,7 +4,7 @@ title: "Milliseconds to Magic: Real‑Time Workflows using the Gemini Live API a
 slug: milliseconds-to-magic-realtime-workflows-using-the-gemini
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fWY1FQwpWkY
 url: https://www.youtube.com/watch?v=fWY1FQwpWkY
 youtube_url: https://www.youtube.com/watch?v=fWY1FQwpWkY
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

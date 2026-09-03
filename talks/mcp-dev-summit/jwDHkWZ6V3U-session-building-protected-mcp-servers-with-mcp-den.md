@@ -4,7 +4,7 @@ title: "[Session] Building Protected MCP Servers with MCP - Den Delimarsky from 
 slug: session-building-protected-mcp-servers-with-mcp-den
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: jwDHkWZ6V3U
 url: https://www.youtube.com/watch?v=jwDHkWZ6V3U
 youtube_url: https://www.youtube.com/watch?v=jwDHkWZ6V3U
 tags: ["mcp", "model context protocol", "ai agents", "ai for devs", "mcpdevsummit"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

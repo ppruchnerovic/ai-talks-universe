@@ -4,7 +4,7 @@ title: "The Vicious Loop:Why Stateless Agents Fail in Production and How We Buil
 slug: the-vicious-loop-why-stateless-agents-fail-in-production
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Hd4eh5ja1Jg
 url: https://www.youtube.com/watch?v=Hd4eh5ja1Jg
 youtube_url: https://www.youtube.com/watch?v=Hd4eh5ja1Jg
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

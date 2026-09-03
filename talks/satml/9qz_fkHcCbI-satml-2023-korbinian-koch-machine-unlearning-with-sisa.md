@@ -4,7 +4,7 @@ title: "SaTML 2023 - Korbinian Koch - Machine Unlearning with SISA Comes at the 
 slug: satml-2023-korbinian-koch-machine-unlearning-with-sisa
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Korbinian Koch"]
@@ -15,6 +15,7 @@ video_id: 9qz_fkHcCbI
 url: https://www.youtube.com/watch?v=9qz_fkHcCbI
 youtube_url: https://www.youtube.com/watch?v=9qz_fkHcCbI
 tags: []
+topics: []
 transcript: false
 ---
 

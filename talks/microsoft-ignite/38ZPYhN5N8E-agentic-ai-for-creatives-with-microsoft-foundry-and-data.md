@@ -4,7 +4,7 @@ title: "Agentic AI for creatives with Microsoft Foundry and data | BRK200"
 slug: agentic-ai-for-creatives-with-microsoft-foundry-and-data
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Marco Casalaina", "James Codella", "Eva Jennings", "Rohani Jotshi", "Jari Koister", "Kristijan Risteski", "Bill Wittress"]
@@ -15,6 +15,7 @@ video_id: 38ZPYhN5N8E
 url: https://www.youtube.com/watch?v=38ZPYhN5N8E
 youtube_url: https://www.youtube.com/watch?v=38ZPYhN5N8E
 tags: ["Agentic AI for creatives with Microsoft Foundry and data | BRK200", "BRK200", "English (US)", "Eva Jennings", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "James Codella", "Marco Casalaina", "Rohani Jotshi", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

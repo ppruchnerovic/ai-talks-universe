@@ -4,7 +4,7 @@ title: "10 Tips To Level Up Your AI-Assisted Coding - Aleksander Stensby - NDC L
 slug: 10-tips-to-level-up-your-ai-assisted-coding-aleksander
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Aleksander Stensby"]
@@ -15,6 +15,7 @@ video_id: NbenxkeJkEA
 url: https://www.youtube.com/watch?v=NbenxkeJkEA
 youtube_url: https://www.youtube.com/watch?v=NbenxkeJkEA
 tags: ["AI", "NDC", "London", "2026", "Live", "Fun", "UK", "England", "Great Britain", "United Kingdom", "Aleksander Stensby"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Prompting & context engineering"]
 transcript: true
 ---
 

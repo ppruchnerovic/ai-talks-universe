@@ -4,7 +4,7 @@ title: "How Evals and Prompts Shape Agent Behavior — Preetika Bhateja & Daniel
 slug: how-evals-and-prompts-shape-agent-behavior-preetika-bhateja
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Preetika Bhateja", "Daniel Bump"]
@@ -15,6 +15,7 @@ video_id: xyL2Ltkh-SA
 url: https://www.youtube.com/watch?v=xyL2Ltkh-SA
 youtube_url: https://www.youtube.com/watch?v=xyL2Ltkh-SA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Multimodal, vision, speech & robotics", "Prompting & context engineering"]
 transcript: true
 ---
 

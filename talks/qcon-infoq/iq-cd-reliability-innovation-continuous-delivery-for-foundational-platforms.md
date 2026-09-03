@@ -4,7 +4,7 @@ title: "Continuous Delivery for Foundational Platforms"
 slug: continuous-delivery-for-foundational-platforms
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Ian Nowland"]
@@ -15,6 +15,7 @@ video_id: iq-cd-reliability-innovation
 url: https://www.infoq.com/presentations/cd-reliability-innovation/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

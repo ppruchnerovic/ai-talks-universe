@@ -4,7 +4,7 @@ title: "Apple’s Approach to Scalable Machine Learning Infrastructure on Ray | 
 slug: apples-approach-to-scalable-machine-learning-infrastructure
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: qnhtKGDhVbg
 url: https://www.youtube.com/watch?v=qnhtKGDhVbg
 youtube_url: https://www.youtube.com/watch?v=qnhtKGDhVbg
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

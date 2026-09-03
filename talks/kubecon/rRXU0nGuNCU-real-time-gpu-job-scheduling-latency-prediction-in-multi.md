@@ -4,7 +4,7 @@ title: "Real-Time GPU Job Scheduling Latency Prediction in Multi-Cluster Kuberne
 slug: real-time-gpu-job-scheduling-latency-prediction-in-multi
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: ["Sujoy Dutta"]
@@ -15,6 +15,7 @@ video_id: rRXU0nGuNCU
 url: https://www.youtube.com/watch?v=rRXU0nGuNCU
 youtube_url: https://www.youtube.com/watch?v=rRXU0nGuNCU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

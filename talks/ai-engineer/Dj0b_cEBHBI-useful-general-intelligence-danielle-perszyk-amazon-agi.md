@@ -4,7 +4,7 @@ title: "Useful General Intelligence — Danielle Perszyk, Amazon AGI"
 slug: useful-general-intelligence-danielle-perszyk-amazon-agi
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Useful General Intelligence", "Danielle Perszyk"]
@@ -15,6 +15,7 @@ video_id: Dj0b_cEBHBI
 url: https://www.youtube.com/watch?v=Dj0b_cEBHBI
 youtube_url: https://www.youtube.com/watch?v=Dj0b_cEBHBI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

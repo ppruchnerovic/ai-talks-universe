@@ -4,7 +4,7 @@ title: "Partner acceleration in the Americas for Small and Medium Enterprise | P
 slug: partner-acceleration-in-the-americas-for-small-and-medium
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Alistair Butler", "Federico Charosky", "Harpreet Girn", "Jose Gomez Cueto", "Brian Matthews", "Sanju Nair", "Pablo Rodriguez Leis", "Erwin Visser"]
@@ -15,6 +15,7 @@ video_id: BFNS95be8g4
 url: https://www.youtube.com/watch?v=BFNS95be8g4
 youtube_url: https://www.youtube.com/watch?v=BFNS95be8g4
 tags: ["Microsoft AI Cloud Partner Program", "Modernize SecOps with a unified platform", "PBRK438", "Partner acceleration in the Americas for Small and Medium Enterprise | PBRK438", "Secure your data", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

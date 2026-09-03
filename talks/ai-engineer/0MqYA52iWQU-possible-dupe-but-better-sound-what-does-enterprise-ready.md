@@ -4,7 +4,7 @@ title: "(possible dupe but better sound) What does Enterprise Ready MCP mean? â€
 slug: possible-dupe-but-better-sound-what-does-enterprise-ready
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Tobin South"]
@@ -15,6 +15,7 @@ video_id: 0MqYA52iWQU
 url: https://www.youtube.com/watch?v=0MqYA52iWQU
 youtube_url: https://www.youtube.com/watch?v=0MqYA52iWQU
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

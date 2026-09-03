@@ -4,7 +4,7 @@ title: "Building a Cloud Platform Where Everything is Just Another Kubernetes Re
 slug: building-a-cloud-platform-where-everything-is-just-another
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Patrick Koss"]
@@ -15,6 +15,7 @@ video_id: jT5yIs8tvgQ
 url: https://www.youtube.com/watch?v=jT5yIs8tvgQ
 youtube_url: https://www.youtube.com/watch?v=jT5yIs8tvgQ
 tags: ["Cloud & AI Infrastructure", "Automation", "DevOps", "DevSecOps", "GitOps", "Infrastructure", "Infrastructure as Code (IaC)"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

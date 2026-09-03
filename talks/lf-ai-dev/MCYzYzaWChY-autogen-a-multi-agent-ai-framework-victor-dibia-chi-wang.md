@@ -4,7 +4,7 @@ title: "AutoGen: A Multi-Agent AI Framework - Victor Dibia & Chi Wang, Microsoft
 slug: autogen-a-multi-agent-ai-framework-victor-dibia-chi-wang
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Victor Dibia", "Chi Wang"]
@@ -15,6 +15,7 @@ video_id: MCYzYzaWChY
 url: https://www.youtube.com/watch?v=MCYzYzaWChY
 youtube_url: https://www.youtube.com/watch?v=MCYzYzaWChY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

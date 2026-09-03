@@ -4,7 +4,7 @@ title: "Agents: Hopes, Hype and Hard Reality | Gabriel Hubert (Dust) with Julien
 slug: agents-hopes-hype-and-hard-reality-gabriel-hubert-dust-with
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Gabriel Hubert"]
@@ -15,6 +15,7 @@ video_id: 8CMmQ-KLG-c
 url: https://www.youtube.com/watch?v=8CMmQ-KLG-c
 youtube_url: https://www.youtube.com/watch?v=8CMmQ-KLG-c
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

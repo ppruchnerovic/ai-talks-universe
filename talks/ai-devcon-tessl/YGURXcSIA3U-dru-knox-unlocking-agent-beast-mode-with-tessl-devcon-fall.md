@@ -4,7 +4,7 @@ title: "Dru Knox - Unlocking agent beast mode with Tessl | DevCon Fall 2025"
 slug: dru-knox-unlocking-agent-beast-mode-with-tessl-devcon-fall
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Dru Knox"]
@@ -15,6 +15,7 @@ video_id: YGURXcSIA3U
 url: https://www.youtube.com/watch?v=YGURXcSIA3U
 youtube_url: https://www.youtube.com/watch?v=YGURXcSIA3U
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

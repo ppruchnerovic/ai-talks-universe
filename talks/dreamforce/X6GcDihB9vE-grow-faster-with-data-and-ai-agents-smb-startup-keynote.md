@@ -4,7 +4,7 @@ title: "Grow Faster with Data and AI Agents | SMB & Startup Keynote, Dreamforce 
 slug: grow-faster-with-data-and-ai-agents-smb-startup-keynote
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: X6GcDihB9vE
 url: https://www.youtube.com/watch?v=X6GcDihB9vE
 youtube_url: https://www.youtube.com/watch?v=X6GcDihB9vE
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

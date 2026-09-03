@@ -4,7 +4,7 @@ title: "The honest practitioner's take on agentic AI on Kubernetes | BRK222"
 slug: the-honest-practitioner-s-take-on-agentic-ai-on-kubernetes
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Lachlan Evenson"]
@@ -15,6 +15,7 @@ video_id: _SzOdHMVPnY
 url: https://www.youtube.com/watch?v=_SzOdHMVPnY
 youtube_url: https://www.youtube.com/watch?v=_SzOdHMVPnY
 tags: ["9466a393-4172-4f0a-9849-190dab1b2623_M9Z7-BRK222-1", "Azure Kubernetes Service (AKS)​​", "BRK222", "CP&D", "Lachlan Evenson", "The honest practitioner's take on agentic AI on Kubernetes | BRK222", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

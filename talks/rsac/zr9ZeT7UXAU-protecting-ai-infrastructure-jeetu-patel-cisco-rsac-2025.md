@@ -4,7 +4,7 @@ title: "Protecting AI Infrastructure | Jeetu Patel, Cisco | RSAC 2025"
 slug: protecting-ai-infrastructure-jeetu-patel-cisco-rsac-2025
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: ["Jeetu Patel"]
@@ -15,6 +15,7 @@ video_id: zr9ZeT7UXAU
 url: https://www.youtube.com/watch?v=zr9ZeT7UXAU
 youtube_url: https://www.youtube.com/watch?v=zr9ZeT7UXAU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

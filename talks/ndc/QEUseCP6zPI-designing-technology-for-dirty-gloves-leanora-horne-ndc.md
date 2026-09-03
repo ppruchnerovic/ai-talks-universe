@@ -4,7 +4,7 @@ title: "Designing technology for dirty gloves - Leanora Horne - NDC Sydney 2026"
 slug: designing-technology-for-dirty-gloves-leanora-horne-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Leanora Horne"]
@@ -15,6 +15,7 @@ video_id: QEUseCP6zPI
 url: https://www.youtube.com/watch?v=QEUseCP6zPI
 youtube_url: https://www.youtube.com/watch?v=QEUseCP6zPI
 tags: ["UX", "AI", "Embedded", "IoT", "UI", "3D Modeling", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Leanora Horne"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

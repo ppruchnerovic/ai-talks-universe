@@ -4,7 +4,7 @@ title: "The Rise of Automated Fraud: Architecting Security Against \"AI Slop\""
 slug: the-rise-of-automated-fraud-architecting-security-against
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7dtTMFOzTJk
 url: https://www.youtube.com/watch?v=7dtTMFOzTJk
 youtube_url: https://www.youtube.com/watch?v=7dtTMFOzTJk
 tags: ["Deepfake", "Disinformation", "AI", "Artificial Intelligence", "Generative AI", "QCon AI", "InfoQ", "Transcript", "Best Practices", "Cyber Security", "Zero Trust"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

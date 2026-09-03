@@ -4,7 +4,7 @@ title: "The Rise of vLLM: Building an Open Source LLM Inference Engine"
 slug: the-rise-of-vllm-building-an-open-source-llm-inference
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: WLl8D1nyaW8
 url: https://www.youtube.com/watch?v=WLl8D1nyaW8
 youtube_url: https://www.youtube.com/watch?v=WLl8D1nyaW8
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

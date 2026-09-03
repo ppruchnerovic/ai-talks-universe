@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Found in Translation: A Generative Language Modeli
 slug: usenix-security-25-found-in-translation-a-generative
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: wpazZkRMeWw
 url: https://www.youtube.com/watch?v=wpazZkRMeWw
 youtube_url: https://www.youtube.com/watch?v=wpazZkRMeWw
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

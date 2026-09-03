@@ -4,7 +4,7 @@ title: "PyData Boston - Traditional AI and LLMs for Automation in Healthcare (Li
 slug: pydata-boston-traditional-ai-and-llms-for-automation-in
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: -kdrM_JgwiY
 url: https://www.youtube.com/watch?v=-kdrM_JgwiY
 youtube_url: https://www.youtube.com/watch?v=-kdrM_JgwiY
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

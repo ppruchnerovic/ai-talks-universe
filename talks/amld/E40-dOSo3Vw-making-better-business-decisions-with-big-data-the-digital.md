@@ -4,7 +4,7 @@ title: "Making better business decisions with (Big) Data | The Digital Age | Gre
 slug: making-better-business-decisions-with-big-data-the-digital
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Gregory Crawford"]
@@ -15,6 +15,7 @@ video_id: E40-dOSo3Vw
 url: https://www.youtube.com/watch?v=E40-dOSo3Vw
 youtube_url: https://www.youtube.com/watch?v=E40-dOSo3Vw
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

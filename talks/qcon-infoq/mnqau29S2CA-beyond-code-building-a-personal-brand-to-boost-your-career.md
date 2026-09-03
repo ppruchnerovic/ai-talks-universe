@@ -4,7 +4,7 @@ title: "Beyond Code: Building a Personal Brand To Boost Your Career"
 slug: beyond-code-building-a-personal-brand-to-boost-your-career
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Roland Meertens", "Steef-Jan Wiggers"]
@@ -15,6 +15,7 @@ video_id: mnqau29S2CA
 url: https://www.youtube.com/watch?v=mnqau29S2CA
 youtube_url: https://www.youtube.com/watch?v=mnqau29S2CA
 tags: ["Tech Leadership", "Career Growth", "Software Development"]
+topics: []
 transcript: true
 ---
 

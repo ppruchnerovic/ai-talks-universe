@@ -4,7 +4,7 @@ title: "Lamis Mukta - Learning while you sleep: Beyond memory to dreaming - AI N
 slug: lamis-mukta-learning-while-you-sleep-beyond-memory-to
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Lamis Mukta"]
@@ -15,6 +15,7 @@ video_id: tTcxVv8HHNw
 url: https://www.youtube.com/watch?v=tTcxVv8HHNw
 youtube_url: https://www.youtube.com/watch?v=tTcxVv8HHNw
 tags: ["AI DevCon 2026", "AI DevCon London 2026", "AI agents", "AI memory management", "Anthropic", "agent performance", "ainativedev", "applied AI", "best practices for AI memory", "context engineering", "designing dreaming services", "dreaming in AI", "how does dreaming work in AI", "how to manage AI agent context", "memory pruning"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

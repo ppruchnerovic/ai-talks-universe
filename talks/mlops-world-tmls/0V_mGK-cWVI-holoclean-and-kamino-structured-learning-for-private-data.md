@@ -4,7 +4,7 @@ title: "HoloClean and Kamino: Structured Learning for Private Data Generation"
 slug: holoclean-and-kamino-structured-learning-for-private-data
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0V_mGK-cWVI
 url: https://www.youtube.com/watch?v=0V_mGK-cWVI
 youtube_url: https://www.youtube.com/watch?v=0V_mGK-cWVI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "HoloClean and Kamino: Structured Learning for Private Data Generation", "HoloClean", "Kamino", "Private Data Generation", "Structured Learning", "sensitive data", "private data", "probabilistic database models"]
+topics: []
 transcript: false
 ---
 

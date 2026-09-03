@@ -4,7 +4,7 @@ title: "LanceDB: a unified storage layer for vector search, analytics, and model
 slug: lancedb-a-unified-storage-layer-for-vector-search-analytics
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: s3L35puUWSA
 url: https://www.youtube.com/watch?v=s3L35puUWSA
 youtube_url: https://www.youtube.com/watch?v=s3L35puUWSA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

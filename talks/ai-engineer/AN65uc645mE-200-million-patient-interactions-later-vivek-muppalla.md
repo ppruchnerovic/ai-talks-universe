@@ -4,7 +4,7 @@ title: "200 Million Patient Interactions Later — Vivek Muppalla, Hippocratic A
 slug: 200-million-patient-interactions-later-vivek-muppalla
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vivek Muppalla"]
@@ -15,6 +15,7 @@ video_id: AN65uc645mE
 url: https://www.youtube.com/watch?v=AN65uc645mE
 youtube_url: https://www.youtube.com/watch?v=AN65uc645mE
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

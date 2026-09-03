@@ -4,7 +4,7 @@ title: "Inside the Threat Landscape: 2025 Digital Defense Report Takeaways | BRK
 slug: inside-the-threat-landscape-2025-digital-defense-report
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4G2pOwGusGs
 url: https://www.youtube.com/watch?v=4G2pOwGusGs
 youtube_url: https://www.youtube.com/watch?v=4G2pOwGusGs
 tags: ["47607b4b-a8b6-4c8d-af8b-6bc5072df4a9_Segment", "BRK245", "Chloé Messdaghi", "Crane Hassold", "English (US)", "Inside the Threat Landscape: 2025 Digital Defense Report Takeaways | BRK245", "Modernize SecOps with a unified platform", "Sherrod DeGrippo", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

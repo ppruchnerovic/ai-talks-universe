@@ -4,7 +4,7 @@ title: "Architecture Does Not Emerge - A Conversation with Tracy Bannon"
 slug: architecture-does-not-emerge-a-conversation-with-tracy
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: ["Architecture Does Not Emerge"]
@@ -15,6 +15,7 @@ video_id: ONRnZk0ZKsA
 url: https://www.youtube.com/watch?v=ONRnZk0ZKsA
 youtube_url: https://www.youtube.com/watch?v=ONRnZk0ZKsA
 tags: []
+topics: []
 transcript: false
 ---
 

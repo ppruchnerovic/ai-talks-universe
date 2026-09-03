@@ -4,7 +4,7 @@ title: "Simplifying Training and GenAI Finetuning Using Serverless GPU Compute"
 slug: simplifying-training-and-genai-finetuning-using-serverless
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: pQMeeQ_jGY0
 url: https://www.youtube.com/watch?v=pQMeeQ_jGY0
 youtube_url: https://www.youtube.com/watch?v=pQMeeQ_jGY0
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

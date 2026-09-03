@@ -4,7 +4,7 @@ title: "SQL Server 2025: The AI-ready enterprise database | BRK124"
 slug: sql-server-2025-the-ai-ready-enterprise-database-brk124
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sirjad Parakkat", "Abhinav Tiwari", "Bob Ward"]
@@ -15,6 +15,7 @@ video_id: HelG1r0GneA
 url: https://www.youtube.com/watch?v=HelG1r0GneA
 youtube_url: https://www.youtube.com/watch?v=HelG1r0GneA
 tags: ["054d2113-0a38-4fca-b701-b43f6e109fe7_Segment", "Abhinav Tiwari", "BRK124", "Bob Ward", "English (US)", "Migrate and modernize your estate", "SQL Server 2025: The AI-ready enterprise database | BRK124", "Sirjad Parakkat", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

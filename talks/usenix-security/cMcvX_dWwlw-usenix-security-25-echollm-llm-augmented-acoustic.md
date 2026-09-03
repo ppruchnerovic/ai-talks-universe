@@ -4,7 +4,7 @@ title: "USENIX Security '25 - EchoLLM: LLM-Augmented Acoustic Eavesdropping Atta
 slug: usenix-security-25-echollm-llm-augmented-acoustic
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cMcvX_dWwlw
 url: https://www.youtube.com/watch?v=cMcvX_dWwlw
 youtube_url: https://www.youtube.com/watch?v=cMcvX_dWwlw
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Multimodal, vision, speech & robotics", "Security, safety & red teaming"]
 transcript: false
 ---
 

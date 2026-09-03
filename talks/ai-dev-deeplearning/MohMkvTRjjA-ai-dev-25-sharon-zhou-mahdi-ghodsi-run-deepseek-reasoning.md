@@ -4,7 +4,7 @@ title: "AI Dev 25 | Sharon Zhou & Mahdi Ghodsi: Run Deepseek Reasoning and Finet
 slug: ai-dev-25-sharon-zhou-mahdi-ghodsi-run-deepseek-reasoning
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: MohMkvTRjjA
 url: https://www.youtube.com/watch?v=MohMkvTRjjA
 youtube_url: https://www.youtube.com/watch?v=MohMkvTRjjA
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

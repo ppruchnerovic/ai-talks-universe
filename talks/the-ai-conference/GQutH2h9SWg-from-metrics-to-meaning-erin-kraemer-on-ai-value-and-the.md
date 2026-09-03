@@ -4,7 +4,7 @@ title: "From Metrics to Meaning: Erin Kraemer on AI, Value, and the Next Era of 
 slug: from-metrics-to-meaning-erin-kraemer-on-ai-value-and-the
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: GQutH2h9SWg
 url: https://www.youtube.com/watch?v=GQutH2h9SWg
 youtube_url: https://www.youtube.com/watch?v=GQutH2h9SWg
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

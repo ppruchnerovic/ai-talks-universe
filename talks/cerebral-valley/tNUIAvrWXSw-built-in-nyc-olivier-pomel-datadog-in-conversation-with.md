@@ -4,7 +4,7 @@ title: "Built in NYC: Olivier Pomel (Datadog) in conversation with Madeline Renb
 slug: built-in-nyc-olivier-pomel-datadog-in-conversation-with
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: tNUIAvrWXSw
 url: https://www.youtube.com/watch?v=tNUIAvrWXSw
 youtube_url: https://www.youtube.com/watch?v=tNUIAvrWXSw
 tags: []
+topics: []
 transcript: false
 ---
 

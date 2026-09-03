@@ -4,7 +4,7 @@ title: "What’s new and what’s next in Azure IaaS | BRK171"
 slug: whats-new-and-whats-next-in-azure-iaas-brk171
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Igal Figlin", "Narayan Annamalai", "Aung Oo"]
@@ -15,6 +15,7 @@ video_id: SXLc-pCUpzg
 url: https://www.youtube.com/watch?v=SXLc-pCUpzg
 youtube_url: https://www.youtube.com/watch?v=SXLc-pCUpzg
 tags: ["23b01eae-3105-4144-b772-45506fe548a5_Segment", "Aung Oo", "BRK171", "English (US)", "Igal Figlin", "Migrate and modernize your estate", "Narayan Annamalai", "Technical", "What’s new and what’s next in Azure IaaS | BRK171", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

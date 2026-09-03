@@ -4,7 +4,7 @@ title: "Clients? Servers? Agents? The Beautiful Asymmetry of the MCP Spec - Rohi
 slug: clients-servers-agents-the-beautiful-asymmetry-of-the-mcp
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Rohit Ganguly"]
@@ -15,6 +15,7 @@ video_id: GMQCXe1zrWY
 url: https://www.youtube.com/watch?v=GMQCXe1zrWY
 youtube_url: https://www.youtube.com/watch?v=GMQCXe1zrWY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

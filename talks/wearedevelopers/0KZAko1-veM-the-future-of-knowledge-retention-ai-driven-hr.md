@@ -4,7 +4,7 @@ title: "The Future of Knowledge Retention: AI-Driven HR Transformation"
 slug: the-future-of-knowledge-retention-ai-driven-hr
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Trecilla Lobo"]
@@ -15,6 +15,7 @@ video_id: 0KZAko1-veM
 url: https://www.youtube.com/watch?v=0KZAko1-veM
 youtube_url: https://www.youtube.com/watch?v=0KZAko1-veM
 tags: ["Talent Strategy", "Automation", "HR", "People & Culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

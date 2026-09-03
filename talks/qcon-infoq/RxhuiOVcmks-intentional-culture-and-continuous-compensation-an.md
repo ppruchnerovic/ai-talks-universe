@@ -4,7 +4,7 @@ title: "Intentional Culture and Continuous Compensation: An Interview with Austi
 slug: intentional-culture-and-continuous-compensation-an
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: RxhuiOVcmks
 url: https://www.youtube.com/watch?v=RxhuiOVcmks
 youtube_url: https://www.youtube.com/watch?v=RxhuiOVcmks
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

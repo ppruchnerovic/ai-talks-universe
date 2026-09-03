@@ -4,7 +4,7 @@ title: "How to look at your data — Jeff Huber (Chroma) + Jason Liu (567)"
 slug: how-to-look-at-your-data-jeff-huber-chroma-jason-liu-567
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jeff Huber"]
@@ -15,6 +15,7 @@ video_id: jryZvCuA0Uc
 url: https://www.youtube.com/watch?v=jryZvCuA0Uc
 youtube_url: https://www.youtube.com/watch?v=jryZvCuA0Uc
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

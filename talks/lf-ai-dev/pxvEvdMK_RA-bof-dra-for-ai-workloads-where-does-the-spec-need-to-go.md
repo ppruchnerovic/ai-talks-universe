@@ -4,7 +4,7 @@ title: "BoF: DRA for AI Workloads: Where Does the Spec Need To Go Next? - Yahav 
 slug: bof-dra-for-ai-workloads-where-does-the-spec-need-to-go
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Yahav Biran"]
@@ -15,6 +15,7 @@ video_id: pxvEvdMK_RA
 url: https://www.youtube.com/watch?v=pxvEvdMK_RA
 youtube_url: https://www.youtube.com/watch?v=pxvEvdMK_RA
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "The Strategic Power of DevRel: From Community to Business Impact"
 slug: the-strategic-power-of-devrel-from-community-to-business
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9m6TPFrnr_o
 url: https://www.youtube.com/watch?v=9m6TPFrnr_o
 youtube_url: https://www.youtube.com/watch?v=9m6TPFrnr_o
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

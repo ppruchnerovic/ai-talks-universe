@@ -4,7 +4,7 @@ title: "Utilizing AI Models to Conceal and Extract Commands in C2 Images"
 slug: utilizing-ai-models-to-conceal-and-extract-commands-in-c2
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: MoDYOm2fPJ0
 url: https://www.youtube.com/watch?v=MoDYOm2fPJ0
 youtube_url: https://www.youtube.com/watch?v=MoDYOm2fPJ0
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy - T
 slug: zero-knowledge-proofs-simultaneously-ensuring-integrity-and
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Tjerand Silde"]
@@ -15,6 +15,7 @@ video_id: H8cRnw98q8k
 url: https://www.youtube.com/watch?v=H8cRnw98q8k
 youtube_url: https://www.youtube.com/watch?v=H8cRnw98q8k
 tags: ["Application Security", "Cloud Security", "Tjerand Silde", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Security"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "How to Decentralize Architecture Decisions (Without Chaos)"
 slug: how-to-decentralize-architecture-decisions-without-chaos
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 8xuptSUYV20
 url: https://www.youtube.com/watch?v=8xuptSUYV20
 youtube_url: https://www.youtube.com/watch?v=8xuptSUYV20
 tags: ["QCon London", "InfoQ", "Transcript", "Team Topologies", "Domain-Driven Design", "Advice Process", "Architectural Principles", "Context Map", "ADRs", "Architectural Advisory Forum", "Culture", "Agile", "Leadership", "Teamwork"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

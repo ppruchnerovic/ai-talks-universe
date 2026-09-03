@@ -4,7 +4,7 @@ title: "Tutorial: AI on Kubernetes Without the Chaos: Building Reproducible ML E
 slug: tutorial-ai-on-kubernetes-without-the-chaos-building
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: JA1rrdMLmew
 url: https://www.youtube.com/watch?v=JA1rrdMLmew
 youtube_url: https://www.youtube.com/watch?v=JA1rrdMLmew
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

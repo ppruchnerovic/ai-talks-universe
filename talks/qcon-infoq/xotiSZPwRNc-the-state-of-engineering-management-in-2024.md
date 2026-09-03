@@ -4,7 +4,7 @@ title: "The State of Engineering Management in 2024"
 slug: the-state-of-engineering-management-in-2024
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: xotiSZPwRNc
 url: https://www.youtube.com/watch?v=xotiSZPwRNc
 youtube_url: https://www.youtube.com/watch?v=xotiSZPwRNc
 tags: []
+topics: []
 transcript: false
 ---
 

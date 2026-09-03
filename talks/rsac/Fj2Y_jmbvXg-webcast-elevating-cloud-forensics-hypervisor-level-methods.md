@@ -4,7 +4,7 @@ title: "Webcast: Elevating Cloud Forensics: Hypervisor-Level Methods for Evidenc
 slug: webcast-elevating-cloud-forensics-hypervisor-level-methods
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Prasad Purnaye"]
@@ -15,6 +15,7 @@ video_id: Fj2Y_jmbvXg
 url: https://www.youtube.com/watch?v=Fj2Y_jmbvXg
 youtube_url: https://www.youtube.com/watch?v=Fj2Y_jmbvXg
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: []
 transcript: false
 ---
 

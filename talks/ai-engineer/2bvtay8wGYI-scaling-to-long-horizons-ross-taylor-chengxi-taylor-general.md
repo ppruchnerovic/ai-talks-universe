@@ -4,7 +4,7 @@ title: "Scaling to Long Horizons — Ross Taylor & Chengxi Taylor, General Reaso
 slug: scaling-to-long-horizons-ross-taylor-chengxi-taylor-general
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ross Taylor", "Chengxi Taylor"]
@@ -15,6 +15,7 @@ video_id: 2bvtay8wGYI
 url: https://www.youtube.com/watch?v=2bvtay8wGYI
 youtube_url: https://www.youtube.com/watch?v=2bvtay8wGYI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

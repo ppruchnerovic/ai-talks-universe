@@ -4,7 +4,7 @@ title: "Rewriting All of Spotify's Code Base, All the Time"
 slug: rewriting-all-of-spotify-s-code-base-all-the-time
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2026"
 year: 2026
 speakers: ["Jo Kelly-Fenton", "Aleksandar Mitic"]
@@ -15,6 +15,7 @@ video_id: iq-spotify-ai-codebase-migration-agent
 url: https://www.infoq.com/presentations/spotify-ai-codebase-migration-agent/
 youtube_url: null
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

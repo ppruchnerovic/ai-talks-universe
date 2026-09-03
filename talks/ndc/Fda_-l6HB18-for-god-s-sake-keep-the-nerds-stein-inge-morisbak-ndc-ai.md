@@ -4,7 +4,7 @@ title: "For God's sake, keep the nerds! - Stein Inge Morisbak - NDC AI 2026"
 slug: for-god-s-sake-keep-the-nerds-stein-inge-morisbak-ndc-ai
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Stein Inge Morisbak"]
@@ -15,6 +15,7 @@ video_id: Fda_-l6HB18
 url: https://www.youtube.com/watch?v=Fda_-l6HB18
 youtube_url: https://www.youtube.com/watch?v=Fda_-l6HB18
 tags: ["AI", "API", "Code", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Stein Inge Morisbak"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

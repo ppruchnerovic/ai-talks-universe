@@ -4,7 +4,7 @@ title: "Ray Summit 2024 Keynote Day 2 | Where Builders Create the AI Future"
 slug: ray-summit-2024-keynote-day-2-where-builders-create-the-ai
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Lury2ad6KG8
 url: https://www.youtube.com/watch?v=Lury2ad6KG8
 youtube_url: https://www.youtube.com/watch?v=Lury2ad6KG8
 tags: []
+topics: []
 transcript: false
 ---
 

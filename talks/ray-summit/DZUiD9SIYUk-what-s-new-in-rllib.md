@@ -4,7 +4,7 @@ title: "What's new in RLlib"
 slug: what-s-new-in-rllib
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: DZUiD9SIYUk
 url: https://www.youtube.com/watch?v=DZUiD9SIYUk
 youtube_url: https://www.youtube.com/watch?v=DZUiD9SIYUk
 tags: []
+topics: []
 transcript: false
 ---
 

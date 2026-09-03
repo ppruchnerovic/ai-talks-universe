@@ -4,7 +4,7 @@ title: "Supercharging AI Platforms with Anyscale"
 slug: supercharging-ai-platforms-with-anyscale
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: PBN5Ntfm5Ac
 url: https://www.youtube.com/watch?v=PBN5Ntfm5Ac
 youtube_url: https://www.youtube.com/watch?v=PBN5Ntfm5Ac
 tags: []
+topics: []
 transcript: false
 ---
 

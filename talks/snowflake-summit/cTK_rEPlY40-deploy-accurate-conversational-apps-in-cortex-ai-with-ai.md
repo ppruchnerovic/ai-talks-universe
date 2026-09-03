@@ -4,7 +4,7 @@ title: "Deploy Accurate Conversational Apps In Cortex AI With AI Data Agents"
 slug: deploy-accurate-conversational-apps-in-cortex-ai-with-ai
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cTK_rEPlY40
 url: https://www.youtube.com/watch?v=cTK_rEPlY40
 youtube_url: https://www.youtube.com/watch?v=cTK_rEPlY40
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

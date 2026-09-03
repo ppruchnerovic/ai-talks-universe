@@ -4,7 +4,7 @@ title: "Advancing AI Reasoning - From Games to Complex Problem Solving | NVIDIA 
 slug: advancing-ai-reasoning-from-games-to-complex-problem
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: c675KAlmo8k
 url: https://www.youtube.com/watch?v=c675KAlmo8k
 youtube_url: https://www.youtube.com/watch?v=c675KAlmo8k
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

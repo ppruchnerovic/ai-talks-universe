@@ -4,7 +4,7 @@ title: "Our Journey With TorchTitan - Linsong Chu & Garrett Goon, IBM Research"
 slug: our-journey-with-torchtitan-linsong-chu-garrett-goon-ibm
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Linsong Chu", "Garrett Goon"]
@@ -15,6 +15,7 @@ video_id: o1Ftb3gpeDs
 url: https://www.youtube.com/watch?v=o1Ftb3gpeDs
 youtube_url: https://www.youtube.com/watch?v=o1Ftb3gpeDs
 tags: []
+topics: []
 transcript: false
 ---
 

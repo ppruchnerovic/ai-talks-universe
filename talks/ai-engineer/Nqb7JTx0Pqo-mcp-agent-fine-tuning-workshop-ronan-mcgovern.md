@@ -4,7 +4,7 @@ title: "MCP Agent Fine tuning Workshop - Ronan McGovern"
 slug: mcp-agent-fine-tuning-workshop-ronan-mcgovern
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Nqb7JTx0Pqo
 url: https://www.youtube.com/watch?v=Nqb7JTx0Pqo
 youtube_url: https://www.youtube.com/watch?v=Nqb7JTx0Pqo
 tags: []
+topics: ["Agents & orchestration", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

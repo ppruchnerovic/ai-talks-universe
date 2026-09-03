@@ -4,7 +4,7 @@ title: "Empowering AI Education with Rag: Building Domain-Specific LLM Agents fo
 slug: empowering-ai-education-with-rag-building-domain-specific
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Miley Fu"]
@@ -15,6 +15,7 @@ video_id: 3wj_wKaFzRc
 url: https://www.youtube.com/watch?v=3wj_wKaFzRc
 youtube_url: https://www.youtube.com/watch?v=3wj_wKaFzRc
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

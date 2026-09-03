@@ -4,7 +4,7 @@ title: "AI for the Public Sector with Microsoft 365 Copilot GCC | OD803"
 slug: ai-for-the-public-sector-with-microsoft-365-copilot-gcc
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ashok Ghosh", "Dan Narloch"]
@@ -15,6 +15,7 @@ video_id: JmRUO4x-sPQ
 url: https://www.youtube.com/watch?v=JmRUO4x-sPQ
 youtube_url: https://www.youtube.com/watch?v=JmRUO4x-sPQ
 tags: ["AI for the Public Sector with Microsoft 365 Copilot GCC | OD803", "Ashok Ghosh", "Dan Narloch", "English (US)", "Foundational (100)", "Microsoft 365", "Microsoft 365 Copilot GCC", "Microsoft 365 Government GCC", "Modern Work", "OD803", "Pre-recorded", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "[Session] Tools, Not Endpoints: The Layered MCP Pattern for Task‑Centr
 slug: session-tools-not-endpoints-the-layered-mcp-pattern-for
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fulofLB7bZk
 url: https://www.youtube.com/watch?v=fulofLB7bZk
 youtube_url: https://www.youtube.com/watch?v=fulofLB7bZk
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

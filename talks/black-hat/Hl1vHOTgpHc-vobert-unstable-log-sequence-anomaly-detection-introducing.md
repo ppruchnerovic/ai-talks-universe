@@ -4,7 +4,7 @@ title: "VoBERT: Unstable Log Sequence Anomaly Detection: Introducing Vocabulary-
 slug: vobert-unstable-log-sequence-anomaly-detection-introducing
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: ["Eduardo Barbaro", "Daan Hofman", "Anna Lukina", "Yury Zhauniarovich"]
@@ -15,6 +15,7 @@ video_id: Hl1vHOTgpHc
 url: https://www.youtube.com/watch?v=Hl1vHOTgpHc
 youtube_url: https://www.youtube.com/watch?v=Hl1vHOTgpHc
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

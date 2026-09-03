@@ -4,7 +4,7 @@ title: "Lightning Talk: The Third Operator"
 slug: lightning-talk-the-third-operator
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: zHEb-t0Xe-w
 url: https://www.youtube.com/watch?v=zHEb-t0Xe-w
 youtube_url: https://www.youtube.com/watch?v=zHEb-t0Xe-w
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "How Dashboards as Code Can Help You Develop and Validate Your Analytics 
 slug: how-dashboards-as-code-can-help-you-develop-and-validate
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: n2GO1EN5If8
 url: https://www.youtube.com/watch?v=n2GO1EN5If8
 youtube_url: https://www.youtube.com/watch?v=n2GO1EN5If8
 tags: ["dataops", "dashboards", "analytics"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

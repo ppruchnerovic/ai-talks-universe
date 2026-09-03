@@ -4,7 +4,7 @@ title: "Doga Kerestecioglu - Mindful Agents: Human Inspired Memories for Long Ho
 slug: doga-kerestecioglu-mindful-agents-human-inspired-memories
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Doga Kerestecioglu"]
@@ -15,6 +15,7 @@ video_id: mzIb1cE-KwI
 url: https://www.youtube.com/watch?v=mzIb1cE-KwI
 youtube_url: https://www.youtube.com/watch?v=mzIb1cE-KwI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

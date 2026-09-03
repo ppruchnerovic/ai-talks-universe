@@ -4,7 +4,7 @@ title: "We Scored Oracle's Database Skill Live: 95% Isn't Enough"
 slug: we-scored-oracle-s-database-skill-live-95-isn-t-enough
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Jwz0k8ZK9TE
 url: https://www.youtube.com/watch?v=Jwz0k8ZK9TE
 youtube_url: https://www.youtube.com/watch?v=Jwz0k8ZK9TE
 tags: ["AI agent continuation", "AI agent development", "AI-native development", "AIDevCon", "Oracle database", "Oracle skills review", "SQL skills", "Tessl skills review", "ainativedev", "best practices for SQL", "coding agents", "database MCP server", "database security", "how to write secure SQL", "what is a database skill"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

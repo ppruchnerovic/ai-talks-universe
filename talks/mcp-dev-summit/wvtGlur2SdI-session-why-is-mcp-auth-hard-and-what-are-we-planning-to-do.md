@@ -4,7 +4,7 @@ title: "[Session] Why is MCP Auth Hard and What Are We Planning to Do About It"
 slug: session-why-is-mcp-auth-hard-and-what-are-we-planning-to-do
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: wvtGlur2SdI
 url: https://www.youtube.com/watch?v=wvtGlur2SdI
 youtube_url: https://www.youtube.com/watch?v=wvtGlur2SdI
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

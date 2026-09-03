@@ -4,7 +4,7 @@ title: "Zero Trust For Machine Learning Models"
 slug: zero-trust-for-machine-learning-models
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Mehrin Kiani"]
@@ -15,6 +15,7 @@ video_id: F2cZOhfnI8M
 url: https://www.youtube.com/watch?v=F2cZOhfnI8M
 youtube_url: https://www.youtube.com/watch?v=F2cZOhfnI8M
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

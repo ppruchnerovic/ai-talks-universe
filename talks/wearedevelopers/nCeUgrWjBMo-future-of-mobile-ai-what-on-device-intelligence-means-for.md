@@ -4,7 +4,7 @@ title: "Future of Mobile AI. What On-Device Intelligence Means for App Developer
 slug: future-of-mobile-ai-what-on-device-intelligence-means-for
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Sasha Denisov"]
@@ -15,6 +15,7 @@ video_id: nCeUgrWjBMo
 url: https://www.youtube.com/watch?v=nCeUgrWjBMo
 youtube_url: https://www.youtube.com/watch?v=nCeUgrWjBMo
 tags: ["Frontend, Web & Mobile", "AI Models", "Agents", "Agentic AI", "Android", "iOS", "WebAssembly"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

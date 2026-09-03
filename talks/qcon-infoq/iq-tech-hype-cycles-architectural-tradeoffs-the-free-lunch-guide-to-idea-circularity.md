@@ -4,7 +4,7 @@ title: "The Free-Lunch Guide to Idea Circularity"
 slug: the-free-lunch-guide-to-idea-circularity
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2026"
 year: 2026
 speakers: ["Holly Cummins"]
@@ -15,6 +15,7 @@ video_id: iq-tech-hype-cycles-architectural-tradeoffs
 url: https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

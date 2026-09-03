@@ -4,7 +4,7 @@ title: "Managing Human in the Loop Systems Without Burning Out Your Engineers"
 slug: managing-human-in-the-loop-systems-without-burning-out-your
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Charles Huang"]
@@ -15,6 +15,7 @@ video_id: yF_vKfDo6o0
 url: https://www.youtube.com/watch?v=yF_vKfDo6o0
 youtube_url: https://www.youtube.com/watch?v=yF_vKfDo6o0
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

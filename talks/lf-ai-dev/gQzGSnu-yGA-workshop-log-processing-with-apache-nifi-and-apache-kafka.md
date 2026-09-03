@@ -4,7 +4,7 @@ title: "Workshop: Log Processing with Apache NiFi and Apache Kafka - Sophia Izok
 slug: workshop-log-processing-with-apache-nifi-and-apache-kafka
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Sophia Izokun"]
@@ -15,6 +15,7 @@ video_id: gQzGSnu-yGA
 url: https://www.youtube.com/watch?v=gQzGSnu-yGA
 youtube_url: https://www.youtube.com/watch?v=gQzGSnu-yGA
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

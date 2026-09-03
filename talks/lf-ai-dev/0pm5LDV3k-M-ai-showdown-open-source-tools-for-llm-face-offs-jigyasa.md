@@ -4,7 +4,7 @@ title: "AI Showdown: Open Source Tools for LLM Face-Offs - Jigyasa Grover & Rish
 slug: ai-showdown-open-source-tools-for-llm-face-offs-jigyasa
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Jigyasa Grover", "Rishabh Misra"]
@@ -15,6 +15,7 @@ video_id: 0pm5LDV3k-M
 url: https://www.youtube.com/watch?v=0pm5LDV3k-M
 youtube_url: https://www.youtube.com/watch?v=0pm5LDV3k-M
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

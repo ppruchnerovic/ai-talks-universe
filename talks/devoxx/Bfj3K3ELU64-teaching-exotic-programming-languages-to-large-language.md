@@ -4,7 +4,7 @@ title: "Teaching Exotic Programming Languages to Large Language Models by Alessa
 slug: teaching-exotic-programming-languages-to-large-language
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Alessandro Giagnorio"]
@@ -15,6 +15,7 @@ video_id: Bfj3K3ELU64
 url: https://www.youtube.com/watch?v=Bfj3K3ELU64
 youtube_url: https://www.youtube.com/watch?v=Bfj3K3ELU64
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

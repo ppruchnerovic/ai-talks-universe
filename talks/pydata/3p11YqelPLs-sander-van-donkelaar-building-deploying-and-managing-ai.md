@@ -4,7 +4,7 @@ title: "Sander van Donkelaar - Building, Deploying and Managing AI Agents at Sca
 slug: sander-van-donkelaar-building-deploying-and-managing-ai
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Sander van Donkelaar"]
@@ -15,6 +15,7 @@ video_id: 3p11YqelPLs
 url: https://www.youtube.com/watch?v=3p11YqelPLs
 youtube_url: https://www.youtube.com/watch?v=3p11YqelPLs
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

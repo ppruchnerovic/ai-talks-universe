@@ -4,7 +4,7 @@ title: "Keynote: Enterprise Value with Generative AI - Gourab De, Weights and Bi
 slug: keynote-enterprise-value-with-generative-ai-gourab-de
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Gourab De"]
@@ -15,6 +15,7 @@ video_id: LPMP7hYDvtI
 url: https://www.youtube.com/watch?v=LPMP7hYDvtI
 youtube_url: https://www.youtube.com/watch?v=LPMP7hYDvtI
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

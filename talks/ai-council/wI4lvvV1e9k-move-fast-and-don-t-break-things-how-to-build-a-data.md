@@ -4,7 +4,7 @@ title: "Move Fast and Don't Break Things -- How to Build a Data Platform that Sc
 slug: move-fast-and-don-t-break-things-how-to-build-a-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Elijah Ben Izzy"]
@@ -15,6 +15,7 @@ video_id: wI4lvvV1e9k
 url: https://www.youtube.com/watch?v=wI4lvvV1e9k
 youtube_url: https://www.youtube.com/watch?v=wI4lvvV1e9k
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

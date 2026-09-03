@@ -4,7 +4,7 @@ title: "CrabRAG: Why Automated Assistants Need Graph Memory, Not More Tokens —
 slug: crabrag-why-automated-assistants-need-graph-memory-not-more
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Stephen Chin"]
@@ -15,6 +15,7 @@ video_id: Q0VkgCyNVUg
 url: https://www.youtube.com/watch?v=Q0VkgCyNVUg
 youtube_url: https://www.youtube.com/watch?v=Q0VkgCyNVUg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

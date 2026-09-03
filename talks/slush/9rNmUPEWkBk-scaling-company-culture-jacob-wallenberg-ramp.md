@@ -4,7 +4,7 @@ title: "Scaling Company Culture | Jacob Wallenberg (Ramp)"
 slug: scaling-company-culture-jacob-wallenberg-ramp
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Jacob Wallenberg"]
@@ -15,6 +15,7 @@ video_id: 9rNmUPEWkBk
 url: https://www.youtube.com/watch?v=9rNmUPEWkBk
 youtube_url: https://www.youtube.com/watch?v=9rNmUPEWkBk
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

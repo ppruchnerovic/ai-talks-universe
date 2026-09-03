@@ -4,7 +4,7 @@ title: "SMEs and fast-prototyping AI services | Accelerating the Adoption of AI 
 slug: smes-and-fast-prototyping-ai-services-accelerating-the
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Sébastien Rumley"]
@@ -15,6 +15,7 @@ video_id: eFcHQ_6-qoI
 url: https://www.youtube.com/watch?v=eFcHQ_6-qoI
 youtube_url: https://www.youtube.com/watch?v=eFcHQ_6-qoI
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

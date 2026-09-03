@@ -4,7 +4,7 @@ title: "Fabio Lipreri & Gabriele Orlandi - Model Context Protocol | PyData Amste
 slug: fabio-lipreri-gabriele-orlandi-model-context-protocol
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Fabio Lipreri", "Gabriele Orlandi"]
@@ -15,6 +15,7 @@ video_id: qc0T6Ya04vY
 url: https://www.youtube.com/watch?v=qc0T6Ya04vY
 youtube_url: https://www.youtube.com/watch?v=qc0T6Ya04vY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

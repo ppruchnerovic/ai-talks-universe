@@ -4,7 +4,7 @@ title: "Beyond the Game: How AI and Data Are Powering the Future of Sports | BRK
 slug: beyond-the-game-how-ai-and-data-are-powering-the-future-of
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: dD3km9aTQKA
 url: https://www.youtube.com/watch?v=dD3km9aTQKA
 youtube_url: https://www.youtube.com/watch?v=dD3km9aTQKA
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

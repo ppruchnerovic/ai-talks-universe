@@ -4,7 +4,7 @@ title: "China, The US, and the AI Gap No One Can Close"
 slug: china-the-us-and-the-ai-gap-no-one-can-close
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: YN3dbi4hWUM
 url: https://www.youtube.com/watch?v=YN3dbi4hWUM
 youtube_url: https://www.youtube.com/watch?v=YN3dbi4hWUM
 tags: []
+topics: ["Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

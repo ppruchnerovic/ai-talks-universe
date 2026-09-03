@@ -4,7 +4,7 @@ title: "Xifeng Yan - Transforming Agent-Based Customer Service Chatbots with Dec
 slug: xifeng-yan-transforming-agent-based-customer-service
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Xifeng Yan"]
@@ -15,6 +15,7 @@ video_id: yjKPMArDVCY
 url: https://www.youtube.com/watch?v=yjKPMArDVCY
 youtube_url: https://www.youtube.com/watch?v=yjKPMArDVCY
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

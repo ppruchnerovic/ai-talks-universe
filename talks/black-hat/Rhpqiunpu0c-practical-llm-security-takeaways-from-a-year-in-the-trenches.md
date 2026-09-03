@@ -4,7 +4,7 @@ title: "Practical LLM Security: Takeaways From a Year in the Trenches"
 slug: practical-llm-security-takeaways-from-a-year-in-the-trenches
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: Rhpqiunpu0c
 url: https://www.youtube.com/watch?v=Rhpqiunpu0c
 youtube_url: https://www.youtube.com/watch?v=Rhpqiunpu0c
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

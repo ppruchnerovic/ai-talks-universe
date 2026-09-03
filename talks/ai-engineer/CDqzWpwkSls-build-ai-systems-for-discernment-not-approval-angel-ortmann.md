@@ -4,7 +4,7 @@ title: "Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duol
 slug: build-ai-systems-for-discernment-not-approval-angel-ortmann
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Angel Ortmann Lee"]
@@ -15,6 +15,7 @@ video_id: CDqzWpwkSls
 url: https://www.youtube.com/watch?v=CDqzWpwkSls
 youtube_url: https://www.youtube.com/watch?v=CDqzWpwkSls
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

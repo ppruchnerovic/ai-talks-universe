@@ -4,7 +4,7 @@ title: "MLOps is Just HPC in Disguise A Real World, No Nonsense Guide to Upgradi
 slug: mlops-is-just-hpc-in-disguise-a-real-world-no-nonsense
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Victor Sonck"]
@@ -15,6 +15,7 @@ video_id: 3msgcAxo9YA
 url: https://www.youtube.com/watch?v=3msgcAxo9YA
 youtube_url: https://www.youtube.com/watch?v=3msgcAxo9YA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

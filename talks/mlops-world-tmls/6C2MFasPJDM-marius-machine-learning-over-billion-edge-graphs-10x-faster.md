@@ -4,7 +4,7 @@ title: "Marius: Machine Learning over Billion-Edge Graphs 10x faster and 5x chea
 slug: marius-machine-learning-over-billion-edge-graphs-10x-faster
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6C2MFasPJDM
 url: https://www.youtube.com/watch?v=6C2MFasPJDM
 youtube_url: https://www.youtube.com/watch?v=6C2MFasPJDM
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Marius: Machine Learning over Billion-Edge Graphs 10x faster and 5x cheaper", "Machine Learning over Billion-Edge Graphs", "Machine Learning Engineer", "Billion-Edge Graphs", "maximizes resource utilization of the entire memory hierarchy", "computer science", "engineering", "innovation"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

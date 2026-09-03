@@ -4,7 +4,7 @@ title: "SaTML 2023 - Nicolas Papernot - Opening Remarks"
 slug: satml-2023-nicolas-papernot-opening-remarks
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Nicolas Papernot"]
@@ -15,6 +15,7 @@ video_id: CgMl3ah6u8I
 url: https://www.youtube.com/watch?v=CgMl3ah6u8I
 youtube_url: https://www.youtube.com/watch?v=CgMl3ah6u8I
 tags: []
+topics: []
 transcript: false
 ---
 

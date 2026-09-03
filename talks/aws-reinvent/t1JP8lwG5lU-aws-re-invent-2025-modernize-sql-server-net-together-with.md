@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Modernize SQL Server & .NET Together with AWS Trans
 slug: aws-re-invent-2025-modernize-sql-server-net-together-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: t1JP8lwG5lU
 url: https://www.youtube.com/watch?v=t1JP8lwG5lU
 youtube_url: https://www.youtube.com/watch?v=t1JP8lwG5lU
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: false
 ---
 

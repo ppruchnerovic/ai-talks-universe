@@ -4,7 +4,7 @@ title: "Why Your AI UX Is Broken (and It's Not the Model's Fault) — Mike Chris
 slug: why-your-ai-ux-is-broken-and-it-s-not-the-model-s-fault
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mike Christensen"]
@@ -15,6 +15,7 @@ video_id: YNJvm7t3yq8
 url: https://www.youtube.com/watch?v=YNJvm7t3yq8
 youtube_url: https://www.youtube.com/watch?v=YNJvm7t3yq8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

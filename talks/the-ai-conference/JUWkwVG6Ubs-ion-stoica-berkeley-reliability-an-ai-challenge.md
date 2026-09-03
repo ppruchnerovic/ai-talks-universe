@@ -4,7 +4,7 @@ title: "Ion Stoica, Berkeley: Reliability, an AI challenge"
 slug: ion-stoica-berkeley-reliability-an-ai-challenge
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: JUWkwVG6Ubs
 url: https://www.youtube.com/watch?v=JUWkwVG6Ubs
 youtube_url: https://www.youtube.com/watch?v=JUWkwVG6Ubs
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

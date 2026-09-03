@@ -4,7 +4,7 @@ title: "A Unified Approach to Building, Running, and Governing AI Agents at Scal
 slug: a-unified-approach-to-building-running-and-governing-ai
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ss465YlyWGY
 url: https://www.youtube.com/watch?v=Ss465YlyWGY
 youtube_url: https://www.youtube.com/watch?v=Ss465YlyWGY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Enterprise adoption & strategy", "Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

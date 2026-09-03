@@ -4,7 +4,7 @@ title: "Inside Today’s AI-Accelerated Software Supply Chain Attacks - Mackenzi
 slug: inside-todays-ai-accelerated-software-supply-chain-attacks
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Mackenzie Jackson"]
@@ -15,6 +15,7 @@ video_id: Sny_Lou774Q
 url: https://www.youtube.com/watch?v=Sny_Lou774Q
 youtube_url: https://www.youtube.com/watch?v=Sny_Lou774Q
 tags: ["Security", "AI", "DevOps", "CI/CD", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Mackenzie Jackson"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

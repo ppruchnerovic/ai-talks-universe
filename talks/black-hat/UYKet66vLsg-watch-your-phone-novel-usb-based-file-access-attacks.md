@@ -4,7 +4,7 @@ title: "Watch Your Phone: Novel USB-Based File Access Attacks Against Mobile Dev
 slug: watch-your-phone-novel-usb-based-file-access-attacks
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: UYKet66vLsg
 url: https://www.youtube.com/watch?v=UYKet66vLsg
 youtube_url: https://www.youtube.com/watch?v=UYKet66vLsg
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

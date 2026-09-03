@@ -4,7 +4,7 @@ title: "Code with Claude Opening Keynote"
 slug: code-with-claude-opening-keynote
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: EvtPBaaykdo
 url: https://www.youtube.com/watch?v=EvtPBaaykdo
 youtube_url: https://www.youtube.com/watch?v=EvtPBaaykdo
 tags: []
+topics: []
 transcript: true
 ---
 

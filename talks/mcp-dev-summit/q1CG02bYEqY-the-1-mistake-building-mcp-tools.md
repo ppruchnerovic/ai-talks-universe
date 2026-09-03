@@ -4,7 +4,7 @@ title: "The #1 Mistake Building MCP Tools"
 slug: the-1-mistake-building-mcp-tools
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: q1CG02bYEqY
 url: https://www.youtube.com/watch?v=q1CG02bYEqY
 youtube_url: https://www.youtube.com/watch?v=q1CG02bYEqY
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

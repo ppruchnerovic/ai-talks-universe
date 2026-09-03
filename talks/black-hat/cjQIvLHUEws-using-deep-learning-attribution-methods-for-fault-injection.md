@@ -4,7 +4,7 @@ title: "Using Deep Learning Attribution Methods for Fault Injection Attacks"
 slug: using-deep-learning-attribution-methods-for-fault-injection
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cjQIvLHUEws
 url: https://www.youtube.com/watch?v=cjQIvLHUEws
 youtube_url: https://www.youtube.com/watch?v=cjQIvLHUEws
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

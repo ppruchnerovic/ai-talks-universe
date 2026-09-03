@@ -4,7 +4,7 @@ title: "Untangling the Web: Navigating Open Source AI Networking Protocols | Shu
 slug: untangling-the-web-navigating-open-source-ai-networking
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Shub Argha"]
@@ -15,6 +15,7 @@ video_id: 5PVJAu1nny0
 url: https://www.youtube.com/watch?v=5PVJAu1nny0
 youtube_url: https://www.youtube.com/watch?v=5PVJAu1nny0
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

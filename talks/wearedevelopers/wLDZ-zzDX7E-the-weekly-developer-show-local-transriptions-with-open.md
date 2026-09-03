@@ -4,7 +4,7 @@ title: "The weekly developer show: Local Transriptions with Open-Source AI"
 slug: the-weekly-developer-show-local-transriptions-with-open
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: wLDZ-zzDX7E
 url: https://www.youtube.com/watch?v=wLDZ-zzDX7E
 youtube_url: https://www.youtube.com/watch?v=wLDZ-zzDX7E
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: true
 ---
 

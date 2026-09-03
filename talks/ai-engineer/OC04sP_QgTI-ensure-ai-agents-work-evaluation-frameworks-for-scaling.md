@@ -4,7 +4,7 @@ title: "Ensure AI Agents Work: Evaluation Frameworks for Scaling Success — Apa
 slug: ensure-ai-agents-work-evaluation-frameworks-for-scaling
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Aparna Dhinkaran"]
@@ -15,6 +15,7 @@ video_id: OC04sP_QgTI
 url: https://www.youtube.com/watch?v=OC04sP_QgTI
 youtube_url: https://www.youtube.com/watch?v=OC04sP_QgTI
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

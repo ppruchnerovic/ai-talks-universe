@@ -4,7 +4,7 @@ title: "Jure Leskovec, Kumo.AI: The World’s First Relational Foundation Model"
 slug: jure-leskovec-kumo-ai-the-worlds-first-relational
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Rcfhh-V7x2U
 url: https://www.youtube.com/watch?v=Rcfhh-V7x2U
 youtube_url: https://www.youtube.com/watch?v=Rcfhh-V7x2U
 tags: []
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

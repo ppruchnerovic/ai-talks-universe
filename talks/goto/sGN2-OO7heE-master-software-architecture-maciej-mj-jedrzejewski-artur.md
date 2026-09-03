@@ -4,7 +4,7 @@ title: "Master Software Architecture • Maciej «MJ» Jedrzejewski & Artur Skow
 slug: master-software-architecture-maciej-mj-jedrzejewski-artur
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: sGN2-OO7heE
 url: https://www.youtube.com/watch?v=sGN2-OO7heE
 youtube_url: https://www.youtube.com/watch?v=sGN2-OO7heE
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Coding Agents & Language Evolution: Navigating Uncharted Waters • Jos�
 slug: coding-agents-language-evolution-navigating-uncharted
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["José Valim"]
@@ -15,6 +15,7 @@ video_id: VZcDxkFj_9E
 url: https://www.youtube.com/watch?v=VZcDxkFj_9E
 youtube_url: https://www.youtube.com/watch?v=VZcDxkFj_9E
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

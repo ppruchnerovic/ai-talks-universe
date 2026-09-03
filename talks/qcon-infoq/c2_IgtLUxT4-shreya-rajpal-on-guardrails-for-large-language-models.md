@@ -4,7 +4,7 @@ title: "Shreya Rajpal on Guardrails for Large Language Models"
 slug: shreya-rajpal-on-guardrails-for-large-language-models
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: c2_IgtLUxT4
 url: https://www.youtube.com/watch?v=c2_IgtLUxT4
 youtube_url: https://www.youtube.com/watch?v=c2_IgtLUxT4
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

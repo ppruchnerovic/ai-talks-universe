@@ -4,7 +4,7 @@ title: "Backing the future of innovation | LIVE110"
 slug: backing-the-future-of-innovation-live110
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Charles Lamanna"]
@@ -15,6 +15,7 @@ video_id: MfOGRlbhR-s
 url: https://www.youtube.com/watch?v=MfOGRlbhR-s
 youtube_url: https://www.youtube.com/watch?v=MfOGRlbhR-s
 tags: ["Backing the future of innovation | LIVE110", "Charles Lamanna", "LIVE110", "LIVE110_v1", "The Chainsmokers", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

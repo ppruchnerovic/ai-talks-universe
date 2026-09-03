@@ -4,7 +4,7 @@ title: "Enable Agentic AI Apps with a Unified Data Estate in Microsoft Fabric | 
 slug: enable-agentic-ai-apps-with-a-unified-data-estate-in
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0or6TNwTmDY
 url: https://www.youtube.com/watch?v=0or6TNwTmDY
 youtube_url: https://www.youtube.com/watch?v=0or6TNwTmDY
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

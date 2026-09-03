@@ -4,7 +4,7 @@ title: "Sponsored Session: Lightning Talk: Optimizing Model Inference with PyTor
 slug: sponsored-session-lightning-talk-optimizing-model-inference
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Devansh Ghatak"]
@@ -15,6 +15,7 @@ video_id: vX8i_ffDG9g
 url: https://www.youtube.com/watch?v=vX8i_ffDG9g
 youtube_url: https://www.youtube.com/watch?v=vX8i_ffDG9g
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

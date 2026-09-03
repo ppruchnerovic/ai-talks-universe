@@ -4,7 +4,7 @@ title: "Rebooting AI from the Ground Up"
 slug: rebooting-ai-from-the-ground-up
 conference: sxsw
 conference_name: "SXSW"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "SXSW 2025 keynotes & featured"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 91I7AGby93Q
 url: https://www.youtube.com/watch?v=91I7AGby93Q
 youtube_url: https://www.youtube.com/watch?v=91I7AGby93Q
 tags: []
+topics: []
 transcript: false
 ---
 

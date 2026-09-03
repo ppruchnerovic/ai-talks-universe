@@ -4,7 +4,7 @@ title: "Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI"
 slug: fei-fei-li-spatial-intelligence-is-the-next-frontier-in-ai
 conference: yc-ai-startup-school
 conference_name: "Y Combinator AI Startup School"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Startup School 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _PioN-CpOP0
 url: https://www.youtube.com/watch?v=_PioN-CpOP0
 youtube_url: https://www.youtube.com/watch?v=_PioN-CpOP0
 tags: ["YC", "Y Combinator"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

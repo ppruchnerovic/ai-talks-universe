@@ -4,7 +4,7 @@ title: "Ara Yeroyan - Building a Visual RAG System and Scaling it with Spatial P
 slug: ara-yeroyan-building-a-visual-rag-system-and-scaling-it
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Ara Yeroyan"]
@@ -15,6 +15,7 @@ video_id: 4Q0eE8H6djI
 url: https://www.youtube.com/watch?v=4Q0eE8H6djI
 youtube_url: https://www.youtube.com/watch?v=4Q0eE8H6djI
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

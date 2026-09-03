@@ -4,7 +4,7 @@ title: "AI, the Software Supply Chain, and Other (Not So) Puzzling Pieces"
 slug: ai-the-software-supply-chain-and-other-not-so-puzzling
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: dgYnDX7YU6E
 url: https://www.youtube.com/watch?v=dgYnDX7YU6E
 youtube_url: https://www.youtube.com/watch?v=dgYnDX7YU6E
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

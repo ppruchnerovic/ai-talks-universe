@@ -4,7 +4,7 @@ title: "Information Retrieval from the Ground Up - Philipp Krenn, Elastic"
 slug: information-retrieval-from-the-ground-up-philipp-krenn
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Philipp Krenn"]
@@ -15,6 +15,7 @@ video_id: 4Xe_iMYxBQc
 url: https://www.youtube.com/watch?v=4Xe_iMYxBQc
 youtube_url: https://www.youtube.com/watch?v=4Xe_iMYxBQc
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

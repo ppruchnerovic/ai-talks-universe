@@ -4,7 +4,7 @@ title: "The weekly developer show: Editing Behind the Scenes"
 slug: the-weekly-developer-show-editing-behind-the-scenes
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 9d_DibeYwqk
 url: https://www.youtube.com/watch?v=9d_DibeYwqk
 youtube_url: https://www.youtube.com/watch?v=9d_DibeYwqk
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: false
 ---
 

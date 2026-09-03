@@ -4,7 +4,7 @@ title: "SecTor 2025 | AI, Deepfakes, and the Next Evolution of Digital Identity 
 slug: sector-2025-ai-deepfakes-and-the-next-evolution-of-digital
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: bllWkSuFaU4
 url: https://www.youtube.com/watch?v=bllWkSuFaU4
 youtube_url: https://www.youtube.com/watch?v=bllWkSuFaU4
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

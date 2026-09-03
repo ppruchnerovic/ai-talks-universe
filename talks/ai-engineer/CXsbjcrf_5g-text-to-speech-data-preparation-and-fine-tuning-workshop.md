@@ -4,7 +4,7 @@ title: "Text-to-Speech Data Preparation and Fine-tuning Workshop - Ronan McGover
 slug: text-to-speech-data-preparation-and-fine-tuning-workshop
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: CXsbjcrf_5g
 url: https://www.youtube.com/watch?v=CXsbjcrf_5g
 youtube_url: https://www.youtube.com/watch?v=CXsbjcrf_5g
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

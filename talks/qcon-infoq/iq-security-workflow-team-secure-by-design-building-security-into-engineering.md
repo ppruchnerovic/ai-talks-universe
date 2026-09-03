@@ -4,7 +4,7 @@ title: "Secure by Design: Building Security into Engineering Workflows and Teams
 slug: secure-by-design-building-security-into-engineering
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Stefania Chaplin"]
@@ -15,6 +15,7 @@ video_id: iq-security-workflow-team
 url: https://www.infoq.com/presentations/security-workflow-team/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

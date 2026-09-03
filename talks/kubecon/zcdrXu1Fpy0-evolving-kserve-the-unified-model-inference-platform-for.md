@@ -4,7 +4,7 @@ title: "Evolving KServe: The Unified Model Inference Platform for Both Predictiv
 slug: evolving-kserve-the-unified-model-inference-platform-for
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: zcdrXu1Fpy0
 url: https://www.youtube.com/watch?v=zcdrXu1Fpy0
 youtube_url: https://www.youtube.com/watch?v=zcdrXu1Fpy0
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

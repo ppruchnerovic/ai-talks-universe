@@ -4,7 +4,7 @@ title: "Eno Reyes - Building the Software Factory"
 slug: eno-reyes-building-the-software-factory
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Eno Reyes"]
@@ -15,6 +15,7 @@ video_id: Pa3MAnWeNB4
 url: https://www.youtube.com/watch?v=Pa3MAnWeNB4
 youtube_url: https://www.youtube.com/watch?v=Pa3MAnWeNB4
 tags: []
+topics: []
 transcript: true
 ---
 

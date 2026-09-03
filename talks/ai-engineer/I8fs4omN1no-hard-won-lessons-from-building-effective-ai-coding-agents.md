@@ -4,7 +4,7 @@ title: "Hard Won Lessons from Building Effective AI Coding Agents – Nik Pash, 
 slug: hard-won-lessons-from-building-effective-ai-coding-agents
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nik Pash"]
@@ -15,6 +15,7 @@ video_id: I8fs4omN1no
 url: https://www.youtube.com/watch?v=I8fs4omN1no
 youtube_url: https://www.youtube.com/watch?v=I8fs4omN1no
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

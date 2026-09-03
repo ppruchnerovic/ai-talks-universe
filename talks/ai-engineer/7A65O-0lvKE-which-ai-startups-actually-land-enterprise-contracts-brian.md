@@ -4,7 +4,7 @@ title: "Which AI startups actually land enterprise contracts? — Brian Lewis, M
 slug: which-ai-startups-actually-land-enterprise-contracts-brian
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Brian Lewis"]
@@ -15,6 +15,7 @@ video_id: 7A65O-0lvKE
 url: https://www.youtube.com/watch?v=7A65O-0lvKE
 youtube_url: https://www.youtube.com/watch?v=7A65O-0lvKE
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

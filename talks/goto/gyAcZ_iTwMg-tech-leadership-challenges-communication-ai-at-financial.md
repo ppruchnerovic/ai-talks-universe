@@ -4,7 +4,7 @@ title: "Tech Leadership Challenges: Communication & AI at Financial Times • Al
 slug: tech-leadership-challenges-communication-ai-at-financial
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Alice Bartlett"]
@@ -15,6 +15,7 @@ video_id: gyAcZ_iTwMg
 url: https://www.youtube.com/watch?v=gyAcZ_iTwMg
 youtube_url: https://www.youtube.com/watch?v=gyAcZ_iTwMg
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

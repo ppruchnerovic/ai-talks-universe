@@ -4,7 +4,7 @@ title: "Automatic sleep scoring via deep learning | AI and Sleep | Luigi Fiorill
 slug: automatic-sleep-scoring-via-deep-learning-ai-and-sleep
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Luigi Fiorillo"]
@@ -15,6 +15,7 @@ video_id: z-_0LBKAttE
 url: https://www.youtube.com/watch?v=z-_0LBKAttE
 youtube_url: https://www.youtube.com/watch?v=z-_0LBKAttE
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

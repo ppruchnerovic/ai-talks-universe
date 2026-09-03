@@ -4,7 +4,7 @@ title: "Cerebral Valley: Vinod Khosla with Eric Newcomer"
 slug: cerebral-valley-vinod-khosla-with-eric-newcomer
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: TVrqJGidzMc
 url: https://www.youtube.com/watch?v=TVrqJGidzMc
 youtube_url: https://www.youtube.com/watch?v=TVrqJGidzMc
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

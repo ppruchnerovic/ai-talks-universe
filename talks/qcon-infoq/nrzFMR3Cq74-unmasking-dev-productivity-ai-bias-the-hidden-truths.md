@@ -4,7 +4,7 @@ title: "Unmasking Dev Productivity: AI, Bias & the Hidden Truths"
 slug: unmasking-dev-productivity-ai-bias-the-hidden-truths
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: nrzFMR3Cq74
 url: https://www.youtube.com/watch?v=nrzFMR3Cq74
 youtube_url: https://www.youtube.com/watch?v=nrzFMR3Cq74
 tags: ["Developer Productivity", "AIBias", "Software Engineering", "Engineering Culture Podcast", "Team Work", "developer experience", "productivity", "diversity", "equity", "psychological safety"]
+topics: ["AI in the SDLC & engineering orgs", "Governance, ethics & regulation"]
 transcript: false
 ---
 

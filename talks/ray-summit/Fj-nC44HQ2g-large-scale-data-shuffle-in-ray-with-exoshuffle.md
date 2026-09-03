@@ -4,7 +4,7 @@ title: "Large-scale data shuffle in Ray with Exoshuffle"
 slug: large-scale-data-shuffle-in-ray-with-exoshuffle
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: Fj-nC44HQ2g
 url: https://www.youtube.com/watch?v=Fj-nC44HQ2g
 youtube_url: https://www.youtube.com/watch?v=Fj-nC44HQ2g
 tags: []
+topics: []
 transcript: false
 ---
 

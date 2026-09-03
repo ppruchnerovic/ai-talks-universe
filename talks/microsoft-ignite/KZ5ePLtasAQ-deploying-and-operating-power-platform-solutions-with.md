@@ -4,7 +4,7 @@ title: "Deploying and operating Power Platform solutions with DevOps | BRK310"
 slug: deploying-and-operating-power-platform-solutions-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Casey Burke", "Austin Laugesen"]
@@ -15,6 +15,7 @@ video_id: KZ5ePLtasAQ
 url: https://www.youtube.com/watch?v=KZ5ePLtasAQ
 youtube_url: https://www.youtube.com/watch?v=KZ5ePLtasAQ
 tags: ["BRK310", "Deploying and operating Power Platform solutions with DevOps | BRK310", "Innovate with low-code AI and agents", "Innovate with low-code AI and agents:Dataverse", "Innovate with low-code AI and agents:Power Automate", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

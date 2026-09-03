@@ -4,7 +4,7 @@ title: "Veo 3 for Developers — Paige Bailey, Google DeepMind"
 slug: veo-3-for-developers-paige-bailey-google-deepmind
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Paige Bailey"]
@@ -15,6 +15,7 @@ video_id: hlcAZ2lX_ZI
 url: https://www.youtube.com/watch?v=hlcAZ2lX_ZI
 youtube_url: https://www.youtube.com/watch?v=hlcAZ2lX_ZI
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

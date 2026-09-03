@@ -4,7 +4,7 @@ title: "Build no-code intelligent Agents with AppSheet, Gemini, and Vertex AI"
 slug: build-no-code-intelligent-agents-with-appsheet-gemini-and
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _98yGqz8_YM
 url: https://www.youtube.com/watch?v=_98yGqz8_YM
 youtube_url: https://www.youtube.com/watch?v=_98yGqz8_YM
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

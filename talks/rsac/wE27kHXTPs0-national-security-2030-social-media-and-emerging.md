@@ -4,7 +4,7 @@ title: "National Security 2030: Social Media and Emerging Cyberthreats"
 slug: national-security-2030-social-media-and-emerging
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Jenny Reich"]
@@ -15,6 +15,7 @@ video_id: wE27kHXTPs0
 url: https://www.youtube.com/watch?v=wE27kHXTPs0
 youtube_url: https://www.youtube.com/watch?v=wE27kHXTPs0
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

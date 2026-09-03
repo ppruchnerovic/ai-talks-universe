@@ -4,7 +4,7 @@ title: "MLOps Beyond Training: Simplifying and Automating the Operational Pipeli
 slug: mlops-beyond-training-simplifying-and-automating-the
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Yaron Haviv"]
@@ -15,6 +15,7 @@ video_id: ojoqi9rGdWY
 url: https://www.youtube.com/watch?v=ojoqi9rGdWY
 youtube_url: https://www.youtube.com/watch?v=ojoqi9rGdWY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "From Automation to Autonomy: The Next Evolution of Playwright Testing by
 slug: from-automation-to-autonomy-the-next-evolution-of
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Ashish Ghosh"]
@@ -15,6 +15,7 @@ video_id: kDDKh4VI_Pg
 url: https://www.youtube.com/watch?v=kDDKh4VI_Pg
 youtube_url: https://www.youtube.com/watch?v=kDDKh4VI_Pg
 tags: []
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

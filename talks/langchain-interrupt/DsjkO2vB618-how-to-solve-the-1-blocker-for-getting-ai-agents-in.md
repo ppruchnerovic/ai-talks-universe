@@ -4,7 +4,7 @@ title: "How to Solve the #1 Blocker for Getting AI Agents in Production | LangCh
 slug: how-to-solve-the-1-blocker-for-getting-ai-agents-in
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: DsjkO2vB618
 url: https://www.youtube.com/watch?v=DsjkO2vB618
 youtube_url: https://www.youtube.com/watch?v=DsjkO2vB618
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

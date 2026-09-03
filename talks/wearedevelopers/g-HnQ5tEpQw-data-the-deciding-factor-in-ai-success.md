@@ -4,7 +4,7 @@ title: "Data: The Deciding Factor in AI Success"
 slug: data-the-deciding-factor-in-ai-success
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Damandeep Kochhar", "Jörg Tewes", "Siddhika Nevrekar", "Ed Huang", "Laura Moritz"]
@@ -15,6 +15,7 @@ video_id: g-HnQ5tEpQw
 url: https://www.youtube.com/watch?v=g-HnQ5tEpQw
 youtube_url: https://www.youtube.com/watch?v=g-HnQ5tEpQw
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

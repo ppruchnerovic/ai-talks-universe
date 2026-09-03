@@ -4,7 +4,7 @@ title: "Accelerating Transformers with Hugging Face Optimum and Infinity"
 slug: accelerating-transformers-with-hugging-face-optimum-and
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Lewis Tunstall"]
@@ -15,6 +15,7 @@ video_id: VhpP_kYStoI
 url: https://www.youtube.com/watch?v=VhpP_kYStoI
 youtube_url: https://www.youtube.com/watch?v=VhpP_kYStoI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

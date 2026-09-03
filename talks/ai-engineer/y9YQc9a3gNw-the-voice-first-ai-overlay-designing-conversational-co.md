@@ -4,7 +4,7 @@ title: "The Voice-First AI Overlay: Designing Conversational Co-Pilots - Gregory
 slug: the-voice-first-ai-overlay-designing-conversational-co
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Gregory Bruss"]
@@ -15,6 +15,7 @@ video_id: y9YQc9a3gNw
 url: https://www.youtube.com/watch?v=y9YQc9a3gNw
 youtube_url: https://www.youtube.com/watch?v=y9YQc9a3gNw
 tags: []
+topics: []
 transcript: false
 ---
 

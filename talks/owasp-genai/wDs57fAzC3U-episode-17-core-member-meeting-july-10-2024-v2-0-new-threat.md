@@ -4,7 +4,7 @@ title: "Episode 17: Core Member Meeting July 10 2024 - v2.0 New Threat Conversat
 slug: episode-17-core-member-meeting-july-10-2024-v2-0-new-threat
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: wDs57fAzC3U
 url: https://www.youtube.com/watch?v=wDs57fAzC3U
 youtube_url: https://www.youtube.com/watch?v=wDs57fAzC3U
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

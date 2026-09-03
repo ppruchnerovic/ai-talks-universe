@@ -4,7 +4,7 @@ title: "Beyond the basics with Claude Code"
 slug: beyond-the-basics-with-claude-code
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: tuY2ChJIx48
 url: https://www.youtube.com/watch?v=tuY2ChJIx48
 youtube_url: https://www.youtube.com/watch?v=tuY2ChJIx48
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

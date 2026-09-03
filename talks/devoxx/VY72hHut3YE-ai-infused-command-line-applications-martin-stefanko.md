@@ -4,7 +4,7 @@ title: "AI-infused command-line applications - Martin Stefanko"
 slug: ai-infused-command-line-applications-martin-stefanko
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Martin Stefanko"]
@@ -15,6 +15,7 @@ video_id: VY72hHut3YE
 url: https://www.youtube.com/watch?v=VY72hHut3YE
 youtube_url: https://www.youtube.com/watch?v=VY72hHut3YE
 tags: []
+topics: []
 transcript: false
 ---
 

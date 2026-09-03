@@ -4,7 +4,7 @@ title: "dLLMs: Rethinking Generation Beyond Autoregressive Models"
 slug: dllms-rethinking-generation-beyond-autoregressive-models
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Tw_hxJqHYh4
 url: https://www.youtube.com/watch?v=Tw_hxJqHYh4
 youtube_url: https://www.youtube.com/watch?v=Tw_hxJqHYh4
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

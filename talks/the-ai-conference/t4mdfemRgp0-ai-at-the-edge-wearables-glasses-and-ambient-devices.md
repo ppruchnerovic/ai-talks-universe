@@ -4,7 +4,7 @@ title: "AI at the Edge: Wearables, Glasses and Ambient Devices"
 slug: ai-at-the-edge-wearables-glasses-and-ambient-devices
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: t4mdfemRgp0
 url: https://www.youtube.com/watch?v=t4mdfemRgp0
 youtube_url: https://www.youtube.com/watch?v=t4mdfemRgp0
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

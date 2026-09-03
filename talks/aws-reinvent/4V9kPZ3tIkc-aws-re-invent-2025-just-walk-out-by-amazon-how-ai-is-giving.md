@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Just Walk Out by Amazon: How AI is Giving Your Lunc
 slug: aws-re-invent-2025-just-walk-out-by-amazon-how-ai-is-giving
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4V9kPZ3tIkc
 url: https://www.youtube.com/watch?v=4V9kPZ3tIkc
 youtube_url: https://www.youtube.com/watch?v=4V9kPZ3tIkc
 tags: []
+topics: []
 transcript: false
 ---
 

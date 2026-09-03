@@ -4,7 +4,7 @@ title: "Emotion Estimation for Social Robotics - Samer Attrah, Google"
 slug: emotion-estimation-for-social-robotics-samer-attrah-google
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Samer Attrah"]
@@ -15,6 +15,7 @@ video_id: LtRFesNi0BU
 url: https://www.youtube.com/watch?v=LtRFesNi0BU
 youtube_url: https://www.youtube.com/watch?v=LtRFesNi0BU
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

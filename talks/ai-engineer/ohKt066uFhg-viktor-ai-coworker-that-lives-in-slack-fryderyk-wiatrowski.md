@@ -4,7 +4,7 @@ title: "Viktor: AI Coworker That Lives in Slack — Fryderyk Wiatrowski"
 slug: viktor-ai-coworker-that-lives-in-slack-fryderyk-wiatrowski
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Fryderyk Wiatrowski"]
@@ -15,6 +15,7 @@ video_id: ohKt066uFhg
 url: https://www.youtube.com/watch?v=ohKt066uFhg
 youtube_url: https://www.youtube.com/watch?v=ohKt066uFhg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

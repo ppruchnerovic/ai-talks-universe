@@ -4,7 +4,7 @@ title: "High-Precision Targeted Audience Discovery with GenAI"
 slug: high-precision-targeted-audience-discovery-with-genai
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: ["Nataliya Portman"]
@@ -15,6 +15,7 @@ video_id: TRRq3_k2jDA
 url: https://www.youtube.com/watch?v=TRRq3_k2jDA
 youtube_url: https://www.youtube.com/watch?v=TRRq3_k2jDA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

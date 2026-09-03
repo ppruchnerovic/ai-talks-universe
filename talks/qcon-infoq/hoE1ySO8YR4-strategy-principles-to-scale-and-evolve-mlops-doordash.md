@@ -4,7 +4,7 @@ title: "Strategy & Principles to Scale and Evolve MLOps @DoorDash"
 slug: strategy-principles-to-scale-and-evolve-mlops-doordash
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: hoE1ySO8YR4
 url: https://www.youtube.com/watch?v=hoE1ySO8YR4
 youtube_url: https://www.youtube.com/watch?v=hoE1ySO8YR4
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "MLOps", "Case Study", "DoorDash", "Project Management", "Operations Management", "InfoQ", "QCon London", "Transcript"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

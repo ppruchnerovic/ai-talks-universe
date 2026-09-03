@@ -4,7 +4,7 @@ title: "Why Your Coding Agents Need a Harness, Not a Prompt"
 slug: why-your-coding-agents-need-a-harness-not-a-prompt
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: bUtAGFXPc3A
 url: https://www.youtube.com/watch?v=bUtAGFXPc3A
 youtube_url: https://www.youtube.com/watch?v=bUtAGFXPc3A
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Prompting & context engineering"]
 transcript: true
 ---
 

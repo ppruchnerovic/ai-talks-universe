@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Cloud Resilience in the AI Era (HMC307)"
 slug: aws-re-invent-2025-cloud-resilience-in-the-ai-era-hmc307
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6wGwx-IENM4
 url: https://www.youtube.com/watch?v=6wGwx-IENM4
 youtube_url: https://www.youtube.com/watch?v=6wGwx-IENM4
 tags: []
+topics: []
 transcript: false
 ---
 

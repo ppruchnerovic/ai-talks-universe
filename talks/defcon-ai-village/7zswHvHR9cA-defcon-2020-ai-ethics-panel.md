@@ -4,7 +4,7 @@ title: "DEFCON 2020 AI Ethics Panel"
 slug: defcon-2020-ai-ethics-panel
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2020
 speakers: []
@@ -15,6 +15,7 @@ video_id: 7zswHvHR9cA
 url: https://www.youtube.com/watch?v=7zswHvHR9cA
 youtube_url: https://www.youtube.com/watch?v=7zswHvHR9cA
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

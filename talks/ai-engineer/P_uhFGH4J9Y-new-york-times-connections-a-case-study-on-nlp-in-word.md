@@ -4,7 +4,7 @@ title: "New York Times' Connections: A Case Study on NLP in Word Games — Shafi
 slug: new-york-times-connections-a-case-study-on-nlp-in-word
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Shafik Quoraishee"]
@@ -15,6 +15,7 @@ video_id: P_uhFGH4J9Y
 url: https://www.youtube.com/watch?v=P_uhFGH4J9Y
 youtube_url: https://www.youtube.com/watch?v=P_uhFGH4J9Y
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

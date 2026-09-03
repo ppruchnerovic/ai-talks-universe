@@ -4,7 +4,7 @@ title: "Nikhil Chandhok - Building Infrastructure for the Agentic Economy"
 slug: nikhil-chandhok-building-infrastructure-for-the-agentic
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Nikhil Chandhok"]
@@ -15,6 +15,7 @@ video_id: rZ4yJ2IvWCk
 url: https://www.youtube.com/watch?v=rZ4yJ2IvWCk
 youtube_url: https://www.youtube.com/watch?v=rZ4yJ2IvWCk
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

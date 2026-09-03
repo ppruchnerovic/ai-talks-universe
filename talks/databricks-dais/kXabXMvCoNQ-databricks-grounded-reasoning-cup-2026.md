@@ -4,7 +4,7 @@ title: "Databricks Grounded Reasoning Cup 2026"
 slug: databricks-grounded-reasoning-cup-2026
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: kXabXMvCoNQ
 url: https://www.youtube.com/watch?v=kXabXMvCoNQ
 youtube_url: https://www.youtube.com/watch?v=kXabXMvCoNQ
 tags: ["Databricks"]
+topics: ["Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: true
 ---
 

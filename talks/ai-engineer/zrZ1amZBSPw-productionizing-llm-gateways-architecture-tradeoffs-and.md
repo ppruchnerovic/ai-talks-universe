@@ -4,7 +4,7 @@ title: "Productionizing LLM Gateways: Architecture, Tradeoffs and Hard Lessons â
 slug: productionizing-llm-gateways-architecture-tradeoffs-and
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kanish Manuja"]
@@ -15,6 +15,7 @@ video_id: zrZ1amZBSPw
 url: https://www.youtube.com/watch?v=zrZ1amZBSPw
 youtube_url: https://www.youtube.com/watch?v=zrZ1amZBSPw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Realtime and Batch Processing of GPU Workloads"
 slug: realtime-and-batch-processing-of-gpu-workloads
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Joseph Stein"]
@@ -15,6 +15,7 @@ video_id: iq-realtime-gpu-workloads
 url: https://www.infoq.com/presentations/realtime-gpu-workloads/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

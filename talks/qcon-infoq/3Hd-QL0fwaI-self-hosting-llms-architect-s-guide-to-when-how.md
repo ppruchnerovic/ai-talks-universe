@@ -4,7 +4,7 @@ title: "Self-Hosting LLMs: Architect's Guide to When & How"
 slug: self-hosting-llms-architect-s-guide-to-when-how
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3Hd-QL0fwaI
 url: https://www.youtube.com/watch?v=3Hd-QL0fwaI
 youtube_url: https://www.youtube.com/watch?v=3Hd-QL0fwaI
 tags: ["LLM Deployment", "Self Hosting AI", "Software Architecture", "Large Language Models", "LLMs", "Deployment", "Artificial Intelligence", "Machine Learning", "QCon San Francisco", "InfoQ", "Transcript", "Cloud Computing"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

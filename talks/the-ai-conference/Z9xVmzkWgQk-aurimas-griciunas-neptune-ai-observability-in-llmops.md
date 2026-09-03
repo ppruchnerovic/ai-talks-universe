@@ -4,7 +4,7 @@ title: "Aurimas Griciūnas, Neptune.AI: Observability in LLMOps pipeline - diff
 slug: aurimas-griciunas-neptune-ai-observability-in-llmops
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Z9xVmzkWgQk
 url: https://www.youtube.com/watch?v=Z9xVmzkWgQk
 youtube_url: https://www.youtube.com/watch?v=Z9xVmzkWgQk
 tags: []
+topics: ["Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Beyond the Warehouse: Why BigQuery Alone Won’t Solve Your Data Problem
 slug: beyond-the-warehouse-why-bigquery-alone-wont-solve-your
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Sarah Usher"]
@@ -15,6 +15,7 @@ video_id: iq-bigquery-data-challenges
 url: https://www.infoq.com/presentations/bigquery-data-challenges/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

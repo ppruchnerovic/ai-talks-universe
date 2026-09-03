@@ -4,7 +4,7 @@ title: "Power a future-proofed workplace with Cisco AI | STUDIOSP88"
 slug: power-a-future-proofed-workplace-with-cisco-ai-studiosp88
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Patrick Eustace"]
@@ -15,6 +15,7 @@ video_id: iYfqF8ZVups
 url: https://www.youtube.com/watch?v=iYfqF8ZVups
 youtube_url: https://www.youtube.com/watch?v=iYfqF8ZVups
 tags: ["Copilot and agents at work", "English (US)", "Patrick Eustace", "Power a future-proofed workplace with Cisco AI | STUDIOSP88", "STUDIOSP88", "STUDIOSP88_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

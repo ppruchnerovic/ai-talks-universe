@@ -4,7 +4,7 @@ title: "The Visual Turing Test: Victor Riparbelli (Synthesia) and Matt Rouif (Ph
 slug: the-visual-turing-test-victor-riparbelli-synthesia-and-matt
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: dXbvPndYzUw
 url: https://www.youtube.com/watch?v=dXbvPndYzUw
 youtube_url: https://www.youtube.com/watch?v=dXbvPndYzUw
 tags: []
+topics: ["Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

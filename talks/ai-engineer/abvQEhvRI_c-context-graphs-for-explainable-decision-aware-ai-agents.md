@@ -4,7 +4,7 @@ title: "Context Graphs for Explainable, Decision-Aware AI Agents — Andreas Kol
 slug: context-graphs-for-explainable-decision-aware-ai-agents
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Andreas Kollegger", "Zaid Zaim"]
@@ -15,6 +15,7 @@ video_id: abvQEhvRI_c
 url: https://www.youtube.com/watch?v=abvQEhvRI_c
 youtube_url: https://www.youtube.com/watch?v=abvQEhvRI_c
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

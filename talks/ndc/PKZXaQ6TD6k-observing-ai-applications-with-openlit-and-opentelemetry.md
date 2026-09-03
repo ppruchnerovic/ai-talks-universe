@@ -4,7 +4,7 @@ title: "Observing AI Applications with OpenLit and OpenTelemetry - Carly Richmon
 slug: observing-ai-applications-with-openlit-and-opentelemetry
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Carly Richmond"]
@@ -15,6 +15,7 @@ video_id: PKZXaQ6TD6k
 url: https://www.youtube.com/watch?v=PKZXaQ6TD6k
 youtube_url: https://www.youtube.com/watch?v=PKZXaQ6TD6k
 tags: ["llm", "Typescript", "AI", "ML", "Machine Learning", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "UK", "England", "United Kingdom", "Carly Richmond"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

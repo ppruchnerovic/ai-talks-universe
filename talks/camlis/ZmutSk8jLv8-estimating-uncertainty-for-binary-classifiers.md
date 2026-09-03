@@ -4,7 +4,7 @@ title: "Estimating uncertainty for binary classifiers"
 slug: estimating-uncertainty-for-binary-classifiers
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZmutSk8jLv8
 url: https://www.youtube.com/watch?v=ZmutSk8jLv8
 youtube_url: https://www.youtube.com/watch?v=ZmutSk8jLv8
 tags: ["camlis", "camlis2018"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

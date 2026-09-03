@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Customize AI models & accelerate time to production
 slug: aws-re-invent-2025-customize-ai-models-accelerate-time-to
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: WeI-1WB5leE
 url: https://www.youtube.com/watch?v=WeI-1WB5leE
 youtube_url: https://www.youtube.com/watch?v=WeI-1WB5leE
 tags: []
+topics: []
 transcript: false
 ---
 

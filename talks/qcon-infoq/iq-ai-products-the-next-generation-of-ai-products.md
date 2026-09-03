@@ -4,7 +4,7 @@ title: "The Next Generation of AI Products"
 slug: the-next-generation-of-ai-products
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Hilary Mason"]
@@ -15,6 +15,7 @@ video_id: iq-ai-products
 url: https://www.infoq.com/presentations/ai-products/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

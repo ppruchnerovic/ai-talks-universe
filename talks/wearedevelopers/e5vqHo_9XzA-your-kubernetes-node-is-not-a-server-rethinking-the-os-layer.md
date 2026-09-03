@@ -4,7 +4,7 @@ title: "Your Kubernetes Node Is Not a Server: Rethinking the OS Layer"
 slug: your-kubernetes-node-is-not-a-server-rethinking-the-os-layer
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Natanael Copa"]
@@ -15,6 +15,7 @@ video_id: e5vqHo_9XzA
 url: https://www.youtube.com/watch?v=e5vqHo_9XzA
 youtube_url: https://www.youtube.com/watch?v=e5vqHo_9XzA
 tags: ["Cloud & AI Infrastructure", "Best Practices", "DevOps", "Linux"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

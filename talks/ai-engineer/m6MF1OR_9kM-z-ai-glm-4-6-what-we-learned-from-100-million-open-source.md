@@ -4,7 +4,7 @@ title: "Z.ai GLM 4.6: What We Learned From 100 Million Open Source Downloads —
 slug: z-ai-glm-4-6-what-we-learned-from-100-million-open-source
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Yuxuan Zhang"]
@@ -15,6 +15,7 @@ video_id: m6MF1OR_9kM
 url: https://www.youtube.com/watch?v=m6MF1OR_9kM
 youtube_url: https://www.youtube.com/watch?v=m6MF1OR_9kM
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

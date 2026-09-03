@@ -4,7 +4,7 @@ title: "Building a HybridRAG Document Question-Answering System"
 slug: building-a-hybridrag-document-question-answering-system
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Darya Petrashka"]
@@ -15,6 +15,7 @@ video_id: KTpG-T3DK6k
 url: https://www.youtube.com/watch?v=KTpG-T3DK6k
 youtube_url: https://www.youtube.com/watch?v=KTpG-T3DK6k
 tags: ["Conference", "HybridRAG", "Programming", "PyConDE", "PyData", "Python", "Tech Talk", "document analysis", "entity extraction", "graph databases", "information retrieval", "knowledge graphs", "large language models", "natural language processing", "question answering systems", "semantic search", "vector retrieval"]
+topics: ["RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

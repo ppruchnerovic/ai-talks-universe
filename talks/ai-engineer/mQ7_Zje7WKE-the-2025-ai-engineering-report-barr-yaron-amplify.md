@@ -4,7 +4,7 @@ title: "The 2025 AI Engineering Report — Barr Yaron, Amplify"
 slug: the-2025-ai-engineering-report-barr-yaron-amplify
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Barr Yaron"]
@@ -15,6 +15,7 @@ video_id: mQ7_Zje7WKE
 url: https://www.youtube.com/watch?v=mQ7_Zje7WKE
 youtube_url: https://www.youtube.com/watch?v=mQ7_Zje7WKE
 tags: []
+topics: []
 transcript: false
 ---
 

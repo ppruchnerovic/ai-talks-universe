@@ -4,7 +4,7 @@ title: "How BlackRock Built Production AI Agents for Asset Management with LangG
 slug: how-blackrock-built-production-ai-agents-for-asset
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: oyqeCHFM5U4
 url: https://www.youtube.com/watch?v=oyqeCHFM5U4
 youtube_url: https://www.youtube.com/watch?v=oyqeCHFM5U4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

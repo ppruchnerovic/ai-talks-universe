@@ -4,7 +4,7 @@ title: "GitHub Copilot in Visual Studio: Agents That Debug, Profile, and Test | 
 slug: github-copilot-in-visual-studio-agents-that-debug-profile
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Mads Kristensen", "Nik Karpinsky"]
@@ -15,6 +15,7 @@ video_id: Nt87zSqfk-o
 url: https://www.youtube.com/watch?v=Nt87zSqfk-o
 youtube_url: https://www.youtube.com/watch?v=Nt87zSqfk-o
 tags: ["C#", "C++"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Defending Large Language Models Against Attacks With Residual Stream Act
 slug: defending-large-language-models-against-attacks-with
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2zveQ0eS1Bo
 url: https://www.youtube.com/watch?v=2zveQ0eS1Bo
 youtube_url: https://www.youtube.com/watch?v=2zveQ0eS1Bo
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

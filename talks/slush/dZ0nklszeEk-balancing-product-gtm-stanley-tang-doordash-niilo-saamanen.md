@@ -4,7 +4,7 @@ title: "Balancing Product & GTM | Stanley Tang (DoorDash) & Niilo Säämänen (W
 slug: balancing-product-gtm-stanley-tang-doordash-niilo-saamanen
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Stanley Tang"]
@@ -15,6 +15,7 @@ video_id: dZ0nklszeEk
 url: https://www.youtube.com/watch?v=dZ0nklszeEk
 youtube_url: https://www.youtube.com/watch?v=dZ0nklszeEk
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

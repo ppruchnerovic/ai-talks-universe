@@ -4,7 +4,7 @@ title: "Alex Gavrilescu - Backlog.md Hands On | DevCon Fall 2025"
 slug: alex-gavrilescu-backlog-md-hands-on-devcon-fall-2025
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Alex Gavrilescu"]
@@ -15,6 +15,7 @@ video_id: extI7XvmaGU
 url: https://www.youtube.com/watch?v=extI7XvmaGU
 youtube_url: https://www.youtube.com/watch?v=extI7XvmaGU
 tags: ["ainativedev"]
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

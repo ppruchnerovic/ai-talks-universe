@@ -4,7 +4,7 @@ title: "Bootstrapping Microservices • Ashley Davis & Damian Maclennan"
 slug: bootstrapping-microservices-ashley-davis-damian-maclennan
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Bootstrapping Microservices", "Ashley Davis", "Damian Maclennan"]
@@ -15,6 +15,7 @@ video_id: 06M1ahM3g5A
 url: https://www.youtube.com/watch?v=06M1ahM3g5A
 youtube_url: https://www.youtube.com/watch?v=06M1ahM3g5A
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
+topics: []
 transcript: false
 ---
 

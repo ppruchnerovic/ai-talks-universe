@@ -4,7 +4,7 @@ title: "Scaling of Quantized Large Language Models for Efficient Inference"
 slug: scaling-of-quantized-large-language-models-for-efficient
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: N3oEvBx1BGM
 url: https://www.youtube.com/watch?v=N3oEvBx1BGM
 youtube_url: https://www.youtube.com/watch?v=N3oEvBx1BGM
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

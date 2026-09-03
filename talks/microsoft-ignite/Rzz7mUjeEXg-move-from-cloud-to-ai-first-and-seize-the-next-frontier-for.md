@@ -4,7 +4,7 @@ title: "Move from cloud to AI-first and seize the next frontier for partners | B
 slug: move-from-cloud-to-ai-first-and-seize-the-next-frontier-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sophie Daval", "Eric Gourmelen"]
@@ -15,6 +15,7 @@ video_id: Rzz7mUjeEXg
 url: https://www.youtube.com/watch?v=Rzz7mUjeEXg
 youtube_url: https://www.youtube.com/watch?v=Rzz7mUjeEXg
 tags: ["988947d4-416b-455e-8f4b-b1b31f7e8467_Segment", "BRKSP454", "Copilot and agents at work", "Education", "English (US)", "Eric Gourmelen", "Move from cloud to AI-first and seize the next frontier for partners | BRKSP454", "Partner Business", "Sophie Daval", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Break the Wall from Bottom: Automated Discovery of Protocol-Level Evasio
 slug: break-the-wall-from-bottom-automated-discovery-of-protocol
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: RgBf7P2BkJM
 url: https://www.youtube.com/watch?v=RgBf7P2BkJM
 youtube_url: https://www.youtube.com/watch?v=RgBf7P2BkJM
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Building Production Agent Swarms: Mastering Industr
 slug: aws-re-invent-2025-building-production-agent-swarms
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: pQOZRvrEy3Y
 url: https://www.youtube.com/watch?v=pQOZRvrEy3Y
 youtube_url: https://www.youtube.com/watch?v=pQOZRvrEy3Y
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

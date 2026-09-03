@@ -4,7 +4,7 @@ title: "Agents, codebases, and teams — Aditya Khandelwal, Amazon AGI Lab"
 slug: agents-codebases-and-teams-aditya-khandelwal-amazon-agi-lab
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Aditya Khandelwal"]
@@ -15,6 +15,7 @@ video_id: aeTb5BdmTTc
 url: https://www.youtube.com/watch?v=aeTb5BdmTTc
 youtube_url: https://www.youtube.com/watch?v=aeTb5BdmTTc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

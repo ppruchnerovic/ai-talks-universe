@@ -4,7 +4,7 @@ title: "Duncan Lennox - Off the Shelf AI Hit a Wall. Here's What HubSpot Did to 
 slug: duncan-lennox-off-the-shelf-ai-hit-a-wall-here-s-what
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Duncan Lennox"]
@@ -15,6 +15,7 @@ video_id: DrYXo82aD0E
 url: https://www.youtube.com/watch?v=DrYXo82aD0E
 youtube_url: https://www.youtube.com/watch?v=DrYXo82aD0E
 tags: []
+topics: []
 transcript: true
 ---
 

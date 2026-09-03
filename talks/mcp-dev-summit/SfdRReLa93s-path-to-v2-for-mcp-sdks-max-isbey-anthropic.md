@@ -4,7 +4,7 @@ title: "Path to V2 for MCP SDKs - Max Isbey, Anthropic"
 slug: path-to-v2-for-mcp-sdks-max-isbey-anthropic
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Max Isbey"]
@@ -15,6 +15,7 @@ video_id: SfdRReLa93s
 url: https://www.youtube.com/watch?v=SfdRReLa93s
 youtube_url: https://www.youtube.com/watch?v=SfdRReLa93s
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

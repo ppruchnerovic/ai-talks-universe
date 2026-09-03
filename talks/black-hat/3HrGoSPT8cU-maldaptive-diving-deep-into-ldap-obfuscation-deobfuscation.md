@@ -4,7 +4,7 @@ title: "MaLDAPtive: Diving Deep Into LDAP Obfuscation, Deobfuscation & Detection
 slug: maldaptive-diving-deep-into-ldap-obfuscation-deobfuscation
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3HrGoSPT8cU
 url: https://www.youtube.com/watch?v=3HrGoSPT8cU
 youtube_url: https://www.youtube.com/watch?v=3HrGoSPT8cU
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

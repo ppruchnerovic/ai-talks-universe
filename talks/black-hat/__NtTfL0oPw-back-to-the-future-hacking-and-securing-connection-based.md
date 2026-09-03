@@ -4,7 +4,7 @@ title: "Back to the Future: Hacking and Securing Connection-based OAuth Architec
 slug: back-to-the-future-hacking-and-securing-connection-based
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: __NtTfL0oPw
 url: https://www.youtube.com/watch?v=__NtTfL0oPw
 youtube_url: https://www.youtube.com/watch?v=__NtTfL0oPw
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

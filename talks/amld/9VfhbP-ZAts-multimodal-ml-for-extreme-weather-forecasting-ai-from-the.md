@@ -4,7 +4,7 @@ title: "Multimodal ML for Extreme Weather Forecasting | AI from the Sky | Cynthi
 slug: multimodal-ml-for-extreme-weather-forecasting-ai-from-the
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Cynthia Zeng"]
@@ -15,6 +15,7 @@ video_id: 9VfhbP-ZAts
 url: https://www.youtube.com/watch?v=9VfhbP-ZAts
 youtube_url: https://www.youtube.com/watch?v=9VfhbP-ZAts
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

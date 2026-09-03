@@ -4,7 +4,7 @@ title: "Partner: Benefits for Accelerating Software Company Success | PBRK418"
 slug: partner-benefits-for-accelerating-software-company-success
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sandy Gupta", "Michael Marzano", "Andrew Smith"]
@@ -15,6 +15,7 @@ video_id: uutyZeRddiQ
 url: https://www.youtube.com/watch?v=uutyZeRddiQ
 youtube_url: https://www.youtube.com/watch?v=uutyZeRddiQ
 tags: ["284c2376-4d10-4a1f-833c-d3efee04d2a6_Segment", "Andrew Smith", "English (US)", "Michael Marzano", "Microsoft AI Cloud Partner Program", "PBRK418", "Partner Business", "Partner: Benefits for Accelerating Software Company Success | PBRK418", "Sandy Gupta", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Cybersecurity in the Era of AI and Quantum Computing - Tudor Damian - ND
 slug: cybersecurity-in-the-era-of-ai-and-quantum-computing-tudor
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Tudor Damian"]
@@ -15,6 +15,7 @@ video_id: C9IgEfYCwFo
 url: https://www.youtube.com/watch?v=C9IgEfYCwFo
 youtube_url: https://www.youtube.com/watch?v=C9IgEfYCwFo
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

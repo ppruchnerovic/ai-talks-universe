@@ -4,7 +4,7 @@ title: "The Future of Domain-Specific AI: Building Effective Agents for Speciali
 slug: the-future-of-domain-specific-ai-building-effective-agents
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 5KbP0Mdknws
 url: https://www.youtube.com/watch?v=5KbP0Mdknws
 youtube_url: https://www.youtube.com/watch?v=5KbP0Mdknws
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

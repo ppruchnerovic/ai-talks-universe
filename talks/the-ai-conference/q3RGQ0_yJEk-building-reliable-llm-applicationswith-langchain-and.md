@@ -4,7 +4,7 @@ title: "Building Reliable LLM ApplicationsWith LangChain And LangSmith, Harrison
 slug: building-reliable-llm-applicationswith-langchain-and
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: q3RGQ0_yJEk
 url: https://www.youtube.com/watch?v=q3RGQ0_yJEk
 youtube_url: https://www.youtube.com/watch?v=q3RGQ0_yJEk
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

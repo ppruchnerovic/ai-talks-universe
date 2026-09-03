@@ -4,7 +4,7 @@ title: "If You Can Secure It Here, You Can Secure It Anywhere - Milan Williams &
 slug: if-you-can-secure-it-here-you-can-secure-it-anywhere-milan
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Milan Williams", "Katrina Liu"]
@@ -15,6 +15,7 @@ video_id: iYouIi6QBn8
 url: https://www.youtube.com/watch?v=iYouIi6QBn8
 youtube_url: https://www.youtube.com/watch?v=iYouIi6QBn8
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Empower Your Developers: How Open Source Dependencies Risk Management Ca
 slug: empower-your-developers-how-open-source-dependencies-risk
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Celine Pypaert"]
@@ -15,6 +15,7 @@ video_id: iq-open-source-dependencies
 url: https://www.infoq.com/presentations/open-source-dependencies/
 youtube_url: null
 tags: []
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

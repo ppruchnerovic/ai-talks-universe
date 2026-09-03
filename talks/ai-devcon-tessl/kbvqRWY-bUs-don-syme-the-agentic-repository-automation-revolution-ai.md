@@ -4,7 +4,7 @@ title: "Don Syme - The Agentic Repository Automation Revolution - AI Native DevC
 slug: don-syme-the-agentic-repository-automation-revolution-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Don Syme"]
@@ -15,6 +15,7 @@ video_id: kbvqRWY-bUs
 url: https://www.youtube.com/watch?v=kbvqRWY-bUs
 youtube_url: https://www.youtube.com/watch?v=kbvqRWY-bUs
 tags: ["AI repository automation", "CI/CD integration", "GitHub Agentic Workflows", "GitHub workflows", "Microsoft GitHub Next", "agentic coding", "agentic repository", "ainativedev", "automated code improvement", "continuous AI", "continuous AI in development", "continuous code improvement", "repository automation", "software development automation", "what is continuous AI"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

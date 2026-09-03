@@ -4,7 +4,7 @@ title: "Architecting Planet Scale, Modern Apps in the Cloud"
 slug: architecting-planet-scale-modern-apps-in-the-cloud
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["George Mao"]
@@ -15,6 +15,7 @@ video_id: iq-maturity-architecture-cloud
 url: https://www.infoq.com/presentations/maturity-architecture-cloud/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "GitHub Copilot - How It Works, How We Got Here, Where It's Going • Dam
 slug: github-copilot-how-it-works-how-we-got-here-where-it-s
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Damian Brady"]
@@ -15,6 +15,7 @@ video_id: ZUS7r3c3iGc
 url: https://www.youtube.com/watch?v=ZUS7r3c3iGc
 youtube_url: https://www.youtube.com/watch?v=ZUS7r3c3iGc
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

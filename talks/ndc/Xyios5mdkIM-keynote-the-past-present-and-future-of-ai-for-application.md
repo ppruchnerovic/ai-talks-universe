@@ -4,7 +4,7 @@ title: "Keynote: The past, present, and future of AI for application developers 
 slug: keynote-the-past-present-and-future-of-ai-for-application
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Steve Sanderson"]
@@ -15,6 +15,7 @@ video_id: Xyios5mdkIM
 url: https://www.youtube.com/watch?v=Xyios5mdkIM
 youtube_url: https://www.youtube.com/watch?v=Xyios5mdkIM
 tags: ["AI", ".NET", "LLM", "UI", "NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia", "Steve Sanderson"]
+topics: []
 transcript: false
 ---
 

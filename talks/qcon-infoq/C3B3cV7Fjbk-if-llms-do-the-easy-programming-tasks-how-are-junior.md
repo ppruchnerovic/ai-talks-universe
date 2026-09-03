@@ -4,7 +4,7 @@ title: "If LLMs Do the Easy Programming Tasks - How are Junior Developers Traine
 slug: if-llms-do-the-easy-programming-tasks-how-are-junior
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: C3B3cV7Fjbk
 url: https://www.youtube.com/watch?v=C3B3cV7Fjbk
 youtube_url: https://www.youtube.com/watch?v=C3B3cV7Fjbk
 tags: []
+topics: []
 transcript: false
 ---
 

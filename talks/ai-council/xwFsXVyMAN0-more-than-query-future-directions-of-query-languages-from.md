@@ -4,7 +4,7 @@ title: "More Than Query Future Directions of Query Languages, from SQL to Morel"
 slug: more-than-query-future-directions-of-query-languages-from
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Julian Hyde"]
@@ -15,6 +15,7 @@ video_id: xwFsXVyMAN0
 url: https://www.youtube.com/watch?v=xwFsXVyMAN0
 youtube_url: https://www.youtube.com/watch?v=xwFsXVyMAN0
 tags: ["query languages", "functional programming", "ChatGPT", "artificial intelligence", "machine learning", "SQL", "database", "programming languages", "database theory", "computer science", "declarative query language", "data intensive programming", "Python tutorial", "query optimization", "query planning", "execution engines", "relational algebra", "lambda calculus", "functional programming concepts", "immutable data", "pure functions", "higher order functions"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

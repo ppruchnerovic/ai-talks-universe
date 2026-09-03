@@ -4,7 +4,7 @@ title: "Avik Basu - Beyond Just Prediction: Causal Thinking in Machine Learning 
 slug: avik-basu-beyond-just-prediction-causal-thinking-in-machine
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Avik Basu"]
@@ -15,6 +15,7 @@ video_id: RFdN3h0G2-8
 url: https://www.youtube.com/watch?v=RFdN3h0G2-8
 youtube_url: https://www.youtube.com/watch?v=RFdN3h0G2-8
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

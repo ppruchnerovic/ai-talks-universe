@@ -4,7 +4,7 @@ title: "Monitor, optimize and scale with AI Observability in Microsoft Foundry |
 slug: monitor-optimize-and-scale-with-ai-observability-in
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Abhi Bhatt", "Sebastian Kohlmeier", "Sam Naghshineh"]
@@ -15,6 +15,7 @@ video_id: LOLI0emzDb0
 url: https://www.youtube.com/watch?v=LOLI0emzDb0
 youtube_url: https://www.youtube.com/watch?v=LOLI0emzDb0
 tags: ["804ef656-b16a-4483-b04f-b6760910d090_Segment", "Abhi Bhatt", "BRK190", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Monitor optimize and scale with AI Observability in Microsoft Foundry | BRK190", "Sam Naghshineh", "Sebastian Kohlmeier", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

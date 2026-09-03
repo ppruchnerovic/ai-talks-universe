@@ -4,7 +4,7 @@ title: "How Docusign innovates intelligent agreement management with Azure | BRK
 slug: how-docusign-innovates-intelligent-agreement-management
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Deborah Chen", "Kunal Mukerjee", "Olivia Shone"]
@@ -15,6 +15,7 @@ video_id: rSDctBytEMY
 url: https://www.youtube.com/watch?v=rSDctBytEMY
 youtube_url: https://www.youtube.com/watch?v=rSDctBytEMY
 tags: ["AI", "Azure OpenAI", "BRK124", "Breakout", "Deborah Chen", "English (US)", "GenAI", "GenerativeAI", "How Docusign innovates intelligent agreement management with Azure | BRK124", "Intermediate (200)", "Kunal Mukerjee", "Olivia Shone", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

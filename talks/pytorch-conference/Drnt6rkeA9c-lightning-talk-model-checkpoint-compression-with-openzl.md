@@ -4,7 +4,7 @@ title: "Lightning Talk: Model Checkpoint Compression With OpenZL - Nick Terrell 
 slug: lightning-talk-model-checkpoint-compression-with-openzl
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Nick Terrell", "Teja Rao"]
@@ -15,6 +15,7 @@ video_id: Drnt6rkeA9c
 url: https://www.youtube.com/watch?v=Drnt6rkeA9c
 youtube_url: https://www.youtube.com/watch?v=Drnt6rkeA9c
 tags: []
+topics: []
 transcript: false
 ---
 

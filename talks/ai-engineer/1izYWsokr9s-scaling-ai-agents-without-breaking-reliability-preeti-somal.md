@@ -4,7 +4,7 @@ title: "Scaling AI Agents Without Breaking Reliability — Preeti Somal, Tempora
 slug: scaling-ai-agents-without-breaking-reliability-preeti-somal
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Preeti Somal"]
@@ -15,6 +15,7 @@ video_id: 1izYWsokr9s
 url: https://www.youtube.com/watch?v=1izYWsokr9s
 youtube_url: https://www.youtube.com/watch?v=1izYWsokr9s
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

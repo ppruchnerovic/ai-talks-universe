@@ -4,7 +4,7 @@ title: "Valeria Zuccoli - Repetita Non Iuvant: Why Generative AI Models Cannot F
 slug: valeria-zuccoli-repetita-non-iuvant-why-generative-ai
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Valeria Zuccoli"]
@@ -15,6 +15,7 @@ video_id: jsdoamnlgpI
 url: https://www.youtube.com/watch?v=jsdoamnlgpI
 youtube_url: https://www.youtube.com/watch?v=jsdoamnlgpI
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: false
 ---
 

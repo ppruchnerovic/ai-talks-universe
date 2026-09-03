@@ -4,7 +4,7 @@ title: "Java App Modernization Simplified with AI | BRK131"
 slug: java-app-modernization-simplified-with-ai-brk131
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: TBS2sv-e80o
 url: https://www.youtube.com/watch?v=TBS2sv-e80o
 youtube_url: https://www.youtube.com/watch?v=TBS2sv-e80o
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

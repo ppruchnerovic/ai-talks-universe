@@ -4,7 +4,7 @@ title: "From Java EE to Quarkus and LLMs: Adam Bien’s Playbook for Boring, Fut
 slug: from-java-ee-to-quarkus-and-llms-adam-biens-playbook-for
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: QEPNktux_k8
 url: https://www.youtube.com/watch?v=QEPNktux_k8
 youtube_url: https://www.youtube.com/watch?v=QEPNktux_k8
 tags: []
+topics: []
 transcript: true
 ---
 

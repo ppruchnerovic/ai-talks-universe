@@ -4,7 +4,7 @@ title: "Preferences Over Benchmarks: Model Routing — Archana Kamath & Tyler Gi
 slug: preferences-over-benchmarks-model-routing-archana-kamath
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Archana Kamath", "Tyler Gillam"]
@@ -15,6 +15,7 @@ video_id: FvxY8oPoI8o
 url: https://www.youtube.com/watch?v=FvxY8oPoI8o
 youtube_url: https://www.youtube.com/watch?v=FvxY8oPoI8o
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

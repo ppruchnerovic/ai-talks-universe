@@ -4,7 +4,7 @@ title: "From local AI PCs to Azure: The future of open-source AI development | L
 slug: from-local-ai-pcs-to-azure-the-future-of-open-source-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Adrian Macias"]
@@ -15,6 +15,7 @@ video_id: LDX-j3krr0I
 url: https://www.youtube.com/watch?v=LDX-j3krr0I
 youtube_url: https://www.youtube.com/watch?v=LDX-j3krr0I
 tags: ["Adrian Macias", "From local AI PCs to Azure: The future of open-source AI development | LIVESP128", "LIVESP128", "LIVESP128_v1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

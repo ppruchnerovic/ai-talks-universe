@@ -4,7 +4,7 @@ title: "USENIX Security '25- ORTHRUS: Achieving High Quality of Attribution in P
 slug: usenix-security-25-orthrus-achieving-high-quality-of
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _FpCefZeObw
 url: https://www.youtube.com/watch?v=_FpCefZeObw
 youtube_url: https://www.youtube.com/watch?v=_FpCefZeObw
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

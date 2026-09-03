@@ -4,7 +4,7 @@ title: "Insecure Agentic Code Examples"
 slug: insecure-agentic-code-examples
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: _NprbCLgs3A
 url: https://www.youtube.com/watch?v=_NprbCLgs3A
 youtube_url: https://www.youtube.com/watch?v=_NprbCLgs3A
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

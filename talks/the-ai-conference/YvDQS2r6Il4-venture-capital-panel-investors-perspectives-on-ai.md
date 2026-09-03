@@ -4,7 +4,7 @@ title: "Venture Capital Panel: Investors Perspectives on AI"
 slug: venture-capital-panel-investors-perspectives-on-ai
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YvDQS2r6Il4
 url: https://www.youtube.com/watch?v=YvDQS2r6Il4
 youtube_url: https://www.youtube.com/watch?v=YvDQS2r6Il4
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

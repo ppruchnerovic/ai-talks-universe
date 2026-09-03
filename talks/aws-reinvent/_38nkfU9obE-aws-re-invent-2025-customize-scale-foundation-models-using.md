@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Customize & scale foundation models using Amazon Sa
 slug: aws-re-invent-2025-customize-scale-foundation-models-using
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: _38nkfU9obE
 url: https://www.youtube.com/watch?v=_38nkfU9obE
 youtube_url: https://www.youtube.com/watch?v=_38nkfU9obE
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

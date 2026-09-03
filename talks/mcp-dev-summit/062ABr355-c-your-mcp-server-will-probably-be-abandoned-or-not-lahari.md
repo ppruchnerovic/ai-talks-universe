@@ -4,7 +4,7 @@ title: "Your MCP Server Will Probably Be Abandoned...Or Not - Lahari Chowtoori, 
 slug: your-mcp-server-will-probably-be-abandoned-or-not-lahari
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Lahari Chowtoori"]
@@ -15,6 +15,7 @@ video_id: 062ABr355-c
 url: https://www.youtube.com/watch?v=062ABr355-c
 youtube_url: https://www.youtube.com/watch?v=062ABr355-c
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

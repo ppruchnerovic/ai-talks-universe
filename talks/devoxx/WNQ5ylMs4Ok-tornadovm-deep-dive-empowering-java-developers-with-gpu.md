@@ -4,7 +4,7 @@ title: "TornadoVM Deep Dive: Empowering Java Developers with GPU Acceleration by
 slug: tornadovm-deep-dive-empowering-java-developers-with-gpu
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: WNQ5ylMs4Ok
 url: https://www.youtube.com/watch?v=WNQ5ylMs4Ok
 youtube_url: https://www.youtube.com/watch?v=WNQ5ylMs4Ok
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

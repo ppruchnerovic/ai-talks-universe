@@ -4,7 +4,7 @@ title: "SaTML 2023 - Kenfack - Learning Fair Representations thr. Uniformly Dist
 slug: satml-2023-kenfack-learning-fair-representations-thr
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: MFRJ9zV3PUg
 url: https://www.youtube.com/watch?v=MFRJ9zV3PUg
 youtube_url: https://www.youtube.com/watch?v=MFRJ9zV3PUg
 tags: []
+topics: []
 transcript: false
 ---
 

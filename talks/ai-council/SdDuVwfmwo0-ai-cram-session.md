@@ -4,7 +4,7 @@ title: "AI Cram Session"
 slug: ai-cram-session
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Rachel Lee Nabors"]
@@ -15,6 +15,7 @@ video_id: SdDuVwfmwo0
 url: https://www.youtube.com/watch?v=SdDuVwfmwo0
 youtube_url: https://www.youtube.com/watch?v=SdDuVwfmwo0
 tags: ["AI education", "machine learning", "deep learning", "ChatGPT", "artificial intelligence", "neural networks", "AI fundamentals", "AI basics", "AI concepts", "beginner AI", "AI learning", "tech education", "educational illustrations", "Python tutorial", "online learning", "AI courses", "machine learning courses", "educational content", "learning resources", "tutorials", "workshops", "bootcamps", "certification programs", "skill development", "career development"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

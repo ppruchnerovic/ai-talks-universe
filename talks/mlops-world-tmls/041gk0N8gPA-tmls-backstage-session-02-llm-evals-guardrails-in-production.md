@@ -4,7 +4,7 @@ title: "TMLS Backstage Session 02: LLM Evals & Guardrails In Production"
 slug: tmls-backstage-session-02-llm-evals-guardrails-in-production
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 041gk0N8gPA
 url: https://www.youtube.com/watch?v=041gk0N8gPA
 youtube_url: https://www.youtube.com/watch?v=041gk0N8gPA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

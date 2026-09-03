@@ -4,7 +4,7 @@ title: "Real-World Success: How Customers Are Driving Transformation with the Po
 slug: real-world-success-how-customers-are-driving-transformation
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["James Connelly"]
@@ -15,6 +15,7 @@ video_id: 1-9dMZCXHTA
 url: https://www.youtube.com/watch?v=1-9dMZCXHTA
 youtube_url: https://www.youtube.com/watch?v=1-9dMZCXHTA
 tags: ["Ashley Rogers", "BRK183", "Breakout", "Business Applications", "English (US)", "Hazim Sharafeldin", "James Connelly", "RAJESH RAMACHANDRAN", "Real-World Success: How Customers Are Driving Transformation with the Power Platform | BRK183", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

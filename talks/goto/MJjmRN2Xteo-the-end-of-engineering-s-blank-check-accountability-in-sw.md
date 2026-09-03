@@ -4,7 +4,7 @@ title: "The End of Engineering's Blank Check: Accountability in SW Leadership â€
 slug: the-end-of-engineering-s-blank-check-accountability-in-sw
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Laura Tacho"]
@@ -15,6 +15,7 @@ video_id: MJjmRN2Xteo
 url: https://www.youtube.com/watch?v=MJjmRN2Xteo
 youtube_url: https://www.youtube.com/watch?v=MJjmRN2Xteo
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Isolation or Hallucination? Hacking AI Infrastructure Providers for Fun 
 slug: isolation-or-hallucination-hacking-ai-infrastructure
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: mhZ1It6lb4M
 url: https://www.youtube.com/watch?v=mhZ1It6lb4M
 youtube_url: https://www.youtube.com/watch?v=mhZ1It6lb4M
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

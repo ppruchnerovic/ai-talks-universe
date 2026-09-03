@@ -4,7 +4,7 @@ title: "Build a Multi-Agent Role-Playing Game Master with Strands Agents - Tiffa
 slug: build-a-multi-agent-role-playing-game-master-with-strands
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Tiffany Souterre"]
@@ -15,6 +15,7 @@ video_id: Yp_go2ZWRWI
 url: https://www.youtube.com/watch?v=Yp_go2ZWRWI
 youtube_url: https://www.youtube.com/watch?v=Yp_go2ZWRWI
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

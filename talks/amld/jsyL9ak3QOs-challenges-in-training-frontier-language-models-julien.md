@@ -4,7 +4,7 @@ title: "Challenges in Training Frontier Language Models | Julien Launay"
 slug: challenges-in-training-frontier-language-models-julien
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Julien Launay"]
@@ -15,6 +15,7 @@ video_id: jsyL9ak3QOs
 url: https://www.youtube.com/watch?v=jsyL9ak3QOs
 youtube_url: https://www.youtube.com/watch?v=jsyL9ak3QOs
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

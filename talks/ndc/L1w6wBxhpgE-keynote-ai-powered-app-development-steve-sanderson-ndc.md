@@ -4,7 +4,7 @@ title: "Keynote: AI-Powered App Development - Steve Sanderson - NDC London 2026"
 slug: keynote-ai-powered-app-development-steve-sanderson-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Steve Sanderson"]
@@ -15,6 +15,7 @@ video_id: L1w6wBxhpgE
 url: https://www.youtube.com/watch?v=L1w6wBxhpgE
 youtube_url: https://www.youtube.com/watch?v=L1w6wBxhpgE
 tags: ["AI", "GitHub", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "Great Britain", "Steve Sanderson"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

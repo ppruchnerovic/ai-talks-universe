@@ -4,7 +4,7 @@ title: "A 30-Year SQL Veteran Joins MongoDB — Here's What He Learned"
 slug: a-30-year-sql-veteran-joins-mongodb-here-s-what-he-learned
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Franck Pachot"]
@@ -15,6 +15,7 @@ video_id: 0erUyH7vGZk
 url: https://www.youtube.com/watch?v=0erUyH7vGZk
 youtube_url: https://www.youtube.com/watch?v=0erUyH7vGZk
 tags: ["PostgreSQL tutorial", "MongoDB tutorial", "database comparison", "ChatGPT", "artificial intelligence", "machine learning", "SQL tutorial", "NoSQL", "database selection", "database design", "developer tools", "JSON data types", "ACID transactions", "Python tutorial", "relational databases", "document databases", "database architecture", "data modeling", "performance tuning", "indexing", "query optimization", "scaling strategies", "replication", "sharding", "backup recovery"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

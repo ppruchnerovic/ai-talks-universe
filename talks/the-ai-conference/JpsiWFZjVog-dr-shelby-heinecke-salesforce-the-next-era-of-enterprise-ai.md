@@ -4,7 +4,7 @@ title: "Dr. Shelby Heinecke, Salesforce: The Next Era of Enterprise AI: Small, F
 slug: dr-shelby-heinecke-salesforce-the-next-era-of-enterprise-ai
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: JpsiWFZjVog
 url: https://www.youtube.com/watch?v=JpsiWFZjVog
 youtube_url: https://www.youtube.com/watch?v=JpsiWFZjVog
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

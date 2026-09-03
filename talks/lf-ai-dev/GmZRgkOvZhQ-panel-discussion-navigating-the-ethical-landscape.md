@@ -4,7 +4,7 @@ title: "Panel Discussion: Navigating the Ethical Landscape: Responsible...- Anni
 slug: panel-discussion-navigating-the-ethical-landscape
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: GmZRgkOvZhQ
 url: https://www.youtube.com/watch?v=GmZRgkOvZhQ
 youtube_url: https://www.youtube.com/watch?v=GmZRgkOvZhQ
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

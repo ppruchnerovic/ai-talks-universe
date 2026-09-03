@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Powering Enterprise AI: Architecting and Governing 
 slug: aws-re-invent-2025-powering-enterprise-ai-architecting-and
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: hKlX4xwNoKY
 url: https://www.youtube.com/watch?v=hKlX4xwNoKY
 youtube_url: https://www.youtube.com/watch?v=hKlX4xwNoKY
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

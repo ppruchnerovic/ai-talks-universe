@@ -4,7 +4,7 @@ title: "Hierarchical Forecasting in Python | Nixtla"
 slug: hierarchical-forecasting-in-python-nixtla
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: lotzOJuwxYs
 url: https://www.youtube.com/watch?v=lotzOJuwxYs
 youtube_url: https://www.youtube.com/watch?v=lotzOJuwxYs
 tags: ["Python", "data science", "open source", "algorithms", "datasets", "forecasting"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

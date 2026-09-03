@@ -4,7 +4,7 @@ title: "The weekly developer show: AI, Privacy & the Future of Frontend: A Deep 
 slug: the-weekly-developer-show-ai-privacy-the-future-of-frontend
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: E3l4pGi0Jw4
 url: https://www.youtube.com/watch?v=E3l4pGi0Jw4
 youtube_url: https://www.youtube.com/watch?v=E3l4pGi0Jw4
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "AI", "FrontendDevelopment", "JavaScript", "WebAccessibility", "DataPrivacy", "SoftwareCraftsmanship", "GoogleSearch", "CodingBestPractices", "TechInnovation", "WebDevelopment"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

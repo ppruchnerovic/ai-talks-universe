@@ -4,7 +4,7 @@ title: "Robots Don’t Drink Coffee, But They Might Hire You"
 slug: robots-dont-drink-coffee-but-they-might-hire-you
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3JSJy_UaSVQ
 url: https://www.youtube.com/watch?v=3JSJy_UaSVQ
 youtube_url: https://www.youtube.com/watch?v=3JSJy_UaSVQ
 tags: ["recruiting", "recruitment", "talent acquisition", "HR", "people strategy", "people", "AI", "LLM", "automation", "leadership", "recruiter", "TA", "WeAreDevelopers", "tech"]
+topics: ["Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Building Real-Time ML Features with Feast, Spark, Redis, and Kafka"
 slug: building-real-time-ml-features-with-feast-spark-redis-and
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Danny Chiao"]
@@ -15,6 +15,7 @@ video_id: WvdLydIAD44
 url: https://www.youtube.com/watch?v=WvdLydIAD44
 youtube_url: https://www.youtube.com/watch?v=WvdLydIAD44
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

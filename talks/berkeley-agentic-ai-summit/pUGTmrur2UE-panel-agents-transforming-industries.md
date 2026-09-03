@@ -4,7 +4,7 @@ title: "Panel: Agents Transforming Industries"
 slug: panel-agents-transforming-industries
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: pUGTmrur2UE
 url: https://www.youtube.com/watch?v=pUGTmrur2UE
 youtube_url: https://www.youtube.com/watch?v=pUGTmrur2UE
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - So Energy streamlines customer service with AI-powe
 slug: aws-re-invent-2025-so-energy-streamlines-customer-service
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: FiifFvLV3e4
 url: https://www.youtube.com/watch?v=FiifFvLV3e4
 youtube_url: https://www.youtube.com/watch?v=FiifFvLV3e4
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

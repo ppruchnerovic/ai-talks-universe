@@ -4,7 +4,7 @@ title: "Katrina Riehl - GPU Algorithm Authoring with CUDA Tile | Pydata London 2
 slug: katrina-riehl-gpu-algorithm-authoring-with-cuda-tile-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Katrina Riehl"]
@@ -15,6 +15,7 @@ video_id: 4Ol-_G_y2vQ
 url: https://www.youtube.com/watch?v=4Ol-_G_y2vQ
 youtube_url: https://www.youtube.com/watch?v=4Ol-_G_y2vQ
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

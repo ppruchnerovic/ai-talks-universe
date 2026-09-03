@@ -4,7 +4,7 @@ title: "Nyah Macklin, Neo4J: The GraphRAG Advantage"
 slug: nyah-macklin-neo4j-the-graphrag-advantage
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: t6M9POEKuXQ
 url: https://www.youtube.com/watch?v=t6M9POEKuXQ
 youtube_url: https://www.youtube.com/watch?v=t6M9POEKuXQ
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

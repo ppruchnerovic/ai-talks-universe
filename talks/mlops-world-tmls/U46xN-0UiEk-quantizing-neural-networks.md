@@ -4,7 +4,7 @@ title: "Quantizing Neural Networks"
 slug: quantizing-neural-networks
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: U46xN-0UiEk
 url: https://www.youtube.com/watch?v=U46xN-0UiEk
 youtube_url: https://www.youtube.com/watch?v=U46xN-0UiEk
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

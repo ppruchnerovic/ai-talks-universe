@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Data Processing architectures for building AI solut
 slug: aws-re-invent-2025-data-processing-architectures-for
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: GizM302bYKw
 url: https://www.youtube.com/watch?v=GizM302bYKw
 youtube_url: https://www.youtube.com/watch?v=GizM302bYKw
 tags: []
+topics: []
 transcript: false
 ---
 

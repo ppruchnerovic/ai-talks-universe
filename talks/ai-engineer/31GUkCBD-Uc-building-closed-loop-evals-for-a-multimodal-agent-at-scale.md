@@ -4,7 +4,7 @@ title: "Building Closed-Loop Evals for a Multimodal Agent at Scale — Soumya Gu
 slug: building-closed-loop-evals-for-a-multimodal-agent-at-scale
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Soumya Gupta", "Jai Chopra"]
@@ -15,6 +15,7 @@ video_id: 31GUkCBD-Uc
 url: https://www.youtube.com/watch?v=31GUkCBD-Uc
 youtube_url: https://www.youtube.com/watch?v=31GUkCBD-Uc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Multimodal, vision, speech & robotics", "Security, safety & red teaming"]
 transcript: true
 ---
 

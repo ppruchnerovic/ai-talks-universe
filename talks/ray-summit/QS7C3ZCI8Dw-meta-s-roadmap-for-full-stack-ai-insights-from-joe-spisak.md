@@ -4,7 +4,7 @@ title: "Meta's Roadmap for Full Stack AI: Insights from Joe Spisak | Ray Summit 
 slug: meta-s-roadmap-for-full-stack-ai-insights-from-joe-spisak
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: QS7C3ZCI8Dw
 url: https://www.youtube.com/watch?v=QS7C3ZCI8Dw
 youtube_url: https://www.youtube.com/watch?v=QS7C3ZCI8Dw
 tags: []
+topics: []
 transcript: false
 ---
 

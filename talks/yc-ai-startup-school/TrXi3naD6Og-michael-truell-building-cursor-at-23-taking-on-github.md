@@ -4,7 +4,7 @@ title: "Michael Truell: Building Cursor At 23, Taking On GitHub Copilot & Advice
 slug: michael-truell-building-cursor-at-23-taking-on-github
 conference: yc-ai-startup-school
 conference_name: "Y Combinator AI Startup School"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Startup School 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: TrXi3naD6Og
 url: https://www.youtube.com/watch?v=TrXi3naD6Og
 youtube_url: https://www.youtube.com/watch?v=TrXi3naD6Og
 tags: ["YC", "Y Combinator"]
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

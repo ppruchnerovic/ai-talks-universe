@@ -4,7 +4,7 @@ title: "The Shell Awakens: Cloud Native Workflows for Particle Ph... Raulian-Ion
 slug: the-shell-awakens-cloud-native-workflows-for-particle-ph
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 2MU1de2B_C0
 url: https://www.youtube.com/watch?v=2MU1de2B_C0
 youtube_url: https://www.youtube.com/watch?v=2MU1de2B_C0
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

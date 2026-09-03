@@ -4,7 +4,7 @@ title: "Design for everyone: Accessibility at Apple"
 slug: design-for-everyone-accessibility-at-apple
 conference: web-summit
 conference_name: "Web Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Web Summit"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Wg6Ol0b62xA
 url: https://www.youtube.com/watch?v=Wg6Ol0b62xA
 youtube_url: https://www.youtube.com/watch?v=Wg6Ol0b62xA
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

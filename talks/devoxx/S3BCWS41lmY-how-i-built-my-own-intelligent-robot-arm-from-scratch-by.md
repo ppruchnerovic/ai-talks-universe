@@ -4,7 +4,7 @@ title: "How I built my own Intelligent Robot Arm from Scratch by Iulia Feroli"
 slug: how-i-built-my-own-intelligent-robot-arm-from-scratch-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Iulia Feroli"]
@@ -15,6 +15,7 @@ video_id: S3BCWS41lmY
 url: https://www.youtube.com/watch?v=S3BCWS41lmY
 youtube_url: https://www.youtube.com/watch?v=S3BCWS41lmY
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

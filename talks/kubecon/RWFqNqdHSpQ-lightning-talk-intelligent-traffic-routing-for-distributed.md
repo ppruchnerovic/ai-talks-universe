@@ -4,7 +4,7 @@ title: "Lightning Talk: Intelligent Traffic Routing for Distributed LLM Inferenc
 slug: lightning-talk-intelligent-traffic-routing-for-distributed
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: RWFqNqdHSpQ
 url: https://www.youtube.com/watch?v=RWFqNqdHSpQ
 youtube_url: https://www.youtube.com/watch?v=RWFqNqdHSpQ
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

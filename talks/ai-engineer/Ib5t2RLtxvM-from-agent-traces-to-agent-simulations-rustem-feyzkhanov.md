@@ -4,7 +4,7 @@ title: "From Agent Traces to Agent Simulations — Rustem Feyzkhanov, Snorkel AI
 slug: from-agent-traces-to-agent-simulations-rustem-feyzkhanov
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rustem Feyzkhanov"]
@@ -15,6 +15,7 @@ video_id: Ib5t2RLtxvM
 url: https://www.youtube.com/watch?v=Ib5t2RLtxvM
 youtube_url: https://www.youtube.com/watch?v=Ib5t2RLtxvM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

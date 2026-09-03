@@ -4,7 +4,7 @@ title: "Building a Data Native Agent: Cortex Code | Snowflake"
 slug: building-a-data-native-agent-cortex-code-snowflake
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: pV3hybzf31A
 url: https://www.youtube.com/watch?v=pV3hybzf31A
 youtube_url: https://www.youtube.com/watch?v=pV3hybzf31A
 tags: ["AI"]
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

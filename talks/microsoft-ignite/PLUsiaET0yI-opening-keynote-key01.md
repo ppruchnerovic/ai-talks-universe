@@ -4,7 +4,7 @@ title: "Opening Keynote | KEY01"
 slug: opening-keynote-key01
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Judson Althoff", "Scott Guthrie", "Charles Lamanna", "Ryan Roslansky", "Asha Sharma"]
@@ -15,6 +15,7 @@ video_id: PLUsiaET0yI
 url: https://www.youtube.com/watch?v=PLUsiaET0yI
 youtube_url: https://www.youtube.com/watch?v=PLUsiaET0yI
 tags: ["Charles Lamanna", "English (US)", "Judson Althoff", "KEY01", "Opening Keynote | KEY01", "Other", "Partner Business", "Scott Guthrie", "Signature pass", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

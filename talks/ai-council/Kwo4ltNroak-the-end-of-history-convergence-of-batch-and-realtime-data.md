@@ -4,7 +4,7 @@ title: "The End of History? Convergence of Batch and Realtime Data Technologies 
 slug: the-end-of-history-convergence-of-batch-and-realtime-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: Kwo4ltNroak
 url: https://www.youtube.com/watch?v=Kwo4ltNroak
 youtube_url: https://www.youtube.com/watch?v=Kwo4ltNroak
 tags: ["Lambda", "Kappa", "data engineering", "batch processing", "realtime processing"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

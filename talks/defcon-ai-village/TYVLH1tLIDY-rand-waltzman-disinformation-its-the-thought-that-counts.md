@@ -4,7 +4,7 @@ title: "Rand Waltzman - Disinformation Its the Thought that Counts - DEF CON 27 
 slug: rand-waltzman-disinformation-its-the-thought-that-counts
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Rand Waltzman"]
@@ -15,6 +15,7 @@ video_id: TYVLH1tLIDY
 url: https://www.youtube.com/watch?v=TYVLH1tLIDY
 youtube_url: https://www.youtube.com/watch?v=TYVLH1tLIDY
 tags: []
+topics: []
 transcript: false
 ---
 

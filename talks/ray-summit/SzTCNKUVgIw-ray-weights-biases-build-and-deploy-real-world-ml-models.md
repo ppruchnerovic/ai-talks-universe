@@ -4,7 +4,7 @@ title: "Ray + Weights & Biases: Build and deploy real-world ML models"
 slug: ray-weights-biases-build-and-deploy-real-world-ml-models
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: SzTCNKUVgIw
 url: https://www.youtube.com/watch?v=SzTCNKUVgIw
 youtube_url: https://www.youtube.com/watch?v=SzTCNKUVgIw
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

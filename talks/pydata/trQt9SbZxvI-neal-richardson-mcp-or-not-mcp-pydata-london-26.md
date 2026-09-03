@@ -4,7 +4,7 @@ title: "Neal Richardson - MCP, or not MCP | Pydata London 26"
 slug: neal-richardson-mcp-or-not-mcp-pydata-london-26
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Neal Richardson"]
@@ -15,6 +15,7 @@ video_id: trQt9SbZxvI
 url: https://www.youtube.com/watch?v=trQt9SbZxvI
 youtube_url: https://www.youtube.com/watch?v=trQt9SbZxvI
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

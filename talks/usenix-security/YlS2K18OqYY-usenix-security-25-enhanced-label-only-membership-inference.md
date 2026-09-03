@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Enhanced Label-Only Membership Inference Attacks w
 slug: usenix-security-25-enhanced-label-only-membership-inference
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: YlS2K18OqYY
 url: https://www.youtube.com/watch?v=YlS2K18OqYY
 youtube_url: https://www.youtube.com/watch?v=YlS2K18OqYY
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

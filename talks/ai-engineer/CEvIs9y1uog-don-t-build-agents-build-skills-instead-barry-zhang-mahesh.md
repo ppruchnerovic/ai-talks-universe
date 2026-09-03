@@ -4,7 +4,7 @@ title: "Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag,
 slug: don-t-build-agents-build-skills-instead-barry-zhang-mahesh
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Barry Zhang", "Mahesh Murag"]
@@ -15,6 +15,7 @@ video_id: CEvIs9y1uog
 url: https://www.youtube.com/watch?v=CEvIs9y1uog
 youtube_url: https://www.youtube.com/watch?v=CEvIs9y1uog
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

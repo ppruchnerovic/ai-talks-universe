@@ -4,7 +4,7 @@ title: "The latest in Android XR"
 slug: the-latest-in-android-xr
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Stevan Silva", "Yasmine Evjen", "Elijah Taylor"]
@@ -15,6 +15,7 @@ video_id: 1KOO2lqsdaA
 url: https://www.youtube.com/watch?v=1KOO2lqsdaA
 youtube_url: https://www.youtube.com/watch?v=1KOO2lqsdaA
 tags: ["Android", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Android;"]
+topics: []
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Building a Data Foundation for Multimodal Foundation Models"
 slug: building-a-data-foundation-for-multimodal-foundation-models
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Ethan Rosenthal"]
@@ -15,6 +15,7 @@ video_id: 6kf58xD5s3Q
 url: https://www.youtube.com/watch?v=6kf58xD5s3Q
 youtube_url: https://www.youtube.com/watch?v=6kf58xD5s3Q
 tags: ["multimodal AI", "AI training", "ChatGPT", "artificial intelligence", "machine learning", "deep learning", "foundation models", "computer vision", "natural language processing", "petabyte scale", "data lakehouse", "data centric AI", "Python tutorial", "vision language models", "image recognition", "video analysis", "audio processing", "cross modal learning", "unified models", "multi modal understanding", "visual question answering", "image captioning", "video summarization"]
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

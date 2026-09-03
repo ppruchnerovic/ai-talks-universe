@@ -4,7 +4,7 @@ title: "Why Do LLMs Hallucinate?, Ofer Mendelevitch, Developer Relations, Vectar
 slug: why-do-llms-hallucinate-ofer-mendelevitch-developer
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: DFT7q5ATe5Q
 url: https://www.youtube.com/watch?v=DFT7q5ATe5Q
 youtube_url: https://www.youtube.com/watch?v=DFT7q5ATe5Q
 tags: []
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: false
 ---
 

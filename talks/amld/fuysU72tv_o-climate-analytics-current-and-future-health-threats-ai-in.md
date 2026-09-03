@@ -4,7 +4,7 @@ title: "Climate analytics, current and future health threats | AI in Public Heal
 slug: climate-analytics-current-and-future-health-threats-ai-in
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Christopher Irrgang"]
@@ -15,6 +15,7 @@ video_id: fuysU72tv_o
 url: https://www.youtube.com/watch?v=fuysU72tv_o
 youtube_url: https://www.youtube.com/watch?v=fuysU72tv_o
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

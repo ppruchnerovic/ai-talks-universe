@@ -4,7 +4,7 @@ title: "Platform Engineering for Everyone - Success Can’t Be Coded"
 slug: platform-engineering-for-everyone-success-cant-be-coded
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Max Körbächer"]
@@ -15,6 +15,7 @@ video_id: iq-platform-engineering-product-mindset
 url: https://www.infoq.com/presentations/platform-engineering-product-mindset/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

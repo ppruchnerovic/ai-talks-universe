@@ -4,7 +4,7 @@ title: "Building Agent Interfaces: Lessons from Chrome DevTools (MCP) for Agents
 slug: building-agent-interfaces-lessons-from-chrome-devtools-mcp
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Michael Hablich"]
@@ -15,6 +15,7 @@ video_id: _B4Pv9ttFgY
 url: https://www.youtube.com/watch?v=_B4Pv9ttFgY
 youtube_url: https://www.youtube.com/watch?v=_B4Pv9ttFgY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

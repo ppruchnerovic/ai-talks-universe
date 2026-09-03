@@ -4,7 +4,7 @@ title: "Empower digital marketers with an AI and orchestration superpower | ODFP
 slug: empower-digital-marketers-with-an-ai-and-orchestration
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mo Cherif"]
@@ -15,6 +15,7 @@ video_id: oLZngRsqGuY
 url: https://www.youtube.com/watch?v=oLZngRsqGuY
 youtube_url: https://www.youtube.com/watch?v=oLZngRsqGuY
 tags: ["AI", "Collaborative Work Management", "Copilot", "Empower digital marketers with an AI and orchestration superpower | ODFP978", "Intermediate (200)", "Mo Cherif", "ODFP978", "Pre-recorded", "Program management", "Project Management", "Responsible AI", "Small and medium-sized businesses", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

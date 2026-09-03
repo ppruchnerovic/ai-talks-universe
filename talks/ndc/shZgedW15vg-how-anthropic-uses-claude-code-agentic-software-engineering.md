@@ -4,7 +4,7 @@ title: "How Anthropic uses Claude Code: Agentic Software Engineering at Scale - 
 slug: how-anthropic-uses-claude-code-agentic-software-engineering
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Daisy Hollman"]
@@ -15,6 +15,7 @@ video_id: shZgedW15vg
 url: https://www.youtube.com/watch?v=shZgedW15vg
 youtube_url: https://www.youtube.com/watch?v=shZgedW15vg
 tags: ["AI", "Claude Code", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Daisy Hollman"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Prompting & context engineering"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Out-of-Order Streaming — The Future of Web Development"
 slug: out-of-order-streaming-the-future-of-web-development
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Julian Burr"]
@@ -15,6 +15,7 @@ video_id: WjoGKMgEO4c
 url: https://www.youtube.com/watch?v=WjoGKMgEO4c
 youtube_url: https://www.youtube.com/watch?v=WjoGKMgEO4c
 tags: ["Frontend, Web & Mobile", "Node.js", "React", "Web Performance"]
+topics: []
 transcript: true
 ---
 

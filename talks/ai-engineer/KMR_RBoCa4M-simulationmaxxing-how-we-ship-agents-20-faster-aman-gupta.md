@@ -4,7 +4,7 @@ title: "SimulationMaxxing: How we ship agents 20× faster — Aman Gupta (Nubank
 slug: simulationmaxxing-how-we-ship-agents-20-faster-aman-gupta
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Aman Gupta"]
@@ -15,6 +15,7 @@ video_id: KMR_RBoCa4M
 url: https://www.youtube.com/watch?v=KMR_RBoCa4M
 youtube_url: https://www.youtube.com/watch?v=KMR_RBoCa4M
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

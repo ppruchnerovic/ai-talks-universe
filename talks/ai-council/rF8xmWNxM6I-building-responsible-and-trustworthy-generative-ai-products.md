@@ -4,7 +4,7 @@ title: "Building Responsible and Trustworthy Generative AI Products at LinkedIn"
 slug: building-responsible-and-trustworthy-generative-ai-products
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Daniel Olmedilla"]
@@ -15,6 +15,7 @@ video_id: rF8xmWNxM6I
 url: https://www.youtube.com/watch?v=rF8xmWNxM6I
 youtube_url: https://www.youtube.com/watch?v=rF8xmWNxM6I
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

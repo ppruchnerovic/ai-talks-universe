@@ -4,7 +4,7 @@ title: "Are Classical Automation Frameworks Dead? How AI Agents Are Transforming
 slug: are-classical-automation-frameworks-dead-how-ai-agents-are
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Andrei Nutas"]
@@ -15,6 +15,7 @@ video_id: X1BRFTbq6Xk
 url: https://www.youtube.com/watch?v=X1BRFTbq6Xk
 youtube_url: https://www.youtube.com/watch?v=X1BRFTbq6Xk
 tags: ["Quality & Reliability", "Agentic AI", "Automation Testing", "Generative AI (GenAI)", "Large Language Models (LLMs)", "Playwright", "Quality Assurance (QA)"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

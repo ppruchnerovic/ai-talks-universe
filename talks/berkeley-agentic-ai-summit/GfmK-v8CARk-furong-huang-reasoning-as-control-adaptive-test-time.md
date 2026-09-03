@@ -4,7 +4,7 @@ title: "Furong Huang - Reasoning as Control: Adaptive Test Time Compute for Plan
 slug: furong-huang-reasoning-as-control-adaptive-test-time
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Furong Huang"]
@@ -15,6 +15,7 @@ video_id: GfmK-v8CARk
 url: https://www.youtube.com/watch?v=GfmK-v8CARk
 youtube_url: https://www.youtube.com/watch?v=GfmK-v8CARk
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Democratizing Experimentation: How GetYourGuide Built a Flexible and Sca
 slug: democratizing-experimentation-how-getyourguide-built-a
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Konrad Richter"]
@@ -15,6 +15,7 @@ video_id: bp9sBXotoQE
 url: https://www.youtube.com/watch?v=bp9sBXotoQE
 youtube_url: https://www.youtube.com/watch?v=bp9sBXotoQE
 tags: ["A/B testing", "Airflow", "CUPED", "Conference", "Databricks", "GetYourGuide", "PyConDE", "PyData", "Python", "Tech Talk", "conference talk", "data democratization", "data science", "experimentation platform", "product development", "self-service analytics", "sequential testing", "statistical analysis"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "60% Faster Time-to-Interview: Transforming Hiring with AI Agents with La
 slug: 60-faster-time-to-interview-transforming-hiring-with-ai
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: LUemJGG2k4c
 url: https://www.youtube.com/watch?v=LUemJGG2k4c
 youtube_url: https://www.youtube.com/watch?v=LUemJGG2k4c
 tags: ["LinkedIn", "Tracy He", "Shang Liu", "hiring agent", "LangGraph", "LangChain", "LangSmith", "AI recruiting", "small business hiring", "plan execute replan", "human in the loop", "harness engineering", "deterministic agent", "checkpoint trimming", "state flag chaining", "one-shot tool guards", "signal-only tools", "agent platform", "conversational memory", "experiential memory", "LLM-as-judge", "agent evaluation", "agentic AI", "Interrupt conference"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

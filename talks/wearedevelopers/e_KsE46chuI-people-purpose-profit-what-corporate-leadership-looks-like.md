@@ -4,7 +4,7 @@ title: "People, Purpose & Profit: What Corporate Leadership Looks Like Today"
 slug: people-purpose-profit-what-corporate-leadership-looks-like
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: e_KsE46chuI
 url: https://www.youtube.com/watch?v=e_KsE46chuI
 youtube_url: https://www.youtube.com/watch?v=e_KsE46chuI
 tags: ["leadership", "ai", "transformation", "artificial intelligence", "people", "culture", "HR"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "Debugging Your Health: Fitness for Desk Warriors by Radek Kargul"
 slug: debugging-your-health-fitness-for-desk-warriors-by-radek
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Radek Kargul"]
@@ -15,6 +15,7 @@ video_id: V1xvxi7kMGs
 url: https://www.youtube.com/watch?v=V1xvxi7kMGs
 youtube_url: https://www.youtube.com/watch?v=V1xvxi7kMGs
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

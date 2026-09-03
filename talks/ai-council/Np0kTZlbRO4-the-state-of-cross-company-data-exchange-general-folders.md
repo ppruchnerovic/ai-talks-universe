@@ -4,7 +4,7 @@ title: "The State of Cross Company Data Exchange | General Folders"
 slug: the-state-of-cross-company-data-exchange-general-folders
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: ["General Folders"]
@@ -15,6 +15,7 @@ video_id: Np0kTZlbRO4
 url: https://www.youtube.com/watch?v=Np0kTZlbRO4
 youtube_url: https://www.youtube.com/watch?v=Np0kTZlbRO4
 tags: ["data exchange", "data sharing", "AI companies"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

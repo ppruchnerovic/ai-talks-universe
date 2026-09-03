@@ -4,7 +4,7 @@ title: "How Microsoft Fabric Empowers Developers with Unified Data, DevOps, and 
 slug: how-microsoft-fabric-empowers-developers-with-unified-data
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Josh Ndemenge"]
@@ -15,6 +15,7 @@ video_id: zcZhxdzp3yM
 url: https://www.youtube.com/watch?v=zcZhxdzp3yM
 youtube_url: https://www.youtube.com/watch?v=zcZhxdzp3yM
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

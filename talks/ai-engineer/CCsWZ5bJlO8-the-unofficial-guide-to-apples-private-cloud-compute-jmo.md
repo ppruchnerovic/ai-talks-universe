@@ -4,7 +4,7 @@ title: "The Unofficial Guide to Apple’s Private Cloud Compute - Jmo, CONFSEC"
 slug: the-unofficial-guide-to-apples-private-cloud-compute-jmo
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: CCsWZ5bJlO8
 url: https://www.youtube.com/watch?v=CCsWZ5bJlO8
 youtube_url: https://www.youtube.com/watch?v=CCsWZ5bJlO8
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "MCP Registry: Designing For Server Discovery Tadas A. (PulseMCP) Alex H.
 slug: mcp-registry-designing-for-server-discovery-tadas-a
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: jI9NTVX68T0
 url: https://www.youtube.com/watch?v=jI9NTVX68T0
 youtube_url: https://www.youtube.com/watch?v=jI9NTVX68T0
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

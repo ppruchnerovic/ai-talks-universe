@@ -4,7 +4,7 @@ title: "An Opinionated Guide to Bulletproof APIs"
 slug: an-opinionated-guide-to-bulletproof-apis
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Rustam Mehmandarov"]
@@ -15,6 +15,7 @@ video_id: genftMsFV8E
 url: https://www.youtube.com/watch?v=genftMsFV8E
 youtube_url: https://www.youtube.com/watch?v=genftMsFV8E
 tags: ["Backend & APIs", "APIs", "Jakarta EE", "Java", "Microservices", "Software Architecture"]
+topics: []
 transcript: true
 ---
 

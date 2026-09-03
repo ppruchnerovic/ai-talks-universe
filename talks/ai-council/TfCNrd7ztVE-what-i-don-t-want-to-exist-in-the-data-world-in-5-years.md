@@ -4,7 +4,7 @@ title: "What I Don't Want to Exist in the Data World in 5 Years | Seattle Data G
 slug: what-i-don-t-want-to-exist-in-the-data-world-in-5-years
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: TfCNrd7ztVE
 url: https://www.youtube.com/watch?v=TfCNrd7ztVE
 youtube_url: https://www.youtube.com/watch?v=TfCNrd7ztVE
 tags: ["devtools", "devops", "data products", "data engineers"]
+topics: ["Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

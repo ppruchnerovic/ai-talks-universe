@@ -4,7 +4,7 @@ title: "Create a smarter enterprise AI with IBM and Microsoft | STUDIOSP85"
 slug: create-a-smarter-enterprise-ai-with-ibm-and-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: LT2kQxzjFAc
 url: https://www.youtube.com/watch?v=LT2kQxzjFAc
 youtube_url: https://www.youtube.com/watch?v=LT2kQxzjFAc
 tags: ["Chris McGuire", "Create a smarter enterprise AI with IBM and Microsoft | STUDIOSP85", "English (US)", "STUDIOSP85", "STUDIOSP85_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Advanced Agent Development with Copilot Studio | BRK1742"
 slug: advanced-agent-development-with-copilot-studio-brk1742
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Scott Durow"]
@@ -15,6 +15,7 @@ video_id: FQfjBTR7nsQ
 url: https://www.youtube.com/watch?v=FQfjBTR7nsQ
 youtube_url: https://www.youtube.com/watch?v=FQfjBTR7nsQ
 tags: ["965bca58-9b44-4995-8539-e5a24068d3e6_Segment", "Advanced Agent Development with Copilot Studio | BRK1742", "BRK1742", "English (US)", "Innovate with low-code AI and agents", "Scott Durow", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Why Tracking AI Usage Drives Better Results | Justin Reock & DX"
 slug: why-tracking-ai-usage-drives-better-results-justin-reock-dx
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0tmE09uzs5Q
 url: https://www.youtube.com/watch?v=0tmE09uzs5Q
 youtube_url: https://www.youtube.com/watch?v=0tmE09uzs5Q
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

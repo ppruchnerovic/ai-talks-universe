@@ -4,7 +4,7 @@ title: "A year of Gemini progress + what comes next — Logan Kilpatrick, Google
 slug: a-year-of-gemini-progress-what-comes-next-logan-kilpatrick
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Logan Kilpatrick"]
@@ -15,6 +15,7 @@ video_id: wE1ZCmCLP5g
 url: https://www.youtube.com/watch?v=wE1ZCmCLP5g
 youtube_url: https://www.youtube.com/watch?v=wE1ZCmCLP5g
 tags: []
+topics: []
 transcript: false
 ---
 

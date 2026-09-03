@@ -4,7 +4,7 @@ title: "Akka: an enterprise runtime for resilient agentic AI by Renato Guerra Ca
 slug: akka-an-enterprise-runtime-for-resilient-agentic-ai-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Renato Guerra Cavalcanti"]
@@ -15,6 +15,7 @@ video_id: PrIh_9HomfI
 url: https://www.youtube.com/watch?v=PrIh_9HomfI
 youtube_url: https://www.youtube.com/watch?v=PrIh_9HomfI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

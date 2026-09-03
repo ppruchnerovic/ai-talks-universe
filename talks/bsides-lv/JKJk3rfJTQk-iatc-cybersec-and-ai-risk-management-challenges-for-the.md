@@ -4,7 +4,7 @@ title: "IATC - Cybersec and AI Risk Management Challenges for the Next Generatio
 slug: iatc-cybersec-and-ai-risk-management-challenges-for-the
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: JKJk3rfJTQk
 url: https://www.youtube.com/watch?v=JKJk3rfJTQk
 youtube_url: https://www.youtube.com/watch?v=JKJk3rfJTQk
 tags: ["HPMCNK"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

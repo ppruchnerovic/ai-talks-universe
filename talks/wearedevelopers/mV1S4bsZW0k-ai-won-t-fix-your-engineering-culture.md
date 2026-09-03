@@ -4,7 +4,7 @@ title: "AI Won't Fix Your Engineering Culture"
 slug: ai-won-t-fix-your-engineering-culture
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Julia Kordick"]
@@ -15,6 +15,7 @@ video_id: mV1S4bsZW0k
 url: https://www.youtube.com/watch?v=mV1S4bsZW0k
 youtube_url: https://www.youtube.com/watch?v=mV1S4bsZW0k
 tags: ["Engineering Leadership", "AI Models", "AI Standards", "Developer Experience (DevEx)"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

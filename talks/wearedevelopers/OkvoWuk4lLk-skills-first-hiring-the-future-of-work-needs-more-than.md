@@ -4,7 +4,7 @@ title: "Skills-First Hiring: The Future of Work Needs More Than Resumes"
 slug: skills-first-hiring-the-future-of-work-needs-more-than
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: OkvoWuk4lLk
 url: https://www.youtube.com/watch?v=OkvoWuk4lLk
 youtube_url: https://www.youtube.com/watch?v=OkvoWuk4lLk
 tags: ["IT", "people", "future", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "TA", "hiring", "hr", "people and culture", "skills-first hiring", "skill-based hiring", "future of work", "candidates", "skills"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

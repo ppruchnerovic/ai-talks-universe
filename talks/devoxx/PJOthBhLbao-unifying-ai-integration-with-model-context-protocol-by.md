@@ -4,7 +4,7 @@ title: "Unifying AI integration with Model Context Protocol by Christian Tzolov,
 slug: unifying-ai-integration-with-model-context-protocol-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: PJOthBhLbao
 url: https://www.youtube.com/watch?v=PJOthBhLbao
 youtube_url: https://www.youtube.com/watch?v=PJOthBhLbao
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

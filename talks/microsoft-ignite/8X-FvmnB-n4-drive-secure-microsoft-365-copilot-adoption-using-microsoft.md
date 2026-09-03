@@ -4,7 +4,7 @@ title: "Drive secure Microsoft 365 Copilot adoption using Microsoft Purview | BR
 slug: drive-secure-microsoft-365-copilot-adoption-using-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Nadia Fortini", "Erica Toelle"]
@@ -15,6 +15,7 @@ video_id: 8X-FvmnB-n4
 url: https://www.youtube.com/watch?v=8X-FvmnB-n4
 youtube_url: https://www.youtube.com/watch?v=8X-FvmnB-n4
 tags: ["BRK257", "Drive secure Microsoft 365 Copilot adoption using Microsoft Purview | BRK257", "English (US)", "Erica Toelle", "Nadia Fortini", "Secure your data", "Technical", "f5n1", "fd440d6c-7c03-4de3-b7a2-70cc5f228c69_Segment", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

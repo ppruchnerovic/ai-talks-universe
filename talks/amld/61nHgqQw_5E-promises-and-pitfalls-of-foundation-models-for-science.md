@@ -4,7 +4,7 @@ title: "Promises (and Pitfalls) of Foundation Models for Science | Payel Das"
 slug: promises-and-pitfalls-of-foundation-models-for-science
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Payel Das"]
@@ -15,6 +15,7 @@ video_id: 61nHgqQw_5E
 url: https://www.youtube.com/watch?v=61nHgqQw_5E
 youtube_url: https://www.youtube.com/watch?v=61nHgqQw_5E
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

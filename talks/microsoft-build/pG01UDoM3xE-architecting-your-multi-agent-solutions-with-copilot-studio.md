@@ -4,7 +4,7 @@ title: "Architecting your multi agent solutions with Copilot Studio and M365 Age
 slug: architecting-your-multi-agent-solutions-with-copilot-studio
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: pG01UDoM3xE
 url: https://www.youtube.com/watch?v=pG01UDoM3xE
 youtube_url: https://www.youtube.com/watch?v=pG01UDoM3xE
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

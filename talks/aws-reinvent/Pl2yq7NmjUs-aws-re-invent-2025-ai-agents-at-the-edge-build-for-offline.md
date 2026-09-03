@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - AI agents at the edge: Build for offline, scale in 
 slug: aws-re-invent-2025-ai-agents-at-the-edge-build-for-offline
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Pl2yq7NmjUs
 url: https://www.youtube.com/watch?v=Pl2yq7NmjUs
 youtube_url: https://www.youtube.com/watch?v=Pl2yq7NmjUs
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

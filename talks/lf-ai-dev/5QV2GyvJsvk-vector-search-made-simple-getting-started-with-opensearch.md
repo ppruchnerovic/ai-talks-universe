@@ -4,7 +4,7 @@ title: "Vector Search Made Simple: Getting Started With OpenSearch for AI Applic
 slug: vector-search-made-simple-getting-started-with-opensearch
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Dotan Horovits"]
@@ -15,6 +15,7 @@ video_id: 5QV2GyvJsvk
 url: https://www.youtube.com/watch?v=5QV2GyvJsvk
 youtube_url: https://www.youtube.com/watch?v=5QV2GyvJsvk
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Agents Are Eating the Semantic Layer | Zenlytic"
 slug: agents-are-eating-the-semantic-layer-zenlytic
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Sm5x2ItO5os
 url: https://www.youtube.com/watch?v=Sm5x2ItO5os
 youtube_url: https://www.youtube.com/watch?v=Sm5x2ItO5os
 tags: ["AI"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

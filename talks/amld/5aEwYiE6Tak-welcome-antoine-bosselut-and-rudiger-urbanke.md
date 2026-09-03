@@ -4,7 +4,7 @@ title: "Welcome | Antoine Bosselut and Rüdiger Urbanke"
 slug: welcome-antoine-bosselut-and-rudiger-urbanke
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Antoine Bosselut", "Rüdiger Urbanke"]
@@ -15,6 +15,7 @@ video_id: 5aEwYiE6Tak
 url: https://www.youtube.com/watch?v=5aEwYiE6Tak
 youtube_url: https://www.youtube.com/watch?v=5aEwYiE6Tak
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

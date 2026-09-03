@@ -4,7 +4,7 @@ title: "Work in progress: TeamViewer’s digital workplace talk | ODSP1450"
 slug: work-in-progress-teamviewers-digital-workplace-talk-odsp1450
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Oliver Steil"]
@@ -15,6 +15,7 @@ video_id: fvkozGSO_wk
 url: https://www.youtube.com/watch?v=fvkozGSO_wk
 youtube_url: https://www.youtube.com/watch?v=fvkozGSO_wk
 tags: ["English (US)", "Financial Services", "ODSP1450", "ODSP1450_v1", "Oliver Steil", "Scale with cloud and AI endpoints", "Technical", "Work in progress: TeamViewer’s digital workplace talk | ODSP1450", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

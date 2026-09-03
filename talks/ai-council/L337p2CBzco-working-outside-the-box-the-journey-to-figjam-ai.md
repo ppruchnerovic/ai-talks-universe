@@ -4,7 +4,7 @@ title: "Working Outside the Box: the Journey to FigJam AI"
 slug: working-outside-the-box-the-journey-to-figjam-ai
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Dan Mejia"]
@@ -15,6 +15,7 @@ video_id: L337p2CBzco
 url: https://www.youtube.com/watch?v=L337p2CBzco
 youtube_url: https://www.youtube.com/watch?v=L337p2CBzco
 tags: ["machine learning", "computer vision", "AI"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Back to Basics: Scalable, Portable ML in Pure SQL"
 slug: back-to-basics-scalable-portable-ml-in-pure-sql
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: iyH8GPXzBpk
 url: https://www.youtube.com/watch?v=iyH8GPXzBpk
 youtube_url: https://www.youtube.com/watch?v=iyH8GPXzBpk
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Project Management", "Data Warehousing", "Agile"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

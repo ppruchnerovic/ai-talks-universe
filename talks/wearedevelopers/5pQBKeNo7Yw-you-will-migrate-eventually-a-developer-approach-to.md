@@ -4,7 +4,7 @@ title: "You Will Migrate Eventually: A developer approach to technology adoption
 slug: you-will-migrate-eventually-a-developer-approach-to
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Luisa Rink", "Wouter Ligtenberg"]
@@ -15,6 +15,7 @@ video_id: 5pQBKeNo7Yw
 url: https://www.youtube.com/watch?v=5pQBKeNo7Yw
 youtube_url: https://www.youtube.com/watch?v=5pQBKeNo7Yw
 tags: ["Engineering Leadership", "Business Models", "DevOps"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

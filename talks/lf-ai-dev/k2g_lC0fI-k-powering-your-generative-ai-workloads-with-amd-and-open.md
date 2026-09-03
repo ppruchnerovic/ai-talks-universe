@@ -4,7 +4,7 @@ title: "Powering Your Generative AI Workloads with AMD and Open-Source ROCm - Fa
 slug: powering-your-generative-ai-workloads-with-amd-and-open
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Farshad Ghodsian"]
@@ -15,6 +15,7 @@ video_id: k2g_lC0fI-k
 url: https://www.youtube.com/watch?v=k2g_lC0fI-k
 youtube_url: https://www.youtube.com/watch?v=k2g_lC0fI-k
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

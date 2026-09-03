@@ -4,7 +4,7 @@ title: "Narwhals: enabling universal dataframe support"
 slug: narwhals-enabling-universal-dataframe-support
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Marco Gorelli"]
@@ -15,6 +15,7 @@ video_id: qOJiQtqI348
 url: https://www.youtube.com/watch?v=qOJiQtqI348
 youtube_url: https://www.youtube.com/watch?v=qOJiQtqI348
 tags: ["Conference", "DuckDB", "Narwhals", "Pandas", "Polars", "PyArrow", "PyConDE", "PyData", "PyData Berlin 2025", "Python", "SQL", "Tech Talk", "data engineering", "data science", "dataframes", "interoperability", "lazy execution", "open source", "static typing"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

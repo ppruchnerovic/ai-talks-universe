@@ -4,7 +4,7 @@ title: "Responsible AI in FinTech: Navigating Regulation & Disruption"
 slug: responsible-ai-in-fintech-navigating-regulation-disruption
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: sCSryDgcnIo
 url: https://www.youtube.com/watch?v=sCSryDgcnIo
 youtube_url: https://www.youtube.com/watch?v=sCSryDgcnIo
 tags: ["Responsible AI", "FinTech", "QCon London", "InfoQ", "Transcript", "AI", "Artificial Intelligence", "Ethics", "AI Governance"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "What Developers Can Build Next With AI"
 slug: what-developers-can-build-next-with-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: e58tAc0yxzQ
 url: https://www.youtube.com/watch?v=e58tAc0yxzQ
 youtube_url: https://www.youtube.com/watch?v=e58tAc0yxzQ
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

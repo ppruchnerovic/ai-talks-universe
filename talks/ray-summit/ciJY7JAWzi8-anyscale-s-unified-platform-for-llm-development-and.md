@@ -4,7 +4,7 @@ title: "Anyscale's Unified Platform for LLM Development and Deployment | Ray Sum
 slug: anyscale-s-unified-platform-for-llm-development-and
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: ciJY7JAWzi8
 url: https://www.youtube.com/watch?v=ciJY7JAWzi8
 youtube_url: https://www.youtube.com/watch?v=ciJY7JAWzi8
 tags: []
+topics: []
 transcript: false
 ---
 

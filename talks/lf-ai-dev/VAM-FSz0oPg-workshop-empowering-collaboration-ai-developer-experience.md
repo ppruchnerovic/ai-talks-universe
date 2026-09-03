@@ -4,7 +4,7 @@ title: "Workshop: Empowering Collaboration: AI Developer Experience - Your Bridg
 slug: workshop-empowering-collaboration-ai-developer-experience
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: VAM-FSz0oPg
 url: https://www.youtube.com/watch?v=VAM-FSz0oPg
 youtube_url: https://www.youtube.com/watch?v=VAM-FSz0oPg
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - From enterprise data mesh to AI with Amazon SageMak
 slug: aws-re-invent-2025-from-enterprise-data-mesh-to-ai-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: aSva_3CCGTU
 url: https://www.youtube.com/watch?v=aSva_3CCGTU
 youtube_url: https://www.youtube.com/watch?v=aSva_3CCGTU
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

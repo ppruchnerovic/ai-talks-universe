@@ -4,7 +4,7 @@ title: "Sylvain Corlay, Yann Lechelle & Alexander CS Hendorf - Open-source Busin
 slug: sylvain-corlay-yann-lechelle-alexander-cs-hendorf-open
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Sylvain Corlay"]
@@ -15,6 +15,7 @@ video_id: d2xQQItnMys
 url: https://www.youtube.com/watch?v=d2xQQItnMys
 youtube_url: https://www.youtube.com/watch?v=d2xQQItnMys
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

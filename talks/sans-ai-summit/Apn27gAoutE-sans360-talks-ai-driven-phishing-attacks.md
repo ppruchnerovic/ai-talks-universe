@@ -4,7 +4,7 @@ title: "SANS360 Talks | AI-Driven Phishing Attacks"
 slug: sans360-talks-ai-driven-phishing-attacks
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Apn27gAoutE
 url: https://www.youtube.com/watch?v=Apn27gAoutE
 youtube_url: https://www.youtube.com/watch?v=Apn27gAoutE
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Ilan Twig: Co-founder & CTO @Navan, Building User Interfaces with AI | S
 slug: ilan-twig-co-founder-cto-navan-building-user-interfaces
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: ogKrr5cLpNo
 url: https://www.youtube.com/watch?v=ogKrr5cLpNo
 youtube_url: https://www.youtube.com/watch?v=ogKrr5cLpNo
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

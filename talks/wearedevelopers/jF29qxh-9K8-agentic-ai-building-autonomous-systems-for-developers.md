@@ -4,7 +4,7 @@ title: "Agentic AI: building autonomous systems for developers"
 slug: agentic-ai-building-autonomous-systems-for-developers
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Anshul Jindal", "Sebastian Mahr"]
@@ -15,6 +15,7 @@ video_id: jF29qxh-9K8
 url: https://www.youtube.com/watch?v=jF29qxh-9K8
 youtube_url: https://www.youtube.com/watch?v=jF29qxh-9K8
 tags: ["AI Agents", "AI Coding Assistants", "Software Architecture"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

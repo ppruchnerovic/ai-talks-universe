@@ -4,7 +4,7 @@ title: "Black Hat USA 2026 | Opening Session: Cyber Power in the Age of AI"
 slug: black-hat-usa-2026-opening-session-cyber-power-in-the-age
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Ht9NfbmrKVw
 url: https://www.youtube.com/watch?v=Ht9NfbmrKVw
 youtube_url: https://www.youtube.com/watch?v=Ht9NfbmrKVw
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

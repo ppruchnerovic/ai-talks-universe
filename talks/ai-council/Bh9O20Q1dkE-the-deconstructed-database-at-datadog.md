@@ -4,7 +4,7 @@ title: "The Deconstructed Database at Datadog"
 slug: the-deconstructed-database-at-datadog
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: Bh9O20Q1dkE
 url: https://www.youtube.com/watch?v=Bh9O20Q1dkE
 youtube_url: https://www.youtube.com/watch?v=Bh9O20Q1dkE
 tags: ["AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

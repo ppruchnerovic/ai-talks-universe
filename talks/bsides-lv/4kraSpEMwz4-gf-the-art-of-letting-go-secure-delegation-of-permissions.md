@@ -4,7 +4,7 @@ title: "GF - The Art of Letting Go: Secure delegation of permissions in AWS envi
 slug: gf-the-art-of-letting-go-secure-delegation-of-permissions
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: 4kraSpEMwz4
 url: https://www.youtube.com/watch?v=4kraSpEMwz4
 youtube_url: https://www.youtube.com/watch?v=4kraSpEMwz4
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

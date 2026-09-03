@@ -4,7 +4,7 @@ title: "Building the Next Generation of Software"
 slug: building-the-next-generation-of-software
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Des Traynor"]
@@ -15,6 +15,7 @@ video_id: zQNmwfm7yqc
 url: https://www.youtube.com/watch?v=zQNmwfm7yqc
 youtube_url: https://www.youtube.com/watch?v=zQNmwfm7yqc
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

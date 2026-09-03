@@ -4,7 +4,7 @@ title: "Austin Mejia, Google: AI Wearables - The Next Frontier of Personal Compu
 slug: austin-mejia-google-ai-wearables-the-next-frontier-of
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: ["Austin Mejia"]
@@ -15,6 +15,7 @@ video_id: PVd17_FaOFM
 url: https://www.youtube.com/watch?v=PVd17_FaOFM
 youtube_url: https://www.youtube.com/watch?v=PVd17_FaOFM
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

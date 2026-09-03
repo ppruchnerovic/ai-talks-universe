@@ -4,7 +4,7 @@ title: "Eval-Driven Development, LLM-Generated SQL, & the Cost-Uncertainty-Lag T
 slug: eval-driven-development-llm-generated-sql-the-cost
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 3lb_4OEOykc
 url: https://www.youtube.com/watch?v=3lb_4OEOykc
 youtube_url: https://www.youtube.com/watch?v=3lb_4OEOykc
 tags: ["Rippling", "Rippling AI", "Senthil Velu Sundaram", "Akash Ashok", "LangGraph", "LangChain", "AI agents", "eval-driven development", "EDD", "LLM evals", "Wilson confidence interval", "flat agent", "multi-agent", "sub-agent", "SQL generation", "LLM SQL", "employee graph", "HRIS", "HR AI", "payroll AI", "agent architecture", "production AI", "smoke evals", "health evals", "Interrupt conference"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: true
 ---
 

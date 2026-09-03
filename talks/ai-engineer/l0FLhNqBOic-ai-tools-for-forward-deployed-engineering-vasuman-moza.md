@@ -4,7 +4,7 @@ title: "AI tools for Forward Deployed Engineering — Vasuman Moza, Varick Agent
 slug: ai-tools-for-forward-deployed-engineering-vasuman-moza
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vasuman Moza"]
@@ -15,6 +15,7 @@ video_id: l0FLhNqBOic
 url: https://www.youtube.com/watch?v=l0FLhNqBOic
 youtube_url: https://www.youtube.com/watch?v=l0FLhNqBOic
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

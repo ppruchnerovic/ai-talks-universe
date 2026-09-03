@@ -4,7 +4,7 @@ title: "From Day 2 to Day 10: Operationalizing Evals for Real-World LLM Systems"
 slug: from-day-2-to-day-10-operationalizing-evals-for-real-world
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: KM_IHpku_LA
 url: https://www.youtube.com/watch?v=KM_IHpku_LA
 youtube_url: https://www.youtube.com/watch?v=KM_IHpku_LA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: true
 ---
 

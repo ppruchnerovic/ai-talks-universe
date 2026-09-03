@@ -4,7 +4,7 @@ title: "Completing the Rewrite from Hell: Five Years of Technical Debt and How W
 slug: completing-the-rewrite-from-hell-five-years-of-technical
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Aaron Stannard"]
@@ -15,6 +15,7 @@ video_id: deke8dAsLTI
 url: https://www.youtube.com/watch?v=deke8dAsLTI
 youtube_url: https://www.youtube.com/watch?v=deke8dAsLTI
 tags: ["Architecture", ".NET", "Continuous Delivery", "GenAI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Aaron Stannard"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

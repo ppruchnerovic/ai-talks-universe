@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Run and Scale Agentic AI Applications in Production
 slug: aws-re-invent-2025-run-and-scale-agentic-ai-applications-in
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: OYBpJOv7hKM
 url: https://www.youtube.com/watch?v=OYBpJOv7hKM
 youtube_url: https://www.youtube.com/watch?v=OYBpJOv7hKM
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

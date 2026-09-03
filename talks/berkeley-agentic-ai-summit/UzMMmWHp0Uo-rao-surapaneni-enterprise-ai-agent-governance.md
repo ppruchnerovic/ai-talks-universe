@@ -4,7 +4,7 @@ title: "Rao Surapaneni - Enterprise AI - Agent Governance"
 slug: rao-surapaneni-enterprise-ai-agent-governance
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Rao Surapaneni"]
@@ -15,6 +15,7 @@ video_id: UzMMmWHp0Uo
 url: https://www.youtube.com/watch?v=UzMMmWHp0Uo
 youtube_url: https://www.youtube.com/watch?v=UzMMmWHp0Uo
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

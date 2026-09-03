@@ -4,7 +4,7 @@ title: "Breaking Heterogeneity Barriers: Unified Cloud-to-Robot AI System SW Sta
 slug: breaking-heterogeneity-barriers-unified-cloud-to-robot-ai
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Yonghua Lin"]
@@ -15,6 +15,7 @@ video_id: gjPQ8J38SSw
 url: https://www.youtube.com/watch?v=gjPQ8J38SSw
 youtube_url: https://www.youtube.com/watch?v=gjPQ8J38SSw
 tags: []
+topics: []
 transcript: false
 ---
 

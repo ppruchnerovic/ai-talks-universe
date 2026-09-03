@@ -4,7 +4,7 @@ title: "Sequential Pattern Mining and Matching in Large Data Streams | AI and Co
 slug: sequential-pattern-mining-and-matching-in-large-data
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Olaf Schleusing"]
@@ -15,6 +15,7 @@ video_id: Ns_H4STKcBE
 url: https://www.youtube.com/watch?v=Ns_H4STKcBE
 youtube_url: https://www.youtube.com/watch?v=Ns_H4STKcBE
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

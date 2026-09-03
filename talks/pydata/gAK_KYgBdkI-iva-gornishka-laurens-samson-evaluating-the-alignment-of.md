@@ -4,7 +4,7 @@ title: "Iva Gornishka & Laurens Samson - Evaluating the alignment of LLMs | PyDa
 slug: iva-gornishka-laurens-samson-evaluating-the-alignment-of
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Iva Gornishka", "Laurens Samson"]
@@ -15,6 +15,7 @@ video_id: gAK_KYgBdkI
 url: https://www.youtube.com/watch?v=gAK_KYgBdkI
 youtube_url: https://www.youtube.com/watch?v=gAK_KYgBdkI
 tags: []
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: false
 ---
 

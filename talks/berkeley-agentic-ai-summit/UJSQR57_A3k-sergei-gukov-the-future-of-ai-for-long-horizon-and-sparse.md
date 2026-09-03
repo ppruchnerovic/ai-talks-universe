@@ -4,7 +4,7 @@ title: "Sergei Gukov - The Future of AI for Long Horizon and Sparse Reward Tasks
 slug: sergei-gukov-the-future-of-ai-for-long-horizon-and-sparse
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Sergei Gukov"]
@@ -15,6 +15,7 @@ video_id: UJSQR57_A3k
 url: https://www.youtube.com/watch?v=UJSQR57_A3k
 youtube_url: https://www.youtube.com/watch?v=UJSQR57_A3k
 tags: []
+topics: []
 transcript: true
 ---
 

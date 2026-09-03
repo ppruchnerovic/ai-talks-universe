@@ -4,7 +4,7 @@ title: "What LLMs Do, and Don't, Know About Securing Kubernetes - Rory McCune, D
 slug: what-llms-do-and-don-t-know-about-securing-kubernetes-rory
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: jgx4J1z7POM
 url: https://www.youtube.com/watch?v=jgx4J1z7POM
 youtube_url: https://www.youtube.com/watch?v=jgx4J1z7POM
 tags: []
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

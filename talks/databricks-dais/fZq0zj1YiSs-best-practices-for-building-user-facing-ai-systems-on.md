@@ -4,7 +4,7 @@ title: "Best Practices for Building User-Facing AI Systems on Databricks"
 slug: best-practices-for-building-user-facing-ai-systems-on
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: fZq0zj1YiSs
 url: https://www.youtube.com/watch?v=fZq0zj1YiSs
 youtube_url: https://www.youtube.com/watch?v=fZq0zj1YiSs
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

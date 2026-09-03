@@ -4,7 +4,7 @@ title: "NeuroRestore : Implantable neurostimulation for the paralyzed | Grégoir
 slug: neurorestore-implantable-neurostimulation-for-the-paralyzed
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["Grégoire Courtine", "Jocelyne Bloch"]
@@ -15,6 +15,7 @@ video_id: fKJgRjn5__g
 url: https://www.youtube.com/watch?v=fKJgRjn5__g
 youtube_url: https://www.youtube.com/watch?v=fKJgRjn5__g
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: true
 ---
 

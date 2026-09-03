@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | LLM-Empowered Differential Testing for the Ethereu
 slug: black-hat-asia-2026-llm-empowered-differential-testing-for
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: btaJkpmFs4s
 url: https://www.youtube.com/watch?v=btaJkpmFs4s
 youtube_url: https://www.youtube.com/watch?v=btaJkpmFs4s
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

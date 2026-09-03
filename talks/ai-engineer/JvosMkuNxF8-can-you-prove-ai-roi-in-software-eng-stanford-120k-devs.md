@@ -4,7 +4,7 @@ title: "Can you prove AI ROI in Software Eng? (Stanford 120k Devs Study) – Yeg
 slug: can-you-prove-ai-roi-in-software-eng-stanford-120k-devs
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: JvosMkuNxF8
 url: https://www.youtube.com/watch?v=JvosMkuNxF8
 youtube_url: https://www.youtube.com/watch?v=JvosMkuNxF8
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

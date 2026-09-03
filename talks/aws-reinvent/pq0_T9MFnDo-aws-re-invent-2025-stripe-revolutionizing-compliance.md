@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 -Stripe: Revolutionizing compliance workflows w/ agen
 slug: aws-re-invent-2025-stripe-revolutionizing-compliance
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: pq0_T9MFnDo
 url: https://www.youtube.com/watch?v=pq0_T9MFnDo
 youtube_url: https://www.youtube.com/watch?v=pq0_T9MFnDo
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

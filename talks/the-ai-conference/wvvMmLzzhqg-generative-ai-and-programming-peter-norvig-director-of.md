@@ -4,7 +4,7 @@ title: "Generative AI And Programming, Peter Norvig, Director of Research, Googl
 slug: generative-ai-and-programming-peter-norvig-director-of
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: wvvMmLzzhqg
 url: https://www.youtube.com/watch?v=wvvMmLzzhqg
 youtube_url: https://www.youtube.com/watch?v=wvvMmLzzhqg
 tags: []
+topics: []
 transcript: false
 ---
 

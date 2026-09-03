@@ -4,7 +4,7 @@ title: "From Static Rules to Reasoning Platforms: Scaling Intelligent Canary Del
 slug: from-static-rules-to-reasoning-platforms-scaling
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Daniel Oh"]
@@ -15,6 +15,7 @@ video_id: BImFCfZmb50
 url: https://www.youtube.com/watch?v=BImFCfZmb50
 youtube_url: https://www.youtube.com/watch?v=BImFCfZmb50
 tags: ["DevOps", "Agentic AI", "ArgoCD", "CI/CD", "Internal Platforms"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

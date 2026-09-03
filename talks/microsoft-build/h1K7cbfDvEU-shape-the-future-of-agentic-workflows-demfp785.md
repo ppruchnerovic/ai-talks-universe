@@ -4,7 +4,7 @@ title: "Shape the future of agentic workflows | DEMFP785"
 slug: shape-the-future-of-agentic-workflows-demfp785
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: h1K7cbfDvEU
 url: https://www.youtube.com/watch?v=h1K7cbfDvEU
 youtube_url: https://www.youtube.com/watch?v=h1K7cbfDvEU
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

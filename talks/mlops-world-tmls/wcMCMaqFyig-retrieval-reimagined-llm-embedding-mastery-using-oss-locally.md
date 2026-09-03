@@ -4,7 +4,7 @@ title: "Retrieval Reimagined: LLM & Embedding Mastery using OSS locally."
 slug: retrieval-reimagined-llm-embedding-mastery-using-oss-locally
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: wcMCMaqFyig
 url: https://www.youtube.com/watch?v=wcMCMaqFyig
 youtube_url: https://www.youtube.com/watch?v=wcMCMaqFyig
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

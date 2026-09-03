@@ -4,7 +4,7 @@ title: "The weekly developer show: Design Systems, Variable Fonts & Web Typograp
 slug: the-weekly-developer-show-design-systems-variable-fonts-web
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: ZbBYL-kAoY0
 url: https://www.youtube.com/watch?v=ZbBYL-kAoY0
 youtube_url: https://www.youtube.com/watch?v=ZbBYL-kAoY0
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "typography", "web design", "responsive design", "variable fonts", "CSS grid", "design systems", "accessibility", "frontend development", "Jason Pamental", "Beyond Tellerrand"]
+topics: []
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "How We Got LLMs to Recommend Our Open Source Library — Christopher Bur
 slug: how-we-got-llms-to-recommend-our-open-source-library
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Christopher Burns"]
@@ -15,6 +15,7 @@ video_id: V_5bn4q-vAI
 url: https://www.youtube.com/watch?v=V_5bn4q-vAI
 youtube_url: https://www.youtube.com/watch?v=V_5bn4q-vAI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

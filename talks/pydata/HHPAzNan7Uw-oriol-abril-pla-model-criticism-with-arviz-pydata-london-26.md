@@ -4,7 +4,7 @@ title: "Oriol Abril-Pla - Model criticism with ArviZ | Pydata London 26"
 slug: oriol-abril-pla-model-criticism-with-arviz-pydata-london-26
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: HHPAzNan7Uw
 url: https://www.youtube.com/watch?v=HHPAzNan7Uw
 youtube_url: https://www.youtube.com/watch?v=HHPAzNan7Uw
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

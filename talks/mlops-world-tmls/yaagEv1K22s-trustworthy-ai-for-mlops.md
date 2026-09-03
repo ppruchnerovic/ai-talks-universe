@@ -4,7 +4,7 @@ title: "Trustworthy AI for MLOps"
 slug: trustworthy-ai-for-mlops
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Courtney Branson"]
@@ -15,6 +15,7 @@ video_id: yaagEv1K22s
 url: https://www.youtube.com/watch?v=yaagEv1K22s
 youtube_url: https://www.youtube.com/watch?v=yaagEv1K22s
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google Deep
 slug: gemma-deepmind-s-family-of-open-models-omar-sanseviero
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Omar Sanseviero"]
@@ -15,6 +15,7 @@ video_id: _gVFUEdhCyI
 url: https://www.youtube.com/watch?v=_gVFUEdhCyI
 youtube_url: https://www.youtube.com/watch?v=_gVFUEdhCyI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

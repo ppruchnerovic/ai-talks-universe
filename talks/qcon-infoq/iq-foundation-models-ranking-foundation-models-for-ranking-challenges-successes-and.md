@@ -4,7 +4,7 @@ title: "Foundation Models for Ranking: Challenges, Successes, and Lessons Learne
 slug: foundation-models-for-ranking-challenges-successes-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Moumita Bhattacharya"]
@@ -15,6 +15,7 @@ video_id: iq-foundation-models-ranking
 url: https://www.infoq.com/presentations/foundation-models-ranking/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

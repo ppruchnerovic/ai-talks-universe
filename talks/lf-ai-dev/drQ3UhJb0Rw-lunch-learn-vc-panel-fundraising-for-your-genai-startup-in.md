@@ -4,7 +4,7 @@ title: "Lunch & Learn VC Panel: Fundraising for Your GenAI Startup in the Curren
 slug: lunch-learn-vc-panel-fundraising-for-your-genai-startup-in
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: drQ3UhJb0Rw
 url: https://www.youtube.com/watch?v=drQ3UhJb0Rw
 youtube_url: https://www.youtube.com/watch?v=drQ3UhJb0Rw
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

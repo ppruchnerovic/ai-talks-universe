@@ -4,7 +4,7 @@ title: "Picking the right model"
 slug: picking-the-right-model
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: P0uMXS6emHA
 url: https://www.youtube.com/watch?v=P0uMXS6emHA
 youtube_url: https://www.youtube.com/watch?v=P0uMXS6emHA
 tags: []
+topics: []
 transcript: true
 ---
 

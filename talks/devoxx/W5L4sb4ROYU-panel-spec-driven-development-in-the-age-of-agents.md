@@ -4,7 +4,7 @@ title: "(Panel) Spec-Driven Development in the Age of Agents"
 slug: panel-spec-driven-development-in-the-age-of-agents
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: W5L4sb4ROYU
 url: https://www.youtube.com/watch?v=W5L4sb4ROYU
 youtube_url: https://www.youtube.com/watch?v=W5L4sb4ROYU
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

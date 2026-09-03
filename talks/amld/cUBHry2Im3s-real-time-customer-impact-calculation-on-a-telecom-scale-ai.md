@@ -4,7 +4,7 @@ title: "Real-time Customer Impact Calculation on a Telecom Scale | AI and Connec
 slug: real-time-customer-impact-calculation-on-a-telecom-scale-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: cUBHry2Im3s
 url: https://www.youtube.com/watch?v=cUBHry2Im3s
 youtube_url: https://www.youtube.com/watch?v=cUBHry2Im3s
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

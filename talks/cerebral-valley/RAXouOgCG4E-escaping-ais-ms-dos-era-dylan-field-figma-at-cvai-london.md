@@ -4,7 +4,7 @@ title: "Escaping AI’s MS DOS Era: Dylan Field (Figma) at CVAI London"
 slug: escaping-ais-ms-dos-era-dylan-field-figma-at-cvai-london
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: RAXouOgCG4E
 url: https://www.youtube.com/watch?v=RAXouOgCG4E
 youtube_url: https://www.youtube.com/watch?v=RAXouOgCG4E
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

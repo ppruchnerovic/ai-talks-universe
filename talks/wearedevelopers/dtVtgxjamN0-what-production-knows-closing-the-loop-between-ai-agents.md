@@ -4,7 +4,7 @@ title: "What Production Knows: Closing the Loop Between AI Agents and the System
 slug: what-production-knows-closing-the-loop-between-ai-agents
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["May Walter"]
@@ -15,6 +15,7 @@ video_id: dtVtgxjamN0
 url: https://www.youtube.com/watch?v=dtVtgxjamN0
 youtube_url: https://www.youtube.com/watch?v=dtVtgxjamN0
 tags: ["AI Agents", "Agents", "Agentic AI"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -4,7 +4,7 @@ title: "The State of MCP observability: Observable.tools — Alex Volkov and Ben
 slug: the-state-of-mcp-observability-observable-tools-alex-volkov
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Alex Volkov", "Benjamin Eckel"]
@@ -15,6 +15,7 @@ video_id: Lcqat4iP_lE
 url: https://www.youtube.com/watch?v=Lcqat4iP_lE
 youtube_url: https://www.youtube.com/watch?v=Lcqat4iP_lE
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

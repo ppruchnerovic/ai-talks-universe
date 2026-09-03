@@ -4,7 +4,7 @@ title: "Evals-Driven Development for a Mental Health AI Coach — Akele Reed & D
 slug: evals-driven-development-for-a-mental-health-ai-coach-akele
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Akele Reed", "Dave Revere"]
@@ -15,6 +15,7 @@ video_id: O72p-rBb2bA
 url: https://www.youtube.com/watch?v=O72p-rBb2bA
 youtube_url: https://www.youtube.com/watch?v=O72p-rBb2bA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

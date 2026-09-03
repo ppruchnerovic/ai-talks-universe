@@ -4,7 +4,7 @@ title: "Michelangelo (Uber’s ML Platform): Going Open Source | Sally Lee & Eri
 slug: michelangelo-ubers-ml-platform-going-open-source-sally-lee
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Sally Lee", "Eric Wang"]
@@ -15,6 +15,7 @@ video_id: KJe8_FLMRx4
 url: https://www.youtube.com/watch?v=KJe8_FLMRx4
 youtube_url: https://www.youtube.com/watch?v=KJe8_FLMRx4
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

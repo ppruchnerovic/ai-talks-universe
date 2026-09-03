@@ -4,7 +4,7 @@ title: "Designing & Engineering a Viral Multi-Model AI Workflow"
 slug: designing-engineering-a-viral-multi-model-ai-workflow
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["David Wilson"]
@@ -15,6 +15,7 @@ video_id: gTQG0SfJb9Y
 url: https://www.youtube.com/watch?v=gTQG0SfJb9Y
 youtube_url: https://www.youtube.com/watch?v=gTQG0SfJb9Y
 tags: ["LinkedIn", "viral AI", "multi model AI", "ChatGPT", "artificial intelligence", "machine learning", "AI engineering", "OpenAI", "Anthropic", "Google AI", "25 step workflow", "300000 users", "trillion tokens", "cost optimization", "Python tutorial", "social media analytics", "professional networking", "content recommendation", "personalization", "feed algorithms", "engagement optimization", "viral content analysis", "network effects", "user behavior analysis"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

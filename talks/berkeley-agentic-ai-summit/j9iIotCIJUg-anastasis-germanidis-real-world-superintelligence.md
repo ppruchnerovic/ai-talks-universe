@@ -4,7 +4,7 @@ title: "Anastasis Germanidis - Real World Superintelligence"
 slug: anastasis-germanidis-real-world-superintelligence
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Anastasis Germanidis", "Real World Superintelligence"]
@@ -15,6 +15,7 @@ video_id: j9iIotCIJUg
 url: https://www.youtube.com/watch?v=j9iIotCIJUg
 youtube_url: https://www.youtube.com/watch?v=j9iIotCIJUg
 tags: []
+topics: []
 transcript: true
 ---
 

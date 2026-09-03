@@ -4,7 +4,7 @@ title: "Code Mode Is Best Served in the Shell - Jan Curn, Apify"
 slug: code-mode-is-best-served-in-the-shell-jan-curn-apify
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Jan Curn"]
@@ -15,6 +15,7 @@ video_id: Z5C9LSpQrYw
 url: https://www.youtube.com/watch?v=Z5C9LSpQrYw
 youtube_url: https://www.youtube.com/watch?v=Z5C9LSpQrYw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

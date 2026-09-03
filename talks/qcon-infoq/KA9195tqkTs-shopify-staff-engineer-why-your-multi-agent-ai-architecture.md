@@ -4,7 +4,7 @@ title: "Shopify Staff Engineer: Why Your Multi-Agent AI Architecture Will Fail"
 slug: shopify-staff-engineer-why-your-multi-agent-ai-architecture
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: KA9195tqkTs
 url: https://www.youtube.com/watch?v=KA9195tqkTs
 youtube_url: https://www.youtube.com/watch?v=KA9195tqkTs
 tags: ["InfoQ", "Transcript", "QCon AI New York", "QCon AI", "Multi-Agent Systems", "Shopify", "Case Study", "Artificial Intelligence", "AI Agents", "Generative AI"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Prompting & context engineering"]
 transcript: true
 ---
 

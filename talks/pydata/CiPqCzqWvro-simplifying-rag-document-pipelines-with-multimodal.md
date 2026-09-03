@@ -4,7 +4,7 @@ title: "Simplifying RAG Document Pipelines with Multimodal Embeddings [PyCon DE 
 slug: simplifying-rag-document-pipelines-with-multimodal
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Arne Grobrügge"]
@@ -15,6 +15,7 @@ video_id: CiPqCzqWvro
 url: https://www.youtube.com/watch?v=CiPqCzqWvro
 youtube_url: https://www.youtube.com/watch?v=CiPqCzqWvro
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

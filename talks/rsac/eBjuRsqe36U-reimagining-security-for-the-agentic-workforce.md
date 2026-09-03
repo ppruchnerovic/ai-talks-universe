@@ -4,7 +4,7 @@ title: "Reimagining Security for the Agentic Workforce"
 slug: reimagining-security-for-the-agentic-workforce
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: eBjuRsqe36U
 url: https://www.youtube.com/watch?v=eBjuRsqe36U
 youtube_url: https://www.youtube.com/watch?v=eBjuRsqe36U
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

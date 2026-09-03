@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Building autonomous AI at scale with Amazon Bedrock
 slug: aws-re-invent-2025-building-autonomous-ai-at-scale-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: cPru70ADRg8
 url: https://www.youtube.com/watch?v=cPru70ADRg8
 youtube_url: https://www.youtube.com/watch?v=cPru70ADRg8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

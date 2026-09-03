@@ -4,7 +4,7 @@ title: "Why 99% of AI Products Fail: A CTO's Hard-Won Lessons"
 slug: why-99-of-ai-products-fail-a-cto-s-hard-won-lessons
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6YVx8tx8Zxc
 url: https://www.youtube.com/watch?v=6YVx8tx8Zxc
 youtube_url: https://www.youtube.com/watch?v=6YVx8tx8Zxc
 tags: ["Software Architecture", "Artificial Intelligence", "Transcript", "Microservices", "InfoQ", "QCon Conferences"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

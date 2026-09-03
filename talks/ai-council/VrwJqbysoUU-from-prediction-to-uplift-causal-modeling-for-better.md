@@ -4,7 +4,7 @@ title: "From Prediction to Uplift: Causal Modeling for Better Decisions | Intuit
 slug: from-prediction-to-uplift-causal-modeling-for-better
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: VrwJqbysoUU
 url: https://www.youtube.com/watch?v=VrwJqbysoUU
 youtube_url: https://www.youtube.com/watch?v=VrwJqbysoUU
 tags: ["AI"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

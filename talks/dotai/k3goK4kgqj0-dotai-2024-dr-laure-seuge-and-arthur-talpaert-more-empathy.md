@@ -4,7 +4,7 @@ title: "dotAI 2024 - Dr Laure Seugé and Arthur Talpaert - More empathy and heal
 slug: dotai-2024-dr-laure-seuge-and-arthur-talpaert-more-empathy
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Dr Laure Seugé", "Arthur Talpaert"]
@@ -15,6 +15,7 @@ video_id: k3goK4kgqj0
 url: https://www.youtube.com/watch?v=k3goK4kgqj0
 youtube_url: https://www.youtube.com/watch?v=k3goK4kgqj0
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

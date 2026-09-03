@@ -4,7 +4,7 @@ title: "Episode 25: Meeting November 20 2024 Version 2025 Released This Week"
 slug: episode-25-meeting-november-20-2024-version-2025-released
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: K9YaOyDMD0w
 url: https://www.youtube.com/watch?v=K9YaOyDMD0w
 youtube_url: https://www.youtube.com/watch?v=K9YaOyDMD0w
 tags: []
+topics: []
 transcript: false
 ---
 

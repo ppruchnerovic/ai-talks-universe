@@ -4,7 +4,7 @@ title: "You Don't Need a Custom LLM, You Need An LLM Factory"
 slug: you-don-t-need-a-custom-llm-you-need-an-llm-factory
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: HWYf7-wyHq4
 url: https://www.youtube.com/watch?v=HWYf7-wyHq4
 youtube_url: https://www.youtube.com/watch?v=HWYf7-wyHq4
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

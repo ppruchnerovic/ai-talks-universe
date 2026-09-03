@@ -4,7 +4,7 @@ title: "Sponsored Session: Lightning Talk: PyTorch and Democratization of AI Acc
 slug: sponsored-session-lightning-talk-pytorch-and
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 6qU802syw8U
 url: https://www.youtube.com/watch?v=6qU802syw8U
 youtube_url: https://www.youtube.com/watch?v=6qU802syw8U
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

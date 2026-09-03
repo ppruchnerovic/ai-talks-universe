@@ -4,7 +4,7 @@ title: "Brillio's Agentic Data and Application Management Platform | ODSP1454"
 slug: brillio-s-agentic-data-and-application-management-platform
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Muthumari S"]
@@ -15,6 +15,7 @@ video_id: 3Ui1Ol9lXmk
 url: https://www.youtube.com/watch?v=3Ui1Ol9lXmk
 youtube_url: https://www.youtube.com/watch?v=3Ui1Ol9lXmk
 tags: ["Brillio's Agentic Data and Application Management Platform | ODSP1454", "English (US)", "Financial Services", "Innovate with low-code AI and agents", "Muthumari S", "ODSP1454", "ODSP1454_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

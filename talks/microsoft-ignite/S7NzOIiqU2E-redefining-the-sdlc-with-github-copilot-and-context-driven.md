@@ -4,7 +4,7 @@ title: "Redefining the SDLC with GitHub Copilot and Context-Driven AI | ODSP1414
 slug: redefining-the-sdlc-with-github-copilot-and-context-driven
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jon Perkins"]
@@ -15,6 +15,7 @@ video_id: S7NzOIiqU2E
 url: https://www.youtube.com/watch?v=S7NzOIiqU2E
 youtube_url: https://www.youtube.com/watch?v=S7NzOIiqU2E
 tags: ["Copilot and agents at work", "English (US)", "Financial Services", "Jon Perkins", "ODSP1414", "ODSP1414_v1", "Redefining the SDLC with GitHub Copilot and Context-Driven AI | ODSP1414", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

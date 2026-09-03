@@ -4,7 +4,7 @@ title: "Beyond authentication: an open-source trust model for the agentic web"
 slug: beyond-authentication-an-open-source-trust-model-for-the
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Alexander Günsche", "Sabrina Engling"]
@@ -15,6 +15,7 @@ video_id: 5SWCbrxp8Z4
 url: https://www.youtube.com/watch?v=5SWCbrxp8Z4
 youtube_url: https://www.youtube.com/watch?v=5SWCbrxp8Z4
 tags: ["Quality & Reliability", "AI Standards", "Authentication", "AWS", "Agents", "Agentic AI", "Infrastructure", "Open Source", "Software Architecture"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

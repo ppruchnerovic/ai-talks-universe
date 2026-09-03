@@ -4,7 +4,7 @@ title: "From Inside Out: Aligning Culture with Employer Branding"
 slug: from-inside-out-aligning-culture-with-employer-branding
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: 428TOmEMVnU
 url: https://www.youtube.com/watch?v=428TOmEMVnU
 youtube_url: https://www.youtube.com/watch?v=428TOmEMVnU
 tags: ["Employer Branding", "Employee advocacy", "HR", "culture", "culture programs", "corporate", "people", "trust", "credibility", "ambassadors", "authenticity"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "From Struggling to Mastery: A Practical Guide to Data Pipeline Operation
 slug: from-struggling-to-mastery-a-practical-guide-to-data
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Akif Cakir"]
@@ -15,6 +15,7 @@ video_id: dDHQKv8D70E
 url: https://www.youtube.com/watch?v=dDHQKv8D70E
 youtube_url: https://www.youtube.com/watch?v=dDHQKv8D70E
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

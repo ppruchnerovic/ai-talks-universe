@@ -4,7 +4,7 @@ title: "Marketing That Sparks a Conversation: AI Agents at the Agentforce Market
 slug: marketing-that-sparks-a-conversation-ai-agents-at-the
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: CKr8vpCoN3Y
 url: https://www.youtube.com/watch?v=CKr8vpCoN3Y
 youtube_url: https://www.youtube.com/watch?v=CKr8vpCoN3Y
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

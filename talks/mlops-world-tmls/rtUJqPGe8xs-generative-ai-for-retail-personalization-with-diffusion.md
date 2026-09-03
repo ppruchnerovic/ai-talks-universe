@@ -4,7 +4,7 @@ title: "Generative AI for Retail: Personalization with Diffusion Models"
 slug: generative-ai-for-retail-personalization-with-diffusion
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: rtUJqPGe8xs
 url: https://www.youtube.com/watch?v=rtUJqPGe8xs
 youtube_url: https://www.youtube.com/watch?v=rtUJqPGe8xs
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

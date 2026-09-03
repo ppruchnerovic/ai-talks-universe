@@ -4,7 +4,7 @@ title: "Better Chatbots with Advanced RAG Techniques"
 slug: better-chatbots-with-advanced-rag-techniques
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Zain Hasan"]
@@ -15,6 +15,7 @@ video_id: nZQ0RMVyykg
 url: https://www.youtube.com/watch?v=nZQ0RMVyykg
 youtube_url: https://www.youtube.com/watch?v=nZQ0RMVyykg
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

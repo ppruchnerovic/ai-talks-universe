@@ -4,7 +4,7 @@ title: "Demistifying Client ID Metadata Documents in MCP - Den Delimarsky, Anthr
 slug: demistifying-client-id-metadata-documents-in-mcp-den
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Den Delimarsky"]
@@ -15,6 +15,7 @@ video_id: YRLPR3o9fnI
 url: https://www.youtube.com/watch?v=YRLPR3o9fnI
 youtube_url: https://www.youtube.com/watch?v=YRLPR3o9fnI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

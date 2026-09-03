@@ -4,7 +4,7 @@ title: "AI Agents & LLMs: The Hard Truths Senior Engineers Face"
 slug: ai-agents-llms-the-hard-truths-senior-engineers-face
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: kf7joG8VQT4
 url: https://www.youtube.com/watch?v=kf7joG8VQT4
 youtube_url: https://www.youtube.com/watch?v=kf7joG8VQT4
 tags: ["InfoQ Live", "AI Agents", "Agentic AI", "LLMs", "Large Language Models", "Model Context Protocol", "MCP", "Virtual Panel", "InfoQ", "Artificial Intelligence", "Transcript"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Ship your first Managed Agent"
 slug: ship-your-first-managed-agent
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 19HDQ9HppOA
 url: https://www.youtube.com/watch?v=19HDQ9HppOA
 youtube_url: https://www.youtube.com/watch?v=19HDQ9HppOA
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

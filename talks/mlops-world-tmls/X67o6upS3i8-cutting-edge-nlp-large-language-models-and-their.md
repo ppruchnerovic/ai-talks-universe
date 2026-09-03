@@ -4,7 +4,7 @@ title: "Cutting-edge NLP, Large Language Models, and Their Implications For Prod
 slug: cutting-edge-nlp-large-language-models-and-their
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Ehsan Amjadian"]
@@ -15,6 +15,7 @@ video_id: X67o6upS3i8
 url: https://www.youtube.com/watch?v=X67o6upS3i8
 youtube_url: https://www.youtube.com/watch?v=X67o6upS3i8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

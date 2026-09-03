@@ -4,7 +4,7 @@ title: "Microservices Reality: Stop Fighting Environments & MOCK Your Dependenci
 slug: microservices-reality-stop-fighting-environments-mock-your
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Z36r5WakqDk
 url: https://www.youtube.com/watch?v=Z36r5WakqDk
 youtube_url: https://www.youtube.com/watch?v=Z36r5WakqDk
 tags: ["Software Architecture", "QCon London", "API", "Mocking", "Contract Testing", "Observability", "Microservices", "Monitoring", "InfoQ", "Transcript", "Performance"]
+topics: []
 transcript: false
 ---
 

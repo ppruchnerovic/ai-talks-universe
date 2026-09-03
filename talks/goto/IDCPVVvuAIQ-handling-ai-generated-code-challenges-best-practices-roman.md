@@ -4,7 +4,7 @@ title: "Handling AI-Generated Code: Challenges & Best Practices • Roman Zhukov
 slug: handling-ai-generated-code-challenges-best-practices-roman
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Roman Zhukov", "Damian Brady"]
@@ -15,6 +15,7 @@ video_id: IDCPVVvuAIQ
 url: https://www.youtube.com/watch?v=IDCPVVvuAIQ
 youtube_url: https://www.youtube.com/watch?v=IDCPVVvuAIQ
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["AI in the SDLC & engineering orgs", "Classic ML & data science"]
 transcript: true
 ---
 

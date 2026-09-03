@@ -4,7 +4,7 @@ title: "Why Prompting Isn’t Enough: Building Stateful AI Architecture"
 slug: why-prompting-isnt-enough-building-stateful-ai-architecture
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: 0kZC1o4ttAQ
 url: https://www.youtube.com/watch?v=0kZC1o4ttAQ
 youtube_url: https://www.youtube.com/watch?v=0kZC1o4ttAQ
 tags: ["QCon AI", "InfoQ", "Transcript", "Context Engineering", "Prompt Engineering", "Software Architecture", "Stateful AI", "Apache Flink", "Apache Kafka", "Distributed Systems", "AI Agents"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Inference, serving & GPU infra", "Prompting & context engineering"]
 transcript: false
 ---
 

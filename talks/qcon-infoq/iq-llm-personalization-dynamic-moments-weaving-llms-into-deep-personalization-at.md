@@ -4,7 +4,7 @@ title: "Dynamic Moments: Weaving LLMs into Deep Personalization at DoorDash"
 slug: dynamic-moments-weaving-llms-into-deep-personalization-at
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Sudeep Das", "Pradeep Muthukrishnan"]
@@ -15,6 +15,7 @@ video_id: iq-llm-personalization
 url: https://www.infoq.com/presentations/llm-personalization/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

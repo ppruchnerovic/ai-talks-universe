@@ -4,7 +4,7 @@ title: "Why Emissions Are Your Next Massive Technical Debt"
 slug: why-emissions-are-your-next-massive-technical-debt
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
@@ -15,6 +15,7 @@ video_id: bDkksM9ytQM
 url: https://www.youtube.com/watch?v=bDkksM9ytQM
 youtube_url: https://www.youtube.com/watch?v=bDkksM9ytQM
 tags: ["Software Development", "QCon London", "InfoQ", "Transcript", "Green IT", "FinOps", "Green Software", "Sustainable Computing", "Software Architecture", "Sustainability In Tech", "Engineering Leadership"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

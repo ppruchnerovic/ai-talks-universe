@@ -4,7 +4,7 @@ title: "Creating Agents that Co-Create — Karina Nguyen, OpenAI"
 slug: creating-agents-that-co-create-karina-nguyen-openai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Karina Nguyen"]
@@ -15,6 +15,7 @@ video_id: 1XvN5EBDnDw
 url: https://www.youtube.com/watch?v=1XvN5EBDnDw
 youtube_url: https://www.youtube.com/watch?v=1XvN5EBDnDw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

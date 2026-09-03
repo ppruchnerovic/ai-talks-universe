@@ -4,7 +4,7 @@ title: "Same Tower, New Confusion: The Tower of Babel 2.0"
 slug: same-tower-new-confusion-the-tower-of-babel-2-0
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ondřej Kukla"]
@@ -15,6 +15,7 @@ video_id: wfNOHcAFuO8
 url: https://www.youtube.com/watch?v=wfNOHcAFuO8
 youtube_url: https://www.youtube.com/watch?v=wfNOHcAFuO8
 tags: ["Strategy & Innovation", "AI Models", "Business Intelligence", "Collaboration", "Future of Work", "Large Language Models (LLMs)", "Multi-Agent Systems", "Product Management", "Productivity", "Startups"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

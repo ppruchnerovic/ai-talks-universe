@@ -4,7 +4,7 @@ title: "When Every Bit Counts: How Valkey Rebuilt Its Hashtable for Modern Hardw
 slug: when-every-bit-counts-how-valkey-rebuilt-its-hashtable-for
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Madelyn Olson"]
@@ -15,6 +15,7 @@ video_id: iq-hashtable-modern-hardware
 url: https://www.infoq.com/presentations/hashtable-modern-hardware/
 youtube_url: null
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

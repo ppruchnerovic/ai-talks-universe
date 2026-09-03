@@ -4,7 +4,7 @@ title: "Keynote: Enabling PyTorch’s Thousand Ops for Software First Silicon De
 slug: keynote-enabling-pytorchs-thousand-ops-for-software-first
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Andrew Ling"]
@@ -15,6 +15,7 @@ video_id: wzgaGdcrPW0
 url: https://www.youtube.com/watch?v=wzgaGdcrPW0
 youtube_url: https://www.youtube.com/watch?v=wzgaGdcrPW0
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

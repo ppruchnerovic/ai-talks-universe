@@ -4,7 +4,7 @@ title: "Continuous Deployment with Weights & Biases Automations"
 slug: continuous-deployment-with-weights-biases-automations
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []
@@ -15,6 +15,7 @@ video_id: QMQPnAkZFOE
 url: https://www.youtube.com/watch?v=QMQPnAkZFOE
 youtube_url: https://www.youtube.com/watch?v=QMQPnAkZFOE
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Governance, ethics & regulation"]
 transcript: false
 ---
 

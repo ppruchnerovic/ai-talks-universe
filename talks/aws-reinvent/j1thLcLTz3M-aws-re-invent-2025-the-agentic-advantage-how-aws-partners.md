@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - The Agentic advantage: How AWS Partners unlock AI's
 slug: aws-re-invent-2025-the-agentic-advantage-how-aws-partners
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: j1thLcLTz3M
 url: https://www.youtube.com/watch?v=j1thLcLTz3M
 youtube_url: https://www.youtube.com/watch?v=j1thLcLTz3M
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Building Cortex Agents On Snowflake: Why It Matters And Best Practices"
 slug: building-cortex-agents-on-snowflake-why-it-matters-and-best
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: WP3OtjzeheE
 url: https://www.youtube.com/watch?v=WP3OtjzeheE
 youtube_url: https://www.youtube.com/watch?v=WP3OtjzeheE
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: false
 ---
 

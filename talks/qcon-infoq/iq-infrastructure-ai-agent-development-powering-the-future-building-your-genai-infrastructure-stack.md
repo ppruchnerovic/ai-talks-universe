@@ -4,7 +4,7 @@ title: "Powering the Future: Building Your GenAI Infrastructure Stack"
 slug: powering-the-future-building-your-genai-infrastructure-stack
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Merrin Kurian"]
@@ -15,6 +15,7 @@ video_id: iq-infrastructure-ai-agent-development
 url: https://www.infoq.com/presentations/infrastructure-ai-agent-development/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

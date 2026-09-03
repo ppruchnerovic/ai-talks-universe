@@ -4,7 +4,7 @@ title: "Solutions That Evolve: Building Self-Improving Systems with Genetic Algo
 slug: solutions-that-evolve-building-self-improving-systems-with
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Barry Stahl"]
@@ -15,6 +15,7 @@ video_id: q0G-foCIKX4
 url: https://www.youtube.com/watch?v=q0G-foCIKX4
 youtube_url: https://www.youtube.com/watch?v=q0G-foCIKX4
 tags: ["AI", "Architecture", "Tools", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "Great Britain", "UK", "United Kingdom", "Barry Stahl"]
+topics: []
 transcript: true
 ---
 

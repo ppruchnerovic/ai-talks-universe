@@ -4,7 +4,7 @@ title: "Inside Adobe Firefly: JIT-Embedding with Ray Serve for Faster GenAI Trai
 slug: inside-adobe-firefly-jit-embedding-with-ray-serve-for
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: RA5GRNJOW2w
 url: https://www.youtube.com/watch?v=RA5GRNJOW2w
 youtube_url: https://www.youtube.com/watch?v=RA5GRNJOW2w
 tags: []
+topics: []
 transcript: false
 ---
 

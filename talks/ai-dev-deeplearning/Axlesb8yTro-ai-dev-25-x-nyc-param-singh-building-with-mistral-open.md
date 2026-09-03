@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Param Singh: Building with Mistral: Open, Powerful, an
 slug: ai-dev-25-x-nyc-param-singh-building-with-mistral-open
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: Axlesb8yTro
 url: https://www.youtube.com/watch?v=Axlesb8yTro
 youtube_url: https://www.youtube.com/watch?v=Axlesb8yTro
 tags: []
+topics: []
 transcript: false
 ---
 

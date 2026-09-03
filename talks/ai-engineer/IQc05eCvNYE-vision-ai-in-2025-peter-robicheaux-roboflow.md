@@ -4,7 +4,7 @@ title: "Vision AI in 2025 — Peter Robicheaux, Roboflow"
 slug: vision-ai-in-2025-peter-robicheaux-roboflow
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Peter Robicheaux"]
@@ -15,6 +15,7 @@ video_id: IQc05eCvNYE
 url: https://www.youtube.com/watch?v=IQc05eCvNYE
 youtube_url: https://www.youtube.com/watch?v=IQc05eCvNYE
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -4,7 +4,7 @@ title: "Why Token Reduction Isn’t Cost Reduction - Dave Anderson & Sarel Weinb
 slug: why-token-reduction-isnt-cost-reduction-dave-anderson-sarel
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Dave Anderson", "Sarel Weinberger"]
@@ -15,6 +15,7 @@ video_id: arzbVLc4LqU
 url: https://www.youtube.com/watch?v=arzbVLc4LqU
 youtube_url: https://www.youtube.com/watch?v=arzbVLc4LqU
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: true
 ---
 

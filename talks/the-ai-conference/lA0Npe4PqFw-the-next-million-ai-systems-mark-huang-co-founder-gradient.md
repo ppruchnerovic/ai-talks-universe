@@ -4,7 +4,7 @@ title: "The Next Million AI Systems, Mark Huang, Co-Founder, Gradient"
 slug: the-next-million-ai-systems-mark-huang-co-founder-gradient
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
@@ -15,6 +15,7 @@ video_id: lA0Npe4PqFw
 url: https://www.youtube.com/watch?v=lA0Npe4PqFw
 youtube_url: https://www.youtube.com/watch?v=lA0Npe4PqFw
 tags: []
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

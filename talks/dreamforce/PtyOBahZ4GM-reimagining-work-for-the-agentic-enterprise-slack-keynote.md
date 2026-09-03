@@ -4,7 +4,7 @@ title: "Reimagining Work for the Agentic Enterprise | Slack Keynote, Dreamforce 
 slug: reimagining-work-for-the-agentic-enterprise-slack-keynote
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []
@@ -15,6 +15,7 @@ video_id: PtyOBahZ4GM
 url: https://www.youtube.com/watch?v=PtyOBahZ4GM
 youtube_url: https://www.youtube.com/watch?v=PtyOBahZ4GM
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 
