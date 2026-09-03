@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Carlos Sanch"]
-channel: "Devoxx"
+channel: null
 duration_min: 46
 published_at: 2025-10-10T05:09:22Z
 video_id: ABjIUw7ojiU

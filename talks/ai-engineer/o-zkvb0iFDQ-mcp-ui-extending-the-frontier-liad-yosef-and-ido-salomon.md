@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Liad Yosef", "Ido Salomon"]
-channel: "AI Engineer"
+channel: null
 duration_min: 22
 published_at: 2026-05-06T13:00:06Z
 video_id: o-zkvb0iFDQ

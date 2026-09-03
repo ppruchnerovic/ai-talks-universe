@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Denny Biasiolli"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 17
 published_at: 2026-01-21T12:19:48Z
 video_id: eXwX066a17k

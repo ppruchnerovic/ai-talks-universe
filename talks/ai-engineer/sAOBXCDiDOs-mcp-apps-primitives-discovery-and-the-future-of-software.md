@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Pietro Zullo"]
-channel: "AI Engineer"
+channel: null
 duration_min: 29
 published_at: 2026-07-05T03:12:17Z
 video_id: sAOBXCDiDOs

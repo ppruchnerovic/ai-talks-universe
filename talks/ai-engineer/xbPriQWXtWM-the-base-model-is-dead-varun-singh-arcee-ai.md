@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Varun Singh"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-07-31T20:30:21Z
 video_id: xbPriQWXtWM

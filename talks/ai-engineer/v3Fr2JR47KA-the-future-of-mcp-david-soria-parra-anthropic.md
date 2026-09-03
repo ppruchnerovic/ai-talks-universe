@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["David Soria Parra"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-04-19T15:00:06Z
 video_id: v3Fr2JR47KA

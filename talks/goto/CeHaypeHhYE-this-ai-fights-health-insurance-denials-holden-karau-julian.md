@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Holden Karau", "Julian Wood"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 41
 published_at: 2026-01-23T13:33:44Z
 video_id: CeHaypeHhYE

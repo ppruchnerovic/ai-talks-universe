@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []
-channel: "AI Council"
+channel: null
 duration_min: 41
 published_at: 2026-06-16T18:45:17Z
 video_id: 1EGh_ShqWHc

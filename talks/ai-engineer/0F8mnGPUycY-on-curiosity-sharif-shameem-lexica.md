@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["On Curiosity", "Sharif Shameem"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-07-19T16:00:01Z
 video_id: 0F8mnGPUycY

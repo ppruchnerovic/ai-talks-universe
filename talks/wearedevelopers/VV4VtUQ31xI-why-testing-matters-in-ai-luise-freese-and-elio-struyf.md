@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Luise Freese", "Elio Struyf"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 28
 published_at: 2026-03-27T10:03:10Z
 video_id: VV4VtUQ31xI

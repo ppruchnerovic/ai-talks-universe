@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: ["Difficult Conversations"]
-channel: "BSidesLV"
+channel: null
 duration_min: 91
 published_at: 2024-09-04T22:16:25Z
 video_id: xQPlIWAvKYI

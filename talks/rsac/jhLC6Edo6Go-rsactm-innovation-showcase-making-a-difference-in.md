@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: ["Jenny Brock"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 44
 published_at: 2025-03-27T22:17:27Z
 video_id: jhLC6Edo6Go

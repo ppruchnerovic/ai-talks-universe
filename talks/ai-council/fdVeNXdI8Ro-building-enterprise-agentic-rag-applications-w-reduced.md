@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Ofer Mendelevitch"]
-channel: "AI Council"
+channel: null
 duration_min: 26
 published_at: 2025-05-29T00:17:25Z
 video_id: fdVeNXdI8Ro

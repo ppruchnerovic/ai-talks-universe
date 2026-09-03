@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Daniel Chalef"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-07-23T00:00:00Z
 video_id: H7puB0RwJMM

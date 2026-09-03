@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Roberto Milev", "Uday Kanagala"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-08-29T00:00:00Z
 video_id: 32nrHU6zHU8

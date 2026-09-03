@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Laurie Voss"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2025-06-27T00:00:00Z
 video_id: 72XxWkd8Jrk

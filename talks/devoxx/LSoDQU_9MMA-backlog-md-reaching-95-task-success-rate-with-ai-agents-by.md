@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Alex Gavrilescu"]
-channel: "Devoxx"
+channel: null
 duration_min: 48
 published_at: 2025-10-10T05:12:49Z
 video_id: LSoDQU_9MMA

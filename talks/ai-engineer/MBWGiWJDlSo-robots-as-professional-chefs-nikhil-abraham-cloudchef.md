@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nikhil Abraham"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-07-20T07:00:06Z
 video_id: MBWGiWJDlSo

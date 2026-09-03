@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Stian Håklev"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 44
 published_at: 2026-06-30T07:38:44Z
 video_id: GqN13Y9k8HE

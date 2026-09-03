@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Java Cookbook", "Ian Darwin", "Jeanne Boyarsky"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 24
 published_at: 2026-04-16T12:00:04Z
 video_id: 1jtM6bzQgRg

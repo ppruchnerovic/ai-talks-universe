@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["George Fahmy"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 22
 published_at: 2025-11-27T21:59:38Z
 video_id: CrNTH7qGFbo

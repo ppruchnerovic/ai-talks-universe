@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Jacob Matson"]
-channel: "AI Council"
+channel: null
 duration_min: 41
 published_at: 2025-05-29T00:22:55Z
 video_id: 9KC1CU-5mU8

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: ["Christoph Meyer"]
-channel: "DeepLearningAI"
+channel: null
 duration_min: 36
 published_at: 2025-12-03T20:31:55Z
 video_id: XrYwFUdu2lk

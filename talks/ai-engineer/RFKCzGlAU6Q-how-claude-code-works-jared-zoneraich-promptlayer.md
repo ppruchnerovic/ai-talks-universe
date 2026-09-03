@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jared Zoneraich"]
-channel: "AI Engineer"
+channel: null
 duration_min: 66
 published_at: 2025-12-26T22:04:34Z
 video_id: RFKCzGlAU6Q

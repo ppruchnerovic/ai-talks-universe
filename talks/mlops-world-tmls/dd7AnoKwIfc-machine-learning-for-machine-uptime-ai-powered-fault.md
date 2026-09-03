@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 26
 published_at: 2025-08-02T21:37:48Z
 video_id: dd7AnoKwIfc

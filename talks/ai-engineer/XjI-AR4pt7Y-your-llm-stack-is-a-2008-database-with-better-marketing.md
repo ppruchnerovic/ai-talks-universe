@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Lovina Dmello"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-07-20T17:17:53Z
 video_id: XjI-AR4pt7Y

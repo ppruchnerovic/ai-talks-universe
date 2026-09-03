@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Lianne Potter"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 41
 published_at: 2026-02-03T13:26:27Z
 video_id: qusJcdQ1CPo

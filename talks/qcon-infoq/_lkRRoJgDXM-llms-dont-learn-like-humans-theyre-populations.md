@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: ["They’re Populations"]
-channel: "InfoQ"
+channel: null
 duration_min: 40
 published_at: 2026-07-20T05:52:16Z
 video_id: _lkRRoJgDXM

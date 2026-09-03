@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Rhythm Garg", "Linden Li"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-12-09T00:00:00Z
 video_id: o15AaYl7Wu0

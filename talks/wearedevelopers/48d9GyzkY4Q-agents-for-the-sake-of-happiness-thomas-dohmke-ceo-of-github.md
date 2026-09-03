@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Thomas Dohmke"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 39
 published_at: 2025-09-09T09:17:17Z
 video_id: 48d9GyzkY4Q

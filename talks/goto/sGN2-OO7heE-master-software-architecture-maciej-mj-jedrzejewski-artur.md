@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: []
-channel: "GOTO Conferences"
+channel: null
 duration_min: 44
 published_at: 2024-12-06T10:39:35Z
 video_id: sGN2-OO7heE

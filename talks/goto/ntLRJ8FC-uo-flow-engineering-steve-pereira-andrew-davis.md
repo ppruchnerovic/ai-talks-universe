@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Steve Pereira", "Andrew Davis"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 42
 published_at: 2025-09-16T12:59:06Z
 video_id: ntLRJ8FC-uo

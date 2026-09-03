@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Tanya Bragin"]
-channel: "AI Council"
+channel: null
 duration_min: 29
 published_at: 2025-05-29T14:07:05Z
 video_id: 9wo4ZYge23k

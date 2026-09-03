@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Leila Delarive"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 14
 published_at: 2024-05-15T08:33:03Z
 video_id: eZvFPLboykg

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Beth Glenfield"]
-channel: "AI Engineer"
+channel: null
 duration_min: 7
 published_at: 2025-07-22T19:55:06Z
 video_id: Zqu0VaJw3vo

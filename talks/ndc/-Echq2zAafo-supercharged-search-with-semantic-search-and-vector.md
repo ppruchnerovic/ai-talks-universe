@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Giorgi Dalakishvili"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 55
 published_at: 2026-01-19T11:20:18Z
 video_id: -Echq2zAafo

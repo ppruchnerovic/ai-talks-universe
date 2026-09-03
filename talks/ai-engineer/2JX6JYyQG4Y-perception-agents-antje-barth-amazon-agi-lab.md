@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Antje Barth"]
-channel: "AI Engineer"
+channel: null
 duration_min: 22
 published_at: 2026-07-23T16:00:06Z
 video_id: 2JX6JYyQG4Y

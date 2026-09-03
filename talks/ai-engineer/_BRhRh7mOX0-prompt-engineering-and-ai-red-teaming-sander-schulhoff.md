@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Sander Schulhoff"]
-channel: "AI Engineer"
+channel: null
 duration_min: 121
 published_at: 2025-07-14T19:00:11Z
 video_id: _BRhRh7mOX0

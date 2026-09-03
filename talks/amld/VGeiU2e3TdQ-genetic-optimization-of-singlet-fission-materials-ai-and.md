@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Luca Schaufelberger"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 12
 published_at: 2024-05-15T07:51:48Z
 video_id: VGeiU2e3TdQ

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Prompt Hardening", "Sean Sinclair"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 45
 published_at: 2026-05-11T06:56:20Z
 video_id: Jigo5fkA1gM

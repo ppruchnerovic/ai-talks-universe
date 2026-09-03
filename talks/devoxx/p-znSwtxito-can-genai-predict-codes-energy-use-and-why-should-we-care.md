@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Wilco Burggraaf"]
-channel: "Devoxx"
+channel: null
 duration_min: 16
 published_at: 2026-04-09T21:33:21Z
 video_id: p-znSwtxito

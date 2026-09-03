@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Tobias Lunt"]
-channel: "AI Council"
+channel: null
 duration_min: 15
 published_at: 2024-04-19T05:00:01Z
 video_id: 3OKa22LY2Gk

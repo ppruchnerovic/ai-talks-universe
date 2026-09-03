@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Hamilton Ulmer"]
-channel: "AI Council"
+channel: null
 duration_min: 27
 published_at: 2025-05-29T06:55:38Z
 video_id: GSeBSoxAWFg

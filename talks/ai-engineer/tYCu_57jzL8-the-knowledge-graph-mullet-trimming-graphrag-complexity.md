@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["William Lyon"]
-channel: "AI Engineer"
+channel: null
 duration_min: 33
 published_at: 2025-06-03T22:22:29Z
 video_id: tYCu_57jzL8

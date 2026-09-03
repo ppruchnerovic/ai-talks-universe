@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Matt Squire"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 40
 published_at: 2024-05-16T15:09:13Z
 video_id: nPn42_EXB5U

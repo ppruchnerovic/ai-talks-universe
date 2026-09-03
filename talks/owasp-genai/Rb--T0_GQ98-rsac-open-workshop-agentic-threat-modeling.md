@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Agentic Threat Modeling"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 22
 published_at: 2026-01-21T01:29:41Z
 video_id: Rb--T0_GQ98

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Travis Hathaway"]
-channel: "PyData"
+channel: null
 duration_min: 47
 published_at: 2026-08-04T22:21:57Z
 video_id: 1LEXE8H0BaE

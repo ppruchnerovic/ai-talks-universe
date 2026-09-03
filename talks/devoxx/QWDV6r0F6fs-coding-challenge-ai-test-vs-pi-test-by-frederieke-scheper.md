@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Frederieke Scheper", "Laurens van der Kooi"]
-channel: "Devoxx"
+channel: null
 duration_min: 32
 published_at: 2025-10-08T05:30:35Z
 video_id: QWDV6r0F6fs

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Aman Khan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 86
 published_at: 2025-12-26T22:06:14Z
 video_id: 2HNSG990Ew8

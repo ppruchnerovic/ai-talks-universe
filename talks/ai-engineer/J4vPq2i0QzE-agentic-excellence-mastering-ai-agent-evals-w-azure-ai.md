@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Cedric Vidal"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-06-27T00:00:00Z
 video_id: J4vPq2i0QzE

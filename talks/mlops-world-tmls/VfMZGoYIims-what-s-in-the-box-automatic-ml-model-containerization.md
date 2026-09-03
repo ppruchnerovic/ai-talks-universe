@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Clayton Davis"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 76
 published_at: 2023-08-18T01:36:05Z
 video_id: VfMZGoYIims

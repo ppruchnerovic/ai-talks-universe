@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Sohan Maheshwar"]
-channel: "Devoxx"
+channel: null
 duration_min: 44
 published_at: 2026-02-27T13:52:48Z
 video_id: YaJ4MpaRqGU

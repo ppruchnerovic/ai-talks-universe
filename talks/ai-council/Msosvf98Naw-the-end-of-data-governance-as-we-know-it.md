@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Kirit Basu"]
-channel: "AI Council"
+channel: null
 duration_min: 15
 published_at: 2024-04-19T05:00:11Z
 video_id: Msosvf98Naw

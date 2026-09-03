@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Ryan Sequeira"]
-channel: "PyData"
+channel: null
 duration_min: 28
 published_at: 2026-08-04T22:20:14Z
 video_id: YG_GXTubZVY

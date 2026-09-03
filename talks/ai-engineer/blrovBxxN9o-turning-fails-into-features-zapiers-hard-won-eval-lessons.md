@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Rafal Willinski"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2025-06-30T17:15:06Z
 video_id: blrovBxxN9o

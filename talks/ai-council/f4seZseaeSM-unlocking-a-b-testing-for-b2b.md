@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Timothy Chan"]
-channel: "AI Council"
+channel: null
 duration_min: 31
 published_at: 2025-05-29T13:45:53Z
 video_id: f4seZseaeSM

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Shafik Quoraishee"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-07-05T22:41:15Z
 video_id: P_uhFGH4J9Y

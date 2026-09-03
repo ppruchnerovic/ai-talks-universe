@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Jay Wengrow", "Kris Jenkins"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 26
 published_at: 2026-03-26T13:01:08Z
 video_id: cuRjWkTJoD0

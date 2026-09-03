@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Ines Montani"]
-channel: "PyData"
+channel: null
 duration_min: 27
 published_at: 2026-06-15T15:54:11Z
 video_id: dA3zSt6_6AA

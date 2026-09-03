@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Daniel Jones", "Tomasz Maj"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 37
 published_at: 2026-07-17T05:53:27Z
 video_id: mB74LGAmmV0

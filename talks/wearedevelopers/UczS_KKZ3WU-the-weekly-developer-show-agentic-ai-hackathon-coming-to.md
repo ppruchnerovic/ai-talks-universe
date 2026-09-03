@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Ifeanyi Otuonye"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 61
 published_at: 2026-05-28T12:13:00Z
 video_id: UczS_KKZ3WU

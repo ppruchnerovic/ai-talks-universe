@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Mete Atamel"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 54
 published_at: 2026-08-05T13:25:54Z
 video_id: o9DIvmMitlk

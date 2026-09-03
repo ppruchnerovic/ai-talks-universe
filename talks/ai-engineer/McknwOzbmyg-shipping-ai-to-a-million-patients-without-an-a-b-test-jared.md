@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jared Joselowitz"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-08-19T15:00:31Z
 video_id: McknwOzbmyg

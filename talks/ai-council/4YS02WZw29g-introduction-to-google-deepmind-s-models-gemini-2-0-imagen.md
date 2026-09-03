@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Paige Bailey"]
-channel: "AI Council"
+channel: null
 duration_min: 38
 published_at: 2025-05-28T23:34:48Z
 video_id: 4YS02WZw29g

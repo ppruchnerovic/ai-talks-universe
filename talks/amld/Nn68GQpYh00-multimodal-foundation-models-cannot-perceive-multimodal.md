@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Cees Snoek"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 42
 published_at: 2024-05-13T13:11:23Z
 video_id: Nn68GQpYh00

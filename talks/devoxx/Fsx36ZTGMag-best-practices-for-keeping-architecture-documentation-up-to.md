@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Falk Sippach"]
-channel: "Devoxx"
+channel: null
 duration_min: 46
 published_at: 2025-03-31T20:40:45Z
 video_id: Fsx36ZTGMag

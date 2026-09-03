@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["Aldo Podesta"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 15
 published_at: 2026-02-13T10:19:36Z
 video_id: i_tVFppC4Kk

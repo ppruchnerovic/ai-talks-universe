@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Seth Juarez"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 60
 published_at: 2026-07-31T12:16:14Z
 video_id: rYBAyvaF3Yo

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Stephan Janssen"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 5
 published_at: 2025-09-12T13:00:35Z
 video_id: EyBy5EaLmuY

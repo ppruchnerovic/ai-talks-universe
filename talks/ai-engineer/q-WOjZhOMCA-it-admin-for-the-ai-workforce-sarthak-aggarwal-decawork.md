@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sarthak Aggarwal"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-08-20T14:30:38Z
 video_id: q-WOjZhOMCA

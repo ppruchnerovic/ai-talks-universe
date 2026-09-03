@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dat Ngo"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2025-06-27T00:00:00Z
 video_id: spvXj9tnWAQ

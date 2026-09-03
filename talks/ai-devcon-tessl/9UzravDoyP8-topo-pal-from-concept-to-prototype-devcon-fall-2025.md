@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Topo Pal"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 26
 published_at: 2025-11-21T01:45:17Z
 video_id: 9UzravDoyP8

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Serhii Sokolenko"]
-channel: "AI Council"
+channel: null
 duration_min: 11
 published_at: 2025-05-29T13:41:14Z
 video_id: TZ7cdlGk12A

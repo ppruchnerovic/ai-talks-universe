@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Gill Cleeren"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 68
 published_at: 2026-03-02T15:49:54Z
 video_id: 8TcECRSVH6M

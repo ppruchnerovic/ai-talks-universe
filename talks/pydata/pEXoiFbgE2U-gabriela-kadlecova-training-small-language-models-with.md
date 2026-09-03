@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Gabriela Kadlecová"]
-channel: "PyData"
+channel: null
 duration_min: 29
 published_at: 2026-06-13T18:42:43Z
 video_id: pEXoiFbgE2U

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Martijn Dashorst"]
-channel: "Devoxx"
+channel: null
 duration_min: 45
 published_at: 2026-02-27T13:52:44Z
 video_id: 44E9lC0TTH4

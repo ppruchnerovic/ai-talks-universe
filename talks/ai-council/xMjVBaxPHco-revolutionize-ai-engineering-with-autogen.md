@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Marck Vaisman"]
-channel: "AI Council"
+channel: null
 duration_min: 32
 published_at: 2025-05-29T07:34:14Z
 video_id: xMjVBaxPHco

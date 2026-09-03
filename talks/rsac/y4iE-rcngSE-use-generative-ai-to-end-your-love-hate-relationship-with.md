@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Heidi Shey"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 51
 published_at: 2024-06-10T21:16:38Z
 video_id: y4iE-rcngSE

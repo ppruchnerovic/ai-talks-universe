@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Simon Maple", "Alan Pope"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 116
 published_at: 2025-11-26T01:51:39Z
 video_id: wNSqa2lK7UM

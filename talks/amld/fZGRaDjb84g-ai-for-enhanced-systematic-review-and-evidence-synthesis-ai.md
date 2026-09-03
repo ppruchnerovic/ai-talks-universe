@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Ian Shemilt"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 19
 published_at: 2024-05-13T09:25:17Z
 video_id: fZGRaDjb84g

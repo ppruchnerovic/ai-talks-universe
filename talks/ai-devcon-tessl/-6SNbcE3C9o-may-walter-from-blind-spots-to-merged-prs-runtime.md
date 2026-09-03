@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["May Walter"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 31
 published_at: 2026-07-18T08:34:32Z
 video_id: -6SNbcE3C9o

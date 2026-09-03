@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Architecture Modernization", "Nick Tune", "Eduardo da Sliva"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 41
 published_at: 2024-09-27T09:29:49Z
 video_id: j4FPDxTFo2k

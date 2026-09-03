@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Preeti Somal"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2025-07-28T15:15:00Z
 video_id: 1izYWsokr9s

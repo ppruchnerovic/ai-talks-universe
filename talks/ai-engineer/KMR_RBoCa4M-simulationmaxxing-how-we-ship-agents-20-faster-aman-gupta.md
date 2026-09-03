@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Aman Gupta"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-07-29T19:00:06Z
 video_id: KMR_RBoCa4M

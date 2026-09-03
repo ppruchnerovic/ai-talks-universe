@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Kyunghyun Cho"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 29
 published_at: 2023-10-05T16:18:04Z
 video_id: 1qpvaAjjlvU

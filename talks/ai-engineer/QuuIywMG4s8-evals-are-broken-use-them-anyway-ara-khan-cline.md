@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Evals Are Broken", "Ara Khan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-06-06T00:00:00Z
 video_id: QuuIywMG4s8

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Alessandro Giagnorio"]
-channel: "Devoxx"
+channel: null
 duration_min: 41
 published_at: 2026-02-27T13:52:44Z
 video_id: Bfj3K3ELU64

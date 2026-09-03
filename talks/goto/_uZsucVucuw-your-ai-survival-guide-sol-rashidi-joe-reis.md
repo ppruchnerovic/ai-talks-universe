@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Sol Rashidi", "Joe Reis"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 33
 published_at: 2024-07-26T10:02:45Z
 video_id: _uZsucVucuw

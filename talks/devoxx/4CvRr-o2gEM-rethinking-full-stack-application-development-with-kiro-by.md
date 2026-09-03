@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Alessandra Pasini", "Romain Jourdan"]
-channel: "Devoxx"
+channel: null
 duration_min: 46
 published_at: 2026-03-30T17:43:24Z
 video_id: 4CvRr-o2gEM

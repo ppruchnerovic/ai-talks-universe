@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []
-channel: "The AI Conference™"
+channel: null
 duration_min: 16
 published_at: 2026-03-27T18:41:35Z
 video_id: PGJp2nsEl_I

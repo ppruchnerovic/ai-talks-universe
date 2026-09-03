@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Ori Soen"]
-channel: "AI Council"
+channel: null
 duration_min: 32
 published_at: 2025-05-29T00:11:49Z
 video_id: lerfCm9lifE

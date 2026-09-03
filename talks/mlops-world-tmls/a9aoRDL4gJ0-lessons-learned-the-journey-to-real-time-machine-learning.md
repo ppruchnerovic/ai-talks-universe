@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Guanghua Shu"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 39
 published_at: 2024-05-15T18:17:50Z
 video_id: a9aoRDL4gJ0

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dex Horthy"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2025-12-02T22:52:58Z
 video_id: rmvDxxNubIg

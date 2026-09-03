@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Waseem Alshikh"]
-channel: "AI Engineer"
+channel: null
 duration_min: 12
 published_at: 2025-04-22T00:00:00Z
 video_id: pPvoLjYj_mY

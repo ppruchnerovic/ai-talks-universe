@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Elijah Ben Izzy"]
-channel: "AI Council"
+channel: null
 duration_min: 35
 published_at: 2024-04-19T05:00:25Z
 video_id: wI4lvvV1e9k

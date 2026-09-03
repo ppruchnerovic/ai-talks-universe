@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Bozidar Spirovski", "Wekoslav Stefanovski"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 39
 published_at: 2026-04-08T07:50:32Z
 video_id: noymokmpRF4

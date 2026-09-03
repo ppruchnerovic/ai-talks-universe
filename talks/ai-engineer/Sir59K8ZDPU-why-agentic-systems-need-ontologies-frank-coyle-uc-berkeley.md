@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Frank Coyle"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-07-23T01:00:07Z
 video_id: Sir59K8ZDPU

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Kyle Corbitt"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 31
 published_at: 2025-10-23T01:13:14Z
 video_id: 5aoKtTKZIAM

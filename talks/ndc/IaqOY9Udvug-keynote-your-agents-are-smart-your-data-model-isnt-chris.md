@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Chris Auld"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 58
 published_at: 2026-05-21T07:05:55Z
 video_id: IaqOY9Udvug

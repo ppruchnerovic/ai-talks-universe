@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Jenny Reich"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 49
 published_at: 2024-06-10T21:15:29Z
 video_id: wE27kHXTPs0

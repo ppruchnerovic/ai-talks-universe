@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Emmanuel De Salis"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 12
 published_at: 2024-05-15T09:12:37Z
 video_id: ZChIK-Fildc

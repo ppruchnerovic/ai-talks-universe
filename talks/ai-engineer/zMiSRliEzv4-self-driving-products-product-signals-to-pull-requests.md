@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Joshua Snyder"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-06-10T13:00:17Z
 video_id: zMiSRliEzv4

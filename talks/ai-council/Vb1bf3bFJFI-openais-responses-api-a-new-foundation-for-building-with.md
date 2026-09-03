@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Nikunj Handa"]
-channel: "AI Council"
+channel: null
 duration_min: 23
 published_at: 2025-05-29T14:31:23Z
 video_id: Vb1bf3bFJFI

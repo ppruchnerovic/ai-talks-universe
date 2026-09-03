@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Loris Roveda"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 15
 published_at: 2024-05-15T07:07:46Z
 video_id: pSld9kZyNLk

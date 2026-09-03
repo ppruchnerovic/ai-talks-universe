@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Josh Ndemenge"]
-channel: "Devoxx"
+channel: null
 duration_min: 39
 published_at: 2025-11-11T10:38:22Z
 video_id: zcZhxdzp3yM

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jared Hanson"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-07-30T16:30:15Z
 video_id: blmAkayzE8M

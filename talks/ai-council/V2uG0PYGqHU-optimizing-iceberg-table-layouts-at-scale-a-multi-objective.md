@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Sumedh Sakdeo"]
-channel: "AI Council"
+channel: null
 duration_min: 34
 published_at: 2025-05-29T15:51:01Z
 video_id: V2uG0PYGqHU

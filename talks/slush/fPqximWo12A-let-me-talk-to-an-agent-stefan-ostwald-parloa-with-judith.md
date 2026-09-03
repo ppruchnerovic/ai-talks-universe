@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Stefan Ostwald"]
-channel: "Slush"
+channel: null
 duration_min: 26
 published_at: 2025-12-01T08:13:11Z
 video_id: fPqximWo12A

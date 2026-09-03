@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Johannes Dröge"]
-channel: "PyData"
+channel: null
 duration_min: 45
 published_at: 2026-08-04T22:20:58Z
 video_id: ViPZmGc28Ow

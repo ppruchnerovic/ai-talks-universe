@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []
-channel: "Devoxx"
+channel: null
 duration_min: 43
 published_at: 2025-02-19T16:06:58Z
 video_id: LJfUGH-88fM

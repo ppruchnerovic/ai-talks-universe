@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Gary Lopez", "Dr. Amanda Minnich"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 61
 published_at: 2026-02-04T10:34:22Z
 video_id: 5fC7skLpegU

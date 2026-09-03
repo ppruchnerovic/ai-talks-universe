@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nir Gazit"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2025-06-27T09:34:55Z
 video_id: jvKf6zXrNO4

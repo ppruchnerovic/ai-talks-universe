@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Gorkem Yurtseven"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-07-16T20:19:33Z
 video_id: P370D8Kmlkw

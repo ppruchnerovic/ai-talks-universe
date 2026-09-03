@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Alice Meredith"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 58
 published_at: 2025-11-25T14:28:32Z
 video_id: WFoz8lQUFek

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Sophie Daly"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 28
 published_at: 2024-05-15T18:17:47Z
 video_id: FQl6K160DKU

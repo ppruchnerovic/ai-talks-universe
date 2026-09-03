@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Write Drunk", "Matthijs van der Veer"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 57
 published_at: 2026-08-05T09:17:54Z
 video_id: e4Ig3w1dG-8

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Nathaniel Forde"]
-channel: "PyData"
+channel: null
 duration_min: 28
 published_at: 2025-11-23T14:33:49Z
 video_id: 1fpTYyHOLz4

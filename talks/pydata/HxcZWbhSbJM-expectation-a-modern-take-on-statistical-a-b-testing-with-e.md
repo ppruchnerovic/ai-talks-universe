@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Jako Rostami"]
-channel: "PyData"
+channel: null
 duration_min: 47
 published_at: 2025-10-28T19:10:00Z
 video_id: HxcZWbhSbJM

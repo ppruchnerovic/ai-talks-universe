@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Amit Kesarwani"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 58
 published_at: 2023-12-01T16:25:45Z
 video_id: fUS6QTTGgjA

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Jonas Bandi"]
-channel: "Devoxx"
+channel: null
 duration_min: 45
 published_at: 2026-04-01T08:08:17Z
 video_id: usLv_vLcuws

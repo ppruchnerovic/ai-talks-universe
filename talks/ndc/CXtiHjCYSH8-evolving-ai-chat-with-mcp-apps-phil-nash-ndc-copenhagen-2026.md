@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Phil Nash"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 38
 published_at: 2026-08-05T13:45:10Z
 video_id: CXtiHjCYSH8

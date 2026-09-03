@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Communication Patterns", "Jacqui Read", "Gregor Hohpe"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 45
 published_at: 2025-05-30T09:21:01Z
 video_id: 8i_7saShm9Y

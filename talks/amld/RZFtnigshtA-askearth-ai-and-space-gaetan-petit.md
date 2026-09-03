@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Gaetan Petit"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 7
 published_at: 2024-05-15T12:59:18Z
 video_id: RZFtnigshtA

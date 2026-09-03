@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Junyang Lin"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2025-06-03T01:08:22Z
 video_id: b0xlsQ_6wUQ

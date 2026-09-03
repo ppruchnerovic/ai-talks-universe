@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Larissa Haas"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-08-04T22:21:52Z
 video_id: b9wz31f0WHE

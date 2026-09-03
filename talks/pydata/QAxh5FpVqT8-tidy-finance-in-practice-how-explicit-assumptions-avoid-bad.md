@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Christoph Frey"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-08-25T18:20:19Z
 video_id: QAxh5FpVqT8

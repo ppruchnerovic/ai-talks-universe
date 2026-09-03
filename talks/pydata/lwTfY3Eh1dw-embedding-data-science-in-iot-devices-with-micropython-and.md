@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Jon Nordby"]
-channel: "PyData"
+channel: null
 duration_min: 27
 published_at: 2026-08-04T22:20:06Z
 video_id: lwTfY3Eh1dw

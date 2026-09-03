@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Victor Landeau"]
-channel: "Devoxx"
+channel: null
 duration_min: 42
 published_at: 2025-10-02T12:32:15Z
 video_id: QN9Q8g2JnsI

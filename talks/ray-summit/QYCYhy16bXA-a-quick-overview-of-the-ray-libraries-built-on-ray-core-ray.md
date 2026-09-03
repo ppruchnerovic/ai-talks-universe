@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
-channel: "Anyscale"
+channel: null
 duration_min: 6
 published_at: 2025-12-22T19:13:38Z
 video_id: QYCYhy16bXA

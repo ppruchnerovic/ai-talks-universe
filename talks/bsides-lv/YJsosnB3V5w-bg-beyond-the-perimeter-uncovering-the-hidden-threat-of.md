@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []
-channel: "BSidesLV"
+channel: null
 duration_min: 31
 published_at: 2023-10-25T21:49:28Z
 video_id: YJsosnB3V5w

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Magda Miu", "Alin Miu"]
-channel: "Devoxx"
+channel: null
 duration_min: 47
 published_at: 2026-05-13T03:37:50Z
 video_id: DAgVdXO4NFM

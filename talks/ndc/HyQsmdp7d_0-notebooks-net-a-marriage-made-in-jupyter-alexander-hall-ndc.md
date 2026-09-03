@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Alexander Hall"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 58
 published_at: 2026-02-26T10:31:10Z
 video_id: HyQsmdp7d_0

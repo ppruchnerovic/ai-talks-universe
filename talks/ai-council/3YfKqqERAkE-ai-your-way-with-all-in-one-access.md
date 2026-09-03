@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Yusuf Ozuysal"]
-channel: "AI Council"
+channel: null
 duration_min: 25
 published_at: 2025-05-28T23:31:10Z
 video_id: 3YfKqqERAkE

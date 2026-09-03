@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Patrick Debois"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 48
 published_at: 2025-07-15T13:01:46Z
 video_id: takBlVCqnJQ

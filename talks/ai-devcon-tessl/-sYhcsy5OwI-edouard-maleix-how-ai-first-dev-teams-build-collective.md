@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Edouard Maleix"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 33
 published_at: 2026-07-19T06:01:20Z
 video_id: -sYhcsy5OwI

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Abhi Sivasailam"]
-channel: "AI Council"
+channel: null
 duration_min: 29
 published_at: 2024-04-19T05:00:17Z
 video_id: cylAr9oUluI

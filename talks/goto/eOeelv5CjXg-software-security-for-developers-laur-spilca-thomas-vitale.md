@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Laur Spilca", "Thomas Vitale"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 30
 published_at: 2026-03-05T13:01:16Z
 video_id: eOeelv5CjXg

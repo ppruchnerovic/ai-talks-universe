@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Olena Kutsenko"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 41
 published_at: 2026-02-10T14:41:09Z
 video_id: 0dr4JQgeLjs

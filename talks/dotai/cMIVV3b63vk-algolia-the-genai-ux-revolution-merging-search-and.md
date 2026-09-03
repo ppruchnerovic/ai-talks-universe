@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2026
 speakers: ["Xavier Grand"]
-channel: "dotconferences"
+channel: null
 duration_min: 16
 published_at: 2026-02-17T13:58:46Z
 video_id: cMIVV3b63vk

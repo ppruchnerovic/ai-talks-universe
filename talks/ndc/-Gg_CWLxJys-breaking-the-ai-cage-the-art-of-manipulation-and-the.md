@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []
-channel: "NDC Conferences"
+channel: null
 duration_min: 47
 published_at: 2026-07-01T11:34:04Z
 video_id: -Gg_CWLxJys

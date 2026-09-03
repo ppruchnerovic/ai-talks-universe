@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
-channel: "Weights & Biases"
+channel: null
 duration_min: 42
 published_at: 2025-11-24T14:50:00Z
 video_id: -7QfVraLHw4

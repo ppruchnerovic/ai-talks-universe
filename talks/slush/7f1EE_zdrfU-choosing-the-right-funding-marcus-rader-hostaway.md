@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Marcus Räder"]
-channel: "Slush"
+channel: null
 duration_min: 28
 published_at: 2025-11-26T15:26:31Z
 video_id: 7f1EE_zdrfU

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Iulia Feroli"]
-channel: "Devoxx"
+channel: null
 duration_min: 38
 published_at: 2026-04-09T19:33:12Z
 video_id: S3BCWS41lmY

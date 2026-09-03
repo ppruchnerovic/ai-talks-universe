@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: ["Aditya Dave"]
-channel: "DeepLearningAI"
+channel: null
 duration_min: 26
 published_at: 2025-12-02T21:56:36Z
 video_id: H_2EL7F9YaA

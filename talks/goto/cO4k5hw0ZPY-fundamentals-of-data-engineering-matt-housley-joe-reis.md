@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Matt Housley", "Joe Reis"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 33
 published_at: 2025-12-16T13:24:21Z
 video_id: cO4k5hw0ZPY

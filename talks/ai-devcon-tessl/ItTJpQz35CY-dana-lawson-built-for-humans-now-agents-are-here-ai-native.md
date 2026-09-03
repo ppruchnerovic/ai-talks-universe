@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Dana Lawson"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 31
 published_at: 2026-06-13T09:12:35Z
 video_id: ItTJpQz35CY

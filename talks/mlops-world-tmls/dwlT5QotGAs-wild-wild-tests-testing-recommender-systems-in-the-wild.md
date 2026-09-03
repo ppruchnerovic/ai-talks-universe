@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Jacopo Tagliabue"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 69
 published_at: 2023-08-18T01:34:36Z
 video_id: dwlT5QotGAs

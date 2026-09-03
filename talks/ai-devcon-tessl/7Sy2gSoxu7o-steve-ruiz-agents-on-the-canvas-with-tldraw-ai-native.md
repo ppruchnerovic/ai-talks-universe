@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Steve Ruiz"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 29
 published_at: 2026-06-15T11:30:27Z
 video_id: 7Sy2gSoxu7o

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Gerald Versluis"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 60
 published_at: 2026-02-10T14:32:18Z
 video_id: 1MAvdjpew1g

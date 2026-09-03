@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Vijay Ramamurthy"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 27
 published_at: 2025-11-27T22:20:13Z
 video_id: UTqnwO96q4I

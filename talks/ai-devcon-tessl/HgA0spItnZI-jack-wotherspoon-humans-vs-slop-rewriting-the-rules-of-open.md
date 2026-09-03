@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Jack Wotherspoon"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 32
 published_at: 2026-07-20T07:33:23Z
 video_id: HgA0spItnZI

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Alex Soto"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 29
 published_at: 2025-09-11T09:02:11Z
 video_id: BanA0YvKdUk

@@ -1,14 +1,14 @@
 ---
 id: KLDdXOw6jIc
-title: "Leads of Nano Banana, Imagen, Veo, Omni/Thinking — Dumitru Erhan, Shane Gu, Nicole Brichtova, swyx"
-slug: leads-of-nano-banana-imagen-veo-omni-thinking-dumitru-erhan
+title: "SOTA Generative Media Panel — Dumitru Erhan, Shane Gu & Nicole Brichtova, Google DeepMind"
+slug: sota-generative-media-panel-dumitru-erhan-shane-gu-nicole
 conference: ai-engineer
 conference_name: "AI Engineer"
 category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dumitru Erhan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 57
 published_at: 2026-08-30T14:00:06Z
 video_id: KLDdXOw6jIc
@@ -19,7 +19,7 @@ topics: ["Evals, observability & reliability", "Multimodal, vision, speech & rob
 transcript: true
 ---
 
-# Leads of Nano Banana, Imagen, Veo, Omni/Thinking — Dumitru Erhan, Shane Gu, Nicole Brichtova, swyx
+# SOTA Generative Media Panel — Dumitru Erhan, Shane Gu & Nicole Brichtova, Google DeepMind
 
 **Dumitru Erhan**
 

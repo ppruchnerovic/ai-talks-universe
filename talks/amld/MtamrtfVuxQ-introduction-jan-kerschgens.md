@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Jan Kerschgens"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 7
 published_at: 2023-10-05T16:20:09Z
 video_id: MtamrtfVuxQ

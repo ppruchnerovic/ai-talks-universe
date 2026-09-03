@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Alan Smith"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 59
 published_at: 2025-07-16T10:59:54Z
 video_id: VsheJ7Lz8aY

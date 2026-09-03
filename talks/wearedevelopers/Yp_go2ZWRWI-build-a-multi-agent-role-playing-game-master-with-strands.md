@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Tiffany Souterre"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 42
 published_at: 2025-10-02T09:46:30Z
 video_id: Yp_go2ZWRWI

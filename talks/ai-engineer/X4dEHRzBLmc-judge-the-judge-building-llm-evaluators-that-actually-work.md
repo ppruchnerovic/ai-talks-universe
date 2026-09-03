@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mahmoud Mabrouk"]
-channel: "AI Engineer"
+channel: null
 duration_min: 41
 published_at: 2026-04-10T10:00:06Z
 video_id: X4dEHRzBLmc

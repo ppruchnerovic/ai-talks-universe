@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Adina Dorthe"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 20
 published_at: 2023-10-05T16:20:18Z
 video_id: lU6KrxFkEpY

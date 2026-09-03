@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["John Dickerson"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-08-06T00:00:00Z
 video_id: CQGuvf6gSrM

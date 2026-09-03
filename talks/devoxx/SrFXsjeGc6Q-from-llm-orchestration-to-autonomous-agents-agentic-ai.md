@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Clement Escoffi"]
-channel: "Devoxx"
+channel: null
 duration_min: 167
 published_at: 2025-10-08T05:30:35Z
 video_id: SrFXsjeGc6Q

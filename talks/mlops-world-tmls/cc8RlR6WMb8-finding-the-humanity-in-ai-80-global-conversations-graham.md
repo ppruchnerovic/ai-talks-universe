@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Graham Toppin"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 6
 published_at: 2025-10-31T05:31:36Z
 video_id: cc8RlR6WMb8

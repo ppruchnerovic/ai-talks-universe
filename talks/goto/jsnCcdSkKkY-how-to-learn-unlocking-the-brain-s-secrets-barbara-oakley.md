@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Barbara Oakley"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 47
 published_at: 2025-04-11T09:26:52Z
 video_id: jsnCcdSkKkY

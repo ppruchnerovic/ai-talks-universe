@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Niels Tanis"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 55
 published_at: 2025-10-30T23:03:36Z
 video_id: eaUL-V58woU

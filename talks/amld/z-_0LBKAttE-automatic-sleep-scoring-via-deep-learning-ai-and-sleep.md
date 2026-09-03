@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Luigi Fiorillo"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 14
 published_at: 2024-05-13T11:49:17Z
 video_id: z-_0LBKAttE

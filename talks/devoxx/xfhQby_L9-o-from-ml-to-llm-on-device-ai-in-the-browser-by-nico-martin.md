@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Nico Martin"]
-channel: "Devoxx"
+channel: null
 duration_min: 46
 published_at: 2024-10-11T05:08:45Z
 video_id: xfhQby_L9-o

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["James Ward", "Maximilian Schellhorn"]
-channel: "Devoxx"
+channel: null
 duration_min: 51
 published_at: 2025-10-10T05:10:24Z
 video_id: EgKsRsx1-HM

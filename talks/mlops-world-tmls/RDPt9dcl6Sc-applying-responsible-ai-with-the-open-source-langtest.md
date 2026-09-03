@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["David Talby"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 32
 published_at: 2024-05-15T18:17:48Z
 video_id: RDPt9dcl6Sc

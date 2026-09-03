@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Niloofar Mireshghallah"]
-channel: "CAMLIS"
+channel: null
 duration_min: 63
 published_at: 2025-11-03T19:57:20Z
 video_id: Y7E24V74AeE

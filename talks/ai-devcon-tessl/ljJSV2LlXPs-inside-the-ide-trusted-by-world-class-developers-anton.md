@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Anton Arhipov"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 36
 published_at: 2025-06-03T13:00:31Z
 video_id: ljJSV2LlXPs

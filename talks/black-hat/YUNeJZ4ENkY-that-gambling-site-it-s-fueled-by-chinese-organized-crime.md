@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: ["Chinese Organized Crime"]
-channel: "Black Hat"
+channel: null
 duration_min: 41
 published_at: 2025-03-07T20:57:34Z
 video_id: YUNeJZ4ENkY

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Dr. Greg Michaelson"]
-channel: "AI Council"
+channel: null
 duration_min: 23
 published_at: 2025-05-28T23:46:36Z
 video_id: XT70_O0Rdxc

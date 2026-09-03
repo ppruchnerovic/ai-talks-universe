@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Sanjay Krishna Anbalagan"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 21
 published_at: 2025-09-29T18:15:19Z
 video_id: Q7mejjRY1w0

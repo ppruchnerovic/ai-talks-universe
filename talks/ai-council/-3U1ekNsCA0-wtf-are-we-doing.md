@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Benn Stancil"]
-channel: "AI Council"
+channel: null
 duration_min: 32
 published_at: 2024-04-19T05:00:00Z
 video_id: -3U1ekNsCA0

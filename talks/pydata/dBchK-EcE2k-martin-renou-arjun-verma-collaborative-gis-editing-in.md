@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Martin Renou", "Arjun Verma"]
-channel: "PyData"
+channel: null
 duration_min: 28
 published_at: 2025-11-21T16:25:45Z
 video_id: dBchK-EcE2k

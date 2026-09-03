@@ -1,13 +1,13 @@
 {
   "slug": "nvidia-gtc",
   "name": "NVIDIA GTC",
-  "enumerated_at": "2026-08-30T21:48:56+00:00",
+  "enumerated_at": "2026-09-03T11:28:50+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
       "label": "GTC 2026",
       "year": 2026,
-      "count": 31
+      "count": 32
     },
     {
       "url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
@@ -16,7 +16,7 @@
       "count": 35
     }
   ],
-  "count": 66,
+  "count": 67,
   "videos": {
     "-2nCxItGNvE": {
       "video_id": "-2nCxItGNvE",
@@ -148,6 +148,15 @@
       "label": "GTC 2025",
       "year": 2025,
       "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "8v-EVF8u4OQ": {
+      "video_id": "8v-EVF8u4OQ",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT"
     },
     "9XB-LsfpvCU": {
       "video_id": "9XB-LsfpvCU",

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Oleksandr Yaremchuk"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 32
 published_at: 2024-05-16T13:19:29Z
 video_id: F1piCzMame4

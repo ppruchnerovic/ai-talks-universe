@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Javad Rafiei Asl"]
-channel: "CAMLIS"
+channel: null
 duration_min: 29
 published_at: 2025-11-12T23:53:50Z
 video_id: z_OYcwZ6Ffg

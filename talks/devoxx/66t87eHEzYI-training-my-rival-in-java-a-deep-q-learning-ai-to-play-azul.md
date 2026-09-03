@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Victor Uria Valle"]
-channel: "Devoxx"
+channel: null
 duration_min: 17
 published_at: 2026-03-30T17:48:30Z
 video_id: 66t87eHEzYI

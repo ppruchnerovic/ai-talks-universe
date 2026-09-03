@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Soroosh Khodami"]
-channel: "Devoxx"
+channel: null
 duration_min: 46
 published_at: 2025-11-11T10:37:48Z
 video_id: LZWWjmbst-M

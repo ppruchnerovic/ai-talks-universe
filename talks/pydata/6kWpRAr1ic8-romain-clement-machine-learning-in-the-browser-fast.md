@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Romain Clement"]
-channel: "PyData"
+channel: null
 duration_min: 33
 published_at: 2025-11-21T16:25:40Z
 video_id: 6kWpRAr1ic8

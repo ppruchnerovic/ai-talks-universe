@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["James Ward", "Josh Long"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 53
 published_at: 2025-11-27T22:07:00Z
 video_id: JmKubcTagYw

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Daniel Sandberg", "Tobias Ahnoff"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 51
 published_at: 2026-03-26T13:57:35Z
 video_id: 32UADtMRy4I

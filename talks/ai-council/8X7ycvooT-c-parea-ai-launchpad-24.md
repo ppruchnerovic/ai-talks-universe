@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Joel Alexander"]
-channel: "AI Council"
+channel: null
 duration_min: 8
 published_at: 2024-04-22T21:33:55Z
 video_id: 8X7ycvooT-c

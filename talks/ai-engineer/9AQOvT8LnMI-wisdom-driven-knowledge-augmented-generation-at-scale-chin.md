@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Chin Keong Lam"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-08-22T06:13:55Z
 video_id: 9AQOvT8LnMI

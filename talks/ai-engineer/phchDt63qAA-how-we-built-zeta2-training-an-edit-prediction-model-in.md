@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ben Kunkle"]
-channel: "AI Engineer"
+channel: null
 duration_min: 11
 published_at: 2026-05-30T16:00:06Z
 video_id: phchDt63qAA

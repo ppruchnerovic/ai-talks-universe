@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Ethan Rosenthal"]
-channel: "AI Council"
+channel: null
 duration_min: 34
 published_at: 2025-05-29T14:18:34Z
 video_id: 6kf58xD5s3Q

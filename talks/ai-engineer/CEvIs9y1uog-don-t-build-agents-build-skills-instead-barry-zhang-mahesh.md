@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Barry Zhang", "Mahesh Murag"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2025-12-08T00:00:00Z
 video_id: CEvIs9y1uog

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Startup Pitches", "Michael Wegmüller"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 13
 published_at: 2024-05-16T12:21:08Z
 video_id: x4DvU3clhJg

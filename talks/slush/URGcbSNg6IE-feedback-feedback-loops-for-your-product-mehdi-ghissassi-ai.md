@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: ["Mehdi Ghissassi"]
-channel: "Slush"
+channel: null
 duration_min: 22
 published_at: 2024-11-29T12:28:46Z
 video_id: URGcbSNg6IE

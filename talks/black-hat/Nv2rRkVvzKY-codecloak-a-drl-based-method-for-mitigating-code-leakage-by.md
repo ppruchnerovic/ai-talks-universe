@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: ["Amit Finkman"]
-channel: "Black Hat"
+channel: null
 duration_min: 27
 published_at: 2025-04-24T16:53:26Z
 video_id: Nv2rRkVvzKY

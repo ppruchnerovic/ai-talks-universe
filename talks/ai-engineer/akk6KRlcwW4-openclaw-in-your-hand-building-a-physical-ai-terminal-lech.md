@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Lech Kalinowski"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2026-06-28T21:30:06Z
 video_id: akk6KRlcwW4

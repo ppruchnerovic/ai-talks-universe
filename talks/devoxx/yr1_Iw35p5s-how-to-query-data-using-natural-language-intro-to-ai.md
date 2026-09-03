@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Andrzej Nowicki"]
-channel: "Devoxx"
+channel: null
 duration_min: 47
 published_at: 2025-02-19T16:01:07Z
 video_id: yr1_Iw35p5s

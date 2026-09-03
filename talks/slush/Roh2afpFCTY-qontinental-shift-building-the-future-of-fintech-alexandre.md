@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Alexandre Prot"]
-channel: "Slush"
+channel: null
 duration_min: 25
 published_at: 2025-11-26T15:03:51Z
 video_id: Roh2afpFCTY

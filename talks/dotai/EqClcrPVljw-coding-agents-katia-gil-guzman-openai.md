@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Katia Gil Guzman"]
-channel: "dotconferences"
+channel: null
 duration_min: 20
 published_at: 2025-11-14T14:16:05Z
 video_id: EqClcrPVljw

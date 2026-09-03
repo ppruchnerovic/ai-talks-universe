@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["V. Venesulia Carr"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 47
 published_at: 2026-07-20T00:19:02Z
 video_id: 9RxNHGnfgKE

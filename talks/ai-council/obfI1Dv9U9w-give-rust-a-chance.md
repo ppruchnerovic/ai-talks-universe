@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Slater Stich"]
-channel: "AI Council"
+channel: null
 duration_min: 13
 published_at: 2024-04-19T05:00:22Z
 video_id: obfI1Dv9U9w

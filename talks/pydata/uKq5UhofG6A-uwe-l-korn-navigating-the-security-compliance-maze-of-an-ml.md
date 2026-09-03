@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Uwe L. Korn"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2025-11-21T16:25:38Z
 video_id: uKq5UhofG6A

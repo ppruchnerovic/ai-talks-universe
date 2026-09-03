@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Katelyn Lesse"]
-channel: "AI Engineer"
+channel: null
 duration_min: 13
 published_at: 2025-12-04T20:14:55Z
 video_id: aqW68Is_Kj4

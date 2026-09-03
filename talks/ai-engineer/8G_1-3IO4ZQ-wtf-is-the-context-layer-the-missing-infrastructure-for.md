@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Prukalpa Sankar"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-07-14T22:45:06Z
 video_id: 8G_1-3IO4ZQ

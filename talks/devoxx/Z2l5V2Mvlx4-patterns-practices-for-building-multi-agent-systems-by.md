@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Nikhil Barthwal"]
-channel: "Devoxx"
+channel: null
 duration_min: 41
 published_at: 2025-11-11T10:37:56Z
 video_id: Z2l5V2Mvlx4

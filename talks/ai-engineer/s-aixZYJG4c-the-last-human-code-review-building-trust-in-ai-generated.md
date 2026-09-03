@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Itamar Friedman"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-08-20T13:30:38Z
 video_id: s-aixZYJG4c

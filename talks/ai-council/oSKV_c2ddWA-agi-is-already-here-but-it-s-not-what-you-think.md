@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Joseph Gonzalez"]
-channel: "AI Council"
+channel: null
 duration_min: 41
 published_at: 2025-05-29T07:38:00Z
 video_id: oSKV_c2ddWA

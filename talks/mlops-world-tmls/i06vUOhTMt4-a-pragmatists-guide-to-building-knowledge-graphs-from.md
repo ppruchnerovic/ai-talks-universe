@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Alessandro Pireno", "Stealth Company"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 25
 published_at: 2025-10-21T07:21:47Z
 video_id: i06vUOhTMt4

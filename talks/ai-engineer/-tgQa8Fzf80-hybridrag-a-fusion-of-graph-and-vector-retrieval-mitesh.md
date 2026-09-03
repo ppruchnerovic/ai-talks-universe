@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mitesh Patel"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-07-22T16:00:02Z
 video_id: -tgQa8Fzf80

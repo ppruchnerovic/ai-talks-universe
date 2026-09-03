@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2018
 speakers: ["Heather Lawrence"]
-channel: "BSidesLV"
+channel: null
 duration_min: 22
 published_at: 2018-09-20T18:27:38Z
 video_id: TPpxkVCbL4c

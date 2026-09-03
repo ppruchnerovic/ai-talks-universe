@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Oscar Rovira"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 33
 published_at: 2024-05-16T13:02:30Z
 video_id: 4tHr75KKIeU

@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []
-channel: "CAMLIS"
+channel: null
 duration_min: 24
 published_at: 2023-11-18T21:37:22Z
 video_id: TMtUo5pp1Mg

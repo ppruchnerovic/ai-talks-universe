@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Will Bond", "Ameya Ketkar"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2026-08-28T00:00:00Z
 video_id: EL123UNokkI

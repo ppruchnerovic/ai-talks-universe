@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Sally O'Malley"]
-channel: "InfoQ"
+channel: null
 duration_min: 51
 published_at: 2025-10-20T13:05:00+0000
 video_id: KjFFpjKSNHM

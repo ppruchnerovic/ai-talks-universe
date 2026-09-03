@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: []
-channel: "Devoxx"
+channel: null
 duration_min: 38
 published_at: 2026-05-13T03:37:52Z
 video_id: jnPtYh-n0LM

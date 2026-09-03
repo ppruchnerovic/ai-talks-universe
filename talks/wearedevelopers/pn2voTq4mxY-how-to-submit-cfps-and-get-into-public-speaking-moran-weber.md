@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Moran Weber"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 51
 published_at: 2026-07-23T10:43:04Z
 video_id: pn2voTq4mxY

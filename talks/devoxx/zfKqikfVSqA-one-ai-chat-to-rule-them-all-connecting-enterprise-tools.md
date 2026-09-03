@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Karthik Sayapparaju"]
-channel: "Devoxx"
+channel: null
 duration_min: 16
 published_at: 2026-03-30T17:38:49Z
 video_id: zfKqikfVSqA

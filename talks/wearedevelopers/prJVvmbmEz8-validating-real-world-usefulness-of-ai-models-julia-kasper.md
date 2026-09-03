@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Julia Kasper"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 22
 published_at: 2026-08-18T11:57:02Z
 video_id: prJVvmbmEz8

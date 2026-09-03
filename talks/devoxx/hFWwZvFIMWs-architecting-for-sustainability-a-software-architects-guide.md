@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Eoin Woods"]
-channel: "Devoxx"
+channel: null
 duration_min: 49
 published_at: 2025-11-11T10:37:58Z
 video_id: hFWwZvFIMWs

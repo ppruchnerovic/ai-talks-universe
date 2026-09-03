@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Giada Pistilli"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 18
 published_at: 2024-05-07T09:17:48Z
 video_id: 3hfhbszhwyA

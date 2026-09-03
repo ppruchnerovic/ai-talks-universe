@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
-channel: "Black Hat"
+channel: null
 duration_min: 47
 published_at: 2025-08-27T16:04:33Z
 video_id: s49sgre_04c

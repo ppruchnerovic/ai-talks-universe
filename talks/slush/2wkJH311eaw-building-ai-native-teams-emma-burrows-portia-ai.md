@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Emma Burrows"]
-channel: "Slush"
+channel: null
 duration_min: 26
 published_at: 2025-11-28T22:00:09Z
 video_id: 2wkJH311eaw

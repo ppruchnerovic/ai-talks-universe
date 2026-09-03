@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Sobhan Moazemi"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 13
 published_at: 2024-05-15T12:37:18Z
 video_id: Mca9cEjrZdg

@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 55
 published_at: 2024-09-20T15:56:53Z
 video_id: 0ne4TdlqBt8

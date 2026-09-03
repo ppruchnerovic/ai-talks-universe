@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Vignesh Chadramohan"]
-channel: "AI Council"
+channel: null
 duration_min: 24
 published_at: 2025-05-29T13:27:11Z
 video_id: gcTRXZeKbNg

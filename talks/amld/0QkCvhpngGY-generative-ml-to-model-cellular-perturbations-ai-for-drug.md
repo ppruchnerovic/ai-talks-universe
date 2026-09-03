@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Mohammad Lotfollahi"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 26
 published_at: 2024-05-15T08:32:02Z
 video_id: 0QkCvhpngGY

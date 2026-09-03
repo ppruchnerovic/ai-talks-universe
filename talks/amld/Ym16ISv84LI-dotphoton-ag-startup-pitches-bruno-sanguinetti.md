@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Startup Pitches", "Bruno Sanguinetti"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 14
 published_at: 2024-05-16T12:21:33Z
 video_id: Ym16ISv84LI

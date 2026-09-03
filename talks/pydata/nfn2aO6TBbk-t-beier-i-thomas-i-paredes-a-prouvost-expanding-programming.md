@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["T Beier"]
-channel: "PyData"
+channel: null
 duration_min: 29
 published_at: 2025-11-21T16:25:42Z
 video_id: nfn2aO6TBbk

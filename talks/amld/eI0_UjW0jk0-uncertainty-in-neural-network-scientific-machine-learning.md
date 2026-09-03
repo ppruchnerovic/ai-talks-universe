@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Lenka Zdeborová"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 33
 published_at: 2024-05-13T15:00:40Z
 video_id: eI0_UjW0jk0

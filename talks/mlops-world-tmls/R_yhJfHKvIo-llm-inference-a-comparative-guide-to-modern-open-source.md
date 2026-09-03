@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Aleksandr Shirokov"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 52
 published_at: 2025-10-20T23:50:19Z
 video_id: R_yhJfHKvIo

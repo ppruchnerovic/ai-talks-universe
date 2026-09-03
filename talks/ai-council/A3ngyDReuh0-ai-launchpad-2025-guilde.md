@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Schuyler Brown"]
-channel: "AI Council"
+channel: null
 duration_min: 5
 published_at: 2025-05-29T13:37:24Z
 video_id: A3ngyDReuh0

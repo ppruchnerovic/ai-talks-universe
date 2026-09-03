@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ben Kus"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-08-29T14:30:22Z
 video_id: sM1iYgz93HI

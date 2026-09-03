@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Kyle Weller"]
-channel: "AI Council"
+channel: null
 duration_min: 34
 published_at: 2024-04-19T05:00:12Z
 video_id: Sa3_yLzvUPY

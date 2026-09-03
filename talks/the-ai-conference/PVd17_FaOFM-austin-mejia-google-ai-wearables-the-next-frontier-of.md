@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: ["Austin Mejia"]
-channel: "The AI Conference™"
+channel: null
 duration_min: 26
 published_at: 2025-10-23T01:39:08Z
 video_id: PVd17_FaOFM

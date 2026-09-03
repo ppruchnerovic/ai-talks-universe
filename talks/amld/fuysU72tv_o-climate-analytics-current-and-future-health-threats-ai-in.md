@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Christopher Irrgang"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 21
 published_at: 2024-05-13T09:13:20Z
 video_id: fuysU72tv_o

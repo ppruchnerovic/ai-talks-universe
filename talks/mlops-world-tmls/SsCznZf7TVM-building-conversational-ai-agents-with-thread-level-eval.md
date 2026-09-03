@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Tony Kipkemboi", "Claire Longo"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 75
 published_at: 2025-10-23T01:56:55Z
 video_id: SsCznZf7TVM

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Harald Kirschner"]
-channel: "AI Engineer"
+channel: null
 duration_min: 80
 published_at: 2025-08-03T04:30:57Z
 video_id: eOxOzcw70f0

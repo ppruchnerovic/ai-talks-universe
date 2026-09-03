@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Dhruv Singh"]
-channel: "AI Council"
+channel: null
 duration_min: 39
 published_at: 2025-05-29T07:21:57Z
 video_id: mixuVOQRYOc

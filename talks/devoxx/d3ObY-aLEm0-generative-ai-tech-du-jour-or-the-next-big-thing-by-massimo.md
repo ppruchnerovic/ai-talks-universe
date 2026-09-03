@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Massimo Re Ferre'"]
-channel: "Devoxx"
+channel: null
 duration_min: 53
 published_at: 2025-10-10T05:09:25Z
 video_id: d3ObY-aLEm0

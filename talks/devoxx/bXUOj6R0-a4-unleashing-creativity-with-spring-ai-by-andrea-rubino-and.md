@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Andrea Rubino", "Matteo Codogno"]
-channel: "Devoxx"
+channel: null
 duration_min: 35
 published_at: 2025-01-20T19:58:29Z
 video_id: bXUOj6R0-a4

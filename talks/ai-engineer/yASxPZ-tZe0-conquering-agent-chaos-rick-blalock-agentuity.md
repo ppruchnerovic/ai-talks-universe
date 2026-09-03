@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Rick Blalock"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2025-07-01T00:00:00Z
 video_id: yASxPZ-tZe0

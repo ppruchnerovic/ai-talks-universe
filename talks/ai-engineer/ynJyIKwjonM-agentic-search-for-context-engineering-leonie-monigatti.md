@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Leonie Monigatti"]
-channel: "AI Engineer"
+channel: null
 duration_min: 63
 published_at: 2026-05-08T00:00:00Z
 video_id: ynJyIKwjonM

@@ -5,10 +5,10 @@ slug: usenix-security-25-unsafe-llm-based-search-quantitative
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
 category: "Security conferences"
-edition: "USENIX"
+edition: "USENIX Security"
 year: 2025
 speakers: []
-channel: "USENIX"
+channel: null
 duration_min: 15
 published_at: 2025-10-30T20:03:05Z
 video_id: Yv35uF8sVhw
@@ -23,7 +23,7 @@ transcript: false
 
 **Speaker not identified**
 
-`USENIX Security Symposium` · `USENIX` · `2025` · `15 min`
+`USENIX Security Symposium` · `USENIX Security` · `2025` · `15 min`
 
 `#usenix` `#technology` `#conference` `#open access`
 

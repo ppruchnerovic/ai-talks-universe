@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Andrei S"]
-channel: "Devoxx"
+channel: null
 duration_min: 33
 published_at: 2025-10-07T05:13:49Z
 video_id: 721WMRwnPuM

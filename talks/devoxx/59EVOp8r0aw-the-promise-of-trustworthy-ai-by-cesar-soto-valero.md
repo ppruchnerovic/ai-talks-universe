@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["César Soto Valero"]
-channel: "Devoxx"
+channel: null
 duration_min: 33
 published_at: 2026-04-01T08:04:19Z
 video_id: 59EVOp8r0aw

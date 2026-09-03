@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mark Backman"]
-channel: "AI Engineer"
+channel: null
 duration_min: 70
 published_at: 2025-08-03T00:00:00Z
 video_id: nxuTVd7v7dg

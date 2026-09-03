@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Görkem Yurtseven"]
-channel: "Slush"
+channel: null
 duration_min: 25
 published_at: 2025-11-28T22:00:39Z
 video_id: VsHtX6LmmKY

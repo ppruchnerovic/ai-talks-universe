@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Rajiv Shah"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 24
 published_at: 2025-09-29T19:12:54Z
 video_id: RYZeTrNjE7E

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Simone de Gijt"]
-channel: "Devoxx"
+channel: null
 duration_min: 48
 published_at: 2024-10-11T20:07:26Z
 video_id: vAbGZuQAX9c

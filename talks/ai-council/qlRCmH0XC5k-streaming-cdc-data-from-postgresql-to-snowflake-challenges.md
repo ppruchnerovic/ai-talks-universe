@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Alexandru Cristu"]
-channel: "AI Council"
+channel: null
 duration_min: 30
 published_at: 2024-04-19T05:00:28Z
 video_id: qlRCmH0XC5k

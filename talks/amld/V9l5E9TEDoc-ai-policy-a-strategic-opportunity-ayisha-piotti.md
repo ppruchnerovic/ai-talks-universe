@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Ayisha Piotti"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 21
 published_at: 2023-10-05T16:20:21Z
 video_id: V9l5E9TEDoc

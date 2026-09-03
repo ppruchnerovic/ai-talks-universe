@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Ramona Schwering"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 26
 published_at: 2026-06-24T14:23:56Z
 video_id: 1uhV9yR-WZg

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Isaac Levin"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 49
 published_at: 2026-08-13T09:56:48Z
 video_id: P1DAxnR1fzw

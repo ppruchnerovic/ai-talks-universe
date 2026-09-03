@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Marc Sloan"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 28
 published_at: 2026-06-20T11:42:17Z
 video_id: tf6VNGH3tRk

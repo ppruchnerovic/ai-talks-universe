@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Xavier Ouvrard"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 9
 published_at: 2024-05-15T13:02:47Z
 video_id: B4iNMtR6EUU

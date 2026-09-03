@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Chad Bailey", "Brian Johnson"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-06-27T10:30:54Z
 video_id: ujt0da9Z29Q

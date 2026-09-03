@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Anastasia Kartasheva"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 11
 published_at: 2024-05-15T12:46:29Z
 video_id: 5DJLSFdEWP4

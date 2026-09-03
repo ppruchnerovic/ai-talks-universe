@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2019
 speakers: ["Richard Harang"]
-channel: "BSidesLV"
+channel: null
 duration_min: 51
 published_at: 2019-10-19T17:54:01Z
 video_id: ReKVGEjWDM4

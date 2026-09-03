@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Monica Miller"]
-channel: "AI Council"
+channel: null
 duration_min: 43
 published_at: 2024-04-19T05:00:04Z
 video_id: 4xYPUL7YHJU

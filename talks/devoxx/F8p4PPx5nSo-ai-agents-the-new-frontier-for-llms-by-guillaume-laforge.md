@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Guillaume Laforge"]
-channel: "Devoxx"
+channel: null
 duration_min: 52
 published_at: 2025-10-09T05:35:16Z
 video_id: F8p4PPx5nSo

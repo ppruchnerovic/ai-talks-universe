@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Philipp Krenn"]
-channel: "AI Engineer"
+channel: null
 duration_min: 108
 published_at: 2025-07-27T05:08:44Z
 video_id: 4Xe_iMYxBQc

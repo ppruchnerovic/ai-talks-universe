@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Paul Sandoz"]
-channel: "Devoxx"
+channel: null
 duration_min: 18
 published_at: 2025-10-09T05:36:06Z
 video_id: 0z3i-_fKsVc

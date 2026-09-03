@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Erick Enriquez"]
-channel: "AI Council"
+channel: null
 duration_min: 9
 published_at: 2024-04-22T21:33:39Z
 video_id: 8f1VB2ufNHc

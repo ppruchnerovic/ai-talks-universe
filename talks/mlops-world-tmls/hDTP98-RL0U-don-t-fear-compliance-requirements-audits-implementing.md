@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Ganesh Nagarathnam"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 42
 published_at: 2023-08-18T01:34:36Z
 video_id: hDTP98-RL0U

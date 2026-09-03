@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Julien Dubois"]
-channel: "Devoxx"
+channel: null
 duration_min: 49
 published_at: 2025-10-10T05:10:26Z
 video_id: HmneQx1maCI

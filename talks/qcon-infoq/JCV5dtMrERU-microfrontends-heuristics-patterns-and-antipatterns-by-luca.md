@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: ["Luca Mezzalira"]
-channel: "InfoQ"
+channel: null
 duration_min: 45
 published_at: 2025-07-28T11:15:29Z
 video_id: JCV5dtMrERU

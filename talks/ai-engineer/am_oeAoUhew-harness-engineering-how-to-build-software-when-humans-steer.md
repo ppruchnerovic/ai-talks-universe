@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ryan Lopopolo"]
-channel: "AI Engineer"
+channel: null
 duration_min: 46
 published_at: 2026-04-17T00:29:28Z
 video_id: am_oeAoUhew

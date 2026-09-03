@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Alex Volkov"]
-channel: "AI Engineer"
+channel: null
 duration_min: 22
 published_at: 2026-07-10T00:00:00Z
 video_id: ZpK5PWX2YRM

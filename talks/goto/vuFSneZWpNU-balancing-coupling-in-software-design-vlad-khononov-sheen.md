@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Vlad Khononov", "Sheen Brisals"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 37
 published_at: 2025-08-15T12:27:09Z
 video_id: vuFSneZWpNU

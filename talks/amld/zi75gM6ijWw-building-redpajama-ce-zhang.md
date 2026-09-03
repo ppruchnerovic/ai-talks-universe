@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Ce Zhang"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 27
 published_at: 2023-10-05T16:19:16Z
 video_id: zi75gM6ijWw

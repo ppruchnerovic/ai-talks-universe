@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
-channel: "CAMLIS"
+channel: null
 duration_min: 15
 published_at: 2022-11-30T03:36:27Z
 video_id: gO3Q7fCoOdU

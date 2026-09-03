@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Jean Hennebert"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 18
 published_at: 2024-05-15T09:17:07Z
 video_id: Bl2Ft5yKcHA

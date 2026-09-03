@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["David Gomes"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-04-30T12:00:06Z
 video_id: WE_Gnowy3uw

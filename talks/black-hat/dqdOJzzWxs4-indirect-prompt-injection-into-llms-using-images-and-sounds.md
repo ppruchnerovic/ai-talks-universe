@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: ["Ben Nassi", "Eugene Bagdasaryan"]
-channel: "Black Hat"
+channel: null
 duration_min: 28
 published_at: 2024-03-26T17:04:34Z
 video_id: dqdOJzzWxs4

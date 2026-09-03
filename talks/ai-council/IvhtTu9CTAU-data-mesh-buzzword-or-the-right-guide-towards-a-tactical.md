@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Stefania Olafsdóttir"]
-channel: "AI Council"
+channel: null
 duration_min: 41
 published_at: 2025-05-28T23:39:02Z
 video_id: IvhtTu9CTAU

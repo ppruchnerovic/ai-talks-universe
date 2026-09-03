@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Mackenzie Jackson"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 16
 published_at: 2025-08-05T11:33:13Z
 video_id: wSoxaXeuZ1Y

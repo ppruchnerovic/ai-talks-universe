@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Vishnu Vasanth"]
-channel: "AI Council"
+channel: null
 duration_min: 24
 published_at: 2025-05-28T23:52:47Z
 video_id: XX-EWRyXVzs

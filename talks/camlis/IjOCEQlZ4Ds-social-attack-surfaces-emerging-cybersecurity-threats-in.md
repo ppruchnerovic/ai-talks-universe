@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Christopher Honaker"]
-channel: "CAMLIS"
+channel: null
 duration_min: 20
 published_at: 2025-11-14T07:20:58Z
 video_id: IjOCEQlZ4Ds

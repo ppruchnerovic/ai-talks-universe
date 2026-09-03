@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Paul Iusztin"]
-channel: "AI Engineer"
+channel: null
 duration_min: 40
 published_at: 2026-06-26T14:00:07Z
 video_id: ZRM_TfEZcIo

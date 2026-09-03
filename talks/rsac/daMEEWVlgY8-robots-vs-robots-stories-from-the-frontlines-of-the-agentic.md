@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "RSAC"
 year: 2026
 speakers: []
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 20
 published_at: 2026-03-25T20:12:42Z
 video_id: daMEEWVlgY8

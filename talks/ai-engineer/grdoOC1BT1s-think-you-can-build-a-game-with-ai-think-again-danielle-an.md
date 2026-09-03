@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Danielle An", "David Hoe"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-07-08T15:00:06Z
 video_id: grdoOC1BT1s

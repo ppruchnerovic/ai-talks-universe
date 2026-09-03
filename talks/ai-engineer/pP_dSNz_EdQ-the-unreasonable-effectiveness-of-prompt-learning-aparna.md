@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Aparna Dhinakaran"]
-channel: "AI Engineer"
+channel: null
 duration_min: 11
 published_at: 2025-12-23T17:00:06Z
 video_id: pP_dSNz_EdQ

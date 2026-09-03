@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Tania Duarte"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 17
 published_at: 2024-05-15T12:17:51Z
 video_id: G0Scs8dxRlc

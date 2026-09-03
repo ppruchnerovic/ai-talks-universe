@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Christos Kotselidis"]
-channel: "Devoxx"
+channel: null
 duration_min: 46
 published_at: 2026-03-30T17:53:08Z
 video_id: oRVtTEbtt_Y

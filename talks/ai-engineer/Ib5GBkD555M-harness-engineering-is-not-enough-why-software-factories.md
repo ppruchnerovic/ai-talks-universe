@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dex Horthy"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-07-23T16:30:06Z
 video_id: Ib5GBkD555M

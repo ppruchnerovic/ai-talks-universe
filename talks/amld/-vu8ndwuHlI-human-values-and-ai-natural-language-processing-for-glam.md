@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Elliott Ash"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 29
 published_at: 2024-05-15T08:52:15Z
 video_id: -vu8ndwuHlI

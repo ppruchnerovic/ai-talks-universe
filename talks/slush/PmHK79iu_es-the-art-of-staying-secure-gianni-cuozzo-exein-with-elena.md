@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Gianni Cuozzo"]
-channel: "Slush"
+channel: null
 duration_min: 25
 published_at: 2025-12-01T14:27:30Z
 video_id: PmHK79iu_es

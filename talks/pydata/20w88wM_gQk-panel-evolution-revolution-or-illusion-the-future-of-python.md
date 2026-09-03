@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Sebastian Neubauer"]
-channel: "PyData"
+channel: null
 duration_min: 56
 published_at: 2026-08-04T22:21:53Z
 video_id: 20w88wM_gQk

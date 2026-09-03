@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Vicky Pirker"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 32
 published_at: 2026-08-24T11:39:19Z
 video_id: j59C0VD_Ek8

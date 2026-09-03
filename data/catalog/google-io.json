@@ -1,7 +1,7 @@
 {
   "slug": "google-io",
   "name": "Google I/O",
-  "enumerated_at": "2026-08-30T21:48:49+00:00",
+  "enumerated_at": "2026-09-03T11:28:43+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
@@ -190,7 +190,7 @@
     "3zXVPU2vKXs": {
       "video_id": "3zXVPU2vKXs",
       "title": "Seamless video capture, editing and playback with CameraX and Media3",
-      "duration_s": 1563,
+      "duration_s": 1564,
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,

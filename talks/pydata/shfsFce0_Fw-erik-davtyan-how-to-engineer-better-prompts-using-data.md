@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Erik Davtyan"]
-channel: "PyData"
+channel: null
 duration_min: 40
 published_at: 2025-12-17T12:15:31Z
 video_id: shfsFce0_Fw

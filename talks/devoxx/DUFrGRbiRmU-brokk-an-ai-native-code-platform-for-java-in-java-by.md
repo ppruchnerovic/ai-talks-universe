@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Jonathan Ellis"]
-channel: "Devoxx"
+channel: null
 duration_min: 47
 published_at: 2025-10-10T05:09:22Z
 video_id: DUFrGRbiRmU

@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Franz Faerber"]
-channel: "Slush"
+channel: null
 duration_min: 21
 published_at: 2025-11-28T22:00:04Z
 video_id: 1lwj9kCqWCs

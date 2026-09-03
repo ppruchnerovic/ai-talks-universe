@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Adam Cimarosti"]
-channel: "AI Council"
+channel: null
 duration_min: 24
 published_at: 2024-04-19T05:00:07Z
 video_id: D5Jws53f66M

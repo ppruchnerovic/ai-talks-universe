@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Pratik Patel"]
-channel: "Devoxx"
+channel: null
 duration_min: 46
 published_at: 2026-04-09T19:10:08Z
 video_id: VAO6zwo0QsI

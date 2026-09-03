@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["No More Slop"]
-channel: "AI Engineer"
+channel: null
 duration_min: 9
 published_at: 2025-12-22T02:46:44Z
 video_id: IoiHI7p12Ao

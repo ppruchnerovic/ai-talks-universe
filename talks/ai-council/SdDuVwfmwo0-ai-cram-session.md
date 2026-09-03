@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Rachel Lee Nabors"]
-channel: "AI Council"
+channel: null
 duration_min: 33
 published_at: 2025-05-29T07:03:10Z
 video_id: SdDuVwfmwo0

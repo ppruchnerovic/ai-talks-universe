@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Avi Press"]
-channel: "AI Council"
+channel: null
 duration_min: 15
 published_at: 2025-05-29T00:40:00Z
 video_id: NFS-xDVVdXE

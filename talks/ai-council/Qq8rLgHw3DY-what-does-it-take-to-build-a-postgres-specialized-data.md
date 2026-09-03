@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Sai Srirampur"]
-channel: "AI Council"
+channel: null
 duration_min: 10
 published_at: 2024-04-19T05:00:24Z
 video_id: Qq8rLgHw3DY

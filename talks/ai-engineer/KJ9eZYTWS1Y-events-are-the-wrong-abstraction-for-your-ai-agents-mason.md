@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mason Egger"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2025-06-27T00:00:00Z
 video_id: KJ9eZYTWS1Y

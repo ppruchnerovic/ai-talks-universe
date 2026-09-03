@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Wietse Venema"]
-channel: "Devoxx"
+channel: null
 duration_min: 17
 published_at: 2025-04-07T13:45:25Z
 video_id: p5PX9V8lzx0

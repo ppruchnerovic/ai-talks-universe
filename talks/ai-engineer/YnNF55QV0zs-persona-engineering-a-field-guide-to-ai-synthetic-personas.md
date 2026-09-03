@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ishan Anand"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-07-29T20:15:35Z
 video_id: YnNF55QV0zs

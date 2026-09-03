@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: []
-channel: "Black Hat"
+channel: null
 duration_min: 26
 published_at: 2024-10-24T15:33:48Z
 video_id: itpZnfqu9eQ

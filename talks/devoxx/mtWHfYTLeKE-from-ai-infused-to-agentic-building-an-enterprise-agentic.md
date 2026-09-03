@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Mario Fusco", "Clement Escoff"]
-channel: "Devoxx"
+channel: null
 duration_min: 51
 published_at: 2025-10-09T04:45:30Z
 video_id: mtWHfYTLeKE

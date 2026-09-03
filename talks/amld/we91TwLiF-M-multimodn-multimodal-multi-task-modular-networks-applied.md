@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Vinitra Swamy"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 17
 published_at: 2024-05-13T14:25:17Z
 video_id: we91TwLiF-M

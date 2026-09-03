@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Hugo Marques"]
-channel: "InfoQ"
+channel: null
 duration_min: 50
 published_at: 2026-01-12T13:00:00+0000
 video_id: tNDbpnmlsQk

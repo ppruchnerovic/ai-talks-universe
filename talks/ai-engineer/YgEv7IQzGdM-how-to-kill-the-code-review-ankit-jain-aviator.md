@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ankit Jain"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-08-17T20:00:08Z
 video_id: YgEv7IQzGdM

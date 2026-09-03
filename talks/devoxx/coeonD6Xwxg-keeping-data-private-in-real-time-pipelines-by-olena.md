@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Olena Kutsenko"]
-channel: "Devoxx"
+channel: null
 duration_min: 33
 published_at: 2026-03-30T19:00:00Z
 video_id: coeonD6Xwxg

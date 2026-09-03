@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Brooke Hopkins"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-07-31T00:00:00Z
 video_id: kDczF4wBh8s

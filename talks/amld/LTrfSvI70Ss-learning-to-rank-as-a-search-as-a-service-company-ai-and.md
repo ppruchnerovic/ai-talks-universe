@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 24
 published_at: 2024-05-15T06:59:14Z
 video_id: LTrfSvI70Ss

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Luca Vajani"]
-channel: "Devoxx"
+channel: null
 duration_min: 19
 published_at: 2025-01-20T19:58:28Z
 video_id: 41nWosCwtbQ

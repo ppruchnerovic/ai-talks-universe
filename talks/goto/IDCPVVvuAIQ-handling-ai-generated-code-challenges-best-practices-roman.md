@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Roman Zhukov", "Damian Brady"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 29
 published_at: 2026-02-10T13:37:10Z
 video_id: IDCPVVvuAIQ

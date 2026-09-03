@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: ["Kristo Ovaska"]
-channel: "Slush"
+channel: null
 duration_min: 27
 published_at: 2024-11-29T12:42:10Z
 video_id: hVfBvnDt43Q

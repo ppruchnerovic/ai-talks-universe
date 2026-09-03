@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Jakub Zikl"]
-channel: "PyData"
+channel: null
 duration_min: 23
 published_at: 2025-11-23T16:02:18Z
 video_id: slC4nThmIZQ

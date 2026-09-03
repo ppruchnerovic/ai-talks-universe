@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Joe Reeve"]
-channel: "AI Engineer"
+channel: null
 duration_min: 33
 published_at: 2026-06-01T13:00:06Z
 video_id: u-rJwPPU3QA

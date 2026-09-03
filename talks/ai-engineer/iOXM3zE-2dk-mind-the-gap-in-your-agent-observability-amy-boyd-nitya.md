@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Amy Boyd", "Nitya Narasimhan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 80
 published_at: 2026-05-14T16:00:06Z
 video_id: iOXM3zE-2dk

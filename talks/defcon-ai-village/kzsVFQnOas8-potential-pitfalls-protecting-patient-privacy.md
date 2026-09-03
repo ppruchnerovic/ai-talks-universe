@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "AI Village"
 year: 2021
 speakers: ["Brian Martin"]
-channel: "aivillage"
+channel: null
 duration_min: 28
 published_at: 2021-08-23T16:27:03Z
 video_id: kzsVFQnOas8

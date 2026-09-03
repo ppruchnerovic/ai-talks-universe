@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["David Wilson"]
-channel: "AI Council"
+channel: null
 duration_min: 37
 published_at: 2025-05-29T07:36:17Z
 video_id: gTQG0SfJb9Y

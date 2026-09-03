@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Gregory Bruss"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-06-03T22:22:29Z
 video_id: y9YQc9a3gNw

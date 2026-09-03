@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Brian Vermeer"]
-channel: "Devoxx"
+channel: null
 duration_min: 49
 published_at: 2025-04-07T13:45:28Z
 video_id: t3VlvpyvdEg

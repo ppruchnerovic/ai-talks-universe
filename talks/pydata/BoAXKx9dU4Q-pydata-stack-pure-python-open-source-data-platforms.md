@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Eric Thanenthiran"]
-channel: "PyData"
+channel: null
 duration_min: 40
 published_at: 2025-10-28T18:54:09Z
 video_id: BoAXKx9dU4Q

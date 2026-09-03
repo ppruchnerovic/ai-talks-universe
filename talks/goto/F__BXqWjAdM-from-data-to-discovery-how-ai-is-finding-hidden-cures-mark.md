@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Mark Rickmeier", "Brian Martin"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 34
 published_at: 2026-08-11T16:23:19Z
 video_id: F__BXqWjAdM

@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []
-channel: "CAMLIS"
+channel: null
 duration_min: 21
 published_at: 2019-11-12T22:47:52Z
 video_id: s3exsQI9feI

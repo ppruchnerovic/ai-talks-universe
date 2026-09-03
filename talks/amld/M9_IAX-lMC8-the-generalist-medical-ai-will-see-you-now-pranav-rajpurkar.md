@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Pranav Rajpurkar"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 34
 published_at: 2023-10-05T16:20:28Z
 video_id: M9_IAX-lMC8

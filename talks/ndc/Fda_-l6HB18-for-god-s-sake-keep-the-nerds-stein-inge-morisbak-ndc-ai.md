@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Stein Inge Morisbak"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 24
 published_at: 2026-07-01T11:14:42Z
 video_id: Fda_-l6HB18

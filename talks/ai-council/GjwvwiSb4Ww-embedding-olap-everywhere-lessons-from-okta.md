@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Jake Thomas"]
-channel: "AI Council"
+channel: null
 duration_min: 25
 published_at: 2025-05-29T13:27:56Z
 video_id: GjwvwiSb4Ww

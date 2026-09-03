@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Laurie Voss"]
-channel: "AI Engineer"
+channel: null
 duration_min: 124
 published_at: 2026-05-14T18:00:06Z
 video_id: Xfl50508LZM

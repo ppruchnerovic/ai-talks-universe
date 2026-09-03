@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Den Delimarsky", "Julia Kasper"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-06-20T00:00:00Z
 video_id: PHBGhUKAM-w

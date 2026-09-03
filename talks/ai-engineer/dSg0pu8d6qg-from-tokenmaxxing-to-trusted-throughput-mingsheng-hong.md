@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mingsheng Hong"]
-channel: "AI Engineer"
+channel: null
 duration_min: 23
 published_at: 2026-08-29T00:00:00Z
 video_id: dSg0pu8d6qg

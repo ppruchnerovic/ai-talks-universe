@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Joshua Görner"]
-channel: "PyData"
+channel: null
 duration_min: 45
 published_at: 2026-08-04T22:21:41Z
 video_id: MTyO3W7MYTs

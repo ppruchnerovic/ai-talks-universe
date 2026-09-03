@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Glenn Ko"]
-channel: "AI Council"
+channel: null
 duration_min: 10
 published_at: 2024-04-22T21:34:59Z
 video_id: JtSgT0N8aYQ

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Dimitris Andreadis"]
-channel: "Devoxx"
+channel: null
 duration_min: 39
 published_at: 2026-04-01T08:04:47Z
 video_id: LTpAAz715GE

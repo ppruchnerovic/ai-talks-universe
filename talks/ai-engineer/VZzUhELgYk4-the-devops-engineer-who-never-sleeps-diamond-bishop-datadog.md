@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Diamond Bishop"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2025-04-22T16:00:06Z
 video_id: VZzUhELgYk4

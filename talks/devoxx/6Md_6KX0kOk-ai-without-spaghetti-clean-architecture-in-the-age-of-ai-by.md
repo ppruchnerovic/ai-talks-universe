@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Lutske de Leeuw", "Maarten Vandeperre"]
-channel: "Devoxx"
+channel: null
 duration_min: 41
 published_at: 2026-04-01T08:07:14Z
 video_id: 6Md_6KX0kOk

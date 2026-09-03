@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2022
 speakers: []
-channel: "BSidesLV"
+channel: null
 duration_min: 55
 published_at: 2022-09-04T20:23:13Z
 video_id: 9fv-PArhUs0

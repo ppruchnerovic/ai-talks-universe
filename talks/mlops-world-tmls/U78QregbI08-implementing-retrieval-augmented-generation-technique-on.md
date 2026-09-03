@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: ["Syed Shariyar Murtaza"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 40
 published_at: 2026-08-11T13:09:28Z
 video_id: U78QregbI08

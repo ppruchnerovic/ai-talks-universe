@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Tim Dettmers"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 31
 published_at: 2023-10-13T07:54:15Z
 video_id: fQirE9N5q_Y

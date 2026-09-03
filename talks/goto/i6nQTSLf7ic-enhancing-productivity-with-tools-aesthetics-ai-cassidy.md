@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Cassidy Williams", "Ben Hong"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 37
 published_at: 2024-12-13T10:49:50Z
 video_id: i6nQTSLf7ic

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Marianne Hoornenborg"]
-channel: "Devoxx"
+channel: null
 duration_min: 48
 published_at: 2025-10-09T05:36:10Z
 video_id: wY2JEeRZSI8

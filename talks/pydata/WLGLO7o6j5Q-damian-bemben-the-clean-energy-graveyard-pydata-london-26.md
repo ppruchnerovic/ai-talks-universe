@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Damian Bemben"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-06-15T15:52:41Z
 video_id: WLGLO7o6j5Q

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Michelle Ufford Winters"]
-channel: "AI Council"
+channel: null
 duration_min: 35
 published_at: 2024-04-19T05:00:06Z
 video_id: Fu6JBodxqGQ

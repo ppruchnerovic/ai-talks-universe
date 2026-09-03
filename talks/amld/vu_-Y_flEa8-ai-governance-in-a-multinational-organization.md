@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Lisa Bechtold"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 29
 published_at: 2024-05-15T11:58:54Z
 video_id: vu_-Y_flEa8

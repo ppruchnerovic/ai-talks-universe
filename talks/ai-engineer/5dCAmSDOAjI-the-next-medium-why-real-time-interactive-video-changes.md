@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ahmed Ahres"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-08-18T17:30:18Z
 video_id: 5dCAmSDOAjI

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Dmitry Petrov"]
-channel: "PyData"
+channel: null
 duration_min: 25
 published_at: 2026-06-15T15:55:08Z
 video_id: kH5VBCjoRLE

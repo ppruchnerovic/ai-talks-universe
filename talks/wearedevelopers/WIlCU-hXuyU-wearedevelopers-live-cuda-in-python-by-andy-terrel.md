@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Andy Terrel"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 21
 published_at: 2025-02-07T12:22:04Z
 video_id: WIlCU-hXuyU

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Annabell Schäfer"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-07-18T20:15:06Z
 video_id: eAXxdtNlK04

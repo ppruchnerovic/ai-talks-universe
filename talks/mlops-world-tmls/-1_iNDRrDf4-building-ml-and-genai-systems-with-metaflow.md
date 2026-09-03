@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Ville Tuulos"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 47
 published_at: 2024-05-16T14:09:20Z
 video_id: -1_iNDRrDf4

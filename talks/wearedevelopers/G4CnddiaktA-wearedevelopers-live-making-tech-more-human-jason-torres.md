@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Jason Torres"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 48
 published_at: 2026-08-28T15:33:10Z
 video_id: G4CnddiaktA

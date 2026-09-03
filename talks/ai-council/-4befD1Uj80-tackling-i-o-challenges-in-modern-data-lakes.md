@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Hope Wang"]
-channel: "AI Council"
+channel: null
 duration_min: 16
 published_at: 2024-04-19T05:00:00Z
 video_id: -4befD1Uj80

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Stanislas Polu"]
-channel: "dotconferences"
+channel: null
 duration_min: 20
 published_at: 2025-11-14T14:16:04Z
 video_id: 9OjcAYsncpw

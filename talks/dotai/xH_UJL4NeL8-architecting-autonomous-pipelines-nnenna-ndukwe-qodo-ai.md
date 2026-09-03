@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Nnenna Ndukwe"]
-channel: "dotconferences"
+channel: null
 duration_min: 11
 published_at: 2025-11-14T14:16:11Z
 video_id: xH_UJL4NeL8

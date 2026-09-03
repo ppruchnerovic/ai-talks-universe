@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Jason Ross"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 62
 published_at: 2026-05-07T10:40:59Z
 video_id: PoQh2iQGjY0

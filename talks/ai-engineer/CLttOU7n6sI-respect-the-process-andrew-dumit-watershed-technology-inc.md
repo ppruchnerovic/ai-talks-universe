@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Andrew Dumit"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-07-07T23:31:49Z
 video_id: CLttOU7n6sI

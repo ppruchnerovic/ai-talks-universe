@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Caelin Kaplan"]
-channel: "CAMLIS"
+channel: null
 duration_min: 24
 published_at: 2025-11-14T08:26:06Z
 video_id: vVtzvPsy4dY

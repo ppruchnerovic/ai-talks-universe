@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Mohamed Shiralizadeh"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 69
 published_at: 2026-04-24T10:34:25Z
 video_id: h-BoPfY8aJQ

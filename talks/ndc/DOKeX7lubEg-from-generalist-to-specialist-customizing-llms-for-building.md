@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: []
-channel: "NDC Conferences"
+channel: null
 duration_min: 51
 published_at: 2025-07-08T07:46:38Z
 video_id: DOKeX7lubEg

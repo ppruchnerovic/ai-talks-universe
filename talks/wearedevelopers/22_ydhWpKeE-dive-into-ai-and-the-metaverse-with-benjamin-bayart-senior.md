@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2023
 speakers: []
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 25
 published_at: 2023-02-21T16:00:03Z
 video_id: 22_ydhWpKeE

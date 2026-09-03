@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Guy Eshet"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 38
 published_at: 2024-05-16T15:08:55Z
 video_id: 45Zs12Xlg2g

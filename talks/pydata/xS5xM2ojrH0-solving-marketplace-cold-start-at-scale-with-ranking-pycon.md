@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Theodore Meynard"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-08-04T22:20:55Z
 video_id: xS5xM2ojrH0

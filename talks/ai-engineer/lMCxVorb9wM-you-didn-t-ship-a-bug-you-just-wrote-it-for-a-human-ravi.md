@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ravi Madabhushi"]
-channel: "AI Engineer"
+channel: null
 duration_min: 13
 published_at: 2026-07-19T16:00:06Z
 video_id: lMCxVorb9wM

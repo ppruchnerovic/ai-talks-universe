@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Mete Atamel"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 50
 published_at: 2025-11-25T15:03:33Z
 video_id: b2qel03SU4I

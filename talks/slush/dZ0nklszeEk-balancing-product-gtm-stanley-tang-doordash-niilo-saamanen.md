@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Stanley Tang"]
-channel: "Slush"
+channel: null
 duration_min: 27
 published_at: 2025-11-26T14:51:02Z
 video_id: dZ0nklszeEk

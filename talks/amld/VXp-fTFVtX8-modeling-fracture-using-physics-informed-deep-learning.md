@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Manav Manav"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 6
 published_at: 2024-05-13T14:52:19Z
 video_id: VXp-fTFVtX8

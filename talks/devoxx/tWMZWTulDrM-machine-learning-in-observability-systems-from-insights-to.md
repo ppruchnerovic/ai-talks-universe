@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Panos Tsilopoulos"]
-channel: "Devoxx"
+channel: null
 duration_min: 42
 published_at: 2025-11-11T10:38:21Z
 video_id: tWMZWTulDrM

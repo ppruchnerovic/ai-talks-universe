@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Josh Long"]
-channel: "Devoxx"
+channel: null
 duration_min: 44
 published_at: 2024-10-23T07:08:34Z
 video_id: NCd3-JuB5NE

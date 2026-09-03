@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Apoorva Joshi"]
-channel: "AI Engineer"
+channel: null
 duration_min: 29
 published_at: 2026-06-28T00:00:00Z
 video_id: T0HhO4YtTfE

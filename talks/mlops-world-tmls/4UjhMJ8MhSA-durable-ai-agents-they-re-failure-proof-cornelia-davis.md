@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Cornelia Davis"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 12
 published_at: 2025-10-30T01:09:21Z
 video_id: 4UjhMJ8MhSA

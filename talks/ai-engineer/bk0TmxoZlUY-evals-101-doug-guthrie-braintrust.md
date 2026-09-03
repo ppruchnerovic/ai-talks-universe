@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Doug Guthrie"]
-channel: "AI Engineer"
+channel: null
 duration_min: 49
 published_at: 2025-06-27T00:00:00Z
 video_id: bk0TmxoZlUY

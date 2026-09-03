@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Manuel Pais", "Julian Wood"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 52
 published_at: 2025-06-20T09:48:34Z
 video_id: 8YoPz1HH4Ts

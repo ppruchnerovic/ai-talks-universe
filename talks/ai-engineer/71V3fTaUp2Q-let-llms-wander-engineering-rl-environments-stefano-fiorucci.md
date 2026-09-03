@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Stefano Fiorucci"]
-channel: "AI Engineer"
+channel: null
 duration_min: 41
 published_at: 2026-04-08T06:15:06Z
 video_id: 71V3fTaUp2Q

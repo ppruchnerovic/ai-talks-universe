@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dan Shipper"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-12-18T00:00:00Z
 video_id: MGzymaYBiss

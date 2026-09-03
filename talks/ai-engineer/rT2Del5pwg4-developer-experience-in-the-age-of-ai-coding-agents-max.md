@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Capital One"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-12-23T00:00:00Z
 video_id: rT2Del5pwg4

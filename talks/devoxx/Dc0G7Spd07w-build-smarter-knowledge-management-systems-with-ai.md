@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Corrado De Bari"]
-channel: "Devoxx"
+channel: null
 duration_min: 52
 published_at: 2024-10-11T05:09:40Z
 video_id: Dc0G7Spd07w

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Diogo Almeida"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-07-31T23:30:06Z
 video_id: cJ0EOzey--o

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Ming Zhao"]
-channel: "PyData"
+channel: null
 duration_min: 79
 published_at: 2026-06-15T15:54:11Z
 video_id: bmKwlwzmAsk

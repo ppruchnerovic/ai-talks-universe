@@ -5,10 +5,10 @@ slug: usenix-security-25-self-interpreting-adversarial-images
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
 category: "Security conferences"
-edition: "USENIX"
+edition: "USENIX Security"
 year: 2025
 speakers: ["Self-interpreting Adversarial Images"]
-channel: "USENIX"
+channel: null
 duration_min: 10
 published_at: 2025-10-30T19:58:16Z
 video_id: ws3hQk80xwI
@@ -23,7 +23,7 @@ transcript: false
 
 **Self-interpreting Adversarial Images**
 
-`USENIX Security Symposium` · `USENIX` · `2025` · `10 min`
+`USENIX Security Symposium` · `USENIX Security` · `2025` · `10 min`
 
 `#usenix` `#technology` `#conference` `#open access`
 

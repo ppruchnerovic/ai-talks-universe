@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Tudor Girba", "Julian Wood"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 40
 published_at: 2025-04-25T09:53:18Z
 video_id: 0EQW3olont8

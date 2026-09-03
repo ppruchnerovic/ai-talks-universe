@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2021
 speakers: []
-channel: "BSidesLV"
+channel: null
 duration_min: 49
 published_at: 2021-08-13T00:46:35Z
 video_id: RD5A3hPrr7Y

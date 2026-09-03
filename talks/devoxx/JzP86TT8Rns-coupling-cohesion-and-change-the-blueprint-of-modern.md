@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Boyen van Gorp"]
-channel: "Devoxx"
+channel: null
 duration_min: 42
 published_at: 2026-04-08T20:09:11Z
 video_id: JzP86TT8Rns

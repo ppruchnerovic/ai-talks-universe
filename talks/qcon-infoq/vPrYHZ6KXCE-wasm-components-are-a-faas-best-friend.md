@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Laurent Doguin"]
-channel: "InfoQ"
+channel: null
 duration_min: 51
 published_at: 2026-01-30T09:30:00+0000
 video_id: vPrYHZ6KXCE

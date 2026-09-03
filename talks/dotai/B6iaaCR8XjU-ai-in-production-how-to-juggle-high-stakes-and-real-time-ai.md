@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: []
-channel: "dotconferences"
+channel: null
 duration_min: 12
 published_at: 2025-02-13T13:41:43Z
 video_id: B6iaaCR8XjU

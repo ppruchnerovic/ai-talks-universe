@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Joseph Katsioloudes"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 35
 published_at: 2026-07-13T09:29:19Z
 video_id: gc5_ICZg9tg

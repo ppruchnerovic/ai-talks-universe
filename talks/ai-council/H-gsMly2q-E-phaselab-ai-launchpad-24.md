@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Josh Schwartz"]
-channel: "AI Council"
+channel: null
 duration_min: 7
 published_at: 2024-04-22T21:34:26Z
 video_id: H-gsMly2q-E

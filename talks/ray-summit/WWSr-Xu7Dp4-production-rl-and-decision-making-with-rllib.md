@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []
-channel: "Anyscale"
+channel: null
 duration_min: 29
 published_at: 2023-02-09T03:03:36Z
 video_id: WWSr-Xu7Dp4

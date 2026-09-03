@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Ben Ellerby", "Julian Wood"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 44
 published_at: 2025-02-07T11:34:00Z
 video_id: ZY52xzWkZFU

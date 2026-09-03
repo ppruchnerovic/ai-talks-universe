@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Christian Crowley"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 37
 published_at: 2024-05-16T13:20:06Z
 video_id: u47WbyYYcE0

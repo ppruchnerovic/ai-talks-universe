@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Daniel Han"]
-channel: "AI Engineer"
+channel: null
 duration_min: 140
 published_at: 2026-07-17T17:00:06Z
 video_id: uIiA6DquRiE

@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []
-channel: "Black Hat"
+channel: null
 duration_min: 40
 published_at: 2025-05-19T19:23:16Z
 video_id: sKH8283CFzs

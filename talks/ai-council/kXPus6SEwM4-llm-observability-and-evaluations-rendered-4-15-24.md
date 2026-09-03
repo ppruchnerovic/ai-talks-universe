@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Amber Roberts"]
-channel: "AI Council"
+channel: null
 duration_min: 11
 published_at: 2024-04-19T05:00:21Z
 video_id: kXPus6SEwM4

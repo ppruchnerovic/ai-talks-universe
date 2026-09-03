@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kevin Hou"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2025-06-23T15:00:06Z
 video_id: JVuNPL5QO8Q

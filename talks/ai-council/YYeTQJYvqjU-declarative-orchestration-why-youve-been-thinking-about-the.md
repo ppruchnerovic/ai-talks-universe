@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Pete Hunt"]
-channel: "AI Council"
+channel: null
 duration_min: 32
 published_at: 2024-04-17T05:00:13Z
 video_id: YYeTQJYvqjU

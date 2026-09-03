@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Emmanouil Tavlakis"]
-channel: "Devoxx"
+channel: null
 duration_min: 27
 published_at: 2025-10-02T12:31:14Z
 video_id: LJN5jdaeOf0

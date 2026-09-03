@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Ashish Ghosh"]
-channel: "Devoxx"
+channel: null
 duration_min: 100
 published_at: 2026-04-09T19:11:02Z
 video_id: kDDKh4VI_Pg

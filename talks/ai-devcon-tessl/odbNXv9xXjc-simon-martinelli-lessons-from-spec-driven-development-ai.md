@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Simon Martinelli"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 32
 published_at: 2026-07-22T07:02:10Z
 video_id: odbNXv9xXjc

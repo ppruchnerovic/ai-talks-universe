@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Denys Linkov"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-07-24T15:45:05Z
 video_id: SbUxRluVRwk

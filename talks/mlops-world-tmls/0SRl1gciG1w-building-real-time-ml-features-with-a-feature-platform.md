@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Mike del Balso"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 34
 published_at: 2023-05-29T05:19:19Z
 video_id: 0SRl1gciG1w

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Stephan Steinfurt"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-07-08T08:30:29Z
 video_id: BqZrTdgBaPw

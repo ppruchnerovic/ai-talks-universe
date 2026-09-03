@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Andrew Oates"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 16
 published_at: 2025-10-02T01:53:14Z
 video_id: Z9dosUykGXw

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["James Kirkpatrick"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 14
 published_at: 2026-02-13T09:51:34Z
 video_id: RMmGJfLlrjU

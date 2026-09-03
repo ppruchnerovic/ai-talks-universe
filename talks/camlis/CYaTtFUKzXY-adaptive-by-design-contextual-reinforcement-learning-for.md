@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Jake Thomas"]
-channel: "CAMLIS"
+channel: null
 duration_min: 24
 published_at: 2025-11-13T15:58:36Z
 video_id: CYaTtFUKzXY

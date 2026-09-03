@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Robert Brennan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-07-25T23:10:11Z
 video_id: o_hhkJtlbSs

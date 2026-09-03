@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Jo Franchetti"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 51
 published_at: 2026-03-05T09:41:03Z
 video_id: DFM_Xz4Sf-4

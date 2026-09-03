@@ -5,10 +5,10 @@ slug: usenix-security-25-orthrus-achieving-high-quality-of
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
 category: "Security conferences"
-edition: "USENIX"
+edition: "USENIX Security"
 year: 2025
 speakers: []
-channel: "USENIX"
+channel: null
 duration_min: 9
 published_at: 2025-10-30T20:03:07Z
 video_id: _FpCefZeObw
@@ -23,7 +23,7 @@ transcript: false
 
 **Speaker not identified**
 
-`USENIX Security Symposium` · `USENIX` · `2025` · `9 min`
+`USENIX Security Symposium` · `USENIX Security` · `2025` · `9 min`
 
 `#usenix` `#technology` `#conference` `#open access`
 

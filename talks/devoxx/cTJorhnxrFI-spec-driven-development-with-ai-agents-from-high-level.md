@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Anton Arhipov"]
-channel: "Devoxx"
+channel: null
 duration_min: 47
 published_at: 2026-02-27T13:52:49Z
 video_id: cTJorhnxrFI

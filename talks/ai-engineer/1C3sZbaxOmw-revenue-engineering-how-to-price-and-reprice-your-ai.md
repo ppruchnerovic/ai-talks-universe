@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kshitij Grover"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2025-06-27T09:41:55Z
 video_id: 1C3sZbaxOmw

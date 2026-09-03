@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Karan Bansal"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 26
 published_at: 2026-07-20T00:25:12Z
 video_id: 9wfHzR5eH84

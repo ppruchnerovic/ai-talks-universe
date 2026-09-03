@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Jessica Lanini"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 17
 published_at: 2024-05-15T08:21:16Z
 video_id: FypytO0BjJo

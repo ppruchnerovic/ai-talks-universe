@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Venkat Subramaniam"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 56
 published_at: 2026-06-18T14:07:45Z
 video_id: imejbnfQFJA

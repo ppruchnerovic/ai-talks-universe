@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Anthropic's Fable", "Mythos Shutdown"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 24
 published_at: 2026-07-20T00:04:26Z
 video_id: wDQiK9sjnx4

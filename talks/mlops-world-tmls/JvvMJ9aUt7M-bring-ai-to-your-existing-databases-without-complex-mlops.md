@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Duncan Blythe"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 41
 published_at: 2024-05-14T06:17:26Z
 video_id: JvvMJ9aUt7M

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["George Fraser"]
-channel: "AI Council"
+channel: null
 duration_min: 27
 published_at: 2025-05-29T00:20:49Z
 video_id: cPsmPAPwpAY

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Lena Shakurova"]
-channel: "PyData"
+channel: null
 duration_min: 32
 published_at: 2026-06-15T15:55:10Z
 video_id: zl-30-UdOWQ

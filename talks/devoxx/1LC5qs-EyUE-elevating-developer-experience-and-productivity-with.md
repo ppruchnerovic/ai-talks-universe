@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Shinya Yanagihara"]
-channel: "Devoxx"
+channel: null
 duration_min: 51
 published_at: 2024-10-11T05:09:40Z
 video_id: 1LC5qs-EyUE

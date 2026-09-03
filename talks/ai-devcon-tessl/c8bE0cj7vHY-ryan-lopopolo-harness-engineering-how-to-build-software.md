@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Ryan Lopopolo"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 30
 published_at: 2026-06-19T07:32:20Z
 video_id: c8bE0cj7vHY

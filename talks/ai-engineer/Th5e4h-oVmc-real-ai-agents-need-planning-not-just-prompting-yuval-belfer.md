@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Yuval Belfer"]
-channel: "AI Engineer"
+channel: null
 duration_min: 8
 published_at: 2025-06-03T22:22:27Z
 video_id: Th5e4h-oVmc

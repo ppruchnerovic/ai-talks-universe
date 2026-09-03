@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Claire Gouze"]
-channel: "AI Council"
+channel: null
 duration_min: 14
 published_at: 2025-05-29T13:35:16Z
 video_id: oyJziKnpElo

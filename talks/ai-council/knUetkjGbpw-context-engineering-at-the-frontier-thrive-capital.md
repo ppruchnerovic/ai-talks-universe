@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: ["Thrive Capital"]
-channel: "AI Council"
+channel: null
 duration_min: 35
 published_at: 2026-06-17T22:34:30Z
 video_id: knUetkjGbpw

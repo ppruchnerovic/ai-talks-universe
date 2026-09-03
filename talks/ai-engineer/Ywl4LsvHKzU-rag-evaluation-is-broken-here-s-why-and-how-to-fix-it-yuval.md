@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Yuval Belfer", "Niv Granot"]
-channel: "AI Engineer"
+channel: null
 duration_min: 11
 published_at: 2025-06-03T22:22:28Z
 video_id: Ywl4LsvHKzU

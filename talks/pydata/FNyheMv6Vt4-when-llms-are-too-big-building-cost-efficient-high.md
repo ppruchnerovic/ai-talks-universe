@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Tobias Senst"]
-channel: "PyData"
+channel: null
 duration_min: 47
 published_at: 2026-08-04T22:20:46Z
 video_id: FNyheMv6Vt4

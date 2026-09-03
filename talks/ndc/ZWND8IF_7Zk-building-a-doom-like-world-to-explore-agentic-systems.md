@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Alexander Chernov"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 53
 published_at: 2026-08-13T11:38:16Z
 video_id: ZWND8IF_7Zk

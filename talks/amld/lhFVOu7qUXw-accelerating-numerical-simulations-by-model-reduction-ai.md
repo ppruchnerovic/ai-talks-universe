@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Gianluigi Rozza"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 29
 published_at: 2024-05-24T08:19:27Z
 video_id: lhFVOu7qUXw

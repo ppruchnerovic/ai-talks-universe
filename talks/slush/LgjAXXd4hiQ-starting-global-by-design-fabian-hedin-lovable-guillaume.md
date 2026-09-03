@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Fabian Hedin"]
-channel: "Slush"
+channel: null
 duration_min: 29
 published_at: 2025-11-26T14:54:26Z
 video_id: LgjAXXd4hiQ

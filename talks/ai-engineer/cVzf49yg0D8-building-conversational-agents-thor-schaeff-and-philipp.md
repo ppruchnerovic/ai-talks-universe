@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Thor Schaeff", "Philipp Schmid"]
-channel: "AI Engineer"
+channel: null
 duration_min: 108
 published_at: 2026-04-30T00:00:00Z
 video_id: cVzf49yg0D8

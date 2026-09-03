@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Vidura Wijekoon"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 36
 published_at: 2026-07-20T00:38:42Z
 video_id: ZQIs-udMB3g

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "InfoQ Live - September 2025"
 year: 2025
 speakers: ["Tyler Jewel", "Arun Joseph", "Johannes Koch", "Merrin Kurian", "Renato Losio"]
-channel: "InfoQ"
+channel: null
 duration_min: 61
 published_at: 2025-10-02T12:23:00+0000
 video_id: wUkYozIu-Yk

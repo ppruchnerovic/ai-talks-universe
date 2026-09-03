@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Aaron Powell"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 59
 published_at: 2026-05-22T10:00:04Z
 video_id: nKZVd8r89nI

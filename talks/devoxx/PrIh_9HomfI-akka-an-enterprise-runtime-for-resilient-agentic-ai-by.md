@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Renato Guerra Cavalcanti"]
-channel: "Devoxx"
+channel: null
 duration_min: 59
 published_at: 2025-10-09T05:36:05Z
 video_id: PrIh_9HomfI

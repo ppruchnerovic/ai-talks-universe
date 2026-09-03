@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mike Chambers"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-06-27T10:45:16Z
 video_id: HT4l0DeP69I

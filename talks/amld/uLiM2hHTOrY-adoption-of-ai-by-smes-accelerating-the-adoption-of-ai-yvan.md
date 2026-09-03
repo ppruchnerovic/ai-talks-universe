@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Yvan Cognasse"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 21
 published_at: 2024-05-15T09:11:59Z
 video_id: uLiM2hHTOrY

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Simone de Gijt"]
-channel: "Devoxx"
+channel: null
 duration_min: 16
 published_at: 2025-04-07T13:45:19Z
 video_id: CcKPqwRe1_w

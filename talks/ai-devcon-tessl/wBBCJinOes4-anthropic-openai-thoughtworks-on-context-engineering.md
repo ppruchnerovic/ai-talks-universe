@@ -1,14 +1,14 @@
 ---
 id: wBBCJinOes4
-title: "Lamis Mukta on Context Engineering at Anthropic"
-slug: lamis-mukta-on-context-engineering-at-anthropic
+title: "Anthropic, OpenAI & Thoughtworks on Context Engineering"
+slug: anthropic-openai-thoughtworks-on-context-engineering
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
 category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
-channel: "AI Native Dev"
+channel: null
 duration_min: 10
 published_at: 2026-08-24T13:30:23Z
 video_id: wBBCJinOes4
@@ -19,7 +19,7 @@ topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliabilit
 transcript: true
 ---
 
-# Lamis Mukta on Context Engineering at Anthropic
+# Anthropic, OpenAI & Thoughtworks on Context Engineering
 
 **Speaker not identified**
 

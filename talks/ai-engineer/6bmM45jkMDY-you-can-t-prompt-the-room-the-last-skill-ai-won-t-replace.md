@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Balázs Horváth"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-06-29T02:30:20Z
 video_id: 6bmM45jkMDY

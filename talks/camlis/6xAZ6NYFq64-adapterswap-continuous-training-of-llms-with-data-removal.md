@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []
-channel: "CAMLIS"
+channel: null
 duration_min: 29
 published_at: 2024-11-16T03:32:02Z
 video_id: 6xAZ6NYFq64

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Urs Peter"]
-channel: "Devoxx"
+channel: null
 duration_min: 45
 published_at: 2026-04-09T21:35:40Z
 video_id: KwxJEA_9ulI

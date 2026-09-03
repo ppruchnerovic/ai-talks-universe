@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Johan Mabille", "Anutosh Bhat"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2025-12-16T15:17:31Z
 video_id: Ev4JvFUJJeY

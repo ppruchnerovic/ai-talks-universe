@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Jérôme Koller"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 22
 published_at: 2024-05-15T11:59:16Z
 video_id: uBbnGncgcQk

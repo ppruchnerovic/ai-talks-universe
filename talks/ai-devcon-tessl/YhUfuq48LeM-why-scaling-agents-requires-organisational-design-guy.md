@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Guy Podjarny", "Simon Maple"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 4
 published_at: 2026-01-18T13:58:12Z
 video_id: YhUfuq48LeM

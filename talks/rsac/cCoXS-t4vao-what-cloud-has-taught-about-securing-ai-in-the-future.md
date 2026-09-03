@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["John Yeoh"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 50
 published_at: 2024-06-10T21:12:27Z
 video_id: cCoXS-t4vao

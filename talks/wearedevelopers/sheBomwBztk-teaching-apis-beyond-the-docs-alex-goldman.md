@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Alex Goldman"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 22
 published_at: 2026-06-05T09:42:26Z
 video_id: sheBomwBztk

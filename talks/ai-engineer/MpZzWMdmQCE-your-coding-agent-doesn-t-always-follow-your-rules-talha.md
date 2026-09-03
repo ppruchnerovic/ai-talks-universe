@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Talha Sheikh"]
-channel: "AI Engineer"
+channel: null
 duration_min: 10
 published_at: 2026-07-08T08:31:41Z
 video_id: MpZzWMdmQCE

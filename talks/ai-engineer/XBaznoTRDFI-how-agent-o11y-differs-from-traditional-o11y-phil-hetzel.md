@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Phil Hetzel"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-05-28T23:00:06Z
 video_id: XBaznoTRDFI

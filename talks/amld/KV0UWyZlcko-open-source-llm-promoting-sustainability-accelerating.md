@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Dominik Stammbach"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 15
 published_at: 2024-05-13T08:03:14Z
 video_id: KV0UWyZlcko

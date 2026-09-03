@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rayan Garg"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-08-01T00:00:06Z
 video_id: 2aS7aKoXn64

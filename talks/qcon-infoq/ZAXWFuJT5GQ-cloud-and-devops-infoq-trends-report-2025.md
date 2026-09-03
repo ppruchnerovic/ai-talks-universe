@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []
-channel: "InfoQ"
+channel: null
 duration_min: 51
 published_at: 2025-10-22T10:45:22Z
 video_id: ZAXWFuJT5GQ

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Issac J Roth"]
-channel: "AI Council"
+channel: null
 duration_min: 10
 published_at: 2025-05-29T00:31:26Z
 video_id: zwO6p8J9LLU

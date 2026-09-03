@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Jason Ganz"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 49
 published_at: 2025-06-24T13:00:04Z
 video_id: 2Bnci81TW1E

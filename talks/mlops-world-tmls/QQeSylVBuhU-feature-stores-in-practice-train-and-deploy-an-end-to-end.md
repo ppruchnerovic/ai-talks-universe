@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Simba Khadder"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 61
 published_at: 2023-11-10T17:21:40Z
 video_id: QQeSylVBuhU

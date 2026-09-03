@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Emmanuel Bernard", "Guillaume L"]
-channel: "Devoxx"
+channel: null
 duration_min: 167
 published_at: 2025-10-08T05:30:33Z
 video_id: DiZs--ODXVM

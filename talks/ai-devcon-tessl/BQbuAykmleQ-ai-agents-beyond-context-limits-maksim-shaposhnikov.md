@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Maksim Shaposhnikov"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 58
 published_at: 2025-10-28T13:00:26Z
 video_id: BQbuAykmleQ

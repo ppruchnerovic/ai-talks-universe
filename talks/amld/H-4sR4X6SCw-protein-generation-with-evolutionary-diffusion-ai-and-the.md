@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Ava Amini"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 27
 published_at: 2024-05-15T07:50:48Z
 video_id: H-4sR4X6SCw

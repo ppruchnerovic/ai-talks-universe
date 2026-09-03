@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Richmond Alake"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 109
 published_at: 2025-11-26T01:48:46Z
 video_id: nEjDM9X2Ysw

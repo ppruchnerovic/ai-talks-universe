@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: ["Michele Catasta"]
-channel: "The AI Conference™"
+channel: null
 duration_min: 27
 published_at: 2026-03-20T17:53:21Z
 video_id: J91bCwHFdDA

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Soroosh Khodami"]
-channel: "Devoxx"
+channel: null
 duration_min: 46
 published_at: 2026-04-01T08:05:46Z
 video_id: rV7MIxFKSDI

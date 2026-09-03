@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["S. Maestri", "A. Soldano"]
-channel: "Devoxx"
+channel: null
 duration_min: 45
 published_at: 2026-04-01T08:05:20Z
 video_id: DXEsG3Vo6F4

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nan Jiang"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-08-10T17:30:30Z
 video_id: maRzp4kImJ4

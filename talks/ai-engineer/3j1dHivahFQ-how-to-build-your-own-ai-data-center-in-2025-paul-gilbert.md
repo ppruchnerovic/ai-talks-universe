@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Paul Gilbert"]
-channel: "AI Engineer"
+channel: null
 duration_min: 23
 published_at: 2025-04-27T00:00:00Z
 video_id: 3j1dHivahFQ

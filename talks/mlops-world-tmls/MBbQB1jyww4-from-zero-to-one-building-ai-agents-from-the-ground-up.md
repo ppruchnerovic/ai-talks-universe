@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Federico Bianchi"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 77
 published_at: 2025-10-24T23:00:23Z
 video_id: MBbQB1jyww4

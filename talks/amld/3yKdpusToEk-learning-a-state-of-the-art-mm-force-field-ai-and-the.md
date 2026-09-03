@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Leif Seute"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 12
 published_at: 2024-05-15T08:06:34Z
 video_id: 3yKdpusToEk

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Shub Argha"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 25
 published_at: 2025-10-20T22:46:41Z
 video_id: 5PVJAu1nny0

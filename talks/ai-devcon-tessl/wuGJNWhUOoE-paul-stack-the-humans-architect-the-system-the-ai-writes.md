@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Paul Stack"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 31
 published_at: 2026-06-30T06:23:51Z
 video_id: wuGJNWhUOoE

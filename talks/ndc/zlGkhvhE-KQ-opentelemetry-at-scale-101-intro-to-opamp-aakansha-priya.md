@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Aakansha Priya", "Adriana Villela"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 52
 published_at: 2026-03-04T16:44:30Z
 video_id: zlGkhvhE-KQ

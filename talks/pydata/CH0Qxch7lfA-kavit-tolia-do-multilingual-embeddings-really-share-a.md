@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Kavit Tolia"]
-channel: "PyData"
+channel: null
 duration_min: 23
 published_at: 2026-06-15T15:51:00Z
 video_id: CH0Qxch7lfA

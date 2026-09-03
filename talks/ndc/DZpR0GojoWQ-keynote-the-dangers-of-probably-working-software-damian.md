@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Damian Brady"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 55
 published_at: 2026-02-05T09:51:50Z
 video_id: DZpR0GojoWQ

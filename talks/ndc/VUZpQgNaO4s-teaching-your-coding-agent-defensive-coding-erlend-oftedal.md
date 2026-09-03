@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Erlend Oftedal"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 26
 published_at: 2026-07-01T14:20:48Z
 video_id: VUZpQgNaO4s

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2024
 speakers: []
-channel: "The AI Conference™"
+channel: null
 duration_min: 29
 published_at: 2024-12-20T18:15:53Z
 video_id: plAUd-52_7s

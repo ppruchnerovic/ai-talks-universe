@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Vaibhavi Gangwar"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 27
 published_at: 2025-10-30T01:56:58Z
 video_id: suK9JpU5_Bo

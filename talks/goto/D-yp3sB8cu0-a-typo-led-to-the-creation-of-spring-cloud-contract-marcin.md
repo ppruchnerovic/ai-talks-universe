@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Marcin Grzejszczak", "Jakub Pilimon"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 30
 published_at: 2026-03-30T12:00:15Z
 video_id: D-yp3sB8cu0

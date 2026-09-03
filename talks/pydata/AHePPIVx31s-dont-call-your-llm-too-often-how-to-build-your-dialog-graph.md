@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Evgeniya Ovchinnikova"]
-channel: "PyData"
+channel: null
 duration_min: 31
 published_at: 2026-08-04T22:20:41Z
 video_id: AHePPIVx31s

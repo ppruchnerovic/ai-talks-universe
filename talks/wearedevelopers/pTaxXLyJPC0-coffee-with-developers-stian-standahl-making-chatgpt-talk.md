@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2023
 speakers: ["Stian Standahl"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 39
 published_at: 2023-11-16T11:26:15Z
 video_id: pTaxXLyJPC0

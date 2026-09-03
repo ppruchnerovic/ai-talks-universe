@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Nancy Burditt"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 8
 published_at: 2025-10-31T07:07:54Z
 video_id: FixBGg7qws8

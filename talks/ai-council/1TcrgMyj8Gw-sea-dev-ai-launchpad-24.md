@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Matt Arderne"]
-channel: "AI Council"
+channel: null
 duration_min: 10
 published_at: 2024-04-22T21:34:42Z
 video_id: 1TcrgMyj8Gw

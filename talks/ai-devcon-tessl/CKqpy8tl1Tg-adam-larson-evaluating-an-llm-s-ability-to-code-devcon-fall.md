@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Adam Larson"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 25
 published_at: 2025-11-27T21:58:14Z
 video_id: CKqpy8tl1Tg

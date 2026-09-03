@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Tim Castillo"]
-channel: "AI Council"
+channel: null
 duration_min: 33
 published_at: 2024-04-19T13:00:09Z
 video_id: wgMw9hqsQQ8

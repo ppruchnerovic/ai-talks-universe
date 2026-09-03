@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Andrew Lamb"]
-channel: "AI Council"
+channel: null
 duration_min: 36
 published_at: 2024-04-19T05:00:10Z
 video_id: I-Z7kFGsYRI

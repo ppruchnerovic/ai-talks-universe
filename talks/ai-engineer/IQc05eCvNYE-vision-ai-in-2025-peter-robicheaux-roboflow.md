@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Peter Robicheaux"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-08-03T00:00:00Z
 video_id: IQc05eCvNYE

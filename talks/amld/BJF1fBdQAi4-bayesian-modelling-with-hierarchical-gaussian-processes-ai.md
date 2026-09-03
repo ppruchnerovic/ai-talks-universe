@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Damian Roqueiro"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 19
 published_at: 2024-05-15T08:32:29Z
 video_id: BJF1fBdQAi4

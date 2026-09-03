@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Daniël Floor"]
-channel: "Devoxx"
+channel: null
 duration_min: 48
 published_at: 2026-04-08T19:11:52Z
 video_id: SacYM4IGwUQ

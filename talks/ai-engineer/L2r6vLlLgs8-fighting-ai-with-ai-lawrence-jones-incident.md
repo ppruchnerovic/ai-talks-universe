@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Lawrence Jones"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-05-17T00:00:00Z
 video_id: L2r6vLlLgs8

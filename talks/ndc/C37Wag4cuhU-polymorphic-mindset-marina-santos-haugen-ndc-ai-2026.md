@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Polymorphic Mindset", "Marina Santos Haugen"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 64
 published_at: 2026-06-26T14:11:23Z
 video_id: C37Wag4cuhU

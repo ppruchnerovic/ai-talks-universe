@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Bhavana Sajja"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 36
 published_at: 2025-11-20T08:05:58Z
 video_id: -2PM_nLGWLo

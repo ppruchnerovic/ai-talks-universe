@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Alex Shershebnev"]
-channel: "Devoxx"
+channel: null
 duration_min: 34
 published_at: 2025-10-02T12:31:09Z
 video_id: 8inVNV8edTc

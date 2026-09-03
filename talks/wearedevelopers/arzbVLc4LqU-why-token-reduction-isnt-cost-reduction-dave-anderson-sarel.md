@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Dave Anderson", "Sarel Weinberger"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 41
 published_at: 2026-08-24T11:27:43Z
 video_id: arzbVLc4LqU

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Luca Baggi"]
-channel: "PyData"
+channel: null
 duration_min: 35
 published_at: 2026-06-15T15:54:11Z
 video_id: ex4x9b-yD8w

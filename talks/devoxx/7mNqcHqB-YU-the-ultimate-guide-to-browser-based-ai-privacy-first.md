@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["M. Salnikov"]
-channel: "Devoxx"
+channel: null
 duration_min: 46
 published_at: 2026-04-01T08:07:51Z
 video_id: 7mNqcHqB-YU

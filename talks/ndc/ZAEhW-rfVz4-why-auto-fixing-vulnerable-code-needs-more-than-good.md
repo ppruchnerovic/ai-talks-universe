@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Spyros Gasteratos"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 56
 published_at: 2026-01-29T16:30:11Z
 video_id: ZAEhW-rfVz4

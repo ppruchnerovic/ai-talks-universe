@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Phil Nash"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-04-08T11:00:16Z
 video_id: 4TxOBhDRRCM

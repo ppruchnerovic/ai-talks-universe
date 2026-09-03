@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Matt Pocock"]
-channel: "AI Engineer"
+channel: null
 duration_min: 96
 published_at: 2026-04-24T00:00:00Z
 video_id: -QFHIoCo-Ko

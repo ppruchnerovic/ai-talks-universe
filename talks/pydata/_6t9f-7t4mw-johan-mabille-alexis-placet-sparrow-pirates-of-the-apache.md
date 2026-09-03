@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Johan Mabille"]
-channel: "PyData"
+channel: null
 duration_min: 23
 published_at: 2025-11-21T16:25:21Z
 video_id: _6t9f-7t4mw

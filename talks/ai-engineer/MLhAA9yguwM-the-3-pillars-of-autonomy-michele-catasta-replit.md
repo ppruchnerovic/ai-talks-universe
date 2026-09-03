@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Michele Catasta"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2025-12-22T16:30:06Z
 video_id: MLhAA9yguwM

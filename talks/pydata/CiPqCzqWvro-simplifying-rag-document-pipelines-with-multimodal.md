@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Arne Grobrügge"]
-channel: "PyData"
+channel: null
 duration_min: 25
 published_at: 2026-08-04T22:21:36Z
 video_id: CiPqCzqWvro

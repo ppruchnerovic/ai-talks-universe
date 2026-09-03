@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Hannes Lowette"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 57
 published_at: 2026-07-03T10:39:17Z
 video_id: _1LEFUgHFJI

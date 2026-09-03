@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Jeroen Egelmeers"]
-channel: "Devoxx"
+channel: null
 duration_min: 46
 published_at: 2026-04-09T19:48:58Z
 video_id: q9rf6sIH6vQ

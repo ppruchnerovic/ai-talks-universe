@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Mike Driscoll"]
-channel: "AI Council"
+channel: null
 duration_min: 26
 published_at: 2025-05-29T06:59:59Z
 video_id: B5jPz4xqQLg

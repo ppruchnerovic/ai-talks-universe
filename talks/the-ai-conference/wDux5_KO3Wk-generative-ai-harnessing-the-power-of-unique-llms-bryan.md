@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []
-channel: "The AI Conference™"
+channel: null
 duration_min: 28
 published_at: 2023-10-31T17:24:00Z
 video_id: wDux5_KO3Wk

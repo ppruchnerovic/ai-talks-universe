@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Matt Palmer"]
-channel: "AI Engineer"
+channel: null
 duration_min: 11
 published_at: 2026-07-18T00:00:00Z
 video_id: yv6xovSsB1U

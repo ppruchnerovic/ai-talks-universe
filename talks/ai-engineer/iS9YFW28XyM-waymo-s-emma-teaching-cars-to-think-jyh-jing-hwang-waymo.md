@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jyh Jing Hwang"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-07-26T17:00:06Z
 video_id: iS9YFW28XyM

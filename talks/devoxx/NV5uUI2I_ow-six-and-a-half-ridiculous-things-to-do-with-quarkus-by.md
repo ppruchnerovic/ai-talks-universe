@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Holly Cummins"]
-channel: "Devoxx"
+channel: null
 duration_min: 47
 published_at: 2026-04-08T19:50:04Z
 video_id: NV5uUI2I_ow

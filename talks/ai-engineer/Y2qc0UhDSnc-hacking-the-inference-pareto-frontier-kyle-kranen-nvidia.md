@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kyle Kranen"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-08-01T13:45:06Z
 video_id: Y2qc0UhDSnc

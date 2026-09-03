@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Lars Trieloff"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 32
 published_at: 2026-07-02T07:06:51Z
 video_id: Uo-Y7AtPlas

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Raia Hadsell"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-04-18T23:20:35Z
 video_id: zZsTVBXcbow

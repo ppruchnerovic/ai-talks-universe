@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []
-channel: "InfoQ"
+channel: null
 duration_min: 50
 published_at: 2026-01-22T12:18:32Z
 video_id: kaPiA0Di6lw

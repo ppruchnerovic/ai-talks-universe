@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-06-20T21:00:06Z
 video_id: YRGjll7uu5w

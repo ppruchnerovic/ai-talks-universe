@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["Phillippe Schwaller"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 12
 published_at: 2026-02-13T08:57:24Z
 video_id: dY9AEbCAiOE

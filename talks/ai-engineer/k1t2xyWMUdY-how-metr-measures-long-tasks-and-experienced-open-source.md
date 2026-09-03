@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Joel Becker"]
-channel: "AI Engineer"
+channel: null
 duration_min: 76
 published_at: 2026-01-19T14:00:06Z
 video_id: k1t2xyWMUdY

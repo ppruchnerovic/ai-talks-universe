@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Tom Cools"]
-channel: "Devoxx"
+channel: null
 duration_min: 49
 published_at: 2025-10-09T05:35:18Z
 video_id: qjTxFjW0_n8

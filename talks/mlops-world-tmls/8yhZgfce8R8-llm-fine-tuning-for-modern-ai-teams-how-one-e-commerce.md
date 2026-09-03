@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Emmanuel Turlay"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 46
 published_at: 2024-05-16T15:07:02Z
 video_id: 8yhZgfce8R8

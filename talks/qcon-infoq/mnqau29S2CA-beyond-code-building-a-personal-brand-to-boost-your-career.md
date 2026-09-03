@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Roland Meertens", "Steef-Jan Wiggers"]
-channel: "InfoQ"
+channel: null
 duration_min: 49
 published_at: 2025-05-16T10:26:00+0000
 video_id: mnqau29S2CA

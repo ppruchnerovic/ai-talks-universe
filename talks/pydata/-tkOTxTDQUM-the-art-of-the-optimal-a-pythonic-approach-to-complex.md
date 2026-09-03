@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Justine Broihan"]
-channel: "PyData"
+channel: null
 duration_min: 33
 published_at: 2026-08-04T22:21:03Z
 video_id: -tkOTxTDQUM

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Vaibhav Gupta"]
-channel: "dotconferences"
+channel: null
 duration_min: 19
 published_at: 2025-11-14T14:16:07Z
 video_id: wD3zieaV0Yc

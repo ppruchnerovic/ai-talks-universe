@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Michael Backenköhler"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 14
 published_at: 2024-05-15T08:21:33Z
 video_id: yPhq3v1RJb4

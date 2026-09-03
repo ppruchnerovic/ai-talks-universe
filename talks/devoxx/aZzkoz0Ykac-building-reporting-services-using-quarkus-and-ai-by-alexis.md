@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Alexis Panousis", "Kostas Sidiropoulos"]
-channel: "Devoxx"
+channel: null
 duration_min: 42
 published_at: 2024-10-23T07:08:36Z
 video_id: aZzkoz0Ykac

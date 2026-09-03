@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sander Dieleman"]
-channel: "AI Engineer"
+channel: null
 duration_min: 41
 published_at: 2026-04-21T00:00:00Z
 video_id: xOP1PM8fwnk

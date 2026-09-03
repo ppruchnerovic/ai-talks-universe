@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Grant Lee"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-07-15T17:04:13Z
 video_id: q8zoXAbmJdI

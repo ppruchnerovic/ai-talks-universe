@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Adam Bittlingmayer"]
-channel: "PyData"
+channel: null
 duration_min: 52
 published_at: 2025-10-13T11:09:26Z
 video_id: 5Wrs_jmbOD4

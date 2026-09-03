@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Boris Starkov"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-05-29T14:00:06Z
 video_id: V-L0INGTEOg

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Sébastien Rumley"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 18
 published_at: 2024-06-17T10:56:03Z
 video_id: eFcHQ_6-qoI

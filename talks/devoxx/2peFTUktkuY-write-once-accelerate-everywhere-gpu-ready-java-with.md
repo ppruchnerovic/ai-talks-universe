@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Thanos Stratikopoulos"]
-channel: "Devoxx"
+channel: null
 duration_min: 44
 published_at: 2026-02-27T13:52:44Z
 video_id: 2peFTUktkuY

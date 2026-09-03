@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Christian Heilmann"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 17
 published_at: 2025-09-16T08:42:10Z
 video_id: tBfxxVeG7iw

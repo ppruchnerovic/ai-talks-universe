@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Tanarra Schneider", "Jenny Richards"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 37
 published_at: 2026-08-11T12:01:19Z
 video_id: 6umhKTgThpc

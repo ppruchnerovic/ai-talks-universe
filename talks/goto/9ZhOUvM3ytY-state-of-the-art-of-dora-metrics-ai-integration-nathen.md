@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Nathen Harvey"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 46
 published_at: 2026-01-30T13:28:01Z
 video_id: 9ZhOUvM3ytY

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Steve Ruiz"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-07-21T19:14:01Z
 video_id: 1C2TdPkj6aQ

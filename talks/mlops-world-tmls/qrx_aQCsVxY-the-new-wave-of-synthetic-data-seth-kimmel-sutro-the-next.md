@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Seth Kimmel"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 10
 published_at: 2025-10-31T07:08:25Z
 video_id: qrx_aQCsVxY

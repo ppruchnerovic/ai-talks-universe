@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jacob Kahn"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-12-17T00:00:00Z
 video_id: sYgE4ppDFOQ

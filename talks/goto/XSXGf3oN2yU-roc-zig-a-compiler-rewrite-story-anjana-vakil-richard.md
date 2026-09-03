@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Anjana Vakil", "Richard Feldman"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 32
 published_at: 2026-05-11T12:00:58Z
 video_id: XSXGf3oN2yU

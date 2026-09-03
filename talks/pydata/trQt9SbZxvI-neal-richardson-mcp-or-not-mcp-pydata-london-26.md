@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Neal Richardson"]
-channel: "PyData"
+channel: null
 duration_min: 35
 published_at: 2026-06-15T15:55:10Z
 video_id: trQt9SbZxvI

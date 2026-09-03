@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Merrill Lutsky"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 8
 published_at: 2025-10-25T13:00:46Z
 video_id: P4EWb6413y8

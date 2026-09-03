@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Frances Buontempo", "Matt Godbolt"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 30
 published_at: 2026-02-19T13:00:45Z
 video_id: PXKICIiXEUM

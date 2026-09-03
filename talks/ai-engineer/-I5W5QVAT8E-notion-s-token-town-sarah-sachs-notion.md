@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Notion's Token Town", "Sarah Sachs"]
-channel: "AI Engineer"
+channel: null
 duration_min: 24
 published_at: 2026-07-23T17:30:06Z
 video_id: -I5W5QVAT8E

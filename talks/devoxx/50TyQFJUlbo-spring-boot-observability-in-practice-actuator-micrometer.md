@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Patrick Baumgartner"]
-channel: "Devoxx"
+channel: null
 duration_min: 47
 published_at: 2026-03-30T17:45:49Z
 video_id: 50TyQFJUlbo

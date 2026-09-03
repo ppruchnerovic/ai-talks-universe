@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Ian Thomas"]
-channel: "PyData"
+channel: null
 duration_min: 39
 published_at: 2026-06-15T15:55:10Z
 video_id: xttVSAuv2Es

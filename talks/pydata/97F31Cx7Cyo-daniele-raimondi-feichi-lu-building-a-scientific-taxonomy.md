@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Daniele Raimondi"]
-channel: "PyData"
+channel: null
 duration_min: 37
 published_at: 2026-06-15T15:50:45Z
 video_id: 97F31Cx7Cyo

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Francesco Bonacci"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-07-15T00:00:00Z
 video_id: ZSQb5fzRFPw

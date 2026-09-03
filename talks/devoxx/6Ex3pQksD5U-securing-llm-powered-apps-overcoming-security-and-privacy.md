@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Brian Vermeer", "Lize Raes"]
-channel: "Devoxx"
+channel: null
 duration_min: 44
 published_at: 2025-03-31T20:41:11Z
 video_id: 6Ex3pQksD5U

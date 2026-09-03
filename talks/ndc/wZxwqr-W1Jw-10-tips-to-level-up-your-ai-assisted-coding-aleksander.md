@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Aleksander Stensby"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 60
 published_at: 2026-05-21T10:00:10Z
 video_id: wZxwqr-W1Jw

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Abhishek Murthy"]
-channel: "PyData"
+channel: null
 duration_min: 44
 published_at: 2026-05-05T03:22:04Z
 video_id: 9n3dpkzPmSc

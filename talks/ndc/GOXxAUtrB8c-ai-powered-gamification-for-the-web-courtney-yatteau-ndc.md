@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Courtney Yatteau"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 52
 published_at: 2026-08-05T08:12:35Z
 video_id: GOXxAUtrB8c

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: []
-channel: "Devoxx"
+channel: null
 duration_min: 51
 published_at: 2024-10-11T05:08:45Z
 video_id: zgAMxC7lzkc

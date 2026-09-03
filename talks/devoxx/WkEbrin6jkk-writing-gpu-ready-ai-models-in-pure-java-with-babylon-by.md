@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Lize Raes", "Ana Maria Mihalceanu"]
-channel: "Devoxx"
+channel: null
 duration_min: 59
 published_at: 2025-10-09T05:35:16Z
 video_id: WkEbrin6jkk

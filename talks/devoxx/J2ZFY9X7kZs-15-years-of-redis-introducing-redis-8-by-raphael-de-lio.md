@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Raphael De Lio"]
-channel: "Devoxx"
+channel: null
 duration_min: 15
 published_at: 2025-04-07T13:45:21Z
 video_id: J2ZFY9X7kZs

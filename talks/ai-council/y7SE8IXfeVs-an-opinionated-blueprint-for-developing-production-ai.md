@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Samuel Colvin"]
-channel: "AI Council"
+channel: null
 duration_min: 43
 published_at: 2025-06-26T17:24:00Z
 video_id: y7SE8IXfeVs

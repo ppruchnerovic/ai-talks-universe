@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Arjun Krishna"]
-channel: "CAMLIS"
+channel: null
 duration_min: 26
 published_at: 2025-11-14T08:26:10Z
 video_id: HSKY8zQYzFI

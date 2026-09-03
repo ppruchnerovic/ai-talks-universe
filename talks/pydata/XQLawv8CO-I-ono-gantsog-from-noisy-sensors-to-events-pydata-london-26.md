@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Ono Gantsog"]
-channel: "PyData"
+channel: null
 duration_min: 29
 published_at: 2026-06-15T15:54:08Z
 video_id: XQLawv8CO-I

@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Steven Leung"]
-channel: "CAMLIS"
+channel: null
 duration_min: 23
 published_at: 2025-11-14T08:05:43Z
 video_id: uJFlUIdvs4Q

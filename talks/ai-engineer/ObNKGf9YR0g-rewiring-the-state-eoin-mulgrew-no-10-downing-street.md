@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Eoin Mulgrew"]
-channel: "AI Engineer"
+channel: null
 duration_min: 28
 published_at: 2026-05-18T17:00:06Z
 video_id: ObNKGf9YR0g

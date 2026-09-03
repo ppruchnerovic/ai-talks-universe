@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Shivam Verma"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-05-19T13:00:06Z
 video_id: 5YSJEP0HWzM

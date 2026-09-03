@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Raising First Funding Round", "Pepe Agell"]
-channel: "Slush"
+channel: null
 duration_min: 28
 published_at: 2025-11-26T15:09:24Z
 video_id: 62vsHYASJhI

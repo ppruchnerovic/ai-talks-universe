@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []
-channel: "BSidesLV"
+channel: null
 duration_min: 23
 published_at: 2024-09-04T22:18:02Z
 video_id: gg9Ra7pYvHs

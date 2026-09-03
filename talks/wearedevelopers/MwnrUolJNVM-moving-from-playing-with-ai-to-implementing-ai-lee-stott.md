@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Lee Stott"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 19
 published_at: 2026-08-07T09:34:10Z
 video_id: MwnrUolJNVM

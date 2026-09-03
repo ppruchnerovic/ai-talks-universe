@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: ["Crisis Text Line"]
-channel: "AI Council"
+channel: null
 duration_min: 37
 published_at: 2023-05-11T18:59:47Z
 video_id: VWrQP0J4SY4

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Miguel Paredes"]
-channel: "AI Council"
+channel: null
 duration_min: 12
 published_at: 2024-04-19T05:00:31Z
 video_id: cfngqBE4AG0

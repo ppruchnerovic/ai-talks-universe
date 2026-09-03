@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Michelle Frost"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 61
 published_at: 2026-03-03T09:36:18Z
 video_id: 8N_ia-JGSc8

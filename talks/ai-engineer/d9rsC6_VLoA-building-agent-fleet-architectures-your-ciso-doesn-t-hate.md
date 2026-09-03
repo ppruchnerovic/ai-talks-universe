@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Lou Bichard"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2025-06-27T00:00:00Z
 video_id: d9rsC6_VLoA

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Paco Valdez"]
-channel: "AI Council"
+channel: null
 duration_min: 23
 published_at: 2024-04-19T05:00:30Z
 video_id: Y8t0e5aS0X4

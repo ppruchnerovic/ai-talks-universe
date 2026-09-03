@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Etienne Dilocker"]
-channel: "AI Council"
+channel: null
 duration_min: 28
 published_at: 2025-05-29T14:05:28Z
 video_id: kxy0Dofm3DI

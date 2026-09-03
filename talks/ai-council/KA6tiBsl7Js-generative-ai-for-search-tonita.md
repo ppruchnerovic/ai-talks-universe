@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: ["D. Sivakumar"]
-channel: "AI Council"
+channel: null
 duration_min: 44
 published_at: 2023-05-11T18:59:35Z
 video_id: KA6tiBsl7Js

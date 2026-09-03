@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Alessandra Pasini", "Arnaud Jean"]
-channel: "Devoxx"
+channel: null
 duration_min: 43
 published_at: 2026-04-01T08:05:27Z
 video_id: KDHFBVaVkLU

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ari Morcos"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-07-31T00:00:00Z
 video_id: _PdK6x7PQNM

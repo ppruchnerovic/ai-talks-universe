@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Michael Yuan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 29
 published_at: 2025-06-03T22:22:27Z
 video_id: bbq0b_FpYEY

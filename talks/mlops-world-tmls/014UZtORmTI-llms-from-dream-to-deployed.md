@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Josh Goldstein"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 29
 published_at: 2024-05-16T12:49:58Z
 video_id: 014UZtORmTI

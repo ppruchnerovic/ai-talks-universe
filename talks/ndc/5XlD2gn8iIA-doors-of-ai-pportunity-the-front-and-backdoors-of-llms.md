@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Doors of", "Kasimir Schulz", "Kenneth Yeung"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 53
 published_at: 2026-07-28T13:00:10Z
 video_id: 5XlD2gn8iIA

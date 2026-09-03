@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Josh Albrecht"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-07-25T00:00:00Z
 video_id: x_1EumTaXeE

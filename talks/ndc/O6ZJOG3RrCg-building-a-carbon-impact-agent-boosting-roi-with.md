@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Darshna Shah"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 51
 published_at: 2026-02-11T13:55:34Z
 video_id: O6ZJOG3RrCg

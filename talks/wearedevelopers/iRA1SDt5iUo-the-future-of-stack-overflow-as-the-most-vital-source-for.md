@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Prashanth Chandrasekar"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 31
 published_at: 2025-09-09T11:46:52Z
 video_id: iRA1SDt5iUo

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ido Salomon"]
-channel: "AI Engineer"
+channel: null
 duration_min: 11
 published_at: 2026-04-25T00:00:00Z
 video_id: kR64LOqBBCU

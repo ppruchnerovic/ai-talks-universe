@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Itamar Friedman"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2025-08-06T15:59:51Z
 video_id: n991Yxo1aOI

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Aaron Stannard"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 51
 published_at: 2026-07-07T09:14:24Z
 video_id: deke8dAsLTI

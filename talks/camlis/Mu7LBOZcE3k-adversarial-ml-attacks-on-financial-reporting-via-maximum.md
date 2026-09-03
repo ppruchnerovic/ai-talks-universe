@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Edward Raff"]
-channel: "CAMLIS"
+channel: null
 duration_min: 31
 published_at: 2025-11-14T07:28:27Z
 video_id: Mu7LBOZcE3k

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Mario Fusco Daniele Zonca"]
-channel: "Devoxx"
+channel: null
 duration_min: 45
 published_at: 2025-01-20T19:58:31Z
 video_id: kr_iQjTEU3o

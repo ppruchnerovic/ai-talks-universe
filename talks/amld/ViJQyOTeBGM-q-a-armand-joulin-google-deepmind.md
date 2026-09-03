@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["Armand Joulin"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 11
 published_at: 2026-02-13T10:16:04Z
 video_id: ViJQyOTeBGM

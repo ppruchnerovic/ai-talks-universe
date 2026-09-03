@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []
-channel: "The AI Conference™"
+channel: null
 duration_min: 22
 published_at: 2025-07-09T21:21:34Z
 video_id: jfCQJVifSYg

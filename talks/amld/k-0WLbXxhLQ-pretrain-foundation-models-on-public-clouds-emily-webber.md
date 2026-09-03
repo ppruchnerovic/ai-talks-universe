@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Emily Webber"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 26
 published_at: 2023-10-05T16:19:30Z
 video_id: k-0WLbXxhLQ

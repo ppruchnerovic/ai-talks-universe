@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Unmasking Unfair Correlation", "Jana Mareckova"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 17
 published_at: 2024-05-15T07:52:04Z
 video_id: 9rsbkh9pLPk

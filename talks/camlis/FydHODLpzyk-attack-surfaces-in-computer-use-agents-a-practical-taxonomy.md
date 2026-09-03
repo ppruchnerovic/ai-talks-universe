@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Daniel Jones"]
-channel: "CAMLIS"
+channel: null
 duration_min: 33
 published_at: 2025-11-14T08:23:47Z
 video_id: FydHODLpzyk

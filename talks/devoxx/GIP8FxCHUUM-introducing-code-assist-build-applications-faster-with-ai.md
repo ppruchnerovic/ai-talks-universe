@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Marc Gueury", "John Karasoulos"]
-channel: "Devoxx"
+channel: null
 duration_min: 43
 published_at: 2024-10-11T05:09:40Z
 video_id: GIP8FxCHUUM

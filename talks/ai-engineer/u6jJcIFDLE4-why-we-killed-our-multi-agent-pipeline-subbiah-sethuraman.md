@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Subbiah Sethuraman", "Abhilash Asokan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2026-07-23T05:00:02Z
 video_id: u6jJcIFDLE4

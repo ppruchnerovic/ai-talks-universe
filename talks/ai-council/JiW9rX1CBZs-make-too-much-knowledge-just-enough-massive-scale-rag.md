@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Skyler Thomas"]
-channel: "AI Council"
+channel: null
 duration_min: 34
 published_at: 2025-05-29T07:35:42Z
 video_id: JiW9rX1CBZs

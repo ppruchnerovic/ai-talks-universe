@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Lina Weichbrodt"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 56
 published_at: 2023-08-18T01:36:05Z
 video_id: mxsr18_7n6U

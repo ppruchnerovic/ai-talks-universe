@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Robert van Kommer"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 7
 published_at: 2024-06-18T11:52:01Z
 video_id: _XbWxeD6Z7M

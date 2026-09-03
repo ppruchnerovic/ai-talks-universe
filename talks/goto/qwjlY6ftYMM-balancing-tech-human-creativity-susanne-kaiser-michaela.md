@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Susanne Kaiser"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 26
 published_at: 2025-03-28T10:56:15Z
 video_id: qwjlY6ftYMM

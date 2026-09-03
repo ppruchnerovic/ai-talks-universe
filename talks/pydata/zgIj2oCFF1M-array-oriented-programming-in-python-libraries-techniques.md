@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Iason Krommydas"]
-channel: "PyData"
+channel: null
 duration_min: 67
 published_at: 2026-08-04T22:20:21Z
 video_id: zgIj2oCFF1M

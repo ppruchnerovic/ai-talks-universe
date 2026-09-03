@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Julien Launay"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 42
 published_at: 2023-10-05T16:19:12Z
 video_id: jsyL9ak3QOs

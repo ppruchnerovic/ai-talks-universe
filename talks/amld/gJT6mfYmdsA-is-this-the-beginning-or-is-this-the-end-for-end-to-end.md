@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Ani Kembhavi"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 40
 published_at: 2023-10-05T16:19:22Z
 video_id: gJT6mfYmdsA

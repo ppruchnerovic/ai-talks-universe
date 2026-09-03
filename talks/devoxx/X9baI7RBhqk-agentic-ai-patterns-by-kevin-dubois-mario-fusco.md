@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Kevin Dubois", "Mario Fusco"]
-channel: "Devoxx"
+channel: null
 duration_min: 52
 published_at: 2025-10-10T05:10:29Z
 video_id: X9baI7RBhqk

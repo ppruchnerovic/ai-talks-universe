@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Dr. Hemant Joshi"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 85
 published_at: 2025-10-24T23:00:45Z
 video_id: zz_wDFIyJyQ

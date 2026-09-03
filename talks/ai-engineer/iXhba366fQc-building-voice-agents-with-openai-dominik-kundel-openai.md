@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dominik Kundel"]
-channel: "AI Engineer"
+channel: null
 duration_min: 86
 published_at: 2025-06-29T00:00:00Z
 video_id: iXhba366fQc

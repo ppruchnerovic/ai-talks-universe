@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ahmad Awais"]
-channel: "AI Engineer"
+channel: null
 duration_min: 27
 published_at: 2025-06-03T22:23:31Z
 video_id: fcPUqxfrE6Y

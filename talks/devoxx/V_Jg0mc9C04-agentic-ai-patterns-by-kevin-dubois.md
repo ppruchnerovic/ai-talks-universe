@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Kevin Dubois"]
-channel: "Devoxx"
+channel: null
 duration_min: 49
 published_at: 2026-02-27T13:52:47Z
 video_id: V_Jg0mc9C04

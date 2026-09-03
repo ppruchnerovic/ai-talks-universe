@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jesse Han"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-08-01T14:30:06Z
 video_id: 2goSS66XRBk

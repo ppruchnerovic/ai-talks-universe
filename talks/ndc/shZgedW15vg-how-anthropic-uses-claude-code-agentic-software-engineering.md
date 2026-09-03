@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Daisy Hollman"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 60
 published_at: 2026-08-11T07:46:56Z
 video_id: shZgedW15vg

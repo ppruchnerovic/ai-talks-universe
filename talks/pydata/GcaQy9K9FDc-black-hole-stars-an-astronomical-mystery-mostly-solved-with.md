@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Raphael Hviding"]
-channel: "PyData"
+channel: null
 duration_min: 31
 published_at: 2026-08-04T22:20:43Z
 video_id: GcaQy9K9FDc

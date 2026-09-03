@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Alex Dimakis"]
-channel: "AI Council"
+channel: null
 duration_min: 17
 published_at: 2024-04-19T05:00:18Z
 video_id: ba-aqPF6xuw

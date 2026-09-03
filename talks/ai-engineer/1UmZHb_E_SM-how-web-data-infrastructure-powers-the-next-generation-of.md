@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-08-14T17:00:37Z
 video_id: 1UmZHb_E_SM

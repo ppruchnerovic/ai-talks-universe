@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Elena Labenets"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 13
 published_at: 2024-05-15T09:02:11Z
 video_id: vWGUDHYErM8

@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Jacob Wallenberg"]
-channel: "Slush"
+channel: null
 duration_min: 18
 published_at: 2025-11-28T13:17:03Z
 video_id: 9rNmUPEWkBk

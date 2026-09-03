@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Monica Beckwith", "Kirk Pepperdine"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 51
 published_at: 2025-01-17T10:27:33Z
 video_id: z1t_ShLop7U

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Marc Duiker"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 60
 published_at: 2026-02-25T11:23:45Z
 video_id: rY8GpdjVQL0

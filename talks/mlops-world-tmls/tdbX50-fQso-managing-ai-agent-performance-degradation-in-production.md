@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Kumaran Ponnambalam"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 28
 published_at: 2025-10-24T23:00:01Z
 video_id: tdbX50-fQso

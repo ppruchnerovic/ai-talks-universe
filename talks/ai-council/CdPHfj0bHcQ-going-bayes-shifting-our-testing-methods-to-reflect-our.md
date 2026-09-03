@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Joseph Powers"]
-channel: "AI Council"
+channel: null
 duration_min: 33
 published_at: 2025-06-19T15:14:13Z
 video_id: CdPHfj0bHcQ

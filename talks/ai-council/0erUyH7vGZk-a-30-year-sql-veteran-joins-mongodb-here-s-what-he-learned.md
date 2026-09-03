@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Franck Pachot"]
-channel: "AI Council"
+channel: null
 duration_min: 41
 published_at: 2025-05-29T14:00:35Z
 video_id: 0erUyH7vGZk

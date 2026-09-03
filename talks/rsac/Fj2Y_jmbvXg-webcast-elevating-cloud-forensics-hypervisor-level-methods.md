@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Prasad Purnaye"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 25
 published_at: 2024-10-04T15:54:23Z
 video_id: Fj2Y_jmbvXg

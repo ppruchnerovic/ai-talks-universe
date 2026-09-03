@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Ansgar Grüne"]
-channel: "PyData"
+channel: null
 duration_min: 44
 published_at: 2025-11-23T14:33:51Z
 video_id: JOye06P5JZI

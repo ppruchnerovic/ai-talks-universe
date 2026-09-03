@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Neal Ford"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 25
 published_at: 2025-11-21T01:28:52Z
 video_id: x4ZLSvVki3I

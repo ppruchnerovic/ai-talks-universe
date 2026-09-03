@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jeffrey Wang"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-08-26T16:00:26Z
 video_id: 6pbQgnJ9Voc

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Giancarlo Mattia"]
-channel: "PyData"
+channel: null
 duration_min: 27
 published_at: 2026-08-04T22:21:22Z
 video_id: VUoxwMPVG8I

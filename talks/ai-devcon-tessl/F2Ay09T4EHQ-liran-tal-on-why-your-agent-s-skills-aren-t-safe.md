@@ -1,14 +1,14 @@
 ---
 id: F2Ay09T4EHQ
-title: "GitHub, Snyk, Docker & Anthropic on Securing AI Agents"
-slug: github-snyk-docker-anthropic-on-securing-ai-agents
+title: "Liran Tal on Why Your Agent's Skills Aren't Safe"
+slug: liran-tal-on-why-your-agent-s-skills-aren-t-safe
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
 category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
-channel: "AI Native Dev"
+channel: null
 duration_min: 10
 published_at: 2026-08-31T16:00:25Z
 video_id: F2Ay09T4EHQ
@@ -19,7 +19,7 @@ topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 
-# GitHub, Snyk, Docker & Anthropic on Securing AI Agents
+# Liran Tal on Why Your Agent's Skills Aren't Safe
 
 **Speaker not identified**
 

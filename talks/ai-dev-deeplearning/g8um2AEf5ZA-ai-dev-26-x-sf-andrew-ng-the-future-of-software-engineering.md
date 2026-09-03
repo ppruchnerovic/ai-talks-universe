@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []
-channel: "DeepLearningAI"
+channel: null
 duration_min: 19
 published_at: 2026-05-20T18:30:55Z
 video_id: g8um2AEf5ZA

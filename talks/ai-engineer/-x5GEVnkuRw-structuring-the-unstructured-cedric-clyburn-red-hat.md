@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Cedric Clyburn"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-06-28T16:30:39Z
 video_id: -x5GEVnkuRw

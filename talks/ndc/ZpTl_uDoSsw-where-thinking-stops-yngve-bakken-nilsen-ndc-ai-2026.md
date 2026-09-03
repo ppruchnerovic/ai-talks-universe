@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Yngve Bakken Nilsen"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 39
 published_at: 2026-06-30T07:46:41Z
 video_id: ZpTl_uDoSsw

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Lena Hall"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-08-29T18:00:34Z
 video_id: 1KOdiGgMtpY

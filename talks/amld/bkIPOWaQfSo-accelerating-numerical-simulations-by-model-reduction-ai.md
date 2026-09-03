@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Christopher L. Buckley"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 27
 published_at: 2024-05-24T08:07:23Z
 video_id: bkIPOWaQfSo

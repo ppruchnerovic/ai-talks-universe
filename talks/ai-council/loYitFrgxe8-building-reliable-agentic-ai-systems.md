@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Eno Reyes"]
-channel: "AI Council"
+channel: null
 duration_min: 27
 published_at: 2025-05-29T07:24:29Z
 video_id: loYitFrgxe8

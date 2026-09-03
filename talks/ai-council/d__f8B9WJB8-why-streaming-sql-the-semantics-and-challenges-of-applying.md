@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Micah Wylde"]
-channel: "AI Council"
+channel: null
 duration_min: 34
 published_at: 2024-04-19T05:00:20Z
 video_id: d__f8B9WJB8

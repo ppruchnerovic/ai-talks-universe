@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []
-channel: "BSidesLV"
+channel: null
 duration_min: 46
 published_at: 2025-12-08T00:38:46Z
 video_id: pQNgIF2r7as

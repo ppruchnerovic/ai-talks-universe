@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Radek Kargul"]
-channel: "Devoxx"
+channel: null
 duration_min: 18
 published_at: 2026-04-01T08:05:29Z
 video_id: V1xvxi7kMGs

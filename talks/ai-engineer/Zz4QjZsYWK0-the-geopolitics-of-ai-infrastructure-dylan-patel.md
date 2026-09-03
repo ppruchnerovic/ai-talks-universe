@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dylan Patel"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-06-19T23:10:59Z
 video_id: Zz4QjZsYWK0

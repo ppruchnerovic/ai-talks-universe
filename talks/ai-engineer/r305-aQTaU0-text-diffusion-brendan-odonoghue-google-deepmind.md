@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Text Diffusion"]
-channel: "AI Engineer"
+channel: null
 duration_min: 28
 published_at: 2026-06-04T18:00:06Z
 video_id: r305-aQTaU0

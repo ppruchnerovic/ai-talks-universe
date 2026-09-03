@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Daniel Szoke"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-05-27T15:00:06Z
 video_id: ugUeZ8-b-u0

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Ma Theresa Pareno"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 15
 published_at: 2024-05-13T09:44:03Z
 video_id: JN8WEUY9pdE

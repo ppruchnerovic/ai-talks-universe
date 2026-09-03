@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Vipul Raheja"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 25
 published_at: 2024-05-15T18:17:48Z
 video_id: P1mJ-s8IwzQ

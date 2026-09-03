@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ash Prabaker", "Andrew Wilson"]
-channel: "AI Engineer"
+channel: null
 duration_min: 76
 published_at: 2026-05-18T00:00:00Z
 video_id: mR-WAvEPRwE

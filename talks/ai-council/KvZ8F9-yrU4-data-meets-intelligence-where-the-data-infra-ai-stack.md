@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Naveen Rao"]
-channel: "AI Council"
+channel: null
 duration_min: 42
 published_at: 2025-05-29T16:09:53Z
 video_id: KvZ8F9-yrU4

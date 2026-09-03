@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Sarah Sachs"]
-channel: "AI Engineer"
+channel: null
 duration_min: 104
 published_at: 2025-06-27T10:40:32Z
 video_id: 6YdPI9YbjbI

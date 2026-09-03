@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Francesco Ciulla"]
-channel: "Devoxx"
+channel: null
 duration_min: 31
 published_at: 2024-10-23T07:08:31Z
 video_id: 0q8dJqErMX4

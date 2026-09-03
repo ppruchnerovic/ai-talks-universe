@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["David Haber"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 45
 published_at: 2024-06-10T21:15:27Z
 video_id: _g7Qwfw22cI

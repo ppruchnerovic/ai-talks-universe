@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Emil Eifrem"]
-channel: "AI Engineer"
+channel: null
 duration_min: 11
 published_at: 2026-07-22T17:00:38Z
 video_id: VGN22pPpb-8

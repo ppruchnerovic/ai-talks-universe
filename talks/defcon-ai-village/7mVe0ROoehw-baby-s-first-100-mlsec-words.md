@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "AI Village"
 year: 2020
 speakers: []
-channel: "aivillage"
+channel: null
 duration_min: 30
 published_at: 2020-08-08T04:21:07Z
 video_id: 7mVe0ROoehw

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Steve Sanderson"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 60
 published_at: 2025-06-30T12:45:08Z
 video_id: WzF5XpzkZeg

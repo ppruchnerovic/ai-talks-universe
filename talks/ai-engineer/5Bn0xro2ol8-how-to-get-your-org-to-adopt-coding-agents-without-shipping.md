@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Eyal Blum"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-08-28T17:00:33Z
 video_id: 5Bn0xro2ol8

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Dean Pleban"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 40
 published_at: 2023-05-29T05:19:19Z
 video_id: -RR4YiW_qng

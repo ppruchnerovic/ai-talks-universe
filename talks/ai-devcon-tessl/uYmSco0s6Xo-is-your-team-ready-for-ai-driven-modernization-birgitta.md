@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Birgitta Böckeler"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 56
 published_at: 2025-09-02T13:01:52Z
 video_id: uYmSco0s6Xo

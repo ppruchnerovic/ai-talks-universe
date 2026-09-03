@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Susanne Kaiser", "James Lewis"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 30
 published_at: 2026-02-05T13:00:45Z
 video_id: NwtE82Wzs_U

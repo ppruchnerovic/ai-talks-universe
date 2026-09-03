@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Suman Karumuri"]
-channel: "AI Council"
+channel: null
 duration_min: 31
 published_at: 2024-04-19T05:00:02Z
 video_id: 2cFx4O0Zz18

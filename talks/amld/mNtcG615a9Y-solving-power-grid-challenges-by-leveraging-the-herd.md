@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Antoine Marot"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 31
 published_at: 2024-05-13T12:34:11Z
 video_id: mNtcG615a9Y

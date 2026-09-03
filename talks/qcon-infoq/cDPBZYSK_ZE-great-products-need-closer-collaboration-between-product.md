@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
-channel: "InfoQ"
+channel: null
 duration_min: 22
 published_at: 2024-10-04T09:20:43Z
 video_id: cDPBZYSK_ZE

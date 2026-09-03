@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Elisabeth Hendrickson"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 63
 published_at: 2026-06-11T12:00:14Z
 video_id: 8tNtZMm3Hyc

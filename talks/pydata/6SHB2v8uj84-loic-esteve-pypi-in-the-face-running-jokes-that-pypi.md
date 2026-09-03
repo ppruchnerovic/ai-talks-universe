@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Loïc Estève"]
-channel: "PyData"
+channel: null
 duration_min: 29
 published_at: 2025-12-16T15:17:10Z
 video_id: 6SHB2v8uj84

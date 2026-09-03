@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vaidas Razgaitis"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2026-06-28T19:30:02Z
 video_id: OXMMN-XbxwA

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: ["Trail of Bits"]
-channel: "AI Council"
+channel: null
 duration_min: 38
 published_at: 2026-06-17T22:35:53Z
 video_id: DmSVF0ZfTGo

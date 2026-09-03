@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Sebastian Wallkötter"]
-channel: "PyData"
+channel: null
 duration_min: 49
 published_at: 2026-03-01T01:13:43Z
 video_id: cpg6yg42Cy0

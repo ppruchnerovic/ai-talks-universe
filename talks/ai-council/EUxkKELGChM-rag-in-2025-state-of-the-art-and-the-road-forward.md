@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Tengyu Ma"]
-channel: "AI Council"
+channel: null
 duration_min: 25
 published_at: 2025-05-29T07:19:36Z
 video_id: EUxkKELGChM

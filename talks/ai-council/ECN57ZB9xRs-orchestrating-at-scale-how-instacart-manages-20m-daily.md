@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Anant Agarwal"]
-channel: "AI Council"
+channel: null
 duration_min: 30
 published_at: 2025-05-29T15:34:38Z
 video_id: ECN57ZB9xRs

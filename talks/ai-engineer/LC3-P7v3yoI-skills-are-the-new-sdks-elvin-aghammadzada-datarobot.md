@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Elvin Aghammadzada"]
-channel: "AI Engineer"
+channel: null
 duration_min: 27
 published_at: 2026-07-20T06:24:53Z
 video_id: LC3-P7v3yoI

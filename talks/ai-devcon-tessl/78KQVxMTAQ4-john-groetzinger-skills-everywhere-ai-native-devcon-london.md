@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["John Groetzinger"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 30
 published_at: 2026-06-25T06:27:16Z
 video_id: 78KQVxMTAQ4

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Arthur Hrast"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 20
 published_at: 2024-06-17T13:09:12Z
 video_id: 76b1SCWYG9c

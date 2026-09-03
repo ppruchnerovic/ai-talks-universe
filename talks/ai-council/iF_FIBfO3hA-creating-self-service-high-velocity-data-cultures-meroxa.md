@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: ["Creating Self Service"]
-channel: "AI Council"
+channel: null
 duration_min: 23
 published_at: 2023-05-11T19:00:14Z
 video_id: iF_FIBfO3hA

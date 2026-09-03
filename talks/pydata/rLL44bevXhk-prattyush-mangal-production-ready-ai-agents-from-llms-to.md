@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Prattyush Mangal"]
-channel: "PyData"
+channel: null
 duration_min: 36
 published_at: 2026-06-15T15:55:09Z
 video_id: rLL44bevXhk

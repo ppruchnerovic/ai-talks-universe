@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["William Lyon"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 49
 published_at: 2026-04-10T09:03:02Z
 video_id: -qbcIbmiv7g

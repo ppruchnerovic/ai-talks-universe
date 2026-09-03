@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Claudio Giorgio Giancaterino"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-08-04T22:20:22Z
 video_id: LNki_OFpxf0

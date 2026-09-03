@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Tod Golding", "Bill Tarr"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 41
 published_at: 2025-01-24T10:39:41Z
 video_id: gMsE9UhkiWY

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Marion Ficher"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 10
 published_at: 2024-05-15T13:02:56Z
 video_id: 2W9AdUCg9yU

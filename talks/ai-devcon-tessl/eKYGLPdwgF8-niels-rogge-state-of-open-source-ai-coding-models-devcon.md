@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Niels Rogge"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 25
 published_at: 2025-11-26T01:49:58Z
 video_id: eKYGLPdwgF8

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Enea Parimbelli"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 18
 published_at: 2024-05-15T11:33:33Z
 video_id: ell_rWbuA7U

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ofer Mendelevitch"]
-channel: "AI Engineer"
+channel: null
 duration_min: 5
 published_at: 2025-06-03T07:00:06Z
 video_id: 1cQlnfwmIdU

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Timur Sattarov"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 23
 published_at: 2024-05-13T14:25:27Z
 video_id: 99_uEPT2Ygk

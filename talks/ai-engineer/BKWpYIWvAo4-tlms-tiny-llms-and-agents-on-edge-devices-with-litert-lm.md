@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Cormac Brick"]
-channel: "AI Engineer"
+channel: null
 duration_min: 81
 published_at: 2026-05-03T22:00:06Z
 video_id: BKWpYIWvAo4

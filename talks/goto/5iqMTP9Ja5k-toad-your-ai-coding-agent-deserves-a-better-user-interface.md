@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: []
-channel: "GOTO Conferences"
+channel: null
 duration_min: 37
 published_at: 2026-04-13T12:00:18Z
 video_id: 5iqMTP9Ja5k

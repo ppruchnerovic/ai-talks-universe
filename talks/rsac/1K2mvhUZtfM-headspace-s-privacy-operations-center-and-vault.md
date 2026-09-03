@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Shobhit Mehta"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 50
 published_at: 2024-06-10T21:15:20Z
 video_id: 1K2mvhUZtfM

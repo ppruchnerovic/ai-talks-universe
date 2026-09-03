@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Stefan Dienst"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-08-04T22:21:48Z
 video_id: M0lHvt1PWiQ

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Jannik Hollenbach", "Björn Kimminich"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 65
 published_at: 2026-05-07T09:38:44Z
 video_id: O43oqSEJFQI

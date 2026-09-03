@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Ravi Chandu", "Stephen Ellis"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 31
 published_at: 2025-10-23T05:08:16Z
 video_id: oGCD5BOK6tM

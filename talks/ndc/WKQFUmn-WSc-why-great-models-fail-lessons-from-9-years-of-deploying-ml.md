@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Megan Robertson"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 59
 published_at: 2026-08-13T11:49:33Z
 video_id: WKQFUmn-WSc

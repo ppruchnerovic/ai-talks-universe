@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Robert Shelton"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 5
 published_at: 2025-10-29T21:56:11Z
 video_id: MH-Z5UCg86M

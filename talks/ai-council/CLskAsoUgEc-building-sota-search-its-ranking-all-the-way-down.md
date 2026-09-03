@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["David Karam"]
-channel: "AI Council"
+channel: null
 duration_min: 19
 published_at: 2025-05-29T00:42:16Z
 video_id: CLskAsoUgEc

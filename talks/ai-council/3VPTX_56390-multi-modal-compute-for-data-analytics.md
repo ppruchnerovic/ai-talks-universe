@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Ganesh Ramanarayanan"]
-channel: "AI Council"
+channel: null
 duration_min: 26
 published_at: 2025-05-29T07:01:04Z
 video_id: 3VPTX_56390

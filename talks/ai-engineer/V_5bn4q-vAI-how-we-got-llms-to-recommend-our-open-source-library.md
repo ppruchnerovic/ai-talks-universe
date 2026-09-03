@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Christopher Burns"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-08-26T15:30:07Z
 video_id: V_5bn4q-vAI

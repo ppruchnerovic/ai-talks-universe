@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Dru Knox"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 33
 published_at: 2025-11-27T15:46:47Z
 video_id: YGURXcSIA3U

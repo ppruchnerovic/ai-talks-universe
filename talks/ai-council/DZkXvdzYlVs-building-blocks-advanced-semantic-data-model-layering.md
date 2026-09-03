@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Lloyd Tabb"]
-channel: "AI Council"
+channel: null
 duration_min: 29
 published_at: 2025-05-29T07:02:04Z
 video_id: DZkXvdzYlVs

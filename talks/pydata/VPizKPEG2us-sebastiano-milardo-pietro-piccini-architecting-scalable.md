@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Sebastiano Milardo", "Pietro Piccini"]
-channel: "PyData"
+channel: null
 duration_min: 33
 published_at: 2025-11-21T16:26:34Z
 video_id: VPizKPEG2us

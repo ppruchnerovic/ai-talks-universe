@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jacob E. Thomas"]
-channel: "AI Engineer"
+channel: null
 duration_min: 58
 published_at: 2026-06-25T16:30:06Z
 video_id: IJXjTLPzvAU

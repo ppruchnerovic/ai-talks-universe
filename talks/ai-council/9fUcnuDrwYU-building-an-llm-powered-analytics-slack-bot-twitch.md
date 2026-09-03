@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Ethan Brown"]
-channel: "AI Council"
+channel: null
 duration_min: 33
 published_at: 2025-05-29T07:38:42Z
 video_id: 9fUcnuDrwYU

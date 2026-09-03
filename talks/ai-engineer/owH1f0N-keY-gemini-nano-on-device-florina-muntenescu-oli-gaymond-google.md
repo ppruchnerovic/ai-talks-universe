@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Florina Muntenescu", "Oli Gaymond"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-05-22T00:00:00Z
 video_id: owH1f0N-keY

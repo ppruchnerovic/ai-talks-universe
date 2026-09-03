@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Prof. David Brumley"]
-channel: "AI Engineer"
+channel: null
 duration_min: 27
 published_at: 2026-08-01T00:30:06Z
 video_id: ZFxh7sqbUZo

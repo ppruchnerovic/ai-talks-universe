@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["E. De Jong", "V. Botha"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 30
 published_at: 2024-06-06T13:27:53Z
 video_id: 4lx4As_e_l0

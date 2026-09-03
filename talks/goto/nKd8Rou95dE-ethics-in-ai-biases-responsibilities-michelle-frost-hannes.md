@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Michelle Frost", "Hannes Lowette"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 40
 published_at: 2025-09-09T12:57:31Z
 video_id: nKd8Rou95dE

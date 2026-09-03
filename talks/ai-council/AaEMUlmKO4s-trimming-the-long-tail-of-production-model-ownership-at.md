@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Jonathan Jin"]
-channel: "AI Council"
+channel: null
 duration_min: 29
 published_at: 2025-05-29T13:30:28Z
 video_id: AaEMUlmKO4s

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Lin Liu"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 24
 published_at: 2025-10-20T22:06:35Z
 video_id: RFTy5Ed84IQ

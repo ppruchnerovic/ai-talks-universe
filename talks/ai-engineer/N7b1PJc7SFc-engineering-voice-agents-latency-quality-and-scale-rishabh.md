@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rishabh Bhargava"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2026-05-31T00:00:00Z
 video_id: N7b1PJc7SFc

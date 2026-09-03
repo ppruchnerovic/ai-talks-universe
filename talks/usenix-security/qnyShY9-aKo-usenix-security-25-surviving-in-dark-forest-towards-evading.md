@@ -5,10 +5,10 @@ slug: usenix-security-25-surviving-in-dark-forest-towards-evading
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
 category: "Security conferences"
-edition: "USENIX"
+edition: "USENIX Security"
 year: 2025
 speakers: []
-channel: "USENIX"
+channel: null
 duration_min: 21
 published_at: 2025-10-30T19:58:16Z
 video_id: qnyShY9-aKo
@@ -23,7 +23,7 @@ transcript: false
 
 **Speaker not identified**
 
-`USENIX Security Symposium` · `USENIX` · `2025` · `21 min`
+`USENIX Security Symposium` · `USENIX Security` · `2025` · `21 min`
 
 `#usenix` `#technology` `#conference` `#open access`
 

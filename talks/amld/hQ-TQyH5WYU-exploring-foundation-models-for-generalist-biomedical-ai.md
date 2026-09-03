@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Shekoofeh Azizi"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 40
 published_at: 2023-10-05T16:20:48Z
 video_id: hQ-TQyH5WYU

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Christoph Heitz"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 29
 published_at: 2024-05-15T07:28:25Z
 video_id: rvCRmTQENIM

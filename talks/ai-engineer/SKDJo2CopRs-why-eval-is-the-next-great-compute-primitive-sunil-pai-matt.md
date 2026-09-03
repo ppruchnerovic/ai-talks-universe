@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sunil Pai", "Matt Carey"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2026-06-08T13:00:13Z
 video_id: SKDJo2CopRs

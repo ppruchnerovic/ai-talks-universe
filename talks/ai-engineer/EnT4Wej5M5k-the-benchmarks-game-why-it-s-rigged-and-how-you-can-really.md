@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Darius Emrani"]
-channel: "AI Engineer"
+channel: null
 duration_min: 11
 published_at: 2025-06-03T22:22:25Z
 video_id: EnT4Wej5M5k

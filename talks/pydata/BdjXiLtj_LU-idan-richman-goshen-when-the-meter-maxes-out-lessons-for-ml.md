@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Idan Richman Goshen"]
-channel: "PyData"
+channel: null
 duration_min: 28
 published_at: 2026-01-09T17:56:33Z
 video_id: BdjXiLtj_LU

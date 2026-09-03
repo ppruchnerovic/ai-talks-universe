@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dotta Bippa"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2026-04-15T21:59:05Z
 video_id: h403btjldDQ

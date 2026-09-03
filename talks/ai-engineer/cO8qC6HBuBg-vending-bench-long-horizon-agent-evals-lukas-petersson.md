@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Lukas Petersson"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-07-24T15:00:06Z
 video_id: cO8qC6HBuBg

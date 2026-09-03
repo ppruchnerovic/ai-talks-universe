@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Fabian Stäber"]
-channel: "Devoxx"
+channel: null
 duration_min: 38
 published_at: 2025-10-02T12:31:30Z
 video_id: DhjbD-Bhn9E

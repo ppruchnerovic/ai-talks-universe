@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Julia Kordick"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 8
 published_at: 2025-09-10T11:31:02Z
 video_id: 62OI_y-KRlw

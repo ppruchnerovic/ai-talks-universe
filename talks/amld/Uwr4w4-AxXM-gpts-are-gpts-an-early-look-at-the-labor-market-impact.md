@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Daniel Rock"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 25
 published_at: 2023-10-05T16:17:54Z
 video_id: Uwr4w4-AxXM

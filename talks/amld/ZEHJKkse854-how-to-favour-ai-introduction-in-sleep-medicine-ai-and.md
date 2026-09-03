@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Markus Schmidt"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 20
 published_at: 2024-05-13T11:54:46Z
 video_id: ZEHJKkse854

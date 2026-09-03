@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Oliver Borchert"]
-channel: "PyData"
+channel: null
 duration_min: 88
 published_at: 2026-08-04T22:20:51Z
 video_id: 08tyYLgfaBg

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Hugging Face"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 100
 published_at: 2024-05-15T18:17:51Z
 video_id: vqO7ks7DFZw

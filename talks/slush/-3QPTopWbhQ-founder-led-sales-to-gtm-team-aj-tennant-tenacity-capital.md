@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: []
-channel: "Slush"
+channel: null
 duration_min: 23
 published_at: 2025-11-26T14:40:36Z
 video_id: -3QPTopWbhQ

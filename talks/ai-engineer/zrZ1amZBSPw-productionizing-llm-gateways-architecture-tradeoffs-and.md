@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kanish Manuja"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-08-28T15:30:03Z
 video_id: zrZ1amZBSPw

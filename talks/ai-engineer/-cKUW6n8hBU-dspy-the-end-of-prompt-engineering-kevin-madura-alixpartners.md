@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kevin Madura"]
-channel: "AI Engineer"
+channel: null
 duration_min: 73
 published_at: 2026-01-08T00:00:00Z
 video_id: -cKUW6n8hBU

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Dr. Qingyun Wu"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 9
 published_at: 2025-10-30T00:57:14Z
 video_id: 4C6M44nLLFk

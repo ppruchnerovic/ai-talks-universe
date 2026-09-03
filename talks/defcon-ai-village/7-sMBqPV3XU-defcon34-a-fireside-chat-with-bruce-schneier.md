@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "AI Village"
 year: 2026
 speakers: []
-channel: "aivillage"
+channel: null
 duration_min: 60
 published_at: 2026-08-22T16:00:28Z
 video_id: 7-sMBqPV3XU

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Harel Shein"]
-channel: "AI Council"
+channel: null
 duration_min: 41
 published_at: 2024-04-19T05:00:11Z
 video_id: OE1o4D_iWfw

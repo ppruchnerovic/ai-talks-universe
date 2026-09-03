@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: ["Andrii Mazur"]
-channel: "The AI Conference™"
+channel: null
 duration_min: 11
 published_at: 2025-09-23T19:19:02Z
 video_id: AP-AwFnXc8c

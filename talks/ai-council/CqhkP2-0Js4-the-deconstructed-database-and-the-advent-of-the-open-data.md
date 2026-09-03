@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Julien Le Dem"]
-channel: "AI Council"
+channel: null
 duration_min: 49
 published_at: 2025-05-29T14:11:53Z
 video_id: CqhkP2-0Js4

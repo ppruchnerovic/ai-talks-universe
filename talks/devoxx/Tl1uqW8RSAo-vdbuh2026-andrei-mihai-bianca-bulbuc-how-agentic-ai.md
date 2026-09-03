@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Andrei Mihai", "Bianca Bulbuc"]
-channel: "Devoxx"
+channel: null
 duration_min: 24
 published_at: 2026-05-13T03:37:51Z
 video_id: Tl1uqW8RSAo

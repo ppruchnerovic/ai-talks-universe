@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Abed Matini"]
-channel: "AI Engineer"
+channel: null
 duration_min: 46
 published_at: 2026-06-28T00:00:00Z
 video_id: Akm1sqvWG4A

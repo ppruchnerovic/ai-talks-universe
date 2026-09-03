@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Francesco Pellegrini", "Ivan Vallejo Vall"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 15
 published_at: 2024-06-11T07:41:07Z
 video_id: 6n49IEEcoYU

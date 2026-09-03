@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: ["Daniel Khachab"]
-channel: "Slush"
+channel: null
 duration_min: 22
 published_at: 2024-11-29T12:37:32Z
 video_id: 2uU7Ef1lGx8

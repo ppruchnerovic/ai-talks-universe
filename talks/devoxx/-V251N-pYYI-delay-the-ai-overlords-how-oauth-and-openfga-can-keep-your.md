@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Deepu Sa"]
-channel: "Devoxx"
+channel: null
 duration_min: 42
 published_at: 2025-10-10T05:10:24Z
 video_id: -V251N-pYYI

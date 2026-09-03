@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []
-channel: "AI Native Dev"
+channel: null
 duration_min: 12
 published_at: 2025-06-06T13:03:54Z
 video_id: u8UJ8M0uPN0

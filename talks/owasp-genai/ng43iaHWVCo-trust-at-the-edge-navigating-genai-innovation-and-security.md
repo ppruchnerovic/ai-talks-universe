@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Sandy Dunn"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 25
 published_at: 2026-01-13T00:49:08Z
 video_id: ng43iaHWVCo

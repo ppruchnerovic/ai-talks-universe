@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "InfoQ"
 year: 2023
 speakers: []
-channel: "InfoQ"
+channel: null
 duration_min: 51
 published_at: 2023-11-13T10:45:46Z
 video_id: M6Z-RpEdaN4

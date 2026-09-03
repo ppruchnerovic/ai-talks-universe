@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Brian Lewis"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-08-29T14:00:06Z
 video_id: 7A65O-0lvKE

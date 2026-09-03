@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Abdel Sghiouar"]
-channel: "Devoxx"
+channel: null
 duration_min: 104
 published_at: 2025-10-07T05:13:52Z
 video_id: ZcpD1M0Wa8Q

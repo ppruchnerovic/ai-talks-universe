@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Chaitanya Asawa"]
-channel: "AI Engineer"
+channel: null
 duration_min: 22
 published_at: 2026-08-19T00:00:00Z
 video_id: u6q-byPWUuo

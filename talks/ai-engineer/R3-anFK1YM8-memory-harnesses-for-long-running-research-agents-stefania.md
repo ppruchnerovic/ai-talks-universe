@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Stefania Druga"]
-channel: "AI Engineer"
+channel: null
 duration_min: 13
 published_at: 2026-08-12T15:00:06Z
 video_id: R3-anFK1YM8

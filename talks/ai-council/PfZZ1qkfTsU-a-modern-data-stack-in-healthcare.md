@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Anil Sadineni"]
-channel: "AI Council"
+channel: null
 duration_min: 16
 published_at: 2025-05-29T00:45:49Z
 video_id: PfZZ1qkfTsU

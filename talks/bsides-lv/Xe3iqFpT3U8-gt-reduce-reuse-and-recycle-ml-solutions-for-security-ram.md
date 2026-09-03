@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2019
 speakers: ["Ram Shankar Siva Kumar"]
-channel: "BSidesLV"
+channel: null
 duration_min: 55
 published_at: 2019-10-19T18:36:41Z
 video_id: Xe3iqFpT3U8

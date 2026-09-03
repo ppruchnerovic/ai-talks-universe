@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Elie Bursztein"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 46
 published_at: 2024-06-10T21:15:24Z
 video_id: UicS9i3OKTs

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Omer Primor"]
-channel: "AI Engineer"
+channel: null
 duration_min: 22
 published_at: 2026-08-14T16:30:36Z
 video_id: Ot4OPrPH4xY

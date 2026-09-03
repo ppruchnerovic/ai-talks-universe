@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Olivier Bierlaire"]
-channel: "Devoxx"
+channel: null
 duration_min: 41
 published_at: 2025-10-08T05:30:33Z
 video_id: DagPSLimU04

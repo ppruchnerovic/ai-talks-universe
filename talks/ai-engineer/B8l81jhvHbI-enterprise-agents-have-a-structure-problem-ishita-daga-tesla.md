@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ishita Daga"]
-channel: "AI Engineer"
+channel: null
 duration_min: 12
 published_at: 2026-07-20T00:00:00Z
 video_id: B8l81jhvHbI

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Tjalve Aarflot"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 61
 published_at: 2026-06-29T11:05:37Z
 video_id: EowOzx0NiOA

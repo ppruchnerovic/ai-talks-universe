@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Amol Kapoor"]
-channel: "AI Engineer"
+channel: null
 duration_min: 7
 published_at: 2026-06-28T18:30:30Z
 video_id: JRTAtZ5iBkU

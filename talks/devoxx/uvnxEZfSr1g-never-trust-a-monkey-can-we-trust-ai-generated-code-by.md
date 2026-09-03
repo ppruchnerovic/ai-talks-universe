@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Baruch Sadogursky"]
-channel: "Devoxx"
+channel: null
 duration_min: 16
 published_at: 2026-04-08T18:49:36Z
 video_id: uvnxEZfSr1g

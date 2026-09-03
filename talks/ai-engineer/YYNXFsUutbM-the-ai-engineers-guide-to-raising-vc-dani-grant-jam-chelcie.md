@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dani Grant"]
-channel: "AI Engineer"
+channel: null
 duration_min: 34
 published_at: 2025-07-27T18:00:06Z
 video_id: YYNXFsUutbM

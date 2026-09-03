@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jed Borovik"]
-channel: "AI Engineer"
+channel: null
 duration_min: 4
 published_at: 2026-01-05T13:20:54Z
 video_id: mdEh4lBO_R0

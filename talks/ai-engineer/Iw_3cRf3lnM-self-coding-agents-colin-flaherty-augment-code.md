@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Colin Flaherty"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-04-21T16:00:06Z
 video_id: Iw_3cRf3lnM

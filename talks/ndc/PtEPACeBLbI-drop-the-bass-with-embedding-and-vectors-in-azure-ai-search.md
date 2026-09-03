@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Alan Smith"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 61
 published_at: 2026-02-10T14:37:39Z
 video_id: PtEPACeBLbI

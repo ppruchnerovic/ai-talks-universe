@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Navigating Co-founder Breakups", "Paul Müller"]
-channel: "Slush"
+channel: null
 duration_min: 28
 published_at: 2025-11-26T14:42:31Z
 video_id: swbfsatafBU

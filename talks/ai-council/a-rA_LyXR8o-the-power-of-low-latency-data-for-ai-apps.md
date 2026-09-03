@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Darlene Volas"]
-channel: "AI Council"
+channel: null
 duration_min: 10
 published_at: 2025-05-28T23:51:25Z
 video_id: a-rA_LyXR8o

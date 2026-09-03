@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Yaniv Aknin"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 7
 published_at: 2025-12-21T14:07:41Z
 video_id: 0kIBwaQNxgs

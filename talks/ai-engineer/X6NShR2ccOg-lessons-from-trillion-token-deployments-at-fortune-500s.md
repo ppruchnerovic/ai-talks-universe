@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Alessandro Cappelli"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-05-12T17:00:06Z
 video_id: X6NShR2ccOg

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Philip Kiely", "Yineng Zhang"]
-channel: "AI Engineer"
+channel: null
 duration_min: 44
 published_at: 2025-07-26T17:45:00Z
 video_id: Ahtaha9fEM0

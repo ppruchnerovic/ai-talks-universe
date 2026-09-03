@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Peter Ruppel"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 32
 published_at: 2026-06-26T09:31:37Z
 video_id: XhjJOGWYBrg

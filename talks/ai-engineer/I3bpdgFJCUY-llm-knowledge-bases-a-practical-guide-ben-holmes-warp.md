@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ben Holmes"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-08-12T17:00:22Z
 video_id: I3bpdgFJCUY

@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2019
 speakers: ["Veronica Weiss"]
-channel: "BSidesLV"
+channel: null
 duration_min: 32
 published_at: 2019-10-19T18:04:01Z
 video_id: CjdWQfIJ6_A

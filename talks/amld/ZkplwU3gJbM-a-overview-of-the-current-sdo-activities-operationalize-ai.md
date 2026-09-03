@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Andrea Basso"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 31
 published_at: 2024-05-15T11:58:36Z
 video_id: ZkplwU3gJbM

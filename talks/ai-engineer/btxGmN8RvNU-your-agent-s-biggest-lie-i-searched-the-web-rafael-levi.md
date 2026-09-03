@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rafael Levi"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-06-17T13:00:06Z
 video_id: btxGmN8RvNU

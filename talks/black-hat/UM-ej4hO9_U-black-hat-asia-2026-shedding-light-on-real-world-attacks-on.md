@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []
-channel: "Black Hat"
+channel: null
 duration_min: 31
 published_at: 2026-08-27T02:00:14Z
 video_id: UM-ej4hO9_U

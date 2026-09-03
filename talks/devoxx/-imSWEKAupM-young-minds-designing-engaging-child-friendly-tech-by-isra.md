@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Isra Chahrazed Goumiri"]
-channel: "Devoxx"
+channel: null
 duration_min: 29
 published_at: 2024-10-11T05:09:40Z
 video_id: -imSWEKAupM

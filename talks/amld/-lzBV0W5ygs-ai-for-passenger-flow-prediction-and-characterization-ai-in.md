@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["David Mocholi"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 21
 published_at: 2024-05-13T09:52:07Z
 video_id: -lzBV0W5ygs

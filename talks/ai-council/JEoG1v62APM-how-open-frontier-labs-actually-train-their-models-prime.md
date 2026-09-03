@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: ["Prime Intellect"]
-channel: "AI Council"
+channel: null
 duration_min: 35
 published_at: 2026-06-16T19:14:15Z
 video_id: JEoG1v62APM

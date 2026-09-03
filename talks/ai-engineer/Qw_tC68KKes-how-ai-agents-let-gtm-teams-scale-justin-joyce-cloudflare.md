@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Justin Joyce"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-08-26T16:30:09Z
 video_id: Qw_tC68KKes

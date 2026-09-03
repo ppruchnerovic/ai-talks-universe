@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Jeroen Janssens"]
-channel: "PyData"
+channel: null
 duration_min: 34
 published_at: 2025-11-23T14:33:53Z
 video_id: VFkaHZgzoDY

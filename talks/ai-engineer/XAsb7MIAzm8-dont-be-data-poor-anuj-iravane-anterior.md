@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Anuj Iravane"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-08-19T00:00:00Z
 video_id: XAsb7MIAzm8

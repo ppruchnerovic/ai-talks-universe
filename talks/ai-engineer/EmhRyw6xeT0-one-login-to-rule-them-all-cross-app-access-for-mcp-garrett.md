@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Garrett Galow"]
-channel: "AI Engineer"
+channel: null
 duration_min: 23
 published_at: 2026-04-28T14:00:06Z
 video_id: EmhRyw6xeT0

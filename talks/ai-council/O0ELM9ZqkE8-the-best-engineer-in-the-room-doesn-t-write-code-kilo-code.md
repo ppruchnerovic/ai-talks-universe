@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: ["Kilo Code"]
-channel: "AI Council"
+channel: null
 duration_min: 21
 published_at: 2026-06-16T18:45:08Z
 video_id: O0ELM9ZqkE8

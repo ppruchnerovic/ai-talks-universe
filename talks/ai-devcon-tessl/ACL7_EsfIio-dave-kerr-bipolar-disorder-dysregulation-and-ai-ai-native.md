@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Dave Kerr", "Bipolar Disorder"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 29
 published_at: 2026-06-21T06:36:49Z
 video_id: ACL7_EsfIio

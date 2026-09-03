@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Arjun Singh"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-08-09T20:30:34Z
 video_id: OL7kfezynJM

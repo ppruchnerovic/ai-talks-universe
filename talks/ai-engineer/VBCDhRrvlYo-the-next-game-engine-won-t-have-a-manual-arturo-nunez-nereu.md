@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Arturo Nunez"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-08-18T15:00:29Z
 video_id: VBCDhRrvlYo

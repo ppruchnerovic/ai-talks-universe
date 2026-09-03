@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Aditya Bhargava"]
-channel: "AI Engineer"
+channel: null
 duration_min: 32
 published_at: 2026-07-07T23:31:54Z
 video_id: 2e9ANoOEn28

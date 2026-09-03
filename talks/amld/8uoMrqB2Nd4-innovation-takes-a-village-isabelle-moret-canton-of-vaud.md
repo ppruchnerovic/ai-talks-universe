@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2025
 speakers: []
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 9
 published_at: 2025-03-17T13:52:12Z
 video_id: 8uoMrqB2Nd4

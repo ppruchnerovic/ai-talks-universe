@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Robert Ranson"]
-channel: "Devoxx"
+channel: null
 duration_min: 31
 published_at: 2025-10-10T05:10:29Z
 video_id: cFAD9TEzB8w

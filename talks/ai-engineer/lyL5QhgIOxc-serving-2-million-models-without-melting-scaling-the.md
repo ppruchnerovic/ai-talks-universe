@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Arek Borucki"]
-channel: "AI Engineer"
+channel: null
 duration_min: 22
 published_at: 2026-07-28T13:41:11Z
 video_id: lyL5QhgIOxc

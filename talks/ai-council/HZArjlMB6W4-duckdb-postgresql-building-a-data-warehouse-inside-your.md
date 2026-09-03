@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Marco Slot"]
-channel: "AI Council"
+channel: null
 duration_min: 39
 published_at: 2025-05-29T14:00:01Z
 video_id: HZArjlMB6W4

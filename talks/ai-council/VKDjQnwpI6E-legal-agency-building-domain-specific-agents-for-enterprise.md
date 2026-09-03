@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Niko Grupen"]
-channel: "AI Council"
+channel: null
 duration_min: 34
 published_at: 2025-05-29T07:37:10Z
 video_id: VKDjQnwpI6E

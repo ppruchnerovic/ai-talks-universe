@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dan Feng"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-08-19T17:30:19Z
 video_id: WJRdLNhrsLQ

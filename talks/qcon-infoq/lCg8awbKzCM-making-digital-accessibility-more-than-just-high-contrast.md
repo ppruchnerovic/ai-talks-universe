@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []
-channel: "InfoQ"
+channel: null
 duration_min: 28
 published_at: 2024-11-08T08:23:01Z
 video_id: lCg8awbKzCM

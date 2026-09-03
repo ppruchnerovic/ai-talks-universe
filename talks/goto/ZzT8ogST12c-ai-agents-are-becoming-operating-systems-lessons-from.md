@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Cedric Hurst"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 46
 published_at: 2026-08-13T09:22:05Z
 video_id: ZzT8ogST12c

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Defying Gravity", "Kevin Hou"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2025-12-02T00:00:00Z
 video_id: HN-F-OQe6j0

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Patrick Debois"]
-channel: "AI Engineer"
+channel: null
 duration_min: 27
 published_at: 2026-05-03T00:00:00Z
 video_id: bSG9wUYaHWU

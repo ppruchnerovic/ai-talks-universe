@@ -1,25 +1,25 @@
 ---
 id: ptwholFiAZg
-title: "Agents Open 1,000 PRs. Who's Reviewing Them?"
-slug: agents-open-1-000-prs-who-s-reviewing-them
+title: "AI Code Review That Understands Your PR's Intent"
+slug: ai-code-review-that-understands-your-pr-s-intent
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
 category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
-channel: "AI Native Dev"
+channel: null
 duration_min: 6
 published_at: 2026-08-28T11:00:34Z
 video_id: ptwholFiAZg
 url: https://www.youtube.com/watch?v=ptwholFiAZg
 youtube_url: https://www.youtube.com/watch?v=ptwholFiAZg
 tags: []
-topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 
-# Agents Open 1,000 PRs. Who's Reviewing Them?
+# AI Code Review That Understands Your PR's Intent
 
 **Speaker not identified**
 

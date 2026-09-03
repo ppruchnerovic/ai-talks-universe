@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Sander Hoogendoorn"]
-channel: "Devoxx"
+channel: null
 duration_min: 48
 published_at: 2026-04-09T19:40:28Z
 video_id: Ru_Ay9C4weA

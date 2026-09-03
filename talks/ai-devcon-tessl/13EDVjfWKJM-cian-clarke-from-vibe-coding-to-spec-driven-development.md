@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Cian Clarke"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 25
 published_at: 2026-01-12T12:43:16Z
 video_id: 13EDVjfWKJM

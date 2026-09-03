@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Daniel Siegl", "David Payr"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 65
 published_at: 2026-06-05T09:26:04Z
 video_id: k3RdEsyu-1E

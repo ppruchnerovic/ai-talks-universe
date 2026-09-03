@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Huijo Kim"]
-channel: "PyData"
+channel: null
 duration_min: 28
 published_at: 2026-08-04T22:20:31Z
 video_id: O6Zp5J56FCI

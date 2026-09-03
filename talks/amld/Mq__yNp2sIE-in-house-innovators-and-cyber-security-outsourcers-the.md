@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Orlando Gomes"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 11
 published_at: 2024-05-15T12:45:57Z
 video_id: Mq__yNp2sIE

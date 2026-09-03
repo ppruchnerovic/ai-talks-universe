@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Startup Pitches", "Marco Zaffalon"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 11
 published_at: 2024-05-16T12:21:21Z
 video_id: O_V_yMwUigc

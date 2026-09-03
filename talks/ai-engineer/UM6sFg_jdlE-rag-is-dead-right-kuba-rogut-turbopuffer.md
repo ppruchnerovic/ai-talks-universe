@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kuba Rogut"]
-channel: "AI Engineer"
+channel: null
 duration_min: 11
 published_at: 2026-06-09T17:00:27Z
 video_id: UM6sFg_jdlE

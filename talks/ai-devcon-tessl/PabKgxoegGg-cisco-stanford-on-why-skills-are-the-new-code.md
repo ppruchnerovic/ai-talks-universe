@@ -1,14 +1,14 @@
 ---
 id: PabKgxoegGg
-title: "John Groetzinger, Cisco: You Need Smarter Context"
-slug: john-groetzinger-cisco-you-need-smarter-context
+title: "Cisco & Stanford on Why Skills Are the New Code"
+slug: cisco-stanford-on-why-skills-are-the-new-code
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
 category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []
-channel: "AI Native Dev"
+channel: null
 duration_min: 10
 published_at: 2026-08-26T13:00:22Z
 video_id: PabKgxoegGg
@@ -19,7 +19,7 @@ topics: []
 transcript: true
 ---
 
-# John Groetzinger, Cisco: You Need Smarter Context
+# Cisco & Stanford on Why Skills Are the New Code
 
 **Speaker not identified**
 

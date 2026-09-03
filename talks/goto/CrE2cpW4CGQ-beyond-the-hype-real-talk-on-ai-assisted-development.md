@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Jessica Kerr", "Diana Montalion"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 37
 published_at: 2025-11-18T14:01:51Z
 video_id: CrE2cpW4CGQ

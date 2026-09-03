@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Guillaume Lours"]
-channel: "Devoxx"
+channel: null
 duration_min: 51
 published_at: 2025-10-09T05:35:18Z
 video_id: u5XAjauwPEI

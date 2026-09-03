@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Shamane Siri"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 17
 published_at: 2024-05-16T14:10:45Z
 video_id: NJg0am4QQ8g

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Aaron Katz"]
-channel: "AI Council"
+channel: null
 duration_min: 36
 published_at: 2025-05-29T16:07:51Z
 video_id: NNkrcLQIJrs

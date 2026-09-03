@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Adam Sotona"]
-channel: "Devoxx"
+channel: null
 duration_min: 61
 published_at: 2025-10-10T05:10:29Z
 video_id: fJwKvE2AxIo

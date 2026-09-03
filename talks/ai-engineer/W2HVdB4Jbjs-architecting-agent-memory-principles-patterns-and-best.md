@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Richmond Alake"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-06-27T00:00:00Z
 video_id: W2HVdB4Jbjs

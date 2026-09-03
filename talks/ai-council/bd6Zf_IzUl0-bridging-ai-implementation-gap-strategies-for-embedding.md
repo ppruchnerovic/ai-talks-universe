@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Josh Curl"]
-channel: "AI Council"
+channel: null
 duration_min: 27
 published_at: 2025-05-29T00:08:37Z
 video_id: bd6Zf_IzUl0

@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Romain Huet"]
-channel: "Slush"
+channel: null
 duration_min: 29
 published_at: 2025-11-26T15:00:04Z
 video_id: ATLWN-kGYYI

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Jakub Urban"]
-channel: "PyData"
+channel: null
 duration_min: 34
 published_at: 2025-11-06T07:09:07Z
 video_id: m7-Ha6glP-c

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Kevin Dubois", "Mario Fusco"]
-channel: "Devoxx"
+channel: null
 duration_min: 47
 published_at: 2026-04-01T08:04:50Z
 video_id: 4BOdAMHdpsI

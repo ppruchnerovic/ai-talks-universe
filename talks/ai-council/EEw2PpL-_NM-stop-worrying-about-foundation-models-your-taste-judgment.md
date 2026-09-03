@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Hamel Husain"]
-channel: "AI Council"
+channel: null
 duration_min: 15
 published_at: 2025-05-29T14:36:32Z
 video_id: EEw2PpL-_NM

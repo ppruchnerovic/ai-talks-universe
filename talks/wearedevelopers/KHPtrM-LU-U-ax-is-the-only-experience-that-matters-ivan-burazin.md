@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Ivan Burazin"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 25
 published_at: 2025-09-16T09:28:22Z
 video_id: KHPtrM-LU-U

@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Deann Evans"]
-channel: "Slush"
+channel: null
 duration_min: 28
 published_at: 2025-11-28T13:46:29Z
 video_id: gNkP-7Q4PBc

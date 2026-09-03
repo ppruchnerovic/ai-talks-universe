@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Zach Blumenfeld"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-05-29T16:00:33Z
 video_id: B9h9ovW5H9U

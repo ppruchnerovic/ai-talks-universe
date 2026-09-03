@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Nour El Mawass", "Miklos Erdelyi"]
-channel: "PyData"
+channel: null
 duration_min: 32
 published_at: 2025-11-21T16:26:15Z
 video_id: 82g667Cw_Pw

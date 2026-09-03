@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Ajay Chankramath"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 54
 published_at: 2025-03-21T10:50:58Z
 video_id: bo_IiMhxqec

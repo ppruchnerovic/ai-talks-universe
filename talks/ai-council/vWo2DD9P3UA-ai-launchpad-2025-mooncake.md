@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Pranav Aurora"]
-channel: "AI Council"
+channel: null
 duration_min: 10
 published_at: 2025-05-29T13:38:50Z
 video_id: vWo2DD9P3UA

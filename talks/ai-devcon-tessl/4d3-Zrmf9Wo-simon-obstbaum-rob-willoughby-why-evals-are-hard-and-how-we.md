@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Simon Obstbaum", "Rob Willoughby"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 37
 published_at: 2026-07-27T11:34:56Z
 video_id: 4d3-Zrmf9Wo

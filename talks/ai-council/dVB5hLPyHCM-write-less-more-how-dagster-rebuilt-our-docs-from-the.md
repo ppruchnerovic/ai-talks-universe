@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Pedram Navid"]
-channel: "AI Council"
+channel: null
 duration_min: 12
 published_at: 2025-05-29T00:45:09Z
 video_id: dVB5hLPyHCM

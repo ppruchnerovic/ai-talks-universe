@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Jake Brill"]
-channel: "AI Council"
+channel: null
 duration_min: 50
 published_at: 2025-05-29T16:01:43Z
 video_id: vW4VK-X2CKY

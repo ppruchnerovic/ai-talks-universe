@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Luca Mezzalira", "Teena Idnani"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 34
 published_at: 2026-06-08T12:00:05Z
 video_id: RG7XFPPzhZM

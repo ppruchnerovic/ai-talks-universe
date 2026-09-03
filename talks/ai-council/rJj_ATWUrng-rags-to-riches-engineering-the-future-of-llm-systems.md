@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Denis Yarats"]
-channel: "AI Council"
+channel: null
 duration_min: 46
 published_at: 2025-05-29T16:09:05Z
 video_id: rJj_ATWUrng

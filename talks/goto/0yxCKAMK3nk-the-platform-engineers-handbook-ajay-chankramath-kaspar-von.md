@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Ajay Chankramath", "Kaspar von Grünberg"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 32
 published_at: 2026-07-02T12:00:11Z
 video_id: 0yxCKAMK3nk

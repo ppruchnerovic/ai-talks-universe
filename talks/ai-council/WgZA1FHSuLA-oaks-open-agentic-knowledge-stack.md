@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Alexy Khrabrov"]
-channel: "AI Council"
+channel: null
 duration_min: 12
 published_at: 2025-05-29T00:32:24Z
 video_id: WgZA1FHSuLA

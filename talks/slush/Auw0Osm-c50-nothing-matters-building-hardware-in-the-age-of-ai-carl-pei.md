@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Carl Pei"]
-channel: "Slush"
+channel: null
 duration_min: 25
 published_at: 2025-11-26T15:22:36Z
 video_id: Auw0Osm-c50

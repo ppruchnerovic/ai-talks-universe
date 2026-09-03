@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Reaching Quantum's Escape Velocity", "Mark Thompson"]
-channel: "Slush"
+channel: null
 duration_min: 24
 published_at: 2025-11-28T22:00:45Z
 video_id: _RBTQ7JpAB8

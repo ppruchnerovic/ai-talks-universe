@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Erik Hanchett"]
-channel: "AI Engineer"
+channel: null
 duration_min: 6
 published_at: 2026-06-28T22:00:14Z
 video_id: uiP88SpCi1Q

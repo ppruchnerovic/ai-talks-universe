@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Zhamak Dehghani"]
-channel: "AI Council"
+channel: null
 duration_min: 26
 published_at: 2024-04-19T05:00:11Z
 video_id: O7YGq5lkhLg

@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2018
 speakers: []
-channel: "BSidesLV"
+channel: null
 duration_min: 50
 published_at: 2018-09-26T22:36:28Z
 video_id: d99QshMaGtQ

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Abby Bangser"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 46
 published_at: 2026-06-22T12:00:13Z
 video_id: Xsd02ebVv4w

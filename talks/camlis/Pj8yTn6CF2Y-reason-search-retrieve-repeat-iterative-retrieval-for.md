@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Supriti Vijay"]
-channel: "CAMLIS"
+channel: null
 duration_min: 28
 published_at: 2025-11-14T07:19:57Z
 video_id: Pj8yTn6CF2Y

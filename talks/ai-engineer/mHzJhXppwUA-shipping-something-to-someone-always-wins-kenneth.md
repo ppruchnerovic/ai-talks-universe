@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kenneth Auchenberg"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2025-07-28T19:54:23Z
 video_id: mHzJhXppwUA

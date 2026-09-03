@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Wenjing Zheng"]
-channel: "AI Council"
+channel: null
 duration_min: 25
 published_at: 2025-05-29T13:44:36Z
 video_id: xlgY5f3OHmA

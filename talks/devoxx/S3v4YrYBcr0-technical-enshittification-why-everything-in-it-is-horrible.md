@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Baruch S"]
-channel: "Devoxx"
+channel: null
 duration_min: 48
 published_at: 2026-02-27T13:52:47Z
 video_id: S3v4YrYBcr0

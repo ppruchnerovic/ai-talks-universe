@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vivek Trivedy"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-08-12T19:00:01Z
 video_id: CvRngaQZQ3Y

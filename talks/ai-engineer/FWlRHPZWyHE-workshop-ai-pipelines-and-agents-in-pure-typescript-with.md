@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nick Nisi"]
-channel: "AI Engineer"
+channel: null
 duration_min: 111
 published_at: 2025-07-12T00:00:00Z
 video_id: FWlRHPZWyHE

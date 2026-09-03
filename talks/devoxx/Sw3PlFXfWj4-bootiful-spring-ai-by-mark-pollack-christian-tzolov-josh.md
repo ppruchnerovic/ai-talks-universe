@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Mark Pollack", "Christian Tzolov", "Josh Long", "James Ward"]
-channel: "Devoxx"
+channel: null
 duration_min: 50
 published_at: 2025-10-09T05:35:16Z
 video_id: Sw3PlFXfWj4

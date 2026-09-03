@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Lukasz Gandecki"]
-channel: "AI Engineer"
+channel: null
 duration_min: 10
 published_at: 2025-07-22T00:00:00Z
 video_id: Kcka7rzcxLk

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: []
-channel: "AI Council"
+channel: null
 duration_min: 31
 published_at: 2025-05-29T14:15:32Z
 video_id: oE8I2VQsKn4

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Elma Westergren", "Markus W"]
-channel: "Devoxx"
+channel: null
 duration_min: 46
 published_at: 2025-10-10T05:12:49Z
 video_id: Jo5mOBRr2b4

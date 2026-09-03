@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Michalis Papadimitriou"]
-channel: "Devoxx"
+channel: null
 duration_min: 53
 published_at: 2025-10-10T05:09:22Z
 video_id: PO6wOtzUb3w

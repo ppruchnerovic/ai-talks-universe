@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["John Romero"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 18
 published_at: 2025-09-09T09:50:30Z
 video_id: J8M1RHVmvIE

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["James Ward", "Josh Long"]
-channel: "Devoxx"
+channel: null
 duration_min: 44
 published_at: 2026-04-08T20:16:29Z
 video_id: okdgOPcFCqw

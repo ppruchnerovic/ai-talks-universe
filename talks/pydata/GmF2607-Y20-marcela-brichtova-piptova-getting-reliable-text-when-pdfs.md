@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Marcela Brichtová Piptová"]
-channel: "PyData"
+channel: null
 duration_min: 18
 published_at: 2026-07-01T15:02:31Z
 video_id: GmF2607-Y20

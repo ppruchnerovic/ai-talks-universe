@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Itamar Friedman", "Robert Brennan"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 12
 published_at: 2026-01-25T14:00:55Z
 video_id: _6V7iNqoKWk

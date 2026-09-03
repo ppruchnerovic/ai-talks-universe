@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Garry Tan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-07-17T00:00:00Z
 video_id: eBUyTS7SzV4

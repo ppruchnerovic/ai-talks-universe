@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Rene Brandel"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 23
 published_at: 2025-11-21T01:45:36Z
 video_id: o_bVqT_5yGM

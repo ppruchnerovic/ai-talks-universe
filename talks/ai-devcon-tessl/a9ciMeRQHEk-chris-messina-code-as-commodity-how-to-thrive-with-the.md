@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Chris Messina"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 35
 published_at: 2025-11-21T01:52:09Z
 video_id: a9ciMeRQHEk

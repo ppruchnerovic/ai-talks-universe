@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 53
 published_at: 2026-06-25T11:27:12Z
 video_id: 5Saf0wBh7-k

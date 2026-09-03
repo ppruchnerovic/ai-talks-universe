@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Holger Nösekabel"]
-channel: "PyData"
+channel: null
 duration_min: 47
 published_at: 2026-08-25T18:20:14Z
 video_id: rJKBnHYicQA

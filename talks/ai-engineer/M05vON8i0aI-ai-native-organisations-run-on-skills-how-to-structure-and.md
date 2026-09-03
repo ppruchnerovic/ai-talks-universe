@@ -8,8 +8,8 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Imad Touil"]
-channel: "AI Engineer"
-duration_min: 20
+channel: null
+duration_min: 21
 published_at: 2026-08-28T00:00:00Z
 video_id: M05vON8i0aI
 url: https://www.youtube.com/watch?v=M05vON8i0aI
@@ -23,7 +23,7 @@ transcript: true
 
 **Imad Touil**
 
-`AI Engineer` · `AI Engineer` · `2026` · `20 min`
+`AI Engineer` · `AI Engineer` · `2026` · `21 min`
 
 `#ai` `#ai engineer` `#ai engineering` `#software development` `#tech` `#startups` `#software architecture` `#machine learning`
 

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Aakanksha Chowdhery"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-07-16T16:18:38Z
 video_id: QluDzKVfp6A

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Eric Enge"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 37
 published_at: 2025-01-10T10:47:20Z
 video_id: XzK_4vB1NFY

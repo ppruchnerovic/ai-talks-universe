@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Michael Cohen"]
-channel: "AI Council"
+channel: null
 duration_min: 16
 published_at: 2025-05-29T00:39:22Z
 video_id: hYpl0mVPkbc

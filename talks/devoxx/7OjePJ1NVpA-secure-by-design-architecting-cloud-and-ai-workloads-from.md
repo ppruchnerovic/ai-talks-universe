@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["N. Godec"]
-channel: "Devoxx"
+channel: null
 duration_min: 37
 published_at: 2026-04-01T08:04:53Z
 video_id: 7OjePJ1NVpA

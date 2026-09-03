@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Matt Welsh", "Julian Wood"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 46
 published_at: 2025-12-12T13:27:25Z
 video_id: P-8N7erpC9M

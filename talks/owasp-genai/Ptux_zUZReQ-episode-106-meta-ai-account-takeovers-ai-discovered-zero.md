@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Threat Intel Podcast"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 23
 published_at: 2026-07-19T23:47:16Z
 video_id: Ptux_zUZReQ

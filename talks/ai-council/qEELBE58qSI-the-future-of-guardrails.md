@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Shreya Rajpal"]
-channel: "AI Council"
+channel: null
 duration_min: 31
 published_at: 2025-05-29T07:21:06Z
 video_id: qEELBE58qSI

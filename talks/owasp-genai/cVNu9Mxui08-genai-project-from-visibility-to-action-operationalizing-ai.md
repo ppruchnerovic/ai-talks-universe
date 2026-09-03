@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Helen Oakley"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 35
 published_at: 2026-07-20T00:11:08Z
 video_id: cVNu9Mxui08

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Shachar Azriel"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 31
 published_at: 2026-06-15T04:30:23Z
 video_id: aWrGSM5vVyc

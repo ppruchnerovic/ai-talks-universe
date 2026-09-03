@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Alistair Cockburn", "Aino Vonge Corry"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 11
 published_at: 2024-12-27T10:23:30Z
 video_id: Jy34TktJhTQ

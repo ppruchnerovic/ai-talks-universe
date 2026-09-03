@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Zoe Steinkamp"]
-channel: "AI Council"
+channel: null
 duration_min: 32
 published_at: 2024-04-19T05:00:34Z
 video_id: y5YISUiSoMg

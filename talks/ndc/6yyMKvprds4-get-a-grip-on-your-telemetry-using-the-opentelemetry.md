@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Adam Gardner"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 63
 published_at: 2026-05-27T15:00:27Z
 video_id: 6yyMKvprds4

@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Amelia Kawasaki"]
-channel: "CAMLIS"
+channel: null
 duration_min: 25
 published_at: 2025-11-13T15:54:02Z
 video_id: 50nfQ0Odz_E

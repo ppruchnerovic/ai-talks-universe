@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Kevlin Henney"]
-channel: "Devoxx"
+channel: null
 duration_min: 50
 published_at: 2026-02-27T13:52:51Z
 video_id: qykfkpLNMb8

@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Mete Atamel"]
-channel: "Devoxx"
+channel: null
 duration_min: 45
 published_at: 2024-10-11T05:08:45Z
 video_id: t06RJ5K5KNE

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Sumti Jairath"]
-channel: "AI Council"
+channel: null
 duration_min: 36
 published_at: 2025-05-29T15:54:18Z
 video_id: eduTe244Na8

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Philipp Schmid"]
-channel: "AI Engineer"
+channel: null
 duration_min: 105
 published_at: 2025-07-11T00:00:00Z
 video_id: zK9lYrLbjSg

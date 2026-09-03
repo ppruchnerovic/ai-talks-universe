@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Danilo Campos"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-04-30T14:00:06Z
 video_id: juoNbJiZUi0

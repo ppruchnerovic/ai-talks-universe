@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Benedikt Sanftl"]
-channel: "AI Engineer"
+channel: null
 duration_min: 35
 published_at: 2026-06-29T01:30:19Z
 video_id: pSto5YaNGUo

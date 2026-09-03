@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["Charlotte Bunne"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 12
 published_at: 2026-02-13T08:56:05Z
 video_id: KwG_5GQlpSc

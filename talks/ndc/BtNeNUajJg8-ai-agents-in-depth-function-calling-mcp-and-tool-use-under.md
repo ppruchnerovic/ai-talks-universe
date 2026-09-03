@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Function Calling", "Alan Smith"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 61
 published_at: 2026-08-05T08:50:17Z
 video_id: BtNeNUajJg8

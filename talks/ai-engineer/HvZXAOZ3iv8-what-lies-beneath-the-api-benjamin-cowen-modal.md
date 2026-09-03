@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Benjamin Cowen"]
-channel: "AI Engineer"
+channel: null
 duration_min: 13
 published_at: 2026-06-02T18:00:37Z
 video_id: HvZXAOZ3iv8

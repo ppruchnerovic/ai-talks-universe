@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Baruch Sadogursky", "Viktor Gamov"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 29
 published_at: 2025-11-27T16:18:50Z
 video_id: 4ceQ_nSJFTw

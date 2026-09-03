@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Adrian Egli"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 23
 published_at: 2024-05-15T12:32:00Z
 video_id: A084kcNrzt8

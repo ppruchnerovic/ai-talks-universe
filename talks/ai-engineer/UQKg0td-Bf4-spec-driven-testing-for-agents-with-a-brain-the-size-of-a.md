@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Steven Willmott"]
-channel: "AI Engineer"
+channel: null
 duration_min: 13
 published_at: 2026-05-31T15:00:10Z
 video_id: UQKg0td-Bf4

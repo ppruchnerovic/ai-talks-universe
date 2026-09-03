@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Julien Blanchez"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 50
 published_at: 2025-07-25T10:02:31Z
 video_id: BjAlEV9pRcw

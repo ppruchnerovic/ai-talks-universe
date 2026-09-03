@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Raymond Weitekamp"]
-channel: "AI Engineer"
+channel: null
 duration_min: 24
 published_at: 2026-06-25T21:00:06Z
 video_id: 3hXJI2q0Jz8

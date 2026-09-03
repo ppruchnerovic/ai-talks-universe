@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Alex Gavrilescu"]
-channel: "Devoxx"
+channel: null
 duration_min: 42
 published_at: 2026-02-27T13:52:48Z
 video_id: c8l5Lai1454

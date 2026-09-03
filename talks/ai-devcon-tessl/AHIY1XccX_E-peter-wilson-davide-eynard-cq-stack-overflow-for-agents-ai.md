@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Peter Wilson", "Davide Eynard"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 32
 published_at: 2026-07-16T07:10:25Z
 video_id: AHIY1XccX_E

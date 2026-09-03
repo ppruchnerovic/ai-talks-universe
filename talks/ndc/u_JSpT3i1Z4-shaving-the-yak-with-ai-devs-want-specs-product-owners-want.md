@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Adam Cogan"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 64
 published_at: 2025-05-28T11:15:11Z
 video_id: u_JSpT3i1Z4

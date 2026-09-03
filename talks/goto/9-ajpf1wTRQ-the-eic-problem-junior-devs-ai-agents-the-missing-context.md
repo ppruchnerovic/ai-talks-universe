@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Scott Hanselman"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 67
 published_at: 2026-08-20T10:01:40Z
 video_id: 9-ajpf1wTRQ

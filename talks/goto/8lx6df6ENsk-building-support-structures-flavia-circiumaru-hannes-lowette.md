@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Building Support Structures", "Flavia Circiumaru", "Hannes Lowette"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 39
 published_at: 2025-10-28T13:34:35Z
 video_id: 8lx6df6ENsk

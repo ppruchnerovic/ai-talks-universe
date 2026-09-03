@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Maurice Naftalin", "Stuart Marks"]
-channel: "Devoxx"
+channel: null
 duration_min: 161
 published_at: 2025-10-07T05:13:52Z
 video_id: dwcNiEEuV_Y

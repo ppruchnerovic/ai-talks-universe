@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Simon Maple"]
-channel: "Devoxx"
+channel: null
 duration_min: 50
 published_at: 2025-10-10T05:09:28Z
 video_id: tEHzFedonNc

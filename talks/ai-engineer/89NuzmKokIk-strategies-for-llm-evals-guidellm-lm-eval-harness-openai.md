@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Taylor Jordan Smith"]
-channel: "AI Engineer"
+channel: null
 duration_min: 32
 published_at: 2025-07-27T16:15:06Z
 video_id: 89NuzmKokIk

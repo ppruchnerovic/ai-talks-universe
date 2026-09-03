@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Ramon Perez"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 199
 published_at: 2023-11-10T17:21:53Z
 video_id: RsAHprbnIvY

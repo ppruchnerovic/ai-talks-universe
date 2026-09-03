@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Maximiliano Firtman"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 30
 published_at: 2026-06-18T07:30:03Z
 video_id: BV7RYioryKE

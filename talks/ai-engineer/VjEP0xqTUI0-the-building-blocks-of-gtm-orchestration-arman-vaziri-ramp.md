@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Arman Vaziri"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-08-26T14:30:38Z
 video_id: VjEP0xqTUI0

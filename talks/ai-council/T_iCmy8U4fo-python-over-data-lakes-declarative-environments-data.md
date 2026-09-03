@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Ciro Greco"]
-channel: "AI Council"
+channel: null
 duration_min: 32
 published_at: 2025-05-29T13:50:32Z
 video_id: T_iCmy8U4fo

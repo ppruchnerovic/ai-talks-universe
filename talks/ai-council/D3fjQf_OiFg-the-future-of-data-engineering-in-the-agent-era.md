@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Diptanu Gon Choudhury"]
-channel: "AI Council"
+channel: null
 duration_min: 47
 published_at: 2025-05-29T15:19:07Z
 video_id: D3fjQf_OiFg

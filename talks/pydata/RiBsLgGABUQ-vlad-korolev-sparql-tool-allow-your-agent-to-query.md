@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Vlad Korolev"]
-channel: "PyData"
+channel: null
 duration_min: 46
 published_at: 2026-04-06T01:26:26Z
 video_id: RiBsLgGABUQ

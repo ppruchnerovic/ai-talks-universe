@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Emmz Rendle"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 66
 published_at: 2026-02-09T14:07:49Z
 video_id: pey9u_ANXZM

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Tisha Chawla"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2026-06-29T00:00:39Z
 video_id: Lc8zRh9muoY

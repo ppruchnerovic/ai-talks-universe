@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ritvik Pandya"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-07-23T00:00:04Z
 video_id: u1yaOeEX4e8

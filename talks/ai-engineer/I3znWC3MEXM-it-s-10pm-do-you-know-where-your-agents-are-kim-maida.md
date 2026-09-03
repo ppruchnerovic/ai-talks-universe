@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kim Maida"]
-channel: "AI Engineer"
+channel: null
 duration_min: 23
 published_at: 2026-07-20T17:17:53Z
 video_id: I3znWC3MEXM

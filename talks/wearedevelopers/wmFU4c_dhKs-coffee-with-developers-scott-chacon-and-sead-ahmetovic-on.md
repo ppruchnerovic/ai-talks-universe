@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2024
 speakers: []
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 36
 published_at: 2024-04-02T14:00:05Z
 video_id: wmFU4c_dhKs

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vincent Koc"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-06-05T00:00:00Z
 video_id: pmoDeA3RBZY

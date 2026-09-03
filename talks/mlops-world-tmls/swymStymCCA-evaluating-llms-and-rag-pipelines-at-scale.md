@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Eric O. Korman"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 35
 published_at: 2024-05-16T14:42:16Z
 video_id: swymStymCCA

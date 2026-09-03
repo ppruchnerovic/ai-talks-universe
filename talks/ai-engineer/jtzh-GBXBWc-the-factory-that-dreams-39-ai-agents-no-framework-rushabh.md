@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rushabh Doshi"]
-channel: "AI Engineer"
+channel: null
 duration_min: 10
 published_at: 2026-07-11T20:00:27Z
 video_id: jtzh-GBXBWc

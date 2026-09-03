@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Thiago Ghisi"]
-channel: "InfoQ"
+channel: null
 duration_min: 49
 published_at: 2026-02-11T14:41:00+0000
 video_id: 0eVnuQp531k

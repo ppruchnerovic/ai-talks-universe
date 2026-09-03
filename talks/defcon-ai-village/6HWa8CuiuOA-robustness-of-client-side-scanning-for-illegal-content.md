@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "AI Village"
 year: 2021
 speakers: ["Shubham Jain"]
-channel: "aivillage"
+channel: null
 duration_min: 20
 published_at: 2021-08-23T16:26:36Z
 video_id: 6HWa8CuiuOA

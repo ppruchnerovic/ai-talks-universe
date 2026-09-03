@@ -5,10 +5,10 @@ slug: usenix-security-25-enigma-track-trusted-hardware-for-ai
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
 category: "Security conferences"
-edition: "USENIX"
+edition: "USENIX Security"
 year: 2025
 speakers: []
-channel: "USENIX"
+channel: null
 duration_min: 20
 published_at: 2025-10-16T21:24:59Z
 video_id: MLPrgiR5VQM
@@ -23,7 +23,7 @@ transcript: false
 
 **Speaker not identified**
 
-`USENIX Security Symposium` · `USENIX` · `2025` · `20 min`
+`USENIX Security Symposium` · `USENIX Security` · `2025` · `20 min`
 
 `#usenix` `#technology` `#conference` `#open access`
 

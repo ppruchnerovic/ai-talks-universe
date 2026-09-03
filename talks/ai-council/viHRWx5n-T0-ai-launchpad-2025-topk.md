@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Marek Galovic"]
-channel: "AI Council"
+channel: null
 duration_min: 12
 published_at: 2025-05-29T13:36:03Z
 video_id: viHRWx5n-T0

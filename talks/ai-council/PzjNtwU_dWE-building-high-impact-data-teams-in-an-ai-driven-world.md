@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Alexa Garrison"]
-channel: "AI Council"
+channel: null
 duration_min: 27
 published_at: 2025-05-28T23:43:01Z
 video_id: PzjNtwU_dWE

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []
-channel: "PyData"
+channel: null
 duration_min: 37
 published_at: 2026-08-23T07:00:19Z
 video_id: 8xSeRR8oBK0

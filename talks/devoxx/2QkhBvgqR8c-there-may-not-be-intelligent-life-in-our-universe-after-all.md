@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Robert Pabst"]
-channel: "Devoxx"
+channel: null
 duration_min: 42
 published_at: 2025-10-10T05:10:24Z
 video_id: 2QkhBvgqR8c

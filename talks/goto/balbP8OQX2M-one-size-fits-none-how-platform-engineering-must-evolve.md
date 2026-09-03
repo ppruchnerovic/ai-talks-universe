@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["William Rizzo", "Colin Griffin"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 29
 published_at: 2026-03-19T13:01:12Z
 video_id: balbP8OQX2M

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Simon Hørup Eskildsen"]
-channel: "AI Council"
+channel: null
 duration_min: 34
 published_at: 2025-05-29T15:51:37Z
 video_id: _yb6Nw21QxA

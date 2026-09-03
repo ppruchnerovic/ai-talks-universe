@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 45
 published_at: 2025-08-14T08:33:11Z
 video_id: dSQotkWiL0w

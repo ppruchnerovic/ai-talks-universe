@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Hannes Mühleisen"]
-channel: "AI Council"
+channel: null
 duration_min: 34
 published_at: 2025-05-29T14:16:39Z
 video_id: o53onmgnQDU

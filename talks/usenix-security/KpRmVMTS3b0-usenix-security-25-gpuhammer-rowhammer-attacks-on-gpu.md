@@ -5,10 +5,10 @@ slug: usenix-security-25-gpuhammer-rowhammer-attacks-on-gpu
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
 category: "Security conferences"
-edition: "USENIX"
+edition: "USENIX Security"
 year: 2025
 speakers: []
-channel: "USENIX"
+channel: null
 duration_min: 14
 published_at: 2025-11-03T18:50:28Z
 video_id: KpRmVMTS3b0
@@ -23,7 +23,7 @@ transcript: false
 
 **Speaker not identified**
 
-`USENIX Security Symposium` · `USENIX` · `2025` · `14 min`
+`USENIX Security Symposium` · `USENIX Security` · `2025` · `14 min`
 
 `#usenix` `#technology` `#conference` `#open access`
 

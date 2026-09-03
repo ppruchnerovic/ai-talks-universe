@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Yang Mou"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 24
 published_at: 2025-12-10T20:18:40Z
 video_id: PNnFai6qUyY

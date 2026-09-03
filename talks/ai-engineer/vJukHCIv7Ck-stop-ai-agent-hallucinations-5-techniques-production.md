@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Elizabeth Fuentes"]
-channel: "AI Engineer"
+channel: null
 duration_min: 55
 published_at: 2026-07-11T21:45:00Z
 video_id: vJukHCIv7Ck

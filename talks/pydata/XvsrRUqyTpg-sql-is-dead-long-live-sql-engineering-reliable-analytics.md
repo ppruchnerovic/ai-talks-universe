@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Mehdi Ouazza"]
-channel: "PyData"
+channel: null
 duration_min: 87
 published_at: 2026-08-04T22:20:19Z
 video_id: XvsrRUqyTpg

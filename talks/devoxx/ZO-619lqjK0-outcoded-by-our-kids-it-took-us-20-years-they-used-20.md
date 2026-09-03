@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Jan Van Wassenhove", "Bart Wulle"]
-channel: "Devoxx"
+channel: null
 duration_min: 39
 published_at: 2025-10-10T05:09:25Z
 video_id: ZO-619lqjK0

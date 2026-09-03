@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Dan Mejia"]
-channel: "AI Council"
+channel: null
 duration_min: 37
 published_at: 2024-04-14T05:00:18Z
 video_id: L337p2CBzco

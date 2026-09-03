@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kieran Klaassen"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-08-20T15:00:06Z
 video_id: _ehJyfHg1Vk

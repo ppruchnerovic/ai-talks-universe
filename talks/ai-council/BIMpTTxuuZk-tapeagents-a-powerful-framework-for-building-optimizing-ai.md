@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Mitul Tiwari"]
-channel: "AI Council"
+channel: null
 duration_min: 36
 published_at: 2025-05-28T23:54:11Z
 video_id: BIMpTTxuuZk

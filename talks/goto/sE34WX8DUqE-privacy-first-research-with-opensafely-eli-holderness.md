@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Eli Holderness", "Hannes Lowette"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 29
 published_at: 2025-07-29T12:24:34Z
 video_id: sE34WX8DUqE

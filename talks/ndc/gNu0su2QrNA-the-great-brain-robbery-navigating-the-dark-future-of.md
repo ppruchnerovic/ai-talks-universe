@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Jeff Watkins"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 51
 published_at: 2026-02-11T09:13:45Z
 video_id: gNu0su2QrNA

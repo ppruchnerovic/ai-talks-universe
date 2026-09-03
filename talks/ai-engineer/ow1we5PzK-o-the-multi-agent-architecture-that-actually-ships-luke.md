@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Luke Alvoeiro"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-05-06T15:00:06Z
 video_id: ow1we5PzK-o

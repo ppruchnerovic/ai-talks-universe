@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Ben Evans"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 40
 published_at: 2026-04-20T12:01:41Z
 video_id: v9Pq69Y_yqM

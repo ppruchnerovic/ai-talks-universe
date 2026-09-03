@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Clarissa Rodrigues"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 30
 published_at: 2026-07-27T08:58:47Z
 video_id: ooaSTz6zL4w

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Christiane Sibille"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 20
 published_at: 2024-05-15T09:01:43Z
 video_id: dhhi_eQTJOg

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Katie Roberts", "Stop Maintaining"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 29
 published_at: 2026-07-13T09:28:53Z
 video_id: 5SKh-FmjX7U

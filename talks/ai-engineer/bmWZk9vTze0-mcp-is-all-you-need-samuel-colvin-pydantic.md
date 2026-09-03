@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Samuel Colvin"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2025-07-18T18:52:25Z
 video_id: bmWZk9vTze0

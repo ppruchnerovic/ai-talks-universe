@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Greg Kamradt"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-07-16T17:57:02Z
 video_id: 3XmFPwjG8pg

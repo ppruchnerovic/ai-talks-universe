@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Alex Cheema"]
-channel: "AI Engineer"
+channel: null
 duration_min: 105
 published_at: 2026-05-26T17:00:06Z
 video_id: ESbWpPT_9-o

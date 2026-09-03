@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Chris Fonnesbeck", "Flexible Statistical Modeling"]
-channel: "PyData"
+channel: null
 duration_min: 87
 published_at: 2026-06-15T15:55:38Z
 video_id: uS-dfZ4xYHk

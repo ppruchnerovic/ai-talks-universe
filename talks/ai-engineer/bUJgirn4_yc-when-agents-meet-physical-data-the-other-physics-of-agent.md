@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dmitry Petrov"]
-channel: "AI Engineer"
+channel: null
 duration_min: 28
 published_at: 2026-07-20T06:25:07Z
 video_id: bUJgirn4_yc

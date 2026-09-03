@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Kilian Valkhof"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 49
 published_at: 2026-01-23T09:18:46Z
 video_id: YWHXU8Rlpq0

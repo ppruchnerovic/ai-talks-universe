@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Guy Podjarny"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 31
 published_at: 2026-06-15T10:19:06Z
 video_id: KpfnldjO3Iw

@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: ["Bad Vibes"]
-channel: "Black Hat"
+channel: null
 duration_min: 34
 published_at: 2026-08-29T20:00:10Z
 video_id: 7UCpHzFYF40

@@ -5,10 +5,10 @@ slug: usenix-security-25-rectifying-privacy-and-efficacy
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
 category: "Security conferences"
-edition: "USENIX"
+edition: "USENIX Security"
 year: 2025
 speakers: []
-channel: "USENIX"
+channel: null
 duration_min: 18
 published_at: 2025-10-30T20:02:11Z
 video_id: w851hfWRwbs
@@ -23,7 +23,7 @@ transcript: false
 
 **Speaker not identified**
 
-`USENIX Security Symposium` · `USENIX` · `2025` · `18 min`
+`USENIX Security Symposium` · `USENIX Security` · `2025` · `18 min`
 
 `#usenix` `#technology` `#conference` `#open access`
 

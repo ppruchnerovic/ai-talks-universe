@@ -8,7 +8,7 @@ category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Cristóbal Valenzuela"]
-channel: "Slush"
+channel: null
 duration_min: 24
 published_at: 2025-11-26T15:04:11Z
 video_id: Ur3ufpTjUJo

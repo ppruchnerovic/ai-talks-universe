@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Olivia Liddell"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 55
 published_at: 2026-08-05T13:38:22Z
 video_id: cj-6jlL0qBA

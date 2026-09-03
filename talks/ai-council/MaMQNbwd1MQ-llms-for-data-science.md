@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Hadley Wickham"]
-channel: "AI Council"
+channel: null
 duration_min: 23
 published_at: 2025-05-29T13:51:40Z
 video_id: MaMQNbwd1MQ

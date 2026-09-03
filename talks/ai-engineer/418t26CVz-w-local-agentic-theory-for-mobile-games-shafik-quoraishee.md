@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Shafik Quoraishee", "Joanne Song"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-07-23T03:00:01Z
 video_id: 418t26CVz-w

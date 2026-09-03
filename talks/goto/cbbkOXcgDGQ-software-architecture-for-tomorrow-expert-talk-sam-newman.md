@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Sam Newman", "Julian Wood"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 43
 published_at: 2025-01-10T10:34:15Z
 video_id: cbbkOXcgDGQ

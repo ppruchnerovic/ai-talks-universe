@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Josef Goldstein"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 66
 published_at: 2026-01-14T11:07:34Z
 video_id: Zg9-lg20-Gk

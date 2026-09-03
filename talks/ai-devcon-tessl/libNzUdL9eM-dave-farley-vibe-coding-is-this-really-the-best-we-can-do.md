@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Dave Farley", "Vibe Coding"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 32
 published_at: 2026-07-25T09:16:26Z
 video_id: libNzUdL9eM

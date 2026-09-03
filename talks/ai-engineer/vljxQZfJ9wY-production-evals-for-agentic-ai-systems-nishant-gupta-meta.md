@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nishant Gupta"]
-channel: "AI Engineer"
+channel: null
 duration_min: 8
 published_at: 2026-06-25T18:15:06Z
 video_id: vljxQZfJ9wY

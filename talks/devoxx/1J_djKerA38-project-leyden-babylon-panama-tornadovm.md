@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Project Leyden"]
-channel: "Devoxx"
+channel: null
 duration_min: 27
 published_at: 2025-10-30T08:23:46Z
 video_id: 1J_djKerA38

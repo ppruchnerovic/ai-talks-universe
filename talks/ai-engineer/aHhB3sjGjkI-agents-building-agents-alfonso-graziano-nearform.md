@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Alfonso Graziano"]
-channel: "AI Engineer"
+channel: null
 duration_min: 30
 published_at: 2026-06-28T00:00:00Z
 video_id: aHhB3sjGjkI

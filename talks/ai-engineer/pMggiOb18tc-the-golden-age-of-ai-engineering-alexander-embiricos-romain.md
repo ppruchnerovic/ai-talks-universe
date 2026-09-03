@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Alexander Embiricos", "Romain Huet", "Peter Steinberger"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2026-07-09T18:53:34Z
 video_id: pMggiOb18tc

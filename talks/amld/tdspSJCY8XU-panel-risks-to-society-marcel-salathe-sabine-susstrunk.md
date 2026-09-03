@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Marcel Salathé"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 66
 published_at: 2023-10-05T16:18:13Z
 video_id: tdspSJCY8XU

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Alexandre Abraham"]
-channel: "PyData"
+channel: null
 duration_min: 31
 published_at: 2025-11-21T16:24:29Z
 video_id: OaAqYTTaVF8

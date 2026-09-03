@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Solomon Hykes"]
-channel: "AI Engineer"
+channel: null
 duration_min: 24
 published_at: 2025-06-28T00:00:00Z
 video_id: bUBF5V6oDKw

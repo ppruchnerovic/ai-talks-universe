@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 46
 published_at: 2025-10-02T15:54:07Z
 video_id: 4E_90kyu9J0

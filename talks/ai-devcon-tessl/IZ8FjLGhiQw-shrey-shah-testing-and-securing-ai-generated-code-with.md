@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Shrey Shah"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 108
 published_at: 2025-11-27T22:08:51Z
 video_id: IZ8FjLGhiQw

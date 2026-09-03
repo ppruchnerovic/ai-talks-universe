@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Shiladitya Sircar"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 53
 published_at: 2024-06-10T21:12:23Z
 video_id: TIj4PBCzcEE

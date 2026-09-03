@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Ryan J. Salva"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 27
 published_at: 2025-09-25T12:35:51Z
 video_id: -H2WHY1Duu8

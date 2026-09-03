@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Michael Howard"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 61
 published_at: 2026-03-12T09:16:58Z
 video_id: Co8GypVSTHE

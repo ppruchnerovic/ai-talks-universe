@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Toki Sherbakov", "Anoop Kotha"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-07-20T00:00:00Z
 video_id: -OXiljTJxQU

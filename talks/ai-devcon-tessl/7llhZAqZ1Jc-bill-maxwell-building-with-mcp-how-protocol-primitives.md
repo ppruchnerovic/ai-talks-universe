@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Bill Maxwell"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 23
 published_at: 2025-11-27T22:03:10Z
 video_id: 7llhZAqZ1Jc

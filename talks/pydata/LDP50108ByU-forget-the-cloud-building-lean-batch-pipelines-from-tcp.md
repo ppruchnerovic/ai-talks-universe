@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Orell Garten"]
-channel: "PyData"
+channel: null
 duration_min: 47
 published_at: 2025-11-23T14:33:52Z
 video_id: LDP50108ByU

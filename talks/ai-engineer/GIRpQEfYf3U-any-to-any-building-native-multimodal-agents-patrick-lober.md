@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Patrick Löber"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-05-20T00:00:00Z
 video_id: GIRpQEfYf3U

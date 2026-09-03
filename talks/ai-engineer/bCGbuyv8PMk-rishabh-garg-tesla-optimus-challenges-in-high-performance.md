@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Rishabh Garg"]
-channel: "AI Engineer"
+channel: null
 duration_min: 13
 published_at: 2025-08-25T15:00:05Z
 video_id: bCGbuyv8PMk

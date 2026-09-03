@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Tamara Fingerlin"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 47
 published_at: 2024-05-14T06:08:07Z
 video_id: XPcrVK13GIk

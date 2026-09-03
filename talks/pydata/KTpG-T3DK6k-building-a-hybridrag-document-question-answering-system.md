@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Darya Petrashka"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2025-10-05T11:02:20Z
 video_id: KTpG-T3DK6k

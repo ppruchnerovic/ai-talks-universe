@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Jonathan Mortensen"]
-channel: "AI Council"
+channel: null
 duration_min: 36
 published_at: 2025-05-29T07:39:28Z
 video_id: -s-xkUd9P9E

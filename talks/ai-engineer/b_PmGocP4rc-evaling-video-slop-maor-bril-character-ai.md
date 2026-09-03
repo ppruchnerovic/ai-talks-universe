@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Evaling Video Slop", "Maor Bril"]
-channel: "AI Engineer"
+channel: null
 duration_min: 23
 published_at: 2026-07-25T00:00:00Z
 video_id: b_PmGocP4rc

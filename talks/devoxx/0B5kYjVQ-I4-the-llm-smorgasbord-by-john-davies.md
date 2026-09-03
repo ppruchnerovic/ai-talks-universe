@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["John Davies"]
-channel: "Devoxx"
+channel: null
 duration_min: 41
 published_at: 2025-10-10T05:09:23Z
 video_id: 0B5kYjVQ-I4

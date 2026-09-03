@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Karen Hsieh"]
-channel: "AI Council"
+channel: null
 duration_min: 10
 published_at: 2025-05-29T00:41:33Z
 video_id: 2jGXe5Bpols

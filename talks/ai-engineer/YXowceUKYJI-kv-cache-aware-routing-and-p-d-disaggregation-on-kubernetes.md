@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Yuchen Fama", "Ashish Kamra"]
-channel: "AI Engineer"
+channel: null
 duration_min: 22
 published_at: 2026-08-27T14:00:06Z
 video_id: YXowceUKYJI

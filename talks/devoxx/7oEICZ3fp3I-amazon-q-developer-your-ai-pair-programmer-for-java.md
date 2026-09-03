@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Pal Magnus Sla"]
-channel: "Devoxx"
+channel: null
 duration_min: 24
 published_at: 2025-10-08T05:30:33Z
 video_id: 7oEICZ3fp3I

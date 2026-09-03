@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Nico Albers"]
-channel: "PyData"
+channel: null
 duration_min: 29
 published_at: 2025-12-16T15:17:22Z
 video_id: cJ9zE4N6MTg

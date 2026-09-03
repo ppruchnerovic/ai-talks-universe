@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Manfred Bjørlin", "Awar Abdulkarim"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 44
 published_at: 2026-05-11T07:26:19Z
 video_id: Myg3A-AVjyo

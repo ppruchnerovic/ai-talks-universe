@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Fotis Adamakis"]
-channel: "Devoxx"
+channel: null
 duration_min: 40
 published_at: 2025-10-02T12:30:41Z
 video_id: szlyZm6q2xY

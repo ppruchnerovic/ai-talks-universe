@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Robert Brennan"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 23
 published_at: 2025-11-26T01:49:55Z
 video_id: TwiVYcqWbj0

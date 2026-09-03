@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Ashley Song"]
-channel: "CAMLIS"
+channel: null
 duration_min: 27
 published_at: 2025-11-14T07:12:28Z
 video_id: PhuBTJwFnaw

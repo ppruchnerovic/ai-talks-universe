@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Willem Pienaar"]
-channel: "AI Council"
+channel: null
 duration_min: 13
 published_at: 2025-05-29T00:38:38Z
 video_id: Ir3jLWvauNk

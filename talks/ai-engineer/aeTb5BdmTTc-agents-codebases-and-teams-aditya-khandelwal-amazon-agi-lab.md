@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Aditya Khandelwal"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-08-11T00:00:00Z
 video_id: aeTb5BdmTTc

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Roger Dubach"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 19
 published_at: 2023-10-05T16:20:15Z
 video_id: eYst8JqSxjE

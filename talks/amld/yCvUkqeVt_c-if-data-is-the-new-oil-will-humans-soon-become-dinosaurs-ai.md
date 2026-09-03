@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Joshua George"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 10
 published_at: 2024-05-15T13:24:54Z
 video_id: yCvUkqeVt_c

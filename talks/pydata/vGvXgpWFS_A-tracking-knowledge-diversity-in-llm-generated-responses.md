@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Sarah Masud"]
-channel: "PyData"
+channel: null
 duration_min: 27
 published_at: 2026-08-04T22:21:23Z
 video_id: vGvXgpWFS_A

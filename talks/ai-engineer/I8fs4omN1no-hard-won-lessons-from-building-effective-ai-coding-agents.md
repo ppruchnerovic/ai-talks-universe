@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nik Pash"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2025-12-12T15:00:06Z
 video_id: I8fs4omN1no

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Dmitry Petrov"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 22
 published_at: 2025-10-23T05:07:16Z
 video_id: zDPw-hFyNSA

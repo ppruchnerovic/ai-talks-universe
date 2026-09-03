@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Sander Hoogendoorn"]
-channel: "Devoxx"
+channel: null
 duration_min: 60
 published_at: 2025-10-02T12:30:52Z
 video_id: 0q4rbgrpDmY

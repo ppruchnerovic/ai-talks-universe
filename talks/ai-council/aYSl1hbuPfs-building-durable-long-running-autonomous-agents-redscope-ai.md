@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: ["Building Durable"]
-channel: "AI Council"
+channel: null
 duration_min: 39
 published_at: 2026-06-17T22:23:42Z
 video_id: aYSl1hbuPfs

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Predicting Patient Treatment Outcomes", "Charlotte Bunne"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 29
 published_at: 2024-05-15T10:37:36Z
 video_id: 8SypFrlATGo

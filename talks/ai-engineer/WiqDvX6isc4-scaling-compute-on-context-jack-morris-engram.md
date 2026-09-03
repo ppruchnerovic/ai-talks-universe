@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jack Morris"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-08-12T15:30:14Z
 video_id: WiqDvX6isc4

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Chenyu Qiu"]
-channel: "AI Council"
+channel: null
 duration_min: 26
 published_at: 2025-05-29T13:46:31Z
 video_id: ADaPkGbpp7Y

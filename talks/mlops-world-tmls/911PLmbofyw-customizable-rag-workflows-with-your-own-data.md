@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Christy Bergman"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 39
 published_at: 2024-05-15T18:30:38Z
 video_id: 911PLmbofyw

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Kushal Kolar", "Caitlin Lewis"]
-channel: "PyData"
+channel: null
 duration_min: 28
 published_at: 2026-01-09T17:53:07Z
 video_id: JUdW_64cyaw

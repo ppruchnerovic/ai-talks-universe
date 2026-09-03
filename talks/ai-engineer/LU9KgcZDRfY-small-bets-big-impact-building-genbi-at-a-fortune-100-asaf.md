@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Northwestern Mutual"]
-channel: "AI Engineer"
+channel: null
 duration_min: 23
 published_at: 2025-12-23T17:45:00Z
 video_id: LU9KgcZDRfY

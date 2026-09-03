@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Mackenzie Jackson"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 62
 published_at: 2026-08-05T11:47:13Z
 video_id: Sny_Lou774Q

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Anish Agarwal"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-07-10T16:29:07Z
 video_id: L6_NiGIEXZQ

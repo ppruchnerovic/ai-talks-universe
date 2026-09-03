@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Håkon Eriksson", "Øyvind Viken"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 56
 published_at: 2026-06-29T12:11:28Z
 video_id: hvBYTbdfH2k

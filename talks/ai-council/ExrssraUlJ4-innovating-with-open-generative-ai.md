@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Amit Sangani"]
-channel: "AI Council"
+channel: null
 duration_min: 40
 published_at: 2024-04-19T05:00:06Z
 video_id: ExrssraUlJ4

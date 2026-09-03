@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Hamza Tahir"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 8
 published_at: 2025-10-29T21:39:49Z
 video_id: oM2Lqs1iuvo

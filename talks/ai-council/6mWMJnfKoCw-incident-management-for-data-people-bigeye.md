@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []
-channel: "AI Council"
+channel: null
 duration_min: 11
 published_at: 2023-05-11T21:24:26Z
 video_id: 6mWMJnfKoCw

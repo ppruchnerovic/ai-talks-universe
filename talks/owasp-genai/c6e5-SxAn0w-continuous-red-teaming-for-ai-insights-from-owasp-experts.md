@@ -8,7 +8,7 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 27
 published_at: 2025-04-04T16:49:09Z
 video_id: c6e5-SxAn0w

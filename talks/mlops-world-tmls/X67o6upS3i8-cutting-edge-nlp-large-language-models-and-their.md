@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Ehsan Amjadian"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 38
 published_at: 2023-05-29T05:19:19Z
 video_id: X67o6upS3i8

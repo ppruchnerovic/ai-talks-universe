@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Kief Morris", "Abby Bangser"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 35
 published_at: 2025-10-17T12:21:02Z
 video_id: n7xSjv53xHE

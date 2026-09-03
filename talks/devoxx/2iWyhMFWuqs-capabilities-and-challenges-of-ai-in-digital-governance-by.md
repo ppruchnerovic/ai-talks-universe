@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Stamatis Ezovalis"]
-channel: "Devoxx"
+channel: null
 duration_min: 21
 published_at: 2024-10-23T07:08:31Z
 video_id: 2iWyhMFWuqs

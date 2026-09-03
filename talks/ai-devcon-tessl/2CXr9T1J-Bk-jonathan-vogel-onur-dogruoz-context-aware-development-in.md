@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Jonathan Vogel", "Onur Dogruoz"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 22
 published_at: 2025-11-27T15:53:18Z
 video_id: 2CXr9T1J-Bk

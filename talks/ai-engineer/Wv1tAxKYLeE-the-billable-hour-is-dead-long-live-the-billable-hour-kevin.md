@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kevin Madura", "Mo Bhasin"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-07-23T15:50:35Z
 video_id: Wv1tAxKYLeE

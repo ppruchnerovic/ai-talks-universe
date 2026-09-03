@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Steve Yegge"]
-channel: "AI Engineer"
+channel: null
 duration_min: 23
 published_at: 2026-07-20T00:00:00Z
 video_id: yWS0udrIOc8

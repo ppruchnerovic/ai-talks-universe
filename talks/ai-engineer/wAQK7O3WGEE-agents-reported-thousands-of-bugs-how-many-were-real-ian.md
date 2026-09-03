@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ian Butler", "Nick Gregory"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-06-03T00:00:00Z
 video_id: wAQK7O3WGEE

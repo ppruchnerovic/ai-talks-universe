@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Ewelina Kurtys"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 43
 published_at: 2026-03-17T13:28:43Z
 video_id: HQJU_ejqgtw

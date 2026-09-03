@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Chris Kelly"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2025-08-03T04:32:17Z
 video_id: Dc3qOA9WOnE

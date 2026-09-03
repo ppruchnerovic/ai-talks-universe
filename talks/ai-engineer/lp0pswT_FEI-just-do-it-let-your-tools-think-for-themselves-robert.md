@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Robert Chandler"]
-channel: "AI Engineer"
+channel: null
 duration_min: 7
 published_at: 2025-06-10T17:30:11Z
 video_id: lp0pswT_FEI

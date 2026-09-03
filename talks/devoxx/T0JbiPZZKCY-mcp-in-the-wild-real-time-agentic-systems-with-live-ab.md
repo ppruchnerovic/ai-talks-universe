@@ -8,7 +8,7 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Arun Gupta"]
-channel: "Devoxx"
+channel: null
 duration_min: 39
 published_at: 2025-10-08T05:30:35Z
 video_id: T0JbiPZZKCY

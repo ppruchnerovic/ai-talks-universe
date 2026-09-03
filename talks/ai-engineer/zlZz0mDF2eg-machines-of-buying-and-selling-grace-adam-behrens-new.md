@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Machines of Buying", "Selling Grace", "Adam Behrens"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-07-23T15:51:11Z
 video_id: zlZz0mDF2eg

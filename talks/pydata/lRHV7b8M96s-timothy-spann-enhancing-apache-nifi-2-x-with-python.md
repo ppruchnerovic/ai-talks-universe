@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Timothy Spann"]
-channel: "PyData"
+channel: null
 duration_min: 27
 published_at: 2026-01-09T20:47:13Z
 video_id: lRHV7b8M96s
