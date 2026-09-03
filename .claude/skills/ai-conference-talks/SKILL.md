@@ -50,10 +50,10 @@ python3 tools/query.py "agent reliability" --facets   # the same counts, for thi
 Four properties change how you should answer, and all are visible in the data:
 
 * **Transcript coverage is partial and very uneven.** `--stats` shows it per
-  year and per conference; as a rule the transcripts are almost all on the
-  most recent year's talks (99% of 2026, a few percent of 2025, none earlier)
-  and some conferences (Ignite, re:Invent) have none at all. So a ranked list
-  for any topic is dominated by 2026 and by the conferences with transcripts,
+  year and per conference; as a rule the transcripts cluster on the most
+  recent year's talks, earlier years have few or none, and some conferences
+  have none at all — the two tables say which. So a ranked list for any topic
+  is dominated by the years and the conferences that have transcripts,
   **because that is where the quotable text is, not because that is where the
   topic was discussed**. Run `--facets` before choosing a slice, so you know
   what a `--year` or `--conference` filter will actually leave you. A talk
@@ -68,12 +68,12 @@ Four properties change how you should answer, and all are visible in the data:
   conference's recordings for a year afterwards; a talk filed under 2025 was
   given in 2025 however late it appeared. `--since`/`--before` go by the
   publication date, which is a different thing (and falls back to the year
-  for the fifth of the talks that have no date).
+  for the talks that have no date).
 * **Not every talk is a YouTube video.** Each record has a `url` — the
   canonical link — and a `youtube_url` that is `null` for the talks that exist
   only as InfoQ pages (their ids start with `iq-`). Link to `url`.
 
-A few transcripts are not English, and a dozen labelled Hindi are English
+A few transcripts are not English, and some labelled Hindi are English
 audio the ASR mis-read; they count in the totals and cannot answer an English
 query. Nothing filters on it; if a talk that should match does not, that may
 be why.
@@ -86,9 +86,9 @@ one failure mode that makes this KB worthless.
 
 Retrieval is three widening steps, and most questions are answered by the first
 two. **Never `cat` a talk markdown file to find out what a speaker said.**
-Those files inline the whole transcript — 8,500 tokens on average, 26,000 for a
-long workshop — and reading a handful of them is what turns a one-sentence
-question into a six-figure token bill. `excerpt.py` gives you the parts of the
+Those files inline the whole transcript — what `--full` costs in the table
+below, several times that for a long workshop — and reading a handful of them
+is what turns a one-sentence question into a six-figure token bill. `excerpt.py` gives you the parts of the
 same transcript that bear on the question, with the same deep links, for a
 tenth of that.
 
@@ -155,8 +155,9 @@ The rest of the syntax, when the question has a shape:
 * `"exact phrase"`, `prefix*`, `AND`/`OR`/`NOT` as in FTS5.
 
 Filters: `--conference langchain-interrupt` (repeatable), `--category
-security` (the conference type: five kinds of venue, `--list-categories`),
-`--topic evals` (repeatable; `--list-topics` prints the fifteen), `--year 2026`
+security` (the conference type: the kind of venue, `--list-categories`),
+`--topic evals` (repeatable; `--list-topics` prints them, with how many talks
+carry each), `--year 2026`
 (repeatable), `--min-year` / `--max-year`,
 `--since` / `--before YYYY-MM-DD`, `--speaker NAME` (part of a name is
 enough), `--min-duration` / `--max-duration MIN`, `--transcript`,
@@ -169,16 +170,16 @@ corpus, newest first, and `--random --seed N` draws from it.
 *Business & industry events* — and `--topic` is what it is about. They
 cross: `--category security --topic agents` is what security-conference
 speakers say about agents; `--category vendor --topic security` is what
-vendor keynotes say about security. Only 577 of the 1,314 security-topic
-talks are from security conferences, so neither flag substitutes for the
-other.
+vendor keynotes say about security. Most security-topic talks are not from
+security conferences (`--topic security --facets` shows the split by
+conference type), so neither flag substitutes for the other.
 
-`--topic` is a per-talk facet — fifteen subjects such as *Agents &
-orchestration*, *Evals, observability & reliability*, *RAG, retrieval &
-knowledge*, *Security, safety & red teaming* — derived by keyword rules from
-each talk's title, tags and description, never from its transcript. A talk
-may carry several, and about a fifth carry none (keynotes, panels, talks
-with no description), so it narrows a search rather than replacing one:
+`--topic` is a per-talk facet — subjects such as *Agents & orchestration*,
+*Evals, observability & reliability*, *RAG, retrieval & knowledge*,
+*Security, safety & red teaming* — derived by keyword rules from each talk's
+title, tags and description, never from its transcript. A talk may carry
+several, and a good many carry none (keynotes, panels, talks with no
+description), so it narrows a search rather than replacing one:
 `query.py "memory" --topic agents` is memory as an agent concern, `--topic
 rag` memory as retrieval. One word of a topic's name resolves when it is
 unambiguous (`evals`, `rag`, `security`); `--brief` prints each hit's topics,
@@ -270,8 +271,8 @@ what you need and what it costs (measured on 30-40 minute talks, ±30%):
 
 Reading the markdown file directly is for when you want the record itself — its
 frontmatter, its tags — not for finding a quote. `excerpt.py` accepts the
-markdown path, a YouTube URL, and ids that start with a hyphen (about one in
-thirty do) as well as the plain id.
+markdown path, a YouTube URL, and ids that start with a hyphen (some do) as
+well as the plain id.
 
 ### The optional semantic layer
 
@@ -299,7 +300,7 @@ For "what do people think about X" questions, structure the answer around
 - Group speakers who broadly agree; name the axis they disagree on.
 - Attribute every claim to a named speaker and the conference they said it at.
   Speaker names are extracted from titles and descriptions and are missing on
-  about two fifths of the talks — say "a speaker at <conference>" rather than
+  a large share of the talks — say "a speaker at <conference>" rather than
   guessing a name.
 - Quote only from transcripts, never from descriptions (a YouTube description
   is a promise written by a marketing team, not a statement). `--quotes` is
@@ -311,7 +312,7 @@ For "what do people think about X" questions, structure the answer around
   ("around 12 minutes in"), never to the second.
 - Say plainly when the corpus is thin: if only two talks touch the topic, or if
   none of the matching talks has a transcript, that is part of the answer —
-  and say when the spread you found is the corpus's (all 2026, one
+  and say when the spread you found is the corpus's (all one year, one
   conference) rather than the field's.
 
 ### What a question should cost

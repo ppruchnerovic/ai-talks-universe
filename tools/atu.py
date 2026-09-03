@@ -606,14 +606,13 @@ TOPIC_NAMES = [name for name, _ in TOPICS]
 TITLE_HIT = 2        # a phrase in the title
 TOPIC_THRESHOLD = 2  # what a topic needs to be assigned
 
-# A phrase said by the description or a tag of more than this share of one
-# conference's talks is the channel talking, not the talk: PyData's every
-# description says "data science" and "machine learning", AI Engineer's every
-# video is tagged "startups", one channel tags everything "education".
-# sync_catalog.py measures this per conference and passes the phrases in as
-# `ignore`; titles are never ignored, since a title is written per talk.
-BOILERPLATE_SHARE = 0.5
-BOILERPLATE_MIN_TALKS = 10
+# The tags and the description carry the channel's habits as well as the
+# talk's: PyData's every description says "data science" and "machine
+# learning", AI Engineer's every upload is tagged "startups". That is the
+# caller's problem, not this module's: sync_catalog.py measures, per
+# conference, which description lines (>10% of talks, verbatim) and tags
+# (>30%) are stock, strips them, and passes the cleaned tags and description
+# in. Titles are never stripped, since a title is written per talk.
 
 
 def _phrase_re(pattern: str) -> re.Pattern:
@@ -646,20 +645,7 @@ def _body(tags, description: str | None) -> str:
     return unicodedata.normalize("NFKC", f"{' '.join(tags or [])}\n{description or ''}")
 
 
-def topic_evidence(tags, description: str | None) -> set[str]:
-    """Every topic phrase the tags and description say, lowercased.
-
-    What sync_catalog.py counts across a conference to find its boilerplate.
-    """
-    body = _body(tags, description)
-    out: set[str] = set()
-    for i in range(len(TOPIC_RES)):
-        out |= _said(i, body)
-    return out
-
-
-def topic_scores(title: str | None, tags, description: str | None,
-                 ignore: frozenset[str] | set[str] = frozenset()) -> dict[str, int]:
+def topic_scores(title: str | None, tags, description: str | None) -> dict[str, int]:
     """Every topic that scored, and what it scored. See TOPICS for the rule."""
     head = title or ""
     body = _body(tags, description)
@@ -667,17 +653,15 @@ def topic_scores(title: str | None, tags, description: str | None,
     for i, (name, _, whole) in enumerate(TOPIC_RES):
         score = TITLE_HIT if whole.search(head) else 0
         if body.strip():
-            said = _said(i, body) - set(ignore)
-            score += len({_phrase_index(i, s) for s in said})
+            score += len({_phrase_index(i, s) for s in _said(i, body)})
         if score:
             out[name] = score
     return out
 
 
-def topics_of(title: str | None, tags, description: str | None,
-              ignore: frozenset[str] | set[str] = frozenset()) -> list[str]:
+def topics_of(title: str | None, tags, description: str | None) -> list[str]:
     """The topics a talk is filed under, sorted; [] when nothing reaches the bar."""
-    return sorted(name for name, s in topic_scores(title, tags, description, ignore).items()
+    return sorted(name for name, s in topic_scores(title, tags, description).items()
                   if s >= TOPIC_THRESHOLD)
 
 

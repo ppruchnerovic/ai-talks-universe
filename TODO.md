@@ -42,10 +42,25 @@ Current state is `STATE.md`; the rules and the shape of the system are
   model, or a hosted call). Chunk-level *ranking* (not only anchoring) and a
   cross-encoder rerank are the two obvious next steps if recall on paraphrased
   questions is still short. *Search enrichment*.
-- **`--related <id>`, did-you-mean for typos and a fuzzy `--speaker`** all need
-  a schema bump: an `fts5vocab` table for the first two, a trigram FTS5 table
-  over title + speakers for the third. Mechanisms measured, not built — the
-  Tier 2 table in `SEARCH-OPTIONS.md`.
+- **`--lang` needs a `language` column** in `talks.db`: a `DB_SCHEMA_VERSION`
+  bump (which also invalidates `data/embeddings/`) for one filter whose main
+  use is excluding the twelve `hi` mis-detections the badge already flags.
+  *Search enrichment*.
+- **Did-you-mean for query typos**: an `fts5vocab` table and `difflib` over
+  its stems (31,810 load in 50 ms, a match ~30 ms). Schema bump; today
+  relaxation drops the absent word and says so. *Search enrichment*.
+- **A fuzzy `--speaker`**: a trigram FTS5 table over title + speakers, the
+  query's trigrams OR-ed and ranked by bm25 (0.14 s to build, 1–2 ms a query).
+  Schema bump; `check_speaker()`'s difflib suggestion is the substitute.
+  *Search enrichment*.
+- **`--related <id>`**: the talk's top tf-idf stems as one OR query through
+  `rank()`, df from `fts5vocab`. Schema bump; the mechanism is 10 ms, choosing
+  the terms is the work. *Search enrichment*.
+- **`--near N` for bare queries**: `together_q` as `NEAR(...)`. No bump, but
+  it changes ranking, so the `ranking` suite decides. *Search enrichment*.
+- **`--year 2024-2025` as a range** is not in argparse; `--min-year`/`--max-year`
+  or a repeated `--year` cover it and the skill cites those. An hour in the
+  parser. *Search enrichment*.
 - **`uitest`'s assembled-site helper waits a fixed 10 s** for its throwaway
   server while copying 199 MB of transcripts to /tmp; under load the
   navigation suite sees `ERR_CONNECTION_REFUSED` and passes on re-run. Poll

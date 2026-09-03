@@ -1,4 +1,4 @@
-// Conference / conference type / topic / year filters, the three sort orders, Reset,
+// Conference / conference type / topic / year filters, the five sort orders, Reset,
 // and the hash that makes any view a shareable link.
 
 const L = require('./lib');
