@@ -218,6 +218,36 @@ page drops one word at a time (a word no talk says first, then the commonest)
 and says which in the status line, instead of showing nothing. A moment whose
 timing was interpolated rather than measured is shown as `~12:34`.
 
+The search box takes a little syntax, the same as the CLI's where both have
+it:
+
+| Typed | Means |
+|---|---|
+| `"prompt injection"` | the phrase, as written, in the metadata — or its words spoken in one passage of the transcript |
+| `title:rag`, `speaker:chase` | the word in that field only |
+| `transcript:kubernetes` | the word as spoken, titles and descriptions not consulted |
+| `year:2025`, `conf:ai-engineer` | sets the year or conference select; a conference can be named by slug or by name (`conf:"AI Engineer"`) |
+| `-kubernetes` | leaves out every talk that says the word anywhere |
+| `rust OR zig` | either word counts as the one term |
+| `kube*` | any word starting so, even when the stem is too short to be tried as a prefix on its own |
+
+A word that belongs to one of the synonym groups the CLI also uses (`llm`,
+`rag`, `k8s`, `evals`, `db`, `ml`, `mcp`, …) is searched as the group — a
+talk that only says "k8s" qualifies for "kubernetes" — and the status line
+says what was added; only the word you typed is highlighted. The other
+controls: a speaker box with typeahead, a length bucket, shortest/longest
+sorts, "Transcript only" (talks that have one) and "Spoken only" (matches on
+what was said, nothing else). Every one of them is in the URL, so a link
+reproduces the view; "Newest first" is also remembered for links that say
+nothing about the order. The bar above the results exports what is shown as
+Markdown or CSV and copies the link; `j`/`k` move between cards, `Enter`
+opens the current one, `/` focuses the search box. A "said together" badge
+marks a talk whose transcript says the query's words in one passage, "also
+matches in the full description" marks a match beyond the clip on the card,
+and a transcript in a language other than English is badged with its code —
+"transcript language", since the handful of `hi` ones are English talks the
+caption source mislabelled.
+
 ### From the terminal
 
 ```bash
@@ -226,6 +256,8 @@ python3 query.py "context engineering"
 python3 query.py "prompt injection" --category "AI security" -n 20
 python3 query.py "agents in production" --conference langchain-interrupt
 python3 query.py "evals" --year 2026 --json          # for scripts and agents
+python3 query.py "agent memory" -n 6 --excerpt      # the list, then what each hit says
+python3 query.py --speaker "harrison chase" --sort newest   # no query: a listing
 ```
 
 Both the descriptions and the transcripts are searched. Transcript hits carry
@@ -251,6 +283,73 @@ conference — from the index rather than from anyone's memory. `--brief` drops
 the fields and the extra transcript moments that help you *read* a result but
 not *choose* one, which is about a fifth of the bytes; `--ids` prints nothing
 but the video ids, to pipe into the next command.
+
+More ways to narrow: `--speaker NAME` (part of a name will do; one that
+matches nobody gets the nearest names), `--min-duration` / `--max-duration` in
+minutes, `--since` / `--before` a date (a talk with no publication date goes
+by its year), `--max-year`, `--exact-timing` for transcripts whose timestamps
+were measured rather than estimated, and FTS5's own column filters —
+`title:agents`, `speakers:"harrison chase"`, `{title tags}:rag`,
+`transcript:kubernetes`. A `-word` in a bare query excludes the talks that say
+it. With no query at all the filters list the corpus, newest first;
+`--random --transcript` draws a talk to read. `--sort newest|oldest|duration|title`
+reorders the best-scoring candidates, not every match, so "newest" is the
+newest talk that answers the question rather than the newest that mentions a
+word once. `--facets` counts every match by conference, year, category and
+transcript — which is what tells you a topic looks like 2026 because that is
+where the transcripts are — and `--per-conference K` / `--per-year K` keep the
+best K of each. A title uploaded twice is listed once, the other ids noted as
+"(also: …)". Common abbreviations are expanded — `mcp` also finds "model
+context protocol", `rag` "retrieval augmented generation" — and stderr says so;
+explicit FTS5 syntax is never expanded or relaxed.
+
+For reading: `--excerpt` follows the list with what each hit says about the
+query — `excerpt.py`'s passages, `--passages N` of them per talk — in one
+command, with the search's notes on stdout where a program will see them.
+`--explain` shows each hit's per-layer scores, `--md` prints a markdown table,
+`--fields a,b,c` picks the columns of `--json` and `--md`. Colour is on only for
+a terminal, and off under `NO_COLOR` or `--no-color`.
+
+If the optional semantic layer has been built (`tools/install_semantic.sh`;
+nothing else needs it), a bare query is also matched by meaning and the two
+rankings are fused by reciprocal rank, so a talk that says none of the words
+but is about the question can appear, marked "semantic match" and `via:
+"semantic"` in `--json`. `--no-semantic` turns it off; `--semantic` insists on
+it and fails with the reason when it is not there.
+
+### Optional: semantic search layer
+
+Everything above runs on the standard library and stays that way. What FTS5
+cannot do is find a talk that *means* the question without *saying* it —
+"keeping agents from going off the rails" shares no stem with "guardrails",
+"trust boundaries" or "shipping agents safely", which is what the corpus calls
+it. An optional layer adds that and nothing else:
+
+```bash
+tools/install_semantic.sh             # a venv, a 30 MB model, vectors for every talk (10 s)
+tools/install_semantic.sh --chunks    # ~1.5 min more: vectors for every ~70 s of transcript
+python3 tools/semantic.py --status    # what is built, and whether query.py will use it
+python3 tools/semantic.py "agents going off the rails" -n 5    # the layer on its own
+```
+
+It is [model2vec](https://github.com/MinishLab/model2vec) static embeddings
+(`minishlab/potion-base-8M`: numpy and tokenizers, no torch, no onnx, nothing
+compiled), in its own `tools/.venv-semantic`, writing `data/embeddings/` —
+4.4 MiB for 9,048 talks, 88 MiB more for 176,573 transcript windows. Both are
+gitignored and derived, like `talks.db`. `query.py` runs on the system
+python3 and reaches the venv through a subprocess, which costs about 0.6 s a
+query, nearly all of it loading the model.
+
+Three rules, from `tools/semantic.py`: the layer is built by the install
+script and by nothing else, never on a query; when it is missing, or older
+than `talks.json`, or the venv is gone, `query.py` searches FTS5 alone and
+says why on stderr; and the two rankings are merged by reciprocal rank
+fusion as a *union*, so each side contributes talks the other missed —
+nothing is reranked, and the lexical ranking is unchanged for anyone who
+never installs this. After a `sync_catalog.py` run, rerun the script: it
+rebuilds only when the stamp is stale, and byte-identically from the same
+inputs. `python3 tools/test_semantic.py` checks the half that runs without
+numpy; `rm -rf tools/.venv-semantic data/embeddings` removes everything.
 
 ### Reading a talk without reading all of it
 
@@ -650,10 +749,15 @@ talk dropped because its proxy was benched costs a fetch nobody notices.
 cd tools && python3 test_query.py                 # ~0.1s, no database
 cd tools && python3 test_speakers.py              # ~0.1s, no corpus
 cd tools && python3 test_stem.py                  # ~6s; reads the corpus, runs node if present
+cd tools && python3 test_semantic.py              # ~0.2s; skips its end-to-end block when the layer is absent
 ```
 
-`test_query.py` holds the OR chains the skill recommends and the ids that
-once cut short at a hyphen. `test_speakers.py` holds each shape a speaker is
+`test_query.py` holds the OR chains the skill recommends, the ids that once
+cut short at a hyphen, the column filters that used to be split at the colon,
+and the synonym expansion both rankers share. `test_semantic.py` covers what
+the optional layer does on the standard library alone — the staleness rules,
+reciprocal-rank fusion, the pool mapping — so the fallback is tested on a
+machine that never installed it. `test_speakers.py` holds each shape a speaker is
 read from and the false positives the rules exist to stop — a brand or a job
 title in that field ranks under every talk that carries it. `test_stem.py`
 runs the JavaScript stemmer out of `index.html` under node over every token in

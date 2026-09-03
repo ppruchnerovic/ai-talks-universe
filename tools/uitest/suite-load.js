@@ -48,8 +48,19 @@ L.suite('load', async browser => {
       JSON.stringify([...new Set(meta.talks.map(t => t.y).filter(Boolean))]
         .sort((a, b) => b - a).map(String)),
     opts.year.slice(1, 4).join(', '));
-  L.check('sort offers relevance / newest / title',
-    JSON.stringify(opts.sort) === JSON.stringify(['rel', 'new', 'title']));
+  L.check('sort offers relevance / newest / title / shortest / longest',
+    JSON.stringify(opts.sort) === JSON.stringify(['rel', 'new', 'title', 'short', 'long']),
+    opts.sort.join(','));
+
+  // Facet counts sit on the labels, never on the values the hash and the
+  // filters read. With nothing filtered, each conference's count is its size.
+  const labels = await page.$$eval('#f-conf option', os =>
+    os.filter(o => o.value).map(o => [o.value, o.textContent]));
+  const perConf = new Map();
+  meta.talks.forEach(t => perConf.set(t.cs, (perConf.get(t.cs) || 0) + 1));
+  L.check('conference options carry a facet count matching the data',
+    labels.length > 0 && labels.every(([v, l]) => l.endsWith(`(${perConf.get(v).toLocaleString()})`)),
+    labels.slice(0, 2).map(l => l[1]).join(' | '));
 
   // A filter that matches every talk is a dead control, so the UI hides the
   // transcript toggle until coverage is actually partial.

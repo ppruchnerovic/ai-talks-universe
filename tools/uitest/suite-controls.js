@@ -184,5 +184,40 @@ L.suite('controls', async browser => {
   L.check('"/" types normally once the box already has focus',
     typed.length === v.length + 1 && typed.includes('/'), `"${v}" -> "${typed}"`);
 
+  // ---------- j/k ----------
+  await L.search(page, 'agents');
+  await page.evaluate(() => document.querySelector('#q').blur());
+  const curN = () => page.evaluate(() =>
+    [...document.querySelectorAll('#results .card')].findIndex(c => c.classList.contains('cur')));
+  L.check('no card is current before j is pressed', (await curN()) === -1);
+  await page.keyboard.press('j');
+  await page.keyboard.press('j');
+  await page.waitForTimeout(150);
+  const afterJJ = await curN();
+  await page.keyboard.press('k');
+  await page.waitForTimeout(150);
+  const afterK = await curN();
+  L.check('j moves the current card down and k moves it up',
+    afterJJ === 1 && afterK === 0, `j,j -> ${afterJJ}; k -> ${afterK}`);
+  L.check('only one card is ever current',
+    (await page.locator('#results .card.cur').count()) === 1);
+  await page.focus('#q');
+  await page.keyboard.press('j');
+  L.check('j typed into the search box is just a letter',
+    (await page.inputValue('#q')).includes('j'), await page.inputValue('#q'));
+
+  // ---------- export ----------
+  await L.search(page, 'agents');
+  L.check('the export bar shows with results',
+    await page.evaluate(() => !document.querySelector('#tools').hidden &&
+      ['x-md', 'x-csv', 'x-link'].every(id => document.getElementById(id))));
+  const [dl] = await Promise.all([page.waitForEvent('download', { timeout: 5000 }).catch(() => null),
+                                  page.click('#x-md')]);
+  L.check('Markdown export downloads a file', !!dl && /\.md$/.test(dl.suggestedFilename()),
+    dl ? dl.suggestedFilename() : 'no download');
+  await L.search(page, 'zzzqqqxyzzy');
+  L.check('the export bar hides on an empty result set',
+    await page.evaluate(() => document.querySelector('#tools').hidden));
+
   L.check('no uncaught errors', page.__errors.length === 0, page.__errors.join('; '));
 });

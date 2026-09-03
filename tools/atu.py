@@ -58,6 +58,32 @@ ways lot lots kind sort going gonna yeah okay ok right well actually basically j
 )
 
 
+# Query-time synonym groups, shared by the two rankers so they keep agreeing:
+# query.py expands a bare word into an OR over its group (one gate term per
+# group), and index.html does the same from the copy build_index.py writes into
+# tindex/_manifest.json. Membership is tested by stem, so "databases" belongs to
+# the `db` group. Kept short and weak on purpose: the ranking-agreement suite
+# compares the two rankers, and every group here widens both the same way.
+SYNONYMS: tuple[tuple[str, ...], ...] = (
+    ("llm", "llms", "language model", "language models"),
+    ("rag", "retrieval augmented generation", "retrieval-augmented generation"),
+    ("mcp", "model context protocol"),
+    ("k8s", "kubernetes"),
+    ("genai", "generative ai"),
+    ("eval", "evals", "evaluation", "evaluations"),
+    ("db", "database", "databases"),
+    ("ml", "machine learning"),
+    ("fine-tuning", "finetuning", "fine tuning"),
+    ("vector db", "vector database", "vector store"),
+    ("cot", "chain of thought", "chain-of-thought"),
+    ("rl", "reinforcement learning"),
+    ("rlhf", "reinforcement learning from human feedback"),
+    ("sre", "site reliability"),
+    ("ci", "continuous integration"),
+    ("infra", "infrastructure"),
+)
+
+
 def slugify(text: str, max_len: int = 60) -> str:
     text = unicodedata.normalize("NFKD", text or "")
     text = text.encode("ascii", "ignore").decode("ascii").lower()

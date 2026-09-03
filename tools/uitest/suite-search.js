@@ -191,6 +191,104 @@ L.suite('search', async browser => {
       (await L.statusText(page)).trim().slice(0, 55) || 'empty state');
   }
 
+  // ---------- field syntax ----------
+  // `year:` is a filter, not a word: it used to search for the stem "year",
+  // which relaxation then dropped with a note. Now it sets the select.
+  const years = [...new Set(meta.talks.map(t => t.y).filter(Boolean))].sort((a, b) => b - a);
+  const yr = String(years[Math.min(1, years.length - 1)]);
+  await L.search(page, `year:${yr} agents`);
+  const yrState = await page.evaluate(() => ({
+    year: document.querySelector('#f-year').value, status: document.querySelector('#status').textContent }));
+  L.check(`"year:${yr}" sets the year select and is not searched as a word`,
+    yrState.year === yr && !/dropped/.test(yrState.status) &&
+      (await L.cardNs(page)).every(i => String(meta.talks.find(t => t.i === i).y) === yr),
+    `select=${yrState.year} — ${yrState.status.trim().slice(0, 80)}`);
+  await L.search(page, 'agents');
+  L.check('deleting "year:" from the query clears the select it set',
+    (await page.evaluate(() => document.querySelector('#f-year').value)) === '');
+
+  const confSlug = meta.talks[0].cs;
+  await L.search(page, `conf:${confSlug} agents`);
+  L.check(`"conf:${confSlug}" sets the conference select`,
+    (await page.evaluate(() => document.querySelector('#f-conf').value)) === confSlug &&
+      (await L.cardNs(page)).every(i => meta.talks.find(t => t.i === i).cs === confSlug));
+  await L.search(page, 'agents');
+
+  const nRag = await count('rag');
+  const nTitleRag = await count('title:rag');
+  const titleOnly = (await L.titles(page)).every(t => /\brag\b/i.test(t));
+  L.check('"title:rag" confines the word to titles',
+    nTitleRag > 0 && nTitleRag < nRag && titleOnly, `rag=${nRag} title:rag=${nTitleRag}`);
+
+  if (speaker) {
+    const last = speaker.find(x => x.split(' ').length >= 2).split(' ').pop();
+    const nSpk = await count(`speaker:${last}`);
+    const whoAll = await page.$$eval('#results .who', ws => ws.map(w => w.textContent.toLowerCase()));
+    L.check(`"speaker:${last}" confines the word to speakers`,
+      nSpk > 0 && whoAll.every(w => w.includes(last.toLowerCase())), `${nSpk} hits`);
+  } else {
+    L.skip('"speaker:" confines the word to speakers', 'no speakers identified in the corpus yet');
+  }
+
+  // ---------- exclusion ----------
+  const nMinus = await count('agents -kubernetes');
+  const noKube = await page.evaluate(() =>
+    [...document.querySelectorAll('#results .card')].every(c => !/kubernetes/i.test(c.textContent)));
+  L.check('"-word" excludes talks that say the word',
+    nMinus > 0 && nMinus < nAgents && noKube, `agents=${nAgents} agents -kubernetes=${nMinus}`);
+  const nSpecDriven = await count('spec-driven');
+  L.check('a hyphen inside a word is still a compound, not an exclusion',
+    nSpecDriven > 0 && !/dropped/.test(await L.statusText(page)), `${nSpecDriven}`);
+
+  // ---------- OR, synonyms, explicit prefix ----------
+  const nRust = await count('rust'), nZig = await count('zig'), nEither = await count('rust OR zig');
+  L.check('"rust OR zig" is a group: at least as wide as either word',
+    nEither >= Math.max(nRust, nZig) && nEither > 0, `rust=${nRust} zig=${nZig} either=${nEither}`);
+
+  // The manifest carries the synonym list query.py expands with; "kubernetes"
+  // is in a group with "k8s", so a talk that only says "k8s" qualifies and the
+  // status line says what was added.
+  await L.search(page, 'kubernetes');
+  const synStatus = (await L.statusText(page)).trim();
+  L.check('a word in a synonym group is expanded and the status line says so',
+    /also as/.test(synStatus) && /k8s/.test(synStatus), synStatus.slice(0, 120));
+  const synMarks = await page.$$eval('#results mark',
+    ms => [...new Set(ms.map(m => m.textContent.toLowerCase()))]);
+  L.check('the synonyms are searched but only the typed word is highlighted',
+    synMarks.length > 0 && synMarks.every(m => m.startsWith('kub')), synMarks.join(','));
+
+  // Three letters is under the four the prefix rule wants, so "sql" alone is
+  // exact; the star reaches "sqlite" and "sqlalchemy". (Not "ml": that one is
+  // in a synonym group, and a starred word is never expanded.)
+  const nSql = await count('sql'), nSqlStar = await count('sql*');
+  L.check('an explicit "sql*" widens a stem too short to be a prefix on its own',
+    nSqlStar > nSql && nSql > 0 && page.__errors.length === 0, `sql=${nSql} sql*=${nSqlStar}`);
+
+  // ---------- a quoted phrase is a gate ----------
+  await L.search(page, '"prompt injection"');
+  const phraseCards = await page.evaluate(() =>
+    [...document.querySelectorAll('#results .card')].map(c => ({
+      n: Number(c.dataset.n), together: !!c.querySelector('.b.together') })));
+  const phraseOk = phraseCards.every(({ n, together }) => {
+    const t = meta.talks.find(x => x.i === n);
+    return [t.t, t.d, (t.a || []).join(' '), (t.s || []).join(' '), t.c, t.e].join('   ')
+      .toLowerCase().includes('prompt injection') || together;
+  });
+  L.check('every hit for a quoted phrase has it in its metadata or says it in one passage',
+    phraseCards.length > 0 && phraseOk, `${phraseCards.length} cards checked`);
+
+  // ---------- the transcript scope ----------
+  if (meta.talks.some(t => t.w > 0)) {
+    await L.search(page, 'transcript:kubernetes');
+    const trSt = (await L.statusText(page)).trim();
+    const trN = await L.resultCount(page);
+    const trOnlyN = Number(((trSt.match(/(\d[\d,]*) found only in the spoken/) || [])[1] || '0').replace(/,/g, ''));
+    L.check('"transcript:word" matches on what was said and nothing else',
+      trN > 0 && trOnlyN === trN, trSt.slice(0, 100));
+  } else {
+    L.skip('"transcript:word" matches on what was said', 'no transcripts fetched yet');
+  }
+
   // ---------- queries that match nothing, or everything ----------
   await L.search(page, 'zzzqqqxyzzy');
   L.check('a nonsense query shows the empty state',

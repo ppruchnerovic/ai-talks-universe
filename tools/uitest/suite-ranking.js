@@ -51,7 +51,11 @@ L.suite('ranking', async browser => {
     L.skip('CLI agreement', 'data/talks.db not built (run: python3 build_index.py)');
   } else {
     for (const q of CLI_QUERIES) {
-      const cli = JSON.parse(execFileSync('python3', ['query.py', q, '-n', '10', '--json'],
+      // Lexical against lexical: query.py fuses in a vector layer when
+      // data/embeddings exists, and the browser has no such layer to agree
+      // with.
+      const cli = JSON.parse(execFileSync('python3',
+        ['query.py', q, '-n', '10', '--json', '--no-semantic'],
         { cwd: TOOLS, maxBuffer: 1 << 26 }).toString()).map(h => h.id);
       await L.search(page, q);
       // Two clicks of "Show more" — the first 40 results.

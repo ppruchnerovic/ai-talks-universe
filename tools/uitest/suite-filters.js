@@ -3,6 +3,9 @@
 
 const L = require('./lib');
 
+// The years in the corpus, newest first.
+const years0 = meta => [...new Set(meta.talks.map(t => t.y).filter(Boolean))].sort((a, b) => b - a);
+
 L.suite('filters', async browser => {
   const page = await L.newPage(browser);
   await L.boot(page);
@@ -90,10 +93,94 @@ L.suite('filters', async browser => {
     /newest first/.test((await L.statusText(page)).trim()),
     (await L.statusText(page)).trim().slice(0, 70));
 
+  // ---------- duration ----------
+  const minutes = async () => (await L.cardNs(page)).map(i => byN.get(i).m || 0);
+  await page.selectOption('#f-sort', 'short');
+  await page.waitForTimeout(450);
+  const asc = await minutes();
+  L.check('Shortest first is ascending by duration',
+    asc.length > 1 && asc.every((v, i) => i === 0 || asc[i - 1] <= v), JSON.stringify(asc.slice(0, 5)));
+  await page.selectOption('#f-sort', 'long');
+  await page.waitForTimeout(450);
+  const desc = await minutes();
+  L.check('Longest first is descending by duration',
+    desc.length > 1 && desc.every((v, i) => i === 0 || desc[i - 1] >= v), JSON.stringify(desc.slice(0, 5)));
+  L.check('the duration sort is in the URL', /sort=long/.test(await page.evaluate(() => location.hash)));
+  await page.selectOption('#f-sort', 'rel');
+
+  await page.selectOption('#f-len', 'lt10');
+  await page.waitForTimeout(450);
+  const short = await minutes();
+  L.check('the "Under 10 min" bucket keeps only such talks',
+    short.length > 0 && short.every(m => m > 0 && m < 10), JSON.stringify(short.slice(0, 5)));
+  L.check('the length bucket is in the URL', /len=lt10/.test(await page.evaluate(() => location.hash)));
+  await page.selectOption('#f-len', '');
+  await page.waitForTimeout(300);
+
+  // ---------- speaker ----------
+  const bySpeaker = new Map();
+  meta.talks.forEach(t => (t.s || []).forEach(s => bySpeaker.set(s, (bySpeaker.get(s) || 0) + 1)));
+  const spk = [...bySpeaker].filter(([s, n]) => n >= 2 && s.split(' ').length >= 2)
+    .sort((a, b) => b[1] - a[1])[0];
+  if (spk) {
+    await L.search(page, '');
+    await page.fill('#f-spk', spk[0]);
+    await page.waitForTimeout(500);
+    const exp = meta.talks.filter(t => (t.s || []).some(x => x.toLowerCase().includes(spk[0].toLowerCase()))).length;
+    L.check(`the speaker box ("${spk[0]}") keeps only their talks`,
+      (await L.resultCount(page)) === exp &&
+        (await L.cardNs(page)).every(i => (byN.get(i).s || []).some(x => x.includes(spk[0]))),
+      `${await L.resultCount(page)} vs ${exp}`);
+    L.check('the speaker box has a typeahead list',
+      await page.evaluate(() => document.querySelector('#f-spk').getAttribute('list') === 'spk-list' &&
+        document.querySelectorAll('#spk-list option').length > 100));
+    L.check('the speaker filter is in the URL',
+      /spk=/.test(await page.evaluate(() => location.hash)), await page.evaluate(() => location.hash));
+    await page.fill('#f-spk', '');
+    await page.waitForTimeout(300);
+  } else {
+    L.skip('the speaker box filters', 'no speaker with two talks in the corpus yet');
+  }
+
+  // ---------- facet counts ----------
+  // With a year chosen, a conference's label counts its talks in that year.
+  const year = years0(meta)[0];
+  await page.selectOption('#f-year', String(year));
+  await page.waitForTimeout(450);
+  const facet = await page.$$eval('#f-conf option', os =>
+    os.filter(o => o.value).map(o => [o.value, o.textContent]));
+  const facetOk = facet.every(([v, label]) =>
+    label.endsWith(`(${meta.talks.filter(t => t.cs === v && t.y === year).length.toLocaleString()})`));
+  L.check(`conference labels count the talks the other filters leave (year ${year})`,
+    facet.length > 0 && facetOk, facet.slice(0, 2).map(f => f[1]).join(' | '));
+  L.check('facet counts change the labels, not the values',
+    facet.every(([v]) => !/\(\d/.test(v)));
+  await page.selectOption('#f-year', '');
+
+  // ---------- spoken only ----------
+  if (meta.talks.some(t => t.w > 0)) {
+    await L.search(page, 'kubernetes');
+    const before = await L.resultCount(page);
+    await page.click('#f-spoken');
+    await page.waitForTimeout(600);
+    const st = (await L.statusText(page)).trim();
+    const n = await L.resultCount(page);
+    const onlySpoken = Number(((st.match(/(\d[\d,]*) found only in the spoken/) || [])[1] || '0').replace(/,/g, ''));
+    L.check('"Spoken only" matches transcripts and nothing else',
+      n > 0 && n <= before && onlySpoken === n, `${before} -> ${n}, ${onlySpoken} transcript-only`);
+    L.check('"Spoken only" is in the URL', /spoken=1/.test(await page.evaluate(() => location.hash)));
+    await page.click('#f-spoken');
+    await page.waitForTimeout(400);
+  } else {
+    L.skip('"Spoken only" matches transcripts and nothing else', 'no transcripts fetched yet');
+  }
+
   // ---------- reset ----------
   await L.search(page, 'kubernetes');
   await page.selectOption('#f-conf', conf);
   await page.selectOption('#f-sort', 'title');
+  await page.selectOption('#f-len', 'gt60');
+  await page.fill('#f-spk', 'a');
   await page.waitForTimeout(400);
   await page.click('#clear');
   await page.waitForTimeout(450);
@@ -102,12 +189,16 @@ L.suite('filters', async browser => {
     conf: document.querySelector('#f-conf').value,
     cat: document.querySelector('#f-cat').value,
     year: document.querySelector('#f-year').value,
+    len: document.querySelector('#f-len').value,
+    spk: document.querySelector('#f-spk').value,
     sort: document.querySelector('#f-sort').value,
     tr: document.querySelector('#f-tr').classList.contains('on'),
+    spoken: document.querySelector('#f-spoken').classList.contains('on'),
     hash: location.hash,
   }));
   L.check('Reset clears the query, the filters and the sort',
-    after.q === '' && !after.conf && !after.cat && !after.year && after.sort === 'rel' && !after.tr,
+    after.q === '' && !after.conf && !after.cat && !after.year && !after.len && !after.spk &&
+      after.sort === 'rel' && !after.tr && !after.spoken,
     JSON.stringify(after));
   L.check('Reset restores the whole catalogue', (await L.resultCount(page)) === N);
   L.check('Reset clears the URL hash', after.hash === '', `hash="${after.hash}"`);
@@ -153,6 +244,27 @@ L.suite('filters', async browser => {
   // tr=1 must not switch on a filter the UI is deliberately hiding.
   L.check('category round-trips, and tr=1 is honoured only while that toggle is shown',
     rt.cat === cat && rt.tr === !rt.trHidden, JSON.stringify(rt));
+
+  await reload(`#q=agents&len=gt60&spk=${encodeURIComponent('a')}&sort=short`);
+  const rt2 = await page.evaluate(() => ({
+    len: document.querySelector('#f-len').value, spk: document.querySelector('#f-spk').value,
+    sort: document.querySelector('#f-sort').value }));
+  L.check('length, speaker and duration sort round-trip through the hash',
+    rt2.len === 'gt60' && rt2.spk === 'a' && rt2.sort === 'short', JSON.stringify(rt2));
+
+  // Newest first is the one order worth remembering across visits: chosen
+  // once, it applies to a link that says nothing about the order, and never
+  // to one that says something else.
+  await page.selectOption('#f-sort', 'new');
+  await page.waitForTimeout(300);
+  await reload('#q=agents');
+  const remembered = await page.evaluate(() => document.querySelector('#f-sort').value);
+  await reload('#q=agents&sort=title');
+  const explicit = await page.evaluate(() => document.querySelector('#f-sort').value);
+  L.check('"Newest first" is remembered for links that do not say otherwise',
+    remembered === 'new' && explicit === 'title', `${remembered}, ${explicit}`);
+  await page.selectOption('#f-sort', 'rel');
+  await page.waitForTimeout(300);
 
   await reload('#conf=no-such-conference&sort=bogus&year=1999&q=agents');
   const bad = await page.evaluate(() => ({

@@ -244,8 +244,8 @@ def index_length(toks: list[str], words: int) -> int:
     return len(toks)
 
 
-def transcript_text(vid: str, duration_min: int | None = None) -> tuple[str, list[dict], int, str | None]:
-    """Text, passages, word count and timing — or four empty values.
+def transcript_text(vid: str, duration_min: int | None = None) -> tuple[str, list[dict], int, str | None, str | None]:
+    """Text, passages, word count, timing and language — or five empty values.
 
     The word count is zeroed along with the text, not kept. It is what reaches
     search-meta.json as `w`, and the browser gates the transcript badge, the
@@ -255,15 +255,15 @@ def transcript_text(vid: str, duration_min: int | None = None) -> tuple[str, lis
     """
     tr = atu.load_transcript(vid)
     if not tr:
-        return "", [], 0, None
+        return "", [], 0, None, None
     segs = tr.get("segments", [])
     words = tr.get("word_count", 0)
     why = held_back(words, duration_min)
     if why:
         HELD_BACK[vid] = why
-        return "", [], 0, None
+        return "", [], 0, None, None
     return (" ".join(s["text"] for s in segs), to_passages(segs), words,
-            tr.get("timing") or "exact")
+            tr.get("timing") or "exact", tr.get("language"))
 
 
 def clip(text: str, n: int) -> str:
@@ -281,7 +281,7 @@ def build_sqlite(talks: list[dict]) -> tuple[int, int]:
     n_tr = 0
     seg_rowid = 0
     for n, t in enumerate(talks, 1):
-        text, segs, words, timing = transcript_text(t["id"], t["duration_min"])
+        text, segs, words, timing, _lang = transcript_text(t["id"], t["duration_min"])
         if text:
             n_tr += 1
         speakers = ", ".join(t["speakers"])
@@ -411,7 +411,7 @@ def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) ->
     doc_len: dict[int, int] = {}
 
     for n, t in enumerate(talks, 1):
-        text, segs, words, timing = transcript_text(t["id"], t["duration_min"])
+        text, segs, words, timing, lang = transcript_text(t["id"], t["duration_min"])
         meta_df.update(meta_stems(t))
         for term, tf in collections.Counter(atu.stems(t["description"])).items():
             desc_post[term][n] = tf
@@ -440,6 +440,11 @@ def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) ->
             # position rather than read off a caption track, so the moments
             # can say "~12:34" rather than claim a second they never measured.
             **({"x": 1} if text and timing == "estimated" else {}),
+            # Only when the fetcher read the transcript as something other
+            # than English, so the card can badge it. The dozen "hi" ones are
+            # English mis-detected, which is why it is labelled "transcript
+            # language" and not "language".
+            **({"lg": lang} if text and lang and lang != "en" else {}),
         })
         if not text:
             continue
@@ -494,6 +499,7 @@ def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) ->
         "avg_doc_len": round(avg_len, 2),
         "doc_len": doc_len,
         "stopwords": sorted(atu.STOPWORDS),
+        "synonyms": [list(g) for g in atu.SYNONYMS],
         "stemmed": True,
     }, compact=True)
     return {"terms": sum(len(v) for v in shards.values()), "shards": len(shards),

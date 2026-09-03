@@ -18,3 +18,10 @@ logs/
 # The assembled site — what pages.yml publishes and the navigation UI suite
 # serves. Built from the tree by tools/assemble_site.sh in seconds.
 _site/
+
+# The optional semantic layer: its virtualenv (numpy, model2vec and the ~30 MB
+# model, all created by tools/install_semantic.sh) and the vectors it builds —
+# derived from talks.json like talks.db, and rebuilt in under a minute. Both
+# would otherwise be published by GitHub Pages.
+tools/.venv-semantic/
+data/embeddings/

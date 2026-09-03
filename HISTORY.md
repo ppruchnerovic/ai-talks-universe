@@ -16,7 +16,7 @@ run so that nobody runs it again.
 |---|---|
 | 2026-08-31 | What the collection runs actually got · The 2026 extraction, and the run that was 80× too slow · The 402 that was recorded as "no captions" · The WeAreDevelopers import · The CI refresh regression |
 | 2026-09-01 | The bug list, worked · The seven conferences added · Closing the 422 · The pre-2023 cut · Making the skill affordable |
-| 2026-09-02 | Review of 2026-09-02 — the six blocks A–F and their status |
+| 2026-09-02 | Review of 2026-09-02 — the six blocks A–F and their status · Search enrichment |
 
 The file grows by appending a dated section at the end of a session. When a
 section closes an item from `TODO.md`, the item is deleted there and this is
@@ -1212,3 +1212,155 @@ with multi-line descriptions. The committed `search-meta.json` and every
 `talks.json`. `import_kb.py`, `refresh_report.py`, `segment_plain_text` and
 `year_in_text` had nothing to report. Every flag the README and the skill
 name exists.
+
+## Search enrichment — 2026-09-02
+
+`SEARCH-OPTIONS.md` — an exploration of what the three search surfaces could
+gain without anything to install — was built in one session, in four parallel
+strands with disjoint files, plus the optional semantic layer it costed under
+"Tier B". What was skipped, and why, is at the top of that file.
+
+### The CLI — `query.py`
+
+Two bugs first. Column filters were mangled: `title:agents` was split at the
+colon into `"title" AND "agents"`, and `speakers:"harrison chase"` was
+phrase-quoted whole and matched nothing. `EXPLICIT_RE` now recognises `\w+:`
+and `{…}:` prefixes, passes them through unquoted, and strips every prefix
+but `transcript:` on the passage layer. Colour was emitted unconditionally —
+13% of the bytes the skill read were escape codes — and is now on only for a
+TTY, off under `NO_COLOR`, forced either way by `--color`/`--no-color`.
+
+Added, all on the standard library and with no schema change: `--speaker`
+(with a did-you-mean over the split names), `--sort newest|oldest|duration|
+title` over a wider candidate set with a score floor, `--min-duration`/
+`--max-duration`, `--max-year`, `--since`/`--before` (falling back to `year`
+for the 1,717 undated talks — `--since 2024-06-01` admits 284 of them,
+`--before 2023-12-31` none), `--exact-timing`, `--explain`, `--fields`, `--md`,
+`--random --seed`, filter-only listings with no query, `-word` exclusion,
+`--facets`, `--per-conference K` / `--per-year K`, synonym expansion (below),
+`--excerpt` / `--passages N` (the ranked list followed by `excerpt.py`'s
+passages for each hit, one process instead of an `xargs` round-trip, with the
+relaxation note on stdout where a model sees it), and duplicate collapse: 81
+titles occur two or three times, nearly always same-conference re-uploads, so
+the first carries `(also: id, id)` and the others leave the list; totals and
+facets count distinct titles.
+
+`test_query.py` went from 23 to 67 checks. The only pre-existing check that
+changed was one that searched "evals evals evals" for de-duplication and now
+expanded through the `eval` group; it uses a word with no group.
+
+### Synonyms, in one table
+
+`atu.SYNONYMS` holds 16 small groups (`llm`/`language model`, `rag`/`retrieval
+augmented generation`, `mcp`, `k8s`/`kubernetes`, `genai`, `eval`/
+`evaluation`, `db`/`database`, `ml`, `fine-tuning`, `vector db`, `cot`, `rl`,
+`rlhf`, `sre`, `ci`, `infra`). Membership is by stem, so "databases" is in the
+`db` group. `query.py` turns a bare word into one gate term that is the OR of
+its group, prints "expanded x → …" on stderr as relaxation does, and never
+touches explicit syntax; `build_index.py` writes the same groups into
+`tindex/_manifest.json` and `index.html` expands from there, highlighting only
+the typed word. The table is deliberately weak, because the ranking-agreement
+suite compares the two rankers and every group widens both. It fixed a
+baseline disagreement nobody had noticed: "kubernetes" agreed at 3 of 10
+before, because the CLI already expanded `k8s` and the browser did not.
+
+### `excerpt.py`
+
+The previous session's `--at SECONDS`, `--words N`, `--total-words N`,
+`--quotes`, `--outline` and `--full` had never been run against the database.
+Four bugs: `--full --at` printed one window instead of the transcript; `--quotes`
+counted a primary tile and its overlapping bridge tile as two quotes of the
+same sentence, so every talk claimed twice what it had; an `--at` anchor with
+`-q --quotes` printed the raw tile because `tile_at()` never set the anchor;
+and `query_stems()` ignored synonym expansion, so a tile matched through
+"evaluation" for `-q eval` fell back to the tile. Measured token cost
+(bytes/4, thirty 28–42 minute talks, three queries):
+
+| view | mean | median |
+|---|---|---|
+| `-n 6` | ~1,100 | 850 |
+| `-n 3` | ~1,000 | 850 — header, description and opening are ~450 of either |
+| `-n 10 --window 90` | ~1,900 | 1,400 |
+| `--quotes` | ~190, ~30 a quote | |
+| `--outline` | ~370 for 35 min, 480–560 for an hour, ~17 a bucket | |
+| `--full` | ~8,100 | |
+| `query.py --brief -n 15` | ~1,500, no ANSI | |
+
+The docstring's "300 tokens an hour" for the outline was 40% low and is
+corrected. `test_excerpt.py`: 14 → 57 checks.
+
+### The browser — `index.html`
+
+Thirteen items, 39,336 → 61,222 bytes: field syntax `title:` `speaker:`
+`conf:` `year:` `transcript:` parsed before the tokeniser (which fixes
+`year:2025` searching the stem "year"; `year:` and `conf:` set the selects),
+`-word` exclusion, a quoted phrase as a gate rather than a boost, a "said
+together" badge, OR groups and the manifest's synonyms, explicit `prefix*`, a
+speaker filter with a datalist (`spk` in the hash, after the selects for the
+Tab-order check), `short`/`long` sorts and a length bucket, facet counts on
+the option labels, a "spoken only" toggle, an "also matches in the full
+description" badge, a transcript-language badge from the new `lg` field
+(emitted only when the language is not `en`, ~300 bytes), and a tools bar
+with Markdown/CSV export, copy link, `j`/`k`/`Enter` and a remembered
+newest-first preference. Hash navigation stays replace-only; `META_DESC_CHARS`
+is untouched.
+
+The Playwright suite went from 183 to **220 checks, 0 failing**. `suite-
+ranking.js` now passes `--no-semantic` to `query.py`, since the browser has no
+semantic layer and the agreement it asserts is lexical against lexical.
+Margins (CLI top-10 found in the browser's top-40, threshold 4): prompt
+injection 9, context engineering 10, agent evaluation 9, RAG 8, kubernetes 7,
+fine tuning 8, multi agent 10, inference 9. One transient in the navigation
+suite — `ERR_CONNECTION_REFUSED` from the assembled-site helper's fixed 10 s
+wait while copying 199 MB of transcripts under load — passed on re-run and is
+an open item.
+
+### The semantic layer
+
+`TODO.md` had "No semantic or vector search" under *Not built, by choice*.
+That is reversed, on the terms `SEARCH-OPTIONS.md` set: model2vec's
+`potion-base-8M` — 256-dimensional static embeddings, ~30 MB of safetensors,
+numpy and tokenizers, no torch and no onnx — at talk level, plus transcript
+windows for anchoring excerpts. Three rules, all in `semantic.py`'s docstring:
+it is built by `tools/install_semantic.sh` and by nothing else, never by
+`atu.db_stale()`; `query.py` falls back silently when the files are absent,
+stale or the libraries are missing (`--explain` says why, an explicit
+`--semantic` exits 1 with the reason); and the two rankings are fused by
+union and reciprocal rank, not reranked, because the failure being fixed is
+recall.
+
+The interpreter problem is solved by `_call()`: `query.py` runs on the system
+python, which has no numpy, so the vector work runs in-process when the
+libraries import and otherwise as a `--serve` subprocess of
+`tools/.venv-semantic`'s python, one JSON request on stdin, one reply on
+stdout, the same `_do()` on both paths.
+
+| | |
+|---|---|
+| Talk text | title / speakers / conference · edition · category / tags / whole description / first 250 transcript words — 0, 250 and 600 were tried; 250 is where "keeping agents from going off the rails" surfaces the trust-lifecycle and shipping-agents-safely talks without openings dominating |
+| Chunks | 192-word windows at a 96-word stride, on `talks.db`'s passage grid, ~70 s each; 176,573 of them |
+| Files (`data/embeddings/`, gitignored) | `talks.f16.npy` 4.4 MiB, `talks.ids.json` 127 KiB, `chunks.f16.npy` 86.2 MiB, `chunks.spans.f32.npy` 2.0 MiB |
+| Install | pip 118 MiB in 12 s, model 29.5 MiB (85 s through this proxy), talks 9–10 s, chunks 85–88 s; 196 s cold, 1–2 s when current; byte-identical on `--force` |
+| Query | subprocess round-trip ~600 ms (`available()` 12 ms); in-process 18 ms warm |
+
+Fusion is over the lexical *head* — `max(3 × limit, 50)` — not the whole
+list: fused over everything, only 1 of the top 10 for "agent evaluation" was
+in the lexical top 40, because deep lexical hits the vectors like outrank
+exact-title hits. Head-k gives 5, and 9–10 on the other suite queries. Cost:
+1.2 s a fused query against 0.55 s lexical. A hit only the vectors found has
+no snippet; it is rendered as "(semantic match)", carries `via: "semantic"`
+in JSON, and `--excerpt` anchors its passages on the best chunk starts, so it
+does not fall into `excerpt.py`'s "showing the opening" path.
+
+One finding: the first cold install failed at the model fetch with
+`CERTIFICATE_VERIFY_FAILED` while curl and pip succeeded — a proxy CA in
+`/etc/ssl/certs` that certifi, which httpx and so huggingface_hub use, does
+not carry. The script exports `SSL_CERT_FILE` to the system bundle when unset;
+verification stays on. `test_semantic.py` has 67 checks that run without
+numpy; its end-to-end block skips when the layer is absent.
+
+### Small things
+
+`test_stem.py` skipped every transcript whose file name starts with `_`,
+meaning to skip index files; 53 real video ids start with `_`. It now asks
+"is this an id". The stemmers still agree on all 104,061 corpus tokens.

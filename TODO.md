@@ -28,21 +28,27 @@ Current state is `STATE.md`; the rules and the shape of the system are
   says so once; the probe still cannot tell a proxy interception from a
   YouTube block. *Closing the 422* → *The run was blocked by a proxy*.
 
+- **The semantic layer is talk-level plus chunk anchors; the browser has none.**
+  `query.py` fuses model2vec vectors when `tools/install_semantic.sh` has run;
+  `index.html` cannot, since a query must be embedded client-side (the 30 MB
+  model, or a hosted call). Chunk-level *ranking* (not only anchoring) and a
+  cross-encoder rerank are the two obvious next steps if recall on paraphrased
+  questions is still short. *Search enrichment*.
+- **`--related <id>`, did-you-mean for typos and a fuzzy `--speaker`** all need
+  a schema bump: an `fts5vocab` table for the first two, a trigram FTS5 table
+  over title + speakers for the third. Mechanisms measured, not built — the
+  Tier 2 table in `SEARCH-OPTIONS.md`.
+- **`uitest`'s assembled-site helper waits a fixed 10 s** for its throwaway
+  server while copying 199 MB of transcripts to /tmp; under load the
+  navigation suite sees `ERR_CONNECTION_REFUSED` and passes on re-run. Poll
+  the port instead. *Search enrichment*.
+
 ## Curation calls — a decision, not a fix
 
 - **`owasp-global-appsec`: 28 enumerated, 2 kept.** The 26 dropped are the
   AppSec programme — threat modelling, PKI, security champions. Same argument
   that gave the WeAreDevelopers seed `"scope": "all"`: is a security
   conference's non-AI half worth having? Nobody has decided.
-- **Nothing in the UI distinguishes a foreign-language transcript.** 27
-  transcripts are not labelled English (`hi`×12, `de`×3, `es`×2, `ja`×2,
-  `lt`×2, `no`×2, and one each of `vi`, `ar`, `sv`, `nl`). The twelve `hi`
-  are English audio YouTube's ASR mis-read as Hindi; they count toward the
-  transcript total and cannot answer an English query. The only route to
-  English for those is Supadata `mode=generate` at two credits a *minute*
-  (~66 credits for the ten) — a policy change from `mode=native`, not a bug
-  fix. Do not delete and refetch them again: it was done, and returned the
-  same bytes. *Bug 7 cannot be fixed by refetching*.
 - **Candidate conferences, unverified:** NDSS, IEEE S&P, MLSys, CVPR post
   full sessions to YouTube and would extend the corpus towards academic
   work. VivaTech and GitNation were checked and rejected. *The seven
@@ -83,10 +89,6 @@ Current state is `STATE.md`; the rules and the shape of the system are
 
 ## Not built, by choice
 
-- **No semantic or vector search.** BM25 plus an agent reading the ranked
-  passages has covered every query pattern so far. If "talks that mean X
-  without saying X" becomes a real need, embeddings over the transcript
-  passages are the next step — `segments` is already the right granularity.
 - **No cross-conference deduplication of the same talk.** A speaker who gives
   one talk at three conferences appears three times. Arguably correct (three
   recordings, three audiences); a "same talk elsewhere" link would be useful.

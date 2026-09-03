@@ -78,7 +78,7 @@ L.suite('a11y', async browser => {
       const chip = document.querySelector('.b.conf');
       return {
         q: named(document.querySelector('#q')),
-        selects: ['f-conf', 'f-cat', 'f-year', 'f-sort']
+        selects: ['f-conf', 'f-cat', 'f-year', 'f-len', 'f-sort', 'f-spk']
           .map(id => ({ id, named: named(document.getElementById(id)) })),
         live: !!document.querySelector('[aria-live]'),
         chip: chip && { tag: chip.tagName, tabindex: chip.tabIndex },
@@ -102,12 +102,18 @@ L.suite('a11y', async browser => {
 
     await page.evaluate(() => document.querySelector('#q').focus());
     const order = [];
-    for (let i = 0; i < 6; i++) {
+    for (let i = 0; i < 8; i++) {
       await page.keyboard.press('Tab');
       order.push(await page.evaluate(() => document.activeElement.id || document.activeElement.tagName));
     }
     L.check('Tab from the search box reaches the filters',
       order.join(',').includes('f-conf'), order.join(' > '));
+    L.check('the speaker box comes after the selects in the Tab order',
+      order.indexOf('f-spk') > order.indexOf('f-sort') && order.indexOf('f-sort') > order.indexOf('f-conf'),
+      order.join(' > '));
+    L.check('the export buttons are real buttons with a name',
+      await page.evaluate(() => [...document.querySelectorAll('#tools button')]
+        .every(b => b.tagName === 'BUTTON' && (b.textContent.trim() || b.getAttribute('aria-label')))));
     L.check('the search box has a visible focus indicator',
       (await page.evaluate(() => {
         document.querySelector('#q').focus();

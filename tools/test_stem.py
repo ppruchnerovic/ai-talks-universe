@@ -60,7 +60,9 @@ for t in atu.load_talks():
     vocab.update(atu.tokenize(" ".join(t["tags"])))
 if atu.TRANSCRIPTS.exists():
     for p in atu.TRANSCRIPTS.glob("*.json"):
-        if p.name.startswith("_"):
+        # Only talk transcripts: 53 real video ids start with "_", so the
+        # test is "is this an id", not "does it start with an underscore".
+        if not (atu.is_youtube_id(p.stem) or p.stem.startswith(atu.INFOQ_ID_PREFIX)):
             continue
         tr = json.loads(p.read_text())
         vocab.update(atu.tokenize(" ".join(s["text"] for s in tr.get("segments", []))))

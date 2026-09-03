@@ -362,6 +362,26 @@ only comparable within one table, and a 24-word passage scores near its
 maximum on almost any match, so blended raw every query returned the same few
 long workshops that happened to have transcripts.
 
+Since *Search enrichment* (2026-09-02) the front of that diagram has more
+shapes. A bare word whose stem belongs to a group in `atu.SYNONYMS` becomes
+one gate term that is the OR of its group, said on stderr as relaxation is; a
+`-word` subtracts the talks saying it from the gate before ranking; column
+filters (`title:agents`, `speakers:"harrison chase"`, `{title tags}:rag`,
+`transcript:kubernetes`) go to FTS5 as written, every prefix but `transcript:`
+stripped on the passage layer. Filters — conference, category, year and
+`--max-year`, `--since`/`--before` with `year` as the fallback for undated
+talks, `--speaker`, duration, `--exact-timing` — bound the gate; `--sort`
+reorders a wider candidate set above a score floor; `--per-conference K` and
+`--per-year K` are a window over the ranked set; `--facets` counts the gate.
+Re-uploads of one title collapse into the first with `(also: …)`.
+
+When `data/embeddings/` is present and current, a bare query also goes to the
+optional semantic layer (`semantic.py`, below): the lexical head —
+`max(3 × n, 50)` — and the vector top-k over the same filtered pool are
+fused by reciprocal rank, a vector-only hit rendered as "(semantic match)"
+with no snippet. `--no-semantic` turns it off; when the layer is absent
+nothing changes and nothing is printed unless `--explain` asks.
+
 ### The browser — `index.html`
 
 No backend, so the index is files and the page fetches only what a query
@@ -398,6 +418,18 @@ list, gets nothing, and transcript search quietly degrades to metadata-only
 hits. Two characters is the deepest split that still keeps "agent" and
 "agentic" in one shard for free, since both tokenisers drop terms shorter than
 two characters.
+
+The browser's query language mirrors the CLI's where the data allows: `title:`
+`speaker:` `conf:` `year:` `transcript:` are read by `parseQuery()` before the
+tokeniser (so the colon never reaches `surface()`, and `year:`/`conf:` set the
+selects), `-word` excludes, a quoted phrase gates, `prefix*` bypasses the
+length gate, `OR` groups and the manifest's synonym groups gate as
+every-group-has-a-member with only the typed word highlighted. Duration sorts,
+a length bucket, a speaker datalist and a "spoken only" toggle are all in the
+hash; facet counts are computed over the other dimensions and change labels
+only. There is **no semantic layer in the browser** — a query would have to be
+embedded client-side — which is why `suite-ranking` runs `query.py
+--no-semantic`.
 
 ### The index files
 
@@ -462,6 +494,31 @@ over 5+ minutes) are indexed with no text and a zero word count, so the badge,
 the filter and the moments link all agree; the file stays on disk so the
 fetcher does not buy the same bytes again.
 
+`_manifest.json` also carries `synonyms`, the groups of `atu.SYNONYMS`, so
+the browser expands exactly what the CLI expands; and a `search-meta.json`
+record carries `lg` only when the fetcher read the transcript as something
+other than English — ~300 bytes over the corpus, rendered as "transcript
+language", since the dozen `hi` ones are English mis-detected.
+
+### The optional semantic layer — `semantic.py`
+
+```mermaid
+flowchart LR
+    I["tools/install_semantic.sh"] --> V["tools/.venv-semantic<br/>numpy · tokenizers · model2vec — no torch, no onnx"]
+    I --> B["build_embeddings.py<br/>potion-base-8M, 256-d static embeddings"]
+    B --> E["data/embeddings/ (gitignored)<br/>talks.f16.npy · talks.ids.json (stamp)<br/>chunks.f16.npy · chunks.spans.f32.npy"]
+    Q["query.py on the system python"] --> A{"available()?<br/>files present · stamp current · libraries importable"}
+    A -- no --> L["FTS5 alone, silently"]
+    A -- yes --> C["_call(): in-process if numpy imports,<br/>else `semantic.py --serve` under the venv,<br/>one JSON request in, one reply out"]
+    C --> F["fuse_rrf(lexical head, vector top-k)<br/>union, reciprocal rank"]
+    F --> X["--excerpt anchors a vector-only hit<br/>on its best chunk starts"]
+```
+
+The stamp in `talks.ids.json` records `talks.json`'s `generated_at` and size,
+the transcript count, `DB_SCHEMA_VERSION`, the model and `LAYER_VERSION`; any
+mismatch makes the layer step aside rather than return row numbers that no
+longer mean the same talks. It is never rebuilt by `db_stale()`.
+
 ### Reading a talk without reading all of it — `excerpt.py`
 
 ```mermaid
@@ -478,6 +535,15 @@ talk that says the word every other minute six windows grow into each other
 and hand back the whole transcript under the name of an excerpt. Measured over
 eight topics and 45 talks: 100% of the passages `query.py` ranked survive into
 the excerpt, on 17% of the words.
+
+Beside the windows there are three cheaper views, each with a measured price:
+`--quotes` prints only the sentence holding a query word, timestamped and
+linked (~30 tokens a quote); `--outline` prints two-minute buckets with their
+tf-idf terms and the query's density (~17 tokens a bucket), which tells a
+model where to aim a second `-q`; `--at SECONDS` anchors a window with no
+query at all, the companion a semantic hit needs. `--words`/`--total-words`
+budget in the unit the model reasons in. `query.py --excerpt` runs all of it
+in the same process as the ranking.
 
 ### The skill — a retrieval ladder with a price on it
 
@@ -497,6 +563,12 @@ sequenceDiagram
     C-->>U: positions, attributed to named speakers and conferences,<br/>quoted from transcripts only, ~ timestamps cited as approximate
     Note over C: ~17k tokens a question. cat talks/**.md would be ~60k and rising
 ```
+
+Two rungs were added on 2026-09-02: `--facets` before choosing a slice,
+because the transcripts are 99% year-2026 and a top-100 shows it, and
+`--per-conference K` in place of a five-call loop. `--excerpt` folds the
+second and third rungs into one call when the ids are not going to be chosen
+by hand.
 
 ## Publishing and automation
 
@@ -796,3 +868,25 @@ yet, so a green run reads its skip count: the last full run skipped nothing.
   highlighted inside them. `showMoments()` and `highlight()` are the two places
   that historically slipped back to substrings; both go through `tokenize()` and
   `\b`-anchored matching.
+
+- **Synonym groups live in one table and reach both rankers from it.**
+  `atu.SYNONYMS` is expanded by `query.py` at parse time and written by
+  `build_index.py` into `tindex/_manifest.json` for `index.html`; membership is
+  by stem, each group is one gate term, explicit FTS5 syntax is never
+  expanded. Adding a group anywhere else, or one ranker only, breaks the
+  agreement `suite-ranking` asserts — which is exactly how a `k8s`-only
+  expansion in the CLI had "kubernetes" agreeing at 3 of 10 for a while.
+
+- **The semantic layer is opt-in, silent on absence, and fused, not
+  reranked.** It is built by `tools/install_semantic.sh` and by nothing else —
+  never by `db_stale()`, never on first query — so a clone that has not run it
+  is unchanged. When present it contributes a ranking that is fused with the
+  lexical *head* by reciprocal rank: fusing the whole lexical list let deep
+  hits the vectors liked outrank exact-title hits (1 of 10 in the lexical top
+  40 for "agent evaluation"; head-k gives 5). Union, because the failure being
+  fixed is recall and a reranker cannot add a talk.
+
+- **The ranking-agreement suite compares lexical to lexical.** The browser has
+  no semantic layer, so `suite-ranking` passes `--no-semantic`. If the browser
+  ever gets one, the suite gains a second comparison rather than losing the
+  flag.
