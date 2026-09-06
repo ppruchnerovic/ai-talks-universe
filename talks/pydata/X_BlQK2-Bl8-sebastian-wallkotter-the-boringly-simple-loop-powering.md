@@ -8,14 +8,14 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
-channel: null
+channel: "PyData"
 duration_min: 39
-published_at: null
+published_at: 2025-12-15T19:18:53Z
 video_id: X_BlQK2-Bl8
 url: https://www.youtube.com/watch?v=X_BlQK2-Bl8
 youtube_url: https://www.youtube.com/watch?v=X_BlQK2-Bl8
-tags: []
-topics: []
+tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 
@@ -25,8 +25,10 @@ transcript: false
 
 `PyData` · `PyData` · `2025` · `39 min`
 
+`#Python` `#Tutorial` `#Education` `#NumFOCUS` `#PyData` `#Opensource` `#learn` `#software` `#python 3` `#Julia` `#coding` `#learn to code` `#how to program` `#scientific programming`
+
 [Watch the recording](https://www.youtube.com/watch?v=X_BlQK2-Bl8) · [Conference site](https://pydata.org/)
 
 ## Description
 
-*No description published on YouTube.*
+Do you feel lost in the jungle of GenAI frameworks and buzzwords? Here's a way out. Take any GenAI app, peel away the fluff, and look at its core. You'll find the same pattern: a boringly simple nested while loop. I will show you how this loop produces chat assistants, AI agents, and multi-agent systems. Then we'll cover how RAG, tool-calling, and memory are like lego bricks we add as needed. This gives you a first-principles based map. Use it to build GenAI apps from scratch; no frameworks needed.

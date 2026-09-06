@@ -1,7 +1,7 @@
 {
   "slug": "amld",
   "name": "Applied Machine Learning Days",
-  "enumerated_at": "2026-08-30T21:47:05+00:00",
+  "enumerated_at": "2026-09-06T13:20:29+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/c/AppliedMachineLearningDays/videos",
@@ -433,10 +433,24 @@
       "video_id": "1n4e_IRqDhI",
       "title": "AFTERMOVIE - AMLD EPFL 2025",
       "duration_s": 94,
-      "channel": null,
+      "channel": "AMLD Intelligence Summit",
       "label": "AMLD",
       "year": null,
-      "source_url": "https://www.youtube.com/c/AppliedMachineLearningDays/videos"
+      "source_url": "https://www.youtube.com/c/AppliedMachineLearningDays/videos",
+      "description": "🎉 Relive the 4 days of AMLD 2025, the leading annual conference in Europe on AI and machine\nlearning, held at EPFL.\n\nThank you all for joining us and making AMLD 2025 a great success!\nA special thanks to our partners, exhibitors, and speakers for their contributions.\n\n🌟 See you next year for the 10th anniversary of Applied Machine Learning Days, from February\n10-13, 2026! 🌟",
+      "published_at": "2025-03-17T12:35:11Z",
+      "tags": [
+        "AMLD",
+        "Machine Learning",
+        "ML",
+        "Artificial Intelligence",
+        "AI",
+        "Applied Machine Learning Days",
+        "EPFL",
+        "AMLD EPFL",
+        "AMLDEPFL22"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "1qpvaAjjlvU": {
       "video_id": "1qpvaAjjlvU",
@@ -944,10 +958,24 @@
       "video_id": "55RWnd2_4f8",
       "title": "Join us at AMLD EPFL 2024!",
       "duration_s": 90,
-      "channel": null,
+      "channel": "AMLD Intelligence Summit",
       "label": "AMLD",
       "year": null,
-      "source_url": "https://www.youtube.com/c/AppliedMachineLearningDays/videos"
+      "source_url": "https://www.youtube.com/c/AppliedMachineLearningDays/videos",
+      "description": "Be part of the AI and machine learning revolution and join us at AMLD EPFL 2024. Connect with like-minded individuals, industry experts, potential collaborators, and future talents. Explore the schedule: https://go.epfl.ch/Eventschedule.\n\nThis global platform draws experts and participants from over 40 countries across industry, academia, and government. Held over four days with keynote speakers, topical tracks, workshops and an exhibition, the event provides the opportunity to hear the latest research and insights in machine learning and to exchange knowledge with experts in the field. \n\n🗓 Workshop Weekend March, 23 and 24\n🗓 Conference March, 25 and 26\n🇨🇭 SwissTech Convention Center, EPFL, Lausanne\n🎟 Get your tickets https://buff.ly/3wBx6zc",
+      "published_at": "2024-03-01T09:03:14Z",
+      "tags": [
+        "AMLD",
+        "Machine Learning",
+        "ML",
+        "Artificial Intelligence",
+        "AI",
+        "Applied Machine Learning Days",
+        "EPFL",
+        "AMLD EPFL",
+        "AMLDEPFL22"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "56t9YWeY4SM": {
       "video_id": "56t9YWeY4SM",
@@ -2525,10 +2553,24 @@
       "video_id": "I9x5JDmA3CI",
       "title": "AMLD EPFL 2025",
       "duration_s": 68,
-      "channel": null,
+      "channel": "AMLD Intelligence Summit",
       "label": "AMLD",
       "year": null,
-      "source_url": "https://www.youtube.com/c/AppliedMachineLearningDays/videos"
+      "source_url": "https://www.youtube.com/c/AppliedMachineLearningDays/videos",
+      "description": "The Applied Machine Learning Days channel features talks and performances from the Applied Machine Learning Days.\nAMLD is one of the largest machine learning & AI events in Europe, focused specifically on the applications of machine learning and AI, making it particularly interesting to industry and academia.\n\nFollow AMLD:\non Twitter: https://www.twitter.com/appliedmldays\non LinkedIn: https://www.linkedin.com/company/appliedmldays\nAMLD Website: https://www.appliedmldays.org",
+      "published_at": "2025-01-23T10:25:38Z",
+      "tags": [
+        "AMLD",
+        "Machine Learning",
+        "ML",
+        "Artificial Intelligence",
+        "AI",
+        "Applied Machine Learning Days",
+        "EPFL",
+        "AMLD EPFL",
+        "AMLDEPFL22"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "IEzJAupe-h4": {
       "video_id": "IEzJAupe-h4",
@@ -6153,10 +6195,14 @@
       "video_id": "k0mWFF2W8aU",
       "title": "Challenges in NLP research in 2022: large models, multi-modality and datasets | Thomas Wolf",
       "duration_s": 1614,
-      "channel": null,
+      "channel": "AMLD Intelligence Summit",
       "label": "AMLD",
       "year": null,
-      "source_url": "https://www.youtube.com/c/AppliedMachineLearningDays/videos"
+      "source_url": "https://www.youtube.com/c/AppliedMachineLearningDays/videos",
+      "description": "AMLD Keynote Session\n\"Challenges in Natural Language Processing research in 2022: large models, multi-modality and datasets\"\nThomas Wolf\n\nThe Applied Machine Learning Days channel features talks and performances from the Applied Machine Learning Days.\nAMLD is one of the largest machine learning & AI events in Europe, focused specifically on the applications of machine learning and AI, making it particularly interesting to industry and academia.\n\nFollow AMLD:\non Twitter: https://www.twitter.com/appliedmldays\non LinkedIn: https://www.linkedin.com/company/appliedmldays\nAMLD Website: https://www.appliedmldays.org",
+      "published_at": "2022-04-20T08:28:28Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "k44_-93EmY4": {
       "video_id": "k44_-93EmY4",
@@ -7494,10 +7540,14 @@
       "video_id": "ucjBhIOtEYA",
       "title": "Recent Advances in Electricity Price Forecasting: A 2022 Perspective | Rafał Weron",
       "duration_s": 1944,
-      "channel": null,
+      "channel": "AMLD Intelligence Summit",
       "label": "AMLD",
       "year": null,
-      "source_url": "https://www.youtube.com/c/AppliedMachineLearningDays/videos"
+      "source_url": "https://www.youtube.com/c/AppliedMachineLearningDays/videos",
+      "description": "AI & Sustainable Energy\n\"Recent Advances in Electricity Price Forecasting: A 2022 Perspective\"\nRafał Weron\n\nThe Applied Machine Learning Days channel features talks and performances from the Applied Machine Learning Days.\nAMLD is one of the largest machine learning & AI events in Europe, focused specifically on the applications of machine learning and AI, making it particularly interesting to industry and academia.\n\nFollow AMLD:\non Twitter: https://www.twitter.com/appliedmldays\non LinkedIn: https://www.linkedin.com/company/appliedmldays\nAMLD Website: https://www.appliedmldays.org",
+      "published_at": "2022-04-20T09:25:46Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "uoPTIfzNFX0": {
       "video_id": "uoPTIfzNFX0",

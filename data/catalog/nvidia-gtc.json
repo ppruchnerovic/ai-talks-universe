@@ -1,13 +1,13 @@
 {
   "slug": "nvidia-gtc",
   "name": "NVIDIA GTC",
-  "enumerated_at": "2026-08-30T21:48:56+00:00",
+  "enumerated_at": "2026-09-06T13:22:43+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
       "label": "GTC 2026",
       "year": 2026,
-      "count": 31
+      "count": 32
     },
     {
       "url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
@@ -16,7 +16,7 @@
       "count": 35
     }
   ],
-  "count": 66,
+  "count": 67,
   "videos": {
     "-2nCxItGNvE": {
       "video_id": "-2nCxItGNvE",
@@ -41,7 +41,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "",
+      "published_at": "2025-03-26T01:29:58Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "0Qro2GQc0tQ": {
       "video_id": "0Qro2GQc0tQ",
@@ -50,7 +54,11 @@
       "channel": "Scan AI and Enterprise Solutions",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "At GTC 2025, NVIDIA’s Allen Bourgoyne dives into the unveiling of DGX Spark — a groundbreaking AI platform engineered to simplify and accelerate the deployment of enterprise AI solutions. In this exclusive session, learn how DGX Spark integrates the full power of NVIDIA's AI ecosystem, offering a scalable, flexible, and production-ready infrastructure for organisations tackling the most demanding AI workloads.\n\nWhether you're building generative AI applications, scaling large language models (LLMs), or optimising enterprise data workflows, DGX Spark provides the tools and architecture to move from pilot to production, fast.\n\nKey Highlights:\n- Introduction to DGX Spark and its role in modern AI infrastructure\n- How DGX Spark enables end-to-end AI development, from data center to deployment\n- Integration with NVIDIA DGX systems, NVIDIA AI Enterprise, and the broader NVIDIA stack\n- Use cases and benefits for enterprise AI, generative AI, and LLMs\n\nGX Spark is designed to meet the growing demand for high-performance, scalable AI infrastructure, allowing enterprises to innovate faster and deploy AI confidently across industries.\n\n00:00 GTC 2025: Inside the NVIDIA Booth with Alan\n00:20 Meet DGX Spark: AI Supercomputer for Your Desk\n00:45 Grace Blackwell Superchips Explained\n01:10 Build a Mini AI Cluster with DGX Spark\n01:35 Top Use Cases for AI Developers and Researchers\n02:00 How NVIDIA Aligns Software and Hardware Teams\n02:45 Why DGX Spark Is a Revolutionary for AI Development\n\n \n👉 Find out more here - https://www.scan.co.uk/ai-solutions/nvidia/spark\n \n👉 See all our updates from GTC - www.scan.co.uk/gtc\n \nGet in touch with the Scan AI team to find out more - ai@scan.co.uk / 01204 474210\n \nFollow us on social media: \nLinkedIn - https://www.linkedin.com/company/scan-computers-international-ltd-/\nFacebook - https://www.facebook.com/ScanBusiness\nTwitter - https://x.com/scan_business\n\n📌 Don’t forget to like, subscribe, and hit the notification bell for more updates from Scan AI and the future of AI.",
+      "published_at": "2025-05-21T10:28:24Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "1QUrzpWgWHQ": {
       "video_id": "1QUrzpWgWHQ",
@@ -59,7 +67,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "",
+      "published_at": "2025-03-20T18:20:50Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "2XYnhUEeVho": {
       "video_id": "2XYnhUEeVho",
@@ -84,7 +96,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Learn how to deploy and scale reasoning LLMs using NVIDIA Dynamo, a new distributed inference serving framework designed for multi-node environments. Explore advanced serving techniques like disaggregated prefill and decode, and see how NVIDIA NIM enables fast, production-ready deployment of next-gen AI inference at scale.Learn how to deploy and scale reasoning LLMs using NVIDIA Dynamo, a new distributed inference serving framework designed for multi-node environments. Explore advanced serving techniques like disaggregated prefill and decode, and see how NVIDIA NIM enables fast, production-ready deployment of next-gen AI inference at scale.\n\nSpeakers:\nHarry Kim, Principal Product Manager, NVIDIA\nNeelay Shah, Principal Software Architect, NVIDIA\nRyan Olson, Distinguished Engineer / Solutions Architect,  NVIDIA\nTanmay Verma, Senior System Software Engineer, NVIDIA\n\nReplay of NVIDIA GTC Session ID S73042.\n\nLevel: Technical – Advanced\nNVIDIA technology: TensorRT, DALI, NVLink / NVSwitch, and Triton\n\nLogin and join the free NVIDIA Developer Program to download the PDF: https://www.nvidia.com/en-us/on-demand/session/gtc25-s73042/\n\nFind more #GTC25 sessions via NVIDIA on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33",
+      "published_at": "2025-04-30T23:31:45Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "6o_Wme-FdCU": {
       "video_id": "6o_Wme-FdCU",
@@ -93,7 +109,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "The CUDA platform is the foundation of the GPU computing ecosystem. Every application and framework that uses the GPU does so through CUDA's libraries, compilers, runtimes and language — which means CUDA is growing as fast as its ecosystem is evolving.\n\nAt this engineering-focused talk by one of the architects of CUDA, you'll learn what's new and what's coming next for both CUDA and GPU computing as a whole.\n\nCUDA Toolkit: https://developer.nvidia.com/cuda-toolkit \n\nSpeaker: Stephen Jones, CUDA Architect, NVIDIA\nTopic: CUDA Development and Optimization - Programming Languages / Compilers\n\nWatch more NVIDIA GTC sessions on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33\n\nReplay of NVIDIA #GTC25 Session ID: S72383\n\n#CUDA #nvidia #gpucomputing",
+      "published_at": "2025-04-09T20:00:04Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "7N38fD4ksnI": {
       "video_id": "7N38fD4ksnI",
@@ -122,7 +142,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "",
+      "published_at": "2025-03-19T22:00:09Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "83cyZerHRaA": {
       "video_id": "83cyZerHRaA",
@@ -147,7 +171,24 @@
       "channel": "NVIDIA",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Generalist robots are here, but training them effectively poses a challenge due to the scarcity of both real and synthetic data, as well as the difficulty of scaling human demonstrations.\n\n#NVIDIAIsaac GR00T-Dreams, a cutting-edge blueprint built on #NVIDIACosmos, generates large-scale synthetic trajectory data from minimal human demonstrations, enabling robots to quickly learn a wide array of new actions.\n\nCosmos Predict, fine-tuned with single-task teleoperation data, generates 2D synthetic \"\"dream\"\" videos of potential future states. Cosmos Reason then evaluates and selects the optimal dreams, from which the blueprint creates 3D action trajectories for robot training.\n\nThis innovative approach brings developers one step closer to overcoming the challenge of robot data.\n\nRead the press release: https://nvda.ws/4kuqGWu\nDive into the GR00T-Dreams blueprint: https://nvda.ws/4n8bNuV\nLearn more about Isaac GR00T: https://nvda.ws/4mnOSeO\nLearn more about Cosmos Reason: https://nvda.ws/4jY7b8B\n\n#HumanoidRobots #PhysicalAI #NVIDIAAI #AI #COMPUTEX2025",
+      "published_at": "2025-05-19T06:20:31Z",
+      "tags": [
+        "NVIDIA"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
+    },
+    "8v-EVF8u4OQ": {
+      "video_id": "8v-EVF8u4OQ",
+      "title": "",
+      "duration_s": null,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "details_at": "2026-09-06T13:24:14+00:00",
+      "description": ""
     },
     "9XB-LsfpvCU": {
       "video_id": "9XB-LsfpvCU",
@@ -156,7 +197,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "NVIDIA founder and CEO Jensen Huang hosts industry leaders from Alice & Bob, Atom Computing, AWS, D-Wave, Infleqtion, IonQ, Microsoft, Pasqal, PsiQuantum, Quantinuum, Quantum Circuits, QuEra Computing, Rigetti and SEEQC to learn today's state of the art and what the future holds for useful quantum computing. These unprecedented fireside chats bring together the whole quantum computing community for an overview of this exciting technology.\n\nPanelists:\n• Ben Bloom, Founder and CEO, Atom Computing\n• Alan Baratz, CEO, D-Wave\n• Krysta Svore, Technical Fellow, Microsoft\n• John Levy, CEO and Co-Founder, SEEQC\n• Jensen Huang, Founder and CEO, NVIDIA\n• Loïc Henriet, Chief Executive Officer , Pasqal\n• Matthew Kinsella, CEO, Infleqtion\n• Mikhail Lukin, Joshua and Beth Friedman University Professor, QuEra Computing\n• Simone Severini, General Manager, Quantum Technologies, AWS\n• Subodh Kulkarni, CEO, Rigetti\n• Pete Shadbolt, Co-Founder and Chief Scientific Officer, PsiQuantum\n• Peter Chapman, Executive Chair, IonQ\n• Rob Schoelkopf, Chief Scientist and Co-Founder, Quantum Circuits\n• Rajeeb Hazra, President and CEO, Quantinuum\n• Théau Peronnin, CEO and Co-Founder, Alice & Bob\n\nWatch more sessions from NVIDIA GTC 2025 on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33\n\nNVIDIA technology: DGX, CUDA Quantum\nReplay of GTC 2025 Session ID: S74495",
+      "published_at": "2025-04-09T16:15:02Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "AjUUorlK-KU": {
       "video_id": "AjUUorlK-KU",
@@ -165,7 +210,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Scaling beyond a single GPU doesn't have to be hard. In this NVIDIA GTC 2025 session, explore how distributed multi-GPU libraries can simplify large-scale computing. Learn different strategies these libraries use to scale AI and HPC workloads—and how they affect usability and performance.\n\nSpeaker: Mads Kristensen, Sr. Software Engineer, NVIDIA\n\nCUDA Toolkit: https://developer.nvidia.com/cuda-toolkit\n\nReplay of NVIDIA #GTC25 session S72576\n\nTopic: Models / Libraries / Frameworks - Accelerated Computing Libraries\nLevel: Technical – Intermediate\nNVIDIA technology: CUDA, CUDA-X\n\nWatch more NVIDIA GTC sessions on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33\n\n#CUDA #CUDA-X",
+      "published_at": "2025-04-17T18:00:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "BAhI87RS-DQ": {
       "video_id": "BAhI87RS-DQ",
@@ -205,7 +254,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "The ChatGPT of robotics has arrived. Humanoid robots will be one of the largest form-factor deployments of generalist robotics the world has ever seen. Hear from luminaries across some of the world's leading humanoid robotics companies about their outlook on the future of humanoid robotics, and what it'll take from foundation models, simulation technology, and computing to get there.\n\nSpeakers: \n\nBernt Børnich, CEO and Founder, 1X\nAaron Saunders, CTO, Boston Dynamics\nDeepak Pathak, CEO and Co-Founder, Skild AI\nJim Fan, Principal Research Scientist / Senior Research Manager, NVIDIA\nPras Velagapudi, CTO, Agility Robotics\nTiffany Janzen, Software Developer and Founder, Tiffintech\n\nReplay of #GTC25 Session S72543\n\nWatch more #robotics sessions from GTC on demand: https://www.nvidia.com/en-us/on-demand/playlist/playList-2cb186f1-7177-4c5c-8cc9-16019c2ef7aa/?ncid=so-yout-899940-vt48\n\nWatch more GTC sessions on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33\n\n#GTC25 #robotics #roboticengineering #humanoidrobot #humanoidrobots #humanoids",
+      "published_at": "2025-04-08T13:59:50Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "CYLn56Vc2XA": {
       "video_id": "CYLn56Vc2XA",
@@ -264,7 +317,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Join one of CUDA's architects on a journey through the concepts of parallel programming: how it works, why it works, why it's not working when you think it should be working, and in particular why it's different on a GPU from a CPU. \n\nWe'll look at different approaches to parallel programming in CUDA and how to take advantage of the hardware it runs on. This is the next episode in what has become a series looking at the way that CUDA and the GPU work, and why they work this way. This session will focus on how to think about parallel programming on a massively-parallel GPU and why that might be different to what you're used to. If you've never even written a parallel algorithm then you'll learn all sorts of new things, but even if you're a ninja you'll walk away with some new tricks up your sleeve.\n\nSpeaker: Stephen Jones, CUDA Architect, NVIDIA\n\nKey Takeaways:\n▫️Introduction to parallel algorithms\n▫️Hardware and even software design is running up against the laws of physics, which will change computing in a fundamental way\n▫️How parallel programming on a GPU is different to what you might be used to\n▫️Techniques for getting the most out of CUDA\n\nCUDA Toolkit: https://developer.nvidia.com/cuda-toolkit \n\nWatch more NVIDIA GTC sessions on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33\n\nTopic: CUDA Development and Optimization - Programming Languages / Compilers\nLevel: Technical - Beginner\nReplay of NVIDIA GTC 2025 Session ID: S72897\n\n\n\n\n\n\n\n\n#CUDA #NVIDIA #gpucomputing #parallelcomputing #parallelprogramming",
+      "published_at": "2025-04-10T21:28:18Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "H37l-5PzHCo": {
       "video_id": "H37l-5PzHCo",
@@ -273,7 +330,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "",
+      "published_at": "2025-04-07T22:23:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "HurV6ZUq0RY": {
       "video_id": "HurV6ZUq0RY",
@@ -282,7 +343,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Join our hosts Matt Linder (Sr. Solutions Architect, NVIDIA), Ozzy Johnson (Dir. Solutions Architect, NVIDIA), and Nader Khalil (Director, NVIDIA and Former CEO & Co-Founder of Brev) as they discuss highlights from GTC 2025 for the NVIDIA Inception program and the startup ecosystem.\n\nNew Cloud Offerings for Startups: https://blogs.nvidia.com/blog/nvidia-keynote-at-gtc-2025-ai-news-live-updates/?ncid=so-link-621835-vt53&linkId=100000349881325#inception\nNVIDIA Inception Launches $100k DGX Cloud Credits Program:  https://www.linkedin.com/pulse/nvidia-vc-firms-fuel-startup-innovation-gtc-nvidia-for-startups-tygkc/?trackingId=sg%2BYdHvmTye%2BdY%2FHgyzb9w%3D%3D\nDGX Spark: https://blogs.nvidia.com/blog/nvidia-keynote-at-gtc-2025-ai-news-live-updates/#keynote\nFramework Overview of NVIDIA Dynamo: https://www.nvidia.com/en-us/ai/dynamo/\n\nLearn more & apply to the NVIDIA Inception Program for Startups: https://www.nvidia.com/en-us/startups/?ncid=so-yout-608121-vt33",
+      "published_at": "2025-03-27T15:06:37Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "JlQ7QGrjzu0": {
       "video_id": "JlQ7QGrjzu0",
@@ -291,7 +356,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "#nvidia #robotics #machinelearning",
+      "published_at": "2025-03-18T04:16:34Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "Kx9Z-NCF8J4": {
       "video_id": "Kx9Z-NCF8J4",
@@ -300,7 +369,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Learn how NVIDIA GPU-accelerated math libraries, including those in the CUDA Toolkit and HPC SDK, help you accelerate AI, ML, and scientific computing workloads on Blackwell GPUs. This NVIDIA GTC 2025 session explores performance benefits, expanding coverage, and integration strategies for developers.\n\nSpeakers:\nBabak Hejazi, Senior Engineering Manager, NVIDIA\nAzi Riahi, Principal Product Manager, NVIDIA\n\nCUDA Toolkit: https://developer.nvidia.com/cuda-toolkit \n\nWatch more NVIDIA GTC sessions on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33\n\nReplay of NVIDIA #GTC25 Session ID: S72434\n\n\n\n\n\n#CUDA #HPC",
+      "published_at": "2025-04-15T18:30:22Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "L1Hm3qq6ebM": {
       "video_id": "L1Hm3qq6ebM",
@@ -411,7 +484,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Developers are building more intelligent, responsive, and efficient humanoid robots capable of transforming industries such as manufacturing, healthcare, and retail. NVIDIA is building Isaac GR00T — a platform for developing humanoid robots.\n\nIsaac GR00T has four parts: robot foundation models for cognition and control, simulation frameworks built on NVIDIA Omniverse and Cosmos, data pipelines for generating synthetic data and environments, and finally — a supercomputer in the robot Jetson AGX Thor. This engaging session will cover the latest advancements in each of the four pillars of the platform built by NVIDIA Research and Engineering through concrete use cases and examples.\n\nSpeakers:\nJim Fan, Principal Research Scientist / Senior Research Manager, NVIDIA\nLeela Karumbunathan, Sr. Hardware Product Manager, NVIDIA\nYan Chang, Sr. Engineering Manager, NVIDIA\nYuke Zhu, Principal Research Scientist / Senior Research Manager, NVIDIA\n\nNVIDIA GTC 2025 Session S72590\n\nExplore more #robotics sessions from GTC on demand https://www.nvidia.com/en-us/on-demand/playlist/playList-2cb186f1-7177-4c5c-8cc9-16019c2ef7aa/?ncid=so-yout-899940-vt48 \n\nLearn about Isaac Gr00t: https://developer.nvidia.com/isaac/gr00t?ncid=so-yout-899904-vt48\n\nWatch GTC sessions on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#GTC25 #robotics #roboticengineering #humanoidrobot #humanoidrobots #humanoids",
+      "published_at": "2025-04-08T17:30:03Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "RTmSrIFZanc": {
       "video_id": "RTmSrIFZanc",
@@ -436,7 +513,13 @@
       "channel": "NVIDIA",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Over 25,000 attendees joined us in San Jose for #GTC25, with millions more tuning in online, to connect and drive AI innovation forward.\n\nGTC wasn’t just a conference—it was a glimpse into an AI-powered future. \n\nMissed it? Watch the keynote replay and explore sessions on demand: https://nvda.ws/4l1jfqy",
+      "published_at": "2025-03-27T03:31:51Z",
+      "tags": [
+        "NVIDIA"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "SPGn9MZb1a0": {
       "video_id": "SPGn9MZb1a0",
@@ -445,7 +528,13 @@
       "channel": "NVIDIA",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "NVIDIA CEO Jensen Huang outlines the next phase of accelerated computing and AI — from national AI infrastructure and quantum computing to robotics and reindustrialization.\n\nBroadcast from the nation’s capital, GTC DC highlights how NVIDIA and its partners are advancing America’s AI leadership.",
+      "published_at": "2025-11-01T05:34:55Z",
+      "tags": [
+        "NVIDIA"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "S_k69qXQ9w8": {
       "video_id": "S_k69qXQ9w8",
@@ -454,7 +543,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "NVIDIA DGX Spark brings the power of Grace Blackwell to your desktop. In this session, we will take an in depth look at the hardware and software powering NVIDIA DGX Spark as well as key use cases for the system and a sneak peek into the latest development efforts and demonstration software. Speaker: Allen Bourgoyne, Director of Product Marketing, NVIDIA\n\n📣 Announced 5/19/2025: We will be launching our AI-first personal computing systems, NVIDIA DGX Spark and DGX Station, with global computer makers. ➡️ https://nvidianews.nvidia.com/news/nvidia-launches-ai-first-dgx-personal-computing-systems-with-global-computer-makers.\n\n📆 Reservations for DGX Spark are now open here: https://nvidia.com/en-us/products/workstations/dgx-spark/ and through our partners. NVIDIA DGX Spark won the #COMPUTEX2025 🏆 Best Choice Award in the Computer and System category. \n#SparkSomethingBig 💫\n\n\n'Watch more GTC sessions on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33\n\nProject DIGITS\nBlackwell\nAI Desktop Supercomputer\nDesktop AI\nGrace Blackwell\nSuperchip\nGB10\nAI Development\nFine Tuning\nPrototyping\nData Science\n#SparkSomethingBig\n#ProjectDIGITS\n#Blackwell\n#CountingDownTheDIGITS\n\nSession S74680 from #GTC25",
+      "published_at": "2025-04-07T19:09:39Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "UaGFUtqravQ": {
       "video_id": "UaGFUtqravQ",
@@ -463,7 +556,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "NVIDIA DGX™ Spark belongs to a new class computers designed to build and run AI, enabling developers to prototype, fine-tune and inference large #AI models locally and seamlessly deploy\nto the data center or cloud.\n\nLearn more: https://www.nvidia.com/en-us/products/workstations/dgx-spark/\n\n📣 Announced 5/19/2025: We will be launching our AI-first personal computing systems, NVIDIA DGX Spark and DGX Station, with global computer makers. ➡️ https://nvidianews.nvidia.com/news/nvidia-launches-ai-first-dgx-personal-computing-systems-with-global-computer-makers.\n\n📆 Reservations for DGX Spark are now open here: https://nvidia.com/en-us/products/workstations/dgx-spark/ and through our partners. NVIDIA DGX Spark won the #COMPUTEX2025 🏆 Best Choice Award in the Computer and System category. \n#SparkSomethingBig 💫",
+      "published_at": "2025-03-19T16:29:01Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "VHLYXuqja4c": {
       "video_id": "VHLYXuqja4c",
@@ -472,7 +569,11 @@
       "channel": "NVIDIA",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Hosted by Brad Gerstner (Altimeter), Patrick Moorhead (Moor Insights & Strategy), and Kristina Partsinevelos (CNBC), the pregame set the stage for Jensen Huang’s keynote with exclusive insights from across venture, science, energy, and manufacturing.\n\nWatch the full replay to hear from leaders across the AI ecosystem to see how AI is transforming every industry, from data centers to robotics.\n\n00:00:00 Intro: Hosts Patrick Moorhead - Moor Insights & Strategy, Brad Gerstner - Altimeter Capital, Kristina Partsinevelos, CNBC\n00:08:09 Chapter 1: State of AI Innovation:  Thomas Laffont - Coatue, Sarah Guo - Conviction, Martin Casado - a16z, Navin Chaddha - Mayfield\n00:40:30 Diogo Rau, Ely Lilly interview \n00:46:26 Chapter 2: Agentic AI for Every Industry: Aravind Srinivas - Perplexity, Scott Wu - Cognition, Shiv Rao - Abridge, George Kurtz - CrowdStrike\n01:19:27 Mike Intrator, Coreweave interview\n01:24:43 Chapter 3: U.S. AI Infrastructure Ecosystem: Gio Albertazzi - Vertiv, Krishna Jonnalagadda - GE Vernova, Olivier Blum - Schneider Electric, Chase Lochmiller - Crusoe\n02:05:42 Brett Adcock, Figure AI interview w/ Jensen Huang cameo\n02:17:14 Chapter 4: AI for Science: Anirudh Devgan - Cadence, Marc Tessier-Lavigne - Xaira Therapeutics, Matt Kinsella - Infleqtion, George Church - Lila Sciences w/ Jensen Huang cameo\n02:51:32 Anirudh Devgan, Cadence interview\n02:59:58 Chapter 5: AI for Robotics and Manufacturing: Young Liu - Foxconn, Peter Koerte - Siemens AG, Brett Adcock - Figure AI, Aki Jain - Palantir USG\n03:26:33 C.J. Muse, Cantor Fitzgerald interview",
+      "published_at": "2025-10-28T16:17:57Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "WYiBe5HRrnA": {
       "video_id": "WYiBe5HRrnA",
@@ -481,7 +582,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "",
+      "published_at": "2025-03-19T20:36:48Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "ZPC6cfr1RVk": {
       "video_id": "ZPC6cfr1RVk",
@@ -506,7 +611,13 @@
       "channel": "NVIDIA",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Developers want to focus on what they do best—building apps —without worrying about the underlying infrastructure. NVIDIA DGX Cloud Lepton connects you to a global network of GPU compute from trusted NVIDIA Cloud partners, allowing you to develop, train, and deploy AI models across any cloud, region, or provider.\n\nDiscover how DGX Cloud Lepton:\n- Decouples AI workloads from underlying infrastructure\n- Scales distributed training and inference across clouds and regions\n- Supports Bring Your Own Compute from NVIDIA Cloud Partners\n\nWhether you're building LLMs, tuning foundation models, or launching gen AI apps, DGX Cloud Lepton provides the power and flexibility to transition from prototype to production faster.\n\nTake a closer look at DGX Cloud Lepton: https://www.nvidia.com/en-us/data-center/dgx-cloud-lepton/?ncid=so-yout-123328 \nRequest Early Access https://developer.nvidia.com/dgx-cloud/get-lepton?ncid=so-yout-510554\n\n#AIIfrastructure \n#AIOps \n#AIDevOp \n#DGXCloud \n#MLOps",
+      "published_at": "2025-06-11T13:11:08Z",
+      "tags": [
+        "NVIDIA"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "_XW6Yu6VBQE": {
       "video_id": "_XW6Yu6VBQE",
@@ -515,7 +626,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Learn how to write high-performance CUDA kernels directly in Python, using tools and best practices that maximize GPU acceleration. In this NVIDIA GTC 2025 session, we’ll explore kernel structure, memory management, thread coordination, and optimization strategies—making it easier than ever to integrate CUDA into your Python applications.\n\nSpeaker: Leo Fang, Python CUDA Tech Lead, NVIDIA\n\nWatch more NVIDIA GTC sessions on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33\n\nCUDA Toolkit: https://developer.nvidia.com/cuda-toolkit\n\nTopic: Development and Optimization - Programming Languages / Compilers\nLevel: General Interest\nNVIDIA technology: CUDA,CUDA-X\n\nReplay of NVIDIA GTC 2025 session S72449.",
+      "published_at": "2025-04-16T17:00:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "_waPvOwL9Z8": {
       "video_id": "_waPvOwL9Z8",
@@ -524,7 +639,16 @@
       "channel": "NVIDIA",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Watch NVIDIA CEO Jensen Huang unveil the next wave of AI and accelerated computing at GTC 2025. From the Blackwell GPU architecture to agentic AI, AI factories, and robotics breakthroughs, discover how NVIDIA is transforming computing from the data center to the enterprise. Don’t miss the future of AI—watch now. \n\nDive into the announcements and discover more content at https://www.nvidia.com/gtc.\n\n0:00:00 GTC 2025 Keynote Introduction \n0:06:27 The Rise of AI Factories\n0:11:00 From One to Three Scaling Laws\n0:18:50 AI at an Inflection Point\n0:23:00 Acceleration Libraries\n0:33:18 AI for Every Industry\n0:39:42 Autonomous Vehicles\n0:45:53 NVIDIA Blackwell and Data Center Infrastructure\n0:54:06 Inference at Scale Is Extreme Computing\n1:07:37 NVIDIA Dynamo\n1:10:00 Blackwell Giant Leap in Inference Performance\n1:21:35 NVIDIA Omniverse\n1:24:35 Blackwell Ultra\n1:27:17 Vera Rubin and Rubin Ultra\n1:32:12 Spectrum-X\n1:35:01 NVIDIA Photonics\n1:43:40 NVIDIA Roadmap\n1:44:27 Enterprise Computing, DGX Spark, and DGX Station\n1:51:00 NVIDIA AI Infrastructure for Enterprise Computing\n1:53:20 NVIDIA Llama Nemotron Reasoning\n1:55:35 Physical AI and Robotics\n2:05:14 Closing\n\nFollow NVIDIA on Twitter:\nhttps://twitter.com/NVIDIAGTC\nhttps://twitter.com/NVIDIA",
+      "published_at": "2025-03-18T19:48:07Z",
+      "tags": [
+        "NVIDIA",
+        "gtc",
+        "keynote",
+        "jensen huang"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "aDT9bBt9HxM": {
       "video_id": "aDT9bBt9HxM",
@@ -586,7 +710,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "The evolution of artificial intelligence has seen remarkable milestones, particularly in developing systems capable of advanced reasoning. This panel will explore the journey from AI mastering strategic games to tackling complex, real-world problems. We will delve into the significance of integrating deliberate, System 2 thinking into AI models, enabling them to process information more thoroughly and solve intricate tasks. \n\nThe discussion will highlight the challenges and breakthroughs in enhancing AI’s reasoning capabilities, the role of reinforcement learning and self-play in training, and the implications of these advancements for future applications. By examining case studies and their performance in complex reasoning tasks, we aim to shed light on the current state and future directions of AI reasoning research.\n\nSpeakers:\n▫️Bryan Catanzaro, VP, Applied Deep Learning Research, NVIDIA\n▫️Noam Brown, Research Scientist, OpenAI\n▫️Vartika Singh, Strategic AI Lead, NVIDIA\n\nWatch more #GTC25 sessions on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33\n\nTopic: Development and Optimization - Training AI Models\nNVIDIA Technology: TensorRT\n\nReplay of NVIDIA GTC 2025 Session ID: S73862\n\n\n\n\n\n\n\n\n\n\n#ai #nvidiaresearch #gtc25 #deeplearningai #deeplearning",
+      "published_at": "2025-04-11T17:01:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "cxiOhp9BJTs": {
       "video_id": "cxiOhp9BJTs",
@@ -612,7 +740,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "\"The United States has to lead in open source as well. We have amazing proprietary models. We have amazing proprietary models. We need also amazing open source models. Our country depends on it. Our startups depend on it. And so NVIDIA is dedicating ourselves to go do that.\" -- Jensen Huang\n\nWatch the full NVIDIA GTC keynote here: https://www.youtube.com/live/lQHK61IDFH4?si=_-wQFaqQNb6Y1gjR&t=4748\n\n#nvidia #nvidiagtc #opensource",
+      "published_at": "2025-10-28T20:50:58Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "eyrDM3A_YFc": {
       "video_id": "eyrDM3A_YFc",
@@ -621,7 +753,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "As artificial intelligence continues to reshape the world, the intersection of deep learning and high performance computing becomes increasingly crucial. This talk brings together Yann LeCun, a pioneer in deep learning and the chief AI scientist at Meta, and Bill Dally, a leading computer architect and chief scientist at NVIDIA, to explore the future of AI models, hardware accelerators, and the evolving computational landscape.\n\nThe discussion covers:\n• The next breakthroughs in deep learning and AI architectures\n• How hardware innovation drives AI efficiency and scalability\n• Challenges in training large-scale models and real-time AI inference\n\nSpeakers:\n• Bill Dally, Chief Scientist and SVP of Research, NVIDIA\n• Yann LeCun, Chief AI Scientist at Meta, Professor at New York University\n\nWatch more GTC sessions on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33\n\nReplay of NVIDIA #GTC25 Session ID: S73208",
+      "published_at": "2025-04-10T16:00:56Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "jw_o0xr8MWU": {
       "video_id": "jw_o0xr8MWU",
@@ -646,7 +782,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "NVIDIA Cosmos is transforming how robots and autonomous vehicles learn, accelerating physics-aware synthetic video generation with world foundation models. \n\nJoin Ming-Yu, NVIDIA’s VP of Generative AI Research, to see how Cosmos is democratizing physical AI development—giving developers open models and tools to build custom world models faster than ever.\n\nSpeaker: Ming-Yu Liu, VP Generative AI Research, NVIDIA\n\nNVIDIA GTC 2025 Session S72431. \n\nWatch more #robotics sessions from GTC on demand: https://www.nvidia.com/en-us/on-demand/playlist/playList-2cb186f1-7177-4c5c-8cc9-16019c2ef7aa/?ncid=so-yout-899940-vt48 \n\nWatch more GTC sessions on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33\n\nAccess more NVIDIA Cosmos developer resources and join our developer community:\n\n🧑🏻‍🍳Read the Cosmos Cookbook → https://nvda.ws/4qevli8\n📚 Explore Models & Datasets → https://github.com/nvidia-cosmos\n⬇️ Try Cosmos Models in our Hosted Catalog → https://nvda.ws/3Yg0Dcx\n💻 Join the Cosmos Community → https://discord.gg/u23rXTHSC9\n🗳️ Contribute to the Cosmos Cookbook → https://nvda.ws/4aQcBkk\n\nTopics: Models / Libraries / Frameworks - Pre-Trained / Foundation Models\nNVIDIA technology: Omniverse Replicator, NVIDIA NIM, NVIDIA AI Enterprise\n\n#autonomousvehicles #physicalai #nvidia #nvidiaai #nvidiaresearch #omniverse #nvidiaomniverse",
+      "published_at": "2025-04-08T22:30:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "kDd24YOeqQQ": {
       "video_id": "kDd24YOeqQQ",
@@ -706,7 +846,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Click to watch \"A New Era for Generalist Robotics: The Rise of Humanoids\" from #NVIDIA GTC 2025\n\nFull session: https://youtu.be/BmD22FNOAY4\n\nWatch more #robotics sessions from GTC on demand: https://www.nvidia.com/en-us/on-demand/playlist/playList-2cb186f1-7177-4c5c-8cc9-16019c2ef7aa/?ncid=so-yout-899940-vt48\n\nThe ChatGPT of robotics has arrived. Humanoid robots will be one of the largest form-factor deployments of generalist robotics the world has ever seen. Hear from luminaries across some of the world's leading humanoid robotics companies about their outlook on the future of humanoid robotics, and what it'll take from foundation models, simulation technology, and computing to get there.\n\nSpeakers: \n\nBernt Børnich, CEO and Founder, 1X\nAaron Saunders, CTO, Boston Dynamics\nDeepak Pathak, CEO and Co-Founder, Skild AI\nJim Fan, Principal Research Scientist / Senior Research Manager, NVIDIA\nPras Velagapudi, CTO, Agility Robotics\nTiffany Janzen, Software Developer and Founder, Tiffintech\n\nReplay of #GTC25 Session S72543",
+      "published_at": "2025-04-18T17:26:09Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "ksQ85mBbNCk": {
       "video_id": "ksQ85mBbNCk",
@@ -715,7 +859,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Take a deep dive into the latest developments in NVIDIA software for high performance computing applications, including a comprehensive look at what’s new in programming models, compilers, libraries, and tools. We'll cover topics of interest to HPC developers, targeting traditional HPC modeling and simulation, quantum computing, HPC+AI, scientific visualization, and high-performance data analytics.\n\nSpeaker: Becca Zandstein, Director, Product Management, NVIDIA\n\nCUDA Toolkit: https://developer.nvidia.com/cuda-toolkit \n\nWatch more GTC sessions on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33\n\nNVIDIA #GTC25 session replay - Session ID S71350\n\nIndustry: HPC / Scientific Computing\nTopic: Simulation / Modeling / Design - Supercomputing\nNVIDIA technology: Grace CPU, CUDA, OpenACC, Hopper, cuBLAS, CUDA-X, cuFFT, NCCL, NSight Comute, NSight Systems\n\n\n\n\n\n#gtc25 #hpc #CUDA #quantumcomputing",
+      "published_at": "2025-04-14T16:51:18Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "kyQtbyR536I": {
       "video_id": "kyQtbyR536I",
@@ -724,7 +872,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Want to scale beyond the limits of a single GPU? Learn how to use CUDA-aware MPI, NVSHMEM, and NCCL to scale your applications across multiple GPUs and nodes. This GTC 2025 session features a real-world example to help you choose the right communication library for your performance and workload needs.\n\nSpeaker: Jiri Kraus, Principal Developer Technology, NVIDIA\n\nReplay of NVIDIA #GTC25 Session ID: S72578\n\nTopic: Models / Libraries / Frameworks - Accelerated Computing Libraries\nNVIDIA technology: CUDA, CUDA-X, NCCL, NVLink / NVSwitch\n\nCUDA Toolkit: https://developer.nvidia.com/cuda-toolkit\n\nWatch more NVIDIA GTC sessions on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33",
+      "published_at": "2025-04-22T18:00:51Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "lBNHFR41GgY": {
       "video_id": "lBNHFR41GgY",
@@ -752,7 +904,11 @@
       "channel": "NVIDIA",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "NVIDIA CEO Jensen Huang outlines the next phase of accelerated computing and AI — from national AI infrastructure and quantum computing to robotics and reindustrialization.\n\nBroadcast from the nation’s capital, GTC DC highlights how NVIDIA and its partners are advancing America’s AI leadership.\n\nWatch the keynote replay now:\nhttps://www.nvidia.com/gtc/dc/keynote\n\nDive into the announcements and discover more content at https://www.nvidia.com/gtc/dc.\n\n00:00:00 America, the Land of Innovation \n00:04:29 Intro \n00:06:03 GPU to CPU Accelerated Computing Shift \n00:08:09 CUDA-X Libraries \n00:11:05 CUDA Opens New Markets\n00:15:34 Telecommunications \n00:17:34 Nokia to Build AI-Native 6G on New NVIDIA Arc \n00:21:37 Quantum Computing\n00:24:00 The Future of Quantum Computing\n00:26:17 Announcing NVIDIA NVQLink Quantum-GPU Interconnect \n00:28:40 Department of Energy Partnering with NVIDIA to Build 7 New AI Supercomputers \n00:30:32 AI - The New Industrial Revolution\n00:42:13 Three Scaling Laws \n00:50:03 Extreme Co-Design\n00:51:57 Grace Blackwell NVL72 - \"A Thinking Machine\"\n00:53:30 Extreme Co-Designed Blackwell NVL72\n00:58:03 CSP Capex Spend\n01:01:10 Exceptionally Strong Demand for Grace Blackwell NVL72\n01:03:00 Blackwell: Made in America, Made for the World \n01:06:48 NVIDIA Extreme Co-Design Delivers X-Factors on One-Year Rhythm\n01:08:20 Vera Rubin Superchip, Vera Rubin Compute Tray, Vera Rubin CPX Compute Tray, BlueField-4, NVLink Switch Tray \n01:14:42 AI Factories\n01:15:22 Omniverse DSX \n01:19:08 Open Models\n01:21:20 NVIDIA is Everywhere\n01:26:30 Physical AI\n01:28:51 America is Reindustrializing\n01:34:00 Newton Simulation Platform\n01:34:37 Humanoid Robotics\n01:35:55 Global Automakers Adopt NVIDIA DRIVE Hyperion \n01:37:42 Global Robotaxi Ecosystem\n01:38:21 NVIDIA DRIVE Hyperion and Uber Partnership\n01:39:23 Close",
+      "published_at": "2025-10-28T18:03:04Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "nPIfu68Qwj4": {
       "video_id": "nPIfu68Qwj4",
@@ -761,7 +917,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Learn how to scale your application across multiple GPUs without writing message-passing code. This GTC 2025 session introduces task-based runtime systems that let you write multi-GPU libraries more easily and scale transparently—no explicit communication or coordination required. Plus, see how to integrate your code with domain libraries in the same program.\n\nSpeaker: Manolis Papadakis, Software Engineering Manager, Legate Framework, NVIDIA\n\nCUDA Toolkit: https://developer.nvidia.com/cuda-toolkit \n\nWatch more NVIDIA GTC sessions on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33\n\nReplay of NVIDIA GTC 2025 session: S72579\n\nTopic: Models / Libraries / Frameworks - Accelerated Computing Libraries\nNVIDIA technology: #CUDA, #CUDA-X\n\n\n\n#cuda #gtc25 #nvidia #gtc",
+      "published_at": "2025-04-18T18:00:52Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "o0J1aGT8_Tc": {
       "video_id": "o0J1aGT8_Tc",
@@ -789,7 +949,11 @@
       "channel": "NVIDIA Developer",
       "label": "GTC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "description": "Meet the next wave of digital visionaries—artists and designers in the NVIDIA AI Art Gallery showcase their AI-powered masterpieces.\n\nWill you be inspired to create your own?\n\nLive from #GTCParis at #VivaTech (now through June 12).\n\nhttps://blogs.nvidia.com/blog/ai-art-gtc-paris-2025/",
+      "published_at": "2025-06-10T20:35:43Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "rsBobT9INP4": {
       "video_id": "rsBobT9INP4",

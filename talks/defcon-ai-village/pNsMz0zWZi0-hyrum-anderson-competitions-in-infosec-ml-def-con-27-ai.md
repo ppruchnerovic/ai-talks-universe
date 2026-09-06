@@ -10,11 +10,11 @@ year: 2019
 speakers: ["Hyrum Anderson"]
 channel: "DEFCONConference"
 duration_min: 13
-published_at: null
+published_at: 2019-12-20T02:19:21Z
 video_id: pNsMz0zWZi0
 url: https://www.youtube.com/watch?v=pNsMz0zWZi0
 youtube_url: https://www.youtube.com/watch?v=pNsMz0zWZi0
-tags: []
+tags: ["DEF", "CON", "DEFCON", "DEF CON", "hacker conference", "security conference", "information security conference", "information security", "conference speakers", "hackers", "hacking", "hacking videos", "security research", "artificial intelligence", "machine learning"]
 topics: []
 transcript: false
 ---
@@ -25,8 +25,10 @@ transcript: false
 
 `DEF CON AI Village` · `DEF CON 27 AI Village` · `2019` · `13 min`
 
+`#DEF` `#CON` `#DEFCON` `#DEF CON` `#hacker conference` `#security conference` `#information security conference` `#information security` `#conference speakers` `#hackers` `#hacking` `#hacking videos` `#security research` `#artificial intelligence` `#machine learning`
+
 [Watch the recording](https://www.youtube.com/watch?v=pNsMz0zWZi0) · [Conference site](https://aivillage.org/)
 
 ## Description
 
-*No description published on YouTube.*
+Presentations from DEF CON 27 AI Village

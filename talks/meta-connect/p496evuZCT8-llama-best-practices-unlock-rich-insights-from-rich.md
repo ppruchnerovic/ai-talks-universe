@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "Meta Developers"
 duration_min: 11
-published_at: null
+published_at: 2025-09-18T23:40:02Z
 video_id: p496evuZCT8
 url: https://www.youtube.com/watch?v=p496evuZCT8
 youtube_url: https://www.youtube.com/watch?v=p496evuZCT8
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Enterprise data comes in all forms. In this session, we share tips on how to make the most the most of Llama when you work with unstructured data.

@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "PyTorch"
 duration_min: 20
-published_at: null
+published_at: 2025-11-04T03:45:47Z
 video_id: w-A77TVr2fs
 url: https://www.youtube.com/watch?v=w-A77TVr2fs
 youtube_url: https://www.youtube.com/watch?v=w-A77TVr2fs
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Keynote: Jeremy Howard, Founding Researcher at fast.ai in Conversation with Anna Tong, Reporter, Forbes

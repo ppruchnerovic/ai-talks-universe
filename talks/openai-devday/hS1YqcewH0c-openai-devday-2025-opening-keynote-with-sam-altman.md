@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 53
-published_at: null
+published_at: 2025-10-06T18:27:04Z
 video_id: hS1YqcewH0c
 url: https://www.youtube.com/watch?v=hS1YqcewH0c
 youtube_url: https://www.youtube.com/watch?v=hS1YqcewH0c
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Sam Altman kicks off DevDay 2025 with a keynote to explore ideas that will challenge how you think about building. Join us for announcements, live demos, and a vision of how developers are reshaping the future with AI.

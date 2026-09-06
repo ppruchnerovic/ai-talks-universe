@@ -10,12 +10,12 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 61
-published_at: null
+published_at: 2025-10-06T19:42:46Z
 video_id: QIdUllqmuls
 url: https://www.youtube.com/watch?v=QIdUllqmuls
 youtube_url: https://www.youtube.com/watch?v=QIdUllqmuls
 tags: []
-topics: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+The OpenAI Podcast is live for the first time. Host Andrew Mayne sits down with startups Cursor, Abridge, SchoolAI, and Jam.dev—each reimagining how AI can transform their industries. From healthcare and education to coding and collaboration, we explore how these builders are putting AI to work in the real world.

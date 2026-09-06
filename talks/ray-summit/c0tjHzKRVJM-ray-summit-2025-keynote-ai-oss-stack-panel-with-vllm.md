@@ -8,14 +8,14 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 17
-published_at: null
+published_at: 2025-11-14T17:30:42Z
 video_id: c0tjHzKRVJM
 url: https://www.youtube.com/watch?v=c0tjHzKRVJM
 youtube_url: https://www.youtube.com/watch?v=c0tjHzKRVJM
 tags: []
-topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 
@@ -29,4 +29,12 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+The keynote continues with an engaging panel discussion featuring Robert Nishihara, Dawn Chen (Software Engineer at Google), Joe Spisak (Director of Product Management at Meta), and Simon Mo (Lead at vLLM). Together, these industry leaders delve into the foundations of open-source AI infrastructure—examining how open collaboration, interoperability, and community-driven innovation are shaping the next generation of AI systems.
+
+They discuss the evolution of open-source ecosystems, the importance of shared standards, and how partnerships between organizations like Kubernetes, PyTorch, and vLLM are accelerating progress across the entire AI landscape. The conversation highlights both the technical and cultural aspects of collaboration that make open-source development a cornerstone of modern AI innovation.
+
+Interested in more?
+Watch the full Day 1 Keynote: https://www.youtube.com/watch?v=YoPskpg3zJQ
+
+--
+🔗 Connect with us:

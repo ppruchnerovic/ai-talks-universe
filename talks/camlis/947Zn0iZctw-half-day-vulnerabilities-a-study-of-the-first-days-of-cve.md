@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
-channel: null
+channel: "CAMLIS"
 duration_min: 22
-published_at: null
+published_at: 2022-11-30T03:28:38Z
 video_id: 947Zn0iZctw
 url: https://www.youtube.com/watch?v=947Zn0iZctw
 youtube_url: https://www.youtube.com/watch?v=947Zn0iZctw
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+CAMLIS 2022, Kobra Khanmohammadi, Raphael Khoury

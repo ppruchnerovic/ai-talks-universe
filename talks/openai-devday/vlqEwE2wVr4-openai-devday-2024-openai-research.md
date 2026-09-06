@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 9
-published_at: null
+published_at: 2024-12-17T17:01:01Z
 video_id: vlqEwE2wVr4
 url: https://www.youtube.com/watch?v=vlqEwE2wVr4
 youtube_url: https://www.youtube.com/watch?v=vlqEwE2wVr4
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Building with o1

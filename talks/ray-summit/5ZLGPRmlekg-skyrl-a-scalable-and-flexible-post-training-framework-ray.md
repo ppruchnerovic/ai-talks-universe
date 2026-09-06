@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 32
-published_at: null
+published_at: 2025-11-18T18:11:49Z
 video_id: 5ZLGPRmlekg
 url: https://www.youtube.com/watch?v=5ZLGPRmlekg
 youtube_url: https://www.youtube.com/watch?v=5ZLGPRmlekg
@@ -29,4 +29,17 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+At Ray Summit 2025, Tyler Griggs from UC Berkeley and Sumanth Hegde from Anyscale share how SkyRL—a modular, high-performance reinforcement learning framework for agentic language models—enables rapid experimentation without sacrificing scalability or efficiency.
+
+They begin by introducing the motivation behind SkyRL and the architectural principles that make it uniquely suited for agentic tasks. These include modular policy training, customizable reward pipelines, and efficient distributed execution that allows researchers to iterate quickly while maintaining strong performance guarantees.
+
+Tyler and Sumanth then explore the infrastructure challenges of scaling RL for agentic workloads, such as supporting high-throughput environment interactions, optimizing distributed rollouts, and managing heterogeneous compute requirements across diverse tasks and model sizes.
+
+Finally, they share lessons learned from building SkyRL—showing how principled framework design can accelerate RL research, improve reproducibility, and open new possibilities for training advanced agentic language models.
+
+Liked this video? Check out other Ray Summit breakout session recordings https://www.youtube.com/playlist?list=PLzTswPQNepXllnU0C36WtkC0dqkAoDulh
+
+Subscribe to our YouTube channel to stay up-to-date on the future of AI! https://www.youtube.com/c/anyscale
+
+🔗 Connect with us:
+X: https://x.com/anyscalecompute

@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 21
-published_at: null
+published_at: 2025-10-08T17:01:12Z
 video_id: TK9MN22q6E0
 url: https://www.youtube.com/watch?v=TK9MN22q6E0
 youtube_url: https://www.youtube.com/watch?v=TK9MN22q6E0
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Agents explore, plan, and reliably execute across diverse, long-horizon tasks—challenges that static benchmarks can't measure.
+
+Hear from Greg Kamradt, President of the ARC Prize Foundation, on how evaluating agentic performance requires interactive evaluations.

@@ -7,10 +7,10 @@ conference_name: "Code with Claude (Anthropic)"
 category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
-speakers: []
+speakers: ["David Hershey"]
 channel: "Anthropic"
 duration_min: 20
-published_at: null
+published_at: 2025-07-31T18:21:55Z
 video_id: 0XUzn-DEoY8
 url: https://www.youtube.com/watch?v=0XUzn-DEoY8
 youtube_url: https://www.youtube.com/watch?v=0XUzn-DEoY8
@@ -21,7 +21,7 @@ transcript: false
 
 # Claude plays Pokemon | Code w/ Claude
 
-**Speaker not identified**
+**David Hershey**
 
 `Code with Claude (Anthropic)` · `2025` · `2025` · `20 min`
 
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.
+
+Speaker: David Hershey, Member of Technical Staff @anthropic-ai

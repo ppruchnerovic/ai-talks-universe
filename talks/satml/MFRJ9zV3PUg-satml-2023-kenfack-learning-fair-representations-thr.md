@@ -10,7 +10,7 @@ year: 2023
 speakers: []
 channel: "Nicolas Papernot"
 duration_min: 18
-published_at: null
+published_at: 2023-02-16T05:00:10Z
 video_id: MFRJ9zV3PUg
 url: https://www.youtube.com/watch?v=MFRJ9zV3PUg
 youtube_url: https://www.youtube.com/watch?v=MFRJ9zV3PUg
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Learning Fair Representations Through Uniformly Distributed Sensitive Attributes

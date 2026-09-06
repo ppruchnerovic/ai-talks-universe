@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 23
-published_at: null
+published_at: 2025-10-08T17:00:55Z
 video_id: 1HL2YHRj270
 url: https://www.youtube.com/watch?v=1HL2YHRj270
 youtube_url: https://www.youtube.com/watch?v=1HL2YHRj270
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Go beyond out-of-the-box models with gpt-oss, OpenAI's newest open model series. Discover how gpt-oss lets you adapt, extend, and fine-tune to your needs while combining seamlessly with GPT-5 for flexible, high-impact builds.
+
+Dominik presents one of the first of NVIDIA's DGX Spark AI Computers on stage.

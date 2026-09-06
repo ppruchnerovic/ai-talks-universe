@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Krishna Acharya"]
 channel: "Nicolas Papernot"
 duration_min: 13
-published_at: null
+published_at: 2023-02-16T05:00:08Z
 video_id: MpkKEm8pHNs
 url: https://www.youtube.com/watch?v=MpkKEm8pHNs
 youtube_url: https://www.youtube.com/watch?v=MpkKEm8pHNs

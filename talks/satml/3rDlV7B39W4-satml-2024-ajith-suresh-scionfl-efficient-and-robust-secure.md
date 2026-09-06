@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Ajith Suresh"]
 channel: "Nicolas Papernot"
 duration_min: 21
-published_at: null
+published_at: 2024-04-10T13:22:49Z
 video_id: 3rDlV7B39W4
 url: https://www.youtube.com/watch?v=3rDlV7B39W4
 youtube_url: https://www.youtube.com/watch?v=3rDlV7B39W4

@@ -10,12 +10,12 @@ year: 2025
 speakers: ["Corey Lowman"]
 channel: "PyTorch"
 duration_min: 25
-published_at: null
+published_at: 2025-11-04T03:45:05Z
 video_id: O51dr8WeUfY
 url: https://www.youtube.com/watch?v=O51dr8WeUfY
 youtube_url: https://www.youtube.com/watch?v=O51dr8WeUfY
 tags: []
-topics: ["Training, fine-tuning & model building"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 
@@ -29,4 +29,11 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Sponsored Session: Distributed Training in PyTorch: Zero to Hero - Corey Lowman, Lambda Labs
+
+In this talk, we share best practices for harnessing the power of distributed training with PyTorch to accelerate model development and fully utilize GPU clusters.
+
+The session represents lessons learned from across a diverse range of distributed training runs and ultimately shows how to train a 405B sized model using pure PyTorch.Highlighted best practices include:
+- Scaling your training code from single GPU to multi node
+- Diagnostic techniques for quickly identifying cluster issues and freezes during training
+- Sharding large models with PyTorch FSDP

@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "Nicolas Papernot"
 duration_min: 48
-published_at: null
+published_at: 2024-04-12T18:19:07Z
 video_id: hhNB-Ud_WhM
 url: https://www.youtube.com/watch?v=hhNB-Ud_WhM
 youtube_url: https://www.youtube.com/watch?v=hhNB-Ud_WhM

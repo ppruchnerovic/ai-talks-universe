@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Ari Karchmer"]
 channel: "Nicolas Papernot"
 duration_min: 13
-published_at: null
+published_at: 2023-02-16T05:00:19Z
 video_id: pQCCcCHvPsk
 url: https://www.youtube.com/watch?v=pQCCcCHvPsk
 youtube_url: https://www.youtube.com/watch?v=pQCCcCHvPsk
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Theoretical Limits of Provable Security Against Model Extraction by Efficient Observational Defenses

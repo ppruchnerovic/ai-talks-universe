@@ -1,7 +1,7 @@
 {
   "slug": "google-io",
   "name": "Google I/O",
-  "enumerated_at": "2026-08-30T21:48:49+00:00",
+  "enumerated_at": "2026-09-06T13:22:38+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
@@ -25,7 +25,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn to build robust and engaging text experiences in Jetpack Compose. This session covers the state-based TextField API, Autofill integration, dynamic text resizing with AutoSize, custom input and output transformations, and more. Discover how you can use these powerful APIs to create seamless and delightful user interactions.\n\nSpeakers: Meghan Mehta, Halil Ozercan\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all the Google Play sessions from Google I/O 2025 → https://goo.gle/io25-google-play \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android, Google Play",
+      "published_at": "2025-05-22T03:36:28Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "10oHjdwUIxo": {
       "video_id": "10oHjdwUIxo",
@@ -34,7 +43,19 @@
       "channel": "Chrome for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "In a competitive digital market, user privacy is as important as user experience. Some identity, payments, and embeds solutions may rely on third-party cookies. This is suboptimal for user privacy, and can impair user experience where third-party cookies are unavailable. Learn how to use Privacy Sandbox APIs to shift to a new paradigm and build solutions that don't compromise on either user privacy or experience.\n\nResources: \nCheck the impact of the third-party cookie changes on your sign-in workflows →  https://goo.gle/ps-identity   \nCheck the impact of the third-party cookie changes on your payments workflows → https://goo.gle/ps-payments  \nThird-party cookies and embed workflows → https://goo.gle/ps-embeds   \nReshaping user authentication and identity verification → https://goo.gle/458WaN8\n\nSpeakers: Natalia Markoborodova, Dipti Kothari\n\nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Web",
+      "published_at": "2025-05-22T03:11:49Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Web;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "15oPNK1W0Tw": {
       "video_id": "15oPNK1W0Tw",
@@ -43,7 +64,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn why and how to build apps and games that create delightful experiences across the Android mobile device ecosystem — including phones, tablets, foldables, Chromebooks, cars, and XR. We’ll cover Android 16 changes, Jetpack updates to WindowManager, material3-adaptive 1.1, Android Studio improvements, and more. Take full advantage of this incredibly versatile OS and serve your users everywhere they are.\n\nResources: \nBuild adaptive apps → https://goo.gle/4kalpTG \nNavigation 3 →  https://goo.gle/nav3 \n\nSpeakers: Emilie Roberts, Alex Vanyo\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android, ChromeOS, Design",
+      "published_at": "2025-05-22T15:47:03Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Android PA Keynote;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "16jTqLC66PU": {
       "video_id": "16jTqLC66PU",
@@ -130,7 +160,21 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Discover the latest updates to Google Pay and Google Wallet. Learn about new features that help you increase sales while lowering your costs, with lower fraud risk and broader payment choices. We’ll look at developer tools designed to boost checkout conversions and streamline testing. Also, find out how Google Wallet can deepen user engagement, simplify daily life, and enable secure, connected experiences through digital IDs.\n\nResources: \nJoin the Google Pay & Wallet Advisory Council → https://goo.gle/pay-wallet-council\nGoogle Wallet new age and identity verification features →  https://goo.gle/wallet-id-verification \nGoogle Chrome session about age and identity verification →  https://goo.gle/458WaN8\n\nSpeakers: Kushagra Patel, Kevin Miller, Edson Yanaga\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Google Pay",
+      "published_at": "2025-05-22T03:28:16Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;",
+        "Products Mentioned: Google Pay",
+        "Google Pay",
+        "Campaign: Pay Campaigns;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "2IAoYnzCTvw": {
       "video_id": "2IAoYnzCTvw",
@@ -139,7 +183,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Introduce an opinionated stance from Android and ChromeOS on when to use web within your native applications, consistent with our recently published guidance.\n\nResources: \nLearn more about using web content in your Android app → https://goo.gle/4iSEuIU  \nEmbedding content with WebView → https://goo.gle/4maOaBu \nOverview of Android Custom Tabs → https://goo.gle/4k7lkzX \n\nSpeakers: Cody Smith, Joyce Toh\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android, Mobile, Web",
+      "published_at": "2025-05-22T03:36:32Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "2n41YjR5QfU": {
       "video_id": "2n41YjR5QfU",
@@ -185,16 +238,33 @@
       "channel": "Google Cloud Tech",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Tired of outdated intranets? Discover the magic of intelligent search agents for your enterprise. Learn about Google Agentspace use cases focusing on the tangible ways it can help you make quick decisions, flow through work, and simplify your day-to-day workflows.\n\nResources: \nRegister for upcoming webinar: The Agentic Era: Reshaping the Future of Business  → https://goo.gle/4mkHalC\nWatch the webinar Unlock your organization’s collective brilliance with AI agents → https://goo.gle/3GYTYhi\n\nSpeakers: Holt Skinner\n\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Cloud, AI/Machine Learning",
+      "published_at": "2025-05-22T03:04:10Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "3zXVPU2vKXs": {
       "video_id": "3zXVPU2vKXs",
       "title": "Seamless video capture, editing and playback with CameraX and Media3",
-      "duration_s": 1563,
+      "duration_s": 1564,
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Let’s explore practical techniques for capturing video with CameraX, processing it efficiently with Media3's editing tools, and achieving smooth playback with ExoPlayer. Learn to harness the power of these libraries and create compelling video experiences in your Android applications.\n\nResources: \nSociaLite: An Android Sample App → https://goo.gle/4db84s0   \nMedia3 demos → https://goo.gle/media3-demos \nCamera and Media Dev Center → https://goo.gle/3SuRU30 \nCameraX Foundations video series → https://goo.gle/CameraX \nSelfie segmentation with ML Kit on Android → https://goo.gle/4kctEi7 \nCameraX overview → https://goo.gle/3StcPDD \nTransformer overview → https://goo.gle/4jI9dK1  \nExoPlayer overview → https://goo.gle/4jVwqss \nMedia3's Effect class → https://goo.gle/3SuS9uW \n\nSpeakers: Kristina Simakova, Donovan McMurray, Mayuri Khinvasara Khabya\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all the Google Play sessions from Google I/O 2025 → https://goo.gle/io25-google-play \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android, Google Play",
+      "published_at": "2025-05-22T03:39:11Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "4TE-KFXvhAk": {
       "video_id": "4TE-KFXvhAk",
@@ -203,7 +273,16 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Explore core technologies, from the high-performance flexibility of JAX and TPUs to the power of Gemini APIs and the intuitive ease of AI Studio. Witness the stunning creative potential of image and video generation with models like Imagen and Veo, and learn to use these tools to build immersive experiences. Beyond tech, we'll celebrate the vibrant and inclusive AI community, demonstrating how developers like you are driving innovation and shaping the future of AI with Google DeepMind.\n\nSpeakers: Joana Carrasqueira, Josh Gordon\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T15:34:25Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - AI PA Keynote;",
+        "ct:Stack - AI;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "4_Sw2jfzOuc": {
       "video_id": "4_Sw2jfzOuc",
@@ -232,7 +311,18 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "There's been a lot of talk about quantum computing lately. But for the developers and scientists among us, how can we detect the signal from the noise? In this fireside chat we’ll get into the big and interesting questions on this often misunderstood technology; from how to assess true breakthroughs, to applications, encryption concerns, and more—let’s get into some real talk on quantum computing!\n\nResources: \nMeet Willow, our state-of-the-art quantum chip → https://goo.gle/4jLUn5a \n\nSpeakers: Julian Kelly, Sinead Bovell\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T22:25:00Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Dialogues;",
+        "ct:Stack - AI;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "5MPxzw15ojE": {
       "video_id": "5MPxzw15ojE",
@@ -241,7 +331,18 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Join Turing Award laureate David Patterson for a look at the environmental considerations of AI. David will give tongue-in-cheek advice on how to make AI’s carbon footprint worse, and then how to make it better. He will dispel common fallacies about AI’s emissions. Learn key factors influencing AI's carbon footprint and gain valuable perspectives on building more sustainable AI systems.\n\nResources: \nThe Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink → https://goo.gle/3GMakKa \nEnergy and Emissions of Machine Learning on Smartphones versus the Cloud: A Google Case Study → https://goo.gle/4k9Nlab \nEnergy Is Physics, but Emissions Is Accounting: What’s Really Green? → https://goo.gle/459Tpeq \nLife-Cycle Emissions of AI Hardware: A Cradle-To-Grave Approach and Generational Trends → https://goo.gle/44vWPIo \n\nSpeakers: David Patterson\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt  \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T21:51:44Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Dialogues;",
+        "ct:Stack - AI;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "6IsFP3gD28E": {
       "video_id": "6IsFP3gD28E",
@@ -250,7 +351,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Level up your user experience and get a jump on the future of Google’s UX design: Material 3 Expressive. Learn how to use the new emotional design patterns to boost engagement, usability, and desire for your product. We'll break down the research, explain new guidelines, and share design files and alpha code so you can start to experiment.\n\nSpeakers: Aneesha Kommineni, Connie Shi, Andrew Lu\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Design",
+      "published_at": "2025-05-22T03:33:46Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "6eTiMIhtnBA": {
       "video_id": "6eTiMIhtnBA",
@@ -259,7 +369,15 @@
       "channel": "Google Cloud Tech",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Explore Cloud Assist through demos with live examples. For instance, we'll take a buggy application in Google Cloud Run, watch it fail, then go to the Log Explorer, get help from Cloud Assist, and iterate on fixes.\n\nResources:\nTry Gemini Cloud Assist today to transform cloud management and operations → https://goo.gle/3ZnmyiH\nGemini Cloud Assist playlist on Youtube Watch to learn more → https://goo.gle/3GSNIrh\n\nSpeaker: Leonid Yankulin\n\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Cloud",
+      "published_at": "2025-05-22T03:23:47Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "7Tnq4y7T4xs": {
       "video_id": "7Tnq4y7T4xs",
@@ -268,7 +386,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Get a practical overview of Google's Gemini family of models, and learn how they can be applied to solve critical use cases on Android. We'll explore the various Gemini solutions available, from building with Gemini Nano model on-device to Gemini Flash, Pro, and Imagen models on the cloud.\n\nResources: \nAI on Android → https://goo.gle/439vlps \nGoogle AI samples on GitHub → https://goo.gle/4iX2Y3R \n\nSpeakers: Kateryna Semenova, Jingyu Shi\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning, Android",
+      "published_at": "2025-05-22T03:38:02Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "7UBmLXP_LKw": {
       "video_id": "7UBmLXP_LKw",
@@ -307,7 +434,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Build more inclusive and accessible apps with powerful Jetpack Compose APIs and tools. Learn how to focus on accessibility as you classify composables, from Material components to custom UIs. We’ll also share how to apply appropriate semantics or even more complex modifications, like influencing traversal order or merging and clearing, how to validate accessibility through inspection and debugging tips, and how to perform quick accessibility testing with Compose checks.\n\nResources: \nAndroid accessibility updates  → https://goo.gle/3Sz7kDs\nAccessibility in Jetpack Compose → https://goo.gle/compose-accessibility \nWhat's new in Accessibility for developers → https://goo.gle/accessibility-updates-IO22   \n\nSpeakers: Simona Milanovic, Melba Nuzen\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all the Google Play sessions from Google I/O 2025 → https://goo.gle/io25-google-play \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android, Google Play",
+      "published_at": "2025-05-22T03:29:22Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "83CF7AhozJ8": {
       "video_id": "83CF7AhozJ8",
@@ -334,7 +470,18 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Discover the latest advancements in Jetpack Compose with Jolanda Verhoef, Developer Relations Engineer. Learn about the newest features, performance improvements, and library support to build your apps faster with Jetpack Compose. See how to use new APIs like Autofill and learn about the new, redesigned Navigation 3 library, see how Google apps use Compose, and more.\n\nChapters:\n0:00 - Intro\n1:26 - Features \n5:37 - Performance\n7:40 - Stability\n10:55 - Navigation\n13:16 - Libraries \n\nResources:\nJetpack Compose → https://goo.gle/compose \nAccessible UIs with Jetpack Compose → https://goo.gle/4myXBen\nText Input in Jetpack Compose → https://goo.gle/4moaV59\nNavigation 3 → https://goo.gle/nav3 \n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs \n\n#foundation \n\nEvent: Google I/O 2025\n\nSpeaker: Jolanda Verhoef\nProducts Mentioned: Android,Android Jetpack Compose,AndroidX",
+      "published_at": "2025-05-28T18:26:31Z",
+      "tags": [
+        "Android",
+        "ct: AIG;",
+        "gds:Yes;",
+        "pr_pr: Google I/O;",
+        "ct:Event - Android PA Keynote;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "8F8RRNYNWe4": {
       "video_id": "8F8RRNYNWe4",
@@ -382,7 +529,15 @@
       "channel": "Chrome for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Explore the incredible potential in the combination of Gemini and Chrome extensions. Learn how to use both on-device and in-cloud AI to optimize the web and browser for your needs and the needs of your customers. Chrome Extensions can help you create tailored web experiences, including for video and audio. With Gemini's powerful multimodal APIs, you can build completely new experiences. We'll examine use cases and possibilities as we highlight the power of AI in Chrome Extensions.\n\nResources: \nWelcome to Extensions  → https://goo.gle/4jOLV5n \nAI on Chrome  → https://goo.gle/3Z8poYK \nSamples  → https://goo.gle/4jMdfAW \nThe future of Chrome Extensions with Gemini in your browser  → https://goo.gle/4diT3V6\n\nSpeaker: Sebastian Benz\n\nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Web, AI/Machine Learning",
+      "published_at": "2025-05-22T03:18:04Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Web;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "8rlNdKywldQ": {
       "video_id": "8rlNdKywldQ",
@@ -391,7 +546,15 @@
       "channel": "Google Cloud Tech",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "AI agents are changing how we build software. This video covers everything you need to know, from architecture to deployment on Cloud Run and Vertex AI. Ready to dive in and build the next big thing? Head to the codelab and get started. → https://goo.gle/4g8ZknM\n\nAI agents are a new type of application architecture, relying on a language model to reason, remember, and plan complex tasks. This video provides a comprehensive guide to building and deploying them on Google Cloud, covering both the flexible and cost effective Cloud Run and the managed, end to end Vertex AI platform.\n\nYou'll learn about key concepts like tool calling, model agnosticism, and the benefits of using frameworks like LangGraph and Google's open source Agent Development Kit (ADK). We'll also demonstrate how to use Cloud Run for a smooth \"\"source to URL\"\" deployment and explore the Vertex AI agent builder for an enterprise ready solution with built in observability and rich interaction capabilities.\n\nSpeakers: Wietse Venema, Steren Giannini, Sita Lakshmi Sangameswaran\n\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Cloud, AI/Machine Learning",
+      "published_at": "2025-05-22T03:24:20Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "9C20esBUf-Q": {
       "video_id": "9C20esBUf-Q",
@@ -419,7 +582,15 @@
       "channel": "Chrome for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Performance debugging just got a whole lot easier. Learn how our new Chrome DevTools Performance panel is more accessible and versatile for everyone, with a new clean UI, annotations, and performance insights with AI assistance.\n\nResources: \nMonitor your local and real-user Core Web Vitals performance in DevTools → https://goo.gle/43ntb6X  \nInsights sidebar in the DevTools Performance panel → https://goo.gle/4ddyp8H \nMore accurate DevTools performance debugging using real-world data → https://goo.gle/3F6Y0n6 \n\nSpeaker: Paul Irish\n\nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Web, AI/Machine Learning",
+      "published_at": "2025-05-22T03:11:08Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Web;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "BqQiJ5LSASI": {
       "video_id": "BqQiJ5LSASI",
@@ -428,7 +599,15 @@
       "channel": "Google Cloud Tech",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Explore the technical tools and training offered by the Google Developer Program. Learn how to use the program's advanced training, technical documentation, and tooling benefits to build an application on Google's platforms. We'll cover how the program provides opportunities for practical learning, skill development, and specialized knowledge in areas like AI/ML, cloud computing, and mobile development.\n\nResources:\nLearn more about Google Developer Program and choose the plan that's right for you → https://goo.gle/4dpdAHA\n\nSpeakers: Crystal Smith, Jeffery Taylor, Katrielle Veslenio\n\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Cloud",
+      "published_at": "2025-05-22T03:21:59Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "CBL6KgCsQNY": {
       "video_id": "CBL6KgCsQNY",
@@ -486,7 +665,15 @@
       "channel": "Chrome for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn how to use the new built-in AI APIs landing in Chrome, to enable your web app to translate, summarize, write, and rewrite content for your users. We’ll discuss how to transition seamlessly between cloud and on-device workloads, and the future of multimodal tasks in the browser.\n\nResources: \nPractical on-device AI for web developers → https://goo.gle/4m98y5Z \nOverview of Chrome built-in AI → https://goo.gle/4dujlUB \nThe Prompt API → https://goo.gle/4jeLiB3 \nSummarize with built-in AI → https://goo.gle/4d8B0ke \nTranslation with built-in AI → https://goo.gle/4339AYp \nLanguage detection with built-in AI →  https://goo.gle/3ZbTXwB \nExplainer for the Prompt API on GitHub → https://goo.gle/44yGl2g \nWriting Assistance APIs Explainer on GitHub →  https://goo.gle/4maK7oO \nExplainer for the Translator and Language Detector APIs on GitHub→ https://goo.gle/4m9RYTm \nWeb Machine Learning Community Group Charter → https://goo.gle/3GKrGa8 \nWinners of the Built-in AI Challenge → https://goo.gle/4iXwt5s \nHybrid AI: Client-side and server-side→ https://goo.gle/hybrid-sdk-developer-preview  \nProofreader API Explainer on GitHub → https://goo.gle/42S8yQj \nExplainer for the Prompt API - Multimodal Inputs  on GitHub→ https://goo.gle/43e4jgZ \nBuilt-in AI → https://goo.gle/3Z19vDF \nWeb AI demos → https://goo.gle/43lPwSq \nWeb Machine Learning on GitHub→ https://goo.gle/44w6Oxf \nChrome built-in AI Early Preview Program → https://goo.gle/chrome-ai-dev-preview-join \n\nSpeaker: Thomas Steiner\n\nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Web, AI/Machine Learning",
+      "published_at": "2025-05-22T03:17:18Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Web;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "EDqgZS8q2rA": {
       "video_id": "EDqgZS8q2rA",
@@ -513,7 +700,15 @@
       "channel": "Chrome for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "The introduction of AI assistance for styling, network, sources, and performance Chrome DevTools means you can do more with a lot less context switching. With AI assistance for styling, you can even ask AI to fix your source code, without looking away from your inspected page. At the same time, DevTools continues to be a reliable tool for the debugging challenges of our time: from animations to form-heavy web apps and privacy, Chrome DevTools have you covered.\n\nResources: \nNew in DevTools 137 → https://goo.gle/4mgGIVB \nAI assistance panel → https://goo.gle/456x1mj \nChrome Dev tools Cinema AI → https://goo.gle/4jQZ51J \nSources panel overview → https://goo.gle/4dug87v \n\nSpeaker: Matthias Rohmer\n\nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Web, AI/Machine Learning",
+      "published_at": "2025-05-22T03:16:49Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Web;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "GjvgtwSOCao": {
       "video_id": "GjvgtwSOCao",
@@ -522,7 +717,21 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn about the latest updates to our developer products and platforms.\n\n00:00:00 Introduction\n00:01:19 Building with Gemini\n00:15:17 Android\n00:30:26 Web\n00:48:48 Firebase Studio\n00:56:25 Gemma\n01:07:37 Closing \n\nTo watch this keynote interpreted in American Sign Language (ASL), please click here: \nhttps://youtube.com/watch?v=bcVhGOKF628\n\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO \n\nEvent: Google I/O 2025",
+      "published_at": "2025-05-20T21:47:19Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Developer Keynote;",
+        "ct:Stack - AI;",
+        "ct:Stack - Android;",
+        "ct:Stack - Cloud;",
+        "ct:Stack - Web;",
+        "Type: Livestream;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "HKZ9mw6TaCo": {
       "video_id": "HKZ9mw6TaCo",
@@ -552,7 +761,18 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn how we are bringing Gemini to Google Home developers. With Gemini in the Home APIs, we'll share how developers can build AI-powered features directly in their own applications.\n\nResources: \nLearn more at the Google Home developer website → https://goo.gle/io25-home  \nSign up for the Google Home developer newsletter → https://goo.gle/4c1nZID\n\nSpeaker: Taylor Lehman\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Smart Home",
+      "published_at": "2025-05-27T17:21:43Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "HbAFGivZ158": {
       "video_id": "HbAFGivZ158",
@@ -624,7 +844,15 @@
       "channel": "Chrome for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "The evolving AI landscape is changing how we work, and Chrome extensions are a critical part of this shift. Join us as we explore how extensions are evolving to meet the latest demands. Discover how Chrome can help you prototype, create, collaborate, and iterate on your extensions faster than ever before. We’ll also share new updates to the Chrome Web Store — with a focus on enterprise — and a sneak peek at upcoming features to help you strengthen your extension for enterprise adoption.\n\nResources: \nChrome Extentions Mailing List → https://goo.gle/4iWoXrE \nGet started building Chrome Extensions → https://goo.gle/3FbeSsS \nChrome Enterprise →  https://goo.gle/44w35Qh \n\nSpeakers: David Li, Hafsah Ismail\n\nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Web",
+      "published_at": "2025-05-22T03:13:04Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Web;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "IaNpcrCSDiI": {
       "video_id": "IaNpcrCSDiI",
@@ -633,7 +861,15 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Explore new Android 16 features and the future of Android development. Learn how to create delightful, high-quality apps for all form factors (phones, foldables, tablets, wearables, TV, Auto, XR), and the latest APIs for integrating AI experiences in your app. We’ll also cover new ways to improve developer productivity with Jetpack Compose, Kotlin Multiplatform, and Gemini in Android Studio.\n\nResources: \nJetpack Compose → https://goo.gle/compose \nAccessible UIs with Jetpack Compose → https://goo.gle/4myXBen\nText Input in Jetpack Compose → https://goo.gle/4moaV59\nNavigation 3 → https://goo.gle/nav3 \nKotlin Multiplatform Overview → https://goo.gle/3GM5o89 \nUnderstanding Kotlin Multiplatform (KMP) → https://goo.gle/4j2Bmu0\n\nSpeakers: John Zoeller, Jingyu Shi, Jolanda Verhoef\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android, Wear OS",
+      "published_at": "2025-05-22T15:46:25Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Android PA Keynote;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "KXKP2tDPW4Y": {
       "video_id": "KXKP2tDPW4Y",
@@ -642,7 +878,15 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Discover what's new in Android Studio for Android app developers. We will share demos and present relevant features that can accelerate developers' workflows across Android APIs plus showcase the latest in Gemini for app development.\n\nResources: \nAndroid Studio → https://goo.gle/4lYt3lI \n\nSpeakers: J. Eason, Tor Norbye\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android, Mobile",
+      "published_at": "2025-05-22T15:43:58Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Android PA Keynote;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "KbTJNK1ALYc": {
       "video_id": "KbTJNK1ALYc",
@@ -651,7 +895,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Join us as we introduce Jetpack SceneCore and ARCore for Jetpack XR, and guide developers through the process of adding immersive content such as 3D models, stereoscopic video, and hand-tracking to existing apps. Participants will learn about new features in the Android XR SDK developer preview, and gain essential knowledge for the public launch of Android XR later this year.\n\nResources: \nUpdates to the Android XR SDK → https://goo.gle/io25-xr-blog \nThe future is now, with Compose and AI on Android XR (XR/AI talk) → https://goo.gle/43ciNOc\nAdaptive Android development makes your app shine across devices → https://goo.gle/3FhZmM8\nDevelop with the Jetpack XR SDK → https://goo.gle/4ddu4Cr \n\nSpeakers: Patrick Fuentes, Dereck Bridié \n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android, XR",
+      "published_at": "2025-05-22T03:37:04Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "MbkjTNg2rcg": {
       "video_id": "MbkjTNg2rcg",
@@ -681,7 +934,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Android users benefit from expanded interaction models beyond a single, touch-driven app window. In this session you’ll learn how to meet the demand for more. Desktop windowing lets users manage multiple tasks, while the Ink API simplifies support stylus input, enhancing precision and creativity. Plus: Discover how to build Android apps that thrive in these expanded interaction models.\n\nResources: \nBuild Adaptive Apps → https://goo.gle/3F2rDWP \n\nSpeakers: Miguel Montemayor, Francesco Romano\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all the Google Play sessions from Google I/O 2025 → https://goo.gle/io25-google-play \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android, Google Play",
+      "published_at": "2025-05-22T03:37:34Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "MmxPBgrrn4Q": {
       "video_id": "MmxPBgrrn4Q",
@@ -690,7 +952,16 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "General purpose transformer architecture has really \"transformed\" the AI landscape. Learn about its origins and structure, and see it built from scratch! We’ll walk through building a small transformer on JAX, using Flax NNX to build the model architecture, Optax for loss function and optimizer creation, and training on accelerated hardware with the help of Orbax and XLA. Get a taste of development on JAX, and prepare to take your own next steps in building and training AI models.\n\nResources: \nColab notebook - Transformers workshop → https://goo.gle/44w7bI9 \nKaggle notebook - Transformers workshop → https://goo.gle/4dc12mS \n\nWhat is JAX → https://goo.gle/4j6UQ0G\n\"Attention is All You Need\" research paper → https://goo.gle/3Z1a7ZZ \nOpen Web Text dataset → https://goo.gle/3GKsUSM \nThe Illustrated Transformer → https://goo.gle/452N0BP \nAll the Transformer Math You Need to Know → https://goo.gle/4m0iFKe\n \nJAX docs → https://goo.gle/452mUyL \nJAX AI Stack →  https://goo.gle/3GMHPvH \nColab Notebooks → https://goo.gle/4m7JZpR \nTips for using TPUs on Kaggle → https://goo.gle/4maY8CU \n\nSpeaker: Yufeng Guo\n\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/io25-keynote-sessions\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T03:05:44Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Workshop;",
+        "ct:Stack - AI;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "N4GgGBKnHe4": {
       "video_id": "N4GgGBKnHe4",
@@ -717,7 +988,16 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Join us to explore how AI is enabling scientists to tackle complex challenges and accelerate scientific breakthroughs. Discover the practical applications of AI for science such as accelerated data analysis in genomics, supercharging drug discovery pipelines, and transforming patient care in medicine.\n\nResources: \nAMIE gains vision: A research AI agent for multimodal diagnostic dialogue → https://goo.gle/4dhydpd \nIntroducing TxGemma: Open models to improve therapeutics development → https://goo.gle/43hK9Tj \nAlphaFold Sever, powered by AlphaFold 3 → https://goo.gle/4j03s9l \n\nSpeakers: Anima Anandkumar, James Manyika, Joëlle Barral, Pushmeet Kohli\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T22:22:57Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Dialogues;",
+        "ct:Stack - AI;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "O0UjId1VoRU": {
       "video_id": "O0UjId1VoRU",
@@ -771,7 +1051,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Discover how Google TV is making it easier for you to engage with our growing user base. Learn about the value in building for Google TV, how to easily promote your content across multiple access points using the Video Discovery API, and several best practices for developing excellent TV apps. We’ll review tips for optimizing memory, leveraging the latest enhancements in Compose, preparing for Android 16 for TV, and more. \n\nResources: \nEnroll for the Video Discovery API  → https://goo.gle/4k4C0Z4 \nSoundCloud's Compose journey → https://goo.gle/4363JSe \nFocus management codelab  → https://goo.gle/3GOdPQb \nTV memory optimization guide  → https://goo.gle/42O3HQ2 \nIn-App Ratings and Reviews for TV → https://goo.gle/4dm9Ia9 \nPicture Profiles Guide → https://goo.gle/4kk2q9p \n\nSpeakers: Shobana Radhakrishnan, Paul Lammertsma\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android, Accessibility, Ads, AI/Machine Learning, Design, Mobile, Smart Home",
+      "published_at": "2025-05-22T03:32:57Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "POUqfDBtRbg": {
       "video_id": "POUqfDBtRbg",
@@ -780,7 +1069,15 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn about the latest tools and updates on Google Play, all designed to help you grow your business.\n\nRead the blog →  https://goo.gle/play-io25\nFeatures to power your growth on Google Play → https://goo.gle/40HSSLY\nTechnical tools to help with trust and safety, monetization, and more on Google Play → https://goo.gle/3GiPy1o\nNext generation of gameplay powered by PGS → https://goo.gle/44k2sYm\n\nSpeakers: Hareesh Pottamsetty, Mekka Okereke, Jiahui Liu\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all the Google Play sessions from Google I/O 2025 → https://goo.gle/io25-google-play \nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Google Play, Android",
+      "published_at": "2025-05-22T15:45:36Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Android PA Keynote;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "ROFC-dQ421A": {
       "video_id": "ROFC-dQ421A",
@@ -789,7 +1086,15 @@
       "channel": "Google Cloud Tech",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Maximize the efficiency of your ML workloads on Google Cloud. This session delivers strategies for in-depth diagnostics on TPUs and GPUs. Learn to analyze critical metrics and achieve performance through practical diagnostic techniques.\n\nSpeakers: Rajesh Anantharaman, Niranjan Hira\n\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T03:25:37Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "R_gqv8PwM78": {
       "video_id": "R_gqv8PwM78",
@@ -798,7 +1103,15 @@
       "channel": "Firebase",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Discover how Firebase is evolving to help you build extraordinary apps that run everywhere — mobile, web, and multi-platform — with a focus on creating agentic experiences that amplify your capabilities and streamline your workflow. Find out about upcoming features and our commitment to fostering a thriving developer community. Whether you're a seasoned Firebase user or just getting started, this session will provide valuable insights and inspiration for your next project.\n\nSpeakers: Seba Gnagnarella, Aja Hammerly\n\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Firebase → https://goo.gle/Firebase\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Firebase",
+      "published_at": "2025-05-22T15:26:37Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Cloud PA Keynote;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "SSe1VmVrtw0": {
       "video_id": "SSe1VmVrtw0",
@@ -826,7 +1139,18 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn how Gemini is reshaping knowledge and productivity, building with AI, revolutionizing search, and more. Google leadership will discuss the latest AI developments and the exciting possibilities for the future.\n\nResources: \nGoogle Labs, the home for AI experiments at Google → https://goo.gle/4jTBGwA \n\nSpeakers: Elizabeth Reid, Koray Kavukcuoglu, Logan Kilpatrick, Josh Woodward\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T21:35:42Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Dialogues;",
+        "ct:Stack - AI;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "T41OD37tI54": {
       "video_id": "T41OD37tI54",
@@ -835,7 +1159,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Discover the latest Play features designed to help grow your business, and learn best practices for better acquisition and eamonetization. You'll also learn about the latest reporting tools that can help you measure your ROI more effectively through comprehensive insights — and how to use those insights to improve performance.\n\nResources: \nThe Hindu case study → https://goo.gle/4jQsCbQ \nMonetize with Google Play Commerce → https://goo.gle/42RxO9p \nGoogle Play’s billing system → https://goo.gle/4dgvMDm \nCodelab → https://goo.gle/3SeDu7d\n$5k price limit increase → https://goo.gle/44PJr1W\n\nSpeakers: Neethi Thomas, Rejane Franca\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all the Google Play sessions from Google I/O 2025 → https://goo.gle/io25-google-play \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android, Google Play",
+      "published_at": "2025-05-22T03:37:24Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "TUtKGTeFWjQ": {
       "video_id": "TUtKGTeFWjQ",
@@ -878,7 +1211,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn about the new capabilities of Gemini 2.0 and Imagen 3 through Vertex AI in Firebase for multimodal text and image generation. Discover how to create more dynamic and personalized app experiences, and make your app more successful by increasing user engagement. We’ll also review how some Android apps are already successfully using these tools in production.\n\nResources: \nGet started with the Gemini API using the Vertex AI in Firebase SDKs  → https://goo.gle/4madKq7    \nGenerate images using Imagen → https://goo.gle/438tn94 \nBidirectional streaming using the Gemini Live API → https://goo.gle/4jOfjsc \nAI on Android →  https://goo.gle/3ZcPtWy \nGemini Nano on Android → https://goo.gle/3GWgabQ\nGoogle AI samples on GitHub → https://goo.gle/4m7tz0Q \n\nSpeakers: Thomas Ezan, Miguel Ramos\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all the Google Play sessions from Google I/O 2025 → https://goo.gle/io25-google-play \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android, Google Play",
+      "published_at": "2025-05-22T03:33:36Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "UcXWY057YuQ": {
       "video_id": "UcXWY057YuQ",
@@ -887,7 +1229,15 @@
       "channel": "Chrome for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Join us to explore the latest advancements in web animation to help developers create richer, more dynamic, and performant web experiences. We'll cover new and upcoming features, including @starting-style, enhancements to View Transitions, the ability to animate the details element, and improved DevTools support.\n\nResources: \nTransitioning discrete properties → http://goo.gle/top-layer-transitions \nEntry and Exit Animations → https://goo.gle/entry-exit-animations \nAnimate to Height → http://goo.gle/animate-to-auto \nInterop 2025 → http://goo.gle/interop-2025 \nMore options for styling → http://goo.gle/styling-details \nScroll-driven Animations → https://goo.gle/43doYBD \nSmooth transitions with the View Transition API → http://goo.gle/view-transitions \nReact Labs: View Transitions, Activity, and more → http://goo.gle/react-view-transitions \nCSS attr() gets an upgrade → http://goo.gle/attr \n\nSpeaker: Bramus Van Damme\n\nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Web",
+      "published_at": "2025-05-22T03:08:35Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Web;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "Uh-7YX8tkxI": {
       "video_id": "Uh-7YX8tkxI",
@@ -896,7 +1246,18 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Join Demis Hassabis, co-founder and CEO of Google DeepMind, Sergey Brin, Co-Founder, Google, and Alex Kantrowitz, Host of the Big Technology Podcast, for a visionary conversation about the future of AI and its impact on our world. This marquee session offers a unique opportunity to hear directly from one of the most influential leaders in the field of AI.\n\nSpeakers: Demis Hassabis, Alex Kantrowitz\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T15:37:41Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Dialogues;",
+        "ct:Stack - AI;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "V8WPpDx8PWg": {
       "video_id": "V8WPpDx8PWg",
@@ -923,7 +1284,19 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Join Primordial Soup Founder Darren Aronofsky and Google DeepMind CEO and Co-Founder Demis Hassabis for a conversation about their newly announced collaboration and how artificial intelligence is expanding creative frontiers for storytellers. Later in the discussion, filmmaker Eliza McNitt will share her experience directing Ancestra, the first film produced through this partnership.\n\nSpeakers: Darren Aronofsky, Eliza McNitt, Mira Lane, Demis Hassabis\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-23T22:39:22Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Dialogues;",
+        "ct:Stack - AI;",
+        "Type: DevByte;",
+        "ct:Event - AI PA Keynote;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "VTCIStB6y8s": {
       "video_id": "VTCIStB6y8s",
@@ -932,7 +1305,19 @@
       "channel": "Chrome for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Prepare to be dazzled by a symphony of fluidity, dynamism, and expressive power as we unveil the next generation of web UI. It’s a world where user experiences transcend the ordinary and developers become true visual orchestrators. Discover how you can turn 7,000 lines of JavaScript into a mere 7 lines of declarative HTML and CSS, unlocking unprecedented levels of efficiency and elegance.\n\nResources: \nPopover API → https://goo.gle/4dbPCiP \nAnchor Positioning → https://goo.gle/43i8LMJ \nAnchor Tool → https://goo.gle/42QgXUf \nCommand Invokers → https://goo.gle/3EZRQoV \nCustomizable Select Menus (RFC) → https://goo.gle/43d8REg \nCSS Carousels → https://goo.gle/43aleB1CSS \nCarousel Gallery → https://goo.gle/4jNKpjRCSS \nCarousel configurator → https://goo.gle/4k6GChT \nCSS scroll-state() → https://goo.gle/4meuMUg \nHovercards (Interest Invokers Explainer) → https://goo.gle/3EN8Sql \n\nSpeaker: Una Kravets\n\nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Web",
+      "published_at": "2025-05-22T15:33:03Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Web PA Keynote;",
+        "ct:Stack - Web;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "VTYx7Ex-0bA": {
       "video_id": "VTYx7Ex-0bA",
@@ -984,7 +1369,15 @@
       "channel": "Google Maps Platform",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn to make mobile experiences better with photorealistic 3D maps. Built for modern Android development, this Kotlin-first 3D maps SDK provides Google’s rich 3D imagery and integrated places data, performant rendering at scale, and highly customizable visualization tools. We’ll dive into the Android-specific implementation of 3D maps using Kotlin, and demonstrate how the cross-platform capabilities of 3D maps create seamless, engaging 3D experiences across mobile and web.\n\nResources: \nGoogle Maps 3D Android API → https://goo.gle/android-maps3d-api\nGoogle Maps 3D Android Samples → https://goo.gle/android-maps3d-samples \nGoogle Maps 3D Android Documentation →  https://goo.gle/android-maps3d-docs \n\nSpeaker: Dale Hawkins\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \n\nEvent: Google I/O 2025\n\nProducts Mentioned: Location/Maps",
+      "published_at": "2025-05-22T03:30:32Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "Wzpz_y_EFPs": {
       "video_id": "Wzpz_y_EFPs",
@@ -993,7 +1386,15 @@
       "channel": "Google Cloud Tech",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "As a cloud security professional, it’s your job to protect valuable cloud data. Get ready to prevent breaches, reduce insider risk, and meet compliance requirements. Learn how Security Command Center can help you discover cloud data assets automatically, pinpoint at-risk datasets, define and implement the right posture controls to protect data and manage access, and alert your team to real-time data security violations.\n\nResources:\nGet a complimentary Cloud Security Risk Assessment → https://goo.gle/430lbsB\nLearn more about Protecting Google Cloud with Security Command Center → https://goo.gle/43tueSZ\n\nSpeaker: Harsha Alapati \n\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Cloud",
+      "published_at": "2025-05-22T03:22:38Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "XEhd9a9YhSk": {
       "video_id": "XEhd9a9YhSk",
@@ -1002,7 +1403,15 @@
       "channel": "Firebase",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn how Firebase App Hosting simplifies deploying and managing Next.js and Angular web apps on Google Cloud infrastructure. With seamless GitHub integration, global scalability, and built-in observability, Firebase App Hosting is designed for production-ready deployments. Watch live demos and explore streamlined workflows to elevate your own web app deployment process.\n\nResources: \nFirebase App Hosting → https://goo.gle/3GN2HTz \nApp Hosting vs. the original Hosting: Which one do I use? → https://goo.gle/4jXJBcb \nFirebase's UserVoice → https://goo.gle/4jL4GGx \n\nSpeakers: Julia Reid, Thomas Bouldin\n\nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Firebase → https://goo.gle/Firebase\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning, Angular, Firebase",
+      "published_at": "2025-05-22T03:07:16Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Web;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "YCNDg9j0p5o": {
       "video_id": "YCNDg9j0p5o",
@@ -1011,7 +1420,15 @@
       "channel": "Google Cloud Tech",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Unlock the power of AI and automation with the new and enhanced capabilities of Google Workspace. We’ll explore the newest AI and workflow functionality, and demonstrate how you can integrate easily with Workspace to improve efficiency, enhance collaboration, and get better results for your organization.\n\nSpeaker: Farhaz Karmali\n\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T15:25:47Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Cloud PA Keynote;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "YN04nNsg_L4": {
       "video_id": "YN04nNsg_L4",
@@ -1020,7 +1437,16 @@
       "channel": "Chrome for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Unleash the power of AI in your web applications! Performant AI/ML in the browser is no longer a distant dream. With libraries like MediaPipe, LiteRT, and Transformers.js, and cutting-edge Web APIs like WebAssembly and WebGPU, you can build incredible AI-driven experiences. In this session, you'll discover real-world case studies and gain actionable insights to implement these technologies in your own projects. Get ready to transform your websites with the magic of client-side AI.\n\nResources: \nAI for every developer → https://goo.gle/4m9wyFX \nPractical built-in AI with Gemini Nano in Chrome → https://goo.gle/4diT3V6\nBILIBILI taps MediaPipe's on-device web AI solution to improve video stream UX and boost session duration by +30% → https://goo.gle/4dbpbKg \nHow Tokopedia reduced operational costs by improving their seller web app using Machine Learning → https://goo.gle/437UjWb \nAI on Chrome → https://goo.gle/3Z8poYK \n\nSpeakers: Yuriko Hirota, Swetha Gopalakrishnan\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Web, AI/Machine Learning",
+      "published_at": "2025-05-22T03:10:21Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Web;",
+        "ct:Stack - AI;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "YYMt7Ddzz6Y": {
       "video_id": "YYMt7Ddzz6Y",
@@ -1029,7 +1455,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Discover the future of immersive experiences with Android XR. This session unveils the latest updates to the Android XR SDK Beta, launching at I/O, including enhancements to Jetpack Compose for XR and cutting-edge AI capabilities. Learn how your existing investments in large screen development can be leveraged to easily expand your reach into the exciting world of Android XR.\n\nResources: \nAdaptive Android development makes your app shine across devices  → https://goo.gle/3FhZmM8\nBuilding differentiated apps for Android XR with 3D content → https://goo.gle/4j25x4s\nUpdates to the Android XR SDK: Introducing Developer Preview 2 → https://goo.gle/io25-xr-blog \nDevelope with the Android XR SDK → https://goo.gle/xr-dev \nFirebase AI Logic client SDKs → https://goo.gle/vertex-ai-firebase \n\nSpeakers: Cecilia Abadie, Jan Kleinert\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Android & Play sessions from Google I/O 2025 → https://goo.gle/io25-androidplay-yt \nCheck out all sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning, Android",
+      "published_at": "2025-05-22T03:18:44Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - AI;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "YuMdsHIXatY": {
       "video_id": "YuMdsHIXatY",
@@ -1095,7 +1530,15 @@
       "channel": "Google Cloud Tech",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "This session focuses on connecting AppSheet to custom Vertex agents via Apps Script, detailing API interactions and data flow and how to automate complex tasks. We'll demonstrate how Gmail events can trigger these integrations, delivering agent-powered responses directly within AppSheet applications. We'll also explore the construction of robust, event-driven workflows, highlighting how to automate complex tasks and extend AppSheet's capabilities with custom AI functionality.\n\nResources:\nStart building your AI agent today with Vertex AI → https://goo.gle/4jX2TOL\nAgent Development Kit (ADK) → https://goo.gle/4meEMgh\n\nSpeakers: Chitra Venkatesh, Ces Cortez\n\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Cloud, AI/Machine Learning",
+      "published_at": "2025-05-22T03:25:08Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "_Op9QfXDBuM": {
       "video_id": "_Op9QfXDBuM",
@@ -1128,10 +1571,12 @@
       "video_id": "_fb97pel80k",
       "title": "",
       "duration_s": null,
-      "channel": null,
+      "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "details_at": "2026-09-06T13:24:12+00:00",
+      "description": ""
     },
     "_iuXykdlTkk": {
       "video_id": "_iuXykdlTkk",
@@ -1211,7 +1656,19 @@
       "channel": "Chrome for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Building on the rapid evolution of web features, we'll explore the speed at which features are progressing, from initial launch in Chrome to Baseline newly available, how developers can keep track of this, and the relationship to Interop 2025. Discover the tools for tracking these advancements and understand their connection to Interop 2025 to make sure your projects are future-proof.\n\nResources: \nBaseline → https://goo.gle/4iXLnJd \nWhat's new in web → https://goo.gle/3GLWZl6 \nBaseline Tooling GitHub → https://goo.gle/3GK2Ozo \n\nSpeaker: Rachel Andrew\n\nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/io25-keynote-sessions\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Web",
+      "published_at": "2025-05-22T15:32:26Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Web PA Keynote;",
+        "ct:Stack - Web;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "bo3i0FzDUYo": {
       "video_id": "bo3i0FzDUYo",
@@ -1260,7 +1717,15 @@
       "channel": "Google Cloud Tech",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn how generative AI can enhance data workflows and analysis. We’ll demonstrate how to access and use gen AI models in BigQuery, including new features like open-source model support and structured output from Gemini. Accelerate your data analysis with the latest AI innovations available directly in BigQuery.\n\nResources:\nBigQuery migration incentives program → https://goo.gle/4k8MDu4\nData Analytics Roadmap Webinar → https://goo.gle/3S6QcET\n\nSpeaker: Jeff Nelson\n\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T03:26:24Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "ddBxvuH35tI": {
       "video_id": "ddBxvuH35tI",
@@ -1346,7 +1811,15 @@
       "channel": "Chrome for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Now is the best time to be a developer building for the web with Angular. Learn about the latest updates in Angular and how they’ll help you build the next generation of fast web applications with confidence.\n\nResources: \nAngular → https://goo.gle/4m9MCHU\nAI on Angular  → https://goo.gle/4jNLgRB \nAngular v20 release  →  https://goo.gle/angular-v20-release \n\nSpeakers: Devin Chasanoff, Mark Thompson\n\nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Angular",
+      "published_at": "2025-05-22T15:33:22Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Web PA Keynote;",
+        "ct:Stack - Web;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "erRPuV1EQ_c": {
       "video_id": "erRPuV1EQ_c",
@@ -1379,7 +1852,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn about highlights on the latest Android accessibility features and APIs for both users and developers. We'll discuss updates to products such as Talkback and Live Captions, share best practices for developing more accessible apps, and explore accessibility API changes in Android 16.\n\nResources: \nWhat’s new with TalkBack 16.0 → https://goo.gle/439c3SD\nannounceForAccessibility API documentation → https://goo.gle/3YG5DHY \n\nSpeakers: Casey Burkhardt, Julie Cattiau, Lisie Lillianfeld\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Accessibility, Android",
+      "published_at": "2025-05-22T03:28:43Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "fOXJR5qLq54": {
       "video_id": "fOXJR5qLq54",
@@ -1406,7 +1888,15 @@
       "channel": "Flutter",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn how to build a Flutter app that interacts with native APIs and uses platform-specific UI components, so that it feels and looks at home on Android and iOS.\n\nSpeaker: James Williams\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out out all the Flutter sessions from Google I/O 2025 → https://goo.gle/io25-flutter-yt \nCheck out all sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Flutter! → https://goo.gle/FlutterYT\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android, Flutter",
+      "published_at": "2025-05-22T03:32:51Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "fwLiTPtPHjw": {
       "video_id": "fwLiTPtPHjw",
@@ -1454,7 +1944,18 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "The Keras ecosystem offers many on-ramps to JAX. Use our classic and well-loved API patterns such as `model.fit(...)` to author and train models using JAX. Want to start with a pre-trained model? Try KerasHub, our catalog of 100+ model architectures with support for thousands of HuggingFace checkpoints. Fine-tune and optimize them using LoRA and qLoRA with JAX (or your choice of backend). We’ll also introduce Keras Recommenders, the latest addition to the Keras ecosystem.\n\nResources: \nKeras → https://goo.gle/4d9t3LL \nKeras Hub → https://goo.gle/4iYQEQp \nKeras Recommenders → https://goo.gle/4mr8YoD \nKeras on Kaggle → https://goo.gle/44P06CT \nKeras on Hugging Face → https://goo.gle/42RLuBd \nKeras developer guides → https://goo.gle/437YNMJ \n\nSpeakers: Divyashree Sreepathihalli , Monica Song, Fabien Hertschuh\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T03:22:43Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - AI;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "gHHjDRDNUNU": {
       "video_id": "gHHjDRDNUNU",
@@ -1463,7 +1964,18 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn about the latest advancements in our Gemini models, including their built-in reasoning capabilities. Harness powerful tools for dynamic application development, and explore agentic AI solutions ideas and how Gemini can help you to move forward. Gain essential guidance, best practices, and insights for developing sophisticated, high-performing agents using the Gemini API effectively.\n\nSpeakers: Luciano Martins, Shrestha Basu Mallick\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T15:36:23Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - AI PA Keynote;",
+        "ct:Stack - AI;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "gP5Y-ct6QXI": {
       "video_id": "gP5Y-ct6QXI",
@@ -1472,7 +1984,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "This talk demystifies Kotlin Multiplatform (KMP) project configuration for sharing business logic. Building mobile apps can be complex, and KMP can add another layer of complexity to an already challenging Gradle build setup. We'll dive deep into distributing shared code to iOS developers, and provide tips for making your KMP builds understandable, shareable, and fast.\n\nResources: \nGet Started With Kotlin Multiplatform → https://goo.gle/4k9Zcpl\nMigrate existing apps to Room KMP→ https://goo.gle/4mzgoGo\nKotlin Multiplatform Overview → https://goo.gle/3GM5o89 \n\nSpeakers: Ben Trengrove, Dustin Lam\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nChapters:\n0:00 - Intro \n0:15 - What is KMP\n1:52 - KMP for Jetpack\n11:13 - Publishing and exporting\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android",
+      "published_at": "2025-05-22T03:32:11Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "gstgT0WRoiE": {
       "video_id": "gstgT0WRoiE",
@@ -1481,7 +2002,16 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Explore practical uses of the Gemini API for developers, like how to build innovative applications with Gemini's features. We'll cover image understanding for tasks like object recognition and scene description; creating multimodal interactions that combine voice, text, and images for more natural user experiences; and how to automate complex workflows through function calling. We’ll also share how to use the long context window to enable complex reasoning, and multi-step problem solving.\n\nResources: \nGemini API → https://ai.google.dev/gemini-api\nGemini API Cookbook on GitHub → https://goo.gle/cookbook\nGenList demo → https://goo.gle/genlist-demo\nLive API - Web Console → https://goo.gle/3SvUZji \nGemini 2.0 - Multi-tool with the Multimodal Live API → https://goo.gle/gemini-maps-plots\nGemini 2.0: Browser as a tool → https://goo.gle/gemini-browser-tool \n\nSpeaker: Mark McDonald\n\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/io25-keynote-sessions\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T03:06:11Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Workshop;",
+        "ct:Stack - AI;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "ihR8hL_Hmec": {
       "video_id": "ihR8hL_Hmec",
@@ -1490,7 +2020,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Android 16 introduces Live Updates, a new class of notification templates that helps users keep track of user-initiated journeys for things like rideshares, deliveries, and navigation. Live Updates lets developers streamline their development process — and brings end users consistent, delightful, and enhanced experiences on their mobile devices.\n\nResources: \nProgress-centric notifications → https://goo.gle/live-updates \nSample → https://goo.gle/live-updates-sample   \n\nSpeakers: Aaron Labiaga, Herb Rhedrick\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android",
+      "published_at": "2025-05-22T03:30:28Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "j0k8qizH0KY": {
       "video_id": "j0k8qizH0KY",
@@ -1517,7 +2056,15 @@
       "channel": "Chrome for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Web browsers are now central to user authentication and identity verification. Chrome supports emerging web standards that make sign-up and sign-in simpler for users, whether they use passkeys, passwords, or federation. This session explores those approaches, including new methods for verifying identity attributes using government-issued documents with the Digital Credentials API. Join us to discover the latest tools and best practices to enhance sign-up and sign-in on your website.\n\nResources: \nReshaping user authentication and identity verification (blog) → https://goo.gle/io25-web-identity  \n\nSpeakers: Chirag Desai, Ashima Arora, Eiji Kitamura\n\nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Web",
+      "published_at": "2025-05-22T03:12:21Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Web;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "jn3iypY-cN4": {
       "video_id": "jn3iypY-cN4",
@@ -1543,7 +2090,18 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Hear from Dmitri Dolgov, Co-CEO of Waymo — a driving force in the autonomous vehicle industry dedicated to building the world's most trusted driver. Waymo’s vehicles are the most advanced application of AI in the physical world, now serving over 250K weekly rides. As a pioneer in this transformative technology, Dmitri will take us on a ride through the history of autonomous driving, the critical role of AI in this tech’s development and deployment, and the exciting possibilities that lie ahead.\n\nResources: \nWaymo Safety Impact → https://goo.gle/4kj3Vog \nWaymo AI Research → https://goo.gle/4m3Kx02\n\nSpeakers: Aditi Roy, Dmitri Dolgov\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-23T19:43:50Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Dialogues;",
+        "ct:Stack - AI;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "jrr8gRI1GaY": {
       "video_id": "jrr8gRI1GaY",
@@ -1552,7 +2110,15 @@
       "channel": "Google Cloud Tech",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Everyone has parts of the software development process they find tedious or toilsome. AI agents can reduce that toil and boost your productivity by assisting you intelligently throughout the entire SDLC. We’ll go through an example with our unique, agent-driven approach to building and querying code documentation, to demonstrate how AI agents can accelerate your development and allow you to focus on what you truly enjoy: coding.\n\nResources:\nDiscover how widespread, long-term adoption of AI coding assistants in enterprises is transforming developer productivity and driving innovation in the global IDC research report → https://goo.gle/4k2qePe\nSecure generative AI coding assistance and agents to help you with tasks across the Software Development Lifecycle → https://goo.gle/4dnAlf9\nTry Gemini Code Assist for individuals powered by Gemini 25, at no cost → https://goo.gle/3FjLHnz\n\nSpeakers: Cameron Balahan, Fergus Hurley, Jay Kornder\n\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Cloud",
+      "published_at": "2025-05-22T03:18:58Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "juy9nrcTBck": {
       "video_id": "juy9nrcTBck",
@@ -1561,7 +2127,18 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "JAX is a Python library for high-performance machine learning research. It combines the familiarity of NumPy with hardware acceleration and composable function transformations. Google researchers have built and trained models like Gemini and Gemma on JAX, and it’s also used by researchers for a wide range of advanced applications. This talk will provide an introduction to JAX and the Flax neural network library, showcasing recent features and how to get started.\n\nResources: \nJax →  https://goo.gle/4jYJ0a0 \nJax AI Stack → https://goo.gle/3GMHPvH \n\nSpeakers: Yufeng Guo, Robert Dyro\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T03:10:54Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - AI;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "kCXQce1dtNE": {
       "video_id": "kCXQce1dtNE",
@@ -1589,7 +2166,16 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "There’s a lot to love about Go 1.24, including support for post-quantum cryptography, full support for generic type aliases, and several performance improvements to the Go runtime that significantly decrease CPU overhead for most applications. Learn what’s new, what’s ahead, and how you can use Go to build scalable, secure, and reliable applications — including for gen AI workloads.\n\nResources: \nGo → https://goo.gle/3RY4fwv \nGo 1.24 is released →  https://goo.gle/43arfh6 \nGo 1.23 is released → https://goo.gle/454powB \nBuilding LLM-powered applications in Go → https://goo.gle/42QixWb \n\nSpeakers: Cameron Balahan, Marc Dougherty\n\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Go",
+      "published_at": "2025-05-22T15:40:05Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Cloud PA Keynote;",
+        "ct:Stack - Cloud;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "l4lneZYtjQg": {
       "video_id": "l4lneZYtjQg",
@@ -1628,7 +2214,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn to build on-device gen AI with Gemini Nano, with a priority on user privacy and offline functionality. We'll talk about how to think through on-device use-cases for your app, and introduce a new set of generative AI APIs that harness the power of Gemini Nano. These new APIs make it easy to implement use cases to summarize, proofread, and rewrite text, as well as to generate image descriptions.\n\nResources: \nOverview of the ML Kit GenAI APIs → https://goo.gle/mlkit-genai    \n\nSpeakers: Caren Chang, Taj Darra, Sa-ryong Kang\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all the Google Play sessions from Google I/O 2025 → https://goo.gle/io25-google-play \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning, Android, Google Play, Mobile",
+      "published_at": "2025-05-22T03:34:19Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "nC418kwKyLM": {
       "video_id": "nC418kwKyLM",
@@ -1681,7 +2276,15 @@
       "channel": "Firebase",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn how to ground your AI with relevant data, with RAG from Firebase Data Connect. Firebase Data Connect brings rapid development and intelligent context from your Cloud SQL database to your generative AI experiences. Data Connect makes it easy to connect your app, data, and AI all together, and seamlessly integrates Vertex and Cloud SQL to make RAG easy and ready for AI agents.\n\nSpeakers: Tyler Crowe, Michael Bleigh\n\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out out all the Firebase sessions from Google I/O 2025→ https://goo.gle/io25-firebase-yt \nCheck out all sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Firebase → https://goo.gle/Firebase\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Firebase",
+      "published_at": "2025-05-22T03:20:51Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "nq55ERaUQpw": {
       "video_id": "nq55ERaUQpw",
@@ -1713,7 +2316,21 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Learn about the latest updates to our developer products and platforms.\n\n00:00:00 Introduction\n00:01:19 Building with Gemini\n00:15:17 Android\n00:30:26 Web\n00:48:48 Firebase Studio\n00:56:25 Gemma\n01:07:37 Closing \n\nTo watch this keynote interpreted in American Sign Language (ASL), please click here: \nhttps://youtube.com/watch?v=bcVhGOKF628\n\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO \n\nEvent: Google I/O 2025",
+      "published_at": "2025-05-23T23:18:03Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Developer Keynote;",
+        "ct:Stack - AI;",
+        "ct:Stack - Android;",
+        "ct:Stack - Cloud;",
+        "ct:Stack - Web;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "o2wkYzu5u50": {
       "video_id": "o2wkYzu5u50",
@@ -1722,7 +2339,19 @@
       "channel": "Chrome for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Discover the cutting edge of web development and learn where Chrome is taking the browser in 2025. Learn how advancements in performance, UI, and identity are shaping the future of the web, and how Baseline and Chrome's powerful DevTools enhancements are making web development easier. Get ready to unlock the potential of new built-in AI APIs and explore the web's readiness for intelligent experiences.\n\nResources: \nChrome at Google I/O 2025 → https://goo.gle/3SrBisZ  \n\nSpeaker: Paul Kinlan\n\nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Web",
+      "published_at": "2025-05-22T15:30:48Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Stack - Web;",
+        "ct:Event - Web PA Keynote;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "o7Bv4r08FBM": {
       "video_id": "o7Bv4r08FBM",
@@ -1731,7 +2360,16 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "The Gemma family of open models keeps evolving, offering developers powerful tools for building a wide range of AI applications. We'll provide an overview of the latest Gemma models, highlighting new advancements in performance and capabilities. You'll also learn about the growing Gemma ecosystem, including tools for building products with it, community resources, and how to evaluate the best models fit for your project needs.\n\nResources: \nGemma 3 → https://goo.gle/gemma \nWelcome to the Gemmaverse → https://goo.gle/3RXr83f \nWelcome to the Gemma Cookbook → https://goo.gle/3Z9JmCs \n\nSpeakers: Omar Sanseviero, Gus Martins\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T15:36:56Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - AI PA Keynote;",
+        "ct:Stack - AI;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "o8NiE3XMPrM": {
       "video_id": "o8NiE3XMPrM",
@@ -1740,7 +2378,23 @@
       "channel": "Google",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "It's time to I/O! Tune in to learn the latest news, announcements, and AI updates from Google. \n\n00:00:00 Opening\n00:02:17 Introduction\n00:19:29 Google DeepMind + Gemini for Developers\n00:46:04 Search\n01:11:06 Gemini \n01:24:02 Generative Media\n01:37:37 Android XR\n01:51:09 Closing\n\nTo watch this keynote interpreted in American Sign Language (ASL), please click here: \nhttps://youtube.com/watch?v=0BLsd7HfU9w\n\nFor all things I/O, visit https://goo.gle/4jlp80v\n\n#GoogleIO\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "published_at": "2025-05-20T19:05:53Z",
+      "tags": [
+        "AI",
+        "Tech",
+        "AI News",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "AI Tools",
+        "Prompt Engineering",
+        "Technology",
+        "Generative AI",
+        "Deep Learning",
+        "AI Explained"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "oUtiZbrehrw": {
       "video_id": "oUtiZbrehrw",
@@ -1855,7 +2509,15 @@
       "channel": "Firebase",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Explore the power of Firebase for building AI-driven applications. We'll demonstrate how to securely integrate Google's cutting-edge AI models, Gemini and Imagen, directly and securely into your mobile apps with the Vertex AI in Firebase SDK. For backend integrations and complex data access, we'll look at Genkit. Lastly, we'll cover best practices for deploying and monitoring your AI-powered applications on Firebase and Google Cloud, leveraging App Check and AI Monitoring.\n\nSpeaker: Peter Friese\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out out all the Firebase sessions from Google I/O 2025→ https://goo.gle/io25-firebase-yt \nCheck out all sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Firebase → https://goo.gle/Firebase\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning, Firebase",
+      "published_at": "2025-05-22T03:27:42Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - AI;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "sNwaU0w3NS8": {
       "video_id": "sNwaU0w3NS8",
@@ -1864,7 +2526,16 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Go behind the scenes with filmmakers pioneering the use of AI. Gain practical insights into the power and possibilities of next-generation tools in shaping modern storytelling. Learn how the creative process is evolving and explore how Google’s collaboration with filmmakers is informing the development of new technologies. Explore the possibilities when human ingenuity meets artificial intelligence.\n\nSpeakers: Mira Lane, Henry Daubrez, Dave Clark, Junie Lau\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T21:55:54Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Dialogues;",
+        "ct:Stack - AI;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "tMUxxCKXz4c": {
       "video_id": "tMUxxCKXz4c",
@@ -1873,7 +2544,15 @@
       "channel": "Google Cloud Tech",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Supercharge your applications with Google's generative AI models for media creation, now on Vertex AI. We’ll explore techniques to unlock the power of Imagen for image generation, Veo for video generation, Lyria for music generation, and Chirp for speech generation. Plus: Rapid, no-code prototyping using Media Studio in the Google Cloud Console, and automatic code generation with Python, JavaScript, and more. The Google Gen AI SDK can integrate it all into your existing projects.\n\nResources: \nImagen Image Generation →  https://goo.gle/imagen-generate-notebook \nImagen Image Editing →  https://goo.gle/imagen-edit-notebook \nVeo →  https://goo.gle/veo-notebook\nChirp →   https://goo.gle/chirp-t2s-notebook\nWhat’s next with generative AI at Google Cloud in under 9 minutes → https://goo.gle/4mie8mH\nLearn more about Generative AI on Google Cloud → https://goo.gle/4mqlggX\n\nSpeaker: Khanh LeViet\n\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Cloud",
+      "published_at": "2025-05-22T03:23:09Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "thfNTC9x_Ys": {
       "video_id": "thfNTC9x_Ys",
@@ -1921,7 +2600,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Preview Gemini in-car, with seamless navigation and personalized entertainment. Build next-gen in-car app experiences for Android Auto, cars with Google built in, and Android Automotive OS, and check out new tools and updates for streamlined development and distribution. Find out how to create immersive game and video experiences, get updates on car app quality tiers, and see our vision for Car App Library. Learn about the Car Ready Mobile Apps Program to deploy rapidly via Google Play.\n\nSpeakers: Ben Sagmoe, Noam Gefen, Sole Alborno\n\nBlog Post: \nWhat’s new in cars - https://android-developers.googleblog.com/2025/05/android-for-cars-google-io-2025.html \nGemini in cars - https://blog.google/products/android/gemini-for-cars/ \n\nUseful Links: \nCar app quality guidelines: https://developer.android.com/docs/quality-guidelines/car-app-quality\nDesign for Driving:  https://developers.google.com/cars/design\nCar Ready Mobile Apps Program: https://developer.android.com/training/cars/car-ready-mobile-apps \n\nSign up for Early Access Programs:\nMedia and Comms apps on Car App Library: https://goo.gle/Media-Comms-EAP\nGames Early Access Interest: https://goo.gle/Games-EAP\nApp categories: https://goo.gle/Categories-EAP\nAudio While Driving for Video apps Early Access Interest: https://goo.gle/Audio-while-driving\nAAOS on Pixel Tablet: https://goo.gle/Tablet-AAOS\nFirebase test Lab: https://goo.gle/Firebase-for-cars\n\nWatch more:\nWhat's new in Android → https://goo.gle/3YYP36e\nFinding the perfect Gemini fit on Android → https://goo.gle/4mhfttK\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all the Google Play sessions from Google I/O 2025 → https://goo.gle/io25-google-play \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android",
+      "published_at": "2025-05-22T03:37:57Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "uriDDQZWXXw": {
       "video_id": "uriDDQZWXXw",
@@ -1948,7 +2636,16 @@
       "channel": "Android Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Discover how you can use the newly enhanced gamer profile, and the latest platform features on Play Games Services (PGS), to increase your game's visibility, engagement, and business outcomes with Play. We’ll also share how to get ahead of the PGS V1 sunset with easy-to-follow migration tips and advice.\n\nRead the blog → https://goo.gle/44k2sYm \n\nSpeakers: Hemant Pawar, Ida Assayesh\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all the Google Play sessions from Google I/O 2025 → https://goo.gle/io25-google-play \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Android, Google Play, Mobile",
+      "published_at": "2025-05-22T03:35:14Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "v0RQiNJ9nhw": {
       "video_id": "v0RQiNJ9nhw",
@@ -1976,7 +2673,18 @@
       "channel": "Flutter",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Check out the latest release of Dart and Flutter! You'll learn about how Dart and Flutter are evolving to meet the needs of modern app developers, plus learn about updates to the Flutter framework and new ways to build high-quality, performant apps across platforms.\n\nSpeakers: Craig Labenz, Michael Thomsen\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt \nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Flutter! → https://goo.gle/FlutterYT\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Flutter",
+      "published_at": "2025-05-22T15:27:31Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Cloud PA Keynote;",
+        "ct:Stack - AI;",
+        "ct:Stack - Android;",
+        "ct:Stack - Cloud;",
+        "ct:Stack - Web;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "vCHU6eUFxdk": {
       "video_id": "vCHU6eUFxdk",
@@ -2047,7 +2755,15 @@
       "channel": "Google Cloud Tech",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Discover the latest features from across the Google Cloud platform, and how they come together to solve developer problems.\n\nResources: \nAI Business Trends for 2025 → https://goo.gle/434v7Bu\n\nSpeakers: Richard Seroter, Fran Hinkelmann\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out the web session track from Google I/O 2025 → https://goo.gle/io25-web-yt \nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/io25-keynote-sessions\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Cloud",
+      "published_at": "2025-05-22T15:41:23Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Cloud PA Keynote;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "wz3kQQubPkc": {
       "video_id": "wz3kQQubPkc",
@@ -2056,7 +2772,15 @@
       "channel": "Google Cloud Tech",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Go beyond the standard Google Workspace experience. Learn how to extend and integrate with the Workspace platform, and explore how Qodea and others have leveraged the Workspace platform to create custom solutions that have boosted efficiencies, driven productivity, and reduced user workloads.\n\nSpeakers: Chanel Greco, Serge Lachapelle\n\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Cloud",
+      "published_at": "2025-05-22T03:04:50Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "x2zvki_VlRE": {
       "video_id": "x2zvki_VlRE",
@@ -2065,7 +2789,15 @@
       "channel": "Firebase",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "The way we build software is fundamentally changing with AI-centric tools. This session covers how Project IDX helps you build and ship full-stack apps faster. Your codebase becomes context for Gemini, enabling powerful agentic capabilities in your editor. Generate and modify code or execute commands, all with natural language prompts. You’ll leave this session with strategies to ship better software, quicker.\n\nSpeakers: Kirupa Chinnathambi, Rody Davis\n\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out out all the Firebase sessions from Google I/O 2025→ https://goo.gle/io25-firebase-yt \nCheck out all sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Firebase → https://goo.gle/Firebase\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Cloud",
+      "published_at": "2025-05-22T03:20:13Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "xLmJJk1gbuE": {
       "video_id": "xLmJJk1gbuE",
@@ -2074,7 +2806,18 @@
       "channel": "Google for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Discover a new app development paradigm where users interact naturally with apps, blurring the lines between human language and digital action. We’ll demo newly released libraries, which allow local agents to drive applications and devices by combining on-device LLMs with native audio input, retrieval augmented generation, and function calling. Learn how to accelerate on CPU, GPU, or NPU, and a tutorial on how to test ML workflows on real devices via the cloud using Google AI Edge Portal. The session will include real production features from our current 3P EAP partners.\n\nResources:\nFor more information → https://goo.gle/ai-edge\nLiteRT acceleration updates → https://goo.gle/3FnDGOr\nGPU Updates → https://goo.gle/3ScpzhS\nNPU EAP Signup → https://goo.gle/44NuNbo\nSample App → https://goo.gle/4mqk9O9\nAI Edge Portal → https://goo.gle/43F58k8\nAI Edge Portal EAP Signup → https://goo.gle/436hYaT\n\nSpeakers: Matthias Grundmann, Mark Sherwood, Mogan Shieh\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T03:23:26Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - AI;",
+        "Type: DevByte;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "xo271p-Fl_4": {
       "video_id": "xo271p-Fl_4",
@@ -2083,7 +2826,15 @@
       "channel": "Flutter",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "Multimodal AI is transforming how users interact with applications. Join us for an exploration of how to build secure, scalable, and intelligent multiplatform and multimodal AI apps using Flutter, Firebase, and Gemini. We'll deconstruct the architecture of a cutting-edge app, demonstrating how to seamlessly integrate voice, image, and text interactions into your web and mobile experiences using a single codebase. We'll also share how to create engaging user experiences powered by the latest advancements in AI, backed by Google Cloud.\n\nResources: \nAgentic App Manager code on GitHub → https://goo.gle/4mlijhD\n\nSpeakers: Khanh Nguyen, Andrew Peynado\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out out all the Flutter sessions from Google I/O 2025 → https://goo.gle/io25-flutter-yt \nCheck out all sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Flutter! → https://goo.gle/FlutterYT\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning, Flutter",
+      "published_at": "2025-05-22T03:26:37Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - AI;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "xr_zgAv0YoI": {
       "video_id": "xr_zgAv0YoI",
@@ -2092,7 +2843,19 @@
       "channel": "Chrome for Developers",
       "label": "I/O 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "description": "In a world where AI agents and humans coexist, what does the web of the future look like, and how could it work? What are agents, and how can Google’s latest client-side gen AI models help you perform agentic behaviors for real-world applications, to complete common tasks on your website faster? We’ll share a vision for an agentic internet capable of using local LLMs to perform actions on a user’s behalf through natural interfaces like text or voice, entirely in the JavaScript stack, along with the emerging world of hybrid Web AI, that embraces the benefits of Cloud and Web AI together with current generation devices.\n\nResources: \nWeb AI Agent Github → https://goo.gle/web-ai-agent \nWeb AI DJ Github → https://goo.gle/web-ai-dj    \nAI Model Proxy Cache Github → https://goo.gle/ai-model-proxy-cache   \nLearn More about Web AI → https://goo.gle/WebAIVideos  \nConnect with Jason →  https://goo.gle/jason-mayes  \n\nSpeaker: Jason Mayes\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2025-05-22T03:24:37Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - AI;"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "xzMx2khmGJ4": {
       "video_id": "xzMx2khmGJ4",

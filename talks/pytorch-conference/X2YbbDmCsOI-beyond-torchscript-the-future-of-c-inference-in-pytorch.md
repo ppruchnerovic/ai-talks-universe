@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Sherlock Huang"]
 channel: "PyTorch"
 duration_min: 27
-published_at: null
+published_at: 2025-11-04T03:43:40Z
 video_id: X2YbbDmCsOI
 url: https://www.youtube.com/watch?v=X2YbbDmCsOI
 youtube_url: https://www.youtube.com/watch?v=X2YbbDmCsOI
@@ -29,4 +29,18 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Beyond TorchScript: The Future of C++ Inference in PyTorch - Sherlock Huang, Meta
+
+TorchScript is the load bearing component for serving PyTorch models in a non-Python environment. It powers a wide range of ML applications, including mobile applications and hyper-scale recommendation systems. However, early design decisions in TorchScript made it difficult to incorporate innovations.
+
+Since the introduction of PyTorch 2.0, we have developed a new C++ inference workflow leveraging the new power components that improve the performance and deployability of ML models.
+
+In this talk, you'll discover the best practices and latest advancements in C++ inference. We'll cover:
+- Recommended workflows for C++ inference in different scenarios.
+- ExecuTorch Mobile: Stable for mobile and embedded env.
+- ExecuTorch Full: Coming soon for PC and server deployments.
+
+Migrating from TorchScript?
+If you're currently using TorchScript, we'll provide guidance on how to transition smoothly:
+- Replacing TorchScript Frontend: Discover torch.export, a modernized graph capturing system.
+- Upgrading from TorchScript Backend: Introducing the ExecuTorch Full Runtime, a high-performance C++ runtime that simplifies and accelerates PyTorch model deployment on PCs and servers.

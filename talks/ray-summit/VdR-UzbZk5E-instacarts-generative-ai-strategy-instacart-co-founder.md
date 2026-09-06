@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 16
-published_at: null
+published_at: 2024-10-17T23:37:31Z
 video_id: VdR-UzbZk5E
 url: https://www.youtube.com/watch?v=VdR-UzbZk5E
 youtube_url: https://www.youtube.com/watch?v=VdR-UzbZk5E
@@ -29,4 +29,19 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Brandon Leonardo is the co-founder of Instacart, the largest grocery delivery company in the world. Brandon outlines Instacart’s generative AI strategy, diving into how generative AI has transformed Instacart’s product experience, its role in internal productivity, and what's next for the company.
+
+--
+
+Interested in more?
+- Watch the full Day 1 Keynote: https://youtu.be/jwZHJthQvXo
+- Watch the full Day 2 Keynote https://youtu.be/Lury2ad6KG8
+- Check out the Ray Summit breakout session recordings!
+
+--
+
+🔗 Connect with us:
+- Subscribe to our YouTube channel: https://www.youtube.com/@anyscale
+- Twitter: https://x.com/anyscalecompute
+- LinkedIn: https://linkedin.com/company/joinanyscale/
+- Website: https://www.anyscale.com

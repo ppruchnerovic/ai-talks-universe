@@ -10,12 +10,12 @@ year: 2025
 speakers: ["A. Dhinakaran"]
 channel: "PyTorch"
 duration_min: 28
-published_at: null
+published_at: 2025-11-04T03:45:43Z
 video_id: L4l2rrcLBRI
 url: https://www.youtube.com/watch?v=L4l2rrcLBRI
 youtube_url: https://www.youtube.com/watch?v=L4l2rrcLBRI
 tags: []
-topics: ["Agents & orchestration"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Keynote Panel Discussion: Agentic AI - Aparna Dhinakaran, Co-Founder & Chief Product Officer, Arize AI; Jerry Liu, CEO & Co-founder, LlamaIndex; Adam Jones, Member of Technical Staff, Anthropic; Samuel Colvin, Founder, Pydantic; & moderated by Ben Lorica

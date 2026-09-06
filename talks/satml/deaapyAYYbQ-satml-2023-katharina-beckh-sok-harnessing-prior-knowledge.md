@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Katharina Beckh"]
 channel: "Nicolas Papernot"
 duration_min: 11
-published_at: null
+published_at: 2023-02-16T05:00:29Z
 video_id: deaapyAYYbQ
 url: https://www.youtube.com/watch?v=deaapyAYYbQ
 youtube_url: https://www.youtube.com/watch?v=deaapyAYYbQ
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+SoK: Harnessing Prior Knowledge for Explainable Machine Learning: An Overview

@@ -10,12 +10,12 @@ year: 2025
 speakers: []
 channel: "LangChain"
 duration_min: 17
-published_at: null
+published_at: 2025-06-10T17:12:02Z
 video_id: Bugs0dVcNI8
 url: https://www.youtube.com/watch?v=Bugs0dVcNI8
 youtube_url: https://www.youtube.com/watch?v=Bugs0dVcNI8
 tags: []
-topics: ["Agents & orchestration"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 
@@ -29,4 +29,10 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Learn to build agents on LangChain Academy: https://academy.langchain.com/collections/quickstart/?utm_medium=social&utm_source=youtube&utm_campaign=q4-2025_youtube-academy-links_aw
+
+Observe, evaluate, and deploy agents with LangSmith: https://smith.langchain.com/?utm_medium=social&utm_source=youtube&utm_campaign=q4-2025_youtube-links_aw
+
+Watch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co
+
+Hear from Sourabh Shirhatti and Matas Rastenis on Uber's Developer Platform Team in their LangChain Interrupt talk. They dive into how they're building agentic tools serving an organization of 5,000 developers working with hundreds of millions of lines of code.

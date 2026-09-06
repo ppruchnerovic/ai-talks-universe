@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 47
-published_at: null
+published_at: 2024-12-17T17:00:41Z
 video_id: eaS0omKFZhQ
 url: https://www.youtube.com/watch?v=eaS0omKFZhQ
 youtube_url: https://www.youtube.com/watch?v=eaS0omKFZhQ
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Fireside chat with OpenAI Leaders

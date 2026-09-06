@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 4
-published_at: null
+published_at: 2024-12-17T17:00:30Z
 video_id: Nn9IE2FV6fs
 url: https://www.youtube.com/watch?v=Nn9IE2FV6fs
 youtube_url: https://www.youtube.com/watch?v=Nn9IE2FV6fs
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Enhancing Automated Mapping with Vision-Powered Localization

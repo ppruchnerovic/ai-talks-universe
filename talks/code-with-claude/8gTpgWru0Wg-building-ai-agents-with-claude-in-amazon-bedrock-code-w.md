@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "Anthropic"
 duration_min: 27
-published_at: null
+published_at: 2025-07-31T18:23:45Z
 video_id: 8gTpgWru0Wg
 url: https://www.youtube.com/watch?v=8gTpgWru0Wg
 youtube_url: https://www.youtube.com/watch?v=8gTpgWru0Wg
@@ -29,4 +29,9 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.
+
+Speakers:
+Du'An Lightfoot, Senior Developer Advocate @ AWS
+Suman Debnath, Principal Developer Advocate @ AWS
+Banjo Obayami, Senior Solutions Architect @ AWS

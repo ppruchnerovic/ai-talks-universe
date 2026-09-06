@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "Snowflake Developers"
 duration_min: 40
-published_at: null
+published_at: 2025-06-20T18:00:17Z
 video_id: IMPNYRetMZA
 url: https://www.youtube.com/watch?v=IMPNYRetMZA
 youtube_url: https://www.youtube.com/watch?v=IMPNYRetMZA
@@ -29,4 +29,9 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+The rapid advancements in AI are reshaping the job market — creating both exciting opportunities and new challenges for career growth. Whether you're starting your career, switching careers, or looking to future-proof your skills, this interactive panel and AMA session will provide practical insights on how to grow your career in data and AI. Experts from e-learning platforms DeepLearning.AI and DataCamp and from VC firm A Capital will share their research on the skills most in demand, how to acquire them, and how to land your next job. Bring your questions and leave with actionable advice to grow your career in data and AI.
+
+-- http://www.snowflake.com/YTsubscribe/
+
+Explore sample code, download tools, and connect with peers:
+-- https://developers.snowflake.com/

@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Yingyan Zeng"]
 channel: "Nicolas Papernot"
 duration_min: 14
-published_at: null
+published_at: 2023-02-16T05:00:11Z
 video_id: RtY0sYaZ0_w
 url: https://www.youtube.com/watch?v=RtY0sYaZ0_w
 youtube_url: https://www.youtube.com/watch?v=RtY0sYaZ0_w

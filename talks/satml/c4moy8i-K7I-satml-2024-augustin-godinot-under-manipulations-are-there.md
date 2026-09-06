@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Augustin Godinot"]
 channel: "Nicolas Papernot"
 duration_min: 14
-published_at: null
+published_at: 2024-04-10T15:36:20Z
 video_id: c4moy8i-K7I
 url: https://www.youtube.com/watch?v=c4moy8i-K7I
 youtube_url: https://www.youtube.com/watch?v=c4moy8i-K7I

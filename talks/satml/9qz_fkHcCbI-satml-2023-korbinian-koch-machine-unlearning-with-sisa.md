@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Korbinian Koch"]
 channel: "Nicolas Papernot"
 duration_min: 12
-published_at: null
+published_at: 2023-02-16T05:00:04Z
 video_id: 9qz_fkHcCbI
 url: https://www.youtube.com/watch?v=9qz_fkHcCbI
 youtube_url: https://www.youtube.com/watch?v=9qz_fkHcCbI
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+No Matter How You Slice It: Machine Unlearning with SISA Comes at the Expense of Minority Classes

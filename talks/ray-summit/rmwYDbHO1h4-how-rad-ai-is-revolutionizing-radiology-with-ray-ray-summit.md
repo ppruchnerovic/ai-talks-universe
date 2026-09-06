@@ -8,14 +8,14 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 31
-published_at: null
+published_at: 2024-10-18T21:04:43Z
 video_id: rmwYDbHO1h4
 url: https://www.youtube.com/watch?v=rmwYDbHO1h4
 youtube_url: https://www.youtube.com/watch?v=rmwYDbHO1h4
 tags: []
-topics: []
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 
@@ -29,4 +29,23 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Ken Kao and Priunsh Syen from Rad AI present their work on Generative AI applications in healthcare at Ray Summit 2024. The talk covers three main areas:
+1. An overview of LLMs in healthcare
+2.  Rad AI's specialized LLM for radiology and follow-up management workflows
+3. Rad AI's Ray-based training infrastructure.
+
+The speakers detail how Rad AI's infrastructure supports both research experiments and production-grade, multi-node training pipelines. They also discuss their use of Ray Clusters, Ray Train, Pulumi for infrastructure-as-code, Google Kubernetes Engine, and Kuberay. This presentation offers insights into the practical implementation of AI in healthcare, demonstrating how Ray-based solutions can be applied to address challenges in radiology workflows and potentially improve patient care.
+
+--
+
+Interested in more?
+- Watch the full Day 1 Keynote: https://youtu.be/jwZHJthQvXo
+- Watch the full Day 2 Keynote https://youtu.be/Lury2ad6KG8
+
+--
+
+🔗 Connect with us:
+- Subscribe to our YouTube channel: https://www.youtube.com/@anyscale
+- Twitter: https://x.com/anyscalecompute
+- LinkedIn: https://linkedin.com/company/joinanyscale/
+- Website: https://www.anyscale.com

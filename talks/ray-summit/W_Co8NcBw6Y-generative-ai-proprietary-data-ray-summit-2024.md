@@ -8,14 +8,14 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 28
-published_at: null
+published_at: 2024-10-18T22:26:31Z
 video_id: W_Co8NcBw6Y
 url: https://www.youtube.com/watch?v=W_Co8NcBw6Y
 youtube_url: https://www.youtube.com/watch?v=W_Co8NcBw6Y
 tags: []
-topics: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 
@@ -29,4 +29,20 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+At Ray Summit, Raluca Ada Popa of Opaque Systems, Inc. tackles a significant obstacle in enterprise AI adoption: the security of proprietary and private data when used with generative AI. With major companies like Samsung and Google restricting ChatGPT use due to data security concerns, Popa presents a novel solution based on confidential computing.
+
+Drawing from her research at UC Berkeley, Popa introduces a cutting-edge technology that keeps sensitive data encrypted throughout the entire AI workflow. This innovative approach not only safeguards against external threats and data breaches but also maintains prediction quality. Popa demonstrates how this technology enables companies to leverage the power of LLMs while keeping their prompts and data confidential, potentially unlocking a new era of secure, AI-driven enterprise productivity.
+
+--
+
+Interested in more?
+- Watch the full Day 1 Keynote: https://youtu.be/jwZHJthQvXo
+- Watch the full Day 2 Keynote https://youtu.be/Lury2ad6KG8
+
+--
+
+🔗 Connect with us:
+- Subscribe to our YouTube channel: https://www.youtube.com/@anyscale
+- Twitter: https://x.com/anyscalecompute
+- LinkedIn: https://linkedin.com/company/joinanyscale/
+- Website: https://www.anyscale.com

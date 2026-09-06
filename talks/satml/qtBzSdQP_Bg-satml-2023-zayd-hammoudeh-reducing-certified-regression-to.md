@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Zayd Hammoudeh"]
 channel: "Nicolas Papernot"
 duration_min: 14
-published_at: null
+published_at: 2023-02-16T05:00:19Z
 video_id: qtBzSdQP_Bg
 url: https://www.youtube.com/watch?v=qtBzSdQP_Bg
 youtube_url: https://www.youtube.com/watch?v=qtBzSdQP_Bg
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Reducing Certified Regression to Certified Classification for General Poisoning Attacks

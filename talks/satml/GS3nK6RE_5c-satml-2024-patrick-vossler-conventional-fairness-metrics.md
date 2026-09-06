@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Patrick Vossler"]
 channel: "Nicolas Papernot"
 duration_min: 12
-published_at: null
+published_at: 2024-04-10T19:11:13Z
 video_id: GS3nK6RE_5c
 url: https://www.youtube.com/watch?v=GS3nK6RE_5c
 youtube_url: https://www.youtube.com/watch?v=GS3nK6RE_5c

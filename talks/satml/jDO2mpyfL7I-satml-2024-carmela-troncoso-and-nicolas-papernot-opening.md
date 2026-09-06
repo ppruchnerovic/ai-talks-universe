@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Carmela Troncoso", "Nicolas Papernot"]
 channel: "Nicolas Papernot"
 duration_min: 22
-published_at: null
+published_at: 2024-04-09T16:11:06Z
 video_id: jDO2mpyfL7I
 url: https://www.youtube.com/watch?v=jDO2mpyfL7I
 youtube_url: https://www.youtube.com/watch?v=jDO2mpyfL7I

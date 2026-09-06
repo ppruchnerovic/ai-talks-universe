@@ -8,13 +8,13 @@ category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: ["Vasu Jakkal"]
-channel: null
+channel: "RSAC Cybersecurity"
 duration_min: 20
-published_at: null
+published_at: 2025-04-29T03:57:22Z
 video_id: 31x3YQ18tmI
 url: https://www.youtube.com/watch?v=31x3YQ18tmI
 youtube_url: https://www.youtube.com/watch?v=31x3YQ18tmI
-tags: []
+tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
 topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
@@ -25,8 +25,10 @@ transcript: false
 
 `RSAC Conference` · `RSAC` · `2025` · `20 min`
 
+`#rsac` `#information` `#security` `#cybersecurity` `#infosec`
+
 [Watch the recording](https://www.youtube.com/watch?v=31x3YQ18tmI) · [Conference site](https://www.rsaconference.com/)
 
 ## Description
 
-*No description published on YouTube.*
+Agentic AI is reshaping cybersecurity—once science fiction, now reality. In this visionary Keynote, Vasu Jakkal dives into the future of AI-powered security agents and how they will transform threat defense, collaboration, and learning. Discover how agentic workflows will redefine the cybersecurity landscape.

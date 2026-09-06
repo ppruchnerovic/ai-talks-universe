@@ -10,12 +10,12 @@ year: 2023
 speakers: []
 channel: "OpenAI"
 duration_min: 8
-published_at: null
+published_at: 2023-11-15T21:12:15Z
 video_id: iXq50gPo-go
 url: https://www.youtube.com/watch?v=iXq50gPo-go
 youtube_url: https://www.youtube.com/watch?v=iXq50gPo-go
 tags: []
-topics: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Meet Helena Merk, CEO & Co-Founder of Streamline Climate which builds automated grant writing tools for hard tech companies to access non-dilutive government funding faster.

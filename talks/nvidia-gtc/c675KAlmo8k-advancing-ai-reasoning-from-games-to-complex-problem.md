@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "NVIDIA Developer"
 duration_min: 40
-published_at: null
+published_at: 2025-04-11T17:01:47Z
 video_id: c675KAlmo8k
 url: https://www.youtube.com/watch?v=c675KAlmo8k
 youtube_url: https://www.youtube.com/watch?v=c675KAlmo8k
@@ -29,4 +29,18 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+The evolution of artificial intelligence has seen remarkable milestones, particularly in developing systems capable of advanced reasoning. This panel will explore the journey from AI mastering strategic games to tackling complex, real-world problems. We will delve into the significance of integrating deliberate, System 2 thinking into AI models, enabling them to process information more thoroughly and solve intricate tasks.
+
+The discussion will highlight the challenges and breakthroughs in enhancing AI’s reasoning capabilities, the role of reinforcement learning and self-play in training, and the implications of these advancements for future applications. By examining case studies and their performance in complex reasoning tasks, we aim to shed light on the current state and future directions of AI reasoning research.
+
+Speakers:
+▫️Bryan Catanzaro, VP, Applied Deep Learning Research, NVIDIA
+▫️Noam Brown, Research Scientist, OpenAI
+▫️Vartika Singh, Strategic AI Lead, NVIDIA
+
+Watch more #GTC25 sessions on demand: https://www.nvidia.com/en-us/on-demand/?ncid=so-yout-194474-vt33
+
+Topic: Development and Optimization - Training AI Models
+NVIDIA Technology: TensorRT
+
+Replay of NVIDIA GTC 2025 Session ID: S73862

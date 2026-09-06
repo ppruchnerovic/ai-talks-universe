@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 53
-published_at: null
+published_at: 2024-02-05T15:35:40Z
 video_id: 1clQUMadypc
 url: https://www.youtube.com/watch?v=1clQUMadypc
 youtube_url: https://www.youtube.com/watch?v=1clQUMadypc
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+The 2.0 Kickoff meeting! This is where we break it down a bit. We talk about the goals of the project, in terms of evangelism and planning for the next major release. We also get a rundown on activities for each of the leads.
+
+If you want to know a bit more about what our visibility is actually looking like or any data from our audience, we go over the early results on our end consumer survey!

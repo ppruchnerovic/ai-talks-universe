@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Judy Hanwen Shen"]
 channel: "Nicolas Papernot"
 duration_min: 14
-published_at: null
+published_at: 2024-04-11T17:08:09Z
 video_id: OgYhvCMCp3s
 url: https://www.youtube.com/watch?v=OgYhvCMCp3s
 youtube_url: https://www.youtube.com/watch?v=OgYhvCMCp3s

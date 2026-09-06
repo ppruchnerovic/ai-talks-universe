@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 37
-published_at: null
+published_at: 2024-12-17T17:00:03Z
 video_id: auXCQ9-721o
 url: https://www.youtube.com/watch?v=auXCQ9-721o
 youtube_url: https://www.youtube.com/watch?v=auXCQ9-721o
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Dive into the latest AI advancements including Reasoning and Realtime

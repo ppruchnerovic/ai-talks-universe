@@ -2,8 +2,8 @@
   "edition": "qcon-ai-boston-2026",
   "name": "QCon AI Boston 2026",
   "year": 2026,
-  "fetched_at": "2026-09-01T21:23:35+00:00",
-  "count": 7,
+  "fetched_at": "2026-09-06T13:24:25+00:00",
+  "count": 9,
   "talks": {
     "ai-agentic-recommendations-semantic-ids": {
       "slug": "ai-agentic-recommendations-semantic-ids",
@@ -45,6 +45,26 @@
       "transcript_words": 7573,
       "fetched_at": "2026-09-01T21:23:35+00:00"
     },
+    "ai-predictions-2030": {
+      "slug": "ai-predictions-2030",
+      "page_url": "https://www.infoq.com/presentations/ai-predictions-2030/",
+      "has_transcript": true,
+      "title": "A Few Predicted Talks From QConAI 2030",
+      "description": "Meryem Arik discusses her predictions for software engineering in 2030. She explains how token spend management, parallel agent infrastructure, and non-technical builders will reshape IT. She shares insights on agent-driven vendor decisions, upcoming regulatory hurdles, and why software engineers must pivot from pure coding skills toward product leadership and multi-agent coordination.\n\nMeryem Arik is the Co-founder and CEO of Doubleword, a self-hosted AI inference platform empowering enterprise teams to deploy domain-specific or custom models in their private environment. She frequently speaks at leading conferences, including TEDx and QCon, sharing insights on inference technology and enterprise AI.",
+      "speakers": [
+        "Meryem Arik"
+      ],
+      "duration_s": 2117,
+      "published_at": "2026-09-05T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-jun-predictedtalks.mp4",
+      "id": "iq-ai-predictions-2030",
+      "matched_youtube": false,
+      "edition": "qcon-ai-boston-2026",
+      "edition_name": "QCon AI Boston 2026",
+      "year": 2026,
+      "transcript_words": 5705,
+      "fetched_at": "2026-09-06T13:24:25+00:00"
+    },
     "ai-sdlc-maturity-framework-bottlenecks": {
       "slug": "ai-sdlc-maturity-framework-bottlenecks",
       "page_url": "https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/",
@@ -84,6 +104,26 @@
       "year": 2026,
       "transcript_words": 8070,
       "fetched_at": "2026-09-01T21:23:35+00:00"
+    },
+    "context-engineering-redis-llm-architecture": {
+      "slug": "context-engineering-redis-llm-architecture",
+      "page_url": "https://www.infoq.com/presentations/context-engineering-redis-llm-architecture/",
+      "has_transcript": true,
+      "title": "Beyond Prompting: Context Engineering for Production-Grade AI",
+      "description": "Ricardo Ferreira discusses moving beyond simple prompt engineering to build production-grade AI applications. He shares practical architectural strategies for integrating long-term and short-term memory using Redis, managing LLM token limits via summarization, mitigating context rot with reranking and semantic caching, and controlling exponential API costs under strict latency constraints.\n\nRicardo Ferreira serves as Principal Developer Advocate at Redis. He has more than 25 years of experience in distributed systems, databases, and software development. He began his career focused on software engineering and developer education, then moved into solution architecture, helping customers design, build, and deploy data-intensive applications.",
+      "speakers": [
+        "Ricardo Ferreira"
+      ],
+      "duration_s": 2854,
+      "published_at": "2026-09-02T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-jun-beyondprompting.mp4",
+      "id": "iq-context-engineering-redis-llm-architecture",
+      "matched_youtube": false,
+      "edition": "qcon-ai-boston-2026",
+      "edition_name": "QCon AI Boston 2026",
+      "year": 2026,
+      "transcript_words": 6946,
+      "fetched_at": "2026-09-06T13:24:25+00:00"
     },
     "doordash-llm-ai-moderation-platform": {
       "slug": "doordash-llm-ai-moderation-platform",

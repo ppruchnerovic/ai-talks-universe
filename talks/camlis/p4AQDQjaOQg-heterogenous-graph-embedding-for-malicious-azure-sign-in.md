@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
-channel: null
+channel: "CAMLIS"
 duration_min: 17
-published_at: null
+published_at: 2022-11-30T02:50:56Z
 video_id: p4AQDQjaOQg
 url: https://www.youtube.com/watch?v=p4AQDQjaOQg
 youtube_url: https://www.youtube.com/watch?v=p4AQDQjaOQg
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+CAMLIS 2022, Tadesse Zemichael and Rachel Allen

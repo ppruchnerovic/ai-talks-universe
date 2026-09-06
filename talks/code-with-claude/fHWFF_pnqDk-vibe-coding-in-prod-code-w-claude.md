@@ -7,10 +7,10 @@ conference_name: "Code with Claude (Anthropic)"
 category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
-speakers: []
+speakers: ["Erik Schulntz"]
 channel: "Anthropic"
 duration_min: 31
-published_at: null
+published_at: 2025-07-31T18:15:21Z
 video_id: fHWFF_pnqDk
 url: https://www.youtube.com/watch?v=fHWFF_pnqDk
 youtube_url: https://www.youtube.com/watch?v=fHWFF_pnqDk
@@ -21,7 +21,7 @@ transcript: false
 
 # Vibe coding in prod | Code w/ Claude
 
-**Speaker not identified**
+**Erik Schulntz**
 
 `Code with Claude (Anthropic)` · `2025` · `2025` · `31 min`
 
@@ -29,4 +29,7 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.
+
+Speakers:
+Erik Schulntz, Member of Technical Staff at @anthropic-ai

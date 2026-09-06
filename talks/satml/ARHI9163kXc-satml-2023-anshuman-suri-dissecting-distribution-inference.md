@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Anshuman Suri", "Dissecting Distribution Inference"]
 channel: "Nicolas Papernot"
 duration_min: 12
-published_at: null
+published_at: 2023-02-16T05:00:07Z
 video_id: ARHI9163kXc
 url: https://www.youtube.com/watch?v=ARHI9163kXc
 youtube_url: https://www.youtube.com/watch?v=ARHI9163kXc

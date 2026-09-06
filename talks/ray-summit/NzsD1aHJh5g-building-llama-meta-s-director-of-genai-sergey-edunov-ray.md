@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 31
-published_at: null
+published_at: 2024-10-18T22:26:11Z
 video_id: NzsD1aHJh5g
 url: https://www.youtube.com/watch?v=NzsD1aHJh5g
 youtube_url: https://www.youtube.com/watch?v=NzsD1aHJh5g
@@ -29,4 +29,20 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Meta's Director of Engineering, GenAI, Sergey Edunov offers an insider's perspective on the rapid evolution of Large Language Models (LLMs) in this compelling Ray Summit session. Tracing the path from Llama 1's research-focused origins to the widely adopted Llama 3.1 ecosystem, Edunov unveils the challenges and breakthroughs that have shaped state-of-the-art LLMs.
+
+This talk delves into the unique value proposition of Llama models and their impact on the open AI landscape. Edunov explores the hurdles still facing LLM development and outlines how the broader community can contribute to this transformative technology. For AI enthusiasts and researchers alike, this session provides crucial insights into the future of open intelligence and the collaborative potential of LLM development.
+
+--
+
+Interested in more?
+- Watch the full Day 1 Keynote: https://youtu.be/jwZHJthQvXo
+- Watch the full Day 2 Keynote https://youtu.be/Lury2ad6KG8
+
+--
+
+🔗 Connect with us:
+- Subscribe to our YouTube channel: https://www.youtube.com/@anyscale
+- Twitter: https://x.com/anyscalecompute
+- LinkedIn: https://linkedin.com/company/joinanyscale/
+- Website: https://www.anyscale.com

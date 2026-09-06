@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
-channel: null
+channel: "CAMLIS"
 duration_min: 23
-published_at: null
+published_at: 2022-11-30T02:49:14Z
 video_id: cqPdJV6MyL8
 url: https://www.youtube.com/watch?v=cqPdJV6MyL8
 youtube_url: https://www.youtube.com/watch?v=cqPdJV6MyL8
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+CAMLIS 2022, Lindsey Lack and John Conwell

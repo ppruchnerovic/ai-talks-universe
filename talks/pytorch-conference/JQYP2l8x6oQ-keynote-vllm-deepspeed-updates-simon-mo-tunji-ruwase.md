@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Simon Mo", "Tunji Ruwase"]
 channel: "PyTorch"
 duration_min: 10
-published_at: null
+published_at: 2025-11-04T03:45:43Z
 video_id: JQYP2l8x6oQ
 url: https://www.youtube.com/watch?v=JQYP2l8x6oQ
 youtube_url: https://www.youtube.com/watch?v=JQYP2l8x6oQ
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Keynote: vLLM & Deepspeed Updates - Simon Mo, vLLM Lead & PhD Student, Department of Electrical Engineering and Computer Sciences, UC Berkeley & Tunji Ruwase, Lead, DeepSpeed Project & Principal Software Engineer, Snowflake

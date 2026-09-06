@@ -7,10 +7,10 @@ conference_name: "Devoxx"
 category: "General software conferences"
 edition: "Devoxx"
 year: 2025
-speakers: []
-channel: null
+speakers: ["Nikos Kousiadis", "Michael Katsilieris"]
+channel: "Devoxx"
 duration_min: 23
-published_at: null
+published_at: 2025-04-22T15:37:47Z
 video_id: zLe73DVkg0M
 url: https://www.youtube.com/watch?v=zLe73DVkg0M
 youtube_url: https://www.youtube.com/watch?v=zLe73DVkg0M
@@ -21,7 +21,7 @@ transcript: false
 
 # Devoxx Greece 2025 - Next-Gen RAG: Advanced Techniques for Smarter AI Retrieval
 
-**Speaker not identified**
+**Nikos Kousiadis, Michael Katsilieris**
 
 `Devoxx` · `Devoxx` · `2025` · `23 min`
 
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Speakers : Nikos Kousiadis & Michael Katsilieris
+
+Retrieval-Augmented Generation (RAG) has transformed how AI systems access and utilize knowledge, but basic implementations often fall short in real-world applications. In this talk, we’ll explore advanced RAG techniques that improve retrieval accuracy, context awareness, efficiency, and reasoning capabilities.

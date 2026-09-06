@@ -1,7 +1,7 @@
 {
   "slug": "sans-ai-summit",
   "name": "SANS AI Cybersecurity Summit",
-  "enumerated_at": "2026-08-30T21:47:56+00:00",
+  "enumerated_at": "2026-09-06T13:21:32+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
@@ -214,7 +214,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nAI in the Crosshairs: Exploring Novel Attacks on AWS AI as a Service\nYash Verma, Senior Threat Researcher, Trend Micro\n\nThe talk would offer a fresh perspective on AI security, emphasizing that while securing the core AI models are often the focus, the surrounding infrastructure and cloud services are equally critical to securing AI applications, particularly with the rise of AI-as-a-Service.\nHighlights on the rapid growth of AI-as-a-service (AIaaS) & increasing dependency on cloud-based AI solutions\nRecent attack incidents targeting AI infrastructures and cloud services\nCommon attack vectors in AI services and pipelines\nA real-world ML supply chain attack scenario showcasing how misconfigurations and security oversights in Amazon SageMaker and Bedrock deployments can compromise entire ML pipeline & AI applications\nActionable strategies to monitor & secure AWS AI Pipelines\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T21:06:35Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "6MwlVekLp9I": {
       "video_id": "6MwlVekLp9I",
@@ -244,7 +256,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nThe AI Security Gap: Addressing the Unique Vulnerabilities of GenAI-Based Applications\nDavide Annovazzi, EMEA Security Practice Lead, Google\nGabriele Zanoni, Mandiant Consulting Country Manager Italy and Principal Strategic Consultant, Google\n\nThis presentation provides attendees with actionable insights and strategies to effectively secure their own AI systems against current and future threats in this rapidly evolving landscape.This presentation explores the distinct security risks introduced by the rapid expansion of AI-powered applications, particularly online chatbots. It goes beyond general AI security issues to address the growing threat of category drift, where applications are exploited by users for unintended and potentially harmful purposes.\n\nThe presentation examines practical strategies to mitigate a range of risks, including prompt injection, data poisoning, and application misuse. It investigates both proactive measures like robust input validation and output analysis, as well as reactive approaches for identifying and addressing malicious activity.\n\nAttendees will leave this presentation with actionable insights and strategies to effectively secure their own AI systems against current and emerging threats in this rapidly changing environment.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:31:32Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "9W9bvvvbLbg": {
       "video_id": "9W9bvvvbLbg",
@@ -253,7 +277,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nThe Human Element in AI: Why People Still Matter in a Machine-Led Era\nLandi Spearman, CEO, Organized SHIFT\n\nEmphasizing the critical role of human intuition, ethical judgment, and interpersonal skills in an increasingly AI-driven world. This talk uncovers why, despite advancements in machine learning, the human touch remains indispensable for ethical and effective AI integration.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:42:29Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "9wgsGPA_NhA": {
       "video_id": "9wgsGPA_NhA",
@@ -283,7 +319,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nSANS360 Talks present 10  experts that have 360 seconds to deliver actionable AI/ML strategies for enhancing your security workflows.\nAI-Driven Phishing Attacks\n- Chaitanya Rahalkar\n\nUncover how cybercriminals are weaponizing AI to create more deceptive and scalable phishing campaigns.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:17:55Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "B9edzrY5fnU": {
       "video_id": "B9edzrY5fnU",
@@ -313,7 +361,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nSANS360 Talks present 10  experts that have 360 seconds to deliver actionable AI/ML strategies for enhancing your security workflows.\nThe Next Plague-How Al is Revolutionizing Malware Development \n- Foster Nethercott\n\nExamine the emerging threat of AI-generated malware and what it means for the future of cyber defense.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:19:10Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "Dv8_n_LS-C0": {
       "video_id": "Dv8_n_LS-C0",
@@ -322,7 +382,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nSANS360 Talks present 10  experts that have 360 seconds to deliver actionable AI/ML strategies for enhancing your security workflows.\n5 Tips for Using GenAl in DFIR\n- Jess Garcia\n\nGain practical advice on integrating generative AI tools into digital forensics and incident response workflows.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:22:08Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "E_RspX2kcJU": {
       "video_id": "E_RspX2kcJU",
@@ -436,7 +508,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nSANS360 Talks present 10  experts that have 360 seconds to deliver actionable AI/ML strategies for enhancing your security workflows.\nBreaking the Black Box- Why Testing generative Al is Full Spectrum\n- Jason Ross\n\nUnderstand the importance of transparency, testing, and validation in deploying generative AI securely.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:20:57Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "I7e8NpxFoxo": {
       "video_id": "I7e8NpxFoxo",
@@ -445,7 +529,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nBuilding an AI Pen-Testing Assistant\nStephen Kalnoske, Innovation and GenAI, SANS Institute\n\nThis talk will go over the tools and techniques used to build an AI assistant like the one developed for the new SEC535: Offensive AI - Attack Tools and Techniques course. Attendees will be able to take away how to leverage AI model tool calling to automate the running of tools like nmap and metasploit and how to keep the outputs of those tools in sync with an AI chat context. Attendees will also learn how to properly prompt the AI to use tools and associated commands correctly.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:44:08Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "IusaU1hbSEY": {
       "video_id": "IusaU1hbSEY",
@@ -454,7 +550,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nSANS360 Talks present 10  experts that have 360 seconds to deliver actionable AI/ML strategies for enhancing your security workflows.\nSCADE Detecting Hidden Threats in Data Centers\n- Vaishali Vinay\n\nLearn how AI-enhanced anomaly detection through SCADE can uncover stealthy threats in complex data center environments.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:23:52Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "NrkJLbn3dDE": {
       "video_id": "NrkJLbn3dDE",
@@ -463,7 +571,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nThe Five Must-Haves of an AI Governance Framework\nVarun Prasad, Managing Director, BDO USA\n\nCompanies must look to adopt a robust and flexible AI governance framework to systematically identify, assess, mitigate and monitor the safety and security risks for AI systems. An AI governance framework is typically made up of a variety of components including policies and procedures; administrative and technical controls and monitoring and oversight mechanisms. Due to the lack of an authoritative framework that companies can refer to or benchmark against, implementing a strong AI governance mechanism is always going to be a challenging endeavor, Drawing upon the requirements of existing AI standards and learnings from several audits of AI systems, this article outlines the five mandatory building blocks for operationalizing a strong and comprehensive AI governance framework:\n\nModel inventory\nAI risk and impact management program\nData management processes\nModel verification and validation requirements\nAI system observability requirements\nResponsible AI refers to an ideal desired state of the AI ecosystem at an organization. It is critical to implement these building blocks to create a solid foundation to effectively plan, track, manage and monitor the development or deployment of AI and thereby, enhance stakeholder trust.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T21:09:13Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "OmoghpxtnhA": {
       "video_id": "OmoghpxtnhA",
@@ -472,7 +592,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nAI Security Controls Guidelines Release\nMatt Bromiley, SANS Certified Instructor\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:44:06Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "QIUHetsI3LA": {
       "video_id": "QIUHetsI3LA",
@@ -502,7 +634,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nInfluence Operations with AI and Cyber-Enabled Ops\nGerardo Santos, Head of Threat Hunting, S2 Grupo\n\nThis presentation will explore the strategy behind influence operations conducted by state-sponsored actors and how they leverage AI to weaponize their campaigns.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:32:44Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "R49Cv7pJ2KA": {
       "video_id": "R49Cv7pJ2KA",
@@ -511,7 +655,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nKeynote\nThreat Modeling Agentic AI Systems: Proactive Strategies for Security and Resilience \nHelen Oakley, Director of Software Supply Chains Security & Secure Development, SAP\n\nAgentic AI systems, which combine generative AI capabilities with autonomous decision-making, interact dynamically with their environment. These advanced systems bring new opportunities but also pose significant security challenges. Unlike traditional software, agentic AI operates in dynamic environments where evolving goals, actions, and external inputs can create unique threats.\n\nThis session will focus on how to effectively threat model these systems, using architectural examples to illustrate their complexity and potential risks. Attendees will learn to identify critical security concerns, such as goal misalignment, unintended behaviors, and vulnerabilities in AI workflows. The session will also provide actionable strategies for integrating threat modeling into the design and deployment of agentic AI to ensure safety and reliability.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T21:08:12Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "R5gg3KvoEMY": {
       "video_id": "R5gg3KvoEMY",
@@ -520,7 +676,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nSecuring the Grid: AI’s Promise for Cyber Resilience in Power Systems\nRichard Macwan\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:50:55Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "RBqQssM_Suo": {
       "video_id": "RBqQssM_Suo",
@@ -529,7 +697,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nUsing LLMs, Embeddings, and Similarity to Assist DFIR Analysis\nMatthew Seyer, Director, KPMG, LLP \nDevanshi Agnihotri, Associate, KPMG, LLP\n\nGenerative AI and Large Language Models (LLM) have become increasingly popular over the last couple of years. The attackers are using this technology to gain advantages, thus, so should the investigators. This session will examine innovative methods of utilizing LLMs, embedding models, and Machine Learning clustering algorithms in concert to help you efficiently analyze data sets using similarity. The techniques demonstrated in this session can provide handy tools to have for triaging certain types of data points such as command line executions. This method will first be demonstrated via Jupyter Notebook to show the fun technical details of how and why this method works, then, an open-source tool that can run against native Windows Event Logs will be utilized and demonstrated which automates this method allowing you to partake in the fun! You will not only learn about new innovative methods but also get free tools to walk always with.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:30:29Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "SvD8GBcXBbk": {
       "video_id": "SvD8GBcXBbk",
@@ -538,7 +718,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nSANS360 Talks present 10  experts that have 360 seconds to deliver actionable AI/ML strategies for enhancing your security workflows.\nEvolving Zero Trust: Harnessing the Power of Al\n- Gaurav Mehta\n\nSee how AI can enhance and automate Zero Trust models to strengthen enterprise security frameworks.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:20:06Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "TeSJZUJSojM": {
       "video_id": "TeSJZUJSojM",
@@ -547,7 +739,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nSANS360 Talks present 10  experts that have 360 seconds to deliver actionable AI/ML strategies for enhancing your security workflows.\nAre you a J.E.D.I? Advancing Responsible Use of Al in the Universe\n- Joy Toney\n\nExplore ethical frameworks for ensuring AI development and use stay aligned with principles of justice, equity, diversity, and inclusion.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:22:51Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "Ti1oWMBlNVc": {
       "video_id": "Ti1oWMBlNVc",
@@ -619,7 +823,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nSANS360 Talks present 10  experts that have 360 seconds to deliver actionable AI/ML strategies for enhancing your security workflows.\nDancing with Al: Navigating the Cybersecurity Choreography\n- Bethany Abbate\n\nExplore how to balance innovation and risk in cybersecurity by aligning AI tools with human-led defense strategies.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:13:42Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "aUfRHxeA15I": {
       "video_id": "aUfRHxeA15I",
@@ -628,7 +844,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nHacker’s Perspective: Realistic AI Attack Scenarios\nDan McInerney, Lead AI Security Researcher, Protect AI\n\nForget theoretical frameworks of potential risks, we're going to talk about practical scenarios including several real-world examples of how hackers can and have attacked production AI systems at organizations. There are many checklists out there on AI threat vectors, but which ones should you prioritize defending against if your organization is utilizing AI, be it traditional machine learning or generative AI?\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T21:08:22Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "cPot7qUHiMg": {
       "video_id": "cPot7qUHiMg",
@@ -637,7 +865,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nFireside Chat\nKate Marshall, Director, Summits, SANS Institute\nHelen Oakley, Director of Software Supply Chains Security & Secure Development, SAP\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T21:07:53Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "eINZcEFP23g": {
       "video_id": "eINZcEFP23g",
@@ -646,7 +886,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nKeynote\nWhat to Expect When You’re Expecting Your GenAI Baby \nSounil Yu, Co-founder and Chief AI Safety Officer, Knostic\n\nMany of us are scrambling to leverage GenAI, but it’s hard to anticipate the risks, challenges, and controls. Using various mental models, we can get a clearer understanding of what to expect in the next stages of the AI revolution and start building governance processes and security capabilities to get ahead of potential challenges.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:51:03Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "eXXZEvBrWEk": {
       "video_id": "eXXZEvBrWEk",
@@ -723,7 +975,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nSANS360 Talks present 10  experts that have 360 seconds to deliver actionable AI/ML strategies for enhancing your security workflows.\nGenAl risks to your business and strategies to avoid common pitfalls\n- Casey Bleeker\n\nDiscover key business risks of generative AI and how to proactively mitigate them before they disrupt your security posture.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:16:50Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "gk6t9tPRm38": {
       "video_id": "gk6t9tPRm38",
@@ -732,7 +996,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nFireside Chat\nSounil Yu, Co-founder and Chief AI Safety Officer, Knostic \nRob Lee, Chief of Research and Fellow, SANS Institute\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:50:53Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "iWnYSdj9rxE": {
       "video_id": "iWnYSdj9rxE",
@@ -741,7 +1017,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nAI Security Made Easy\nRob van der Veer, Chief AI Officer, Software Improvement Group (SIG)\n\nWhat are the real concerns for security professionals when it comes to AI? How can you avoid getting lost in theoretical risks and focus on practical solutions? And most importantly—where should you start?\nIn this session, Rob van der Veer will introduce an actionable AI security framework and a step-by-step approach developed by the OWASP AI Exchange. This framework has played a key role in shaping the upcoming global AI security standard (ISO/IEC 27090) and the official security standard for the EU AI Act. Both are still in development, so you’ll get an exclusive preview of cutting-edge work in AI security standardization.\n\nJoin this talk to gain clear, practical guidance on securing AI systems—without getting lost in the AI rabbit hole.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T21:09:12Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "jJ_2AxqCVHA": {
       "video_id": "jJ_2AxqCVHA",
@@ -750,7 +1038,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nWatching the Watchers: Safeguards and Security for Artificial Intelligence Systems\nEoin Wickens, Director of Threat Intelligence, HiddenLayer\n\nAI is actively enhancing and augmenting industries across the world. However, immense benefits also come with significant security risks if improperly managed. This talk examines key safeguards and security practices to mitigate threats, prevent misuse or attacks, and help your organization harness AI’s potential securely and effectively.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T20:53:02Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "jl3oO43NPlc": {
       "video_id": "jl3oO43NPlc",
@@ -759,7 +1059,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nSANS360 Talks present 10  experts that have 360 seconds to deliver actionable AI/ML strategies for enhancing your security workflows.\nChange the Game: Build an Al Powered SOC\n- Carolyn Duby\n\nLearn how to design and deploy an AI-driven Security Operations Center (SOC) that boosts efficiency and threat detection.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:14:54Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "qW02tbK9t0A": {
       "video_id": "qW02tbK9t0A",
@@ -768,7 +1080,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nData to Defense: Generative AI and RAG Powering Real-Time Threat Response\nJames Spiteri, Director of PM, Generative AI and ML – Security Analytics, Elastic\n\nSee how Retrieval-Augmented Generation (RAG) transforms raw data into actionable intelligence for incident response. Drawing from extensive research, this session includes practical demonstrations on how generative AI empowers security teams, surfacing critical insights to accelerate threat detection beyond traditional methods.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:37:11Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "tEbnRWULeZ8": {
       "video_id": "tEbnRWULeZ8",
@@ -861,7 +1185,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nUnlocking Cyber Insights with AI: Using ML and LLMs for Next-Gen Analysis\nXenia Mountrouidou, Principal Cyber Data Scientist, Expel\n\nExplore how data-driven cybersecurity engineers can harness AI and ML to decode data. Using ML methods and LLMs, this talk showcases practical techniques for anomaly detection and behavior classification, featuring open-source tool demos. Through in-depth demonstrations moving from raw data to actionable models, attendees will reimagine cybersecurity analysis.\n\nThe next generation of cybersecurity engineers will be data engineers specializing in cybersecurity, leveraging modern technology to interpret the vast amounts of data they collect. We are constantly inundated with information about GPT, ML, AI, and various other acronyms. The critical question is: how can cybersecurity engineers utilize these tools effectively for more efficient analysis? Using ML and AI from a cybersecurity researcher's perspective, we will discuss concrete examples that demonstrate how to uncover insights and make discoveries. A key highlight will be a discussion on benchmarks—evaluating the most promising language models for applications of ML in cybersecurity.\n\nTo set the stage, we will examine the types of data commonly encountered in a cybersecurity ecosystem. Through a combination of the traditional matrix data structure, pandas, paired with the capabilities of LLMs, we will explore methods for extracting key patterns and features. The end goal of this exploration is to classify behaviors as either malicious or benign.\n\nNext, we will delve into the framework of Exploratory Data Analysis (EDA), that is employing statistical methods and visualizations to make sense of opaque datasets. We will demonstrate how AI can assist in “questioning” data, drawing actionable conclusions, and building anomaly detection models.\n\nFinally, we will showcase how practitioners can use and tune language models to classify data as malicious or benign, offering insights into the effectiveness of different LLMs for tackling cybersecurity challenges. This presentation includes open-source demonstrations using Jupyter notebooks and public datasets featuring known network attacks, allowing participants to reproduce and adapt these demonstrations for their own projects.\nThe ultimate goal of this talk is to demonstrate how defenders can use data to uncover malicious activity using traditional ML techniques, such as EDA and classification, implemented with the help of various language models. By comparing language models’ effectiveness in traditional ML tasks for cybersecurity applications, we aim to inspire creativity and resourcefulness among cybersecurity engineers. Through this journey from raw data to actionable models, we will highlight the vast potential ML and AI offer to redefine the field of cybersecurity.\n\nDemo repository (subject to changes): https://github.com/mundruid/cyberdata-mlai\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T19:51:10Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "ujgGyY5Sjk8": {
       "video_id": "ujgGyY5Sjk8",
@@ -870,7 +1206,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nDefending AI Models: Strategies for Securing AI Implementations Against Emerging Threats\nAruneesh Salhotra, CEO/CISO, SNM Consulting Inc.\n\nThe increasing utilization of artificial intelligence systems brings a proportional rise in threats to these technologies. The presentation will cover protection methods for AI models and their deployments against adversarial attacks, data poisoning threats, and prompt injection methods. This presentation will show attendees how AI systems' vulnerabilities can lead to attacks that cause model integrity issues and system failures.\n\nThe session will cover several defense methods, including robust model training, input sanitization, and adversarial training alongside anomaly detection techniques. This discussion includes how model hardening and encryption protect AI systems. Participants will learn to deploy defensive techniques that will strengthen their AI system security while preventing unauthorized access and maintaining data integrity and model trustworthiness.\n\nThis presentation is ideal for AI developers, security professionals, and technology leaders focused on securing AI-driven systems. Whether you're building AI solutions from the ground up or integrating pre-built models into your organization, this session will provide valuable tools and strategies to safeguard against emerging attack vectors.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T20:43:53Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "v5O9czdvHbo": {
       "video_id": "v5O9czdvHbo",
@@ -900,7 +1248,19 @@
       "channel": "SANS Institute",
       "label": "AI Cybersecurity Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "description": "SANS AI Cybersecurity Summit 2025\nThe Dark Side of AI: Developing Unsecure Applications in Minutes!\nChris Lindsey, Application Security Evangelist, OX Security\n\nAI is the ultimate accelerant for application development—its power unmatched—but without balance and control, it can quickly ignite new risks, turning potential into destruction. Explore the tangible impact of AI-generated code in this session by playing with fire – Using GPT-driven prompts, we’ll build a fully functional application, and in real time, we’ll uncover how common security flaws like SQL injection, cross-site scripting, and weak authentication can manifest in AI-generated code.\nThrough hands-on exploration, we’ll walk through the potential impact of these vulnerabilities and how these risks could be avoided with secure coding practices, defined policies, developer guardrails, and thorough security audits and code reviews.\n\nBy the end of the session, you'll have a deep understanding of how to:\n* Recognize and assess the risks AI introduces in your code.\n* Implement secure coding practices and enforce security policies.\n* Integrate security audits, code reviews, and testing into your development workflow to ensure AI-generated code is safe for production.\n\nThis session is vendor agnostic and designed to empower you to reap the benefits of AI without sacrificing security.\n\nView upcoming Summits: http://www.sans.org/u/DuS",
+      "published_at": "2025-05-13T21:05:10Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "zHEb-t0Xe-w": {
       "video_id": "zHEb-t0Xe-w",

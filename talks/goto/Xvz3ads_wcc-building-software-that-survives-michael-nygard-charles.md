@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "General software conferences"
 edition: "GOTO"
 year: 2026
-speakers: ["Michael Nygard"]
+speakers: ["Michael Nygard", "Charles Humble"]
 channel: "GOTO Conferences"
 duration_min: 38
 published_at: 2026-01-02T13:23:25Z
@@ -21,7 +21,7 @@ transcript: true
 
 # Building Software That Survives • Michael Nygard & Charles Humble
 
-**Michael Nygard**
+**Michael Nygard, Charles Humble**
 
 `GOTO Conferences` · `GOTO` · `2026` · `38 min`
 

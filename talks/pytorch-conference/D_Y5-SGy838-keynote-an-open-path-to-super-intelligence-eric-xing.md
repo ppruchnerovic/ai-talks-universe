@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Eric Xing"]
 channel: "PyTorch"
 duration_min: 17
-published_at: null
+published_at: 2025-11-04T03:45:43Z
 video_id: D_Y5-SGy838
 url: https://www.youtube.com/watch?v=D_Y5-SGy838
 youtube_url: https://www.youtube.com/watch?v=D_Y5-SGy838
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Keynote: An OPEN Path to Super Intelligence - Eric Xing, President and University Professor, MBZUAI; Professor of Computer Science, CMU; and Co-founder & Chief Scientist, Genbio AI

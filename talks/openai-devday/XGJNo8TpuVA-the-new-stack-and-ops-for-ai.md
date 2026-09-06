@@ -7,10 +7,10 @@ conference_name: "OpenAI DevDay"
 category: "Practitioner AI conferences"
 edition: "DevDay 2023"
 year: 2023
-speakers: []
+speakers: ["Shyamal Hitesh Anadkat"]
 channel: "OpenAI"
 duration_min: 34
-published_at: null
+published_at: 2023-11-13T22:30:38Z
 video_id: XGJNo8TpuVA
 url: https://www.youtube.com/watch?v=XGJNo8TpuVA
 youtube_url: https://www.youtube.com/watch?v=XGJNo8TpuVA
@@ -21,7 +21,7 @@ transcript: false
 
 # The New Stack and Ops for AI
 
-**Speaker not identified**
+**Shyamal Hitesh Anadkat**
 
 `OpenAI DevDay` · `DevDay 2023` · `2023` · `34 min`
 
@@ -29,4 +29,11 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+A new framework to navigate the unique considerations for scaling non-deterministic apps from prototype to production.
+
+Speakers:
+Shyamal Hitesh Anadkat,
+Applied AI Engineer at @OpenAI
+
+Sherwin Wu
+Head of Engineering, Developer Platform at @OpenAI

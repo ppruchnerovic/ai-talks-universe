@@ -1,7 +1,7 @@
 {
   "slug": "ai-engineer",
   "name": "AI Engineer",
-  "enumerated_at": "2026-08-30T21:45:32+00:00",
+  "enumerated_at": "2026-09-06T13:18:47+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@aiDotEngineer/videos",
@@ -10,7 +10,7 @@
       "count": 900
     }
   ],
-  "count": 900,
+  "count": 916,
   "videos": {
     "-561cZmir5Q": {
       "video_id": "-561cZmir5Q",
@@ -129,7 +129,7 @@
     "-TiET_K-E_g": {
       "video_id": "-TiET_K-E_g",
       "title": "From 46% to 90%: Fine-Tuning Tiny LLMs for On-Device Agents — Cormac Brick, Google",
-      "duration_s": 1260,
+      "duration_s": 1261,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -357,7 +357,7 @@
     "0MqYA52iWQU": {
       "video_id": "0MqYA52iWQU",
       "title": "(possible dupe but better sound) What does Enterprise Ready MCP mean? — Tobin South, WorkOS",
-      "duration_s": 832,
+      "duration_s": 833,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -494,6 +494,28 @@
       "tags": [],
       "details_at": "2026-08-30T22:32:45+00:00"
     },
+    "0uC6u0lJJl4": {
+      "video_id": "0uC6u0lJJl4",
+      "title": "Your company brain will leak secrets: how we stopped it for big banks — Tanmai Gopal, PromptQL",
+      "duration_s": 1585,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Tanmai Gopal plotted the daily edits to his own company brain expecting the usual shape, a burst of enthusiasm followed by neglect. The line kept climbing instead, and it surprised him. His reading is that a system people trust gets taught more, not less: teach it to query the data, then to interpret the result, then to act on it, and each skill adds its own steady rate of correction on top. A rising edit count is what health looks like. Gopal cofounded PromptQL and before that built the Hasura GraphQL engine, and his team spent a year deploying an early company brain across 15 to 20 organizations, from AI native startups to Fortune 100 banks. Their own brain runs to about 5,000 interconnected pages.\n\nThe obstacle is that a shared brain leaks. He dismisses two common answers before offering his. Nobody writes shared skills in GitHub for a colleague they have never met, and a team brain that saves its own memory is just a fresh silo, the same trap as per channel memory. His third option puts everything in one companywide wiki of linked markdown files, scopes read and write access per file, and refuses to let the agent write on its own. The agent proposes the facts and the scopes; a person accepts, and their name goes on the change so a leak has an owner. For the multiplayer case, where several people debug an incident together and the argument itself produces the best knowledge, credentials never sit in the sandbox. They are injected per user at the HTTP and SQL layers.\n\nTimestamps:\n0:00 - Why company brains leak, and what holds deployment back\n1:06 - From the Hasura GraphQL engine to PromptQL\n2:03 - Three kinds of customer, from startups to banks\n3:14 - Modeling the brain, and 5,000 linked pages\n3:41 - A poll: what does a healthy edit curve look like\n5:16 - The line that kept climbing\n6:37 - Two use cases, personal recall and shared work\n9:50 - Grow one, do not build one\n11:09 - A security questionnaire answered end to end\n12:33 - Why nobody writes shared skills in GitHub\n13:52 - Why a team brain is just another silo\n14:59 - One wiki, scoped files, and no silent writes\n18:45 - Every change carries a human name\n20:06 - The multiplayer case, where the argument is the knowledge\n23:17 - Privilege escalation, and credentials outside the sandbox",
+      "published_at": "2026-09-03T15:30:26Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-06T13:23:51+00:00"
+    },
     "0uj9lMI-sIo": {
       "video_id": "0uj9lMI-sIo",
       "title": "Luminal - Search-Based Deep Learning Compilers - Joe Fioti",
@@ -523,7 +545,7 @@
     "0vphxNt4wyk": {
       "video_id": "0vphxNt4wyk",
       "title": "Don't Ship Skills Without Evals — Philipp Schmid, Google DeepMind",
-      "duration_s": 1305,
+      "duration_s": 1306,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -545,7 +567,7 @@
     "12v5S1n1eOY": {
       "video_id": "12v5S1n1eOY",
       "title": "Building an Agentic Platform — Ben Kus, CTO Box",
-      "duration_s": 1145,
+      "duration_s": 1146,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -558,7 +580,7 @@
     "17-YSUHo6Lk": {
       "video_id": "17-YSUHo6Lk",
       "title": "Agentic SDLC at Uber — Uday Kiran Medisetty & Adam Huda, Uber",
-      "duration_s": 1105,
+      "duration_s": 1106,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -751,7 +773,7 @@
     "1XvN5EBDnDw": {
       "video_id": "1XvN5EBDnDw",
       "title": "Creating Agents that Co-Create — Karina Nguyen, OpenAI",
-      "duration_s": 1461,
+      "duration_s": 1462,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -803,7 +825,7 @@
     "1lgFGaHoGq8": {
       "video_id": "1lgFGaHoGq8",
       "title": "AI’s Jurassic Park Period — Aaron Stanley, dbt Labs",
-      "duration_s": 1301,
+      "duration_s": 1302,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -943,7 +965,7 @@
     "2Jom-4Brg6Q": {
       "video_id": "2Jom-4Brg6Q",
       "title": "Beyond Conversation: Why Documents Transform Natural Language into Code - Filip Kozera",
-      "duration_s": 656,
+      "duration_s": 657,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -1044,7 +1066,7 @@
     "2czYyrTzILg": {
       "video_id": "2czYyrTzILg",
       "title": "From Chaos to Choreography: Multi-Agent Orchestration Patterns That Actually Work — Sandipan Bhaumik",
-      "duration_s": 1588,
+      "duration_s": 1589,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -1149,7 +1171,7 @@
     "31GUkCBD-Uc": {
       "video_id": "31GUkCBD-Uc",
       "title": "Building Closed-Loop Evals for a Multimodal Agent at Scale — Soumya Gupta & Jai Chopra, Uber",
-      "duration_s": 1298,
+      "duration_s": 1299,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -1171,7 +1193,7 @@
     "32nrHU6zHU8": {
       "video_id": "32nrHU6zHU8",
       "title": "Agents Are Where Microservices Were in 2015 — Roberto Milev & Uday Kanagala, Navan",
-      "duration_s": 1167,
+      "duration_s": 1168,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -1359,7 +1381,7 @@
     "3ySF0I5iE_0": {
       "video_id": "3ySF0I5iE_0",
       "title": "A Practitioner's Guide to Graphs - Tim Ainge, Good Collective",
-      "duration_s": 857,
+      "duration_s": 858,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -1381,7 +1403,7 @@
     "3z2uT5aDx_Y": {
       "video_id": "3z2uT5aDx_Y",
       "title": "Build Evals That Actually Matter - Nick Ung & Akshay Sharma, Lyft",
-      "duration_s": 2264,
+      "duration_s": 2265,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -1583,7 +1605,7 @@
     "4uFVSLgD2Q4": {
       "video_id": "4uFVSLgD2Q4",
       "title": "Agents in Production: How OpenGov Built and Scaled OG Assist - Gabe De Mesa, OpenGov",
-      "duration_s": 1109,
+      "duration_s": 1110,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -1667,6 +1689,50 @@
         "machine learning"
       ],
       "details_at": "2026-08-31T15:35:11+00:00"
+    },
+    "5Cxe5dv2Xlw": {
+      "video_id": "5Cxe5dv2Xlw",
+      "title": "Why AI Agents Need Million-Token Context — Thomas Wolf & Olive Song, MiniMax",
+      "duration_s": 1248,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "An intern designed the sparse-attention architecture behind MiniMax M3. That detail comes after Olive Song explains the larger problem the team was trying to solve: short context windows aren’t enough when agents must work across long conversations, tool responses and complex environments. M3 combines a functional one-million-token context window with coding, agentic and multimodal capabilities, allowing it to understand text, images and video within the same model.\n\nThomas Wolf and Olive Song unpack how MiniMax made that context window efficient, why the company trained M3 as multimodal from its very first step and what happens when that training goes wrong. They also discuss MiniMax’s open research culture, products used by hundreds of millions of people, the role of community feedback in improving open-source models and the internal agent harnesses accelerating the company’s own research. By the end, M3 is no longer just the model being discussed—it is already helping the team build M3.1.\n\nAbout Thomas Wolf\n\nThomas Wolf is the co-founder and Chief Science Officer of Hugging Face, the open platform and community for building, sharing and collaborating on machine learning models, datasets and applications.\n\nAbout Olive Song\nOlive Song is the RL Lead at MiniMax, where she works on the research and training behind frontier open-source models including MiniMax M3.\n\nRecorded at the AI Engineer World’s Fair in San Francisco. Stay up to date on our upcoming events and content by joining our newsletter here: https://www.ai.engineer/newsletter\n\nTimestamps:\n0:00 - Introduction\n0:39 - The race between the leading open-source models\n2:34 - MiniMax M3: coding, vision and one million tokens\n3:46 - Why agents need longer context windows\n6:22 - From GPT-2’s 1,024 tokens to million-token models\n7:30 - The intern who designed MiniMax’s sparse attention\n8:29 - How research projects work inside MiniMax\n10:01 - Training a multimodal model from the first step\n13:09 - Going beyond one trillion parameters\n13:25 - Building AI products for 300 million users\n15:20 - Why MiniMax plans to keep open-sourcing its models\n17:29 - Agents that understand presentations and long videos\n18:27 - Automating AI research with agent harnesses\n19:27 - M3 is already helping build M3.1\n19:55 - Why multi-agent systems come next",
+      "published_at": "2026-09-04T13:00:26Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning",
+        "AI infrastructure",
+        "context engineering",
+        "long-horizon agents",
+        "autonomous agents",
+        "AI coding",
+        "vision language model",
+        "VLM",
+        "model architecture",
+        "attention mechanism",
+        "inference optimization",
+        "model efficiency",
+        "trillion-parameter models",
+        "AI research",
+        "foundation models",
+        "open weights",
+        "Chinese AI models",
+        "AGI",
+        "AI conference",
+        "generative ai",
+        "ai agents",
+        "coding",
+        "programming"
+      ],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "5ID22ACI7IM": {
       "video_id": "5ID22ACI7IM",
@@ -1955,7 +2021,7 @@
     "6guQG_tGt0o": {
       "video_id": "6guQG_tGt0o",
       "title": "AI Kernel Generation: What's working, what's not, what's next – Natalie Serrino, Gimlet Labs",
-      "duration_s": 1154,
+      "duration_s": 1155,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -2025,7 +2091,7 @@
     "72XxWkd8Jrk": {
       "video_id": "72XxWkd8Jrk",
       "title": "Effective agent design patterns in production — Laurie Voss, LlamaIndex",
-      "duration_s": 937,
+      "duration_s": 938,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -2082,7 +2148,7 @@
     "7Dtu2bilcFs": {
       "video_id": "7Dtu2bilcFs",
       "title": "2026: The Year The IDE Died — Steve Yegge & Gene Kim, Authors, Vibe Coding",
-      "duration_s": 1498,
+      "duration_s": 1499,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -2218,7 +2284,7 @@
     "7vn4WpqNpck": {
       "video_id": "7vn4WpqNpck",
       "title": "Benchmarking Coding Agents on New vs Legacy Codebases — Denys Linkov, Wisedocs",
-      "duration_s": 1087,
+      "duration_s": 1088,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -2262,7 +2328,7 @@
     "84Vtz2IL1Ug": {
       "video_id": "84Vtz2IL1Ug",
       "title": "Fun stories from building OpenRouter and where all this is going - Alex Atallah, OpenRouter",
-      "duration_s": 1126,
+      "duration_s": 1127,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -2349,7 +2415,7 @@
     "8SUJEqQNClw": {
       "video_id": "8SUJEqQNClw",
       "title": "Agents vs Workflows: Why Not Both? — Sam Bhagwat, Mastra.ai",
-      "duration_s": 936,
+      "duration_s": 937,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -2362,7 +2428,7 @@
     "8kMaTybvDUw": {
       "video_id": "8kMaTybvDUw",
       "title": "12-Factor Agents: Patterns of reliable LLM applications — Dex Horthy, HumanLayer",
-      "duration_s": 1025,
+      "duration_s": 1026,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -2397,7 +2463,7 @@
     "8qWIPUia2O8": {
       "video_id": "8qWIPUia2O8",
       "title": "Every Harness Will Become A Claw — Sam Bhagwat, Mastra",
-      "duration_s": 935,
+      "duration_s": 936,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -2480,7 +2546,7 @@
     "9HbzAWnKbo4": {
       "video_id": "9HbzAWnKbo4",
       "title": "From Signal to PR: Anatomy of a Self-Improving Agent — Jason Lopatecki, Arize",
-      "duration_s": 1235,
+      "duration_s": 1236,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -2502,7 +2568,7 @@
     "9QebvrrY3KY": {
       "video_id": "9QebvrrY3KY",
       "title": "Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
-      "duration_s": 1518,
+      "duration_s": 1519,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -2594,7 +2660,7 @@
     "9mzfioh1Zag": {
       "video_id": "9mzfioh1Zag",
       "title": "Grounded Reasoning Systems for Cloud Architecture - Iman Makaremi",
-      "duration_s": 1565,
+      "duration_s": 1566,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -2617,10 +2683,32 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:11+00:00"
     },
+    "A-zeQiYkmXk": {
+      "video_id": "A-zeQiYkmXk",
+      "title": "Teaching agents to pay — Anna Spysz, Stripe",
+      "duration_s": 1150,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Anna Spysz asked her shopping agent whether the pricier headphones were really worth the difference, and it told her she would regret buying the cheap ones. When she said she needed to think about it, the agent got snarky with her. The cause was sitting in her own config: a persona whose system prompt opened with \"You are an aggressive audio gear salesman who uses every trick in the book to close deals.\" Swapping it for a patient recording gear mentor produced an entirely different conversation out of the same tools and the same protocol. Her talk begins as a personal errand and turns into a working tour of what agentic commerce demands from both sides of a transaction.\n\nOn the merchant side she shows why her favorite Portland record shop was invisible to her agent, then fixes it. Agents do not browse. They read a capabilities manifest declaring supported payment methods and endpoints, then parse a catalog and policies published as structured data rather than a page they would burn tokens on. Logging matters too: a record of which attributes drove a recommendation turns a catalog into evidence of how a decision got made. On the payments side she traces the shared payment token, where the agent receives a token instead of a card number, the seller unwraps only what it needs, and the payment provider enforces the limits rather than the agent or the merchant. She closes on a guardrail checklist covering disclosure of the AI, honoring stop and cancel, and capping any total at the ceiling the user set.\n\nSpeaker info:\n- https://x.com/annaspies\n- https://www.linkedin.com/in/annaspysz\n- https://annaspysz.com/\n\nTimestamps:\n0:00 - Worn out headphones and a decade away from music\n2:23 - The infrastructure for agent transactions arrives\n3:13 - Agents discover products differently than people do\n3:40 - UCP as a shared language for agents and merchants\n4:34 - Demo: a budget left deliberately open\n5:51 - The local record shop agents cannot see\n7:09 - Manifest, structured catalogs, and logs as evidence\n9:07 - The agent turns pushy\n10:23 - Anatomy of an agent, and where the persona lives\n12:04 - A guardrail checklist for agent commerce\n15:23 - Shared payment tokens and who never sees the card",
+      "published_at": "2026-09-01T16:30:06Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-06T13:23:51+00:00"
+    },
     "A0PxE39xaMc": {
       "video_id": "A0PxE39xaMc",
       "title": "GPU-less, Trust-less, Limit-less: Reimagining the Confidential AI Cloud - Mike Bursell",
-      "duration_s": 2620,
+      "duration_s": 2621,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -2743,7 +2831,7 @@
     "APh1Vx0oLmQ": {
       "video_id": "APh1Vx0oLmQ",
       "title": "Deterministic Infra for Non-Deterministic AI Agents - Nishant Gupta, Meta Superintelligence Labs",
-      "duration_s": 433,
+      "duration_s": 434,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -2831,7 +2919,7 @@
     "AXMdSqdoGHM": {
       "video_id": "AXMdSqdoGHM",
       "title": "Automating Escrow with USDC and AI - Corey Cooper, Circle",
-      "duration_s": 3497,
+      "duration_s": 3498,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -2854,6 +2942,28 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:11+00:00"
     },
+    "AhQpRalYlyg": {
+      "video_id": "AhQpRalYlyg",
+      "title": "Multimodal Collaborative Agents for Next-Gen Commerce — Nidhi Kaushik Vyas, Google DeepMind",
+      "duration_s": 1268,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Asked to redo a living room on a budget, the agent Nidhi Kaushik Vyas walks through does not start recommending. It works out what it does not know, then picks the single question worth asking: how wide is the room. Everything downstream is moot if the furniture will not fit, so that one answer carries the most information per turn. Choosing the next question by expected information gain, rather than working down a checklist, is the heart of her argument about agents that handle fuzzy intent. Most shopping agents behave like a wrapper around the search bar, she says, assuming the user already holds a well formed goal and the vocabulary to express it. Real users arrive with a vibe, and closing that articulation gap is the agent's job rather than theirs.\n\nHer loop runs discovery, research, response. Discovery assembles a working state from past conversation, personal context and any reference images, separating the hard constraints in a query from the soft ones a picture only implies, attaching a confidence score to each, and flagging the variables that must refresh in real time because stale inventory makes an answer worthless. Research decides how to ask: for a subjective preference a visual board beats a text question, and hovers and clicks then feed the confidence model. Response picks a shape, a summary for a policy question, a comparison table for two products, imagery for style. Holding it together is an autorater at every stage, including one that flips part of a query to check the extracted constraints move when they should and stay put when they should not.\n\nSpeaker info:\n- https://www.linkedin.com/in/nidhivyas/\n\nTimestamps:\n0:00 - Agents that behave like a wrapper around the search bar\n1:08 - The articulation gap: users arrive with a vibe\n2:03 - The loop: discovery, research, response\n4:45 - Building a working state from images and context\n6:33 - Variables that have to refresh in real time\n7:28 - Grading the state: facts, calibration, counterfactuals\n8:21 - The intent gap, and picking the highest value question\n10:10 - Bridging a constraint to the product ontology\n11:04 - When a visual board beats a text question\n12:57 - Choosing the response format, and grading it\n16:38 - Four takeaways\n17:34 - Questions: merchant ontologies, UCP, and agent buyers",
+      "published_at": "2026-09-01T17:00:27Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-06T13:23:51+00:00"
+    },
     "Ahtaha9fEM0": {
       "video_id": "Ahtaha9fEM0",
       "title": "Introduction to LLM serving with SGLang - Philip Kiely and Yineng Zhang, Baseten",
@@ -2870,7 +2980,7 @@
     "Akm1sqvWG4A": {
       "video_id": "Akm1sqvWG4A",
       "title": "Bypassing the Multimodal Tax: Hybrid RAG, SQL RRF & UI Telemetry - Abed Matini, Ogilvy",
-      "duration_s": 2747,
+      "duration_s": 2748,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -2927,7 +3037,7 @@
     "B8l81jhvHbI": {
       "video_id": "B8l81jhvHbI",
       "title": "Enterprise Agents Have a Structure Problem - Ishita Daga, Tesla",
-      "duration_s": 727,
+      "duration_s": 728,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -3098,7 +3208,7 @@
     "Bc6Ojl2XS1w": {
       "video_id": "Bc6Ojl2XS1w",
       "title": "From Transcription to Live Music: Gemini's Audio Stack — Thor Schaeff, Google DeepMind",
-      "duration_s": 1173,
+      "duration_s": 1174,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -3221,7 +3331,7 @@
     "Btk8wDUVs74": {
       "video_id": "Btk8wDUVs74",
       "title": "From Systems of Record to Systems of Context — Omri Bruchim & Tomer Ast, monday.com",
-      "duration_s": 957,
+      "duration_s": 958,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -3287,7 +3397,7 @@
     "C13jiFWNuo8": {
       "video_id": "C13jiFWNuo8",
       "title": "Google Photos Magic Editor: GenAI Under the Hood of a Billion-User App - Kelvin Ma, Google Photos",
-      "duration_s": 1227,
+      "duration_s": 1228,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -3431,7 +3541,7 @@
     "CQGuvf6gSrM": {
       "video_id": "CQGuvf6gSrM",
       "title": "2025 is the Year of Evals! Just like 2024, and 2023, and … — John Dickerson, CEO Mozilla AI",
-      "duration_s": 1153,
+      "duration_s": 1154,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -3558,7 +3668,7 @@
     "CgsWxRUY5Eo": {
       "video_id": "CgsWxRUY5Eo",
       "title": "AI Agents for Performance: Ship Faster, Pay Less — Rajat Shah, Netflix",
-      "duration_s": 2018,
+      "duration_s": 2019,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -3593,7 +3703,7 @@
     "ClWD8OEYgp8": {
       "video_id": "ClWD8OEYgp8",
       "title": "Collaborative AI Engineering: One Dev, Two Dozen Agents, Zero Alignment — Maggie Appleton, GitHub",
-      "duration_s": 1062,
+      "duration_s": 1063,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -3716,7 +3826,7 @@
     "D4Dswf-__RM": {
       "video_id": "D4Dswf-__RM",
       "title": "CIAM for AI: Authn/Authz for Agents — Michael Grinich, CEO of WorkOS",
-      "duration_s": 1212,
+      "duration_s": 1213,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -3726,10 +3836,23 @@
       "tags": [],
       "details_at": "2026-08-30T22:31:39+00:00"
     },
+    "D7_ipDqhtwk": {
+      "video_id": "D7_ipDqhtwk",
+      "title": "How We Build Effective Agents: Barry Zhang, Anthropic",
+      "duration_s": 909,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Recorded live at the Agent Engineering Session Day from the AI Engineer Summit 2025 in New York. Learn more at https://ai.engineer and purchase tickets to our next event, the AI Engineer World's Fair, in SF June 3 - 5 here: https://ti.to/software-3/ai-engineer-worlds-fair-2025\n\nAbout Barry:\n\nBarry is a member of technical staff on Anthropic's Applied AI team, focusing on developing agentic systems with enterprises and startups. Previously, he was a tech lead on the Monetization genAI team at Meta, where he claimed the inaugural 'AI Engineer' title. He holds degrees in Computer Science and Industrial Engineering from Northwestern",
+      "published_at": "2025-04-04T18:46:36Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:14:23+00:00"
+    },
     "DCZZ3AJKzuc": {
       "video_id": "DCZZ3AJKzuc",
       "title": "Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs",
-      "duration_s": 491,
+      "duration_s": 492,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -3978,7 +4101,7 @@
     "EY4O9M6AsWI": {
       "video_id": "EY4O9M6AsWI",
       "title": "Dream Machine: Scaling to 1m users in 4 days — Keegan McCallum, Luma AI",
-      "duration_s": 1142,
+      "duration_s": 1143,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -4070,7 +4193,7 @@
     "ExeD-8gFUMM": {
       "video_id": "ExeD-8gFUMM",
       "title": "Full Spec MCP: Hidden Capabilities of the MCP spec — Harald Kirschner, Microsoft/VSCode",
-      "duration_s": 892,
+      "duration_s": 893,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -4175,7 +4298,7 @@
     "FWEInOtngmM": {
       "video_id": "FWEInOtngmM",
       "title": "Beyond Code Coverage: Functionality Testing with Playwright MCP — Marlene Mhangami, Microsoft",
-      "duration_s": 1184,
+      "duration_s": 1185,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -4420,7 +4543,7 @@
     "GIRpQEfYf3U": {
       "video_id": "GIRpQEfYf3U",
       "title": "Any-to-Any: Building Native Multimodal Agents - Patrick Löber, Google DeepMind",
-      "duration_s": 980,
+      "duration_s": 981,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -4578,7 +4701,7 @@
     "GqoNrUz8hEU": {
       "video_id": "GqoNrUz8hEU",
       "title": "Bringing agents onto the world wide web — Paul Klein IV, Browserbase",
-      "duration_s": 1105,
+      "duration_s": 1106,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -4670,7 +4793,7 @@
     "HN-F-OQe6j0": {
       "video_id": "HN-F-OQe6j0",
       "title": "Defying Gravity - Kevin Hou, Google DeepMind",
-      "duration_s": 1509,
+      "duration_s": 1510,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5038,7 +5161,7 @@
     "Ib5t2RLtxvM": {
       "video_id": "Ib5t2RLtxvM",
       "title": "From Agent Traces to Agent Simulations — Rustem Feyzkhanov, Snorkel AI",
-      "duration_s": 1223,
+      "duration_s": 1224,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5178,7 +5301,7 @@
     "J4_jCrTxMkk": {
       "video_id": "J4_jCrTxMkk",
       "title": "Compression at the Edge — NVIDIA, Unsloth, HuggingFace, Ollama",
-      "duration_s": 2760,
+      "duration_s": 2761,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5213,7 +5336,7 @@
     "JJGbw4ggaFs": {
       "video_id": "JJGbw4ggaFs",
       "title": "From Blind Spots to Merged PRs: Continuous Agentic Performance Optimization - May Walter, Hud",
-      "duration_s": 1365,
+      "duration_s": 1366,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5257,7 +5380,7 @@
     "JT3OzDKrucU": {
       "video_id": "JT3OzDKrucU",
       "title": "Combine Skills and MCP to Close the Context Gap — Pedro Rodrigues, Supabase",
-      "duration_s": 1106,
+      "duration_s": 1107,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5279,7 +5402,7 @@
     "JV-wY5pxXLo": {
       "video_id": "JV-wY5pxXLo",
       "title": "From Vibe Coding To Vibe Engineering – Kitze, Sizzy",
-      "duration_s": 1527,
+      "duration_s": 1528,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5318,7 +5441,7 @@
     "JhJKgRAmfIU": {
       "video_id": "JhJKgRAmfIU",
       "title": "AI Red Teaming Agent: Azure AI Foundry — Nagkumar Arkalgud & Keiji Kanazawa, Microsoft",
-      "duration_s": 1170,
+      "duration_s": 1171,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5331,7 +5454,7 @@
     "JnubYCYunk8": {
       "video_id": "JnubYCYunk8",
       "title": "Browser Agents Don't Need Better Models. They Need Better Eyes. - Kushan Raj, ARK",
-      "duration_s": 265,
+      "duration_s": 266,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5423,7 +5546,7 @@
     "JvKO40CFq-s": {
       "video_id": "JvKO40CFq-s",
       "title": "Full Workshop: Better Auth — Paola Estefania, Better Auth",
-      "duration_s": 2455,
+      "duration_s": 2456,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5493,7 +5616,7 @@
     "K0X9QDRkIdg": {
       "video_id": "K0X9QDRkIdg",
       "title": "Anthropic's Applied AI team on the Evolution of Agentic Surfaces",
-      "duration_s": 1883,
+      "duration_s": 1884,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5559,7 +5682,7 @@
     "KHudyx5wW3U": {
       "video_id": "KHudyx5wW3U",
       "title": "Agent Frameworks Considered Harmful — Rémi Louf, .txt",
-      "duration_s": 1228,
+      "duration_s": 1229,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5593,7 +5716,7 @@
     },
     "KLDdXOw6jIc": {
       "video_id": "KLDdXOw6jIc",
-      "title": "Leads of Nano Banana, Imagen, Veo, Omni/Thinking — Dumitru Erhan, Shane Gu, Nicole Brichtova, swyx",
+      "title": "SOTA Generative Media Panel — Dumitru Erhan, Shane Gu & Nicole Brichtova, Google DeepMind",
       "duration_s": 3419,
       "channel": "AI Engineer",
       "label": "AI Engineer",
@@ -5616,7 +5739,7 @@
     "KLSuFPj2ld0": {
       "video_id": "KLSuFPj2ld0",
       "title": "Building safe Payment Infrastructure for the autonomous economy — Steve Kaliski, Stripe",
-      "duration_s": 1125,
+      "duration_s": 1126,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5673,7 +5796,7 @@
     "KWmkMV0FNwQ": {
       "video_id": "KWmkMV0FNwQ",
       "title": "Building Alice’s Brain: an AI Sales Rep that Learns Like a Human - Sherwood & Satwik, 11x",
-      "duration_s": 1337,
+      "duration_s": 1338,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5721,7 +5844,7 @@
     "Ki980nV0__0": {
       "video_id": "Ki980nV0__0",
       "title": "Computer-use models will agentify the web, not APIs — Dhruv Batra, Yutori",
-      "duration_s": 1259,
+      "duration_s": 1260,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5809,7 +5932,7 @@
     "L2r6vLlLgs8": {
       "video_id": "L2r6vLlLgs8",
       "title": "Fighting AI with AI — Lawrence Jones, Incident",
-      "duration_s": 1048,
+      "duration_s": 1049,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5853,7 +5976,7 @@
     "L4I7WgiEquo": {
       "video_id": "L4I7WgiEquo",
       "title": "AI in GTM at Notion — Flora Liu",
-      "duration_s": 1274,
+      "duration_s": 1275,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5901,7 +6024,7 @@
     "L8OoYeDI_ls": {
       "video_id": "L8OoYeDI_ls",
       "title": "Evals Are Not Unit Tests — Ido Pesok, Vercel v0",
-      "duration_s": 921,
+      "duration_s": 922,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -5936,7 +6059,7 @@
     "LLuKshphGOE": {
       "video_id": "LLuKshphGOE",
       "title": "Context Engineering: Connecting the Dots with Graphs — Stephen Chin, Neo4j",
-      "duration_s": 1609,
+      "duration_s": 1610,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -6041,7 +6164,7 @@
     "Lm8BLHkxiAo": {
       "video_id": "Lm8BLHkxiAo",
       "title": "Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMind",
-      "duration_s": 1437,
+      "duration_s": 1438,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -6168,7 +6291,7 @@
     "M05vON8i0aI": {
       "video_id": "M05vON8i0aI",
       "title": "AI-Native Organisations Run on Skills: How to Structure and Scale Them — Imad Touil, QuantumBlack",
-      "duration_s": 1230,
+      "duration_s": 1231,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -6229,7 +6352,7 @@
     "MGzymaYBiss": {
       "video_id": "MGzymaYBiss",
       "title": "Dispatch from the Future: building an AI-native Company – Dan Shipper, Every, AI & I",
-      "duration_s": 1077,
+      "duration_s": 1078,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -6242,7 +6365,7 @@
     "MI83buT_23o": {
       "video_id": "MI83buT_23o",
       "title": "Devin 2.0 and the Future of SWE - Scott Wu, Cognition",
-      "duration_s": 972,
+      "duration_s": 973,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -6395,7 +6518,7 @@
     "N4vCBM5YbN0": {
       "video_id": "N4vCBM5YbN0",
       "title": "Building Code First AI Agents with Azure AI Agent Service — Cedric Vidal, Microsoft",
-      "duration_s": 6845,
+      "duration_s": 6846,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -6430,7 +6553,7 @@
     "NKwIX3CiRgU": {
       "video_id": "NKwIX3CiRgU",
       "title": "Does GenAI \"belong\" to data scientists? — Phil Hetzel, Braintrust",
-      "duration_s": 1133,
+      "duration_s": 1134,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -6452,7 +6575,7 @@
     "NTBX-wxUhHs": {
       "video_id": "NTBX-wxUhHs",
       "title": "Context Platform Engineering to Reduce Token Anxiety — Val Bercovici, WEKA",
-      "duration_s": 1431,
+      "duration_s": 1432,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -6478,7 +6601,7 @@
     "NuePCNMpWGc": {
       "video_id": "NuePCNMpWGc",
       "title": "Can LLMs generate Enterprise Quality Code? — Prasenjit Sarkar, Sonar",
-      "duration_s": 911,
+      "duration_s": 912,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -6566,7 +6689,7 @@
     "OC04sP_QgTI": {
       "video_id": "OC04sP_QgTI",
       "title": "Ensure AI Agents Work: Evaluation Frameworks for Scaling Success — Aparna Dhinkaran, CEO Arize",
-      "duration_s": 927,
+      "duration_s": 928,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -6579,7 +6702,7 @@
     "OGCG_QkCcZo": {
       "video_id": "OGCG_QkCcZo",
       "title": "AGI: The Path Forward – Jason Warner & Eiso Kant, Poolside",
-      "duration_s": 955,
+      "duration_s": 956,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -6737,7 +6860,7 @@
     "OkEGJ5G3foU": {
       "video_id": "OkEGJ5G3foU",
       "title": "[Full Workshop] Reinforcement Learning, Kernels, Reasoning, Quantization & Agents — Daniel Han",
-      "duration_s": 9747,
+      "duration_s": 9748,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -6763,7 +6886,7 @@
     "OqM67QG_Ikk": {
       "video_id": "OqM67QG_Ikk",
       "title": "From fork() to Fleet: Designing an Agent Sandbox Cloud — Abhishek Bhardwaj, OpenAI",
-      "duration_s": 2673,
+      "duration_s": 2674,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -6842,7 +6965,7 @@
     "PHBGhUKAM-w": {
       "video_id": "PHBGhUKAM-w",
       "title": "Building Protected MCP Servers — Den Delimarsky and Julia Kasper, MCP Steering Committee & Microsoft",
-      "duration_s": 1212,
+      "duration_s": 1213,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -7047,7 +7170,7 @@
     "QRWdapxMdSY": {
       "video_id": "QRWdapxMdSY",
       "title": "AI Copilots for Tech Architecture: The Highest-ROI Use Case You’re Not Building — Boris B., Catio",
-      "duration_s": 1648,
+      "duration_s": 1649,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -7069,6 +7192,50 @@
       "published_at": "2025-07-16T16:18:38Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:12+00:00"
+    },
+    "Qr15lGAGKpo": {
+      "video_id": "Qr15lGAGKpo",
+      "title": "Everyone Gets A Software Company — Benjamin Guo, Zo Computer",
+      "duration_s": 909,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Ben Guo built the page listing every speaker in this session while he sat waiting to go on, then put a QR code to it on his first slide. He builds that way because his computer is a server in the cloud that he talks to in plain language. Guo cofounded Zo Computer after starting on the early Venmo team and joining Stripe as its 80th engineer, and his argument is that people used to feel at home on their machines and no longer do, because everything they touch is rented. He calls the arrangement technofeudalism. You pay a subscription to a software company, which pays rent to a cloud provider, which pays rent to whoever sells the chips, and your data sits in silos you do not control while prices climb for features nobody asked for.\n\nZo is his answer, a personal server with AI built into it, and the two users he walks through are not developers. Charlotte, a private chef and life coach, runs her websites, invoices, bookkeeping and scheduling from one place. Anthia, a free diving instructor, is on track to make $100,000 after replacing Squarespace, Calendly and the rest with a single server she owns. When someone asks about a retreat, Zo texts her the number, she calls at the moment of intent, asks for a payment link and closes on the spot. Guo closes on the question he thinks will decide the next few years: as agents move into the cloud, whose cloud is it, and which direction does the intelligence accumulate.\n\nSpeaker info:\n- https://x.com/0thernet\n- https://linkedin.com/in/0thernet\n- https://0.zo.space\n\nTimestamps:\n0:00 - A speaker site built while waiting to present\n1:08 - From the early Venmo team to Stripe to Zo\n1:36 - What the old Finder icon was meant to say\n2:18 - When computers stopped feeling like ours\n3:26 - Technofeudalism and the rent you pay upward\n4:34 - Charlotte runs a business from one place\n5:02 - What a personal cloud actually is\n7:12 - Anthia cancels the SaaS stack\n10:20 - A tour of the workspace\n11:57 - Cloud agents, and whose cloud they run in",
+      "published_at": "2026-09-03T14:00:06Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-06T13:23:51+00:00"
+    },
+    "QrMcNe2jjt8": {
+      "video_id": "QrMcNe2jjt8",
+      "title": "The End of the Static Screen: Architecting Intent-Driven UX — Gus Iwanaga, commercetools",
+      "duration_s": 1399,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Gus Iwanaga opens by disowning his own session title, then shows the demo that did not work. His team asked their system for a sales report for Q1 four times over. It returned four different layouts: different KPI cards, different charts, different amounts of text, and copy that drifted from Q1 in one run to January and March in another. He would not ship it. None of that was a model failure. It was the consequence of handing a model a component catalog and asking it to compose the experience, which is precisely what his team had done. The rest is what they built instead, at a company carrying more than 300 APIs.\n\nHe lays the choices out as a spectrum of control. At one end you ship a fixed component and the agent only decides when to show it, which suits an opinionated flow. At the other the model emits markup that renders inside a sandboxed frame, which he demonstrates working and then declines to ship, on the grounds that a business cannot control what it cannot predict. His team took the middle. An orchestrator classifies intent, calls tools, maps the results onto eligible components, and broadcasts a UI spec that renders as native components against a schema, so the output obeys the design system every time. Two problems stay unsolved and he says so. Something must still arrange whatever the agent selected, which his team addressed by teaching it atomic design and inverting the hierarchy to run from components upward. And the catalog becomes the contract between agent and interface, so every property in it matters.\n\nSpeaker info:\n- https://x.com/guhgoi\n- https://www.linkedin.com/in/gus-iwanaga/\n\nTimestamps:\n0:00 - Changing the title, and what he wanted to talk about instead\n2:26 - Forty years of adapting ourselves to the software\n3:35 - Three interfaces, and what onboarding people to them costs\n5:54 - The question that started it, at an API first company\n7:00 - The failure demo: one query, four different layouts\n9:20 - How the orchestrator works now\n11:35 - Control: shipping an opinionated component\n12:44 - Open ended: handing the whole thing to the model\n14:59 - Declarative, and the protocols that support it\n17:21 - Who arranges the components the agent picked\n18:30 - Borrowing atomic design, and flipping the hierarchy\n21:56 - When your team stops designing pixels",
+      "published_at": "2026-09-01T20:00:01Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "QuuIywMG4s8": {
       "video_id": "QuuIywMG4s8",
@@ -7165,7 +7332,7 @@
     "R30col3UPUg": {
       "video_id": "R30col3UPUg",
       "title": "Building Applications with AI Agents — Michael Albada, Microsoft",
-      "duration_s": 949,
+      "duration_s": 950,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -7196,6 +7363,28 @@
         "machine learning"
       ],
       "details_at": "2026-08-31T15:35:12+00:00"
+    },
+    "REascnFlq_8": {
+      "video_id": "REascnFlq_8",
+      "title": "Agents' next frontier: agent-to-agent and network effects — Jean-Denis Greze, Town",
+      "duration_s": 1277,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Jean-Denis Greze and his wife share an agent that can read both of their inboxes, including mail from before they were married, and neither of them minds. Greze is CTO of Town and spent seven years as CTO at Plaid. He opens by rejecting his own topic. Agent to agent, he argues, is not a useful concept. Every LLM system is really a search problem: what matters is whether the right information sits in the context window at the moment of the tool call. The ideal is a single agent with access to all the world's information. What blocks it is not context length but privacy, and he reaches for the Coase theorem: perfect information and zero transaction cost produce the optimal outcome, and privacy is that cost.\n\nHe grades five real strategies by how closely each approximates that impossible agent. A shared trust boundary, such as an HR agent with the access of the team's most junior member, popular today but needing just as many humans as models improve. Custom tools that trade power against privacy, like one that reads everyone's mail and returns only a connection score. Shared silos fed by a sweeper agent that decides daily what may leave a private space, which he thinks pays off soonest. Humans as the conduit, which pings a hundred people to reach one. And a black box that searches every silo unasked, then seeks approval only from whoever owns the information the answer needs. Each leaks in its own way. His own wiki still calls his agent Apex, a month after he renamed it Ivy.\n\nSpeaker info:\n- https://x.com/jgreze\n- https://www.linkedin.com/in/jeandenisgreze/\n- https://greze.com/\n\nTimestamps:\n0:00 - Agents that work with other agents\n1:20 - Multi agent systems reframed as a search problem\n2:30 - The single agent that could see everything\n3:24 - The Coase theorem and the privacy limit\n4:17 - Strategy one, a shared trust boundary\n5:28 - Why that approach does not scale with the models\n6:21 - Strategy two, tools that trade power for privacy\n8:39 - Strategy three, shared silos and the sweeper agent\n11:54 - Strategy four, humans as the conduit\n12:49 - Strategy five, the black box\n15:31 - Where it breaks, and a wiki poisoned forever\n17:32 - Auto mode for privacy, and crossing company lines",
+      "published_at": "2026-09-03T15:00:25Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "RFKCzGlAU6Q": {
       "video_id": "RFKCzGlAU6Q",
@@ -7279,7 +7468,7 @@
     "ROfHHJmumcc": {
       "video_id": "ROfHHJmumcc",
       "title": "Data is Your Differentiator: Building Secure and Tailored AI Systems — Mani Khanuja, AWS",
-      "duration_s": 1209,
+      "duration_s": 1210,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -7401,7 +7590,7 @@
     "RmS5s6Wbin4": {
       "video_id": "RmS5s6Wbin4",
       "title": "Gadgets: Personal app vibe coding that is actually safe — Kenton Varda, Cloudflare",
-      "duration_s": 1133,
+      "duration_s": 1134,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -7585,7 +7774,7 @@
     "T0HhO4YtTfE": {
       "video_id": "T0HhO4YtTfE",
       "title": "AI System Design: From Idea to Production - Apoorva Joshi, MongoDB",
-      "duration_s": 1732,
+      "duration_s": 1733,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -7686,7 +7875,7 @@
     "TeGsFFNqRLA": {
       "video_id": "TeGsFFNqRLA",
       "title": "Fast Models Need Slow Developers — Sarah Chieng, Cerebras",
-      "duration_s": 1081,
+      "duration_s": 1082,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -7747,7 +7936,7 @@
     "TquUsN1QsWs": {
       "video_id": "TquUsN1QsWs",
       "title": "AI That Pays: Lessons from Revenue Cycle — Nathan Wan, Ensemble Health",
-      "duration_s": 1098,
+      "duration_s": 1099,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -7795,7 +7984,7 @@
     "U00AOI1eJUE": {
       "video_id": "U00AOI1eJUE",
       "title": "Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz",
-      "duration_s": 2449,
+      "duration_s": 2450,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -7817,7 +8006,7 @@
     "U0S6CfzAY5c": {
       "video_id": "U0S6CfzAY5c",
       "title": "360Brew: LLM-based Personalized Ranking and Recommendation - Hamed and Maziar, LinkedIn AI",
-      "duration_s": 1319,
+      "duration_s": 1320,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -7944,7 +8133,7 @@
     "Ubwb6NzegyA": {
       "video_id": "Ubwb6NzegyA",
       "title": "Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind",
-      "duration_s": 1202,
+      "duration_s": 1203,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -7979,7 +8168,7 @@
     "UcYoMg-8-L8": {
       "video_id": "UcYoMg-8-L8",
       "title": "500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Automattic",
-      "duration_s": 1068,
+      "duration_s": 1069,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -8177,7 +8366,7 @@
     "VMemhtlsoNk": {
       "video_id": "VMemhtlsoNk",
       "title": "Agents Don't Do Standups: Building the Post-Engineer Engineering Org — Mike Spitz, PFF",
-      "duration_s": 1069,
+      "duration_s": 1070,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -8427,7 +8616,7 @@
     "W2HVdB4Jbjs": {
       "video_id": "W2HVdB4Jbjs",
       "title": "Architecting Agent Memory: Principles, Patterns, and Best Practices — Richmond Alake, MongoDB",
-      "duration_s": 1056,
+      "duration_s": 1057,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -8519,7 +8708,7 @@
     "WJjInLeaJjo": {
       "video_id": "WJjInLeaJjo",
       "title": "Building Agents at Cloud Scale — Antje Barth, AWS",
-      "duration_s": 1139,
+      "duration_s": 1140,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -8598,7 +8787,7 @@
     "WXy8Yy9xGss": {
       "video_id": "WXy8Yy9xGss",
       "title": "CI in the Era of AI: From Unit Tests to Stochastic Evals — Nathan Sobo, Zed",
-      "duration_s": 889,
+      "duration_s": 890,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -8808,7 +8997,7 @@
     "XAsb7MIAzm8": {
       "video_id": "XAsb7MIAzm8",
       "title": "Don’t be data poor — Anuj Iravane, Anterior",
-      "duration_s": 1005,
+      "duration_s": 1006,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -8852,7 +9041,7 @@
     "XEd_SRVHBgU": {
       "video_id": "XEd_SRVHBgU",
       "title": "Adaption Labs: Gradient-Free Continual Learning — Sara Hooker, Adaption",
-      "duration_s": 1250,
+      "duration_s": 1251,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -8896,7 +9085,7 @@
     "XLEYtv3cMlw": {
       "video_id": "XLEYtv3cMlw",
       "title": "Autonomous Agents for Scientific Tasks - Sina Shahandeh, Radicait",
-      "duration_s": 1162,
+      "duration_s": 1163,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -8975,7 +9164,7 @@
     "XZ0boOjtbNo": {
       "video_id": "XZ0boOjtbNo",
       "title": "AI Didn’t Kill the Web, It Moved in! — Olivier Leplus (AWS) & Yohan Lasorsa (Microsoft)",
-      "duration_s": 3174,
+      "duration_s": 3175,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -9067,7 +9256,7 @@
     "Xln-On3syJk": {
       "video_id": "Xln-On3syJk",
       "title": "Generative Video at the Speed of Light — Keegan McCallum, uRun",
-      "duration_s": 522,
+      "duration_s": 523,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -9282,7 +9471,7 @@
     "YZHPEkfy2kc": {
       "video_id": "YZHPEkfy2kc",
       "title": "$1 AI Guardrails: The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero",
-      "duration_s": 2632,
+      "duration_s": 2633,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -9304,7 +9493,7 @@
     "YZQsWVeN3rE": {
       "video_id": "YZQsWVeN3rE",
       "title": "Design Patterns for AI Trust: Juries, Libraries, and Agent Tiers — Alex Bauer, Upside.tech",
-      "duration_s": 1028,
+      "duration_s": 1029,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -9497,7 +9686,7 @@
     "ZB7l4uxW3Yo": {
       "video_id": "ZB7l4uxW3Yo",
       "title": "Breaking the Chain: Agent Continuations for Resumable AI Workflows - Greg Benson",
-      "duration_s": 1621,
+      "duration_s": 1622,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -9510,7 +9699,7 @@
     "ZD9-4fW2HhM": {
       "video_id": "ZD9-4fW2HhM",
       "title": "Build Systems, Not Code - Angie Jones, Agentic AI Foundation",
-      "duration_s": 1178,
+      "duration_s": 1179,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -9620,7 +9809,7 @@
     "ZTA0GwpAUak": {
       "video_id": "ZTA0GwpAUak",
       "title": "Bringing Continual Learning into Enterprises — Samuel Denton, Applied Compute",
-      "duration_s": 1142,
+      "duration_s": 1143,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -9677,7 +9866,7 @@
     "ZpK5PWX2YRM": {
       "video_id": "ZpK5PWX2YRM",
       "title": "Should AI Engineers Still Read Code in 2026? The Z/L Continuum — Alex Volkov, ThursdAI",
-      "duration_s": 1294,
+      "duration_s": 1295,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -9721,6 +9910,28 @@
       "published_at": "2025-07-13T17:30:06Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:12+00:00"
+    },
+    "ZyGMqdIpPoE": {
+      "video_id": "ZyGMqdIpPoE",
+      "title": "Agent Spending Without Controls — Rodrigo Coelho & Pranav Maheshwari, Edge & Node",
+      "duration_s": 1248,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Pranav Maheshwari ran one prompt in two terminals: find the email address of the head of crypto and blockchain at Mastercard. The terminal without a payment skill file returned the company's email format and an invitation to work the rest out. The one with it paid a fraction of a cent to a metered endpoint and came back with the address, the person's location and their handle. That gap is the whole argument. Most MCP servers are free today, and his claim is that the useful ones will not stay free, which leaves an agent only as capable as the tools it can pay for. Rodrigo Coelho sets up the longer history first: Edge & Node built The Graph, served 1.8 trillion onchain queries, and shipped a query micropayment system in 2021 that cited the HTTP 402 spec years before Coinbase released x402.\n\nWhat stops enterprises adopting any of this, in Coelho's telling, is compliance rather than throughput. Traditional rails assume a human somewhere in the decision loop. Agents transact around the clock at machine speed, and a counterparty arrives as a bare wallet address with no identity attached to it. Somebody carrying a title like chief legal officer has to sign off, knowing that getting sanctions screening wrong carries fines in the billions. The closing demo makes that concrete. Two agents hit a metered scraping service, one from an ordinary wallet and one from a wallet flagged as sanctioned. With screening off, both transactions authorize. Switching screening on leaves the first working and rejects the second as a blocklisted address.\n\nSpeaker info:\n- https://x.com/rodventures\n- https://www.linkedin.com/in/rodrigoco/\n- https://x.com/impranavm_\n- https://www.linkedin.com/in/thepranavmaheshwari/\n\nTimestamps:\n0:00 - The Graph, and paying for queries before x402 existed\n2:03 - Prior art: micropayments, the 402 spec, and joining the foundation\n3:52 - Rails built for humans in the loop, not machines\n4:49 - Why enterprises stall without a compliance layer\n5:42 - A wallet address with no identity behind it\n6:37 - The officer who signs off, and the size of the fines\n7:35 - Agents are only as good as the tools they can pay for\n8:31 - Demo: the same prompt with and without the skill file\n12:16 - Demo: an agent buying a gift under a set budget\n16:14 - Demo: screening a sanctioned wallet\n18:04 - Compliance on, and the transaction rejects",
+      "published_at": "2026-09-01T19:30:09Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "ZyIoTOAbRfs": {
       "video_id": "ZyIoTOAbRfs",
@@ -9773,7 +9984,7 @@
     "_A367W_qvc8": {
       "video_id": "_A367W_qvc8",
       "title": "Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind",
-      "duration_s": 1142,
+      "duration_s": 1143,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -10067,7 +10278,7 @@
     "a4BV0gGmXgA": {
       "video_id": "a4BV0gGmXgA",
       "title": "Five hard earned lessons about Evals — Ankur Goyal, Braintrust",
-      "duration_s": 1185,
+      "duration_s": 1186,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -10115,7 +10326,7 @@
     "abvQEhvRI_c": {
       "video_id": "abvQEhvRI_c",
       "title": "Context Graphs for Explainable, Decision-Aware AI Agents — Andreas Kollegger & Zaid Zaim, Neo4j",
-      "duration_s": 998,
+      "duration_s": 999,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -10137,7 +10348,7 @@
     "aeTb5BdmTTc": {
       "video_id": "aeTb5BdmTTc",
       "title": "Agents, codebases, and teams — Aditya Khandelwal, Amazon AGI Lab",
-      "duration_s": 1016,
+      "duration_s": 1017,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -10312,7 +10523,7 @@
     "bSG9wUYaHWU": {
       "video_id": "bSG9wUYaHWU",
       "title": "Context Is the New Code — Patrick Debois, Tessl",
-      "duration_s": 1633,
+      "duration_s": 1634,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -10334,7 +10545,7 @@
     "bUBF5V6oDKw": {
       "video_id": "bUBF5V6oDKw",
       "title": "Containing Agent Chaos — Solomon Hykes, Dagger",
-      "duration_s": 1427,
+      "duration_s": 1428,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -10623,7 +10834,7 @@
     "c5qJHr3DnT4": {
       "video_id": "c5qJHr3DnT4",
       "title": "GraphRAG methods to create optimized LLM context windows for Retrieval — Jonathan Larson, Microsoft",
-      "duration_s": 908,
+      "duration_s": 909,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -10715,7 +10926,7 @@
     "cVzf49yg0D8": {
       "video_id": "cVzf49yg0D8",
       "title": "Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind",
-      "duration_s": 6453,
+      "duration_s": 6454,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -10772,7 +10983,7 @@
     "d5EltXhbcfA": {
       "video_id": "d5EltXhbcfA",
       "title": "Building and evaluating AI Agents — Sayash Kapoor, AI Snake Oil",
-      "duration_s": 1199,
+      "duration_s": 1200,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -10912,7 +11123,7 @@
     "dyHpnnlkTc8": {
       "video_id": "dyHpnnlkTc8",
       "title": "Cooking with Agents in VS Code — Liam Hampton, Microsoft",
-      "duration_s": 1023,
+      "duration_s": 1024,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -11043,7 +11254,7 @@
     "eW_vxrjvERk": {
       "video_id": "eW_vxrjvERk",
       "title": "Connecting the Dots with Context Graphs — Stephen Chin, Neo4j",
-      "duration_s": 1058,
+      "duration_s": 1059,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -11100,7 +11311,7 @@
     "ewtOo0scUh0": {
       "video_id": "ewtOo0scUh0",
       "title": "Data and Environment Curation for Post-Training LLMs — Mahesh Sathiamoorthy, Bespoke Labs",
-      "duration_s": 1151,
+      "duration_s": 1152,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -11122,7 +11333,7 @@
     "fL1iJHtl51Q": {
       "video_id": "fL1iJHtl51Q",
       "title": "Building Cursor Composer – Lee Robinson, Cursor",
-      "duration_s": 935,
+      "duration_s": 936,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -11157,7 +11368,7 @@
     "fWXJM-J0ZB8": {
       "video_id": "fWXJM-J0ZB8",
       "title": "Frontier results, on device - RL Nabors, Arize",
-      "duration_s": 1851,
+      "duration_s": 1852,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -11231,7 +11442,7 @@
     "flf_IKnFYnE": {
       "video_id": "flf_IKnFYnE",
       "title": "From Stateless Nightmares to Durable Agents — Samuel Colvin, Pydantic",
-      "duration_s": 1332,
+      "duration_s": 1333,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -11432,7 +11643,7 @@
     "gvIAkmZUEZY": {
       "video_id": "gvIAkmZUEZY",
       "title": "Amp Code: Next Generation AI Coding – Beyang Liu, Amp Code",
-      "duration_s": 1110,
+      "duration_s": 1111,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -11476,6 +11687,28 @@
       "published_at": "2025-08-23T16:30:06Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:13+00:00"
+    },
+    "h6mi88VrPtQ": {
+      "video_id": "h6mi88VrPtQ",
+      "title": "x402 isn’t good (yet) — Jan Curn, Apify",
+      "duration_s": 1248,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Between the moment an x402 server verifies a payment signature and the moment it settles on the blockchain, nothing stops the buyer spending that money somewhere else. Jan Curn's point is that a client can mint a thousand signatures against one wallet, so any seller starting real work on the strength of a verification is exposed. The workaround is to do the work only after settlement, fine for a fixed price API call and awkward for anything slower. Curn is bullish enough on x402 to have shipped it two days before this talk, adding 20,000 Apify tools to a marketplace that previously carried about 2,000, and critical enough to spend the session on what it still gets wrong. He pitches it as a sequel to a talk here last year arguing that MCP was not good yet.\n\nThe gaps compound. x402 wants HTTP 402 as the server's first response and MCP wants 401, and since one response cannot be both, companies stand up a second hostname purely for payments. Curn calls that an antipattern and asks how anyone would feel about a separate Amazon for every credit card. The original exact scheme charges a fixed fee per call, which does not fit tools that run for seconds or for hours, and the up to scheme meant to fix metered billing left the double spending window open anyway. Apify settled on charging in full and refunding the remainder, at the cost of a second chain transaction and a trust assumption pointing the wrong way. He is watching batch settlement, and has shipped a markdown page an agent reads to buy a prepaid token, deliberately not an API.\n\nSpeaker info:\n- https://x.com/jancurn\n- https://www.linkedin.com/in/jancurn/\n- https://apify.com/jancurn\n\nTimestamps:\n0:00 - A callback to \"MCP isn't good yet\"\n2:02 - Apify's 45,000 tools, and 10x'ing the x402 catalog\n4:47 - The standards pileup, from L402 to Agent Pay\n5:39 - Why crypto fits agentic payments, disputes included\n8:25 - A 30 year old status code finally picked up\n9:19 - The x402 flow, and the double spending window\n11:10 - When x402 wants a 402 and MCP wants a 401\n12:59 - Exact, then \"up to\", and what it still did not fix\n13:55 - Charging in full, refunding the rest, and batch settlement\n16:38 - AGI, an agent general interface\n19:26 - Where the volume actually is today",
+      "published_at": "2026-09-01T19:00:09Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "hCMrEfPG2Yg": {
       "video_id": "hCMrEfPG2Yg",
@@ -11524,7 +11757,7 @@
     "hMlLw1LeIK8": {
       "video_id": "hMlLw1LeIK8",
       "title": "Designing Voice Agents for Real Conversations - Chintan Agrawal & Daniel Wirjo, AWS",
-      "duration_s": 1976,
+      "duration_s": 1977,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -11603,7 +11836,7 @@
     "hqHC6Z_lXyo": {
       "video_id": "hqHC6Z_lXyo",
       "title": "20 days of compute vs 7 hours: rethinking what state-of-the-art means — Bertrand Charpentier, Pruna",
-      "duration_s": 1175,
+      "duration_s": 1176,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -11625,7 +11858,7 @@
     "huQPkrwVWwc": {
       "video_id": "huQPkrwVWwc",
       "title": "Design like Karpathy is watching — Zeke Sikelianos, Replicate",
-      "duration_s": 1165,
+      "duration_s": 1166,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -11958,7 +12191,7 @@
     "jHMiYtjoJfA": {
       "video_id": "jHMiYtjoJfA",
       "title": "Designing Agents (The Floor Is the Frontier) — Ben Hylak, Raindrop",
-      "duration_s": 1185,
+      "duration_s": 1186,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12006,7 +12239,7 @@
     "jQDXzEVHMSE": {
       "video_id": "jQDXzEVHMSE",
       "title": "Building Turbopuffer: Gergely Orosz (@pragmaticengineer ) × Simon Eskildsen (CEO)",
-      "duration_s": 3389,
+      "duration_s": 3390,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12028,7 +12261,7 @@
     "jQcsVk0KWiQ": {
       "video_id": "jQcsVk0KWiQ",
       "title": "A Taxonomy for Next-gen Reasoning — Nathan Lambert, Allen Institute (AI2) & Interconnects.ai",
-      "duration_s": 1160,
+      "duration_s": 1161,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12076,7 +12309,7 @@
     "jVGCulhBRZI": {
       "video_id": "jVGCulhBRZI",
       "title": "Building AI Agents that actually automate Knowledge Work - Jerry Liu, LlamaIndex",
-      "duration_s": 1076,
+      "duration_s": 1077,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12089,7 +12322,7 @@
     "jVjt-2g8NMY": {
       "video_id": "jVjt-2g8NMY",
       "title": "A Genius With Amnesia - Victor Savkin, Nx",
-      "duration_s": 1199,
+      "duration_s": 1200,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12111,7 +12344,7 @@
     "jWq-aZIU0kM": {
       "video_id": "jWq-aZIU0kM",
       "title": "Benchmarks: The Good, the Bad, and the Ugly — Ali Khial, G2i",
-      "duration_s": 768,
+      "duration_s": 769,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12146,7 +12379,7 @@
     "jebp4V0vh30": {
       "video_id": "jebp4V0vh30",
       "title": "Agentic Sites: Building Hyper Personalized Websites — Carlos Sanchez, Adobe",
-      "duration_s": 1242,
+      "duration_s": 1243,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12417,7 +12650,7 @@
     "kTnfJszFxCg": {
       "video_id": "kTnfJszFxCg",
       "title": "3 ingredients for building reliable enterprise agents - Harrison Chase, LangChain/LangGraph",
-      "duration_s": 1254,
+      "duration_s": 1255,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12430,7 +12663,7 @@
     "kWOQS3XPZ10": {
       "video_id": "kWOQS3XPZ10",
       "title": "Developing Taste in Coding Agents: Applied Meta Neuro-Symbolic RL — Ahmad Awais, CommandCode",
-      "duration_s": 1251,
+      "duration_s": 1252,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12531,7 +12764,7 @@
     "kmV-qg4uoNI": {
       "video_id": "kmV-qg4uoNI",
       "title": "Building durable Agents with Workflow DevKit & AI SDK - Peter Wielander, Vercel",
-      "duration_s": 4188,
+      "duration_s": 4189,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12557,7 +12790,7 @@
     "kv-QAuKWllQ": {
       "video_id": "kv-QAuKWllQ",
       "title": "How we hacked YC Spring 2025 batch’s AI agents — Rene Brandel, Casco",
-      "duration_s": 1052,
+      "duration_s": 1053,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12570,7 +12803,7 @@
     "l0FLhNqBOic": {
       "video_id": "l0FLhNqBOic",
       "title": "AI tools for Forward Deployed Engineering — Vasuman Moza, Varick Agents",
-      "duration_s": 1222,
+      "duration_s": 1223,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12592,7 +12825,7 @@
     "l614N5W60ls": {
       "video_id": "l614N5W60ls",
       "title": "Foundry Local: Cutting-Edge AI experiences on device with ONNX Runtime/Olive — Emma Ning, Microsoft",
-      "duration_s": 1371,
+      "duration_s": 1372,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12605,7 +12838,7 @@
     "lArgRvBV3tQ": {
       "video_id": "lArgRvBV3tQ",
       "title": "Forget RAG Pipelines—Build Production Ready Agents in 15 Mins: Nina Lopatina, Rajiv Shah, Contextual",
-      "duration_s": 4542,
+      "duration_s": 4543,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12745,7 +12978,7 @@
     "ltv-L5oMPIs": {
       "video_id": "ltv-L5oMPIs",
       "title": "Build the AI GTM Agent That Knows the Buyer - Dr. Sajjan Kanukolanu, Position2 (Position Squared)",
-      "duration_s": 1586,
+      "duration_s": 1587,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12802,7 +13035,7 @@
     "m24UKZomm7k": {
       "video_id": "m24UKZomm7k",
       "title": "Don't Let the LLM Drive - Ornella Bahidika & Joel Allou, Microsoft",
-      "duration_s": 367,
+      "duration_s": 368,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12837,7 +13070,7 @@
     "mFLlVpnGpds": {
       "video_id": "mFLlVpnGpds",
       "title": "Beyond Transcription: Building Voice AI That Understands Conversations — Hervé Bredin, pyannoteAI",
-      "duration_s": 1519,
+      "duration_s": 1520,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12894,7 +13127,7 @@
     "mMNkdYnIVC4": {
       "video_id": "mMNkdYnIVC4",
       "title": "Einstein Arena: Harnessing Collective Agent Intelligence for Open Science — James Zou, Together AI",
-      "duration_s": 1015,
+      "duration_s": 1016,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -12938,7 +13171,7 @@
     "mQ7_Zje7WKE": {
       "video_id": "mQ7_Zje7WKE",
       "title": "The 2025 AI Engineering Report — Barr Yaron, Amplify",
-      "duration_s": 752,
+      "duration_s": 753,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -13030,7 +13263,7 @@
     "maTp79FD9gI": {
       "video_id": "maTp79FD9gI",
       "title": "Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon Lens",
-      "duration_s": 852,
+      "duration_s": 853,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -13148,7 +13381,7 @@
     "nnktgWtfJHE": {
       "video_id": "nnktgWtfJHE",
       "title": "Blender MCP and The Future Of Creative Tools - Siddharth Ahuja",
-      "duration_s": 1009,
+      "duration_s": 1010,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -13205,7 +13438,7 @@
     "nxuTVd7v7dg": {
       "video_id": "nxuTVd7v7dg",
       "title": "Full Workshop: Realtime Voice AI — Mark Backman, Daily",
-      "duration_s": 4180,
+      "duration_s": 4181,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -13266,7 +13499,7 @@
     "o4scJaQgnFA": {
       "video_id": "o4scJaQgnFA",
       "title": "From Arc to Dia: Lessons learned building AI Browsers – Samir Mody, The Browser Company of New York",
-      "duration_s": 1067,
+      "duration_s": 1068,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -13371,7 +13604,7 @@
     "owH1f0N-keY": {
       "video_id": "owH1f0N-keY",
       "title": "Gemini Nano on device — Florina Muntenescu & Oli Gaymond, Google DeepMind",
-      "duration_s": 1177,
+      "duration_s": 1178,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -13406,7 +13639,7 @@
     "pFsfax19yOM": {
       "video_id": "pFsfax19yOM",
       "title": "Full Walkthrough: Writing & Using Skills — Nick Nisi and Zack Proser",
-      "duration_s": 4862,
+      "duration_s": 4863,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -13498,7 +13731,7 @@
     "pPj_tjlvYjA": {
       "video_id": "pPj_tjlvYjA",
       "title": "Building an Agentic Video Editor for Mass Consumer — Ekaterina Deyneka, Reelful",
-      "duration_s": 764,
+      "duration_s": 765,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -13581,7 +13814,7 @@
     "pWXUkLP9uWM": {
       "video_id": "pWXUkLP9uWM",
       "title": "First Steps Toward Automated AI Research — Richard Socher, CEO Recursive AI",
-      "duration_s": 1223,
+      "duration_s": 1224,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -13669,7 +13902,7 @@
     "px2e2OOS2Sk": {
       "video_id": "px2e2OOS2Sk",
       "title": "Agents, Access, and the Future of Machine Identity — Nick Nisi (WorkOS) + Lizzie Siegle (Cloudflare)",
-      "duration_s": 856,
+      "duration_s": 857,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -13784,6 +14017,28 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:13+00:00"
     },
+    "qTZirYu9pr0": {
+      "video_id": "qTZirYu9pr0",
+      "title": "When AI Agents Pay and Sellers Monetize: Building x402 Apps on AWS — Anil Nadiminti, AWS",
+      "duration_s": 1241,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Card rails put a floor under every transaction: a 25 cent minimum with a percentage on top. Anil Nadiminti's point is that when an agent pays a tenth of a cent for a single API call, that floor costs roughly 250 times the thing being bought, which is why the subscription model cannot simply be pointed at agents. Meanwhile the traffic has already turned over. He puts bot traffic past human traffic on the open web, with the large majority of it coming from AI agents, leaving sellers to choose between blocking it, which forfeits discovery, citations and licensing revenue, or absorbing it, which means carrying the infrastructure cost and losing attribution. His framing for the way out is that the human moves from in the loop to out of it, and the payment becomes the credential.\n\nThe AWS pieces land on both sides of that. On the buy side, AgentCore Payments gives an agent a wallet, a connector layer built to be protocol agnostic, and per session spending limits with an expiry. Two design choices carry the security argument. Imported wallet keys sit in a KMS backed store the agent cannot read, and the payment path is decoupled from the agent loop entirely, on the reasoning that skills and inputs can be poisoned and payment has no business running on a nondeterministic path. On the sell side, bot detection at the edge classifies over 650 bot types, verifies them by signature and infers whether a request is for training or for search, which lets a publisher price by path, by whether the bot belongs to a known partner, and by intent, without touching the origin.\n\nSpeaker info:\n- https://x.com/super_intel_bot\n- https://www.linkedin.com/in/nadiminti\n\nTimestamps:\n0:00 - A paywall built for humans, and traffic that is not\n1:08 - Bot traffic passes human traffic\n2:58 - The seller's dilemma: block bots or absorb them\n6:36 - Why a 25 cent floor kills a microcent payment\n7:31 - The x402 flow, end to end\n9:23 - AgentCore Payments, and setting spend limits\n12:12 - Why the agent never holds the private keys\n13:05 - Decoupling payments from a poisonable agent loop\n14:57 - Bot detection, and reading intent\n15:51 - Monetizing AI traffic at the edge\n17:42 - Pricing by path, by identity, by intent\n18:38 - What the volume looks like today",
+      "published_at": "2026-09-01T18:00:14Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-06T13:23:51+00:00"
+    },
     "q_ixa5EW8DY": {
       "video_id": "q_ixa5EW8DY",
       "title": "Insights on Building AI Teams — Heath Black, SignalFire",
@@ -13879,7 +14134,7 @@
     "qqXdLf3wy1E": {
       "video_id": "qqXdLf3wy1E",
       "title": "Agents are Robots Too: What Self-Driving Taught Me About Building Agents — Jesse Hu, Abundant",
-      "duration_s": 1056,
+      "duration_s": 1057,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -13949,7 +14204,7 @@
     "rT2Del5pwg4": {
       "video_id": "rT2Del5pwg4",
       "title": "Developer Experience in the Age of AI Coding Agents – Max Kanat-Alexander, Capital One",
-      "duration_s": 1099,
+      "duration_s": 1100,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -14023,7 +14278,7 @@
     "rnDm57Py54A": {
       "video_id": "rnDm57Py54A",
       "title": "Building your own software factory — Eric Zakariasson, Cursor",
-      "duration_s": 5016,
+      "duration_s": 5017,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -14190,7 +14445,7 @@
     "sPUjIBH5Cwg": {
       "video_id": "sPUjIBH5Cwg",
       "title": "Agents on the Canvas in tldraw — Steve Ruiz, tldraw",
-      "duration_s": 1193,
+      "duration_s": 1194,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -14225,7 +14480,7 @@
     "sXXl3YMU7ZI": {
       "video_id": "sXXl3YMU7ZI",
       "title": "Building Reliable Support Agents Using the Effect Typescript Library - Michael Fester",
-      "duration_s": 441,
+      "duration_s": 442,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -14251,7 +14506,7 @@
     "shRR1e2HXMk": {
       "video_id": "shRR1e2HXMk",
       "title": "Codex, Behind the Harness — Dominik Kundel, OpenAI",
-      "duration_s": 1254,
+      "duration_s": 1255,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -14343,7 +14598,7 @@
     "spvXj9tnWAQ": {
       "video_id": "spvXj9tnWAQ",
       "title": "Engineering Better Evals: Scalable LLM Evaluation Pipelines That Work — Dat Ngo, Aman Khan, Arize",
-      "duration_s": 1485,
+      "duration_s": 1486,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -14441,6 +14696,28 @@
       ],
       "details_at": "2026-08-31T15:35:13+00:00"
     },
+    "tE2z8-hqoLY": {
+      "video_id": "tE2z8-hqoLY",
+      "title": "Beyond the Lethal Trifecta: Agentic Commerce on the Open Internet — David Levine, Kiduna Club",
+      "duration_s": 1300,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Two hours before David Levine took the closing slot of the conference, the West Virginia Secretary of State wrote back to confirm organization number 62847. The paperwork had gone out by FedEx. What it registered was a DUNA, a decentralized unincorporated nonprofit association, under a law that had taken effect the day before, and Levine's claim is that an organization composed of agents now has legal standing. It can own property, enter agreements, open bank accounts, raise capital and be held responsible in court, with the catch that it cannot distribute profits to members without turning those memberships into securities. He opens somewhere else entirely: a wedding in November 1993, where a friend handed him a scrap of paper with a hostname and a port number written on it.\n\nThat was LambdaMOO, running on one workstation at Xerox PARC, and his reading is that it worked because governance, technology, economics and culture all composed into a single thing. His account of the thirty years since is that platforms and algorithms are extractive by nature and ground those communities down. The lethal trifecta, a term he credits to Simon Willison, is what now stops agents rebuilding them in the open: private data, untrusted content, and the ability to act. That combination is why enterprises pen their agents inside Slack and Salesforce and pay for the context they lose. Levine's answer is identity. Agents carry JWT tokens that resolve up to a registered organization much the way DNS resolves a name, with an audit trail underneath. Governance runs on decision markets, where members trade pass and fail tokens on a proposed policy instead of voting on it.\n\nSpeaker info:\n- https://x.com/bigkiduna\n- https://linkedin.com/in/motodave\n- https://motodave.com\n\nTimestamps:\n0:00 - A scrap of paper at a 1993 wedding\n1:09 - LambdaMOO, and why composability felt like a world\n2:57 - Thirty years of platforms grinding communities down\n3:54 - Prompt injection, and the lethal trifecta\n6:39 - Why enterprises pen their agents in, and what it costs\n7:34 - Organization number 62847, filed two hours earlier\n8:32 - What a DUNA is, is not, and what it can legally do\n10:24 - Why blockchain finally found its problem\n11:20 - Building an ally: inform, instruct, empower, enact, align\n13:16 - Resolving the trifecta with JWT and a registry\n15:08 - Decision markets instead of votes\n16:56 - An invitation, and questions from the room",
+      "published_at": "2026-09-01T20:30:27Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-06T13:23:51+00:00"
+    },
     "tHJSZ1-ZqcA": {
       "video_id": "tHJSZ1-ZqcA",
       "title": "The Agent Awakens: Collaborative Development with Copilot - Christopher Harrison, GitHub",
@@ -14470,7 +14747,7 @@
     "tJFjeMBKbIY": {
       "video_id": "tJFjeMBKbIY",
       "title": "Build for the Memo, Not the Demo — Shawn Chan, China Resources Holdings",
-      "duration_s": 1462,
+      "duration_s": 1463,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -14492,7 +14769,7 @@
     "tOou_GJ9Ddk": {
       "video_id": "tOou_GJ9Ddk",
       "title": "Are MCPs Overhyped? A Rant about MCPs — Henry Mao, Smithery",
-      "duration_s": 448,
+      "duration_s": 449,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -14566,7 +14843,7 @@
     "u0TOSBbAw7c": {
       "video_id": "u0TOSBbAw7c",
       "title": "Cognitive Exhaust Fumes, or: Read-Only AI Is Underrated — Šimon Podhajský, Head of AI, Waypoint",
-      "duration_s": 690,
+      "duration_s": 691,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -14870,6 +15147,28 @@
       ],
       "details_at": "2026-08-30T22:27:44+00:00"
     },
+    "vGn6N4-bxBY": {
+      "video_id": "vGn6N4-bxBY",
+      "title": "Your Agent Just Authorized What?! — Jay Mok & Ben Coumes, Paypal",
+      "duration_s": 967,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "A PayPal order has always been synchronous. You find the item, you open the app, you approve it, it is done. The approval token demonstrated here inverts that: the user approves before the agent has found an item or picked a merchant, and PayPal returns a JSON payload carrying the amount, the expiry, and the merchant the agent is permitted to transact with. It was days from shipping when this was recorded. That inversion is the concrete end of a broader argument about agent authorization, built on three questions any such system has to answer. Did the human authorize this? Is it allowed right now, in this scope? And can we prove it later? The answers, the talk argues, depend entirely on how high the stakes are and on whether the two parties have ever met.\n\nThe rest maps those questions onto a ladder. At the bottom is a coding agent, where consent happens once when tools are connected, permission is granted per tool as allow, ask or deny, and ordinary logs are proof enough because the actions can be reverted. In the middle is money moving between parties who already know each other through a shared vault and OAuth scopes, where a mandate carries the amount and the scope and existing transaction logs settle disputes. At the top is the case nobody has running in production yet: an agent transacting autonomously with a counterparty it has never met. The proposal there is a layered selective disclosure JWT, so a merchant can verify the checkout and a processor can verify the payment mandate without either knowing the other.\n\nTimestamps:\n0:00 - Terminator, and the agent that empties your wallet\n1:26 - Three questions any agent authorization has to answer\n2:49 - Stakes, counterparties, and the badge analogy\n4:12 - Low stakes: a coding agent with allow, ask and deny\n6:15 - Medium stakes: a shared vault and OAuth scopes\n9:45 - High stakes: counterparties who have never met\n10:29 - A layered selective disclosure JWT\n12:30 - The approval token, and inverting the order flow\n14:31 - Why the ladder applies beyond payments",
+      "published_at": "2026-09-01T18:30:06Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-06T13:23:51+00:00"
+    },
     "vJukHCIv7Ck": {
       "video_id": "vJukHCIv7Ck",
       "title": "Stop AI Agent Hallucinations: 5 Techniques + Production Patterns - Elizabeth Fuentes, AWS",
@@ -14917,7 +15216,7 @@
     "vRFqbEzzDsI": {
       "video_id": "vRFqbEzzDsI",
       "title": "Building Agentic Applications w/ Heroku Managed Inference and Agents — Julián Duque & Anush Dsouza",
-      "duration_s": 3154,
+      "duration_s": 3155,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15079,7 +15378,7 @@
     "wAQK7O3WGEE": {
       "video_id": "wAQK7O3WGEE",
       "title": "Agents reported thousands of bugs, how many were real? - Ian Butler and Nick Gregory",
-      "duration_s": 1118,
+      "duration_s": 1119,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15089,10 +15388,32 @@
       "tags": [],
       "details_at": "2026-08-30T22:28:36+00:00"
     },
+    "wCIYViPd4SU": {
+      "video_id": "wCIYViPd4SU",
+      "title": "Tethered: Our Agents Are Us — Shu Fang, Two Sigma",
+      "duration_s": 1270,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Every employee at Two Sigma has a remote cloud agent, and it runs as them. Not a service account but their own identity, at a 25 year old quant fund in one of the most regulated industries there is. Shu Fang grew a mustache so the audience could tell him apart from his. His framing comes from the horror film Us, where the doubles are called the tethered and turn dangerous once they slip loose. The conventional design, where Shu has a Shu agent, collapsed fast. Permissions drift out of sync, licensing doubles, some systems refuse to let two identities touch the same data, and you inherit a boundary nobody wants to maintain. Running the agent as the user erases all of it, and the infrastructure already existed: a Kubernetes namespace per person in every region, built for automated jobs, with a sidecar mounting the identity into the pod.\n\nThat leaves two real dangers. If the agent is you, nobody can tell what you did from what it did, so they propagate a header the way you would a trace ID, recovering not just the actor but the replayable chain behind a result. The larger fear is web access, since a model needs the open internet, which opens exfiltration, prompt injection and licensing exposure at once. Their answer is Google's web grounding for enterprise, a search index reachable inside their own network boundary, paired with denying the native search and fetch tools so nothing routes around it. The cost is freshness, roughly 24 hours. Fang argues the risk fell much further than the value did.\n\nTimestamps:\n0:00 - Why the fund is called Two Sigma\n1:20 - Every employee gets an agent that runs as them\n1:49 - The tethered, and what happens when they slip loose\n2:48 - Why a separate agent identity collapses\n4:09 - The namespace infrastructure that already existed\n5:17 - Danger one, telling the human from the agent\n5:58 - Danger two, what open web access exposes\n7:07 - Risk and return, read as a hedge fund would\n8:04 - A trace header, and provenance for the whole chain\n9:56 - Web grounding inside the network boundary\n11:21 - Denying the native search and fetch tools\n12:28 - What it cost, and what it bought\n15:26 - Questions on local models, spoofing and audit",
+      "published_at": "2026-09-03T14:30:21Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-06T13:23:51+00:00"
+    },
     "wE1ZCmCLP5g": {
       "video_id": "wE1ZCmCLP5g",
       "title": "A year of Gemini progress + what comes next — Logan Kilpatrick, Google DeepMind",
-      "duration_s": 717,
+      "duration_s": 718,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15127,7 +15448,7 @@
     "wFTVEDYVJT0": {
       "video_id": "wFTVEDYVJT0",
       "title": "Building Agents with Amazon Nova Act and MCP - Du'An Lightfoot, Amazon (Full Workshop)",
-      "duration_s": 5179,
+      "duration_s": 5180,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15140,7 +15461,7 @@
     "wHhlvcQgi9M": {
       "video_id": "wHhlvcQgi9M",
       "title": "7 Habits of Highly Effective Generative AI Evaluations - Justin Muller",
-      "duration_s": 1538,
+      "duration_s": 1539,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15179,7 +15500,7 @@
     "wVl6ZjELpBk": {
       "video_id": "wVl6ZjELpBk",
       "title": "Future-Proof Coding Agents – Bill Chen & Brian Fioca, OpenAI",
-      "duration_s": 1067,
+      "duration_s": 1068,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15192,7 +15513,7 @@
     "wXVvfFMTyzY": {
       "video_id": "wXVvfFMTyzY",
       "title": "A2A & MCP Workshop: Automating Business Processes with LLMs — Damien Murphy, Bench",
-      "duration_s": 4993,
+      "duration_s": 4994,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15398,7 +15719,7 @@
     "x8Yb4RidLgM": {
       "video_id": "x8Yb4RidLgM",
       "title": "FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs",
-      "duration_s": 1351,
+      "duration_s": 1352,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15465,6 +15786,28 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:13+00:00"
     },
+    "xKzU_3riL6s": {
+      "video_id": "xKzU_3riL6s",
+      "title": "Why Your AI Agent Needs a Wallet: USDC and Nanopayments — Harshal Bhangale, Circle",
+      "duration_s": 1252,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Harshal Bhangale gave two identical agents the same job: plan a trip to the World Cup final, covering flights, hotels, resale ticket prices and what people said about getting to the stadium, then email him the summary and call him about it. One had a funded wallet. The other did not. The agent without one drafted the email into his inbox and could not send it, then admitted on screen that it had no way to place a call. The agent with one paid for the data it needed, sent the mail, and rang him on stage, where it also answered a follow up question about reaching the stadium from his hotel. Circle issues USDC, and Bhangale's answer for why a stablecoin company belongs at this conference is that paying is where agents stall.\n\nThe economics are the whole argument. Agents consume in fractional amounts at high frequency, and a card fee near 3% cannot sit on top of a one cent call, which is exactly the size sellers are moving toward now that they can meter a slice of their data instead of selling a human a subscription. He cites roughly 24 million dollars transacted against paid API endpoints over x402 in thirty days, almost all settled in USDC. Blockchains alone do not fix it either. Gas exists to stop spam, but gas on a microtransaction swamps the transaction, and shared block space makes latency unpredictable. Circle's answer is to keep settlement off the chain: funds are deposited into a smart contract, the agent signs authorizations cryptographically, and the seller relays them for confirmation in a few hundred milliseconds. The wallet enforces the spending cap, not a human.\n\nSpeaker info:\n- https://www.linkedin.com/in/harshaldbhangale\n\nTimestamps:\n0:00 - Why a stablecoin company is at an AI conference\n1:05 - Where agents actually stall\n1:58 - From prompts to workflows to agents that pay\n2:53 - x402 in one paragraph\n4:48 - Why card fees break on a one cent transaction\n5:41 - Demo: two agents, one with a wallet\n9:34 - Guardrails in the wallet instead of human approval\n11:53 - The agent that drafts an email it cannot send\n14:19 - The phone call, live on stage\n16:16 - Why gas fees and shared block space bite\n17:10 - Nanopayments, and settlement in milliseconds",
+      "published_at": "2026-09-01T17:30:10Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-06T13:23:51+00:00"
+    },
     "xOP1PM8fwnk": {
       "video_id": "xOP1PM8fwnk",
       "title": "Building Generative Image & Video models at Scale - Sander Dieleman, Google DeepMind",
@@ -15490,7 +15833,7 @@
     "xUnRQ9vLXxo": {
       "video_id": "xUnRQ9vLXxo",
       "title": "Everything we knew about software has changed — Theo Browne, @t3dotgg ​",
-      "duration_s": 961,
+      "duration_s": 962,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15512,7 +15855,7 @@
     "x_1EumTaXeE": {
       "video_id": "x_1EumTaXeE",
       "title": "Beyond the Prototype: Using AI to Write High-Quality Code - Josh Albrecht, Imbue",
-      "duration_s": 1078,
+      "duration_s": 1079,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15547,7 +15890,7 @@
     "xg1zNlzw7Jk": {
       "video_id": "xg1zNlzw7Jk",
       "title": "Claws Out: Securing and Building with OpenClaw - Nick Taylor, Pomerium",
-      "duration_s": 1031,
+      "duration_s": 1032,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15592,6 +15935,28 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:13+00:00"
     },
+    "xxfMT-bPEmU": {
+      "video_id": "xxfMT-bPEmU",
+      "title": "From coding to Knowledge work agents — Karan Vaidya, Composio",
+      "duration_s": 1242,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Karan Vaidya pointed his own OpenClaw at hiring outreach and it mass emailed candidates exactly as instructed. Some of the people in the room had received one. The thread that followed put his name on Twitter, and every check in the software engineering playbook would have passed. The addresses were real, the emails were valid, they reached actual people. Nothing tested the only question that mattered, which was whether the outreach should have gone at all. Vaidya, cofounder and CTO of Composio, turns his own disaster into a larger claim: coding agents did not race ahead because models are better at code, but because code already had everything an agent needs around it.\n\nHe walks six primitives coding got for free and knowledge work lacks entirely. Centralization, since one deal is scattered across Salesforce, Notion, Gmail, Slack and Zendesk behind five separate logins. History, because git records every change while business apps keep nothing an agent can read back. Context, both the map of how an organization works and the unwritten sense of what good looks like. Then verification, governance and reversibility. On governance he cites the alignment director at Meta whose email agent kept deleting messages after she told it to stop, until she reached a physical machine. Two hundred were gone, and she had prompted it in advance to confirm. A prompt lives in memory that gets compacted away, so Composio puts the wall outside the agent. Reversibility is the one he concedes is hardest, because a sent email or a wire cannot be called back.\n\nSpeaker info:\n- https://x.com/KaranVaidya6\n- https://www.linkedin.com/in/kaavee315/\n- https://kvaidya.com/\n\nTimestamps:\n0:00 - Why nearly all agent tool calls are software engineering\n0:43 - From autocomplete to autonomous in three years\n1:26 - The scaffolding code already had\n2:35 - Centralization, and one deal across five apps\n4:11 - History, and agents that start blank every time\n6:55 - Two kinds of context, the map and the style\n9:26 - Verification, and how code checks its own work\n10:25 - The outreach agent that ended up on Twitter\n12:31 - Governance, and 200 emails deleted anyway\n15:01 - Walls the agent cannot argue with\n16:24 - Reversibility, and work that has no undo\n19:09 - The bottleneck moves off the model",
+      "published_at": "2026-09-03T16:00:06Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-06T13:23:51+00:00"
+    },
     "xyL2Ltkh-SA": {
       "video_id": "xyL2Ltkh-SA",
       "title": "How Evals and Prompts Shape Agent Behavior — Preetika Bhateja & Daniel Bump, YouTube Ads",
@@ -15617,7 +15982,7 @@
     "xz0-brt56L8": {
       "video_id": "xz0-brt56L8",
       "title": "Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence)",
-      "duration_s": 4889,
+      "duration_s": 4890,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15656,7 +16021,7 @@
     "y6L5RkEqQ8g": {
       "video_id": "y6L5RkEqQ8g",
       "title": "ChatGPT is poorly designed. So I fixed it",
-      "duration_s": 320,
+      "duration_s": 321,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15682,7 +16047,7 @@
     "yASxPZ-tZe0": {
       "video_id": "yASxPZ-tZe0",
       "title": "Conquering Agent Chaos — Rick Blalock, Agentuity",
-      "duration_s": 879,
+      "duration_s": 880,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15721,7 +16086,7 @@
     "yUmS-F9IX90": {
       "video_id": "yUmS-F9IX90",
       "title": "Don't Build Slop (4 Levels of AI Agent Maturity) - Ara Khan, Cline",
-      "duration_s": 1131,
+      "duration_s": 1132,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15778,7 +16143,7 @@
     "ynJyIKwjonM": {
       "video_id": "ynJyIKwjonM",
       "title": "Agentic Search for Context Engineering — Leonie Monigatti, Elastic",
-      "duration_s": 3792,
+      "duration_s": 3793,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15923,7 +16288,7 @@
     "zCJtYuqwm7E": {
       "video_id": "zCJtYuqwm7E",
       "title": "Coding Agents Don't Scale Themselves. Neither Do Your Teams. — Patrick Debois, Tessl",
-      "duration_s": 1325,
+      "duration_s": 1326,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15945,7 +16310,7 @@
     "zDGHt0LB-dA": {
       "video_id": "zDGHt0LB-dA",
       "title": "GPU Cloud Deployment Without Leaving Your IDE — Audry Hsu, RunPod",
-      "duration_s": 1218,
+      "duration_s": 1219,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -15967,7 +16332,7 @@
     "zK9lYrLbjSg": {
       "video_id": "zK9lYrLbjSg",
       "title": "AI Engineering with the Google Gemini 2.5 Model Family - Philipp Schmid, Google DeepMind",
-      "duration_s": 6290,
+      "duration_s": 6291,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -16037,7 +16402,7 @@
     "zMXKhhwiCIc": {
       "video_id": "zMXKhhwiCIc",
       "title": "Backlog.md: Terminal Kanban Board for Managing Tasks with AI Agents — Alex Gavrilescu, Funstage",
-      "duration_s": 858,
+      "duration_s": 859,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -16094,7 +16459,7 @@
     "zTZ0qunQXnM": {
       "video_id": "zTZ0qunQXnM",
       "title": "From MCP to Scale: Pipelines That Build Themselves — Rafael Levi, Bright Data",
-      "duration_s": 1525,
+      "duration_s": 1526,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -16116,7 +16481,7 @@
     "zU4EagB311U": {
       "video_id": "zU4EagB311U",
       "title": "Agents Need Feature Flags - Sachin Gupta",
-      "duration_s": 1156,
+      "duration_s": 1157,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -16239,7 +16604,7 @@
     "zkX03APVj0M": {
       "video_id": "zkX03APVj0M",
       "title": "Emulated: The Data for Fully Autonomous Software Engineers and Companies — Joseph Wang",
-      "duration_s": 992,
+      "duration_s": 993,
       "channel": "AI Engineer",
       "label": "AI Engineer",
       "year": null,
@@ -16292,19 +16657,6 @@
         "machine learning"
       ],
       "details_at": "2026-08-31T15:35:13+00:00"
-    },
-    "D7_ipDqhtwk": {
-      "video_id": "D7_ipDqhtwk",
-      "title": "How We Build Effective Agents: Barry Zhang, Anthropic",
-      "duration_s": 909,
-      "channel": "AI Engineer",
-      "label": "AI Engineer",
-      "year": null,
-      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
-      "description": "Recorded live at the Agent Engineering Session Day from the AI Engineer Summit 2025 in New York. Learn more at https://ai.engineer and purchase tickets to our next event, the AI Engineer World's Fair, in SF June 3 - 5 here: https://ti.to/software-3/ai-engineer-worlds-fair-2025\n\nAbout Barry:\n\nBarry is a member of technical staff on Anthropic's Applied AI team, focusing on developing agentic systems with enterprises and startups. Previously, he was a tech lead on the Monetization genAI team at Meta, where he claimed the inaugural 'AI Engineer' title. He holds degrees in Computer Science and Industrial Engineering from Northwestern",
-      "published_at": "2025-04-04T18:46:36Z",
-      "tags": [],
-      "details_at": "2026-08-31T20:14:23+00:00"
     }
   }
 }

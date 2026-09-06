@@ -45,7 +45,7 @@ YouTube listings, one `videos` seed, one `infoq` source).
 | `enumerate_seed(src, conf)` | 127 | Reads `data/seeds/<src.seed>`; copies `SEED_FIELDS` (`description,speakers,tags,published_at,session_page`) and stamps `details_at` = seed `generated_at` so enrich.py skips these. |
 | `enumerate_infoq(src)` | 179 | Reads every `data/infoq/*.json`; emits only talks with `matched_youtube: false` (the `iq-` ids), `channel: "InfoQ"`, `details_at` from the cache. Copies `INFOQ_FIELDS` (`description,speakers,published_at,page_url,video_url`). |
 | `claim_for_infoq(videos, found)` | 219 | An `iq-` talk whose title now matches a YouTube record in the catalog is folded onto it (metadata via `infoq.enrich_existing`, transcript copied and re-keyed) and not emitted. Idempotent. |
-| `merge_source(videos, src, found)` | 301 | Deletes videos this `source_url` no longer lists; carries `description,published_at,tags,details_at` from the previous record when the listing lacks them; if `infoq_at` is set, carries all of `INFOQ_CLAIMED` (line 175) over the listing's values. |
+| `merge_source(videos, src, found)` | 301 | Deletes videos this `source_url` no longer lists — unless the source has a `first` cap and the listing came back full, in which case an absent video has fallen past the recency window and is kept; carries `description,published_at,tags,details_at` from the previous record when the listing lacks them, and `channel` too (a new video with none takes the source's commonest cached channel); if `infoq_at` is set, carries all of `INFOQ_CLAIMED` (line 175) over the listing's values. |
 | `sync_seeds(reg)` / `sync_infoq(reg)` | 330 / 262 | Fold `videos` / `infoq` sources into their catalogs on every run. Write only if the catalog changed. A missing/empty InfoQ cache keeps the previous iq- records and marks the source `stale: true`. |
 | `refresh_conference(conf, pace)` | 358 | `--refresh` per conference: enumerate each non-offline source, merge, write catalog with `enumerated_at`. A source returning nothing keeps its cached videos and is marked `stale`. |
 | `speakers_from_title` / `speakers_from_description` / `name_like` | 488 / 511 / 443 | The speaker heuristics; `blocked_words(conf)` (554) blocks the conference's own name words. Tested by `tools/test_speakers.py`. |
@@ -239,6 +239,15 @@ Invariants and caveats:
 - `infoq.py` de-duplicates against the catalog as of the run; a talk that
   reaches the YouTube channel later is folded by `claim_for_infoq` on the
   next sync. Do not lower `--pace` below 3.
+- A `first: N` cap is a recency window, not a listing. When N videos come
+  back, whatever the cache holds beyond them stays (2026-09-06: 16 AI Engineer
+  talks, two with transcripts, were about to be deleted for having been
+  pushed past `first: 900` by 15 new uploads). Only a listing shorter than
+  the cap can vouch that a video is gone.
+- yt-dlp's flat channel listing returns `channel: null` since 2026.08.19
+  (title and duration intact, so nothing reads as throttled). `merge_source`
+  keeps the cached channel; `refresh_report.py`'s channel row is the alarm if
+  that ever regresses again.
 - Do not run yt-dlp-route `enrich.py` alongside a transcript fetch: it spends
   the same per-IP reputation. With `YOUTUBE_API_KEY` set there is no such
   conflict.

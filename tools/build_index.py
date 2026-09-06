@@ -145,7 +145,7 @@ TOKENS_PER_WORD = 0.42
 # full description", not what a search can find. The full text stays in
 # talks.json, the markdown and talks.db; this only caps what every visitor
 # downloads before typing anything.
-META_DESC_CHARS = 300
+META_DESC_CHARS = 150
 
 # What "too big" means for search-meta.json, spelled out so nobody has to
 # measure it again. THE UNIT IS BINARY — mebibytes, 1024-based — and so is

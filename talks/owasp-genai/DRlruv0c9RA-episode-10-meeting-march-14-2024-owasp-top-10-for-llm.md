@@ -8,13 +8,13 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 40
-published_at: null
+published_at: 2024-03-15T19:03:27Z
 video_id: DRlruv0c9RA
 url: https://www.youtube.com/watch?v=DRlruv0c9RA
 youtube_url: https://www.youtube.com/watch?v=DRlruv0c9RA
-tags: []
+tags: ["LLM", "large language model", "ai security", "llm applications", "Aubrey King", "Sandy Dunn", "Steve Wilson", "OWASP top 10 for llm applications", "owasp top 10 for llms", "llm security"]
 topics: ["Security, safety & red teaming"]
 transcript: false
 ---
@@ -25,8 +25,10 @@ transcript: false
 
 `OWASP GenAI Security Project` · `OWASP GenAI Security` · `2024` · `40 min`
 
+`#LLM` `#large language model` `#ai security` `#llm applications` `#Aubrey King` `#Sandy Dunn` `#Steve Wilson` `#OWASP top 10 for llm applications` `#owasp top 10 for llms` `#llm security`
+
 [Watch the recording](https://www.youtube.com/watch?v=DRlruv0c9RA) · [Conference site](https://genai.owasp.org/)
 
 ## Description
 
-*No description published on YouTube.*
+Steve wasn't able to make the meeting this week, so Sandy Dunn ran the meeting. We talked about how to share any speaking opportunities you may have with the team and had great discussion around prompt injection and "AI-washing" from vendors.

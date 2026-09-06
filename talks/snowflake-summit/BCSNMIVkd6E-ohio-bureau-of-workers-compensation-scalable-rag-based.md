@@ -10,12 +10,12 @@ year: 2025
 speakers: []
 channel: "Snowflake Developers"
 duration_min: 32
-published_at: null
+published_at: 2025-08-26T17:00:24Z
 video_id: BCSNMIVkd6E
 url: https://www.youtube.com/watch?v=BCSNMIVkd6E
 youtube_url: https://www.youtube.com/watch?v=BCSNMIVkd6E
 tags: []
-topics: ["RAG, retrieval & knowledge"]
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 
@@ -29,4 +29,12 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+The RAG policy assistant developed by the Ohio Bureau of Workers' Compensation enables the Employee Service Group to provide objective, transparent, timely, consistent, and reproduceable guidance based on Ohio policies and regulations. The solution leverages Snowflake Vector data types, Snowflake Cortex AI, Cortex Guard, and Streamlit as part of a scalable generative AI framework. It incorporates automated user feedback, LLM-as-a-Judge, Human-in-the-Loop validation, LLM configuration testing, and infrastructure optimization dashboards.
+
+👉  http://www.snowflake.com/YTsubscribe/
+
+Click here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:
+👉  https://snowflake.com/youtube-dev-trial
+
+Explore sample code, download tools, and connect with peers:
+👉   https://developers.snowflake.com/

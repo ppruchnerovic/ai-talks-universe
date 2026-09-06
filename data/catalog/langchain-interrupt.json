@@ -1,7 +1,7 @@
 {
   "slug": "langchain-interrupt",
   "name": "LangChain Interrupt",
-  "enumerated_at": "2026-08-30T21:46:03+00:00",
+  "enumerated_at": "2026-09-06T13:19:14+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae2uJrYpdMZz_HbFfCfYIlVR",
@@ -25,7 +25,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Factory Co-Founder and CTO Eno Reyes reveals why the future of software development requires a fundamental shift from AI-assisted coding to fully agent-driven workflows that can deliver 5-20x productivity gains instead of incremental 10-15% improvements. He breaks down the three core characteristics that make AI systems agentic—planning, decision-making, and environmental grounding—and shares how Factory built their enterprise platform to serve teams with 5,000-10,000+ engineers. Learn how companies are moving beyond traditional development tools to platforms built on LangSmith.\n\nWatch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co\n\nLearn how Factory used LangSmith to automate their feedback loop and improve iteration speed by 2x: https://blog.langchain.com/customers-factory/",
+      "published_at": "2025-06-18T18:40:43Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "3lb_4OEOykc": {
       "video_id": "3lb_4OEOykc",
@@ -73,7 +77,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Learn to build agents on LangChain Academy: https://academy.langchain.com/collections/quickstart/?utm_medium=social&utm_source=youtube&utm_campaign=q4-2025_youtube-academy-links_aw\n\nObserve, evaluate, and deploy agents with LangSmith: https://smith.langchain.com/?utm_medium=social&utm_source=youtube&utm_campaign=q4-2025_youtube-links_aw\n\nWatch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co\n\nAndrew Ng reveals why most successful AI agents start with simple linear workflows—not complex autonomous systems—and shares the \"Lego brick\" approach that's accelerating agent development. In this fireside chat with Harrison Chase, Andrew explains the challenge businesses face in breaking down existing processes into sequential micro-tasks and why he sees more opportunities in linear workflows than complex autonomous systems. He also unveils the two key predictors of AI startup success and why everyone should learn to code in the AI era.",
+      "published_at": "2025-05-28T16:51:43Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "93I8mEtl_ZU": {
       "video_id": "93I8mEtl_ZU",
@@ -129,7 +137,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Learn to build agents on LangChain Academy: https://academy.langchain.com/collections/quickstart/?utm_medium=social&utm_source=youtube&utm_campaign=q4-2025_youtube-academy-links_aw\n\nObserve, evaluate, and deploy agents with LangSmith: https://smith.langchain.com/?utm_medium=social&utm_source=youtube&utm_campaign=q4-2025_youtube-links_aw\n\nWatch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co\n\nHear from Sourabh Shirhatti and Matas Rastenis on Uber's Developer Platform Team in their LangChain Interrupt talk. They dive into how they're building agentic tools serving an organization of 5,000 developers working with hundreds of millions of lines of code.",
+      "published_at": "2025-06-10T17:12:02Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "CS5HojyZ5FE": {
       "video_id": "CS5HojyZ5FE",
@@ -169,7 +181,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Watch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co\n\nJoin Harrison Chase at LangChain's Interrupt conference for the main keynote on the evolution of agent engineering and the company's vision for making intelligent agents ubiquitous. Harrison shares insights from LangChain's journey since launching as an open-source project over two years ago to becoming more downloaded than OpenAI's SDK, revealing how they're tackling the industry's biggest hurdle: converting the \"wow factor\" of AI prototypes into reliable, business-ready agent deployments.\n\nLangGraph Platform is now Generally Available: Deploy & manage long-running, stateful Agents: https://blog.langchain.dev/langgraph-platform-ga/\n\n#LangGraph #LangChain #AIAgents #AgentDevelopment #LLM",
+      "published_at": "2025-05-20T19:56:58Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "DsjkO2vB618": {
       "video_id": "DsjkO2vB618",
@@ -178,7 +194,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Watch our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co \n\nLangChain CEO Harrison Chase reveals why quality remains the #1 blocker for getting AI agents into production—and introduces a systematic 3-stage evaluation framework to solve it.\n\nBased on a survey of agent builders, quality outranks cost and latency as the biggest barrier to production deployment. While prototypes may work for demos, production systems need far higher reliability. Harrison introduces eval-driven development as the solution to bridge this critical gap.\n\nWhat You'll Learn:\n\n- The three types of evaluations: Offline, Online, and In-the-Loop evals explained\n- How LangSmith transforms production traces into custom evaluation datasets\n- When to use LLM-as-judge vs. deterministic evaluators for your specific use case\n- New launches: Chat simulations, eval calibration, and open-source OpenEvals package\n\nHarrison demonstrates how \"great evals start with great observability\" and why evaluation must be treated as a continuous journey rather than a one-time task. From offline testing with curated datasets to real-time production monitoring, learn the complete evaluation lifecycle that successful agent builders implement.\n\nFeatured Products:\nLangSmith's unified observability and evaluation platform, plus the new open-source OpenEvals package with pre-built evaluators for code, RAG, extraction, and tool calling.\n\n#LangChain #AIAgents #LangSmith #Evaluation #ProductionAI #AgentDevelopment",
+      "published_at": "2025-05-27T15:21:55Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "H-1QaLPnGsg": {
       "video_id": "H-1QaLPnGsg",
@@ -187,7 +207,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "UC Berkeley PhD student Shreya Shankar shares research insights on why LLM data processing pipelines consistently fail in real-world applications. Based on systematic studies of developers building these systems, she reveals the core challenges: data understanding gaps and intent specification problems that cause the #1 complaint of 'this doesn't work.' Learn research-backed strategies to move beyond endless prompt iteration and build more reliable LLM pipelines for processing unstructured data.\n\nWatch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co",
+      "published_at": "2025-06-16T17:36:11Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "IIchUA5T3gs": {
       "video_id": "IIchUA5T3gs",
@@ -230,7 +254,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Watch our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co \n\nRussell Kaplan, President of Cognition, reveals the technical architecture behind Devin and introduces Devin Search -- their tool for deep research across your codebase -- and how they built it. Their specialized 32B model outperforms frontier models on coding tasks through custom post-training and reinforcement learning.\n\nWhat You'll Discover:\n\n- Why Devin is fundamentally different from Copilot\n- The exact architecture behind Devin's codebase understanding system\n- How their 32B model achieves 91% accuracy on CUDA kernels\n- The \"narrow domain specialization\" approach that beats frontier models",
+      "published_at": "2025-05-23T18:28:24Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "LUemJGG2k4c": {
       "video_id": "LUemJGG2k4c",
@@ -429,7 +457,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Discover how LinkedIn built their breakthrough AI agent for hiring in this technical deep-dive with David Tag from LinkedIn's AI team. David walks through the LangGraph-powered architecture of LinkedIn Hiring Assistant and shares the production framework that enabled 20+ teams to develop AI agents at scale.\n\nWatch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co\n\nLearn more about LangGraph Platform: https://www.langchain.com/langgraph-platform/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co",
+      "published_at": "2025-06-13T17:16:56Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "OaRhpwz_TGM": {
       "video_id": "OaRhpwz_TGM",
@@ -451,7 +483,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Assaf Elovic, Head of AI at Monday.com, reveals how they achieved 100% month-over-month growth in AI usage while processing 1 billion work tasks annually. Learn why trust, not technology, is the biggest barrier to AI adoption and discover the four critical components that dramatically increased user adoption: autonomy control, seamless entry points, preview functionality, and explainability. Built on LangGraph and LangSmith, Monday's digital workforce demonstrates how to balance multi-agent systems while avoiding compound hallucination and implementing effective human-in-the-loop workflows. Assaf also shares their vision for dynamic agent orchestration—where a finite set of specialized agents can handle infinite tasks through intelligent workflow automation.\n\nWatch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co\n\n#langchain  #AIAgents #LangGraph #ProductionAI #AgentDevelopment",
+      "published_at": "2025-06-09T19:54:09Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "QDQT99csHJQ": {
       "video_id": "QDQT99csHJQ",
@@ -576,7 +612,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Adam D'Angelo, co-founder and CEO of Quora, shares insights from building Poe—the AI platform that gives users access to multiple language models and agents under one subscription. He reveals surprising patterns in consumer AI usage, explains how Poe's bot creators are earning millions annually, and discusses why reasoning models are driving growth. D'Angelo also explores the unique challenges of building in AI's rapidly changing landscape, where planning cycles have shrunk from years to just two months.\n\nWatch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co",
+      "published_at": "2025-06-27T16:44:56Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "agSRMrhNTf4": {
       "video_id": "agSRMrhNTf4",
@@ -660,7 +700,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "11x's Sherwood Callaway and Keith Fearon share how they rebuilt their AI SDR Alice from scratch, detailing their architectural journey from ReAct agents to multi-agent systems using our agent stack -- LangGraph, LangGraph Platform, LangSmith, and LangChain. Learn about real-world agent architecture decisions, challenges faced, and practical lessons from building production AI agents.\n\nWatch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co\n\nLearn more about LangGraph Platform: https://www.langchain.com/langgraph-platform/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co",
+      "published_at": "2025-06-16T16:36:30Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "gPhyPRtIMn0": {
       "video_id": "gPhyPRtIMn0",
@@ -669,7 +713,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Watch our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co\n\nDiscover the exact blueprint Cisco ($56B revenue) used to transform customer experience with AI agents—achieving over 95% accuracy. In this talk, Carlos from Cisco shares how 60% of almost 1.8 million support cases at Cisco are touched by AI-driven automation, many of those through LangGraph, LangSmith, and LangChain.\n\nWhat You'll Learn:\n\n-  The 3-criteria framework Cisco uses to validate AI use cases\n- Why LLMs are \"really bad for predictions\" and how to combine them with ML models for enterprise accuracy\n- The \"supervisor approach\" that decomposes complex customer queries across specialized agents\n-  Real production deployment strategies for on-premise, cloud, and hybrid environments\n- How to avoid the biggest mistakes in enterprise AI implementation\n\nReady to build production agents? Get started with LangGraph for orchestration, LangGraph Platform for deployment, and LangSmith for observability.\n\nLangGraph Platform is now Generally Available: Deploy & manage long-running, stateful Agents: \nhttps://blog.langchain.dev/langgraph-platform-ga/",
+      "published_at": "2025-05-23T17:58:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "h_oUYqkRybM": {
       "video_id": "h_oUYqkRybM",
@@ -678,7 +726,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Michele Catasta, President at Replit, joins Harrison Chase for an in-depth fireside chat about the evolution from Replit Agent V1 to V2 and the technical challenges of building autonomous coding agents at scale.\n\nLearn more about LangSmith here: https://www.langchain.com/langsmith/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co \n\nWatch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co\n\n#LangChain #Langsmith  #LangGraph #replit #aiagents",
+      "published_at": "2025-06-06T22:57:50Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "jWy39wavbjY": {
       "video_id": "jWy39wavbjY",
@@ -771,7 +823,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Ben Liebald, who leads engineering at Harvey, discusses how they build and evaluate domain-specific AI for legal and professional services. He shares Harvey's approach to creating reliable AI systems through lawyer-in-the-loop development, human preference evaluations, and automated assessment tools including LangSmith. Liebald explains their methodology for building complex legal workflows and agents that can handle tasks like document analysis, drafting, and multi-step legal processes.\n\nWatch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co",
+      "published_at": "2025-06-11T17:51:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "lXZb21CfeIY": {
       "video_id": "lXZb21CfeIY",
@@ -897,7 +953,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Discover how BlackRock's AI engineering team built production-ready AI agents that power the Aladdin platform, serving $11 trillion in assets across 100+ applications globally. Brennan Rosales and Pedro Vicente Valdez reveal their enterprise agentic architecture built on LangGraph, including their plugin registry system that enables 50+ engineering teams to contribute tools and agents, plus their evaluation-driven development approach with daily CI/CD testing.\n\nWatch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co",
+      "published_at": "2025-06-12T17:19:54Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "pKk-LfhujwI": {
       "video_id": "pKk-LfhujwI",
@@ -906,7 +966,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Unify scaled their AI research agents to handle 36 billion tokens monthly - here's what Connor Heggie (CTO) and Kunal Rai (Engineer) learned along the way. From initial ReAct framework experiments to production deployment across thousands of companies, they share real insights on model performance, cost reduction strategies, and building tools that actually work at scale.\n\nWatch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co",
+      "published_at": "2025-06-24T17:54:24Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "py9d6zTl4Dc": {
       "video_id": "py9d6zTl4Dc",
@@ -951,7 +1015,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Box's CTO, Ben Kus, shares how their AI document extraction system hit a wall when customers brought real-world complexity—300-page documents, 500+ data fields, and OCR challenges that broke their simple AI approach. After initially deploying to 10 million pages successfully, Box completely re-architected their system using a multi-agent agentic approach that separated complex problems into specialized sub-agents. This transformation not only solved their scaling issues but made their system dramatically easier to evolve and update for enterprise needs.\n\nWatch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co",
+      "published_at": "2025-06-10T18:03:24Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "yMalr0jiOAc": {
       "video_id": "yMalr0jiOAc",
@@ -960,7 +1028,11 @@
       "channel": "LangChain",
       "label": "Interrupt 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy"
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
+      "description": "Learn to build agents on LangChain Academy: https://academy.langchain.com/collections/quickstart/?utm_medium=social&utm_source=youtube&utm_campaign=q4-2025_youtube-academy-links_aw\n\nObserve, evaluate, and deploy agents with LangSmith: https://smith.langchain.com/?utm_medium=social&utm_source=youtube&utm_campaign=q4-2025_youtube-links_aw\n\nWatch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co\n\nDavid Odomirok and Zheng Xue from JP Morgan Chase Private Bank reveal how they built \"Ask David\" - a sophisticated multi-agent AI system designed to automate investment research for thousands of financial products. With billions of dollars in assets at stake, this isn't just another chatbot - it's an enterprise system built with human oversight for high-stakes financial decisions.",
+      "published_at": "2025-05-29T15:56:51Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "yQ2HCSSsqTc": {
       "video_id": "yQ2HCSSsqTc",

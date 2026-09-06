@@ -10,11 +10,11 @@ year: 2025
 speakers: []
 channel: "SANS Institute"
 duration_min: 6
-published_at: null
+published_at: 2025-05-13T19:13:42Z
 video_id: ZZ3kWfN9yYw
 url: https://www.youtube.com/watch?v=ZZ3kWfN9yYw
 youtube_url: https://www.youtube.com/watch?v=ZZ3kWfN9yYw
-tags: []
+tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
 topics: ["Security, safety & red teaming"]
 transcript: false
 ---
@@ -25,8 +25,17 @@ transcript: false
 
 `SANS AI Cybersecurity Summit` · `AI Cybersecurity Summit 2025` · `2025` · `6 min`
 
+`#sans institute` `#information security` `#cyber security` `#cybersecurity` `#information security training` `#cybersecurity training` `#cyber security training`
+
 [Watch the recording](https://www.youtube.com/watch?v=ZZ3kWfN9yYw) · [Conference site](https://www.sans.org/cyber-security-summit/)
 
 ## Description
 
-*No description published on YouTube.*
+SANS AI Cybersecurity Summit 2025
+SANS360 Talks present 10  experts that have 360 seconds to deliver actionable AI/ML strategies for enhancing your security workflows.
+Dancing with Al: Navigating the Cybersecurity Choreography
+- Bethany Abbate
+
+Explore how to balance innovation and risk in cybersecurity by aligning AI tools with human-led defense strategies.
+
+View upcoming Summits: http://www.sans.org/u/DuS

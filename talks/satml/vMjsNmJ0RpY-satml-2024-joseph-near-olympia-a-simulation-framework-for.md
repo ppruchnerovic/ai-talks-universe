@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Joseph Near"]
 channel: "Nicolas Papernot"
 duration_min: 15
-published_at: null
+published_at: 2024-04-10T13:27:21Z
 video_id: vMjsNmJ0RpY
 url: https://www.youtube.com/watch?v=vMjsNmJ0RpY
 youtube_url: https://www.youtube.com/watch?v=vMjsNmJ0RpY

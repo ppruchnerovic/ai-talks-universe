@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Ori Pekelman"]
-channel: null
+channel: "dotconferences"
 duration_min: 16
-published_at: null
+published_at: 2024-10-23T08:28:13Z
 video_id: 0mU8VuS0z6g
 url: https://www.youtube.com/watch?v=0mU8VuS0z6g
 youtube_url: https://www.youtube.com/watch?v=0mU8VuS0z6g
@@ -29,4 +29,8 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Filmed at dotAI on October 18, 2024 in Paris. More about the conference on https://www.dotai.io
+
+Who is Ori Pekelman?
+
+Ori is a Co-Founder of Platform.sh, a cutting-edge cloud hosting and development platform. He has been a steadfast advocate for Open Source, Privacy and reducing the Environmental Impact of computing. Platform.sh is recognized as a bcorp, with independent rating agencies EcoVadis and Greenly awarding it gold medals, ranking the company among the top 5% of all companies in all industries the agencies assess.

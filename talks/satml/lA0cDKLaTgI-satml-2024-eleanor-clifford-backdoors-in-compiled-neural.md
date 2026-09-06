@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Eleanor Clifford"]
 channel: "Nicolas Papernot"
 duration_min: 12
-published_at: null
+published_at: 2024-04-12T18:28:25Z
 video_id: lA0cDKLaTgI
 url: https://www.youtube.com/watch?v=lA0cDKLaTgI
 youtube_url: https://www.youtube.com/watch?v=lA0cDKLaTgI

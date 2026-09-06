@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 41
-published_at: null
+published_at: 2024-06-20T18:57:50Z
 video_id: x-ReFMKlstU
 url: https://www.youtube.com/watch?v=x-ReFMKlstU
 youtube_url: https://www.youtube.com/watch?v=x-ReFMKlstU
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+The team discussed the progress of the large language models expert group project, focusing on the voting phase for new entries and the future publication. They also discussed the importance of the top 10 list, the outreach roadmap, and the need for upcoming calls for papers. Lastly, they explored potential solutions for managing multiple PDF pipelines, the use of templating, and the team's presence at an upcoming conference in Lisbon.

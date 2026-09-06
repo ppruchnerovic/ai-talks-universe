@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Nishtha Madaan"]
 channel: "Nicolas Papernot"
 duration_min: 12
-published_at: null
+published_at: 2024-04-11T17:12:52Z
 video_id: Ee9QQDRPWds
 url: https://www.youtube.com/watch?v=Ee9QQDRPWds
 youtube_url: https://www.youtube.com/watch?v=Ee9QQDRPWds

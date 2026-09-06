@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Matthew Crawford", "Jimmy Ahlberg"]
 channel: "PyTorch"
 duration_min: 24
-published_at: null
+published_at: 2025-11-04T03:48:18Z
 video_id: gkhc_nWaEYA
 url: https://www.youtube.com/watch?v=gkhc_nWaEYA
 youtube_url: https://www.youtube.com/watch?v=gkhc_nWaEYA
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Behind Every AI SBOM Lies a Minefield: Here's How to Not Step On it - Matthew Crawford, Arm & Jimmy Ahlberg, Ericsson

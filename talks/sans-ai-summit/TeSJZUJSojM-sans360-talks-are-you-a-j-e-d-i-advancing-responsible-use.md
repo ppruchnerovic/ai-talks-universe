@@ -10,11 +10,11 @@ year: 2025
 speakers: []
 channel: "SANS Institute"
 duration_min: 6
-published_at: null
+published_at: 2025-05-13T19:22:51Z
 video_id: TeSJZUJSojM
 url: https://www.youtube.com/watch?v=TeSJZUJSojM
 youtube_url: https://www.youtube.com/watch?v=TeSJZUJSojM
-tags: []
+tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
 topics: []
 transcript: false
 ---
@@ -25,8 +25,17 @@ transcript: false
 
 `SANS AI Cybersecurity Summit` · `AI Cybersecurity Summit 2025` · `2025` · `6 min`
 
+`#sans institute` `#information security` `#cyber security` `#cybersecurity` `#information security training` `#cybersecurity training` `#cyber security training`
+
 [Watch the recording](https://www.youtube.com/watch?v=TeSJZUJSojM) · [Conference site](https://www.sans.org/cyber-security-summit/)
 
 ## Description
 
-*No description published on YouTube.*
+SANS AI Cybersecurity Summit 2025
+SANS360 Talks present 10  experts that have 360 seconds to deliver actionable AI/ML strategies for enhancing your security workflows.
+Are you a J.E.D.I? Advancing Responsible Use of Al in the Universe
+- Joy Toney
+
+Explore ethical frameworks for ensuring AI development and use stay aligned with principles of justice, equity, diversity, and inclusion.
+
+View upcoming Summits: http://www.sans.org/u/DuS

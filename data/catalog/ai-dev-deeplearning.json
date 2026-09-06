@@ -1,7 +1,7 @@
 {
   "slug": "ai-dev-deeplearning",
   "name": "AI Dev (DeepLearning.AI)",
-  "enumerated_at": "2026-08-30T21:45:39+00:00",
+  "enumerated_at": "2026-09-06T13:18:53+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@Deeplearningai/videos",
@@ -10,7 +10,7 @@
       "count": 400
     }
   ],
-  "count": 400,
+  "count": 401,
   "videos": {
     "-B0zaWoPEFs": {
       "video_id": "-B0zaWoPEFs",
@@ -1126,7 +1126,7 @@
     "CXd0kDikK0U": {
       "video_id": "CXd0kDikK0U",
       "title": "AI Dev 26 x SF | Or Dagan: Optimizing Accuracy, Cost, and Latency in Real-World Agents",
-      "duration_s": 1123,
+      "duration_s": 1124,
       "channel": "DeepLearningAI",
       "label": "DeepLearning.AI",
       "year": null,
@@ -1670,10 +1670,14 @@
       "video_id": "IHtN03NZOYI",
       "title": "AI Dev 25 | Panel Discussion: Building AI Application in 2025",
       "duration_s": 1892,
-      "channel": null,
+      "channel": "DeepLearningAI",
       "label": "DeepLearning.AI",
       "year": null,
-      "source_url": "https://www.youtube.com/@Deeplearningai/videos"
+      "source_url": "https://www.youtube.com/@Deeplearningai/videos",
+      "description": "What will it take to build impactful AI applications in 2025 and beyond?\n\nIn the panel discussion at AI Dev 25, moderated by Laurence Moroney, leading voices in AI from industry and academia come together to explore the future of AI development. The conversation covers emerging trends, practical challenges, and the opportunities shaping the next wave of AI applications.\n\nPanelists include:\n– Michele Catasta (President, Replit)\n– Percy Liang (Associate Professor, Stanford University)\n– Roman Chernin (Co-founder and CBO, Nebius)\n– Thomas Wolf (Co-founder & Chief Science Officer, Hugging Face)\n\nFrom infrastructure and model development to deployment and ethics, this discussion offers valuable insights for developers, researchers, and anyone building at the frontier of AI.",
+      "published_at": "2025-03-27T16:56:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:50+00:00"
     },
     "IikQLr9gcrg": {
       "video_id": "IikQLr9gcrg",
@@ -1945,7 +1949,7 @@
     },
     "MbB1gNIj3G0": {
       "video_id": "MbB1gNIj3G0",
-      "title": "Build AI agents that learn from experience",
+      "title": "Your coding agent keeps solving the same problem",
       "duration_s": 128,
       "channel": "DeepLearningAI",
       "label": "DeepLearning.AI",
@@ -2304,7 +2308,7 @@
     "QVawxdMRZtk": {
       "video_id": "QVawxdMRZtk",
       "title": "AI Dev 26 x SF | Eda Zhou & Mahdi Ghodsi: Building Personal AI Agents with Open Source Models",
-      "duration_s": 2025,
+      "duration_s": 2026,
       "channel": "DeepLearningAI",
       "label": "DeepLearning.AI",
       "year": null,
@@ -2898,6 +2902,19 @@
       "published_at": "2026-04-08T14:22:16Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:08+00:00"
+    },
+    "Y_bxMqcCNbU": {
+      "video_id": "Y_bxMqcCNbU",
+      "title": "AI Dev | San Francisco 2026 | 2,599 AI Developers",
+      "duration_s": 218,
+      "channel": "DeepLearningAI",
+      "label": "DeepLearning.AI",
+      "year": null,
+      "source_url": "https://www.youtube.com/@Deeplearningai/videos",
+      "description": "Thousands of developers, two days on the San Francisco waterfront, and a whole lot of code.\n\nAI Dev in San Francisco brought the DeepLearning.AI community together on April 28 - 29 for the biggest AI Dev yet. Hosted by Andrew Ng, the conference ran on hands-on workshops, technical sessions, live demos, and the kind of hallway conversations that turn into projects.\n\nSessions covered the problems developers are actually solving right now: agentic systems, context engineering, multimodal applications, reliability in production, and building with AI coding agents. Speakers came from Google DeepMind, LangChain, Oracle, AMD, Arm, Neo4j, Replit, LandingAI, and AI21 Labs.\n\nAI Dev started in 2025 as a 700-person gathering in San Francisco. This one was more than 3x that size. Thanks to everyone who showed up, built something, and made it what it was. Join us this fall in NYC!\n\n🎟 AI Dev x NYC is coming this fall. Secure your tickets: https://ai-dev.deeplearning.ai/#tickets \n📬 Subscribe to The Batch for weekly AI news from Andrew Ng: https://www.deeplearning.ai/the-batch/\n🌐 Conference details: https://ai-dev.deeplearning.ai/\n\nFollow DeepLearning.AI\nLinkedIn: https://www.linkedin.com/company/deeplearningai · X: https://x.com/DeepLearningAI · Instagram: https://www.instagram.com/deeplearningai/ \n\n#AIDev #DeepLearningAI #AndrewNg  #AIDeveloper #AIEngineering #AgenticAI",
+      "published_at": "2026-09-01T21:18:23Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:50+00:00"
     },
     "YdQZzxjIhzE": {
       "video_id": "YdQZzxjIhzE",

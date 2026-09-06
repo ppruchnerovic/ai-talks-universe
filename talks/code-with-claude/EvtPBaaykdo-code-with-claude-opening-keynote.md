@@ -10,12 +10,12 @@ year: 2025
 speakers: []
 channel: "Anthropic"
 duration_min: 100
-published_at: null
+published_at: 2025-05-22T17:48:39Z
 video_id: EvtPBaaykdo
 url: https://www.youtube.com/watch?v=EvtPBaaykdo
 youtube_url: https://www.youtube.com/watch?v=EvtPBaaykdo
 tags: []
-topics: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 
@@ -29,7 +29,7 @@ transcript: true
 
 ## Description
 
-*No description published on YouTube.*
+Content begins at 26:28. Hear directly from Anthropic executives and product leaders at Code with Claude.
 
 ## Transcript
 

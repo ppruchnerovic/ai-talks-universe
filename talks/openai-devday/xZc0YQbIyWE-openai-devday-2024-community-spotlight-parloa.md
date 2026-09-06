@@ -7,21 +7,21 @@ conference_name: "OpenAI DevDay"
 category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
-speakers: []
+speakers: ["Maik Hummel"]
 channel: "OpenAI"
 duration_min: 15
-published_at: null
+published_at: 2024-12-17T17:01:02Z
 video_id: xZc0YQbIyWE
 url: https://www.youtube.com/watch?v=xZc0YQbIyWE
 youtube_url: https://www.youtube.com/watch?v=xZc0YQbIyWE
 tags: []
-topics: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 
 # OpenAI DevDay 2024 | Community Spotlight | Parloa
 
-**Speaker not identified**
+**Maik Hummel**
 
 `OpenAI DevDay` · `DevDay 2024` · `2024` · `15 min`
 
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Transforming Contact Centers with GPT-4o Multi-Agent Crews and Human-in-the-Loop: Building agents with OpenAI o1 and GPT-4o for automation, quality assurance, and human-in-the-loop solutions.
+
+Presenter: Maik Hummel, Principal AI Evangelist, Parloa

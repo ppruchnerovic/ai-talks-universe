@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 23
-published_at: null
+published_at: 2024-05-21T02:47:19Z
 video_id: bOrP_lgCqSs
 url: https://www.youtube.com/watch?v=bOrP_lgCqSs
 youtube_url: https://www.youtube.com/watch?v=bOrP_lgCqSs
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Aruneesh Salhotra tells the audience about the OWASP AI Exchange, its function, how it differs from the LLM Apps Top 10 and how it works with us.

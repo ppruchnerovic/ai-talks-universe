@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "General software conferences"
 edition: "GOTO"
 year: 2026
-speakers: ["Nathen Harvey"]
+speakers: ["Nathen Harvey", "Charles Humble"]
 channel: "GOTO Conferences"
 duration_min: 46
 published_at: 2026-01-30T13:28:01Z
@@ -21,7 +21,7 @@ transcript: true
 
 # State of the Art of DORA Metrics & AI Integration • Nathen Harvey & Charles Humble
 
-**Nathen Harvey**
+**Nathen Harvey, Charles Humble**
 
 `GOTO Conferences` · `GOTO` · `2026` · `46 min`
 

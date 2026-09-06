@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Richard Zou"]
 channel: "PyTorch"
 duration_min: 23
-published_at: null
+published_at: 2025-11-04T03:45:03Z
 video_id: 1wV1ESbGrVQ
 url: https://www.youtube.com/watch?v=1wV1ESbGrVQ
 youtube_url: https://www.youtube.com/watch?v=1wV1ESbGrVQ
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Blazing Fast GenAI Inference With Torch.compile - Richard Zou, Meta
+
+This talk dives into Generative AI (GenAI) inference, highlighting key features of torch.compile that make it well suited for this rapidly evolving field. We’ll explore how torch.compile enables efficient and scalable inference for large language models with features like precompilation, multigraph dynamic shapes, CUDAGraphs, and FlexAttention, and discuss our progress in integrations with leading open-source (OSS) GenAI frameworks (e.g. vLLM, SGLang, HuggingFace).

@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Patrick Altmeyer"]
 channel: "Nicolas Papernot"
 duration_min: 14
-published_at: null
+published_at: 2023-02-16T05:00:04Z
 video_id: 9cTZPmqFz9k
 url: https://www.youtube.com/watch?v=9cTZPmqFz9k
 youtube_url: https://www.youtube.com/watch?v=9cTZPmqFz9k

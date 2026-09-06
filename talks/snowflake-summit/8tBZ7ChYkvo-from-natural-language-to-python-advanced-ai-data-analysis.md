@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "Snowflake Developers"
 duration_min: 35
-published_at: null
+published_at: 2025-09-19T15:00:29Z
 video_id: 8tBZ7ChYkvo
 url: https://www.youtube.com/watch?v=8tBZ7ChYkvo
 youtube_url: https://www.youtube.com/watch?v=8tBZ7ChYkvo
@@ -29,4 +29,12 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+This talk covers how Cboe Global Markets uses Snowflake Cortex AI to analyze data. Hunter Treschl, Manager of Cboe's AI Center of Excellence, describes the overall architecture of their tool, which contains AI-generated data dictionaries, SQL generation, python generation, and code execution. The session highlights some of the "gotchas" Cboe discovered developing the tool, as well as shares best practices and the Snowflake-first approach they employed in developing the company's data analysis tool.
+
+👉  http://www.snowflake.com/YTsubscribe/
+
+Click here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:
+👉  https://snowflake.com/youtube-dev-trial
+
+Explore sample code, download tools, and connect with peers:
+👉   https://developers.snowflake.com/

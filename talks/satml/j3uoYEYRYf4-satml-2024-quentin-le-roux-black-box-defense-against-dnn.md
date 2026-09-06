@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Quentin Le Roux"]
 channel: "Nicolas Papernot"
 duration_min: 13
-published_at: null
+published_at: 2024-04-12T18:22:45Z
 video_id: j3uoYEYRYf4
 url: https://www.youtube.com/watch?v=j3uoYEYRYf4
 youtube_url: https://www.youtube.com/watch?v=j3uoYEYRYf4

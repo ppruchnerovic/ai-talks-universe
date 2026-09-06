@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
-channel: null
+channel: "CAMLIS"
 duration_min: 38
-published_at: null
+published_at: 2022-11-30T02:52:07Z
 video_id: Bl1h4jvmCL0
 url: https://www.youtube.com/watch?v=Bl1h4jvmCL0
 youtube_url: https://www.youtube.com/watch?v=Bl1h4jvmCL0
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+CAMLIS 2022, Amanda Rousseau, Principal Security Engineer, Microsoft,

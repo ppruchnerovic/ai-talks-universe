@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
-channel: null
+channel: "CAMLIS"
 duration_min: 19
-published_at: null
+published_at: 2022-11-30T03:35:13Z
 video_id: i59PtruGd1o
 url: https://www.youtube.com/watch?v=i59PtruGd1o
 youtube_url: https://www.youtube.com/watch?v=i59PtruGd1o
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+CAMLIS 2022, Myles Foley, Mia Wang, Zoe M., Chris Hicks, and Vasilios Mavroudis

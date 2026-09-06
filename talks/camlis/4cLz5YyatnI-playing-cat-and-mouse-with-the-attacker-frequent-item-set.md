@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
-channel: null
+channel: "CAMLIS"
 duration_min: 20
-published_at: null
+published_at: 2022-11-30T03:31:33Z
 video_id: 4cLz5YyatnI
 url: https://www.youtube.com/watch?v=4cLz5YyatnI
 youtube_url: https://www.youtube.com/watch?v=4cLz5YyatnI
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+CAMLIS 2022, Maeve Mulholland, Tim Nary, and Fred Frey

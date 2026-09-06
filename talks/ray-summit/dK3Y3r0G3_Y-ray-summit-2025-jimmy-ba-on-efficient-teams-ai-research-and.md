@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 27
-published_at: null
+published_at: 2025-11-08T11:46:47Z
 video_id: dK3Y3r0G3_Y
 url: https://www.youtube.com/watch?v=dK3Y3r0G3_Y
 youtube_url: https://www.youtube.com/watch?v=dK3Y3r0G3_Y
@@ -29,4 +29,12 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+In this fireside chat, Jimmy Ba from xAI joins Robert Nishihara, Co-founder of Anyscale, for an engaging conversation about the future of AI and the people driving it forward.
+
+Together, they discuss what it takes to build and lead highly efficient research teams, explore the latest breakthroughs in AI, and share their perspectives on where the field is headed next.
+
+Interested in more?
+Watch the full Day 1 Keynote: https://www.youtube.com/watch?v=YoPskpg3zJQ
+
+--
+🔗 Connect with us:

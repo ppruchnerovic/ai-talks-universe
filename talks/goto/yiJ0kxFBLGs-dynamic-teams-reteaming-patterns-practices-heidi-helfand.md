@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "General software conferences"
 edition: "GOTO"
 year: 2024
-speakers: ["Heidi Helfand"]
+speakers: ["Heidi Helfand", "Charles Humble"]
 channel: "GOTO Conferences"
 duration_min: 48
 published_at: 2024-10-18T09:34:45Z
@@ -21,7 +21,7 @@ transcript: false
 
 # Dynamic Teams: Reteaming Patterns & Practices • Heidi Helfand & Charles Humble
 
-**Heidi Helfand**
+**Heidi Helfand, Charles Humble**
 
 `GOTO Conferences` · `GOTO` · `2024` · `48 min`
 

@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Dawn Song"]
 channel: "PyTorch"
 duration_min: 19
-published_at: null
+published_at: 2025-11-04T03:45:45Z
 video_id: g98nnUiv7eA
 url: https://www.youtube.com/watch?v=g98nnUiv7eA
 youtube_url: https://www.youtube.com/watch?v=g98nnUiv7eA
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Keynote: Towards Building Safe and Secure Agentic AI - Dawn Song, Professor, Department of Electrical Engineering and Computer Science, UC Berkeley

@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2023
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 47
-published_at: null
+published_at: 2023-11-17T18:29:10Z
 video_id: 6Xww_-u-FgA
 url: https://www.youtube.com/watch?v=6Xww_-u-FgA
 youtube_url: https://www.youtube.com/watch?v=6Xww_-u-FgA
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Our bi-weekly team meeting with updates from leads and open discussion.

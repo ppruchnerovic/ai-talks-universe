@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 30
-published_at: null
+published_at: 2024-12-17T17:00:47Z
 video_id: mM8KhTxwPgs
 url: https://www.youtube.com/watch?v=mM8KhTxwPgs
 youtube_url: https://www.youtube.com/watch?v=mM8KhTxwPgs
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Create natural voice interactions in applications by integrating speech and text processing

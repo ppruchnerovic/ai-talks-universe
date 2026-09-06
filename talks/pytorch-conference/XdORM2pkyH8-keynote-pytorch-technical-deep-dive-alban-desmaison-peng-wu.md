@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Alban Desmaison"]
 channel: "PyTorch"
 duration_min: 43
-published_at: null
+published_at: 2025-11-04T03:45:45Z
 video_id: XdORM2pkyH8
 url: https://www.youtube.com/watch?v=XdORM2pkyH8
 youtube_url: https://www.youtube.com/watch?v=XdORM2pkyH8
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Keynote: PyTorch Technical Deep Dive - Alban Desmaison, Peng Wu, Mark Saroufim & Edward Yang, Meta
+
+This Deep Dive provides an update on PyTorch development since last conference and dives into key new features. We will explore how advancements across a number of PyTorch features combine to better support the full model development lifecycle across training, fine-tuning, and deployment.

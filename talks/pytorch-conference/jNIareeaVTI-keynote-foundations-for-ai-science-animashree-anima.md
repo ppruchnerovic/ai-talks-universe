@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "PyTorch"
 duration_min: 20
-published_at: null
+published_at: 2025-11-04T03:45:45Z
 video_id: jNIareeaVTI
 url: https://www.youtube.com/watch?v=jNIareeaVTI
 youtube_url: https://www.youtube.com/watch?v=jNIareeaVTI
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Keynote: Foundations for AI+Science - Animashree (Anima) Anandkumar, Bren Professor of Computing and Mathematical Sciences, California Institute of Technology

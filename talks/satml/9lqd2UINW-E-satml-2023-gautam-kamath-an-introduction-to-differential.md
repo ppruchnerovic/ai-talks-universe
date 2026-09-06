@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Gautam Kamath"]
 channel: "Nicolas Papernot"
 duration_min: 60
-published_at: null
+published_at: 2023-02-16T05:00:08Z
 video_id: 9lqd2UINW-E
 url: https://www.youtube.com/watch?v=9lqd2UINW-E
 youtube_url: https://www.youtube.com/watch?v=9lqd2UINW-E

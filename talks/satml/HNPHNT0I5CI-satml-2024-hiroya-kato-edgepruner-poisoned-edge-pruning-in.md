@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Hiroya Kato"]
 channel: "Nicolas Papernot"
 duration_min: 15
-published_at: null
+published_at: 2024-04-12T18:25:25Z
 video_id: HNPHNT0I5CI
 url: https://www.youtube.com/watch?v=HNPHNT0I5CI
 youtube_url: https://www.youtube.com/watch?v=HNPHNT0I5CI

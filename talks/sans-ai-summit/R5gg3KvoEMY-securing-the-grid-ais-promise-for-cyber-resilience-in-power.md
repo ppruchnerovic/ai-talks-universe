@@ -10,11 +10,11 @@ year: 2025
 speakers: []
 channel: "SANS Institute"
 duration_min: 32
-published_at: null
+published_at: 2025-05-13T19:50:55Z
 video_id: R5gg3KvoEMY
 url: https://www.youtube.com/watch?v=R5gg3KvoEMY
 youtube_url: https://www.youtube.com/watch?v=R5gg3KvoEMY
-tags: []
+tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
 topics: ["Security, safety & red teaming"]
 transcript: false
 ---
@@ -25,8 +25,14 @@ transcript: false
 
 `SANS AI Cybersecurity Summit` · `AI Cybersecurity Summit 2025` · `2025` · `32 min`
 
+`#sans institute` `#information security` `#cyber security` `#cybersecurity` `#information security training` `#cybersecurity training` `#cyber security training`
+
 [Watch the recording](https://www.youtube.com/watch?v=R5gg3KvoEMY) · [Conference site](https://www.sans.org/cyber-security-summit/)
 
 ## Description
 
-*No description published on YouTube.*
+SANS AI Cybersecurity Summit 2025
+Securing the Grid: AI’s Promise for Cyber Resilience in Power Systems
+Richard Macwan
+
+View upcoming Summits: http://www.sans.org/u/DuS

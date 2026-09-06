@@ -1,7 +1,7 @@
 {
   "slug": "satml",
   "name": "IEEE SaTML",
-  "enumerated_at": "2026-08-30T21:48:18+00:00",
+  "enumerated_at": "2026-09-06T13:21:55+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
@@ -25,7 +25,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "Sniper Backdoor: Single Client Targeted Backdoor Attack in Federated Learning",
+      "published_at": "2023-02-16T05:00:00Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "02uOzSHw8Ug": {
       "video_id": "02uOzSHw8Ug",
@@ -34,7 +38,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:00Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "1MnPh7eg5u0": {
       "video_id": "1MnPh7eg5u0",
@@ -43,7 +51,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:02Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "1cZYfGHmPeQ": {
       "video_id": "1cZYfGHmPeQ",
@@ -52,7 +64,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-10T13:15:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "236Pk_FE7jg": {
       "video_id": "236Pk_FE7jg",
@@ -61,7 +77,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-10T18:57:56Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "2UY85XlJcHY": {
       "video_id": "2UY85XlJcHY",
@@ -70,7 +90,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-24T12:41:45Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "2XBeGyOYzrE": {
       "video_id": "2XBeGyOYzrE",
@@ -79,7 +103,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-12T18:16:01Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "2_hzpV2g2R4": {
       "video_id": "2_hzpV2g2R4",
@@ -88,7 +116,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:01Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "2qWfWRdCvtY": {
       "video_id": "2qWfWRdCvtY",
@@ -97,7 +129,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-09T17:15:13Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "3rDlV7B39W4": {
       "video_id": "3rDlV7B39W4",
@@ -106,7 +142,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-10T13:22:49Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "40ZsbtfDVIk": {
       "video_id": "40ZsbtfDVIk",
@@ -115,7 +155,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:01Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "5LZ8X9CZ9QE": {
       "video_id": "5LZ8X9CZ9QE",
@@ -124,7 +168,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:02Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "5YSnp9Er8Q8": {
       "video_id": "5YSnp9Er8Q8",
@@ -133,7 +181,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-10T13:18:15Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "6X76sL0p3uA": {
       "video_id": "6X76sL0p3uA",
@@ -142,7 +194,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "SoK: A Validity Perspective on Evaluating the Justified Use of Data-driven Decision-making Algorithms",
+      "published_at": "2023-02-16T05:00:04Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "7NiwaA52OJc": {
       "video_id": "7NiwaA52OJc",
@@ -151,7 +207,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-12T18:07:11Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "7UIwQdIjTu4": {
       "video_id": "7UIwQdIjTu4",
@@ -160,7 +220,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "81CkBA-ZGr4": {
       "video_id": "81CkBA-ZGr4",
@@ -169,7 +233,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-09T17:10:24Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "9bMVTpUB2WY": {
       "video_id": "9bMVTpUB2WY",
@@ -178,7 +246,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "Can Stochastic Gradient Langevin Dynamics Provide Differential Privacy for Deep Learning?",
+      "published_at": "2023-02-16T05:00:08Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "9cTZPmqFz9k": {
       "video_id": "9cTZPmqFz9k",
@@ -187,7 +259,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:04Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "9lqd2UINW-E": {
       "video_id": "9lqd2UINW-E",
@@ -196,7 +272,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:08Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "9qz_fkHcCbI": {
       "video_id": "9qz_fkHcCbI",
@@ -205,7 +285,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "No Matter How You Slice It: Machine Unlearning with SISA Comes at the Expense of Minority Classes",
+      "published_at": "2023-02-16T05:00:04Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "ARHI9163kXc": {
       "video_id": "ARHI9163kXc",
@@ -214,7 +298,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "BoOHKJn2DRg": {
       "video_id": "BoOHKJn2DRg",
@@ -223,7 +311,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:08Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "CacuArdL0w8": {
       "video_id": "CacuArdL0w8",
@@ -232,7 +324,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "SoK: Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks",
+      "published_at": "2023-02-16T05:00:04Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "Cek2bxF2RcI": {
       "video_id": "Cek2bxF2RcI",
@@ -241,7 +337,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-15T13:45:23Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "CgMl3ah6u8I": {
       "video_id": "CgMl3ah6u8I",
@@ -250,7 +350,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:03Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "CrIn0we1Hvc": {
       "video_id": "CrIn0we1Hvc",
@@ -259,7 +363,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "Model Inversion Attack with Least Information and an In-depth Analysis of its Disparate Vulnerability",
+      "published_at": "2023-02-16T05:00:04Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "DJYmnaltynk": {
       "video_id": "DJYmnaltynk",
@@ -268,7 +376,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "Ee9QQDRPWds": {
       "video_id": "Ee9QQDRPWds",
@@ -277,7 +389,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-11T17:12:52Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "GHXQtR9JUIA": {
       "video_id": "GHXQtR9JUIA",
@@ -286,7 +402,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:11Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "GS3nK6RE_5c": {
       "video_id": "GS3nK6RE_5c",
@@ -295,7 +415,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-10T19:11:13Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "GrPQ-qst5tc": {
       "video_id": "GrPQ-qst5tc",
@@ -304,7 +428,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "SafeNet: The Unreasonable Effectiveness of Ensembles in Private Collaborative Learning",
+      "published_at": "2023-02-16T05:00:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "HNPHNT0I5CI": {
       "video_id": "HNPHNT0I5CI",
@@ -313,7 +441,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-12T18:25:25Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "IMdnvljdBhA": {
       "video_id": "IMdnvljdBhA",
@@ -322,7 +454,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs",
+      "published_at": "2023-02-16T05:00:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "IPs7BSNmy5A": {
       "video_id": "IPs7BSNmy5A",
@@ -331,7 +467,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:12Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "IhoTb87gqHM": {
       "video_id": "IhoTb87gqHM",
@@ -340,7 +480,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-10T15:46:13Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "JodINm7redQ": {
       "video_id": "JodINm7redQ",
@@ -349,7 +493,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-12T18:57:23Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "LKeI0v2H4ak": {
       "video_id": "LKeI0v2H4ak",
@@ -358,7 +506,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-12T18:19:55Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "LUrWRZ8ouTU": {
       "video_id": "LUrWRZ8ouTU",
@@ -367,7 +519,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-10T12:46:38Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "MFRJ9zV3PUg": {
       "video_id": "MFRJ9zV3PUg",
@@ -376,7 +532,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "Learning Fair Representations Through Uniformly Distributed Sensitive Attributes",
+      "published_at": "2023-02-16T05:00:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "MpkKEm8pHNs": {
       "video_id": "MpkKEm8pHNs",
@@ -385,7 +545,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:08Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "OgYhvCMCp3s": {
       "video_id": "OgYhvCMCp3s",
@@ -394,7 +558,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-11T17:08:09Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "P7XT4TWLzJw": {
       "video_id": "P7XT4TWLzJw",
@@ -403,7 +571,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "Eugenics and the Promise of Utopia through Artificial General Intelligence\n\nBased on work by Timnit Gebru & Émile P. Torres",
+      "published_at": "2023-02-16T05:00:18Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "PAW7gEjVQx8": {
       "video_id": "PAW7gEjVQx8",
@@ -412,7 +584,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-12T18:27:32Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "PQy0oH87F8Q": {
       "video_id": "PQy0oH87F8Q",
@@ -421,7 +597,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:11Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "RPogAw8V6wI": {
       "video_id": "RPogAw8V6wI",
@@ -430,7 +610,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-11T12:59:09Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "RtY0sYaZ0_w": {
       "video_id": "RtY0sYaZ0_w",
@@ -439,7 +623,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:11Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "T5Yh3Sj4hFU": {
       "video_id": "T5Yh3Sj4hFU",
@@ -448,7 +636,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-11T17:10:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "U-9pk4AUqAs": {
       "video_id": "U-9pk4AUqAs",
@@ -457,7 +649,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-12T18:38:55Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "U48NlHZ82k8": {
       "video_id": "U48NlHZ82k8",
@@ -466,7 +662,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-12T17:09:14Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "VmX1gEEbskY": {
       "video_id": "VmX1gEEbskY",
@@ -475,7 +675,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-09T17:19:04Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "WB5l2IZSPxM": {
       "video_id": "WB5l2IZSPxM",
@@ -484,7 +688,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "WEsX_X1Z__0": {
       "video_id": "WEsX_X1Z__0",
@@ -493,7 +701,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-12T18:19:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "Wu-PNhk_ipc": {
       "video_id": "Wu-PNhk_ipc",
@@ -502,7 +714,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-10T12:44:58Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "Y07_Imi7o20": {
       "video_id": "Y07_Imi7o20",
@@ -511,7 +727,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-09T16:30:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "bKZUxkHUxAs": {
       "video_id": "bKZUxkHUxAs",
@@ -520,7 +740,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming",
+      "published_at": "2023-02-16T05:00:15Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "c4moy8i-K7I": {
       "video_id": "c4moy8i-K7I",
@@ -529,7 +753,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-10T15:36:20Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "cGk9X4UmXuU": {
       "video_id": "cGk9X4UmXuU",
@@ -538,7 +766,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-11T17:30:43Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "d-f-elaiIt8": {
       "video_id": "d-f-elaiIt8",
@@ -547,7 +779,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:15Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "deaapyAYYbQ": {
       "video_id": "deaapyAYYbQ",
@@ -556,7 +792,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "SoK: Harnessing Prior Knowledge for Explainable Machine Learning: An Overview",
+      "published_at": "2023-02-16T05:00:29Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "dnOnVZDlkl4": {
       "video_id": "dnOnVZDlkl4",
@@ -565,7 +805,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:15Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "feUkMhkfJ7I": {
       "video_id": "feUkMhkfJ7I",
@@ -574,7 +818,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-10T18:56:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "g3voIynD8DU": {
       "video_id": "g3voIynD8DU",
@@ -583,7 +831,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-15T13:49:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "hD9h7PxTLFc": {
       "video_id": "hD9h7PxTLFc",
@@ -592,7 +844,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:30Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "hDz3xWAEV_o": {
       "video_id": "hDz3xWAEV_o",
@@ -601,7 +857,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "Position: “Real Attackers Don’t Compute Gradients”: Bridging the Gap Between Adversarial ML Research and Practice",
+      "published_at": "2023-02-16T05:00:31Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "hhNB-Ud_WhM": {
       "video_id": "hhNB-Ud_WhM",
@@ -610,7 +870,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-12T18:19:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "hzD8qFxGEOQ": {
       "video_id": "hzD8qFxGEOQ",
@@ -619,7 +883,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:16Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "j3uoYEYRYf4": {
       "video_id": "j3uoYEYRYf4",
@@ -628,7 +896,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-12T18:22:45Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "jDO2mpyfL7I": {
       "video_id": "jDO2mpyfL7I",
@@ -637,7 +909,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-09T16:11:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "jm4pfAP_hPs": {
       "video_id": "jm4pfAP_hPs",
@@ -646,7 +922,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:31Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "kb7NIRRMBrE": {
       "video_id": "kb7NIRRMBrE",
@@ -655,7 +935,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "Publishing Efficient On-device Models Increases Adversarial Vulnerability",
+      "published_at": "2023-02-16T05:00:30Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "lA0cDKLaTgI": {
       "video_id": "lA0cDKLaTgI",
@@ -664,7 +948,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-12T18:28:25Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "lLqtqRFUHao": {
       "video_id": "lLqtqRFUHao",
@@ -673,7 +961,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "m-LbgnE3ojo": {
       "video_id": "m-LbgnE3ojo",
@@ -682,7 +974,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:14Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "nIFQyxBMOVM": {
       "video_id": "nIFQyxBMOVM",
@@ -691,7 +987,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-10T13:23:29Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "o8IVA2iEc90": {
       "video_id": "o8IVA2iEc90",
@@ -700,7 +1000,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "What Are Effective Labels for Augmented Data? Improving Calibration and Robustness with AutoLabel",
+      "published_at": "2023-02-16T05:00:18Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "pQCCcCHvPsk": {
       "video_id": "pQCCcCHvPsk",
@@ -709,7 +1013,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "Theoretical Limits of Provable Security Against Model Extraction by Efficient Observational Defenses",
+      "published_at": "2023-02-16T05:00:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "q30gKxOBPCE": {
       "video_id": "q30gKxOBPCE",
@@ -718,7 +1026,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-10T18:54:48Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "qJvnOse3Btc": {
       "video_id": "qJvnOse3Btc",
@@ -727,7 +1039,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-10T19:09:55Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "qL_wxIGFcik": {
       "video_id": "qL_wxIGFcik",
@@ -736,7 +1052,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:20Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "qtBzSdQP_Bg": {
       "video_id": "qtBzSdQP_Bg",
@@ -745,7 +1065,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "Reducing Certified Regression to Certified Classification for General Poisoning Attacks",
+      "published_at": "2023-02-16T05:00:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "rTi1cJSJOe8": {
       "video_id": "rTi1cJSJOe8",
@@ -754,7 +1078,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-12T18:10:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "uCAf-WockFM": {
       "video_id": "uCAf-WockFM",
@@ -763,7 +1091,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-12T18:31:51Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "uDvofIQUWR4": {
       "video_id": "uDvofIQUWR4",
@@ -772,7 +1104,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "uPH1xIiGZ4o": {
       "video_id": "uPH1xIiGZ4o",
@@ -781,7 +1117,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "",
+      "published_at": "2023-02-16T05:00:25Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "ui4HMGe3aUs": {
       "video_id": "ui4HMGe3aUs",
@@ -790,7 +1130,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-12T18:13:24Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "vMjsNmJ0RpY": {
       "video_id": "vMjsNmJ0RpY",
@@ -799,7 +1143,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-10T13:27:21Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "vqcQjdUcOaU": {
       "video_id": "vqcQjdUcOaU",
@@ -808,7 +1156,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-09T17:15:57Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "wdu_xfmUsSY": {
       "video_id": "wdu_xfmUsSY",
@@ -817,7 +1169,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2023",
       "year": 2023,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "description": "Less is More: Dimension Reduction Finds On-Manifold Adversarial Examples in Hard-Label Attacks",
+      "published_at": "2023-02-16T05:00:21Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     },
     "yVDatyu9i5g": {
       "video_id": "yVDatyu9i5g",
@@ -826,7 +1182,11 @@
       "channel": "Nicolas Papernot",
       "label": "SaTML 2024",
       "year": 2024,
-      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "description": "",
+      "published_at": "2024-04-10T15:32:36Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:15+00:00"
     }
   }
 }

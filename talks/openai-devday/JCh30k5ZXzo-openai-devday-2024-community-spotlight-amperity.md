@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 9
-published_at: null
+published_at: 2024-12-17T17:00:19Z
 video_id: JCh30k5ZXzo
 url: https://www.youtube.com/watch?v=JCh30k5ZXzo
 youtube_url: https://www.youtube.com/watch?v=JCh30k5ZXzo
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Data Democratization with Text to SQL: In this talk, Amperity will discuss two key technical challenges they encountered while developing AmpAI, a product that enables non-technical users at major consumer brands to analyze customer data without SQL expertise. They explain their approach to context management with GPT-4o, specifically how they use tool calling to pass relevant information about data schema, usage metrics, and example queries to drive accurate outputs. They then discuss their customization framework, which allows individual brands to tailor the AI outputs to encode their specific business logic.

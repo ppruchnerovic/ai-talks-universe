@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 17
-published_at: null
+published_at: 2025-10-08T17:01:15Z
 video_id: ER9Hqly28Qw
 url: https://www.youtube.com/watch?v=ER9Hqly28Qw
 youtube_url: https://www.youtube.com/watch?v=ER9Hqly28Qw
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Why does ChatGPT sound the way it does? Go behind the scenes to see how the style a model emerges, the trade-offs researchers weigh, and what the future of tone and voice in human-AI interaction could look like.

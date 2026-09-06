@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Matt White"]
 channel: "PyTorch"
 duration_min: 8
-published_at: null
+published_at: 2025-11-04T03:43:36Z
 video_id: 2W0_oPJtHok
 url: https://www.youtube.com/watch?v=2W0_oPJtHok
 youtube_url: https://www.youtube.com/watch?v=2W0_oPJtHok
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Keynote: Welcome Back - Matt White, Executive Director, PyTorch Foundation with Special Guest Joe Spisak, Product Director, Meta

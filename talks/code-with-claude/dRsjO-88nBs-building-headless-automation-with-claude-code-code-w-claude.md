@@ -7,10 +7,10 @@ conference_name: "Code with Claude (Anthropic)"
 category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
-speakers: []
+speakers: ["Sid Bidasaria"]
 channel: "Anthropic"
 duration_min: 21
-published_at: null
+published_at: 2025-07-31T18:22:30Z
 video_id: dRsjO-88nBs
 url: https://www.youtube.com/watch?v=dRsjO-88nBs
 youtube_url: https://www.youtube.com/watch?v=dRsjO-88nBs
@@ -21,7 +21,7 @@ transcript: false
 
 # Building headless automation with Claude Code | Code w/ Claude
 
-**Speaker not identified**
+**Sid Bidasaria**
 
 `Code with Claude (Anthropic)` · `2025` · `2025` · `21 min`
 
@@ -29,4 +29,7 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.
+
+Speakers:
+Sid Bidasaria, Member of Technical Staff @anthropic-ai

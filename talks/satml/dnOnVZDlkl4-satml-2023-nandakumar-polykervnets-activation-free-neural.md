@@ -10,7 +10,7 @@ year: 2023
 speakers: []
 channel: "Nicolas Papernot"
 duration_min: 18
-published_at: null
+published_at: 2023-02-16T05:00:15Z
 video_id: dnOnVZDlkl4
 url: https://www.youtube.com/watch?v=dnOnVZDlkl4
 youtube_url: https://www.youtube.com/watch?v=dnOnVZDlkl4

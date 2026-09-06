@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 29
-published_at: null
+published_at: 2025-10-08T17:01:06Z
 video_id: Gr41tYOzE20
 url: https://www.youtube.com/watch?v=Gr41tYOzE20
 youtube_url: https://www.youtube.com/watch?v=Gr41tYOzE20
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+"Hear how OpenAI engineers use Codex to rethink how code gets written, refactored, and merged.
+
+From pair programming in your local environment to delegating tasks to the cloud, this session focuses on how Codex is unlocking a faster, more creative future for coding."

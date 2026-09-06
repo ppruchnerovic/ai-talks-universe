@@ -1,7 +1,7 @@
 {
   "slug": "bsides-lv",
   "name": "BSides Las Vegas",
-  "enumerated_at": "2026-08-30T21:48:16+00:00",
+  "enumerated_at": "2026-09-06T13:21:51+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@BsidesLVorg/videos",
@@ -223,10 +223,14 @@
       "video_id": "-wIUiU4fQnM",
       "title": "Closing Ceremonies for 2025",
       "duration_s": 2494,
-      "channel": null,
+      "channel": "BSidesLV",
       "label": "BSides Las Vegas",
       "year": null,
-      "source_url": "https://www.youtube.com/@BsidesLVorg/videos"
+      "source_url": "https://www.youtube.com/@BsidesLVorg/videos",
+      "description": "Identifier: HWGE3E\nDescription:\n- “Closing Ceremony”\n- Final event of the conference.\n- Marks the conclusion of sessions and activities.\n\nLocation & Metadata:\n- Location: Breaking Ground, Florentine A\n- Date/Time: Wednesday, 13:00–14:00\n- Speaker: Daemon Tamer",
+      "published_at": "2025-12-08T00:39:34Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:10+00:00"
     },
     "06q_ftEfXYI": {
       "video_id": "06q_ftEfXYI",
@@ -2718,10 +2722,21 @@
       "video_id": "HByfY5Rs65g",
       "title": "GT - Hackademia: The 2018 Literature Review - Falcon Darkstar Momot & Brittany \"Straithe\" Postnikoff",
       "duration_s": 3170,
-      "channel": null,
+      "channel": "BSidesLV",
       "label": "BSides Las Vegas",
       "year": null,
-      "source_url": "https://www.youtube.com/@BsidesLVorg/videos"
+      "source_url": "https://www.youtube.com/@BsidesLVorg/videos",
+      "description": "Hackademia: The 2018 Literature Review - Falcon Darkstar Momot & Brittany \"Straithe\" Postnikoff\nGround Truth\nBSidesLV 2018 - Tuscany Hotel - Aug 08, 2018",
+      "published_at": "2018-09-20T18:22:18Z",
+      "tags": [
+        "bslv",
+        "bslv2018",
+        "bsideslv",
+        "bsideslv2018",
+        "gt",
+        "ground truth"
+      ],
+      "details_at": "2026-09-06T13:24:10+00:00"
     },
     "HE0g5JIkWDA": {
       "video_id": "HE0g5JIkWDA",
@@ -2860,10 +2875,23 @@
       "video_id": "HvFi6xCHnHE",
       "title": "CG - Excuse Me, Your Sword Is In My Eye: Responding to Red Teams and Intrusions in 2019 and Beyond -",
       "duration_s": 1694,
-      "channel": null,
+      "channel": "BSidesLV",
       "label": "BSides Las Vegas",
       "year": null,
-      "source_url": "https://www.youtube.com/@BsidesLVorg/videos"
+      "source_url": "https://www.youtube.com/@BsidesLVorg/videos",
+      "description": "CG - Excuse Me, Your Sword Is In My Eye: Responding to Red Teams and Intrusions in 2019 and Beyond - Jeremy Galloway\nCommon Ground\nBSidesLV 2019 - Tuscany Hotel - Aug 07, 2019",
+      "published_at": "2019-10-19T18:23:35Z",
+      "tags": [
+        "bslv2019",
+        "bslv",
+        "2019-bsideslv-070",
+        "BSidesLV2019",
+        "CG",
+        "Common Ground",
+        "cg",
+        "BSidesLV"
+      ],
+      "details_at": "2026-09-06T13:24:10+00:00"
     },
     "Hwa8xA0FThU": {
       "video_id": "Hwa8xA0FThU",
@@ -3401,10 +3429,14 @@
       "video_id": "LjCtbpXQA9U",
       "title": "BSides Las Vegas 2019 - Ground Truth - Day 1",
       "duration_s": 17617,
-      "channel": null,
+      "channel": "BSidesLV",
       "label": "BSides Las Vegas",
       "year": null,
-      "source_url": "https://www.youtube.com/@BsidesLVorg/videos"
+      "source_url": "https://www.youtube.com/@BsidesLVorg/videos",
+      "description": "",
+      "published_at": "2019-08-07T16:31:39Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:10+00:00"
     },
     "Lm4HxjshJnU": {
       "video_id": "Lm4HxjshJnU",
@@ -4663,10 +4695,14 @@
       "video_id": "SQQKAwZdRxI",
       "title": "BSLV2021 Pros vs. Joes - Closing",
       "duration_s": 2922,
-      "channel": null,
+      "channel": "BSidesLV",
       "label": "BSides Las Vegas",
       "year": null,
-      "source_url": "https://www.youtube.com/@BsidesLVorg/videos"
+      "source_url": "https://www.youtube.com/@BsidesLVorg/videos",
+      "description": "Pros vs. Joes After Action Report\nBSidesLV 2021 - Camp Stay At Home - August 1",
+      "published_at": "2021-08-13T01:29:23Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:10+00:00"
     },
     "SUx19PQYJhE": {
       "video_id": "SUx19PQYJhE",
@@ -7113,10 +7149,21 @@
       "video_id": "gBjbALnV6jY",
       "title": "KEYNOTE - BSides LV 2018 Closing Ceremonies",
       "duration_s": 1885,
-      "channel": null,
+      "channel": "BSidesLV",
       "label": "BSides Las Vegas",
       "year": null,
-      "source_url": "https://www.youtube.com/@BsidesLVorg/videos"
+      "source_url": "https://www.youtube.com/@BsidesLVorg/videos",
+      "description": "BSides LV 2018 Closing Ceremonies\nKeynote\nBSidesLV 2018 - Tuscany Hotel - Aug 08, 2018",
+      "published_at": "2018-09-20T18:30:16Z",
+      "tags": [
+        "bslv",
+        "bslv2018",
+        "bsideslv",
+        "bsideslv2018",
+        "key",
+        "keynote"
+      ],
+      "details_at": "2026-09-06T13:24:10+00:00"
     },
     "gHycefQcKF0": {
       "video_id": "gHycefQcKF0",
@@ -8961,10 +9008,16 @@
       "video_id": "sbVwssCBJ5Q",
       "title": "CG - Securing the 2020 Presidential Campaign: Threats, Challenges, and a Global Pandemic!",
       "duration_s": 2987,
-      "channel": null,
+      "channel": "BSidesLV",
       "label": "BSides Las Vegas",
       "year": null,
-      "source_url": "https://www.youtube.com/@BsidesLVorg/videos"
+      "source_url": "https://www.youtube.com/@BsidesLVorg/videos",
+      "description": "CG - Securing the 2020 Presidential Campaign: Threats, Challenges, and a Global Pandemic! - Mr. Timothy Ball, Alison Goh, Krishnan Aiyer, Matt Hodges, Will Rogers\nCommon Ground\nBSidesLV 2021 - Camp Stay At Home - August 1\n\nVideo Tags:\nbslv2021-cg-2020_campaign_security_panel-1047481",
+      "published_at": "2021-09-01T00:25:24Z",
+      "tags": [
+        "bslv2021-cg-2020_campaign_security_panel-1047481"
+      ],
+      "details_at": "2026-09-06T13:24:10+00:00"
     },
     "sf_FdCqOSLg": {
       "video_id": "sf_FdCqOSLg",

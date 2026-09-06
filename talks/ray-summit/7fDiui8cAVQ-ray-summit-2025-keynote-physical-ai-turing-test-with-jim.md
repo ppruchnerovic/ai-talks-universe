@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 20
-published_at: null
+published_at: 2025-11-08T12:39:24Z
 video_id: 7fDiui8cAVQ
 url: https://www.youtube.com/watch?v=7fDiui8cAVQ
 youtube_url: https://www.youtube.com/watch?v=7fDiui8cAVQ
@@ -29,4 +29,14 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Join Jim Fan, Director and Distinguished Research Scientist at NVIDIA, as he takes the stage to explore the evolution of robotics and what the future holds. In this talk, Jim dives into how robotics has advanced from simple mechanical systems to intelligent, AI-driven machines capable of learning and adapting to the real world.
+
+He introduces the concept of the Physical Turing Test, explains why building truly capable robots is such a challenge, and shares how cutting-edge training methods—like large-scale simulation and reinforcement learning—are shaping the next generation of robotic intelligence.
+
+Interested in more?
+
+Watch the full Day 1 Keynote: https://www.youtube.com/watch?v=YoPskpg3zJQ
+
+--
+
+🔗 Connect with us:

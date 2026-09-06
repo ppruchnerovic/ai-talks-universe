@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 19
-published_at: null
+published_at: 2025-10-08T17:00:27Z
 video_id: 3KAI__5dUn0
 url: https://www.youtube.com/watch?v=3KAI__5dUn0
 youtube_url: https://www.youtube.com/watch?v=3KAI__5dUn0
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Cursor has grown from next action prediction to fully autonomous coding agents. Learn how they’ve built their agent harness and tools, approached context engineering, and enabled support for running many agents in parallel.

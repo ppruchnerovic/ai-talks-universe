@@ -1,7 +1,7 @@
 {
   "slug": "fully-connected-wandb",
   "name": "Fully Connected (Weights & Biases)",
-  "enumerated_at": "2026-08-30T21:47:00+00:00",
+  "enumerated_at": "2026-09-06T13:20:22+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLD80i8An1OEEh-4vRV5PF6MgN7OYRB7v4",
@@ -169,10 +169,14 @@
       "video_id": "09Ubfrdq508",
       "title": "Weights & Biases and CoreWeave: Fully Connected 2025 Keynote",
       "duration_s": 2289,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "Join Weights & Biases Co-Founder Lukas Biewald and CoreWeave’s SVP of Engineering Chen Goldberg as they detail the first of many co-built projects to come. \n\nAfter a brief introduction to the conference, Lukas gets into the state of the industry and how far AI has come in two short years. He touches on the massive improvements around all manner of generative models, how our kids will grow up in a new computing paradigm, and what new challenges come with agentic applications growing in both size and complexity. Lukas then runs through W&B’s newest releases for both W&B Models and Weave before Chen joins to showcase the three features we’ve been working on together. \n\nYou can read about everything we’ve released here: https://wandb.ai/wandb_fc/product-announcements-fc/reports/From-Online-Evaluations-to-Inference-here-s-what-we-announced-at-Fully-Connected-2025--VmlldzoxMzIzODM2Mw\n\nTimestamps: \n\n00:00 - A brief history to the Fully Connected conference\n02:44 - State of the industry: AI in 2025\n06:55 - AI has come a long way in two short years\n09:26 - DeepSeek and Jevon’s paradox\n10:29 - Where is AI headed in 2025? \n13:50 - New issues with AI in production\n17:11 - Newest features: How W&B Models is evolving \n20:53 - Newest features: How W&B Weave is evolving\n24:36 - Introducing Chen Goldberg from CoreWeave\n27:45 - CoreWeave’s purpose-built AI cloud services\n30:50 - Demoing CoreWeave’s Mission Control in W&B \n35:48 - Introducing W&B Inference powered by CoreWeave",
+      "published_at": "2025-06-25T15:00:03Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "09cnR_ODAfw": {
       "video_id": "09cnR_ODAfw",
@@ -373,10 +377,20 @@
       "video_id": "2nnGe_-k-XY",
       "title": "The Fully Connected AI Conference: April 18th , 2024",
       "duration_s": 36,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "🎫 Register Today: http://wandb.me/fc_sf2024\n\nJoin us at the Fully Connected 2024 conference, an event for AI and machine learning professionals taking place in the heart of San Francisco and the Marriott Marquis on April 18, 2024. This year, we're proud to feature a lineup of speakers at the forefront of AI innovation. Attendees will have the unique opportunity to gain insights from:\n\n- Lukas Biewald, CEO and Co-Founder, Weights & Biases\n- Kari Briski, VP Generative AI Software Product Management, NVIDIA\n- Richard Socher, CEO, you.com\n- Joe Spisak, Product Director, Generative AI, Meta\n- Dr. Károly Zsolnai-Fehér, Two Minute Papers\n- And many more!\n\nExplore the latest in GenAI applications, MLOps and LLMOps, and explore the impact of AI on various industries. With keynotes, breakout sessions, and workshops led by these and other luminaries, Fully Connected is your ticket to advancing your knowledge and network in AI.\n\nRegister today to secure your place among the leaders shaping the future of technology at http://wandb.me/fc_sf2024.",
+      "published_at": "2024-03-27T14:00:06Z",
+      "tags": [
+        "fully connected",
+        "artificial intelligence",
+        "machine learning",
+        "weights & biases",
+        "conference"
+      ],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "2sfl0YqRODY": {
       "video_id": "2sfl0YqRODY",
@@ -395,10 +409,14 @@
       "video_id": "3FPQTSqwYQ0",
       "title": "Post-training best-in-class models in 2025",
       "duration_s": 1128,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "Overview of state-of-the-art post-training, including data generation, training algorithms, and evaluations.\n\n--\n\nデータ生成、トレーニングアルゴリズム、評価を含む、ポストトレーニングの最新技術の概要をご紹介します。",
+      "published_at": "2026-01-08T18:00:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "3J0PqXDQS4E": {
       "video_id": "3J0PqXDQS4E",
@@ -742,10 +760,16 @@
       "video_id": "AX-harF99dA",
       "title": "W&B Product Updates For November 2023",
       "duration_s": 306,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "Weights & Biases' Carey Phelps walks us through some of the *major product enhancements* that rolled out in November of 2023.\nRead the full list 👉 https://wandb.me/productnews_Nov23\n\n*Updates Include:*\n\n*🚀W&B Launch: Queue Config Templating *\n\n- Discover how ML teams can now effortlessly modify compute configurations for each job.\n- Learn about the new template variables for queue configurations, enhancing control over memory, GPU, and duration.\n\n*✨ Quality-of-Life Improvements *\n\n- Workspace Pinning: Pin essential sections for quick access and visibility of priority metrics.\n- Global Workspace Settings: Experience enhanced workspace-level settings for better performance and user interaction.\n- Run Search Improvements: A more responsive Runs Search field for handling complex regex expressions.\n\n*🔐Webhooks: Enhanced Interactions and Secrets Management *\n\n- Get insights on the new capabilities for viewing and editing Webhook details.\n- Explore the integration of Secrets with AWS, complementing existing GCP and Azure integrations.\n\n*🔍 Deep Dive into Each Update:*\n\nWe'll walk you through each of these updates, showing you how they can positively impact your workflow and efficiency.",
+      "published_at": "2023-12-13T23:00:11Z",
+      "tags": [
+        "weights & biases"
+      ],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "AZ-8djQfsRg": {
       "video_id": "AZ-8djQfsRg",
@@ -1439,10 +1463,14 @@
       "video_id": "Ld3fbHtDvlw",
       "title": "Fully Connected Tokyo, 2023 - サマリービデオ",
       "duration_s": 75,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "2023年日本展開を開始したWeights & Biasesが国内初のユーザーカンファレンスを開催しました。\n\n生成AI・LLM・クリエイティビティ・自動運転・ヘルスケア、AIの活用分野として注目を集める各分野を代表するMLエンジニアと研究者たちは、ML開発から実世界のAIアプリケーションを生み出すために、どのような工夫をしているのでしょうか？WandBを愛用する登壇者たちから、普段は聞く機会のないML開発・運用のベストプラクティスを学べる貴重なイベントです。\n\nWeights & Biasesからは創業時から在籍するプロダクトマネージャーのCarey Phelpsが来日し、 WandBの最新機能と今後のプロダクト・ロードマップを発表。\n\n懇親会では、AIの未来を熱く語り合いました！",
+      "published_at": "2024-01-05T14:00:13Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "MbCKIFX-oLU": {
       "video_id": "MbCKIFX-oLU",
@@ -1701,10 +1729,14 @@
       "video_id": "QLKTMB6Mdr4",
       "title": "Progress in Agentic AIs: Sakana AI presents at FC Tokyo 2024",
       "duration_s": 1349,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "Join Llion Jones, co-founder and CTO of Sakana AI, from FC Tokyo 2024, the annual Weights & Biases user conference. Jones highlights the areas in which progress has been made with how Agentic AI's are developed and implemented, including the design of LLM loss functions, automating an entire ML research stack, and LLM2.\n\n*Recorded live at Fully Connected Tokyo on October 10, 2024.*\n\n⏳ *Chapters:*\n0:00 Introduction and Opening Remarks\n1:21 Big Picture of AI Today\n1:57 What Defines an AI Agent?\n2:24 Historical Challenges in AI Development\n5:01 The Impact of Deep Learning\n9:00 Sakana AI’s Research and Self-Optimizing AI\n12:13 Fully Automated AI Research Pipeline\n15:10 Unexpected Challenges in AI Autonomy\n17:46 Future of Autonomous AI Research\n22:00 Open Source and Career Opportunities at Sakana AI",
+      "published_at": "2024-11-05T20:30:04Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "QMQPnAkZFOE": {
       "video_id": "QMQPnAkZFOE",
@@ -1898,10 +1930,14 @@
       "video_id": "Sjw-QpaGyNA",
       "title": "Fully Connected 2025: Agentic AI applications from prototype to production",
       "duration_s": 32,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "*🎫 Register Today: https://fullyconnected.com/*\n\nFully Connected is an action-packed, 2-day in-person event hosted by Weights & Biases on June 17 & 18, 2025, designed to supercharge your AI agent development from prototype to production. Dive into hands-on workshops on Day 1, then get inspired by our AI Pioneer Speaker Series featuring Weights & Biases customers and co-founders on Day 2.\n\nThis year, we're proud to feature a lineup of speakers at the forefront of AI innovation. Attendees will have the unique opportunity to gain insights from AI leaders who will share their journey building innovative AI agents, applications, and models, revealing breakthrough insights and lessons learned.\n\nLocated at Convene 100 Stockton in the heart of San Francisco's Union Square neighborhood, between Grant Avenue and Powell Street. \n\n*https://fullyconnected.com/*",
+      "published_at": "2025-05-07T18:00:33Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "Su1TDIra8z8": {
       "video_id": "Su1TDIra8z8",
@@ -2024,10 +2060,14 @@
       "video_id": "Uw2aEJ4CzwM",
       "title": "Fully Connected Tokyo 2025: Opening Keynote with W&B Cofounders Lukas Biewald & Chris Van Pelt",
       "duration_s": 1528,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "This keynote reflects on the rapid acceleration of AI in 2025, as models scale exponentially and real-world adoption spreads across healthcare, law, development, and the enterprise. With benchmarks becoming saturated and agent workflows emerging, AI is fundamentally reshaping how software is built and used. The talk also highlights new challenges in reliability and production, and introduces how Weights & Biases and CoreWeave are enabling the next generation of model development and deployment at scale.\n\n-- \n\n本講演では、AIが指数的に進化し、医療や法律、ソフトウェア開発など幅広い領域で実用化が急速に進む2025年の現状を概観します。生成AIや動画・音楽の品質向上、エージェントの普及により、企業の業務と市場に大きな変革が起きています。一方で、AI特有の非決定性により開発と運用には新たな課題も生じています。Weights & BiasesはCoreWeaveとの協業のもと、大規模モデル開発やエージェント運用を支える次世代のAI開発基盤を提供していきます。",
+      "published_at": "2025-12-11T17:00:56Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "VBbq7NPWzlo": {
       "video_id": "VBbq7NPWzlo",
@@ -2046,10 +2086,14 @@
       "video_id": "VRXui3_ypxI",
       "title": "AI 2024: The Journey From Here",
       "duration_s": 1233,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "👀 *All of the Fully Connected San Francisco 2024 videos are available at http://wandb.me/fcsf24yt*\n\n*About Sri Viswanath's Session On AI Trends*\n\nFollowing the publication of Coatue’s “AI: The Coming Revolution” Report in November 2023, there has been a lot of building in the enterprise AI space. In this talk, Sri Viswanath, CEO of Coatue Ventures, will be providing an update on how major AI trends have fared, discuss new insights, and speak to possible ways in which the technology could evolve.",
+      "published_at": "2024-05-22T16:00:22Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "VWdRQL0CsAk": {
       "video_id": "VWdRQL0CsAk",
@@ -2315,10 +2359,14 @@
       "video_id": "YoRNgLXzrVo",
       "title": "Fully Connected 2025 kickoff: The rise (and the challenges) of the agentic era",
       "duration_s": 1800,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "Join Robin Bordoli, VP of Revenue at Weights & Biases, as he kicks off Fully Connected London 2025. After looking back at how far AI has come in a few short years, Robin leads us to today’s agentic landscape, covering the explosion of agents and reinforcement learning, while highlighting that some of the oldest challenges in AI remain pervasive even as models become vastly more performant.\n\n00:00 - Introduction and thanks to our speakers and sponsors\n03:50 - Level setting on the past two years of growth in both AI and the size of AI models\n08:49 - Practical examples of that growth in video, music, coding, and more\n14:27 - 2025: The age of reasoning, real-time, and rapid learning\n18:23 - The rise of reinforcement learning in GenAI\n20:05 - The explosion (and challenge) of agents\n26:28 - Old issues with AI that remain relevant even today",
+      "published_at": "2025-11-24T20:00:34Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "YqurSBERAlY": {
       "video_id": "YqurSBERAlY",
@@ -2575,10 +2623,14 @@
       "video_id": "bo3qjjTEgPs",
       "title": "The Fully Connected AI Conference London: May 15th , 2024",
       "duration_s": 40,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "🎫 Secure Your Spot: http://wandb.me/fclondon24\n\nExperience the era of Generative AI at the Fully Connected 2024 conference, taking place at the Sancroft, Paternoster Square in London on May 15, 2024. Hosted by Weights & Biases, this premier event brings together the visionaries and builders of the AI world.\n\nPrepare to be inspired by a lineup of expert speakers including:\n\nLukas Biewald, CEO, Weights & Biases\nShawn Lewis, CTO, Weights & Biases\nRobin Bordoli, CMO, Weights & Biases\nIndustry leaders from the London Stock Exchange Group, BBC, Novo Nordisk, Volkswagen AG, and more!\n\nThe day is structured to maximize learning and networking opportunities:\n\nStart with Registration at the Grand Hall Gallery.\nEngage in keynotes and sessions covering everything from AI foundations to sustainable business innovations.\nParticipate in targeted breakout sessions with experts from Novo Nordisk, Bayer, and Volkswagen.\nExplore detailed discussions on MLOps practices from Weights & Biases’ own engineers.\n\n🕒 Agenda Highlights:\n\n12:00 PM: Registration\n1:00 PM - 4:30 PM: Sessions on the latest in Generative AI, LLMOps, and industry applications.\n4:35 PM - 5:00 PM: Insightful panel on the future of Generative AI.\n5:00 PM: Wrap up the day with a closing speech followed by a networking reception.\n\nDon’t miss out on this incredible chance to learn from and network with the top minds in the industry. Register now to ensure your participation in shaping the future of technology: http://wandb.me/fclondon24.",
+      "published_at": "2024-04-26T15:00:28Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "cHD0_eD9XFQ": {
       "video_id": "cHD0_eD9XFQ",
@@ -2751,10 +2803,14 @@
       "video_id": "fDZCEiygfsQ",
       "title": "Transformative & cross-functional AI adoption at Sanofi: Fully Connected London 2025",
       "duration_s": 1066,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "In this talk from Fully Connected London '25, Ewa Jankowska, AI Agents and GenAI Platform Product Owner at Sanofi, walks the audience through the transformative projects that have led to cross-functional AI adoption at the global pharmaceutical corporation. Through a framework of Simplify, Adopt, Accelerate, and Sustain, Sanofi is able to accelerate delivery for patients, powered by AI.",
+      "published_at": "2025-12-19T18:31:02Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "fwXwoXqz3E0": {
       "video_id": "fwXwoXqz3E0",
@@ -2890,10 +2946,14 @@
       "video_id": "hO3b_7jLn4E",
       "title": "What we’re excited about at Fully Connected 2025",
       "duration_s": 1132,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "When planning our yearly AI and ML conference, Fully Connected, we constantly ask ourselves: “Is this the kind of event I’d actually want to attend?” We’ve never been big on flashy predictions. Instead, we focus on practical, real-world work happening in the field. We invite the developers and teams behind those solutions to come together and share not what might work five years from now, but what’s actually working today. \n\nHear from our Co-Founders about what we’re excited about this year, where we think the agent space is heading, and stick around for a few hot takes near the end.\n\n👉 *You can register for Fully Connected here:* https://wandb.ai/site/resources/events/fully-connected/\n\nTimestamps\n0:00 Intro\n0:55 What is the Fully Connected Conference?\n2:38 Favorite behind-the-scenes stories\n4:10 Looking back at the W&B Weave announcement\n4:44 Meta’s Llama 3 sleeper launch at Fully Connected 24\n5:30 What we’re most excited about this year\n8:00 Teaser for this year’s keynotes from our Co-Founders\n9:35 SWE-bench and agent evaluation\n11:25 What we’re excited to hear from Windsurf, CoreWeave, Meta, and Sequoia\n13:35 AI hot takes\n17:02 Wrapping up",
+      "published_at": "2025-06-10T20:00:29Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "hQ9J6BoVmnc": {
       "video_id": "hQ9J6BoVmnc",
@@ -3107,10 +3167,14 @@
       "video_id": "khZS7dMkqek",
       "title": "Fully Connected London 2025: Agentic AI applications from prototype to production",
       "duration_s": 37,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "Join us in London on Nov 4–5 for Fully Connected 2025, hosted by @Weights & Biases at Convene Sancroft, St. Paul’s.\n\nDay 1: Hands-on workshops, safe LLMs, multi-agent orchestration, and fine-tuning you can deploy the same day.\n\nDay 2: AI Pioneer Series leadership conversations from teams building at scale. Speakers TBA.\nYou’ll leave with code, playbooks, and new allies for getting AI to production.\n\n🎟️ Tickets: https://wandb.me/FCLondonLI",
+      "published_at": "2025-08-11T18:32:00Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "kwkdKirqi6s": {
       "video_id": "kwkdKirqi6s",
@@ -3532,10 +3596,14 @@
       "video_id": "tEbLkgDCmzg",
       "title": "How GenAI is powering the next generation of Mercari Marketplace | FC Tokyo 2024",
       "duration_s": 1224,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "Mercari, Japan's largest C2C marketplace, relies on GenAI to provide better services to its users and live up to its mission to \"unleash the potential in all people.\"\n\nJoin Teo Zosa, Senior ML Engineer at Mercari, from the stage at FC Tokyo 2024, Weights & Biases' annual user conference, where he shares how Mercari is doubling down on GenAI productivity tools and features to help users list and sell their items.\n\n*Recorded live at Fully Connected Tokyo on October 10, 2024.*\n\n⏳ *Chapters:*\n0:00 - Introduction by Tio discussing AI's role at Merari\n1:00 - Overview of Merari's growth and marketplace features\n2:04 - Formation of the dedicated AI LLM team\n3:06 - Introduction of productivity tools for internal teams\n4:30 - Launch of AI listing support to simplify user experience\n5:51 - Explanation of the user experience for listing items using AI\n6:39 - Discussion on the similar looks feature for recommendations\n8:50 - Technical details about fine-tuning the embeddings model\n9:37 - Importance of weights and biases for model iteration and tracking\n10:55 - Next steps for building a robust embeddings pipeline\n12:15 - Addressing search relevance issues with AI support\n14:30 - Use of visual tools to monitor results and facilitate collaboration\n16:44 - Successful iteration leading to improved relevance in search results\n18:10 - Key takeaways emphasizing customer value and continuous improvement\n19:26 - Acknowledgment of the teams and invitation for potential hires",
+      "published_at": "2024-11-08T16:00:52Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "tRGoT1QV8VA": {
       "video_id": "tRGoT1QV8VA",
@@ -3671,10 +3739,14 @@
       "video_id": "wtF1sORp8pQ",
       "title": "Productionizing GenAI models: Lessons from the world’s best AI teams at FC Tokyo 2024",
       "duration_s": 1275,
-      "channel": null,
+      "channel": "Weights & Biases",
       "label": "Weights & Biases",
       "year": null,
-      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos",
+      "description": "*FC Tokyo 2024 Keynote:* Join Weights & Biases CEO Lukas Biewald as he cuts through the AI hype to share practical insights on deploying generative AI in production. Drawing from experiences with the world's top ML teams, Lukas discusses strategies for LLM evaluation, dataset management, and model optimization—critical knowledge for teams looking to drive real business value with AI.\n\n*Recorded live at Fully Connected Tokyo on October 10, 2024.*\n\n⏳ *Chapters:*\n0:00 Introduction & Weights & Biases story\n0:55 Vision for AI Tools\n1:41 AI vs. Software Development\n3:11 User-Centric Design\n5:02 Platform Overview\n5:18 Supporting Foundation Model Builders\n7:47 Industry Impact of AI\n12:02 Generative AI in Production\n15:08 Four Best Practices for AI Success\n17:48 Introduction to W&B Weave\n20:04 Japanese and Korean market focus and best practices for LLMs\n21:01 Celebrating growth and 30,000 users in Japan\n\n✅ *Subscribe to Weights & Biases* →  https://bit.ly/45BCkYz",
+      "published_at": "2024-10-28T15:01:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:11+00:00"
     },
     "xFgaEPMqfi4": {
       "video_id": "xFgaEPMqfi4",

@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Tristan Rice"]
 channel: "PyTorch"
 duration_min: 24
-published_at: null
+published_at: 2025-11-04T03:45:03Z
 video_id: B-BXSRwAVdE
 url: https://www.youtube.com/watch?v=B-BXSRwAVdE
 youtube_url: https://www.youtube.com/watch?v=B-BXSRwAVdE
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Sponsored Session: PyTorch Distributed and Fault Tolerance - Tristan Rice, Meta
+
+This session will cover the latest and greatest of PyTorch Distributed communication including upcoming features and improvements, large scale training, fault tolerance, and more. We'll cover the current landscape of PTD including new libraries such as torchft as well as future directions.

@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 32
-published_at: null
+published_at: 2024-10-21T16:51:09Z
 video_id: N1v3CphzuA8
 url: https://www.youtube.com/watch?v=N1v3CphzuA8
 youtube_url: https://www.youtube.com/watch?v=N1v3CphzuA8
@@ -29,4 +29,24 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Hanyu Zhao from Alibaba Group presents Llumnix, a dynamic request scheduling system for large language models, at Ray Summit 2024. Built on vLLM and Ray, Llumnix addresses key challenges in LLM serving through innovative runtime rescheduling and KV cache migration across instances.
+
+Zhao discusses how Llumnix reduces prefill latencies through cross-instance defragmentation and minimizes tail decoding latencies by balancing loads and reducing preemptions. The talk covers the research journey behind Llumnix, from its origins to its publication at OSDI '24, and its subsequent deployment and evolution at Alibaba.
+
+The presentation provides insights into the current state of Llumnix and outlines future development plans. Zhao also highlights the open-source nature of the project, available on GitHub, encouraging community engagement and collaboration.
+
+This session offers valuable information for those interested in optimizing LLM serving, particularly in large-scale, high-performance environments. It demonstrates practical applications of Ray and vLLM in addressing complex scheduling challenges in AI infrastructure.
+
+--
+
+Interested in more?
+- Watch the full Day 1 Keynote: https://youtu.be/jwZHJthQvXo
+- Watch the full Day 2 Keynote https://youtu.be/Lury2ad6KG8
+
+--
+
+🔗 Connect with us:
+- Subscribe to our YouTube channel: https://www.youtube.com/@anyscale
+- Twitter: https://x.com/anyscalecompute
+- LinkedIn: https://linkedin.com/company/joinanyscale/
+- Website: https://www.anyscale.com

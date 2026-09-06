@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
-channel: null
+channel: "CAMLIS"
 duration_min: 12
-published_at: null
+published_at: 2022-11-30T03:31:41Z
 video_id: wptjlWATr-w
 url: https://www.youtube.com/watch?v=wptjlWATr-w
 youtube_url: https://www.youtube.com/watch?v=wptjlWATr-w
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+CAMLIS 2022, Becca Lynch and Richard Harang

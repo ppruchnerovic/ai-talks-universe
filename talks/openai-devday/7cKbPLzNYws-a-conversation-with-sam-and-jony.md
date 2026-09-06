@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 29
-published_at: null
+published_at: 2025-10-08T17:01:45Z
 video_id: 7cKbPLzNYws
 url: https://www.youtube.com/watch?v=7cKbPLzNYws
 youtube_url: https://www.youtube.com/watch?v=7cKbPLzNYws
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Join Sam Altman and Jony Ive for a wide-ranging conversation about the craft of building in the age of AI. Together, they will explore the importance of strong working relationships, the design process, and what it means to build tools thoughtfully, responsibly, and beautifully.

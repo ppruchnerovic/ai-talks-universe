@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "General software conferences"
 edition: "GOTO"
 year: 2026
-speakers: ["Ewelina Kurtys"]
+speakers: ["Ewelina Kurtys", "Charles Humble"]
 channel: "GOTO Conferences"
 duration_min: 42
 published_at: 2026-02-02T13:00:11Z
@@ -21,7 +21,7 @@ transcript: true
 
 # State of the Art of Biological Computing • Ewelina Kurtys & Charles Humble • GOTO 2026
 
-**Ewelina Kurtys**
+**Ewelina Kurtys, Charles Humble**
 
 `GOTO Conferences` · `GOTO` · `2026` · `42 min`
 

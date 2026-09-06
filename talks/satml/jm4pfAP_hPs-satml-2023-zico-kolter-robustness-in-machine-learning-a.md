@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Zico Kolter"]
 channel: "Nicolas Papernot"
 duration_min: 62
-published_at: null
+published_at: 2023-02-16T05:00:31Z
 video_id: jm4pfAP_hPs
 url: https://www.youtube.com/watch?v=jm4pfAP_hPs
 youtube_url: https://www.youtube.com/watch?v=jm4pfAP_hPs

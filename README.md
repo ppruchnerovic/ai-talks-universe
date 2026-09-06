@@ -4,7 +4,7 @@ A searchable knowledge base of recorded talks from the world's AI conferences �
 titles, descriptions, speakers, conference and year, recording links and, where
 they have been fetched, full timestamped transcripts.
 
-**9,048 talks from 53 conferences, 3,174 of them with a full transcript.** The
+**9,797 talks from 53 conferences, 3,405 of them with a full transcript.** The
 curated list of which conferences and why is
 [`ai-conferences.md`](ai-conferences.md); its machine-readable mirror, which
 the pipeline actually reads, is [`conferences.json`](conferences.json).
@@ -53,8 +53,8 @@ asks for `Crawl-delay: 3`, which is the pace `infoq.py` keeps.
 
 That is worth its own route for a reason the table above makes plain: a
 transcript is the expensive column. The YouTube side of this same conference
-had 353 talks and 108 transcripts between them, every one of those bought with
-a Supadata credit. The 229 taken from infoq.com cost nothing but the crawl
+had 358 talks and 107 transcripts between them, every one of those bought with
+a Supadata credit. The 232 taken from infoq.com cost nothing but the crawl
 delay.
 
 Two things make this route more than a cheaper `fetch_transcripts.py`.
@@ -79,9 +79,9 @@ YouTube id, so the video stays watchable and its transcript stays upgradable to
 exact timings later. Only a presentation YouTube never listed becomes a new
 record, under an `iq-` id whose link is its InfoQ page.
 
-In practice the two surfaces overlap far less than expected: 7 of the 229
+In practice the two surfaces overlap far less than expected: 7 of the 232
 presentations matched a video the channel had already given us, and none at all
-of the 22 from the 2026 editions did. InfoQ.com is mostly *additive* here, not
+of the 25 from the 2026 editions did. InfoQ.com is mostly *additive* here, not
 duplicative — which is the argument for reading it.
 
 InfoQ's transcripts are prose, with no caption timings. Starts are interpolated
@@ -125,8 +125,8 @@ passes the floor — enrichment is what resolves a year — and enumeration cach
 every year regardless, so the floor is a re-derivation away from being moved:
 `sync_catalog.py --no-min-year` rebuilds with the whole catalogue.
 
-Of 17,677 videos enumerated, 8,826 survive; with the 222 presentations that
-exist only on infoq.com the corpus is 9,048. `sync_catalog.py` prints exactly
+Of 17,943 videos enumerated, 9,572 survive; with the 225 presentations that
+exist only on infoq.com the corpus is 9,797. `sync_catalog.py` prints exactly
 what each conference dropped and why, the year floor included.
 
 ### Who gave the talk
@@ -142,7 +142,7 @@ capitalised words, none of them a role, a brand word or the conference's own
 name), and a "name" that recurs across a tenth of a conference is treated as
 its host or its brand and dropped. The rule is conservative on purpose:
 `speakers` is weighted four times a description word in both rankers, and one
-false positive lands under every talk that carries it. 55% of talks have a
+false positive lands under every talk that carries it. 58% of talks have a
 speaker; a seeded or InfoQ talk carries the one its programme stated.
 
 ### What the talk is about
@@ -152,11 +152,11 @@ registry labels, and they name the *kind of venue*, not a subject:
 
 | Conference type | talks |
 |---|---:|
-| Practitioner AI conferences | 3,903 |
-| General software conferences | 2,301 |
-| Vendor events | 1,796 |
-| Security conferences | 839 |
-| Business & industry events | 209 |
+| Practitioner AI conferences | 4,059 |
+| General software conferences | 2,537 |
+| Vendor events | 2,044 |
+| Security conferences | 899 |
+| Business & industry events | 258 |
 
 The browser calls this facet **Conference type**; the field, the CSV column
 and the CLI flag keep the name `category`. A venue label cannot follow a
@@ -167,21 +167,21 @@ AI-relevance test is:
 
 | Topic | talks |
 |---|---:|
-| Agents & orchestration | 2,456 |
-| Enterprise adoption & strategy | 1,572 |
-| Security, safety & red teaming | 1,314 |
-| Inference, serving & GPU infra | 912 |
-| Classic ML & data science | 908 |
-| Evals, observability & reliability | 828 |
-| Science, healthcare & applied ML | 811 |
-| Governance, ethics & regulation | 679 |
-| Data engineering & MLOps | 602 |
-| Training, fine-tuning & model building | 534 |
-| Coding assistants & agents | 424 |
-| RAG, retrieval & knowledge | 414 |
-| AI in the SDLC & engineering orgs | 409 |
-| Multimodal, vision, speech & robotics | 316 |
-| Prompting & context engineering | 216 |
+| Agents & orchestration | 2,561 |
+| Enterprise adoption & strategy | 1,845 |
+| Security, safety & red teaming | 1,496 |
+| Classic ML & data science | 1,096 |
+| Inference, serving & GPU infra | 1,064 |
+| Science, healthcare & applied ML | 936 |
+| Evals, observability & reliability | 927 |
+| Governance, ethics & regulation | 772 |
+| Data engineering & MLOps | 718 |
+| Training, fine-tuning & model building | 616 |
+| RAG, retrieval & knowledge | 481 |
+| AI in the SDLC & engineering orgs | 466 |
+| Coding assistants & agents | 444 |
+| Multimodal, vision, speech & robotics | 354 |
+| Prompting & context engineering | 243 |
 
 A phrase in the title is enough on its own; the tags and the description
 together have to say two *different* things about a subject before it
@@ -192,9 +192,9 @@ label that moved when a transcript arrived would make the facet drift with
 every fetch. What a whole conference repeats is stripped first: a description
 line under more than a tenth of its talks (PyData's "PyData is an educational
 program of NumFOCUS…"), a tag on more than three tenths of its videos (AI
-Engineer tags every upload `startups`). 7,162 talks carry at least one topic
-and 1,886 none — keynotes, panels, the non-AI half of the WeAreDevelopers
-programme, and 613 talks with no description at all. The rule is precise
+Engineer tags every upload `startups`). 7,922 talks carry at least one topic
+and 1,875 none — keynotes, panels, the non-AI half of the WeAreDevelopers
+programme, and 76 talks with no description at all. The rule is precise
 rather than generous on purpose, and `sync_catalog.py` prints the
 distribution on every run so a phrase that starts firing on boilerplate is
 seen in the run that did it. Topics enter no ranker: they narrow a search,
@@ -202,11 +202,11 @@ they never reorder one. Neither does the conference type, since 2026-09-02
 in the browser and from the start in the CLI: a venue label is not evidence
 about a talk.
 
-The two facets cross rather than nest, which is why both are kept. Only 577
-of the 1,314 talks on *Security, safety & red teaming* were given at a
-security conference; 276 were at general software conferences and 219 at
-vendor events. Inside the security conferences, 122 talks are on *Agents &
-orchestration* and 84 on *Governance, ethics & regulation*. "What do
+The two facets cross rather than nest, which is why both are kept. Only 681
+of the 1,496 talks on *Security, safety & red teaming* were given at a
+security conference; 307 were at general software conferences and 258 at
+vendor events. Inside the security conferences, 126 talks are on *Agents &
+orchestration* and 90 on *Governance, ethics & regulation*. "What do
 security-conference speakers say about agents" and "what do vendor keynotes
 say about security" are different questions, and only the two facets
 together can ask either.
@@ -494,7 +494,7 @@ The browser index is keyed on Porter stems — the same stemmer FTS5's `porter`
 tokeniser applies to `talks.db`, implemented once in Python for the build and
 once in JavaScript for the query, with `test_stem.py` proving the two agree on
 every word in the corpus. Each shard entry carries the transcript postings and,
-new since 2026-09-02, the postings of the *whole* description, so the 300
+new since 2026-09-02, the postings of the *whole* description, so the 150
 characters `search-meta.json` ships are a display clip and no longer a limit
 on what a search can find.
 
@@ -526,11 +526,13 @@ talk.
 
 ### Fetching what has no transcript yet
 
-Nothing is pending. The seven conferences added on 2026-09-01 brought in 422
-talks without transcripts, and all 422 were fetched the same day — 420 returned
-captions, 2 had none; the one talk the year-fallback fix later moved into 2026
-was fetched the same way, for one credit. When a refresh brings new talks in,
-this is the run, and it takes about five minutes:
+Nothing is pending. The 2026-09-06 refresh — 27 new videos, 3 InfoQ-only
+presentations, and 722 already-cached videos that the description backfill
+let through the AI filter — left 241 talks of 2026 without a transcript, and
+the run below fetched them the same day: 232 returned captions, 9 had none or
+sat behind a members-only 403, for about 242 credits with the probe. Every
+2026 talk now either has a transcript or is recorded in `_misses.json`. When a
+refresh brings new talks in, this is the run, and it takes about five minutes:
 
 ```bash
 cd tools
@@ -600,8 +602,8 @@ export lives in `~/.bash_profile` it will not reach a non-login shell — put it
 in `~/.bashrc`, or source it explicitly.
 
 `videos.list` bills one unit per call and takes 50 video ids at a time, so the
-corpus costs about 190 units and `--all` over the full 17,677-video catalogue
-about 354 — 4% of a day's allowance, which is why a re-enrichment is never the
+corpus costs about 196 units and `--all` over the full 17,943-video catalogue
+about 359 — 4% of a day's allowance, which is why a re-enrichment is never the
 thing to ration. Without a key it is a full yt-dlp extraction per video —
 roughly an hour for the corpus at two workers, and it draws on the same IP
 reputation the transcript fetch depends on, so do not run it alongside a
@@ -659,9 +661,9 @@ exists. Within a priority it takes the longest talks first.
 
 It selects on year too, because on AI topics a 2023 talk is rarely worth a unit
 of an allowance that refills over hours. `--year 2026` (repeatable) or
-`--min-year 2026` keeps only those years — 2,964 of the 9,048 talks are 2026,
-of which 2,936 have a transcript and 28 have no captions, so none is waiting on
-a fetch — and a talk whose year is not known yet is left out unless
+`--min-year 2026` keeps only those years — 3,208 of the 9,797 talks are 2026,
+of which 3,167 have a transcript, 37 have no captions or are members-only and 4
+are held back from the index as ASR failures, so none is waiting on a fetch — and a talk whose year is not known yet is left out unless
 `--include-unknown-year` says otherwise. This is a selection filter and removes
 nothing: `query.py --year` reads every year the corpus has. What the corpus
 *has* is a separate decision, made once in the registry — see the year floor

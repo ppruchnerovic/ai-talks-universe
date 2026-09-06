@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Wenxin Ding"]
 channel: "Nicolas Papernot"
 duration_min: 13
-published_at: null
+published_at: 2024-04-10T18:57:56Z
 video_id: 236Pk_FE7jg
 url: https://www.youtube.com/watch?v=236Pk_FE7jg
 youtube_url: https://www.youtube.com/watch?v=236Pk_FE7jg

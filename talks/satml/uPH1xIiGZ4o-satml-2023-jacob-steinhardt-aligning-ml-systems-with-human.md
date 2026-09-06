@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Jacob Steinhardt"]
 channel: "Nicolas Papernot"
 duration_min: 57
-published_at: null
+published_at: 2023-02-16T05:00:25Z
 video_id: uPH1xIiGZ4o
 url: https://www.youtube.com/watch?v=uPH1xIiGZ4o
 youtube_url: https://www.youtube.com/watch?v=uPH1xIiGZ4o

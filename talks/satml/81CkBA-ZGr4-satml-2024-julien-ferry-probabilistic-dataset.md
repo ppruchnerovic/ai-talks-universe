@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Julien Ferry"]
 channel: "Nicolas Papernot"
 duration_min: 16
-published_at: null
+published_at: 2024-04-09T17:10:24Z
 video_id: 81CkBA-ZGr4
 url: https://www.youtube.com/watch?v=81CkBA-ZGr4
 youtube_url: https://www.youtube.com/watch?v=81CkBA-ZGr4

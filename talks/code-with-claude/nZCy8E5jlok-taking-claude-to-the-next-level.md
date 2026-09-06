@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "Anthropic"
 duration_min: 23
-published_at: null
+published_at: 2025-05-22T18:32:06Z
 video_id: nZCy8E5jlok
 url: https://www.youtube.com/watch?v=nZCy8E5jlok
 youtube_url: https://www.youtube.com/watch?v=nZCy8E5jlok
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Best practices for how to get the best performance from our latest models

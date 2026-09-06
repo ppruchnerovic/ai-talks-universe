@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Robert Nishihara", "Ion Stoica"]
 channel: "PyTorch"
 duration_min: 15
-published_at: null
+published_at: 2025-11-04T03:45:43Z
 video_id: B7U05Y4YcJg
 url: https://www.youtube.com/watch?v=B7U05Y4YcJg
 youtube_url: https://www.youtube.com/watch?v=B7U05Y4YcJg
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Keynote: Ray: A Distributed Compute Engine for AI - Robert Nishihara, Co-Founder, Anyscale & Co-creator, Ray; Ion Stoica, Professor of Computer Science, UC Berkeley; Director of Sky Computing Lab; & Co-founder of Anyscale, Databricks, and Conviva Networks

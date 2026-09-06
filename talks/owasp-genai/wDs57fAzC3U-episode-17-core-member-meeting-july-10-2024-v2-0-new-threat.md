@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 59
-published_at: null
+published_at: 2024-07-10T22:10:49Z
 video_id: wDs57fAzC3U
 url: https://www.youtube.com/watch?v=wDs57fAzC3U
 youtube_url: https://www.youtube.com/watch?v=wDs57fAzC3U
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+We took a break from the standard meeting and had a meeting of the core member team to hash out some of the new threats that have come up in conversation for v2.0 ranking.

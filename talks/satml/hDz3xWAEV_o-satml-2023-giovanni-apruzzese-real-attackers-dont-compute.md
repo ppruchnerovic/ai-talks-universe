@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Giovanni Apruzzese"]
 channel: "Nicolas Papernot"
 duration_min: 15
-published_at: null
+published_at: 2023-02-16T05:00:31Z
 video_id: hDz3xWAEV_o
 url: https://www.youtube.com/watch?v=hDz3xWAEV_o
 youtube_url: https://www.youtube.com/watch?v=hDz3xWAEV_o
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Position: “Real Attackers Don’t Compute Gradients”: Bridging the Gap Between Adversarial ML Research and Practice

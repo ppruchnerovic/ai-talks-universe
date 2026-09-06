@@ -7,10 +7,10 @@ conference_name: "OpenAI DevDay"
 category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
-speakers: []
+speakers: ["Nina Montaña Brown", "Sal Khalil"]
 channel: "OpenAI"
 duration_min: 14
-published_at: null
+published_at: 2024-12-17T17:00:52Z
 video_id: tUEqVOnxcnw
 url: https://www.youtube.com/watch?v=tUEqVOnxcnw
 youtube_url: https://www.youtube.com/watch?v=tUEqVOnxcnw
@@ -21,7 +21,7 @@ transcript: false
 
 # OpenAI DevDay 2024 | Community Spotlight | Tortus
 
-**Speaker not identified**
+**Nina Montaña Brown, Sal Khalil**
 
 `OpenAI DevDay` · `DevDay 2024` · `2024` · `14 min`
 
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Clinical Safety Evaluation of LLMs: Evaluating LLMs by developing an in-house data labeling platform and production monitoring systems for real-time safety assurance.
+
+Presenter: Nina Montaña Brown, Research Engineer and Sal Khalil, Founding Engineer, Tortus

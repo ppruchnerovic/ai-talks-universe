@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 22
-published_at: null
+published_at: 2024-01-04T18:21:59Z
 video_id: G1-stVMuU-s
 url: https://www.youtube.com/watch?v=G1-stVMuU-s
 youtube_url: https://www.youtube.com/watch?v=G1-stVMuU-s
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+First meeting after the holiday season, so a bit short. We covered the podcast release, passing 1000 LinkedIn subscribers, talked about the new language translations forthcoming release, getting closer on the Security & Governance Checklist and much more!

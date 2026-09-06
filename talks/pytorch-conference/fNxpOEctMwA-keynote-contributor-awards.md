@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "PyTorch"
 duration_min: 9
-published_at: null
+published_at: 2025-11-04T03:45:07Z
 video_id: fNxpOEctMwA
 url: https://www.youtube.com/watch?v=fNxpOEctMwA
 youtube_url: https://www.youtube.com/watch?v=fNxpOEctMwA
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Keynote: Contributor Awards

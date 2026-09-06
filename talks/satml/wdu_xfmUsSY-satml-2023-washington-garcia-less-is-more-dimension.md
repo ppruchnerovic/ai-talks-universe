@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Washington Garcia"]
 channel: "Nicolas Papernot"
 duration_min: 14
-published_at: null
+published_at: 2023-02-16T05:00:21Z
 video_id: wdu_xfmUsSY
 url: https://www.youtube.com/watch?v=wdu_xfmUsSY
 youtube_url: https://www.youtube.com/watch?v=wdu_xfmUsSY
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Less is More: Dimension Reduction Finds On-Manifold Adversarial Examples in Hard-Label Attacks

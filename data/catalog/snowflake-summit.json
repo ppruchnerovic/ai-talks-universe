@@ -1,13 +1,13 @@
 {
   "slug": "snowflake-summit",
   "name": "Snowflake Summit",
-  "enumerated_at": "2026-08-30T21:49:04+00:00",
+  "enumerated_at": "2026-09-06T13:22:48+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PL4IM5KTx_T7gNwtams0rYZ-McLFy0dbIH",
       "label": "Summit 2026",
       "year": 2026,
-      "count": 13
+      "count": 15
     },
     {
       "url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
@@ -16,7 +16,7 @@
       "count": 75
     }
   ],
-  "count": 88,
+  "count": 90,
   "videos": {
     "1lrQ8r6XxUM": {
       "video_id": "1lrQ8r6XxUM",
@@ -25,7 +25,36 @@
       "channel": "Snowflake Inc.",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Snowflake's Senior Product Manager Renee Huang demonstrates how to leverage Snowflake's powerful Cortex AISQL functions for advanced analytics on unstructured and structured data. Her demonstration includes a look at how to use functions such as AI_AGG, AI_CLASSIFY, AI_COMPLETE, and AI_FILTER on your data to accelerate insights.\n\nFor more information, check out this blog post:\n-- https://www.snowflake.com/en/blog/ai-sql-query-language/ \n\n❄Join our YouTube community❄ https://bit.ly/3lzfeeB \n\nLearn more about Snowflake:\n➡️ Website: https://www.snowflake.com \n➡️ Careers: http://careers.snowflake.com\n➡️ Podcast page: https://www.snowflake.com/thedatacloudpodcast/\n➡️ Twitter: https://twitter.com/Snowflake \n➡️ Instagram: https://www.instagram.com/_snowflake_inc\n➡️ Facebook: https://www.facebook.com/snowflakedb\n➡️ LinkedIn: https://bit.ly/2QUexl4\n➡️ Sign up for our weekly live demo program and have your questions answered by a Snowflake expert at https://bit.ly/2TdVCmJ\n\nListen on: \n🔈 Apple Podcasts: https://apple.co/3cCdrCU \n🔈 Spotify: https://spoti.fi/39vCNjH\n🔈 Simplecast: https://bit.ly/3rFCrgA\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-03T16:00:07Z",
+      "tags": [
+        "Snowflake",
+        "Snowflake data warehouse",
+        "Snowflake computing",
+        "Snowflake company",
+        "Snowflake database",
+        "Snowflake cloud",
+        "Data warehouse",
+        "Business software",
+        "Data warehousing",
+        "Cloud storage",
+        "cloud computing",
+        "Data Science",
+        "Data Engineering",
+        "The Data Cloud",
+        "big data",
+        "artificial intelligence",
+        "data scientist",
+        "predictive analytics",
+        "business intelligence",
+        "data economy",
+        "Data driven economy",
+        "Data cloud",
+        "data lake",
+        "Data Warehouse"
+      ],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "22OUoOlW8a4": {
       "video_id": "22OUoOlW8a4",
@@ -34,7 +63,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "This session from Summit 2025 examines how Netflix utilizes Snowflake’s highly scalable and performant platform to seamlessly connect to its Iceberg REST catalog and run advanced analytics. The session explores how Netflix is leveraging Snowflake’s latest capabilities, including Iceberg REST catalog integration with auto-refresh, vended credentials, and multi-bucket support, to optimize workloads at an unprecedented scale. Tune in to gain insights into how these innovations drive performance, efficiency, and scalability in one of the world's largest data ecosystems.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-15T17:00:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "49vJRrZxVw4": {
       "video_id": "49vJRrZxVw4",
@@ -43,7 +76,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "For more than 40 years, Centene has operated government-sponsored healthcare programs that reduce costs and improve medical outcomes. We developed a Streamlit app with Cortex to allow analysts to ask natural language questions of our curated data sets. This capability increases the analyst productivity by allowing knowledge workers to ask questions with Snowflake without needing SQL expertise. The system is powered by Centene’s golden queries and knowledge, providing accurate and reliable insights through Cortex.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-09-15T16:30:25Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "4GX4o7C0V5E": {
       "video_id": "4GX4o7C0V5E",
@@ -52,7 +89,36 @@
       "channel": "Snowflake Inc.",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Day 2 of #SnowflakeSummit flew by, but not before attendees were treated to a mountain of announcements during the Platform Keynote! Among the key Snowflake announcements were the introduction of Adaptive Compute, Snowflake Openflow, Cortex AISQL, Semantic Model Sharing, Snowflake Intelligence, and much more. \n\nCatch up on all the news by going to https://www.snowflake.com/en/blog/announcements-snowflake-summit-2025/\n\n❄Join our YouTube community❄ https://bit.ly/3lzfeeB \n\nLearn more about Snowflake:\n➡️ Website: https://www.snowflake.com \n➡️ Careers: http://careers.snowflake.com\n➡️ Podcast page: https://www.snowflake.com/thedatacloudpodcast/\n➡️ Twitter: https://twitter.com/Snowflake \n➡️ Instagram: https://www.instagram.com/_snowflake_inc\n➡️ Facebook: https://www.facebook.com/snowflakedb\n➡️ LinkedIn: https://bit.ly/2QUexl4\n➡️ Sign up for our weekly live demo program and have your questions answered by a Snowflake expert at https://bit.ly/2TdVCmJ\n\nListen on: \n🔈 Apple Podcasts: https://apple.co/3cCdrCU \n🔈 Spotify: https://spoti.fi/39vCNjH\n🔈 Simplecast: https://bit.ly/3rFCrgA\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-05T02:59:59Z",
+      "tags": [
+        "Snowflake",
+        "Snowflake data warehouse",
+        "Snowflake computing",
+        "Snowflake company",
+        "Snowflake database",
+        "Snowflake cloud",
+        "Data warehouse",
+        "Business software",
+        "Data warehousing",
+        "Cloud storage",
+        "cloud computing",
+        "Data Science",
+        "Data Engineering",
+        "The Data Cloud",
+        "big data",
+        "artificial intelligence",
+        "data scientist",
+        "predictive analytics",
+        "business intelligence",
+        "data economy",
+        "Data driven economy",
+        "Data cloud",
+        "data lake",
+        "Data Warehouse"
+      ],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "5VDuNHg3q1c": {
       "video_id": "5VDuNHg3q1c",
@@ -61,7 +127,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Learn how the latest capabilities in Snowflake ML accelerate and simplify the dev-to-prod lifecycle. Join us for new feature overviews and a live demo showcasing our latest innovations.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-25T17:00:11Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "68DP4ACQSjE": {
       "video_id": "68DP4ACQSjE",
@@ -108,7 +178,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Embark on a journey through the development of AI chatbots, from initial prototype to robust, scalable, and secured products deployed across multiple factories in different countries. This session, recorded at Summit 2025, highlights the integration of Cortex LLMs and Cortex Search, leveraging multi-lingual capabilities and integration to other systems to create seamless user experiences for a global user base. Discover how an idea born in business has scaled within the organization through a citizen developer approach.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-09-22T16:54:04Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "77XH4rEUc14": {
       "video_id": "77XH4rEUc14",
@@ -117,7 +191,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "By leveraging a digital twin of our physical network infrastructure, SparkNZ has transformed its ability to identify network vulnerabilities, optimize equipment placement and plan for demand fluctuations. This enables network engineers to run complex what-if scenarios, proactively identifying bottlenecks and analyzing failure impacts while maintaining data within Snowflake. This eliminates data movement and reduces significant TCO while enabling unprecedented network analysis capabilities. Future opportunities have been identified around fraud and revenue assurance.\n\nSee this press release for more details:\n👉  https://finance.yahoo.com/news/relationalai-knowledge-graph-coprocessor-generally-170000497.html\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-09-30T17:00:16Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "7Am8g7hJk40": {
       "video_id": "7Am8g7hJk40",
@@ -126,7 +204,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Snowflake Summit 2025 was a record-breaking event that attracted more than 20,000 attendees and featured more than 500 sessions and 150 product announcements. If you missed it, don't despair. All the keynote presentations are already posted here on this YouTube channel, and the Luminary Talks and breakout sessions will be posted over the course of the coming weeks.\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence #SnowflakeSummit",
+      "published_at": "2025-06-11T14:00:18Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "7afEH7Zcs-s": {
       "video_id": "7afEH7Zcs-s",
@@ -135,7 +217,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Many-model training is a common use case across industries where there is a need to build hyper-personalized models based on geography or customer. This type of training can be challenging to orchestrate and scale while maximizing resource utilization or trying to stay within budget. In this talk recorded at Summit 2025, the presenters demonstrate how to leverage Snowflake ML’s distributed training capabilities to achieve the best price performance for many-model training from Container Runtime for Snowflake Notebooks. Learn how customer Les Schwab uses Snowflake ML to train and generate inferences on a large-series time series neural network to forecast a promotion’s success.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-06T15:00:18Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "8tBZ7ChYkvo": {
       "video_id": "8tBZ7ChYkvo",
@@ -144,7 +230,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "This talk covers how Cboe Global Markets uses Snowflake Cortex AI to analyze data. Hunter Treschl, Manager of Cboe's AI Center of Excellence, describes the overall architecture of their tool, which contains AI-generated data dictionaries, SQL generation, python generation, and code execution. The session highlights some of the \"gotchas\" Cboe discovered developing the tool, as well as shares best practices and the Snowflake-first approach they employed in developing the company's data analysis tool.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-09-19T15:00:29Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "A-0RFqyY9WQ": {
       "video_id": "A-0RFqyY9WQ",
@@ -153,7 +243,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Modern data ecosystems face increasing complexity with the proliferation of AI models, metrics, and event streams. This session from Summit 2025 explores how Spotify tackled this challenge by implementing a comprehensive data lineage framework that serves as the foundation for tracking multiple dimensions of our data ecosystem. We'll share our journey demonstrating how data lineage can be extended beyond traditional use cases to encompass AI model lineage, metrics lineage, and event lineage.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-26T15:00:15Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "AFMuEtyC8gg": {
       "video_id": "AFMuEtyC8gg",
@@ -200,7 +294,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "In today’s fast-paced data landscape, businesses need real-time insights powered by transactional data. CDC streaming has emerged as a critical technology to ensure that operational databases seamlessly feed analytics and AI applications without disrupting core business operations. Tune into this session from Summit 2025 to learn about Snowflake's new OLTP database CDC streaming connectors, purpose-built to bridge transactional data with Snowflake in real time.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-01T18:00:11Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "BCSNMIVkd6E": {
       "video_id": "BCSNMIVkd6E",
@@ -209,7 +307,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "The RAG policy assistant developed by the Ohio Bureau of Workers' Compensation enables the Employee Service Group to provide objective, transparent, timely, consistent, and reproduceable guidance based on Ohio policies and regulations. The solution leverages Snowflake Vector data types, Snowflake Cortex AI, Cortex Guard, and Streamlit as part of a scalable generative AI framework. It incorporates automated user feedback, LLM-as-a-Judge, Human-in-the-Loop validation, LLM configuration testing, and infrastructure optimization dashboards.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-26T17:00:24Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "Blcrurhsy5A": {
       "video_id": "Blcrurhsy5A",
@@ -256,7 +358,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Leverage Document AI and Snowflake Cortex AI to transform unstructured data into actionable insights. Our solution automates vital information extraction from diverse PDF formats, reducing manual effort. Custom-trained models ensure efficient data extraction, while robust pre-processing validates documents. Enhanced metadata management tracks configurations and accuracy. A Streamlit interface enables real-time monitoring and exception handling, optimizing data ingestion workflows for manufacturing.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-19T15:00:30Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "CtqKJV6gyGQ": {
       "video_id": "CtqKJV6gyGQ",
@@ -379,7 +485,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Learn how to build data pipelines on Iceberg with Dynamic Tables. This talk from Summit 2025 demonstrates how to build an end-to-end pipeline that ingests data into Snowflake; processes it with Dynamic Tables, both on Snowflake managed Iceberg data lakes and externally managed data lakes; and then run an Apache Spark job on the golden data.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-11T14:58:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "IMPNYRetMZA": {
       "video_id": "IMPNYRetMZA",
@@ -388,7 +498,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "The rapid advancements in AI are reshaping the job market — creating both exciting opportunities and new challenges for career growth. Whether you're starting your career, switching careers, or looking to future-proof your skills, this interactive panel and AMA session will provide practical insights on how to grow your career in data and AI. Experts from e-learning platforms DeepLearning.AI and DataCamp and from VC firm A Capital will share their research on the skills most in demand, how to acquire them, and how to land your next job. Bring your questions and leave with actionable advice to grow your career in data and AI.\n\nSubscribe to this channel for more great content!\n-- http://www.snowflake.com/YTsubscribe/\n\nExplore sample code, download tools, and connect with peers:\n-- https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-20T18:00:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "ItewChEfpDY": {
       "video_id": "ItewChEfpDY",
@@ -397,7 +511,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "This session from Summit 2025 walks through the transformative Cortex AI journey undertaken by nib, an Australian health insurance company. Presenter Pip Sidaway, a Data Product Manager at nib, shares real world examples that highlight the journey's challenges and successes, and she offers practical tips that can help ensure a successful Cortex AI implementation. Among other things, she explains how nib was able to reduce work item backlogs through intelligent prioritization and automating client data updates from free text across multiple source systems, an effort that saved 150 FTE hours by completing tasks in under a week. Additionally, she walks through nib's use of Streamlit as an interface for review and quality checks. \n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-15T09:44:00Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "J3NVppNR6_w": {
       "video_id": "J3NVppNR6_w",
@@ -444,7 +562,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Learn how the Anthology data science team used Snowflake ML to derive students’ behavioral “DNA” from click-level data and uncover common patterns to help our customers better understand their students. This presentation, recorded at Summit 2025, will cover how Anthology experimented with feature creation, neural network auto-encoding, and unsupervised learning approaches. They incorporated Snowflake artifacts into their iterative development and machine learning operations framework, unblocking research on this previously underused data.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-12T15:00:30Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "JyA26c-9Zt0": {
       "video_id": "JyA26c-9Zt0",
@@ -453,7 +575,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "At Block (Cash App), we’re breaking down technical barriers to empower any employee to engage with data — no SQL required. In this session recorded at Summit 2025, we share our three-phase journey to democratize data insights across the company at scale: \n\nPhase 1: Developing Streamlit dashboards that empower teams to independently make informed decisions\n \nPhase 2: Automating our analytics with Agentic AI — from question to insight — cutting analysis time by 95%\n \nPhase 3: Building integrated, scalable solutions that leverage Snowflake MCP, Codename Goose and Streamlit \n\nMake data human by letting it tell its own story.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-21T17:00:25Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "K0XVIaJ9gFQ": {
       "video_id": "K0XVIaJ9gFQ",
@@ -462,7 +588,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "RAG-based applications face AI-specific risks like prompt injections, PII leaks, and toxic content. This session from Summit 2025 introduces the LLM Gateway, a framework that enforces guardrails, enhances trust, and ensures compliance for safer AI interactions. Learn how the Snowflake data science team uses Snowflake Model Registry for seamless online and batch inference, and how Snowpark Container Services and GPU compute pools enable secure, scalable model deployment. Attendees will walk away with practical insights on registering, deploying, and optimizing inference workflows for both real-time and large-scale generative AI applications without external MLOps complexity.\n\n00:00--Intro\n02:25--AI Assistants in Enterprises\n03:54--Why Security Matters?\n06:45--RAG Based AI Assistants with LLM Gateway\n12:54--Live Demo\n14:48--Policy Alignment on Model Registry\n16:10--End-to-End ML Workflow with Snowflake ML\n20:49--Wrap Up\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-04T15:00:28Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "MAnsjajfBXg": {
       "video_id": "MAnsjajfBXg",
@@ -471,7 +601,22 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Data teams face challenges when managing both transactional and analytical workloads. In this session from Summit 2025, we'll explore how companies can better unify both transactional and analytical data on Snowflake with Unistore, allowing you to better manage workflow and application state, do data serving, and build lightweight transactional apps.  Hear how Project Lead The Way is leveraging Unistore to better unify transactional and analytical data. \n\n00:00—Intro\n03:02—What’s New with Hybrid Tables\n05:36—About Project Lead The Way\n08:05—Moving Logs to Snowflake\n09:31—Using Unistore\n10:35—Live Demo\n14:05—Outcome and Results\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-01T15:00:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
+    },
+    "NFTdHYp9uJo": {
+      "video_id": "NFTdHYp9uJo",
+      "title": "",
+      "duration_s": null,
+      "channel": "Snowflake Inc.",
+      "label": "Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PL4IM5KTx_T7gNwtams0rYZ-McLFy0dbIH",
+      "details_at": "2026-09-06T13:24:16+00:00",
+      "description": ""
     },
     "NO-qxVVedMM": {
       "video_id": "NO-qxVVedMM",
@@ -480,7 +625,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Migrating a legacy data warehouse to Snowflake should be a predictable task. However, after participating in numerous projects, common failure patterns have emerged.This session, recorded at Summit 2025, explores typical pitfalls when moving to the Snowflake AI Data Cloud and offers recommendations for avoiding them. It covers common mistakes made at different stages of the process, from technical details to end-user involvement and everything in between — code conversion (using SnowConvert!), data migration, deployment, optimization, testing and project management.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-09-24T16:52:21Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "NlJs4pwjbnw": {
       "video_id": "NlJs4pwjbnw",
@@ -489,7 +638,36 @@
       "channel": "Snowflake Inc.",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Join Snowflake's Amanda Kelly, Director of Product, to learn how data engineers can use Snowflake Openflow and dbt Projects to: \n- Connect to any data source and any target with the flexibility to customize and extend \n- Deploy and execute pipelines inside a VPC or via Snowpark Container Services with both control and simplicity\n- Bridge the gap from pipeline building to deployment natively in Snowflake\n- Tackle AI-ready data using unstructured data connector with AI-enabled parsing and chunking built into the ETL pipelines\n\nFIND MORE RESOURCES:\nSnowflake for data engineering: \n-- https://www.snowflake.com/en/product/data-engineering/ \n\nSnowflake Openflow: \n-- https://www.snowflake.com/en/product/features/openflow/❄Join our YouTube community❄ https://bit.ly/3lzfeeB \n\nLearn more about Snowflake:\n➡️ Website: https://www.snowflake.com \n➡️ Careers: http://careers.snowflake.com\n➡️ Podcast page: https://www.snowflake.com/thedatacloudpodcast/\n➡️ Twitter: https://twitter.com/Snowflake \n➡️ Instagram: https://www.instagram.com/_snowflake_inc\n➡️ Facebook: https://www.facebook.com/snowflakedb\n➡️ LinkedIn: https://bit.ly/2QUexl4\n➡️ Sign up for our weekly live demo program and have your questions answered by a Snowflake expert at https://bit.ly/2TdVCmJ\n\nListen on: \n🔈 Apple Podcasts: https://apple.co/3cCdrCU \n🔈 Spotify: https://spoti.fi/39vCNjH\n🔈 Simplecast: https://bit.ly/3rFCrgA\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-03T16:00:45Z",
+      "tags": [
+        "Snowflake",
+        "Snowflake data warehouse",
+        "Snowflake computing",
+        "Snowflake company",
+        "Snowflake database",
+        "Snowflake cloud",
+        "Data warehouse",
+        "Business software",
+        "Data warehousing",
+        "Cloud storage",
+        "cloud computing",
+        "Data Science",
+        "Data Engineering",
+        "The Data Cloud",
+        "big data",
+        "artificial intelligence",
+        "data scientist",
+        "predictive analytics",
+        "business intelligence",
+        "data economy",
+        "Data driven economy",
+        "Data cloud",
+        "data lake",
+        "Data Warehouse"
+      ],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "Nm9JhTrcREQ": {
       "video_id": "Nm9JhTrcREQ",
@@ -536,7 +714,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Maximizing the use of AI and agentic tools was the hot topic during Day 3 of Snowflake Summit 2025, where a record number of people sought to grow their skills and knowledge by attending the Builder Keynote sessions and Dev Day Luminary talks as well as  by participating in a multitude of breakout sessions and hands-on labs. The day also saw Lumilinks take top honors in this year's Startup Challenge, and it saw Snowflake announce its plans to open a Silicon Valley AI Hub in the fall.\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-11T13:48:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "PJALep3Lxbo": {
       "video_id": "PJALep3Lxbo",
@@ -583,7 +765,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "As AI trends evolve, the future of our professions and work will look very different, even a few years from now. While many transformations have been predicted, in this Luminary Talk from Summit 2025, Lisa Cohen, Head of Data at Anthropic, reviews industry data to see how AI use cases are evolving and being adopted. Tune in for an evidence-based discussion of both the challenges and possibilities as we navigate this technological inflection point together and walk away with actionable insights on how to prepare for the fast-breaking changes brought on by AI.\n\nSubscribe to this channel for more great content!\n-- http://www.snowflake.com/YTsubscribe/\n\nExplore sample code, download tools, and connect with peers:\n-- https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-17T16:00:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "Q_WfIGN2jqo": {
       "video_id": "Q_WfIGN2jqo",
@@ -592,7 +778,36 @@
       "channel": "Snowflake Inc.",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Wow, what a Day 1 at Snowflake Summit 2025! This recap video brings you all the major highlights, from product announcements to a keynote conversation between Snowflake CEO Sridhar Ramaswamy and OpenAI CEO Sam Altman, moderated by Sarah Guo, founder and managing partner of Conviction. Adding to the day's robust lineup of visionary leaders, we also heard from Lynn Martin, President of the NYSE, who joined Sridhar Ramaswamy in a compelling keynote conversation. Finally, there was the announcement that Snowflake has been named the official data collaboration partner of the Los Angeles U.S. Olympic Games.\n\nWe can't wait to see what Day 2 brings!\n\nTune in here: https://www.snowflake.com/en/summit/?utm_campaign=linkedin&utm_content=1748932432&utm_medium=&utm_source=Snowflake\n\n❄Join our YouTube community❄ https://bit.ly/3lzfeeB \n\nLearn more about Snowflake:\n➡️ Website: https://www.snowflake.com \n➡️ Careers: http://careers.snowflake.com\n➡️ Podcast page: https://www.snowflake.com/thedatacloudpodcast/\n➡️ Twitter: https://twitter.com/Snowflake \n➡️ Instagram: https://www.instagram.com/_snowflake_inc\n➡️ Facebook: https://www.facebook.com/snowflakedb\n➡️ LinkedIn: https://bit.ly/2QUexl4\n➡️ Sign up for our weekly live demo program and have your questions answered by a Snowflake expert at https://bit.ly/2TdVCmJ\n\nListen on: \n🔈 Apple Podcasts: https://apple.co/3cCdrCU \n🔈 Spotify: https://spoti.fi/39vCNjH\n🔈 Simplecast: https://bit.ly/3rFCrgA\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-04T01:37:54Z",
+      "tags": [
+        "Snowflake",
+        "Snowflake data warehouse",
+        "Snowflake computing",
+        "Snowflake company",
+        "Snowflake database",
+        "Snowflake cloud",
+        "Data warehouse",
+        "Business software",
+        "Data warehousing",
+        "Cloud storage",
+        "cloud computing",
+        "Data Science",
+        "Data Engineering",
+        "The Data Cloud",
+        "big data",
+        "artificial intelligence",
+        "data scientist",
+        "predictive analytics",
+        "business intelligence",
+        "data economy",
+        "Data driven economy",
+        "Data cloud",
+        "data lake",
+        "Data Warehouse"
+      ],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "RHeJ9Gyep84": {
       "video_id": "RHeJ9Gyep84",
@@ -601,7 +816,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Learn how to efficiently scale and manage data engineering pipelines with Snowflake's latest capabilities for SQL- and Python-based transformations. Tune in for new product and feature overviews, best practices, and live demos.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-20T15:00:45Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "RkACJgk_Mcs": {
       "video_id": "RkACJgk_Mcs",
@@ -610,7 +829,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Discover how Toyota Motor Europe (TME) revolutionized its connected car data management using Snowflake. This session recorded at Summit 2025 reveals how TME successfully integrated petabyte-scale Apache Iceberg data sets from AWS with Snowflake, while maintaining stringent European regulatory compliance. Learn practical insights on architecting a modern data stack that combines AWS Glue & Snowflake to break down data silos, enhance vehicle quality, and elevate customer service through secure cross-regional collaboration.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-27T15:00:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "VVkXoyotU5g": {
       "video_id": "VVkXoyotU5g",
@@ -619,7 +842,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Unlock the full potential of generative AI in Snowflake with hands-on prompt engineering. In this demo recorded at Summit 2025, we build and refine prompts from scratch, showcasing how to harness LLM-powered features like Cortex Analyst, Document AI, and Cortex functions. Attendees will see real-time development, practical use cases and best practices to get the most out of Snowflake’s AI capabilities — whether for extracting insights, automating workflows, or enhancing data pipelines with AI-driven intelligence. \n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-25T19:00:22Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "W4Zr_9XyonU": {
       "video_id": "W4Zr_9XyonU",
@@ -628,7 +855,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Weights & Biases Co-founder and CEO Lukas Biewald shares practical insights and actionable lessons learned from deploying generative AI agents in real-world production scenarios. Drawing directly from hands-on experience at W&B, Lukas unpacks two detailed case studies: the step-by-step journey of launching W&B's internal chatbot agent into production to reliably serve all customers, and the practical engineering behind the company's Programmer agent, which achieved top-ranking results on the SWE-bench leaderboard. \n\nThis session is designed to be deeply practical, providing attendees with concrete advice on evaluating agent performance, overcoming scalability hurdles, managing costs, and optimizing generative agents to deliver consistent, measurable value.\n\nSubscribe to this channel for more great content!\n-- http://www.snowflake.com/YTsubscribe/\n\nExplore sample code, download tools, and connect with peers:\n-- https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-18T16:00:56Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "WFR07HIvCrQ": {
       "video_id": "WFR07HIvCrQ",
@@ -675,7 +906,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Snowflake recently launched new capabilities to help organizations build data agents connected to enterprise data environment. This session from Summit 2025 explores why Snowflake makes it easy to iterate, monitor, and observe agentic AI systems. Learn associated best practices related to RBAC integration in agentic workflows and applications. The session also focuses on change control and environment management and the software development lifecycle within the AI agents development lifecycle. \n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-18T15:01:01Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "Wr2eatgTdR0": {
       "video_id": "Wr2eatgTdR0",
@@ -684,7 +919,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "In this session from Summit 2025, two of Snowflake's most senior ML architects take a deep-dive into best practices for ensuring maximally efficient and cost-effective development and deployment of ML capabilities on Snowflake. They cover optimization techniques throughout the end-to-end ML workflow to achieve best-in-class price performance, as well as best practices for managing efficient model deployment and production pipelines. They also highlight different approaches and trade-offs as well as considerations for how to maximize performance and cost efficiency when running enterprise models on Snowflake ML.\n\nCHAPTER BREAKS\n00:00--Intro\n00:41--Where Does ML Cost Come From in Snowflake?\n01:43--Snowflake ML Simplifies Cost Governance\n02:53--Integrated Set of Capabilities for end-to-end ML in Snowflake\n03:42--Best Practices #1: Use Container Runtime\n05:25--Best Practices #2: Scale Feature Development and Support Reusability\n07:13--Best Practices #3: Scale Training Compute On-Demand\n08:20--Best Practices #4: Load Data with DataConnector\n09:05--Optimizing Production Pipeline\n10:35: Best Practices #5: Deploy the Right Way\n11:37--Best Practices #6: Infer Incrementally\n13:26--Managing ML at Scale\n16:32--Best Practices #7: Separate Dev & Prod\n17:20--Best Practices #8: Budget & Monitor\n17:59--Wrap Up\n\nFor more info on Snowflake ML, click here:\n👉  https://www.snowflake.com/legal-files/CreditConsumptionTable.pdf\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-11T16:00:57Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "XFNg0ouhRlg": {
       "video_id": "XFNg0ouhRlg",
@@ -731,7 +970,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Register for Snowflake BUILD 2025 for free: https://tinyurl.com/build-2025\n\nWith amazing AI building blocks such as large models as well as AI-assisted coding, it is now possible to build prototypes and applications faster than ever before. In this Summit 2025 Luminary Talk, Andrew Ng, Founder and Executive Chairman of LandingAI, shares his thoughts on some of the building blocks that are newly available. He also discusses why this is a good time for everyone to build with AI and offers some best practices for doing so.\n\nSubscribe to this channel for more great content!\n-- http://www.snowflake.com/YTsubscribe/\n\nExplore sample code, download tools, and connect with peers:\n-- https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-17T14:00:59Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "YnW8apdsFF8": {
       "video_id": "YnW8apdsFF8",
@@ -740,7 +983,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Imagine a major hurricane leaving 600,000 homes in darkness. Every second counts. This presentation from Summit 2025 takes you behind the scenes of a real-world disaster recovery effort during which Tampa Electric used Snowflake Cortex AI to orchestrate a rapid and effective storm response. The presenters share the challenge, the solution architecture, and the exact steps taken — from LLMs for text extraction at scale to building a chat-based interface for decision-makers.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-09-17T15:01:00Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "ZMFEqIyCkuQ": {
       "video_id": "ZMFEqIyCkuQ",
@@ -749,7 +996,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "On Dev Day, the final day of Snowflake Summit, it's all about the developers. From the Builders Keynote presentation to the Luminary Talks to the hands-on labs and breakout sessions, this is a day to upgrade your skills, get your SnowPro certification, and listen to some of the data world's most visionary leaders, including Andrew Ng, talk about the future of data and AI.\n\nBe sure to keep an eye on our Summit 2025 playlist, where we will be posting recordings of Summit presentations and breakout sessions: https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf\n\nSubscribe to this channel for more great content!\n-- http://www.snowflake.com/YTsubscribe/\n\nExplore sample code, download tools, and connect with peers:\n-- https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-11T04:19:16Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "ZeIztnKFP7I": {
       "video_id": "ZeIztnKFP7I",
@@ -758,7 +1009,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Accurate visitor forecasting is essential for optimizing resort operations and enhancing the guest experience.This session from Summit 2025 explores how Alterra Mountain Company, which operates 19 premier ski destinations across North America, quickly transitioned from manual forecasting methods to scalable ML-driven insights with Snowflake ML. Alterra will discuss how it leverages Snowflake’s native ML capabilities to build scalable daily forecasting models to manage short-term and seasonal forecasts, enabling data-driven decision-making and strategic planning.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-15T16:00:57Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "ZiiPayQN328": {
       "video_id": "ZiiPayQN328",
@@ -767,7 +1022,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Testing Snowflake objects — particularly stored procedures — can be challenging due to data dependencies, lack of repeatability, and manual processes. By automating test setup and execution and integrating them into a CI pipeline, teams can achieve faster and more thorough testing of Snowflake stored procedures, which can lead to higher-quality code and reduced risk of regressions. In this talk, Capital One Software's Director of Software Engineering Kishore Kolanu and Distinguished Engineer Yudhish Batra share how they built a reusable testing framework to solve these challenges.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-13T15:00:58Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "a5E36QD7gqg": {
       "video_id": "a5E36QD7gqg",
@@ -776,7 +1035,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Create a completely open observability and security data lake without worrying about storage, storage costs, or scalability with Snowflake and Iceberg. In this session from Summit 2025, we will show how you can use the OpenTelemetry ecosystem of connectors and plug those natively into Snowflake to receive logs, traces, and metrics. You'll learn how to build an observability and security data lake using Snowflake to create and manage Iceberg tables in your own object storage.\n\nCHAPTER BREAKS\n00:00--Intro\n01:11--How to Approach Snowflake for Observability\n03:13--Snowflake Trail for Observability\n04:00--The Value of Snowflake as Your Security and Observability Data Lake\n07:20--Use Case #1: Search Logs at Scale\n09:25--Use Case #2: Augment\n10:54--Use Case #3: Replace Elastic Search\n12:11--Use Case #4: Network Log Analytics\n13:15--Snowflake and Observe\n14:26--Snowflake Tools for CyberSec and Observability\n16:50--Wrap Up\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-08T13:41:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "aoImYFi-P4Y": {
       "video_id": "aoImYFi-P4Y",
@@ -785,7 +1048,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "This session from Summit 2025 delves into the challenges of and best practices for building asynchronous event-driven applications. We will explore how Snowpipe Streaming can be leveraged to construct hybrid event-driven architectures that integrate async and sync workflows. It also covers data loss, reconciliation, and solving the \"lost ownership scenario\" in micro-services. Finally, it addresses scalability’s impact on databases, the challenge of choosing between analytical and NoSQL options, multi-tenancy, cost and code optimizations, and easing the transition from batch to distributed streaming for engineers.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-09-30T15:58:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "bcgfs78Gv-0": {
       "video_id": "bcgfs78Gv-0",
@@ -794,7 +1061,22 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "BP, a global energy company advancing sustainability and digital transformation, transitioned from Azure SQL Server PaaS to Snowflake on AWS for enterprise reporting, adopting a curated data products model. To improve data discovery, BP developed DataXplore, a Streamlit solution that leverages Snowflake’s object sourcing to create a clear lineage graph. With an AI chatbot, it references metadata to show object dependencies, helping users track raw data sources. Tune into this session, recorded at Summit 2025, to learn how BP leveraged Streamlit and Snowflake to improve data discovery, lineage tracking and user accessibility.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-09-26T15:01:11Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
+    },
+    "bkCE6O96IcI": {
+      "video_id": "bkCE6O96IcI",
+      "title": "",
+      "duration_s": null,
+      "channel": "Snowflake Inc.",
+      "label": "Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PL4IM5KTx_T7gNwtams0rYZ-McLFy0dbIH",
+      "details_at": "2026-09-06T13:24:16+00:00",
+      "description": ""
     },
     "cTK_rEPlY40": {
       "video_id": "cTK_rEPlY40",
@@ -803,7 +1085,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Learn how to build and deploy accurate conversational apps and bring AI-powered data agents into production with ease and trust across your enterprise. Tune into this presentation recorded at Summit 2025 for new product insights, feature overviews, best practices and live demos.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-29T15:01:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "cX4LRUZDuwc": {
       "video_id": "cX4LRUZDuwc",
@@ -812,7 +1098,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Toyota Motor Europe is revolutionizing operations with generative AI and Document AI. This session from Summit 2025 explores how the RAG-as-a-Service (RaaS) platform enhances enterprise search, enabling users to securely access documentation via knowledge chatbots. Additionally, the presentation shows how Snowflake’s Document AI streamlines contract management by automating data ingestion and reducing manual work, improving efficiency and driving digital transformation across the organization.\n\nCHAPTER BREAKS\n00:00--Intro\n04:11--Use Case #1: DocumentAI for Claim Handling of Prepaid Service Contracts\n06:27--Background Context\n07:09--The Challenges\n08:15--Automating The Process through DocumentAI\n11:20--Use Case #2: Building \"RAG-as-a-Service\" Using CortexAI\n14:54--Building the RAG-as-a-Service\n16:28--Architecture of the RAG-as-a-Service\n20:06--Utilizing Snowflake Cortex\n22:28--Demo\n27:45--Wrap Up\n29:31--What's Next\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-08T18:31:21Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "dQn0vbppWLw": {
       "video_id": "dQn0vbppWLw",
@@ -821,7 +1111,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "This Summit 2025 session dives deep into the practical techniques Nordea employed to build a data warehouse using Snowflake and Airflow. Discover how to prioritize delivery pipelines, implement built-in quality through practices like test-driven development and trunk-based development, and automate the core layer using Data Vault 2.0 features, such as stored procedures and Snowflake scripting. The session also explores how to leverage the \"ASYNC\" command and build a presentation layer with DYNAMIC tables. Tune in for actionable insights and techniques to accelerate and optimize your own data warehouse creation process.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-09-18T15:01:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "dYjcbgyuYxo": {
       "video_id": "dYjcbgyuYxo",
@@ -830,16 +1124,22 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Learn how to build, test and deploy your work with Snowflake's latest developer tooling. Tune in for new product and feature overviews, best practices, and live demos.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-18T17:22:11Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "e4h3NZ2IqPM": {
       "video_id": "e4h3NZ2IqPM",
       "title": "",
       "duration_s": null,
-      "channel": null,
+      "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "details_at": "2026-09-06T13:24:16+00:00",
+      "description": ""
     },
     "fJ2CIFZ_gDY": {
       "video_id": "fJ2CIFZ_gDY",
@@ -848,7 +1148,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "In this session from Summit 2025 you’ll hear from Scene+, a large customer loyalty program in Canada. Learn how it uses Snowflake ML to streamline and improve its ML workloads, eliminating cross-platform data movement and reducing project timelines and costs. With end-to-end model workflows built and deployed entirely in Snowflake, Scene+ cut time to production on feature engineering, training, and inferencing by over 60% for more than 30 models.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-27T17:00:53Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "gJf39VG87O8": {
       "video_id": "gJf39VG87O8",
@@ -857,7 +1161,36 @@
       "channel": "Snowflake Inc.",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Snowflake Summit got off to an incredible start with an opening keynote featuring a conversation between Snowflake CEO Sridhar Ramaswamy and OpenAI CEO Sam Altman. The conversation was moderated by Sarah Guo, founder and managing partner of Conviction.  Lynn Martin, President of the NYSE, also joined Sridhar Ramaswamy for a compelling keynote conversation, and members of the Snowflake team shared exciting new product announcements. Rounding out the event was the news that Snowflake has been named the official data collaboration partner of the Los Angeles U.S. Olympic Games.\n\nTune in here: https://www.snowflake.com/en/summit/?utm_campaign=linkedin&utm_content=1748932432&utm_medium=&utm_source=Snowflake\n\n❄Join our YouTube community❄ https://bit.ly/3lzfeeB \n\nWatch Andrew Ng's Snowflake Build keynote here: https://youtu.be/KrRD7r7y7NY\n\nLearn more about Snowflake:\n➡️ Website: https://www.snowflake.com \n➡️ Careers: http://careers.snowflake.com\n➡️ Podcast page: https://www.snowflake.com/thedatacloudpodcast/\n➡️ Twitter: https://twitter.com/Snowflake \n➡️ Instagram: https://www.instagram.com/_snowflake_inc\n➡️ Facebook: https://www.facebook.com/snowflakedb\n➡️ LinkedIn: https://bit.ly/2QUexl4\n➡️ Sign up for our weekly live demo program and have your questions answered by a Snowflake expert at https://bit.ly/2TdVCmJ\n\nListen on: \n🔈 Apple Podcasts: https://apple.co/3cCdrCU \n🔈 Spotify: https://spoti.fi/39vCNjH\n🔈 Simplecast: https://bit.ly/3rFCrgA\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-04T22:52:39Z",
+      "tags": [
+        "Snowflake",
+        "Snowflake data warehouse",
+        "Snowflake computing",
+        "Snowflake company",
+        "Snowflake database",
+        "Snowflake cloud",
+        "Data warehouse",
+        "Business software",
+        "Data warehousing",
+        "Cloud storage",
+        "cloud computing",
+        "Data Science",
+        "Data Engineering",
+        "The Data Cloud",
+        "big data",
+        "artificial intelligence",
+        "data scientist",
+        "predictive analytics",
+        "business intelligence",
+        "data economy",
+        "Data driven economy",
+        "Data cloud",
+        "data lake",
+        "Data Warehouse"
+      ],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "gjlNtBaaxNo": {
       "video_id": "gjlNtBaaxNo",
@@ -866,7 +1199,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "WHOOP has worked toward building an enterprise-wide chat application for all employees throughout their organization. The application utilizes an agentic approach incorporating Snowflake features, such as Cortex Analyst, Cortex Search, Cortex Agents and various LLM functions. Tune in to learn more about this innovative, GenAI agentic solution.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-13T20:35:54Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "gorZiiAzr-A": {
       "video_id": "gorZiiAzr-A",
@@ -875,7 +1212,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Working within open storage with Iceberg Tables, Doris Lee shows you an end-to-end feature engineering pipeline using features that streamline development with pandas on Snowflake, Dynamic Tables, and Cortex LLM Functions. \n\nIn this demo, Doris shows you how to:\n-- Connect to open storage: Connect Apache Iceberg Table with pandas on Snowflake\n-- Profile and clean data: Exploratory analysis to profile data characteristics\n-- Feature engineering: Perform feature engineering tasks with pandas on Snowflake and Cortex LLM\n-- Build a pipeline: Save as Dynamic Iceberg Table\n-- Automatic pipeline refresh: Automatic pipeline refresh when source data updates\n\nRESOURCES\nTo learn more about pandas on Snowflake, click here:\n-- https://docs.snowflake.com/en/developer-guide/snowpark/python/pandas-on-snowflake\n\nTo access demo Notebooks, click here:\n-- https://github.com/Snowflake-Labs/snowflake-python-recipes/blob/main/pandas%20pipeline%20with%20dynamic%20Iceberg%20tables/pandas%20pipeline%20with%20dynamic%20Iceberg%20tables.ipynb \n\nFind additional documentation here:  \n\nDynamic Tables: \n-- https://docs.snowflake.com/en/user-guide/dynamic-tables-intro\n\nCortex LLM Functions:\n-- https://docs.snowflake.com/en/user-guide/snowflake-cortex/llm-functions\n\nIceberg Tables:\n-- https://docs.snowflake.com/en/user-guide/tables-iceberg \n\nSubscribe to this channel for more great content!\n-- http://www.snowflake.com/YTsubscribe/\n\nExplore sample code, download tools, and connect with peers:\n-- https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-03T15:14:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "hUBIvYsnGnE": {
       "video_id": "hUBIvYsnGnE",
@@ -884,7 +1225,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Learn how to successfully move data engineering workloads to Snowflake. We will share best practices and review reference architectures that can ensure success while migrating to Snowflake. Topics covered include:\n\n- Migrating PySpark code\n- Migrating Notebooks to stored procedures\n- Data movement: Iceberg tables/Snowflake native tables\n- Code testing, CI/CD approaches, performance and optimization considerations\n- Data validation considerations and anti-patterns/considerations\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-09-24T17:01:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "haYzR3v95y8": {
       "video_id": "haYzR3v95y8",
@@ -893,7 +1238,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Hear from leading faculty from Stanford, Berkeley, and Carnegie Mellon about their vision for an agentic future informed by their journeys from fundamental research to widely used open source projects and innovative startups. Learn about the latest innovations with coding agents, data agents, agent safety, and the interplay of reasoning models and agents. Hear also about their experiences working with developer communities through their online courses and open source projects. \n\nSPEAKERS: \n👉Moderator: Anupam Datta, AI Research Lead, Snowflake\n👉 Dawn Song, Professor of Computer Science, University of California at Berkeley\n👉Graham Neubig, Associate Professor at Carnegie Mellon University; Chief Scientist at All Hands AI, Carnegie Mellon University\n👉Matt Fredrikson, Associate Professor at Carnegie Mellon University; Co-founder and CEO of Grace Swan AI\n👉Aditya Parameswaran, Associate Professor, University of California at Berkeley\n\nSubscribe to this channel for more great content!\n-- http://www.snowflake.com/YTsubscribe/\n\nExplore sample code, download tools, and connect with peers:\n-- https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-18T14:01:09Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "joJPzY4AlSs": {
       "video_id": "joJPzY4AlSs",
@@ -902,7 +1251,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "This session from Summit 2025 introduces you to Snowflake's Athena, Mariana, and Aida. Learn how these new tools allow data teams to enrich every step of the data delivery pipeline, from raw data wrangling to executive reporting and data-driven decision making. The Salesforce's Slack Business Analytics Data Engineering team walks through the use of these new insightful, agentic data products, and demonstrates how you can utilize Snowflake Cortex Analyst and Slack to delight data practitioners and business leaders alike with actionable insights that meet them right in the flow of their work.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-09-25T16:01:28Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "kOLTSvrDe60": {
       "video_id": "kOLTSvrDe60",
@@ -911,7 +1264,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Navigating compliance regulations is complex, but Snowflake’s Cortex Search provides you with a compliance chatbot that acts as a personal legal assistant. Using retrieval-augmented generation (RAG), it integrates Confluence and PDF data, transforming them into structured, searchable insights. Built with Streamlit, the intuitive UI empowers compliance teams to retrieve regulatory information instantly, ensuring quick adaptation to evolving requirements and mitigating compliance risks.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-09-24T16:01:31Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "lJn-YYh-Eyc": {
       "video_id": "lJn-YYh-Eyc",
@@ -920,7 +1277,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "In industrial maintenance, accessing critical asset data quickly is essential for preventing downtime and optimizing efficiency. Rockwell's Fiix Maintenance Copilot, powered by Cortex Analyst, transforms how maintenance teams interact with data. Using natural language queries, technicians and managers instantly access insights on asset health, failure risks and maintenance practices, eliminating manual searches through documents. This AI-driven approach accelerates knowledge access, speeds up technician onboarding and prevents breakdowns. Tune in to discover how we embedded Snowflake Cortex Analyst into our copilot and learn from early customer success stories.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-20T17:00:58Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "m5SM6k46lVo": {
       "video_id": "m5SM6k46lVo",
@@ -929,7 +1290,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Frontdoor, a leading provider of home service plans, is transforming how homeowners maintain and repair their homes through AI-driven solutions. Learn how they transitioned data science and analytics developers from decentralized environments to Snowflake Notebooks at scale. \n\nThis session recorded at Summit 2025 explores key development patterns supporting Gen AI, classic ML, GraphRAG, and Graph Analytics, enabling efficient model development and deployment. Throughout this transition, Frontdoor prioritized data gravity, consolidating computational workloads within the Snowflake ecosystem to maximize performance and efficiency.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-05T17:00:59Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "mISrvon22e8": {
       "video_id": "mISrvon22e8",
@@ -938,7 +1303,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Learn how to streamline CI/CD for Snowflake using dbt, GitHub Actions and Snowflake workflows. This session will cover setting up a CI/CD pipeline, automating dbt model testing, version control and deployments. Attendees will discover how to manage branch-based development and enforce data quality checks. By the end, participants will be equipped to deploy scalable, automated data workflows that support modern DataOps principles.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-19T17:01:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "msBkzQmEahs": {
       "video_id": "msBkzQmEahs",
@@ -947,7 +1316,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Anthropic Co-founder Jared Kaplan reveals why AI's rapid advancement toward human-level capabilities is surprisingly straightforward — and potentially imminent. Through the lens of scaling laws and his unique perspective as both a physicist and AI researcher, Jared explains how compute, data, and simple architectural principles are driving unprecedented progress. This technical deep-dive will examine current AI capabilities, near-term challenges, and what developers should expect as we approach this pivotal moment in technology history.\n\nSubscribe to this channel for more great content!\n-- http://www.snowflake.com/YTsubscribe/\n\nExplore sample code, download tools, and connect with peers:\n-- https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-20T14:01:20Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "qlfxUyK_qZc": {
       "video_id": "qlfxUyK_qZc",
@@ -956,7 +1329,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "It's all about the developers on Dev Day, the final day of Snowflake Summit. From the Builders Keynote presentation to the Luminary Talks to the hands-on labs and breakout sessions, this is a day to upgrade your skills, get your SnowPro certification, and listen to some of the data world's most visionary leaders talk about the future of data and AI.\n\nSubscribe to this channel for more great content!\n-- http://www.snowflake.com/YTsubscribe/\n\nExplore sample code, download tools, and connect with peers:\n-- https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-06T23:31:15Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "r1r8bCpU5O8": {
       "video_id": "r1r8bCpU5O8",
@@ -965,7 +1342,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "In this session recorded at Summit 2025, Corewell Health presents a flexible data processing and display framework it developed that makes it possible to extract any intelligent insight desired from the organization's EHR using AI. The backend features a recomposable pipeline builder, allowing users to select patient populations, attach additional records, filter out irrelevant patients, and most importantly, achieve intelligent processing with AI. This system works in harmony with the front end, providing quick access to trustworthy, traceable, AI-generated insights.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-10-02T15:01:34Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "sCqXieMcwDg": {
       "video_id": "sCqXieMcwDg",
@@ -974,7 +1355,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "In this session recorded at Summit 2025, avid Streamlit app developer Tyler Richards, a Senior Data Scientist at Snowflake, shares best practices and tips for building Streamlit applications. The presentation takes you on a journey through all the mistakes he's made during the course of learning how to build dozens of productions dashboards that have been used by thousands of people hundreds of thousands of times over the years. He explains how has used everything from Dynamic Tables to Snowflake Cortex, with a ton of live coding in between.\n\nCHAPTER BREAKS\n00:00--Intro\n01:27--Building Apps with Streamlit\n01:46--Different Applications of Streamlit\n02:31--Lessons Learned\n03:00--Demo\n\nFind more info on Streamlit here:\n👉  https://github.com/Snowflake-Labs/snowflake-demo-streamlit\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-07T15:01:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "sK63gRP9f8k": {
       "video_id": "sK63gRP9f8k",
@@ -983,7 +1368,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Learn how to efficiently build an open and interoperable foundation to scale your data, analytics and AI initiatives. Tune into this session recorded at Summit 2025 for new product and feature overviews, best practices, and live demos.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-14T17:54:23Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "shS8ATwd5i0": {
       "video_id": "shS8ATwd5i0",
@@ -992,7 +1381,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "This session from Summit 2025 introduces Cortex AI Chat, a real-time solution for querying Azul Brazilian Airlines' operational metrics. Azul, one of Brazil’s leading airlines, employs over 16,000 staff, operates 1,000+ daily flights, and connects 150+ destinations with 300+ direct routes, ensuring unmatched national and international reach. Cortex, powered by a semantic model, allows users to interact via a Streamlit UI, delivering instant insights as tables or visualizations. Deployed with CI/CD pipelines and improved through feedback, it reduces static dashboards, refines KPIs dynamically, and accelerates time to market for key metrics, streamlining insight-driven decisions.\n\nCHAPTER BREAKS\n00:00--Intro\n00:30--Background on Azul\n02:45--The Challenges\n04:27--Utilizing Cortex Analyst Chat\n07:20--How Azul Uses Cortex Analyst\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-07T17:01:16Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "slyY_JfON1Q": {
       "video_id": "slyY_JfON1Q",
@@ -1001,7 +1394,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Snowflake invites attendees to experience its latest product innovations firsthand, featuring live demos and in-depth technical sessions led by Snowflake users and experts. Discover how data practitioners are building, deploying and scaling AI applications on the Snowflake AI Data Cloud today. Speakers include:\n\nDanica Fine - Lead Developer Advocate, Open Source, Snowflake\nJeff Hollan - Director of Product, Snowflake Intelligence and Agents, Snowflake\nMatt Luizzi - Senior Director of Business Analytics, WHOOP\nSampathkumar Subramanian - Technical Owner - BICC & Data Ops, Toyota Motor Europe\nNithya Rangarajan - Senior Solutions Architect, Snowflake\nYusuf Ozuysal - Director of Engineering, AI, Snowflake\n\nAll demos, sample code and other resources from the keynote are available here:\nhttps://bit.ly/3SHRs1w\n\nSubscribe to this channel for more great content!\n-- http://www.snowflake.com/YTsubscribe/\n\nExplore sample code, download tools, and connect with peers:\n-- https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-06T21:18:57Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "soBNZHfURP0": {
       "video_id": "soBNZHfURP0",
@@ -1010,7 +1407,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "We caught up with #DataSuperhero Christopher Marland at #SnowflakeSummit!\n\n- Favorite announcement: Cortex AISQL\n- Advice to aspiring developers: Be broad with your intellectual curiosity\n\nLooking for the full list of our latest AI announcements? Look no further: https://www.snowflake.com/en/blog/agentic-ai-ready-enterprise-data/ \n\nSubscribe to this channel for more great content!\n-- http://www.snowflake.com/YTsubscribe/\n\nExplore sample code, download tools, and connect with peers:\n-- https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-13T17:36:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "szJKSBFaMBs": {
       "video_id": "szJKSBFaMBs",
@@ -1019,7 +1420,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "To gain trust in Generative AI applications, a robust observability framework is needed. This session recorded at Summit 2025 features a demonstration of how users can instrument an AI application with Trulens, an open source observability framework, to trace each component of their application and use LLM-as-a-Judge evaluations to identify and improve points of failure. Viewers will learn about best practices in enabling observability in their AI workflows and common feedback functions used for evaluation. We will also explore using the observability framework as a mechanism to compare application versions to determine which version is best fit for production use.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-21T15:01:27Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "t3iCYTtdKgg": {
       "video_id": "t3iCYTtdKgg",
@@ -1028,7 +1433,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Bringing AI innovation to the data cloud, the Snowflake AI Toolkit is a game-changing, open source accelerator designed to fast-track AI adoption in the Snowflake AI Data Cloud. Built on Snowflake, this tool kit empowers developers to explore Snowflake Cortex AI, prototype AI-driven applications and build advanced AI pipelines such as RAG and fine-tuning — all within Snowflake! The tool kit runs as a Snowflake Native App and integrates with TruLens and the new Cortex Agents. Tune in for a look at how we built it, the challenges we tackled and how to use it to supercharge your AI workflow. Get ready for live demos, real-world use cases and a glimpse into the future of AI on Snowflake!\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-22T14:50:36Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "umeext2zLmE": {
       "video_id": "umeext2zLmE",
@@ -1075,7 +1484,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "In this presentation from Summit 2025, Nicole Edwards, a Data Architecture Manager for the City of Tacoma, shares details about a Streamlit app that she developed that allows non-technical users to generate the code needed to create other Streamlit apps. The app even allows users  to choose if they want to create a table edit or a form collection app. With a table edit app, users have the ability to select the source table, columns to filter on, and whether to disable editing. With a form collection app, they define the form fields. The Streamlit generator app provides SQL to create the target tables, if needed, as well as the Python to create the new Streamlit app.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-28T15:01:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "va-l7sYp3OA": {
       "video_id": "va-l7sYp3OA",
@@ -1084,7 +1497,36 @@
       "channel": "Snowflake Inc.",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Unlock instant insights from ALL your data using agentic AI. In this demo, Snowflake's Director of Product Management Jeff Hollan shows how Snowflake Intelligence lets anyone in your enterprise use natural language to talk to data – structured, unstructured, and external. See how agents help you understand what happened and why, and even enable you to take action. Transform your data experience with Snowflake Intelligence. Easy, Connected, Trusted. \n\nTo learn more, click here: https://docs.snowflake.com/en/user-guide/snowflake-cortex/snowflake-intelligence\n\n❄Join our YouTube community❄ https://bit.ly/3lzfeeB \n\nLearn more about Snowflake:\n➡️ Website: https://www.snowflake.com \n➡️ Careers: http://careers.snowflake.com\n➡️ Podcast page: https://www.snowflake.com/thedatacloudpodcast/\n➡️ Twitter: https://twitter.com/Snowflake \n➡️ Instagram: https://www.instagram.com/_snowflake_inc\n➡️ Facebook: https://www.facebook.com/snowflakedb\n➡️ LinkedIn: https://bit.ly/2QUexl4\n➡️ Sign up for our weekly live demo program and have your questions answered by a Snowflake expert at https://bit.ly/2TdVCmJ\n\nListen on: \n🔈 Apple Podcasts: https://apple.co/3cCdrCU \n🔈 Spotify: https://spoti.fi/39vCNjH\n🔈 Simplecast: https://bit.ly/3rFCrgA\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-03T16:01:37Z",
+      "tags": [
+        "Snowflake",
+        "Snowflake data warehouse",
+        "Snowflake computing",
+        "Snowflake company",
+        "Snowflake database",
+        "Snowflake cloud",
+        "Data warehouse",
+        "Business software",
+        "Data warehousing",
+        "Cloud storage",
+        "cloud computing",
+        "Data Science",
+        "Data Engineering",
+        "The Data Cloud",
+        "big data",
+        "artificial intelligence",
+        "data scientist",
+        "predictive analytics",
+        "business intelligence",
+        "data economy",
+        "Data driven economy",
+        "Data cloud",
+        "data lake",
+        "Data Warehouse"
+      ],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "w7C7OkmYPFs": {
       "video_id": "w7C7OkmYPFs",
@@ -1093,7 +1535,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "A favorite among data teams, dbt offers the ability to bring software engineering best practices and improved efficiency in SQL and Snowpark data transformation workflows right into Snowflake. Join Charlie Hammond for a quick tour showcasing the new dbt Projects on Snowflake (in public preview now). \n\nLearn how to effortlessly:\n--Compile and visualize your DAG\n--Run all your dbt models\n--Perform test runs for data quality\n--Deploy and schedule your data pipelines\n\nCHAPTER LINKS\n00:00 - Introduction \n00:42 - Demo scenario \n01:34 - Introducing Workspaces \n02:57 - dbt Projects Overview\n05:27 - dbt Commands & view DAG \n07:17 - Run, deploy, and schedule \n09:22 - Orchestration, observability, and cost management \n\nRESOURCES\nTo get started with dbt Projects on Snowflake, head over to Workspaces in Snowsight: \n-- https://app.snowflake.com/_deeplink/#/workspaces \n\nYou can also access the Snowflake documentation here:\n-- https://docs.snowflake.com/LIMITEDACCESS/dbt-projects-on-snowflake \n\nSubscribe to this channel for more great content!\n-- http://www.snowflake.com/YTsubscribe/\n\nExplore sample code, download tools, and connect with peers:\n-- https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-03T15:13:53Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "wPfBff5G0k8": {
       "video_id": "wPfBff5G0k8",
@@ -1102,7 +1548,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Everyone is talking about AI agents, but few have seen them in action. In this session recorded at Summit 2025, we show you how to build an AI analyst that delivers real-time insights to finance, HR, support and more. Using Snowflake Cortex Search and LLM Observability, we seamlessly handle RAG, text-to-SQL, and reliability at scale. See how RBAC and advanced orchestration reduce time-to-insight, cut costs and empower business units while ensuring data security. Tune in for a deep dive and Q&A.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-22T17:01:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "wpiikXukYjc": {
       "video_id": "wpiikXukYjc",
@@ -1111,7 +1561,36 @@
       "channel": "Snowflake Inc.",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Maximizing the use of AI and agentic tools was the hot topic during Day 3 of Snowflake Summit 2025, where a record number of people sought to grow their skills and knowledge by attending the Builder Keynote sessions and Dev Day Luminary talks as well as  by participating in a multitude of breakout sessions and hands-on labs. The day also saw Lumilinks take top honors in this year's Startup Challenge, and it saw Snowflake announce its plans to open a Silicon Valley AI Hub in the fall.\n\nRelive some of the most exciting moments of the day in this Day 3 highlights video.   \n\n❄Join our YouTube community❄ https://bit.ly/3lzfeeB \n\nLearn more about Snowflake:\n➡️ Website: https://www.snowflake.com \n➡️ Careers: http://careers.snowflake.com\n➡️ Podcast page: https://www.snowflake.com/thedatacloudpodcast/\n➡️ Twitter: https://twitter.com/Snowflake \n➡️ Instagram: https://www.instagram.com/_snowflake_inc\n➡️ Facebook: https://www.facebook.com/snowflakedb\n➡️ LinkedIn: https://bit.ly/2QUexl4\n➡️ Sign up for our weekly live demo program and have your questions answered by a Snowflake expert at https://bit.ly/2TdVCmJ\n\nListen on: \n🔈 Apple Podcasts: https://apple.co/3cCdrCU \n🔈 Spotify: https://spoti.fi/39vCNjH\n🔈 Simplecast: https://bit.ly/3rFCrgA\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-06T02:14:58Z",
+      "tags": [
+        "Snowflake",
+        "Snowflake data warehouse",
+        "Snowflake computing",
+        "Snowflake company",
+        "Snowflake database",
+        "Snowflake cloud",
+        "Data warehouse",
+        "Business software",
+        "Data warehousing",
+        "Cloud storage",
+        "cloud computing",
+        "Data Science",
+        "Data Engineering",
+        "The Data Cloud",
+        "big data",
+        "artificial intelligence",
+        "data scientist",
+        "predictive analytics",
+        "business intelligence",
+        "data economy",
+        "Data driven economy",
+        "Data cloud",
+        "data lake",
+        "Data Warehouse"
+      ],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "xXpqQk0CBZY": {
       "video_id": "xXpqQk0CBZY",
@@ -1120,7 +1599,36 @@
       "channel": "Snowflake Inc.",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "The Snowflake Summit 2025 Platform Keynote, led by Snowflake Co-Founder and President of Product Benoit Dageville and EVP of Product Christian Kleinerman, focused on how Snowflake's AI Data Cloud simplifies and accelerates data utilization, enabling businesses to leverage AI at scale.\n\nKey announcements included:\n\n-Future-Proof Data Architecture\n-Comprehensive Data Governance\n-Seamless Data Integration\n-Delivering More Business Impact\n-Faster Insights\n-AI-Ready Data\n-Accelerating Business Growth with AI Agents\n\nTune in here: https://www.snowflake.com/en/summit/?utm_campaign=linkedin&utm_content=1748932432&utm_medium=&utm_source=Snowflake\n\n❄Join our YouTube community❄ https://bit.ly/3lzfeeB \n\nLearn more about Snowflake:\n➡️ Website: https://www.snowflake.com \n➡️ Careers: http://careers.snowflake.com\n➡️ Podcast page: https://www.snowflake.com/thedatacloudpodcast/\n➡️ Twitter: https://twitter.com/Snowflake \n➡️ Instagram: https://www.instagram.com/_snowflake_inc\n➡️ Facebook: https://www.facebook.com/snowflakedb\n➡️ LinkedIn: https://bit.ly/2QUexl4\n➡️ Sign up for our weekly live demo program and have your questions answered by a Snowflake expert at https://bit.ly/2TdVCmJ\n\nListen on: \n🔈 Apple Podcasts: https://apple.co/3cCdrCU \n🔈 Spotify: https://spoti.fi/39vCNjH\n🔈 Simplecast: https://bit.ly/3rFCrgA\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-05T00:21:56Z",
+      "tags": [
+        "Snowflake",
+        "Snowflake data warehouse",
+        "Snowflake computing",
+        "Snowflake company",
+        "Snowflake database",
+        "Snowflake cloud",
+        "Data warehouse",
+        "Business software",
+        "Data warehousing",
+        "Cloud storage",
+        "cloud computing",
+        "Data Science",
+        "Data Engineering",
+        "The Data Cloud",
+        "big data",
+        "artificial intelligence",
+        "data scientist",
+        "predictive analytics",
+        "business intelligence",
+        "data economy",
+        "Data driven economy",
+        "Data cloud",
+        "data lake",
+        "Data Warehouse"
+      ],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "xv1l683ybAU": {
       "video_id": "xv1l683ybAU",
@@ -1129,7 +1637,36 @@
       "channel": "Snowflake Inc.",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Tune in to watch what happened when the three finalists in this year's Snowflake Startup Challenge came together on the last day of Snowflake Summit to participate in the final round of competition. Their task was to pitch their \"Powered By Snowflake\" product to a panel of four judges charged with selecting the winner. It all took place before a live audience, and the prize at stake was a chance to win up to $1 million in funding from Snowflake Ventures and gain significant market exposure. The three finalists stepping up to the challenge were DeepTempo, which pitched a cybersecurity product that utilizes deep learning; LumiLinks, which showcased its centralized AI-driven applications for extracting cost-saving insights from diverse data sets; and Winning Variant, which presented a new type of split-testing platform. And the winner was....spoiler alert ... Lumilinks! Watch the video to find out why.\n\n❄Join our YouTube community❄ https://bit.ly/3lzfeeB \n\nLearn more about Snowflake:\n➡️ Website: https://www.snowflake.com \n➡️ Careers: http://careers.snowflake.com\n➡️ Podcast page: https://www.snowflake.com/thedatacloudpodcast/\n➡️ Twitter: https://twitter.com/Snowflake \n➡️ Instagram: https://www.instagram.com/_snowflake_inc\n➡️ Facebook: https://www.facebook.com/snowflakedb\n➡️ LinkedIn: https://bit.ly/2QUexl4\n➡️ Sign up for our weekly live demo program and have your questions answered by a Snowflake expert at https://bit.ly/2TdVCmJ\n\nListen on: \n🔈 Apple Podcasts: https://apple.co/3cCdrCU \n🔈 Spotify: https://spoti.fi/39vCNjH\n🔈 Simplecast: https://bit.ly/3rFCrgA\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-11T21:10:27Z",
+      "tags": [
+        "Snowflake",
+        "Snowflake data warehouse",
+        "Snowflake computing",
+        "Snowflake company",
+        "Snowflake database",
+        "Snowflake cloud",
+        "Data warehouse",
+        "Business software",
+        "Data warehousing",
+        "Cloud storage",
+        "cloud computing",
+        "Data Science",
+        "Data Engineering",
+        "The Data Cloud",
+        "big data",
+        "artificial intelligence",
+        "data scientist",
+        "predictive analytics",
+        "business intelligence",
+        "data economy",
+        "Data driven economy",
+        "Data cloud",
+        "data lake",
+        "Data Warehouse"
+      ],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "z7KADy9iB7k": {
       "video_id": "z7KADy9iB7k",
@@ -1176,7 +1713,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Two decades into the big data era, we still get so much wrong in fundamental data analysis. Now, with the rise of AI promising easier than ever access to insights, are we actually going to become more \"data driven\" or are we going to make even more mistakes? In this Luminary Talk from Summit 2025, Snowflake's Amanda Kelly, Director of Product Management, explores common pitfalls we face today and how the role of data professionals can evolve alongside AI to work better with data.\n\nSubscribe to this channel for more great content!\n-- http://www.snowflake.com/YTsubscribe/\n\nExplore sample code, download tools, and connect with peers:\n-- https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-06-20T16:01:50Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     },
     "zuqQCKR4sHs": {
       "video_id": "zuqQCKR4sHs",
@@ -1185,7 +1726,11 @@
       "channel": "Snowflake Developers",
       "label": "Summit 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
+      "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
+      "description": "Tune into this session from Summit 2025 to learn how Coinbase builds end-to-end ML workflows on top of Snowflake’s platform for optimal data security, governance, and price performance. Using features such as Snowflake Feature Store and Snowflake Model Registry, Coinbase now automates batch and online inference on predictive ML models to quickly and accurately unban users who were initially incorrectly flagged as suspected fraud or bots, resulting in an improved user experience and increased revenue.\n\nSubscribe to this channel for more great content!\n👉  http://www.snowflake.com/YTsubscribe/\n\nClick here to start your 30-day free Snowflake trial, which includes $400 worth of free usage:\n👉  https://snowflake.com/youtube-dev-trial \n\nExplore sample code, download tools, and connect with peers:\n👉   https://developers.snowflake.com/\n\n#Snowflake #AIDataCloud #AI #GenAI #ArtificialIntelligence",
+      "published_at": "2025-08-29T17:01:34Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:16+00:00"
     }
   }
 }

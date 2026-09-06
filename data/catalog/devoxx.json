@@ -1,7 +1,7 @@
 {
   "slug": "devoxx",
   "name": "Devoxx",
-  "enumerated_at": "2026-08-30T21:47:36+00:00",
+  "enumerated_at": "2026-09-06T13:20:59+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@DevoxxForever/videos",
@@ -29,10 +29,14 @@
       "video_id": "-2BU_Me-wxc",
       "title": "Devoxx Greece 2025 - Navigating the Impact of AI, Developer Experience & Communities on Software Sec",
       "duration_s": 2572,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speaker : Joseph Katsioloudes\n\nDiscover the impact of AI, Developer Experience (DevEx), and communities on software security through real-world examples derived from securely building GitHub using GitHub. Uncover valuable insights into the dynamic interplays between these three transformative forces, paving the way for a new era in software development and, consequently, for software security.\n\nThis session will provide you with an exclusive behind-the-scenes perspective, offering insights into how GitHub enhances various elements of the Secure Software Development Life Cycle (SSDLC), benefiting from each driving force and their interplays. We will explore practical strategies for software security, supply chain, secrets hygiene, automation and security culture. The audience will gain a deep understanding of industry-leading software practices, drawn from our experiences as developers helping others with security in a rapidly changing landscape.",
+      "published_at": "2025-04-22T15:39:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "-5DtHWGfm4U": {
       "video_id": "-5DtHWGfm4U",
@@ -103,10 +107,14 @@
       "video_id": "-SvhrOoLm04",
       "title": "Devoxx Belgium 2024 GENESIS Intro Movie",
       "duration_s": 67,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2024-10-14T07:24:31Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "-V251N-pYYI": {
       "video_id": "-V251N-pYYI",
@@ -528,10 +536,14 @@
       "video_id": "1ekv68_8Ssg",
       "title": "Devoxx Greece 2025 - The Art of Jackpot Processing: Building a Shared Liquidity Jackpot Platform",
       "duration_s": 1033,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speaker : ALEXANDROS VALARAKOS\n\nModern online gaming demands high-throughput, low-latency jackpot systems. This presentation explores the architectural design and engineering challenges encountered while building a scalable and resilient cloud-native jackpot system for an online casino. We leveraged Kafka Streams and a microservices architecture to process high-volume wager streams in real-time, ensuring 'exactly-once' semantics for accurate jackpot calculations. Our solution addresses the complexities of shared liquidity across multiple on-premises environments, enabling operators to participate in pooled jackpots while maintaining operational independence. We will explore the core architectural elements of our system and demonstrate how a single event cascades through a series of stream processing transformations, effectively addressing fault tolerance and ensuring data consistency within a distributed framework.",
+      "published_at": "2025-04-22T15:37:41Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "1hMyTE07rfs": {
       "video_id": "1hMyTE07rfs",
@@ -615,10 +627,14 @@
       "video_id": "26pc309OsA4",
       "title": "AI-generated recap of Devoxx Belgium 2024 opening keynote : Genesis with Stephan Janssen & friends",
       "duration_s": 720,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "This is an AI generated podcast based on the Devoxx Belgium opening keynote transcript.  #Enjoy",
+      "published_at": "2024-10-12T14:09:14Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "2BcWWWkb8ac": {
       "video_id": "2BcWWWkb8ac",
@@ -728,10 +744,14 @@
       "video_id": "30qKZVdamUg",
       "title": "Opening keynote Devoxx Belgium 2025 with Arthur Janssen",
       "duration_s": 109,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2025-10-10T06:03:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "3BFcYTpHwHw": {
       "video_id": "3BFcYTpHwHw",
@@ -828,10 +848,14 @@
       "video_id": "3pxnV8RpUyk",
       "title": "Devoxx Greece 2025 - Principles-Based Programming by Kent C.Dodds",
       "duration_s": 2438,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "In software development, principles are the bedrock that guide our decisions, transcending specific tools and technologies. In this talk, we’ll delve into the significance of principles, using The Epic Programming Principles as a foundation. We’ll explore how these guiding philosophies can elevate your coding practices and decision-making processes. By the end, you’ll be inspired to reflect on these principles and craft your own, tailoring them to your unique development journey.",
+      "published_at": "2025-04-22T15:39:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "3s92JDUvfGo": {
       "video_id": "3s92JDUvfGo",
@@ -954,19 +978,27 @@
       "video_id": "4AhgCW64b0s",
       "title": "Devoxx Greece 2025 - Speed Up Your Maven Build x10… Before You Move to Gradle by Sergei Chernov",
       "duration_s": 2090,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Gradle has a lot of performance advantages in comparison to Maven.\nHowever there can be different blockers to migrate from Maven to Gradle (like release management or CI/CD pipelines), also in a large organization it'll require to teach a lot of engineers the new tooling and there can be pitfalls.\nThe good news is that Maven has a lot of potential to speed up the builds.\n\nIn this session we'll talk about possible ways to optimize it, starting with trivial things like choosing proper JDK, upgrading to Kotlin 2.0 K2, stop building and deploying redundant artifacts. Also we'll talk about Apache Build Cache and Develocity extensions, extracting code generation to jar dependency and how it will boost the experience in the IDE.\nThen we'll dig deeper to how the Maven Reactor works under the hood and how it builds multi-module projects, what's the main problem of scalability/parallelization there.\nIn this section it will be explained why modularization is a key factor, how to find build bottlenecks and how to modularize the build.\n\nEventually you may make a decision to switch to Gradle if all these optimizations are not enough. But in any case these advices are complementary and will have positive effect for Gradle projects as well.",
+      "published_at": "2025-04-22T15:37:41Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "4AuI6MPlHeE": {
       "video_id": "4AuI6MPlHeE",
       "title": "Devoxx Greece 2025 - Demonolith the Monolith? Forget It! by Scott Sosna",
       "duration_s": 2245,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Mature organizations often have that all-encompassing, business-critical application that represents person-decades of effort. It likely started as a very well-defined, well-implemented solution to original business requirements, but over time became a behemoth as functionality was added without considering the overall impact.\n\nUnsurprisingly, the application has not aged well and eventually leadership admits there are problems:\n\n* consistently increasing production bugs that require immediate attention;\n* dramatic increase in time required to deliver new features;\nreliance on key individuals to do critical work due to cognitive complexity;\n* inability to successfully monitor application to understand its true state.\n\nLegitimately, organizations are loathe to accept that a rewrite is required; it's often interpreted as engineers wanting to do engineering for engineering's sake. Leadership makes a call to action to find a less-costly and more timely solution. After much analysis, discussion, deliberations and hand-wringing, it's decided: Demonolith the Monolith!",
+      "published_at": "2025-04-22T15:39:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "4BOdAMHdpsI": {
       "video_id": "4BOdAMHdpsI",
@@ -998,10 +1030,14 @@
       "video_id": "4D4pESKKiv8",
       "title": "Devoxx Greece 2025 - Engineering Management in the AI Era by Dennis Nerush",
       "duration_s": 2413,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Discover how AI is revolutionizing engineering management and people development. This talk explores practical applications of AI for enhancing leadership capabilities - from conducting data-driven 1:1s to delivering impactful feedback and effective performance reviews. Learn how AI can help identify performance patterns, prepare for difficult conversations, and generate meaningful insights for team development. Through real-world examples and hands-on strategies, you'll discover how combining AI with structured documentation methods can transform your management approach. Walk away with actionable techniques to leverage AI in developing stronger engineering teams while maintaining authentic human connections.",
+      "published_at": "2025-04-22T15:37:41Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "4GfCbPr77wE": {
       "video_id": "4GfCbPr77wE",
@@ -1059,10 +1095,14 @@
       "video_id": "4XL3UN_Azfo",
       "title": "Devoxx Greece 2025 - Learning from Failure by Kevlin Henney",
       "duration_s": 2907,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "We are surrounded by failure. Everywhere we look — our browsers, our phones, supermarket checkouts, advertising billboards, airport timetables — there's often a display showing a broken configuration, a bootup sequence or the blue screen of death. And sometimes the failure is bigger than what we see — just think of CrowdStrike.\nAs software professionals we need to ask what we can learn from these failures. What simple techniques can we apply to reduce the probability that something will go wrong?",
+      "published_at": "2025-04-22T15:37:41Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "4a7hdNCQgTo": {
       "video_id": "4a7hdNCQgTo",
@@ -1094,10 +1134,14 @@
       "video_id": "4i-APXp5MzM",
       "title": "Devoxx Greece 2025 - We hate code - The !joy of maintaining dead code by Gerrit Grunwald",
       "duration_s": 2260,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Do you love to maintain code that you didn’t wrote? Probably not…\nAs systems grow and evolve, the codebase inevitably accumulates clutter, including unused or “dead” code. \nOften the developers who wrote that code are not even in the company anymore. So how do you know if the code is still used?\nDead code can be confusing and it can be the source for vulnerabilities in your code base.\nSo it is not only “legacy” code we have to deal with but also “dead” code and even so called “zombie” code.\nThis session will give you an overview over the common struggle with this types of code and it will try to give you an idea about the differences between those types of code and about tools that will help you to get rid of it.",
+      "published_at": "2025-04-22T15:39:15Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "4kAe03wGy2w": {
       "video_id": "4kAe03wGy2w",
@@ -1246,10 +1290,14 @@
       "video_id": "5Dj2RBBGJ68",
       "title": "Devoxx Greece 2025 - Breaking Barriers: The Art of (Free) Gamified Security Training",
       "duration_s": 2345,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speaker : Joseph Kalatsioudes\n\nIn a world where security training often feels like a mundane chore, discover the refreshing impact of gamification and turn learning into an enjoyable experience. Embark on an insightful journey as we unveil the success story of gh.io/secure-code-game, an open-source game hosted on GitHub Skills, that attracted over 5,000 developers within its first year.\n\nThis session will provide you with an exclusive behind-the-scenes perspective, offering valuable insights and practical strategies to revolutionize various aspects of security training for your benefit. We’ll explore a case study from a tech startup that observed, among the developers who played the game, an increased sense of ownership for code security, improved communication with security teams, and a strong willingness to embrace further security training.",
+      "published_at": "2025-04-22T15:37:41Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "5FNm3wzWoCg": {
       "video_id": "5FNm3wzWoCg",
@@ -1268,10 +1316,14 @@
       "video_id": "5TXDZcorWQI",
       "title": "Devoxx Greece 2025 - Bug-Free, Stress-Free: Mastering Development Practices by Giorgos Panagopoulos",
       "duration_s": 2229,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Think you know the right way to develop software? Think again! This fast-paced, interactive session takes on some of the biggest taboos in development—those \"golden rules\" everyone follows without question.\nWe'll challenge common assumptions like \"100% test coverage is always good\", \"Agile means no planning\", and \"Code reviews are just about catching bugs\". Expect surprising truths, lively debates, and a fresh perspective on software methodologies, testing, and tools.\nThrough quick-fire myths, real-world examples, and audience interaction, we'll break down misconceptions and uncover what really makes development stress-free and bug-free.",
+      "published_at": "2025-04-22T15:39:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "5Y370b8iTq0": {
       "video_id": "5Y370b8iTq0",
@@ -1329,10 +1381,14 @@
       "video_id": "5qtkjb5AJAA",
       "title": "Devoxx Greece 2025 - Unsung Heroes of Software Development – Tools That Make Life Easier",
       "duration_s": 1741,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speaker : Dimitris Pappas\n\nWe love talking about our core stack — the latest and greatest frameworks that usually take center stage. But what about the unsung heroes? The tools that quietly save us time, effort, and headaches?\n\nThroughout the software development cycle, countless tools, libraries, and supporting technologies make our jobs easier (or at least tolerable!), yet they often fly under the radar. From early design to development and deployment, these tools drive efficiency, productivity, debugging, automation, and observability.\n\nIn this short session, it’s their time to shine! We’ll explore a few that have made a real impact in our work, offering food for thought and a deeper appreciation for the hidden gems that keep our stacks running smoothly.",
+      "published_at": "2025-04-22T15:37:41Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "60EoWj2gYdI": {
       "video_id": "60EoWj2gYdI",
@@ -1364,10 +1420,14 @@
       "video_id": "67FaAa-gthY",
       "title": "[VDBUH2025] Gerrit Grunwald - Trash Talk - Exploring the JVM memory system",
       "duration_s": 3015,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "In the realm of Java programming, understanding memory management and garbage collection mechanisms cannot only be helpful for optimizing performance and resource utilization but also in general will help you to use the right garbage collector for your application.\n\nThis session will be about memory allocation, object lifecycle, and garbage collection strategies within the Java Virtual Machine (JVM). Attendees will gain insights into memory allocation strategies, object retention policies, and various garbage collection algorithms like generational and concurrent collection.\n\nSo when you are interested in getting more knowledge about which garbage collector to use best for your application or about memory management in the JVM, this session is for you.",
+      "published_at": "2025-04-17T05:04:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "69uWV1GkQz4": {
       "video_id": "69uWV1GkQz4",
@@ -1594,10 +1654,14 @@
       "video_id": "7Mee2e5xMpk",
       "title": "Devoxx Greece 2025 - Spring Cloud Gateway MVC: Built for Java 21 and Virtual Threads by Spencer GIbb",
       "duration_s": 2465,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "In this session, I will talk about how Spring Cloud Gateway can work in servlet containers using virtual threads on Java 21. I will compare and contrast this new functionality to the original WebFlux-based Spring Cloud Gateway. We will provide a brief history of API gateways in Spring Cloud, including Zuul and why we built Spring Cloud Gateway to replace it. Then we will give a short primer on how the gateway routes and filters requests.",
+      "published_at": "2025-04-22T15:39:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "7OjePJ1NVpA": {
       "video_id": "7OjePJ1NVpA",
@@ -1616,10 +1680,14 @@
       "video_id": "7T9fmvY5MzU",
       "title": "Bootiful Spring Boot in 2025 by Josh Long",
       "duration_s": 3071,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Spring Boot 3.4 and Java 24 have arrived, making it an exciting time to be a Java developer!\n\nJoin me, Josh Long (@starbuxman), as we dive into the future of Spring Boot with Java in 2025.\nDiscover how to scale your applications and codebases effortlessly.\n\nWe'll look at:\nhow to build more modular (from a software design perspective)\nscalable (from a team and runtime efficiency perspective)\nand efficient codebase using the latest and greatest in the Spring ecosystem.",
+      "published_at": "2025-04-07T13:45:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "7Yc-0sIfjmY": {
       "video_id": "7Yc-0sIfjmY",
@@ -1651,10 +1719,14 @@
       "video_id": "7l9cMhQndiY",
       "title": "Devoxx Greece 2025 - Letting AI Interface with Your App using MCPs by Kent. C. Dodds",
       "duration_s": 1351,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "We are entering a new era of user interaction. It's being built right before our very eyes and changing rapidly. As crazy as it sounds, soon each one of us will get our own Jarvis capable of performing actually useful tasks for us with a completely different user interaction mechanism than we're used to. But someone's gotta give Jarvis the tools to perform these tasks, and that's where we come in. In this talk, Kent will demo an MCP server and use it with an AI assistant to help us catch the vision of what this future could look like and our role in it.",
+      "published_at": "2025-04-22T15:37:41Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "7mNqcHqB-YU": {
       "video_id": "7mNqcHqB-YU",
@@ -1673,10 +1745,14 @@
       "video_id": "7mSDlA257Zc",
       "title": "Devoxx Greece 2025 - Value by Design: How Business KPIs Shape Architecture by Alex König",
       "duration_s": 2150,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "In today's fast-paced business environment, focusing on what truly matters can mean the difference between success and mediocrity. This session explores how architects and technical decision makers can leverage key performance indicators (KPIs) to drive architectural decisions that directly support the organization's strategic goals. Learn how to identify, prioritize, and measure your most critical goals to ensure meaningful progress and the right architectural trade-offs. Discover how focusing on less can help you accomplish more, with KPIs providing a clear, measurable path to your most important outcomes.",
+      "published_at": "2025-04-22T15:37:41Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "7nYcOH5TRXU": {
       "video_id": "7nYcOH5TRXU",
@@ -1760,10 +1836,14 @@
       "video_id": "8SPnxNQ999k",
       "title": "Devoxx Greece 2025 - Applied Psychology: Psychology-based UI improvements by Keren Kenzi",
       "duration_s": 2031,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "As frontend developers, we implement given UI designs. But wouldn’t it be great if we could provide input and suggest psychology-based improvement ideas? And thus, making the product better and taking a more proactive role in the development process. In this talk, I will share with you knowledge from the field of cognitive psychology that you can apply to UI designs to improve them.",
+      "published_at": "2025-04-22T15:37:41Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "8g-lQURqjvM": {
       "video_id": "8g-lQURqjvM",
@@ -1821,10 +1901,14 @@
       "video_id": "8pvypb4YCKg",
       "title": "[VDBUH2025] Andra Ghibutiu & Alex Proca - Opening thoughts",
       "duration_s": 343,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2025-04-17T05:02:58Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "8qrZc02YV00": {
       "video_id": "8qrZc02YV00",
@@ -1856,10 +1940,14 @@
       "video_id": "98JRLzVFYTU",
       "title": "Devoxx Greece 2025 - Quarkus Back to Basics | Ioannis Canellos & Georgios Andrianakis",
       "duration_s": 2338,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Lately, it feels like everything is about AI. While exploring this rapidly evolving landscape we often forget what makes development fun (us included).\nSo, let's hit a pause on the AI buzz and get back to basics with Quarkus, the modern java framework that helps you work smarter with or without AI.\nWe’ll kick things off with a quick intro for newcomers, then dive into some good old-fashioned live coding. Along the way, we’ll explore spring compatibility, persistence, testing, messaging, and more.",
+      "published_at": "2025-04-22T15:39:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "991TTtoPm54": {
       "video_id": "991TTtoPm54",
@@ -1917,10 +2005,14 @@
       "video_id": "9_BnaXfRfqc",
       "title": "Devoxx Greece 2025 - Accessibility in the year 2025 by Lena Lekkou",
       "duration_s": 871,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "The law is coming...But is that all?\n\nA new Αccessibility law is just around the corner, impacting how we develop our products. But compliance isn't the whole story. This talk explores why Αccessibility matters beyond legal requirements, challenging us to think beyond the minimum and embrace inclusive & ethical design as a core principle. Join us to explore the future of accessible engineering and how we can all benefit from it.",
+      "published_at": "2025-04-22T15:37:41Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "9h0FEgNYyr8": {
       "video_id": "9h0FEgNYyr8",
@@ -2108,10 +2200,14 @@
       "video_id": "Akv39MNdR1M",
       "title": "[VDBUH2025] Piet Van Dongen - Creating effective and objective architectural decision records (ADRs)",
       "duration_s": 926,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Documenting decisions is like eating your veggies as a kid: they keep telling you it’s good for you, but you just hate doing it. Architectural Decision Records (ADRs) to the rescue! ADRs are perfect for just-in-time, just-enough documentation for engineering teams and organizations.\n\nDuring this session, you will learn how to make architectural decisions effectively and objectively by:\n\nLearning the structure of a good ADR (no more walls of text that nobody reads anyway!)\nPracticing how to turn subjective choices into objective ones (no more pros and cons lists and tribal conflicts!)\nCreating editable diagrams, fast (no more spending hours wrestling tools that your collaborators don’t know how to use!)\nCollaborating quickly with technical and non-technical stakeholders (no more hours of Tower of Babel meetings!)\nReporting the decision using effective language and fit-for-audience diagrams (no more writing reports that end up unread in drawers!)\nDo you want to learn how to facilitate good decision making without spending weeks looking for consent?\n\nThen join this hands-on session and you will walk away a better architect or engineer.",
+      "published_at": "2025-04-17T05:04:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "AnL5LRXz8og": {
       "video_id": "AnL5LRXz8og",
@@ -2169,10 +2265,14 @@
       "video_id": "B2tYHneKpi8",
       "title": "Devoxx Greece 2025 - Digital Analytics and ML Pipelines for Online Gaming Data Monetization",
       "duration_s": 2004,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speakers : Manos Nikolopoulos & Christos Platias\n\nOnline betting is an emerging field of entertainment and as a result data size and complexity spikes up exponentially especially since lockdowns.\nCompetitors crucial need is to digest this data \"big bang\" by quickly understanding customer behavioral patterns and leverage the ability to satisfy users in speed and relevance.\nOPAP Online analytics team showcases how tech streams, ML/AI methodologies and recommender systems, structure a streamline synergy impacting directly users devices, maximizing data monetization potential through faster and personalized user experience.",
+      "published_at": "2025-04-22T15:39:11Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "BMbAWG8zABI": {
       "video_id": "BMbAWG8zABI",
@@ -2217,10 +2317,14 @@
       "video_id": "BaMbeYYndY4",
       "title": "[VDBUH2025] Andra Ghibutiu & Alex Proca - Ending Thoughts",
       "duration_s": 113,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2025-04-17T05:02:52Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "Bfj3K3ELU64": {
       "video_id": "Bfj3K3ELU64",
@@ -2460,10 +2564,14 @@
       "video_id": "D22_eAdwnxg",
       "title": "[VDBUH2025] Alexander Chatzizacharias - What is multimodal RAG, and can we build a village with it?",
       "duration_s": 2375,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Multimodal Retrieval-Augmented Generation (RAG) is the art of using your own textual, visual and audio data to enhance prompts before they’re processed by a generative AI. Imagine users asking a question, the system querying your own data pool for answers, and then using generative AI to craft a coherent, relevant response… which is perfect for non-player characters (NPCs)! These are characters in video games that are not controlled by the player. Typically, NPCs have static and hardcoded responses, but with this approach we could make them more lifelike and fun to interact with!\n\nWe can take it even further. Imagine NPCs interacting with each other, having goals, and moving around dynamically, all driven by complex RAG workflows. This idea is exactly what Alexander has explored and wants to share with you!\n\nWhether you’re a seasoned backend engineer or an adventurous developer seeking fresh ideas, Alexander will guide you through setting up basic to advanced RAG workflows. He’ll demonstrate the challenges and benefits of using tools like Langchain4j to create RAG systems that provide up to date and factual answers.\n\nAlexander’s goal is to offer an engaging and fun look at RAG, inspiring you to dive in and explore its potential yourself. Get ready for a session that mixes education and absurd fun to discover the inner workings of multimodal RAG!",
+      "published_at": "2025-04-17T05:04:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "DAgVdXO4NFM": {
       "video_id": "DAgVdXO4NFM",
@@ -2664,10 +2772,14 @@
       "video_id": "DrOqerird-4",
       "title": "Devoxx Greece 2025 - Processing 1 Million Emails per Hour: A Re-Platforming Case Study",
       "duration_s": 915,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speaker : George Gkogkolis\n\nThis talk presents a re-platforming case study, detailing the migration from a deprecated SaaS product to a cloud-native system developed in-house. We will explore the journey from concept to go-live, highlighting the challenges we faced and how we overcame them. Along the way, we’ll share key lessons learned and insights gained throughout the process.",
+      "published_at": "2025-04-22T15:37:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "DwmiQWw3ZJE": {
       "video_id": "DwmiQWw3ZJE",
@@ -2725,10 +2837,14 @@
       "video_id": "EF0utohGFqA",
       "title": "Welcome to Voxxed Days Amsterdam 2025 (room 2)",
       "duration_s": 431,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "In this video, Michel Schudel and Kaya Weers welcome you to the conference! 👋\n\nTo give every attendee a unique live experience (and avoid overflow rooms where you're just staring at a screen), we hosted two welcomes and two keynotes simultaneously in different rooms. That way, everyone gets to experience the event's energy, live and in person. 🔥\n\nEnjoy the show",
+      "published_at": "2025-04-17T08:50:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "EJ9q8hQXV8I": {
       "video_id": "EJ9q8hQXV8I",
@@ -2786,10 +2902,14 @@
       "video_id": "EWoG2SZV8EE",
       "title": "Devoxx Greece 2025 - Engineering as a creative process with social impact",
       "duration_s": 930,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speakers : Giorgos Anagnostaki and Kostantinos Petropoulos\n\nWhen starting a new project, especially one with social impact, the key question is: Why are we building this? What problem are we solving? Innovation is exciting, but if technology doesn’t serve a real need, it loses its value.\n\nIn healthcare, this question becomes even more critical. We’re not just building software—we’re creating tools that impact patients, doctors, and families. Access to medical data, accurate diagnoses, and seamless collaboration depend on the systems we develop.\n\nWhat keeps us motivated? The human impact. Knowing that what we build helps a patient receive the right treatment or enables a doctor to make a faster, life-saving decision gives engineering a deeper meaning.\n\nWhen this impact becomes personal—affecting you or a loved one—it’s even more powerful. Engineering isn’t just technical; it’s a creative process that drives meaningful change. It’s about solving real problems that truly matter.",
+      "published_at": "2025-04-22T15:37:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "EXDzEI6uQ0E": {
       "video_id": "EXDzEI6uQ0E",
@@ -3198,10 +3318,14 @@
       "video_id": "HhN2NxslJ6M",
       "title": "[VDBU2025] Future of Romania Tech Panel",
       "duration_s": 3903,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speakers: MĂDĂLINA POPA (Microsoft), ALEX LĂPUȘAN (ZITEC), MARIUS ISTRATE (TechAngels)\nModerator: EDWARD CREŢESCU (ANIS)\n\nThis panel will explore the next wave of technological transformation, delving into key trends shaping the industry. From the rise of AI and automation to the continued growth of cloud computing, the discussion will focus on how businesses can harness innovation to drive growth and stay competitive in an ever-changing landscape.\n\nPanelists will share their experiences in navigating the digital shift, tackling challenges, and embracing the opportunities that the future holds.\n\nThe session will offer valuable insights into the strategic decisions, emerging technologies, and leadership approaches that are setting the stage for the next chapter in tech. Don’t miss this opportunity to gain a deeper understanding of the forces driving the future of technology.",
+      "published_at": "2025-04-17T05:04:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "HiiTsNziamg": {
       "video_id": "HiiTsNziamg",
@@ -3454,19 +3578,27 @@
       "video_id": "JjAXg86C-L0",
       "title": "Devoxx Greece 2025 - 5 reasons why OTel is the future of Olly by Steve Flanders",
       "duration_s": 785,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2025-04-22T15:37:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "Jjrencq8sUQ": {
       "video_id": "Jjrencq8sUQ",
       "title": "[VDBUH2025] Simon Martinelli - Goodbye Microservices, Hello Self-Contained Systems",
       "duration_s": 2609,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Microservices have been a popular approach to building modern software, offering scalability and flexibility. But for many teams, they bring challenges like increased complexity, difficult debugging, and managing too many small services.\n\nIn this talk, we’ll introduce an alternative: Self-Contained Systems (SCS). Unlike microservices, SCS allows each part of your application to operate independently with its UI, logic, and database, simplifying both development and deployment.\n\nYou’ll learn why SCS can be a better fit for many projects, how it reduces the complexity of distributed systems, and when it makes sense to use this approach over microservices. Plus, we’ll dive into practical examples, showing how you can build self-contained systems using Java and Vaadin.\n\nIf you’re ready to rethink your architecture and say goodbye to microservice headaches, this talk will show you the way forward!",
+      "published_at": "2025-04-17T05:05:51Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "Jo5mOBRr2b4": {
       "video_id": "Jo5mOBRr2b4",
@@ -3550,10 +3682,14 @@
       "video_id": "KaOsoQsueJI",
       "title": "Devoxx Greece 2025 - Fine Grained Authorisation with Relationship-Based Access Control : Ben Dechrai",
       "duration_s": 2430,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Who can tag me in a post? If I move this file to another folder, who now has access? If my owner breaks up with his friend, will I still get a bone?\n\nWhether you're a human, or a dog, let's face it, authorisation is hard. Role-based access control is a great starting point but hard to scale. Attribute-based access control scales better, but neither are much good at answering more complex conditions, like whether friends-of-friends can read your posts, or knowing if your dental hygiene is going to suffer. For such situations, we generally have to wrap this up into business logic.\n\nThis is where relationship-based access control (ReBAC) comes in, offering a nuanced approach to accessing resources without codifying that into the applications.\n\nIn this session, we'll look at how to define these relationships, experience live demos, and discover how we can deploy our own fine-grained authorisation service. Expect some tail-wagging insights and a few laughs as we explore access control from a canine's point of view.",
+      "published_at": "2025-04-22T15:39:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "KnsUTEhXkZ0": {
       "video_id": "KnsUTEhXkZ0",
@@ -3650,10 +3786,14 @@
       "video_id": "L56adMcAB20",
       "title": "[VDBUH2025] Magda Miu - From Debt to Wealth: Transforming Observability at Adobe",
       "duration_s": 2411,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "This presentation is about the successful transformation of the Adobe Experience Platform Observability group, which initially involved significant technical debt, disengaged teams, and unhappy clients.\n\nWe will delve into how the product trio, through collaborative effort and a clear and actionable strategy addressed these challenges head-on. This involved:\n\n○ Reframing Tech Debt as Tech Wealth: A strategic approach to addressing critical technical issues, prioritizing solutions that would have the greatest impact on system stability and performance.\n\n○ Elevating Developer Experience: Implementing measures to improve the developer experience, such as clear support model, enhanced tooling, and improved documentation.\n\n○ Cultivating a Culture of Growth: Fostering a culture of continuous learning, experimentation, and innovation within the team, empowering individuals and fostering a sense of shared ownership.\n\nThis multi-faceted approach not only resulted in a significant reduction in technical debt and an enhanced developer experience but also led to increased client satisfaction and restored team engagement. The presentation will share key learnings, best practices, and actionable insights for organizations facing similar challenges in their growth journey.",
+      "published_at": "2025-04-17T05:04:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "L6V6aQixOZU": {
       "video_id": "L6V6aQixOZU",
@@ -3854,10 +3994,14 @@
       "video_id": "MENMuLYvZqs",
       "title": "Devoxx Greece 2025 : The Magic of Small Things: Microservices 10 years on - Keynote by James Lewis",
       "duration_s": 3341,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "The early years of the second decade of the twenty-first century. A world where Docker was a job people did; K8S was a boyband (probably); Kafka was a euphemism for existential anxiety and Chaos Engineering meant, well, nothing as it hadn’t been invented yet. The Cloud … that was just weather to most people.\n\nIt is 2012, and Microservices appeared on the Thoughtworks Technology Radar. 10 years ago, in 2014, Martin Fowler and James Lewis wrote down something that caused a bit of a stir – the definition of Microservices. 10 years later, for better or worse, Microservices have become the predominant architectural style for building software at scale.\n\nSo much innovation has occurred in the last decade – Docker and K8S fulfilled the ‘write once and run anywhere’ promise of the JVM. Operations changed beyond recognition as we moved to Cloud Native and FaaS. Testing in Production is a practice that now signifies maturity rather than derangement.\n\nIn this keynote, James takes a look at the original nine characteristics of Microservices and explores the lessons we’ve learnt since those halcyon days. (Although Kafka is still a euphemism for existential anxiety.)",
+      "published_at": "2025-04-22T15:39:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "MHzYG9dhpiA": {
       "video_id": "MHzYG9dhpiA",
@@ -4071,10 +4215,14 @@
       "video_id": "Na2AIzW13xs",
       "title": "[VDBUH2025] Alex Shershebnev - AI Coding Agents and how to code them",
       "duration_s": 2422,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "AI Agents are the next big thing everyone has been talking about. They are expected to revolutionize various industries by automating routine tasks, mission critical business workflows, enhancing productivity, and enabling humans to focus on creative and strategic work. Of course, you can apply them to your everyday coding tasks as well.\n\nIn this talk we’ll go over what those agents can bring to the table of coding world, and why they can deliver the promise of coding smarter that the current generation of coding assistants can’t. We will then dive right into a quick live coding session where I’ll show what such agents can do in real life and how you can start using them to enhance your everyday life already right after the talk. And we’ll finish off with some remarks on what the future of programming might look like in the near future as those agents get included into your everyday life.",
+      "published_at": "2025-04-17T05:04:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "Ne9CGoHwACY": {
       "video_id": "Ne9CGoHwACY",
@@ -4353,10 +4501,14 @@
       "video_id": "PpigE_gJ_mU",
       "title": "Devoxx Greece 2025 - How Flow Works and other curiosities by James Lewis",
       "duration_s": 2460,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Have you ever thought about why what we see as the sensible defaults for software engineering in 2023 work? We adopt the key metrics from Accelerate, team structures from Team Topologies and Microservices in an effort to improve the flow of value to our users (or to a customer saying Thank You, paraphrasing Daniel Terhorst-North).\n\nBut what is Value? What is Flow? James will use ideas from Information Theory and Complexity Science to peek into the domain model of our everyday experiences turning ideas into running software. Come along and explore the weird world of how work works. Warning, may cause you to reduce batch sizes, because maths.",
+      "published_at": "2025-04-22T15:37:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "PrIh_9HomfI": {
       "video_id": "PrIh_9HomfI",
@@ -4414,19 +4566,27 @@
       "video_id": "QHR5qFykW08",
       "title": "[VDBUH2025] Alin Pandichi & Andreea Țugui - Effortless event filtering: from Java to Flink queries",
       "duration_s": 2168,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "The process of triggering a notification usually relies on a single explicit request from the client application. However, how do you handle a data stream that requires filtering, with notifications sent only after specific conditions are met?\n\nAt ING, we use Flink SQL to convert heavy Java logic into streamlined queries using SQL-like syntax. This allows us to perform complex data transformations.\n\nDuring the live-coding session, you will see how easy it is to filter Kafka events with the help of Apache Flink. We will transition from a Java based application to SQL like queries to demonstrate development time and performance savings. Using Flink in our demo, we will consume events from an input topic, filter them based on specific rules and publish the resulting events on an output Kafka topic.",
+      "published_at": "2025-04-17T05:04:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "QJ9TQCWioec": {
       "video_id": "QJ9TQCWioec",
       "title": "Devoxx Greece 2025 Revolutionizing Web Development Angular Micro-Frontends for Scalable Applications",
       "duration_s": 697,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speaker : Dimitris Kaklamanis\n\nThis session will explore how Angular micro-frontends can transform traditional monolithic architectures into scalable, modular applications.\nLearn the principles and best practices for implementing micro-frontends, and discover how this approach can enhance your development workflow, improve maintainability, and enable your team to build more resilient and flexible web applications.\nJoin us to revolutionize your web development strategy and embrace the future of scalable application design.",
+      "published_at": "2025-04-22T15:37:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "QN9Q8g2JnsI": {
       "video_id": "QN9Q8g2JnsI",
@@ -4497,10 +4657,14 @@
       "video_id": "QtTh_Qn2e54",
       "title": "Devoxx Greece 2025 - Async Excellence: Unlocking Scalability with Kafka by Natan Silnitsky",
       "duration_s": 2155,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "How do you scale 4,000 microservices while tackling latency, bottlenecks, and fault tolerance? At Wix, Kafka powers our event-driven architecture with practical patterns that enhance scalability and developer velocity.\nThis talk explores four key patterns for asynchronous programming:\n\nIntegration Events: Reduce latency by pre-fetching instead of synchronous calls.\nTask Queue: Streamline workflows by offloading non-critical tasks.\nTask Scheduler: Enable precise, scalable scheduling for delayed or recurring tasks.\nIterator: Handle long-running jobs in chunks for resilience and scalability.\n\nLearn how to balance benefits and trade-offs, with actionable insights to optimize your own microservices architecture using these proven patterns.",
+      "published_at": "2025-04-22T15:39:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "Qy1Un4U3DQY": {
       "video_id": "Qy1Un4U3DQY",
@@ -4740,10 +4904,14 @@
       "video_id": "SMnH3obzCDk",
       "title": "[VDBUH2025] Venkat Subramaniam - Keynote: It AI-n't What You Think!",
       "duration_s": 3631,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Innovations have transformed human lives, in ways that we can’t imagine how people survived before. Yet, we do not embrace innovations readily and we shouldn’t in most cases. Our time in this world is juxtaposed with yet another major innovation in our field. Is AI going to take over the world, our jobs, our way of life…and more are questions that are asked frequently these days. Come to this keynote to learn how to ride the new wave instead of being swept under.",
+      "published_at": "2025-04-17T05:05:51Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "SOk5AzrSKBc": {
       "video_id": "SOk5AzrSKBc",
@@ -4788,10 +4956,14 @@
       "video_id": "SaXpt8iLlA4",
       "title": "Devoxx Greece 2025 - Bring the Action: Using GraalVM in Production by Alina Yrenko",
       "duration_s": 2473,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "GraalVM has been around for a while, and more and more developers and teams are using it to run Java applications faster, more efficiently, and more securely. According to the latest “State of Spring” survey, 37% of Spring users either already run applications natively compiled GraalVM in production, or are currently evaluating it, and 31% more have such plans.\nFor those who haven’t moved to GraalVM yet though, the questions and concerns are usually similar: how hard is it to migrate? Can I use my libraries and tools? How do I deploy and monitor such native applications? What about using the latest Java features?\nIn this hands-on session, we’ll talk about all the practical aspects of building and running applications with GraalVM, tooling, monitoring, and using popular libraries, and cover common questions that we get from users.",
+      "published_at": "2025-04-22T15:39:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "SacYM4IGwUQ": {
       "video_id": "SacYM4IGwUQ",
@@ -4849,10 +5021,14 @@
       "video_id": "SrtmQma106g",
       "title": "Welcome to Voxxed Days Amsterdam 2025 (room 1)",
       "duration_s": 364,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "In this video, Ko Turk and Simone de Gijt welcome you to the conference! 👋\n\nTo give every attendee a unique live experience (and avoid overflow rooms where you're just staring at a screen), we hosted two welcomes and two keynotes simultaneously in different rooms. That way, everyone gets to experience the event's energy, live and in person. 🔥\n\nEnjoy the show",
+      "published_at": "2025-04-17T09:01:15Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "Sw3PlFXfWj4": {
       "video_id": "Sw3PlFXfWj4",
@@ -5183,10 +5359,14 @@
       "video_id": "UxTzRj6NXuw",
       "title": "Devoxx Greece 2025 - AI-Driven Automation for High-Intensity Development by Stefanos Giorkas",
       "duration_s": 1066,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "As software development becomes faster and more complex, keeping up with testing demands is a constant challenge. This presentation highlights how artificial intelligence is transforming the way teams approach test case automation. Instead of relying solely on manual review and prioritization, AI can analyze large volumes of test cases, assess their suitability for automation, and help teams focus their efforts where it matters most. By reducing repetitive work and providing data-driven insights, AI-driven automation empowers teams to maintain high quality, improve test coverage, and keep pace with rapid development cycles.\nTo support this shift, several smart AI-driven strategies are being explored—such as automatically scoring test cases for automation potential, integrating intelligent suggestions into existing workflows, and using conversational tools to interact with test data in real time. These approaches aim to boost productivity, streamline collaboration, and allow QA teams to focus on high-impact areas while letting AI handle the heavy lifting.",
+      "published_at": "2025-04-22T15:39:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "V1xvxi7kMGs": {
       "video_id": "V1xvxi7kMGs",
@@ -5530,10 +5710,14 @@
       "video_id": "WqQ21KYaY4Y",
       "title": "[VDBUH2025] Laurențiu Spilcă & Ionuț Baloșin - Unlocking the unknowns: Cryptography Essentials",
       "duration_s": 2049,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "As software developers, we are entrusted with protecting sensitive data and ensuring the security of our applications. Yet, cryptography often feels like a complex, impenetrable subject. This session demystifies the essentials of cryptography every Java developer should know.\n\nBased on insights from Software Security for Developers (a book by Adib Saikali and Laurentiu Spilca), this talk explores key cryptographic principles and practical applications in Java, including encryption, hashing, secure key management, and common pitfalls to avoid. Whether you’re securing APIs, protecting user data, or fortifying your code, this session provides the foundational knowledge to implement cryptography effectively and confidently in your projects.",
+      "published_at": "2025-04-17T05:05:51Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "WvQ8FouKTZI": {
       "video_id": "WvQ8FouKTZI",
@@ -5630,10 +5814,14 @@
       "video_id": "XQmbTpXfcvo",
       "title": "Devoxx Greece 2025 - Elasticsearch Serverless: the Transition from Stateful to Stateless",
       "duration_s": 2412,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speaker : Iraklis Psaroudakis\n\nModern-day observability & security demand fast-paced searches in ever-increasing data volumes. Elasticsearch (ES), at the core of the Elastic Stack, is a leading distributed AI search and analytics engine. ES has been stateful so far, using primarily the disk to store data. In this presentation, we show the technical design of the new ES Serverless (ES3) mode, that achieves unparalleled scalability without any administration burden. We focus on the basic premise of decoupling compute from storage, and offloading data to an affordable highly available object store (e.g., S3), while supporting the same APIs and read-after-write semantics. Specifically, we show why and how we simplify node tiers to just two: indexing and search. We describe how we use batched compound commits to wrap Lucene files onto the object store, how the translog is buffered on the object store for recovery, and how refresh and search semantics operate.",
+      "published_at": "2025-04-22T15:39:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "XUoHu70GVoQ": {
       "video_id": "XUoHu70GVoQ",
@@ -5704,10 +5892,14 @@
       "video_id": "YDF-kireb48",
       "title": "Last Available Tickets for Devoxx Belgium 2025",
       "duration_s": 24,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Grab one of the last available tickets for Devoxx Belgium today!\n👉🏼 https://reg.devoxx.be",
+      "published_at": "2025-09-08T15:53:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "YFDBKkEUbE8": {
       "video_id": "YFDBKkEUbE8",
@@ -5726,10 +5918,14 @@
       "video_id": "YQ5fLyYdQ3o",
       "title": "Devoxx Greece 2025 - CI/CD Automation journey: Transitioning from Manual Deployments to ...",
       "duration_s": 1848,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Full Title : CI/CD Automation journey: Transitioning from Manual Deployments to Fully Automated Pipelines\nSpeaker : Emmanouil Gaitanakis\n\nFrom static code analysis tools to Github Actions, Argo CD, and Kubernetes Jobs, let's explore Vodafone’s digital applications transition to fully automated CI/CD deployments. This journey involves several key parts, from adopting new ways of collaborating, to adopting multiple new tools and technologies. This transition not only improves efficiency, ensures a more robust and scalable infrastructure, but also provides a more attractive working environment.",
+      "published_at": "2025-04-22T15:39:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "YYzed0qH_ps": {
       "video_id": "YYzed0qH_ps",
@@ -5761,10 +5957,14 @@
       "video_id": "YbQhSgB5iMM",
       "title": "[VDBUH2025] Liran Tal - Friend or Foe? TypeScript Security Fallacies",
       "duration_s": 2519,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "So TypeScript has become the de facto industry standard for developing web applications these days and promising type security, but do developers properly understand the role it plays in securing applications and does the type safety promise hold true in face of real-world security threats?\n\nDevelopers often mistake dev-time vs runtime security as well as confuse test cases for security guard rails. Can TypeScript actually provide you with code security benefits? In this session we will explore insecure TypeScript patterns, learn how HTTP parameter pollution vulnerabilities impact TypeScript code bases and witness first-hand how attackers employ prototype pollution attacks that cripple codebases even when developers use schema validation libraries like Zod. Through hands-on coding we’ll hack a TypeScript application and learn security best practices.",
+      "published_at": "2025-04-17T05:05:51Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "YicnrjV2WME": {
       "video_id": "YicnrjV2WME",
@@ -5809,10 +6009,14 @@
       "video_id": "YpbZnnoUm0M",
       "title": "Devoxx Greece 2025 - Mastering OpenTelemetry Collector Configuration by Steve Flanders",
       "duration_s": 2389,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2025-04-22T15:39:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "Yq8yvWnZB7Q": {
       "video_id": "Yq8yvWnZB7Q",
@@ -5909,10 +6113,14 @@
       "video_id": "ZRNx9ZOoxsg",
       "title": "[VDBUH2025] Stephan Janssen - The Era of AAP: Ai Augmented Programming using only Java",
       "duration_s": 2781,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "As we enter the era of AI-Augmented Programming (AAP), developers stand at the threshold of a profound shift in software creation and maintenance. This talk delves into the emerging paradigm where Java and Large Language Models (LLMs) are leveraged to enhance and automate various stages of the development lifecycle.\n\nWe’ll explore how Java and LLMs are reshaping Integrated Development Environments (IDEs) and transforming developer workflows. The presentation will demo the integration of both local and remote LLMs, demonstrating their practical applications in coding assistance, debugging, and even generating entire projects from high-level prompts.",
+      "published_at": "2025-04-17T05:04:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "ZWec2QyAl_k": {
       "video_id": "ZWec2QyAl_k",
@@ -5983,10 +6191,14 @@
       "video_id": "_5uaQ0YcsCY",
       "title": "[VDBUH2025] - Benjamin Degerbaix & Diana Cibu - How We Handle Over 1 Trillion HTTP Requests ...",
       "duration_s": 2042,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Imagine you’re surfing the web, perhaps reading your favorite online newspaper, and you notice ads related to something you recently checked on a retail website. You might wonder: who’s following me? Who’s behind this? Well, it could be us.\n\nAt Criteo, we excel in AdTech. As one of the largest AdTech platforms globally, we play a significant role in the digital advertising ecosystem. You might think AdTech doesn’t affect you or isn’t relevant to your daily life, but let us show you how pervasive and impactful it truly is. Join our talk to discover more.\n\nThe technical challenges we tackle are immense. On Black Friday alone, we handle over 1 trillion HTTP requests, with more than 19 million queries per second, and ingest vast amounts of data daily. To put this into perspective, we serve over 5 billion ads per day on average. Imagine the tech stack required to support such traffic! We’ll explain it all, and you’ll be amazed by our robust infrastructure.\n\nMoreover, we’re proud to be 100% on-premise and fully committed to sustainability. You’ll learn about our efforts in this area as well.\n\nAre you intrigued? Join us to learn how we manage these challenges without losing sleep.",
+      "published_at": "2025-04-17T05:04:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "_B9f6cmhak0": {
       "video_id": "_B9f6cmhak0",
@@ -6057,10 +6269,14 @@
       "video_id": "_pL9wNCdaMM",
       "title": "Devoxx Greece 2025 - How to Think Like a Performance Engineer by Harry Roberts",
       "duration_s": 2896,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "As awareness and tooling around site speed have been improving at a very exciting rate, has performance testing actually become any easier? Any more straightforward? As someone who spends every day auditing client projects, I think areas of confusion have actually increased in many places. Which tools should we be using? Can we trust them? How do we run tests that serve as realistic and actionable predictors? And how do we know when we’ve won?\n\nIn this talk, we’ll look at highly practical tools and workflows to ensure that every test we run has a purpose and gives us data we can truly leverage. By the end, we will all have a shared idea of what effective performance testing looks like, as well as customised and fine-tuned tooling to ensure replicable and predictable tests.",
+      "published_at": "2025-04-22T15:39:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "_vVh1dGGqKY": {
       "video_id": "_vVh1dGGqKY",
@@ -6092,19 +6308,27 @@
       "video_id": "aEWYb8uCQY4",
       "title": "[VDBUH2025] - PANEL: Local Tech Ecosystem",
       "duration_s": 3008,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speakers: BOGDAN POPESCU (LIT), RĂZVAN CĂCIULĂ (DevOps Community), LAVINIA NEAGOE (WIT), MIHAELA CUŢUI (Brinel)\nModerator: ALEX AGATINEI (HTW)\n\nThis panel will explore the evolution of Romania’s local tech ecosystem, with a strong focus on the power of community and collaboration in driving growth and innovation.\n\nKey discussions will center around how the Romanian tech community is coming together to overcome challenges, support startups, and foster the next generation of tech talent.\n\nPanelists will share insights on building stronger connections between industry, academia, and government, and how these relationships are helping to shape a thriving and sustainable local ecosystem.\n\nAttendees will hear about the role of tech hubs, mentorship programs, and networking initiatives in building a united, forward-thinking tech community that can compete on a global scale.",
+      "published_at": "2025-04-17T05:03:03Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "aRWkmyspfpY": {
       "video_id": "aRWkmyspfpY",
       "title": "[VDBUH2025] Victor Rentea - Keynote: The ⁠Psychology of Code",
       "duration_s": 3113,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Software engineering is not just about code—it’s about the mind that writes it. Every decision we make, from architecture choices to debugging, is shaped by cognitive biases, emotional states, and mental energy. In this keynote, we’ll explore how psychological factors like decision fatigue, impostor syndrome, cognitive load, and burnout impact the way we work. We’ll also uncover how biases influence technical choices and how teams can foster better decision-making. By understanding the psychology behind software development, we can write better code, make smarter decisions, and create healthier, more effective engineering teams.",
+      "published_at": "2025-04-17T05:04:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "aZzkoz0Ykac": {
       "video_id": "aZzkoz0Ykac",
@@ -6149,19 +6373,27 @@
       "video_id": "arUOVFUKt6s",
       "title": "Devoxx Greece 2025 - Top REST API Design Pitfalls by Victor Rentea",
       "duration_s": 2465,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "An entertaining tour of the most common mistakes in designing a REST API: Domain Leakage, Sensitive Data Exposure, Performance issues, CQRS, PUT overload, and breaking changes. Collected with love from over 150 companies.",
+      "published_at": "2025-04-22T15:39:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "ayZbbioDd5U": {
       "video_id": "ayZbbioDd5U",
       "title": "Devoxx Greece 2025 - Drones, RemoteID and the Thrilling Future of UAS Flight by Heather Downing",
       "duration_s": 2326,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Prepare for an electrifying journey through the world of flying computers! Explore how RemoteID technology is reshaping the skies by providing real-time identification and tracking of drones in flight. Join Heather as she sheds light on the current applications and challenges within the drone industry, focusing on safety, security, and regulatory compliance. Whether you're a tech enthusiast, aviation aficionado, or simply curious about the exciting future, this presentation guarantees to ignite your imagination within the realm of drones and the boundless potential of UAV flight. Embark on this exhilarating adventure into the skies of tomorrow, starting right here.",
+      "published_at": "2025-04-22T15:39:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "b2EnKGFSGc8": {
       "video_id": "b2EnKGFSGc8",
@@ -6271,10 +6503,14 @@
       "video_id": "br2Mo2JS-xA",
       "title": "Devoxx Greece 2025 : How Simple Should Your LLM Integration Be? by Efstratios Marinos",
       "duration_s": 2411,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "In the race to build AI-powered applications, we often overlook the power of simplicity. Through working examples, we'll explore how effective LLM integrations can be built using basic, composable patterns rather than complex frameworks. We'll demonstrate real-world implementations using minimal dependencies, showing how to create reliable systems while avoiding common pitfalls.\n\nWhat you'll learn? When to use different patterns (workflows vs. agents), how to design clean interfaces, and most importantly, when to keep it simple versus when to add complexity. By the end, you'll have a clear understanding of how to build LLM-powered systems that are maintainable, scalable, and actually work in production.",
+      "published_at": "2025-04-22T15:37:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "c44zXSY58Ts": {
       "video_id": "c44zXSY58Ts",
@@ -6423,10 +6659,14 @@
       "video_id": "cjmiHdH9zGA",
       "title": "Devoxx Greece 2025 : Orchestration vs. Choreography: The good, the bad, and the trade-offs",
       "duration_s": 2496,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speaker : Laila Bougria\n\nOne of the goals of building microservice-based architectures is to reduce the complexity of individual components. In doing so, much of that complexity shifts from individual services towards interservice communication, making how we design those service interactions essential in our system design. That's where orchestration and choreography come in, two coordination techniques that can help us design complex workflows in our system. While the web offers numerous articles that carefully outline the pros and cons of each pattern, the real challenge is left to the reader: deciphering which pattern best fits your specific use case by understanding which arguments apply to your use case and weighing only the relevant ones in your decision.\n\nIn this session, we’ll thoroughly examine each pattern with practical examples from the banking business, based on almost five years of experience in this domain. By thoroughly understanding the tradeoffs of each approach and understanding the right questions to ask, we can build a mental framework that helps us make well-balanced decisions about which pattern to use. Join me in this session, where we’ll transform the abstract concepts of orchestration and choreography into a tangible decision-making framework that steers you in the right direction!",
+      "published_at": "2025-04-22T15:37:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "ckahekUE8F8": {
       "video_id": "ckahekUE8F8",
@@ -6614,19 +6854,27 @@
       "video_id": "dt9YWaHM1Ns",
       "title": "Devoxx Greece 2025 - Fun for Now ( opening keynote by Kevlin Henney )",
       "duration_s": 2764,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Software development can't all be fun and games, but how much fun do we not have by assuming that fun is something that happens in the future, after we've finished a task, a sprint, a major release...? How much joy is absent from out future work by the decisions we take today? How much is already absent from decisions made by others? It is a cliché that the journey matters more than the destination, but the deeper truth is that the journey is the destination. Software is never truly done, one release is followed by work on the next, and so on. How do we enjoy what we do and what we have on a daily basis?\n\nThis keynote will take a look at our passions, our frustrations, our myths, our realities and our relationship with our tech and our practices with a view to creating a more enjoyable here and now.",
+      "published_at": "2025-04-22T15:39:17Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "dwERF-hvPpk": {
       "video_id": "dwERF-hvPpk",
       "title": "Devoxx Greece 2025 -A Developer's Tale: Migrating an Angular app from version 10 to 19 Loic Magnette",
       "duration_s": 2059,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Embark on a real-world journey of transitioning the Devoxx CFP application from Angular 10 to Angular 18. This talk offers a deep dive into the practical challenges and solutions encountered during this significant upgrade process.\n\nThe session begins by highlighting the compelling reasons for migration, including Angular 18's advanced features and performance benefits. It then moves into the heart of the upgrade, sharing first-hand experiences from updating the Devoxx CFP app. Attendees will learn about navigating through breaking changes, adapting to new libraries, and tackling compatibility issues - all illustrated with real scenarios from the Devoxx CFP app upgrade.\n\nCrucial aspects such as handling deprecated APIs, managing library dependencies, and employing new Angular 18 capabilities will be covered. The talk aims to provide a clear roadmap for similar migrations, outlining the traps and hiccups that might arise and how to skillfully overcome them.\n\nPractical tips and strategies will be a cornerstone of this presentation, giving developers the tools to efficiently migrate their applications to the latest Angular version. This session is not just theory; it's a collection of valuable lessons and best practices drawn from a real-world application upgrade.",
+      "published_at": "2025-04-22T15:39:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "dwcNiEEuV_Y": {
       "video_id": "dwcNiEEuV_Y",
@@ -6749,10 +6997,14 @@
       "video_id": "elCwcpxa0xY",
       "title": "[VDBUH2025] Jonathan Vila - Code Quality in the AI era, needed more than ever",
       "duration_s": 2763,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "As developers, we participate every day in our software life cycle adding new logic, adapting the existing one, and integrating with services or platforms.\n\nBut, do we put the same effort into making software robust, maintainable, consistent, secure, clear, and tested?\n\nMoreover, when developers add code generated by an AI code generator, can we rely on that code? Which is the best way of using GenAI?\n\nIn this session, I will show the need for good practices in Clean Code along with the issues of not using it, showing concepts like Clean As You Code (CAYC) using free and open-source tools.\n\nClean Code goes beyond the software produced and its programming language. It is a fundamental part of a developer’s role growth, something that represents us no matter the language and the company where we work. Do not lose the thread.",
+      "published_at": "2025-04-17T05:04:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "emJ5Fyboy-4": {
       "video_id": "emJ5Fyboy-4",
@@ -6849,10 +7101,14 @@
       "video_id": "fLS2GUUODiM",
       "title": "Devoxx Greece 2025 - Component Ownership and Inner source in Feature teams by Thanassis Bantios",
       "duration_s": 1079,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Feature teams are great, as they eliminate dependencies and make development cycles faster. Many companies apply feature teams with great success, but have difficulties in dealing with component ownership. In this talk, the topic of component ownership and inner sourcing as applied to feature teams will be introduced, covering from theory to best practices and hard lessons derived from trial-and-error.",
+      "published_at": "2025-04-22T15:37:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "f_5b_qanhzg": {
       "video_id": "f_5b_qanhzg",
@@ -7066,10 +7322,14 @@
       "video_id": "h3Wd_9aaAgY",
       "title": "Devoxx Greece 2025 - Beyond code assist: Driving impact as a next-gen developer by Mark Techson",
       "duration_s": 2126,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "The mention of artificial intelligence or AI brings a rush of emotions. There's fear and worry, yet there's also excitement. Regardless of where we fall on the spectrum, the truth still remains that we as developers will have to evolve to meet the challenges of software systems of the future.\n\nIn this journey together, you'll understand just how important you are to software, but beyond that, be ready to meet the needs of the future of software development.",
+      "published_at": "2025-04-22T15:39:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "hAdOywL5aN0": {
       "video_id": "hAdOywL5aN0",
@@ -7101,10 +7361,14 @@
       "video_id": "hVEr-H2qHdY",
       "title": "Devoxx Greece 2025 - Lord of Vulnerabilities: Fellowship of Secure Software Development",
       "duration_s": 1877,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speaker : Petros Theocharis\n\nJoin us on an epic journey through Middle-earth as we uncover the secrets of integrating Application Security into the software development lifecycle. Just as the Fellowship united to destroy the One Ring, development teams must come together to defend their applications from the dark forces of vulnerabilities.\n\nThis session will explore how teams can build secure software using open source frameworks, implement open-source security tools for static scans, and embrace DevSecOps practices without disrupting development. With engaging Lord of the Rings-themed analogies and real-world security strategies you'll gain valuable insights into making security a seamless part of your development workflow.\n\nOne team to secure them all—are you ready to join the Fellowship of Secure Software Development?",
+      "published_at": "2025-04-22T15:39:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "hVd8iUnLp8A": {
       "video_id": "hVd8iUnLp8A",
@@ -7214,10 +7478,14 @@
       "video_id": "iReUDFHQK4g",
       "title": "Devoxx Greece 2025 - Breaking conversational barriers through multi-modal distributed AI agents",
       "duration_s": 2097,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speaker : Tiffany Jernigan\n\nGenAI is no longer a new buzzword and we currently stand at the convergence of speech, vision and intelligence. The boundaries of human interactions with machines are blurring into a more seamless, interactive ecosystem. This talk will present an approach to building distributed, multi-modal AI agents at scale.\n\nOur live demonstration will showcase:\n- Voice capture: The Automatic Speech Recognition (ASR) service will transcribe the voice input into a precise text prompt\n- Visual Generation: The text prompt will generate a contextually rich image\n- Text Generation: The generated image will be analyzed, producing an ALT text description\n\nWe’ll explore how these agents can be run at scale, using a globally distributed system. We’ll share the thought process behind making these architectural decisions and what it can take to go from prototype to production in this space. We’ve also instrumented the entire system with distributed tracing to provide visibility into each stage of the pipeline.\n\nWhether you’re curious about building AI agents or want to take your GenAI projects to production, this talk will show you what that journey can look like—end to end.",
+      "published_at": "2025-04-22T15:39:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "iU0ytnOo6Qw": {
       "video_id": "iU0ytnOo6Qw",
@@ -7273,7 +7541,7 @@
     },
     "j9dhCtfjLVk": {
       "video_id": "j9dhCtfjLVk",
-      "title": "Devoxx Belgium 2026 Tickets – 2nd Batch Drops August 31!",
+      "title": "Devoxx Belgium 2026 Tickets – 2nd Batch available",
       "duration_s": 204,
       "channel": "Devoxx",
       "label": "Devoxx",
@@ -7301,10 +7569,14 @@
       "video_id": "jBsrZxeGvcc",
       "title": "Devoxx Greece 2025 - The 4 keys of indistractable focus by Michela Bertaina",
       "duration_s": 2729,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Become immune to overwhelm and develop powerful focus. Discover how to rise above distractions, own your time, and regain your peak focus and performance, no matter what’s going on inside you or around you.\nYou’ll emerge from this talk with a clear roadmap for regaining your focus and productivity and eliminating unwanted distractions. The impact this makes on every dimension of your personal and professional life will be immense.\nBecome immune to overwhelm and develop powerful focus. Discover how to rise above distractions, own your time, and regain your peak focus and performance, no matter what’s going on inside you or around you.",
+      "published_at": "2025-04-22T15:37:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "jCLtfvO_h_E": {
       "video_id": "jCLtfvO_h_E",
@@ -7440,10 +7712,14 @@
       "video_id": "jwcSlied7xw",
       "title": "Devoxx Greece 2025 - Benchmarketing fallacies: the 100 shades of truth by Georgios Andrianakis",
       "duration_s": 2818,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Wouldn’t it be nice if while searching on the Internet for the latest performance results of our beloved frameworks, we could trust whatever is written and call it a day?\n\nIn this session we’ll examine a few different poorly written benchmarks, dissecting and dismantling them down to the last bit, while also demonstrating a psychological trick that is used to distract the user's focus from what’s actually important.\nWe will show you how to uncover the lies, damn lies behind articles and benchmark results, with skeptical pragmatism and methodologies borrowed from the performance engineering field and philosophy..\n\nYou should come away from this session with a better understanding of the tools to reveal the weak points of a benchmark or, conversely, to convince users of some new benchmarking lie 👿",
+      "published_at": "2025-04-22T15:37:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "jygFpQ9hao4": {
       "video_id": "jygFpQ9hao4",
@@ -7462,10 +7738,14 @@
       "video_id": "k2mo_djN3qw",
       "title": "Devoxx Greece 2025 - Optimized Kubernetes scaling with Karpenter by Alex König",
       "duration_s": 2368,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Scaling the Kubernetes data-plane without overprovisioning resources and compromising availability can be hard. This session dives into how Karpenter can help you to scale fast, while staying cost-efficient and honoring availability requirements. Learn how you can combine Karpenter with native Kubernetes features and tools like KEDA to scale just like your applications need it. Explore how you can integrate Karpenter into your clusters and migrate to it from the Cluster Autoscaler.",
+      "published_at": "2025-04-22T15:37:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "k3o1nSh3g2Q": {
       "video_id": "k3o1nSh3g2Q",
@@ -7601,10 +7881,14 @@
       "video_id": "l1qGVxEf0NA",
       "title": "Devoxx Greece 2025 - An Autonomous Mom: Revolutionizing Wind Farm Management with AI, Sensor...",
       "duration_s": 1468,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Full Title : An Autonomous Mom: Revolutionizing Wind Farm Management with AI, Sensor Data and Connectivity.\n\nSpeaker Vassilis Vassilatos\n\nIn this insightful presentation, MindWave will delve into the cutting-edge integration of IoT and AI reasoning to create autonomous systems for wind farm management. Drawing from personal anecdotes and industry expertise, MindWave will explore how advanced technologies can optimize energy consumption in wind farms.\nThe session will begin with a relatable introduction, highlighting the universal challenge of energy efficiency. The presentation will then transition to a detailed explanation of the innovative architecture behind an autonomous wind farm management system. This includes the integration of AI for logical reasoning and decision-making, sensor technology for real-time data collection, and robust connectivity solutions.\nKey topics covered will include:\nThe design and implementation of an autonomous system for managing wind turbines.\nSimple Practical demonstrations of code for backend services and AI interaction.\nThe future of data-driven industries and the transition to autonomous systems.\nSoftware engineers and tech enthusiasts will gain valuable insights into the latest advancements in IoT and AI, as well as practical tips for implementing these technologies in real-world applications.\nTarget Audience: Software engineers, AI enthusiasts, and anyone interested in the future of autonomous systems.\nKey Takeaways:\nUnderstanding the integration of IoT and AI in autonomous systems.\nA glimpse into the future of data-driven industries and autonomous technologies.",
+      "published_at": "2025-04-22T15:37:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "l3xcqAAtedE": {
       "video_id": "l3xcqAAtedE",
@@ -7649,10 +7933,14 @@
       "video_id": "lJTQdo-2k6Y",
       "title": "Devoxx Greece 2025 - Novibet - From Local to Global b Alkiviadis Skoutaris and Giannis Gerogiannis",
       "duration_s": 837,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "As our customer base expanded worldwide, our single-data-center setup couldn’t keep up.\n\nIn this talk, we’ll explore how we scaled our platform to handle global demand by:\nDeploying multi-region data centers for lower latency.\nUsing regional caching to speed up content delivery.\nOptimizing system performance to handle massive traffic efficiently.\n\nThrough real-world insights, we’ll share key lessons on building a scalable, resilient, and high-performance platform for a global audience.",
+      "published_at": "2025-04-22T15:37:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "lNlumkg1rk8": {
       "video_id": "lNlumkg1rk8",
@@ -7775,10 +8063,14 @@
       "video_id": "m7Ys7mskCp0",
       "title": "Devoxx Greece 2025 - Well-Architected Kubernetes by Julio Faerman",
       "duration_s": 2328,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "\"Well-architected\" is a modern approach to improve our systems to handle more work, become less likely to break, and be managed more easily. It was originally proposed by AWS, and currently available in Azure and other technology providers. We'll go over the framework and how to evaluate a system's architecture and ways to make it better. For many real-world use cases, part of the answer is adopting Kubernetes and related open-source projects.\nKubernetes helps manage how applications run across many computers, but it needs to be set up right to work well. We'll share tips on how to do this, focusing on making it secure, efficient, and easy to use.\nWe'll use open-source projects as a reference implementation of all the design principles and best practices. By looking at how Red Hat OpenShift is built, we can see practical examples of good architecture in action. This will help anyone looking to improve their own systems with Kubernetes. Join us to learn, share, and apply these principles to your own Kubernetes projects.",
+      "published_at": "2025-04-22T15:39:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "mAXNKkejl38": {
       "video_id": "mAXNKkejl38",
@@ -7940,10 +8232,14 @@
       "video_id": "n6aH5Ft2dtQ",
       "title": "Devoxx Greece 2025 - Discover Allyship - building a world where everyone feels safe and valued",
       "duration_s": 610,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speaker : Evi Triantopoulou\n\nDo you believe in creating inclusive environments? Wondering how to contribute as a leader and colleague? Discover Allyship – taking action for a world where everyone feels safe, valued, and empowered. Together, let's make a difference!\nJoin our interactive session on becoming a better ally, using your voice to uplift others. Led by Evi Triadopoulou, Community and Program Manager at WE LEAD, a non-profit bridging the gender gap in tech, this session will deepen your understanding of allyship and equip you with actionable tips in the workplace and beyond.",
+      "published_at": "2025-04-22T15:39:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "n9IcRKkCltc": {
       "video_id": "n9IcRKkCltc",
@@ -8040,10 +8336,14 @@
       "video_id": "nlMJkNiuPSc",
       "title": "Devoxx Greece 2025 - Data Modeling for Software Engineers by Scott Sosna",
       "duration_s": 2416,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Really, data modeling? Is that even a thing any more?\n\nThe days of formal data modeling are definitely years in the rearview mirror, empowered teams define their data as they see fit, implement, and move on. Done. And we'll deal with short-comings down the road when they arise, that's Agile, let's keep moving forward (to data architects' frustration when trying to make sense of it all after the fact).\n\nBut \"modeling data\" extends beyond what is persisted in a database server: API Payloads, messages, configuration files, document metadata, Redis indexes are forms of data we define and work with regularly.\n\nIf I've got your attention, join me to discuss data modeling, this time from a software engineering perspective!",
+      "published_at": "2025-04-22T15:39:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "nruQ2MTYF6s": {
       "video_id": "nruQ2MTYF6s",
@@ -8127,10 +8427,14 @@
       "video_id": "o7-JWY0uLmc",
       "title": "Devoxx Greece 2025 - Effectful Programming in the Flix Programming Language by Magnus Madsen",
       "duration_s": 2951,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "I will give a broadly accessible introduction to effectful programming in the Flix Programming Language.\n\nFlix (www.flix.dev) is a principled functional, imperative, and logic programming language that runs on the JVM.\n\nThe unique feature of Flix is its state-of-the-art type and effect system. Most programmers are familiar with type systems, but less are familiar with effect systems which is a new and upcoming technique that will impact the space of programming language design over the next decade.\n\nWhere a type system describes the values of a program, an effect system tracks the actions that a program can take. For example, an effect could be reading a file from the file system or accessing the network. Tracking effects better program reasoning, enforce modularity, and is also the enable for a new programming abstraction: effects and handlers which allow programmers to define their own control structures (e.g. async/await, exceptions, etc.)\n\nWhile the talk will concern Flix, an explicit goal is also to provide a generally understandable introduction to effect systems and how to program with them.",
+      "published_at": "2025-04-22T15:37:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "o8bpwi-9JVA": {
       "video_id": "o8bpwi-9JVA",
@@ -8149,10 +8453,14 @@
       "video_id": "oB8cZMEQVQ4",
       "title": "Devoxx Greece 2025 - Scaling up Product & Engineering Ops at Yodeck by Vassilis Manolas",
       "duration_s": 2638,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Leading the Digital Signage industry for SMBs, Yodeck has been continuously growing and evolving for the past 10+ years. Going from a single-team start-up to a multi-team scale-up has been an exciting journey.\nIn this presentation, I will share with you how we scaled our engineering teams, and how we organized product & engineering operations, in order to maintain the delivery efficiency of a start-up at larger scale, while remaining committed to the quality standards of our product.\nWe’ll also look at lessons learned during this journey, around agile team processes and bottlenecks we have tackled so far. Moreover, I will go through the evolution of our release cycle, how we currently achieve alignment across multiple teams, and how we measure efficiency (we will discuss about team metrics and how we use them to our benefit).\nIf you are experiencing growth in your organization, or you're involved in product and engineering operations, this presentation will be relevant to your professional environment. Also, if you are an agile enthusiast, it will be useful for you to gain insights into how we have applied the essence of agility in our work.",
+      "published_at": "2025-04-22T15:39:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "oG916NSfT7M": {
       "video_id": "oG916NSfT7M",
@@ -8171,10 +8479,14 @@
       "video_id": "oKNIHKdX260",
       "title": "Devoxx Greece 2025 - Nx for Gradle: Faster Builds, Improved DX by Katerina Skroumpelou",
       "duration_s": 889,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "The @nx/gradle plugin brings the power of Nx to Gradle — open source and designed to improve your development workflow. With Nx, you get dependency-aware task running, caching, and visualization tools like Nx Graph and Nx Console, making it easier to understand and manage your projects. This talk will show you how to integrate Nx into your Gradle projects, optimize builds without disrupting your existing workflow, and simplify complex dependency management. Whether you're working with a pure Gradle monorepo or a mixed tech stack, Nx provides the tools to help you work more efficiently.",
+      "published_at": "2025-04-22T15:37:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "oMs4qcmbgRs": {
       "video_id": "oMs4qcmbgRs",
@@ -8323,10 +8635,14 @@
       "video_id": "onondzXhaQA",
       "title": "Devoxx Greece 2025 - Investing for geeks by Georgios Andrianakis & Dimitris Kateros",
       "duration_s": 2539,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "As a profession, we are privileged to have a good chance of possessing disposable income at a young age. At the same time, a lot of us were brought up with a saving rather than an investing mindset.\nThis combination can lead to poor financial choices that are rooted in large measure, to lack of exposure to the world of investment.\nThe talk provides a gentle introduction to the world of index investing through ETFs, which have become quite approachable in recent years, while also being the most suggested investment vehicle for new investors.\nArmed with the exposure provided by this talk, we hope to kick-start your journey into making your money work for you instead of just serving the interest of your bank.",
+      "published_at": "2025-04-22T15:37:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "osnfw4yaDe4": {
       "video_id": "osnfw4yaDe4",
@@ -8930,10 +9246,14 @@
       "video_id": "sQ3xn3F6Q5c",
       "title": "Java Performance Update 2025: From JDK 21 to JDK 25 by Per Minborg",
       "duration_s": 3081,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "JDK 25 has just been released and is packed with performance improvements compared to JDK 21, allowing your unchanged application code to run even faster.In this talk, we will take a closer look at 13 concrete performance improvements made between JDK 21 and JDK 25 involving both the standard Java libraries, the JIT compiler, and the garbage collectors. Among these improvements is the newly introduced &quot;Stable Value&quot; preview feature, which allows a field to share the benefits of both mutable and immutable fields simultaneously. We will learn how this new feature works, how much performance can be improved, and how your code can take advantage of it already today.We will also explore some of the design considerations made, the importance of developer feedback, and how the JDK engineers evaluate performance in a world of conflicting optimization criteria and varying platform properties.",
+      "published_at": "2025-10-09T05:35:18Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "sYSyvuopq5A": {
       "video_id": "sYSyvuopq5A",
@@ -8978,10 +9298,14 @@
       "video_id": "svRcOscXmXU",
       "title": "[VDBUH2025] Ibrahim Gharbi & Yassine Benabbas - Kotlin for the JVM and beyond",
       "duration_s": 2438,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Kotlin is much more than just another JVM language; it is a complete ecosystem! From backend development to cross-platform front-end development, and even data science, it is everywhere. This is part of the DNA of Kotlin since its creation and grows exponentially.\n\nThis talk demonstrates how developers can easily become fullstack ones by adopting Kotlin. We will share three demos covering different stacks of development including experimental ones. We will achieve all of this by keeping a clean architecture and integrating libraries such as Ktor client/server and DataFrame.\n\nBy the end of this presentation, you will be delighted to realize how easy and pleasant it is to kick-start development of mobile, desktop, web, backend, data-science apps and make infra-as-code with Kotlin. Even more app stacks are already in your reach thanks to Kotlin!",
+      "published_at": "2025-04-17T05:04:08Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "sw-G9F4RJV4": {
       "video_id": "sw-G9F4RJV4",
@@ -9078,10 +9402,14 @@
       "video_id": "tAYsGCYC5Vg",
       "title": "Voxxed Days Thessaloniki 2024 - After movie",
       "duration_s": 163,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "See you all in 2025 - November 7-8",
+      "published_at": "2024-10-24T10:54:54Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "tEHzFedonNc": {
       "video_id": "tEHzFedonNc",
@@ -9100,10 +9428,14 @@
       "video_id": "tGBr-JYQTuA",
       "title": "[VDBUH2025] Ana-Maria Mihălceanu - From native code gems to Java treasures with jextract",
       "duration_s": 2532,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "When developing a Java application, there can be use cases when you need access to system-level APIs and libraries written in other programming languages ( C, OpenGL, Tensorflow, Rust, Python, etc.). Project Panama is designed to facilitate access to native libraries, particularly those developed in C/C++, from Java code.\n\nInteraction between the JVM and the “foreign” (non-Java) APIs has been made simpler with Foreign Function and Memory API (FFM API). The FFM API became a final feature in JDK 22, and it comes with a little gem – the jextract tool – that can automate obtaining access to native code. jextract parses header files (.h) of native libraries and generates Java code, named bindings that use the FFM API internally.\n\nThis talk will walk you through how easy it is to work with jextract and how to directly use its output as a Java model of the native libraries you are interested in.",
+      "published_at": "2025-04-17T05:04:08Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "tH8aqbHWgIM": {
       "video_id": "tH8aqbHWgIM",
@@ -9135,10 +9467,14 @@
       "video_id": "tU_8VhpYMT8",
       "title": "Devoxx Greece 2025 - Kotlin DSL in under an hour by Anton Arhipov",
       "duration_s": 2403,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Learn how to create type-safe and statically typed DSLs in Kotlin. In this session, you will learn about the language features that make DSL creation possible:\n- Top-level extension functions and properties\n- Trailing lambda expressions as function parameters\n- SAM type conversion\n- Functional literals with receiver\n- Infix functions\n- Standard library scope functions\n- Context parameters\nStep by step, using the features above, I will convert Java code based on the builder pattern into an internal Kotlin DSL. The talk highlights the specific cases for using the DSL approach in Kotlin and the tradeoffs for introducing this programming technique into the projects.",
+      "published_at": "2025-04-22T15:37:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "tWMZWTulDrM": {
       "video_id": "tWMZWTulDrM",
@@ -9235,10 +9571,14 @@
       "video_id": "u8HupvjvPTw",
       "title": "[VDBUH2025] Simone De Gijt - wAIred! Learn with(out) AI",
       "duration_s": 2499,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "In today’s world, artificial intelligence (AI) is transforming the way we learn. This talk will explore how we can use AI tools to enhance our learning experiences. We will try out some AI tools that can help with planning, practicing, researching etc.\n\nBut as we embrace these new technologies, we must also ask ourselves: Are we becoming less capable of thinking for ourselves? Do these tools make us smarter, or do they risk dulling our critical thinking skills? This talk will encourage us to think critically about the role of AI in our education. Together, we will discover how to use AI to support our learning journey while still developing our ability to think critically.",
+      "published_at": "2025-04-17T05:05:51Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "uBkPBLt03eE": {
       "video_id": "uBkPBLt03eE",
@@ -9647,28 +9987,40 @@
       "video_id": "x4C4YQKKWuM",
       "title": "Devoxx Greece 2025 - 82 Bugs I Collected in a Year You Won’t Believe Made It to Production",
       "duration_s": 2481,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speaker : François Martin\n\nThis past year, I made it my mission to collect every bug I found while using everyday apps and websites. From small glitches to major problems, I ended up with a list of 82 bugs that somehow made it to production. These real-world examples are more than just interesting—they’re also embarrassing mistakes that teach important lessons for making software more reliable and improving how we test it.\n\nIn this talk, I will explain the different types of bugs I found and what they reveal about common mistakes in software development. I will also point out areas that are often missed but are crucial for your product’s quality.\n\nBy looking at these bugs together, I’ll show you how to avoid them and improve your testing so these issues don’t reach your users. Whether you want to make your code more reliable or improve your testing, this talk will give you practical tips for your next project. Join me to learn from the embarrassing mistakes even popular apps couldn’t avoid—and take-home strategies to prevent them in your software!",
+      "published_at": "2025-04-22T15:37:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "xFb_LcapbXw": {
       "video_id": "xFb_LcapbXw",
       "title": "Java Performance Update 2024 by Per Minborg",
       "duration_s": 3176,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Java is constantly evolving in terms of performance, allowing unchanged application code to run faster and faster with each new Java release.In this talk we will take a closer look at five recent performance improvements made in the JDK involving both the standard Java libraries, the JIT compiler, and in garbage collectors. We will explore some of the design considerations made and how performance is evaluated by the JDK developers in a world of conflicting optimization criterion and varying platform properties,One of the five improvements under the microscope is the newly introduced “MergeStore” feature of the JIT-complier allowing several write operations to an array to be merged into one single bulk operation. We will learn how this feature works, how much performance can improve, and how your code can take advantage of it by avoiding common pitfalls that would otherwise disable the feature altogether.",
+      "published_at": "2024-10-11T05:08:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "xWY3C7xDn-U": {
       "video_id": "xWY3C7xDn-U",
       "title": "Devoxx Greece 2025 - Digitalization of Retail on Lottery industry by Serafeim Vlastos",
       "duration_s": 973,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Digitalization in the lottery industry expands the retail network by integrating online and physical sales channels (phygital experience). This hybrid approach enhances accessibility, reaching more players while optimizing retailer operations. AI-driven analytics optimize operations, ensuring smarter distribution and improved customer engagement.",
+      "published_at": "2025-04-22T15:39:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "xfhQby_L9-o": {
       "video_id": "xfhQby_L9-o",
@@ -9869,19 +10221,27 @@
       "video_id": "zLPAXIJ3PDE",
       "title": "Devoxx Greece 2025 -Building the Next Generation of Supercharged Web Applications Today Mark Techson",
       "duration_s": 2098,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Web development is on the cusp of a revolution and you need to be a part of it. Users are starting to expect applications to do things that previously required massive engineering efforts. You can harness the power of LLMs and other AI features to build applications that interact with your users in new ways.\n\nTired of web applications that feel static? In this action-packed session, Mark will show you how to use AI to transform your applications and reimagine the way you interact with users. Prepare to be inspired and empowered to reimagine the possibilities of your apps.",
+      "published_at": "2025-04-22T15:39:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "zLe73DVkg0M": {
       "video_id": "zLe73DVkg0M",
       "title": "Devoxx Greece 2025 - Next-Gen RAG: Advanced Techniques for Smarter AI Retrieval",
       "duration_s": 1396,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Speakers : Nikos Kousiadis & Michael Katsilieris\n\nRetrieval-Augmented Generation (RAG) has transformed how AI systems access and utilize knowledge, but basic implementations often fall short in real-world applications. In this talk, we’ll explore advanced RAG techniques that improve retrieval accuracy, context awareness, efficiency, and reasoning capabilities.",
+      "published_at": "2025-04-22T15:37:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "zSVYNwkzhyQ": {
       "video_id": "zSVYNwkzhyQ",
@@ -10004,10 +10364,14 @@
       "video_id": "zowTw-FufXg",
       "title": "Devoxx Greece 2025 - In Memory Computing - The Big Picture by Markus Kett",
       "duration_s": 3832,
-      "channel": null,
+      "channel": "Devoxx",
       "label": "Devoxx",
       "year": null,
-      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "Modern software systems must process tons of data and must provide low latency responsiveness to be able to compete. We've known for a long time that traditional databases cannot keep pace. In-memory computing is incredibly faster. Therefore, in-memory concepts have been added at every nook and cranny. However, is it enough just to use some in-memory computing? Why there are so many different in-memory solutions? Isn't it sufficient just using a cache? Are there pitfalls? When should I use a distributed cache? Is an in-memory database the better approach? What actually is an in-memory data grid? How does an in-memory database work? In this session, you learn the basics and get a better overview to make a decision that fits your project and team.",
+      "published_at": "2025-04-22T15:37:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:53+00:00"
     },
     "zxqrentybmA": {
       "video_id": "zxqrentybmA",

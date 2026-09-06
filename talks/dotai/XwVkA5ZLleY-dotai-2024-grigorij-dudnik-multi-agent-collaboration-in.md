@@ -8,14 +8,14 @@ category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Grigorij Dudnik"]
-channel: null
+channel: "dotconferences"
 duration_min: 9
-published_at: null
+published_at: 2024-10-23T08:29:55Z
 video_id: XwVkA5ZLleY
 url: https://www.youtube.com/watch?v=XwVkA5ZLleY
 youtube_url: https://www.youtube.com/watch?v=XwVkA5ZLleY
 tags: []
-topics: ["Agents & orchestration", "Coding assistants & agents"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 
@@ -29,4 +29,8 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Filmed at dotAI on October 17, 2024 in Paris. More about the conference on https://www.dotai.io
+
+Who is Grigorij Dudnik?
+
+Grigorij is an AI developer working with AI agents. Author of Clean Coder - a multi-agent framework for autonomous code writing, which is completely open-source. He used Clean Coder to write most of the code in his startup takzyli.pl, where Grigorij is CTO and co-founder.

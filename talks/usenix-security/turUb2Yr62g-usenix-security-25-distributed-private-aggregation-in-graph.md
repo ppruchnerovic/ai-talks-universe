@@ -5,7 +5,7 @@ slug: usenix-security-25-distributed-private-aggregation-in-graph
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
 category: "Security conferences"
-edition: "USENIX"
+edition: "USENIX Security"
 year: 2025
 speakers: []
 channel: "USENIX"
@@ -23,7 +23,7 @@ transcript: false
 
 **Speaker not identified**
 
-`USENIX Security Symposium` · `USENIX` · `2025` · `14 min`
+`USENIX Security Symposium` · `USENIX Security` · `2025` · `14 min`
 
 `#usenix` `#technology` `#conference` `#open access`
 

@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Somesh Jha"]
 channel: "Nicolas Papernot"
 duration_min: 48
-published_at: null
+published_at: 2024-04-09T16:30:40Z
 video_id: Y07_Imi7o20
 url: https://www.youtube.com/watch?v=Y07_Imi7o20
 youtube_url: https://www.youtube.com/watch?v=Y07_Imi7o20

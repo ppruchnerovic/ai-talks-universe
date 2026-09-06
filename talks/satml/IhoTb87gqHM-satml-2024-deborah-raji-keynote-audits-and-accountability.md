@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Deborah Raji"]
 channel: "Nicolas Papernot"
 duration_min: 61
-published_at: null
+published_at: 2024-04-10T15:46:13Z
 video_id: IhoTb87gqHM
 url: https://www.youtube.com/watch?v=IhoTb87gqHM
 youtube_url: https://www.youtube.com/watch?v=IhoTb87gqHM

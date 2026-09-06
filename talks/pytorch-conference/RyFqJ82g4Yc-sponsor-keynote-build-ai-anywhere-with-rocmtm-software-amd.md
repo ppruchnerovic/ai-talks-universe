@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Anush Elangovan"]
 channel: "PyTorch"
 duration_min: 5
-published_at: null
+published_at: 2025-11-04T03:45:45Z
 video_id: RyFqJ82g4Yc
 url: https://www.youtube.com/watch?v=RyFqJ82g4Yc
 youtube_url: https://www.youtube.com/watch?v=RyFqJ82g4Yc
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Sponsor Keynote: Build AI Anywhere with ROCm™ Software: AMD and PyTorch Bring Cloud-to-Client Power to Developers - Anush Elangovan, Corp. Vice President of AI Software, AMD
+
+In this keynote, Anush Elangovan - Corporate VP of AI Software at AMD will share how the ROCm™ open software ecosystem, deeply integrated with PyTorch, empowers developers to accelerate modern AI workloads everywhere, across cloud, edge and client endpoints. With Day-0 support for leading frameworks and frontier models, sweeping performance gains in the latest ROCm releases, and expanded support for Windows, AMD is enabling developers to train, fine-tune, and deploy models without barriers. Join the session to learn how AMD and PyTorch are working together to give developers a unified, high-performance foundation to build AI anywhere.

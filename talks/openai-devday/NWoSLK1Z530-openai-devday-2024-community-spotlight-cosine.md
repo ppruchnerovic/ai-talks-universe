@@ -7,21 +7,21 @@ conference_name: "OpenAI DevDay"
 category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
-speakers: []
+speakers: ["Alistair Pullen"]
 channel: "OpenAI"
 duration_min: 15
-published_at: null
+published_at: 2024-12-17T17:00:31Z
 video_id: NWoSLK1Z530
 url: https://www.youtube.com/watch?v=NWoSLK1Z530
 youtube_url: https://www.youtube.com/watch?v=NWoSLK1Z530
 tags: []
-topics: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 
 # OpenAI DevDay 2024 | Community Spotlight | Cosine
 
-**Speaker not identified**
+**Alistair Pullen**
 
 `OpenAI DevDay` · `DevDay 2024` · `2024` · `15 min`
 
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Fine-Tuning a SOTA AI Developer: Fine-tuning a SOTA AI developer powered by GPT-4o with insights into the model training process, data quality, and evals.
+
+Presenter: Alistair Pullen, CEO and Co-Founder, Cosine

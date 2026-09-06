@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
-channel: null
+channel: "CAMLIS"
 duration_min: 37
-published_at: null
+published_at: 2022-11-30T03:29:01Z
 video_id: U791dysQQPY
 url: https://www.youtube.com/watch?v=U791dysQQPY
 youtube_url: https://www.youtube.com/watch?v=U791dysQQPY
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+CAMLIS 2022, Mikel D. Rodriguez, Innovation Center Director, Artificial Intelligence and Autonomy, MITRE

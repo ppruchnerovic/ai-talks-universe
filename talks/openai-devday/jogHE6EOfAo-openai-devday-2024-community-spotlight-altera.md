@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 11
-published_at: null
+published_at: 2024-12-17T17:00:47Z
 video_id: jogHE6EOfAo
 url: https://www.youtube.com/watch?v=jogHE6EOfAo
 youtube_url: https://www.youtube.com/watch?v=jogHE6EOfAo
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+An AI civilization of 1,000 agents: Humans are the only species to land on the moon because we can cooperate at a vast scale. We study whether AI Agents can collaborate at scale as well when powered by our research and the latest foundation models.

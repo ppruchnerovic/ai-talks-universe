@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Jim Fan"]
 channel: "PyTorch"
 duration_min: 19
-published_at: null
+published_at: 2025-11-04T03:45:45Z
 video_id: lHq4Tl5lhjA
 url: https://www.youtube.com/watch?v=lHq4Tl5lhjA
 youtube_url: https://www.youtube.com/watch?v=lHq4Tl5lhjA
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Keynote: The Physical Turing Test: Solving General Purpose Robotics - Jim Fan, Director of Robotics & Distinguished Research Scientist, NVIDIA
+
+The age of generalist AI agents for the physical world is here. Join Jim Fan, Distinguished Scientist and Director of NVIDIA GEAR Research Lab, as he outlines the major challenges facing the “robot revolution” and how the community is overcoming them with techniques in simulation, synthetic data and accelerated computing.

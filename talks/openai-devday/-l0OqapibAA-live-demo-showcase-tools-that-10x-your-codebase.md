@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 30
-published_at: null
+published_at: 2025-10-08T17:00:51Z
 video_id: -l0OqapibAA
 url: https://www.youtube.com/watch?v=-l0OqapibAA
 youtube_url: https://www.youtube.com/watch?v=-l0OqapibAA
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+The best dev teams scale impact, not headcount. In this session, founders from Charlie Labs, Warp, CodeRabbit, and Jam will demo tools that speed up shipping, streamline code reviews, and keep your codebase clean—turning small teams into force multipliers.

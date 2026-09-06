@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Daniel Han"]
 channel: "PyTorch"
 duration_min: 18
-published_at: null
+published_at: 2025-11-04T03:43:36Z
 video_id: 5ar9zi6VumI
 url: https://www.youtube.com/watch?v=5ar9zi6VumI
 youtube_url: https://www.youtube.com/watch?v=5ar9zi6VumI
@@ -29,4 +29,10 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Maximizing Luck in Reinforcement Learning - Daniel Han, Unsloth
+
+How do we maximize "luck" in reinforcement learning? Will RL finally take us to AGI and super-intelligence? What is RLVR, PPO, GRPO, Dr. GRPO, GAPO, DAPO? What are good and bad reward functions? How do we design them?
+
+How do we make RL training go fast and be memory efficient? How can quantization & infra optimizations help in speeding up RL? Will open source + RL win over closed source models?
+
+Come join me in this session to hear the answers to these questions, and more.

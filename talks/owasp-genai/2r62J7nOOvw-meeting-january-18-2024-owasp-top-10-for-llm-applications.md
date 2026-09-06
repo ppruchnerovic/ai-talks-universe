@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 28
-published_at: null
+published_at: 2024-01-22T20:35:39Z
 video_id: 2r62J7nOOvw
 url: https://www.youtube.com/watch?v=2r62J7nOOvw
 youtube_url: https://www.youtube.com/watch?v=2r62J7nOOvw
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Talked about the reception of our first three translations, the forthcoming Security & Governance Checklist and the impending 2.0 release announcement.

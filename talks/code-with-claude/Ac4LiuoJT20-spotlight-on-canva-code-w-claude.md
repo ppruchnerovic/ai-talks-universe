@@ -7,10 +7,10 @@ conference_name: "Code with Claude (Anthropic)"
 category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
-speakers: []
+speakers: ["Danny Wu"]
 channel: "Anthropic"
 duration_min: 23
-published_at: null
+published_at: 2025-07-31T18:18:53Z
 video_id: Ac4LiuoJT20
 url: https://www.youtube.com/watch?v=Ac4LiuoJT20
 youtube_url: https://www.youtube.com/watch?v=Ac4LiuoJT20
@@ -21,7 +21,7 @@ transcript: false
 
 # Spotlight on Canva | Code w/ Claude
 
-**Speaker not identified**
+**Danny Wu**
 
 `Code with Claude (Anthropic)` · `2025` · `2025` · `23 min`
 
@@ -29,4 +29,7 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.
+
+Speakers:
+Danny Wu, Head of AI Products at @canva

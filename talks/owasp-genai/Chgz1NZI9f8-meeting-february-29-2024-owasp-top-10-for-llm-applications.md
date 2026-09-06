@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 57
-published_at: null
+published_at: 2024-03-01T14:52:09Z
 video_id: Chgz1NZI9f8
 url: https://www.youtube.com/watch?v=Chgz1NZI9f8
 youtube_url: https://www.youtube.com/watch?v=Chgz1NZI9f8
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+We talked about the 2.0 Kickoff and introduced the concept for budget and sponsorship.

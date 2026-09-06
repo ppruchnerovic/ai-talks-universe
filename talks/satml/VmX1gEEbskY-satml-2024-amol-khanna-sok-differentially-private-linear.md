@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Amol Khanna"]
 channel: "Nicolas Papernot"
 duration_min: 14
-published_at: null
+published_at: 2024-04-09T17:19:04Z
 video_id: VmX1gEEbskY
 url: https://www.youtube.com/watch?v=VmX1gEEbskY
 youtube_url: https://www.youtube.com/watch?v=VmX1gEEbskY

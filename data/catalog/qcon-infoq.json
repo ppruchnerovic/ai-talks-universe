@@ -1,7 +1,7 @@
 {
   "slug": "qcon-infoq",
   "name": "QCon / InfoQ Dev Summit",
-  "enumerated_at": "2026-08-30T21:45:46+00:00",
+  "enumerated_at": "2026-09-06T13:18:58+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@infoq/videos",
@@ -13,11 +13,11 @@
       "url": "https://www.infoq.com/presentations/",
       "label": "InfoQ presentations",
       "year": null,
-      "count": 222,
+      "count": 225,
       "type": "infoq"
     }
   ],
-  "count": 723,
+  "count": 728,
   "videos": {
     "-1_KvpNDC6k": {
       "video_id": "-1_KvpNDC6k",
@@ -361,6 +361,34 @@
       "published_at": "2024-10-03T14:16:25Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:31+00:00"
+    },
+    "1ESR8MtukOU": {
+      "video_id": "1ESR8MtukOU",
+      "title": "4x Faster Interpreters? The Meta-Tracing Secret EXPOSED",
+      "duration_s": 2564,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "Slow scripting languages like Python and Lua often force teams into costly, risky rewrites. Laurence Tratt demonstrates yk - a meta-tracing technology that automatically adds a Just-In-Time (JIT) compiler to existing C-based interpreters, delivering up to 4x performance gains with under 500 lines of code changes.\n\nLearn how automated JIT generation bypasses traditional VM complexities, preserves full language compatibility, and prevents language-version drift for senior developers, architects, and engineering leaders.\n\n⏱️ Video Timestamps (For Navigation)\n00:00 - Demo: Benchmarking 4x Speedups in Standard Lua\n01:25 - The Problem: Why Alternative JITs (PyPy, Truffle) Die Out\n03:08 - The Source of Truth: Why We Must Target C Interpreters\n04:11 - How Meta-Tracing Works Under the Hood\n06:12 - Compiling Interpreters with ykllvm & IR Serialization\n07:53 - Live Code Walkthrough: Optimizing with yk_promote Hints\n10:43 - Deoptimization, Safepoints, and Shadow Stacks Explained\n12:47 - The Dark Side of Tracing: Path Divergence & \"Bad Traces\"\n14:10 - Future Roadmap: MicroPython, CPython, and Escape Analysis\n15:15 - Q&A: HotSpot Comparison & Updating Legacy Interpreter Forks\n\n🔗 Transcript available on InfoQ:  https://bit.ly/3Uuvp2I   \n  \n#SoftwareEngineering #ProgrammingLanguages #Compiler #JIT #InfoQ",
+      "published_at": "2026-09-02T12:27:31Z",
+      "tags": [
+        "Java",
+        "JIT Compilers",
+        "JIT",
+        "Compilers",
+        "QCon London",
+        "Transcript",
+        "LLVM",
+        "Python",
+        "Virtual Machines",
+        "Dynamic Languages",
+        "Runtimes",
+        "Performance",
+        "Lua",
+        "Programming Languages"
+      ],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "1PYXK5bQOYM": {
       "video_id": "1PYXK5bQOYM",
@@ -5327,6 +5355,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:32+00:00"
     },
+    "Zt6lRzy8ZQs": {
+      "video_id": "Zt6lRzy8ZQs",
+      "title": "Personality Over Skillset: How Adam Wachtel Builds Engineering Teams",
+      "duration_s": 1194,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "This is the Engineering Culture Podcast, from the people behind InfoQ.com and the QCon conferences. In this podcast, Shane Hastie, Lead Editor for Culture & Methods, spoke to Adam Wachtel, CTO at Click Boarding, about hiring for personality and problem-solving over pure skillset, turning around a platform and team in crisis, and how AI is reshaping team size and composition without ending SAAS.\n\nRead a transcript of this interview: https://bit.ly/4qDkrDU\n\n\nNewsletter:\nSubscribe to the Software Architects' Newsletter, a monthly roundup of the patterns and technologies senior practitioners are working through, with the news and lessons from people doing the work:\nhttps://www.infoq.com/software-architects-newsletter\n\n\nInfoQ Online Certification Programs:\n5-week online cohorts for senior engineers and architects, built around QCon talks. Programs now cover software architecture, AI engineering, and organizational architecture. Each week you join a four-hour live session with a confidential peer group of practitioners from other companies, apply frameworks from QCon talks to the decisions you're making at work, and earn an InfoQ certification. You leave with new approaches, or confirmation that the calls you're already making are the right ones. Learn more:\nhttps://certification.qconferences.com/\n\n\nUpcoming Events:\nQCon San Francisco 2026 (November 16-20, 2026)\nhttps://qconsf.com/\n\n\nQCon London 2027 (April 13-16, 2027)\nhttps://qconlondon.com/\n\n\nThe InfoQ Podcasts:\nWeekly conversations with senior software leaders about how they build systems and teams, including what they'd do differently. Listen to all our podcasts and read interview transcripts:\nThe InfoQ Podcast: https://www.infoq.com/podcasts/\nEngineering Culture Podcast by InfoQ: https://www.infoq.com/podcasts/#engineering_culture\nGenerally AI: https://www.infoq.com/generally-ai-podcast/\n\n\nFollow InfoQ:\nMastodon: https://techhub.social/@infoq\nX: https://x.com/InfoQ\nLinkedIn: https://www.linkedin.com/company/infoq/\nFacebook: https://www.facebook.com/InfoQdotcom\nInstagram: https://www.instagram.com/infoqdotcom/\nYouTube: https://www.youtube.com/infoq\nBluesky: https://bsky.app/profile/infoq.com\n\nWrite for InfoQ:\nShare what you've learned building software with a community of senior practitioners, and get your work in front of the people who read InfoQ.\nhttps://www.infoq.com/w",
+      "published_at": "2026-09-04T08:10:57Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
+    },
     "ZtKoNkZk2Bo": {
       "video_id": "ZtKoNkZk2Bo",
       "title": "Relational Data at the Edge",
@@ -7190,6 +7231,23 @@
       "page_url": "https://www.infoq.com/presentations/ai-precision-rag-agents/",
       "video_url": "https://videog.infoq.com/presentations/25-apr-precisionai.mp4"
     },
+    "iq-ai-predictions-2030": {
+      "video_id": "iq-ai-predictions-2030",
+      "title": "A Few Predicted Talks From QConAI 2030",
+      "duration_s": 2117,
+      "channel": "InfoQ",
+      "label": "QCon AI Boston 2026",
+      "year": 2026,
+      "source_url": "https://www.infoq.com/presentations/",
+      "details_at": "2026-09-06T13:24:25+00:00",
+      "description": "Meryem Arik discusses her predictions for software engineering in 2030. She explains how token spend management, parallel agent infrastructure, and non-technical builders will reshape IT. She shares insights on agent-driven vendor decisions, upcoming regulatory hurdles, and why software engineers must pivot from pure coding skills toward product leadership and multi-agent coordination.\n\nMeryem Arik is the Co-founder and CEO of Doubleword, a self-hosted AI inference platform empowering enterprise teams to deploy domain-specific or custom models in their private environment. She frequently speaks at leading conferences, including TEDx and QCon, sharing insights on inference technology and enterprise AI.",
+      "speakers": [
+        "Meryem Arik"
+      ],
+      "published_at": "2026-09-05T11:00:00+0000",
+      "page_url": "https://www.infoq.com/presentations/ai-predictions-2030/",
+      "video_url": "https://videog.infoq.com/presentations/26-jun-predictedtalks.mp4"
+    },
     "iq-ai-products": {
       "video_id": "iq-ai-products",
       "title": "The Next Generation of AI Products",
@@ -7758,6 +7816,23 @@
       "published_at": "2026-06-10T12:03:00+0000",
       "page_url": "https://www.infoq.com/presentations/context-engineering-data/",
       "video_url": "https://videog.infoq.com/presentations/25-dec-beyondprompting.mp4"
+    },
+    "iq-context-engineering-redis-llm-architecture": {
+      "video_id": "iq-context-engineering-redis-llm-architecture",
+      "title": "Beyond Prompting: Context Engineering for Production-Grade AI",
+      "duration_s": 2854,
+      "channel": "InfoQ",
+      "label": "QCon AI Boston 2026",
+      "year": 2026,
+      "source_url": "https://www.infoq.com/presentations/",
+      "details_at": "2026-09-06T13:24:25+00:00",
+      "description": "Ricardo Ferreira discusses moving beyond simple prompt engineering to build production-grade AI applications. He shares practical architectural strategies for integrating long-term and short-term memory using Redis, managing LLM token limits via summarization, mitigating context rot with reranking and semantic caching, and controlling exponential API costs under strict latency constraints.\n\nRicardo Ferreira serves as Principal Developer Advocate at Redis. He has more than 25 years of experience in distributed systems, databases, and software development. He began his career focused on software engineering and developer education, then moved into solution architecture, helping customers design, build, and deploy data-intensive applications.",
+      "speakers": [
+        "Ricardo Ferreira"
+      ],
+      "published_at": "2026-09-02T11:00:00+0000",
+      "page_url": "https://www.infoq.com/presentations/context-engineering-redis-llm-architecture/",
+      "video_url": "https://videog.infoq.com/presentations/26-jun-beyondprompting.mp4"
     },
     "iq-corrosion": {
       "video_id": "iq-corrosion",
@@ -10421,6 +10496,23 @@
       "published_at": "2025-10-06T13:06:00+0000",
       "page_url": "https://www.infoq.com/presentations/vanguard-sre-transformation/",
       "video_url": "https://videog.infoq.com/presentations/25-jul-sretransformation.mp4"
+    },
+    "iq-vortex-columnar-file-format-gpu-streaming": {
+      "video_id": "iq-vortex-columnar-file-format-gpu-streaming",
+      "title": "From S3 to GPU in One Copy: Rethinking Data Loading for ML Training",
+      "duration_s": 2977,
+      "channel": "InfoQ",
+      "label": "QCon London 2026",
+      "year": 2026,
+      "source_url": "https://www.infoq.com/presentations/",
+      "details_at": "2026-09-06T13:24:57+00:00",
+      "description": "Onur Satici explains how Vortex, an open-source columnar file format under the Linux Foundation, revolutionizes high-throughput data loading. He details how cascading lightweight encodings, layout-based segment pruning, and zero-copy memory pipelines eliminate CPU/NVMe bottlenecks to stream S3 data straight to GPUs at speeds up to 60 Gbps without requiring upfront data reprocessing.\n\nOnur Satici is a Staff Engineer at SpiralDB and a core maintainer of Vortex, an open source columnar file format now part of the Linux Foundation (LF AI & Data). He focuses on high-performance data systems, GPU acceleration, and making analytical workloads faster at every layer of the stack.",
+      "speakers": [
+        "Onur Satici"
+      ],
+      "published_at": "2026-09-04T11:00:00+0000",
+      "page_url": "https://www.infoq.com/presentations/vortex-columnar-file-format-gpu-streaming/",
+      "video_url": "https://videog.infoq.com/presentations/26-mar-s3togpu.mp4"
     },
     "iq-wasm-enterprise": {
       "video_id": "iq-wasm-enterprise",

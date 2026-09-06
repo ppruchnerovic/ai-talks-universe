@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 41
-published_at: null
+published_at: 2024-02-16T17:10:14Z
 video_id: N5QBW_Nu2cY
 url: https://www.youtube.com/watch?v=N5QBW_Nu2cY
 youtube_url: https://www.youtube.com/watch?v=N5QBW_Nu2cY
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Hear from some new community members and get into a bit of the 2.0 brainstorming, as well as hearing from the leads.
+
+Impending release for the Security And Governance Checklist!

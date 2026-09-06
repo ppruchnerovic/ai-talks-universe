@@ -8,14 +8,14 @@ category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []
-channel: null
+channel: "PyData"
 duration_min: 24
-published_at: null
+published_at: 2025-12-15T19:18:45Z
 video_id: k6K_wrhiSR8
 url: https://www.youtube.com/watch?v=k6K_wrhiSR8
 youtube_url: https://www.youtube.com/watch?v=k6K_wrhiSR8
-tags: []
-topics: ["RAG, retrieval & knowledge"]
+tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 
@@ -25,8 +25,10 @@ transcript: false
 
 `PyData` · `PyData` · `2025` · `24 min`
 
+`#Python` `#Tutorial` `#Education` `#NumFOCUS` `#PyData` `#Opensource` `#learn` `#software` `#python 3` `#Julia` `#coding` `#learn to code` `#how to program` `#scientific programming`
+
 [Watch the recording](https://www.youtube.com/watch?v=k6K_wrhiSR8) · [Conference site](https://pydata.org/)
 
 ## Description
 
-*No description published on YouTube.*
+Running Retrieval-Augmented Generation (RAG) pipelines often feels tied to expensive cloud APIs or large GPU clusters—but it doesn’t have to be. This session explores how Embedding Gemma, Google’s lightweight open embedding model, enables powerful RAG and text classification workflows entirely on a local machine. Using the Sentence Transformers framework with Hugging Face, high-quality embeddings can be generated efficiently for retrieval and classification tasks. Real-world examples involving call transcripts and agent remark classification illustrate how robust results can be achieved without the cloud—or the budget.

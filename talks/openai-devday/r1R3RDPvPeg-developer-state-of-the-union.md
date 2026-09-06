@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 54
-published_at: null
+published_at: 2025-10-08T17:01:48Z
 video_id: r1R3RDPvPeg
 url: https://www.youtube.com/watch?v=r1R3RDPvPeg
 youtube_url: https://www.youtube.com/watch?v=r1R3RDPvPeg
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+The developer experience is being rewritten with AI. The Developer State of the Union will explore how Codex, gpt-oss, and our API open up powerful ways to build, experiment, and scale. We’ll share the latest updates, demo new capabilities, and look ahead at what’s next for developers.

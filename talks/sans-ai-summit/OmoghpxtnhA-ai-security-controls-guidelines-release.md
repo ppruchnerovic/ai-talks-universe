@@ -10,11 +10,11 @@ year: 2025
 speakers: []
 channel: "SANS Institute"
 duration_min: 21
-published_at: null
+published_at: 2025-05-13T19:44:06Z
 video_id: OmoghpxtnhA
 url: https://www.youtube.com/watch?v=OmoghpxtnhA
 youtube_url: https://www.youtube.com/watch?v=OmoghpxtnhA
-tags: []
+tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
 topics: ["Security, safety & red teaming"]
 transcript: false
 ---
@@ -25,8 +25,14 @@ transcript: false
 
 `SANS AI Cybersecurity Summit` · `AI Cybersecurity Summit 2025` · `2025` · `21 min`
 
+`#sans institute` `#information security` `#cyber security` `#cybersecurity` `#information security training` `#cybersecurity training` `#cyber security training`
+
 [Watch the recording](https://www.youtube.com/watch?v=OmoghpxtnhA) · [Conference site](https://www.sans.org/cyber-security-summit/)
 
 ## Description
 
-*No description published on YouTube.*
+SANS AI Cybersecurity Summit 2025
+AI Security Controls Guidelines Release
+Matt Bromiley, SANS Certified Instructor
+
+View upcoming Summits: http://www.sans.org/u/DuS

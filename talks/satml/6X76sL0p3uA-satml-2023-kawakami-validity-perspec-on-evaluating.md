@@ -10,7 +10,7 @@ year: 2023
 speakers: []
 channel: "Nicolas Papernot"
 duration_min: 18
-published_at: null
+published_at: 2023-02-16T05:00:04Z
 video_id: 6X76sL0p3uA
 url: https://www.youtube.com/watch?v=6X76sL0p3uA
 youtube_url: https://www.youtube.com/watch?v=6X76sL0p3uA
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+SoK: A Validity Perspective on Evaluating the Justified Use of Data-driven Decision-making Algorithms

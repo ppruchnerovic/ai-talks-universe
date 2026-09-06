@@ -10,12 +10,12 @@ year: 2025
 speakers: []
 channel: "Meta Developers"
 duration_min: 21
-published_at: null
+published_at: 2025-05-19T22:32:23Z
 video_id: jMIg0Y_kKok
 url: https://www.youtube.com/watch?v=jMIg0Y_kKok
 youtube_url: https://www.youtube.com/watch?v=jMIg0Y_kKok
 tags: []
-topics: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 
@@ -29,4 +29,15 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Join Hamid Shojanazeri, Manager of Partner Engineering at Meta, as he unveils the latest tools and techniques to maximize the performance of Llama models. In this session, you'll discover how to streamline your developer journey with practical tools like the Llama-prompt-ops for prompt optimization and migration, and the Synthetic Data Kit for generating high-quality training data. Learn how these innovations can enhance your model's accuracy, reduce costs, and accelerate deployment.
+
+Key Highlights:
+- Introduction to Llama-prompt-ops: Optimize and migrate prompts seamlessly across Llama versions. https://bit.ly/431MRNL
+- Synthetic Data Kit: Generate diverse, high-quality data for fine-tuning and customization. https://bit.ly/4knx69G
+- Real-world success stories: See how companies like SAP achieved up to 30% accuracy improvements.
+- Open-source tools: Access our GitHub repository for code, examples, and community contributions.
+- Llama Cookbook: Step-by-step recipes for building applications, from chatbots to intelligent browser agents. https://bit.ly/3YKjJbm
+
+Whether you're a seasoned developer or new to Llama, this session provides the insights and resources you need to build smarter, more efficient applications. Don't miss out on the opportunity to enhance your Llama model's capabilities and contribute to the growing ecosystem.
+
+Watch now and start building with Llama!
