@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Francesco Croce"]
 channel: "Nicolas Papernot"
 duration_min: 21
-published_at: null
+published_at: 2024-04-12T18:19:47Z
 video_id: WEsX_X1Z__0
 url: https://www.youtube.com/watch?v=WEsX_X1Z__0
 youtube_url: https://www.youtube.com/watch?v=WEsX_X1Z__0

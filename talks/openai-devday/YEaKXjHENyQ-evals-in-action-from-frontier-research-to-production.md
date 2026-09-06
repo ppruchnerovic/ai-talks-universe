@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 22
-published_at: null
+published_at: 2025-10-08T17:01:38Z
 video_id: YEaKXjHENyQ
 url: https://www.youtube.com/watch?v=YEaKXjHENyQ
 youtube_url: https://www.youtube.com/watch?v=YEaKXjHENyQ
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+How do you measure progress when you're operating at the frontier? Step inside the evolving world of AI evaluation, where benchmarks are being redefined to capture reasoning, reliability, and model progress in real-world task performance.

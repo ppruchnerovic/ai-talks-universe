@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Shuai Tang"]
 channel: "Nicolas Papernot"
 duration_min: 15
-published_at: null
+published_at: 2024-04-09T17:15:57Z
 video_id: vqcQjdUcOaU
 url: https://www.youtube.com/watch?v=vqcQjdUcOaU
 youtube_url: https://www.youtube.com/watch?v=vqcQjdUcOaU

@@ -8,9 +8,9 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Dennis Nerush"]
-channel: null
+channel: "Devoxx"
 duration_min: 40
-published_at: null
+published_at: 2025-04-22T15:37:41Z
 video_id: 4D4pESKKiv8
 url: https://www.youtube.com/watch?v=4D4pESKKiv8
 youtube_url: https://www.youtube.com/watch?v=4D4pESKKiv8
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Discover how AI is revolutionizing engineering management and people development. This talk explores practical applications of AI for enhancing leadership capabilities - from conducting data-driven 1:1s to delivering impactful feedback and effective performance reviews. Learn how AI can help identify performance patterns, prepare for difficult conversations, and generate meaningful insights for team development. Through real-world examples and hands-on strategies, you'll discover how combining AI with structured documentation methods can transform your management approach. Walk away with actionable techniques to leverage AI in developing stronger engineering teams while maintaining authentic human connections.

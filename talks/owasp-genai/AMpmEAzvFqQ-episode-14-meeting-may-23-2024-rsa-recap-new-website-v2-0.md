@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 34
-published_at: null
+published_at: 2024-05-23T17:26:32Z
 video_id: AMpmEAzvFqQ
 url: https://www.youtube.com/watch?v=AMpmEAzvFqQ
 youtube_url: https://www.youtube.com/watch?v=AMpmEAzvFqQ
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+This week, Scott leads the bi-weekly meeting for May 23, 2004. We recap the RSA happenings, talk about the new website and get a bit of an update on the v2.0 efforts! Check out Episode 14 of the Bi-weekly Meeting Podcast!

@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 6
-published_at: null
+published_at: 2025-10-06T18:00:06Z
 video_id: 44eFf-tRiSg
 url: https://www.youtube.com/watch?v=44eFf-tRiSg
 youtube_url: https://www.youtube.com/watch?v=44eFf-tRiSg
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Christina Huang from OpenAI guides you through Agent Builder—a new visual tool to create agentic workflows.
+
+Drag and drop nodes, connect tools, and publish your workflows with ChatKit and the Agents SDK.

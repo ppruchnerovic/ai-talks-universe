@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Minseon Kim"]
 channel: "Nicolas Papernot"
 duration_min: 8
-published_at: null
+published_at: 2023-02-16T05:00:11Z
 video_id: GHXQtR9JUIA
 url: https://www.youtube.com/watch?v=GHXQtR9JUIA
 youtube_url: https://www.youtube.com/watch?v=GHXQtR9JUIA

@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 34
-published_at: null
+published_at: 2024-12-17T17:00:15Z
 video_id: Bx6sUDRMx-8
 url: https://www.youtube.com/watch?v=Bx6sUDRMx-8
 youtube_url: https://www.youtube.com/watch?v=Bx6sUDRMx-8
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Scale AI applications by balancing accuracy, latency, and cost

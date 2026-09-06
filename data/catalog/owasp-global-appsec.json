@@ -1,7 +1,7 @@
 {
   "slug": "owasp-global-appsec",
   "name": "OWASP Global AppSec",
-  "enumerated_at": "2026-08-30T21:48:08+00:00",
+  "enumerated_at": "2026-09-06T13:21:42+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
@@ -25,7 +25,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Traditional application security is broken. We're stuck in a cycle of bug bounties, vulnerability reports, and endless patching - yet the same issues keep coming back. Despite years of \"shifting left,\" vulnerabilities still regularly slip into production, leaving security teams firefighting instead of implementing meaningful safeguards. What if we could stop fixing vulnerabilities one by one and instead eliminate entire bug classes?\n\nThis talk explores how modern browser security features can automate and scale security effectively, allowing developers and security engineers to proactively remove entire classes of vulnerabilities - without relying solely on developers remembering security best practices.\n\nThe landscape of browser security standards has dramatically shifted, bringing powerful opt-in mechanisms that didn't exist three years ago, such as Content-Security-Policy v3, Trusted Types, Sec-Fetch-Metadata, and others. We'll examine how these standards can systematically prevent vulnerabilities like XSS, CSRF, clickjacking, and cross-origin attacks, transforming security from a reactive patching cycle into a proactive, scalable defense strategy.\n\nUsing real-world case studies, you'll see how leading organisations have leveraged these new browser-native security features to systematically eliminate vulnerabilities at scale. We'll discuss practical ways for teams to integrate these browser protections into their existing programs, automate security headers, enforce secure defaults across large-scale environments, and measure adoption effectively.\n\nIf you're a developer or security engineer, ready to move beyond endless vulnerability patching and start building applications that are secure by design, this session is for you. Learn how to automate, scale, and ultimately forget entire bug classes by harnessing the latest advances in browser security.\n\nJavan Rasokat\nSage\nSenior Application Security Specialist\nGermany\n\nJavan is a Senior Application Security Specialist at Sage, helping product teams enhance security throughout the software development lifecycle. On the side, he lectures Secure Coding at DHBW University in Germany. His journey as an ethical hacker began young, where he began to automate online games developing bots and identified security bugs, which he then reported to the game operators. Javan made his interests into his profession and began as a full stack web and mobile engineer before transitioning into a passionate security consultant. Javan holds a Master’s degree in IT Security Management and several certifications, including GXPN, AIGP, CISSP, CCSP, and CSSLP. He has shared his research at conferences, including OWASP Global AppSec, DEFCON, and HITB.  \n@javanrasokat\nlinkedin.com/in/javan-rasokat\njavan.de (blog)\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T04:27:54Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "1NA95XxW4_U": {
       "video_id": "1NA95XxW4_U",
@@ -34,7 +41,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Kayla Underkoffler\nZenity\nZenity, Senior Security Engineer\nhttps://linkedin.com/in/kayla-underkoffler-7400673a/\n\nKayla is a senior security engineer in the CTO office with Zenity. Her professional career started in the United States Marine Corps, where she then left active duty to pursue a career in Cybersecurity. Throughout her years in security, she has served as a practitioner in vulnerability management, security operations, crowdsourced security, and most recently, Agentic AI security and governance.\n\nWith a passion for bridging the gap between business and technology, Kayla will continue to evangelize the importance of security for everyone.\n\nShauna Rathbun\nPing Identity\nPlatform Security Engineer\n\nShauna Rathbun is a Security Engineer at Ping Identity, focused on securing low-code/no-code platforms and supporting the safe enablement of citizen development across organizations. With a strong background in cloud security and identity, her mission is to make security more approachable, actionable, and adaptable for both users and security professionals.\nAs an advocate for secure and reliable innovation, Shauna is committed to shifting security closer to the user with the goal of empowering them to see security as a support for their innovation rather than a hindrance.\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T05:22:27Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "2QQTbtFV-Kc": {
       "video_id": "2QQTbtFV-Kc",
@@ -43,7 +57,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec EU 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc",
+      "description": "Watch  Dr. Kate Labunet's keynote talk from the 2nd day of OWASP Global AppSec EU 2025 Barcelona.",
+      "published_at": "2025-08-11T20:00:02Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "2lWJtdS8Wlo": {
       "video_id": "2lWJtdS8Wlo",
@@ -52,7 +73,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "OWASP Nettacker project (a portmanteau of \"Network Attacker\") is a relatively new yet an awesome and powerful 'swiss-army-knife' automated penetration testing framework fully written in Python. Nettacker recently gained a lot of interest from the penetration testing community and was even included in the specialist Linux distribution for penetration testers and security researchers. Nettacker is able to run various scans using a variety of methods and generate scan reports for applications and networks, including services, bugs, vulnerabilities, misconfigurations, default credentials and many other cool features - for example an ability to chain different scan methods. This talk will feature a live demo and several practical usage examples of how organisations can benefit from this OWASP project for automated security testing.\n\nSam Stepanyan\nOWASP\nOWASP London Chapter Leader\nLondon, UK\nmedium.com/@securestep9 \nhttps://twitter.com/securestep9\n\nSam Stepanyan is an OWASP London Chapter Leader and an Independent Application Security Consultant with over 20 years of experience in IT industry with a background in software engineering and web application development. Sam has worked for various financial services institutions in the City of London specialising in Application Security consulting, Secure Software Development Lifecycle (SDLC), developer training, source code reviews and vulnerability management. He is also a Subject Matter Expert in Web Application Firewalls (WAF) and SIEM systems. Sam holds a Master’s degree in Software Engineering and a CISSP certification.\n\nArkadii Yakovets\nOWASP Nest / OWASP Nettacker\nWA, USA\nhttps://github.com/arkid15r/\nhttps://www.linkedin.com/in/arkid15r/\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T04:54:44Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "3YLmAgA6o7c": {
       "video_id": "3YLmAgA6o7c",
@@ -61,7 +89,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Integrating privacy into development cycles often feels like forcing a square peg into a sprint-shaped hole—too slow, too complex, too disconnected from the team’s real-world pace. This talk demystifies privacy threat modeling and shows how it can be adapted for Agile teams without creating friction.\nDrawing from real-world implementations across regulated industries (healthcare, finance, insurance), we’ll explore practical methods to identify privacy risks using streamlined artifacts—like sprint-aligned privacy prompts, backlog risk markers and minimalist data flow nudges.\nWe’ll also look at how frameworks like LINDDUN and OWASP Privacy Threat Modeling cheat sheets can be adapted for sprint rituals like backlog grooming, daily standups and retrospectives.\nBy the end, attendees will walk away with a blueprint to make privacy a by-design reality—even in two-week sprints—and improve alignment between development, security and compliance.\n\nAdarsh Nair\nadarshnair.com\nx.com/svnairadarsh\nfacebook.com/adarshsvnair\nlinkedin.com/in/adarshsvnair\ninstagram.com/toadarshnair\n\nAdarsh Nair is the Dir & Global Head of Info Sec Compliance at UST, where he leads the organization's efforts to maintain and enhance information security and business continuity across global operations. In this role, he ensures compliance with industry standards and regulatory requirements, driving a culture of security and resilience throughout the organization. In addition to being an information security strategist, he is an author and keynote speaker. Adarsh is recognized as a Fellow of Information Privacy (FIP) recognized by the International Association of Privacy Professionals (IAPP). He has received several accolades, including the CyberSecGlobal (CSG) Award for Emerging CISO and an Excellence Medal from the Hon’ble Chief Minister of Kerala for his contributions to Kerala Police Cyberdome.\nAdarsh holds a Bachelor’s degree in Computer Science & Engineering and a Master’s degree in Information Security. He is currently advancing his expertise by pursuing a Doctoral Degree in Information Security. With over a decade of experience, he has developed expertise in Information Security Governance, Risk and Compliance, Business Continuity, Data Privacy, and Ethical Hacking. He continues to learn and grow through various certifications, including CCISO, CISSP, FIP, CIPM, CIPP/E, OSCP, ECSA, CHFI, CEH, ISO 27001:2022 Lead Auditor, ISO 22301:2019 Lead Auditor, ISO 27701:2019 Lead Implementer, ISO 31000:2018 Lead Implementer, PGCCL and so on.\nIn his spare time, Adarsh volunteers as Commander at the Kerala Police Cyberdome, an honorary position. He is also a Co-Leader of the Open Worldwide Application Security Project (OWASP) Kerala chapter and serves on advisory boards for the EC-Council. Additionally, he is part of the Industry Institute Interaction Cell at Kerala Digital University and also the syllabus-revision committee member at Kerala Technological University (KTU).\nAdarsh has spoken on Information Security topics at various conferences, sharing his knowledge on Ethical Hacking, Social Engineering, Financial Frauds, Ransomware, Dark Web, and Data Privacy. He has authored three books: “Mastering Information Security Compliance Management,” “The Infodemic,” and “Dark Web Demystified,”. He has published articles in various national and local newspapers, magazines and in journals such as IEEE and ACM.\n\nGreeshma Nair\nTsaaro\nSr. Data Protection Consultant\nShe is a certified privacy and security professional with a strong foundation in GDPR, DPDPA, and global data protection frameworks. She is CIPP/E certified, an ISO 27701 Lead Implementer, and has completed Data Protection Officer (DPO) training. Her credentials are further reinforced by multiple OneTrust certifications, including Privacy Management, PIA & DPIA Automation, Consent & Preferences Management, Responsible AI, and Data Mapping Automation.\nWith a background spanning knowledge management, data analysis, and software testing, Greeshma’s transition into the privacy domain is anchored by her ISO 27001 Lead Auditor certification and a deep understanding of compliance-driven security practices. She has worked on building privacy control frameworks, conducting PIAs, designing workflows for RoPA, LIA, and PbD assessments, and aligning privacy programs with evolving regulatory requirements.\nAn accomplished author, Greeshma co-authored Mastering Information Security Compliance Management (Packt) and self-published The Infodemic and Dark Web Demystified. She has spoken at national and international platforms including OWASP AppSec and c0c0n, sharing insights on privacy trends, digital hygiene, and emerging tech risks.\nPassionate about continuous learning and community engagement, she is committed to advancing responsible data practices and supporting organizations in embedding privacy into agile development and security-by-design frameworks.\nlinkedin.com/in/greeshmamr\nManaged by the OWASP® Foundation",
+      "published_at": "2025-12-16T03:01:31Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "6KllX1F590o": {
       "video_id": "6KllX1F590o",
@@ -70,7 +105,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "While Red Team AI research often focuses on attacking models in isolation or proof of concepts on enterprise Copilots, real-world AI/ML systems integrate complex tool chains and guardrails that create a different attack surface. In this 45-minute talk, we discuss our experience focused on threat model-informed dynamic testing for indirect prompt injection. The approach follows a structured workflow of target profiling, guardrail analysis, tool enumeration, and automated testing. Our findings from production testing highlight the need for repetitive, automated approaches to reliably exploit deployed AI/ML systems. Finally, we will release a set of open-source labs including built-in guardrails for practical exercise work.\n\nWill Vandevanter\nTrail of Bits\nSecurity Engineer - AI/ML\n\nWill Vandevanter is a Security Engineer at Trail of Bits on the AI/ML team, where he performs security audits across all layers of AI/ML infrastructure. Will has previously spoken at Blackhat, DEFCON, OWASP and a number of other conferences. He has also released popular open source tools and trained hundreds through in-person and online courses.\n\n@willvandevanter\nlinkedin.com/in/willis-vandevanter-82a0501...\ntrailofbits.com (blog)\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T07:19:02Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "AJTxH00ia4w": {
       "video_id": "AJTxH00ia4w",
@@ -79,7 +121,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Presentation slides: https://static.sched.com/hosted_files/owaspglobalappsecusa2025/55/OWASP%20DC%202025%20Privacy%20Project.pdf\n\nAsk ten engineers what \"privacy by design\" means, and you’ll get ten different answers—and most of them won’t help you ship both secure and privacy-aware software. The focus in AppSec has been on securing the design with Threat Modeling, securing the code, and addressing third-party risk management challenges. But what does privacy mean to software engineers? It’s fuzzy, vague, and *‘someone else’s problem’*.\n\nThis talk unpacks why privacy engineering is broken for builders—and how we're changing that. We'll share early insights from the new OWASP Privacy Reference Project, which aims to translate privacy into practical guidance for security teams, architects, and developers. AppSec voices are critical to getting this right—come help us turn privacy from a vague ideal into a usable engineering discipline.\n\nKim Wuyts\nPwC\nPrivacy Engineer\n\nDr. Kim Wuyts is a leading privacy engineer with over 15 years of experience in security and privacy. Before joining PwC Belgium as Manager Cyber & Privacy, Kim was a senior researcher at KU Leuven where she led the development and extension of LINDDUN, a popular privacy threat modeling framework. Her mission is to raise privacy awareness and get organizations to embrace privacy engineering best practices. She is a guest lecturer, experienced speaker, and invited keynote at international privacy and security conferences such as OWASP Global AppSec, BruCON, RSA, Troopers, CPDP, and IAPP DPC. In the last few years, Kim has been delivering privacy awareness and privacy threat modeling training at many events, including academic guest lectures and corporate training. Kim is also a co-author of the Threat Modeling Manifesto+Capabilities, industry co-chair of the International Workshop on Privacy Engineering (IWPE), and a member of ENISA’s working group on Data Protection Engineering.\n\nMatthew Coles\n\nMatthew Coles is a Product Security Architect and Technologist with 20+ years experience working with business leaders and developers to secure hardware and software systems and processes. He is a technical contributor to community standard initiatives such as OpenSSF and OWASP, a mentor and educator, and is a maintainer of the PyTM project for threat modeling as code. Matt is a co-author of a book on Threat Modeling, a white paper on Threat Modeling through SAFECode, and the Threat Modeling Manifesto and Capabilities.\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T04:41:47Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "C4L5hPYl1Os": {
       "video_id": "C4L5hPYl1Os",
@@ -88,7 +137,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "My name is Daniel Miessler (https://danielmiessler.com/about/) and I'm a Cybersecurity / AI engineer and founder based out of the San Francisco Bay Area who's been writing online since 1999 (https://danielmiessler.com/archives/)\n\nMy goal is to help build a positive, human-based AI future, which I call Human 3.0 (https://danielmiessler.com/blog/how-my-projects-fit-together/)\n\nIn order to do that, I am building AI products that upgrade people and organizations—rather than try to replace them.\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-15T03:11:36Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "CZdSGKoi90Y": {
       "video_id": "CZdSGKoi90Y",
@@ -97,7 +153,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec EU 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc",
+      "description": "Watch Sarah-Jane Madden's keynote talk from the 1st day of OWASP Global AppSec EU 2025 Barcelona.",
+      "published_at": "2025-08-11T20:00:09Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "CsKqu9eob1w": {
       "video_id": "CsKqu9eob1w",
@@ -106,7 +169,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Attacking AI is a one of a kind session releasing case studies, tactics, and methodology from Arcanum’s AI assessments in 2024 and 2025. While most AI assessment material focuses on academic AI red team content, “Attacking AI” is focused on the task of assessing AI enabled systems. Join Jason as he discusses his seven point methodology to assessing these systems and releases Arcanum’s prompt injection taxonomy and other resources for aspiring testers.\n\nJason Haddix\nArcanum Information Security\nCEO\n\nJason Haddix AKA jhaddix is the CEO and “Hacker in Charge” at Arcanum Information Security and the field CISO for flare.io. Arcanum is a world class assessment and training company. Jason has had a distinguished 20-year career in cybersecurity previously serving as CISO of Buddobot, CISO of Ubisoft, Head of Trust/Security/Operations at Bugcrowd, Director of Penetration Testing at HP, and Lead Penetration Tester at Redspin. He has also held positions doing mobile penetration testing, network/infrastructure security assessments, and static analysis. Jason is a hacker, bug hunter and currently ranked 57th all-time on Bugcrowd’s bug bounty leaderboards. Currently, he specializes in recon, web application analysis, and emerging technologies. Jason has also authored many talks on offensive security methodology, including speaking at cons such as DEFCON, Bsides, BlackHat, RSA, OWASP, Nullcon, SANS, IANS, BruCon, Toorcon and many more.\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T07:22:54Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "Fe_C8qGFTvI": {
       "video_id": "Fe_C8qGFTvI",
@@ -115,7 +185,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec EU 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc",
+      "description": "Watch the closing ceremony to the OWASP Global AppSec EU 2025 conference.",
+      "published_at": "2025-08-11T20:30:06Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "HY7N8pAoIDM": {
       "video_id": "HY7N8pAoIDM",
@@ -124,7 +201,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Presentation slides: https://static.sched.com/hosted_files/owaspglobalappsecusa2025/5c/OWASP%20VXDF.pptx\n\nEvery security professional and developer is buried under an avalanche of alerts from security scanners. The constant question is: \"Is this finding a real, exploitable threat, or just another false positive?\" This alert fatigue leads to wasted time, strained team relationships, and the increased risk that critical vulnerabilities are ignored. While the market is flooded with SAST, DAST, SCA tools, they only tell us what scanners found, they don't provide the definitive, evidence-backed proof needed to take immediate action.\n\nThis talk introduces Validated Exploitable Data Flow (VXDF), a new open-source standard designed to bridge the gap between a potential finding and a confirmed, actionable security bug. We will demonstrate how VXDF provides a structured, evidence-first narrative for each vulnerability, moving beyond scanner output to concrete proof. The core of this talk is a deep dive into VXDF's flagship evidence ingestion system, which supports over 30 distinct evidence types, focusing on OWASP Top 10 and other web vulnerabilities\n\nAttendees will learn how to leverage the VXDF format and its reference engine to automate the correlation of scanner results with real-world proof, effectively eliminating false positives and providing developers with high-fidelity, trusted bug reports they can act on instantly.\n\nMihir Shah\nGoogle\nSecurity Engineer, Technical Lead\nSan Francisco Bay Area\nhttps://mihirshah.tech\nhttps://www.linkedin.com/in/mihir-shah99/\n\nMihir Shah is a contributor in cloud-native and application and cloud security space. He is the author of the Cloud Native Software Security Handbook. As the leader of OWASP's VXDF Project, Mihir champions open-source solutions for automated threat modeling and vulnerability assessment. He spearheads initiatives in cloud and application security engineering. Mihir regularly shares insights at Stanford University, global forums - OWASP conferences, community meetups, and Black Hat Dubai.\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T05:03:33Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "NedQMuX-ZnY": {
       "video_id": "NedQMuX-ZnY",
@@ -133,7 +217,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Security and development teams rely on tools like SAST, DAST, and IAST to catch vulnerabilities early in the software development lifecycle. But anyone who’s used these tools knows they often come with a cost: false positives.\n\nOne of the biggest reasons for the false positives problem in vulnerability scanners is their lack of runtime context. Many vulnerabilities don’t exist in isolation—they only manifest when code actually runs. Without visibility into how an application behaves at runtime, traditional static and dynamic tools either miss actual vulnerabilities or flag vulnerabilities that aren’t exploitable.\n\nTo dig into this problem, we turned to the OWASP Benchmark to uncover gaps in vulnerability scanners and identify the root cause of false positives. We will also talk about benchmarking gaps and the need for new test cases for attack vectors that involve runtime features in Java like Reflection, Class Loading and Deserialization, where context determines exploitability.\n\nIn this talk, we’ll walk through what we found. We’ll show which patterns and behaviors tend to confuse traditional tools, and how runtime-aware approaches, like instrumentation, RASP, and IAST, improve false positives and negative rates in vulnerability detection and attack prevention.\n\nBuilders of security tools will see how runtime visibility improves accuracy. Breakers will get a better sense of what type of vulnerabilities static and dynamic scanners may miss. And defenders will learn how runtime security can help scale accurate detection across development, testing, and production—without slowing teams down.\n\nAttendees will gain valuable insights into the types of application behavior that frequently lead to false positives in vulnerability detection tools. You will better understand why having visibility into runtime application behavior is required to significantly reduce or eliminate these false positives and how runtime security provides this level of visibility. Finally, we will also look at how runtime security can help scale vulnerability and attack detection across the entire SDLC.\n\nApostolos Giannakidis\nMicrosoft\nPrincipal Product Security Engineer\nDublin, Ireland\n\nApostolos Giannakidis is currently leading the Threat Modeling program at Microsoft Identity. Before joining Microsoft, he served as VP of Application Security at JP Morgan Chase and led the security strategy at Waratek. He has been acknowledged by Oracle, he is featured on Google's Vulnerability Hall of Fame, and he holds two MSc degrees in Computer Science and Cloud Computing.  \n@cyberApostle\nlinkedin.com/in/giannakidisapostolos/\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T04:23:08Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "OImAVe14WUQ": {
       "video_id": "OImAVe14WUQ",
@@ -142,7 +233,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Presentation Slides: https://static.sched.com/hosted_files/owaspglobalappsecusa2025/ee/Alon%20Dankner%20-%20Your%20RPA%20is%20Mine%20-%20OWASP%20DC%202025.pdf\n\nOur research uncovers a new threat vector for enterprises in the realm of Robotic Process Automation (RPA), challenging the assumption that RPA automations are inherently secure. We demonstrate the first-ever RPA malware capable of infecting automations built in UiPath—a leading RPA development platform—while evading traditional security measures. By compromising automation environments, this attack triggers a devastating domino effect across an entire enterprise.\n\nAcross industries and departments, RPA adoption skyrockets in enterprises pursuing digital transformation. RPA development platforms like UiPath, Microsoft Power Automate, and ServiceNow enable non-technical business users to create and deploy powerful automations by composing drag-and-drop components (e.g., sending email and executing SQL query). These automations handle and manipulate critical enterprise data.\n\nWe demonstrate an innovative malware that allows attackers to infect all UiPath automations and establish persistence. By stealing keys and tokens from the automation’s runtime environment, our malware infects UiPath automations and rapidly spreads to all available feeds. As a result, the malicious payload runs on every connected runtime environment, compromising any desktop and cloud.\n\nThis malware's unique ability to perform only UiPath actions allows it to evade traditional security measures. Our malware can gain initial access to the enterprise, either by a malicious actor leveraging the UiPath public marketplace or by the automation developer overlooking implementation vulnerabilities such as command injection.\n\nOur findings demonstrate a novel malware propagation avenue that bypasses traditional defences; a route that proves effective for deploying any malware, including ransomware. The dangerous misconception that RPA is secure by design has persisted for years, lulling security teams and leaving organizations vulnerable to emerging threats. To address these critical issues, we provide essential, actionable mitigations to secure RPA automations and protect against this evolving internal and external attack surface.\n\nAlon Dankner\nNokod Security\nSecurity Researcher\n\nAlon Dankner is a security researcher at Nokod Security, a low-code/no-code cybersecurity startup. He holds a B.Sc. in Computer Science from the University of Haifa (cum laude) and an M.Sc. from the Technion (cum laude). Computers and network security have always been a topic of interest to him, and his research focuses on the security of low-code/no-code systems and industrial control systems.\n\nalon@nokodsecurity.com\nlinkedin.com/in/alon-dankner/\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T07:18:12Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "St1CrNS6OuM": {
       "video_id": "St1CrNS6OuM",
@@ -151,7 +249,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Software Composition Analysis (SCA) is among the most foundational approaches to application security. Understanding the known vulnerabilities, leading and lagging indicators of risk are among the most widely leveraged security controls in industry. There are three major types of SCA: Runtime SCA, Manifest scanning SCA and Build/Install-time SCA with and without program analysis. Each approach comes with hidden costs and pros and cons along the way. This session will explore not only the hidden costs, pros and cons but explain why they exist. We will round out with effective practices, classes of vulnerabilities that are covered and things to avoid with each approach. Everyone has heard that there is a panacea for managing risk in software composition analysis. You see this in marketing every day. This nirvana is a lie. But there could be a nirvana for you in your context. This talk explores the spectrum of trade offs that exist.\n\nJamie Scott\nEndor Labs\nProduct Manager\nSanta Clara, CA\n\nhttps://x.com/iamateapot418\nhttps://www.linkedin.com/in/james-m-scott-iii\n\nJamie Scott, CISSP, CCSP is a recovering cybersecurity practitioner turned product manager building the next generation of dependency management solutions at Endor Labs. Previously Jamie was Product Manager at Redis and StackRox (Acquired by Red Hat in Feb 2021) where he was an open source contributor and leader for both projects. Jamie remains an active contributor to the cybersecurity community as co-author and contributor to several benchmarks as a volunteer consultant for the Center for Internet Security.\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T05:57:57Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "THSfJIlPGPk": {
       "video_id": "THSfJIlPGPk",
@@ -160,7 +265,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "They say that risk management is fundamental to cybersecurity. Whoever they are, they're wrong, and it's hurting us. We spend inordinate amounts of energy on risk analysis, but that's simply not how executives are making decisions. This talk will cover specific examples of risk requirements, why those requirements are impossible to satisfy, and what we might do to address that tension.\n\nAdam Shostack\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-15T20:44:45Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "Vcg_DjYtQig": {
       "video_id": "Vcg_DjYtQig",
@@ -169,7 +281,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Introducing OWASP AIVSS Project: The AI Vulnerability Scoring System for Modern Threats\n\nTraditional CVSS frameworks excel at scoring software vulnerabilities but fall short when addressing AI-specific risks like prompt injection, goal manipulation, and memory poisoning. The AI Vulnerability Scoring System (AIVSS) extends CVSS to tackle the unique challenges of AI systems, particularly agentic AI deployed in enterprise environments.\n\nThis session introduces AIVSS, an OWASP initiative developed by a coalition of security leaders from government, academia, and industry. We'll explore why AI demands new vulnerability assessment approaches, dive into the top 10 agentic AI vulnerabilities, and demonstrate the AIVSS scoring methodology through live examples. Attendees will gain practical insights into assessing AI-specific risks and learn how to contribute to this critical open-source framework that's shaping the future of AI security.\n\nKen Huang\nGenerative AI Security book Author, Co-Chair of Cloud Security Alliance AI Safety Working Groups, NIST GAI Public Group Contributor and EC-Council GenAI Security Instructor\nhttps://DistributedApps.ai\n\nKen Huang is an acclaimed author of 8 books on AI and Web3. He is the Co-Chair of the AI Organizational Responsibility Working Group and AI Control Framework at the Cloud Security Alliance. Additionally, Huang acts as CEO of DistributedApps.ai, which provides training and consulting services for generative AI security.\n\nIn addition, Huang contributed extensively to key initiatives in the space. He is a core contributor to OWASP's Top 10 Risks for LLM Applications and heavily involved in the NIST Generative AI Public Working Group. He also provides feedback on publications like NIST SP 800-226.\n\nHuang published the book \"Generative AI Security: Theories and Practices\" with Springer (https://link.springer.com/book/9783031542510) , which takes a systematic, principle-based approach to securing generative AI systems.\n\nFurthermore, his blog post \"Mitigating Security Risks in Retrieval Augmented Generation (RAG) LLM Applications\" stands as one of the most popular on the Cloud Security Alliance website (https://cloudsecurityalliance.org/blog/2023/11/22/mitigating-security-risks-in-retrieval-augmented-generation-rag-llm-applications)\n\nBeyond his Springer book on Generative AI Security, Huang also serves as chief editor of the book \"Beyond AI: ChatGPT, Web3, and the Business Landscape of Tomorrow.\" This volume discusses the wide-ranging business impacts of innovations like generative AI and web3.\n\nHis new book, \"Agentic AI: Theories and Practices\" is scheduled to be published by Springer in July 2025.\n\nA sought-after speaker, Ken has shared his insights at renowned global conferences, including those hosted by Davos WEF, ACM, IEEE, and CSA AI Summit, CSA AI Think Tank Day and World Bank. His recent co-authorship of \"Blockchain and Web3: Building the Cryptocurrency, Privacy, and Security Foundations of the Metaverse\" adds to his reputation, with the book being recognized as one of the must-reads in both 2023 and 2024 by TechTarget.\n\nFind him at Linkedin: https://www.linkedin.com/in/kenhuang8/\n\nMichael Bargury\nZenity\nCo-Founder & CTO\nhttps://labs.zenity.io/\n\nMichael Bargury is a hacker, builder and a cybersecurity practitioner. He is the co-founder and CTO of Zenity, the first application security company enabling enterprises to empower business users without paying for it in security incidents. He leads the OWASP LCNC Top 10, has a column on DarkReading, and delivers research, tools and talks regularly at top conferences including BlackHat, DEFCON and RSAC.\n\nVineeth Sai Narajala\nAWS\nApplication Security Engineer\nhttps://vineethsai.com/\n\nAs an Application Security Engineer at Amazon Web Services (AWS), Vineeth specializes in core Data Analytics services such as EMR, Athena, and LakeFormation. Prior to his current role, he held positions as a pentester and in threat Intelligence. Additionally, he gained valuable experience in Business Recovery and Disaster Recovery, particularly in mitigating ransomware attacks during my tenure at Nordstrom.\n\nBeyond his professional roles, vineeth actively participates in the bug bounty scene and is passionate about contributing to the community. He have also shared my expertise as an Adjunct Instructor at the University of Nevada, Las Vegas, and have delivered guest lectures at his alma mater, the University of Washington, Seattle. Outside of work, he enjoy skiing and recently started learning to surf. Vineeth also really enjoy classic rock and EDM music.\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T04:32:25Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "WkC2ZvjZFQw": {
       "video_id": "WkC2ZvjZFQw",
@@ -178,7 +297,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "As web applications evolve, so do their data processing pipelines—handling Unicode normalization, encoding, and translation before storing or executing user input. But what if these same data transformations could be weaponized by attackers? This talk exposes how Unicode normalization flaws (such as visual confusables/best-fit mappings, truncation/overflows, case-mappings and entity decodings) lead to critical security bypasses—allowing attackers to evade WAFs, input filters, and backend logic to execute Remote Code Execution (RCE), Cross-Site Scripting (XSS), Server-Side Template Injection (SSTI), Open Redirects, and HTTP Response Splitting.\n\nUsing real-world attack data from Akamai's research team, this session will showcase live exploitation demos, explore the impact of vulnerabilities like CVE-2024-4577 (PHP-CGI Argument Injection), and introduce cutting-edge Unicode fuzzing techniques. Attendees will leave with a deep understanding of Unicode security pitfalls and hands-on tools like Shazzer, recollapse, and Burp Activescan++ enhancements to detect these issues.\n\nRyan Barnett\nAkamai\nPrincipal Security Researcher\nMetro DC\n\nRyan Barnett is a web application defender with over two decades of experience. He is currently a Principal Security Researcher working on the Akamai Threat Research Team, supporting the App and API Protector product. In addition to his primary work at Akamai, he is also a former Faculty Member for the SANS Institute, a WASC Board Member and OWASP Co-Project Leader for: Web Hacking Incident Database (WHID. Mr. Barnett has also authored two web security books: Preventing Web Attacks with Apache (Pearson) and The Web Application Defender's Cookbook: Battling Hackers and Defending Users (Wiley).  \n\n @ryancbarnett\nlinkedin.com/in/ryan-barnett-b27635/\nwebappdefender.blogspot.com (blog)\n\nIsabella Barnett\nDatabuoy\nSoftware Engineering Intern\n\nIsabella Barnett is a Software Engineering Intern at Databuoy and a Sophomore at George Mason Honor's College studying Cyber Security Engineering.  \n@4ng3lhacker\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T04:14:54Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "_IePZxgYLAI": {
       "video_id": "_IePZxgYLAI",
@@ -187,7 +313,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec EU 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc",
+      "description": "Don't miss your chance! Register now: http://barcelona.globalappsec.org/\nTraining May 26-28, 2025\nConference & Expo May 29-30, 2025\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-04-07T20:44:24Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "auf7Fj26Tf8": {
       "video_id": "auf7Fj26Tf8",
@@ -196,7 +329,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Are you looking to strengthen your organization’s software assurance program, prove compliance with industry frameworks, or simply level up your AppSec game? Join OWASP project leaders Sebastien and Aram for an engaging introduction and the latest updates on OWASP Software Assurance Maturity Model (SAMM) — the open, community-driven standard for building and measuring software security practices.\n\nThis session will highlight how SAMM helps organizations jumpstart, assess, and accelerate their software assurance roadmap, with practical takeaways you can apply right away:\n\n• Tools and Assessment Guidance – Learn about the growing ecosystem of SAMM tools and the latest assessment techniques that make measuring and improving your maturity more approachable than ever.\n• Framework Mapping – See how SAMM connects with industry standards like the NIST Secure Software Development Framework (SSDF) and OpenCRE, helping you demonstrate compliance and align with external requirements while maintaining a developer-friendly approach.\n• Benchmarking with Peers – Discover the OWASP SAMM Benchmark, which allows organizations to compare their security practices against peers and industry trends anonymously—helping you spot strengths, identify gaps, and track progress over time.\n\nWhether you’re new to SAMM or already using it, you’ll gain actionable strategies, practical insights, and a clear roadmap to achieving security excellence.\n\nSebastien Deleersnyder\nToreon\nCTO\nhttps://toreon.com/threat-modeling-training/\nhttps://www.linkedin.com/in/sebadele/\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T05:17:08Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "jm3ZcgDr6i8": {
       "video_id": "jm3ZcgDr6i8",
@@ -205,7 +345,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "As smart home technology becomes increasingly mainstream, the market has seen a surge in low-cost IoT devices flooding platforms like Amazon. Many of these products are backed by lesser-known manufacturers — often overseas — that prioritize rapid deployment and market share over security and long-term support. This trend has led to a growing number of insecure devices being integrated into home networks, exposing users to significant privacy and security risks.\n\nThis presentation will cover getting into IoT security research, and lead up to a discussion of new zero day vulnerabilities that have been responsibly disclosed from prior research. Additionally, the session will touch on introductory practical testing techniques that can uncover critical 0-day vulnerabilities in these devices. We’ll walk through introductory methods for analyzing firmware, hardware, and corresponding mobile applications, then bridge the gap into real-world 0-day vulnerability discovery. Additionally, the talk will cover how device-centric research can reveal API vulnerabilities which are invisible to traditional web-focused assessments.\n\nNicholas Cerne\nBishop Fox\nSecurity Consultant\n\nNicholas Cerne is a Security Consultant at Bishop Fox, specializing in application penetration testing, hybrid application assessments, and cloud penetration testing. He also enjoys conducting IoT security research as a hobby. Nicholas holds the Offensive Security Certified Professional (OSCP), Offensive Security Web Expert (OSWE), and Security+ certifications.\n\nHe graduated with a B.S. in Cybersecurity from Virginia Tech, where he formerly served as president of the university's Cybersecurity Club.\nlinkedin.com/in/nick-cerne/\nhttps://bishopfox.com/blog/methodology-for-traeger-grill-hack (blog)\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T06:28:49Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "l7wk5JJVSxg": {
       "video_id": "l7wk5JJVSxg",
@@ -214,7 +361,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Engineers are on the front lines of secure software, but many teams struggle to find the time, budget, or buy-in to upskill them on secure coding and DevSecOps. In this talk, two engineering leaders share how they tackled security education in very different environments: one in a large enterprise, the other in smaller, resource-constrained companies moving fast.\n\nYou’ll hear how they:\n\n- Selected or built security training programs that fit their teams’ needs\n- Integrated learning into team rituals and engineering culture\n- Balanced delivery speed with ongoing security development\n- Got buy-in from engineers and leadership at different org scales\n- Leveraged standardization to efficiently scale their programs\n\nWhether you're starting from scratch or scaling an existing effort, you’ll leave with practical strategies you can adapt to your team’s size, constraints, and security maturity.\n\nBoomie Odumade\nTechBees LLC\nSenior Engineering Leader | Platform & Team Builder | Security-Aware Culture Advocate | Career Coach | DC CTO Club Board\ntechbees.me\n\nBoomie Odumade is a senior software engineering leader with over 20 years of experience building platforms, scaling teams, and delivering enterprise-grade systems under high-stakes conditions. She has led engineering efforts at organizations including Accenture, NPR, Capital One, and several fast-growing tech companies — helping teams integrate security, reliability, and velocity into their development practices.\n\nBoomie brings a practical, energetic perspective to topics like secure delivery culture, tech debt remediation, and team enablement. Her leadership has supported engineering organizations in becoming more security-aware while continuing to deliver at pace.\n\nShe is also an active speaker, career coach, and board member of the DC CTO Club, with a long-standing commitment to mentoring and developing the next generation of technical leaders.\nlinkedin.com/in/odumade\n\nAnthony Nduka Okocha\nCapital One\nEducator | Learner | Software Architect | Cloud Enthusiast\n\nA Husband, A Dad, A Software Engineer @ Capital One, A Story Teller, and A Foodie all walked into a bar…\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T05:42:00Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "qLKi_L5Mgf4": {
       "video_id": "qLKi_L5Mgf4",
@@ -223,7 +377,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Many organizations grapple with how to effectively scale Security Champion programs beyond initial awareness efforts. While the concept is popular, the path to sustained engagement and measurable impact at an enterprise level often remains unclear.\n\nThis talk will share the lessons learned from running a program that supports nearly 800 Security Champions at a large software organization that serves over 60% of the Fortune 500 companies and has more than 11,000 customers worldwide.\n\nOur experience shows that Security Champions programs are most effective when organizational and participant incentives are aligned to co-create security tools, processes, practices, and an ever-present security culture.\n\nFrom an operational perspective, our program serves as a gamification success story where participant contributions are measured by their impact and recognized using a flexible framework that any organization can adopt.\n\nHernán Palombo\nWorkday\nPrincipal Cybersecurity Engineer\n\nDr. Hernán Palombo is a seasoned security leader, engineer, and researcher with nearly 15 years of experience in the field. He currently leads Workday's Security Champions Program, supporting nearly 800 engineers across over 500 teams. His research includes one of the longest ethnographic studies on security culture to date, and his earlier works, featuring formal models of security, were published in top peer-reviewed conferences. Hernán earned his Ph.D. from the University of South Florida for his work on \"Models of Secure Software Enforcement and Development,\" where he also taught Computer Science and Security courses.  \nlinkedin.com/in/hernanpalombo/\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T05:30:03Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "rZJxDBNArS4": {
       "video_id": "rZJxDBNArS4",
@@ -232,7 +393,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Creating an effective application security culture is less about enforcing rules and more about enabling engineering teams to ship secure code without friction. This session explores how we introduced a lightweight AppSec culture into a growing DevOps environment—without slowing developers down. You'll learn how we aligned AppSec practices with developer workflows, moved away from security gatekeeping, and communicated risk in a way that made business sense to leadership. We’ll share lessons learned from both successes and missteps, including how we balanced automation with empathy, supported adoption without authority, and got buy-in from skeptics. If you’re building an AppSec program or looking to reboot your existing one, this talk will give you practical, immediately applicable takeaways.\n\nKhaja Moinuddin Shaik\nAutodesk\nPrincipal DevSecOps Engineer\n\nPrincipal DevSecOps Engineer focused on integrating security into CI/CD, automating AppSec tooling, and fostering developer-friendly security culture. Passionate about scalable solutions and bridging gaps between engineering and security.\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T06:12:10Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "szeG5_a6zVU": {
       "video_id": "szeG5_a6zVU",
@@ -241,7 +409,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Presentation slides: https://static.sched.com/hosted_files/owaspglobalappsecusa2025/74/How%20to%20Defend%20Your%20PKI%20Estate%20%28Ivan%20Ristic%2C%20November%202025%29%20FINAL.pdf\n\nOn the Internet, all security is controlled by digital certificates, but there is a critical flaw at the heart of our Public Key Infrastructure (PKI) ecosystem: any Certification Authority can issue a certificate for any of your properties without your consent. Recent years have seen development of some mitigation technologies, such as Certification Authority Authorization (CAA) and Certificate Transparency (CT). Together, these technologies enable you to regain control of your digital identities. We've spent several years securing digital estates for a wide range of customers; in this talk, we'll share our experiences to help you understand the threats and give you actionable advice to raise your defenses.\n\nIvan Ristic\nRed Sift\nChief Scientist\n\nIvan Ristić writes computer security books and builds security products. His book Bulletproof TLS and PKI, the result of more than a decade of research and study, is widely recognised as the de facto SSL/TLS and PKI reference manual. His work on SSL Labs made millions of web sites more secure. Before that, he created ModSecurity, a leading open-source web application firewall. More recently, Ivan founded Hardenize—now part of Red Sift—as a platform for continuous discovery and monitoring of network and PKI infrastructure. He works as Chief Scientist at Red Sift.\n@ivanristic\nlinkedin.com/in/ivanr\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T04:13:18Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "wI8ml8WqmQc": {
       "video_id": "wI8ml8WqmQc",
@@ -250,7 +425,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "When attackers compromise a developer’s IDE, they own the code before it even reaches production.\n\nVSCode and Visual Studio plugins have minimal security oversight, making them a prime target for attacker-controlled backdoors. In this talk, I’ll cover original research into compromising IDE components and plugins. Attendees will:\n\n- Learn how plugin ecosystems work and why they’re so easy to exploit\n- See demonstrations of practical PoCs of backdoored plugins for VSCode and Visual Studio that steal credentials, inject malicious code, and more\n- Understand how attackers leverage plugin marketplace manipulation: how they use fake reviews, typosquatting, and dependency hijacking to push malicious plugins\n\nExpect a technical deep dive into real-world exploitation techniques, showcasing how attackers are leveraging overlooked security gaps in developer tooling.\n\nRaphael Silva\nCheckmarx\nSecurity Researcher\n\nRaphael Silva is a Security Researcher at Checkmarx, specializing in security research, SAST methodologies, and Supply Chain Security. Over the course of his career, he has presented at various conferences (RootedCon, OWASP Global AppSec, OWASP Local Chapters), as well as conducted a workshop at DEFCON. In addition, he is experienced in vulnerability analysis, research, and disclosure, having reported multiple bugs to companies and open-source projects.  \n@0x_rcss\nlinkedin.com/in/raphaelcssilva/\ncheckmarx.com (company)\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T07:27:57Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "yGOXewm3DsA": {
       "video_id": "yGOXewm3DsA",
@@ -259,7 +441,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Presentation sides: https://static.sched.com/hosted_files/owaspglobalappsecusa2025/35/DC2025%20-%20OWASP%20Top%20Ten%202025.pptx\n\nThe OWASP Top 10:2025 provides an updated view of modern applications' most common and impactful security risks. Based on both industry data and community survey input, the Top 10 is designed as an awareness tool, helping teams baseline the most relevant security concerns. This talk will walk through the changes since the 2021 edition, highlighting where categories have shifted, merged, or expanded to reflect the changes over the last four years. Each risk category will be introduced at a high level, covering its main issues and offering context for how organizations can use the list as a reference point in their security programs.\n\nTanya Janca\nVictoria, Canada\nhttps://twitter.com/shehackspurple\nhttps://www.linkedin.com/in/tanya-janca\n\nTanya Janca, aka SheHacksPurple, is the best-selling author of 'Alice and Bob Learn Secure Coding', 'Alice and Bob Learn Application Security’ and the ‘AppSec Antics’ card game. Over her 28-year IT career she has won countless awards (including OWASP Lifetime Distinguished Member and Hacker of the Year), spoken all over the planet, and is a prolific blogger. Tanya has trained thousands of software developers and IT security professionals, via her online academies (We Hack Purple and Semgrep Academy), and her live training programs. Having performed counter-terrorism, led security for the 52nd Canadian general election, developed or secured countless applications, Tanya Janca is widely considered an international authority on the security of software.\n\nNeil Smithline\n\nNeil Smithline has been an OWASP Top 10 Co-Leader since 2016, driving development of the globally recognized security standard through multiple release cycles. With 25 years in application security, he has created numerous application security programs at companies ranging from startups to well-established enterprises.For the past 7 years, Neil has been focusing on running security programs for cryptocurrency companies. He created and led the security program at the Poloniex cryptocurrency exchange and is now contracting as the lead for two startup crypto companies.\n\nBrian Glas\nUnion University\nDepartment Chair and Assistant Professor of Computer Science and Cybersecurity\nJackson, TN\nhttps://pgsecurityadvisors.com/blog\nhttps://twitter.com/infosecdad\n\nBrian Glas has worked in IT for 25 years and in information/application security for the last two decades. He started as an enterprise Java developer, then transitioned to helping build an application security program as both tech lead and manager. He later played the role of enterprise architect and did a little incident response and reverse engineering malware for fun. Glas then spent a number of years as a consultant helping clients build AppSec programs, create/update SDLCs, and other related initiatives. He has worked on the Trustworthy Computing team at Microsoft and is now chair and assistant professor of Computer Science at Union University, building and reimagining the Computer Science and Cybersecurity programs. He has also been a co-lead for SAMM v1.1-2.0+ and the OWASP Top 10 since 2017, along with helping develop the RABET-V program to assess non-voting election technology.\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-15T10:09:38Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "zVhdf3KjJ_4": {
       "video_id": "zVhdf3KjJ_4",
@@ -268,7 +457,14 @@
       "channel": "OWASP Foundation",
       "label": "Global AppSec DC 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "description": "Security culture and champion programs are often praised, but rarely measured effectively. When it’s time to secure headcount or budget, how do you prove your initiatives are actually working?\n\nIn this session, a longtime AppSec leader and champion program designer will share a practical, battle-tested approach to measuring the impact of security culture and developer engagement. You’ll learn how to track key behaviors across the SDLC, correlate culture efforts with tangible security outcomes, and speak the language of both developers and executives.\n\nWe will cover how to select metrics that reflect real improvement, including examples tied to threat modeling, remediation velocity, and team trust. We'll also discuss tips for starting small, running A/B tests, and using early success to influence leadership buy-in.\n\nWhether you’re just starting your program or scaling it up, you’ll leave with a data-informed strategy that resonates.\n\nDustin Lehr\nKatilyst\nApplication Security Advocate, Security Journey / Co-founder\n\nDustin Lehr is Director of Application Advocacy at Security Journey and Co-founder of Katilyst. As a former software engineer and Cybersecurity leader, he now helps build developer-centric AppSec programs that motivate and incentivize security-minded behaviors. He is also the author of the Security Champion Program Success Guide and co-leads the Let’s Talk Software Security global open discussion community.\nlinkedin.com/in/dustinlehr/\n\nManaged by the OWASP® Foundation\nhttps://owasp.org/",
+      "published_at": "2025-12-16T05:51:17Z",
+      "tags": [
+        "owasp",
+        "appsec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     }
   }
 }

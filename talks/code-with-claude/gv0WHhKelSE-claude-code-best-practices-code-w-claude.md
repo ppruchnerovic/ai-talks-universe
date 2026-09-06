@@ -7,10 +7,10 @@ conference_name: "Code with Claude (Anthropic)"
 category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
-speakers: []
+speakers: ["Cal Rueb"]
 channel: "Anthropic"
 duration_min: 26
-published_at: null
+published_at: 2025-07-31T18:21:04Z
 video_id: gv0WHhKelSE
 url: https://www.youtube.com/watch?v=gv0WHhKelSE
 youtube_url: https://www.youtube.com/watch?v=gv0WHhKelSE
@@ -21,7 +21,7 @@ transcript: false
 
 # Claude Code best practices | Code w/ Claude
 
-**Speaker not identified**
+**Cal Rueb**
 
 `Code with Claude (Anthropic)` · `2025` · `2025` · `26 min`
 
@@ -29,4 +29,7 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.
+
+Speakers:
+Cal Rueb, Member of Technical Staff at @anthropic-ai

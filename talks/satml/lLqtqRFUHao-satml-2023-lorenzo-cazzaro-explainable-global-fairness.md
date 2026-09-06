@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Lorenzo Cazzaro"]
 channel: "Nicolas Papernot"
 duration_min: 16
-published_at: null
+published_at: 2023-02-16T05:00:17Z
 video_id: lLqtqRFUHao
 url: https://www.youtube.com/watch?v=lLqtqRFUHao
 youtube_url: https://www.youtube.com/watch?v=lLqtqRFUHao

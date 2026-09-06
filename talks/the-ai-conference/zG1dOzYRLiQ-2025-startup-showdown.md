@@ -6,11 +6,11 @@ conference: the-ai-conference
 conference_name: "The AI Conference"
 category: "Practitioner AI conferences"
 edition: "The AI Conference"
-year: 2025
+year: 2026
 speakers: []
-channel: null
+channel: "The AI Conference™"
 duration_min: 38
-published_at: null
+published_at: 2026-07-28T16:58:27Z
 video_id: zG1dOzYRLiQ
 url: https://www.youtube.com/watch?v=zG1dOzYRLiQ
 youtube_url: https://www.youtube.com/watch?v=zG1dOzYRLiQ
@@ -23,10 +23,15 @@ transcript: false
 
 **Speaker not identified**
 
-`The AI Conference` · `The AI Conference` · `2025` · `38 min`
+`The AI Conference` · `The AI Conference` · `2026` · `38 min`
 
 [Watch the recording](https://www.youtube.com/watch?v=zG1dOzYRLiQ) · [Conference site](https://aiconference.com/)
 
 ## Description
 
-*No description published on YouTube.*
+🛎️ Remember to hit the bell icon to stay notified!
+
+Follow The AI Conference
+
+© The AI Conference 2025
+Video Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved

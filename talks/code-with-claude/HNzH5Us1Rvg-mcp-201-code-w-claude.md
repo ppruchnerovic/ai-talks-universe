@@ -7,10 +7,10 @@ conference_name: "Code with Claude (Anthropic)"
 category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
-speakers: []
+speakers: ["David Soria Parra"]
 channel: "Anthropic"
 duration_min: 27
-published_at: null
+published_at: 2025-07-31T18:20:32Z
 video_id: HNzH5Us1Rvg
 url: https://www.youtube.com/watch?v=HNzH5Us1Rvg
 youtube_url: https://www.youtube.com/watch?v=HNzH5Us1Rvg
@@ -21,7 +21,7 @@ transcript: false
 
 # MCP 201 | Code w/ Claude
 
-**Speaker not identified**
+**David Soria Parra**
 
 `Code with Claude (Anthropic)` · `2025` · `2025` · `27 min`
 
@@ -29,4 +29,7 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.
+
+Speakers:
+David Soria Parra, Member of Technical Staff at @anthropic-ai

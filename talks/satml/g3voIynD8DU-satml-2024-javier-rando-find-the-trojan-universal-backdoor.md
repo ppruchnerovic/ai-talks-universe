@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Javier Rando"]
 channel: "Nicolas Papernot"
 duration_min: 25
-published_at: null
+published_at: 2024-04-15T13:49:40Z
 video_id: g3voIynD8DU
 url: https://www.youtube.com/watch?v=g3voIynD8DU
 youtube_url: https://www.youtube.com/watch?v=g3voIynD8DU

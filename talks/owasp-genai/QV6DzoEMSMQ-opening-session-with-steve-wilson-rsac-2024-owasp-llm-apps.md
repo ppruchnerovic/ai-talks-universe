@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 43
-published_at: null
+published_at: 2024-05-15T04:27:39Z
 video_id: QV6DzoEMSMQ
 url: https://www.youtube.com/watch?v=QV6DzoEMSMQ
 youtube_url: https://www.youtube.com/watch?v=QV6DzoEMSMQ
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Steve Wilson kicks off the OWASP Top 10 For LLM Apps 1st Generative AI Summit at #RSAC 2024 with some stories and anecdotes from the formation of the project, as well as a look at what's to come!

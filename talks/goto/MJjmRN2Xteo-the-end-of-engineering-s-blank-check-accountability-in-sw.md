@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "General software conferences"
 edition: "GOTO"
 year: 2025
-speakers: ["Laura Tacho"]
+speakers: ["Laura Tacho", "Charles Humble"]
 channel: "GOTO Conferences"
 duration_min: 49
 published_at: 2025-12-05T13:28:11Z
@@ -21,7 +21,7 @@ transcript: false
 
 # The End of Engineering's Blank Check: Accountability in SW Leadership • Laura Tacho & Charles Humble
 
-**Laura Tacho**
+**Laura Tacho, Charles Humble**
 
 `GOTO Conferences` · `GOTO` · `2025` · `49 min`
 

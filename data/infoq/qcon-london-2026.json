@@ -2,8 +2,8 @@
   "edition": "qcon-london-2026",
   "name": "QCon London 2026",
   "year": 2026,
-  "fetched_at": "2026-09-01T21:24:36+00:00",
-  "count": 12,
+  "fetched_at": "2026-09-06T13:24:57+00:00",
+  "count": 13,
   "talks": {
     "ai-coding-assistants": {
       "slug": "ai-coding-assistants",
@@ -226,6 +226,26 @@
       "year": 2026,
       "transcript_words": 6204,
       "fetched_at": "2026-09-01T21:24:36+00:00"
+    },
+    "vortex-columnar-file-format-gpu-streaming": {
+      "slug": "vortex-columnar-file-format-gpu-streaming",
+      "page_url": "https://www.infoq.com/presentations/vortex-columnar-file-format-gpu-streaming/",
+      "has_transcript": true,
+      "title": "From S3 to GPU in One Copy: Rethinking Data Loading for ML Training",
+      "description": "Onur Satici explains how Vortex, an open-source columnar file format under the Linux Foundation, revolutionizes high-throughput data loading. He details how cascading lightweight encodings, layout-based segment pruning, and zero-copy memory pipelines eliminate CPU/NVMe bottlenecks to stream S3 data straight to GPUs at speeds up to 60 Gbps without requiring upfront data reprocessing.\n\nOnur Satici is a Staff Engineer at SpiralDB and a core maintainer of Vortex, an open source columnar file format now part of the Linux Foundation (LF AI & Data). He focuses on high-performance data systems, GPU acceleration, and making analytical workloads faster at every layer of the stack.",
+      "speakers": [
+        "Onur Satici"
+      ],
+      "duration_s": 2977,
+      "published_at": "2026-09-04T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-mar-s3togpu.mp4",
+      "id": "iq-vortex-columnar-file-format-gpu-streaming",
+      "matched_youtube": false,
+      "edition": "qcon-london-2026",
+      "edition_name": "QCon London 2026",
+      "year": 2026,
+      "transcript_words": 7936,
+      "fetched_at": "2026-09-06T13:24:57+00:00"
     },
     "yk-meta-tracing-jit-compiler": {
       "slug": "yk-meta-tracing-jit-compiler",

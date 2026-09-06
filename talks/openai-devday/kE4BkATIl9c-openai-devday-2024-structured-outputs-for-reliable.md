@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 41
-published_at: null
+published_at: 2024-12-17T17:00:48Z
 video_id: kE4BkATIl9c
 url: https://www.youtube.com/watch?v=kE4BkATIl9c
 youtube_url: https://www.youtube.com/watch?v=kE4BkATIl9c
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Learn how to increase reliability with precise JSON schema adherence

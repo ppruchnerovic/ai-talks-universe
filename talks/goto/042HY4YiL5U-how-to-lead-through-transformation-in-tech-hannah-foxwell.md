@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "General software conferences"
 edition: "GOTO"
 year: 2025
-speakers: ["Hannah Foxwell"]
+speakers: ["Hannah Foxwell", "Charles Humble"]
 channel: "GOTO Conferences"
 duration_min: 50
 published_at: 2025-05-09T09:35:23Z
@@ -21,7 +21,7 @@ transcript: false
 
 # How To Lead Through Transformation in Tech • Hannah Foxwell & Charles Humble
 
-**Hannah Foxwell**
+**Hannah Foxwell, Charles Humble**
 
 `GOTO Conferences` · `GOTO` · `2025` · `50 min`
 

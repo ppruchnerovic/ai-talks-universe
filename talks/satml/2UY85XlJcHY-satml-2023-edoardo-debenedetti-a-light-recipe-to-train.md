@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Edoardo Debenedetti"]
 channel: "Nicolas Papernot"
 duration_min: 14
-published_at: null
+published_at: 2023-02-24T12:41:45Z
 video_id: 2UY85XlJcHY
 url: https://www.youtube.com/watch?v=2UY85XlJcHY
 youtube_url: https://www.youtube.com/watch?v=2UY85XlJcHY

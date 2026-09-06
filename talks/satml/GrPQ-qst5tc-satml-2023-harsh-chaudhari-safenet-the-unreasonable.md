@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Harsh Chaudhari"]
 channel: "Nicolas Papernot"
 duration_min: 15
-published_at: null
+published_at: 2023-02-16T05:00:06Z
 video_id: GrPQ-qst5tc
 url: https://www.youtube.com/watch?v=GrPQ-qst5tc
 youtube_url: https://www.youtube.com/watch?v=GrPQ-qst5tc
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+SafeNet: The Unreasonable Effectiveness of Ensembles in Private Collaborative Learning

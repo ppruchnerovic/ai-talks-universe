@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "PyTorch"
 duration_min: 11
-published_at: null
+published_at: 2025-11-04T03:47:26Z
 video_id: fxvR3K5CV_A
 url: https://www.youtube.com/watch?v=fxvR3K5CV_A
 youtube_url: https://www.youtube.com/watch?v=fxvR3K5CV_A
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Lightning Talk: FlexCP: FlexAttention for Long Sequence Training Using Context Parallel - Xilun Wu & Chien-Chin Huang, Meta
+
+FlexAttention is a versatile solution that enables arbitrary attention customization without sacrificing performance. It allows users to define a customized attention function and generates a corresponding FlashAttention kernel with competitive performance to handwritten ones. In this talk, we will share our experience of integrating FlexAttention with context parallelism in long sequence training, covering aspects such as API design, user experience, and performance tuning. Our goal is to empower the audience to easily experiment with custom attention settings on long sequences, without compromising on performance.

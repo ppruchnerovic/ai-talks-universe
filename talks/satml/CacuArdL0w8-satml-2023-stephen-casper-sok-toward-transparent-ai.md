@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Stephen Casper"]
 channel: "Nicolas Papernot"
 duration_min: 18
-published_at: null
+published_at: 2023-02-16T05:00:04Z
 video_id: CacuArdL0w8
 url: https://www.youtube.com/watch?v=CacuArdL0w8
 youtube_url: https://www.youtube.com/watch?v=CacuArdL0w8
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+SoK: Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks

@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Yao Qin"]
 channel: "Nicolas Papernot"
 duration_min: 16
-published_at: null
+published_at: 2023-02-16T05:00:18Z
 video_id: o8IVA2iEc90
 url: https://www.youtube.com/watch?v=o8IVA2iEc90
 youtube_url: https://www.youtube.com/watch?v=o8IVA2iEc90
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+What Are Effective Labels for Augmented Data? Improving Calibration and Robustness with AutoLabel

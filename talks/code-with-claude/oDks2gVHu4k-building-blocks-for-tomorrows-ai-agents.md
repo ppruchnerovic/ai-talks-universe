@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "Anthropic"
 duration_min: 29
-published_at: null
+published_at: 2025-05-23T09:32:08Z
 video_id: oDks2gVHu4k
 url: https://www.youtube.com/watch?v=oDks2gVHu4k
 youtube_url: https://www.youtube.com/watch?v=oDks2gVHu4k
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Battle-tested approaches for building agents with state-of-the-art AI capabilities

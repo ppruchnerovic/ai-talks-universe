@@ -8,14 +8,14 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 26
-published_at: null
+published_at: 2024-10-18T22:28:26Z
 video_id: jYQ9ry8uXY0
 url: https://www.youtube.com/watch?v=jYQ9ry8uXY0
 youtube_url: https://www.youtube.com/watch?v=jYQ9ry8uXY0
 tags: []
-topics: ["Training, fine-tuning & model building"]
+topics: ["Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 
@@ -29,4 +29,20 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Airbnb's transition to Ray as its next-generation infrastructure component marks a pivotal shift in its AI capabilities. In this session, Shaowei Su and Mia Zhao from Airbnb unveil the company's journey in evolving LLM fine-tuning support, leveraging open-source frameworks within the Ray ecosystem.
+
+The presenters detail Airbnb's adoption of efficient fine-tuning techniques using Llama Factory and resource-sharing strategies with Kueue. They then showcase a real-world application in Airbnb's customer support team, demonstrating how Supervised Fine Tuning (SFT) and Direct Preference Optimization (DPO) have been used to align LLMs with curated preference datasets. This talk offers valuable insights into building and implementing advanced ML infrastructure, bridging the gap between theoretical concepts and practical applications in a major tech company.
+
+--
+
+Interested in more?
+- Watch the full Day 1 Keynote: https://youtu.be/jwZHJthQvXo
+- Watch the full Day 2 Keynote https://youtu.be/Lury2ad6KG8
+
+--
+
+🔗 Connect with us:
+- Subscribe to our YouTube channel: https://www.youtube.com/@anyscale
+- Twitter: https://x.com/anyscalecompute
+- LinkedIn: https://linkedin.com/company/joinanyscale/
+- Website: https://www.anyscale.com

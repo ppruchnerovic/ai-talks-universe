@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
-channel: null
+channel: "CAMLIS"
 duration_min: 20
-published_at: null
+published_at: 2022-11-30T02:59:46Z
 video_id: 2z_8kZVdN-o
 url: https://www.youtube.com/watch?v=2z_8kZVdN-o
 youtube_url: https://www.youtube.com/watch?v=2z_8kZVdN-o
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+CAMLIS 2022, Subhabrata Majumdar and Ganesh Subramanium

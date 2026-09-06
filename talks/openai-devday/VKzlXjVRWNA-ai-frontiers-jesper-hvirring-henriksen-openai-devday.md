@@ -10,7 +10,7 @@ year: 2023
 speakers: []
 channel: "OpenAI"
 duration_min: 9
-published_at: null
+published_at: 2023-11-15T21:12:18Z
 video_id: VKzlXjVRWNA
 url: https://www.youtube.com/watch?v=VKzlXjVRWNA
 youtube_url: https://www.youtube.com/watch?v=VKzlXjVRWNA
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Meet Jesper Hvirring Henriksen, CTO of Be My Eyes which uses GPT4’s image recognition capabilities to convert the visual world into text and speech for the visually impaired.

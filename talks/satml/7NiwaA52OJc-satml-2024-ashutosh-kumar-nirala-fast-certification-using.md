@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Ashutosh Kumar Nirala"]
 channel: "Nicolas Papernot"
 duration_min: 13
-published_at: null
+published_at: 2024-04-12T18:07:11Z
 video_id: 7NiwaA52OJc
 url: https://www.youtube.com/watch?v=7NiwaA52OJc
 youtube_url: https://www.youtube.com/watch?v=7NiwaA52OJc

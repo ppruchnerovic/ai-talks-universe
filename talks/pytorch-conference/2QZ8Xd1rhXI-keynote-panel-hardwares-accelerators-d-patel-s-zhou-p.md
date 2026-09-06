@@ -10,12 +10,12 @@ year: 2025
 speakers: ["D Patel"]
 channel: "PyTorch"
 duration_min: 30
-published_at: null
+published_at: 2025-11-04T03:45:44Z
 video_id: 2QZ8Xd1rhXI
 url: https://www.youtube.com/watch?v=2QZ8Xd1rhXI
 youtube_url: https://www.youtube.com/watch?v=2QZ8Xd1rhXI
 tags: []
-topics: ["Inference, serving & GPU infra"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Keynote Panel Discussion: Hardwares & Accelerators - Dylan Patel, Founder, CEO & Chief Analyst, SemiAnalysis; Sharon Zhou, VP of AI, AMD; Peter Salanki, Co-founder & CTO, CoreWeave; Nitin Perumbeti, CTO, Crusoe and moderated by Mark Saroufim, Softw

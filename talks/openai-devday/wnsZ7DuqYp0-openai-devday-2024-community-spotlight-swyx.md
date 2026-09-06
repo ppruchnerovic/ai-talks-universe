@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 10
-published_at: null
+published_at: 2024-12-17T17:01:01Z
 video_id: wnsZ7DuqYp0
 url: https://www.youtube.com/watch?v=wnsZ7DuqYp0
 youtube_url: https://www.youtube.com/watch?v=wnsZ7DuqYp0
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Engineering AI Agents

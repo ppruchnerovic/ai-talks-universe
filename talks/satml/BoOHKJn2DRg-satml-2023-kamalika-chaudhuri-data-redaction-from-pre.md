@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Kamalika Chaudhuri"]
 channel: "Nicolas Papernot"
 duration_min: 16
-published_at: null
+published_at: 2023-02-16T05:00:08Z
 video_id: BoOHKJn2DRg
 url: https://www.youtube.com/watch?v=BoOHKJn2DRg
 youtube_url: https://www.youtube.com/watch?v=BoOHKJn2DRg

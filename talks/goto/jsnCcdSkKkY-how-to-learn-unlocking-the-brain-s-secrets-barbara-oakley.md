@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "General software conferences"
 edition: "GOTO"
 year: 2025
-speakers: ["Barbara Oakley"]
+speakers: ["Barbara Oakley", "Charles Humble"]
 channel: "GOTO Conferences"
 duration_min: 47
 published_at: 2025-04-11T09:26:52Z
@@ -21,7 +21,7 @@ transcript: false
 
 # How to Learn: Unlocking the Brain's Secrets • Barbara Oakley & Charles Humble
 
-**Barbara Oakley**
+**Barbara Oakley, Charles Humble**
 
 `GOTO Conferences` · `GOTO` · `2025` · `47 min`
 

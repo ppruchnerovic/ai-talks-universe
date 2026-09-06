@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Andrew Geng"]
 channel: "Nicolas Papernot"
 duration_min: 14
-published_at: null
+published_at: 2024-04-10T18:54:48Z
 video_id: q30gKxOBPCE
 url: https://www.youtube.com/watch?v=q30gKxOBPCE
 youtube_url: https://www.youtube.com/watch?v=q30gKxOBPCE

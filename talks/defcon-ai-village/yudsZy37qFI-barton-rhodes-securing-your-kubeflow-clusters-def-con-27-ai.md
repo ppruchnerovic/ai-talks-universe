@@ -10,11 +10,11 @@ year: 2019
 speakers: ["Barton Rhodes"]
 channel: "DEFCONConference"
 duration_min: 32
-published_at: null
+published_at: 2019-12-20T02:19:21Z
 video_id: yudsZy37qFI
 url: https://www.youtube.com/watch?v=yudsZy37qFI
 youtube_url: https://www.youtube.com/watch?v=yudsZy37qFI
-tags: []
+tags: ["DEF", "CON", "DEFCON", "DEF CON", "hacker conference", "security conference", "information security conference", "information security", "conference speakers", "hackers", "hacking", "hacking videos", "security research", "artificial intelligence"]
 topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
@@ -25,8 +25,10 @@ transcript: false
 
 `DEF CON AI Village` · `DEF CON 27 AI Village` · `2019` · `32 min`
 
+`#DEF` `#CON` `#DEFCON` `#DEF CON` `#hacker conference` `#security conference` `#information security conference` `#information security` `#conference speakers` `#hackers` `#hacking` `#hacking videos` `#security research` `#artificial intelligence`
+
 [Watch the recording](https://www.youtube.com/watch?v=yudsZy37qFI) · [Conference site](https://aivillage.org/)
 
 ## Description
 
-*No description published on YouTube.*
+Presentations from DEF CON 27 AI Village

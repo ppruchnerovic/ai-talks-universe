@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Kamala Varma"]
 channel: "Nicolas Papernot"
 duration_min: 15
-published_at: null
+published_at: 2024-04-11T17:30:43Z
 video_id: cGk9X4UmXuU
 url: https://www.youtube.com/watch?v=cGk9X4UmXuU
 youtube_url: https://www.youtube.com/watch?v=cGk9X4UmXuU

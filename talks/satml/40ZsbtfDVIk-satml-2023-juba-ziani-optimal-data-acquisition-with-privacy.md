@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Juba Ziani"]
 channel: "Nicolas Papernot"
 duration_min: 14
-published_at: null
+published_at: 2023-02-16T05:00:01Z
 video_id: 40ZsbtfDVIk
 url: https://www.youtube.com/watch?v=40ZsbtfDVIk
 youtube_url: https://www.youtube.com/watch?v=40ZsbtfDVIk

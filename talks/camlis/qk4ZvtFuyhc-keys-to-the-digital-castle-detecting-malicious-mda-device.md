@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
-channel: null
+channel: "CAMLIS"
 duration_min: 9
-published_at: null
+published_at: 2022-11-30T03:30:24Z
 video_id: qk4ZvtFuyhc
 url: https://www.youtube.com/watch?v=qk4ZvtFuyhc
 youtube_url: https://www.youtube.com/watch?v=qk4ZvtFuyhc
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+CAMLIS 2022, Michael Moran

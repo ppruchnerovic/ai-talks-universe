@@ -1,7 +1,7 @@
 {
   "slug": "camlis",
   "name": "CAMLIS",
-  "enumerated_at": "2026-08-30T21:47:48+00:00",
+  "enumerated_at": "2026-09-06T13:21:23+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
@@ -94,10 +94,14 @@
       "video_id": "2z_8kZVdN-o",
       "title": "Network Security Modelling with Distributional Data (CAMLIS 2022)",
       "duration_s": 1170,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Subhabrata Majumdar and Ganesh Subramanium",
+      "published_at": "2022-11-30T02:59:46Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "2zveQ0eS1Bo": {
       "video_id": "2zveQ0eS1Bo",
@@ -129,10 +133,14 @@
       "video_id": "4cLz5YyatnI",
       "title": "Playing Cat and Mouse with the Attacker: Frequent Item Set Mining in the Registry (CAMLIS 2022)",
       "duration_s": 1206,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Maeve Mulholland, Tim Nary, and Fred Frey",
+      "published_at": "2022-11-30T03:31:33Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "50nfQ0Odz_E": {
       "video_id": "50nfQ0Odz_E",
@@ -196,10 +204,14 @@
       "video_id": "7mj0ns8SILU",
       "title": "Building a Multi-Tenant Machine Learning Workflow Orchestration Platform (CAMLIS 2022)",
       "duration_s": 1032,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Kristian Robert Langholm, Ankur Mohan",
+      "published_at": "2022-11-30T03:58:37Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "8uxDMu7iMPo": {
       "video_id": "8uxDMu7iMPo",
@@ -218,10 +230,14 @@
       "video_id": "947Zn0iZctw",
       "title": "Half-Day Vulnerabilities: A Study of the First Days of CVE Entries (CAMLIS 2022)",
       "duration_s": 1298,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Kobra Khanmohammadi, Raphael Khoury",
+      "published_at": "2022-11-30T03:28:38Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "9cyBf2xN6-o": {
       "video_id": "9cyBf2xN6-o",
@@ -240,10 +256,14 @@
       "video_id": "Bl1h4jvmCL0",
       "title": "Keynote: PE Binary Classification Pitfalls (CAMLIS 2022)",
       "duration_s": 2305,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Amanda Rousseau, Principal Security Engineer, Microsoft,\n\nhttps://twitter.com/malwareunicorn",
+      "published_at": "2022-11-30T02:52:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "CUCj-I0t9aY": {
       "video_id": "CUCj-I0t9aY",
@@ -559,19 +579,27 @@
       "video_id": "NEuSP4Va4zI",
       "title": "Detecting Homoglyph Domains with Character Image LSTMs (CAMLIS 2022)",
       "duration_s": 1004,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Rob Brandon",
+      "published_at": "2022-11-30T02:55:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "NJG6REGwr24": {
       "video_id": "NJG6REGwr24",
       "title": "Minimizing Compute Costs: When When Should We Run More Expensive Malware Analysis? (CAMLIS 2022)",
       "duration_s": 1323,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Andre Nguyen, Richard Zak, Luke Edward Richards, Maya Fuchs, Fred Lu, Robert Brandon, Gary David Lopez Munoz, Ed Raff, Charles Nicholas, and James Holt",
+      "published_at": "2022-11-30T02:44:11Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "N_xCmzj39cM": {
       "video_id": "N_xCmzj39cM",
@@ -749,10 +777,14 @@
       "video_id": "U791dysQQPY",
       "title": "Keynote: Lessons Learned in Red Teaming AI Systems in High-Stakes Environments (CAMLIS 2022)",
       "duration_s": 2208,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Mikel D. Rodriguez, Innovation Center Director, Artificial Intelligence and Autonomy, MITRE",
+      "published_at": "2022-11-30T03:29:01Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "UlEc9HNgqjE": {
       "video_id": "UlEc9HNgqjE",
@@ -806,10 +838,18 @@
       "video_id": "W9iYTO9vEbA",
       "title": "Bonware to the Rescue: the Future Autonomous Cyber Defense Agents | Dr Alexander Kott | CAMLIS 2018",
       "duration_s": 2681,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Alexander Kott, Chief Scientist, Army Research Laboratory\nBonware to the Rescue: the Future Autonomous Cyber Defense Agents (slides: https://www.camlis.org/alexander-kott/)\n\nI will begin my talk my pointing out that in a number of important domains, especially mobile, such as military but also industrial, conventional cyber defense paradigms are increasingly inadequate, and one solution might involve host based autonomous cyber defense agents. For a number of reasons machine learning is a key to creation and continuing adaptation of such an agent.  I will discuss what this agent might look like and what distinct functional features and advantages it might exhibit. I will also describe a tentative vision of how such agent might be architected and where Machine Learning fits into the architecture. I will outline requirements for the learning process, and possible approaches to how the agent can learn to actively parry the actions of the malware; and what apparent limitations of today’s ML must be overcome in order to address such requirements.",
+      "published_at": "2018-11-12T22:10:59Z",
+      "tags": [
+        "camlis",
+        "camlis2018",
+        "bonware"
+      ],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "WZKJYZMdq5w": {
       "video_id": "WZKJYZMdq5w",
@@ -989,10 +1029,14 @@
       "video_id": "cqPdJV6MyL8",
       "title": "Webshell Detection Case Study (CAMLIS 2022)",
       "duration_s": 1369,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Lindsey Lack and John Conwell",
+      "published_at": "2022-11-30T02:49:14Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "cqqUzsXIdPg": {
       "video_id": "cqqUzsXIdPg",
@@ -1082,10 +1126,14 @@
       "video_id": "fGfAnJq1fgM",
       "title": "Efficient Malware Analysis Using Metric Embeddings (CAMLIS 2022)",
       "duration_s": 1165,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Ethan Rudd, David Krisiloff, Daniel Olszewski, Ed Raff, and James Holt",
+      "published_at": "2022-11-30T02:37:25Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "gO3Q7fCoOdU": {
       "video_id": "gO3Q7fCoOdU",
@@ -1149,10 +1197,14 @@
       "video_id": "i59PtruGd1o",
       "title": "Inroads in Autonomous Network Defence using Explained Reinforcement Learning (CAMLIS 2022)",
       "duration_s": 1159,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Myles Foley, Mia Wang, Zoe M., Chris Hicks, and Vasilios Mavroudis",
+      "published_at": "2022-11-30T03:35:13Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "iPKpxlZblBM": {
       "video_id": "iPKpxlZblBM",
@@ -1213,10 +1265,14 @@
       "video_id": "l8x_DYCHVio",
       "title": "Temporal Attack Detection in Multimodal Cyber-Physical Systems with Sticky HDP-HMM (CAMLIS 2022)",
       "duration_s": 699,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Andrew Hong, Peter Malinovsky, Suresh Damodaran",
+      "published_at": "2022-11-30T03:29:32Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "mbGXCNihUnw": {
       "video_id": "mbGXCNihUnw",
@@ -1287,19 +1343,27 @@
       "video_id": "ods-4cg8w1o",
       "title": "Learning to Embed Byte Sequences with Convolutional Autoencoders (CAMLIS 2022)",
       "duration_s": 1250,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Doug Sibley",
+      "published_at": "2022-11-30T02:53:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "p4AQDQjaOQg": {
       "video_id": "p4AQDQjaOQg",
       "title": "Heterogenous Graph Embedding for Malicious Azure Sign-in Detection (CAMLIS 2022)",
       "duration_s": 1021,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Tadesse Zemichael and Rachel Allen",
+      "published_at": "2022-11-30T02:50:56Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "p7Q45X31hJI": {
       "video_id": "p7Q45X31hJI",
@@ -1334,10 +1398,14 @@
       "video_id": "qk4ZvtFuyhc",
       "title": "Keys to the Digital Castle: Detecting Malicious MDA Device Enrollment at Scale (CAMLIS 2022)",
       "duration_s": 523,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Michael Moran",
+      "published_at": "2022-11-30T03:30:24Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "s-1PbX9Rq2E": {
       "video_id": "s-1PbX9Rq2E",
@@ -1501,10 +1569,14 @@
       "video_id": "wptjlWATr-w",
       "title": "Enhancing 2FA with IP-based geolocation without blocking all your users (CAMLIS 2022)",
       "duration_s": 702,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Becca Lynch and Richard Harang",
+      "published_at": "2022-11-30T03:31:41Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "yZosg1fYFYk": {
       "video_id": "yZosg1fYFYk",
@@ -1597,10 +1669,14 @@
       "video_id": "zz7bEUiX82Y",
       "title": "Firenze: Model Evaluation Using Weak Signals (CAMLIS 2022)",
       "duration_s": 1199,
-      "channel": null,
+      "channel": "CAMLIS",
       "label": "CAMLIS",
       "year": null,
-      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Bhavna Soman, MohamadAli Torkamani, Michal Morais, Jeffery Bickford, and Baris Coskun",
+      "published_at": "2022-11-30T03:30:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:52+00:00"
     }
   }
 }

@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 26
-published_at: null
+published_at: 2025-10-08T17:01:42Z
 video_id: EDqQtysycT4
 url: https://www.youtube.com/watch?v=EDqQtysycT4
 youtube_url: https://www.youtube.com/watch?v=EDqQtysycT4
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+No city embraces the future like San Francisco. Get inspired by local developers using AI to tackle real challenges: making SF services work, improving housing options, and strengthening community.

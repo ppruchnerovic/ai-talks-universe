@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "Meta Developers"
 duration_min: 8
-published_at: null
+published_at: 2025-09-18T23:38:11Z
 video_id: V5wBuMahQx4
 url: https://www.youtube.com/watch?v=V5wBuMahQx4
 youtube_url: https://www.youtube.com/watch?v=V5wBuMahQx4
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Our lineup of AI glasses is expanding. In this session, we will provide an exclusive, in-depth look at what we are planning to unveil in our highly anticipated official developer preview. Gain early insight into the toolkit's core functionalities and discover how it facilitates the creation of unique experiences that leverage the natural perspective of the wearer and the clarity of open-ear audio.

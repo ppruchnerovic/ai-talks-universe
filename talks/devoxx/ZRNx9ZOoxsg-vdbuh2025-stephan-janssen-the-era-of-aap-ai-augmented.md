@@ -8,9 +8,9 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Stephan Janssen"]
-channel: null
+channel: "Devoxx"
 duration_min: 46
-published_at: null
+published_at: 2025-04-17T05:04:06Z
 video_id: ZRNx9ZOoxsg
 url: https://www.youtube.com/watch?v=ZRNx9ZOoxsg
 youtube_url: https://www.youtube.com/watch?v=ZRNx9ZOoxsg
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+As we enter the era of AI-Augmented Programming (AAP), developers stand at the threshold of a profound shift in software creation and maintenance. This talk delves into the emerging paradigm where Java and Large Language Models (LLMs) are leveraged to enhance and automate various stages of the development lifecycle.
+
+We’ll explore how Java and LLMs are reshaping Integrated Development Environments (IDEs) and transforming developer workflows. The presentation will demo the integration of both local and remote LLMs, demonstrating their practical applications in coding assistance, debugging, and even generating entire projects from high-level prompts.

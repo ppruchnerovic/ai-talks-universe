@@ -10,12 +10,12 @@ year: 2025
 speakers: []
 channel: "SANS Institute"
 duration_min: 29
-published_at: null
+published_at: 2025-05-13T19:50:53Z
 video_id: gk6t9tPRm38
 url: https://www.youtube.com/watch?v=gk6t9tPRm38
 youtube_url: https://www.youtube.com/watch?v=gk6t9tPRm38
-tags: []
-topics: []
+tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 
@@ -25,8 +25,15 @@ transcript: false
 
 `SANS AI Cybersecurity Summit` · `AI Cybersecurity Summit 2025` · `2025` · `29 min`
 
+`#sans institute` `#information security` `#cyber security` `#cybersecurity` `#information security training` `#cybersecurity training` `#cyber security training`
+
 [Watch the recording](https://www.youtube.com/watch?v=gk6t9tPRm38) · [Conference site](https://www.sans.org/cyber-security-summit/)
 
 ## Description
 
-*No description published on YouTube.*
+SANS AI Cybersecurity Summit 2025
+Fireside Chat
+Sounil Yu, Co-founder and Chief AI Safety Officer, Knostic
+Rob Lee, Chief of Research and Fellow, SANS Institute
+
+View upcoming Summits: http://www.sans.org/u/DuS

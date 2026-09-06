@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 52
-published_at: null
+published_at: 2024-03-29T17:37:49Z
 video_id: gmZl_BwhRn4
 url: https://www.youtube.com/watch?v=gmZl_BwhRn4
 youtube_url: https://www.youtube.com/watch?v=gmZl_BwhRn4
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+This month was huge. We talked about the returning core members and early data from our volunteer interest survey, as well as possible charter expansion. We've also got an AI summit coming up at RSA that is not to miss! Also, the leads gave reports, too!

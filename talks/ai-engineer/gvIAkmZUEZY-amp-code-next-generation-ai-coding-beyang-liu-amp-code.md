@@ -9,7 +9,7 @@ edition: "AI Engineer"
 year: 2025
 speakers: ["Amp Code"]
 channel: "AI Engineer"
-duration_min: 18
+duration_min: 19
 published_at: 2025-12-22T00:00:00Z
 video_id: gvIAkmZUEZY
 url: https://www.youtube.com/watch?v=gvIAkmZUEZY
@@ -23,7 +23,7 @@ transcript: false
 
 **Amp Code**
 
-`AI Engineer` · `AI Engineer` · `2025` · `18 min`
+`AI Engineer` · `AI Engineer` · `2025` · `19 min`
 
 [Watch the recording](https://www.youtube.com/watch?v=gvIAkmZUEZY) · [Conference site](https://www.ai.engineer/)
 

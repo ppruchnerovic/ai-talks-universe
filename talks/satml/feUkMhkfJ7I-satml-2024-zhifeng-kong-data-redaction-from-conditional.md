@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Zhifeng Kong"]
 channel: "Nicolas Papernot"
 duration_min: 16
-published_at: null
+published_at: 2024-04-10T18:56:17Z
 video_id: feUkMhkfJ7I
 url: https://www.youtube.com/watch?v=feUkMhkfJ7I
 youtube_url: https://www.youtube.com/watch?v=feUkMhkfJ7I

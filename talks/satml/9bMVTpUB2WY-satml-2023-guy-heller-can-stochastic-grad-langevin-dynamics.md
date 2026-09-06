@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Guy Heller"]
 channel: "Nicolas Papernot"
 duration_min: 14
-published_at: null
+published_at: 2023-02-16T05:00:08Z
 video_id: 9bMVTpUB2WY
 url: https://www.youtube.com/watch?v=9bMVTpUB2WY
 youtube_url: https://www.youtube.com/watch?v=9bMVTpUB2WY
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Can Stochastic Gradient Langevin Dynamics Provide Differential Privacy for Deep Learning?

@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "General software conferences"
 edition: "GOTO"
 year: 2026
-speakers: ["Hannah Foxwell"]
+speakers: ["Charles Humble", "Hannah Foxwell"]
 channel: "GOTO Conferences"
 duration_min: 59
 published_at: 2026-03-23T13:01:45Z
@@ -21,7 +21,7 @@ transcript: true
 
 # Kubernetes at the Edge • Charles Humble & Hannah Foxwell • GOTO 2026
 
-**Hannah Foxwell**
+**Charles Humble, Hannah Foxwell**
 
 `GOTO Conferences` · `GOTO` · `2026` · `59 min`
 

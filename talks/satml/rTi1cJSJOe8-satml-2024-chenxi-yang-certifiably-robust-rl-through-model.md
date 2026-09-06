@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Chenxi Yang"]
 channel: "Nicolas Papernot"
 duration_min: 12
-published_at: null
+published_at: 2024-04-12T18:10:07Z
 video_id: rTi1cJSJOe8
 url: https://www.youtube.com/watch?v=rTi1cJSJOe8
 youtube_url: https://www.youtube.com/watch?v=rTi1cJSJOe8

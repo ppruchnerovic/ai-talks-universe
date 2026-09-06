@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Greg Osuri"]
 channel: "PyTorch"
 duration_min: 23
-published_at: null
+published_at: 2025-11-04T03:43:38Z
 video_id: T3nA1nAaLss
 url: https://www.youtube.com/watch?v=T3nA1nAaLss
 youtube_url: https://www.youtube.com/watch?v=T3nA1nAaLss
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Sponsored Session: Powering PyTorch: Decentralized Training for an Energy-Hungry Future - Greg Osuri, Overclock Labs & Akash Network
+
+Centralized capacity is hitting the energy wall. This talk demonstrates PyTorch training that follows renewables across modular data centers and decentralized markets. Expect practical recipes for communication reduction, compute overlap, quantized gradients, preemption recovery, sharded checkpoints, and placement guided by price and carbon, with utilization and Wh per token improvements

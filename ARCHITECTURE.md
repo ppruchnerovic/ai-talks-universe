@@ -659,12 +659,12 @@ having written a test at all.
 
 | Suite | Runs in | Protects against |
 |---|---|---|
-| `test_fetch_transcripts.py` (154) | ~1 s, faked HTTP and egresses | a block recorded as a miss; an estimate returned under `--source exact`; a talk dropped when its proxy was benched; the lease rule; both 429 paths |
+| `test_fetch_transcripts.py` (157) | ~1 s, faked HTTP and egresses | a block recorded as a miss; an estimate returned under `--source exact`; a talk dropped when its proxy was benched; the lease rule; both 429 paths |
 | `test_excerpt.py` (57) | 0.1 s, pure functions | the excerpt that is the whole transcript |
 | `test_query.py` (75) | 0.1 s, a throwaway database | OR chains with hyphens; ids that cut short at a hyphen; `--topic` resolving one word of a label, and refusing an ambiguous one |
 | `test_speakers.py` (18) | 0.1 s | every speaker shape, and the brand or job title that would rank under every talk carrying it |
 | `test_topics.py` (509) | 0.1 s, no corpus | a topic firing on a title it is not about; the boundaries that are rules (a bare "enterprise", a bare tool name, "prompt injection"); a phrase pattern that can match nothing; a conference's boilerplate filing the whole conference under one subject |
-| `test_infoq.py` (48) | offline | the fold-in, the two-way dedupe, the re-keyed transcripts |
+| `test_infoq.py` (54) | offline | the fold-in, the two-way dedupe, the re-keyed transcripts; `merge_source` keeping a cached channel when the listing says `null`, and keeping the videos a full `first: N` window pushed past |
 | `test_stem.py` (5) | ~6 s, reads the corpus, runs node | the Python and JavaScript stemmers disagreeing on any corpus word — a silent miss on one side |
 | `test_semantic.py` (60; 7 more when the layer is installed) | 0.2 s, standard library | the staleness rules, reciprocal-rank fusion and the pool mapping on a machine that never installed the layer — the fallback path |
 | `check_registry.py` | instant | `conferences.json` and `ai-conferences.md` drifting apart |

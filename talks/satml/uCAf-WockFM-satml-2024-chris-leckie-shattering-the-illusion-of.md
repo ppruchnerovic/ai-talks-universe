@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Chris Leckie"]
 channel: "Nicolas Papernot"
 duration_min: 19
-published_at: null
+published_at: 2024-04-12T18:31:51Z
 video_id: uCAf-WockFM
 url: https://www.youtube.com/watch?v=uCAf-WockFM
 youtube_url: https://www.youtube.com/watch?v=uCAf-WockFM

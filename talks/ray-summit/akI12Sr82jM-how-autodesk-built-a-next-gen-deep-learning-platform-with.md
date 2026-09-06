@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 31
-published_at: null
+published_at: 2025-11-18T17:23:26Z
 video_id: akI12Sr82jM
 url: https://www.youtube.com/watch?v=akI12Sr82jM
 youtube_url: https://www.youtube.com/watch?v=akI12Sr82jM
@@ -29,4 +29,10 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+At Ray Summit 2025, Guillermo Del Castillo and Kamal Rahimi Malekshan from Autodesk share their journey to enabling large-scale deep learning across the company.
+
+They describe how Autodesk first explored managed solutions like AWS Batch and SageMaker, but quickly ran into challenges around scalability, customization, networking, and developer experience. To overcome these limitations, the team turned to Ray and KubeRay, gaining the flexibility and control needed to support diverse deep learning workloads.
+
+Building on these technologies, Autodesk developed RayLab—its internal platform for scalable training, data processing, and model serving.
+
+If you're evaluating ML platforms, building distributed training systems, or scaling deep learning infrastructure, this talk provides practical, real-world insights.

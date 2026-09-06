@@ -10,12 +10,12 @@ year: 2025
 speakers: []
 channel: "LangChain"
 duration_min: 20
-published_at: null
+published_at: 2025-06-11T17:51:19Z
 video_id: kuXtW03cZEA
 url: https://www.youtube.com/watch?v=kuXtW03cZEA
 youtube_url: https://www.youtube.com/watch?v=kuXtW03cZEA
 tags: []
-topics: ["Agents & orchestration", "Evals, observability & reliability"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Ben Liebald, who leads engineering at Harvey, discusses how they build and evaluate domain-specific AI for legal and professional services. He shares Harvey's approach to creating reliable AI systems through lawyer-in-the-loop development, human preference evaluations, and automated assessment tools including LangSmith. Liebald explains their methodology for building complex legal workflows and agents that can handle tasks like document analysis, drafting, and multi-step legal processes.
+
+Watch all of our recorded sessions from Interrupt here: https://interrupt.langchain.com/video/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_interrupt-2025_co

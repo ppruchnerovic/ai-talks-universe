@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 35
-published_at: null
+published_at: 2024-10-18T21:02:39Z
 video_id: 1OzBgufIJJk
 url: https://www.youtube.com/watch?v=1OzBgufIJJk
 youtube_url: https://www.youtube.com/watch?v=1OzBgufIJJk
@@ -29,4 +29,20 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Uber's Ivan Zhou and Sabarish Sivanath dive deep into the work Uber is doing to develop in-house multi-modal foundation models. The talk focuses on Uber's approach to automating and accelerating earner onboarding and screening processes across their global marketplace.
+
+Zhou and Sivanath detail Uber's custom model architecture, and how it's optimized for various input modalities and languages. They explain how these models were pretrained on Uber's vast proprietary data using distributed training clusters on Ray. The presentation covers the fine-tuning process and subsequent deployment of these foundation models to streamline document processing workflows in key Uber markets globally. Zhou and Sivanath share valuable insights on building scalable, high-performance foundation models using extensive enterprise data, demonstrating how these models drive concrete business value in a global tech company setting.
+
+--
+
+Interested in more?
+- Watch the full Day 1 Keynote: https://youtu.be/jwZHJthQvXo
+- Watch the full Day 2 Keynote https://youtu.be/Lury2ad6KG8
+
+--
+
+🔗 Connect with us:
+- Subscribe to our YouTube channel: https://www.youtube.com/@anyscale
+- Twitter: https://x.com/anyscalecompute
+- LinkedIn: https://linkedin.com/company/joinanyscale/
+- Website: https://www.anyscale.com

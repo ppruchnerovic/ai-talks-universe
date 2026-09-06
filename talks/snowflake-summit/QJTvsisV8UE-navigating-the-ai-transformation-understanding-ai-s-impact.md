@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "Snowflake Developers"
 duration_min: 13
-published_at: null
+published_at: 2025-06-17T16:00:44Z
 video_id: QJTvsisV8UE
 url: https://www.youtube.com/watch?v=QJTvsisV8UE
 youtube_url: https://www.youtube.com/watch?v=QJTvsisV8UE
@@ -29,4 +29,9 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+As AI trends evolve, the future of our professions and work will look very different, even a few years from now. While many transformations have been predicted, in this Luminary Talk from Summit 2025, Lisa Cohen, Head of Data at Anthropic, reviews industry data to see how AI use cases are evolving and being adopted. Tune in for an evidence-based discussion of both the challenges and possibilities as we navigate this technological inflection point together and walk away with actionable insights on how to prepare for the fast-breaking changes brought on by AI.
+
+-- http://www.snowflake.com/YTsubscribe/
+
+Explore sample code, download tools, and connect with peers:
+-- https://developers.snowflake.com/

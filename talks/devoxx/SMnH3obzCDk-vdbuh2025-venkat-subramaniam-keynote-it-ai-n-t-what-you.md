@@ -8,9 +8,9 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Venkat Subramaniam"]
-channel: null
+channel: "Devoxx"
 duration_min: 61
-published_at: null
+published_at: 2025-04-17T05:05:51Z
 video_id: SMnH3obzCDk
 url: https://www.youtube.com/watch?v=SMnH3obzCDk
 youtube_url: https://www.youtube.com/watch?v=SMnH3obzCDk
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Innovations have transformed human lives, in ways that we can’t imagine how people survived before. Yet, we do not embrace innovations readily and we shouldn’t in most cases. Our time in this world is juxtaposed with yet another major innovation in our field. Is AI going to take over the world, our jobs, our way of life…and more are questions that are asked frequently these days. Come to this keynote to learn how to ride the new wave instead of being swept under.

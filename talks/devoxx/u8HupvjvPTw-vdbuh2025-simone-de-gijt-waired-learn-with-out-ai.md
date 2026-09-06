@@ -8,9 +8,9 @@ category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Simone De Gijt"]
-channel: null
+channel: "Devoxx"
 duration_min: 42
-published_at: null
+published_at: 2025-04-17T05:05:51Z
 video_id: u8HupvjvPTw
 url: https://www.youtube.com/watch?v=u8HupvjvPTw
 youtube_url: https://www.youtube.com/watch?v=u8HupvjvPTw
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+In today’s world, artificial intelligence (AI) is transforming the way we learn. This talk will explore how we can use AI tools to enhance our learning experiences. We will try out some AI tools that can help with planning, practicing, researching etc.
+
+But as we embrace these new technologies, we must also ask ourselves: Are we becoming less capable of thinking for ourselves? Do these tools make us smarter, or do they risk dulling our critical thinking skills? This talk will encourage us to think critically about the role of AI in our education. Together, we will discover how to use AI to support our learning journey while still developing our ability to think critically.

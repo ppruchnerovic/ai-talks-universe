@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 30
-published_at: null
+published_at: 2024-10-18T21:59:14Z
 video_id: 4kw3EYBz1Gs
 url: https://www.youtube.com/watch?v=4kw3EYBz1Gs
 youtube_url: https://www.youtube.com/watch?v=4kw3EYBz1Gs
@@ -29,4 +29,20 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Spotify's transition to support large-scale AI models presents a case study in adapting enterprise ML infrastructure. Abdullah Mobeen and Grace Glenn from Spotify offer an inside look at this transformation.
+
+The presenters detail Spotify's implementation of Ray on Google Kubernetes Engine, enabling LLM training beyond 70B parameters. They address the challenges of integrating specialized hardware like NVIDIA H100 GPUs and explore key optimizations in resource management. This talk provides practical insights for organizations navigating the complexities of building robust, scalable AI infrastructure in the era of generative AI.
+
+--
+
+Interested in more?
+- Watch the full Day 1 Keynote: https://youtu.be/jwZHJthQvXo
+- Watch the full Day 2 Keynote https://youtu.be/Lury2ad6KG8
+
+--
+
+🔗 Connect with us:
+- Subscribe to our YouTube channel: https://www.youtube.com/@anyscale
+- Twitter: https://x.com/anyscalecompute
+- LinkedIn: https://linkedin.com/company/joinanyscale/
+- Website: https://www.anyscale.com

@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Marjolaine Grondin"]
-channel: null
+channel: "dotconferences"
 duration_min: 16
-published_at: null
+published_at: 2024-10-23T08:28:17Z
 video_id: KgaPoEzOGqc
 url: https://www.youtube.com/watch?v=KgaPoEzOGqc
 youtube_url: https://www.youtube.com/watch?v=KgaPoEzOGqc
@@ -29,4 +29,8 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Filmed at dotAI on October 18, 2024 in Paris. More about the conference on https://www.dotai.io
+
+Who is Marjolaine Grondin?
+
+Marjolaine Grondin is the co-founder of Jam, the pioneering French-speaking chatbot recently acquired by June Marketing. After studying at Sciences Po, she discovered her passion for entrepreneurship at UC Berkeley and completed her education at HEC Paris. Featured in Forbes' 30 Under 30 and MIT's Top Innovators Under 35, Marjolaine is also the first female entrepreneur to speak at Meta's F8 conference.

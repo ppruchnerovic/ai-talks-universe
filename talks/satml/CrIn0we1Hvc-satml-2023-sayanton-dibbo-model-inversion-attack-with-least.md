@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Sayanton Dibbo"]
 channel: "Nicolas Papernot"
 duration_min: 15
-published_at: null
+published_at: 2023-02-16T05:00:04Z
 video_id: CrIn0we1Hvc
 url: https://www.youtube.com/watch?v=CrIn0we1Hvc
 youtube_url: https://www.youtube.com/watch?v=CrIn0we1Hvc
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Model Inversion Attack with Least Information and an In-depth Analysis of its Disparate Vulnerability

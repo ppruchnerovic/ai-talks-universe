@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 20
-published_at: null
+published_at: 2025-11-08T00:30:06Z
 video_id: md8D8eNj5JM
 url: https://www.youtube.com/watch?v=md8D8eNj5JM
 youtube_url: https://www.youtube.com/watch?v=md8D8eNj5JM
@@ -29,4 +29,12 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+In this talk, Sasha Rush introduces Cursor Composer, a groundbreaking agent-based LLM designed to transform the way developers code.
+
+Composer combines best-in-class coding intelligence with unmatched speed, enabling developers to generate, understand, and optimize code more efficiently than ever before. Sasha dives into the design principles behind Composer, how it leverages agent-based reasoning, and what makes it stand out in the rapidly evolving landscape of AI-powered development tools.
+
+Interested in more?
+Watch the full Day 1 Keynote:    • Ray Summit 2025 Keynote Day 1| Where AI Bu...
+
+--
+🔗 Connect with us:

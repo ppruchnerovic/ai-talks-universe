@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Lukas Fluri"]
 channel: "Nicolas Papernot"
 duration_min: 15
-published_at: null
+published_at: 2024-04-12T17:09:14Z
 video_id: U48NlHZ82k8
 url: https://www.youtube.com/watch?v=U48NlHZ82k8
 youtube_url: https://www.youtube.com/watch?v=U48NlHZ82k8

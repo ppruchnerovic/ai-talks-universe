@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 11
-published_at: null
+published_at: 2024-12-17T17:00:31Z
 video_id: NA99SpQ--EA
 url: https://www.youtube.com/watch?v=NA99SpQ--EA
 youtube_url: https://www.youtube.com/watch?v=NA99SpQ--EA
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Generative UI for developer interfaces

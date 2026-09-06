@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "TEDAI Vienna"
 duration_min: 86
-published_at: null
+published_at: 2025-10-12T17:51:24Z
 video_id: XK7A2z_lZKQ
 url: https://www.youtube.com/watch?v=XK7A2z_lZKQ
 youtube_url: https://www.youtube.com/watch?v=XK7A2z_lZKQ
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Autonomous AI is evolving from simply predicting outcomes to making independent decisions and taking actions on our behalf. In this context, we'll examine the rise of autonomous AI and systems like Agent OS to understand the opportunities they present for rapid advancement. Their effectiveness, however, depends on how well people can manage them. ​In this conversation, Chief AI Officer for PwC UK and EMEA AI Leader Bivek Sharma, journalist Jennifer Strong, co-founder of Intercom, fin.ai Des Traynor and researcher Mengchen Dong take a deep dive into these question: How will they define our roles as humans? How can you make agents your best performing assistants? And, moreover, as AI reshapes the way we work, what strategic investments in future ready skills are needed to complement autonomous systems?
+
+Thumbnail © TEDAI Vienna | Robert Leslie

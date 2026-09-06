@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Chip Huyen"]
 channel: "PyTorch"
 duration_min: 26
-published_at: null
+published_at: 2025-11-04T03:47:24Z
 video_id: I4olDc6MmP8
 url: https://www.youtube.com/watch?v=I4olDc6MmP8
 youtube_url: https://www.youtube.com/watch?v=I4olDc6MmP8
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Coding with AI - Chip Huyen, Tep Studio
+
+This talk discusses an overview of AI coding tools and common patterns in coding with AI agents.

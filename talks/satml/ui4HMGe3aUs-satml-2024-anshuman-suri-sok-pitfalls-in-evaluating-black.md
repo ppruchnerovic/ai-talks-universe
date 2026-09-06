@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Anshuman Suri"]
 channel: "Nicolas Papernot"
 duration_min: 10
-published_at: null
+published_at: 2024-04-12T18:13:24Z
 video_id: ui4HMGe3aUs
 url: https://www.youtube.com/watch?v=ui4HMGe3aUs
 youtube_url: https://www.youtube.com/watch?v=ui4HMGe3aUs

@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
-channel: null
+channel: "CAMLIS"
 duration_min: 20
-published_at: null
+published_at: 2022-11-30T03:30:40Z
 video_id: zz7bEUiX82Y
 url: https://www.youtube.com/watch?v=zz7bEUiX82Y
 youtube_url: https://www.youtube.com/watch?v=zz7bEUiX82Y
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+CAMLIS 2022, Bhavna Soman, MohamadAli Torkamani, Michal Morais, Jeffery Bickford, and Baris Coskun

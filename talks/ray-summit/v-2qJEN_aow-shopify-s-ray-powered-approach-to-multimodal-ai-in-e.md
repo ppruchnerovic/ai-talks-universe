@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 31
-published_at: null
+published_at: 2024-10-18T20:58:12Z
 video_id: v-2qJEN_aow
 url: https://www.youtube.com/watch?v=v-2qJEN_aow
 youtube_url: https://www.youtube.com/watch?v=v-2qJEN_aow
@@ -29,4 +29,22 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+This breakout session from Ray Summit 2024 features Niklas Itanen and Kshetrajna Raghavan from Shopify, who share their experiences in implementing multimodal Large Language Models (LLMs) at scale. The presentation offers a detailed look into Shopify's process of fine-tuning and deploying large vision language models in a production environment, with a focus on their integration of Ray alongside other open-source tools.
+
+Itanen and Raghavan provide a comprehensive walkthrough of Shopify's approach to a specific generative AI use case, demonstrating how they leverage Ray to handle the complexities of multimodal LLMs at Shopify's operational scale.
+
+This session is particularly valuable for teams looking to understand how Ray can be effectively utilized in conjunction with other tools to power sophisticated AI applications in high-demand, real-world scenarios.
+
+--
+
+Interested in more?
+- Watch the full Day 1 Keynote: https://youtu.be/jwZHJthQvXo
+- Watch the full Day 2 Keynote https://youtu.be/Lury2ad6KG8
+
+--
+
+🔗 Connect with us:
+- Subscribe to our YouTube channel: https://www.youtube.com/@anyscale
+- Twitter: https://x.com/anyscalecompute
+- LinkedIn: https://linkedin.com/company/joinanyscale/
+- Website: https://www.anyscale.com

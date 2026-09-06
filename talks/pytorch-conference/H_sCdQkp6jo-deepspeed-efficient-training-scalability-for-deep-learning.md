@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Tunji Ruwase"]
 channel: "PyTorch"
 duration_min: 26
-published_at: null
+published_at: 2025-11-04T03:45:05Z
 video_id: H_sCdQkp6jo
 url: https://www.youtube.com/watch?v=H_sCdQkp6jo
 youtube_url: https://www.youtube.com/watch?v=H_sCdQkp6jo
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+DeepSpeed: Efficient Training Scalability for Deep Learning - Tunji Ruwase, Snowflake
+
+DeepSpeed is a OSS framework that provides a suite of systems optimizations to enable efficient large-scale deep learning. This talk will chart a brief history of the project and present latest progress in compiler, offloading, and storage optimizations.

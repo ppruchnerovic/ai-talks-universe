@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Ruinan Jin"]
 channel: "Nicolas Papernot"
 duration_min: 13
-published_at: null
+published_at: 2024-04-12T18:19:55Z
 video_id: LKeI0v2H4ak
 url: https://www.youtube.com/watch?v=LKeI0v2H4ak
 youtube_url: https://www.youtube.com/watch?v=LKeI0v2H4ak

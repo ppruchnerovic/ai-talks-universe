@@ -7,10 +7,10 @@ conference_name: "OpenAI DevDay"
 category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
-speakers: []
+speakers: ["Robert Craigie"]
 channel: "OpenAI"
 duration_min: 5
-published_at: null
+published_at: 2024-12-17T17:00:00Z
 video_id: aFedOROUXMQ
 url: https://www.youtube.com/watch?v=aFedOROUXMQ
 youtube_url: https://www.youtube.com/watch?v=aFedOROUXMQ
@@ -21,7 +21,7 @@ transcript: false
 
 # OpenAI DevDay 2024 | Community Spotlight | Stainless
 
-**Speaker not identified**
+**Robert Craigie**
 
 `OpenAI DevDay` · `DevDay 2024` · `2024` · `5 min`
 
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Designing Delightful APIs and SDKs: Building APIs and SDKs from OpenAI, Stripe, and Twilio, and exploring future possibilities with new interfaces and modalities.
+
+Presenter: Robert Craigie, Software Engineer, Stainless

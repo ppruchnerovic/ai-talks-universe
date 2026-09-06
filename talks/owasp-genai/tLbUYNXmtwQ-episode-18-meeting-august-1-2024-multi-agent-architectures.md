@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 57
-published_at: null
+published_at: 2024-09-12T20:17:35Z
 video_id: tLbUYNXmtwQ
 url: https://www.youtube.com/watch?v=tLbUYNXmtwQ
 youtube_url: https://www.youtube.com/watch?v=tLbUYNXmtwQ
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+In our recent meeting, we explored the evolving landscape of agentic workflows and multi-agent architectures in AI. From discussing the orchestration of tools to the complexities of fully autonomous agents, our team is at the forefront of AI innovation. Dive into the discussion, share your insights, and help shape the future of AI governance. #AI #MachineLearning #AIInnovation #AIResearch

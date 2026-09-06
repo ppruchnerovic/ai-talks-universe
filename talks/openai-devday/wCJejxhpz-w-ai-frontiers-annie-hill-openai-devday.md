@@ -10,12 +10,12 @@ year: 2023
 speakers: []
 channel: "OpenAI"
 duration_min: 8
-published_at: null
+published_at: 2023-11-15T21:12:12Z
 video_id: wCJejxhpz-w
 url: https://www.youtube.com/watch?v=wCJejxhpz-w
 youtube_url: https://www.youtube.com/watch?v=wCJejxhpz-w
 tags: []
-topics: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Annie Hill is the Sr. Manager, Innovation & Digital Health Accelerator at Boston Children's Hospital
+
+Boston Children’s Hospital is using GPT-4, function calling and retrieval across a number of projects to improve hospital operations, reduce administrative burden, help healthcare professionals access information more efficiently, and catch errors that could lead to issues in patient care.

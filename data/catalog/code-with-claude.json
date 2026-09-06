@@ -1,7 +1,7 @@
 {
   "slug": "code-with-claude",
   "name": "Code with Claude (Anthropic)",
-  "enumerated_at": "2026-08-30T21:46:09+00:00",
+  "enumerated_at": "2026-09-06T13:19:20+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLmWCw1CzcFim2obQ-w3ohbULOfwp5lApR",
@@ -37,7 +37,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeaker: David Hershey, Member of Technical Staff @anthropic-ai",
+      "published_at": "2025-07-31T18:21:55Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "19HDQ9HppOA": {
       "video_id": "19HDQ9HppOA",
@@ -72,7 +76,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeakers:\nCraig Wiley, Sr. Director of Product for AI/ML at @Databricks",
+      "published_at": "2025-07-31T18:18:27Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "6amLO7I9xdg": {
       "video_id": "6amLO7I9xdg",
@@ -94,7 +102,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Learn advanced features, shortcuts, and workflows to get the most from Claude Code",
+      "published_at": "2025-05-22T23:32:37Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "7oO37GRhwGk": {
       "video_id": "7oO37GRhwGk",
@@ -129,7 +141,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeakers:\nDu'An Lightfoot, Senior Developer Advocate @ AWS\nSuman Debnath, Principal Developer Advocate @ AWS\nBanjo Obayami, Senior Solutions Architect @ AWS",
+      "published_at": "2025-07-31T18:23:45Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "91Haz1CRoxY": {
       "video_id": "91Haz1CRoxY",
@@ -138,7 +154,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeakers:\nJordan Garcia, Head of AI Engineering, Gamma App\nDhruv Amin, Co-Founder and CEO, Create\nAmar Goel, Co-Founder and CEO, Bito\nKevin Michael, Co-Founder and CEO, Tempo Labs\nAndrew Filev, Founder & CEO, Zencoder\nHayk Martiros, Co-Founder and CTO, Riffusion",
+      "published_at": "2025-07-31T18:17:00Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "A3rmSUp6Dxg": {
       "video_id": "A3rmSUp6Dxg",
@@ -160,7 +180,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeakers:\nDanny Wu, Head of AI Products at @canva",
+      "published_at": "2025-07-31T18:18:53Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "BbYSGxtsMic": {
       "video_id": "BbYSGxtsMic",
@@ -260,7 +284,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Content begins at 26:28. Hear directly from Anthropic executives and product leaders at Code with Claude.",
+      "published_at": "2025-05-22T17:48:39Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "G2B0YWuJUgI": {
       "video_id": "G2B0YWuJUgI",
@@ -308,7 +336,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeakers:\nDavid Soria Parra, Member of Technical Staff at @anthropic-ai",
+      "published_at": "2025-07-31T18:20:32Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "HrEy6MmqI-g": {
       "video_id": "HrEy6MmqI-g",
@@ -473,7 +505,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeakers:\nIsobel Porteus, Student, Stanford\nMason Arditi, Student, UC Berkeley\nRohil Agarwal, Student, UC Berkeley\nDaniel Gao, Student, USC",
+      "published_at": "2025-07-31T18:16:13Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "QIriO1-vHYw": {
       "video_id": "QIriO1-vHYw",
@@ -560,7 +596,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeakers:\nIvan Nardini, Developer Relations Engineer, AI/ML, Google Cloud",
+      "published_at": "2025-07-31T18:23:04Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "UjboGsztHd8": {
       "video_id": "UjboGsztHd8",
@@ -569,7 +609,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeakers:\nTao Zhang, Head of Product at Manus",
+      "published_at": "2025-07-31T18:18:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "Uvl-tRga98g": {
       "video_id": "Uvl-tRga98g",
@@ -617,7 +661,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeakers:\nHannah Moran, Applied AI at @anthropic-ai \nJeremy Hadfield, Applied AI Product Engineer at @anthropic-ai",
+      "published_at": "2025-07-31T18:19:15Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "bJKdXhnw7NU": {
       "video_id": "bJKdXhnw7NU",
@@ -639,7 +687,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeakers:\nSid Bidasaria, Member of Technical Staff @anthropic-ai",
+      "published_at": "2025-07-31T18:22:30Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "dxqX_6ciVQA": {
       "video_id": "dxqX_6ciVQA",
@@ -674,7 +726,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeakers:\nErik Schulntz, Member of Technical Staff at @anthropic-ai",
+      "published_at": "2025-07-31T18:15:21Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "geUv4CjPpxI": {
       "video_id": "geUv4CjPpxI",
@@ -696,7 +752,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeakers:\nCal Rueb, Member of Technical Staff at @anthropic-ai",
+      "published_at": "2025-07-31T18:21:04Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "igO8iyca2_g": {
       "video_id": "igO8iyca2_g",
@@ -718,7 +778,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeakers:\nBeyang Liu, Cofounder and CTO at @Sourcegraph",
+      "published_at": "2025-07-31T18:19:59Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "jWWsLe4Gh5Y": {
       "video_id": "jWWsLe4Gh5Y",
@@ -779,7 +843,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Best practices for how to get the best performance from our latest models",
+      "published_at": "2025-05-22T18:32:06Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "nho1YAEPuwA": {
       "video_id": "nho1YAEPuwA",
@@ -801,7 +869,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Battle-tested approaches for building agents with state-of-the-art AI capabilities",
+      "published_at": "2025-05-23T09:32:08Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "qOjleN2-50c": {
       "video_id": "qOjleN2-50c",
@@ -927,7 +999,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeakers:\nObie Fernandez, Principal Engineer at @shopify",
+      "published_at": "2025-07-31T18:17:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "y5TmF_6o6xk": {
       "video_id": "y5TmF_6o6xk",
@@ -949,7 +1025,11 @@
       "channel": "Anthropic",
       "label": "2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi"
+      "source_url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "description": "Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.\n\nSpeakers:\nHannah Moran, Applied AI at @anthropic-ai \nChristian Ryan, Applied AI at @anthropic-ai",
+      "published_at": "2025-07-31T18:19:36Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "zFslvuvYifQ": {
       "video_id": "zFslvuvYifQ",

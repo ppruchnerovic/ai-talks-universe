@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 72
-published_at: null
+published_at: 2024-05-25T20:32:34Z
 video_id: htba_b-vxxE
 url: https://www.youtube.com/watch?v=htba_b-vxxE
 youtube_url: https://www.youtube.com/watch?v=htba_b-vxxE
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Scott Clinton leads our panel of experts on a discussion about red teaming LLM Applications. Hear from Ads Dawson, Jason Ross and Ken Huang as they talk about their experiences and best practices.

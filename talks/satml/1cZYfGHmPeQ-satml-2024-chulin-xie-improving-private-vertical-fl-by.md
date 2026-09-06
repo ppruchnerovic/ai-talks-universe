@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Chulin Xie"]
 channel: "Nicolas Papernot"
 duration_min: 13
-published_at: null
+published_at: 2024-04-10T13:15:05Z
 video_id: 1cZYfGHmPeQ
 url: https://www.youtube.com/watch?v=1cZYfGHmPeQ
 youtube_url: https://www.youtube.com/watch?v=1cZYfGHmPeQ

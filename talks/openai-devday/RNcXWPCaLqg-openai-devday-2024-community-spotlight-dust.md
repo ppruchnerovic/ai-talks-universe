@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 12
-published_at: null
+published_at: 2024-12-17T17:00:24Z
 video_id: RNcXWPCaLqg
 url: https://www.youtube.com/watch?v=RNcXWPCaLqg
 youtube_url: https://www.youtube.com/watch?v=RNcXWPCaLqg
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Dust: Unified Text-to-SQL for Datalakes, Spreadsheets, and CSVs

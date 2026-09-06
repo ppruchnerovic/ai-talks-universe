@@ -1,7 +1,7 @@
 {
   "slug": "mlops-world-tmls",
   "name": "MLOps World / Toronto Machine Learning Summit",
-  "enumerated_at": "2026-08-30T21:46:24+00:00",
+  "enumerated_at": "2026-09-06T13:19:40+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@tmls-ai/videos",
@@ -2941,10 +2941,37 @@
       "video_id": "AFVNWQfFsCk",
       "title": "Industry Survey Analysis - The Industry Landscape Of Natural Language Use Cases in 2020",
       "duration_s": 3241,
-      "channel": null,
+      "channel": "Toronto Machine Learning Society (TMLS)",
       "label": "MLOps World / TMLS",
       "year": null,
-      "source_url": "https://www.youtube.com/@tmls-ai/videos"
+      "source_url": "https://www.youtube.com/@tmls-ai/videos",
+      "description": "💻 Abstract:\nIndustry Survey Analysis - The Industry Landscape Of Natural Language Use Cases in 2020. We recently conducted an industry survey of firms that have natural language systems in production. This includes an organization that has a history of leveraging NLP systems as well as those which are just beginning to plan their approach. A \"dramatic shift\" would be an understatement: since 2018, the field of natural language has undergone a sea change. Breakthroughs in the usage of deep learning, as well as the availability of more sophisticated hardware and cloud resources, led to sudden advances in natural language. The results are pervasive across technology subcategories within the field of natural language: parsing, natural language understanding, sentiment detection, entity linking, speech recognition, abstractive summarization, and so on.\nWhile the tech unicorns and their proxies have conducted almost an \"arms race\" since early 2018, sometimes publishing papers twice monthly to outdo their competitors' most recently published benchmarks -- how are these advances diffusing into practical use cases, and becoming adopted by mainstream businesses for their needs? Our survey results explore both the contours of the evolving landscape as well as the industry adoption and business trends for NLP.\n\n🔊 Speaker bio:\nPaco Nathan Computer Scientist, Derwen, Inc.\nPaco Nathan is known as a \"player/coach\", with core expertise in data science, natural language, machine learning, cloud computing; 38+ years of tech industry experience, ranging from Bell Labs to early-stage start-ups. Advisor for Amplify Partners, IBM Data Science Community, Recognai, KUNGFU.AI, Primer. Lead committer PyTextRank. Formerly: Director, Community Evangelism @ Databricks, and Apache Spark. Cited in 2015 as one of the Top 30 People in Big Data and Analytics by Innovation Enterprise.\n\nIf you enjoyed this talk, visit us at https://mlopsworld.com/ and come participate in our next gathering! 💼\n\nWould you like to receive email summaries of these talks? Join our newsletter FREE here: http://bit.ly/MLOps_Summaries 📧\n\nTimestamps:\n\n0:00 Intro \n0:13 Getting to know Paco Nathan\n0:35 The NLP survey \n2:55 2020 NLP industry survey report \n4:15 Survey background \n5:10 Stages of Maturity \n5:32 NLP summit 2020\n6:58 Feedback from expert NLP practitioners \n9:30 Budgets are growing \n9:52 Comparing to 2019 budgets \n10:08 Consistent with AI funding trends in 2019 \n11:39 Stark reality: an accelerating divide \n12:15 Top use cases \n14:13 Popular libraries \n14:44 Biome: integrations of popular libraries \n16:08 PyTextRank: graph-based entity extraction \n16:38 Cloud services \n19:43 Challenges for NLP cloud services \n23:15 Business driver \n23:29 Caveat: define the word \"optimize\" \n25:12 Tools that add engineering rigor to NLP apps\n25:39 Transformers uber alles?\n26:45 Hyper-growth of model parameters \n27:17 Stark reality: diminishing returns \n28:02 US basketball vs. EU futbol\n29:55 Knowledge as an abstraction layer \n30:02 Looking ahead \n30:19 Responsible AI in NLP\n\n❓ Q&A section ❓\n\n31:36 When people say they use NER, when do they use entity linking along with that? and when do they not? Is there any information about this in the survey results?\n33:46 Is the list in descending order of the number of applications of popularity?\n34:04 Having the conversational use case, especially the spread of chatbots, on the list\n35: 46 How many of the respondents use multiple NLP tasks in their projects?\n36:42 Do you know how many of the respondents use multiple NLP tasks in their projects?\n37:03 What mechanism do you use (if any) to ensure the sample of respondents is representative?\n38:29 How many of the respondents work on non-English NLP?\n40:15 What do you see as the emerging tools/techniques for integrating the search part of AI with deep learning models?\n43:10 Any thoughts on the AI platform cube flow ml flow?\n44:39 What do you see as the emerging tools/techniques for integrating the search part of AI with deep learning models?  E.g. semantic web, MCTS, logic programming, probabilistic programming, etc . . .\n48:21 What are the inference rules? If I were to take this deep learning model, and now come back and say, Can I distill it down into a set of rules to apply?\n\n53:18 Closing remarks",
+      "published_at": "2021-05-12T16:00:04Z",
+      "tags": [
+        "machine learning",
+        "data science",
+        "mlops",
+        "devops",
+        "ai",
+        "ml",
+        "artificial intelligence",
+        "mlops community",
+        "ml engineering",
+        "machine learning tutorial",
+        "data engineers",
+        "data engineering",
+        "data engineer",
+        "Industry Survey Analysis - The Industry Landscape Of Natural Language Use Cases in 2020",
+        "Paco Nathan",
+        "computer science",
+        "nlp",
+        "Industry Landscape Of Natural Language Use",
+        "natural language",
+        "natural language processing",
+        "Natural Language Use Cases in 2020",
+        "nlp explained"
+      ],
+      "details_at": "2026-09-06T13:23:59+00:00"
     },
     "AOdXh0x7vr4": {
       "video_id": "AOdXh0x7vr4",
@@ -4562,10 +4589,26 @@
       "video_id": "GK1XPQxX18c",
       "title": "⚡️LIVE FROM TMLS 2025: Amanda Milberg, Principal Solutions Engineer at Doubleword",
       "duration_s": 50,
-      "channel": null,
+      "channel": "Toronto Machine Learning Society (TMLS)",
       "label": "MLOps World / TMLS",
       "year": null,
-      "source_url": "https://www.youtube.com/@tmls-ai/videos"
+      "source_url": "https://www.youtube.com/@tmls-ai/videos",
+      "description": "",
+      "published_at": "2025-06-17T18:30:50Z",
+      "tags": [
+        "machine learning",
+        "artificial intelligence",
+        "data science",
+        "machine learning simplified",
+        "automated machine learning",
+        "developers",
+        "Automated ML",
+        "ml",
+        "machine learning operations",
+        "mlops",
+        "education"
+      ],
+      "details_at": "2026-09-06T13:23:59+00:00"
     },
     "GKI4qLnqs28": {
       "video_id": "GKI4qLnqs28",
@@ -5158,10 +5201,26 @@
       "video_id": "IR-fL3ia818",
       "title": "👋 Meet Suhas Pai Co Chair of MLOps World GenAI Summit 2025",
       "duration_s": 191,
-      "channel": null,
+      "channel": "Toronto Machine Learning Society (TMLS)",
       "label": "MLOps World / TMLS",
       "year": null,
-      "source_url": "https://www.youtube.com/@tmls-ai/videos"
+      "source_url": "https://www.youtube.com/@tmls-ai/videos",
+      "description": "👋 MEET THE 2025 CO-CHAIRS: In this video, Suhas Pai, Co-Founder & CTO at Hudson Labs and Co-Chair of the 6th Annual 6th Annual MLOps World | GenAI Summit shares how every session is carefully curated by a group of 75 AI industry volunteers to deliver the highest possible value for attendees.\n\nThis year's gathering features 16 technical tracks and workshops plus a high-impact expo featuring our popular Brain Dates, Community Stage, Speakers' Corner, Startup Zone, AI stack demos, and opening day party.\n\nModels, systems, agents, infrastructure, case studies, best practices, advanced techniques....things to avoid...it's all here in a compact, collaborative format.\n\nLearn more👇👇👇\n\nhttps://mlopsworld.com/?utm_source=&utm_medium=&utm_campaign=&utm_content=featured_committee\n\nJoin us October 8-9 at the Renaissance Austin Hotel. Early Bird tickets are available now to save 15% on tickets (20% for team purchases).\n\nAI engineers, agent builders, solution architects, infra teams, LLM/SLM model trainers, full-stack developers, enterprise AI teams, AI startups, investors:\n\nExperience the future of AI in production, right now, and deepen your capacity to make meaningful contributions to safe and impactful deployment of AI solutions in your organization. 🧐\n\nAnd did we mention Austin? It's an incredibly vibrant and exciting place to gather.",
+      "published_at": "2025-08-15T04:51:34Z",
+      "tags": [
+        "machine learning",
+        "artificial intelligence",
+        "data science",
+        "machine learning simplified",
+        "automated machine learning",
+        "developers",
+        "Automated ML",
+        "ml",
+        "machine learning operations",
+        "mlops",
+        "education"
+      ],
+      "details_at": "2026-09-06T13:23:59+00:00"
     },
     "IYfErVOgF4o": {
       "video_id": "IYfErVOgF4o",
@@ -5486,10 +5545,26 @@
       "video_id": "Jm3AwVmZLYU",
       "title": "Meet The Track Leads TMLS Summit 2025: Himanshu Joshi , Applied AI expert at Vector Institute",
       "duration_s": 261,
-      "channel": null,
+      "channel": "Toronto Machine Learning Society (TMLS)",
       "label": "MLOps World / TMLS",
       "year": null,
-      "source_url": "https://www.youtube.com/@tmls-ai/videos"
+      "source_url": "https://www.youtube.com/@tmls-ai/videos",
+      "description": "✋MEET THE TRACK LEADS: In this short video, Himanshu Joshi , Applied AI expert at Vector Institute, shares how he helped shape this year’s TMLS Summit by leading the Executive Track, designed to equip with practical strategies for navigating AI adoption, risk, and measurable impact.\n\nHimanshu shares his TMLS experience and how the track was built to address two priorities for executives: demonstrating real business impact from AI and building organizational trust around its use.\n\nFeaturing speakers from TELUS, IBM, and CIBC, the Executive Track explores how Canada’s top enterprises are applying AI in complex, regulated environments, offering clear and actionable frameworks for enterprise-wide decisions.\n\nWhat makes Toronto Machine Learning Summit (TMLS) different? Every element of the program is shaped by AI/ML practitioners like Himanshu, ensuring the content stays rooted in real world applications, not buzzwords.\n\nNote: Ticket sales for in-person attendance close at 11:59 PM ET on Thursday, June 12th, 2025.\n\nVisit EventBrite to grab your spot: https://bit.ly/TMLS2025\n\nJoin us June 16–17 at CIBC Square for two days of high-impact talk sessions featuring industry leaders, followed by a full day of interactive, hands-on workshops at MaRS Discovery District on June 18th",
+      "published_at": "2025-06-06T17:36:49Z",
+      "tags": [
+        "machine learning",
+        "artificial intelligence",
+        "data science",
+        "machine learning simplified",
+        "automated machine learning",
+        "developers",
+        "Automated ML",
+        "ml",
+        "machine learning operations",
+        "mlops",
+        "education"
+      ],
+      "details_at": "2026-09-06T13:23:59+00:00"
     },
     "JpQ61Vi5ijs": {
       "video_id": "JpQ61Vi5ijs",
@@ -7746,10 +7821,26 @@
       "video_id": "R9WGlLkLCJs",
       "title": "🌟 MLOps & Generative AI World Summit 2024 | Austin Highlights 🌟",
       "duration_s": 63,
-      "channel": null,
+      "channel": "Toronto Machine Learning Society (TMLS)",
       "label": "MLOps World / TMLS",
       "year": null,
-      "source_url": "https://www.youtube.com/@tmls-ai/videos"
+      "source_url": "https://www.youtube.com/@tmls-ai/videos",
+      "description": "In the last few years, the fields of machine learning, data science, and AI have experienced explosive growth, and staying ahead means immersing yourself in cutting-edge innovation. \n\nThe MLOps World and Generative AI World Summit, held in Austin, brought together practitioners, tool builders, and industry leaders for an unparalleled in-person learning experience.",
+      "published_at": "2024-12-11T15:33:16Z",
+      "tags": [
+        "machine learning",
+        "artificial intelligence",
+        "data science",
+        "machine learning simplified",
+        "automated machine learning",
+        "developers",
+        "Automated ML",
+        "ml",
+        "machine learning operations",
+        "mlops",
+        "education"
+      ],
+      "details_at": "2026-09-06T13:23:59+00:00"
     },
     "RDPt9dcl6Sc": {
       "video_id": "RDPt9dcl6Sc",
@@ -8567,10 +8658,26 @@
       "video_id": "TaXhaA76bfA",
       "title": "RAG: The 2025 Best-Practice Stack, Prototype to Production",
       "duration_s": 10341,
-      "channel": null,
+      "channel": "Toronto Machine Learning Society (TMLS)",
       "label": "MLOps World / TMLS",
       "year": null,
-      "source_url": "https://www.youtube.com/@tmls-ai/videos"
+      "source_url": "https://www.youtube.com/@tmls-ai/videos",
+      "description": "Greg Loughnane, Co-Founder & CEO, AI Makerspace\nChris Alexiuk, Co-Founder & CTO, AI Makerspace\n\n\n\nAbout the Speaker:\nDr. Greg” Loughnane is the Co-Founder & CEO of AI Makerspace, where he is an instructor for their AI Engineering Bootcamp. Since 2021, he has built and led industry-leading Machine Learning education programs.  Previously, he worked as an AI product manager, a university professor teaching AI, an AI consultant and startup advisor, and an ML researcher.  He loves trail running and is based in Dayton, Ohio.\n\nChris “The Wiz” Alexiuk is the Co-Founder & CTO at AI Makerspace, where he is an instructor for their AI Engineering Bootcamp. During the day, he is also a Developer Advocate at NVIDIA. Previously, he was a Founding Machine Learning Engineer, Data Scientist, and ML curriculum developer and instructor.  He’s a YouTube content creator YouTube who’s motto is “Build, build, build!”  He loves Dungeons & Dragons and is based in Toronto, Canada.\n\n\nAbstract:\nWhile 2025 might be the year of agents for AI Engineers, it’s the year of practical RAG for enterprise and AI Engineering leaders.\n\nIn other words, RAG is table stakes; it’s a best-practice. If your organization isn’t even experimenting with RAG today, you’re behind.  \n\nThe good news is that best-practice tools and techniques exist. That means that you and your team can pick up open-source Commercial-Off-The-Shelf (COTS) tools to build your first RAG application today.   \n\n🙋 But wait, what is the “Best-Practice RAG Application Stack?”\n\nIn this event, we share the minimum viable production-ready LLM app stack for building and evaluating your next RAG Application. Then, we’ll share how to baseline it and start improving it. Finally, we’ll comment on what you should think about to ensure that it will work well within your existing enterprise production setup and for your customers or stakeholders.\n\nWe’ve been testing out frameworks and tools with our students in [The AI Engineering Bootcamp](https://aimakerspace.io/the-ai-engineering-bootcamp/), our consulting customers, and on our YouTube channel for years now.\n\nFor 2025, we believe **there is a correct stack**.\n\nJoin us to discover what it is, and why!\n\nWe’ll explore:\n\n- 🎺 Our pick for the best **orchestration framework**: LangGraph\n- 🎺 Our pick for the best **monitoring & Visibility**: LangSmith\n- ↗️ Our pick for the best **vector database**: QDrant\n- 📊 Our pick for the best way to enhance retrieval out of the box: Cohere’s Rerank\n- 📐 Our pick for the best **evaluation framework**: RAGAS\n- 🚀 Our pick for the best **model serving** endpoint solution: Together AI\n- 🤖 Our pick for the best **LLM** and **embedding model**: Join us live to find out!\n\nIn this event, we’ll also break down the phases of moving from prototype to production in enterprise, including:\n\n- **Phase I: On-Prem Demo** (POC/MVP) with Executive/VP/Director buy-In\n- **Phase II: Refined On-Prem Demo** with Engineering buy-In\n- **Phase III: Data Preparation & Quality Validation** with buy-in from architects, data practitioners, and security\n- Phase IV: **Beta Testing** with customer/stakeholder buy-in\n- Phase V: **Scaling** a User-Friendly Product with product/design buy-in\n\nAnd answer the question \"\"what happens when we need to know move from Phase I into the organization and into a Cloud Service Provider (CSP)?\"\"\n\n- Our pick for best **Cloud Service Provider Integration**: Join us live to find out!\n\nFinally,we'll discuss the benefits of using this approach with LangGraph applications, as well as mentioning some other leading partnerships worth noting in the industry that prioritize speed into production (e.g., CrewAI on AWS).\n\nOf course, we’ll build, ship, and share a production-grade RAG application step-by-step!\n\nJoin us live to dig into the details and get your questions answered, from concepts to code!",
+      "published_at": "2025-09-25T21:39:18Z",
+      "tags": [
+        "machine learning",
+        "artificial intelligence",
+        "data science",
+        "machine learning simplified",
+        "automated machine learning",
+        "developers",
+        "Automated ML",
+        "ml",
+        "machine learning operations",
+        "mlops",
+        "education"
+      ],
+      "details_at": "2026-09-06T13:23:59+00:00"
     },
     "TdjJpAHLuxQ": {
       "video_id": "TdjJpAHLuxQ",
@@ -9010,10 +9117,26 @@
       "video_id": "VEpULcEgfRo",
       "title": "Meet The Track Leads TMLS Summit 2025: Mehdi Saeedi, Principal of Staff at AMD",
       "duration_s": 162,
-      "channel": null,
+      "channel": "Toronto Machine Learning Society (TMLS)",
       "label": "MLOps World / TMLS",
       "year": null,
-      "source_url": "https://www.youtube.com/@tmls-ai/videos"
+      "source_url": "https://www.youtube.com/@tmls-ai/videos",
+      "description": "✋MEET THE TRACK LEADS: In this short video, Mehdi Saeedi, Principal of Staff at AMD, shares how he helped shape the Hardware Platforms Track at TMLS 2025, focused on how infrastructure choices affect GenAI performance, cost, and deployment.\n\nMehdi reflects on his TMLS experience and how the committee curated sessions on real hardware challenges: quantization, workload distribution, and inference on AMD Instinct GPUs.\n\nWhether you're scaling LLMs or optimizing limited resources, this track offers strategies to get more out of your existing infrastructure.\n\nNote: Ticket sales for in person attendance close at 11:59 PM ET on Thursday, June 12, 2025.\n\nVisit Eventbrite to grab your spot: https://bit.ly/TMLS2025\n\nJoin us June 16-17th at CIBC Square for two days of high impact talk sessions, followed by a full day of interactive workshops with hands on learning at MaRS Discovery District on June 18th.",
+      "published_at": "2025-06-07T09:16:52Z",
+      "tags": [
+        "machine learning",
+        "artificial intelligence",
+        "data science",
+        "machine learning simplified",
+        "automated machine learning",
+        "developers",
+        "Automated ML",
+        "ml",
+        "machine learning operations",
+        "mlops",
+        "education"
+      ],
+      "details_at": "2026-09-06T13:23:59+00:00"
     },
     "VTYQGcIHIuU": {
       "video_id": "VTYQGcIHIuU",
@@ -11325,10 +11448,27 @@
       "video_id": "eAJKLPadBKc",
       "title": "Meet The Co-Chairs TMLS Summit 2025: Denys Linkov (Head of ML, Wisedocs)",
       "duration_s": 240,
-      "channel": null,
+      "channel": "Toronto Machine Learning Society (TMLS)",
       "label": "MLOps World / TMLS",
       "year": null,
-      "source_url": "https://www.youtube.com/@tmls-ai/videos"
+      "source_url": "https://www.youtube.com/@tmls-ai/videos",
+      "description": "✋MEET THE CO-CHAIRS: In this short video, Denys Linkov, Head of ML at Wisedocs, explains how he has helped shape this year's TMLS Summit to deliver critical industry context, expert insights, and up-to-the-minute skills to help supercharge the careers and real-world projects of AI practitioners.\n\nDenys shares why he got involved, what it’s like curating speakers and workshops, and what attendees can expect from this year’s event.\n\nToronto Machine Learning Summit (TMLS) delivers material value to attendees specifically because it has been curated by AI/ML practitioners like Denys who ensure that the event program stays grounded in real-world case studies and hands-on workshops, not hype.\n\nNote: Ticket sales for in-person attendance close at 11:59 PM ET on Thursday, June 12th, 2025. \n\nVisit EventBrite to grab your spot:\n\nhttps://lnkd.in/eqtN5Mty\n\nDon’t miss your chance to make critical industry connections June 16-17 at CIBC Square and learn new skills at our hand-on workshops taking place at MaRS Discovery District on June 18th.\n\n#tmls2025 #canada #toronto #artificialintelligence #event #agents #machinelearning #skills",
+      "published_at": "2025-06-04T16:09:15Z",
+      "tags": [
+        "machine learning",
+        "artificial intelligence",
+        "data science",
+        "developers",
+        "ml",
+        "mlops",
+        "toronto",
+        "canada",
+        "event",
+        "agentic ai",
+        "generative ai",
+        "ai practitioner"
+      ],
+      "details_at": "2026-09-06T13:23:59+00:00"
     },
     "eG_LUezTpJQ": {
       "video_id": "eG_LUezTpJQ",
@@ -12338,10 +12478,23 @@
       "video_id": "icreQc2bT90",
       "title": "TMLS Stack Drop Offer: Outerbounds (Summer/Fall 2025)",
       "duration_s": 218,
-      "channel": null,
+      "channel": "Toronto Machine Learning Society (TMLS)",
       "label": "MLOps World / TMLS",
       "year": null,
-      "source_url": "https://www.youtube.com/@tmls-ai/videos"
+      "source_url": "https://www.youtube.com/@tmls-ai/videos",
+      "description": "Get $2000 in GPU Credits + 30% Off Outerbounds – Exclusive Stack Drop offer for AI/ML Teams\n\nOuterbounds is helping top AI/ML teams go from idea to production faster with infrastructure that just works. with this Stack Drop offer, eligible companies can unlock:\n\n$2000 in Nebius GPU credits\n30% off the annual Outerbounds platform\n14-day free POC + hands-on onboarding with AI experts\n\nVisit: https://outerbounds.com/get-started\n\nUse code: OBSUMMER25\nOffer ends: October 10, 2025 at 11:59PM ET\nEligibility: New customers with $10M+ USD raised or $5M+ USD ARR\n\nVisit the blog post to get full details, including all the terms and conditions:\n\nhttps://mlopsworld.com/post/tmls-stack-drop-claim-2000-in-gpu-credits-30-off-outerbounds/\n\nWhat are Stack Drops?\n\nStack Drops are exclusive limited offers curated for the TMLS community that give AI teams practical resources and serious value. Note: TMLS is not responsible for the terms, delivery, or fulfillment of third-party offers.\n\nVendor? \n\nLearn more about participating in the TMLS Stack Code program to boost your go to market plans with special offers tailor made for our community of 15,000+AI  practitioners: \n\nhttps://mlopsworld.com/post/stack-drops-share-exclusive-offers-with-tmls-artificial-intelligence-community/\n\nJoin us for 3 Days of Context, Insights, & Connections\n\nThe 6th annual MLOps World | GenAI Summit is taking place October 7–9, 2025 at the Austin Renaissance Hotel. Don’t miss this opportunity to accelerate and de-risk your model, generative, agentic, and AI infrastructure outcomes through cutting-edge strategies, real-world case studies, technical deep dives, and hands-on workshops. \n\nEvery presentation is hand-picked from hundreds of applications by a committee of top AI practitioners whose primary goal is to help their industry colleagues understand where the line of AI excellence is, right now.\n\nThe experience also includes a vibrant expo, where attendees shift from focused learning to active participation by engaging in Brain Dates, Community Stage, Startup Zone, and interactive demos with leading vendors like Weights & Measures, Outerbounds, and Data Bricks.\n\nMLOps World | GenAI Summit is a condensed, high-impact way to learn, connect, and elevate your team, projects, and career.\n\nEarly Bird tickets are on sale now and offer 15% savings when you register in advance:\n\nhttps://mlopsworld.com?utm_source=youtube&utm_medium=video&utm_campaign=mlops25&utm_content=special_offer\n\nAbout TMLS\n\nTMLS is a global community of AI Engineers, Data Scientists, ML Engineers, Agentic Developers, researchers, and entrepreneurs. We share lessons, support each other’s growth, and stay grounded in what actually works. Through peer-curated events like TMLS Summit (June, Toronto) and MLOps World (October, Austin), free learning webinars, and exclusive resources, we help teams deliver and scale AI projects safely and responsibly. \n\nIn a space moving as fast as artificial intelligence, context is everything. Our mission is to help you find it.\n\nJoin our newsletter: https://mlopsworld.com/#newsletter?utm_source=youtube&utm_medium=video&utm_campaign=mlops25&utm_content=special_offer",
+      "published_at": "2025-07-25T19:33:21Z",
+      "tags": [
+        "machine learning",
+        "artificial intelligence",
+        "data science",
+        "automated machine learning",
+        "developers",
+        "Automated ML",
+        "machine learning operations",
+        "mlops"
+      ],
+      "details_at": "2026-09-06T13:23:59+00:00"
     },
     "j5zuzz47QmA": {
       "video_id": "j5zuzz47QmA",
@@ -13667,10 +13820,26 @@
       "video_id": "nmxOJCRk9IA",
       "title": "Observability Panel | Galileo, DraftKings, Target Corporation, PIMCO | MLOps World 2025",
       "duration_s": 1966,
-      "channel": null,
+      "channel": "Toronto Machine Learning Society (TMLS)",
       "label": "MLOps World / TMLS",
       "year": null,
-      "source_url": "https://www.youtube.com/@tmls-ai/videos"
+      "source_url": "https://www.youtube.com/@tmls-ai/videos",
+      "description": "🎥 Recorded live at the MLOps World | GenAI Summit 2025 — Austin, TX (October 8, 2025)\n\nSession Title: Observability Panel\nSpeakers:\n• Atin Sanyal, Founder & CTO, Galileo\n• Naresh Kumar Batthula, Principal Developer Advocate, DraftKings\n• Bali Varadarajan, Lead AI Engineer – Digital Personalization, Target Corporation\n• Anupama Garani, AI & ML Systems, PIMCO\nTalk Track: LLM Observability\n\nAbstract:\nIn this panel, experts from Galileo, DraftKings, Target, and PIMCO discuss the evolving landscape of LLM observability—sharing insights on monitoring, evaluation, and maintaining reliability in production AI systems.\n\nWhat you’ll learn:\n• Key considerations for observability in LLM systems\n• Lessons from leading enterprise AI teams\n• How monitoring and evaluation frameworks are evolving with GenAI\n\n📍 Recorded: October 8, 2025 — In-Person Panel, MLOps World | GenAI Summit 2025, Austin, TX\n🔗 Learn more: https://mlopsworld.com\n\n#MLOpsWorld #GenAISummit #LLMObservability #ModelMonitoring #AIInfrastructure #MLOps #LLMOps #AIinProduction #GenAI #AICommunity",
+      "published_at": "2025-10-23T05:06:25Z",
+      "tags": [
+        "machine learning",
+        "artificial intelligence",
+        "data science",
+        "machine learning simplified",
+        "automated machine learning",
+        "developers",
+        "Automated ML",
+        "ml",
+        "machine learning operations",
+        "mlops",
+        "education"
+      ],
+      "details_at": "2026-09-06T13:23:59+00:00"
     },
     "nvjrBDQrlR0": {
       "video_id": "nvjrBDQrlR0",
@@ -15044,10 +15213,26 @@
       "video_id": "tPgC_68OK-I",
       "title": "Generative AI World & MLOPs World 2023",
       "duration_s": 61,
-      "channel": null,
+      "channel": "Toronto Machine Learning Society (TMLS)",
       "label": "MLOps World / TMLS",
       "year": null,
-      "source_url": "https://www.youtube.com/@tmls-ai/videos"
+      "source_url": "https://www.youtube.com/@tmls-ai/videos",
+      "description": "",
+      "published_at": "2024-01-08T14:53:52Z",
+      "tags": [
+        "machine learning",
+        "artificial intelligence",
+        "data science",
+        "machine learning simplified",
+        "automated machine learning",
+        "developers",
+        "Automated ML",
+        "ml",
+        "machine learning operations",
+        "mlops",
+        "education"
+      ],
+      "details_at": "2026-09-06T13:23:59+00:00"
     },
     "tSIpREFVMXs": {
       "video_id": "tSIpREFVMXs",

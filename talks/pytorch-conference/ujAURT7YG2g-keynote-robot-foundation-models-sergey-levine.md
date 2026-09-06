@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Sergey Levine"]
 channel: "PyTorch"
 duration_min: 16
-published_at: null
+published_at: 2025-11-04T03:45:47Z
 video_id: ujAURT7YG2g
 url: https://www.youtube.com/watch?v=ujAURT7YG2g
 youtube_url: https://www.youtube.com/watch?v=ujAURT7YG2g
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Keynote: Robot Foundation Models - Sergey Levine, Associate Professor, Department of Electrical Engineering and Computer Sciences, UC Berkeley
+
+General-purpose foundation models have transformed how we approach machine learning: instead of training domain-specific classifiers or generative models, we now use general-purpose models trained on broad web-scale datasets across natural language processing, computer vision, multimedia generation, and speech. What would it take to enable such general models to interact with the physical world, enabling them to control robotic systems? In this talk, I'll provide a brief summary of the history of vision-language-action (VLA) models, describe recent developments, and present results of state-of-the-art VLAs.

@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "Anthropic"
 duration_min: 28
-published_at: null
+published_at: 2025-05-22T23:32:37Z
 video_id: 6eBSHbLKuN0
 url: https://www.youtube.com/watch?v=6eBSHbLKuN0
 youtube_url: https://www.youtube.com/watch?v=6eBSHbLKuN0
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Learn advanced features, shortcuts, and workflows to get the most from Claude Code

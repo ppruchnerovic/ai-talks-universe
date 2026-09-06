@@ -8,14 +8,14 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 58
-published_at: null
+published_at: 2024-09-13T18:24:13Z
 video_id: cVYHF4BBYkI
 url: https://www.youtube.com/watch?v=cVYHF4BBYkI
 youtube_url: https://www.youtube.com/watch?v=cVYHF4BBYkI
 tags: []
-topics: ["Agents & orchestration", "Prompting & context engineering", "Science, healthcare & applied ML"]
+topics: ["Agents & orchestration", "Prompting & context engineering", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 
@@ -29,4 +29,7 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+In our recent session, we discussed the ever-evolving landscape of AI and machine learning security. Key highlights include:
+1. Prompt Leakage: Addressing vulnerabilities where AI systems inadvertently disclose sensitive information.
+2. Agent Interaction Risks: Focusing on excessive agency and the complexities of multi-agent systems.
+3. Supply Chain Vulnerabilities: Ensuring robust security measures in AI development pipelines.

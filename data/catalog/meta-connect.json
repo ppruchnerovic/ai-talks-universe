@@ -1,7 +1,7 @@
 {
   "slug": "meta-connect",
   "name": "Meta Connect + LlamaCon",
-  "enumerated_at": "2026-08-30T21:49:07+00:00",
+  "enumerated_at": "2026-09-06T13:22:51+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
@@ -25,7 +25,11 @@
       "channel": "Meta Developers",
       "label": "LlamaCon 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-",
+      "description": "Join Michael Slater, Product Manager at Meta, as he delves into the world of Llama model customization in this insightful session from LlamaCon 2025. Discover how you can leverage your existing data to fine-tune a smaller Llama model tailored specifically for your workflow.\n\nKey Highlights:\n- Introduction to two new products: a fine-tuning tool and an evaluation tool.\n- Learn how fine-tuning can make Llama models cost-effective, faster, and more accurate for specific domains.\n- Real-world examples from companies like Articul8, AT&T, and Spotify showcasing the power of fine-tuned Llama models.\n- Understand the importance of evaluations in ensuring product quality and enabling rapid iteration.\n\nWhether you're looking to replace larger, more expensive models or simply want to enhance your current AI capabilities, this session provides the insights and tools you need to succeed.\n\n🔗 Learn More: Visit https://bit.ly/43xpD22 for details on trying out fine-tuning and evaluations with the Llama API.",
+      "published_at": "2025-05-19T22:26:33Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "1VUfyfeeURw": {
       "video_id": "1VUfyfeeURw",
@@ -34,7 +38,11 @@
       "channel": "Meta Developers",
       "label": "LlamaCon 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-",
+      "description": "Join us as we dive into the world of AI at LlamaCon 2025. This session features a keynote presentation with Chief Product Officer Chris Cox, VP of Llama Manohar Paluri, and Llama Researcher Angela Fan. Together, they will explore the importance of open-source collaboration and celebrate the achievements of the developer community. Discover the latest advances in Llama and get a glimpse of what's next in AI innovation.\n\nFollowing the keynote, don't miss the fireside chat with Meta Founder and CEO Mark Zuckerberg and Databricks Co-founder and CEO Ali Ghodsi. They will discuss the critical role of open-source AI and share valuable advice for founders building AI-enabled applications.\n\n00:00 LlamaCon begins\n34:59 Fireside Chat begins",
+      "published_at": "2025-05-06T20:22:16Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "3P8lHacmM7Q": {
       "video_id": "3P8lHacmM7Q",
@@ -43,7 +51,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Discover why enterprises and local developers are choosing Llama for its flexibility, customizability and local deployment capabilities. In this expert-led session, we'll reveal the proven strategies and best practices for fine-tuning Llama models to tackle specific domain challenges with precision. You’ll gain insights into optimizing model performance for a variety of use cases, from complex enterprise problems to specialized local applications. Covering everything from initial model selection to advanced fine-tuning techniques, this session will equip you with the knowledge to fully unlock the potential of Llama for your specific needs.",
+      "published_at": "2025-09-18T23:39:56Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "4HyOzQH22zw": {
       "video_id": "4HyOzQH22zw",
@@ -52,7 +64,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Join us for the Developer Keynote of Meta Connect 2025 — our annual conference where we showcase our progress in building the future of human connection and the technology that makes it possible. We'll discuss how our latest technologies are creating opportunities for developers and creators to build new experiences for people, and have a special conversation on the future of computing.",
+      "published_at": "2025-09-18T23:37:21Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "4SiwqKSIt7U": {
       "video_id": "4SiwqKSIt7U",
@@ -61,7 +77,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Ready to turn your creative vision into a thriving world? This session covers everything you need to launch your world creation journey. We'll introduce you to the Worlds Desktop Editor, explore the monetization opportunities available and break down how the Meta Horizon Creator Fund can support your growth. You'll discover what it means to create for both mobile and VR audiences, plus learn about the multiple pathways to earn from your creativity and build a sustainable business around your passion. Whether you're dreaming of immersive experiences or interactive adventures, this session will show you how to transform your ideas into income.",
+      "published_at": "2025-09-18T23:38:27Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "5tN7TJlp3P0": {
       "video_id": "5tN7TJlp3P0",
@@ -70,7 +90,25 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "As a Developer Advocate at Meta, Deepak Nair knows a thing or two about user-generated content. So what is he most excited about from Meta Connect? Embodied NPCs. \n\nHear Deepak’s thoughts on why embodied NPCs and generative AI tools are game-changers for creators. From enabling dynamic conversations and avatar customizations to scripting worlds without extensive coding experience, generative AI can help you make your worlds feel more alive and foster a truly social atmosphere in less time than ever before.",
+      "published_at": "2025-09-24T23:18:29Z",
+      "tags": [
+        "Meta",
+        "Horizon",
+        "Worlds",
+        "Avatars",
+        "GenAI",
+        "User-generated content",
+        "AI",
+        "Design",
+        "creator",
+        "desktop",
+        "editor",
+        "Connect",
+        "2025"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "6k4T7XOeFW0": {
       "video_id": "6k4T7XOeFW0",
@@ -79,7 +117,18 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Maeva Sponbergs, CMO and Head of Publishing at Beyond Frames Entertainment, shares how the rapid progress of new tools and technologies is empowering creators and developers to build faster, reach more players and have more control over their monetization strategy.\n\nMaeva also provides her biggest takeaways from player communities in VR and what common surprises new developers run into when starting their VR journey.",
+      "published_at": "2025-09-24T23:19:31Z",
+      "tags": [
+        "Meta",
+        "Connect",
+        "2025",
+        "VR",
+        "Worlds",
+        "Tools"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "AlJ1af9875E": {
       "video_id": "AlJ1af9875E",
@@ -88,7 +137,11 @@
       "channel": "Meta Developers",
       "label": "LlamaCon 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-",
+      "description": "Join Lauren Deason, Software Engineer at Meta, as she unveils the latest advancements in AI security tools at LlamaCon. Discover how Meta is pioneering AI safety with the introduction of LlamaGuard 4, PromptGuard 2, and the innovative LlamaFirewall framework. These tools are designed to protect against risks like prompt injection and insecure code generation, ensuring that AI products are both innovative and secure.\n\nIn this session, Lauren discusses:\n- The evolution of LlamaGuard and PromptGuard models, now with enhanced multimodal capabilities and multilingual support.\n- The launch of LlamaFirewall, an orchestration layer for integrating security guardrails in AI applications.\n- New benchmarks in CyberSecEval 4, including AutoPatchBench and CyberSOCEval, developed in collaboration with CrowdStrike to enhance security operations.\n- The Llama Defenders Program, a partnership initiative with companies like ZenDesk, AT&T, and Bell Canada, focusing on AI-generated speech security.\n\nWhether you're a developer, deployer, or defender, this session provides valuable insights into leveraging state-of-the-art AI tools to improve security outcomes. Don't miss the opportunity to learn how to navigate AI risks and build robust, secure systems with Llama.\n\n🔗 Visit our website to explore more about Llama protections and access our tools: https://bit.ly/43xg9DX",
+      "published_at": "2025-05-19T22:26:38Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "BeAPM1MB61k": {
       "video_id": "BeAPM1MB61k",
@@ -97,7 +150,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Join us for an insightful session on how real-world developers are pushing the boundaries of innovation by exploring diverse use cases with AI glasses from Meta, using the Wearables Device Access Toolkit. Our developer partners will share their experiences in leveraging AI glasses for their mobile applications, which will be a unique opportunity to understand the practical implications and transformative impact of our toolkit.",
+      "published_at": "2025-09-18T23:38:16Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "DKPpe-cESkI": {
       "video_id": "DKPpe-cESkI",
@@ -106,7 +163,11 @@
       "channel": "Meta Developers",
       "label": "LlamaCon 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-",
+      "description": "Join Rangaprabhu Parthasarathy, Director of Product Management at Meta, as he unveils the groundbreaking advancements in the Llama 4 models at LlamaCon. Discover how Llama 4 Scout and Maverick are revolutionizing AI with their native multimodality, super long context windows, and cost efficiency.\n\nKey Highlights:\n- Evolution of Llama: From Llama 1 to the powerful Llama 4 series, explore the journey of AI innovation.\n- Advanced Features: Learn about the 17B active parameter models, multi-image understanding, and the industry-leading 10 million token context window.\n- Real-World Applications: See how Llama is transforming industries like healthcare, education, and content discovery.\n- Developer Insights: Understand the demand for longer context windows and high-quality models, and how Llama 4 addresses these needs.\n- Llama Cookbook: Get started with practical examples and best practices for deploying Llama 4 in your projects.\n\nWhether you're a developer, researcher, or AI enthusiast, this session provides valuable insights into the future of AI technology. Don't miss out on learning how Llama 4 is setting new standards in the open-source AI movement.\n\nWatch now and start building with Llama!\nhttps://bit.ly/4dlwUFA",
+      "published_at": "2025-05-19T22:26:42Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "DcKoGr0HtL0": {
       "video_id": "DcKoGr0HtL0",
@@ -115,7 +176,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Learn about the discovery ecosystem at Meta and how to make it work for you. We'll break down each discovery surface, explain how they align with different growth strategies and show you how to craft a promotion strategy that drives results. Whether you're launching your first app or scaling an existing world, we’ll show you the tactical approaches successful creators use to cut through the noise and connect with their ideal audience. This isn't just theory — it's your practical blueprint for turning discovery into sustainable growth.",
+      "published_at": "2025-09-18T23:38:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "DogxXqpcowU": {
       "video_id": "DogxXqpcowU",
@@ -124,7 +189,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Hear from two developers who have found success in VR through different approaches. Tina Debove Nigro is a French entrepreneur and XR pioneer who has built award-winning spatial computing platforms and advised global tech leaders. Gulzar Ahmed is a hobbyist developer who's first VR app published is for Meta Quest. Both have a story to share about their experiences with Meta Spatial SDK.",
+      "published_at": "2025-09-18T23:39:51Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "EAZe8wDnAOA": {
       "video_id": "EAZe8wDnAOA",
@@ -133,7 +202,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Join us as we hear from Mark Zuckerberg for the Opening Keynote of Meta Connect 2025 — our annual conference where we showcase our progress in building the future of human connection and the technology that makes it possible. We'll explore our latest innovations in AI glasses, virtual reality, artificial intelligence, and beyond.",
+      "published_at": "2025-09-18T23:37:16Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "Fi6WmxYd5X8": {
       "video_id": "Fi6WmxYd5X8",
@@ -142,7 +215,20 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Loyal Pyczynski, Head of Metaverse Emerging Experiences at Meta, shares what’s next for developers looking to build for the cutting edge, including examples of novel AI applications such as subconscious dream interpretation and experiences that can dynamically adapt dialogue, storyline and more in response to user inputs.\n\nDevelopers have a lot to be excited about; Loyal breaks down his dream use cases that he hopes developers start exploring with emerging technologies like AI glasses.",
+      "published_at": "2025-09-24T23:19:16Z",
+      "tags": [
+        "Meta",
+        "Connect",
+        "2025",
+        "AI",
+        "glasses",
+        "GenAI",
+        "VR",
+        "Quest"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "GAtzbKsuV2o": {
       "video_id": "GAtzbKsuV2o",
@@ -151,7 +237,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Go behind the scenes with successful creators on Meta Horizon as they reveal the secrets behind their breakthrough worlds. You'll discover how they find inspiration across different platforms, master the art of designing engaging game mechanics that keep players enthralled and build thriving communities that extend far beyond Meta Horizon. Learn real strategies for turning passion projects into audience magnets from some of the top creators themselves.",
+      "published_at": "2025-09-18T23:37:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "Gfw3PcrAYA4": {
       "video_id": "Gfw3PcrAYA4",
@@ -160,7 +250,20 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Co-founder of Meije and seasoned VR developer Tina Debove Nigro dives into the benefits of Meta Spatial SDK and shares some potential use cases that developers can start unlocking with it today. If you’re an Android developer or want to build UI-rich experiences for VR, Tina’s insights reveal how Spatial SDK can help you bring your mobile apps into a new and exciting spatial environment and build experiences that enhance productivity and entertainment.",
+      "published_at": "2025-09-24T23:19:48Z",
+      "tags": [
+        "Meta",
+        "Connect",
+        "2025",
+        "Spatial",
+        "SDK",
+        "Android",
+        "VR",
+        "Quest"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "Ijpb6gteOrw": {
       "video_id": "Ijpb6gteOrw",
@@ -169,7 +272,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Step into the future of WebXR development where your browser becomes a gateway to immersive worlds. This session demystifies spatial web technology through clear explanations and easy to follow demonstrations that will change how you think about web experiences. You'll learn seamless transitions from traditional browsing to fully immersive environments and discover how the intuitive immersive web SDK from Meta makes creating these experiences accessible for web developers. Through a coding demonstration, we'll show you how your existing HTML, CSS and JavaScript skills can craft spatial experiences that work beautifully across both 2D screens and XR environments.",
+      "published_at": "2025-09-18T23:39:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "Lhpwg6MDPOo": {
       "video_id": "Lhpwg6MDPOo",
@@ -178,7 +285,11 @@
       "channel": "Meta Developers",
       "label": "LlamaCon 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-",
+      "description": "Join Daniel Han-Chen, CEO of Unsloth AI, in this insightful session from LlamaCon as he delves into the cutting-edge advancements in training Llama models. Discover how Unsloth AI is revolutionizing the process of training Llama 3 and 4 on platforms like Google Colab and Kaggle. Learn about their groundbreaking Dynamic Quantization method, which significantly enhances model performance and efficiency.\n\nExplore the impressive capabilities of Llama 4 Maverick, known for its unmatched inference speeds and cost-effectiveness. Daniel shares how Unsloth enables users to fine-tune Llama 4 models 1.5x faster, use 50% less VRAM, and achieve 8x longer context lengths. This session is a must-watch for developers and organizations looking to optimize their AI models for performance and cost.\n\nKey Highlights:\n- Simplified training workflows for Llama models\n- Dynamic Quantization for enhanced performance\n- Llama 4 Maverick's superior inference speeds\n- Cost-effective solutions for AI model training\n\nDon't miss out on the opportunity to experience the power of Llama 4 with Unsloth. Watch now and take your AI projects to the next level!\n\nWatch more sessions from LlamaCon on our Llamacon 2025 playlist: https://bit.ly/3H1w4Se",
+      "published_at": "2025-05-19T22:26:51Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "QXiR_GHQ5U0": {
       "video_id": "QXiR_GHQ5U0",
@@ -187,7 +298,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Ready to turn your VR interest into your first creation? This session is your launchpad into VR development, covering what you need to transform your ideas into immersive experiences. We'll walk you through the must-have tools, streamline your setup process and share insider tips that can save you hours of trial and error. Whether you're dreaming of an engaging game or a groundbreaking app, this beginner-friendly session gives you the foundation to start building with confidence.",
+      "published_at": "2025-09-18T23:38:58Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "RpfTy93M5HY": {
       "video_id": "RpfTy93M5HY",
@@ -196,7 +311,11 @@
       "channel": "Meta Developers",
       "label": "LlamaCon 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-",
+      "description": "Join us for an insightful session from LlamaCon where Beyang Liu, CTO and Co-Founder of Sourcegraph, discusses how the integration of Sourcegraph with Llama, a suite of open-source large language models, has transformed developer productivity and code modernization at Leidos. Discover how this powerful combination led to a 20% increase in efficiency and a 33% faster feature implementation, revolutionizing the management of large legacy codebases.\n\nKey Highlights:\n- Learn about the challenges of modernizing large legacy codebases and how Sourcegraph's AI-powered coding assistant addresses these issues.\n- Explore the success story of Leidos, a leader in government and commercial technology, and their journey to enhance developer efficiency.\n- Understand the benefits of using open-source LLMs like Llama to overcome high latency and outdated training data issues.\n- See how Leidos achieved a 92% reduction in time lost to context switching and learning, and a 20% improvement in development velocity.\n\nThis session is a must-watch for developers and tech leaders looking to leverage open-source technologies for greater innovation and efficiency. Don't miss out on this opportunity to learn from industry experts and gain insights into the future of code intelligence and modernization.\n\nWatch more sessions from LlamaCon on our Llamacon 2025 playlist: https://bit.ly/3H1w4Se",
+      "published_at": "2025-05-19T22:26:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "SSOHkFZ0m1s": {
       "video_id": "SSOHkFZ0m1s",
@@ -205,7 +324,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Join Michael Borke, Partner Engineer, AR/MR, Meta, and Aidan Tran, Software Engineer, Meta, to learn about Meta Spatial SDK. Combine the rich ecosystem of Android development and the unique capabilities of Meta Horizon. Use the mobile development languages, tools and libraries you’re already familiar with to create completely new immersive apps, or take your existing mobile app and extend it by adding spatial features.",
+      "published_at": "2025-09-18T23:39:28Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "V5wBuMahQx4": {
       "video_id": "V5wBuMahQx4",
@@ -214,7 +337,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Our lineup of AI glasses is expanding. In this session, we will provide an exclusive, in-depth look at what we are planning to unveil in our highly anticipated official developer preview. Gain early insight into the toolkit's core functionalities and discover how it facilitates the creation of unique experiences that leverage the natural perspective of the wearer and the clarity of open-ear audio.",
+      "published_at": "2025-09-18T23:38:11Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "V7VGbt55VBE": {
       "video_id": "V7VGbt55VBE",
@@ -223,7 +350,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Your first VR app is playable, now it’s time to iterate and optimize. This hands-on session shows you how to elevate your app from prototype to polished product. You’ll master optimization tools like Meta Quest Developer Hub, XR Simulator, Building Blocks and Immersive Debugger to enhance performance, streamline your debugging process and add the professional touches that can make your app stand out.",
+      "published_at": "2025-09-18T23:39:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "WaJOONFllLc": {
       "video_id": "WaJOONFllLc",
@@ -232,7 +363,11 @@
       "channel": "Meta Developers",
       "label": "LlamaCon 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-",
+      "description": "Join us for an insightful afternoon at LlamaCon 2025 as we delve into the latest trends in AI. This session features a compelling discussion between Meta Founder and CEO Mark Zuckerberg and Microsoft Chairman and CEO Satya Nadella. Together, they will explore the cutting-edge developments in AI, from development to deployment, and share strategies on how to excel in today’s competitive environment.",
+      "published_at": "2025-05-07T22:13:09Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "XGWpFCuYzV0": {
       "video_id": "XGWpFCuYzV0",
@@ -241,7 +376,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Your VR app is built — now let’s get it ready for the Meta Horizon Store. This launch session will guide you through everything from passing Virtual Reality Checks (VRCs) and effective beta testing to building a strong community and optimizing your product detail page. Learn proven strategies for a smooth submission, launch and for post-launch success, featuring real-world examples and actionable tips to help your app thrive from day one.\n\n4:10 How To Pass the Most Commonly Failed VRCs: https://bit.ly/451Fare\n\n9:18 Boosting Conversion on the Meta Horizon Store: https://bit.ly/4prmkCa\n\n11:05 An App's Journey Through Meta's Requirements: https://bit.ly/4pzZ7hj\n\nX: @MetaHorizonHelp https://x.com/MetaHorizonHelp\nReddit: u/MetaHorizonSupport https://www.reddit.com/user/MetaHorizonSupport/",
+      "published_at": "2025-09-18T23:39:14Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "aIB4NZuLfsI": {
       "video_id": "aIB4NZuLfsI",
@@ -250,7 +389,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Discover how Meta Horizon Start turns ambitious ideas into successful realities with end-to-end support that accelerates every stage of development. Join Khang Nguyen, Founder and CEO, Simulated Minds, as they reveal their remarkable journey from concept to launch and share how Meta Horizon Start became the catalyst that supercharged their progress.",
+      "published_at": "2025-09-18T23:39:20Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "cp6M3AD7KR4": {
       "video_id": "cp6M3AD7KR4",
@@ -259,7 +402,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Are you ready to take your Android app to the next dimension? Join Akash Joshi, Director of Partner Engineering , Meta, for an expert-led journey through the process of adapting your existing Android app for Meta Horizon OS. You'll discover how to set up your project to ensure compatibility, easily test your app and then optimize it for VR. With Meta Horizon OS, you can leverage multiple large panels to create beautiful visual experiences and unlock features like passthrough cameras that bridge the gap between virtual and real worlds. Get ready to see your Android app take full advantage of VR's potential.",
+      "published_at": "2025-09-18T23:39:36Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "e15BAFdCJt0": {
       "video_id": "e15BAFdCJt0",
@@ -268,7 +415,22 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Developer Advocate Jake Steinerman shares how he’s leveraging wearable devices and AI glasses to monitor his workouts and push his exercise routine to the next level. \n\nApply for the developer preview of the Meta Wearables Device Access Toolkit: http://bit.ly/3W55ZG7",
+      "published_at": "2025-09-24T23:18:48Z",
+      "tags": [
+        "Meta",
+        "Connect",
+        "2025",
+        "AI",
+        "glasses",
+        "wearables",
+        "Horizon",
+        "Device",
+        "Access",
+        "Toolkit"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "h9kl1QT_FTM": {
       "video_id": "h9kl1QT_FTM",
@@ -277,7 +439,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Unlock your creative talents with the generative AI tools transforming the Worlds Desktop Editor. Join creator mentor Tellous (Matt Torres) for an eye-opening demonstration that will change how you think about world creation speed and possibility. You'll witness firsthand how these tools can turn your imagination into reality in record time. From concept to creation, generative AI eliminates the traditional barriers that slow down the creative process, giving you the ability to iterate, experiment and create faster than ever before.",
+      "published_at": "2025-09-18T23:38:33Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "iePzt0XVzvs": {
       "video_id": "iePzt0XVzvs",
@@ -286,7 +452,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Discover the untapped potential of mobile world creation in Meta Horizon. We'll take you inside the most successful mobile experiences in Meta Horizon, revealing what makes them compelling and how they've achieved growth. You'll learn proven design principles that work specifically for mobile audiences, plus get actionable strategies for building and scaling mobile experiences that resonate within the Meta Horizon ecosystem.",
+      "published_at": "2025-09-18T23:38:43Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "jMIg0Y_kKok": {
       "video_id": "jMIg0Y_kKok",
@@ -295,7 +465,11 @@
       "channel": "Meta Developers",
       "label": "LlamaCon 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-",
+      "description": "Join Hamid Shojanazeri, Manager of Partner Engineering at Meta, as he unveils the latest tools and techniques to maximize the performance of Llama models. In this session, you'll discover how to streamline your developer journey with practical tools like the Llama-prompt-ops for prompt optimization and migration, and the Synthetic Data Kit for generating high-quality training data. Learn how these innovations can enhance your model's accuracy, reduce costs, and accelerate deployment.\n\nKey Highlights:\n- Introduction to Llama-prompt-ops: Optimize and migrate prompts seamlessly across Llama versions. https://bit.ly/431MRNL\n- Synthetic Data Kit: Generate diverse, high-quality data for fine-tuning and customization. https://bit.ly/4knx69G\n- Real-world success stories: See how companies like SAP achieved up to 30% accuracy improvements.\n- Open-source tools: Access our GitHub repository for code, examples, and community contributions.\n- Llama Cookbook: Step-by-step recipes for building applications, from chatbots to intelligent browser agents. https://bit.ly/3YKjJbm\n\nWhether you're a seasoned developer or new to Llama, this session provides the insights and resources you need to build smarter, more efficient applications. Don't miss out on the opportunity to enhance your Llama model's capabilities and contribute to the growing ecosystem.\n\nWatch now and start building with Llama!\nhttps://bit.ly/3YKjJbm",
+      "published_at": "2025-05-19T22:32:23Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "kGEg8dgcPyE": {
       "video_id": "kGEg8dgcPyE",
@@ -304,7 +478,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Your imagination is the only limit. Whether you're dreaming of groundbreaking apps, immersive worlds, innovative digital goods, or cutting-edge AI experiences, Meta technologies give you the ability to bring your vision to life. This showcase reveals how developers and creators like you are already building tomorrow's software experiences today. You'll see real examples of what's possible when creativity meets the right tools and discover how Meta technologies bridge the gap between what you can imagine and what you can create.",
+      "published_at": "2025-09-18T23:37:50Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "kgUc3WJvOM4": {
       "video_id": "kgUc3WJvOM4",
@@ -313,7 +491,11 @@
       "channel": "Meta Developers",
       "label": "LlamaCon 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-",
+      "description": "Join Dom Divakaruni, Director of Product Management at Meta, as he unveils the Llama API—a groundbreaking platform designed to empower developers and businesses with seamless access to advanced AI models. Discover how Llama API can accelerate your development process with intuitive API calls, enabling you to harness the power of Llama's open-source models for diverse applications.\n\nIn this session, you'll learn about:\n- The transformative impact of Llama on the AI landscape and its role in creating a robust AI supply chain.\n- How Llama API simplifies model customization, fine-tuning, and deployment across various environments.\n- The latest Llama models, including Llama 4 Maverick, and their capabilities in STEM problem-solving and multimodal research.\n- Compatibility with OpenAI APIs, making it easy to integrate Llama into existing applications.\n- Exciting partnerships with Groq and Cerebras for accelerated inference, delivering super-low latency for real-time applications.\n\nWhether you're a seasoned AI developer or just starting, Llama API offers the tools and flexibility to innovate and build the next big idea. Don't miss this opportunity to explore the future of AI development with Llama API.\n🔗 Learn more about the Llama API and join today: https://bit.ly/3SHl4fm",
+      "published_at": "2025-05-19T22:26:27Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "lQDCkAMy0DM": {
       "video_id": "lQDCkAMy0DM",
@@ -322,7 +504,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Whether you're a seasoned Unity developer, skilled in native development, comfortable with web technologies, or excited about creating worlds, we'll help you find your path to develop with Meta technologies. This essential orientation session cuts through the options to give you clear direction on where to focus your energy. You'll walk away knowing exactly which development track suits you and which upcoming sessions will give you the deepest insights for your chosen path.",
+      "published_at": "2025-09-18T23:37:59Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "njJ_VNxn5w8": {
       "video_id": "njJ_VNxn5w8",
@@ -331,7 +517,21 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Hear from Chris Pruett, Director of Games at Meta, as he dives into how the audience for spatialized software is rapidly evolving. Whether it’s building for VR experiences on Meta Horizon OS or for AI glasses, there are expanding opportunities to create experiences people love across games, media, and much more.\n\nWith decades of experience in the games industry, Pruett shares why, out of all the hardware and software unveiled at Meta Connect, he’s most excited for the upcoming Meta Horizon Engine, and how AI is enabling developers and creators to rapidly accelerate their creative process.\n\nRegardless of what you want to build, Pruett’s insight can help you determine where to start.",
+      "published_at": "2025-09-24T23:18:03Z",
+      "tags": [
+        "Meta",
+        "Connect",
+        "2025",
+        "Horizon",
+        "creator",
+        "developer",
+        "design",
+        "VR",
+        "AI"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "o-kHT0EHmt0": {
       "video_id": "o-kHT0EHmt0",
@@ -340,7 +540,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "As Meta announces its latest line of new products and updates that takes the next steps on the journey to the next computing platform, we look even further into the future. Join visionaries Michael Abrash and Richard Newcombe as they reveal the exciting future of glasses with contextual AI, and how Meta is poised to transform the future of computing",
+      "published_at": "2025-09-18T23:37:26Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "p496evuZCT8": {
       "video_id": "p496evuZCT8",
@@ -349,7 +553,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Enterprise data comes in all forms. In this session, we share tips on how to make the most the most of Llama when you work with unstructured data.",
+      "published_at": "2025-09-18T23:40:02Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "w1eFmRhs3ls": {
       "video_id": "w1eFmRhs3ls",
@@ -358,7 +566,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Discover the benefits of community and mentorship with Ashley Briley, a worlds creator, who will share their inspiring evolution from program member to mentor within the Meta Horizon Creator Program. You'll get an insider's perspective on how the program is designed to accelerate your skills, scale your business and connect you with a network of fellow creators who share your passion and ambition. From hands-on upskilling opportunities to real business growth strategies, this session reveals how the right support system can turn creative potential into measurable success.",
+      "published_at": "2025-09-18T23:38:51Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "xWiJLZ7EPW8": {
       "video_id": "xWiJLZ7EPW8",
@@ -367,7 +579,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Games that resonate with the core audiences of Meta Horizon enable players to build social comfort by supporting three core motivations for play: competence (the ability to test skills and achieve things), autonomy (the ability to make interesting choices), and relatedness (the ability to feel connected to others). In this digital session, we’ll describe how these motivations work and offer tips for building experiences that support them.",
+      "published_at": "2025-09-18T23:40:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "xlViEqrQG3s": {
       "video_id": "xlViEqrQG3s",
@@ -376,7 +592,11 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Take a closer look at our upcoming developer toolkit designed for AI glasses - Meta Wearables Device Access Toolkit. This session will highlight the development workflows and support resources available to developers, emphasizing the ease with which you can integrate AI glasses capabilities into your mobile applications. Join us to learn more about the Meta Wearables Device Access Toolkit and be among the first to explore new use cases with our AI glasses by leveraging open-ear audio and cameras that capture a person’s viewpoint to craft distinctive hands-free experiences.",
+      "published_at": "2025-09-18T23:38:22Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:12+00:00"
     },
     "zw2xIecFY94": {
       "video_id": "zw2xIecFY94",
@@ -385,7 +605,21 @@
       "channel": "Meta Developers",
       "label": "Connect 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "description": "Hear from André Schmidt, Lead Software Engineer of Be My Eyes, as he shares a look into how developers are using metaverse technologies and cutting edge tools to go beyond gaming. \n\nBe My Eyes is a platform that connects blind or low vision users with volunteers and companies across the world through live video and AI. By providing powerful, context-aware support on-demand, André and his team have enabled products, books, and technology to be more accessible for thousands across the globe. Be My Eyes is an inspiring reminder that the same features that deliver fun immersive experiences can also bring life-changing support.",
+      "published_at": "2025-09-24T23:17:38Z",
+      "tags": [
+        "Meta",
+        "Connect",
+        "2025",
+        "Horizon",
+        "Ray-Ban",
+        "accessibility",
+        "design",
+        "AI",
+        "Be My Eyes"
+      ],
+      "details_at": "2026-09-06T13:24:12+00:00"
     }
   }
 }

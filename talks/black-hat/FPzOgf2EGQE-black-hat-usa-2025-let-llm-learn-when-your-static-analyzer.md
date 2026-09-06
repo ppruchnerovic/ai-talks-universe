@@ -6,27 +6,119 @@ conference: black-hat
 conference_name: "Black Hat"
 category: "Security conferences"
 edition: "Black Hat"
-year: 2025
+year: 2026
 speakers: []
-channel: null
+channel: "Black Hat"
 duration_min: 30
-published_at: null
+published_at: 2026-02-27T19:00:13Z
 video_id: FPzOgf2EGQE
 url: https://www.youtube.com/watch?v=FPzOgf2EGQE
 youtube_url: https://www.youtube.com/watch?v=FPzOgf2EGQE
 tags: []
-topics: []
-transcript: false
+topics: ["Security, safety & red teaming"]
+transcript: true
 ---
 
 # Black Hat USA 2025 | Let LLM Learn: When Your Static Analyzer Actually 'Gets It'
 
 **Speaker not identified**
 
-`Black Hat` · `Black Hat` · `2025` · `30 min`
+`Black Hat` · `Black Hat` · `2026` · `30 min`
 
 [Watch the recording](https://www.youtube.com/watch?v=FPzOgf2EGQE) · [Conference site](https://www.blackhat.com/)
 
 ## Description
 
-*No description published on YouTube.*
+Imagine the process of a human security auditor. What distinguishes an expert? It's their accumulated knowledge and nuanced understanding, allowing them to see beyond simple rules. Indeed, Large Language Models (LLMs) demonstrate semantic understanding capabilities potentially exceeding traditional rule-based static analysis. However, raw reasoning power isn't synonymous with effective learning in this complex domain.
+
+While LLMs have shown promise for semantic reasoning tasks, deploying them directly on massive codebases is frequently impractical due to scalability constraints and excessive computational overhead. Additionally, isolated semantic summarization at function or module granularities often yields overly abstract results lacking practical actionable insights, or excessive context that proves too cumbersome to analyze effectively.
+
+In this talk, we propose "Let LLM Learn," an innovative approach that facilitates incremental semantic knowledge learning *using* reasoning models. Our method reframes the role of static analysis; instead of relying directly on its predefined rules, we leverage it to identify and extract relevant code segments which serve as focused learning material for the LLM. We then strategically partition complex codebases into meaningful, semantic-level slices pertinent to vulnerability propagation. Leveraging these slices, our framework incrementally teaches the LLM—potentially guided by human annotations—to summarize and cache valuable semantic knowledge. This process significantly enhances accuracy, efficiency, and context-awareness in automated vulnerability detection.
+
+Empirical evaluations demonstrate that our approach effectively identifies over 70 previously unknown bugs in real-world software projects, including VirtualBox and critical medical device systems in the IN-CYPHER project led by the UK and Singapore. Crucially, the semantic knowledge accumulated by our system naturally encodes high-value vulnerability patterns, closely resembling the intuition and analytical capabilities of human security experts. Our technique thereby bridges a critical gap between human expertise and automated analysis capabilities, considerably enhancing vulnerability detection effectiveness, precision, and practical utility.
+
+By:
+Zong Cao  |  Phd Student, Imperial Global Singapore and Nanyang Technological University
+Zhengzi Xu
+Yeqi Fu
+Yuqiang Sun
+Kaixuan Li
+Yang Liu
+
+Full Session Details Available at:
+
+## Transcript
+
+*3,494 words · source: supa (en, exact timings)*
+
+**[0:02](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=2s)** All right. Uh good afternoon everyone and welcome. Uh today we are diving into a topic that is close to train of accompanying large models with static analysis tools. It's about uh culture shift. We believe it's on the way in how we approach next generation scanner. I hope this talk will explain what we do toward a more intelligent and faster approach. Uh this work bring together researchers from both AI and security. My name is Haung. Used to be a researcher focus on browsers operating system and cloud native spark hunts and exploitations technicals and uh have sh them to the
+
+**[0:52](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=52s)** blackhead conference in the past few years and now I'm moving a little bit to AI's application in those area. So the question that if AI really redefine SAS we aim to explore and uh analysis of different combination method based on the capabilities of it. Uh we summarize those three ways of com uh combining them. The first is the AI enhanced design SST uh does the initial scanning and the larger model to the filter. It's quite easy to adopt it to the product and already use some uh commercial production and NAS is AI explorer design. Uh in
+
+**[1:42](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=102s)** this design the large model lead uh exploration and reporting uh while static analysis to verify results uh for example like checking the uh control flow correctness and the last is AI native design. Uh the large model acts as a scanner itself the whole scanner itself uh handling uh nearly handling everything. It's rely heavily on the larger model to drive tools and mimic both uh machine and human behavior and our attemp review uh some problem inside of the design. Let's start with the AI enhancement design. The first is a casemises problem.
+
+**[2:31](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=151s)** Uh you may go see the uh code stamp code snap of uh official code care rules and you could find two interesting functions name strictly dominate and uh strictly post domination. That means program port A and program port B need to have a very strong domination relationship in the control flow uh of the code. So this mean that the initial SSG scanner acting uh as a front end also aggressive in some in sometimes for fielding out false positives that will unintentally misreal vulnerabilities. Uh so no matter how advanced in the lecture model is in this cases it
+
+**[3:21](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=201s)** analysis is entirely depend on the input is received. Uh this is a core challenge to do the tradeoff between finding vulnerabilities and avoiding false alarms. Sometime uh false alarms filtering even goes beyond the importance of zero day funings. um they do so much effort on this work. So for example, cool care had over uh 500 p requests dedicated to uh fixing uh fix the false positives and beyond the issue of the miss issues. uh another significant program problem is one by one AI reporting scanning strategy
+
+**[4:10](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=250s)** is really costly despite this effectiveness while the logical models analysis of individual report can be highly effective due to maybe your prompty engineering prompt optimization the time and the results overhead become acceptable when scaling up to a very large uh a very large number of findings. So for the reasoning uh we we we we list two different style using logical model here that is chat steps and identic steps. The chat steps is like uh you send a prompt to the chat box of the TGBT or whatever or use the API services uh to get a real time uh feedback
+
+**[5:02](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=302s)** result. So the chat steps are faster using shorter context and giving step-by-step answering real time and the agentic staves put the plannings and tool callings and uh task solving all in one. Uh it's a slower but more advanced uh working with a larger context. However, both style face the same challenge. Each reading pass takes time to complete. Sometimes second, sometime minutes. When there are thousands of possible passes to explore, the time and the cost grows very rapidly. So it's not so expensive. We if we moving on to the AI explorer
+
+**[5:52](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=352s)** and agentic native designs the first problem is that they cannot guarantee the completeness and coverage due to the knowledge gaps and agent wheelings and personality and hallucination. Actually uh this kind of a design still run into cost issue. The real efficiency question come down to this. You are asking the AI to generate one of switch style tools calling include read uh grip uh uh such function calls but those tools are even worse than rules uh and the result what should be a ruth past rules based task end up getting more and more expensive uh through
+
+**[6:41](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=401s)** function calling in aent system. So the fact is SAS is naturally great at exploration the code. It's uh just been forced to be held back to avoid false uh politics. So it it's a full power is not released and also a rub system is a way more faster and uh more reusable and think about it in the worst case scenario. um we we can just trace what agent does to uh explode the code and write those steps down to a new rule to achieve same goals. Right? So we should uh first try to relax the rules not just um shift uh to the agent problem solving strategies.
+
+**[7:34](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=454s)** So um for better integration with larger models we also need to consider uh the SAS ST's life cycle include development phase and runtime phase. Uh so the main idea of uh problem solving is uh we want to bring the most powerful logical models usage into the develop process because it's one time effort and at the meantime we we we are expected do the optimization to the um runtime performance. Okay. So we will uh dive into the development phase. Uh please take a look at imaging. Uh
+
+**[8:25](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=505s)** this is the framework of uh Google's research launched about two years ago using larger model to do the optimization problem. So we could see that the larger models first act as optimizer and generate and generate the solutions and use uh objective functions and the score to uh get the readout and put every context back to the larger model to do the reoptimization. Uh this framework is pretty easy to map into the SSD life cycle. For example, we could map the optimizer to the uh security research phase and the rules design phase and map the testing and
+
+**[9:15](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=555s)** benchmarks to the uh objective function evaluator phase and scoring. Uh what we need to do is make things makes make all things a closed loop. So we design a framework for the QL optimization but with a little bit uh different. So first is we rely large model as a QL optimizer to generate first version of QL files and the QL would do the compilation and test on the runtime on uh uh public test suit and get a readown and put the runtime log to the um regeneration phase to the uh regeneration. Uh the reason why um here just look kind of uh a different for why more age is
+
+**[10:10](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=610s)** both QL compilation and execution phase would have terrible problem. We summarize the problem to two point. The first QL generation SK actually largely pluted in the lecture models by other languages. it was very frequently. So uh uh see the the generated QL would combine with the pacing code or the SQL code or other language identifier or grammar. In the in the beginning we didn't we didn't add strict constraint on the agent behavior. So it often tend to uh generate a large amount of new code. as a result due to the data pollution issue the iteration would frequently fall into a death loop. So it cannot pass a compilation for example.
+
+**[11:01](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=661s)** So after we think uh a little bit about our uh first insight for the limit elimination. So we quickly choose to comment on the specific code with uh strict limit. Uh by the way we uh focus on the CN C++ tentis rules. Uh there is no need to identify identify many uh framework related sync and source point. So the uh tent propagation uh is less complex than other languages. Therefore the amount of uh additional code uh requirements is much smaller. Another thing another thing we need to
+
+**[11:50](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=710s)** notate is that uh is a context isolation since the control of the logs have a great effect on the evaluator's performance. Uh that just means if you if you if you if you want to uh optimize all sensor code in a closed loop uh you do not need to feed the larger model with a real code. For example, a simple case is uh you told the logic model that case A is not included in the rebound case. So you try you you you're trying to prompt prompt the agent or prompt your chat box to to to tell to to to tell it that you need
+
+**[12:39](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=759s)** to uh do the to do the more conseration to case a right. So he give you uh selection statement including a fire pass and coline it's it's a meaningless right. So it's just because test suit you are using in this close loop is not the same test suit for testing the same root causes of case you want to put in the loop. Uh this is our rhythm. So at the first sign to s the results I'm very surprised by great work of the code care teams they really come to the precision at a very high rate nearly 100%. Um
+
+**[13:27](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=807s)** uh I'm I'm still very shocked by we could we could increase the recall rate to about three times better uh to make more people uh directly feel fill the gap. We decide to open source agent and implementation of the agent actually makes the workflow and agent take action to get better behavior controlling. So you could directly check the code in the repo and help you have a great luck of finding more zero day vulnerabilities. Okay, let's go to the second part. the larger models in the runtime. By relaxing those rules, uh we obtain a much larger number of readouts
+
+**[14:17](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=857s)** uh with improved recall rate. Right? So we have mentioned that one by one rendering is unacceptable. So how do we um improve on this since to understand the problem we need first reflect on how humans auditors think about the problem we we we first know that the human auditors don't spend very long time reading about every single pass uh instead as they review more report they gradually summarize knowledge and become more familiar with certain uh code partings or code regions which significantly speed up the
+
+**[15:07](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=907s)** auditing process. Right. So here we focus on two main question. Where the the kind of similarity between reports enable human auditors to accelerate their review process and what knowledge do human gradually uh accumulate during auditing. Uh after extensively auditing of the readout we found two main readings for the similarity different patterns. First the tender analysis engine doubles passes on very small branches. As the number of the encountered the branches increase the result expand dramatically.
+
+**[15:53](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=953s)** uh for example many uh many pass results may differ only uh slightly but just a minor difference are enough to mathematically create new uh distinct redown in this example the three paths uh let's see it's on the right on the right uh represents different uh 10 choices in the propagation for the uh same branch in the code and the second is uh after expanding the redown uh sorry after expanding the rules the number of the think and the source point uh definitions are not so clear. So that also would increase uh the number of the points gradually due to the more relaxed point definitions.
+
+**[16:42](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1002s)** So what informations do human actually gain from auditing those similar reports? Uh experienced research uh researcher usually uh does not focus just on the flow of single variables but pay more attention to the code context. So in other word code understand uh in other word human actually understands the code behavior rather than the data flow. Uh they do not simply interpret the propagations or pointers like machines. For example we show a uh demonstration to highlight what human understand from code on the left. The knowledge is very abstract like a summary of business
+
+**[17:32](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1052s)** logic. On the right, uh each step is based on rules based tent analysis without abstraction. And this high level abstraction lets us draw the same uh conclusions across core regions even with different passes. This essentially reflect the difference between the contact first strategy and the flow first principle of uh uh humans and machines and more specifically this process can be divided into um recognizing the scope of logic uh that is identifying independent code regions that understand those the functionality of those code regions and the risk
+
+**[18:22](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1102s)** assessments. For for example, if you ask expert uh researchering uh browsers vulnerability, they could very easily tell you uh which part of the code do the callback right under which conditions and have what kind of side effect. So that is a very high level abstraction of the code region. However, code summarizing code summarizations uh if we want to do we have several ways to do so. Um for example, we could abstract it at the function level to achieve a very high uh catch hit rate. But the the downside is that the interactions between functions could be uh very difficult to understand due to the lack of the context
+
+**[19:12](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1152s)** because we we lack of the function calling uh context. Or you could also choose a very broad level by summarizing at a full path. Um but this essentially degrades to one by one reading with uh no benefits from summarization or category. We want to keep a good catch rate and catch hit rate and also keep a context as a comp complete as possible when summarization when do the summarization. So we can so we can better understand the behavior in a faster way.
+
+**[20:02](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1202s)** We adopt a pass segmentation uh strategy at a code blocks level aiming to identify code sections with strong logical coherence and to abstract those with independent logic as a whole party. Our specific approach is to identify identifying logic switch point within pathies. Uh in C C and C++ a good way to detect those point is the by segmenting the codes at the outmost color level. The outmost colon naturally located at the business logic layer with a complete ST frame context and is also the
+
+**[20:51](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1251s)** position for coordination decisions. Yeah, this is a example. So in this code a variable called source data is defined in the outmost function. is then processed through a source chain which may involve a very long sequence of function calls. After processing the red is returned to the outmost function back and the um I independent functional unit and after some propagation inside the outmost function the code uh continues with the sync chain logic. The six chain can be um also involve a very long code sequence too.
+
+**[21:43](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1303s)** No matter how many variations exist in long execution path, we care about one thing, the code or in other word the context. Our goals is to ensure that the summarized information from either the source chain or sync chain remain consistent regardless of internal uh small changes. Therefore, the key to catching uh the catching the code region lines in the context specifically the set of the functions uh function definitions uh involved in the code chain. This abstraction ignore the propagation. This ab abstraction uh method actually ignore the propagation flow and and point
+
+**[22:33](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1353s)** definitions uh which could cut down extra branch and uh point blood. So we can merge result from the same code and it's rel uh it's related variable into a single catch entry. We tested this strategy and could uh get an incredible catch head rate sometimes uh reach 80 80% 80 80%. Okay. Next we begin uh after the segmentation we begin to the segmentation uh reading in the in in code reviews human tend to remember code patterns. This is this is abstraction process. For example, uh in in learning from uh
+
+**[23:24](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1404s)** historical uh vulnerability. A key practical uh experience is to uh trace the root causes, identify the operations that lead to the bug and then um look for the similar operations elsewhere in the codeex. If we find that vulnerability related issues are often around one key aspect, the operation uh in large in large model analysis abstracting and summarization by operation would get better alignment with the human behavior and different operations require different forecasts. For example, uh for the function chain like free chain
+
+**[24:15](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1455s)** uh for the source chain like a free chain, you could check uh if the variable is cleared and if it's a local uh uh variable or not and for the use chain uh you could check the what what fields are d referenced those concern are not shared and not are not same across the operations as each segment require attention special attention to its uh specific operations. So automatically we a to build a database that answer where is a segment and what does the segment contribute to parks. Uh this process is where
+
+**[25:03](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1503s)** uh humans uh domain knowledge add values to the system and makes the vulnerability analysis process more manageable. When reading about the vulnerabilities human would have uh would have many different corner case insight. Those insight on a specific point of the concerning attentions uh can help can help prompt the larger model for a more complete understanding of the code region and understanding that goes beyond the larger models standalone capabilities. So this process is a human the loop but gradually increase the attention point in the sort of the chain in our system.
+
+**[25:56](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1556s)** Thus we uh have done the switch from the rule based development to uh chamber s development. Finally let's uh take a look at the development of the soft chain items. This imagery show how we handle soft chain data. For example, take the uh coot items named transfer d reference which is a key concerning point in use out of free auditing. We first def define a call instruction and then fill the prompter with variables uh directly extracted from the static analysis tools and define what larger models could do in the action field and
+
+**[26:46](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1606s)** we also do the explanation of our purpose in the process. So all the four key point uh uh enable us to design uh design a better coot and complete COD items which become a basic unit in the database. So here you can see the output of the database. we uh index at the function call chain level and each coot is uh required to generate a corresponding checking readout. For example, the issue here focus on the handling uh variable's field. Uh since there is a 10
+
+**[27:35](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1655s)** relationship between uh variable and its field al uh usually would would would cause for the positives in the auto free chicken um making a concerning point. So we check it here. So when we revised revised the process we realized that we have unintentionally transformed the the functionality of the static anal analysis tools. The first step we take is to uh extract highly logically related code regions of the segment then perform coot reasoning at the segment level to build a operation database. uh beyond vulnerability matching the the
+
+**[28:27](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1707s)** operation database is also helpful for the root cause analysis and bug fixing problem. So we could do the summarization in our approach. We could say that existing rules have a significant potential for the optimization especially for the better recall rate and different scenarios actually require different use of lighter models. Or we could check uh we we could check if we care more on bounty efficiency to use agentic way or the chat way and different rules need different capabilities u for the choice of the explore and reading and humans
+
+**[29:20](https://www.youtube.com/watch?v=FPzOgf2EGQE&t=1760s)** doesn't behave like machines. So we do not force logical models to to do so like machines and logical model based abstraction require forecast attentions. Uh the the attention completes would be provided by cootsi. Uh thank you. Uh we have great thanks to the collaborators and thanks and if you uh want to know all know more about uh the story behind the soft chain design or the segmentation uh design or other technical designs uh we we welcome to have a chat. Thank you.

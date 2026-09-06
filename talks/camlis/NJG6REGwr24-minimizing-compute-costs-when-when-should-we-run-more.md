@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
-channel: null
+channel: "CAMLIS"
 duration_min: 22
-published_at: null
+published_at: 2022-11-30T02:44:11Z
 video_id: NJG6REGwr24
 url: https://www.youtube.com/watch?v=NJG6REGwr24
 youtube_url: https://www.youtube.com/watch?v=NJG6REGwr24
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+CAMLIS 2022, Andre Nguyen, Richard Zak, Luke Edward Richards, Maya Fuchs, Fred Lu, Robert Brandon, Gary David Lopez Munoz, Ed Raff, Charles Nicholas, and James Holt

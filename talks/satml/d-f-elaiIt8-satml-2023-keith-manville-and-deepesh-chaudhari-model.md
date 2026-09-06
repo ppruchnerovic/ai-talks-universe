@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Keith Manville", "Deepesh Chaudhari"]
 channel: "Nicolas Papernot"
 duration_min: 61
-published_at: null
+published_at: 2023-02-16T05:00:15Z
 video_id: d-f-elaiIt8
 url: https://www.youtube.com/watch?v=d-f-elaiIt8
 youtube_url: https://www.youtube.com/watch?v=d-f-elaiIt8

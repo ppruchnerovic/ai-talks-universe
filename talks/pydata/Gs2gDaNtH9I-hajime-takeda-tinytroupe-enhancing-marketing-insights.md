@@ -6,27 +6,109 @@ conference: pydata
 conference_name: "PyData"
 category: "Practitioner AI conferences"
 edition: "PyData"
-year: 2025
+year: 2026
 speakers: ["Hajime Takeda"]
-channel: null
+channel: "PyData"
 duration_min: 30
-published_at: null
+published_at: 2026-01-09T17:56:19Z
 video_id: Gs2gDaNtH9I
 url: https://www.youtube.com/watch?v=Gs2gDaNtH9I
 youtube_url: https://www.youtube.com/watch?v=Gs2gDaNtH9I
-tags: []
+tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
 topics: []
-transcript: false
+transcript: true
 ---
 
 # Hajime Takeda - TinyTroupe Enhancing Marketing Insights through LLM- PyData Global 2025
 
 **Hajime Takeda**
 
-`PyData` · `PyData` · `2025` · `30 min`
+`PyData` · `PyData` · `2026` · `30 min`
+
+`#Python` `#Tutorial` `#Education` `#NumFOCUS` `#PyData` `#Opensource` `#learn` `#software` `#python 3` `#Julia` `#coding` `#learn to code` `#how to program` `#scientific programming`
 
 [Watch the recording](https://www.youtube.com/watch?v=Gs2gDaNtH9I) · [Conference site](https://pydata.org/)
 
 ## Description
 
-*No description published on YouTube.*
+Understanding customer behavior is essential in marketing. Traditionally, marketers rely on methods such as surveys, customer interviews, and focus groups to gather insights. However, these approaches can be expensive, time-consuming, and limited in scale and diversity.
+Recently, multi-agent simulation powered by Large Language Models (LLMs) is emerging as an innovative technique. TinyTroupe, for example, enables the creation of different personas (e.g., budget‑minded Gen‑Z shoppers, premium‑seeking parents), allowing marketers to predict and optimize advertising effectiveness or replace time-consuming interviews rapidly.
+In this talk, I will introduce the key concepts of LLM-powered multi-agent simulations, demonstrate their practical application in marketing through TinyTroupe, and share actionable insights and recommendations.
+
+## Transcript
+
+*3,251 words · source: supa (en, exact timings)*
+
+**[0:06](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=6s)** Welcome everyone. We're so glad to have you here. Thanks for joining PI Data Global. We have a great session ahead. Um just a reminder to everyone attending, if you're here for Tiny Troop, enhancing marketing insights through LLM powered multi- aent persona simulation. Um please take some time to put some questions or comments in the chat. We love engagement from attendees, but we're really excited to hear more about Tiny Troop. So, I'm going to turn this over to our presenter, Jimmy Teada. >> Hi. Hello everyone. Thank you for coming to my talk. I'm Hajimi, a data scientist of Nikki House. Today, I'll be speaking
+
+**[0:54](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=54s)** about tiny troop multi- aent hill. So let's get started. This is agenda for my talk. I will start with the business context and why we need the multi- aent simulation. Then I will introduce tiny troop and move to a code walk through. At the end of the talk, I will offer some practical recommendations. So just a quick introduction. I've been spend my career working in in data science for marketing, retail and e-commerce in both Japan and the US. I think today's topic will resonate with pilot audience because like you can apply it directly to your business needs to strengthen your customer insights.
+
+**[1:46](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=106s)** So from this presentation my hope is that you will understand tiny troop and I hope you uh this talk motivated motivate you to try uh customer research with tiny troop in your environment. The business context understanding customer behavior is essential in marketing. For example, Peter Ducker said the aim of marketing is to know and understand the customer. Jeff Bezos also said start uh Jeff Bezos also said start with customers and work backwards. I think
+
+**[2:36](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=156s)** most of you agree with this in theory but in practice truly knowing the customer is extremely hard. So the question is how do we actually get a new rich nuanced picture of our customers? So why do we need customer research? Let's take a look at a familiar situation in your your company. On the left, the CEO cares about marketing market understanding. In the middle, the product manager is thinking about new features. On the right, we have the marketing specialist who is thinking about better communication. Customer research helps answer questions like this.
+
+**[3:24](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=204s)** To answer these questions clearly, we needed to increase the resolution of a customer profile. That's why we need customer persona. A persona is a detailed profile of the customer for a product or a service. The reason why this is important is that a product designed designed for everybody works for nobody. Let's use a running shoe through brand example such as Nike on the left. If you just say the customer that could be almost anywhere, it's too vague. So, it's hard to create messages that really resonate. In the middle, we have segment like men in their 30s. This is better, but it still
+
+**[4:15](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=255s)** lacks nuance. On the right we have a Pelona instance. For example, Mike, 34 years old, lives in New York, soft engineer and drugs three times a week. He will run a New York City marathon next year. With this level of detail, uh we can easily imagine what features or marketing copy this mic would like. This persona becomes a like common language for the team that keeps product marketing and engineer uh aligned on who who we are building for. However, constructing a realistic profile manually is incredibly t time consuming. So, how do marketers or UX researchers usually build these
+
+**[5:04](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=304s)** personas? Traditionally, they rely on three major methods. Surveys to get the quantitative numbers. Interviews and focus groups to explore the why behind their behaviors and voice of the customer reviews and social media comments. These methods are powerful, but there is a bottleneck which is time consuming and expensive. Here's why Tiny Troop comes in. Tiny Troop focuses on simulating the surveys and interviews using LLMs. Let's look at some rap numbers. As you can see, a typical survey takes weeks interview uh even heavier recruiting
+
+**[5:54](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=354s)** participants, scheduling them and trans transcribing the audio just for 10 people. It can easily takes up to three month. It costs around $10,000 in total. This may be reasonable if you are planning a massive once a year product launch. However, imagine your boss comes to you and says, "I have a new idea. Can we test it by next week if you rely on these traditional methods?" The answer is simply no. So this is where we need to change. What if there was a way to make this process cheaper, faster, and scalable? That brings us tiny.
+
+**[6:45](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=405s)** Next, why do we need multi- aent simulation? Now, some of you might be thinking, can we just use Chajb or Gemini web interface? I had the same thought. So, I tried Chipity first. I wrote a prompt like act as 30 different customers and tell me which concept you would like. And it kind of work worked, but the results were not very very good. I realized the this is a structural problem. Let me show you why. So why do does this pro single prompt single chat approach f uh fail? It's not
+
+**[7:37](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=457s)** that the model is bad. There are three main issues. First context leakage. If you put many personas in one chat, they all share the same conversation history. Persona A can see everything persona B said and vice versa. Over a few terms, they start to be influenced by each other. Second, the safety bias. Of course, LLM models are tuned to be polite and unbiased. That's great for many tasks. But for Pson, we want to hear the unique even wrong or biased opinion like real customers. Third, scaling and control. In a single
+
+**[8:27](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=507s)** chatbot, everything becomes one long scroll of text. Imagine trying to simulate 100 customer in a single chat. It becomes hard to see who said what. It's also hard to reproduce the same set of personas or send a follow-up questions to some of them. So to fix these problems uh we need to move from a one long chat to a multi- aent architecture. First we need to have a have separate minds. Instead of one model pretending to be every agent here is a distinct entity. Each agent has its own goal and profile.
+
+**[9:19](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=559s)** So different agents can think and react in in different ways. Second separate memory agents don't share one global chat history. Each agent keeps its own private history and internal state and we need the orchestrator or environment. We need a system to manage how agents interact. So this orchestrator control the discussion and records the results perfectly. In essence, multi- aent architecture is defined by this autonomy and isolation. From this architectural ro perspective, this is exactly a standard form of a multi- Asian
+
+**[10:07](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=607s)** architecture. Next, so what is tiny troop? So what exactly is tiny troop? Tiny troop is an open source Python library mainly developed by Microsoft. It's designed for LLM based multi- aent personus simulation. It supports LLM APIs like OpenAI API or Azure OpenAI service. So how do we actually use it? This is a workflow and it's very simple and follows three main steps. Step one, generate personas. Step two, simulate interactions. And step three,
+
+**[10:57](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=657s)** extract and analyze results. I will walk you through the code for these steps in a minute. But first, let's take a look at some key concepts here. To understand how this works, uh this is the these are three core components. First, tiny person. Tiny person is one agent basically one synthetic customer. Each tiny person has a rich profile age, location, values and personality traits. They also have two types of memory. Episodic memory, things that happened to them over time and semantic memory, general knowledge uh or like more stable
+
+**[11:47](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=707s)** facts. Second, the factory is the population builder. Imagine if you need imagine you need 100 uh per participants. If you manually define 20 different profiles fields for 100 different agents, it would text takes hours, right? Instead, you give the factory uh a high level request in natural language and it generates realistic detailed personas for you. For example, you can say create 100 teenagers in San Francisco. The factory then fills in all the details for each person each for each
+
+**[12:36](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=756s)** person. Third, tiny world. Tiny world is the environment and orchestrator. Here you can design interview scenarios. Example you can decide uh do you want uh do you want to in do do you interview agents one by one or do you want to put them into small groups and like let them debate. So the how is tiny troop different from other popular multi- Asian libraries like crew AI langraph or old gem. The short answer is high troop is a simulation engine not an AI assistant.
+
+**[13:24](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=804s)** On the left libraries like crew AI or lang graphs are designed to complete tasks. They should be helpful and unbiased and we judge them by t success and accuracy. On the right, tiny troop is different. Tiny troops ultimate goal is not to finish a job but to mimic mimic human behavior. That means agents can be biased, emotional or even irrational. Occasionally uh we are not looking for the correct answer. Instead, we care about plausibility. Does does this sound like something a real person might say? In the next se section, I'll walk you through the
+
+**[14:14](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=854s)** actual code. So today I don't have enough time to cover all of the details, but if you would like to explore the full notebook, you can scan this QR code and visit the GitHub repository. I'll put some I put the same link in the chat box. Let's take a look at the scenario of this use case. Imagine a running shoe brand testing three product concepts in the US market. Option A, lightweight, option B cushioned, option C versatile style. We want to know who chooses which
+
+**[15:08](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=908s)** option and why. We'll use Tiny Troop to run virtual interviews across three segments. serious runners, casual joggers and fashion conscious shoppers. Step one is to generate personas virtual customers. As input, we need a quick definition of the target customer segment. Also, we use a US demographics file called USA.json. It contains age distributions, locations, believes and so on. As outfit, we generate 10 per customer segment. So in total, we get 30 tiny person agents.
+
+**[15:59](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=959s)** Here's the code. It's actually quite simple. First, we define a short context for the serious running segment. For example, you run 15 plus miles per week and you train for races and something. Then we call tiny person factory. We give it three things. The path to USA.json, the number of people we want, and this context string. The factory then creates 10 different personas that match this description. The nice part is they follow our segment definition and they also follow realistic US
+
+**[16:49](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1009s)** demographic US demographics from USA.json. We repeat the same pattern for other two segments. So here's the output uh in JSON. Please note that the image on the left was generated with this JSON description using normal chapity, not Hiny Tube though. This is Dorian. He's 22, a serious runner in San Francisco and he works at the cafe and the gym. What you can see here is only a small part of more than 300 lines of JSON. Each persona has long-term go long-term goals education preferences likes dislikes, beliefs, daily routine, weekly
+
+**[17:41](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1061s)** routine, and family background. And internally, Tiny Troop uses a long system prompt. This prompt tells each agent how to behave like a real human. For example, this system prompt says the pelson trait always override the base base characteristics of the L&M. Tiny troop uses mustache templates to manage the system prompts. Mustache template is like a filebased version of Python F strings. That way we keep prompt engineering and Python implementation cleanly separated. Step two is to simulate interactions. In
+
+**[18:35](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1115s)** this step, the input is the persona JSON we created in the step one plus interview questions, interview prompt. The output is an interaction log between each agent and us. Here is a code at the top. We define three concepts option A, option B, option C in one text block. In this demo, we interview agents one by one. For each agent, we create tiny world like a private virtual room just for that agent. In that tiny world, we call the broadcast function to send
+
+**[19:23](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1163s)** the interview question and then we call the run command to let the agent think and answer. When we interact with each agent, tiny troop uses chain of thought reasoning internally. In other words, the agent first thinks and then it talks. In the think step, the agent retrieves the relevant information from its memory. And after it answers, the agent updates its memory with what it just said. The final step is to extract and analyze
+
+**[20:13](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1213s)** results. On the left, you can see an example of the interaction log. It's very rich, but it's also long and unstructured. Right? [snorts] We want to convert this long text into a clean table like the one on the right using LLM. To do that, tiny troop provides a helper called results extractor. So the actual code looks like this. First we create a results extractor. Then we call extract results from agent function with four things. the agent
+
+**[21:04](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1264s)** extraction object extraction objective situation and the list of field we want such as preferred option and reasoning. When we aggregate the results, you can see clear patterns by customer segment serial serious runner mostly split between A lightweight and B cushioned. Casual joggers tended to like B cushioned and fashion conscious shoppers tended to choose C versatile style. The fun part is looking at each agent, each persona, and knowing the reason behind the decision. Let's zoom in on Eric.
+
+**[21:55](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1315s)** Uh he was generated in the casual jogger segment and he runs only once or twice a week. Normally we might expect a hgile joker to pick option B for cushioning and comfort but he picked option A. Why? Because he's a CFO and he tries to optimize everything. He's very analytical, efficiencydriven and competitive. He thought an extra question was not necessary and he liked the simple design. So the one possible insight from here is like for efficiency seekers message is about like functionality or efficient design may work better than
+
+**[22:44](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1364s)** just saying lightweight. This is another uh example. Uh James he's in the serious running segment. He has been running his whole life and he has he does jog when the weather good when the weather is good. He picked option B soft cushion because he's very worried about his knees. From this you might design a copy like like an investment in your body or like run again tomorrow to resonate with something like James So let's talk about the cost of this demo.
+
+**[23:32](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1412s)** Here I used three pairs with GPT 4.1 and the total cost was less than $4. If I run that same scenario with GPT4.1 mini, the total cost goes down to about $1. Compared to hiring a marketing agency to recruit real people, which would cost like $10,000, this simulation is uh over 99.9% cheaper. Now I'll share some like quick tips for the configuration. First the LLM model. Tiny troops current default model is GPT 4.1 mini. If you
+
+**[24:24](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1464s)** are just starting I recommend using this mini model first because it is cheap and good enough to experiment with. If you want richer conversations, you can switch to GPT 4.1 using the same code. In my test, GPT 4.1 gave slightly uh more detailed persons than GPT 4.1 mini, but of course at a higher price. Support for GPT5 family in tiny troop is still under review on GitHub. So for now I will I recommend you to stay with the 4.1 family because the system prompts in
+
+**[25:13](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1513s)** tiny troop are mainly tuned for the GPT 4.1 family. Next, temperature. The temperature controls uh how random and the diver diverse the answer answers are. A high temperature like 1.2 to 1.5 gives you more diverse. Sometimes edgy personas, but sometimes you may see broken JSON. A lower temperature is more stable. But the opinion can be like bit generic. My suggestion is to start at a higher temperature like 1.2, 1.3, 1.4 and if you see many errors, simply lower the temperature. Finally, about sample size, I recommend
+
+**[26:06](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1566s)** starting small, maybe fewer than 10 persons to tune your prompts and scenario questions. Once you are happy with the results, you can scale up to larger samples. So to wrap up, uh traditional customer research is powerful, but it's slow, expensive. So with tiny troop, you can prototype and validate ideas much faster and much cheaper. So here are some links from my talk today. Thank you very much for your time and if you have very questions or comment I'll be happy to answer them or if if you have any questions or collab
+
+**[26:55](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1615s)** if you want to collaborate with me please feel free to like email me or connect me on LinkedIn. >> Thanks Jimmy. You have a couple of questions in the chat. Looks like we have about three different questions there. We also have a couple of questions in the Q&A as well. >> Can tiny trip also evaluate UI mock up mockups? So, is it possible to handle not only text but visual input? Currently, it does not support like UI or mockup mockups. I think and what should the input be? to these models.
+
+**[27:46](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1666s)** What should the input be to these models? Demographics, geographics, psychographic data. So, so for the in regarding the question from Thiago. So the input of this modeling is we have two input like definition of the like customer scenarios customer segments and also as I said like USA.json and USA.json is like this. So it con includes like demographics data of the US uh like USS demograph like age
+
+**[28:37](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1717s)** distributions or gender distributions. I hope I answered your question. And the next question the temperature was I noticed that the this is a question from Adi. I noticed that the temperature was very low about 1.1. Is this intentional make the len more creative? So in my demo I use the temperature like one point I think the temperature is like 1.3. So but you can adjust this as I share in
+
+**[29:31](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1771s)** the like summary session you know. So will it be possible to get a copy of your slide? Oh yeah I I will share the slide later. Did I miss some other questions? I think I covered all of the questions, but feel free to like reach out to me if you have any other questions and I'm very happy to discuss with you. >> Perfect. Thank you so much. This was a great presentation and everyone thank you for attending. I hope you really enjoyed Pi Data Global and please continue to reach out to each other. Um, I know that all of our speakers will be happy to connect even after this event. Jimmy, thank you so much. Have a
+
+**[30:19](https://www.youtube.com/watch?v=Gs2gDaNtH9I&t=1819s)** wonderful rest of your day. >> Thank you so much.

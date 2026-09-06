@@ -1660,3 +1660,100 @@ numpy; its end-to-end block skips when the layer is absent.
 `test_stem.py` skipped every transcript whose file name starts with `_`,
 meaning to skip index files; 53 real video ids start with `_`. It now asks
 "is this an id". The stemmers still agree on all 104,061 corpus tokens.
+
+## The refresh of 2026-09-06
+
+The first full catalogue refresh since the spec map. Four network steps, in
+the order `STATE.md` prescribes, each logged under `logs/*-2026-09-06.log`:
+`sync_catalog.py --refresh`, `infoq.py --year 2026`, `enrich.py --all
+--include-unknown-year`, `fetch_transcripts.py --source supadata --min-year
+2026 --workers 32`, then `sync_catalog.py` and `build_index.py`. The corpus
+went from 9,048 talks / 3,174 transcripts to **9,797 / 3,405** (3,174 exact
+timings, 231 estimated), still 53 conferences — `query.py --stats`. The numbers
+below are from the logs and from `--stats` unless said otherwise.
+
+### What the enumeration found, and why the corpus grew by 749 rather than 30
+
+The refresh found **27 new YouTube talks** — mostly ai-engineer,
+the-ai-conference, ai-devcon-tessl and wearedevelopers — and `infoq.py` found
+**3 new InfoQ-only presentations** (20,587 transcript words, estimated timing;
+InfoQ-only talks are now 225, counted by `video_id` starting `iq-`). Thirty
+talks, then. The other 719 were already in `data/catalog/`: `enrich.py` was run
+over the whole catalog for the first time with `--include-unknown-year`, and
+enriched **4,715 videos that had never been enriched** (82 unavailable, 4,797
+to do, about 95 Data API units — `logs/enrich-2026-09-06.log`). With
+descriptions, **722 previously-cached videos in `scope: "ai"` conferences now
+pass the AI filter** that had dropped them on title alone. The biggest gains
+are where the descriptions were missing wholesale: microsoft-ignite 761 talks,
+mlops-world-tmls 503, aws-reinvent 382 (the `--stats` per-conference table).
+Enumerated videos are now **17,943** (from 17,677; `sum(len(videos))` over
+`data/catalog/*.json`). This closes the "pre-2026 descriptions are not
+backfilled" item in `TODO.md`, and the `count` drift in three catalogs, which
+`--refresh` rewrote.
+
+Some `talks/` markdown files show as deleted-and-added in git: those are
+retitled videos whose slug changed, not drops. The second `refresh_report.py`
+run said **27 added, 0 dropped, no field regressed**.
+
+### Two bugs in `merge_source`, found by the gate
+
+The first refresh of the day did worse than that, and `refresh_report.py`
+caught it — the gate worked.
+
+1. **yt-dlp 2026.08.19's flat channel listing returns `channel: null`** while
+   title and duration come back intact. `merge_source` took the listing's
+   value over the cache's and emptied `channel` on **4,619 records**. It now
+   carries the cached channel forward, and gives a brand-new video its
+   source's commonest channel.
+2. **A `first: N` recency cap deleted what it pushed past the window.** When
+   the listing came back full, videos no longer inside the first N — 16
+   ai-engineer and 4 ai-devcon-tessl talks, two of them with transcripts, e.g.
+   *How We Build Effective Agents: Barry Zhang* — were treated as "no longer
+   listed" and dropped. A full window now keeps them; only a listing shorter
+   than the cap can delete.
+
+The caches were restored from git and re-enumerated with the fix; the second
+`refresh_report.py` is the one quoted above. Six new checks in
+`test_infoq.py` (48 → 54) cover both rules. `specs/catalog-sync.md` already
+documents the behaviour.
+
+### The transcript run
+
+`--min-year 2026` selected **241** (9,797 talks · 3,177 already fetched · 29
+known misses · 6,589 outside the year filter — `logs/fetch-2026-09-06.log`),
+fetched **232**, missed **9**, every one of them a `LookupError` whose
+`detail` is a fact about the video: no timed transcript, or a members-only
+403. About **242 Supadata credits** including the probe. The 2026 scope is
+again complete: 3,208 talks, 3,171 transcript files (3,167 indexed; the same
+four ASR failures are held back below the wpm floor), 37 in `_misses.json`,
+nothing in neither. Verified by exact video id, as `STATE.md` insists.
+
+### The index, and the first halving
+
+`build_index.py`: **1,543,280 passages**, `talks.db` **420.7 MiB**, `tindex/`
+49.2 MiB in 722 shards, 58,858 stems (41,376 of them in descriptions). The
+first build put `search-meta.json` at **6.92 MiB, 115% of the 6 MiB trigger**
+— 749 more talks with descriptions did that — so `META_DESC_CHARS` was halved
+**300 → 150** and the build rerun: **5.6 MiB, 93%**. This is the first
+halving; `specs/search-browser.md` says the next crossing should move
+descriptions out of the up-front payload rather than halve again, and
+`STATE.md` now says so too.
+
+### Tests
+
+Offline suites after the session: `test_excerpt.py` 57,
+`test_fetch_transcripts.py` 157, `test_infoq.py` 54, `test_query.py` 75,
+`test_semantic.py` 60, `test_speakers.py` 18, `test_stem.py` 5,
+`test_topics.py` 509 — counted with `grep -c '^ok'` over each file's output.
+`ARCHITECTURE.md`'s table had 154 for the fetcher and 48 for InfoQ. The
+browser suite was still running when this was written and is left at 229.
+
+### What the docs got
+
+`README.md`'s headline counts, the enumerated / survive sentence, the topic and
+conference-type tables and the *Fetching what has no transcript yet* paragraph;
+`STATE.md`'s state table, credits and *Numbers to refresh*; `STATS.md`
+throughout, regenerated on the new corpus; the two finished `TODO.md` lines
+deleted; `ARCHITECTURE.md`'s testing table. Credits: `STATE.md` said ~2,370 of
+3,000 spent as of 2026-09-03; with today's ~242 that is ~2,610 unless the
+billing month rolled in between, which nobody checked — the dashboard decides.

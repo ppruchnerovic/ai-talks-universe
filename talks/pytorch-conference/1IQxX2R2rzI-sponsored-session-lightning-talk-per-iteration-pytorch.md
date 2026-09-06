@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "PyTorch"
 duration_min: 11
-published_at: null
+published_at: 2025-11-04T03:45:03Z
 video_id: 1IQxX2R2rzI
 url: https://www.youtube.com/watch?v=1IQxX2R2rzI
 youtube_url: https://www.youtube.com/watch?v=1IQxX2R2rzI
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Sponsored Session: Lightning Talk: Per-iteration PyTorch Visibility for Fast Debugging and Smarter Optimization - Shruti Verma & Yi-Ting Wu, Clockwork.io
+
+You’ll leave with a reproducible recipe to answer: “What exactly is my step time made of, and what should I fix first?”. AI Training stalls and slowdowns hide within iterations, and are hard to unmask - particularly in a manner that allows for shared understanding across infrastructure and ML engineering teams.  We’ll show how to compute per‑iteration step timing for PyTorch without code changes!  We break a step into components that matter - such as data loading, forward pass computations, /backward pass communication collectives, optimizer step, and checkpoint writes. We overlay iteration job breakdowns with infrastructure anomalies to effectively pinpoint slowdown root causes.

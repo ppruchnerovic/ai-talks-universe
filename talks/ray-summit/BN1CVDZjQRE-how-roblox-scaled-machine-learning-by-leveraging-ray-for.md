@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 29
-published_at: null
+published_at: 2024-10-21T20:16:20Z
 video_id: BN1CVDZjQRE
 url: https://www.youtube.com/watch?v=BN1CVDZjQRE
 youtube_url: https://www.youtube.com/watch?v=BN1CVDZjQRE
@@ -29,4 +29,20 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Watch Steve Han, Wei Zeng, and Yiqing Wang from Roblox present their experiences in leveraging Ray for efficient batch inference in machine learning at Ray Summit 2024. The talk focuses on Roblox's approach to scaling their ML infrastructure, particularly in light of recent advancements in multimodal language models.
+
+The speakers discuss the integration of multimodal models into vLLM, an open-source project that has garnered significant interest from the community. They explore the technical challenges encountered during this process and share key insights gained. The presentation offers a practical perspective on implementing cutting-edge ML technologies in a large-scale gaming platform, providing attendees with valuable lessons applicable to their own ML scaling efforts.
+
+--
+
+Interested in more?
+- Watch the full Day 1 Keynote: https://youtu.be/jwZHJthQvXo
+- Watch the full Day 2 Keynote https://youtu.be/Lury2ad6KG8
+
+--
+
+🔗 Connect with us:
+- Subscribe to our YouTube channel: https://www.youtube.com/@anyscale
+- Twitter: https://x.com/anyscalecompute
+- LinkedIn: https://linkedin.com/company/joinanyscale/
+- Website: https://www.anyscale.com

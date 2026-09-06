@@ -10,12 +10,12 @@ year: 2025
 speakers: []
 channel: "SANS Institute"
 duration_min: 13
-published_at: null
+published_at: 2025-05-13T19:32:44Z
 video_id: R3sTtDV31Tc
 url: https://www.youtube.com/watch?v=R3sTtDV31Tc
 youtube_url: https://www.youtube.com/watch?v=R3sTtDV31Tc
-tags: []
-topics: []
+tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 
@@ -25,8 +25,16 @@ transcript: false
 
 `SANS AI Cybersecurity Summit` · `AI Cybersecurity Summit 2025` · `2025` · `13 min`
 
+`#sans institute` `#information security` `#cyber security` `#cybersecurity` `#information security training` `#cybersecurity training` `#cyber security training`
+
 [Watch the recording](https://www.youtube.com/watch?v=R3sTtDV31Tc) · [Conference site](https://www.sans.org/cyber-security-summit/)
 
 ## Description
 
-*No description published on YouTube.*
+SANS AI Cybersecurity Summit 2025
+Influence Operations with AI and Cyber-Enabled Ops
+Gerardo Santos, Head of Threat Hunting, S2 Grupo
+
+This presentation will explore the strategy behind influence operations conducted by state-sponsored actors and how they leverage AI to weaponize their campaigns.
+
+View upcoming Summits: http://www.sans.org/u/DuS

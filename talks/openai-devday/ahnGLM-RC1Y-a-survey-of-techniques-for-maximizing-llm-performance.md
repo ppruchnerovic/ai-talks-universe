@@ -7,21 +7,21 @@ conference_name: "OpenAI DevDay"
 category: "Practitioner AI conferences"
 edition: "DevDay 2023"
 year: 2023
-speakers: []
+speakers: ["John Allard"]
 channel: "OpenAI"
 duration_min: 46
-published_at: null
+published_at: 2023-11-13T22:33:23Z
 video_id: ahnGLM-RC1Y
 url: https://www.youtube.com/watch?v=ahnGLM-RC1Y
 youtube_url: https://www.youtube.com/watch?v=ahnGLM-RC1Y
 tags: []
-topics: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 
 # A Survey of Techniques for Maximizing LLM Performance
 
-**Speaker not identified**
+**John Allard**
 
 `OpenAI DevDay` · `DevDay 2023` · `2023` · `46 min`
 
@@ -29,4 +29,11 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Join us for a comprehensive survey of techniques designed to unlock the full potential of Language Model Models (LLMs). Explore strategies such as fine-tuning, RAG (Retrieval-Augmented Generation), and prompt engineering to maximize LLM performance.
+
+Speakers:
+John Allard
+Engineering Lead, Fine-tuning Product Team at @OpenAI
+
+Colin Jarvis
+Solutions, EMEA at @OpenAI

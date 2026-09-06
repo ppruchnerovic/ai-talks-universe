@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 26
-published_at: null
+published_at: 2025-10-08T17:00:44Z
 video_id: nKuXMDCtyQI
 url: https://www.youtube.com/watch?v=nKuXMDCtyQI
 youtube_url: https://www.youtube.com/watch?v=nKuXMDCtyQI
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Ever wonder how OpenAI is using our own technology? Discover how we build reliable agents for sales, support, finance, and data, then take home a framework for spotting and scaling high-leverage use cases.

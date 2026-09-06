@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "AI Village"
 year: 2020
 speakers: []
-channel: null
+channel: "aivillage"
 duration_min: 97
-published_at: null
+published_at: 2020-08-25T19:46:52Z
 video_id: 7zswHvHR9cA
 url: https://www.youtube.com/watch?v=7zswHvHR9cA
 youtube_url: https://www.youtube.com/watch?v=7zswHvHR9cA
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+The AI Village’s Stella Biderman is joined by Anima Anandkumar, Catherine D'Ignazio, Aylin Caliskan, and Ram Shankar Siva Kumar to discuss ethical  problems from the use of AI and how practitioners can work to mitigate them.

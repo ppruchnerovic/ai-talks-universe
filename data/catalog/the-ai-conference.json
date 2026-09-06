@@ -1,16 +1,16 @@
 {
   "slug": "the-ai-conference",
   "name": "The AI Conference",
-  "enumerated_at": "2026-08-30T21:46:48+00:00",
+  "enumerated_at": "2026-09-06T13:20:00+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@aiconference/videos",
       "label": "The AI Conference",
       "year": null,
-      "count": 177
+      "count": 183
     }
   ],
-  "count": 177,
+  "count": 183,
   "videos": {
     "0Uqpb5Eoic4": {
       "video_id": "0Uqpb5Eoic4",
@@ -133,19 +133,27 @@
       "video_id": "4dQC3MEb4So",
       "title": "The AI Conference 2024 Recap",
       "duration_s": 109,
-      "channel": null,
+      "channel": "The AI Conference™",
       "label": "The AI Conference",
       "year": null,
-      "source_url": "https://www.youtube.com/@aiconference/videos"
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Take a journey through the highlights of the 2024 AI Conference! From revolutionary innovations to inspiring conversations, this year’s event shaped the future of artificial intelligence.\n✨ Don’t miss what’s next – AI Conference 2025 is just around the corner. Stay tuned for updates!\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\n🎟️ Tickets: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference   \nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2025-01-07T22:37:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "5HhtyiOBnmk": {
       "video_id": "5HhtyiOBnmk",
       "title": "Together AI on the Shift to Smaller, Purpose Built Models |The AI Conference 2025",
       "duration_s": 102,
-      "channel": null,
+      "channel": "The AI Conference™",
       "label": "The AI Conference",
       "year": null,
-      "source_url": "https://www.youtube.com/@aiconference/videos"
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Together AI is an end to end platform for generative AI, headquartered in San Francisco. At The AI Conference 2025, Together AI shared how their platform supports the full lifecycle of GenAI, including training, post training, fine tuning, and serving models through their proprietary inference engine.\n\nTogether AI is positioned as an open source alternative to closed model providers, and the company is built on a strong research foundation with co founders who are AI professors, including their chief scientist. The team focuses on turning innovative research into production ready products for enterprises and application builders.\n\nWhile large AI labs continue to capture attention with massive, generalist models, Together AI highlighted a growing shift toward smaller, purpose built models designed for specific tasks and use cases. As more organizations embed AI functionality into their products, Together AI expects inference workloads to accelerate significantly and become a core driver of GenAI adoption.\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2026\n\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-01-08T22:38:03Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "5RJHs9PqzMg": {
       "video_id": "5RJHs9PqzMg",
@@ -333,10 +341,14 @@
       "video_id": "BLJDkTPHu28",
       "title": "Leslie Jones-Dove | 2024 Startup Showdown Winner",
       "duration_s": 243,
-      "channel": null,
+      "channel": "The AI Conference™",
       "label": "The AI Conference",
       "year": null,
-      "source_url": "https://www.youtube.com/@aiconference/videos"
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Last year at the AI Conference, Leslie didn’t just pitch — he made impact.\n\nFrom transforming how public defenders access justice, to winning the Startup Showdown 2024, he proved that purpose-driven AI has a place at the forefront of innovation.\n\n📣 If you’ve got a mission, and the tech to back it, this is your moment.\n\n🔥 Your startup could be next.\n https://aiconference.com/cfs/\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\n🎟️ Tickets: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2025-08-26T17:34:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "BqaOen-jJhI": {
       "video_id": "BqaOen-jJhI",
@@ -767,6 +779,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:35+00:00"
     },
+    "NXguspkVu2c": {
+      "video_id": "NXguspkVu2c",
+      "title": "Daniyal Manniar, Riot Games: Voice Chat Moderation at Scale",
+      "duration_s": 1003,
+      "channel": "The AI Conference™",
+      "label": "The AI Conference",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Daniyal Maniar, Software Engineer, Riot Games\n\nVoice Chat Moderation at Scale: Building Safer Voice Comms in Games with Audio LLMs\n\nThis talk explores how we use audio large language models (LLMs), including Whisper, to detect trust and safety violations in voice chat for online games. We share our approach to audio classification, technical challenges at scale, and how these tools help create safer, more inclusive player experiences.\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-09-03T15:49:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
+    },
     "O1xwFxMlcoI": {
       "video_id": "O1xwFxMlcoI",
       "title": "Prashanth Rao, Kuzu: Unpacking Graph RAG: An overview of history, terminologies and examples",
@@ -923,6 +948,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:35+00:00"
     },
+    "SN_67dHJwAU": {
+      "video_id": "SN_67dHJwAU",
+      "title": "Naman Goyal, Google Deep Mind: Beyond Text Generation",
+      "duration_s": 1350,
+      "channel": "The AI Conference™",
+      "label": "The AI Conference",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Naman Goyal, Machine Learning Engineer, Google Deepmind\n\nBeyond Text Generation: The Rise of Agentic AI and Its Transformative Potential\n\nThe evolution of Large Language Models (LLMs) from reactive text generators to proactive autonomous agents represents one of the most significant paradigm shifts in artificial intelligence. This presentation explores how agentic AI systems—capable of goal-directed behavior, environmental interaction, and decision autonomy—are redefining human-AI collaboration across industries. Drawing on recent research, we'll examine the technical foundations enabling this transformation: hierarchical planning structures, long-term memory architectures, and tool integration frameworks that dramatically enhance performance on complex tasks. The discussion will cover contrasting operational frameworks like ReAct, which demonstrates significantly higher completion rates on benchmark tasks, and Plan-and-Execute approaches, which receive stronger stakeholder ratings for internal consistency. We'll address critical ethical considerations including the Graduated Autonomy Framework, which reduces intervention requirements while maintaining safety, and explore cutting-edge developments in multi-agent systems, embodied agency, continual learning, and meta-learning—where adaptive architectures require fewer examples to master novel tasks. With hundreds of research papers published on novel agent architectures in recent years, agentic AI represents the frontier of artificial intelligence research and application. This presentation provides a comprehensive overview of current capabilities, emerging challenges, and future directions for practitioners and decision-makers navigating this rapidly evolving landscape.\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-09-03T15:50:21Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
+    },
     "T28GKM0Z9KQ": {
       "video_id": "T28GKM0Z9KQ",
       "title": "Karan Shetti, Head of Product & AI, Locofy.ai",
@@ -940,10 +978,14 @@
       "video_id": "T3UE9bp241w",
       "title": "Key Takeaways from The AI Conference 2025 | What’s Next in AI",
       "duration_s": 122,
-      "channel": null,
+      "channel": "The AI Conference™",
       "label": "The AI Conference",
       "year": null,
-      "source_url": "https://www.youtube.com/@aiconference/videos"
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Thousands of engineers, researchers, founders, and AI leaders gathered in San Francisco for The AI Conference.\n\nHere’s what they learned.\n\nFrom agentic AI to real-world deployment, this recap covers the ideas, systems, and conversations shaping the future of AI—and why being in the room still matters.\n\nIf you're building or deploying AI, this is the signal worth paying attention to.\n\nThe AI Conference returns Sept 29–Oct 1, 2026.\n\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-03-25T23:17:13Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "TdcI7CU38nE": {
       "video_id": "TdcI7CU38nE",
@@ -1196,10 +1238,14 @@
       "video_id": "ZNjtkfFNa58",
       "title": "The AI Conference 2025 Recap",
       "duration_s": 106,
-      "channel": null,
+      "channel": "The AI Conference™",
       "label": "The AI Conference",
       "year": null,
-      "source_url": "https://www.youtube.com/@aiconference/videos"
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "From groundbreaking research and packed keynotes, The AI Conference 2025 brought together the world’s leading developers, founders, and researchers shaping the future of artificial intelligence.\n\nRelive the moments, insights, and connections that defined this year’s event—and see how agentic AI, infrastructure innovation, and real-world applications are transforming every industry.\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\n🎟️ Tickets: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2025-11-05T22:40:22Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "Zfc5_sx8EJM": {
       "video_id": "Zfc5_sx8EJM",
@@ -1465,19 +1511,43 @@
       "video_id": "gPC8PSA2l5Y",
       "title": "The AI Conference 2025 Hack Day Recap",
       "duration_s": 95,
-      "channel": null,
+      "channel": "The AI Conference™",
       "label": "The AI Conference",
       "year": null,
-      "source_url": "https://www.youtube.com/@aiconference/videos"
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Hack Day at The AI Conference 2025 brought together the brightest AI builders in San Francisco for a day of hacking, workshops, and demos. From lightning talks to live-streamed challenges, the energy was electric!\n\nFeatured workshops: (full sessions available on our channel)\n\nBuilding Production-Ready AI Agents with Strands Agents — Du’An Lightfoot (AWS): https://youtu.be/hwWGx91hwY0?si=854Z9AE3-eefUfjA\n\nFrom Ingestion to Query: Using Weaviate for Vector Search — Adam Chan (Weaviate): https://youtu.be/ouzIpY_F0bs?si=u_glGqzPcHivCKvs\n\nTop Mistakes Developers Make When Building AI Voice Agents — Andrii Mazur (Vapi): https://youtu.be/AP-AwFnXc8c?si=iiInlRG8omngEC-N\n\nEmpowering Agents with Knowledge Graphs using Neo4j MCB Servers — Jason Koo (Neo4j): https://youtu.be/in-bbFGQz2U?si=khpmN9wby1_APiTx\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\n🎟️ Tickets: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2025-10-10T22:10:12Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "gTNjt3bx24I": {
       "video_id": "gTNjt3bx24I",
       "title": "The AI Conference 2024: Hear What Attendees Have to Say!",
       "duration_s": 152,
-      "channel": null,
+      "channel": "The AI Conference™",
       "label": "The AI Conference",
       "year": null,
-      "source_url": "https://www.youtube.com/@aiconference/videos"
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Wondering what The AI Conference 2024 was really like? Hear firsthand from attendees as they share their experiences, key takeaways, and favorite moments from this groundbreaking event! From cutting-edge innovations to powerful networking opportunities, find out why industry professionals, tech enthusiasts, and AI leaders are calling this a must-attend conference.\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\n🎟️ Tickets: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2025-02-17T22:05:49Z",
+      "tags": [
+        "AI",
+        "The AI Conference"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
+    },
+    "h0Eiu314rHI": {
+      "video_id": "h0Eiu314rHI",
+      "title": "AI in Healthcare and Biotech",
+      "duration_s": 1720,
+      "channel": "The AI Conference™",
+      "label": "The AI Conference",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "AI in Healthcare and Biotech\n\nAI isn’t just speeding up science—it’s transforming care. Experts from Xaira, Pfizer, and Menlo Ventures discuss how AI is reshaping everything from drug discovery to patient outcomes and personalized care.\n\nModerator: \nJohnny Hu, Principal, Bio + Healthcare, Menlo Ventures\nPanelist:\nMarc Tessier-Lavigne, Co-founder, Chairman & CEO, Xaira Therapeutics\nSheraz  Khan , Group Lead Generative AI, Pfizer\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-09-03T15:49:33Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "hpzD5SlyN7Y": {
       "video_id": "hpzD5SlyN7Y",
@@ -1509,10 +1579,40 @@
       "video_id": "i4jB69uL8vw",
       "title": "The AI Conference 2025 Will Change Everything!",
       "duration_s": 41,
-      "channel": null,
+      "channel": "The AI Conference™",
       "label": "The AI Conference",
       "year": null,
-      "source_url": "https://www.youtube.com/@aiconference/videos"
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "The future of AI is unfolding right now! 🌍✨ Join the biggest names in artificial intelligence as they showcase groundbreaking innovations, industry-shifting developments, and world-changing technology. Whether you're an AI enthusiast, a tech professional, or just curious about what’s next, this is an event you won’t want to miss. Watch now and be part of the AI revolution!\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\n#AIConference2025 #ArtificialIntelligence #FutureOfAI #TechEvent #MachineLearning #AIInnovation #NextGenAI #AIRevolution #TechTrends #TheAIConference\n\n🎟️ Tickets: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference   \nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n©The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2025-01-24T21:21:15Z",
+      "tags": [
+        "The AI Conference 2025",
+        "AI event 2025",
+        "artificial intelligence 2025",
+        "AI trends 2025",
+        "machine learning conference",
+        "tech event 2025",
+        "future of AI",
+        "AI breakthroughs 2025",
+        "deep learning 2025",
+        "AI industry news",
+        "robotics and AI",
+        "OpenAI conference",
+        "AI revolution",
+        "next-gen AI",
+        "AI updates",
+        "AI business impact",
+        "AI-powered tech",
+        "AI startups 2025",
+        "big tech AI",
+        "AI startup funding",
+        "AI-driven future",
+        "AI networking event",
+        "disruptive AI technology",
+        "Elon Musk AI",
+        "AI research summit"
+      ],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "iQwAGShCkXs": {
       "video_id": "iQwAGShCkXs",
@@ -1526,6 +1626,19 @@
       "published_at": "2026-08-10T17:40:11Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "iVZXFXulEZI": {
+      "video_id": "iVZXFXulEZI",
+      "title": "Julia Jose, New York University: Propaganda in the Age of Agentic AI",
+      "duration_s": 1207,
+      "channel": "The AI Conference™",
+      "label": "The AI Conference",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Julia Jose, PhD Candidate, New York University\n\nPropaganda in the Age of Agentic AI: Balancing Innovation and Ethics\n\nLarge Language Models (LLMs) like GPT-4 have redefined our interaction with technology, showcasing remarkable capabilities in natural language understanding and generation. However, as these models increasingly demonstrate agentic behavior—reasoning, acting, and adapting—they also pose risks, including the potential to generate harmful propaganda, misinformation, and manipulative narratives.\n\nIn this talk, Julia will explore the dual-edged nature of agentic AI. Drawing from her recent research, she will highlight real-world examples where LLMs have been misused to spread misleading information and discuss the broader societal implications of these advanced technologies. By examining how AI that reasons, acts, and adapts can be harnessed both constructively and detrimentally, we can better understand the urgent need for robust mitigation strategies.\n\nShe will present actionable strategies and innovative approaches aimed at curbing the generation of harmful content, ensuring that these adaptive AI systems are developed and deployed responsibly and ethically. Whether you are an AI practitioner keen on advancing responsible AI practices or someone interested in the societal impacts of adaptive technologies, this session will provide valuable insights into balancing cutting-edge innovation with essential ethical safeguards.\n\nJoin her as we delve into how we can collaboratively build safer, more trustworthy agentic AI systems that contribute positively to our digital ecosystem while mitigating the risks of propaganda and misinformation.\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-09-03T15:50:09Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "in-bbFGQz2U": {
       "video_id": "in-bbFGQz2U",
@@ -1565,6 +1678,19 @@
       "published_at": "2025-08-19T03:28:43Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "kOfPyRu-dt8": {
+      "video_id": "kOfPyRu-dt8",
+      "title": "Wil Pong, Fiddler: Guardians of Agentic AI: Control Planes for Orchestration and Governance",
+      "duration_s": 1572,
+      "channel": "The AI Conference™",
+      "label": "The AI Conference",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Wil Pong, VP of Product, Fiddler\n\nGuardians of Agentic AI: Control Planes for Orchestration and Governance \n\nThe adoption of multi-agent AI systems is transforming governance and compliance, but it also introduces risks that conventional monitoring cannot detect. Autonomous agents communicate, delegate tasks, and chain reasoning in ways that create invisible failure modes and policy violations.\n\nAI control planes act as a guardian layer for these systems, combining observability, guardrails, and governance into a unified framework. Beyond passive monitoring, they analyze context in real time, intercept unsafe actions, dynamically rerouting agent workflows, and enforcing policy compliance across agent interactions. This proactive approach allows enterprises to prevent violations before they escalate.\n\nIn this session, we will explore how a control plane for multi-agent AI works in practice, demonstrating scenarios where real-time guardianship enables safe and compliant multi-agent AI at scale.\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-09-03T15:49:28Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "kPE5STF8ysc": {
       "video_id": "kPE5STF8ysc",
@@ -2044,10 +2170,14 @@
       "video_id": "ualyjhlsSFs",
       "title": "The AI Conference 2024 Promo",
       "duration_s": 37,
-      "channel": null,
+      "channel": "The AI Conference™",
       "label": "The AI Conference",
       "year": null,
-      "source_url": "https://www.youtube.com/@aiconference/videos"
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Get ready to ignite your passion for the future of artificial intelligence at The AI Conference 2024! \n\nFrom exploring the latest advancements in AGI and LLMs to diving deep into AI ethics, infrastructure, and real-world applications, The AI Conference 2024 is set to be an unparalleled event for AI professionals, enthusiasts, and industry leaders from around the globe.\n\nStay tuned for more updates, and don't forget to mark your calendars! For more information on the conference and how you can be a part of this extraordinary gathering, please visit [https://aiconference.com/].",
+      "published_at": "2024-02-05T23:22:56Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "umIKUP4f1oI": {
       "video_id": "umIKUP4f1oI",
@@ -2079,10 +2209,14 @@
       "video_id": "v7JRKuBjFnc",
       "title": "Lin Qiao, Fireworks AI: Wave of Open Source AI Adoption in 2025",
       "duration_s": 1456,
-      "channel": null,
+      "channel": "The AI Conference™",
       "label": "The AI Conference",
       "year": null,
-      "source_url": "https://www.youtube.com/@aiconference/videos"
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Lin Qiao, CEO & Co-Founder, Fireworks AI\n\nWave of Open Source AI Adoption in 2025\n\nIn this keynote, Fireworks AI CEO Lin Qiao will share a data-driven look into how thousands of companies are adopting new open source AI models in 2025 and what's actually working at scale. From real-world tradeoffs between fine-tuning, RAG and off-the-shelf performance, to choosing between dozens of open-source options, this talk will cut through the hype with an inside look at real patterns of enterprise AI usage. Which open source models are seeing real traction? How are usage patterns diverging between startups and larger enterprises, and what are emerging use cases?\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-03-03T00:15:11Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "v9QhXd-cACM": {
       "video_id": "v9QhXd-cACM",
@@ -2166,10 +2300,14 @@
       "video_id": "xH89dcd1ibA",
       "title": "Insights from The AI Conference 2025",
       "duration_s": 34,
-      "channel": null,
+      "channel": "The AI Conference™",
       "label": "The AI Conference",
       "year": null,
-      "source_url": "https://www.youtube.com/@aiconference/videos"
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Attendees explain why this event is essential for keeping up with the rapid growth of AI agents and technology.\n\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-03-30T17:41:38Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "xa7k9MUeIdk": {
       "video_id": "xa7k9MUeIdk",
@@ -2249,14 +2387,31 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:36+00:00"
     },
+    "yOeV1tzOeJY": {
+      "video_id": "yOeV1tzOeJY",
+      "title": "Dr. Ali Arsanjani, Google Cloud: The Agentic Era: Pitfalls & Best-Practices to Resolve Them",
+      "duration_s": 1509,
+      "channel": "The AI Conference™",
+      "label": "The AI Conference",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Dr. Ali Arsanjani, Google Cloud\n\nThe Agentic Era: Pitfalls & Best-Practices to Resolve Them\n\nThe \"Agentic Era\" of AI is here, promising to revolutionize how we interact with and extract value from our data. But as with any powerful new technology, there are pitfalls. This session will explore the common challenges and best practices for deploying AI agents. We'll delve into how companies are leveraging Google's Gemini 2.5 models, GOogle ADK, Agent Engine and Agenspace and the innovative Agent-to-Agent (A2A) protocol to build the next generation of AI agents. You will learn how this collaboration is enabling more accurate and reliable data extraction, complete with confidence scores, to transform workflows in financial services, legal, HR, and beyond. Join us to discover how to navigate the complexities of the agentic era and unlock the full potential of your organization's data.\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-09-03T15:49:49Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
+    },
     "zG1dOzYRLiQ": {
       "video_id": "zG1dOzYRLiQ",
       "title": "2025 Startup Showdown",
       "duration_s": 2256,
-      "channel": null,
+      "channel": "The AI Conference™",
       "label": "The AI Conference",
       "year": null,
-      "source_url": "https://www.youtube.com/@aiconference/videos"
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Subscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-07-28T16:58:27Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:05+00:00"
     },
     "zTrcNghe4dQ": {
       "video_id": "zTrcNghe4dQ",

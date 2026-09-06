@@ -10,7 +10,7 @@ year: 2023
 speakers: ["J. Zhang"]
 channel: "Nicolas Papernot"
 duration_min: 14
-published_at: null
+published_at: 2023-02-16T05:00:20Z
 video_id: qL_wxIGFcik
 url: https://www.youtube.com/watch?v=qL_wxIGFcik
 youtube_url: https://www.youtube.com/watch?v=qL_wxIGFcik

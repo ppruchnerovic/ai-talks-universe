@@ -1,7 +1,7 @@
 {
   "slug": "owasp-genai",
   "name": "OWASP GenAI Security Project",
-  "enumerated_at": "2026-08-30T21:47:53+00:00",
+  "enumerated_at": "2026-09-06T13:21:29+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@GenAISecurityProject/videos",
@@ -16,28 +16,40 @@
       "video_id": "-Zt-nDAKXA0",
       "title": "Meeting November 9, 2023 - OWASP Top 10 For LLM Applications",
       "duration_s": 2785,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Our Bi-Weekly Meeting!",
+      "published_at": "2023-11-17T21:22:59Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "-wQXyAn-7VE": {
       "video_id": "-wQXyAn-7VE",
       "title": "Ep.45 Meeting Nov 19 2025: community surpassed 20K, AI solutions landscape, CTI Initiative",
       "duration_s": 2488,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "In this bi-weekly meeting of the OWASP Generative AI Security Project, core contributors gathered for project updates, community news, and working group check-ins—alongside some light banter about travel, weather, and the “agent party” energy building around upcoming events in Europe.\n\nA major highlight was a milestone announcement: the project’s LinkedIn community surpassed 20,000 followers, reflecting rapid growth in global interest and participation. Scott previewed additional “state of the project” metrics soon to be published, including the scale of peer-reviewed outputs and the growing footprint of derivative works—where project resources are being reused and adapted across the wider security ecosystem. The team is also building agent-driven tracking to better quantify adoption and references across industry.\n\nKey project updates included:\n\nAgentic AI Security Summit (London / Black Hat Europe): A reminder that the Agentic AI Security Summit is approaching quickly, co-located with Black Hat Europe. The summit will serve as a major community gathering and the launch venue for the Agentic Top 10.\n\nSolutions Landscape (Q3/Q4 update): Scott shared updates to the Solutions Landscape resources, including the quarterly matrix and supporting cheat sheets that map tools across lifecycle stages (LLM SecOps and Agentic SecOps). The project now tracks 150+ solutions, reflecting how fast the ecosystem is expanding. The next release will add a dedicated red teaming lens and restructure the content to be more digestible (taxonomy page + targeted breakouts).\n\nTop 10 for LLM Applications — upcoming update: The group discussed planning for the next refresh of the core LLM Top 10, noting that many emerging issues have now shifted into the agentic domain. Key open questions include whether the update should be a minor revision or major overhaul, whether rankings should be adjusted, and how best to incorporate stronger evidence and data collection. A particularly lively thread—revisited again—is whether prompt injection should be treated as a “vulnerability” vs. a broader class of failure mode and control breakdown.\n\nCTI Initiative: The Cyber Threat Intelligence team announced a move to monthly meetings (first Friday schedule) to boost engagement and improve delivery alignment. Upcoming work includes a deepfake guide update (targeted for December) and continued exploit research, with results now realistically targeted for end of Q1 2026 due to volunteer availability and holiday timing.\n\nRed Teaming Initiative: Jason reported strong progress and renewed momentum under a co-lead structure. The handbook is structured across phases and emphasizes “real world” AI red teaming—beyond raw model jailbreaks—focusing on testing deployed systems, agent behaviors, and practical execution. A call was made for more practitioners with hands-on experience to contribute targeted exploitation scenarios. The team also addressed onboarding friction due to recent Slack invite-link changes and pointed contributors to the official contribution pathways.\n\nThe meeting closed with a discussion about coordinating cadence across many active subgroups (agentic, red teaming, CTI, etc.) to avoid burnout while maintaining meaningful updates and cross-initiative alignment.\n\nTo follow the project and access resources, visit the OWASP GenAI Security Project website: https://genai.owasp.org",
+      "published_at": "2026-01-13T03:08:56Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "04_DNtXOL-I": {
       "video_id": "04_DNtXOL-I",
       "title": "Ep.32 Meeting Mar 12 2025: AI Red Teaming, Securing AI Models, and Best Practices in AI Security",
       "duration_s": 3629,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "In this episode, Scott Clinton leads the discussion on the latest trends and challenges in the AI security landscape. They kick things off with a friendly catch-up before diving into important topics like AI red teaming, the security of AI models, and the best practices for ensuring robust AI security frameworks.\n\nThroughout the discussion, our experts share their insights on how to tackle the evolving threats in the AI space. From the lack of security measures in many organizations to the innovative approaches being developed to counter these threats, this episode is a treasure trove of information for anyone involved in AI and cybersecurity. Whether you're a professional in the field or simply interested in the latest developments, there's something valuable here for you.",
+      "published_at": "2025-03-25T19:34:34Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "0NRq7umRyyY": {
       "video_id": "0NRq7umRyyY",
@@ -69,10 +81,14 @@
       "video_id": "0WzcOIntwQM",
       "title": "Agentic Threat Modeling Sub-Group Meeting - 2024-12-17",
       "duration_s": 3239,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Join us for an insightful discussion led by Jason Ross, a core team member, as we delve deep into the complexities of threat modeling agent ecosystems. In this meeting, we explore the nuances of creating a new framework specifically tailored for agent systems while also leveraging existing frameworks to avoid duplicative efforts. The team discusses several pertinent aspects of AI security, including existing OWASP projects such as the OWASP AI Exchange and the AI Security Governance Checklist. Jason and the participants emphasize the critical need for pragmatic guidance and actionable security guidelines for developers and security practitioners alike.\n\nThe conversation also covers the unique challenges posed by autonomous agents, including their decision-making capabilities, tool usage, and potential security risks. The team debates various architectural patterns, the importance of considering agent-to-agent interactions, and the implications of code generation within agent systems. Additionally, we touch on the integration of safety and security concerns, the potential for unbounded resource consumption, and the need for threat modeling frameworks that address these emerging issues. Whether you're a security researcher, a developer, or just interested in AI security, this discussion offers valuable insights into the evolving landscape of AI and agent-based systems.",
+      "published_at": "2024-12-19T14:00:02Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "0rMsytHU_tg": {
       "video_id": "0rMsytHU_tg",
@@ -104,10 +120,14 @@
       "video_id": "1clQUMadypc",
       "title": "Meeting February 1, 2024 - OWASP Top 10 For LLM Applications",
       "duration_s": 3163,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "The 2.0 Kickoff meeting! This is where we break it down a bit. We talk about the goals of the project, in terms of evangelism and planning for the next major release. We also get a rundown on activities for each of the leads.\n\nIf you want to know a bit more about what our visibility is actually looking like or any data from our audience, we go over the early results on our end consumer survey!",
+      "published_at": "2024-02-05T15:35:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "1nO0mJyqxYo": {
       "video_id": "1nO0mJyqxYo",
@@ -165,19 +185,27 @@
       "video_id": "2r62J7nOOvw",
       "title": "Meeting January 18, 2024 - OWASP Top 10 For LLM Applications",
       "duration_s": 1709,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Talked about the reception of our first three translations, the forthcoming Security & Governance Checklist and the impending 2.0 release announcement.",
+      "published_at": "2024-01-22T20:35:39Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "3A3osyLEG_M": {
       "video_id": "3A3osyLEG_M",
       "title": "Ep.42 Meeting Jul 30 2025: OWASP Initiatives, Agent Protection, and Black Hat Prep",
       "duration_s": 2637,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "This meeting covers key updates on OWASP’s AI security initiatives, including agent architecture, threat mitigation, and practical resources for securing AI systems. We discuss upcoming events at Black Hat and DEF CON, recent releases like the GenAI Solutions Landscape, and progress on AI security guidelines and frameworks. Participants also explore ways to contribute to the community and advance AI-driven security practices.",
+      "published_at": "2025-09-02T15:52:14Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "3y0W4oQYlT4": {
       "video_id": "3y0W4oQYlT4",
@@ -251,28 +279,54 @@
       "video_id": "6Jq2TApW77c",
       "title": "Ep.33 Meeting Mar 26 2025 - Project Updates: Governance, Sponsorship & Growth",
       "duration_s": 3443,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "In this episode, join Scott Clinton, Steve Wilson, John Sotiropoulos, and Aubrey King as they discuss the latest updates and achievements in the OWASP GenAI Security Project. From the introduction of new governance structures to insights on sponsorship growth, this episode provides an in-depth look at how the project is evolving to tackle the challenges in AI security.\n\nLearn about the various initiatives and milestones, including the success of the Agentic AI initiative, the upcoming events at RSA, and the impressive community engagement metrics. Whether you're a cybersecurity professional, AI enthusiast, or someone interested in contributing to the project, this episode is packed with valuable information and practical insights.",
+      "published_at": "2025-03-26T19:26:17Z",
+      "tags": [
+        "owasp",
+        "genai security",
+        "podcast",
+        "ai security"
+      ],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "6SNuZwyZNaI": {
       "video_id": "6SNuZwyZNaI",
       "title": "Ep.35 Meeting Apr 23 2025: Agentic AI, Red Teaming & RSA 2025 Highlights",
       "duration_s": 2911,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "In this podcast, we dive into key updates from the OWASP GenAI Security Project, including the latest on Agentic AI, red teaming best practices, upcoming events at RSA 2025, and exciting tools like the Compass for AI security maturity. 🌐\n\n🛡️ Highlights:\n\nInsights into red teaming vulnerabilities and testing strategies.\nThe importance of Agentic AI security frameworks.\nExclusive RSA 2025 workshops, parties, and live streams.\nTools to enhance AI governance and navigate AI risks effectively.\nStay ahead in the AI security game!\n\n#AISecurity #OWASP #GenAI #RSA2025 #RedTeaming #AgenticAI",
+      "published_at": "2025-06-20T20:38:56Z",
+      "tags": [
+        "ai security",
+        "agentic ai",
+        "meeting",
+        "red teaming",
+        "owasp",
+        "genai",
+        "generative ai",
+        "rsa 2025"
+      ],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "6Xww_-u-FgA": {
       "video_id": "6Xww_-u-FgA",
       "title": "Meeting September 28, 2023 - OWASP Top 10 For LLM Applications",
       "duration_s": 2822,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Our bi-weekly team meeting with updates from leads and open discussion.",
+      "published_at": "2023-11-17T18:29:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "7LWO4fmTEwI": {
       "video_id": "7LWO4fmTEwI",
@@ -304,10 +358,14 @@
       "video_id": "8-dwODJGOH8",
       "title": "Ken Huang And Steve Wilson Sign Each Others' Books At #RSAC 2024",
       "duration_s": 64,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Both of these amazing men have written some books to share their wisdom on Artificial Intelligence. We had to commemorate the occasion and share with our community!",
+      "published_at": "2024-05-15T16:29:32Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "8ehQZx39OyE": {
       "video_id": "8ehQZx39OyE",
@@ -378,28 +436,48 @@
       "video_id": "AMpmEAzvFqQ",
       "title": "Episode 14: Meeting May 23 2024 - RSA Recap, New Website, v2.0 Efforts",
       "duration_s": 2061,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "This week, Scott leads the bi-weekly meeting for May 23, 2004. We recap the RSA happenings, talk about the new website and get a bit of an update on the v2.0 efforts! Check out Episode 14 of the Bi-weekly Meeting Podcast!",
+      "published_at": "2024-05-23T17:26:32Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "AmIelb7_R8o": {
       "video_id": "AmIelb7_R8o",
       "title": "Episode 13: Meeting April 25 2024 - v2 Updates, RSA Planning, New Website",
       "duration_s": 3152,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Steve Wilson's back to lead the discussion for our April 25 2024 meeting for Episode 13. We talk about the v2 updates - even some survey response discussions. RSA Planning was a significant topic as well, as it's coming up quickly. We also talked the new website efforts and a whole lot more.",
+      "published_at": "2024-04-29T18:32:54Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "B5B4SooxnvA": {
       "video_id": "B5B4SooxnvA",
       "title": "Ep.38 Meeting Jun 04 2025: Compass Tool, AI Incident Response & Exploit Generation Advances",
       "duration_s": 1804,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "This episode dives into the latest milestones from the OWASP GenAI Security Project, focusing on AI security tools, responses, and emerging challenges in the world of generative AI:\n\n🔍 Key topics:\nCompass Tool Updates: Streamlining AI threat identification and strategy building.\nAI Incident Response Guide: A specialized framework for preparing and managing AI-enabled breaches.\nExploit Generation Research: Advancing LLM and agentic AI testing to benchmark cybersecurity risks.\nDon’t miss actionable insights from evolving initiatives like red teaming and agentic security. Stay updated on the forefront of AI safety!\n\n#AISecurity #OWASP #GenAI #AIIncidentResponse #CompassTool #ExploitGeneration",
+      "published_at": "2025-06-20T20:47:46Z",
+      "tags": [
+        "ai security",
+        "agentic ai",
+        "meeting",
+        "red teaming",
+        "owasp",
+        "genai",
+        "generative ai"
+      ],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "BltmoYO9Uvo": {
       "video_id": "BltmoYO9Uvo",
@@ -467,37 +545,69 @@
       "video_id": "Chgz1NZI9f8",
       "title": "Meeting February 29, 2024 - OWASP Top 10 For LLM Applications",
       "duration_s": 3442,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "We talked about the 2.0 Kickoff and introduced the concept for budget and sponsorship.",
+      "published_at": "2024-03-01T14:52:09Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "DBpj0WrJXQA": {
       "video_id": "DBpj0WrJXQA",
       "title": "Ep.44 Meeting Aug 27 2025: Initiatives, New Website, and Community Growth",
       "duration_s": 1487,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "This meeting covers updates on OWASP’s GenAI Security Project, including improvements to the website for easier contributor onboarding, global events like the upcoming UAE hackathon, and plans for the OWASP virtual AppSec Security Summit in October. Other highlights include new tools, the CTI team’s Exploit Generation initiative, and the launch of the Deepfake Guide revision project. The session also welcomes new members and provides pointers on how to get involved with the project across various initiatives like Agentic AI, LLM security, and red teaming.",
+      "published_at": "2025-09-02T15:57:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "DRlruv0c9RA": {
       "video_id": "DRlruv0c9RA",
       "title": "Episode 10: Meeting March 14 2024 - OWASP Top 10 For LLM Applications",
       "duration_s": 2425,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Steve wasn't able to make the meeting this week, so Sandy Dunn ran the meeting. We talked about how to share any speaking opportunities you may have with the team and had great discussion around prompt injection and \"AI-washing\" from vendors.",
+      "published_at": "2024-03-15T19:03:27Z",
+      "tags": [
+        "LLM",
+        "large language model",
+        "ai security",
+        "llm applications",
+        "Aubrey King",
+        "Sandy Dunn",
+        "Steve Wilson",
+        "OWASP top 10 for llm applications",
+        "owasp top 10 for llms",
+        "llm security"
+      ],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "EZzXG7Z-POE": {
       "video_id": "EZzXG7Z-POE",
       "title": "Ep. 28: Meeting Jan 15 2025 - Red Teaming, Deepfake, RSA 2025 Updates And More",
       "duration_s": 3587,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Join the core team as they dive into a comprehensive discussion on recent workshops, AI advancements, and the significance of industry conferences. This episode unpacks the latest feedback from cybersecurity sessions and sets the stage for RSA 2025 and other upcoming events. Scott Clinton and Bryan Nakayama add depth with insights into AI red teaming and deepfake initiatives as well as community growth metrics. \n\nDon't miss out on this engaging conversation that bridges the gap between cybersecurity strategy and practical implementation. Subscribe for more expert insights!",
+      "published_at": "2025-01-15T21:17:39Z",
+      "tags": [
+        "ai security",
+        "ai red teaming",
+        "deepfake",
+        "rsa 2025"
+      ],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "FDwXMfDHvyo": {
       "video_id": "FDwXMfDHvyo",
@@ -516,19 +626,35 @@
       "video_id": "G1-stVMuU-s",
       "title": "Meeting January 04, 2024 - OWASP Top 10 For LLM Applications",
       "duration_s": 1318,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "First meeting after the holiday season, so a bit short. We covered the podcast release, passing 1000 LinkedIn subscribers, talked about the new language translations forthcoming release, getting closer on the Security & Governance Checklist and much more!",
+      "published_at": "2024-01-04T18:21:59Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "GG9djc29FhU": {
       "video_id": "GG9djc29FhU",
       "title": "Ep.37 Meeting May 21 2025: Compass Tool, AI Red Teaming, and Post-RSA Insights",
       "duration_s": 1867,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "In this episode, we discuss the latest developments in AI security from the OWASP GenAI Security Project, featuring updates on the Compass Tool, AI Red Teaming efforts, and the evolving landscape of generative AI risks.\n\n🔍 Key topics:\n\nCompass Tool: An operationalized version of the CISO checklist for prioritizing generative AI threats.\nAI Red Teaming Handbook: Progress on testing frameworks for LLMs and AI systems.\nPost-RSA reflections: Key takeaways and future initiatives in AI security.\nStay ahead in the dynamic field of AI security with these actionable insights!\n\n#OWASP #GenAI #AISecurity #AIRedTeaming #CompassTool #RSA2025",
+      "published_at": "2025-06-20T20:44:58Z",
+      "tags": [
+        "ai security",
+        "agentic ai",
+        "meeting",
+        "red teaming",
+        "owasp",
+        "genai",
+        "generative ai"
+      ],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "HtJK-Jc-xNY": {
       "video_id": "HtJK-Jc-xNY",
@@ -547,19 +673,27 @@
       "video_id": "J5RDIqrnsqI",
       "title": "Meeting December 7, 2023 - OWASP Top 10 For LLM Applications",
       "duration_s": 2197,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Our Bi-Weekly Meeting!",
+      "published_at": "2023-12-15T16:31:30Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "K9YaOyDMD0w": {
       "video_id": "K9YaOyDMD0w",
       "title": "Episode 25: Meeting November 20 2024 Version 2025 Released This Week",
       "duration_s": 2734,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "The session covers key updates and lively discussions among team members. Steve Wilson welcomes attendees and discusses recent travels and the prepared slide deck. The team celebrates the release of the new Top 10 list and its positive reception.\n\nScott Clinton shares success stories and goals from the sponsorship program, while social media growth, project roadmap, and community contributions are highlighted. Krishna updates on the newsletter and future plans for webinars and outreach. The growth of the solutions landscape and the onboarding of a new web team are also discussed.\n\nThe team brainstorms new initiatives, including workshops and virtual events, to enhance community engagement. Steve Wilson addresses the need for structured governance as the project evolves, discussing potential changes and future planning. The meeting concludes with gratitude to the community for their significant contributions and collective achievements.\n\nTags: #OWASP #CyberSecurity #AI #LLM #GenAI #MeetingRecap #Top10 #Community #Sponsorship #Newsletter #Webinars #Governance\n\nDon't forget to like, comment, and subscribe for more updates from the OWASP Top 10 for LLM & Gen AI Group!",
+      "published_at": "2024-11-20T22:44:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "LIQBs8R3-JU": {
       "video_id": "LIQBs8R3-JU",
@@ -578,19 +712,35 @@
       "video_id": "LWp_XlYQeMI",
       "title": "Episode 15: Meeting June 6 2024 - v2.0 Candidates, Top AI Tools List, CSA AI Summit And More",
       "duration_s": 3251,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "The team discussed the call for new vulnerability candidates for the OASP top 10 for large language models expert group, the challenges of accommodating all nominations for the AI Safety Institute's task force, and the ongoing process of creating a list of top AI tools. They also reviewed the progress of the organization's sponsorship program, plans for outreach, and the upcoming publication of a blog based on research from the University of Illinois. Lastly, they discussed the upcoming CSA AI summit, improving existing vulnerabilities, and the idea of creating a top 20 list to recognize emerging vulnerabilities.",
+      "published_at": "2024-06-08T00:36:56Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "Lqh1Mm1bq9k": {
       "video_id": "Lqh1Mm1bq9k",
       "title": "Ep.36 Meeting May 07 2025: AI Security Trends, Agentic AI, and Post-RSA Updates",
       "duration_s": 3150,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Catch the latest updates from the OWASP GenAI Security Project following RSA, including discussions on AI security trends, Agentic AI workflows, and project highlights like the Compass Tool.\n\n🛡️ Key insights include:\n\nThe evolving intersection of AppSec and LLM security.\nUpdates on Agentic AI workshops and Peer-reviewed AI guidance.\nBehind the scenes of OWASP’s initiatives shaping the future of generative AI security.\nStay informed on the latest in AI security and learn how to get involved! 🌍\n\n#AISecurity #OWASP #GenAI #AgenticAI #RSA2025 #RedTeaming #AppSec",
+      "published_at": "2025-06-20T20:42:50Z",
+      "tags": [
+        "ai security",
+        "agentic ai",
+        "meeting",
+        "red teaming",
+        "owasp",
+        "genai",
+        "generative ai"
+      ],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "MGdiao3YRuo": {
       "video_id": "MGdiao3YRuo",
@@ -621,10 +771,14 @@
       "video_id": "N5QBW_Nu2cY",
       "title": "Meeting February 15, 2024 - OWASP Top 10 For LLM Applications",
       "duration_s": 2464,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Hear from some new community members and get into a bit of the 2.0 brainstorming, as well as hearing from the leads.\n\nImpending release for the Security And Governance Checklist!",
+      "published_at": "2024-02-16T17:10:14Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "NnGGYV0DwFI": {
       "video_id": "NnGGYV0DwFI",
@@ -734,10 +888,14 @@
       "video_id": "QV6DzoEMSMQ",
       "title": "Opening Session With Steve Wilson - #RSAC 2024 OWASP LLM Apps Top 10 Generative AI Summit",
       "duration_s": 2593,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Steve Wilson kicks off the OWASP Top 10 For LLM Apps 1st Generative AI Summit at #RSAC 2024 with some stories and anecdotes from the formation of the project, as well as a look at what's to come!",
+      "published_at": "2024-05-15T04:27:39Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "RTEtMMJXPUo": {
       "video_id": "RTEtMMJXPUo",
@@ -769,10 +927,14 @@
       "video_id": "SSH76k5MnbU",
       "title": "Episode 20: Meeting August 28 2024 Defining AI Incidents, Deep Fake Guidance",
       "duration_s": 3198,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "In our recent meeting, we covered crucial topics such as defining AI incidents, publishing deep fake guidance, and innovative research on AI exploitation. Our community continues to drive forward with impactful initiatives. Also, a special mention to our beautiful new HQ in Colorado! 🌄 #AI #CyberSecurity #OWASP",
+      "published_at": "2024-09-13T17:42:49Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "SgqBYyafSzA": {
       "video_id": "SgqBYyafSzA",
@@ -857,10 +1019,22 @@
       "video_id": "V6O27Vzvfzk",
       "title": "Ep.39 Meeting Jun 18 2025: UN Panel, Compass Tool Progress & AI Red Teaming Framework",
       "duration_s": 1634,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Catch the latest updates from the OWASP GenAI Security Project, including global partnerships, tools, and groundbreaking AI security research:\n\n🔍 Key topics:\n\nUN Open Source Week: OWASP takes the stage to discuss AI security in supply chain and generative AI advancements.\nCompass Tool Update: Simplifying AI threat strategies with profiles and streamlined workflows.\nAI Incident Response Guide: Now open for core team review—aiming for a July release.\nAI Red Teaming Framework: New initiatives to enhance vulnerability testing in generative AI systems.\nStay informed as we push the boundaries of AI security innovation!\n\n#OWASP #GenAI #AISecurity #CompassTool #RedTeaming #UNOpenSource #GenerativeAI",
+      "published_at": "2025-06-20T20:54:43Z",
+      "tags": [
+        "ai security",
+        "agentic ai",
+        "meeting",
+        "red teaming",
+        "owasp",
+        "genai",
+        "generative ai"
+      ],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "VYDSIhskmEM": {
       "video_id": "VYDSIhskmEM",
@@ -892,10 +1066,14 @@
       "video_id": "Y6HqtKqfUCc",
       "title": "Ep.31 Meeting Feb 26 2025: Red Teaming Guide Updates, Agentic Security Insights",
       "duration_s": 2980,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Welcome to our latest podcast episode where we delve into the nuances of AI security and the exciting developments in the field. In this episode, we discuss the recent meeting of our AI security team, highlighting key projects such as the Red Teaming Guide, the Agent Security Insights (ASI) document, and the ongoing efforts to translate and refine our resources for global use. Steve Wilson, Sandy Dunn, and Scott Clinton share their insights on the latest advancements and the collaborative efforts that are driving the future of AI security.\n\nJoin us as we explore the intricacies of defining AI agents, the challenges of threat modeling, and the importance of creating standardized definitions to facilitate better communication and understanding in the AI security domain. Whether you're new to the field or a seasoned expert, this episode offers valuable perspectives and actionable insights to enhance your understanding of AI security.",
+      "published_at": "2025-03-11T18:13:02Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "YXO_3ur4-m0": {
       "video_id": "YXO_3ur4-m0",
@@ -927,10 +1105,14 @@
       "video_id": "YpQsEDodC5k",
       "title": "Episode 19: Meeting August 15, 2024 AI-Enhanced Cyber Attack Responses",
       "duration_s": 2096,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "In our recent meeting, we explored several key topics, including AI-enhanced cyber attack responses, the importance of automated PDF generation for documentation, and welcoming new members to our community. These discussions are crucial for staying ahead in AI and cybersecurity. Dive in and contribute to shaping the future of AI security with us. #AI #CyberSecurity #OWASP #TechInnovation",
+      "published_at": "2024-09-12T23:42:24Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "ZQIs-udMB3g": {
       "video_id": "ZQIs-udMB3g",
@@ -1001,10 +1183,14 @@
       "video_id": "_XbnzOxbp24",
       "title": "Ep.34 Meeting Apr 09 2025: RSA Summit, New Compass Project, Community Updates",
       "duration_s": 2663,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Join host Scott Clinton and cybersecurity community members for the latest OWASP GenAI Security Project meeting. In this episode, the team shares key updates on their upcoming activities at the RSA Conference—including a half-day summit, agentic security workshop, and special networking opportunities. Scott emphasizes community engagement, while Sandy Dunn introduces the newly established Compass Project, dedicated to operationalizing governance and security strategies in practical, effective ways.\n\nAdditionally, the episode covers project updates on AI incident response with Bryan Nakayama, translation efforts for wider global accessibility, and other initiatives to build cohesive, community-driven resources. This meeting demonstrates OWASP's ongoing commitment to collaboration and action within cybersecurity, securing AI, and enhancing threat modeling practices.",
+      "published_at": "2025-04-16T19:40:33Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "_fBDCdBaIzE": {
       "video_id": "_fBDCdBaIzE",
@@ -1036,19 +1222,27 @@
       "video_id": "aho7chzvgzg",
       "title": "2025 LLM Apps Top 10, Evolving AI Architectures - GenAI Security Podcast Ep.1",
       "duration_s": 1746,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Welcome to the first episode of the Gen AI Security Podcast! 🎉 Join Aubrey King, Sandy Dunn, and Scott Clinton as they discuss Thanksgiving plans and dive into the OWASP Top Ten for LLM apps. We'll cover our recent 2025 release, deepfake guidance, and evolving AI architectures like RAG. Perfect for a mix of holiday cheer and cutting-edge cybersecurity insights!\n\n🔗 Resources:\n\nOWASP GenAI Project: genai.owasp.org\n#GenAISecurity #Cybersecurity #Podcast #Thanksgiving #AI #OWASP\n\nTheme song, 'Crumbling Castle,' freely usable by King Gizzard And The Lizard Wizard, as per https://kinggizzardandthelizardwizard.com/bootlegger - PLEASE give them a listen.",
+      "published_at": "2024-11-27T23:05:39Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "bOrP_lgCqSs": {
       "video_id": "bOrP_lgCqSs",
       "title": "OWASP AI Exchange - #RSAC 2024 OWASP LLM Apps Top 10 Generative AI Summit",
       "duration_s": 1409,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Aruneesh Salhotra tells the audience about the OWASP AI Exchange, its function, how it differs from the LLM Apps Top 10 and how it works with us.",
+      "published_at": "2024-05-21T02:47:19Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "c6e5-SxAn0w": {
       "video_id": "c6e5-SxAn0w",
@@ -1089,10 +1283,14 @@
       "video_id": "cVYHF4BBYkI",
       "title": "Episode 21: Meeting September 11 2024 Prompt Leakage, Agent Interaction, Supply Chain",
       "duration_s": 3458,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "In our recent session, we discussed the ever-evolving landscape of AI and machine learning security. Key highlights include:\n1. Prompt Leakage: Addressing vulnerabilities where AI systems inadvertently disclose sensitive information.\n2. Agent Interaction Risks: Focusing on excessive agency and the complexities of multi-agent systems.\n3. Supply Chain Vulnerabilities: Ensuring robust security measures in AI development pipelines.",
+      "published_at": "2024-09-13T18:24:13Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "dY7B9DpzuSU": {
       "video_id": "dY7B9DpzuSU",
@@ -1111,28 +1309,40 @@
       "video_id": "deeITeHV5Nk",
       "title": "Episode 24: Meeting November 6 2024 Deepfake Guidance, Solutions Landscape And More",
       "duration_s": 1343,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Join us for an engaging meeting discussing the November 6th edition of the OWASP Top 10 for LLM (Large Language Model) applications. Steve Wilson leads the session, providing updates on the latest developments, including the release candidate, feedback collection, and expectations for the final version. Key points include the importance of the OWASP Top 10 list for 2025, feedback on errors and formatting, and insights into the traction generated by recent press releases and media coverage. The team also discusses the solutions landscape document, the searchable directory of solutions, and upcoming announcements for the new OWASP Top 10 list.\n\nContributions from team members on data security white papers, red teaming documents, and threat intelligence efforts are highlighted. Special shoutouts to Scott Clinton for his work on the sponsorship program and PR efforts, as well as contributions from Emmanuel, Sandy, and other core team members. This meeting underscores the collaborative efforts within the community to enhance the security landscape for LLM applications.\n\nDon't miss this insightful discussion showcasing teamwork and dedication in cybersecurity. Subscribe for more updates and stay tuned for the next meeting as we continue to push the boundaries of security innovation.\n\n#OWASP #LLM #Cybersecurity #Top10 #MeetingRecap #TeamEffort #SecurityInnovation",
+      "published_at": "2024-11-08T03:04:28Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "dfmbM5HJJKM": {
       "video_id": "dfmbM5HJJKM",
       "title": "Ep.46 Meeting Dec 2 2025: Agentic Top 10 launch, Data Security Data Collection, AI BOM Initiative",
       "duration_s": 3340,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "In this bi-weekly core team meeting for the OWASP Generative AI Security Project, project leaders and contributors closed out the year with a comprehensive look at momentum, milestones, and what’s next. The session opened with community introductions, including new contributor Harish Ram Chandran (SAP), and then shifted into an end-of-year snapshot of project growth and output.\n\nScott Clinton shared preliminary “state of the project” metrics, highlighting a major expansion in published resources year-over-year, increased localization and translations, and significant growth across the community’s Slack and LinkedIn channels. The project also reported strong engagement through major events (including RSA, virtual events, and regional summits), alongside sustained newsletter growth and high audience interaction with published content.\n\nSeveral workstreams provided updates:\n\nAgentic Security Initiative (ASI): John shared progress on ASI’s governance structure, its expert review board, and the rapid production of key resources—spanning threats and mitigations, secure MCP guidance, code examples, and hands-on tooling such as the Finnbot CTF. The group also previewed the upcoming OWASP Agentic Top 10 launch, including a major London event featuring panels on regulation, research, and red teaming.\n\nData Security Initiative: Emanuel outlined the reboot of the data security workstream, including a refreshed roadmap, updated threat and mitigation focus for GenAI and agentic systems, and a plan to publish updated guidance and implementer-oriented best practices in 2026.\n\nRed Teaming: Jason reported strong progress toward a Q1 draft of a practical red teaming handbook, emphasizing real-world methodology (stakeholder interviews, service mapping, recon, refusal pattern analysis) and a supporting GitHub repo including “Agent Zero” for hands-on testing. The group also discussed the need for sustainable updates given rapidly changing protocols like MCP.\n\nThreat Intelligence (CTI): The CTI initiative announced monthly meetings moving forward, plans to refine the workstream charter, ongoing exploit research, and an updated deepfake guide revision expected soon.\n\nAI BOM (Bill of Materials): Helen introduced the new AI BOM workstream—focused on producing practical transparency artifacts for AI systems, aligned with SBOM standards and CycloneDX. The initiative will release tooling and documentation designed to help practitioners automate AI system transparency and risk reporting.\n\nThe meeting closed with open discussion, recognition of community contributions, and reminders about upcoming events—especially the London gathering and the next core team meeting on January 7.\n\nTo learn more, explore resources, or join the community, visit the OWASP GenAI Security Project website: https://genai.owasp.org",
+      "published_at": "2026-01-13T03:09:18Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "drRsd3Nrv24": {
       "video_id": "drRsd3Nrv24",
       "title": "Episode 12: Meeting April 11 2024 - RSA, OWASP Media Blitz",
       "duration_s": 839,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "The team, led by Scott, discussed upcoming activities including the RSA conference, a virtual summit on AI, and a website refresh. They also reviewed the success of their recent social media campaign and planned for future promotions. Lastly, they addressed the improvement of their data gathering methodology and looked forward to the next week's catch-up through Slack.",
+      "published_at": "2024-04-15T21:02:22Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "dtq2qQaNStc": {
       "video_id": "dtq2qQaNStc",
@@ -1164,10 +1374,14 @@
       "video_id": "eX-_G5w_UGo",
       "title": "A CISO Checklist For AI Security - #RSAC 2024 OWASP LLM Apps Top 10 Generative AI Summit",
       "duration_s": 1597,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Scott Clinton talks our CISO Security Checklist for AI Apps at the #RSAC 2024 OWASP LLM Apps Top 10 Generative AI Summit.",
+      "published_at": "2024-05-20T21:38:57Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "erNkWl3lzRQ": {
       "video_id": "erNkWl3lzRQ",
@@ -1211,28 +1425,40 @@
       "video_id": "foab4suUi8c",
       "title": "Episode 23: Meeting October 23 2024 Finalizing The 2025 Top 10 And More!",
       "duration_s": 1026,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "In this meeting, the team finalizes the 2025 version of the OWASP Top 10 list for large language models (LLMs), highlighting key updates to the entries and ongoing efforts to refine the document's graphical layout. They also discuss the integration of the solutions catalog, which now features over 40 contributions from both open-source and commercial entities. Additionally, plans for a robust PR and media outreach campaign are outlined, including potential briefings with press and analysts, and the announcement of a sponsorship program in November. The team is also considering hosting a virtual event in December to highlight the new 2025 list and other project assets.\n\nSignificant contributions and updates from various team members are acknowledged, such as the work on red teaming initiatives, data security best practices, and mapping the new entries to existing frameworks. The meeting underscores the collaborative spirit of the project, with ongoing efforts to make the OWASP guidelines more accessible and comprehensive. The session concludes with a note of appreciation for the team's hard work and an optimistic outlook for the project's future, emphasizing the importance of the collective effort in shaping valuable cybersecurity resources.",
+      "published_at": "2024-10-25T21:16:12Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "gTcYFy_-2LY": {
       "video_id": "gTcYFy_-2LY",
       "title": "Ep. 29: Meeting Jan 29 2025: Glossary Initiative, RSA Summit, and New Sponsors",
       "duration_s": 3416,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Join us for an engaging episode where the OWASP LLM and Gen AI Project Team discuss key initiatives, updates, and collaborative efforts. This episode dives into various topics such as the ongoing development of the Agentic Security Landscape, the importance of creating a standardized glossary for AI terminology, and the exciting collaborations with organizations like IBM and the Cloud Security Alliance. The team also explores the potential of producing educational videos to enhance understanding of AI concepts and terms.\n\nIn this meeting, the team emphasizes the need for consensus and community feedback in refining AI definitions, while also discussing the significance of simplifying complex documentation to make it more accessible. Special highlights include the announcement of the upcoming RSA summit, the introduction of new project sponsors, and the proposal to include ByteDance as a sponsor. This episode is packed with insights and updates that are critical for anyone involved in AI and cybersecurity. Don’t miss out on the latest developments from the OWASP LLM and Gen AI Project!",
+      "published_at": "2025-02-24T22:40:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "gmZl_BwhRn4": {
       "video_id": "gmZl_BwhRn4",
       "title": "Episode 11: Meeting March 28 2024 - OWASP Top 10 For LLM Applications",
       "duration_s": 3150,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "This month was huge. We talked about the returning core members and early data from our volunteer interest survey, as well as possible charter expansion. We've also got an AI summit coming up at RSA that is not to miss! Also, the leads gave reports, too!",
+      "published_at": "2024-03-29T17:37:49Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "hltklQBXk1Y": {
       "video_id": "hltklQBXk1Y",
@@ -1251,19 +1477,27 @@
       "video_id": "htba_b-vxxE",
       "title": "Panel On Red Teaming AI - #RSAC 2024 OWASP LLM Apps Top 10 Generative AI Summit",
       "duration_s": 4325,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Scott Clinton leads our panel of experts on a discussion about red teaming LLM Applications. Hear from Ads Dawson, Jason Ross and Ken Huang as they talk about their experiences and best practices.",
+      "published_at": "2024-05-25T20:32:34Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "iFfkRLTkXUM": {
       "video_id": "iFfkRLTkXUM",
       "title": "Ep.30 Meeting Feb 12 2025: AI Security Guidelines, Agentic Security, RSA Summit",
       "duration_s": 3181,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Join us for an insightful discussion in our latest podcast episode featuring our core team and many others from the AI security community. This episode dives deep into various exciting topics, including the introduction of new AI security guidelines, the advancements in agentic security, and the latest developments in AI red teaming. We explore the collaborative efforts in creating practical and consumable security documentation, the impact of AI security standards alignment, and the roadmap for future AI security projects.\n\nIn addition to these discussions, we also highlight the upcoming AI Security Summit at RSA Conference, the integration of AI security solutions, and the active involvement of new contributors to the project. This episode is a comprehensive overview of the current state and future directions of AI security, making it a must-watch for anyone interested in the field. Don't miss out on the detailed insights and valuable information shared by experts in this engaging and informative podcast.",
+      "published_at": "2025-02-24T22:51:20Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "iVlzfyMvdGc": {
       "video_id": "iVlzfyMvdGc",
@@ -1334,10 +1568,14 @@
       "video_id": "kqpRoIpOxco",
       "title": "Meeting December 21, 2023 - OWASP Top 10 For LLM Applications",
       "duration_s": 1827,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Our Bi-Weekly Meeting",
+      "published_at": "2023-12-22T18:55:01Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "l5ElTNCzp6U": {
       "video_id": "l5ElTNCzp6U",
@@ -1356,10 +1594,14 @@
       "video_id": "lNBtPqmYPeA",
       "title": "Ep.41 Meeting Jul 16 2025: Roadmap, Black Hat Prep & Compass Launch",
       "duration_s": 2739,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "In this episode of the OWASP Generative AI Security Project podcast, we dive into exciting updates and advancements in AI security. From the upcoming OWASP Compass launch to Black Hat and DEFCON preparations, this meeting spotlighted progress across initiatives like agentic security, the roadmap for future deliverables, and community efforts to enhance industry awareness.\n\n📌 Highlights include:\n\n🛠️ OWASP Compass 1.0: A strategic dashboard to guide AI adoption securely.\n🌍 Black Hat & DEFCON updates: New workshops, hackathons, and outreach efforts.\n🌟 Agentic Security: Threat modeling advancements and a preview of the upcoming Agentic Top 10 list.\n📋 Solutions Landscape: Expanding tools and resources for cybersecurity practitioners.\n🌐 Ready to get involved? Learn more and join the community: https://genai.owasp.org\n\n#AI #GenerativeAI #Cybersecurity #OWASP #OWASPGenAI #AgenticSecurity #AIThreats #BlackHat2023 #DEFCON",
+      "published_at": "2025-07-16T21:32:48Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "lXK4oGjYWgs": {
       "video_id": "lXK4oGjYWgs",
@@ -1391,10 +1633,14 @@
       "video_id": "n3eitR6YEAM",
       "title": "Ep.47 Meeting Jan 14 2025: looking back at 2025, Top 10 for LLM 2026, initiative lead updates",
       "duration_s": 3862,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "",
+      "published_at": "2026-01-19T16:55:02Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "n8nnvayQSjc": {
       "video_id": "n8nnvayQSjc",
@@ -1413,10 +1659,14 @@
       "video_id": "ndxfYK44e0c",
       "title": "Ep.43 Meeting Aug 13 2025: Black Hat Recap, New Tools, and OWASP Roadmap",
       "duration_s": 2150,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "This meeting provides updates on OWASP’s GenAI Security Project, including highlights from Black Hat and DEF CON events, the launch of new tools like the FinBot CTF platform, and progress on important resources such as the GenAI Solutions Landscape and Agentic AI initiatives. The discussion also covers community engagement, growth metrics, and upcoming plans for the OWASP virtual conference in October. Participants share insights on onboarding contributors and continuing to scale AI security efforts globally.",
+      "published_at": "2025-09-02T15:54:57Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "ng43iaHWVCo": {
       "video_id": "ng43iaHWVCo",
@@ -1448,19 +1698,41 @@
       "video_id": "pKyRE4y0prI",
       "title": "Episode 26: Meeting December 4 2024 Launch Updates, New GenAI Security Podcast And More",
       "duration_s": 1793,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Welcome to the latest bi-weekly meeting for the OWASP Top Ten for Generative AI and Application Security, recorded on December 4th, 2024. Join us as we dive into key updates, project developments, and community engagement activities. This meeting covers updates on meeting link changes, recent launch statistics, social media metrics, and community growth. We also discuss new initiatives like the upcoming podcast series, LinkedIn engagement strategies, future webinars, and our plans for 2025 outreach.\n\nWe highlight the progress on the Red Teaming document, data security best practices white paper, and explore translation services for broader accessibility. Additionally, we share updates on our sponsorship and fundraising efforts, along with insights on our website and community engagement metrics.\n\nThank you for watching! Be sure to like, comment, and subscribe for more updates. Join our community and stay engaged with the latest in generative AI and application security.\n\nFor more information and to get involved, visit our OWASP Project Page.\n\n#OWASP #GenerativeAI #ApplicationSecurity #TopTen #CommunityMeeting #Podcast #TechUpdates #CyberSecurity #AI #LinkedIn #Webinar #CaptureTheFlag #DataSecurity #RedTeaming",
+      "published_at": "2024-12-04T21:49:34Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "pQH-DCXPdyg": {
       "video_id": "pQH-DCXPdyg",
       "title": "BlackHat 2025 Briefing & Brews: Project Updates, Global Kickoff, How to Contribute",
       "duration_s": 941,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Scott Clinton shares key updates, including the publication of the State of Agentic AI Security & Governance Guide and the launch of the Agentic Security Landscape. Attendees were introduced to the project's mission, its working groups, and resources like threat mitigation guides, red teaming frameworks, CISOs' checklists, and global translation initiatives. The presentation also covered recent successes, growing adoption of OWASP frameworks by solution providers, and practical ways to contribute to the community.",
+      "published_at": "2025-09-02T22:57:14Z",
+      "tags": [
+        "ai",
+        "agentic",
+        "security",
+        "briefing & brews",
+        "blackhat 2025",
+        "project updates",
+        "global kickoff",
+        "how to",
+        "contribute",
+        "governance",
+        "owasp",
+        "ciso",
+        "mitigation guides"
+      ],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "pgIsGC83Suw": {
       "video_id": "pgIsGC83Suw",
@@ -1580,10 +1852,14 @@
       "video_id": "tLbUYNXmtwQ",
       "title": "Episode 18: Meeting August 1 2024: Multi-Agent Architectures In AI",
       "duration_s": 3441,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "In our recent meeting, we explored the evolving landscape of agentic workflows and multi-agent architectures in AI. From discussing the orchestration of tools to the complexities of fully autonomous agents, our team is at the forefront of AI innovation. Dive into the discussion, share your insights, and help shape the future of AI governance. #AI #MachineLearning #AIInnovation #AIResearch",
+      "published_at": "2024-09-12T20:17:35Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "u3i-vSv4ZOw": {
       "video_id": "u3i-vSv4ZOw",
@@ -1602,10 +1878,22 @@
       "video_id": "v8u9N2go_74",
       "title": "Ep.40 Meeting Jul 02 2025: OWASP Compass Tool & Exciting UN Week Highlights",
       "duration_s": 2724,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Discover the latest in AI and cybersecurity as we unpack cutting-edge tools and global collaborations. This episode introduces the OWASP Compass, a unique framework for operationalizing AI strategies, alongside highlights from UN Open Source Week and upcoming events like Black Hat and DEFCON.\n\nWhether you’re into red teaming, AI governance, or free training resources, this episode has something for everyone!\n\n📌 Learn more: OWASP GenAI\n\nLet’s shape a safer AI-powered future!",
+      "published_at": "2025-07-02T20:44:02Z",
+      "tags": [
+        "ai security",
+        "agentic ai",
+        "meeting",
+        "red teaming",
+        "owasp",
+        "genai",
+        "generative ai"
+      ],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "viKk3e8fFAs": {
       "video_id": "viKk3e8fFAs",
@@ -1637,28 +1925,40 @@
       "video_id": "wDs57fAzC3U",
       "title": "Episode 17: Core Member Meeting July 10 2024 - v2.0 New Threat Conversation",
       "duration_s": 3539,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "We took a break from the standard meeting and had a meeting of the core member team to hash out some of the new threats that have come up in conversation for v2.0 ranking.",
+      "published_at": "2024-07-10T22:10:49Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "x-ReFMKlstU": {
       "video_id": "x-ReFMKlstU",
       "title": "Episode 16: Meeting June 20 2024 - v2.0 Voting, Conferences & CFPs, PDF Pipelines",
       "duration_s": 2455,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "The team discussed the progress of the large language models expert group project, focusing on the voting phase for new entries and the future publication. They also discussed the importance of the top 10 list, the outreach roadmap, and the need for upcoming calls for papers. Lastly, they explored potential solutions for managing multiple PDF pipelines, the use of templating, and the team's presence at an upcoming conference in Lisbon.",
+      "published_at": "2024-06-20T18:57:50Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "xFTM5fbEzec": {
       "video_id": "xFTM5fbEzec",
       "title": "Ep. 27: Meeting Dec 18 2024 - OWASP Recognition, AI Red Teaming, RSA And More",
       "duration_s": 3730,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Welcome to our latest episode, recorded on December 18th, where we dive into the exciting progress and future plans for our project as we wrap up 2024. We discuss the incredible work done by our community, the recognition from the OWASP Foundation, and our ambitious roadmap for 2025. Highlights include updates on the project's progress, insights from our check-in with Andrew, the Executive Director of OWASP, and plans for promoting the project and increasing community engagement. We also cover the launch of our new AI Red Teaming Initiative and updates to the AI cybersecurity and governance checklist.\n\nWe touch on our collaborative efforts with other OWASP projects, potential new grant-funded initiatives, and exciting plans for RSA and other developer events in 2025. Whether you're a developer, security professional, or just passionate about AI and cybersecurity, there's something in this episode for you. Don't forget to like, subscribe, and hit the notification bell to stay updated with our latest episodes and projects. Join the conversation in the comments below and let us know your thoughts!",
+      "published_at": "2024-12-19T01:21:58Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "xJ6LSGCxc-0": {
       "video_id": "xJ6LSGCxc-0",
@@ -1729,10 +2029,14 @@
       "video_id": "zJ3-zjXx2bk",
       "title": "Episode 22: Meeting October 9 2024 Prompt Injection Redefined, AI Bill Of Materials",
       "duration_s": 3482,
-      "channel": null,
+      "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,
-      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos"
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Catch up on the latest OWASP Top 10 for Large Language Models (LLMs) meeting! Russell Tait and Rachel discuss AI Response Incident response, while Steve Wilson updates on transitioning to the 2024 version. Key topics include prompt injection redefinition, red teaming progress, AI Bill of Materials proposal, and updates on the Deepfake Guide, AI-enhanced Cyber Attack Guidance, and exploit generation for AI. Sandy Dunn provides an AI Security Checklist update and proposes a centralized definitions page, and Scott Clinton announces the new Center of Excellence guide and encourages contributions to the Solutions Guide.\n\nFor more details, check out the Deepfake Guide and the Solutions Submission Form. Stay connected by joining our community on Slack and following us on LinkedIn.\n\nLike, comment, and subscribe for more updates!",
+      "published_at": "2024-10-25T00:35:04Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:01+00:00"
     },
     "zzFSJZpPJw4": {
       "video_id": "zzFSJZpPJw4",

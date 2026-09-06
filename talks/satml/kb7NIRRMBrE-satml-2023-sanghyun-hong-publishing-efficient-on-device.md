@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Sanghyun Hong"]
 channel: "Nicolas Papernot"
 duration_min: 13
-published_at: null
+published_at: 2023-02-16T05:00:30Z
 video_id: kb7NIRRMBrE
 url: https://www.youtube.com/watch?v=kb7NIRRMBrE
 youtube_url: https://www.youtube.com/watch?v=kb7NIRRMBrE
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Publishing Efficient On-device Models Increases Adversarial Vulnerability

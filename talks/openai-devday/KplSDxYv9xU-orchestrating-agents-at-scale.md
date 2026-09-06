@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 21
-published_at: null
+published_at: 2025-10-08T17:00:32Z
 video_id: KplSDxYv9xU
 url: https://www.youtube.com/watch?v=KplSDxYv9xU
 youtube_url: https://www.youtube.com/watch?v=KplSDxYv9xU
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Click, connect, create. Learn how to quickly design and deploy enterprise-grade agents with a new suite of agentic platform tools.

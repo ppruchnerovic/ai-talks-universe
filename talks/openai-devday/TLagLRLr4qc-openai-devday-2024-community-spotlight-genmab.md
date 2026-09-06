@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 9
-published_at: null
+published_at: 2024-12-17T17:00:25Z
 video_id: TLagLRLr4qc
 url: https://www.youtube.com/watch?v=TLagLRLr4qc
 youtube_url: https://www.youtube.com/watch?v=TLagLRLr4qc
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Accelerating cancer R&D with document generation

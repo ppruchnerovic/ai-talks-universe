@@ -1,7 +1,7 @@
 {
   "slug": "ai-devcon-tessl",
   "name": "AI DevCon (Tessl)",
-  "enumerated_at": "2026-08-30T21:46:00+00:00",
+  "enumerated_at": "2026-09-06T13:19:12+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@tessl-ai/videos",
@@ -10,7 +10,7 @@
       "count": 300
     }
   ],
-  "count": 300,
+  "count": 304,
   "videos": {
     "-6SNbcE3C9o": {
       "video_id": "-6SNbcE3C9o",
@@ -805,6 +805,19 @@
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
     },
+    "9GArVPhHGkQ": {
+      "video_id": "9GArVPhHGkQ",
+      "title": "GitHub Next & Tessl on the Self-Merging Repo",
+      "duration_s": 636,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\nhttps://tessl.co/9bj\n\nThe software factory arrived in the repo before anyone announced it. Four speakers at AI DevCon London got there from completely different directions, and all four ended up describing the same shift — from writing the code to designing the system that writes it.\n\nDon Syme (GitHub Next) makes the case that we've been missing a pillar all along: it isn't CI/CD, it's CI, CD and continuous AI. He now wakes up to code improvements his repository made overnight. Paul Stack has taken it about as far as anyone — agents write every line, five gates run in CI, and when everything passes the pull request merges itself. In the last 30 days that was 295 issues opened and 217 shipped, by five people, for around $3,000 a month. Patrick Debois (Tessl), the person who gave us the word DevOps, names the reflex that's hardest to give up: when the agent gets something wrong we jump in and fix the code, when what needs fixing is the system that produced it. And Robert Overweg closes with one brain for his whole company — knowledge he can question from his phone in plain language, plus an agent that reads the internet overnight so he wakes to a briefing rather than a backlog.\n\nWhat we cover:\n– What continuous AI means as a third pillar next to CI and CD\n– The five gates that let a pull request merge itself\n– Why \"the tests are the source of truth\" is the line that makes it safe\n– 217 issues in 30 days by five people, and what it costs to run\n– Fixing the system that builds the code instead of the code\n– Turning company knowledge into something you can just ask\n\nChapters:\n00:00:00 - Introduction\n00:00:19 - Don Syme, GitHub Next: CI, CD and continuous AI\n00:01:33 - Why individual productivity is the wrong unit\n00:02:37 - Paul Stack: five gates in CI, then the PR merges itself\n00:04:14 - \"The tests are the source of truth. Don't change the tests.\"\n00:04:30 - 295 issues opened, 217 shipped, in 30 days\n00:05:19 - Patrick Debois, Tessl: fix the system, not the code\n00:06:49 - Specs, tests and observability as the system\n00:07:55 - Robert Overweg: one brain for the whole company\n00:09:28 - The cron job that reads the internet overnight\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/tke\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich pillar is missing from your repo right now? Let us know in the comments.",
+      "published_at": "2026-09-02T20:00:31Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
+    },
     "9UzravDoyP8": {
       "video_id": "9UzravDoyP8",
       "title": "Topo Pal - From Concept to Prototype | DevCon Fall 2025",
@@ -1388,6 +1401,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "F2Ay09T4EHQ": {
+      "video_id": "F2Ay09T4EHQ",
+      "title": "1 in 7 Agent Skills Had Something Wrong With It",
+      "duration_s": 617,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\nhttps://tessl.co/2ik\n\nHarness engineering has a security problem: the skills, tools and memory we hand coding agents arrive with no permissions, no sandboxing and no controls at all. Four talks from AI DevCon London on what that actually costs.\n\nJoseph Katsioloudes (GitHub Security Lab) opens with the gap the industry is trying to close — roughly one application security specialist for every hundred developers — and argues the answer isn't shifting left, it's starting left. Liran Tal (Snyk) scanned around 4,000 published agent skills and found about 1 in 7 carried malware, suspicious downloads or credential harvesting, in a file format with nowhere to declare a permission. Oleg Šelajev (Docker) demos an agent refusing a dangerous skill, then complying once the same instruction is rewritten as Python, wrapped in a module and the context is cleared. And Lamis Mukta (Anthropic) closes on the unglamorous engineering that makes agent memory safe in production: versioning, so a poisoned memory can be rolled back, and a hash check, so two agents can't overwrite each other.\n\nWhat we cover:\n– Why one security specialist per 100 developers is the gap AI could close\n– What a scan of 4,000 published agent skills actually turned up\n– Why a SKILL.md file has nowhere to declare permissions or sandboxing\n– How clearing the context talks an agent past its own refusal\n– The guardrails an agent harness needs before memory reaches production\n\nChapters:\n00:00:00 - Introduction\n00:00:35 - Joseph Katsioloudes, GitHub Security Lab: AI and code security\n00:01:47 - One security specialist for every 100 developers\n00:02:38 - Why \"shift left\" should be \"start left\"\n00:02:59 - Liran Tal, Snyk: what's inside 4,000 published skills\n00:04:12 - 1 in 7 skills had something wrong with it\n00:05:16 - Oleg Šelajev, Docker: getting an agent to run what it refused\n00:06:56 - Clearing the context, and the agent complies\n00:07:31 - Lamis Mukta, Anthropic: keeping agent memory safe\n00:09:09 - Concurrency, and stopping two agents overwriting each other\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/qmo\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich of these four would keep you up at night? Tell us in the comments.",
+      "published_at": "2026-08-31T16:00:25Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:14:23+00:00"
+    },
     "FXYom-EA3Lk": {
       "video_id": "FXYom-EA3Lk",
       "title": "Stop Guessing If Your AI Skills Are Good Enough — Tessl's Skill Optimizer Does It For You",
@@ -1416,6 +1442,19 @@
         "what is skill optimization"
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "GRixg2mdJJA": {
+      "video_id": "GRixg2mdJJA",
+      "title": "Dru Knox: Inside Tessl's Software Factory",
+      "duration_s": 3078,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "The software factory that put up 850 pull requests in a week, with 85 to 90% of them handled by agents end to end. Tessl's Head of Product Dru Knox on how it actually got built, why it started with skills rather than automation, and the two things nobody expects a factory to change. Guy Podjarny digs into the skills-to-loops-to-factory path, and what breaks when you skip a step.\n\nWhat we cover:\n– What a software factory actually is, and how it differs from a pile of disconnected automations\n– Loop engineering: turning a skill into something that gets better every time it runs\n– Why context engineering has to come before automation, and what stalls when it doesn't\n– The two gains nobody forecasts from extra agent capacity: quality and fungibility\n– Verifiers and evals, or how you enforce a standard that agents are free to ignore\n– Context-driven code review, and why a general-purpose reviewer plateaus\n\nWatch:\n- Kikimora minidoc: https://youtu.be/u37qkpp5eB8\n- Tessl Code Review: https://youtu.be/ptwholFiAZg\n\nChapters:\n00:00:00 - Introduction\n00:03:23 - Kikimora: Tessl's own dark factory\n00:04:45 - Skills, loops and factories, defined\n00:09:09 - 850 PRs a week, and the road to it\n00:11:27 - The surprises: quality and fungibility\n00:13:16 - Why a factory has to be context centric\n00:16:40 - Context-driven code review and the wall teams hit\n00:22:51 - Skills inventory across your whole code estate\n00:28:38 - Verifiers, evals and enforcing what you wrote down\n00:37:30 - Loops, automations and owning your software factory\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/coi\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nIf you've hit the plateau Dru describes, tell us where it stopped compounding for you.",
+      "published_at": "2026-09-02T12:00:36Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
     },
     "GbHfzFcIa0o": {
       "video_id": "GbHfzFcIa0o",
@@ -2134,6 +2173,19 @@
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "P03T9DXBxYw": {
+      "video_id": "P03T9DXBxYw",
+      "title": "Nobody Read the Pull Requests the Agent Opened",
+      "duration_s": 604,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\nhttps://tessl.co/b9d\n\nCoding agent reliability stops being an abstraction at three in the morning, when somebody still has to run the thing. Day 2 of AI DevCon London went looking for what changes once agents are in production, and the stories turned out to be better than the demos.\n\nA panel assembled at short notice — Stéphane Jourdan, Simon Rohrer and Pini Reznik — works through what happens when everyone in the company is shipping through an agent around the clock, and why the scarce thing isn't root cause analysis but context: what changed yesterday, which service talks to which. Simon works in a regulated industry, and says what surprised his developers most wasn't code generation at all — point an agent at Elastic logs, ServiceNow incidents and the code together and it settles in 30 seconds what would otherwise eat hours of digging. May Walter (co-founder and CTO, Hud) gives the best kind of talk, the one about something that didn't work: they automated the investigation and opened a pull request for every high-impact fix, and nobody read them, so they rebuilt the output to convince the human rather than the agent. Amit Kushwaha (NVIDIA) has the counterintuitive finding — your GPU sits idle while the agent is off making a tool call, and account for that properly and you can serve roughly twice the users your benchmark predicted. And Justin Cormack, formerly CTO at Docker, names his single most useful debugging investment: getting the AI to build him a tracing framework, because an agent handed a rare bug with no reproduction guesses, and an agent handed a trace finds it.\n\nWhat we cover:\n– Why context from production beats root cause analysis\n– What surprised developers most about pointing agents at an incident\n– Why automated pull requests go unread, and what to send instead\n– Ranking fixes by business impact and risk instead of by optimisation\n– Why your GPU is idle during tool calls, and what that does to concurrency\n– Giving an agent a trace instead of a bug it can't reproduce\n\nChapters:\n00:00:00 - Introduction\n00:00:25 - Panel: Stéphane Jourdan, Simon Rohrer, Pini Reznik on agents in prod\n00:01:50 - Simon Rohrer: agents are startlingly good at diagnosing production\n00:03:01 - May Walter, Hud: the automation nobody wanted\n00:03:36 - Why the automated pull requests went unread\n00:04:42 - Convince the human, not the agent\n00:05:28 - Amit Kushwaha, NVIDIA: benchmarking the agent era\n00:06:36 - Your GPU is idle while the agent makes a tool call\n00:07:42 - Justin Cormack, formerly Docker: build the tracing framework first\n00:08:59 - Give an agent a trace, not a bug it can't reproduce\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/vtn\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat's the first thing you'd point an agent at in production? Tell us in the comments.",
+      "published_at": "2026-09-03T16:00:22Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:23:51+00:00"
+    },
     "P4EWb6413y8": {
       "video_id": "P4EWb6413y8",
       "title": "Code Reviews That Scale with Agents | Merrill Lutsky",
@@ -2177,7 +2229,7 @@
     },
     "PabKgxoegGg": {
       "video_id": "PabKgxoegGg",
-      "title": "John Groetzinger, Cisco: You Need Smarter Context",
+      "title": "Cisco & Stanford on Why Skills Are the New Code",
       "duration_s": 584,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -4593,7 +4645,7 @@
     },
     "ptwholFiAZg": {
       "video_id": "ptwholFiAZg",
-      "title": "Agents Open 1,000 PRs. Who's Reviewing Them?",
+      "title": "AI Code Review That Understands Your PR's Intent",
       "duration_s": 330,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -5212,7 +5264,7 @@
     },
     "wBBCJinOes4": {
       "video_id": "wBBCJinOes4",
-      "title": "Lamis Mukta on Context Engineering at Anthropic",
+      "title": "Anthropic, OpenAI & Thoughtworks on Context Engineering",
       "duration_s": 608,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -5494,19 +5546,6 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T15:35:11+00:00"
-    },
-    "F2Ay09T4EHQ": {
-      "video_id": "F2Ay09T4EHQ",
-      "title": "GitHub, Snyk, Docker & Anthropic on Securing AI Agents",
-      "duration_s": 617,
-      "channel": "AI Native Dev",
-      "label": "Tessl",
-      "year": null,
-      "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\nhttps://tessl.co/2ik\n\nHarness engineering has a security problem: the skills, tools and memory we hand coding agents arrive with no permissions, no sandboxing and no controls at all. Four talks from AI DevCon London on what that actually costs.\n\nJoseph Katsioloudes (GitHub Security Lab) opens with the gap the industry is trying to close — roughly one application security specialist for every hundred developers — and argues the answer isn't shifting left, it's starting left. Liran Tal (Snyk) scanned around 4,000 published agent skills and found about 1 in 7 carried malware, suspicious downloads or credential harvesting, in a file format with nowhere to declare a permission. Oleg Šelajev (Docker) demos an agent refusing a dangerous skill, then complying once the same instruction is rewritten as Python, wrapped in a module and the context is cleared. And Lamis Mukta (Anthropic) closes on the unglamorous engineering that makes agent memory safe in production: versioning, so a poisoned memory can be rolled back, and a hash check, so two agents can't overwrite each other.\n\nWhat we cover:\n– Why one security specialist per 100 developers is the gap AI could close\n– What a scan of 4,000 published agent skills actually turned up\n– Why a SKILL.md file has nowhere to declare permissions or sandboxing\n– How clearing the context talks an agent past its own refusal\n– The guardrails an agent harness needs before memory reaches production\n\nChapters:\n00:00:00 - Introduction\n00:00:35 - Joseph Katsioloudes, GitHub Security Lab: AI and code security\n00:01:47 - One security specialist for every 100 developers\n00:02:38 - Why \"shift left\" should be \"start left\"\n00:02:59 - Liran Tal, Snyk: what's inside 4,000 published skills\n00:04:12 - 1 in 7 skills had something wrong with it\n00:05:16 - Oleg Šelajev, Docker: getting an agent to run what it refused\n00:06:56 - Clearing the context, and the agent complies\n00:07:31 - Lamis Mukta, Anthropic: keeping agent memory safe\n00:09:09 - Concurrency, and stopping two agents overwriting each other\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/qmo\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich of these four would keep you up at night? Tell us in the comments.",
-      "published_at": "2026-08-31T16:00:25Z",
-      "tags": [],
-      "details_at": "2026-08-31T20:14:23+00:00"
     }
   }
 }

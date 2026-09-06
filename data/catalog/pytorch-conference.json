@@ -1,7 +1,7 @@
 {
   "slug": "pytorch-conference",
   "name": "PyTorch Conference",
-  "enumerated_at": "2026-08-30T21:46:33+00:00",
+  "enumerated_at": "2026-09-06T13:19:49+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
@@ -19,7 +19,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Lightning Talk: Per-iteration PyTorch Visibility for Fast Debugging and Smarter Optimization - Shruti Verma & Yi-Ting Wu, Clockwork.io\n\nYou’ll leave with a reproducible recipe to answer: “What exactly is my step time made of, and what should I fix first?”. AI Training stalls and slowdowns hide within iterations, and are hard to unmask - particularly in a manner that allows for shared understanding across infrastructure and ML engineering teams.  We’ll show how to compute per‑iteration step timing for PyTorch without code changes!  We break a step into components that matter - such as data loading, forward pass computations, /backward pass communication collectives, optimizer step, and checkpoint writes. We overlay iteration job breakdowns with infrastructure anomalies to effectively pinpoint slowdown root causes.",
+      "published_at": "2025-11-04T03:45:03Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "1wV1ESbGrVQ": {
       "video_id": "1wV1ESbGrVQ",
@@ -28,7 +32,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Blazing Fast GenAI Inference With Torch.compile - Richard Zou, Meta\n\nThis talk dives into Generative AI (GenAI) inference, highlighting key features of torch.compile that make it well suited for this rapidly evolving field. We’ll explore how torch.compile enables efficient and scalable inference for large language models with features like precompilation, multigraph dynamic shapes, CUDAGraphs, and FlexAttention, and discuss our progress in integrations with leading open-source (OSS) GenAI frameworks (e.g. vLLM, SGLang, HuggingFace).",
+      "published_at": "2025-11-04T03:45:03Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "2QZ8Xd1rhXI": {
       "video_id": "2QZ8Xd1rhXI",
@@ -37,7 +45,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote Panel Discussion: Hardwares & Accelerators - Dylan Patel, Founder, CEO & Chief Analyst, SemiAnalysis; Sharon Zhou, VP of AI, AMD; Peter Salanki, Co-founder & CTO, CoreWeave; Nitin Perumbeti, CTO, Crusoe and moderated by Mark Saroufim, Softw",
+      "published_at": "2025-11-04T03:45:44Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "2TyulEkOMyU": {
       "video_id": "2TyulEkOMyU",
@@ -46,7 +58,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Scaling Inference of O(10K)-length Sequence Recommendation Models Using CudaGraph and Triton Kernels - Saurabh Joshi & Kousik Rajesh, Pinterest\n\nIn this talk we discuss how we scaled Pinterest’s RecSys models from a context length of 500 to 16000 for a 10M+ QPS system while maintaining latency and throughput.\n\nWe start with how we optimized goodput, using Torchscript on a custom CudaGraph backend and OpenAI triton kernels to fuse expensive model operations in PyTorch. Then, deep dive into our Single Kernel Unified Transformer, which leverages GPU L2 Cache to store all transformer weights and a single fused kernel. This approach achieves 85% latency and 13% memory reduction over flash attention for small transformer sizes.\n\nWe’ll also cover details of our serving system optimizations for long context lengths such as request level deduping and pinned memory arena. Using a custom sparse tensor format specialized for ranking models, we minimize CPU preprocessing and memory copy overheads. This led to a payload size reduction of 16x, saving CPU and PCIe copy bandwidth and lowering latency.\n\nTogether, these optimizations reduced E2E latency by 250x and GPU serving costs by 98% over initial estimates. The project has driven substantial improvements to our recommendation quality and powers key product surfaces.",
+      "published_at": "2025-11-04T03:43:36Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "2W0_oPJtHok": {
       "video_id": "2W0_oPJtHok",
@@ -55,7 +71,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: Welcome Back - Matt White, Executive Director, PyTorch Foundation with Special Guest Joe Spisak, Product Director, Meta",
+      "published_at": "2025-11-04T03:43:36Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "2xcvgyO4F_o": {
       "video_id": "2xcvgyO4F_o",
@@ -64,7 +84,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: Flex Attention for Inference - Boyuan Feng & Driss Guessous, Meta\n\nFlexAttention is a novel compiler-driven programming model that allows implementing the majority of attention variants in a few lines of idiomatic PyTorch code. Since its release in PyTorch 2.5.0, many ML researchers have utilized it to customize their attention kernels without writing kernel code. In this talk, we present recent advances in FlexAttention for Inference, including FlexDecoding, a decoding backend optimized for inference; Grouped Query Attention (GQA) feature; a torch.compile native Paged Attention; along with feature updates including nested jagged tensor support, performance tuning guides, and trainable biases support. More details on our MLSys'25 paper (https://arxiv.org/pdf/2412.05496) and PyTorch Blog (https://pytorch.org/blog/flexattention-for-inference/)!",
+      "published_at": "2025-11-04T03:47:24Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "41SJlmrjpYk": {
       "video_id": "41SJlmrjpYk",
@@ -73,7 +97,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: Dynamic Shape Recompilations - Bob Ren, Meta\n\nRecompilations are a critical aspect of the PT2 programming model, particularly when considering the trade-offs between specialization and runtime performance. This talk explores the challenges associated with dynamic shapes recompilations, where optimizations intended to enhance performance can inadvertently lead to significant recompilation overheads. Such issues often arise when developers implement optimizations that, while improving specific metrics like QPS, introduce unpredictability in recompilation frequency. This talk aims to educate users on these trade-offs and highlight future work focused on advancing the pareto frontier through innovations like multi-graph and multi-kernel level dispatch.",
+      "published_at": "2025-11-04T03:43:36Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "5MC-P33ng1k": {
       "video_id": "5MC-P33ng1k",
@@ -82,7 +110,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Optimizing Long-Tail and MoE Challenges in Reinforcement Learning with SGLang - Chenyang Zhao, UCLA\n\nThe increasing complexity of multi-turn interactions and the adoption of advanced architectures like Mixture-of-Experts (MoE) present significant performance and optimization challenges in Reinforcement Learning. This talk will introduce the SGLang RL group's recent breakthrough. I will present our novel methods for mitigating long-tail rollout problems inherent in complex, multi-turn RL tasks, ensuring more robust and reliable model performance. Furthermore, we will detail our specialized acceleration techniques for the resharding process in MoE models, which dramatically reduce latency. Finally, we will provide an overview of the growing SGLang RL ecosystem and highlight our key partnerships, demonstrating the framework's real-world impact and production-readiness for training and serving the next generation of models.",
+      "published_at": "2025-11-04T03:43:36Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "5ar9zi6VumI": {
       "video_id": "5ar9zi6VumI",
@@ -91,7 +123,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Maximizing Luck in Reinforcement Learning - Daniel Han, Unsloth\n\nHow do we maximize \"luck\" in reinforcement learning? Will RL finally take us to AGI and super-intelligence? What is RLVR, PPO, GRPO, Dr. GRPO, GAPO, DAPO? What are good and bad reward functions? How do we design them?\n\nHow do we make RL training go fast and be memory efficient? How can quantization & infra optimizations help in speeding up RL? Will open source + RL win over closed source models?\n\nCome join me in this session to hear the answers to these questions, and more.",
+      "published_at": "2025-11-04T03:43:36Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "5vfcTjosGLg": {
       "video_id": "5vfcTjosGLg",
@@ -100,7 +136,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "PyTorch Symmetric Memory: A New Programming Paradigm for Distributed AI - Ke Wen & Chien-Chin Huang, Meta\n\nRecent advancements in models led by DeepSeek have highlighted the need for customized communication. In response, PyTorch introduces Symmetric Memory, a new distributed programming model that creates a global address space for data spanning multiple GPUs' memory. This makes fine-grained GPU-initiated remote access possible.\n\nIn this talk, we will demonstrate how developers can author their own communication kernels at the device level. Additionally, we will show how to interleave communication and computation within the same kernel using popular languages like Triton, achieving the finest-grained fusion. Furthermore, we will discuss how these capabilities can integrate with the torch.compile ecosystem.\n\nWe will provide concrete examples based on the all-to-all-v used in MoE models, fused communication + layer norm, and masked-aware communication driven by FlexAttention.",
+      "published_at": "2025-11-04T03:45:03Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "5vmbRVXBvVM": {
       "video_id": "5vmbRVXBvVM",
@@ -109,7 +149,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: Vllm-triton-backend: How To Get State-of-the-art Performance on NVIDIA and AMD With Just Triton - Burkhard Ringlein, IBM\n\nToday, vLLM (part of pytorch) is the de-facto industry standard for serving Large Language Models. vLLM is increasingly being adopted in production and can be executed on NVIDIA GPUS, AMD GPUs, as well as custom accelerators like AWS Inferentia.\n\nHowever, for most of the past, vLLM’s state-of-the-art performance war largely depending on a number of hand-written CUDA or HIP kernels. These kernels have typically been carefully optimized for a specific GPU platform and may pose a serious obstacle to the portability of vLLM across different hardware.\n\nLeveraging Open AI Triton, we were able to introduce a “triton backend” to vllm that produces state-of-the-art performance across GPU platforms with a single code base, without involving hand written CUDA or HIP kernels.\n\nIn this talk, we will present our recent advances that lead to state-of-the-art performance on both NVIDIA and AMD GPUs with a single Triton-only code-base. We will present the engineering and science behind this triton-only backend, including autotuning for different platforms, system aspects like the launch overhead of Tritons Just-in-time compiler, and different kernel optimizations.",
+      "published_at": "2025-11-04T03:45:03Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "6le9sNvBa1k": {
       "video_id": "6le9sNvBa1k",
@@ -118,7 +162,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "AI On-board of Satellites, Towards Autonomous Scientific Instruments - Vit Ruzicka, NASA - Jet Propulsion Laboratory\n\nI recently finished my PhD at the University of Oxford focusing on deployment of ML models on-board of satellites. I would like to share my research and outline several future points that I am currently exploring as a Postdoc at NASA JPL.\n\nIn 2023, our ML model was deployed on-board of a satellite by D-Orbit. We successfully tested our efficient and tiny foundational model RaVAEn and also achieved the world's first training of a ML model using PyTorch on-board of a satellite. We used few-shot learning with a small annotated dataset of cloudy tiles. While on-board inference often uses frozen model inference and libraries such as ONNX or TensorRT, for training we interestingly needed PyTorch to keep the model weight changing during training.\n\nSince then I focused on designing ML models for imaging spectroscopy (hyperspectral) data. This data is a key enabler for a number of detection tasks, such as the detections of faint traces of methane in the atmosphere, or the identification of minerals present at the surface of the Earth. NASA’s recent mission EMIT uniquely provides global coverage. I am currently researching the deployment of efficient ML models to enable instrument autonomy.",
+      "published_at": "2025-11-04T03:43:36Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "6qU802syw8U": {
       "video_id": "6qU802syw8U",
@@ -127,7 +175,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Lightning Talk: PyTorch and Democratization of AI Accelerators - Hong-Seok Kim, Rebellions\n\nPyTorch, much like other influential open-source projects such as Linux and GCC, has always prioritized broad hardware support. This flexibility is a cornerstone of its design, enabled by key features like its dispatch engine, device runtime, extensible graph mode, torch.distributed backend, and Out-of-Tree (OOT) support. This architecture allows PyTorch to seamlessly integrate not only existing x86 CPUs and GPUs, but also a diverse range of emerging AI accelerators.\n\nAt Rebellions, we've embraced this trend. In 2024, we began actively developing and distributing the torch-rlbn package to efficiently leverage our AI accelerators within PyTorch. This package optimizes the performance of Rebellion AI Accelerators by utilizing PyTorch's graph mode, eager mode, distributed training backend, and OOT methodology.\n\nIn this talk, we'll share our experiences on PyTorch’s HW portability layer. We'll dive into the technical challenges posed by the efficiency-focused AI accelerators and how we have overcome them. Furthermore, we'll demonstrate how we built a developer-friendly LLM serving stack by leveraging other components of the PyTorch ecosystem, such as Triton and vLLM. Through this talk, attendees will gain a deeper understanding of PyTorch's crucial role in democratizing access to AI accelerators. We also hope to provide valuable technical insights for other AI accelerator teams looking to enter the PyTorch ecosystem.",
+      "published_at": "2025-11-04T03:45:03Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "769v67Gj-yU": {
       "video_id": "769v67Gj-yU",
@@ -136,7 +188,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Everything Everywhere all at Once: vLLM Hardware Optionality with Spotify and Google - Brittany Rockwell, Google & Shireen Kheradpey, Spotify\n\nTired of being constrained to a single hardware type for your PyTorch pipelines? Join Google and Spotify for a practical tour showcasing how to achieve true hardware optionality across GPUs and TPUs for your inference workloads. We'll explore real-world, global architectures, demonstrating how PyTorch facilitates advanced cross-accelerator workflows.\n\nThis session features Brittany, Google’s Product Lead for vLLM, sharing insights from her direct work with its creators and key industry partners, alongside Shireen Kheradpey, Senior Machine Learning Infrastructure Engineer at Spotify, offering an exclusive look into Spotify's globally-scaled, PyTorch-powered ML platform. They will share practical strategies for serving in low-latency regimes, kernel optimizations, performance tuning, and robust deployment patterns using GPUs and TPUs, empowering you to achieve true hardware optionality for your workloads.",
+      "published_at": "2025-11-04T03:46:16Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "87T-irSjXfE": {
       "video_id": "87T-irSjXfE",
@@ -145,7 +201,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Scaling KV Caches for LLMs: How LMCache + NIXL Handle Network and Storage Heterogeneity - Junchen Jiang, University of Chicago & Moein Khazraee, NVIDIA\n\nEfficient KV cache management is critical for scalable, low-latency LLM inference. LMCache, a widely adopted open-source KV caching layer used in vLLM deployments, addresses two fundamental challenges: (1) transferring KV caches across LLM instances, and (2) storing KV caches into diverse backend systems. However, in real-world deployments, both operations must navigate hardware heterogeneity—from network fabrics like NVLink, RDMA, and TCP/IP, to storage layers like Infinistore, Redis, and Mooncake. That’s where NVIDIA’s NIXL library comes in. NIXL abstracts and optimizes data movement across heterogeneous infrastructures, making it easier for systems like LMCache to deliver high throughput and low latency.\n\nIn this talk, we’ll dive into how LMCache integrates with NIXL to accelerate KV cache transfers and storage. Expect real deployment demos, performance benchmarks, and practical guidance for running next-gen LLM inference on Kubernetes with minimal GPU waste.",
+      "published_at": "2025-11-04T03:43:36Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "8mXp_wcQYng": {
       "video_id": "8mXp_wcQYng",
@@ -154,7 +214,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "The Building Blocks of Agentic Al - Joe Spisak, Product Director, Meta Superintelligence Labs",
+      "published_at": "2025-11-04T03:45:43Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "8wdH9EZcZQM": {
       "video_id": "8wdH9EZcZQM",
@@ -163,7 +227,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Designing and Building Custom Reinforcement Learning Environments for Fine-tuning LLMs - Niels Bantilan, Union.ai\n\nTechniques like GRPO, combined with reinforcement learning with verifiable rewards (RLVR), have shown success in fine-tuning LLMs for reasoning tasks with a strong inherent reward, such as math and coding. However, can these techniques be more generally applied to other real-world tasks without a clear reward signal? This session will dive into the design considerations and practical challenges associated with building RL environments for fine-tuning reasoning models for such cases.\n\nUsing a “Wikipedia Maze” environment as a case study, I’ll demonstrate how to cast reasoning tasks into multi-turn episodic RL environments that have deterministic terminal conditions and clear rewards. I’ll generalize this particular case study into a graph traversal problem that can apply to many tasks, including multi-step agentic tasks. Finally, I’ll present some optimizations that can reduce bottlenecks during the training process, such as using inference frameworks like vLLM to generate trajectories efficiently and exploring off-policy reinforcement learning techniques to generate trajectories from a higher capacity model in order to update the weights of a lower capacity model.",
+      "published_at": "2025-11-04T03:43:36Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "9_v-HBLHfFk": {
       "video_id": "9_v-HBLHfFk",
@@ -172,7 +240,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsor Session: Low-Precision Inference without Quality Loss: Selective Quantization and Microscaling - Pankaj Gupta & Philip Kiely, Baseten\n\nEveryone wants faster inference, but no one wants to compromise the quality of their model outputs. FP8 quantization offers 30-50% lower latencies for inference on large models, but must be applied carefully to maintain quality. Recently, NVIDIA Blackwell GPUs introduced new microscaling number formats (MXFP8, MXFP4, NVFP4) and new kernel options for low-precision inference. In this talk, Baseten inference engineers will cover practical applications of quantization to quality-sensitive inference tasks with a focus on selecting which parts of the inference system to quantize (weights, activations, KV cache, attention) and how microscaling number formats help preserve dynamic range.",
+      "published_at": "2025-11-04T03:45:03Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "A51vytMF06s": {
       "video_id": "A51vytMF06s",
@@ -181,7 +253,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Accelerating GenAI Inference: From AWS Deep Learning Containers to Scaling Amazon Rufus on Trainium - Phi Nguyen & Adam Zhao, AWS\n\n\nThe rapid evolution of LLMs and reasoning models demands an equally sophisticated infrastructure stack. In this technical deep dive, we'll explore how AWS's comprehensive infrastructure building blocks—spanning compute, networking, and storage—empower open-source innovation and enable production-scale AI deployments.\n\nWe'll begin by examining the modern AI infrastructure stack on AWS and how its modular components support the latest innovations in large language models and reasoning systems. You'll learn how to leverage AWS's purpose-built infrastructure to accelerate open-source AI development, from training to inference, while maintaining flexibility and cost-efficiency.\n\nThen, we'll ground these concepts in a real-world case study: Amazon's Rufus shopping assistant, which operates one of the largest production LLM inference deployments in the world—serving hundreds of millions of customers during peak events like Prime Day. This session reveals the architectural decisions and engineering practices behind Rufus's highly scalable inference cluster, including:",
+      "published_at": "2025-11-04T03:43:36Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "ACxHFY_zUb8": {
       "video_id": "ACxHFY_zUb8",
@@ -190,7 +266,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: Welcome & Opening Remarks - Matt White, Executive Director, PyTorch Foundation",
+      "published_at": "2025-11-04T03:45:43Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "AXFD-spjgjs": {
       "video_id": "AXFD-spjgjs",
@@ -199,7 +279,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: Marin: An Open Lab for Frontier AI - Percy Liang, Associate Professor of Computer Science, Stanford University & Co-founder, Together\n\nAs AI capabilities skyrocket, openness plummets: the scientific community and broader public knows little of how frontier models (including open-weight models) are trained.  I will describe Marin, a radically new way of doing model development, inspired by true open-source software. Every experiment is done in the open, and anyone can suggest ideas, review, and even run experiments through GitHub, providing a better way of doing science that improves on preregistration, reproducibility, and peer review. I will discuss a selection of scientific results that have emerged from Marin, including the best open-source 32B model trained from scratch, rigorous benchmarking of optimizers and data-efficient training recipes. As we scale up, we hope that Marin can be a lab for the open research community to participate in the development of frontier AI.",
+      "published_at": "2025-11-04T03:45:43Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "B-BXSRwAVdE": {
       "video_id": "B-BXSRwAVdE",
@@ -208,7 +292,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: PyTorch Distributed and Fault Tolerance - Tristan Rice, Meta\n\nThis session will cover the latest and greatest of PyTorch Distributed communication including upcoming features and improvements, large scale training, fault tolerance, and more. We'll cover the current landscape of PTD including new libraries such as torchft as well as future directions.",
+      "published_at": "2025-11-04T03:45:03Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "B-NKBmwMvAs": {
       "video_id": "B-NKBmwMvAs",
@@ -217,7 +305,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Transformers: Standardizing Model Definitions Across the PyTorch Ecosystem - Lysandre Debut & Arthur Zucker, Hugging Face\n\nTransformers is relied upon to set the standard of model definitions across the ecosystem.\n\nThis is relied upon by many tools across the field:\n- Inference Engines, with vLLM, SGLang, TGI\n- Training frameworks, with Unsloth, Axolotl, TRL, PyTorch-Lightning, llama-factory, ...\n- and many, many others (400k+ dependents on GitHub)\n\nIn this session, we'll go over several aspects:\n- How are models released?\n- How are model definitions created from that, and what we're looking for with transformers acting as the standard-setter\n- How are these being leveraged across the PyTorch, Python, and general ML ecosystem?\n- How do we optimize these so that they're the most friendly towards third-parties?\n\nTransformers currently sits at the center of the model-release cycle, with collaborations with the overwhelming majority of model providers.\n\nIn this session, we aim to shed light on this part of the cycle, so as to give visibility to model releasers, providers, users, and anyone in-between.",
+      "published_at": "2025-11-04T03:45:03Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "B7U05Y4YcJg": {
       "video_id": "B7U05Y4YcJg",
@@ -226,7 +318,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: Ray: A Distributed Compute Engine for AI - Robert Nishihara, Co-Founder, Anyscale & Co-creator, Ray; Ion Stoica, Professor of Computer Science, UC Berkeley; Director of Sky Computing Lab; & Co-founder of Anyscale, Databricks, and Conviva Networks",
+      "published_at": "2025-11-04T03:45:43Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "BH4c7QrGB7E": {
       "video_id": "BH4c7QrGB7E",
@@ -235,7 +331,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: Hardware-Aware Python Packages ~ PyTorch and WheelNext Grab the Wheel! - Jonathan Dekhtiar, NVIDIA & Eli Uriegas, Meta\n\nThe PyTorch ecosystem thrives on innovation and a vibrant open-source community. PyTorch’s reach continues to evolve, fueled today by specialized hardware, variations within CPU architecture families, dedicated infrastructures, and diverse use cases. The Open-Source WheelNext (https://wheelnext.dev/) project joined forces with PyTorch to redesign and evolve how Python packaging work, allowing to better target compute environments with specialized hardware\n\nIn this talk, we'll describe how the PyTorch team - in partnership with NVIDIA, the WheelNext project and its numerous contributors - are developing the specifications for “Wheel Variants”. This format aims to smooth the PyTorch installation user experience, automatically detecting the AI accelerator or hardware available on the machine\n\nThis talk aims to provide you an overview of the work progress, give you an insider look of the future changes we hope to introduce to the Python packaging standard and give you back the steering-Wheel of your installation experience and story. We invite every PyTorch practitioner and developer to test, provide feedback on this experimental release and help us build the future of Python packaging",
+      "published_at": "2025-11-04T03:47:24Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "BW-Ht-5IxgM": {
       "video_id": "BW-Ht-5IxgM",
@@ -244,7 +344,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Helion: A High-level DSL for Kernel Authoring - Jason Ansel, Meta\n\nThe Meta PyTorch Team plans to announce a public beta for Helion at PyTorch conference, with the goal of attracting users. Helion is a new kernel authoring DSL tightly integrated with, and using many parts of, PyTorch 2.\n\nHelion is a Python-embedded domain-specific language (DSL) designed for authoring machine learning kernels. It compiles down to Triton, a high-performance backend for programming GPUs and other accelerators. By raising the abstraction level compared to Triton, Helion simplifies kernel development, minimizes boilerplate, and significantly enhances maintainability and portability.\n\nKey features of Helion include extensive automation in autotuning processes, implicit search space definitions, kernel templating via Python closures, and advanced integration with PyTorch 2, including support for tensor subclasses. This talk will introduce Helion, detail its design principles, demonstrate current capabilities, and provide insights into its implementation.",
+      "published_at": "2025-11-04T03:45:03Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "C8dnNnva3uE": {
       "video_id": "C8dnNnva3uE",
@@ -253,7 +357,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Controllable Generation of Synthetic Video Data With Human Motion - Vaclav Knapp, Smichov Technical High School (SSPS)\n\nAs large-scale datasets have proven essential for generalization in AI models—across language, image, and video tasks—many internet-scraped datasets have emerged. In domains lacking such scale, synthetic data has filled the gap. Yet for video understanding—especially human body actions—synthetic generation remains largely untapped. As a result, areas like sign language translation, assistive gesture recognition, and human analysis in autonomous driving have yet to fully benefit. While text-to-video models (e.g., Sora or Veo) offer photorealism, they lack fine-grained control over pose, identity, and environment, limiting their usefulness.\n\nWe propose a toolkit for generating synthetic human action data, leveraging recent advances in pose transfer and human animation, benchmarked through a custom participant study. Our method integrates into PyTorch pipelines, supporting dataset augmentation or creation. To encourage adoption, we release 100 fully controllable human avatars. On Toyota Smarthome and NTU RGBD, our approach boosts baseline and few-shot action recognition performance by 2–3x across multiple architectures, showing the value of synthetic data for human-centric video tasks.",
+      "published_at": "2025-11-04T03:43:36Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "DJxIc2HDiG8": {
       "video_id": "DJxIc2HDiG8",
@@ -262,7 +370,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Amazingly Fast and Incredibly Scalable Inference with NVIDIA's Dynamo and TensorRT-LLM - Harry Kim & Laikh Tewari, NVIDIA\n\nThe explosive growth of large language models demands new techniques to efficiently handle inference at scale. In this talk we'll show how you can easily extend your PyTorch programs with NVIDIA’s Dynamo and TensorRT-LLM to go faster and wider. Dynamo is a low-latency inference framework that works with any inference engine, including TensorRT-LLM, vLLM, and SGLang. TensorRT-LLM is an open-source library for state-of-the-art LLM inference, recently rebuilt using native PyTorch. We'll describe how Dynamo and TensorRT-LLM use the latest inference techniques, like disaggregated serving, large scale expert parallelism, and helix parallelism, and show their performance on the latest NVIDIA hardware.",
+      "published_at": "2025-11-04T03:47:24Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "D_Y5-SGy838": {
       "video_id": "D_Y5-SGy838",
@@ -271,7 +383,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: An OPEN Path to Super Intelligence - Eric Xing, President and University Professor, MBZUAI; Professor of Computer Science, CMU; and Co-founder & Chief Scientist, Genbio AI",
+      "published_at": "2025-11-04T03:45:43Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "Drnt6rkeA9c": {
       "video_id": "Drnt6rkeA9c",
@@ -280,7 +396,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: Model Checkpoint Compression With OpenZL - Nick Terrell & Teja Rao, Meta\n\nIntroducing OpenZL, an innovative open-source lossless compression framework optimized for structured data types. Traditional lossless compression methods are ineffective at compressing tensors because they operate at the byte level rather than at the tensor level. OpenZL leverages type information to achieve remarkable size reductions—33% for bfloat16, 21% for float32, and 15% for float16—with best-in-class performance. Deployed at scale within Meta Platforms Inc., we observed a 15% reduction in checkpoint overhead, saving thousands of GPUs, and a 17% reduction in storage, saving more than a hundred petabytes.\n\nUnlike lossy compression methods like quantization, which can affect model quality, OpenZL maintains model quality and is easy to deploy at scale. We are exploring new AI use cases with OpenZL, leveraging its powerful compression capabilities in areas such as logits and image and video embeddings.",
+      "published_at": "2025-11-04T03:43:38Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "DvFmVYA8nmA": {
       "video_id": "DvFmVYA8nmA",
@@ -289,7 +409,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Unlocking Performance: Harnessing LLMs To Streamline GPU Kernel Development in PyTorch - Jiannan Wang, Meta\n\nCustom CUDA kernels offer significant performance advantages for PyTorch developers aiming to optimize deep learning models. While PyTorch currently provides multiple pathways to integrate these kernels, ongoing efforts are focused on enhancing abstractions and tooling, analyzing kernel usage patterns through extensive datasets, and creating LLM-based tooling to assist kernel authors in maximizing GPU efficiency.\n\nOne key initiative is KernelBook, a comprehensive dataset containing over 25,000 pairs of PyTorch operations and their corresponding Triton implementations. This dataset serves as a foundation for training models capable of generating optimized Triton code directly from PyTorch inputs.\n\nComplementing this effort, the KernelLLM project leverages large language models to automate GPU kernel generation. Notably, an 8B-parameter model trained on KernelBook has achieved performance comparable to DeepSeek-R1, a 671B-parameter model, based on pass@10 benchmarks. Further development includes training an 80B-parameter model specifically for kernel translation tasks and another model focused on generating performant Triton kernels beyond direct translations.",
+      "published_at": "2025-11-04T03:46:55Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "EflwqcbRYYs": {
       "video_id": "EflwqcbRYYs",
@@ -298,7 +422,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: Building the Open Agent Ecosystem Together: Introducing OpenEnv - Joe Spisak, Product Director, Meta & Lysandre Debut, Chief Open Source Officer, Hugging Face",
+      "published_at": "2025-11-04T03:43:38Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "EoePOh9bTKs": {
       "video_id": "EoePOh9bTKs",
@@ -307,7 +435,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Enabling Lightweight, High-Performance FSDP With NVIDIA GPU - Jianbin Chang CN, Cory Ye, Xuwen Chen & Sangkug Lym, NVIDIA\n\nFully sharded data parallel (FSDP) is quickly becoming the dominant distributed training technique for large models due to its impressive performance and ease of adoption. However, existing FSDP implementations often face communication and memory inefficiencies at scale. Here, we introduce Megatron-FSDP, which further enhances the performance of FSDP with native PyTorch compatibility. The key contributions of Megatron-FSDP include:\n\nAdd support for persistent communication buffers to enable user-buffer registration in low-resource collectives and mitigate memory fragmentation.\nLeverage NVLink/InfiniBand-SHARP to offload collective operations from GPU SMs.\nProvide native TransformerEngine FP8 support.\nEnable scalable MoE support through tight Megatron-Core integration with expert parallelism.\nAdheres to zero-copy principles, avoiding parameter/gradient copy overhead when sharding.\n\nOur implementation is fully compatible with PyTorch APIs and deeply supports Megatron-Core and TransformerEngine. We share deployment tips—NVLink/IB SHARP offloading, operator fusions, FP8 workflows—demonstrating how Megatron-FSDP streamlines large-scale training.",
+      "published_at": "2025-11-04T03:45:03Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "Fvm2XYHH6Rw": {
       "video_id": "Fvm2XYHH6Rw",
@@ -316,7 +448,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Empowering AI Everywhere: Democratizing PyTorch with Intel AIPCs & More - Fan Zhao & Eikan Wang, Intel\n\nPyTorch has become a cornerstone for AI development, powering everything from inference pipelines to autonomous agents. Traditionally, these workloads required high-end systems equipped with discrete GPUs, often limiting accessibility and flexibility. Scaling inference at this pace demands more than powerful chips. It requires an open inference-first approach, where sustained throughput, and system-level efficiency matter far more than peak compute.\n\nThis presentation explores how advancements in AIPCs are democratizing PyTorch, enabling seamless development and deployment across diverse platforms. By supporting both Windows and Linux environments, and integrating capabilities for both integrated and discrete GPUs, AIPCs are breaking down barriers to entry, making AI development more accessible than ever.\n\nOver the past year, significant enhancements have been made to support PyTorch on AIPCs, including features like torch.compile, comprehensive ATen operations, low-precision computation, and torch.distributed. These improvements have notably enhanced the user experience, particularly on Windows, allowing developers to leverage PyTorch's full potential without the need for specialized hardware.\n\nJoin us as we demonstrate how AIPCs empower developers to natively build and run sophisticated AI applications directly on everyday devices, such as laptops and desktops. This shift not only simplifies the setup process but also opens new avenues for innovation, enabling AI to thrive in environments previously considered out of reach.",
+      "published_at": "2025-11-04T03:45:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "H-slZ-dfAjo": {
       "video_id": "H-slZ-dfAjo",
@@ -325,7 +461,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Fault Tolerance Training at Pinterest - Chia-Wei Chen & Karthik Anantha Padmanabhan, Pinterest\n\nAt Pinterest, our machine learning training datasets often far exceed available memory, requiring us to stream data from object stores such as Amazon S3. This scale makes traditional epoch-level checkpointing unfeasible, as a single epoch may last hours or days, making it difficult to accurately resume training if interrupted. To solve this, we leverage StatefulDataloader to enable fine-grained, iteration-level checkpointing, capturing not only the model, optimizer, and lr scheduler states, but also the precise dataloader position. This approach ensures robust fault tolerance for large-scale distributed training, allowing training jobs to resume seamlessly without skipping or duplicating data samples. We have integrated this capability into a managed platform, abstracting complexity for end users and providing seamless access through our CLI, UI, and workflow systems. With thousands of training jobs adversely affected each month by platform or upstream failures, our solution dramatically improves reliability and productivity for ML practitioners at Pinterest. We share technical insights, challenges, and real-world impact resulting from this framework.",
+      "published_at": "2025-11-04T03:43:38Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "HNdEmnvMvGE": {
       "video_id": "HNdEmnvMvGE",
@@ -334,7 +474,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: A Stable Limited LibTorch ABI? How?! (and Why?) - Jane Xu, Meta\n\nDo you use or maintain third-party C++/CUDA extensions with torch? (Think flash attention :)) Would you like to build that extension with one torch version and run with another torch version WITHOUT rebuilding the extension? Do you ever wish you didn’t have to rebuild all your wheels when a new PyTorch nightly or release came out? If so, then this talk is for you! Come explore our plans for a new limited stable libtorch ABI that you can build against to simplify your binary packaging situation. Trek with us through the cobwebs of detangling and rearranging C++ libtorch into header-only APIs and ABI-stable APIs powered through a C shim. Dream with us as we envision the possible futures we can build on top of a sturdier, stable, ABI compatible interface for fundamental concepts like Tensor. Before we get too ahead of ourselves though, sit tight and inquire of us about the new APIs we’re landing (like STABLE_TORCH_LIBRARY) so you can start building ABI stable PyTorch extensions ASAP!",
+      "published_at": "2025-11-04T03:43:38Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "H_sCdQkp6jo": {
       "video_id": "H_sCdQkp6jo",
@@ -343,7 +487,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "DeepSpeed: Efficient Training Scalability for Deep Learning - Tunji Ruwase, Snowflake\n\nDeepSpeed is a OSS framework that provides a suite of systems optimizations to enable efficient large-scale deep learning. This talk will chart a brief history of the project and present latest progress in compiler, offloading, and storage optimizations.",
+      "published_at": "2025-11-04T03:45:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "I4olDc6MmP8": {
       "video_id": "I4olDc6MmP8",
@@ -352,7 +500,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Coding with AI - Chip Huyen, Tep Studio\n\nThis talk discusses an overview of AI coding tools and common patterns in coding with AI agents.",
+      "published_at": "2025-11-04T03:47:24Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "IJPKA-l0N7Y": {
       "video_id": "IJPKA-l0N7Y",
@@ -361,7 +513,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote Panel Discussion: Signal vs. Noise: Betting on AI’s Next Wave - Sarah Catanzaro, Amplify Partners; Sarah Guo, Conviction; Brian Zhan, Striker Venture Partners; Peter Deng, Felicis; Moderated by Joe Spisak, Meta\n\nThe AI startup landscape is evolving at breakneck speed—from open-weight fine-tuning to agentic production stacks, from observability to safety to entirely new environments. Alongside this, the role of venture capital is shifting: VCs are no longer just check-writers but 24/7 operators, connectors, and sometimes product thinkers themselves. In this panel, we’ll dig into what really separates signal from noise in AI pitches, when (if ever) pretraining is worth the bet, and whether startups are chasing the zeitgeist or building enduring value. We’ll explore how investors’ product backgrounds shape their decision-making, the intensity of the modern VC hustle, and where they see underfunded white space versus overhyped noise. Expect sharp takes, candid reflections, and a lightning round that surfaces where the next wave of opportunities—and risks—lie.",
+      "published_at": "2025-11-04T03:45:43Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "IMwmmw92fWs": {
       "video_id": "IMwmmw92fWs",
@@ -370,7 +526,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: But How Do You Autograd Through Your Simulator? Making a Differentiable Simulator in PyTorch - Rishit Dagli, University of Toronto & Shivay Lamba, Qualcomm\n\nThis talk is a playbook for making any PyTorch physics engine: rigid bodies, deformables or fluids into a differentiable simulator. This is a very relevant problem for many learning problems like, policy search in robotics, video/SDS-based parameter estimation for simulators, and soft‑material co‑design. Simply wrapping time‑stepping code with torch.autograd breaks down at the first contact, constraint or implicit solve. This causes many people to use other frameworks for differentiable physics.\n\nThere are a few challenges (1) non‑smooth events like collisions that violate the smooth chain rule assumed by autograd (2) implicit updates (backward Euler, FEM) that hide the true computational graph, and (3) long roll‑outs that explode memory.\n\nOne of our main focuses would be differentiating through inner solvers (CG/Newton) iters by implicit differentiation. We show a grab‑bag of engineering tricks: smooth contact proxies, Jacobian‑free back‑propagation to avoids linear solves during backward passes and memory‑frugal checkpointing to keep large rollouts on GPU. By the end, attendees will leave with compact recipes to make their own simulators differentiable while being stable enough.",
+      "published_at": "2025-11-04T03:43:38Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "JEM-tA3XDjc": {
       "video_id": "JEM-tA3XDjc",
@@ -379,7 +539,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "An Open Source Post-Training Stack: Kubernetes + Ray + PyTorch + vLLM - Robert Nishihara, Anyscale\n\nAI workloads require increasing scale for both compute and data, as well as significant heterogeneity across workloads, models, data types, and hardware accelerators. As a consequence, the software stack for running compute-intensive AI workloads is fragmented and rapidly evolving. Companies that productionize AI end up building large AI platform teams to manage these workloads. However, within the fragmented landscape, common patterns are beginning to emerge. This talk describes a popular software stack combining Kubernetes, Ray, PyTorch, and vLLM. It describes the role of each of these frameworks, how they operate together, and illustrates this combination with case studies from Pinterest, Uber, and Roblox as well as from today’s most popular post-training frameworks.",
+      "published_at": "2025-11-04T03:47:24Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "JMbZBI0ypzc": {
       "video_id": "JMbZBI0ypzc",
@@ -388,7 +552,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: Unlock the Future of Generative AI: TorchTitan's Latest Breakthroughs - Tianyu Liu & Jiani Wang, Meta\n\nWe're excited to share the latest advancements in TorchTitan (https://github.com/pytorch/torchtitan), a PyTorch native platform that's revolutionizing rapid experimentation and large-scale training of generative AI models. With its widespread adoption across top research institutions and industry labs, TorchTitan is poised to take AI innovation to new heights.\n\nJoin us as we unveil cutting-edge modeling architectures, including Mixture of Experts (MoE), multimodal LLMs, and diffusion models, and showcase transformative infrastructure techniques like long context support, advanced quantization, fault-tolerant / semi-sync training, and compiler-first parallelisms. With its lean implementation and flexible extension points, TorchTitan empowers researchers and developers to push the boundaries of what's possible in generative AI. Get ready to experience the future of AI/ML infrastructure today.",
+      "published_at": "2025-11-04T03:45:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "JQYP2l8x6oQ": {
       "video_id": "JQYP2l8x6oQ",
@@ -397,7 +565,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: vLLM & Deepspeed Updates - Simon Mo, vLLM Lead & PhD Student, Department of Electrical Engineering and Computer Sciences, UC Berkeley & Tunji Ruwase, Lead, DeepSpeed Project & Principal Software Engineer, Snowflake",
+      "published_at": "2025-11-04T03:45:43Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "KhRdtntTp-I": {
       "video_id": "KhRdtntTp-I",
@@ -406,7 +578,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Arctic Inference: Breaking the Speed-Cost Tradeoff in LLM Serving - Aurick Qiao, Snowflake\n\nArctic Inference is an open-source extension to vLLM, developed by Snowflake AI Research, that delivers state-of-the-art optimizations for large language model (LLM) inference. It introduces techniques such as SwiftKV, Ulysses, Shift Parallelism, Suffix Decoding, and Arctic Speculator to significantly improve inference speed and efficiency.\n\nAcross practical workloads, Arctic Inference achieves up to 3.4x faster time-to-first-token (TTFT), 1.7x higher throughput, and 1.75x faster time-per-output-token (TPOT) compared to baseline open-source solutions. Its modular, pluggable design means developers using vLLM can adopt it without code changes and immediately benefit from the performance gains.\n\nThis talk will delve into the technical innovations behind Arctic Inference and show you how to unlock these open-source optimizations in your own vLLM workflows.",
+      "published_at": "2025-11-04T03:45:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "L4l2rrcLBRI": {
       "video_id": "L4l2rrcLBRI",
@@ -415,7 +591,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote Panel Discussion: Agentic AI - Aparna Dhinakaran, Co-Founder & Chief Product Officer, Arize AI; Jerry Liu, CEO & Co-founder, LlamaIndex; Adam Jones, Member of Technical Staff, Anthropic; Samuel Colvin, Founder, Pydantic; & moderated by Ben Lorica",
+      "published_at": "2025-11-04T03:45:43Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "LmpXU8UwREA": {
       "video_id": "LmpXU8UwREA",
@@ -424,7 +604,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "How Modern PyTorch Supercharges Multimodal Training and Inference at Luma AI - Thomas Neff, Luma AI\n\nLuma AI was the first company to release a \"new generation\" video generative model powered by large diffusion transformers freely accessible to the public. With the release of Dream Machine in 2024, which was built by a tiny team in only 5 months, millions of users were able to see the potential of multimodal generative AI for the first time.\n\nThis session focuses on how we designed our training & inference code to scale and how we solely rely on modern PyTorch to combine extreme flexibility for researchers with efficient code paths to scale multimodal training and inference towards thousands of GPUs.\nWe will discuss how we are continuously keeping up with the bleeding edge of PyTorch and why this has allowed us to move extremely fast.\n\nWe will cover things such as how we efficiently use torch.compile, how to best make use of torch.distributed, how custom ops can lead to massive speedups in multimodal training, and will showcase some pitfalls, issues and share our experience from scaling up our architecture and training resources.\n\nWe will also discuss how this allows us to be flexible and push out updates to inference fast, reusing the same pieces that we use for training.",
+      "published_at": "2025-11-04T03:43:38Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "Nf2uSrdAW8U": {
       "video_id": "Nf2uSrdAW8U",
@@ -433,7 +617,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: Welcome Back - Matt White, Executive Director, PyTorch Foundation",
+      "published_at": "2025-11-04T03:45:45Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "O51dr8WeUfY": {
       "video_id": "O51dr8WeUfY",
@@ -442,7 +630,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Distributed Training in PyTorch: Zero to Hero - Corey Lowman, Lambda Labs\n\n In this talk, we share best practices for harnessing the power of distributed training with PyTorch to accelerate model development and fully utilize GPU clusters.\n\nThe session represents lessons learned from across a diverse range of distributed training runs and ultimately shows how to train a 405B sized model using pure PyTorch.Highlighted best practices include:\n- Scaling your training code from single GPU to multi node\n- Diagnostic techniques for quickly identifying cluster issues and freezes during training\n- Sharding large models with PyTorch FSDP",
+      "published_at": "2025-11-04T03:45:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "Olpz0imjPEE": {
       "video_id": "Olpz0imjPEE",
@@ -451,7 +643,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Addressing the Challenges of Public Web Data - Greg Lindahl, Common Crawl\n\nThe Common Crawl Foundation is dedicated to preserving humanity's knowledge and making it accessible through its free public web dataset, a vital resource since 2008. As AI development accelerates, concerns have emerged regarding the accessibility and transparency of public web data, impacting open datasets in three key ways: robots.txt exclusions, legal demands, and \"bot defenses.\" Two of these are not visible in public and are not very well understood. In this talk, Greg will present insights from a new data product that utilizes Common Crawl's crawl metadata to visually explore these three problems, advocating for greater transparency and informed solutions for the future of public web data.",
+      "published_at": "2025-11-04T03:45:45Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "PBnYxM8MXew": {
       "video_id": "PBnYxM8MXew",
@@ -460,7 +656,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Rethinking the Transformer: Toward Native Multimodal Architectures - Bowen Peng, Nous Research\n\nTransformers have driven breakthroughs in language and vision, but their limitations become clear when extended to multimodal data. This session explores architectural innovations, such as tokenizer-free transformers, mixture of experts and hierarchical attention that better capture the different granularities across various modalities. We’ll discuss how improvements in architectures could redefine the foundations of large-scale model training and open new frontiers beyond language.",
+      "published_at": "2025-11-04T03:43:38Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "QLDpiOOyyrE": {
       "video_id": "QLDpiOOyyrE",
@@ -469,7 +669,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Kimi K2 and Our Contributions to Open Source - Yuxin Wu, Moonshot AI\n\nWe'll first introduce Kimi K2, our open-weight 1T parameter foundation model with strong agentic capabilities. We'll talk about how we support the open source community, as well as discuss several key technologies that we have or plan to open source.",
+      "published_at": "2025-11-04T03:43:38Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "QlrGr-D4vTg": {
       "video_id": "QlrGr-D4vTg",
@@ -478,7 +682,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Mapping the Open Model Landscape in 2025 - Nathan Lambert, Ai2\n\n2025 has represented an inflection point year for open models — spearheaded by the release of DeepSeek R1 in January, but built upon by a rapid expansion of the Chinese open model ecosystem. The rapid increase in capabilities is largely driven by a handful of Chinese companies in addition to DeepSeek; Alibaba’s Qwen, Z.ai, Moonshot AI, and more, resulting in a widening gap between the best open Chinese models and Western counterparts. This talk covers the history and current balance of adoption and influence on the AI ecosystem, and then proceeds into a call to action for why the U.S. should also invest in open models as an engine of innovation and research for the rest of the world.",
+      "published_at": "2025-11-04T03:47:24Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "R2NXTHrsFwU": {
       "video_id": "R2NXTHrsFwU",
@@ -487,7 +695,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Efficient MoE Pre-training at Scale on AMD GPUs With TorchTitan - Liz Li & Yanyuan Qin, AMD; Matthias Reso, Meta\n\nMixture-of-Experts (MoE) architectures enable efficient scaling of deep learning models but face challenges across diverse hardware. We present a scalable, optimized MoE pre-training pipeline with TorchTitan on AMD MI300X GPUs, built fully within PyTorch ecosystem. Our method uses efficient FP8 blockwise and grouped GEMM via torch._scaled_mm, combining scaling, quantization-aware compute, and reduced-precision arithmetic. Moreover, we remove CPU-GPU sync via a custom triton kernel speeding up the forward pass by ~3x.\n\nThese optimizations support various backends including the AITER library, Triton, and HIP backends, fully leveraging AMD’s CDNA architecture and matrix cores. Key contributions include register-level data movement optimizations, expert-grouped execution via grouped GEMM, and dynamic MoE routing. We achieve strong scaling to 1000+ MI300X GPUs, demonstrating linear scaling and competitive per-GPU performance on large-scale MoE training.\n\nFinal proposal will include thorough analysis of Fp8 training pipeline with TorchTitan and optimized parallel strategy on Tensorwave’s AMD GPU cloud, demonstrating state-of-the-art training performance at scale on DeepSeek-R1 and LLaMA4.",
+      "published_at": "2025-11-04T03:45:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "RyFqJ82g4Yc": {
       "video_id": "RyFqJ82g4Yc",
@@ -496,7 +708,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsor Keynote: Build AI Anywhere with ROCm™ Software: AMD and PyTorch Bring Cloud-to-Client Power to Developers - Anush Elangovan, Corp. Vice President of AI Software, AMD\n\nIn this keynote, Anush Elangovan - Corporate VP of AI Software at AMD will share how the ROCm™ open software ecosystem, deeply integrated with PyTorch, empowers developers to accelerate modern AI workloads everywhere, across cloud, edge and client endpoints. With Day-0 support for leading frameworks and frontier models, sweeping performance gains in the latest ROCm releases, and expanded support for Windows, AMD is enabling developers to train, fine-tune, and deploy models without barriers. Join the session to learn how AMD and PyTorch are working together to give developers a unified, high-performance foundation to build AI anywhere.",
+      "published_at": "2025-11-04T03:45:45Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "S35GNcO8mhk": {
       "video_id": "S35GNcO8mhk",
@@ -505,7 +721,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Lightning Talk: PyTorch in Production: Boosting LLM Training and Inferencing on Ascend NPU - Fengchun Hua, Huawei\n\nIn scenarios of diverse computing power, PyTorch faces significant challenges in stability, ease of use, performance, and quality.\n\nThis session will showcase the best practices of PyTorch and its ecosystem components in heterogeneous computing by integrating Huawei's community contributions and the actual application scenarios of the Ascend platform.\n\nThrough technical and architectural improvements optimized for the Ascend platform in PyTorch, we have significantly enhanced the computational performance of training and inference, bringing it up to production-grade standards.\n\nWe are committed to promoting the application and implementation of PyTorch ecosystem components in China, such as the applications of PyTorch ecosystem projects like DeepSpeed, vLLM, torchtune, and torchtitan on Ascend.\n\nFinally, we will share real user cases of training and distributed inference, demonstrate the best practices of the Ascend platform, and help community users address challenges in various computing scenarios.",
+      "published_at": "2025-11-04T03:45:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "SeBoia7jcnI": {
       "video_id": "SeBoia7jcnI",
@@ -514,7 +734,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "“Many-model” Time Series Forecasting: Scaling PyTorch Training Across 1000s of Models - Vinay Sridhar & Shulin Chen, Snowflake\n\nModern time series forecasting increasingly relies on transformer models, often deployed in scenarios where datasets are partitioned such as across product segments in retail, leading to the need to create a time-series model per segment, often 100s to 1000s at the same time. Training these sophisticated models involves large datasets and complex transforms, while dealing with resource limitations. This leads to training such 1000s of PyTorch models sequentially resulting in long training times and thereby much fewer iterations. This talk presents a solution that demonstrates how to train thousands of such PyTorch models in parallel leveraging Ray’s advanced scheduling and distributed processing while utilizing resources efficiently. By seamlessly integrating highly parallel data loading with distributed processing, we establish a pipeline that optimizes for cost-efficiency, resource utilization, and execution time. This approach empowers users to train larger, more complex transformer models on significantly bigger datasets and more often leading to a higher velocity of developing and deploying advanced, ML-powered forecasting applications with superior predictive quality.",
+      "published_at": "2025-11-04T03:43:38Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "SewGbEAx548": {
       "video_id": "SewGbEAx548",
@@ -523,7 +747,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Generating State-of-the-Art GEMMs for Heterogeneous Hardware with TorchInductor - Michael Lazos and Henry Tsang, Meta\n\nCUTLASS (Nvidia) and Composable Kernel (AMD) are header-only libraries generating high-performance GEMMs with flexible fusion capabilities. They provide GEMM templates that instantiate thousands of kernels with varying performance across different shapes, requiring runtime autotuning for optimal performance.\n\nOur work integrates CUTLASS and CK into TorchInductor as GEMM backends. TorchInductor automates autotuning by precompiling kernels, caching locally/globally, and benchmarking to select optimal kernels during PT2 compilation. Generated kernels achieve state-of-the-art performance - up to 10% improvement over triton/cublas for some shapes in production workloads.\n\nThe backends support torch.compile, AOTInductor, and GEMMs like mm, addmm, bmm. FP8 GEMM and Grouped GEMM support is in progress.\n\nWe also support epilogue fusion for CUTLASS through epilogue visitor trees, which generate flexible C++ epilogues. Our custom tracer converts Python epilogue code into CUTLASS snippets representing operation trees following the GEMM. These snippets integrate into GEMM templates creating fused kernels. This fusion enhances performance and achieves feature parity with other backends like Triton.",
+      "published_at": "2025-11-04T03:47:26Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "T3nA1nAaLss": {
       "video_id": "T3nA1nAaLss",
@@ -532,7 +760,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Powering PyTorch: Decentralized Training for an Energy-Hungry Future - Greg Osuri, Overclock Labs & Akash Network\n\nCentralized capacity is hitting the energy wall. This talk demonstrates PyTorch training that follows renewables across modular data centers and decentralized markets. Expect practical recipes for communication reduction, compute overlap, quantized gradients, preemption recovery, sharded checkpoints, and placement guided by price and carbon, with utilization and Wh per token improvements",
+      "published_at": "2025-11-04T03:43:38Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "Tv71-g75OgU": {
       "video_id": "Tv71-g75OgU",
@@ -541,7 +773,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "vLLM: Easy, Fast, and Cheap LLM Serving for Everyone - Simon Mo, vLLM\n\nvLLM is an open source library for fast, easy-to-use LLM inference and serving. It optimizes hundreds of language models across diverse data-center hardware—NVIDIA and AMD GPUs, Google TPUs, AWS Trainium, Intel CPUs—using innovations such as PagedAttention, chunked prefill, multi-LoRA and automatic prefix caching. It is designed to serve large scale production traffic with OpenAI compatible server and offline batch inference, scalable to multi-node inference. As a community-driven project, vLLM collaborates with foundation model labs, hardware vendors and AI infrastructure companies to develop cutting-edge features.\n\nIn this talk, I will introduce the vLLM project, it's technical aspect, recent update, and upcoming roadmap.",
+      "published_at": "2025-11-04T03:47:26Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "U4w8X8ycoY8": {
       "video_id": "U4w8X8ycoY8",
@@ -550,7 +786,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Verl: A Flexible and Efficient RL Framework for LLMs - Hongpeng Guo & Ziheng Jiang, ByteDance Seed\n\nLarge language models (LLMs) have unlocked capabilities in language understanding and multimodal tasks. Integrating reinforcement learning (RL) at scale remains a major challenge. Existing frameworks lack either the abstractions for complex dataflow or the scalability for billion-parameter models.\n\nverl (https://github.com/volcengine/verl) is an open-source framework for building end-to-end RL pipelines with LLMs. It provides high-level abstractions and optimizations for dataflow orchestration and resource management via a hybrid-controller model. WorkerGroup modules and ResourcePool components distribute computation and resources across GPU clusters, delivering high throughput and strong extensibility.\n\nSince its release, verl has been adopted in both academic research and industry production. It integrates with major training backends (FSDP, FSDP2, Megatron-LM) and inference engines (vLLM, SGLang), supports RL algorithms (PPO, GRPO, DAPO, etc) and agentic features (multi-turn dialogue, tool calling). Recent DeepSeek-671B post-training integration further demonstrates verl's scalability to ultra-large models, making it a robust foundation for RL-enhanced LLM systems.",
+      "published_at": "2025-11-04T03:43:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "UEdGJGz8Eyg": {
       "video_id": "UEdGJGz8Eyg",
@@ -559,7 +799,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "The Future Is Tiled: Using CuTile and TileIR To Write Portable, High-performance GPU Kernels - Jared Roesch, NVIDIA\n\nWhile tools like OpenAI Triton and PyTorch Inductor now enable Python programmers to write high-performance kernels with ease, the challenge remains in balancing algorithmic abstraction with evolving HW and performance optimization.\n\nIn this talk we’ll describe cuTile, a Python DSL that lets you author fast, portable CUDA kernels and TileIR, a new virtual ISA for NVIDIA GPUs that cuTile targets via a TileIR MLIR dialect.\n\ncuTile extends CUDA kernel programming in Python to be closer to PyTorch or NumPy building on TileIR to make it easier to innovate on new high-performance programing abstractions.\n\nTileIR is an array-based sibling abstraction to PTX that enables both forward compatibility and performance for GPU architecture-specific features such as tensor cores, across hardware generations, without time consuming rewrites.\n\nWe’ll show you how to write and use cuTile kernels, target TileIR, present performance results and present contributions such as our TileIR backend for Torch Inductor.\n\ncuTile and TileIR were introduced at GTC 2025. cuTile will be open-sourced and open to community contributions and Tile IR will be released as part of the CUDA toolkit.",
+      "published_at": "2025-11-04T03:46:55Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "Up0EfrudTSQ": {
       "video_id": "Up0EfrudTSQ",
@@ -568,7 +812,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "mxfp8, mxfp4, nvfp4 formats and applications in PyTorch - Vasily Kuznetsov & Driss Guessous, Meta\n\nThe introduction of MicroScaling formats (MX) by the Open Compute Project has led to native hardware support by major hardware vendors. This talk will explore the end-to-end workflow of utilizing MX formats on modern hardware, highlighting the performance benefits and challenges associated with these new dtypes.\n\nKey topics include:\nSmaller Bit Widths: Understanding the impact of smaller bit widths on precision and throughput, referencing the OCP MicroScaling Formats Spec. And PyTorch’s plan to tackle increasing frequency of lower precision formats.\nLow Precision Training and Inference: Discussing the challenges posed by the reduced precision of these new dtypes and how to utilize them for training and inference.",
+      "published_at": "2025-11-04T03:46:55Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "UwHjxYwdVdA": {
       "video_id": "UwHjxYwdVdA",
@@ -577,7 +825,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "The OpenMDW License Agreement: Simple, Permissive Terms for AI Model Materials - Steve Winslow, The Linux Foundation\n\nAI models consist of a variety of different types of components. Publicly-available AI models and their components are sometimes published under a single traditional open source software license, which may not quite fit the distribution as a whole in the way that model providers intend.\n\nThe Model Openness Framework (MOF) provides a helpful framework for describing openness and completeness in AI model materials and their licensing. However, some implementers adopting the MOF's practices have struggled with its default approach of utilizing a mix of open licenses for different types of content.\n\nIn this talk, I will present the OpenMDW License Agreement (https://openmdw.ai), a short and broadly permissive license intended for open distribution of AI model materials. I will describe the purpose and context that informed OpenMDW's drafting, and will highlight its key features for easing conformance with the MOF and further enabling open sharing of AI models.",
+      "published_at": "2025-11-04T03:48:10Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "VfERNHVmL4o": {
       "video_id": "VfERNHVmL4o",
@@ -586,7 +838,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Lightning Talk: Build and Deploy AI Flows with an Agent Factory - Arjun Upadhyay, Oracle\n\nModern applications use AI models, informed by enterprise data to build impactful agentic workflows. In this session, we will show how easy it is to build and deploy AI agents using PyTorch models, knowledge graphs, MCP servers, and vector databases.  \n\nJoin us to learn about how to make AI adapt to you and your use cases:\nAn example of an agentic workflow that is context-aware and data-driven\nUse Oracle AI Database Private Agent Factory to plug in a PyTorch model\nDeploy and run agents that scale securely, privately, and on any data infrastructure",
+      "published_at": "2025-11-04T03:47:27Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "VmFcwjpt8vE": {
       "video_id": "VmFcwjpt8vE",
@@ -595,7 +851,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: In-Cluster Distributed Checkpointing: Optimizing Training Goodput Through GPU Node Locality - Gerson Kroiz, Google & Saurabh Mishra, Meta\n\nAs AI model training scales to thousands of GPUs, resiliency becomes essential. Failures—due to preemption, crashes, or infrastructure issues—can cause major training inefficiency and delay time-to-market. Checkpointing enables recovery, but traditional methods relying on remote storage often introduce latency and scalability challenges.\n\nThis talk presents In-Cluster Checkpointing, a new feature built on PyTorch’s Distributed Checkpointing (DCP) APIs that leverages node-local storage for faster, more scalable checkpointing. Each GPU node saves and restores its local training state, enabling frequent, low-overhead checkpoints that reduce training progress lost and restart latency. To support node replacement (e.g., due to failure or preemption), local checkpoints are automatically replicated and transferred to new nodes during recovery.\n\nCo-developed by Google Cloud’s GPU Resiliency team and Meta’s Distributed Checkpointing team, this solution has improved training goodput by up to 5% in large-scale deployments—saving many thousands of GPU hours over multi-week run. Attendees will gain practical insights on integrating this technique to improve goodput in their own training jobs.",
+      "published_at": "2025-11-04T03:43:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "Vnv5OalptH4": {
       "video_id": "Vnv5OalptH4",
@@ -604,7 +864,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Building the Next Generation of Open Source AI Tooling - Travis Oliphant, OpenTeams\n\nThe AI ecosystem is built on Open Source. We face new challenges at all levels of the AI stack. From low level gaps in the compiler ecosystem to the data layer and AI software environment management. Additionally, we need stronger solutions for privacy, security, and collaboration.\n\nJoin our breakout session about how we’re evolving our open source efforts with our partners, to build the next generation of AI tooling.\n\nHear directly from Travis Oliphant, the creator of Numpy, Scipy, and Numba on what the future holds and why open source is still foundational to everything we do.",
+      "published_at": "2025-11-04T03:47:26Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "WkOs1dqSwRM": {
       "video_id": "WkOs1dqSwRM",
@@ -613,7 +877,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: FTorch: A Library To Couple PyTorch ML Models With Fortran Climate Models - Matt Archer, University of Cambridge\n\nFTorch is open-source software that facilitates the coupling of PyTorch models with scientific codes written in Fortran. Many fields, such as climate science, fluid mechanics, and plasma physics, are increasingly using ML in research. PyTorch is Python-based, while many numerical models are written in Fortran, creating a challenge for researchers and engineers wanting to use ML.\n\nFTorch provides an intuitive, computationally efficient, and trusted approach for coupling PyTorch models into Fortran codes. It removes technical barriers so researchers can focus on applications and supports essential features like GPU acceleration.\n\nIn this lightning talk, we’ll demonstrate how climate science projects can easily integrate PyTorch ML models with FTorch. We’ll highlight FTorch's simplicity and exciting new developments like bringing autograd and online training to Fortran.\n\nShowcasing FTorch and its features will help connect the Fortran and PyTorch communities and broaden FTorch’s applications beyond climate science, fostering further development of the library.",
+      "published_at": "2025-11-04T03:43:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "X2YbbDmCsOI": {
       "video_id": "X2YbbDmCsOI",
@@ -622,7 +890,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Beyond TorchScript: The Future of C++ Inference in PyTorch - Sherlock Huang, Meta\n\nTorchScript is the load bearing component for serving PyTorch models in a non-Python environment. It powers a wide range of ML applications, including mobile applications and hyper-scale recommendation systems. However, early design decisions in TorchScript made it difficult to incorporate innovations.\n\nSince the introduction of PyTorch 2.0, we have developed a new C++ inference workflow leveraging the new power components that improve the performance and deployability of ML models.\n\nIn this talk, you'll discover the best practices and latest advancements in C++ inference. We'll cover:\n- Recommended workflows for C++ inference in different scenarios.\n- ExecuTorch Mobile: Stable for mobile and embedded env.\n- ExecuTorch Full: Coming soon for PC and server deployments.\n\nMigrating from TorchScript?\nIf you're currently using TorchScript, we'll provide guidance on how to transition smoothly:\n- Replacing TorchScript Frontend: Discover torch.export, a modernized graph capturing system.\n- Upgrading from TorchScript Backend: Introducing the ExecuTorch Full Runtime, a high-performance C++ runtime that simplifies and accelerates PyTorch model deployment on PCs and servers.",
+      "published_at": "2025-11-04T03:43:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "XdORM2pkyH8": {
       "video_id": "XdORM2pkyH8",
@@ -631,7 +903,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: PyTorch Technical Deep Dive - Alban Desmaison, Peng Wu, Mark Saroufim & Edward Yang, Meta\n\nThis Deep Dive provides an update on PyTorch development since last conference and dives into key new features. We will explore how advancements across a number of PyTorch features combine to better support the full model development lifecycle across training, fine-tuning, and deployment.",
+      "published_at": "2025-11-04T03:45:45Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "Ylp1Pt1nvEU": {
       "video_id": "Ylp1Pt1nvEU",
@@ -640,7 +916,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Enabling VLLM V1 on AMD GPUs With Triton - Thomas Parnell, IBM Research & Aleksandr Malyshev, AMD\n\nIn January 2025, vLLM announced the alpha release of V1: a major upgrade to vLLM’s core architecture. One of the key goals of V1 was to enable all vLLM’s inference performance optimizations (e.g., continuous batching, paged attention, chunked prefill, prefix caching, speculative decoding) to work seamlessly together. Achieving this required architectural changes that propagated down to the kernel-level. In fact, in the alpha release of V1, only NVIDIA GPUs were supported due to lack of V1-compliant attention kernels.\n\nIn this talk, we will describe how we enabled vLLM V1 to run with state-of-the-art performance on AMD GPUs. We will begin by describing an initial attempt to enable V1 using a relatively old Triton kernel and explain why this approach was not performant. We will then describe a sequence of kernel-level optimizations made by the teams from IBM, Red Hat and AMD that, when combined, allowed us to improve the performance of V1 on AMD GPUs by up to 5x.\n\nThis talk will provide deep insights into how vLLM V1 works from community and industry experts. It will also provide Triton kernel developers with tips and tricks into how to achieve maximum performance.",
+      "published_at": "2025-11-04T03:45:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "aCseXqvTZtU": {
       "video_id": "aCseXqvTZtU",
@@ -649,7 +929,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Thunder: Distribute and Optimize Your PyTorch Models With Zero Code Changes - Luca Antiga & Thomas Viehmann, Lightning AI\n\nSince its early days, PyTorch has empowered researchers and practitioners with its expressive design. However, as hardware advances and model scales grow, users are increasingly required to embed optimizations and distributed logic directly into model code.\n\nThunder is a PyTorch compiler designed to easily enhance models programmatically using composable, full-graph transforms. Emphasizing usability, understandability, and extensibility, Thunder generates Python code at each transformation stage, making it simple to develop and debug new transforms.\n\nIn this talk, you’ll learn how to achieve 2x speedups on LLMs like Qwen and Llama running on Hopper and Blackwell architectures, starting from model definitions from HuggingFace Transformers and LitGPT. We’ll demonstrate how to apply composable transforms to augment models with Megatron-style parallelism, kernel fusion (NVFuser and torch.compile), and specialized libraries (cuDNN, TransformerEngine, Apex) with zero code changes.\n\nWe’ll walk through writing a transform from scratch for parameter sharding and distributed communication. Finally, we’ll show how Thunder integrates with popular training and inference frameworks.",
+      "published_at": "2025-11-04T03:46:57Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "aoZwgbedQo4": {
       "video_id": "aoZwgbedQo4",
@@ -658,7 +942,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Multi-Accelerator PyTorch Serving With NxD Inference and vLLM - Yahav Biran & Liangfu Chen, Amazon\n\nLearn how the open-source NxD Inference library delivers high-performance PyTorch model serving on AWS Trainium and Inferentia. We’ll show how NxDI features like continuous batching, speculative decoding, and distributed parallelism can run alongside TorchInductor-compiled CUDA kernels in a single vLLM-based Kubernetes cluster, enabling real-time traffic shifting between accelerator pools.",
+      "published_at": "2025-11-04T03:45:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "bc7x6cmMB8Q": {
       "video_id": "bc7x6cmMB8Q",
@@ -667,7 +955,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: Improved GEMM and SDPA Performance on ROCm With Composable Kernel - Andres Lugo, AMD\n\nAs the artificial intelligence space continues to grow and evolve with increasingly complex use cases, the need for customized kernels to maximize performance grows alongside it. Two of the more popular operations within machine learning, GEMMs and Scaled-Dot-Product Attention represent key areas of improvement across key compute kernels for most LLMs. GEMMs are present in almost all models as one of the most fundamental operations, and SDPA is the backbone of modern Transformer architectures which are currently spearheading the field of Generative AI. We now introduce Composable Kernel (CK) as an backend library for both GEMMs and SDPA. CK is a library that provides a programming model for writing performance critical kernels for ML workloads. It uses a tile-based programming model to adhere to the underlying hardware architecture efficiently. We have integrated CK for both GEMMs and SDPA exhibiting good performance requiring only a single line of Python code to enable per operator. In this lightning talk, we present our findings using the new CK backend for both GEMMs and SDPA, briefly discuss the integration points of the library, as well as usage basics for enablement.",
+      "published_at": "2025-11-04T03:45:05Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "cuL3vER4QTU": {
       "video_id": "cuL3vER4QTU",
@@ -676,7 +968,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Lightning Talk: Accelerated Software for a Post-Moore World - Jay Dawani, Lemurian Labs\n\nMoore’s law has slowed while workloads grow and get more dynamic. Hardware is increasingly heterogeneous. The bottlenecks have shifted from compute to memory and networks. A kernel‑first model—optimizing one operator at a time—no longer delivers end‑to‑end gains. Local wins don’t add up, don’t transfer across devices, and fall over as shapes and schedules change.\n\nThis talk makes the case for a new approach. Optimize at the system level. Treat the full workload, not a single kernel, as the unit of performance. Set clear objectives: throughput, latency, power, and cost, and demand predictable, portable results across different systems. We will explore where the current model fails on real workloads and what a system‑first mindset changes for framework design and everyday practice.",
+      "published_at": "2025-11-04T03:47:26Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "e3zKBo73CdA": {
       "video_id": "e3zKBo73CdA",
@@ -685,7 +981,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: Closing Remarks - Matt White, Executive Director, PyTorch Foundation",
+      "published_at": "2025-11-04T03:45:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "ebklfF5XVs8": {
       "video_id": "ebklfF5XVs8",
@@ -694,7 +994,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "No GPU Left Behind: Scaling Online LLM Training With Co-located VLLM in TRL - Mert Toslali & Yu Chin Fabian Lim, IBM Research\n\nTraining LLMs with online RL methods like GRPO presents a unique challenge: inference is required at every training step. In the standard Hugging Face TRL setup, inference is handled by vLLM running as a separate server on dedicated GPUs, communicating via HTTP. This creates a “ping-pong” inefficiency—training GPUs wait during generation, and inference GPUs wait during training—leading to poor GPU utilization and high cost.\n\nOur talk introduces co-located vLLM, a key optimization that enables training and inference to run on the same GPUs. Built on vLLM’s external_launcher, it allows in-process, torch-compatible execution. We contributed a now-merged PR to TRL that eliminates the need for HTTP calls or separate servers. Our setup supports torchrun, TP/DP, and scales to training large models (like 72B). This setup improves training throughput by up to 1.7×, reduces # of GPUs needed, and is now part of the official TRL repo.",
+      "published_at": "2025-11-04T03:47:26Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "fNxpOEctMwA": {
       "video_id": "fNxpOEctMwA",
@@ -703,7 +1007,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: Contributor Awards",
+      "published_at": "2025-11-04T03:45:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "fxvR3K5CV_A": {
       "video_id": "fxvR3K5CV_A",
@@ -712,7 +1020,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: FlexCP: FlexAttention for Long Sequence Training Using Context Parallel - Xilun Wu & Chien-Chin Huang, Meta\n\nFlexAttention is a versatile solution that enables arbitrary attention customization without sacrificing performance. It allows users to define a customized attention function and generates a corresponding FlashAttention kernel with competitive performance to handwritten ones. In this talk, we will share our experience of integrating FlexAttention with context parallelism in long sequence training, covering aspects such as API design, user experience, and performance tuning. Our goal is to empower the audience to easily experiment with custom attention settings on long sequences, without compromising on performance.",
+      "published_at": "2025-11-04T03:47:26Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "g98nnUiv7eA": {
       "video_id": "g98nnUiv7eA",
@@ -721,7 +1033,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: Towards Building Safe and Secure Agentic AI - Dawn Song, Professor, Department of Electrical Engineering and Computer Science, UC Berkeley",
+      "published_at": "2025-11-04T03:45:45Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "gjPQ8J38SSw": {
       "video_id": "gjPQ8J38SSw",
@@ -730,7 +1046,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Breaking Heterogeneity Barriers: Unified Cloud-to-Robot AI System SW Stack for Embodied Intelligence - Yonghua Lin, BAAI\n\nEmbodied AI demands unprecedented efficiency: brain-planning models (VLM) evolve in the cloud while sensing-action models (VLA) run on resource-constrained robots. This dual-stack paradigm introduces critical challenges including compute fragmentation (requiring 1,000+ GPU clusters for VLMs vs ≤10ms response for VLAs), hardware heterogeneity across cloud and edge devices, and latency cliffs in end-to-end execution pipeline. Multi-robot scenarios further exacerbate these challenges, often exceeding human-level response standards (≤100ms) and causing system instability.\n\nIn this talk, we present FlagOS - our PyTorch-native unified AI system software stack that seamlessly extends PyTorch's capabilities to embodied AI. Through its parallel framework FlagScale, unified communication library FlagCX, and underlying Triton-based operator library FlagGEM with AI compiler FlagTree, FlagOS provides a PyTorch-based solution for Embodied AI. We'll demonstrate how this stack powers innovative embodied AI solutions like RoboBrain and RoboOS across diverse robot hardware platforms, effectively mitigating the challenges posed by hardware heterogeneity.",
+      "published_at": "2025-11-04T03:47:26Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "gkhc_nWaEYA": {
       "video_id": "gkhc_nWaEYA",
@@ -739,7 +1059,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Behind Every AI SBOM Lies a Minefield: Here's How to Not Step On it - Matthew Crawford, Arm & Jimmy Ahlberg, Ericsson",
+      "published_at": "2025-11-04T03:48:18Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "h6LjH6Jkaf0": {
       "video_id": "h6LjH6Jkaf0",
@@ -748,7 +1072,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "PyTorch APIs for High Performance MoE Training and Inference - Daniel Vega-Myhre; Ke Wen & Natalia Gimelshein, Meta\n\nWith models like DeepSeekV3 and Llama4 rising in popularity, there has been an increasing demand for PyTorch-native APIs and tailored performance optimizations for MoE architectures.\n\nThis will be a joint talk between PyTorch Core, Distributed and Performance teams, focusing on features we’ve developed to better support and accelerate both MoE training and inference:\n\nThe talk will be broadly divided into 3 categories:\n1. Computation (grouped GEMMs in PyTorch Core)\n2. Communication (all-to-all-v dispatch/combine APIs in PyTorch Distributed)\n3. Low precision training and inference optimizations (torchao API for MoE float8 training, low precision comms kernels, differentiable scaled grouped GEMM with dynamic quantization)",
+      "published_at": "2025-11-04T03:45:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "jNIareeaVTI": {
       "video_id": "jNIareeaVTI",
@@ -757,7 +1085,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: Foundations for AI+Science - Animashree (Anima) Anandkumar, Bren Professor of Computing and Mathematical Sciences, California Institute of Technology",
+      "published_at": "2025-11-04T03:45:45Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "jgf-dGXJQk8": {
       "video_id": "jgf-dGXJQk8",
@@ -766,7 +1098,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Lightning Talk: Improving Drug Discovery with Machine Learning and Molecular Dynamics - Simon Axelrod, D.E. Shaw Research\n\nLearn about how D. E. Shaw Research uses paradigm-shifting computational technologies to reshape the process of drug discovery. In particular, we will be focusing on how our Machine Learning and Computer Science teams use PyTorch to implement models.",
+      "published_at": "2025-11-04T03:45:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "kKUSK6995IA": {
       "video_id": "kKUSK6995IA",
@@ -775,7 +1111,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Bridging the Gap: Embedded Deployment of PyTorch Deep Learning Models in Complex Engineered Systems - Ashvant Ram Selvam & Sarah Mohamed, MathWorks\n\nEmbedded deployment of deep learning algorithms in autonomous vehicles, industrial machines, and other complex engineered systems requires much more than training a PyTorch model. This talk will discuss integration of PyTorch-trained AI models into complex engineered systems with mechanical, electrical, and software components, where practitioners often need to simulate before moving to hardware, and deploy without writing code. We will walk through a practical workflow for training deep learning models in PyTorch and integrating them into Simulink for model compression, simulation, verification, and code generation. Attendees will learn how this workflow facilitates system-level design, enables testing, and helps with cross-platform embedded deployment of PyTorch models, helping engineers to accelerate their journey from research to production in safety-critical applications.",
+      "published_at": "2025-11-04T03:45:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "lH1QD7p8vjE": {
       "video_id": "lH1QD7p8vjE",
@@ -784,7 +1124,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: What's New in Torch.onnx - Maanav Dalal & Justin Chu, Microsoft\n\nIn this talk, you will learn about the `dynamo=True` option in the torch.onnx exporter which leverages torch.export and ExportedProgram to produce performant, accurate and context rich ONNX models.\n\nYou will also understand:\n\n1. How to use torch.onnx.verification tools to diagnose model accuracy issues,\n2. How to use torch.onnx.ops to instruct the exporter to produce custom and ONNX operators for complex export scenarios\n3. Support for the Attention operator with ONNX opset 23\n4. How you can customize and extend the exporter for your needs.",
+      "published_at": "2025-11-04T03:45:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "lHq4Tl5lhjA": {
       "video_id": "lHq4Tl5lhjA",
@@ -793,7 +1137,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: The Physical Turing Test: Solving General Purpose Robotics - Jim Fan, Director of Robotics & Distinguished Research Scientist, NVIDIA\n\nThe age of generalist AI agents for the physical world is here. Join Jim Fan, Distinguished Scientist and Director of NVIDIA GEAR Research Lab, as he outlines the major challenges facing the “robot revolution” and how the community is overcoming them with techniques in simulation, synthetic data and accelerated computing.",
+      "published_at": "2025-11-04T03:45:45Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "m3N3csT0XCw": {
       "video_id": "m3N3csT0XCw",
@@ -802,7 +1150,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Keynote: Unlocking AI at Scale for PyTorch Developers - Jeff Gehlhaar, Senior Vice President of Engineering, Qualcomm\n\nDeveloper-friendly AI inference optimized for performance, energy, and cost is key to unlock AI at scale for developers, industries, and consumers. In this talk, we’ll explore the latest trends driving inference to the edge, the cloud, and everywhere in between to unlock personalization, privacy, and performance. We’ll dive into Qualcomm’s flexible software stack, showcasing the ways developers can deploy PyTorch models on Qualcomm processors and tap into the opportunity to deploy AI across billions of devices. We will make an exciting announcement, building off our efforts to make it easier for developers to utilize Qualcomm Hexagon NPU to its full potential.",
+      "published_at": "2025-11-04T03:45:45Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "mHC08Gf_xnc": {
       "video_id": "mHC08Gf_xnc",
@@ -811,7 +1163,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Lightning Talk: Accelerating Experimentation and Unlocking Real-Time Inference on Microcontrollers with Lightning - Niall Lyons, Infineon Technologies & Luca Antiga, Lightning AI\n\nJoin Luca Antiga, CTO of Lightning AI and early PyTorch core contributor, and Niall Lyons, Staff Deep Learning Researcher at Infineon Technologies.Learn first-hand how the Lightning platform streamlines model training and optimized inference by handling environment setup, scaling across heterogeneous hardware, and enabling rapid experimentation. Infineon will share how they applied Lightning to train and deploy sub 30MB language models on Cortex M55 and U55 microcontrollers, achieving inference under 100ms per token fully on device with no external compute. Learn how the Lightning platform enabled the Infineon team to accelerate experimentation and unlock real-time AI inference at the edge.",
+      "published_at": "2025-11-04T03:47:29Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "mfXIe_S53vA": {
       "video_id": "mfXIe_S53vA",
@@ -820,7 +1176,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Serving PyTorch LLMs at Scale: Disaggregated Inference With Kubernetes and Llm-d - Maroon Ayoub, IBM Research & Cong Liu, Google\n\nAs PyTorch-based LLMs scale in complexity and user concurrency, their inference demands diverge across stages. Prefill is compute-heavy; decode is latency-sensitive. In this talk, we introduce a disaggregated serving pattern for PyTorch LLMs using llm-d—a Kubernetes-native, open-source framework co-developed by IBM Research, Google, and Red Hat. We'll walk through how llm-d separates prefill and decode into orchestrated sidecars, improving GPU utilization and QoS alignment. You'll learn how the Gateway API Inference Extension (GIE) enables routing based on load, cache locality, and session affinity. The talk includes real-world benchmarks and a visual demo of llm-d serving PyTorch models with vLLM across heterogeneous hardware on Kubernetes.",
+      "published_at": "2025-11-04T03:43:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "mket48-xpSk": {
       "video_id": "mket48-xpSk",
@@ -829,7 +1189,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Mojo + PyTorch: A Simpler, Faster Path To Custom Kernels - Spenser Bauman, Modular\n\nPyTorch offers multiple ways to integrate custom kernel implementations, especially when working with CUDA. While this flexibility is powerful, it leads to fragmentation across tools, build systems, and APIs. Developers often run into long compile times, complex toolchain requirements, and ABI challenges that make custom op development harder to maintain and distribute.\n\nThis talk explores a new workflow for writing custom ops in PyTorch using Mojo, a high-performance systems language for AI. It shows how Mojo can be used to define custom kernels that integrate with PyTorch through Python, avoiding the need for C++, CUDA, or complex build tools. The approach offers a straightforward and portable way to develop high-performance custom ops.\n\nWe'll walk through:\n- A look at the current landscape of PyTorch custom kernel integration\n- How Mojo improves ergonomics and speeds up development\n- Using Mojo-based ops in eager mode and with torch.compile\n- Examples of accelerating inference with Mojo\n- Extending to training by implementing the backwards pass in Mojo\n\nThis talk is for PyTorch developers who want more control over performance without the overhead of traditional CUDA development.",
+      "published_at": "2025-11-04T03:46:56Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "mzHed-fKHx8": {
       "video_id": "mzHed-fKHx8",
@@ -838,7 +1202,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: Accelerating PyTorch FSDP Via Overlapping Collectives With In-Network Computing and Multicast - Nariaki Tateiwa, Nippon Telegraph and Telephone\n\nThe rapid growth of LLM scale has exceeded accelerator memory limits; as a result, memory-efficient distributed training has become essential. In PyTorch, Fully Sharded Data Parallel (FSDP) has become a critical solution to address this challenge. However, FSDP suffers from significant inter-accelerator communication overhead, particularly with the ReduceScatter and Allgather collectives in the backward pass. Recent research by Khalilov et al. (SC’ 24) proposes a scheme for overlapping these collectives using in-network computing and multicast technologies, potentially halving communication volume in the backward pass. However, there are no practical collective communication libraries that enable both technologies, and thus the current PyTorch FSDP (v1/v2) implementations do not support overlapping these collectives.\n\nIn this talk, we present (1) an extension to the UCC library that leverages in-network computing and InfiniBand multicast; (2) an implementation that enables overlapping ReduceScatter and Allgather in PyTorch FSDP; and (3) numerical results demonstrating up to 2x faster communication and significant improvements in training throughput for LLM workloads.",
+      "published_at": "2025-11-04T03:45:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "nDl6Aj9aPAI": {
       "video_id": "nDl6Aj9aPAI",
@@ -847,7 +1215,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "The Building Blocks of Today’s and Tomorrow’s Language Models - Sebastian Raschka, RAIR Lab\n\nIn this talk, you’ll learn about the latest trends in large language model (LLM) architectures. We'll look at how the architectural building blocks have evolved this year, with a focus on current transformer-based models (including Llama, GPT-OSS, Gemma, Qwen, and DeepSeek). The talk will also spotlight emerging non-transformer approaches that may signal what comes next for LLM research and development.",
+      "published_at": "2025-11-04T03:45:45Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "o1Ftb3gpeDs": {
       "video_id": "o1Ftb3gpeDs",
@@ -856,7 +1228,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Our Journey With TorchTitan - Linsong Chu & Garrett Goon, IBM Research\n\nIn this session, we will share our journey with TorchTitan over the past year and a half, starting from early 2024. During this journey, we went from using TorchTitan as a secondary codebase solely for throughput benchmarking to leveraging it for several internal production trainings; from being an end user to becoming an active contributor within the TorchTitan community.\n\nOur story will cover why we adopted TorchTitan in our production trainings, what we've accomplished with it, and what lies ahead. Highlights include training an in-house 70B model earlier this year that matches the performance of the LLaMA 3 family - while requiring significantly fewer GPU hours - thanks to the latest features such as FP8 training. We'll also discuss our current work with TorchTitan, including our ongoing MoE training enabled by integrating our fast MoE kernel into TorchTitan, as well as exploring additional MoE kernels with FP8 row-wise and MXFP8, which are currently being developed within the TorchTitan community.\n\nWe’ll also share key lessons learned along the way and explain why we think this is a great community for everyone to explore and contribute to.",
+      "published_at": "2025-11-04T03:47:29Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "oiAK4f3_o_0": {
       "video_id": "oiAK4f3_o_0",
@@ -865,7 +1241,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "PyTorch-Native Stack for Agents - Allen Wang & Davide Testuggine, Meta\n\nAgents are the next frontier of AI development — systems that reason, act, and learn through interaction. In this talk, we’ll explore the challenges of building for agents and the new infrastructure they demand, starting with a practical introduction to reinforcement learning. We’ll then unveil the PyTorch-native stack we’ve built to empower this new era of development.\nTorchForge — a PyTorch-native library for scalable RL post-training and agentic development, designed to let researchers focus on algorithms rather than infrastructure.\nTorchStore — a high-performance tensor key-value store optimized for RDMA-enabled environments while maintaining the simplicity and usability of PyTorch.\nOpenEnvironments — an open initiative to build and share reinforcement learning environments collaboratively with the community.\n\nTogether, these projects form the foundation for the next generation of agentic AI development — from research to production.",
+      "published_at": "2025-11-04T03:47:29Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "rTi0z32i8XE": {
       "video_id": "rTi0z32i8XE",
@@ -874,7 +1254,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: Challenges and Standardization in PyTorch Ecosystem Accelerators - Zesheng Zong, Huawei & Ashok Emani, Intel\n\nThis talk aims to provide a practical and structured overview of the current challenges and recent standardization efforts in supporting accelerators within the PyTorch ecosystem. By sharing community-driven solutions and practical implementations, we hope to help more hardware developers and contributors effectively integrate with PyTorch and improve the overall developer experience.\n\nThe TAC Out-of-Tree Working Group was formed to address these ecosystem gaps. Efforts include:\n\nTesting Framework & Quality Standards\nA public testing repository(pytorch-fdn/oota) was established to support daily CI testing for plugin stability. This initiative helps ensure that hardware plugins remain compatible with PyTorch core changes. Additionally, we standardized testing and quality standards for out-of-tree accelerators.\n\nSimplified Plugin and Feature Integration\nWe optimized the integration mechanism and introduced automatic plugin loading to reduce the complexity of adding new devices. Including improving the code generalization and less coupling with CUDA, which previously made device-specific changes difficult. And make torch.compile better support integrating out-of-tree devices.",
+      "published_at": "2025-11-04T03:45:45Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "rX1ar5lcZy4": {
       "video_id": "rX1ar5lcZy4",
@@ -883,7 +1267,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Monarch: A Distributed Execution Engine for PyTorch - Colin Taylor & Zachary DeVito, Meta\n\nIn this talk we present Monarch, a distributed training stack for PyTorch. Our goal, following the PyTorch philosophy, is to provide a set of composable primitives with which users can easily build orchestration at large scale over heterogeneous compute resources and lifecycles.\n\nTraditional distributed PyTorch uses a multi-controller approach: you launch multiple copies of the same script across different machines, and these independent processes coordinate through collective operations. Each process runs its own copy of your training loop.\n\nMonarch is a single-controller: one script directly orchestrates all distributed resources, almost as if they were local. Instead of spawning multiple independently controlled processes, you write one program that treats the entire cluster as a single, unified system.\n\nThis architectural shift simplifies programming: no more reasoning about process ranks, synchronization barriers, or collective communication patterns. Your code looks and feels like a single-machine PyTorch, but scales across thousands of GPUs, and you can directly use ordinary programming constructs – classes, functions, loops, tasks, futures – to express distributed algorithms.",
+      "published_at": "2025-11-04T03:43:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "sdrJB_uJ6xo": {
       "video_id": "sdrJB_uJ6xo",
@@ -892,7 +1280,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Architecting AI: Efficient Models, Everywhere - Sharbani Roy, Arm\n\nAI is evolving beyond massive frontier models toward smaller, more efficient architectures that deliver real-world impact. In this talk, we’ll explore how Arm is enabling developers to harness Small Language Models (SLMs) and vision models, optimize inference at scale, and build sustainable, responsible AI systems. Through concrete proof points, developer tools, and applied examples, we’ll show how the Arm ecosystem is helping PyTorch developers move faster, reduce costs, and unlock new possibilities across cloud, edge, and device.",
+      "published_at": "2025-11-04T03:47:29Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "toirKRTLgJA": {
       "video_id": "toirKRTLgJA",
@@ -901,7 +1293,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "ExecuTorch 1.0: General Availability Status for Mobile and Embedded Application Developers - Mergen Nachin & Cemal Bilgin, Meta\n\nExecuTorch is an end-to-end solution for deploying PyTorch models onto edge devices, including mobile, embedded systems (such as smart sensors, IoT, and wearables), and XR devices. In this talk, we'll mainly focus on the maturity and stability of ExecuTorch, inviting mobile and embedded systems application developers to start adopting ExecuTorch for productionization. Specifically, we will cover:\n- Developer flow and ease of use around quantization, integration and deployment\n- Tight integration with backends, mobile accelerators, and hardware partners\n- Ecosystem, libraries and SDKs built around ExecuTorch\n\nWhat you'll learn:\n- What is ExecuTorch, how it works, and why it matters\n- Production readiness for adoption\n- Case studies around GenAI, computer vision, and other ML applications on edge devices",
+      "published_at": "2025-11-04T03:45:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "txxSXeBwp18": {
       "video_id": "txxSXeBwp18",
@@ -910,7 +1306,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lifecycle of a Parameter - Philip Bontrager, Meta\n\nLong gone are the days where the entire lifecycle of a parameter consists of being initialized on a GPU, updated on the same GPU, and then finally saved to your local SSD. As models and training pipelines scale in size and complexity, a single parameter will get sharded, resharded, streamed across multiple machines, downloaded, possibly quantized, and renamed multiple times. In this talk we’ll follow a parameter through a large-scale LLM RL post-training job to understand everything that needs to happen behind the scenes in Pytorch for this to work. From reading in a checkpoint that’s 100s of GBs, to distributing the parameter across multiple dimensions, quantizing the weights, syncing the weights with an inference server that that is laid out and optimized completely differently, updating all of the shards together, and then saving the parameter split across multiple devices, each part has to work together and happen in almost no time at all. This talk will outline the challenges and some of the current solutions to training parameters at scale.",
+      "published_at": "2025-11-04T03:43:40Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "u5074_0k0UU": {
       "video_id": "u5074_0k0UU",
@@ -919,7 +1319,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "From Model To Trust: Building Upon Tamper-proof ML Metadata Records - Mihai Maruseac, Google\n\nThe integrity and provenance of machine learning models are critical for building trustworthy AI systems. While cryptographic signing protects many digital assets, a standardized approach for verifying model origins and ensuring they haven't been tampered with is still missing. We are addressing this gap by building upon the OpenSSF Model Signing project – a PKI-agnostic method for creating verifiable claims on bundles of ML artifacts. We show how this project can expand beyond just model signing to also cover datasets, and other associated files, recording all integrity information in a single manifest.\n\nIn fact, this can be used as a foundation layer upon which we can build useful AI supply-chain solutions, both in terms of security and in terms of reducing development costs. Imagine querying \"What datasets were used to train this model?\" or determining which models and agents have been trained on a poisoned dataset, even before these get deploy in production systems. This is all possible by merging model signing, model cards, SLSA and AI-BOM information and analyzing all this metadata using tools such as GUAC. Our talk lays the groundwork for such capabilities.",
+      "published_at": "2025-11-04T03:45:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "uM5yXhb60hw": {
       "video_id": "uM5yXhb60hw",
@@ -928,7 +1332,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Deploying GenAI for Audio Generation on Mobile CPUs With ExecuTorch - Gian Marco Iodice, Arm\n\nGenerative AI (GenAI) is often associated with cloud-based large language models (LLMs), but its capabilities and deployment scenarios extend far beyond this narrow view. Today, GenAI is already finding its place on mobile and edge devices—operating without internet connectivity to enhance messaging apps, productivity tools, and more. This talk expands the common view of GenAI beyond text generation, highlighting its broader potential, including real-time audio and media generation on-device. We will present practical use cases of GenAI running locally on mobile platforms and focus on the technical details of deploying these models efficiently using ExecuTorch on Arm CPUs. Attendees will gain insight into the optimizations, and integration workflows that directly enable responsive, private, and intelligent experiences on edge devices.",
+      "published_at": "2025-11-04T03:45:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "ujAURT7YG2g": {
       "video_id": "ujAURT7YG2g",
@@ -937,7 +1345,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: Robot Foundation Models - Sergey Levine, Associate Professor, Department of Electrical Engineering and Computer Sciences, UC Berkeley\n\nGeneral-purpose foundation models have transformed how we approach machine learning: instead of training domain-specific classifiers or generative models, we now use general-purpose models trained on broad web-scale datasets across natural language processing, computer vision, multimedia generation, and speech. What would it take to enable such general models to interact with the physical world, enabling them to control robotic systems? In this talk, I'll provide a brief summary of the history of vision-language-action (VLA) models, describe recent developments, and present results of state-of-the-art VLAs.",
+      "published_at": "2025-11-04T03:45:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "uolCS_94c4A": {
       "video_id": "uolCS_94c4A",
@@ -946,7 +1358,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: Olmo-Thinking: Training a Fully Open Reasoning Model - Nathan Lambert, Senior Research Scientist, Ai2\n\nThis talk covers the crucial details it takes to train a 7B parameter, fully open reasoning model, Olmo-Thinking, to rival Qwen 3, highlighting fresh results, trade-offs, and methods across midtraining, distillation with high-quality thinking SFT data, and reinforcement learning with verifiable rewards. This talk focuses on aspects of the training process, such as model architecture decisions, data sourcing, and training code design that is often not shared by leading models and can enable a resurgence of research with advancements in reinforcement learning, tool-use, and inference-time scaling.",
+      "published_at": "2025-11-04T03:45:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "vBLDv_bzgo8": {
       "video_id": "vBLDv_bzgo8",
@@ -955,7 +1371,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Lightning Talk: Efficient Inference Serving with Kubernetes Gateway API Inference Extension - Lin Sun, Solo.io & CNCF\n\nLarge Language Models (LLMs) have become the backbone of modern AI applications, but serving them efficiently and reliably at scale remains a major challenge. Traditional approaches to API serving, built around HTTP or gRPC traffic, do not adequately address the unique requirements of LLM inference workloads, such as variable prompt lengths, dynamic compute needs, the size and efficiency of the model.\n\nIn this session, we introduce an efficient and scalable stack for inference serving built on vLLM and the Kubernetes Gateway API Inference Extension. By combining vLLM’s optimized serving runtime with the smart routing of the Gateway API, we demonstrate how to achieve scalable and resource-efficient serving across heterogeneous LLMs in Kubernetes.",
+      "published_at": "2025-11-04T03:45:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "vX8i_ffDG9g": {
       "video_id": "vX8i_ffDG9g",
@@ -964,7 +1384,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Lightning Talk: Optimizing Model Inference with PyTorch 2.0 - Devansh Ghatak, Simplismart\n\nThis session will explore how to maximize inference performance in PyTorch 2.0 by combining dynamic compilation and CUDA graph capture techniques. We will cover practical strategies including Quantization, Ahead-of-Time (AOT) compilation, and the use of custom fused operators all of which are essential tools for achieving low-latency, production-grade deployments.",
+      "published_at": "2025-11-04T03:47:29Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "v_z5BqWi0aI": {
       "video_id": "v_z5BqWi0aI",
@@ -973,7 +1397,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Beyond the Node: Scaling Inference with Cluster-Wide KVCache Management - Alon Yariv, Crusoe.ai\n\nWhile open-source frameworks like vLLM have revolutionized LLM inference on a single node, managing inference at scale remains a challenge, especially managing the user specific assets, like KVCache. The Key-Value Cache (KVCache) bottleneck across a distributed cluster remains a significant challenge. This session presents a technical deep dive into the different architectures for a cluster-wide KVCache reuse and sharing. These solutions are designed to dramatically improve Time To First Token (TTFT) in large-scale serving environments.",
+      "published_at": "2025-11-04T03:45:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "w-A77TVr2fs": {
       "video_id": "w-A77TVr2fs",
@@ -982,7 +1410,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: Jeremy Howard, Founding Researcher at fast.ai in Conversation with Anna Tong, Reporter, Forbes",
+      "published_at": "2025-11-04T03:45:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "wDNfcv_fbWs": {
       "video_id": "wDNfcv_fbWs",
@@ -991,7 +1423,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Open Source Model Performance Optimization With SGLang - Yineng Zhang, Together AI\n\nSGLang is an open-source fast inference framework in the PyTorch ecosystem built for performant, flexible, extensible model serving. SGLang's growing popularity is in large part thanks to its community ethos and the participation of developers from around the world. Join this BoF session hosted by SGLang core maintainer Yineng Zhang to discuss the future of SGLang and learn how to get involved in the project.",
+      "published_at": "2025-11-04T03:47:29Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "wzgaGdcrPW0": {
       "video_id": "wzgaGdcrPW0",
@@ -1000,7 +1436,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: Enabling PyTorch’s Thousand Ops for Software First Silicon Design - Andrew Ling, Head of ML Compilers, Groq\n\nPyTorch has become the lingua franca of machine learning—its flexibility and expressiveness have fueled a decade of innovation across academia and industry. It is because PyTorch has enabled flexibility, has its popularity grown and enabled some of the best model development in the industry. While most users interact with only a few hundred core operations, the total number of supported ops is much larger and is supported by layers of lowerings, vendor rewrites, and kernel-specific fusions.\n\nIn an era where access to flops and compute has become the primary bottleneck to scaling machine learning, we must rethink the relationship between software and hardware. This talk makes the case that PyTorch sits at a critical inflection point. With its ecosystem maturity and broad adoption, PyTorch can not only simplify itself but also drive the next generation of silicon design—one that preserves flexibility and simplicity to machine learning and its stack.",
+      "published_at": "2025-11-04T03:45:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "x4BvgEzZjsI": {
       "video_id": "x4BvgEzZjsI",
@@ -1009,7 +1449,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Session: Fine Tune Your AI Toolbox with GitHub Copilot, Azure AI Foundry, & MCP - Sarah Kaiser, Microsoft\n\nThere is an increasingly wide range of AI tools that developers have access to, it can sometimes be overwhelming to understand how to best leverage them. In this session, you'll see a real-life example showing how these three tools can work together to enhance data workflows. All in VS Code, we'll use Copilot to start our project with Jupyter Notebooks, clean up the data, use MCP servers to provide tools for our Agents, and Azure AI Foundry to build and deploy models. This session is for everyone who is interested in leveraging AI developer tools at all stages of the development process.",
+      "published_at": "2025-11-04T03:47:29Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "xWjXsP1E5mQ": {
       "video_id": "xWjXsP1E5mQ",
@@ -1018,7 +1462,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Keynote: Recognizing the PyTorch Foundation CICD Infrastructure Community - Eli Uriegas, Staff Software Engineer, Meta\n\nEli Uriegas from Meta will present an update on the PyTorch Foundation CICD infrastructure community including recognizing all of the PyTorch Foundation’s key infrastructure contributors!",
+      "published_at": "2025-11-04T03:45:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "xYgP-vjFDi4": {
       "video_id": "xYgP-vjFDi4",
@@ -1027,7 +1475,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Sponsored Keynote: From Transactions to Transformers: Hardware Built for Enterprise AI - Christian Jacobi, Fellow and CTO, IBM Systems Development\n\nAI at enterprise scale isn’t just about building bigger models—it’s about running them with the reliability, security, and performance that mission-critical workloads demand. IBM Fellow Christian Jacobi will share how IBM Z, LinuxONE, Power, and Storage systems are bringing AI directly into business operations, powering everything from fraud detection to RAG pipelines. He will also highlight the Spyre Accelerator—a scalable PCIe card for AI expansion—and show how its integration with PyTorch is enabling the development of secure, efficient, and resilient AI systems at scale.",
+      "published_at": "2025-11-04T03:45:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "yUvAGaAROm4": {
       "video_id": "yUvAGaAROm4",
@@ -1036,7 +1488,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Leveraging PyTorch for Generative AI in Distributed Edge Clouds - Tina Tsou, TSC Chair of InfiniEdge AI (LF Edge) and TSC Member of OPEA (LF AI & Data)\n\nGenerative AI, particularly large language models (LLMs), has rapidly evolved, becoming instrumental in transforming industries. However, the integration and deployment of these models on distributed edge clouds present unique challenges and opportunities. In this talk, we will explore how PyTorch enables efficient development, deployment, and management of generative AI models on geo-distributed edge infrastructures. We will discuss the architecture, key optimizations, and practical insights drawn from deploying PyTorch-based LLMs in real-world edge scenarios. Attendees will gain valuable knowledge on scalability techniques, performance benchmarking, and best practices for ensuring efficient inference and real-time responsiveness at the edge.",
+      "published_at": "2025-11-04T03:45:07Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "yoJfYiodlos": {
       "video_id": "yoJfYiodlos",
@@ -1045,7 +1501,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "More than 3,000 developers, researchers, and innovators gathered in San Francisco for #PyTorchCon 2025. 2 days of keynotes, technical sessions, and community connection across the global AI ecosystem.\n\nThis recap video captures the collaboration and energy that defined this year’s event. Watch the highlights and explore all session recordings from the conference and co-located events below.\n\nWatch more from PyTorch Conference 2025:\n🖇️ PyTorch Conference Sessions: https://youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q\n\n📷 Open Agent Summit: https://youtube.com/playlist?list=PL_lsbAsL_o2DOrjInFJM13UlgR1yaMVdc\n\n💡 Measuring Intelligence Summit: https://youtube.com/playlist?list=PL_lsbAsL_o2BzTJK8AMHjpgXQmqmTis2Y\n\n🎬 AI Infra Summit: https://youtube.com/playlist?list=PL_lsbAsL_o2AxTov75-rA39hcZEYWOMH_&si=6XCkm3yP8oxhMUeS\n\nThank you to our Planning Committee, Program Chairs, Program Committee, and Sponsors for making PyTorch Conference 2025 possible.\n\nLearn more about the people and organizations who made this year’s event happen:\nhttps://events.linuxfoundation.org/pytorch-conference/program/meet-the-committees/",
+      "published_at": "2025-11-10T21:57:34Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "yoWC2gRxylU": {
       "video_id": "yoWC2gRxylU",
@@ -1054,7 +1514,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "Lightning Talk: KernelBot: The World's First Competitive GPU Programming Platform - Mark Saroufim, Meta\n\nKernelBot is a competitive platform that showcases the power of community-driven innovation, hosted on GPU MODE's vibrant ecosystem of 17K developers. Our platform democratizes state-of-the-art kernel authoring by bringing together GPU programmers from diverse backgrounds to collaboratively push the boundaries of performance optimization. What began as an effort to aggregate high-quality kernel tokens for LLM code generation has evolved into a thriving community movement with over 25K submissions and $100K in prizepools, where community contributors are now outperforming optimized commercial baselines.\n\nThe success of this vendor-neutral platform stems from our commitment to making cutting-edge kernel development accessible to everyone. Community members leverage our fast PyTorch cold starts to iterate rapidly while we maintain minimal infrastructure barriers. By standardizing on PyTorch tensors as inputs, we've created a common foundation that allows the fastest libraries to shine regardless of their origin.\nOur community's achievements extend beyond individual competitions—we're open-sourcing the top-performing kernels so the entire ecosystem can learn from these innovations.",
+      "published_at": "2025-11-04T03:45:47Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     },
     "zvoi3rRc6VI": {
       "video_id": "zvoi3rRc6VI",
@@ -1063,7 +1527,11 @@
       "channel": "PyTorch",
       "label": "PyTorch Conference 2025",
       "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "description": "SPDX: Tackling System Risk in Modern Supply Chains - Kate Stewart, The Linux Foundation & Gary O'Neall, Source Auditor Inc.\n\nSPDX's initial focus was on making the licensing of software transparent 15 years ago, but as our supply chain risks have increased exponentially and AI technologies have become mainstream, the underlying need for transparency to do proper risk management is even more important.  Over the last few years with the introduction of SPDX 3.0, SPDX is now able to focus on making all the elements of an AI system transparent.  \n\nThis talk will go through the key aspects in SPDX 3.0 that enable AI systems and the data used to train the systems to be made transparent, so proper system level risk analysis for licensing, security, and data biases in model training can be performed.\n\nWe will also provide a peek at what is emerging in SPDX 3.1 that will help extend the risks that can be modeled in a single knowledge graph, that can be exported into Bills of Materials (BOMs) for different perspectives (Software/SBOM, AI/AIBOM, Data/DBOM, Hardware/HBOM).",
+      "published_at": "2025-11-04T03:48:14Z",
+      "tags": [],
+      "details_at": "2026-09-06T13:24:03+00:00"
     }
   }
 }

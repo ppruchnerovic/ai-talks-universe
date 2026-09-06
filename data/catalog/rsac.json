@@ -1,7 +1,7 @@
 {
   "slug": "rsac",
   "name": "RSAC Conference",
-  "enumerated_at": "2026-08-30T21:48:35+00:00",
+  "enumerated_at": "2026-09-06T13:22:11+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@OneRSAC/videos",
@@ -16,10 +16,20 @@
       "video_id": "-7gtEQ9iswA",
       "title": "Exposure Management: The New Cyber Risk Strategy | Mark Thurmond, Tenable | RSAC 2025 Keynote",
       "duration_s": 1556,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "The old cybersecurity model is broken. This Keynote from Mark Thurmond, COO & Co-CEO, Tenable, introduces exposure management as the new formula for proactive cyber defense. Learn how integrating attack surface data, vendor tools, and AI can stop threats before breaches happen.\n\n#ExposureManagement #CyberRisk #AttackSurface #AIinSecurity #ThreatPrevention #RSAC2025 #CyberStrategy #Tenable #MarkThurmond",
+      "published_at": "2025-05-01T01:28:22Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "-ADTFaocwX0": {
       "video_id": "-ADTFaocwX0",
@@ -128,10 +138,20 @@
       "video_id": "0Hmf5wLJ1yg",
       "title": "RunSybil — RSAC™ 2025 Launch Pad",
       "duration_s": 294,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "RunSybil pitches at the RSAC™ 2025 Conference Launch Pad.\n\nBehind every great cybersecurity company is a stroke of genius that started it all. It can happen anywhere—at the kitchen table, in the garage, or in a computer lab at university. But when it comes to getting those ideas off the ground, there’s no better place than RSAC™ Launch Pad.\n\nRSAC™ Launch Pad is the place to watch new innovations unfold before your eyes. From nascent ideas to solutions on the cusp of being the next big thing, three finalists pitch their bold ideas Shark Tank®-style to industry veterans for strategy advice and community awareness.\n\nhttps://www.rsaconference.com/usa/programs/launch-pad",
+      "published_at": "2025-05-01T03:49:07Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "0OgXZRl9lJg": {
       "video_id": "0OgXZRl9lJg",
@@ -238,19 +258,41 @@
       "video_id": "0deXO-qQ_7Q",
       "title": "What Threat Intelligence Tells us about Cybercriminals | RSAC 2025 Conference",
       "duration_s": 138,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "From the Dutch Marine Corps to Head of Threat Intelligence at Trellix, John Fokker will dive deep into the latest global threat intelligence to show how the collective cybersecurity community can utilize shared knowledge to take down nation-state adversaries.\n \nFind Keynote details here: https://path.rsaconference.com/flow/rsac/us25/FullAgenda/page/catalog/session/1737838994855001G0ou\n \n#threatintelligence #nationstateactor #APT",
+      "published_at": "2025-03-27T21:55:40Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "0jBGrnhnHUM": {
       "video_id": "0jBGrnhnHUM",
       "title": "Unveiling the 2024 Data Breach Investigations Report (DBIR)",
       "duration_s": 3008,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenter: Chris Novak, Sr. Director, Cyber Security Consulting, Verizon\n\nAs the digital landscape continues to evolve, the necessity of understanding and mitigating cybersecurity threats has become paramount. The unveiling of this year's DBIR will take place at RSAC, being the first session on its findings and recommendations. Join to learn how the landscape has evolved, a view into the role GenAI is playing in cybersecurity, and the impacts of geopolitical tensions.\n\nhttps://www.rsaconference.com/usa",
+      "published_at": "2024-06-10T21:15:20Z",
+      "tags": [
+        "rsa",
+        "rsaconference",
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "0ne4TdlqBt8": {
       "video_id": "0ne4TdlqBt8",
@@ -361,10 +403,22 @@
       "video_id": "1_Bs3Qtnwz8",
       "title": "Witness Tomorrow's Biggest, Boldest Ideas at RSA Conference 2025",
       "duration_s": 31,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Register today!\nhttps://RSAConference.com/reg\n\nCybersecurity is evolving rapidly, driven by groundbreaking innovations that reshape what's possible. RSA Conference innovation programs bring tomorrow’s most exciting ideas to life. Get an up-close look at the cutting-edge technology and diverse talent transforming the industry. From thrilling competitions and interactive experiences to expert-led panels, these programs offer professionals a unique opportunity to engage with and explore the cybersecurity solutions of today and tomorrow.\n\n#FutureOfCybersecurity\n#TechInnovation\n#CyberTrends2025\n#RSAC",
+      "published_at": "2025-01-29T20:02:27Z",
+      "tags": [
+        "rsa",
+        "rsaconference",
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "1lN1Pj_USUQ": {
       "video_id": "1lN1Pj_USUQ",
@@ -412,10 +466,20 @@
       "video_id": "1vvURjFyI-U",
       "title": "Winner Announcement — RSAC™ 2025 Conference Innovation Sandbox",
       "duration_s": 575,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Following the Top 10's three-minute pitches, our judges discuss the deliberation that took place and ultimately announce the winner of the RSAC™ 2025 Innovation Sandbox Contest.\n\nRSAC™ 2025 marks 20 years for cybersecurity’s top innovation startup competition: RSAC™ Innovation Sandbox contest. The contest puts the spotlight on cybersecurity’s boldest new innovators while highlighting their potentially game-changing ideas.\n\nHundreds of submissions are reviewed and narrowed down to only 10 finalists. The Top 10 Finalists will take the stage during RSAC™ 2025 and will have three minutes to make their award-winning pitch to a panel of leading industry experts. Since the start of the contest, the Top 10 Finalists have collectively seen over 90 acquisitions and over $16.4 billion in investments.\n\nThe Top 10 Finalists were carefully chosen by a judging panel of industry veterans, and this year’s competition included many strong contenders. The RSAC Team and ISB judging panel would like to thank all of the startups who submitted. This year’s competition featured the most impressive pool of submissions that we’ve seen over the last 20 years.",
+      "published_at": "2025-04-28T21:20:59Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "2DqsxSJM1mI": {
       "video_id": "2DqsxSJM1mI",
@@ -480,19 +544,39 @@
       "video_id": "309YnMS06xw",
       "title": "RSAC™ 2025 Conference - Recap",
       "duration_s": 763,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Britta Glade, Senior Vice President, Content & Communities, RSAC, and Hugh Thompson, Executive Chairman, RSAC & Program Committee Chair, RSAC™ Conference, reflect on the week of Conference and chat about all the captivating moments that had everyone talking.\n\nhttps://www.rsaconference.com/usa",
+      "published_at": "2025-05-01T23:35:30Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "31x3YQ18tmI": {
       "video_id": "31x3YQ18tmI",
       "title": "Security in the Age of Agentic AI | Vasu Jakkal, Microsoft Security | RSAC 2025",
       "duration_s": 1181,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Agentic AI is reshaping cybersecurity—once science fiction, now reality. In this visionary Keynote, Vasu Jakkal dives into the future of AI-powered security agents and how they will transform threat defense, collaboration, and learning. Discover how agentic workflows will redefine the cybersecurity landscape.\n\n#AgenticAI #AIinSecurity #VasuJakkal #CyberFuture #AIWorkflows #SecurityAgents #RSAC2025 #CyberInnovation #MicrosoftSecurity",
+      "published_at": "2025-04-29T03:57:22Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "39iRUMJONdU": {
       "video_id": "39iRUMJONdU",
@@ -1115,19 +1199,39 @@
       "video_id": "9OTKkOrPoR0",
       "title": "The Future of Threat Detection and Response | Mike Horn, Splunk & Tom Gillis, Cisco | RSAC 2025",
       "duration_s": 1193,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "With threats growing more complex and the attack surface expanding, how can modern security teams keep up? In this Keynote, discover how AI-powered solutions are transforming threat detection and incident response. Learn how to empower your SOC, strengthen infrastructure security, and stay ahead of cyber risks.\n\n#ThreatDetection #CyberDefense #AIinSecurity #SOC #Cybersecurity #RSAC2025 #RiskManagement #InfrastructureSecurity #Splunk #Cisco #MikeHorn #TomGillis",
+      "published_at": "2025-04-30T20:20:24Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "9SAm7DVjq7M": {
       "video_id": "9SAm7DVjq7M",
       "title": "RSAC™ 2025 Conference Quick Look—Multi-District Litigation—Navigating the 2020 Ransomware Experience",
       "duration_s": 110,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenters:\nJon Olson, Senior Vice President & General Counsel, Blackbaud, Inc.\nRon Raether, Partner, Troutman Pepper Locke\n\nThis Quick Look provides a short preview of the full session at RSAC™ 2025 Conference, now available on demand. This fireside chat will discuss managing Multi-District Litigation (MDL) following a high-profile cybersecurity incident. Learn about litigation management, regulatory coordination, and public relations strategies. Gain insights on preparing for data breaches and proactive incident response. Hear firsthand experiences on the value of collaboration.\n\nhttps://portal.onersac.com/library/8F08F46F2EC4465A821DD56FD8E03A01",
+      "published_at": "2025-04-18T19:42:03Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "9hJDc971Bvk": {
       "video_id": "9hJDc971Bvk",
@@ -1175,10 +1279,20 @@
       "video_id": "AJgOIK4Eklc",
       "title": "Cybersecurity Together: Unlocking the Power of Community | Hugh Thompson, RSAC | RSAC 2025",
       "duration_s": 1499,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "In cybersecurity, collaboration is the ultimate multiplier. This RSAC 2025 keynote from RSAC’s Hugh Thompson dives into the power of community—how shared knowledge, mentorship, and connection drive innovation and resilience across the industry. Discover why the future of security is built together.\n\n#CybersecurityTogether #CyberCommunity #InfoSec #CollaborationInCyber #Mentorship #RSAC2025 #SecurityInnovation #HughThompson #RSAC",
+      "published_at": "2025-04-29T03:47:48Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "AKtjTVHj9YI": {
       "video_id": "AKtjTVHj9YI",
@@ -1266,10 +1380,20 @@
       "video_id": "B01aOV4ZkbI",
       "title": "Command Zero — RSAC™ 2025 Conference Innovation Sandbox",
       "duration_s": 221,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Dov Yoran, Founder & CEO, CommandZero, pitches at the RSAC™ 2025 Conference Innovation Sandbox.\n\nRSAC™ 2025 marks 20 years for cybersecurity’s top innovation startup competition: RSAC™ Innovation Sandbox contest. The contest puts the spotlight on cybersecurity’s boldest new innovators while highlighting their potentially game-changing ideas.\n\nHundreds of submissions are reviewed and narrowed down to only 10 finalists. The Top 10 Finalists will take the stage during RSAC™ 2025 and will have three minutes to make their award-winning pitch to a panel of leading industry experts. Since the start of the contest, the Top 10 Finalists have collectively seen over 90 acquisitions and over $16.4 billion in investments.\n\nThe Top 10 Finalists were carefully chosen by a judging panel of industry veterans, and this year’s competition included many strong contenders. The RSAC Team and ISB judging panel would like to thank all of the startups who submitted. This year’s competition featured the most impressive pool of submissions that we’ve seen over the last 20 years.",
+      "published_at": "2025-04-28T21:17:14Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "B9I-TdVBGuI": {
       "video_id": "B9I-TdVBGuI",
@@ -1559,10 +1683,22 @@
       "video_id": "Ds7U6kck0n4",
       "title": "All Eyes Are on RSA Conference 2025",
       "duration_s": 31,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Register today!\nhttps://RSAConference.com/reg\n\nGet ready for an unparalleled experience where the future of cybersecurity comes to life. From fresh, cutting-edge insights to hands-on solutions, RSA Conference 2025 is where the cybersecurity community unites to connect, collaborate, and innovate. Discover tomorrow’s game-changing ideas, engage with the brightest minds in the industry, and experience the latest technologies in action. Whether you're looking to stay ahead of the curve or be part of the next big breakthrough, this is an event you can't afford to miss. Register today and be part of the biggest cybersecurity event of the year!\n\n#FutureOfCybersecurity\n#TechInnovation\n#CyberTrends2025\n#RSAC",
+      "published_at": "2025-01-29T20:02:31Z",
+      "tags": [
+        "rsa",
+        "rsaconference",
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "EIJPdx-56EU": {
       "video_id": "EIJPdx-56EU",
@@ -1688,10 +1824,20 @@
       "video_id": "FcoTyoEVGvI",
       "title": "NYSE Bell Rings at RSAC 2025 Conference | Celebrating Innovation in Cybersecurity",
       "duration_s": 68,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Watch as the New York Stock Exchange (NYSE) honors RSAC 2025 Conference, the world’s leading platform for uniting and advancing the cybersecurity community, with the iconic bell ringing ceremony live from San Francisco, CA on April 28, 2025. This special moment highlights the growing importance of cyber innovation, digital resilience, and the leaders shaping the future of tech security.\n\nJoin top minds in cybersecurity, tech policy, ethical hacking, and cyber defense as we celebrate a new era of digital trust and transformation. This historic event marks a milestone for the global infosec community—uniting enterprise leaders, founders, CISOs, and public sector champions.\n\n#Cybersecurity #NYSE #TechConference #Infosec #DigitalTrust",
+      "published_at": "2025-05-14T19:35:58Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "FgcnrOwHZdc": {
       "video_id": "FgcnrOwHZdc",
@@ -2078,10 +2224,20 @@
       "video_id": "IAhU1AAqxcY",
       "title": "AI and Cybersecurity | Sandra Joyce, Google Cloud & Mohamed Al Kuwaiti, UAE | RSAC 2025",
       "duration_s": 1100,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "No more speculation—this Keynote delivers the real story of AI in cybersecurity. Join Sandra Joyce of Google Cloud and Mohamed Al Kuwaiti, Head of Cyber Security for the UAE, as they share data-driven insights from actual incident response engagements and reveals how attackers are using tools like Gemini. Understand what AI means for both attackers and defenders—today and in the future.\n\n#AIinCybersecurity #SandraJoyce #GoogleCloud #CyberDefense #GeminiAI #IncidentResponse #RSAC2025 #CyberThreats #MohamedAlKuwaiti #UAE",
+      "published_at": "2025-04-29T20:46:14Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "IGWVGw8tzbM": {
       "video_id": "IGWVGw8tzbM",
@@ -2396,10 +2552,20 @@
       "video_id": "KPlP_pio1ms",
       "title": "Global Cyber Policy | Inglis (MITRE) & Keast-Butler (GCHQ) | RSAC 2025",
       "duration_s": 3035,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Cyber threats don’t respect borders—and neither should our defenses. In this powerful fireside chat, Chris Inglis, former U.S. National Cyber Director, discusses global cybersecurity cooperation and policy with a top international government official, Anne Keast-Butler, Government Communications Headquarters (GCHQ), United Kingdom. Don’t miss these high-level insights on shaping the future of digital security.\n\n#ChrisInglis #CyberPolicy #CybersecurityLeadership #GlobalCyberDefense #CyberDiplomacy #RSAC2025 #GovernmentCyberInsights #MITRE #GCHQ",
+      "published_at": "2025-06-02T16:54:17Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "K_A9UJfOXMI": {
       "video_id": "K_A9UJfOXMI",
@@ -2424,10 +2590,20 @@
       "video_id": "KjVdpuQ052I",
       "title": "RSAC™ 2025 Conference Quick Look—Suspicious Minds—Hunting Threats that Don't Trigger Security Alerts",
       "duration_s": 67,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenter: Etay Maor, Chief Security Strategist, Cato Networks\n\nThis Quick Look provides a short preview of the full session at RSAC™ 2025 Conference, now available on demand. In this session we will dive into the different approaches threat actors have been implementing to avoid detection by security controls. To do this, speakers will look at how enterprises can hunt and triage suspicious activities across the network, cloud, and endpoint – those events that by themselves may be benign but when closely inspected reveal the attack vector.\n\nhttps://portal.onersac.com/library/506FB16EA19042888402C973399D07D9",
+      "published_at": "2025-04-08T20:16:57Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "Kq06H1raah0": {
       "video_id": "Kq06H1raah0",
@@ -2473,10 +2649,20 @@
       "video_id": "L41GQZODSek",
       "title": "Knostic — RSAC™ 2025 Conference Innovation Sandbox",
       "duration_s": 234,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Gadi Evron, Founder & CEO, Knostic, pitches at the RSAC™ 2025 Conference Innovation Sandbox.\n\nRSAC™ 2025 marks 20 years for cybersecurity’s top innovation startup competition: RSAC™ Innovation Sandbox contest. The contest puts the spotlight on cybersecurity’s boldest new innovators while highlighting their potentially game-changing ideas.\n\nHundreds of submissions are reviewed and narrowed down to only 10 finalists. The Top 10 Finalists will take the stage during RSAC™ 2025 and will have three minutes to make their award-winning pitch to a panel of leading industry experts. Since the start of the contest, the Top 10 Finalists have collectively seen over 90 acquisitions and over $16.4 billion in investments.\n\nThe Top 10 Finalists were carefully chosen by a judging panel of industry veterans, and this year’s competition included many strong contenders. The RSAC Team and ISB judging panel would like to thank all of the startups who submitted. This year’s competition featured the most impressive pool of submissions that we’ve seen over the last 20 years.",
+      "published_at": "2025-04-28T21:15:04Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "LulAQppnepQ": {
       "video_id": "LulAQppnepQ",
@@ -2562,10 +2748,22 @@
       "video_id": "Mj4B7eaVDTk",
       "title": "Geopolitics and Cyber Risk in 2024 and Beyond",
       "duration_s": 2952,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenters:\nSarah Cleveland, ExtraHop\nLior Div, seven ai\nBilyana Lilly, Warsaw Security Forum\n\nThis session will bring together experts at the intersection of national security, cybersecurity, and international relations to give security leaders a crash course in geopolitics and its impact on cybersecurity. Attendees will get “intelligence briefings” on three major world conflicts and their implications for cybersecurity.\n\nhttps://www.rsaconference.com/usa",
+      "published_at": "2024-06-10T21:15:25Z",
+      "tags": [
+        "rsa",
+        "rsaconference",
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "MvltkCp6FdQ": {
       "video_id": "MvltkCp6FdQ",
@@ -2792,10 +2990,20 @@
       "video_id": "OdwHlxIaaWY",
       "title": "EQTY Lab — RSAC™ 2025 Conference Innovation Sandbox",
       "duration_s": 225,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Jonathan Dotan, Founder & CEO, EQTY Lab AG, pitches at the RSAC™ 2025 Conference Innovation Sandbox.\n\nRSAC™ 2025 marks 20 years for cybersecurity’s top innovation startup competition: RSAC™ Innovation Sandbox contest. The contest puts the spotlight on cybersecurity’s boldest new innovators while highlighting their potentially game-changing ideas.\n\nHundreds of submissions are reviewed and narrowed down to only 10 finalists. The Top 10 Finalists will take the stage during RSAC™ 2025 and will have three minutes to make their award-winning pitch to a panel of leading industry experts. Since the start of the contest, the Top 10 Finalists have collectively seen over 90 acquisitions and over $16.4 billion in investments.\n\nThe Top 10 Finalists were carefully chosen by a judging panel of industry veterans, and this year’s competition included many strong contenders. The RSAC Team and ISB judging panel would like to thank all of the startups who submitted. This year’s competition featured the most impressive pool of submissions that we’ve seen over the last 20 years.",
+      "published_at": "2025-04-28T21:16:09Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "Ogv4QlSZhYs": {
       "video_id": "Ogv4QlSZhYs",
@@ -2841,19 +3049,39 @@
       "video_id": "OvACQBaH4PQ",
       "title": "AI-Driven Threat Intelligence for Proactive Cybersecurity | RSAC 2025 Conference",
       "duration_s": 125,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "AI-powered threat intelligence shifts cybersecurity operations from reactive to proactive. Armis CTO & Co-Founder Nadir Izrael will outline the ways in which global collaboration assisted by AI can enable cyber teams to stop threat actors before the onset of an attack at RSAC 2025 Conference.  \n \nFind Keynote details here: https://path.rsaconference.com/flow/rsac/us25/FullAgenda/page/catalog/session/1736867818178001qkW7\n \n#threatintelligence #AI #criticalinfrastructure",
+      "published_at": "2025-03-25T16:52:42Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "Oxstkzpwa_s": {
       "video_id": "Oxstkzpwa_s",
       "title": "MIND — RSAC™ 2025 Conference Innovation Sandbox",
       "duration_s": 226,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Eran Barak, Co-Founder & CEO, MIND, pitches at the RSAC™ 2025 Conference Innovation Sandbox.\n\nRSAC™ 2025 marks 20 years for cybersecurity’s top innovation startup competition: RSAC™ Innovation Sandbox contest. The contest puts the spotlight on cybersecurity’s boldest new innovators while highlighting their potentially game-changing ideas.\n\nHundreds of submissions are reviewed and narrowed down to only 10 finalists. The Top 10 Finalists will take the stage during RSAC™ 2025 and will have three minutes to make their award-winning pitch to a panel of leading industry experts. Since the start of the contest, the Top 10 Finalists have collectively seen over 90 acquisitions and over $16.4 billion in investments.\n\nThe Top 10 Finalists were carefully chosen by a judging panel of industry veterans, and this year’s competition included many strong contenders. The RSAC Team and ISB judging panel would like to thank all of the startups who submitted. This year’s competition featured the most impressive pool of submissions that we’ve seen over the last 20 years.",
+      "published_at": "2025-04-28T21:13:04Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "PGZVOiWIwzU": {
       "video_id": "PGZVOiWIwzU",
@@ -2983,10 +3211,20 @@
       "video_id": "Pkbbm5fsv-Y",
       "title": "RSAC 2025 Conference Recap | \"Many Voices. One Community.\" | Highlights from San Francisco",
       "duration_s": 167,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Join us as we look back at an unforgettable week at RSAC 2025 Conference, where the cybersecurity world gathered under a powerful theme: Many Voices. One Community. With a campus spanning the Moscone Center, Yerba Buena Center for the Arts (YBCA), and Blue Shield of California Theater at YBCA in San Francisco, this year's RSAC Conference brought together nearly 44,000 thought leaders, industry experts, and innovators from across the globe.\n\nWatch this recap for a glimpse at unforgettable Keynotes from top cybersecurity experts, dynamic and insightful sessions across 30+ tracks, a buzzing Expo with cutting-edge solutions and technologies, and much more.\n\n#RSAC2025 #RSACConference #Cybersecurity #CyberInnovation #CybersecurityConference #TechEvents",
+      "published_at": "2025-05-22T20:29:24Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "Pr_t1_PeZ20": {
       "video_id": "Pr_t1_PeZ20",
@@ -3171,10 +3409,22 @@
       "video_id": "Rc-1wE79mu8",
       "title": "The Importance of Identity-Centric Security in 2024",
       "duration_s": 3167,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenter: Vivin Sathyan, ManageEngine\n\nIn 2024, a pivotal moment in cybersecurity will emphasize identity-centric security. As technology evolves and threats grow, organizations prioritize safeguarding digital identities. This model protects sensitive information, curbs unauthorized access, and tackles data privacy concerns. With remote work and multi-cloud adoption on the rise, the need for robust identity-centric security is paramount.\n\nhttps://www.rsaconference.com/usa",
+      "published_at": "2024-06-10T21:12:23Z",
+      "tags": [
+        "rsa",
+        "rsaconference",
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "Rqhep8zkAuE": {
       "video_id": "Rqhep8zkAuE",
@@ -3220,10 +3470,20 @@
       "video_id": "RwY3w7Phobo",
       "title": "The Hacking Games — RSAC™ 2025 Launch Pad",
       "duration_s": 355,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "The Hacking Games pitches at the RSAC™ 2025 Conference Launch Pad.\n\nBehind every great cybersecurity company is a stroke of genius that started it all. It can happen anywhere—at the kitchen table, in the garage, or in a computer lab at university. But when it comes to getting those ideas off the ground, there’s no better place than RSAC™ Launch Pad.\n\nRSAC™ Launch Pad is the place to watch new innovations unfold before your eyes. From nascent ideas to solutions on the cusp of being the next big thing, three finalists pitch their bold ideas Shark Tank®-style to industry veterans for strategy advice and community awareness.\n\nhttps://www.rsaconference.com/usa/programs/launch-pad",
+      "published_at": "2025-05-01T03:47:38Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "Rz_lvK0hRxg": {
       "video_id": "Rz_lvK0hRxg",
@@ -3454,10 +3714,20 @@
       "video_id": "TcNJa1NegI0",
       "title": "Blue41 — RSAC™ 2025 Launch Pad",
       "duration_s": 317,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Blue41 pitches at the RSAC™ 2025 Conference Launch Pad.\n\nBehind every great cybersecurity company is a stroke of genius that started it all. It can happen anywhere—at the kitchen table, in the garage, or in a computer lab at university. But when it comes to getting those ideas off the ground, there’s no better place than RSAC™ Launch Pad.\n\nRSAC™ Launch Pad is the place to watch new innovations unfold before your eyes. From nascent ideas to solutions on the cusp of being the next big thing, three finalists pitch their bold ideas Shark Tank®-style to industry veterans for strategy advice and community awareness.\n\nhttps://www.rsaconference.com/usa/programs/launch-pad",
+      "published_at": "2025-05-01T03:50:32Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "Tcoqqhmm6_4": {
       "video_id": "Tcoqqhmm6_4",
@@ -4223,10 +4493,20 @@
       "video_id": "XvelBDaeTN4",
       "title": "Smallstep — RSAC™ 2025 Conference Innovation Sandbox",
       "duration_s": 223,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Michael Malone, Founder & CEO, Smallstep, pitches at the RSAC™ 2025 Conference Innovation Sandbox.\n\nRSAC™ 2025 marks 20 years for cybersecurity’s top innovation startup competition: RSAC™ Innovation Sandbox contest. The contest puts the spotlight on cybersecurity’s boldest new innovators while highlighting their potentially game-changing ideas.\n\nHundreds of submissions are reviewed and narrowed down to only 10 finalists. The Top 10 Finalists will take the stage during RSAC™ 2025 and will have three minutes to make their award-winning pitch to a panel of leading industry experts. Since the start of the contest, the Top 10 Finalists have collectively seen over 90 acquisitions and over $16.4 billion in investments.\n\nThe Top 10 Finalists were carefully chosen by a judging panel of industry veterans, and this year’s competition included many strong contenders. The RSAC Team and ISB judging panel would like to thank all of the startups who submitted. This year’s competition featured the most impressive pool of submissions that we’ve seen over the last 20 years.",
+      "published_at": "2025-04-28T21:10:08Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "YUttAWwSxT4": {
       "video_id": "YUttAWwSxT4",
@@ -4253,19 +4533,39 @@
       "video_id": "YiIvCs4beA4",
       "title": "Outpace Cyber Threats with Agentic AI + Human Ingenuity | Tomer Weingarten, SentinelOne | RSAC 2025",
       "duration_s": 1014,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Global cyber threats are evolving faster than ever. SentinelOne CEO Tomer Weingarten explores how Agentic AI is reshaping security operations by amplifying human capabilities. Learn how SOCs can stay ahead of modern threats and build resilient cyber defenses.\n\n#Cybersecurity #AgenticAI #TomerWeingarten #SentinelOne #SecOps #SOC #RSAC2025 #ThreatIntelligence",
+      "published_at": "2025-04-30T00:11:37Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "YnQz_qKTbj8": {
       "video_id": "YnQz_qKTbj8",
       "title": "Aurascape — RSA Conference 2025 Innovation Sandbox",
       "duration_s": 221,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Moinul Khan, Co-Founder & CEO, Aurascape, pitches at the RSAC™ 2025 Conference Innovation Sandbox.\n\nRSAC™ 2025 marks 20 years for cybersecurity’s top innovation startup competition: RSAC™ Innovation Sandbox contest. The contest puts the spotlight on cybersecurity’s boldest new innovators while highlighting their potentially game-changing ideas.\n\nHundreds of submissions are reviewed and narrowed down to only 10 finalists. The Top 10 Finalists will take the stage during RSAC™ 2025 and will have three minutes to make their award-winning pitch to a panel of leading industry experts. Since the start of the contest, the Top 10 Finalists have collectively seen over 90 acquisitions and over $16.4 billion in investments.\n\nThe Top 10 Finalists were carefully chosen by a judging panel of industry veterans, and this year’s competition included many strong contenders. The RSAC Team and ISB judging panel would like to thank all of the startups who submitted. This year’s competition featured the most impressive pool of submissions that we’ve seen over the last 20 years.",
+      "published_at": "2025-04-28T21:19:50Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "Z-PIPW8khKc": {
       "video_id": "Z-PIPW8khKc",
@@ -4292,10 +4592,20 @@
       "video_id": "Z4Bzr3Ii2E0",
       "title": "RSAC™ 2025 Conference Quick Look: Secure by Design: Are We Winning?",
       "duration_s": 126,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenters:\nJason Healey, Senior Research Scholar, Columbia University School of Intl and Public Affairs\nChris Wysopal, Co-Founder & Chief Security Evangelist, Veracode\n\nThis Quick Look provides a short preview of the full session at RSAC™ 2025 Conference, now available on demand. Two years ago, CISA launched its Secure by Design campaign. At the time industry research found that 70% of applications had an OWASP Top 10 security flaw. The question now is are we winning? This session will present new data that shows how many applications have flaws that map to the OWASP Top 10 with a breakdown to illustrate where companies are making progress and where they’re not.\n\nhttps://portal.onersac.com/library/022F8281C25C484FB168FC3184C3B6B4",
+      "published_at": "2025-04-14T15:44:27Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "ZEfiSS8C-U8": {
       "video_id": "ZEfiSS8C-U8",
@@ -4362,10 +4672,20 @@
       "video_id": "_2e6bKSzprQ",
       "title": "Solving for Modern Operational Cyber Challenges to Reduce Risk | RSAC 2025 Conference",
       "duration_s": 144,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "We need to understand where true organizational cyber risk resides to address and remediate it as quickly as possible. In this RSAC 2025 Conference Keynote, Tenable Chief Operating Officer & Co-CEO Mark Thurmond will outline the future of risk reduction through exposure management to proactively identify and stop vulnerabilities before they become data breaches.\n \nFind Keynote details here: https://path.rsaconference.com/flow/rsac/us25/FullAgenda/page/catalog/session/1739490101605001lVsw\n \n#AIremediation #databreach #cyberoperations",
+      "published_at": "2025-04-01T15:12:39Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "_JQC6uJ0iY4": {
       "video_id": "_JQC6uJ0iY4",
@@ -4455,10 +4775,20 @@
       "video_id": "_WWXBCj7KQ8",
       "title": "RSAC™ 2025 Conference Quick Look: Protecting the Digital Community: A Scam Awareness Playbook",
       "duration_s": 56,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenter: Ayelet Biger-Levin, CEO, RangersAI\n\nThis Quick Look provides a short preview of the full session at RSAC™ 2025 Conference, now available on demand. Online scams are a growing threat, affecting people of all ages globally. This session will explore how scams work, the latest research and numbers, and why everyone is vulnerable. Through interactive data hunting, attendees will test their ability to spot scams and leave with a toolkit of key principles and empathetic strategies to educate and protect their communities.\n\nhttps://portal.onersac.com/library/7C91BBB485504D849349E284D63B5A02",
+      "published_at": "2025-04-15T23:03:06Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "_g7Qwfw22cI": {
       "video_id": "_g7Qwfw22cI",
@@ -4609,10 +4939,20 @@
       "video_id": "aspQ4FFMxNA",
       "title": "RSAC™ 2025 Conference Quick Look—Older & Online—How to Stay Safe in a Quickly Changing Digital World",
       "duration_s": 101,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenter: Kerry Tomlinson, Editor in Chief, Ampyx News\n\nThis Quick Look provides a short preview of the full session at RSAC™ 2025 Conference, now available on demand. Technology transforms our lives, but it can be hard to keep up—especially for those who grew up without laptops and mobile phones. This session will look at strategies for protecting older people from social engineering and cyberattacks on their phones and the social media they use to stay connected. Will also share tactics to teach seniors to protect themselves when no one else is there to help.\n\nhttps://portal.onersac.com/library/1217093AB8724DC2AA59A61B4C385832",
+      "published_at": "2025-04-25T19:35:32Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "awKwbk5LM1I": {
       "video_id": "awKwbk5LM1I",
@@ -4679,19 +5019,41 @@
       "video_id": "bBh3eU9b8s4",
       "title": "RSAC™ 2025 Conference Quick Look: Adversarial Illusions in Multi-Modal Embeddings",
       "duration_s": 88,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenter: Tingwei Zhang, PhD Student, Cornell Tech\n\nThis Quick Look provides a short preview of the full session at RSAC™ 2025 Conference, now available on demand. Multi-modal embeddings encode texts, images, thermal images, sounds, and videos into a single embedding space, aligning representations across different modalities (e.g., associate an image of a dog with a barking sound). In this presentation, we show that multi-modal embeddings can be vulnerable to an attack we call \"adversarial illusions.\" Given an image or a sound, an adversary can perturb it to make its embedding close to an arbitrary, adversary-chosen input in another modality.\n\nhttps://portal.onersac.com/library/038980C8B7F64476B32259D6733C1EC8",
+      "published_at": "2025-04-25T19:35:38Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "bFgGEUd1Zmc": {
       "video_id": "bFgGEUd1Zmc",
       "title": "From Boardrooms to Polling Places: Securing Critical Infrastructure in 2024",
       "duration_s": 1988,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenter: Nadir Izrael, Armis\n\nWith geopolitical wars continuing globally, elections in 50+ countries, and cybercriminals enhancing their capabilities with AI, organizations, and governments are in the crosshairs of exponential threats. This session covers why AI-powered asset intelligence is critical to proactively strengthening defensive cybersecurity postures to protect entire attack surfaces and manage cyber risk exposure.\n\nhttps://www.rsaconference.com/usa",
+      "published_at": "2024-06-10T21:12:25Z",
+      "tags": [
+        "rsa",
+        "rsaconference",
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "bSWZ8kDRieE": {
       "video_id": "bSWZ8kDRieE",
@@ -5242,10 +5604,22 @@
       "video_id": "fNHkImf2qsY",
       "title": "State of the CISO 2024: Doing More With Less",
       "duration_s": 2917,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenters:\nNicholas Kakolowski, IANS Research\nSteve Martano, Artico Search\n\nTightening budgets, a more complex threat environment, advanced AI tools, new regulatory mandates, and increased anxiety bring CISOs a unique mix of challenges and opportunities. Join the session to unpack the latest IANS & Artico Search Security Budget and State of the CISO 2024 research and learn how CISOs are navigating this tough economic environment to meet the needs of the business.\n\nhttps://www.rsaconference.com/usa",
+      "published_at": "2024-06-10T21:12:27Z",
+      "tags": [
+        "rsa",
+        "rsaconference",
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "fQ8vmiix8IU": {
       "video_id": "fQ8vmiix8IU",
@@ -5291,10 +5665,20 @@
       "video_id": "fWokKSjEOIs",
       "title": "RSAC™ 2025 Conference Quick Look: From Good to Great, the Foundations of Application Security",
       "duration_s": 81,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenter: Shannon Lietz, Co-Founder & CEO, Thirdscore\n\nThis Quick Look provides a short preview of the full session at RSAC™ 2025 Conference, now available on demand. Safe software has always been the mission of Application Security. This session will delve into the foundations of Application Security, highlighting essential principles and practices that take an Application Security program from good to great and exploring the core components of helping developers threat model their applications, code securely, and make verified secure software the finish line.\n\nhttps://portal.onersac.com/library/34C5DA15B1734F01B913606682FFCA46",
+      "published_at": "2025-04-17T00:03:16Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "fffMG869DbI": {
       "video_id": "fffMG869DbI",
@@ -5523,37 +5907,77 @@
       "video_id": "hd8yOtG9W4g",
       "title": "RSAC™ 2025 Conference Quick Look: The Future of Secure Programming Using LLMs",
       "duration_s": 90,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenter: Mark Sherman, Director, CERT, Software Engineering Institute, CMU\n\nThis Quick Look provides a short preview of the full session at RSAC™ 2025 Conference, now available on demand. This presentation grounds expectations of using LLM-based systems for fixing software and will present results of evaluating 100s of examples of insecure code drawn from real systems by various models from OpenAI. The results illustrate the strengths, weaknesses, progress, and gaps of different systems as they have evolved over recent years. Methods for closing the gaps will be discussed.\n\nhttps://portal.onersac.com/library/F926E9D08CED43D4B150F9723DE00D55",
+      "published_at": "2025-04-10T23:52:23Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "hdWqm7gTP10": {
       "video_id": "hdWqm7gTP10",
       "title": "CalypsoAI — RSAC™ 2025 Conference Innovation Sandbox",
       "duration_s": 225,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Donnchadh Casey, CEO, CalypsoAI, pitches at the RSAC™ 2025 Conference Innovation Sandbox.\n\nRSAC™ 2025 marks 20 years for cybersecurity’s top innovation startup competition: RSAC™ Innovation Sandbox contest. The contest puts the spotlight on cybersecurity’s boldest new innovators while highlighting their potentially game-changing ideas.\n\nHundreds of submissions are reviewed and narrowed down to only 10 finalists. The Top 10 Finalists will take the stage during RSAC™ 2025 and will have three minutes to make their award-winning pitch to a panel of leading industry experts. Since the start of the contest, the Top 10 Finalists have collectively seen over 90 acquisitions and over $16.4 billion in investments.\n\nThe Top 10 Finalists were carefully chosen by a judging panel of industry veterans, and this year’s competition included many strong contenders. The RSAC Team and ISB judging panel would like to thank all of the startups who submitted. This year’s competition featured the most impressive pool of submissions that we’ve seen over the last 20 years.",
+      "published_at": "2025-04-28T21:18:45Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "hkqkAoRmCNI": {
       "video_id": "hkqkAoRmCNI",
       "title": "RSAC™ 2025 Conference Quick Look: A Deep Dive into the New SEC Cybersecurity Disclosure Requirements",
       "duration_s": 45,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenter: Jeff Pollard, VP & Principal Analyst, Forrester\n\nThis Quick Look provides a short preview of the full session at RSAC™ 2025 Conference, now available on demand. The Securities and Exchange Commission (SEC) issued item 1.05 and item 106 specific to cybersecurity risks and disclosures in 2023 to increase transparency and provide investors with clear details on breaches and cybersecurity programs. This session combed through 10-K and 8-K statements to identify insights, commonalities, and takeaways for security leaders to comply with these requirements.\n\nhttps://portal.onersac.com/library/173414008AA740F0BA6BE678C12B7EA8",
+      "published_at": "2025-04-02T23:21:35Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "iCzn3EbfYBo": {
       "video_id": "iCzn3EbfYBo",
       "title": "RSAC™ 2025 Conference Quick Look: Pig Butchering and the Threat of Transnational Organized Crime",
       "duration_s": 81,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenter: Erin West, Founder, Operation Shamrock\n\nThis Quick Look provides a short preview of the full session at RSAC™ 2025 Conference, now available on demand. Transnational organized crime is an underdiscussed national security threat. Tens of billions of dollars are being transferred from American hands into the pockets of known Chinese criminal syndicates. This session will discuss pig butchering and other scams perpetrated in Southeast Asia and will show points of opportunity to develop better security as the threat increases with the use of AI.\n\nhttps://portal.onersac.com/library/1AECD172F90D45869C0106358D76ECA8",
+      "published_at": "2025-04-11T23:55:29Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "iMTqZU3pDvI": {
       "video_id": "iMTqZU3pDvI",
@@ -5938,10 +6362,20 @@
       "video_id": "lJ4IliaflNs",
       "title": "Building Trustworthy AI | RSAC 2025 Conference",
       "duration_s": 117,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "In this RSAC 2025 Conference Keynote, Bruce Schneier, Security Technologist, Researcher, & Lecturer, Inrupt, Inc., will discuss ways to build trustworthy Artificial Intelligence through security, policy, and integrity.  \n \nFind Keynote details here:  https://path.rsaconference.com/flow/rsac/us25/FullAgenda/page/catalog/session/1738973046872001K6l9\n\n#GenAI #AITrust #AISafety",
+      "published_at": "2025-03-19T21:17:13Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "lKqTRibGn-o": {
       "video_id": "lKqTRibGn-o",
@@ -5968,19 +6402,41 @@
       "video_id": "lPqBQ9UDNCI",
       "title": "Gartner's Top Predictions for Cybersecurity 2023-2024",
       "duration_s": 2933,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenter: Leigh McMullen, Gartner\n\nHuman factors and Generative AI more than ever are \"colliding\" within cybersecurity. This co-mingling makes for a prediction year unlike any other with very different and competing drivers. This session will take attendees on a fun and light-hearted tour of Gartner's top predictions with an emphasis on the story behind the story, and not more fear, uncertainty, and doubt.\n\nhttps://www.rsaconference.com/usa",
+      "published_at": "2024-06-10T21:14:04Z",
+      "tags": [
+        "rsa",
+        "rsaconference",
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "lYJnVIRYEEE": {
       "video_id": "lYJnVIRYEEE",
       "title": "The CISO’s Guide to Securing a Board Seat | George Kurtz, CrowdStrike | RSAC 2025",
       "duration_s": 1319,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "CISOs belong in the boardroom. In this Keynote, CrowdStrike CEO George Kurtz reveals the strategies CISOs can use to rise to executive leadership and shape the future of cybersecurity. Learn how to build influence, guide business risk decisions, and earn your seat at the table.\n\n#CISOLeadership #BoardSeat #GeorgeKurtz #CyberRisk #CrowdStrike #ExecutivePresence #RSAC2025 #CyberStrategy",
+      "published_at": "2025-04-29T20:47:17Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "lg-Ebd4WEPA": {
       "video_id": "lg-Ebd4WEPA",
@@ -6005,10 +6461,20 @@
       "video_id": "lhW_Bu7AQl0",
       "title": "RSAC™ 2025 Conference Quick Look: War Planning for Technology Companies",
       "duration_s": 124,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenter: Tom Cross, Principal, Kopidion\n\nThis Quick Look provides a short preview of the full session at RSAC™ 2025 Conference, now available on demand. Recent conflicts in Ukraine and the Middle East sent tech companies worldwide scrambling to protect their people, data, and infrastructure, all while continuing operations. This talk will provide guidance on ensuring the organization is prepared in the event of a conflict and will consider historical lessons learned, war game potential scenarios, and share essential advice and guidance.\n\nhttps://portal.onersac.com/library/FF5402E3D54B4DCA99BE7AAC46203025",
+      "published_at": "2025-04-04T16:42:47Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "lmIgGD8csy0": {
       "video_id": "lmIgGD8csy0",
@@ -6241,10 +6707,22 @@
       "video_id": "nX-bZxLVejQ",
       "title": "The 2024 Ransomware Threat Landscape: What's Fueling the Epidemic?",
       "duration_s": 2204,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenters:\nEric Chien, Broadcom\nVikram Thakur, Broadcom\n\nThe Symantec Threat Hunter Team will provide insights on the 2024 threat landscape with a focus on the \"ransomware epidemic\". The Threat Hunters will discuss their own ransomware threat intelligence research, third-party analyst data from the Enterprise Strategy Group as well as best practices and ways to mitigate these new ransomware threats and techniques, including Symantec Adaptive Protection.\n\nhttps://www.rsaconference.com/usa",
+      "published_at": "2024-06-10T21:12:30Z",
+      "tags": [
+        "rsa",
+        "rsaconference",
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "nYoPcEUmGoQ": {
       "video_id": "nYoPcEUmGoQ",
@@ -6290,19 +6768,39 @@
       "video_id": "o08wZUoHSP4",
       "title": "RSAC™ 2025 Conference Quick Look: 10 Common Flaws in Incident Response Plans",
       "duration_s": 105,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenter: Alex Waintraub, Senior Director of Cybersecurity, VMG Health\n\nThis Quick Look provides a short preview of the full session at RSAC™ 2025 Conference, now available on demand. Cyber attacks are inevitable. Even with an incident response plan in place, many organizations still stumble due to avoidable mistakes. This session breaks down the top 10 common flaws seen with IR plans and offers practical advice to fix them. Walk away with tips attendees can apply immediately to help their teams stay ready and respond faster when the next breach hits.\n\nhttps://portal.onersac.com/library/1275638731604B92BAFCB9161358C74D",
+      "published_at": "2025-04-04T16:43:10Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "o1BLw3dUMEc": {
       "video_id": "o1BLw3dUMEc",
       "title": "Metalware — RSAC™ 2025 Conference Innovation Sandbox",
       "duration_s": 229,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Ryan Chow, Co-Founder & CEO, Metalware, pitches at the RSAC™ 2025 Conference Innovation Sandbox.\n\nRSAC™ 2025 marks 20 years for cybersecurity’s top innovation startup competition: RSAC™ Innovation Sandbox contest. The contest puts the spotlight on cybersecurity’s boldest new innovators while highlighting their potentially game-changing ideas.\n\nHundreds of submissions are reviewed and narrowed down to only 10 finalists. The Top 10 Finalists will take the stage during RSAC™ 2025 and will have three minutes to make their award-winning pitch to a panel of leading industry experts. Since the start of the contest, the Top 10 Finalists have collectively seen over 90 acquisitions and over $16.4 billion in investments.\n\nThe Top 10 Finalists were carefully chosen by a judging panel of industry veterans, and this year’s competition included many strong contenders. The RSAC Team and ISB judging panel would like to thank all of the startups who submitted. This year’s competition featured the most impressive pool of submissions that we’ve seen over the last 20 years.",
+      "published_at": "2025-04-28T21:14:07Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "o4xrjdEPfoc": {
       "video_id": "o4xrjdEPfoc",
@@ -6542,10 +7040,20 @@
       "video_id": "pnqDyHwcrPs",
       "title": "Twine Security — RSAC™ 2025 Conference Innovation Sandbox",
       "duration_s": 230,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Benny Porat, Co-Founder & CEO, Twine Security, pitches at the RSAC™ 2025 Conference Innovation Sandbox.\n\nRSAC™ 2025 marks 20 years for cybersecurity’s top innovation startup competition: RSAC™ Innovation Sandbox contest. The contest puts the spotlight on cybersecurity’s boldest new innovators while highlighting their potentially game-changing ideas.\n\nHundreds of submissions are reviewed and narrowed down to only 10 finalists. The Top 10 Finalists will take the stage during RSAC™ 2025 and will have three minutes to make their award-winning pitch to a panel of leading industry experts. Since the start of the contest, the Top 10 Finalists have collectively seen over 90 acquisitions and over $16.4 billion in investments.\n\nThe Top 10 Finalists were carefully chosen by a judging panel of industry veterans, and this year’s competition included many strong contenders. The RSAC Team and ISB judging panel would like to thank all of the startups who submitted. This year’s competition featured the most impressive pool of submissions that we’ve seen over the last 20 years.",
+      "published_at": "2025-04-28T21:09:34Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "q5OauKRH2t8": {
       "video_id": "q5OauKRH2t8",
@@ -6572,10 +7080,20 @@
       "video_id": "qIC0SNxLdsY",
       "title": "The Intelligence War: Nation-State Cyber Threats | John Fokker, Trellix | RSAC 2025",
       "duration_s": 1254,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Nation-state cyberattacks are growing more sophisticated—fueled by GenAI and a fractured attack surface. In this Keynote, John Fokker, Head of Threat Intelligence, Trellix, explores the latest in threat intelligence, cyber warfare strategy, and geopolitical awareness to defend against advanced, state-sponsored attacks. Stay ahead in the global intelligence war.\n\n#NationStateAttacks #CyberWarfare #ThreatIntelligence #GenAI #CybersecurityStrategy #RSAC2025 #Geopolitics #GlobalSecurity #Trellix #JohnFokker",
+      "published_at": "2025-04-29T03:55:40Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "qR5IQcP3nes": {
       "video_id": "qR5IQcP3nes",
@@ -6720,10 +7238,20 @@
       "video_id": "rHbx-75LZjw",
       "title": "RSAC™ 2025 Conference Know Before You Go",
       "duration_s": 3899,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenters:\nAmy Hitchcock, Director, Operations, RSAC\nCecilia Marinier, Vice President, Innovation & Scholars, RSAC\nJessica Porter, Senior Director, Global Marketing, RSAC\nKacy Zurkus, Director of Content, RSAC\n\nJoin the RSAC™ Conference team for an exclusive RSAC™ 2025 Conference insider webcast. Whether you're a seasoned attendee or new to the Conference scene, this webcast is your key to unlocking valuable insights to enhance your entire experience.\n\nOur Conference experts will cover:\n\nRegistration details, including where to check in and what you’ll need to bring with you\nGetting around the RSAC™ Campus and where to find programs\nUsing the RSAC™ Mobile Experience\nFiltering the agenda to find sessions, add favorites, and reserve seats\nNavigating the Expo and using RSAC™ Marketplace to plan your visit\nViewing missed sessions and programs on demand\nHealth & Safety measures\n\nhttps://www.rsaconference.com/usa",
+      "published_at": "2025-04-18T17:14:34Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "rinYJQPh0DA": {
       "video_id": "rinYJQPh0DA",
@@ -7028,10 +7556,20 @@
       "video_id": "v7-mNNyCInY",
       "title": "ProjectDiscovery — RSAC™ 2025 Conference Innovation Sandbox",
       "duration_s": 227,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Andy Cao, Founder & COO, ProjectDiscovery, pitches at the RSAC™ 2025 Conference Innovation Sandbox.\n\nRSAC™ 2025 marks 20 years for cybersecurity’s top innovation startup competition: RSAC™ Innovation Sandbox contest. The contest puts the spotlight on cybersecurity’s boldest new innovators while highlighting their potentially game-changing ideas.\n\nHundreds of submissions are reviewed and narrowed down to only 10 finalists. The Top 10 Finalists will take the stage during RSAC™ 2025 and will have three minutes to make their award-winning pitch to a panel of leading industry experts. Since the start of the contest, the Top 10 Finalists have collectively seen over 90 acquisitions and over $16.4 billion in investments.\n\nThe Top 10 Finalists were carefully chosen by a judging panel of industry veterans, and this year’s competition included many strong contenders. The RSAC Team and ISB judging panel would like to thank all of the startups who submitted. This year’s competition featured the most impressive pool of submissions that we’ve seen over the last 20 years.",
+      "published_at": "2025-04-28T21:11:16Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "vKTeY8wQHCo": {
       "video_id": "vKTeY8wQHCo",
@@ -7075,10 +7613,20 @@
       "video_id": "vmZy54GJZao",
       "title": "Addressing the Cybersecurity Skills Gap with Gamer Talent | RSAC 2025 Conference",
       "duration_s": 28,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "How do we solve for the cybersecurity skills gap? In this RSAC 2025 Conference Keynote, Matt Radolec, Vice President, Incident Response & Cloud Operations, Varonis, will share how principals of gaming may make gamers a great fit for the profession, directly feed the talent pipeline, and help solve for the skills gap.\n\nSee Keynote details: https://path.rsaconference.com/flow/rsac/us25/FullAgenda/page/catalog/session/1737040234564001Td9r\n\n#cybersecurityskillsgap #cybersecuritytalent #cybersecurity",
+      "published_at": "2025-03-13T20:18:14Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "vpFXSa6LQ_E": {
       "video_id": "vpFXSa6LQ_E",
@@ -7105,10 +7653,20 @@
       "video_id": "w-Yl-P3s9U8",
       "title": "RSAC™ 2025 Conference Quick Look: The Microsoft Cloud Identity Crisis",
       "duration_s": 62,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "Presenter: Guido Grillenmeier, Principal Technologist, Semperis\n\nThis Quick Look provides a short preview of the full session presented at RSAC™ 2025 Conference, now available on demand. For many years Microsoft has successfully promoted cloud services and identities, leading to widespread adoption of hybrid identity models. However, cybercriminals increasingly target cloud identities, posing significant risks. This talk highlights the potential crisis of recovering Microsoft Cloud Identities after an attack and offers strategies to better prepare for such scenarios.\nhttps://portal.onersac.com/library/8E633B439B084089B93A89FDF0429003",
+      "published_at": "2025-04-07T15:17:16Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "wE27kHXTPs0": {
       "video_id": "wE27kHXTPs0",
@@ -7446,10 +8004,20 @@
       "video_id": "zr9ZeT7UXAU",
       "title": "Protecting AI Infrastructure | Jeetu Patel, Cisco | RSAC 2025",
       "duration_s": 1514,
-      "channel": null,
+      "channel": "RSAC Cybersecurity",
       "label": "RSAC",
       "year": null,
-      "source_url": "https://www.youtube.com/@OneRSAC/videos"
+      "source_url": "https://www.youtube.com/@OneRSAC/videos",
+      "description": "AI is driving innovation—but it's also opening new security risks. In this powerful Keynote, Jeetu Patel, EVP and Chief Product Officer at Cisco, explores how to build secure, scalable, and resilient AI infrastructure. Learn how to protect your systems, empower your AI workforce, and stay ahead of evolving cybersecurity threats.\n\n#AIInfrastructure #Cybersecurity #JeetuPatel #Cisco #AIWorkforce #DigitalTransformation #RSAC2025 #CyberResilience",
+      "published_at": "2025-04-29T03:54:50Z",
+      "tags": [
+        "rsac",
+        "information",
+        "security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "details_at": "2026-09-06T13:24:14+00:00"
     },
     "zw4Li3Ih7IM": {
       "video_id": "zw4Li3Ih7IM",

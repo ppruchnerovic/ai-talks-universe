@@ -7,10 +7,10 @@ conference_name: "OpenAI DevDay"
 category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
-speakers: []
+speakers: ["Sabba Keynejad"]
 channel: "OpenAI"
 duration_min: 10
-published_at: null
+published_at: 2024-12-17T17:01:00Z
 video_id: rQqKq8knQvg
 url: https://www.youtube.com/watch?v=rQqKq8knQvg
 youtube_url: https://www.youtube.com/watch?v=rQqKq8knQvg
@@ -21,7 +21,7 @@ transcript: false
 
 # OpenAI DevDay 2024 | Community Spotlight | VEED
 
-**Speaker not identified**
+**Sabba Keynejad**
 
 `OpenAI DevDay` · `DevDay 2024` · `2024` · `10 min`
 
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Insights on Scaling a Custom Text-to-Video GPT: Increasing text-to-video capabilities to democratize video creation from any medium.
+
+Presenter: Sabba Keynejad, CEO and Co-Founder, VEED

@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Gorka Abad"]
 channel: "Nicolas Papernot"
 duration_min: 13
-published_at: null
+published_at: 2023-02-16T05:00:00Z
 video_id: -t0a_FIEu2o
 url: https://www.youtube.com/watch?v=-t0a_FIEu2o
 youtube_url: https://www.youtube.com/watch?v=-t0a_FIEu2o
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Sniper Backdoor: Single Client Targeted Backdoor Attack in Federated Learning

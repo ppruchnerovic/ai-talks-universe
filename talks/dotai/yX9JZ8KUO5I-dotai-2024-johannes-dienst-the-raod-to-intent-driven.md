@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Johannes Dienst"]
-channel: null
+channel: "dotconferences"
 duration_min: 8
-published_at: null
+published_at: 2024-10-23T08:27:56Z
 video_id: yX9JZ8KUO5I
 url: https://www.youtube.com/watch?v=yX9JZ8KUO5I
 youtube_url: https://www.youtube.com/watch?v=yX9JZ8KUO5I
@@ -29,4 +29,8 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Filmed at dotAI on October 18, 2024 in Paris. More about the conference on https://www.dotai.io
+
+Who is Johannes Dienst?
+
+Johannes Dienst is Developer Advocate at AskUI. His focus is on automation, documentation, and software quality.

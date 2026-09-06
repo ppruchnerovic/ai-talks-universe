@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 48
-published_at: null
+published_at: 2024-12-17T17:00:22Z
 video_id: Hn27upT2m_o
 url: https://www.youtube.com/watch?v=Hn27upT2m_o
 youtube_url: https://www.youtube.com/watch?v=Hn27upT2m_o
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Live podcast recording of 20VC, a virtual AMA recorded with Sam Altman at OpenAI DevDay London

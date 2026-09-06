@@ -10,7 +10,7 @@ year: 2023
 speakers: []
 channel: "OpenAI"
 duration_min: 46
-published_at: null
+published_at: 2023-11-06T18:50:05Z
 video_id: U9mJuUkhUzk
 url: https://www.youtube.com/watch?v=U9mJuUkhUzk
 youtube_url: https://www.youtube.com/watch?v=U9mJuUkhUzk
@@ -29,4 +29,10 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Join us for the opening keynote from OpenAI DevDay — OpenAI’s first developer conference.
+
+We’re gathering developers from around the world for an in-person day of programming to learn about the latest AI advancements and explore what lies ahead.
+
+New models and developer products announced at DevDay: https://openai.com/blog/new-models-and-developer-products-announced-at-devday
+
+Introducing GPTs: https://openai.com/blog/introducing-gpts

@@ -10,11 +10,11 @@ year: 2019
 speakers: ["Roei Amit"]
 channel: "DEFCONConference"
 duration_min: 24
-published_at: null
+published_at: 2019-12-20T02:17:47Z
 video_id: RkdEbXFw49s
 url: https://www.youtube.com/watch?v=RkdEbXFw49s
 youtube_url: https://www.youtube.com/watch?v=RkdEbXFw49s
-tags: []
+tags: ["DEF", "CON", "DEFCON", "DEF CON", "hacker conference", "security conference", "information security conference", "information security", "conference speakers", "hackers", "hacking", "hacking videos", "security research", "Artificial intelligence", "machine learning"]
 topics: ["Classic ML & data science"]
 transcript: false
 ---
@@ -25,8 +25,10 @@ transcript: false
 
 `DEF CON AI Village` · `DEF CON 27 AI Village` · `2019` · `24 min`
 
+`#DEF` `#CON` `#DEFCON` `#DEF CON` `#hacker conference` `#security conference` `#information security conference` `#information security` `#conference speakers` `#hackers` `#hacking` `#hacking videos` `#security research` `#Artificial intelligence` `#machine learning`
+
 [Watch the recording](https://www.youtube.com/watch?v=RkdEbXFw49s) · [Conference site](https://aivillage.org/)
 
 ## Description
 
-*No description published on YouTube.*
+Presentations from the DEF CON 27 AI Village

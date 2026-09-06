@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Yineng Zhang"]
 channel: "PyTorch"
 duration_min: 25
-published_at: null
+published_at: 2025-11-04T03:47:29Z
 video_id: wDNfcv_fbWs
 url: https://www.youtube.com/watch?v=wDNfcv_fbWs
 youtube_url: https://www.youtube.com/watch?v=wDNfcv_fbWs
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Open Source Model Performance Optimization With SGLang - Yineng Zhang, Together AI
+
+SGLang is an open-source fast inference framework in the PyTorch ecosystem built for performant, flexible, extensible model serving. SGLang's growing popularity is in large part thanks to its community ethos and the participation of developers from around the world. Join this BoF session hosted by SGLang core maintainer Yineng Zhang to discuss the future of SGLang and learn how to get involved in the project.

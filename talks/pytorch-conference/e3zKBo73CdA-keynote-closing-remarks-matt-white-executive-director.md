@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Matt White"]
 channel: "PyTorch"
 duration_min: 6
-published_at: null
+published_at: 2025-11-04T03:45:07Z
 video_id: e3zKBo73CdA
 url: https://www.youtube.com/watch?v=e3zKBo73CdA
 youtube_url: https://www.youtube.com/watch?v=e3zKBo73CdA
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Keynote: Closing Remarks - Matt White, Executive Director, PyTorch Foundation

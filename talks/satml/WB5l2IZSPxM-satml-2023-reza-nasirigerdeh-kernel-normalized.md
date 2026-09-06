@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Reza Nasirigerdeh"]
 channel: "Nicolas Papernot"
 duration_min: 17
-published_at: null
+published_at: 2023-02-16T05:00:19Z
 video_id: WB5l2IZSPxM
 url: https://www.youtube.com/watch?v=WB5l2IZSPxM
 youtube_url: https://www.youtube.com/watch?v=WB5l2IZSPxM

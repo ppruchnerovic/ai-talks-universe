@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Tatsuki Koga"]
 channel: "Nicolas Papernot"
 duration_min: 15
-published_at: null
+published_at: 2024-04-10T13:18:15Z
 video_id: 5YSnp9Er8Q8
 url: https://www.youtube.com/watch?v=5YSnp9Er8Q8
 youtube_url: https://www.youtube.com/watch?v=5YSnp9Er8Q8

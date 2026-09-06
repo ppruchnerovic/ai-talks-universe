@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 23
-published_at: null
+published_at: 2025-10-08T17:01:35Z
 video_id: 70ush8Vknx8
 url: https://www.youtube.com/watch?v=70ush8Vknx8
 youtube_url: https://www.youtube.com/watch?v=70ush8Vknx8
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+AI is changing how quickly creative ideas can become reality. In this session, we’ll walk through how we built a custom creative tool for film, media, and brand campaign workflows. We’ll share lessons from rapid prototyping with modern tools, and offer a look at how developers can shape the future of creative production.

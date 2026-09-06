@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 22
-published_at: null
+published_at: 2025-11-08T00:43:02Z
 video_id: mej049HSFg4
 url: https://www.youtube.com/watch?v=mej049HSFg4
 youtube_url: https://www.youtube.com/watch?v=mej049HSFg4
@@ -29,4 +29,14 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Chelsea Finn explores the challenges of turning a robotics concept into a real-world product.
+
+She breaks down the many hurdles involved—from designing new hardware and developing custom software to creating unique movement patterns and handling countless edge cases, often all from scratch.
+
+Physical Intelligence aims to solve these problems by building a general-purpose model capable of enabling any robot to perform any task, paving the way for more adaptable and scalable robotic systems.
+
+Interested in more?
+Watch the full Day 1 Keynote:    • Ray Summit 2025 Keynote Day 1| Where AI Bu...
+
+--
+🔗 Connect with us:

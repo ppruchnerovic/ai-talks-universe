@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Joe Spisak"]
 channel: "PyTorch"
 duration_min: 6
-published_at: null
+published_at: 2025-11-04T03:45:43Z
 video_id: 8mXp_wcQYng
 url: https://www.youtube.com/watch?v=8mXp_wcQYng
 youtube_url: https://www.youtube.com/watch?v=8mXp_wcQYng
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+The Building Blocks of Agentic Al - Joe Spisak, Product Director, Meta Superintelligence Labs

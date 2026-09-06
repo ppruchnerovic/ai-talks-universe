@@ -8,14 +8,14 @@ category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Clara Chappaz"]
-channel: null
+channel: "dotconferences"
 duration_min: 11
-published_at: null
+published_at: 2024-10-23T08:29:29Z
 video_id: nfmXdYzMqEI
 url: https://www.youtube.com/watch?v=nfmXdYzMqEI
 youtube_url: https://www.youtube.com/watch?v=nfmXdYzMqEI
 tags: []
-topics: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 
@@ -29,4 +29,10 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Filmed at dotAI on October 18, 2024 in Paris. More about the conference on https://www.dotai.io
+
+Who is Clara Chappaz?
+
+Graduated from ESSEC Business School, Clara Chappaz began her career in Asia at various e-commerce start-ups. In 2018, she earned an MBA from Harvard. She then joined Vestiaire Collective, the platform for buying and selling second-hand luxury products, in Paris as Commercial Director. In 2021, she took the lead of the French Tech mission, which supports the development of innovative tech start-ups in France, in line with government priorities.
+
+On the proposal of the Prime Minister, the President of the Republic appointed Clara Chappaz as Secretary of State for Artificial Intelligence and Digital Affairs, under the Minister of Higher Education and Research, on September 21, 2024.

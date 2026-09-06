@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Timnit Gebru"]
 channel: "Nicolas Papernot"
 duration_min: 48
-published_at: null
+published_at: 2023-02-16T05:00:18Z
 video_id: P7XT4TWLzJw
 url: https://www.youtube.com/watch?v=P7XT4TWLzJw
 youtube_url: https://www.youtube.com/watch?v=P7XT4TWLzJw
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Eugenics and the Promise of Utopia through Artificial General Intelligence
+
+Based on work by Timnit Gebru & Émile P. Torres

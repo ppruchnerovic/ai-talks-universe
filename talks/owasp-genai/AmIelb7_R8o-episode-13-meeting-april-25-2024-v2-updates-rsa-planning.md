@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 53
-published_at: null
+published_at: 2024-04-29T18:32:54Z
 video_id: AmIelb7_R8o
 url: https://www.youtube.com/watch?v=AmIelb7_R8o
 youtube_url: https://www.youtube.com/watch?v=AmIelb7_R8o
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Steve Wilson's back to lead the discussion for our April 25 2024 meeting for Episode 13. We talk about the v2 updates - even some survey response discussions. RSA Planning was a significant topic as well, as it's coming up quickly. We also talked the new website efforts and a whole lot more.

@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Shengyuan Hu"]
 channel: "Nicolas Papernot"
 duration_min: 17
-published_at: null
+published_at: 2024-04-10T19:09:55Z
 video_id: qJvnOse3Btc
 url: https://www.youtube.com/watch?v=qJvnOse3Btc
 youtube_url: https://www.youtube.com/watch?v=qJvnOse3Btc

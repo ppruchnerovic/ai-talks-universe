@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 18
-published_at: null
+published_at: 2025-11-08T00:07:04Z
 video_id: Xb34YmbEiOc
 url: https://www.youtube.com/watch?v=Xb34YmbEiOc
 youtube_url: https://www.youtube.com/watch?v=Xb34YmbEiOc
@@ -29,4 +29,12 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Devendra Chaplot, Member of Technical Staff at Thinking Machines, closes out Day 1 with an in-depth look at Tinker, the powerful system driving innovation in AI and machine learning development.
+
+In this session, Devendra walks through the story of how Tinker was built—from its initial concept and design principles to the technical architecture that makes it scalable, efficient, and developer-friendly. He highlights the platform’s key capabilities, showcases real-world use cases, and demonstrates how Tinker empowers teams to build, experiment, and deploy AI systems faster than ever before.
+
+Interested in more?
+Watch the full Day 1 Keynote: https://www.youtube.com/watch?v=YoPskpg3zJQ
+
+--
+🔗 Connect with us:

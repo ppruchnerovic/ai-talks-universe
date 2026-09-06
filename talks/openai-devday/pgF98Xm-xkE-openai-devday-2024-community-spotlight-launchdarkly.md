@@ -10,12 +10,12 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 9
-published_at: null
+published_at: 2024-12-17T17:00:54Z
 video_id: pgF98Xm-xkE
 url: https://www.youtube.com/watch?v=pgF98Xm-xkE
 youtube_url: https://www.youtube.com/watch?v=pgF98Xm-xkE
 tags: []
-topics: []
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Social justice and prompt engineering: Large language models are only as good as the data we feed into them. Unfortunately, we haven't quite dismantled racism, sexism, and all the other -isms just yet. Given the imperfect tools that we have, how can we write LLM prompts that are less likely to reflect our own biases? In this session, Tilde will review current research about LLM prompt engineering and bias, including practical examples. You'll leave with some ideas that you can apply as both users and builders of LLM applications, to iterate towards a more equitable world.

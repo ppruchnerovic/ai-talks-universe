@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Yiwei Lu"]
 channel: "Nicolas Papernot"
 duration_min: 16
-published_at: null
+published_at: 2024-04-12T18:27:32Z
 video_id: PAW7gEjVQx8
 url: https://www.youtube.com/watch?v=PAW7gEjVQx8
 youtube_url: https://www.youtube.com/watch?v=PAW7gEjVQx8

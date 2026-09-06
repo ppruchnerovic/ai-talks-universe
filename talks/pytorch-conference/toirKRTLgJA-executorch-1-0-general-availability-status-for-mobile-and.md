@@ -10,12 +10,12 @@ year: 2025
 speakers: []
 channel: "PyTorch"
 duration_min: 25
-published_at: null
+published_at: 2025-11-04T03:45:47Z
 video_id: toirKRTLgJA
 url: https://www.youtube.com/watch?v=toirKRTLgJA
 youtube_url: https://www.youtube.com/watch?v=toirKRTLgJA
 tags: []
-topics: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 
@@ -29,4 +29,14 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+ExecuTorch 1.0: General Availability Status for Mobile and Embedded Application Developers - Mergen Nachin & Cemal Bilgin, Meta
+
+ExecuTorch is an end-to-end solution for deploying PyTorch models onto edge devices, including mobile, embedded systems (such as smart sensors, IoT, and wearables), and XR devices. In this talk, we'll mainly focus on the maturity and stability of ExecuTorch, inviting mobile and embedded systems application developers to start adopting ExecuTorch for productionization. Specifically, we will cover:
+- Developer flow and ease of use around quantization, integration and deployment
+- Tight integration with backends, mobile accelerators, and hardware partners
+- Ecosystem, libraries and SDKs built around ExecuTorch
+
+What you'll learn:
+- What is ExecuTorch, how it works, and why it matters
+- Production readiness for adoption
+- Case studies around GenAI, computer vision, and other ML applications on edge devices

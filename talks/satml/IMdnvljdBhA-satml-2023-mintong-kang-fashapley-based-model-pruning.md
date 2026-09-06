@@ -10,7 +10,7 @@ year: 2023
 speakers: ["Mintong Kang"]
 channel: "Nicolas Papernot"
 duration_min: 13
-published_at: null
+published_at: 2023-02-16T05:00:07Z
 video_id: IMdnvljdBhA
 url: https://www.youtube.com/watch?v=IMdnvljdBhA
 youtube_url: https://www.youtube.com/watch?v=IMdnvljdBhA
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs

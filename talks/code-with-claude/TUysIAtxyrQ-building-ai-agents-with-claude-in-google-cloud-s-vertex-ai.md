@@ -7,10 +7,10 @@ conference_name: "Code with Claude (Anthropic)"
 category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
-speakers: []
+speakers: ["Ivan Nardini"]
 channel: "Anthropic"
 duration_min: 30
-published_at: null
+published_at: 2025-07-31T18:23:04Z
 video_id: TUysIAtxyrQ
 url: https://www.youtube.com/watch?v=TUysIAtxyrQ
 youtube_url: https://www.youtube.com/watch?v=TUysIAtxyrQ
@@ -21,7 +21,7 @@ transcript: false
 
 # Building AI agents with Claude in Google Cloud's Vertex AI | Code w/ Claude
 
-**Speaker not identified**
+**Ivan Nardini**
 
 `Code with Claude (Anthropic)` · `2025` · `2025` · `30 min`
 
@@ -29,4 +29,7 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Presented at Code w/ Claude by @anthropic-ai on May 22, 2025 in San Francisco, CA, USA.
+
+Speakers:
+Ivan Nardini, Developer Relations Engineer, AI/ML, Google Cloud

@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Stephen Casper"]
 channel: "Nicolas Papernot"
 duration_min: 42
-published_at: null
+published_at: 2024-04-15T13:45:23Z
 video_id: Cek2bxF2RcI
 url: https://www.youtube.com/watch?v=Cek2bxF2RcI
 youtube_url: https://www.youtube.com/watch?v=Cek2bxF2RcI

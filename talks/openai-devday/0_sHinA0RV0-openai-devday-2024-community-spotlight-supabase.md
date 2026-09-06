@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 10
-published_at: null
+published_at: 2024-12-17T17:00:01Z
 video_id: 0_sHinA0RV0
 url: https://www.youtube.com/watch?v=0_sHinA0RV0
 youtube_url: https://www.youtube.com/watch?v=0_sHinA0RV0
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+database.build - the AI powered Postgres sandbox

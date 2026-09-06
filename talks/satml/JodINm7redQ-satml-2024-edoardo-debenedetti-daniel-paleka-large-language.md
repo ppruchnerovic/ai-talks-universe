@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Edoardo Debenedetti", "Daniel Paleka"]
 channel: "Nicolas Papernot"
 duration_min: 54
-published_at: null
+published_at: 2024-04-12T18:57:23Z
 video_id: JodINm7redQ
 url: https://www.youtube.com/watch?v=JodINm7redQ
 youtube_url: https://www.youtube.com/watch?v=JodINm7redQ

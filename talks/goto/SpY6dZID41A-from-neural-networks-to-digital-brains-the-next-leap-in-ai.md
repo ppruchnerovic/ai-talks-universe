@@ -6,27 +6,136 @@ conference: goto
 conference_name: "GOTO Conferences"
 category: "General software conferences"
 edition: "GOTO"
-year: 2025
+year: 2026
 speakers: ["Daniel Lütgehetmann"]
-channel: null
+channel: "GOTO Conferences"
 duration_min: 24
-published_at: null
+published_at: 2026-04-08T12:00:49Z
 video_id: SpY6dZID41A
 url: https://www.youtube.com/watch?v=SpY6dZID41A
 youtube_url: https://www.youtube.com/watch?v=SpY6dZID41A
-tags: []
-topics: ["Classic ML & data science"]
-transcript: false
+tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTOcph", "GOTO Copenhagen", "Daniel Lütgehetmann", "Digital Brains", "Neural Networks", "AI", "ML", "Data Science", "Robotics", "AI Robotics", "Biological Learning", "inait"]
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
+transcript: true
 ---
 
 # From Neural Networks to Digital Brains: The Next Leap in AI • Daniel Lütgehetmann • GOTO 2025
 
 **Daniel Lütgehetmann**
 
-`GOTO Conferences` · `GOTO` · `2025` · `24 min`
+`GOTO Conferences` · `GOTO` · `2026` · `24 min`
+
+`#GOTO` `#GOTOcon` `#GOTO Conference` `#GOTO (Software Conference)` `#Videos for Developers` `#Computer Science` `#Programming` `#Software Engineering` `#GOTOpia` `#Tech` `#Software Development` `#Tech Channel` `#Tech Conference` `#Today in Tech` `#GOTOcph` `#GOTO Copenhagen` `#Daniel Lütgehetmann` `#Digital Brains` `#Neural Networks` `#AI` `#ML` `#Data Science` `#Robotics` `#AI Robotics` `#Biological Learning` `#inait`
 
 [Watch the recording](https://www.youtube.com/watch?v=SpY6dZID41A) · [Conference site](https://gotopia.tech/)
 
 ## Description
 
-*No description published on YouTube.*
+This presentation was recorded at GOTO Copenhagen 2025. #GOTOcon #GOTOcph
+
+Daniel Lütgehetmann - Leading AI Research & Innovation; CTO at inait
+
+RESOURCES
+
+ABSTRACT
+Today's machines are computationally powerful, yet they lack a fundamental feature that even the simplest animals possess: the ability to seamlessly interact with our complex and constantly changing world. They can calculate, but they cannot truly adapt.
+
+To solve this, we looked to the only system known to have mastered this challenge: the brain. At inait, we are building AI with biologically accurate, digital copies of real brains–think physics simulation, not linear algebra equations.
+
+In this presentation, we will pull back the curtain on these digital brains. We will detail what they are, how their biological accuracy has been validated in large-scale simulations, and how we teach them capabilities. You will learn about our proprietary learning rule—the conceptual equivalent of backpropagation—that enables these brains to learn from interaction and experience, and how this can solve the computational challenges holding back current AI for robotics and physical AI. We will talk about existing showcases of the brain’s incredible efficiency of learning, and what the future of this new approach to AI looks like. [...]
+
+TIMECODES
+00:00 Intro
+00:22 How do we bridge the gap in robotics to a natural physical movement?
+02:29 Evolution
+04:41 Digital brians
+05:56 What does a neuron look like?
+06:37 How does a neuron compute?
+09:34 What does it look like in a network?
+09:59 AI with digital brains
+14:29 Biological learning
+15:49 Gen I: Forecasting
+17:42 Gen II: Acting (demo)
+20:48 The future
+21:40 Takeaways
+23:46 Outro
+
+Download slides and read the full abstract here:
+
+RECOMMENDED BOOKS
+Phil Winder • Reinforcement Learning • https://amzn.to/3t1S1VZ
+Alex Castrounis • AI for People and Business • https://amzn.to/3NYKKTo
+Holden Karau, Trevor Grant, Boris Lublinsky, Richard Liu & Ilan Filonenko • Kubeflow for Machine Learning • https://amzn.to/3JVngcx
+Kelleher & Tierney • Data Science (The MIT Press Essential Knowledge series) • https://amzn.to/3AQmIRg
+Lakshmanan, Robinson & Munn • Machine Learning Design Patterns • https://amzn.to/2ZD7t0x
+Lakshmanan, Görner & Gillard • Practical Machine Learning for Computer Vision • https://amzn.to/3m9HNjP
+
+CHANNEL MEMBERSHIP BONUS
+Join this channel to get early access to videos & other perks:
+
+Looking for a unique learning experience?
+Attend the next GOTO conference near you! Get your ticket at https://gotopia.tech
+
+## Transcript
+
+*4,105 words · source: supa (en, exact timings)*
+
+**[0:11](https://www.youtube.com/watch?v=SpY6dZID41A&t=11s)** [applause] So, we can now build AI that masters language like a poet. Why can we not build AI that masters the physical world like an animal? Like a bird catching a fish? like a swarm of of birds that collaborate, coordinate their movements in real time or like ants building underground tunnels. All of this is not possible with robotics today. How do we bridge that gap? Well, the Frontiers Labs in in AI, they know how to teach robots tasks. You can learn how to do the dishes now, can learn how to fold clothes, but once you
+
+**[1:01](https://www.youtube.com/watch?v=SpY6dZID41A&t=61s)** take the robots out of their constrained environment, they fail. This is the challenge that everyone's trying to rush towards. And the the challenge is these robots, they need a lot of data to train. The research labs, they build huge data sets and throw them at big models and try to bring those tasks to reality. The challenge is how do we fix when these models fail in production? We add more sensors, we scale the data, we scale the infrastructure, and then maybe at some point we have a system that works. But even assume we do that and we have autonomous navigation
+
+**[1:48](https://www.youtube.com/watch?v=SpY6dZID41A&t=108s)** in a few years in cars let's say how do you go to the next task and to the next task and to the next task you going to send spend billions of billions for every task we want to do current AI does not know how to accumulate skills adding more and more skills gets more and more difficult and this is not the case for animals if your child goes to school it gets easier to go to university, not harder. And we believe it there needs to be a way to teach AI that it accumulates skills and builds on top of them. There is a a way to achieve this and actually evolution has given us the answer.
+
+**[2:36](https://www.youtube.com/watch?v=SpY6dZID41A&t=156s)** Over millions of years, the brain has evolved. The brain has evolved such that animals can survive in this complex environment. It's really hard to survive. And this unique architecture can give us the blueprint of how we should build AI. Intelligence and nature has really two parts. There's the innate part, the thing you're born with, and there's the learning. When a turtle gets born, it doesn't have to learn how to go to to the water and survive. It knows. When an octopus is taken out of its habitat, you take it out of the ocean and you put it in a jar and close the lid, within minutes, it escapes.
+
+**[3:26](https://www.youtube.com/watch?v=SpY6dZID41A&t=206s)** It's never been in that situation. It cannot know, but it learns on the spot. What could we do if we could tap into this sort of intelligence? We could get autonomous navigation without the millions and billions of hours of video. We could get our our cars in the cities organizing themselves like a swarm of ants. So, it was around the time I studied math and I finished my studies when I met Henry Markham. He's here um one of the world's most known neuroscientists, brain expert and he told me about his plan that he thinks he knows how to replicate the brain's intelligence in a computer in software. So obviously I joined his team and seven years later now we built a completely
+
+**[4:14](https://www.youtube.com/watch?v=SpY6dZID41A&t=254s)** different type of AI, a totally different approach. And the interesting bit is it was very hard but now this AI can learn especially in dynamic interactive environments 30 50 times faster than current AI and I will walk you through it today what that means. I will not have time to go through all the details but I hope I can give you a glimpse of what this new way of doing AI means and what we can do with it. Henry had a trick up his sleeve. He has built digital brains. A digital brain is an actual copy of a real brain. This was not done for AI. This was done for neuroscience research to cure Alzheimer's autism. It replicates the map, the neurons, the synapses,
+
+**[5:04](https://www.youtube.com/watch?v=SpY6dZID41A&t=304s)** and also it replicates the functionality. How do neurons communicate with each other? What's the chemical reaction happening at the synapse level? That's taken 20 years, over a thousand researchers and 300 million to build this. Now, it's validated in in papers, 300 papers, and it validates hundreds of lab experiments where real experiments on actual brains in the wet lab are compared against the digital simulation. And his insight was if we now have a brain that runs inside a computer, inside a robot, inside commodity hardware, we should be able to have a chance of exploring what is the uniqueness of the brain that the only thing in the universe that can actually manage to navigate our complex world.
+
+**[5:57](https://www.youtube.com/watch?v=SpY6dZID41A&t=357s)** So what does a neuron look like? This is a deep learning neuron. the same simplified version, but in the essence, you take a lot of numbers. You know, every neuron is connected to other neurons to communicate. It takes all of their inputs, sums them up, and puts them through some sort of nonlinearity. It's an exaggeration, but that's that's more or less how it works. A real neuron is very different. It has a very complex geometric structure. It has branches, intricate branches connecting to all these other neurons in very interesting ways. But not only the structure is different, the way it computes is different as well. How does it compute? It doesn't do math. It doesn't do addition. It doesn't doesn't compute a
+
+**[6:44](https://www.youtube.com/watch?v=SpY6dZID41A&t=404s)** formula. It's an actual simulation of how it integrates the information. It is also connected to other neurons and all these neurons give it the input but it integrates this input into a continuous state. So what we look at for a neuron is really this the charge of the neuron the how much electricity is inside the neuron. And here you see what it looks like. It receives information from the other neurons which increases its charge. But instead of just adding these charges together or doing some basic math, it does a complex integration of all these different inputs. This is how the neuron computes. And the interesting bit is all of this is local to the neuron. The rest of the network has no idea what's going on. The only
+
+**[7:32](https://www.youtube.com/watch?v=SpY6dZID41A&t=452s)** time it communicates with a different part of the network is where you see these spikes. Once the charge reaches a certain level, it leads to a spike in the neuron. And when that happens and only when that happens, this neuron communicates to the other neurons. This is extremely different. There is a time dimension inherent to this. The communications event based. Everything is different in this world. How about synapses? Synapses are the connections between neurons. The information coming from the neuron at the beginning of the syninnapse transfers into the neuron at the end of the synapse. And in deep learning we have a similar concept. We connect neurons. And these connections they have
+
+**[8:20](https://www.youtube.com/watch?v=SpY6dZID41A&t=500s)** weights. [snorts] The weight indicates how strongly should the post neuron the neuron at the end listen to the information that comes from the neuron at the beginning. It's just a number. In the brain it's much more complex than that. It's not just about how much, it's also how. So here you see an input into a synapse. So here the these lines, they indicate the spikes you saw on the one before in the slide before. And each time there's a spike, there's activity going to the neuron at the end. But if you take now two neuron uh two synapses that have the same weight, so in the deep learning world, they would be identical. They can have extremely different behavior. The first synapse is a what we call a facilitating synapse. That means the more activity goes into that syninnapse. The stronger it reacts, the more it
+
+**[9:09](https://www.youtube.com/watch?v=SpY6dZID41A&t=549s)** impacts the neuron at the end. The second syninnapse, exactly the same weight has the opposite. You get some activity, but then it shuts down. In the deep learning world, these two would be indistinguishable. But for the brain, this is crucial. This is what allows it to really adapt dynamically to changes to sudden differences in the input data sets. Now when we put all of this together, this is what it looks like. This is the full brain, all the neurons, all the synapses doing exactly what I just described in real time. This is looks very complicated and it actually is because it replicates what the brain is doing. It was built to have the same results as if you would run this in the real world.
+
+**[9:58](https://www.youtube.com/watch?v=SpY6dZID41A&t=598s)** Now, we're here to talk about AI. Now, I told you what digital brains are and how they work. But how do you turn that into a machine for AI? Well, even if you had a brain in your hand, you would have to figure that out. You have information. How do you get it into the brain? How do you tell the brain uh what the information is, what the world looks like? the sensors and then also how do you make the brain interact with the world? How do you give it feedback? So this is what we have built. So let me talk you through a basic setup of that. Let's say you want to give data to the brain. Let's say it's a it's an image, a video, whatever it might be. Here in this case, I just look at sensor data here. Cinosidal curve, just a a
+
+**[10:46](https://www.youtube.com/watch?v=SpY6dZID41A&t=646s)** sensor that goes up and down. Now you need to turn that into something the brain understands. And the first way of doing that is by turning the the curve into intensity. So you you look at how the data evolves, the sensor going up and down, and you you take all of your neurons and you apply a current, an electricity input to all the neurons. And as the the sensor goes up, you put more electricity. As it goes down, you put less. And what you see is that as here the activity of these neurons here highly simplified for visualization uh goes up and down and by that the network has a chance of understanding what's going on. There's many many more ways of doing that though. For example, you could use a geometric encoding. You could say okay
+
+**[11:34](https://www.youtube.com/watch?v=SpY6dZID41A&t=694s)** if the signal is high I encode the neurons at the top and if the signal is low I encode them on the bottom and you give that information like that. In practice, we use much more sophisticated ways. But this gives you a feeling what it means to do AI with digital brains. You have to change everything. You have to change how you think about data. You have to change your your thinking about how processing of data happens. Now, how do you read it out? How do you decide what the brain has done? The brain doesn't have a math. It cannot tell you what it happened. So, there's also many different ways, but a very obvious one is you take a group of neurons. Let's say you have your big brain. and you take a group of them, a population, and you see how active it is. The more active it is, the higher the readout. So here you see a curve where we just basically uh computed the
+
+**[12:23](https://www.youtube.com/watch?v=SpY6dZID41A&t=743s)** the frequency of of activity in this population. And then you can do different things. You can map that to a value between zero and one, which might uh mean which torque do you apply to your robot arm? Or you can have an anomaly detection of some sort if there's a spike of activity. Maybe that indicates uh there was some anomalous behavior in the input data. Or alternatively, you have two populations or more populations and you let them compete with each other. Right? Maybe it's not about the overall activity amount. It's more how much are these neurons active versus how much are these neurons active. There's many many more. But this is again a very different way of thinking about how information is being processed. Now you can put this all together. The way it works is you take your environment, you turn that into the electric stimulus, the electric activity
+
+**[13:11](https://www.youtube.com/watch?v=SpY6dZID41A&t=791s)** you want to induce on your digital brain. The digital brain responds, it simulates, it gives you recurrent activity. And that recurrent activity you you read out into the action that you then put on the on the environment. The environment changes and the circle starts again. Here's a very simple task. This is one of these classic benchmark tasks. I'm sure you all seen seen. It's a a stick on a little cart on a line and you have to basically decide do I push it left or right and you have to try to balance the stick. So if you put all of this together then nothing very interesting happens. It doesn't actually do it because we didn't put the main ingredient, the most important ingredient which is the learning. The learning is copied from biology. How do you get this system under control?
+
+**[13:58](https://www.youtube.com/watch?v=SpY6dZID41A&t=838s)** Here you see the different episodes whenever it stops it kind of fails to balance the stick. You see how it gets better and better very quickly in balancing the stick. And the reason is we copied the way the brain learns. The brain gets all of this in in shape based on feedback. This was the hardest bit of the road because this is an extremely complex system. There's no chance for back propagation. There's no chance for for any concrete analysis of how the brain should do its thing. You really have to follow biology. This is what the learning looks like under the hood. I'm not going to go into the details, but it's really every synapse is learning by itself. In standard AI, you would use this network and you would try to compute how should you change the network in order to to get a better outcome. You would try to
+
+**[14:45](https://www.youtube.com/watch?v=SpY6dZID41A&t=885s)** have, you know, paths in the network and try to optimize them. But this is this is not how the brain learns. The brain [snorts] cannot have the syninnapse there, talk to the synapse down there, and figure out how they should change together. every synapse is by itself and so we have found the way that every synapse learns by itself but they collaborate as a group of synapses and neurons to achieve the task again this is end to end digital brain AI there's no back prop nothing around it's electricity in electricity out so that's how it works how what can you do with it today what's the what are the applications so we split our path over the last couple of years into two main components. The first component is prediction. Animals predict how the world's going to
+
+**[15:35](https://www.youtube.com/watch?v=SpY6dZID41A&t=935s)** look like in a few seconds. They look forward to what their actions might do. The second step once you know how the world's going to behave, they learn how to interact, how to change the course of the world. And so we we have built the same our technology in the same two stages. The first stage is forecasting. We have built technology that leverages our our insights from the digital brain on how to forecast time series. Could be anything. Could be sensor data, could be demand forecasting, could be financial data. We figured out that the mechanisms that underly the processing of brains. It's extremely powerful for forecasting. Now, this is our first technology we have put in into production. We're working with Microsoft as a partner to bring that to businesses everywhere. So
+
+**[16:22](https://www.youtube.com/watch?v=SpY6dZID41A&t=982s)** hopefully soon whoever of you is on Microsoft can actually try it out directly on their own data. That's that's our dream. But we also launched uh something for for everyone to try out because people always ask us how can I how can I play with a with a digital brain or you know with your technology. So here in the QR code we have a little website uh uh you don't have to sign up. You can just put in an Excel sheet and you can figure out uh you know how to how to forecast the rest of the Excel sheet. And uh the way it works it's uh you know it's just integrated with a chat environment um where you can talk to talk to your data. Exactly. Um, you can basically upload your Excel sheet and it will give you a prediction of how your data is going to behave and then it's going to give you some confidence scores because that's what we saw is
+
+**[17:09](https://www.youtube.com/watch?v=SpY6dZID41A&t=1029s)** extremely important in the real world and the brain is extremely good at is figuring out okay maybe you know roughly what uh your demand for buying selling this product is tomorrow but probably you want some sort of confidence interval around that as you can see here. So this is the let's say the first phase of technology we have built and we've seen that the the results are quite amazing. We get better forecasting accuracy out of that than if you use normal technologies. This is uh you know how you typically would use it in the real world. But that's of course only the first step. So that's now that's what we're commercializing. But what we're really betting on uh big time is now the the action part the interaction part. This is a classic example. This is a the game Pong. I'm sure you all know it. It's kind of a table tennis uh like game and it's very simple. I mean, kids can
+
+**[17:58](https://www.youtube.com/watch?v=SpY6dZID41A&t=1078s)** learn it in a couple of minutes. But for AI, it's surprisingly complicated. And even the best models take hundreds or thousands of tries to to solve that. And so, we thought this is a good test to see how our AI performs in the real world or real world in the benchmark world. And so, we plugged it into the green uh character and I'm just going to walk you through how it learns. uh over the the different games. So the the first game it cannot do anything. It can move a little bit and it kind of vaguely seems to follow the ball but not really structured and it doesn't do anything useful. But already in the second game it starts to hit and this is really something that is important to uh to emphasize current AI even the the best deep learning models they take tens
+
+**[18:45](https://www.youtube.com/watch?v=SpY6dZID41A&t=1125s)** or hundreds of tries to even do a single hit. This is uh it's really that's the power of having a architecture that's set up for the type of physical interaction that is uh that is required here. And after learning how to hit it learns how to score within game four. These are games until three by the way. So there's almost no feedback. You only get feedback uh when you when you hit or when you score. And uh by game seven or so it starts to win and by game 11 it wins uh outright. So this is this is a learning speed that we have seen that is quite uh astonishing in a way because this complex system you know this is 500 neurons this runs on my laptop and the competition that solves that let's say 20 30 times slower runs on a GPU in 12 hours so this is really a totally different game and obviously our technology is not as mature as deep
+
+**[19:36](https://www.youtube.com/watch?v=SpY6dZID41A&t=1176s)** learning deep reinforcement learning so we cannot take this tech now and throw it at anything that runs but we can Now take this and choose a a use case where we think this will have a huge impact. As you might have guessed, this is of course robotics. And so we're working with Microsoft to figure out what are the industry's biggest problems in robotics actually on the factory floor and can this learning the 30 50 or even more uh time speed up we get in learning can that change something? [snorts] And uh so I cannot talk a lot about uh the the results. It's it's very promising and we're quite excited about what this can mean. Um but this will have to be for for another talk. The the key message is really it's extremely interesting because all the effort we have put in comes together. Now you have
+
+**[20:24](https://www.youtube.com/watch?v=SpY6dZID41A&t=1224s)** different sensors, you have image data, video data, you have uh uh the the positions of the robot and all of them we translate into electricity into into activity for the digital brain and they naturally merge. We don't have to do anything to merge these different signals. they just combine. And so, um, this is what we're what we're actively, uh, exploring right now. And we can talk a bit more in the Q&A. What does the future look like? So, what we are doing is really building AI with digital brains and we starting small. The network I showed you before was 500 neurons. Even for the robot arm, we're not going into the extreme uh, sizes. This is not a game of size. And we have big networks. We have big brains of up to a million neurons. An ant has 250,000 neurons. A fruitfly has 150,000 neurons.
+
+**[21:15](https://www.youtube.com/watch?v=SpY6dZID41A&t=1275s)** So way less than the brains we have. So if we get it right, if we get the brain into the right state to learn and to interact with the world, it is in theory possible that without any further scaling, we can get to extremely interesting behavior like swarm behavior, autonomous navigation in 3D. So that's what we're working towards. >> [snorts] >> Some takeaways for you. Um, complex real world interaction is really hard and requires you to learn instantly. The current approach of just scaling up data, having more compute will not work. Once you're at on the edge, how you going to have the compute you need to to learn on the fly? If something goes wrong, if something changes from your data distribution, how are you going to
+
+**[22:03](https://www.youtube.com/watch?v=SpY6dZID41A&t=1323s)** fix that on the fly if you don't have a way to learn quickly? Combining current AI with the intelligence of even tiny animals would be groundbreaking. If we have a an ant that can do autonomous navigation and organize all the cars in the world, but you can also integrate it with chatbt or similar LLMs and you have vision models and you have all these technologies we have. You get the best of all worlds. We're not trying to replace that. It's like a like a human using a calculator and using chat and using other things doesn't make us less capable. It makes us more powerful to have these tools at our disposal. And AI with digital brains works today. We have real showcases where we can outperform deep learning in these
+
+**[22:53](https://www.youtube.com/watch?v=SpY6dZID41A&t=1373s)** dynamic environments where you have to learn quickly and where you have to uh interact with a complex world. And this is really what we're betting on. And it's not only robotics. Robotics are the most the most exciting of course, but even in in other cases where you have dynamical systems that are more digital um that are complex to manage like manufacturing plants where you have to manage a a complex process everything where you don't have enough data because the problem is too difficult. So this is what I want you to think about while we are building these digital brains is if you had an AI already that can do that that you can teach like a child, like a dog that can actually dynamically learn on the factory floor without a big data center. What would that mean for your business, for your software, for how we think about AI, how we think about software,
+
+**[23:42](https://www.youtube.com/watch?v=SpY6dZID41A&t=1422s)** and how would we integrate that into our products for our customers value? So with that, I'm happy to take a few questions. >> All right. Thank you. Thank you. Give it up for Daniel. [applause]

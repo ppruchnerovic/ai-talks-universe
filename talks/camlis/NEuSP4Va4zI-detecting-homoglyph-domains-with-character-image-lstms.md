@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []
-channel: null
+channel: "CAMLIS"
 duration_min: 17
-published_at: null
+published_at: 2022-11-30T02:55:44Z
 video_id: NEuSP4Va4zI
 url: https://www.youtube.com/watch?v=NEuSP4Va4zI
 youtube_url: https://www.youtube.com/watch?v=NEuSP4Va4zI
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+CAMLIS 2022, Rob Brandon

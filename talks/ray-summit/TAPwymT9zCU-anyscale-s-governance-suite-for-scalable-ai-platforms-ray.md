@@ -8,14 +8,14 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 25
-published_at: null
+published_at: 2024-10-18T21:13:52Z
 video_id: TAPwymT9zCU
 url: https://www.youtube.com/watch?v=TAPwymT9zCU
 youtube_url: https://www.youtube.com/watch?v=TAPwymT9zCU
 tags: []
-topics: ["Governance, ethics & regulation"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 
@@ -29,4 +29,20 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+At Ray Summit 2024, Dominic Catalano and Allen Yin from Anyscale present the company's Governance Suite and demonstrate how it supports AI platforms at scale in the era of Generative AI. The talk focuses on addressing the challenges faced by AI Platform leaders in balancing strong security foundations, flexible controls, and integrations with developer productivity.
+
+The speakers introduce Anyscale's suite of governance features, demonstrating how they enable sustainable AI practices for modern enterprises. They explore how these tools provide the necessary security, controls, observability, and automation required for large-scale AI deployments. This presentation offers insights into managing the complexities of enterprise-level AI adoption, particularly in the context of the rapid growth and deployment of Generative AI technologies.
+
+--
+
+Interested in more?
+- Watch the full Day 1 Keynote: https://youtu.be/jwZHJthQvXo
+- Watch the full Day 2 Keynote https://youtu.be/Lury2ad6KG8
+
+--
+
+🔗 Connect with us:
+- Subscribe to our YouTube channel: https://www.youtube.com/@anyscale
+- Twitter: https://x.com/anyscalecompute
+- LinkedIn: https://linkedin.com/company/joinanyscale/
+- Website: https://www.anyscale.com

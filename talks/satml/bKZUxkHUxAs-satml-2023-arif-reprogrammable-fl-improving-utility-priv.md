@@ -10,7 +10,7 @@ year: 2023
 speakers: []
 channel: "Nicolas Papernot"
 duration_min: 18
-published_at: null
+published_at: 2023-02-16T05:00:15Z
 video_id: bKZUxkHUxAs
 url: https://www.youtube.com/watch?v=bKZUxkHUxAs
 youtube_url: https://www.youtube.com/watch?v=bKZUxkHUxAs
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming

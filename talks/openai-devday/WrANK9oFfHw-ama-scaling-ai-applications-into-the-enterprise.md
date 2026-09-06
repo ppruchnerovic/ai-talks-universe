@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "OpenAI"
 duration_min: 27
-published_at: null
+published_at: 2025-10-08T17:01:31Z
 video_id: WrANK9oFfHw
 url: https://www.youtube.com/watch?v=WrANK9oFfHw
 youtube_url: https://www.youtube.com/watch?v=WrANK9oFfHw
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Join a live AMA with Decagon & Clay founders and an Andreessen Horowitz investor on cracking enterprise AI adoption—why many enterprise AI pilots fail, what founders get wrong, and how they scaled to become unicorns.

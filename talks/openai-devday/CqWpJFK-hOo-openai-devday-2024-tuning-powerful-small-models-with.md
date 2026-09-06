@@ -10,7 +10,7 @@ year: 2024
 speakers: []
 channel: "OpenAI"
 duration_min: 31
-published_at: null
+published_at: 2024-12-17T17:00:18Z
 video_id: CqWpJFK-hOo
 url: https://www.youtube.com/watch?v=CqWpJFK-hOo
 youtube_url: https://www.youtube.com/watch?v=CqWpJFK-hOo
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Optimize scalability by transferring intelligence from large models to smaller, cost-effective ones

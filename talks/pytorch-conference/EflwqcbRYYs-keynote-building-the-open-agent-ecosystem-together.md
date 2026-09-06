@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "PyTorch"
 duration_min: 9
-published_at: null
+published_at: 2025-11-04T03:43:38Z
 video_id: EflwqcbRYYs
 url: https://www.youtube.com/watch?v=EflwqcbRYYs
 youtube_url: https://www.youtube.com/watch?v=EflwqcbRYYs
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Keynote: Building the Open Agent Ecosystem Together: Introducing OpenEnv - Joe Spisak, Product Director, Meta & Lysandre Debut, Chief Open Source Officer, Hugging Face

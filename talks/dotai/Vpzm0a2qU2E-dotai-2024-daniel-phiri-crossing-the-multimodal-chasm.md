@@ -8,14 +8,14 @@ category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Daniel Phiri"]
-channel: null
+channel: "dotconferences"
 duration_min: 8
-published_at: null
+published_at: 2024-10-23T08:29:33Z
 video_id: Vpzm0a2qU2E
 url: https://www.youtube.com/watch?v=Vpzm0a2qU2E
 youtube_url: https://www.youtube.com/watch?v=Vpzm0a2qU2E
 tags: []
-topics: ["Multimodal, vision, speech & robotics"]
+topics: ["Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 
@@ -29,4 +29,8 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Filmed at dotAI on October 17, 2024 in Paris. More about the conference on https://www.dotai.io
+
+Who is Daniel Phiri?
+
+Daniel is a developer with a specialization in web technologies and open-source tooling. He is a Developer Advocate at Weaviate, an open-source AI-Native vector database.

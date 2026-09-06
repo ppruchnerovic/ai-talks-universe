@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 27
-published_at: null
+published_at: 2024-05-20T21:38:57Z
 video_id: eX-_G5w_UGo
 url: https://www.youtube.com/watch?v=eX-_G5w_UGo
 youtube_url: https://www.youtube.com/watch?v=eX-_G5w_UGo
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Scott Clinton talks our CISO Security Checklist for AI Apps at the #RSAC 2024 OWASP LLM Apps Top 10 Generative AI Summit.

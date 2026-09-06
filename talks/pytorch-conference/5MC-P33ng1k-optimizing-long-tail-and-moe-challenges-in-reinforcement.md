@@ -10,12 +10,12 @@ year: 2025
 speakers: ["Chenyang Zhao"]
 channel: "PyTorch"
 duration_min: 28
-published_at: null
+published_at: 2025-11-04T03:43:36Z
 video_id: 5MC-P33ng1k
 url: https://www.youtube.com/watch?v=5MC-P33ng1k
 youtube_url: https://www.youtube.com/watch?v=5MC-P33ng1k
 tags: []
-topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Optimizing Long-Tail and MoE Challenges in Reinforcement Learning with SGLang - Chenyang Zhao, UCLA
+
+The increasing complexity of multi-turn interactions and the adoption of advanced architectures like Mixture-of-Experts (MoE) present significant performance and optimization challenges in Reinforcement Learning. This talk will introduce the SGLang RL group's recent breakthrough. I will present our novel methods for mitigating long-tail rollout problems inherent in complex, multi-turn RL tasks, ensuring more robust and reliable model performance. Furthermore, we will detail our specialized acceleration techniques for the resharding process in MoE models, which dramatically reduce latency. Finally, we will provide an overview of the growing SGLang RL ecosystem and highlight our key partnerships, demonstrating the framework's real-world impact and production-readiness for training and serving the next generation of models.

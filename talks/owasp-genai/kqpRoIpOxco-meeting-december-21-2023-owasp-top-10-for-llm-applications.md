@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2023
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 30
-published_at: null
+published_at: 2023-12-22T18:55:01Z
 video_id: kqpRoIpOxco
 url: https://www.youtube.com/watch?v=kqpRoIpOxco
 youtube_url: https://www.youtube.com/watch?v=kqpRoIpOxco
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Our Bi-Weekly Meeting

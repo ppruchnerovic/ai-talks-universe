@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "Meta Developers"
 duration_min: 9
-published_at: null
+published_at: 2025-09-18T23:38:33Z
 video_id: h9kl1QT_FTM
 url: https://www.youtube.com/watch?v=h9kl1QT_FTM
 youtube_url: https://www.youtube.com/watch?v=h9kl1QT_FTM
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Unlock your creative talents with the generative AI tools transforming the Worlds Desktop Editor. Join creator mentor Tellous (Matt Torres) for an eye-opening demonstration that will change how you think about world creation speed and possibility. You'll witness firsthand how these tools can turn your imagination into reality in record time. From concept to creation, generative AI eliminates the traditional barriers that slow down the creative process, giving you the ability to iterate, experiment and create faster than ever before.

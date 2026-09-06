@@ -10,7 +10,7 @@ year: 2025
 speakers: []
 channel: "Meta Developers"
 duration_min: 9
-published_at: null
+published_at: 2025-09-18T23:39:56Z
 video_id: 3P8lHacmM7Q
 url: https://www.youtube.com/watch?v=3P8lHacmM7Q
 youtube_url: https://www.youtube.com/watch?v=3P8lHacmM7Q
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Discover why enterprises and local developers are choosing Llama for its flexibility, customizability and local deployment capabilities. In this expert-led session, we'll reveal the proven strategies and best practices for fine-tuning Llama models to tackle specific domain challenges with precision. You’ll gain insights into optimizing model performance for a variety of use cases, from complex enterprise problems to specialized local applications. Covering everything from initial model selection to advanced fine-tuning techniques, this session will equip you with the knowledge to fully unlock the potential of Llama for your specific needs.

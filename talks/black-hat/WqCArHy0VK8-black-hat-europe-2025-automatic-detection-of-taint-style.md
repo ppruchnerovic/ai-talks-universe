@@ -6,27 +6,112 @@ conference: black-hat
 conference_name: "Black Hat"
 category: "Security conferences"
 edition: "Black Hat"
-year: 2025
+year: 2026
 speakers: []
-channel: null
+channel: "Black Hat"
 duration_min: 27
-published_at: null
+published_at: 2026-07-03T15:30:20Z
 video_id: WqCArHy0VK8
 url: https://www.youtube.com/watch?v=WqCArHy0VK8
 youtube_url: https://www.youtube.com/watch?v=WqCArHy0VK8
 tags: []
 topics: ["Agents & orchestration", "Security, safety & red teaming"]
-transcript: false
+transcript: true
 ---
 
 # Black Hat Europe 2025 | Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents
 
 **Speaker not identified**
 
-`Black Hat` · `Black Hat` · `2025` · `27 min`
+`Black Hat` · `Black Hat` · `2026` · `27 min`
 
 [Watch the recording](https://www.youtube.com/watch?v=WqCArHy0VK8) · [Conference site](https://www.blackhat.com/)
 
 ## Description
 
-*No description published on YouTube.*
+Large Language Models (LLMs) have revolutionized software development, enabling the creation of AI-powered applications known as LLM-based agents. However, recent studies reveal that LLM-based agents are highly susceptible to taint-style vulnerabilities, which allow malicious prompts to exploit security-sensitive operations. These vulnerabilities pose severe threats to the security of agents, potentially allowing attackers to take over the entire agent remotely.
+
+In this paper, we propose a novel directed greybox fuzzing approach, called AgentFuzz, the first fuzzing framework for detecting taint-style vulnerabilities in LLM-based agents. AgentFuzz consists of three key phases. First, AgentFuzz leverages the LLM to generate functionality-specific seed prompts in the form of natural language. Second, AgentFuzz utilizes a multifaceted feedback design to assess seed quality from both semantic and distance levels, prioritizing seeds with higher quality. Finally, AgentFuzz employs functionality and argument mutators to refine seeds and trigger vulnerabilities effectively. In our evaluation against 20 widely-used open-source agent applications, AgentFuzz identified 34 high-risk 0-day vulnerabilities, achieving 33 times higher precision than the state-of-the-art approach. These vulnerabilities encompass serious threats like code injection, impacting 14 open-source agents, with 7 of them having over 10,000 stars on GitHub. To date, 23 CVE IDs have been assigned.
+
+By:
+Fengyu Liu  |  Ph.D Student, Fudan University
+Ke Li  |  Security Engineer, ByteDance
+Jiaqi Luo  |  Ph.D Student, Fudan University
+Jiarun Dai  |  Assistant Professor, Fudan University
+Bocheng Xiang  |  PhD students, Fudan University
+Tian Chen  |  Master's Student, Fudan University
+Yilin Wang  |  Master's Student, The University of Manchester
+Youkun Shi  |  Postdoctoral Fellow, Hong Kong Polytechnic University
+Xing Li  |  Senior Security Engineer, Huawei Technologies Co., Ltd.
+Yuan Zhang  |  Professor, Fudan University
+Min Yang  |  Professor, Fudan University
+
+## Transcript
+
+*2,964 words · source: supa (en, exact timings)*
+
+**[0:02](https://www.youtube.com/watch?v=WqCArHy0VK8&t=2s)** Hello everyone. I'm Curry from my dance. Today I'll be sharing our research on security agent security. Our talk is titled "Make Agent Defeat Agent". Automatic detection of 10 style vulnerabilities in our base agents. Before diving in, let me briefly introduce ourselves. I'm Curry, an experienced AI web security engineer in my dance. The author of WebKit and a member of those security team. Together, combined expertise in programming languages, AI security and offensive research helps us understand this new attack surface. My co-speaker, Family Lou, is a PhD student at Fudan University. He has spoken at Black Hat USA and Europe.
+
+**[0:49](https://www.youtube.com/watch?v=WqCArHy0VK8&t=49s)** And he's also an active CTF player with the Weaver and Unicorn Kings. Besides, he has won the distinguished paper award in top-tier security conferences like S&P and CCS. Here's our outline for today's talk. We'll start with a background overview. Explaining what our base agents are and why they introduce new security issues. Next, we'll discuss the research challenges and our solutions. Leading to the core of our system. The agent fuzz approach. Where we will explain how it works internally. Finally, we'll share our experimental evaluation, including the real vulnerabilities we
+
+**[1:36](https://www.youtube.com/watch?v=WqCArHy0VK8&t=96s)** discovered in a popular open source agent. Some of which have already received CVE IDs. So, let's begin by looking at how an M base agent actually operates. M base agents are growing really fast. You can find tons of projects on GitHub and many projects with thousands of stars. These agents can now perform complex tasks by working towards like web search, databases, and even code execution. All based on natural language instructions. Let's walk through a typical agent workflow. First, the agent the user enters a prompt in
+
+**[2:24](https://www.youtube.com/watch?v=WqCArHy0VK8&t=144s)** natural language. Second, the agent combines it with the built-in system prompt and forwards the whole instruction to the arm. Next, the arm interprets the instruction and returns a structured response. Such as a JSON plan describing which tool to use. Finally, the agent passes the response and executes the corresponding actions. Sometimes running code or accessing sensitive resources. This design is flexible but introduce a new class of vulnerabilities. Especially prompt style vulnerability. Here's a real example from a popular
+
+**[3:14](https://www.youtube.com/watch?v=WqCArHy0VK8&t=194s)** open source agent called Be Shown. It show exactly how a simple prompt can end up executing attacker code. The attacker sends a malicious prompt through the agent's web API. For example, use Elasticsearch with permission check to find documents containing source doc column from Y. The agent forwards the prompt to the arm. The arm replies with a JSON plan saying the tool to use is Elasticsearch permission check and includes the file source doc column from Y as its input. The agent then follows their plan. It loads the name component and runs it with the that input screen. Besides this tool, there's a function
+
+**[4:02](https://www.youtube.com/watch?v=WqCArHy0VK8&t=242s)** that checks the weather the input contains source code. If it does, it leads the string and passes the word after the colon to eval. So, the content from one from a task prompt is executed directly on the server. A committed remote code execution. I'm seeing this single chain from the prompt to arms bounds to tool invocation to sync execution is the essence of the 10 style vulnerability in agents. It shows how flexible component design and indirect indirect calls make these bugs both easy to create and hard to detect. Now, let's look at why these
+
+**[4:55](https://www.youtube.com/watch?v=WqCArHy0VK8&t=295s)** vulnerabilities happen so often. The fundamental reason is that agent developers really treat arms outputs as untrusted data. They assume the model is intelligent and helpful. So, when the arm says, "Use this tool and run this command." Developers simply let the agent execute it without thinking twice. In other words, agents really commenting on the arms inputs, but the arm can easily be triggered by a malicious prompt to produce harmful code or instructions. But, there is no validation or sanitization in between. Whatever comes from the arms flows directly into sensitive operations
+
+**[5:44](https://www.youtube.com/watch?v=WqCArHy0VK8&t=344s)** like eval, system calls, or network requests. This lack of defensive programming mindset turns the arm itself into an attacker amplifier. It forcefully carries out an attacker's intent instead of the wrappers. So, the root cause we target. And next, I'll show why existing detection tools cannot properly defend against it. Let's first look at the traditional approach, static analysis. Most of static tools work by tracing data flows from source to sinks. They try to see if user input can reach a dangerous function like eval or or
+
+**[6:32](https://www.youtube.com/watch?v=WqCArHy0VK8&t=392s)** start system. By in arm-based agents, this approach quickly breaks down. The first problem is indirect calls. Agents often invoke functions dynamically through tool registries or reflection. For example, a function name may come from the arm's wrongs and be called at runtime. Static analysis cannot follow these dynamic links. So, it misses many real vulnerabilities, what we call false negatives. The second problem is sanitizers. Some developers add partial filters to clean inputs. Static analysis doesn't actually execute this code.
+
+**[7:20](https://www.youtube.com/watch?v=WqCArHy0VK8&t=440s)** So, it can verify whether those sanitizers are truly effective. As a result, it flags safe code as vulnerable, creating false positives. In short, static analysis alone is insufficient. How about we try dynamic techniques such as fuzzing to find the real exploitable issues. Traditional fuzzing like AFL are great for structured inputs. Specifically, they generate many mutated inputs and use lightweight feedback such as code coverage and distance to focus exploration. However, for LM-based agents, they face two major problems.
+
+**[8:08](https://www.youtube.com/watch?v=WqCArHy0VK8&t=488s)** First, they cannot generate meaningful natural language prompts. By-level mutations like bit flips do not create prompts that carry the right semantics and invoke agent components. Second, they cannot transfer meaning of the prompts. Agents require prompts with specific intent and phrasing to trigger certain tools. Random or by-level mutations rarely produce that intent. So, the fuzzer wastes the time on irrelevant inputs. So, how do we solve this problem? How about designing a fuzzing approach that understands both code and natural language? Next, we move on to the second part, research
+
+**[8:56](https://www.youtube.com/watch?v=WqCArHy0VK8&t=536s)** challenges and solutions. Here, I explain why applying traditional fuzzing to agents is so difficult and how agent fuzzing overcomes these challenges step by step. Now, let's talk about the core ideas and challenges. For 10-style vulnerabilities, fuzzing is actually a very good fit because these bugs are all triggered at specific sync functions. And directed and directed fuzzing can focus its effort towards those things. So, in theory, this should work well. But when we apply traditional gray-box fuzzing to LLM based agents, it becomes extremely difficult.
+
+**[9:44](https://www.youtube.com/watch?v=WqCArHy0VK8&t=584s)** Why? Because prompts are written in natural language, not structured inputs. Traditional fuzzers like AFLGo or Triller mutate bytes, but cannot generate meaningful English prompts that the LLM or the agent can truly understand. In other words, the fuzzer needs to understand both code logic and language semantics at the same time. A challenge that traditional tools were never designed to handle. So next let's look at these challenges one by one. To make directed fuzzing actually work for LLM based agents, we must solve three key challenges. Challenge one, seed generation.
+
+**[10:35](https://www.youtube.com/watch?v=WqCArHy0VK8&t=635s)** Traditional fuzzers rely on structured seed files, but our inputs are prompts written in natural language. How can we automatically generate meaningful prompts that align with the agent's functionalities and still make sense to the LLM? Challenge two, seed scheduling. In normal programs, we can measure the control flow distance to the sink and simply pick the seed that is closer. But, agents contain many indirect calls resolved at the run time. So, static distance no longer reflects real progress. We need a smart way to evaluate seeds that considers both semantics and distance. Challenge three,
+
+**[11:23](https://www.youtube.com/watch?v=WqCArHy0VK8&t=683s)** seed mutation. Even if a prompt reaches the right component, it might still miss the hidden constraints in the code. So, we must maintain prompts carefully. Preserving the original meaning in natural language while changing specific parts to satisfy code level checks like required keywords or argument formats. These three problems define boundary between traditional fuzzing and agent fuzzing. Next, I'll show how Agent Fuzz addresses them with three dedicated modules. Let me briefly show how Agent Fuzz is organized. It has three modules, each designed to tackle one of the three challenges I
+
+**[12:10](https://www.youtube.com/watch?v=WqCArHy0VK8&t=730s)** mentioned earlier. Let's go through them one by one. Look at the left of the diagram. This module extracts human meaning from the agent code and turns it into natural language seed prompts. We locate the sink call sites and the backward call chains. Then, ask them to compose short prompts that exercise those functions. The result of the poll is a poll of fortunate over seeds ready for testing. Next, we decide which seed to try first. See the middle of the diagram. This module ranks seeds using lightweight runtime feedback. We run our seed, collect a short trace, and score how
+
+**[12:57](https://www.youtube.com/watch?v=WqCArHy0VK8&t=777s)** promising it is. In another word, semantic match and closeness to the sink. Top scoring seeds are chosen for mutation. So, we focus effort where it matters. After selecting a seed, we find it to overcome remaining barriers. Look at the right of the diagram. The sink guided seed mutation model mutates the chosen seed until the sink is reached. It was meaning preserving actors and argument tricks and guided by feedback. When sync is triggered, the system validates the result and it means a POC product. Now that you see the big picture, the following pages will show a running
+
+**[13:45](https://www.youtube.com/watch?v=WqCArHy0VK8&t=825s)** example and unpack each model in detail. This slide shows a concrete running example. Agent Fuzz starts by extracting a core chain like elastic similarity third feeding evil. The arm generates three LOC C prompts such as asking elastic third file documents. Agent Fuzz runs these Cs, scores the resulting traces, selects top ones, and then mutates the top C by adding missing files like source.doc color. The final problem which is the same and it triggers evil. And that's how POC is born. First, as you can see, Agent Fuzz is
+
+**[14:34](https://www.youtube.com/watch?v=WqCArHy0VK8&t=874s)** prior way to launch a browser and interact with the target agent. Next, Agent Fuzz mutates the prompts and continuously sends these mutated prompts to the target agent. Once Agent Fuzz discovers a problem that can reach the sync, it closes the browser and begins exploration phase. Finally, the terminal in the lower left will receive the reverse shell. Attackers can use this shell to actually act really commands in the target agent, then take over it. After how Agent Fuzz works in action.
+
+**[15:28](https://www.youtube.com/watch?v=WqCArHy0VK8&t=928s)** We now move to the third part of this talk, the detailed approach of Agent Fuzz. In the first model, a multi-seed generation model, Agent Fuzz aims to generate a natural language seed prompt. Specifically, we start by using a static analysis called Creal to extract code chains that lead to the dangerous things, such as eval. Their reaction to turn those code chains into natural seed prompts using one-shot and chain-of-thought technique. For example,
+
+**[16:15](https://www.youtube.com/watch?v=WqCArHy0VK8&t=975s)** if the chain looks like a calculator leading to eval, they are might reduce the prompt like "Please use the calculator to evaluate 1 + 1." This allows the agents to enter the right execution path. Now, let's move to the model two, feedback-driven seed scheduling. The goal here is to choose which seed prompt to mutate next based on runtime feedback from previous executions. Agent Fuzz combines three scores, semantic distance and penalty, to make this decision. First,
+
+**[17:02](https://www.youtube.com/watch?v=WqCArHy0VK8&t=1022s)** the semantic score measures whether a prompt's meaning is consistent with a vulnerable component in the same code chain. To calculate this, we use the code chain extracted in model one. We feed both the code chain description and the problem into the app. And ask whether problems intend to match the function or module involved in that chain. The closer the meaning, the higher the semantic score. In short, this score tell us that this problem talk about the right thing. Second, the distance score measures how close the execution trace go to the sink during run time. Agent Fuzz class actually code chain and compares it with the ground truth sink
+
+**[17:51](https://www.youtube.com/watch?v=WqCArHy0VK8&t=1071s)** chain actually statically. We compute the overlap between the two. So, a longer matched prefix means the request has reached deeper along the runnable path, giving a higher distance score. Finally, the penalty score helps imbalance exploration and exploitation. If I see a chain have already been scheduled too many times, its penalty increase, pushing Agent Fuzz exploring new areas instead of repeating the same ones. Putting them together, we rank all candidates seeds using final score. This multifaceted feedback helps Agent Fuzz prioritize the most of our missing
+
+**[18:39](https://www.youtube.com/watch?v=WqCArHy0VK8&t=1119s)** problems, those that are both semantically correct and execution-wise closer to the sink, while still keeping the seed diverse. Here is a short example running show showing why our feedback-driven seed gathering helps. Imagine two seeds, S2 and S3. They are look equally close in the control flow graph. One of the end contents was is permission check. While the other one doesn't. So, only one of them actually triggers code paths that match the intended component.
+
+**[19:29](https://www.youtube.com/watch?v=WqCArHy0VK8&t=1169s)** By bringing semantic feedback into the decision, Agent Frost picks the seed that's more likely to reach the sink. So, that makes the fuzzing much more efficient. With good seeds selected, sometimes they still need fixing. That's where mutation comes in. Now, let's look at the model three, sink-guided seed mutation. After the first seed is selected, Agent Frost needs to mutate it so that the prompt can truly trigger the sink. This model has two kinds of mutators, functionality mutator and argument mutator.
+
+**[20:17](https://www.youtube.com/watch?v=WqCArHy0VK8&t=1217s)** First, the functionality mutator focuses on semantic correction. Sometimes, our seed prompt fails to call the right component because its meaning is slightly off. For example, the original prompt use electric search find document doesn't include the idea of a permission check. So, the agent calls the wrong function. The functionality mutator rewrites the prompt to better match the vulnerable component's semantics. For instance, use electric search for similarity search with permission check to find a doc. This narrows the semantic gap and makes the agent invoke the intended function. Second,
+
+**[21:05](https://www.youtube.com/watch?v=WqCArHy0VK8&t=1265s)** the argument mutator focuses on constraint satisfaction. If if the right function is called, the sink may still not be reached causing some internal variable doesn't meet the required constraint. Agent Fuzz use a concordic execution based constraint solver to find what values are needed. It extracts conditions from the execution trace. For example, sink squares a parameter that contains source doc column. Then it mutates the problem accordingly, producing something like use elector with permission check find doc with source doc column print one. This way, the payload directly flows into the sink.
+
+**[21:55](https://www.youtube.com/watch?v=WqCArHy0VK8&t=1315s)** Now, I'd like to invite my partner to walk you through the evaluation section. >> Okay, so far, we have walked through the entire workflow of Agent Fuzz. Next, let's move to the evaluation part to see how well Agent Fuzz performs in practice. Let's see how we measured performance of Agent Fuzz. We evaluate Agent Fuzz on 20 open source agents from GitHub. Each repository has more than 1,000 stars. This give us a diverse and popular sites of real projects. Our experiments are conducted with GPT-4o as the LLM backend to ensure strong tutorials and reasoning
+
+**[22:45](https://www.youtube.com/watch?v=WqCArHy0VK8&t=1365s)** capability during agent execution. We measure detection precision and recall to assess accuracy and run comparison experiments to show the advantage of Agent Fuzz over baselines. Here are the key results from our large-scale vulnerability detection. AgentFuzz discovered 34 vulnerabilities in 14 real-world agents with 23 of them already assigned CVE or issue IDs. Among these targets, seven agents have more than 10,000 GitHub stars, which means these vulnerabilities are not in toy example, but in widely used and influential open-source projects. More importantly, the detected
+
+**[23:34](https://www.youtube.com/watch?v=WqCArHy0VK8&t=1414s)** vulnerabilities include critical ones, such as remote code execution and SSRF. These results demonstrate that AgentFuzz can effectively uncover high-impact security flaws in modern LLM-based agents. Now, I will show the comparison experiment. We compare AgentFuzz with a baseline tool called LLM-Smith. LLM-Smith performs static backtracing using PyCG and labels every backward call chain as a vulnerability. By contrast, AgentFuzz uses static tracing plus dynamic validation and feedback-driven fuzzing to confirm risky
+
+**[24:22](https://www.youtube.com/watch?v=WqCArHy0VK8&t=1462s)** chains before reporting them. As a result, AgentFuzz improves precision by 33 times and improves recall by three times compared to the baseline. This demonstrates that AgentFuzz substantially reduces false positive while finding many more real vulnerabilities. Finally, we showcase a real vulnerability that AgentFuzz discovered in Auto-GPT, a project with over 180,000 stars on GitHub. As shown in the diagram, the blue part shows how the attacker gets in through a prompt injection that correctly changed the model's behavior and makes it follow malicious instruction.
+
+**[25:11](https://www.youtube.com/watch?v=WqCArHy0VK8&t=1511s)** The red part marks the moment the execution reaches a dangerous function where the injected content is processed without any security checks. In this case, the model invokes the Jinja2 template rendering component, which becomes a vulnerable sink. The green part represents the malicious payload, which is then executed and gives the attacker full control of the system. This case clearly demonstrates how Agent Fuzz automatically generated a working proof of concept, detecting and confirming a real high-impact remote code execution vulnerability in a widely-used agent. We provide the source code and the white
+
+**[26:02](https://www.youtube.com/watch?v=WqCArHy0VK8&t=1562s)** paper links on this slide for your reference. Please feel free to check this repository and the paper for implementation details and evaluation artifacts. If you have any question or need help reproducing the results, please send me an email and I will be happy to assist. Thanks, everyone. If you have any questions, feel free to come chat with us later. Thank you. >> [applause]

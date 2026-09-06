@@ -10,7 +10,7 @@ year: 2025
 speakers: ["Yahav Biran", "Liangfu Chen"]
 channel: "PyTorch"
 duration_min: 29
-published_at: null
+published_at: 2025-11-04T03:45:05Z
 video_id: aoZwgbedQo4
 url: https://www.youtube.com/watch?v=aoZwgbedQo4
 youtube_url: https://www.youtube.com/watch?v=aoZwgbedQo4
@@ -29,4 +29,6 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+Multi-Accelerator PyTorch Serving With NxD Inference and vLLM - Yahav Biran & Liangfu Chen, Amazon
+
+Learn how the open-source NxD Inference library delivers high-performance PyTorch model serving on AWS Trainium and Inferentia. We’ll show how NxDI features like continuous batching, speculative decoding, and distributed parallelism can run alongside TorchInductor-compiled CUDA kernels in a single vLLM-based Kubernetes cluster, enabling real-time traffic shifting between accelerator pools.

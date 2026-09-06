@@ -8,9 +8,9 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 14
-published_at: null
+published_at: 2024-04-15T21:02:22Z
 video_id: drRsd3Nrv24
 url: https://www.youtube.com/watch?v=drRsd3Nrv24
 youtube_url: https://www.youtube.com/watch?v=drRsd3Nrv24
@@ -29,4 +29,4 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+The team, led by Scott, discussed upcoming activities including the RSA conference, a virtual summit on AI, and a website refresh. They also reviewed the success of their recent social media campaign and planned for future promotions. Lastly, they addressed the improvement of their data gathering methodology and looked forward to the next week's catch-up through Slack.

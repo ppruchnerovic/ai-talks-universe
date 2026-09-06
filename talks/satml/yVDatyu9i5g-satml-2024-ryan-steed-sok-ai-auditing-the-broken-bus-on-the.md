@@ -10,7 +10,7 @@ year: 2024
 speakers: ["Ryan Steed"]
 channel: "Nicolas Papernot"
 duration_min: 15
-published_at: null
+published_at: 2024-04-10T15:32:36Z
 video_id: yVDatyu9i5g
 url: https://www.youtube.com/watch?v=yVDatyu9i5g
 youtube_url: https://www.youtube.com/watch?v=yVDatyu9i5g

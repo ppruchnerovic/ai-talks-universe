@@ -8,9 +8,9 @@ category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []
-channel: null
+channel: "Anyscale"
 duration_min: 31
-published_at: null
+published_at: 2025-11-19T17:16:50Z
 video_id: tN_-nktp1Hk
 url: https://www.youtube.com/watch?v=tN_-nktp1Hk
 youtube_url: https://www.youtube.com/watch?v=tN_-nktp1Hk
@@ -29,4 +29,15 @@ transcript: false
 
 ## Description
 
-*No description published on YouTube.*
+At Ray Summit 2025, Simon Mo from vLLM shares a comprehensive look at the past year of progress in the vLLM project and what’s coming next on the roadmap.
+
+He highlights major advancements across performance, scalability, inference optimization, and ecosystem integration, reflecting vLLM’s rapid growth as a leading open-source inference engine. The talk also covers key community contributions, real-world deployment stories, and architectural improvements that have enabled vLLM to support increasingly complex and demanding LLM workloads.
+
+Finally, Simon outlines the future direction of vLLM, including upcoming features, areas of active research, and long-term goals for pushing the boundaries of high-throughput, low-latency LLM inference.
+
+Attendees will gain a clear understanding of vLLM’s evolution, its expanding capabilities, and how the project is shaping the future of open-source LLM infrastructure.
+
+Subscribe to our YouTube channel to stay up-to-date on the future of AI! https://www.youtube.com/c/anyscale
+
+🔗 Connect with us:
+X: https://x.com/anyscalecompute

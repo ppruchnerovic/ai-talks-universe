@@ -89,10 +89,6 @@ Current state is `STATE.md`; the rules and the shape of the system are
   video whose only track is off-list writes no caption file and becomes a
   permanent miss on the free route. The fix is fetching every language on
   every video, which is bandwidth on all of them. Bites only on our-IP runs.
-- **`count` drifts by one in three catalogs** (`ai-devcon-tessl`,
-  `ai-engineer`, `qcon-infoq`): three videos were copied in by hand in
-  `ec68e00a` without bumping it. Only `--refresh` rewrites those files, so
-  the next weekly run clears it.
 - **The `refresh_report.py` gate is advisory.** A reviewer can merge a
   regressed branch, and a local `--refresh` from a throttled connection still
   writes hollow records into `data/catalog/`; the check is on the derived
@@ -104,11 +100,6 @@ Current state is `STATE.md`; the rules and the shape of the system are
   8–10 of 10), and still the one open test-quality item — what it measures
   needs rethinking, not its threshold. *Design decisions* → *The two rankers
   are compared at the web's top 40*.
-- **The pre-2026 descriptions are not backfilled.** 4,823 videos were skipped
-  by the year filter; one `enrich.py --all` without `--min-year` and about a
-  hundred quota units. Nothing depends on it — 2026 is a selection policy,
-  not a coverage target — and 503 of those videos are now below the corpus
-  floor anyway.
 
 ## Not built, by choice
 

@@ -8,13 +8,13 @@ category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: ["Red Teaming"]
-channel: null
+channel: "OWASP GenAI Security Project"
 duration_min: 60
-published_at: null
+published_at: 2025-01-15T21:17:39Z
 video_id: EZzXG7Z-POE
 url: https://www.youtube.com/watch?v=EZzXG7Z-POE
 youtube_url: https://www.youtube.com/watch?v=EZzXG7Z-POE
-tags: []
+tags: ["ai security", "ai red teaming", "deepfake", "rsa 2025"]
 topics: ["Security, safety & red teaming"]
 transcript: false
 ---
@@ -25,8 +25,12 @@ transcript: false
 
 `OWASP GenAI Security Project` · `OWASP GenAI Security` · `2025` · `60 min`
 
+`#ai security` `#ai red teaming` `#deepfake` `#rsa 2025`
+
 [Watch the recording](https://www.youtube.com/watch?v=EZzXG7Z-POE) · [Conference site](https://genai.owasp.org/)
 
 ## Description
 
-*No description published on YouTube.*
+Join the core team as they dive into a comprehensive discussion on recent workshops, AI advancements, and the significance of industry conferences. This episode unpacks the latest feedback from cybersecurity sessions and sets the stage for RSA 2025 and other upcoming events. Scott Clinton and Bryan Nakayama add depth with insights into AI red teaming and deepfake initiatives as well as community growth metrics.
+
+Don't miss out on this engaging conversation that bridges the gap between cybersecurity strategy and practical implementation. Subscribe for more expert insights!
