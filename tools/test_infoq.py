@@ -304,5 +304,40 @@ with tempfile.TemporaryDirectory() as tmp:
     atu.TRANSCRIPTS = saved_tr
 
 
+
+# --- merge_source: the recency window and the missing channel -----------------
+# A `first: N` source lists only its newest N uploads. When N come back, a
+# cached video that is not among them has been pushed past the window, not
+# removed; when fewer come back the whole channel was seen and absence is real.
+CAP = {"url": "https://www.youtube.com/@x/videos", "first": 2}
+def cached():
+    return {k: {"video_id": k, "title": k, "source_url": CAP["url"], "channel": "X Conf"}
+            for k in ("old00000001", "old00000002")}
+def listed(*ids):
+    return [{"video_id": i, "title": i, "duration_s": 60, "channel": None,
+             "label": None, "year": None, "source_url": CAP["url"]} for i in ids]
+vids = cached()
+S.merge_source(vids, CAP, listed("new00000001", "old00000001"))
+check("a full window keeps the video that fell off its end",
+      set(vids) == {"old00000001", "old00000002", "new00000001"}, sorted(vids))
+vids = cached()
+S.merge_source(vids, CAP, listed("old00000001"))
+check("a listing shorter than the cap saw the whole channel, so an absent video is deleted",
+      set(vids) == {"old00000001"}, sorted(vids))
+vids = cached()
+S.merge_source(vids, {"url": CAP["url"]}, listed("old00000001"))
+check("an uncapped source still deletes what it no longer lists",
+      set(vids) == {"old00000001"}, sorted(vids))
+vids = cached()
+S.merge_source(vids, CAP, listed("new00000001", "old00000001"))
+check("a listing without a channel keeps the cached one",
+      vids["old00000001"]["channel"] == "X Conf", vids["old00000001"])
+check("and a new video takes the channel the rest of its source has",
+      vids["new00000001"]["channel"] == "X Conf", vids["new00000001"])
+vids = cached()
+S.merge_source(vids, CAP, [dict(listed("old00000001")[0], channel="Renamed")])
+check("a listing that does name a channel is believed",
+      vids["old00000001"]["channel"] == "Renamed", vids["old00000001"])
+
 print("\n" + (f"{len(FAILS)} FAILED: {FAILS}" if FAILS else "all checks passed"))
 sys.exit(1 if FAILS else 0)

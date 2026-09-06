@@ -302,19 +302,38 @@ def merge_source(videos: dict, src: dict, found: list[dict]) -> None:
     """Fold one source's listing into the cached catalogue, in place.
 
     Everything this source used to hold that it no longer lists is gone —
-    unlisted, deleted or moved. Other sources' videos are untouched. What a
-    previous run collected about a video that is still listed survives, so
-    enrichment is not undone by a re-enumeration; a seed's own fields win over
-    it, because there the agenda is the better source and not a guess.
+    unlisted, deleted or moved — with one exception: a source with a `first`
+    cap lists only its newest N uploads, so when the listing comes back full a
+    video absent from it has most likely been pushed past the window by newer
+    uploads rather than removed. Those are kept; only a listing shorter than
+    the cap has seen the whole channel and can vouch for an absence. Other
+    sources' videos are untouched. What a previous run collected about a video
+    that is still listed survives, so enrichment is not undone by a
+    re-enumeration; a seed's own fields win over it, because there the agenda
+    is the better source and not a guess.
+
+    The channel is carried the same way. yt-dlp's flat listing of a channel
+    tab stopped naming the uploader (2026.08.19 returns `channel: null` with
+    the title and duration intact), and a refresh that took that at face value
+    once emptied the field on ~4,600 records. A listing without a channel
+    keeps the cached one, and a video new to the catalogue takes the channel
+    the rest of its source already has.
     """
     ids = {f["video_id"] for f in found}
-    for vid, v in list(videos.items()):
-        if v.get("source_url") == src["url"] and vid not in ids:
-            del videos[vid]
+    window_full = bool(src.get("first")) and len(found) >= src["first"]
+    if not window_full:
+        for vid, v in list(videos.items()):
+            if v.get("source_url") == src["url"] and vid not in ids:
+                del videos[vid]
+    source_channel = collections.Counter(v["channel"] for v in videos.values()
+                             if v.get("source_url") == src["url"] and v.get("channel"))
+    fallback_channel = source_channel.most_common(1)[0][0] if source_channel else None
     for f in found:
         prev = videos.get(f["video_id"], {})
         carried = {k: prev[k] for k in ("description", "published_at", "tags", "details_at")
                    if k in prev and k not in f}
+        if not f.get("channel"):
+            carried["channel"] = prev.get("channel") or fallback_channel
         if prev.get("infoq_at"):
             # infoq.py found this video on the programme and wrote the page's
             # facts onto it. Those beat the listing's — the edition it was
