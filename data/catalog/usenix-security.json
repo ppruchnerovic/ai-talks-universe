@@ -1,7 +1,7 @@
 {
   "slug": "usenix-security",
   "name": "USENIX Security Symposium",
-  "enumerated_at": "2026-09-06T13:22:05+00:00",
+  "enumerated_at": "2026-09-07T09:25:32+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@UsenixOrg/videos",
@@ -8925,7 +8925,7 @@
     "bXGpPqtsv-I": {
       "video_id": "bXGpPqtsv-I",
       "title": "NSDI '26 - Defending against Traffic Analysis Attacks with Flexible In-Network Obfuscation",
-      "duration_s": 1125,
+      "duration_s": 1126,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,

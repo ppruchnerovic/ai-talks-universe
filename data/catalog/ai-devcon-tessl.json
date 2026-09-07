@@ -1,7 +1,7 @@
 {
   "slug": "ai-devcon-tessl",
   "name": "AI DevCon (Tessl)",
-  "enumerated_at": "2026-09-06T13:19:12+00:00",
+  "enumerated_at": "2026-09-07T09:22:35+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@tessl-ai/videos",
@@ -2175,7 +2175,7 @@
     },
     "P03T9DXBxYw": {
       "video_id": "P03T9DXBxYw",
-      "title": "Nobody Read the Pull Requests the Agent Opened",
+      "title": "Justin Cormack on Debugging With Agents",
       "duration_s": 604,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -4645,7 +4645,7 @@
     },
     "ptwholFiAZg": {
       "video_id": "ptwholFiAZg",
-      "title": "AI Code Review That Understands Your PR's Intent",
+      "title": "Code Review Is Where Accountability Sits",
       "duration_s": 330,
       "channel": "AI Native Dev",
       "label": "Tessl",

@@ -1,7 +1,7 @@
 {
   "slug": "qcon-infoq",
   "name": "QCon / InfoQ Dev Summit",
-  "enumerated_at": "2026-09-06T13:18:58+00:00",
+  "enumerated_at": "2026-09-07T09:22:20+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@infoq/videos",
@@ -17,7 +17,7 @@
       "type": "infoq"
     }
   ],
-  "count": 728,
+  "count": 729,
   "videos": {
     "-1_KvpNDC6k": {
       "video_id": "-1_KvpNDC6k",
@@ -5834,6 +5834,15 @@
         "Scalability"
       ],
       "details_at": "2026-08-31T15:35:32+00:00"
+    },
+    "bfxtSZDScQs": {
+      "video_id": "bfxtSZDScQs",
+      "title": "OpenAI’s Performance Strategy for 900M ChatGPT Users",
+      "duration_s": 3015,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos"
     },
     "bnxa5Te0TWc": {
       "video_id": "bnxa5Te0TWc",

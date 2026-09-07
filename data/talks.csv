@@ -26147,6 +26147,7 @@ Write for InfoQ
 - Increase your visibility.
 - Grow your career.
 www.infoq.com/write-for-infoq/?u…aign=writeforinfoq"
+bfxtSZDScQs,OpenAI’s Performance Strategy for 900M ChatGPT Users,qcon-infoq,QCon / InfoQ Dev Summit,General software conferences,,InfoQ,,,InfoQ,50,,https://www.youtube.com/watch?v=bfxtSZDScQs,
 VLNH5rDsdN8,""".Net is too slow"" was not an option",wearedevelopers,WeAreDevelopers World Congress,General software conferences,Data engineering & MLOps,World Congress 2026,2026,Tomasz Woznica,WeAreDevelopers,26,2026-07-09T15:30:00+00:00,https://www.youtube.com/watch?v=VLNH5rDsdN8,"There were two simple scenarios among dozen others that had to meet strict SLAs when we start migration mBank core banking system (Altamira) from mainframe to distributed platform.
 
 Processing input files, computation and persist results in database.
@@ -32450,31 +32451,6 @@ Chapters:
 🔔 Subscribe for weekly videos on AI-native development
 
 What's your team's ""invariant"" you'd never let an agent break? Let us know in the comments."
-ptwholFiAZg,AI Code Review That Understands Your PR's Intent,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,AI in the SDLC & engineering orgs; Coding assistants & agents,Tessl,2026,,AI Native Dev,6,2026-08-28T11:00:34Z,https://www.youtube.com/watch?v=ptwholFiAZg,"Coding agents can write thousands of lines and open thousands of PRs. Automating code review is the only way that keeps up — and trusting the review is the hard part. Macey Baker and Colin Hallett walk through Tessl Code Review, and why review is where your accountability actually sits.
-
-What we cover:
-– Why reviewing and trusting agent-written code became the bottleneck
-– How automated code review reads the intent of a PR, not just the diff
-– Review lenses: versionable review skills you can scope with globs
-– Why owning your review standard in-repo beats configuring someone's web UI
-– Where automated code review fits inside a software factory
-
-Chapters:
-00:00:00 - Introduction
-00:00:11 - Why reviewing agent-written code is the bottleneck
-00:00:55 - What makes Tessl Code Review different
-00:01:30 - The trust problem with AI code review tools
-00:02:03 - Review lenses: scoped, customizable review skills
-00:02:42 - What changes once code review is automated
-00:03:14 - You own the standard: review config in your repo
-00:04:01 - Code review inside a software factory
-00:04:34 - How to get started
-
-Build your software factory, one workflow at a time, with Tessl:
-
-🔔 Subscribe for weekly videos on AI-native development
-
-Which part of your review process would you automate first? Tell us in the comments."
 Tf81SXt7ovo,AI Native Dev at AI Fokus 2026 with John Davies on local AI models,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,,Tessl,2026,,AI Native Dev,9,2026-05-26T15:36:44Z,https://www.youtube.com/watch?v=Tf81SXt7ovo,AI Native Dev at AI Fokus 2026 with Baruch Sadogursky (@jbaruch) hosting John Davies on running local AI models
 R8Ef0sn_HGI,AI Security & the Agent-Ready Web: Experts Weigh In,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"Agents & orchestration; Security, safety & red teaming",Tessl,2026,,AI Native Dev,63,2026-06-16T12:00:05Z,https://www.youtube.com/watch?v=R8Ef0sn_HGI,"When AI systems negotiate their own security, the ground rules of web security have to shift. Agents aren't just assisting humans. They're operating at a machine scale that humans designed systems can't easily accommodate. It sounds like science fiction, but it’s a hard truth that systems must adapt to or risk falling behind. Are you prepared for agents that can bypass traditional user controls? The data reveals a staggering 83% of enterprises plan to deploy AI, yet only 29% feel ready to do so securely, underscoring a disconnect between ambition and security readiness.
 
@@ -32724,6 +32700,31 @@ Tessl: https://www.linkedin.com/company/tesslio/
 
 🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/iao
 🔔 Subscribe for weekly episodes on AI-native development"
+ptwholFiAZg,Code Review Is Where Accountability Sits,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"AI in the SDLC & engineering orgs; Coding assistants & agents; Governance, ethics & regulation",Tessl,2026,,AI Native Dev,6,2026-08-28T11:00:34Z,https://www.youtube.com/watch?v=ptwholFiAZg,"Coding agents can write thousands of lines and open thousands of PRs. Automating code review is the only way that keeps up — and trusting the review is the hard part. Macey Baker and Colin Hallett walk through Tessl Code Review, and why review is where your accountability actually sits.
+
+What we cover:
+– Why reviewing and trusting agent-written code became the bottleneck
+– How automated code review reads the intent of a PR, not just the diff
+– Review lenses: versionable review skills you can scope with globs
+– Why owning your review standard in-repo beats configuring someone's web UI
+– Where automated code review fits inside a software factory
+
+Chapters:
+00:00:00 - Introduction
+00:00:11 - Why reviewing agent-written code is the bottleneck
+00:00:55 - What makes Tessl Code Review different
+00:01:30 - The trust problem with AI code review tools
+00:02:03 - Review lenses: scoped, customizable review skills
+00:02:42 - What changes once code review is automated
+00:03:14 - You own the standard: review config in your repo
+00:04:01 - Code review inside a software factory
+00:04:34 - How to get started
+
+Build your software factory, one workflow at a time, with Tessl:
+
+🔔 Subscribe for weekly videos on AI-native development
+
+Which part of your review process would you automate first? Tell us in the comments."
 z6mgrQCg1NM,Context Is Eating Software Development,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"Agents & orchestration; Evals, observability & reliability",Tessl,2026,,AI Native Dev,31,2026-02-17T09:01:19Z,https://www.youtube.com/watch?v=z6mgrQCg1NM,"Most teams think agentic dev is about writing better prompts. It's not.
 
 Guy Podjarny and Simon Maple explain why managing context, not crafting prompts, is what separates teams that scale with agents from teams that don't. They walk through a practical framework for building, evaluating, and distributing the context your agents actually need.
@@ -33644,6 +33645,37 @@ What we cover:
 
 🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/6gq
 🔔 Subscribe for weekly episodes on AI-native development"
+P03T9DXBxYw,Justin Cormack on Debugging With Agents,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"AI in the SDLC & engineering orgs; Agents & orchestration; Coding assistants & agents; Enterprise adoption & strategy; Evals, observability & reliability; Inference, serving & GPU infra",Tessl,2026,,AI Native Dev,10,2026-09-03T16:00:22Z,https://www.youtube.com/watch?v=P03T9DXBxYw,"Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:
+
+Coding agent reliability stops being an abstraction at three in the morning, when somebody still has to run the thing. Day 2 of AI DevCon London went looking for what changes once agents are in production, and the stories turned out to be better than the demos.
+
+A panel assembled at short notice — Stéphane Jourdan, Simon Rohrer and Pini Reznik — works through what happens when everyone in the company is shipping through an agent around the clock, and why the scarce thing isn't root cause analysis but context: what changed yesterday, which service talks to which. Simon works in a regulated industry, and says what surprised his developers most wasn't code generation at all — point an agent at Elastic logs, ServiceNow incidents and the code together and it settles in 30 seconds what would otherwise eat hours of digging. May Walter (co-founder and CTO, Hud) gives the best kind of talk, the one about something that didn't work: they automated the investigation and opened a pull request for every high-impact fix, and nobody read them, so they rebuilt the output to convince the human rather than the agent. Amit Kushwaha (NVIDIA) has the counterintuitive finding — your GPU sits idle while the agent is off making a tool call, and account for that properly and you can serve roughly twice the users your benchmark predicted. And Justin Cormack, formerly CTO at Docker, names his single most useful debugging investment: getting the AI to build him a tracing framework, because an agent handed a rare bug with no reproduction guesses, and an agent handed a trace finds it.
+
+What we cover:
+– Why context from production beats root cause analysis
+– What surprised developers most about pointing agents at an incident
+– Why automated pull requests go unread, and what to send instead
+– Ranking fixes by business impact and risk instead of by optimisation
+– Why your GPU is idle during tool calls, and what that does to concurrency
+– Giving an agent a trace instead of a bug it can't reproduce
+
+Chapters:
+00:00:00 - Introduction
+00:00:25 - Panel: Stéphane Jourdan, Simon Rohrer, Pini Reznik on agents in prod
+00:01:50 - Simon Rohrer: agents are startlingly good at diagnosing production
+00:03:01 - May Walter, Hud: the automation nobody wanted
+00:03:36 - Why the automated pull requests went unread
+00:04:42 - Convince the human, not the agent
+00:05:28 - Amit Kushwaha, NVIDIA: benchmarking the agent era
+00:06:36 - Your GPU is idle while the agent makes a tool call
+00:07:42 - Justin Cormack, formerly Docker: build the tracing framework first
+00:08:59 - Give an agent a trace, not a bug it can't reproduce
+
+Build your software factory, one workflow at a time, with Tessl:
+
+🔔 Subscribe for weekly videos on AI-native development
+
+What's the first thing you'd point an agent at in production? Tell us in the comments."
 5SKh-FmjX7U,"Katie Roberts - Stop Maintaining, Start Evolving: Applying AI-Native Practices to Brownfield Codebas",ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,AI in the SDLC & engineering orgs; Enterprise adoption & strategy,Tessl,2026,"Katie Roberts, Stop Maintaining",AI Native Dev,29,2026-07-13T09:28:53Z,https://www.youtube.com/watch?v=5SKh-FmjX7U,"The ""AI-Native"" dream is often idealized as starting fresh with flawless prompts and no technical debt. But the real world for most engineers consists of mature brownfield environments, with complex codebases and build pipelines held together by hope. It's a challenging paradox. A highly successful product, yet a maze of interconnected systems and legacy logic.
 
 Katie Roberts from NearForm dives into how AI Native Engineering can be the answer to these challenges. With her experience as a Technical Director at NearForm and having worked on various projects at the BBC, Katie brings real-world insights into transforming brownfield codebases. She discusses practical applications like using the Strangler Fig Pattern to modernize legacy systems, illustrating how AI can help document, test, and eventually replace outdated code components.
@@ -33826,37 +33858,6 @@ Tessl: https://www.linkedin.com/company/tesslio/
 
 🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/iao
 🔔 Subscribe for weekly episodes on AI-native development"
-P03T9DXBxYw,Nobody Read the Pull Requests the Agent Opened,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"AI in the SDLC & engineering orgs; Agents & orchestration; Coding assistants & agents; Enterprise adoption & strategy; Evals, observability & reliability; Inference, serving & GPU infra",Tessl,2026,,AI Native Dev,10,2026-09-03T16:00:22Z,https://www.youtube.com/watch?v=P03T9DXBxYw,"Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:
-
-Coding agent reliability stops being an abstraction at three in the morning, when somebody still has to run the thing. Day 2 of AI DevCon London went looking for what changes once agents are in production, and the stories turned out to be better than the demos.
-
-A panel assembled at short notice — Stéphane Jourdan, Simon Rohrer and Pini Reznik — works through what happens when everyone in the company is shipping through an agent around the clock, and why the scarce thing isn't root cause analysis but context: what changed yesterday, which service talks to which. Simon works in a regulated industry, and says what surprised his developers most wasn't code generation at all — point an agent at Elastic logs, ServiceNow incidents and the code together and it settles in 30 seconds what would otherwise eat hours of digging. May Walter (co-founder and CTO, Hud) gives the best kind of talk, the one about something that didn't work: they automated the investigation and opened a pull request for every high-impact fix, and nobody read them, so they rebuilt the output to convince the human rather than the agent. Amit Kushwaha (NVIDIA) has the counterintuitive finding — your GPU sits idle while the agent is off making a tool call, and account for that properly and you can serve roughly twice the users your benchmark predicted. And Justin Cormack, formerly CTO at Docker, names his single most useful debugging investment: getting the AI to build him a tracing framework, because an agent handed a rare bug with no reproduction guesses, and an agent handed a trace finds it.
-
-What we cover:
-– Why context from production beats root cause analysis
-– What surprised developers most about pointing agents at an incident
-– Why automated pull requests go unread, and what to send instead
-– Ranking fixes by business impact and risk instead of by optimisation
-– Why your GPU is idle during tool calls, and what that does to concurrency
-– Giving an agent a trace instead of a bug it can't reproduce
-
-Chapters:
-00:00:00 - Introduction
-00:00:25 - Panel: Stéphane Jourdan, Simon Rohrer, Pini Reznik on agents in prod
-00:01:50 - Simon Rohrer: agents are startlingly good at diagnosing production
-00:03:01 - May Walter, Hud: the automation nobody wanted
-00:03:36 - Why the automated pull requests went unread
-00:04:42 - Convince the human, not the agent
-00:05:28 - Amit Kushwaha, NVIDIA: benchmarking the agent era
-00:06:36 - Your GPU is idle while the agent makes a tool call
-00:07:42 - Justin Cormack, formerly Docker: build the tracing framework first
-00:08:59 - Give an agent a trace, not a bug it can't reproduce
-
-Build your software factory, one workflow at a time, with Tessl:
-
-🔔 Subscribe for weekly videos on AI-native development
-
-What's the first thing you'd point an agent at in production? Tell us in the comments."
 bFBNXIoLkW4,"Oleg Šelajev - You're absolutely right, it was your home directory! - AI Native DevCon June 2026",ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"Security, safety & red teaming",Tessl,2026,,AI Native Dev,33,2026-07-25T05:51:04Z,https://www.youtube.com/watch?v=bFBNXIoLkW4,"Docker Sandboxes tackle a common AI dilemma: how do you harness AI's productivity without exposing your system to security risks? When AI agents run unchecked, they can unwittingly cause havoc, like optimizing your home directory or upgrading Python unexpectedly. Finding the balance between that YOLO speed and security is crucial.
 
 Oleg Šelajev from Docker dives deep into this challenge, bringing his expertise from the DevRel team. Oleg explores the concept of Docker Sandboxes, highlighting their role in safely managing AI workloads. His experience with Atomic Jar and Testcontainers enhances his insights into isolating AI operations to prevent unwanted system alterations.
