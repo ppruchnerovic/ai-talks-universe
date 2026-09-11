@@ -95,7 +95,7 @@ def seed_record(talk: dict, tr: dict | None) -> dict:
         # everything downstream, and the AI-relevance test matches on them.
         "tags": [t for t in ([talk.get("track")] + list(talk.get("tags") or [])) if t],
         # When the talk was *given*. Not a YouTube upload timestamp, which the
-        # agenda API does not know — see STATE.md.
+        # agenda API does not know — see docs/STATE.md.
         "published_at": talk.get("starts_at"),
         "session_page": talk.get("session_page"),
     }

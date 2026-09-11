@@ -1,0 +1,910 @@
+# Guide — how the corpus is built, searched and rebuilt
+
+The long-form documentation. The [README](../README.md) is the landing page;
+this file is everything behind it: where the data comes from, what survives
+into the corpus, the search syntax in the browser and the terminal, and how to
+rebuild, extend and test the whole thing. Design rationale and diagrams are in
+[`ARCHITECTURE.md`](ARCHITECTURE.md); the current numbers and the operational
+handoff in [`STATE.md`](STATE.md).
+
+**9,797 talks from 53 conferences, 3,405 of them with a full transcript.** The
+curated list of which conferences and why is
+[`ai-conferences.md`](../ai-conferences.md); its machine-readable mirror, which
+the pipeline actually reads, is [`conferences.json`](../conferences.json).
+
+Browse it at <https://ppruchnerovic.github.io/ai-talks-universe/> — no install,
+works on a phone, and the URL carries the search so you can send someone a link
+straight to a query.
+
+## Where the data comes from
+
+There is no agenda API here. Fifty-three conferences publish their programmes in
+the only machine-readable place they have in common: YouTube. So the corpus is
+built in two stages that cost very different things.
+
+| Stage | Cost | What it gives |
+|---|---|---|
+| **Enumerate** (`sync_catalog.py --refresh`) | cheap, one page request per 100 videos | video id, title, duration, channel |
+| **Enrich** (`enrich.py`) | 1 API unit per 50 videos, or ~1.4s per video without a key | description, publish date, YouTube tags |
+| **Transcribe** (`fetch_transcripts.py`) | one Supadata credit per talk, or metered per IP on the free routes | every word spoken, with timings |
+| **Import** (`import_kb.py`) | free, offline | a conference YouTube will not list, from an agenda that already knows it |
+| **InfoQ** (`infoq.py`) | free, one page request per talk at robots.txt's 3s | metadata *and* the full transcript, from the conference's own pages |
+
+Each stage caches to disk and is resumable, and the corpus is re-derived from
+those caches offline. That separation is the point: enumeration can be redone
+weekly for nothing, while transcripts accumulate over months.
+
+Enumeration has one blind spot, and it is not a small one: a recording that is
+**unlisted** is on YouTube but on no channel page and no playlist, so no amount
+of paging finds it. The WeAreDevelopers World Congress publishes 358 talks that
+way — enumeration of its channel found exactly one of them. What knows those
+video ids is the congress's own agenda, so for such a conference the registry
+carries a source of `"type": "videos"` that reads a file in `data/seeds/`
+instead of a URL. `import_kb.py` writes one from a corpus built against an
+agenda API, together with the transcripts that corpus already had, and
+everything downstream then treats those talks like any other.
+
+### The one conference that publishes its own programme
+
+Everything above treats YouTube as the only machine-readable programme these
+conferences have, which is true of fifty-two of them. InfoQ is the exception:
+QCon and the InfoQ Dev Summits put their recordings on
+[infoq.com/presentations](https://www.infoq.com/presentations/), and every one
+of those pages carries a **full hand-edited transcript in the HTML** — free, to
+an anonymous client, no key and no JavaScript. `robots.txt` allows the path and
+asks for `Crawl-delay: 3`, which is the pace `infoq.py` keeps.
+
+That is worth its own route for a reason the table above makes plain: a
+transcript is the expensive column. The YouTube side of this same conference
+had 358 talks and 107 transcripts between them, every one of those bought with
+a Supadata credit. The 232 taken from infoq.com cost nothing but the crawl
+delay.
+
+Two things make this route more than a cheaper `fetch_transcripts.py`.
+
+**The year comes from the edition, not the publish date.** InfoQ drips a
+conference's recordings out for a year afterwards, so `datePublished` is when
+the video went up rather than when the talk was given. Of ten presentations
+posted during 2026, nine were recorded at QCon San Francisco 2025, QCon London
+2025 or QCon AI New York 2025 — dating this corpus by publication would have
+filed all nine under the wrong year. So enumeration walks the per-edition
+listings instead (`/qcon-london-2026/presentations/`,
+`/qcon-ai-boston-2026/presentations/`, …) and each talk takes the year of the
+edition that listed it, which is a fact about the programme rather than about
+InfoQ's publishing queue.
+
+**A talk on both InfoQ and YouTube stays one talk.** `infoq.py` matches on
+title against the catalogue already built from the channel, and on a hit it
+writes the transcript and the better metadata — a real abstract instead of
+channel boilerplate, the speakers stated instead of guessed off the title, the
+edition — straight onto the record that is already there. That record keeps its
+YouTube id, so the video stays watchable and its transcript stays upgradable to
+exact timings later. Only a presentation YouTube never listed becomes a new
+record, under an `iq-` id whose link is its InfoQ page.
+
+In practice the two surfaces overlap far less than expected: 7 of the 232
+presentations matched a video the channel had already given us, and none at all
+of the 25 from the 2026 editions did. InfoQ.com is mostly *additive* here, not
+duplicative — which is the argument for reading it.
+
+InfoQ's transcripts are prose, with no caption timings. Starts are interpolated
+from word position across the runtime — the same treatment the kome.ai route
+already gets, sharing one implementation in `atu.segment_plain_text` — and
+marked `"timing": "estimated"` so nothing downstream presents them as exact.
+That is what lets every reader (the markdown deep links, `query.py`'s moments,
+the browser index) work on these unchanged.
+
+Because not every record is a YouTube one any more, a talk now carries both a
+`url` — the canonical link, the video where there is a video and the talk's own
+page where InfoQ is all there is — and a `youtube_url` that is `null` unless
+there really is one. Anything building a `&t=` deep link, an embed or a
+thumbnail has to ask for the latter. The CSV follows the JSON: its link column
+is `url` (it was `youtube_url`), and for an InfoQ-only talk it holds the page.
+
+### What survives into the corpus
+
+A conference registered with `"scope": "all"` contributes everything it
+publishes. One registered `"scope": "ai"` — NDC, GOTO, KubeCon, re:Invent,
+Black Hat and the other general conferences with AI tracks — contributes only
+the sessions whose title, description or tags match the AI vocabulary in
+`tools/atu.py`. A single source can override its conference: the
+WeAreDevelopers World Congress seed carries `"scope": "all"`, because a
+curated agenda is a programme rather than a channel's uploads, and its
+security, testing and platform sessions are worth having whether or not they
+say "AI". Without that, an *AI* talks corpus would be four fifths
+Kubernetes networking and iOS layout. Each conference also carries a minimum
+duration, which drops the stings, trailers and sponsor spots channels mix in.
+
+There is a year floor as well, registry-wide: **the corpus starts at 2023**.
+Before that this is a different subject — the modern-LLM vocabulary appears in
+3-9% of the 2015-22 talks against 30% of 2023's, and nothing older than 2023 was
+ever worth a transcript credit, so none has one. What that leaves out is applied
+ML and data engineering: AMLD 2022, Data Council before it renamed itself, MLOps
+World 2021, Web Summit pitch heats. **CAMLIS, DEF CON AI Village and BSides Las
+Vegas override it** with `"min_year": null` and keep their whole back catalogue,
+because adversarial ML was the same subject before the vocabulary changed and 36
+of DEF CON AI Village's 37 talks are 2019-21. A talk whose year is not yet known
+passes the floor — enrichment is what resolves a year — and enumeration caches
+every year regardless, so the floor is a re-derivation away from being moved:
+`sync_catalog.py --no-min-year` rebuilds with the whole catalogue.
+
+Of 17,943 videos enumerated, 9,572 survive; with the 225 presentations that
+exist only on infoq.com the corpus is 9,797. `sync_catalog.py` prints exactly
+what each conference dropped and why, the year floor included.
+
+### Who gave the talk
+
+YouTube has no speaker field, so the name is read out of what the channel
+wrote. A description that states it under a `Speaker(s):` heading wins —
+Microsoft's channels write that heading in Unicode bold with one bulleted name
+a line, MLOps World puts the name on the line after it — and failing that the
+title is read for the shapes conferences actually use: `Topic — Name & Name,
+Company`, `Topic by Name and Name`, `[Tag] Name - Topic`. A segment is a name
+only if every part of it passes a deliberately narrow test (two to four
+capitalised words, none of them a role, a brand word or the conference's own
+name), and a "name" that recurs across a tenth of a conference is treated as
+its host or its brand and dropped. The rule is conservative on purpose:
+`speakers` is weighted four times a description word in both rankers, and one
+false positive lands under every talk that carries it. 58% of talks have a
+speaker; a seeded or InfoQ talk carries the one its programme stated.
+
+### What the talk is about
+
+`category` is a fact about the conference — every talk inherits one of five
+registry labels, and they name the *kind of venue*, not a subject:
+
+| Conference type | talks |
+|---|---:|
+| Practitioner AI conferences | 4,059 |
+| General software conferences | 2,537 |
+| Vendor events | 2,044 |
+| Security conferences | 899 |
+| Business & industry events | 258 |
+
+The browser calls this facet **Conference type**; the field, the CSV column
+and the CLI flag keep the name `category`. A venue label cannot follow a
+subject inside a programme: AI Engineer alone spans agents, evals, RAG,
+inference and coding tools. So each talk also carries `topics`, zero or more
+of fifteen subjects, derived by keyword rules in `tools/atu.py` the way the
+AI-relevance test is:
+
+| Topic | talks |
+|---|---:|
+| Agents & orchestration | 2,561 |
+| Enterprise adoption & strategy | 1,845 |
+| Security, safety & red teaming | 1,496 |
+| Classic ML & data science | 1,096 |
+| Inference, serving & GPU infra | 1,064 |
+| Science, healthcare & applied ML | 936 |
+| Evals, observability & reliability | 927 |
+| Governance, ethics & regulation | 772 |
+| Data engineering & MLOps | 718 |
+| Training, fine-tuning & model building | 616 |
+| RAG, retrieval & knowledge | 481 |
+| AI in the SDLC & engineering orgs | 466 |
+| Coding assistants & agents | 444 |
+| Multimodal, vision, speech & robotics | 354 |
+| Prompting & context engineering | 243 |
+
+A phrase in the title is enough on its own; the tags and the description
+together have to say two *different* things about a subject before it
+counts, because matching a description on any one word filed three topics on
+the median talk and "image" or "customer" pulled in whatever said them once.
+Transcripts are deliberately not read — a third of talks have one, and a
+label that moved when a transcript arrived would make the facet drift with
+every fetch. What a whole conference repeats is stripped first: a description
+line under more than a tenth of its talks (PyData's "PyData is an educational
+program of NumFOCUS…"), a tag on more than three tenths of its videos (AI
+Engineer tags every upload `startups`). 7,922 talks carry at least one topic
+and 1,875 none — keynotes, panels, the non-AI half of the WeAreDevelopers
+programme, and 76 talks with no description at all. The rule is precise
+rather than generous on purpose, and `sync_catalog.py` prints the
+distribution on every run so a phrase that starts firing on boilerplate is
+seen in the run that did it. Topics enter no ranker: they narrow a search,
+they never reorder one. Neither does the conference type, since 2026-09-02
+in the browser and from the start in the CLI: a venue label is not evidence
+about a talk.
+
+The two facets cross rather than nest, which is why both are kept. Only 681
+of the 1,496 talks on *Security, safety & red teaming* were given at a
+security conference; 307 were at general software conferences and 258 at
+vendor events. Inside the security conferences, 126 talks are on *Agents &
+orchestration* and 90 on *Governance, ethics & regulation*. "What do
+security-conference speakers say about agents" and "what do vendor keynotes
+say about security" are different questions, and only the two facets
+together can ask either.
+
+## Layout
+
+```
+├── index.html                     zero-install search UI (GitHub Pages)
+├── conferences.json               the registry — what to read, and how to filter it
+├── ai-conferences.md              the human curation behind that registry
+├── docs/
+│   ├── GUIDE.md                   this file
+│   ├── ARCHITECTURE.md            diagrams: pipeline, data flow, routes, rankers, CI; the design decisions
+│   ├── STATE.md                   where things stand, and the handoff for the next run
+│   ├── STATS.md                   the corpus by the numbers
+│   ├── TODO.md                    what is open
+│   └── HISTORY.md                 dated write-ups of every session's work
+├── specs/                         one spec per domain, written for a model working on the repo
+├── data/
+│   ├── talks.json                 canonical corpus — the source of truth
+│   ├── talks.csv                  same thing for spreadsheets
+│   ├── catalog/<conf>.json        raw enumeration + collected details, per conference
+│   ├── seeds/<name>.json          talks enumeration cannot see, listed outright
+│   ├── transcripts/<video_id>.json  exact caption timings, one file per talk
+│   ├── talks.db                   SQLite + FTS5, used by query.py (gitignored)
+│   ├── search-meta.json           compact metadata the browser loads up front
+│   └── tindex/                    stemmed inverted index over transcripts and
+│                                  descriptions, sharded, lazy-loaded
+├── talks/<conf>/<video_id>-<slug>.md   one readable file per talk
+└── tools/
+    ├── atu.py                     shared helpers, and the AI-relevance test
+    ├── sync_catalog.py            registry -> talks.json + csv + markdown
+    ├── enrich.py                  descriptions, dates and tags
+    ├── fetch_transcripts.py       YouTube captions -> transcripts/   (run locally)
+    ├── import_kb.py               another corpus -> seeds/ + transcripts/ (offline)
+    ├── build_index.py             everything -> talks.db + browser index
+    ├── query.py                   ranked search from the terminal
+    ├── excerpt.py                 the passages of a talk that answer a question
+    ├── check_registry.py          conferences.json vs ai-conferences.md
+    ├── refresh_report.py          field coverage before vs after a refresh
+    ├── test_fetch_transcripts.py  offline checks for the quota bookkeeping
+    ├── test_excerpt.py            offline checks for the excerpt budget
+    ├── test_query.py              offline checks for the query parser and id resolution
+    ├── test_infoq.py              offline checks for the InfoQ fold-in
+    ├── test_speakers.py           offline checks for the speaker extraction
+    ├── test_topics.py             offline checks for the topic rules and the boilerplate filter
+    ├── test_semantic.py           offline checks for the semantic layer's fusion and its absence
+    ├── test_stem.py               the Python and JavaScript stemmers agree
+    └── uitest/                    browser tests for index.html
+```
+
+### Why four representations
+
+They serve different readers and cost almost nothing to keep in sync, since all
+of them are generated from the same run.
+
+| Artifact | For | Why not the others |
+|---|---|---|
+| `data/talks.json` / `.csv` | scripts, spreadsheets, any future tool | exact, complete, no parsing of prose |
+| `talks/**.md` | humans, `grep`, Claude Code | git-diffable per talk; an agent can read one file and have the whole talk |
+| `data/talks.db` | ranked CLI search | generated; delete it any time and rebuild |
+| `search-meta.json` + `tindex/` | the browser | must exist as files, since GitHub Pages has no backend |
+
+## Searching
+
+### In a browser
+
+<https://ppruchnerovic.github.io/ai-talks-universe/> — type a subject, filter
+by conference, conference type, topic or year, sort by relevance / newest / title / shortest / longest,
+click a topic chip on a card to filter to that topic, and click
+**Find this in the talk** to jump to the exact seconds where a phrase is
+spoken. That link only appears for talks that have a transcript, and only once
+you have searched for something, since what it finds are the moments matching
+your query.
+
+Multi-word searches rank talks that say the words *together*, in one passage,
+above talks that merely say each of them somewhere. Words are matched on their
+stem, so "evaluate", "evaluation" and "evaluating" are one search, as they are
+in the CLI. Every word has to appear somewhere in a talk — its metadata, its
+whole description or its transcript — and when no talk has all of them the
+page drops one word at a time (a word no talk says first, then the commonest)
+and says which in the status line, instead of showing nothing. A moment whose
+timing was interpolated rather than measured is shown as `~12:34`.
+
+The search box takes a little syntax, the same as the CLI's where both have
+it:
+
+| Typed | Means |
+|---|---|
+| `"prompt injection"` | the phrase, as written, in the metadata — or its words spoken in one passage of the transcript |
+| `title:rag`, `speaker:chase` | the word in that field only |
+| `transcript:kubernetes` | the word as spoken, titles and descriptions not consulted |
+| `year:2025`, `conf:ai-engineer` | sets the year or conference select; a conference can be named by slug or by name (`conf:"AI Engineer"`) |
+| `-kubernetes` | leaves out every talk that says the word anywhere |
+| `rust OR zig` | either word counts as the one term |
+| `kube*` | any word starting so, even when the stem is too short to be tried as a prefix on its own |
+
+A word that belongs to one of the synonym groups the CLI also uses (`llm`,
+`rag`, `k8s`, `evals`, `db`, `ml`, `mcp`, …) is searched as the group — a
+talk that only says "k8s" qualifies for "kubernetes" — and the status line
+says what was added; only the word you typed is highlighted. The other
+controls: a speaker box with typeahead, a length bucket, shortest/longest
+sorts, "Transcript only" (talks that have one) and "Spoken only" (matches on
+what was said, nothing else). Every one of them is in the URL, so a link
+reproduces the view; "Newest first" is also remembered for links that say
+nothing about the order. The bar above the results exports what is shown as
+Markdown or CSV and copies the link; `j`/`k` move between cards, `Enter`
+opens the current one, `/` focuses the search box. A "said together" badge
+marks a talk whose transcript says the query's words in one passage, "also
+matches in the full description" marks a match beyond the clip on the card,
+and a transcript in a language other than English is badged with its code —
+"transcript language", since the handful of `hi` ones are English talks the
+caption source mislabelled.
+
+### From the terminal
+
+```bash
+cd tools
+python3 query.py "context engineering"
+python3 query.py "prompt injection" --category security -n 20   # the venue: one word suffices
+python3 query.py "memory" --topic agents             # vs --topic rag: a different question
+python3 query.py "agents" --category security --topic agents   # what security conferences say about agents
+python3 query.py "agents in production" --conference langchain-interrupt
+python3 query.py "evals" --year 2026 --json          # for scripts and agents
+python3 query.py "agent memory" -n 6 --excerpt      # the list, then what each hit says
+python3 query.py --speaker "harrison chase" --sort newest   # no query: a listing
+```
+
+Both the descriptions and the transcripts are searched. Transcript hits carry
+the timestamp, so results deep-link into the video, and each result says which
+layer matched; a timestamp printed `~12:34` is interpolated from word position
+rather than read off a caption track. FTS5 syntax works: `"exact phrase"`,
+`OR`, `NOT`, `prefix*`, and is always taken literally — a hyphenated or
+punctuated term inside it (`gpt-4 OR claude`, `c++ OR rust`) is quoted for
+you, since FTS5 would otherwise read the hyphen as syntax. A bare query is
+reduced to its content words ("what do people say about agent reliability"
+searches for `agent reliability`) and a talk qualifies when every word appears
+somewhere in it, metadata or transcript; when no talk has them all, a word no
+talk says at all is dropped first, then the commonest, one at a time, and
+stderr says which — so a question with a typo in it costs the typo, not the
+question.
+
+`--conference`, `--category`, `--topic` and `--year` are repeatable, case- and
+separator-insensitive and suggest near misses, and one word of a label is
+enough when it names exactly one value (`--topic evals`, `--conference
+build`, `--category vendor`; `--topic agents` is *Agents & orchestration*,
+the label it heads, not *Coding assistants & agents*); `--category` is the
+conference type, the kind of venue, and `--topic` what the talk is about;
+`--min-year` takes a year onwards;
+`--transcript` keeps only talks that can be quoted; `--list-conferences`,
+`--list-categories` and `--list-topics` print the valid values. `--stats`
+prints what the corpus is — talks, transcripts, conferences, per year, per
+conference and per topic — from the index rather than from anyone's memory. `--brief` drops
+the fields and the extra transcript moments that help you *read* a result but
+not *choose* one, which is about a fifth of the bytes; `--ids` prints nothing
+but the video ids, to pipe into the next command.
+
+More ways to narrow: `--speaker NAME` (part of a name will do; one that
+matches nobody gets the nearest names), `--min-duration` / `--max-duration` in
+minutes, `--since` / `--before` a date (a talk with no publication date goes
+by its year), `--max-year`, `--exact-timing` for transcripts whose timestamps
+were measured rather than estimated, and FTS5's own column filters —
+`title:agents`, `speakers:"harrison chase"`, `{title tags}:rag`,
+`transcript:kubernetes`. A `-word` in a bare query excludes the talks that say
+it. With no query at all the filters list the corpus, newest first;
+`--random --transcript` draws a talk to read. `--sort newest|oldest|duration|title`
+reorders the best-scoring candidates, not every match, so "newest" is the
+newest talk that answers the question rather than the newest that mentions a
+word once. `--facets` counts every match by conference, year, category and
+transcript — which is what tells you a topic looks like 2026 because that is
+where the transcripts are — and `--per-conference K` / `--per-year K` keep the
+best K of each. A title uploaded twice is listed once, the other ids noted as
+"(also: …)". Common abbreviations are expanded — `mcp` also finds "model
+context protocol", `rag` "retrieval augmented generation" — and stderr says so;
+explicit FTS5 syntax is never expanded or relaxed.
+
+For reading: `--excerpt` follows the list with what each hit says about the
+query — `excerpt.py`'s passages, `--passages N` of them per talk — in one
+command, with the search's notes on stdout where a program will see them.
+`--explain` shows each hit's per-layer scores, `--md` prints a markdown table,
+`--fields a,b,c` picks the columns of `--json` and `--md`. Colour is on only for
+a terminal, and off under `NO_COLOR` or `--no-color`.
+
+If the optional semantic layer has been built (`tools/install_semantic.sh`;
+nothing else needs it), a bare query is also matched by meaning and the two
+rankings are fused by reciprocal rank, so a talk that says none of the words
+but is about the question can appear, marked "semantic match" and `via:
+"semantic"` in `--json`. `--no-semantic` turns it off; `--semantic` insists on
+it and fails with the reason when it is not there.
+
+### Optional: semantic search layer
+
+Everything above runs on the standard library and stays that way. What FTS5
+cannot do is find a talk that *means* the question without *saying* it —
+"keeping agents from going off the rails" shares no stem with "guardrails",
+"trust boundaries" or "shipping agents safely", which is what the corpus calls
+it. An optional layer adds that and nothing else:
+
+```bash
+tools/install_semantic.sh             # a venv, a 30 MB model, vectors for every talk (10 s)
+tools/install_semantic.sh --chunks    # ~1.5 min more: vectors for every ~70 s of transcript
+python3 tools/semantic.py --status    # what is built, and whether query.py will use it
+python3 tools/semantic.py "agents going off the rails" -n 5    # the layer on its own
+```
+
+It is [model2vec](https://github.com/MinishLab/model2vec) static embeddings
+(`minishlab/potion-base-8M`: numpy and tokenizers, no torch, no onnx, nothing
+compiled), in its own `tools/.venv-semantic`, writing `data/embeddings/` —
+4.4 MiB for 9,048 talks, 88 MiB more for 176,573 transcript windows. Both are
+gitignored and derived, like `talks.db`. `query.py` runs on the system
+python3 and reaches the venv through a subprocess, which costs about 0.6 s a
+query, nearly all of it loading the model.
+
+Three rules, from `tools/semantic.py`: the layer is built by the install
+script and by nothing else, never on a query; when it is missing, or older
+than `talks.json`, or the venv is gone, `query.py` searches FTS5 alone and
+says why on stderr; and the two rankings are merged by reciprocal rank
+fusion as a *union*, so each side contributes talks the other missed —
+nothing is reranked, and the lexical ranking is unchanged for anyone who
+never installs this. After a `sync_catalog.py` run, rerun the script: it
+rebuilds only when the stamp is stale, and byte-identically from the same
+inputs. `python3 tools/test_semantic.py` checks the half that runs without
+numpy; `rm -rf tools/.venv-semantic data/embeddings` removes everything.
+
+### Reading a talk without reading all of it
+
+A talk's markdown file inlines its whole transcript: 33 KB on average, 420 KB
+for the longest workshop. That is the right thing for a human who has decided
+to read one talk, and the wrong thing for anything — an agent, a script, you —
+that wants what a speaker said about *one topic* across a dozen of them.
+
+```bash
+cd tools
+python3 excerpt.py O72p-rBb2bA -q "eval driven development"
+python3 query.py "agent memory" -n 6 --ids | xargs python3 excerpt.py -q "agent memory"
+python3 excerpt.py O72p-rBb2bA --full          # the whole transcript after all
+```
+
+`excerpt.py` prints the talk's metadata, its description, its opening — where
+the thesis nearly always is — and a window of continuous speech around each
+passage that matched, merged where those windows overlap and deep-linked to
+the second. What it leaves out it says: every excerpt ends with how much of the
+transcript you have seen.
+
+`-n` is a budget rather than a count — n windows' worth of speech, which the
+merge may hand back as fewer and wider passages — because counting passages
+bounds nothing. On a talk that says the query word every other minute, six
+windows that each grow to meet their neighbours are the transcript again.
+Measured over eight topics and 45 talks: **100% of the passages `query.py`
+ranked survive into the excerpt, on 17% of the words.**
+
+### With Claude Code
+
+The `ai-conference-talks` skill (`.claude/skills/`, at the root of this repo,
+so any Claude Code session started here loads it) drives `query.py --brief` and
+then `excerpt.py` — which is what you want for questions like *"what do people
+at different conferences say about agent reliability"*: retrieval finds the
+talks, the excerpts carry what was said, and the model compares the positions.
+
+The two-step matters more here than anywhere else, because a model pays for
+every byte it reads. Answering one question by searching and then reading the
+matching talk files whole costs on the order of 60,000 tokens and rises with
+every talk added to the comparison; the same question through `--brief` and
+`excerpt.py` costs about 17,000 and holds every passage the search ranked. The
+skill says so in as many words, and says what a question should cost, because
+"read the talks" is the instruction a model will otherwise follow literally.
+
+## Rebuilding
+
+```bash
+cd tools
+python3 sync_catalog.py --refresh    # re-enumerate every source (~10 min)
+python3 enrich.py                    # descriptions and dates
+python3 fetch_transcripts.py         # ON YOUR OWN MACHINE — see below
+python3 sync_catalog.py              # fold the new material in (offline)
+python3 build_index.py               # rebuild both search indexes
+```
+
+`sync_catalog.py` without `--refresh` and `build_index.py` are idempotent —
+rerunning gives byte-identical output, so a git diff shows exactly what the
+conferences changed. That holds literally, including `talks.json`'s
+`generated_at`, which advances only when the corpus actually changes rather than
+on every run. `build_index.py --help` lists its flags without rebuilding.
+`talks.db` is derived and gitignored: `query.py` and `excerpt.py` build it on
+first use and rebuild it by themselves when its schema version or the corpus
+under it has moved on, saying so on stderr.
+
+The browser index is keyed on Porter stems — the same stemmer FTS5's `porter`
+tokeniser applies to `talks.db`, implemented once in Python for the build and
+once in JavaScript for the query, with `test_stem.py` proving the two agree on
+every word in the corpus. Each shard entry carries the transcript postings and,
+new since 2026-09-02, the postings of the *whole* description, so the 150
+characters `search-meta.json` ships are a display clip and no longer a limit
+on what a search can find.
+
+### What gets published
+
+`pages.yml` does not publish the repository. On every push to `main` it runs
+`tools/assemble_site.sh`, which copies exactly what the browser fetches —
+`index.html`, `search-meta.json`, `tindex/`, `transcripts/` and the
+`ai-conferences.md` the footer links to — and pushes that tree to `gh-pages`
+as a single orphan commit, so the branch has no history and its size is the
+site's: about 250 MB, against the 411 MB a mirror of the whole repository had
+reached and GitHub Pages' 1 GB ceiling. The `du` lines in the workflow log are
+the size report. The uitest `navigation` suite assembles and serves the same
+tree, so a file the page needs that the script forgets fails a test rather
+than a visitor.
+
+A transcript is indexed as content only if it says something. A file below ten
+words a minute, over a talk of five minutes or more, is an ASR failure rather
+than a transcript — four here are YouTube mis-reading English audio as Hindi and
+then giving up, at 2.5 to 3.7 words a minute against a corpus median of 164 —
+and those are left out of both indexes, out of the transcript counts and out of
+the "Find this in the talk" link. The file itself is kept, since deleting it
+would only make the fetcher re-select the talk and buy the same bytes again, and
+the run prints every id it held back with the rate that did it. Separately, a
+transcript in a script the tokeniser cannot read is measured by its word count
+rather than by its token count, so that the handful of Latin brand names inside
+a Devanagari or Japanese transcript do not rank as though they were the whole
+talk.
+
+### Fetching what has no transcript yet
+
+Nothing is pending. The 2026-09-06 refresh — 27 new videos, 3 InfoQ-only
+presentations, and 722 already-cached videos that the description backfill
+let through the AI filter — left 241 talks of 2026 without a transcript, and
+the run below fetched them the same day: 232 returned captions, 9 had none or
+sat behind a members-only 403, for about 242 credits with the probe. Every
+2026 talk now either has a transcript or is recorded in `_misses.json`. When a
+refresh brings new talks in, this is the run, and it takes about five minutes:
+
+```bash
+cd tools
+source ~/.bash_profile               # SUPADATA_API_KEY + YOUTUBE_API_KEY live here;
+                                     # a non-login shell does not read that file
+.venv/bin/python fetch_transcripts.py --probe          # 1 credit; says which route to name
+.venv/bin/python fetch_transcripts.py --source supadata --min-year 2026 --workers 32 \
+  && .venv/bin/python sync_catalog.py \
+  && .venv/bin/python build_index.py
+```
+
+Chain the three, rather than running the fetch alone: a transcript that is not
+folded in and indexed is invisible to the browser, the CLI and the markdown, so
+it is a credit spent for nothing. The selection re-derives itself from disk on
+every run — it takes what has no transcript — so an interrupted run is resumed
+by repeating the same command, and there is no list to keep.
+
+Then confirm the fetch classified its failures correctly and the UI still
+passes, which is what `STATE.md` walks through, and commit `data/`, `talks/` and
+the counts in this file and the README.
+
+### Adding a conference
+
+Add it to `conferences.json` and to `ai-conferences.md`, then:
+
+```bash
+cd tools
+python3 check_registry.py                      # they must agree
+python3 sync_catalog.py --refresh -c <slug>
+python3 build_index.py
+```
+
+Prefer per-edition playlists to a whole channel for vendors who publish far
+more than their conference, and a channel for a dedicated conference channel.
+`"first": N` caps how deep a channel listing is paged; channels list newest
+first, so it is a recency cap.
+
+If the recordings are unlisted, no source URL will reach them. Register a seed
+instead — `{"type": "videos", "seed": "<file>.json", "url": ..., "label": ...,
+"year": ...}` — and put the ids in `data/seeds/<file>.json`. Reading a seed is
+reading a file, so `sync_catalog.py` folds it in on every run, `--refresh` or
+not, and a seed's own abstracts, speakers and tags win over what enrichment
+would collect: they come from the programme, not from a channel description.
+`import_kb.py` writes the seed for a conference whose agenda was already
+harvested elsewhere. A source may also carry its own `scope`, `min_duration`,
+`match` or `exclude`, overriding the conference's — which is how one
+conference contributes its whole congress programme through a seed while its
+channel listing still contributes only the AI talks.
+
+### Descriptions, dates and tags
+
+`enrich.py` prefers the YouTube Data API and falls back to yt-dlp:
+
+```bash
+export YOUTUBE_API_KEY=...            # free; console.cloud.google.com
+cd tools && python3 enrich.py --all
+```
+
+The key is free and there is no paid tier — 10,000 quota units a day per
+project, resetting at midnight Pacific, with no billing account and no card. At
+<https://console.cloud.google.com>: create a project, enable **YouTube Data API
+v3** under *APIs & Services → Library*, then *Credentials → Create credentials →
+API key*. Restrict it to that one API afterwards, since an unrestricted key that
+leaks works against every API the project has enabled; leave the *application*
+restriction unset, because this runs from a script rather than a browser. If the
+export lives in `~/.bash_profile` it will not reach a non-login shell — put it
+in `~/.bashrc`, or source it explicitly.
+
+`videos.list` bills one unit per call and takes 50 video ids at a time, so the
+corpus costs about 196 units and `--all` over the full 17,943-video catalogue
+about 359 — 4% of a day's allowance, which is why a re-enrichment is never the
+thing to ration. Without a key it is a full yt-dlp extraction per video —
+roughly an hour for the corpus at two workers, and it draws on the same IP
+reputation the transcript fetch depends on, so do not run it alongside a
+transcript run.
+
+The key does nothing for transcripts. `captions.download` requires OAuth *and*
+edit permission on the video, so third-party talks return 403 however the
+request is authenticated, and the per-IP caption throttle is a different
+mechanism from Data API quota. Metadata is the one thing this buys.
+
+`--all` matters for the conferences registered `"scope": "ai"`: their relevance
+filter reads the description, so a talk whose *title* never says "AI" is
+dropped before it is ever enriched. Enrich `--all` first, then re-sync.
+
+`--year` / `--min-year` / `--include-unknown-year` select here exactly as they
+do for transcripts, with one twist: enrichment is what *resolves* a year, so a
+year-scoped run wants the third flag or it can only ever re-select talks whose
+year is already known. That mattered when 3,082 talks had no year; the Data
+API run closed it to 2, and removing the three hollow records closed it to 0. It
+stays true for whatever a fresh enumeration adds.
+
+```bash
+cd tools && python3 enrich.py --min-year 2026 --include-unknown-year
+```
+
+### Transcripts, and YouTube's quota
+
+`fetch_transcripts.py` tries four routes, cheapest first:
+
+| Route | Timing | Works from | Cost |
+|---|---|---|---|
+| `youtube-transcript-api` | **exact** — deep links land on the second | only un-flagged IPs, in practice a home connection | free |
+| `yt-dlp` | **exact** — a different Innertube client, so it sometimes gets through when the first is refused | same | free |
+| `supadata.ai` | **exact** | anywhere — it egresses from their IPs, so the quota below does not apply | one credit per talk, any length |
+| `kome.ai` | **estimated** — interpolated from word position | anywhere, including CI and cloud containers | free |
+
+```bash
+pip install -r tools/requirements.txt
+cd tools
+python3 fetch_transcripts.py --probe                     # is this network usable?
+python3 fetch_transcripts.py --priority 1 --source exact --retry-after 20
+```
+
+**Expect to be rate limited.** YouTube meters the caption endpoint per egress IP
+with an allowance that refills over hours, and both free exact routes draw on
+the same one. In practice a consumer connection yields ~20-25 talks before it
+closes; slowing down does not raise that number, which is why the two things
+that *do* raise it each get a section below. On this corpus the free routes are
+now the fallback rather than the plan — see *Beating the per-IP quota*.
+
+This corpus is far larger than any single sitting can transcribe, so the
+registry carries a `priority` per conference and the fetcher selects on it —
+`--priority 1` is the practitioner conferences whose content is the reason this
+exists. Within a priority it takes the longest talks first.
+
+It selects on year too, because on AI topics a 2023 talk is rarely worth a unit
+of an allowance that refills over hours. `--year 2026` (repeatable) or
+`--min-year 2026` keeps only those years — 3,208 of the 9,797 talks are 2026,
+of which 3,167 have a transcript, 37 have no captions or are members-only and 4
+are held back from the index as ASR failures, so none is waiting on a fetch — and a talk whose year is not known yet is left out unless
+`--include-unknown-year` says otherwise. This is a selection filter and removes
+nothing: `query.py --year` reads every year the corpus has. What the corpus
+*has* is a separate decision, made once in the registry — see the year floor
+above.
+
+`--source exact` refuses to fall back to estimates; `--retry-after` parks the
+run when YouTube blocks the IP and resumes where it stopped. A block is **not**
+recorded as a miss, so a plain rerun picks those talks straight back up;
+`data/transcripts/_misses.json` means "this video has no captions", and
+`--retry-misses` forces another attempt. Nor is an account refusal — a Supadata
+key with no credits left stops the round and leaves every talk it had in flight
+retryable, since running out of money says nothing about a video.
+
+### Beating the per-IP quota
+
+Since what is metered is an allowance per egress IP, there are exactly two ways
+to get more than one sitting's worth, and they compose.
+
+**Fetch from more IPs.** Each proxy is a separate identity with its own
+allowance. A block benches that one identity for `--proxy-cooldown` minutes and
+the run carries straight on down the others, so a pool of *N* usable IPs is
+worth roughly *N* sittings in one go. A talk that was in flight when its
+identity got benched is retried on another rather than left for the next round.
+
+```bash
+cd tools
+cat ~/proxies.txt                  # one per line; host:port:user:pass as vendors export it
+python3 fetch_transcripts.py --probe --proxy-file ~/proxies.txt   # which of them work
+python3 fetch_transcripts.py --proxy-file ~/proxies.txt --priority 1 --source exact
+```
+
+`--probe` reports one line per identity, so a dead or unauthenticated proxy is
+visible before it costs a round. Credentials are redacted from every line the
+script prints. Workers default to one per identity (at least 2, at most 8), and an identity is
+only ever used by one worker at a time — two parallel requests down the same IP
+spend that IP's allowance twice as fast for no extra throughput. Residential
+IPs work; datacenter ranges are blocked hardest, so a cheap datacenter pool
+mostly buys benched identities.
+
+**Or fetch from someone else's IP.** `supadata.ai` returns real caption
+timings, from their infrastructure, so the quota never enters into it. This is
+the primary route for this corpus:
+
+```bash
+export SUPADATA_API_KEY=...        # supadata.ai
+cd tools
+python3 fetch_transcripts.py --source supadata --priority 1   # ignores the IP quota entirely
+python3 fetch_transcripts.py --priority 1 --source exact      # free routes first, then this
+```
+
+With a key, `--source exact` uses the free routes until an IP is blocked and
+then keeps going on Supadata, so a run only spends credits on what the IP
+quota could not cover. `mode=native` is used deliberately: it asks only for
+captions YouTube already has, at one credit a talk, rather than paying two
+credits a minute to transcribe audio. Talks over 20 minutes come back as a job
+the fetcher polls — which here is most of them, since it takes the longest
+talks first.
+
+**Once `--probe` says the IP is spent, ask for `--source supadata` by name.**
+`--source exact` will still get there, but it pays a refused
+`youtube-transcript-api` call and a yt-dlp subprocess on every talk before it
+does, and it holds the egress lease while it happens. Naming the route skips
+both, and because that route egresses from somebody else's IPs there is no
+allowance to ration and nothing to lease — so `--workers` becomes real
+parallelism rather than a queue behind a single identity:
+
+```bash
+python3 fetch_transcripts.py --source supadata --min-year 2026 --workers 32
+```
+
+Measured on this corpus, same key, same network: **3 talks a minute at
+`--source exact` with the default pacing, against ~250 a minute at
+`--source supadata --workers 32`** — 1,249 talks in under six minutes rather
+than the better part of a day. Nothing about the far end changed; what changed
+is that 32 requests are in flight instead of one. There is no published rate
+limit, so a 429 is backed off and retried rather than being fatal, and the run
+finds the ceiling by itself: raise `--workers` until 429s start appearing in
+the log. At 32 there were none.
+
+Measured on the free trial: **95 talks requested, 95 returned**, all with exact
+timings, no misses, and most of them long enough to go through the polling
+path — 96 of the 100 free credits for 95 transcripts. Nothing was charged for a
+video that turned out to have no captions, against a ~4.4% miss rate on the free
+routes, so a credit budget needs no headroom: credits ≈ talks. The paid tier is
+$17 a month for 3,000 credits, which is why buying the backlog outright beats
+grinding it — 2,000 talks at ~35 a sitting is two months of once-daily runs for
+about three hours of actual fetching, and the cost is calendar waiting on an
+allowance that refills over hours, not work.
+
+| Lever | Exact timings | Yield |
+|---|---|---|
+| one home connection | yes | ~20-25 a sitting, then hours |
+| `--proxy-file` with N residential IPs | yes | ~N × 25 a sitting |
+| `SUPADATA_API_KEY` | yes | one credit a talk at any length, and 95 of 95 on a measured batch — so as many as you buy, at ~250 a minute with `--workers 32` |
+| `kome.ai` (the default fallback) | **no** — estimated | unmetered, but deep links land near a quote, not on it |
+
+What does *not* help, and was measured rather than assumed: slowing the run
+down. `--min-delay`/`--max-delay` and the exponential backoff on retry are
+there to be a good citizen, not to raise the ceiling — the allowance is per IP,
+not per request rate.
+
+Supadata picks a caption track itself unless asked, and asking is not enough on
+its own: given `lang=en` it falls back to whatever the video has rather than
+failing, so the fetcher checks the answer and re-requests against the video's
+own `availableLangs`. A talk that really has no English track is saved under the
+language it is in, never written to `_misses.json` — that file means *no
+captions*, and a Hindi track is captions.
+
+Twelve talks here are like that, and no route can mend them: their single
+auto-generated track is YouTube's ASR mis-reading English audio as Hindi, so
+`availableLangs` is `['hi']` and there is nothing else to ask for. Deleting and
+refetching returns the same bytes.
+
+Re-running will not *upgrade* an estimated transcript to an exact one — it skips
+talks it already has. To redo one, delete its file first. Afterwards rerun
+`sync_catalog.py` (to inline transcripts into the markdown) and
+`build_index.py`, and commit.
+
+The `Refresh the catalogue` workflow re-enumerates weekly and **opens a pull
+request** rather than committing to `main`. It deliberately does not attempt
+transcripts, because YouTube blocks GitHub's IP ranges outright. `--source
+supadata` is the one route that would work from CI, since it never touches the
+runner's IP — it is not wired into the workflow because that would spend
+credits on a schedule.
+
+The review gate exists because enumeration from a runner degrades rather than
+fails: a throttled listing returns titles and durations with no uploader, and
+one scheduled run wrote `channel: null` over ~4,540 talks before anyone saw it.
+The counting backstops — keep the cache when a source returns empty, refuse a
+corpus 10% smaller — both passed it, because the record count was fine and the
+records were hollow. So `refresh_report.py` diffs *field coverage* against the
+committed corpus and puts the table in the PR body:
+
+```bash
+cd tools
+python3 refresh_report.py                 # markdown; exit 2 if a field regressed
+python3 refresh_report.py --tolerance 0.05
+```
+
+A field may lose up to 2% of the corpus before that counts as a regression,
+which leaves room for the occasional video its uploader deleted. Past that the
+PR opens as a draft, titled so the failure is visible in the list.
+
+## Testing
+
+### The fetcher's bookkeeping
+
+```bash
+cd tools && python3 test_fetch_transcripts.py     # ~1s, no network
+```
+
+Fake egress allowances and a faked HTTP layer, because what is worth testing in
+`fetch_transcripts.py` is not the requests but the accounting around them:
+every error in it is quiet and expensive. A block recorded as a miss loses a
+talk permanently; an estimate returned under `--source exact` mislabels one; a
+talk dropped because its proxy was benched costs a fetch nobody notices.
+
+### The query parser, the speakers, the stemmers
+
+```bash
+cd tools && python3 test_query.py                 # ~0.1s, no database
+cd tools && python3 test_speakers.py              # ~0.1s, no corpus
+cd tools && python3 test_topics.py                # ~0.1s, no corpus
+cd tools && python3 test_stem.py                  # ~6s; reads the corpus, runs node if present
+cd tools && python3 test_semantic.py              # ~0.2s; skips its end-to-end block when the layer is absent
+```
+
+`test_query.py` holds the OR chains the skill recommends, the ids that once
+cut short at a hyphen, the column filters that used to be split at the colon,
+the synonym expansion both rankers share, and `--topic`'s and `--category`'s
+resolution against a throwaway database. `test_semantic.py` covers what
+the optional layer does on the standard library alone — the staleness rules,
+reciprocal-rank fusion, the pool mapping — so the fallback is tested on a
+machine that never installed it. `test_speakers.py` holds each shape a speaker is
+read from and the false positives the rules exist to stop — a brand or a job
+title in that field ranks under every talk that carries it. `test_topics.py`
+does the same for the topic rules: a title each topic must and must not fire
+on, the boundaries that are rules (a bare "enterprise", a bare tool name,
+"prompt injection"), a phrase derived from every pattern that the pattern must
+match, and the boilerplate filter that keeps PyData's channel text from filing
+every PyData talk under one subject. `test_stem.py`
+runs the JavaScript stemmer out of `index.html` under node over every token in
+the corpus and diffs it against the Python one, because a disagreement is a
+silent miss: a shard keyed on one spelling of a stem, a query asking for the
+other.
+
+### The excerpt budget
+
+```bash
+cd tools && python3 test_excerpt.py               # ~0.1s, no network, no database
+```
+
+Same reason: the failure it prevents is silent and expensive. A query whose
+terms are spread through a long talk once chained every window into one span
+and returned the whole transcript under the name of an excerpt — 8,500 tokens
+where 1,500 was asked for, with nothing in the output saying so. Window
+selection and merging are pure functions of the hit times, so they are tested
+without a corpus.
+
+### The browser UI
+
+`index.html` is one self-contained file with no build step, which makes it easy
+to change and easy to break quietly — a search that silently stops matching
+looks exactly like a search with no results.
+
+```bash
+cd tools/uitest
+npm install            # playwright + chromium, ignored by git
+node run.js            # 229 checks, about four minutes
+node run.js search filters      # just those suites
+```
+
+`run.js` serves the repo on a free port, runs each suite in its own process,
+and exits non-zero if anything failed. Every check prints what it actually saw.
+
+| Suite | Covers |
+|---|---|
+| `load` | catalogue loads, filters built from the data, one card end to end |
+| `search` | every field, phrases, prefixes, stems, relaxation, the description tail beyond the clip, the transcript layer, tokenising |
+| `controls` | pagination, description unfold, tag chips, `/` shortcut |
+| `filters` | conference / conference type / topic / year, the five sorts, Reset, the shareable hash, topic chips |
+| `moments` | "Find this in the talk" — ranking, deep links, caching |
+| `resilience` | missing data at each layer, hostile queries, a 390px phone |
+| `a11y` | accessible names, keyboard reach, announcements, contrast |
+| `ranking` | agreement with `query.py`, plus properties that hold regardless |
+| `navigation` | load cost, lazy shards, history, links out |
+
+Three things worth knowing when adding a check:
+
+* **Coverage grows in layers.** Descriptions arrive with `enrich.py`,
+  transcripts a sitting at a time. A check whose fixture does not exist yet
+  calls `L.skip(...)` rather than failing — but it must not pass silently, or
+  the suite quietly stops testing anything.
+* **The transcript cache is per page.** Anything asserting a cold fetch has to
+  open its own page.
+* **`ranking` skips its CLI half** when `data/talks.db` is missing, rather than
+  making `query.py` build it mid-test.

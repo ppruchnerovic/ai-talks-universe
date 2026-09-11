@@ -48,10 +48,10 @@ Languages: 3,143 `en`, 12 `hi` (see How), a handful of `de/es/ja/no/lt/...`.
 | `data/transcripts/<id>.json` | One file per YouTube id, compact JSON. |
 | `data/transcripts/_misses.json` | `{video_id: {conference, reason, detail}}` — "this video has no captions". Permanent until `--retry-misses`. |
 | `logs/` | Gitignored scratch (`.gitignore`: "run logs from local collection runs"). Nothing reads it. |
-| `STATE.md` §"Handoff — running a transcript extraction", §"The quota" | Operational prose this spec distils. |
-| `ARCHITECTURE.md` §"Fetching transcripts" | Mermaid diagrams of the ladder, the failure classes, the pool. |
-| `README.md` §"Transcripts, and YouTube's quota", §"Beating the per-IP quota" | Measured yields and the reasoning. |
-| `HISTORY.md` §"Bug 7 cannot be fixed by refetching", §"The 402 that was recorded as 'no captions'" | Why the invariants below exist. |
+| `docs/STATE.md` §"Handoff — running a transcript extraction", §"The quota" | Operational prose this spec distils. |
+| `docs/ARCHITECTURE.md` §"Fetching transcripts" | Mermaid diagrams of the ladder, the failure classes, the pool. |
+| `docs/GUIDE.md` §"Transcripts, and YouTube's quota", §"Beating the per-IP quota" | Measured yields and the reasoning. |
+| `docs/HISTORY.md` §"Bug 7 cannot be fixed by refetching", §"The 402 that was recorded as 'no captions'" | Why the invariants below exist. |
 
 ### `tools/fetch_transcripts.py` — map
 
@@ -157,7 +157,7 @@ Log line vocabulary: `ok`, `MISS`, `LEFT` (transient/account in parallel),
   taken, no pacing sleep applies, and `--workers 32` is real parallelism
   (measured ~250 talks/min vs ~3/min under `exact`).
 - No proxy pool has ever been bought for this corpus; Supadata is the lever
-  in use (`STATE.md` §"The quota").
+  in use (`docs/STATE.md` §"The quota").
 
 ### What a run selects (`select`, `:849-869`)
 
@@ -246,7 +246,7 @@ record of what a run printed; nothing in the code reads or writes them.
 
 ## How
 
-Standard extraction (from `STATE.md` handoff; ~5 min for a few hundred talks):
+Standard extraction (from `docs/STATE.md` handoff; ~5 min for a few hundred talks):
 
 ```bash
 cd ~/git/ai-talks-universe/tools
@@ -259,7 +259,7 @@ source ~/.bash_profile        # exports SUPADATA_API_KEY and YOUTUBE_API_KEY; a
   && .venv/bin/python build_index.py
 ```
 
-Then, before committing `data/`, `talks/` and the counts in `README.md`/`STATE.md`:
+Then, before committing `data/`, `talks/` and the counts in `docs/GUIDE.md`/`docs/STATE.md`:
 
 ```bash
 python3 -c "import json; [print(v['detail']) for v in json.load(open('../data/transcripts/_misses.json')).values()]"
@@ -289,7 +289,7 @@ Rules a model gets wrong without being told:
   the same bytes. Likewise, a rerun never upgrades `estimated` → `exact`;
   delete the file first if that is the intent.
 - **Do not run `enrich.py`'s yt-dlp route and a free-route transcript run
-  together** — same per-IP allowance (`STATE.md` §"The quota"). Prefer the
+  together** — same per-IP allowance (`docs/STATE.md` §"The quota"). Prefer the
   Data API for metadata.
 - **Do not add the fetcher to CI or the weekly workflow.** GitHub's ranges
   are blocked outright, and `--source supadata` from a schedule would spend
@@ -298,7 +298,7 @@ Rules a model gets wrong without being told:
   spent` for an IP that fetched 15,871 words minutes later with the proxy
   stopped; a datacenter range is also blocked hardest. Drop it before
   trusting a block verdict or the quota table.
-- **Known hole, documented not fixed** (`HISTORY.md:562`): route 2 limits
+- **Known hole, documented not fixed** (`docs/HISTORY.md:562`): route 2 limits
   `--sub-langs` to `LANGUAGES`, so on an our-IP run a video whose only track
   is off-list is recorded as a miss ("no subtitles for the requested
   languages") — violating the "foreign-only captions are never a miss"
@@ -306,6 +306,6 @@ Rules a model gets wrong without being told:
   `--source supadata` is the way back for such entries.
 - **Credits ≈ talks.** Supadata charges nothing for a captionless video
   (206), so a budget needs no headroom beyond the selection count. Pro plan is
-  3,000 credits/month; `STATE.md` tracks the month's spend.
-- Docs vs code: `ARCHITECTURE.md`'s selection list omits `--min-duration`,
+  3,000 credits/month; `docs/STATE.md` tracks the month's spend.
+- Docs vs code: `docs/ARCHITECTURE.md`'s selection list omits `--min-duration`,
   which `select()` also honours. The code wins.

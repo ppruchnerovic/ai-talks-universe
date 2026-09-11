@@ -6,7 +6,8 @@ read first in a new session; it is meant to stay short.
 
 | File | What it holds |
 |---|---|
-| `README.md` | the user-facing documentation: what the corpus is, how to search it, how to rebuild it |
+| `../README.md` | the landing page: headline numbers, browse link, quick start, docs index |
+| `GUIDE.md` | the user-facing documentation: what the corpus is, how to search it, how to rebuild it |
 | **`STATE.md`** (this file) | the state table, the handoff recipe, the quota, and the numbers to refresh after a run |
 | `ARCHITECTURE.md` | the diagrams — pipeline, data flow, the fetcher's routes and failure classes, both rankers, CI — and the design decisions not to relitigate |
 | `TODO.md` | everything open, one list |

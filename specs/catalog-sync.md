@@ -208,7 +208,7 @@ Adding a conference (registry schema in `data-model.md`):
 3. If the conference is `scope: "ai"`: `python3 enrich.py --all -c <slug>
    --include-unknown-year`, then `python3 sync_catalog.py` again. The AI
    filter reads descriptions, so titles that never say "AI" are dropped
-   until this runs. STATE.md lists enrich *before* the first `--refresh`;
+   until this runs. docs/STATE.md lists enrich *before* the first `--refresh`;
    that cannot work for a new slug (enrich.py reads the catalog, which does
    not exist yet) — enumerate first, as here.
 4. `python3 build_index.py`; transcripts per `transcripts.md`.

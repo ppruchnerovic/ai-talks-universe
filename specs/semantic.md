@@ -57,7 +57,7 @@ standard library and skips its end-to-end block.
 | `tools/uitest/suite-ranking.js:58` | Runs `query.py --no-semantic` so browser-vs-CLI agreement is lexical vs lexical. |
 | `.gitignore` | `tools/.venv-semantic/`, `data/embeddings/`. |
 | `.claude/skills/ai-conference-talks/SKILL.md:276-292` | "The optional semantic layer" — the caveats a model needs. |
-| Docs | `ARCHITECTURE.md:541-560` (flowchart, stamp), `README.md:395-427`, `HISTORY.md:1613-1650` (measurements), `TODO.md:39-44` (next steps), `STATE.md:35`. |
+| Docs | `docs/ARCHITECTURE.md:541-560` (flowchart, stamp), `docs/GUIDE.md:403-435`, `docs/HISTORY.md:1613-1650` (measurements), `docs/TODO.md:39-44` (next steps), `docs/STATE.md:35`. |
 
 ### `tools/semantic.py` — key symbols
 
@@ -141,7 +141,7 @@ cd tools && python3 test_semantic.py   # < 1 s, system python, no numpy
 python3 tools/query.py "..." --semantic | --no-semantic | --explain
 ```
 
-Measured (HISTORY.md, 2026-09-02): cold install 196 s (pip 118 MiB in 12 s,
+Measured (docs/HISTORY.md, 2026-09-02): cold install 196 s (pip 118 MiB in 12 s,
 model 29.5 MiB, talks ~10 s, chunks ~85 s); 1–2 s when current;
 byte-identical on `--force`. Query: `available()` ~12 ms; subprocess
 round-trip ~600 ms (≈0.5 s is model load); in-process 18 ms warm. Fused
@@ -192,8 +192,8 @@ needed.
   proxy the model fetch can fail where pip succeeds (certifi vs system CA);
   the script exports `SSL_CERT_FILE` to the system bundle when unset.
 - **Where docs and code disagree, the code wins:**
-  - `README.md:418-421` says a missing layer "says why on stderr". Code:
+  - `docs/GUIDE.md:426-429` says a missing layer "says why on stderr". Code:
     silent unless `--explain` (`query.py:786-788`); only `--semantic` errors.
-    SKILL.md and ARCHITECTURE.md state it correctly.
-  - `TODO.md:39` lists chunk-level *ranking* and a cross-encoder rerank as
+    SKILL.md and docs/ARCHITECTURE.md state it correctly.
+  - `docs/TODO.md:39` lists chunk-level *ranking* and a cross-encoder rerank as
     possible next steps — neither exists; chunks anchor excerpts only.

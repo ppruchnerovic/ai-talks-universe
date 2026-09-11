@@ -71,28 +71,29 @@ in `.gitignore` cite Pages.
 
 | File | Holds | Do not put here |
 |---|---|---|
-| `README.md` | user prose: what the corpus is, how to search (browser, CLI, skill, semantic, excerpt), how to rebuild, what gets published, how to test | session narrative, open items |
-| `ARCHITECTURE.md` | the diagrams (pipeline, derivation, fetcher routes, both rankers, CI), the testing table, "Design decisions worth not relitigating" | current counts (they drift) |
-| `STATE.md` | the state table ("Where things stand"), "Verifying a change", the transcript-run handoff, the quota, "Numbers to refresh" | history; meant to stay short |
-| `TODO.md` | open work, one list, each line pointing at a `HISTORY.md` section; finished lines are **deleted**, not struck | background |
-| `HISTORY.md` | dated write-ups per session, verbatim — provenance for every number and decision | anything that needs to be current |
+| `README.md` | the landing page: the headline numbers, the browse link, a terminal quick start, the docs index, licence |
+| `docs/GUIDE.md` | user prose: what the corpus is, how to search (browser, CLI, skill, semantic, excerpt), how to rebuild, what gets published, how to test | session narrative, open items |
+| `docs/ARCHITECTURE.md` | the diagrams (pipeline, derivation, fetcher routes, both rankers, CI), the testing table, "Design decisions worth not relitigating" | current counts (they drift) |
+| `docs/STATE.md` | the state table ("Where things stand"), "Verifying a change", the transcript-run handoff, the quota, "Numbers to refresh" | history; meant to stay short |
+| `docs/TODO.md` | open work, one list, each line pointing at a `docs/HISTORY.md` section; finished lines are **deleted**, not struck | background |
+| `docs/HISTORY.md` | dated write-ups per session, verbatim — provenance for every number and decision | anything that needs to be current |
 | `ai-conferences.md` | the human curation twin of `conferences.json` (why a source, what is gated, what was rejected); `check_registry.py` enforces the pairing | — |
 
-**Numbers to refresh when the corpus changes** (`STATE.md` §"Numbers to
+**Numbers to refresh when the corpus changes** (`docs/STATE.md` §"Numbers to
 refresh"). These must move together:
 
 | Where | Which numbers | Source of truth |
 |---|---|---|
-| `README.md` | talks / transcripts / conferences / enumerated (now 9,048 / 3,174 / 53 / 17,677); the 2026 scope count and how many are transcribed | `query.py --stats` |
-| `STATE.md` state table | transcript, description, year, tag, speaker coverage; per-conference transcript split; 2026 pending backlog; passage count; credits spent this month; sizes of `talks.db`, `search-meta.json`, `tindex/`; test and uitest check counts | `sync_catalog.py` end-of-run coverage; `build_index.py` passage count, sizes and the 6 MiB trigger line; the suites' own tallies |
-| `ARCHITECTURE.md` testing table | test counts per suite | the suites' tallies (already stale: it says `test_query.py (34)`, the file has 75) |
+| `README.md` and `docs/GUIDE.md` | talks / transcripts / conferences / enumerated (now 9,048 / 3,174 / 53 / 17,677); the 2026 scope count and how many are transcribed | `query.py --stats` |
+| `docs/STATE.md` state table | transcript, description, year, tag, speaker coverage; per-conference transcript split; 2026 pending backlog; passage count; credits spent this month; sizes of `talks.db`, `search-meta.json`, `tindex/`; test and uitest check counts | `sync_catalog.py` end-of-run coverage; `build_index.py` passage count, sizes and the 6 MiB trigger line; the suites' own tallies |
+| `docs/ARCHITECTURE.md` testing table | test counts per suite | the suites' tallies (already stale: it says `test_query.py (34)`, the file has 75) |
 | `.claude/skills/ai-conference-talks/SKILL.md` | none — deliberately carries no hard-coded counts | — |
 
 ### Git conventions (from `git log --oneline -25`)
 
 - Subject lines are full sentences in the imperative, no type prefix, no
   trailing period, often 60–100 chars: *"Publish only what the browser fetches,
-  not the whole repository"*. Doc-only commits prefix the file: *"STATE.md: …"*.
+  not the whole repository"*. Doc-only commits prefix the file: *"docs/STATE.md: …"*.
 - One branch per piece of work (`topic-facet`, `conference-type`,
   `infoq-presentations`, `fix-kb-refresh-gate`, …), merged into `main` with an
   explicit merge commit — *"Merge topic-facet"* or a descriptive *"Merge the
@@ -129,7 +130,7 @@ non-login (tool-driven) shell does not read it, and the tools degrade
    `python3 test_query.py && python3 test_excerpt.py && python3 test_infoq.py && python3 test_speakers.py && python3 test_topics.py && python3 test_semantic.py && python3 test_stem.py && python3 test_fetch_transcripts.py`
    (all ~0.1–1 s except `test_stem.py` ~6 s, which reads the corpus and runs
    node; `test_semantic.py` skips its end-to-end block when the layer is absent).
-   `STATE.md`'s block omits `test_semantic.py`; `README.md` includes it. Run it.
+   `docs/STATE.md`'s block omits `test_semantic.py`; `docs/GUIDE.md` includes it. Run it.
 3. If the corpus or the index changed, prove idempotence: run
    `python3 sync_catalog.py && python3 build_index.py` **twice** and confirm
    `git status --porcelain` is empty after the second run. Both must be
@@ -141,7 +142,7 @@ non-login (tool-driven) shell does not read it, and the tools degrade
 5. `cd tools/uitest && node run.js` — nine suites, ~4 min. Read the **skip
    count** as well as failures: fixtures the corpus lacks skip rather than fail,
    so a green run with skips is weak evidence. The current check count is the
-   one in `STATE.md`'s state table; trust `run.js`'s own tally over any prose.
+   one in `docs/STATE.md`'s state table; trust `run.js`'s own tally over any prose.
    `ranking` skips its CLI half without
    `talks.db`. `navigation` runs `assemble_site.sh` itself, so a path the page
    needs that the script forgets fails here.
@@ -181,10 +182,10 @@ non-login (tool-driven) shell does not read it, and the tools degrade
   changes nothing must leave it empty.
 - Count transcripts by exact video id, never by filename prefix: 48 ids start
   with `_` and `_misses.json` sits beside them. Two sessions have been caught.
-- `STATE.md` counts drift against the tools (`check_registry.py` currently
-  prints 83 sources over 53 conferences, 54/54 documented; `STATE.md` says 84
-  sources). When they disagree the tool output wins; update `STATE.md`, and
-  say in `HISTORY.md` where the number came from.
-- Finished `TODO.md` lines are deleted and their write-up goes to
-  `HISTORY.md`; a struck-through line is how the previous state file reached
+- `docs/STATE.md` counts drift against the tools (`check_registry.py` currently
+  prints 83 sources over 53 conferences, 54/54 documented; `docs/STATE.md` says 84
+  sources). When they disagree the tool output wins; update `docs/STATE.md`, and
+  say in `docs/HISTORY.md` where the number came from.
+- Finished `docs/TODO.md` lines are deleted and their write-up goes to
+  `docs/HISTORY.md`; a struck-through line is how the previous state file reached
   1,800 lines.

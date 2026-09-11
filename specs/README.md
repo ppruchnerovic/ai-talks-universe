@@ -5,9 +5,9 @@ one spec that covers the domain you are touching, then do the task. Specs
 are the source of truth: trust them over re-reading the code, and if you
 find a spec is wrong, fix the spec in the same change.
 
-The prose for humans lives in `README.md`; the design rationale in
-`ARCHITECTURE.md`; current numbers in `STATE.md`. Specs distil those plus
-the code into what a model needs, and record where docs and code disagree
+The prose for humans lives in `README.md` and `docs/GUIDE.md`; the design
+rationale in `docs/ARCHITECTURE.md`; current numbers in `docs/STATE.md`.
+Specs distil those plus the code into what a model needs, and record where docs and code disagree
 (the code wins).
 
 ## What the app is
@@ -60,7 +60,7 @@ Two properties carry everything else:
 | [search-browser.md](search-browser.md) | The static page, its ranking and facets, the shard and meta file formats, the index builder, the UI test suites | `index.html`, `tools/build_index.py`, `tools/assemble_site.sh`, `data/search-meta.json`, `data/tindex/`, `tools/uitest/` |
 | [semantic.md](semantic.md) | The opt-in embedding layer, its install, how it fuses into `query.py`, graceful absence | `tools/semantic.py`, `tools/build_embeddings.py`, `tools/install_semantic.sh`, `tools/requirements-semantic.txt`, `test_semantic.py`, `data/embeddings/` |
 | [skill.md](skill.md) | The Claude Code skill: its retrieval ladder, citation rules, and every CLI flag and output string it depends on | `.claude/skills/ai-conference-talks/SKILL.md` |
-| [publishing.md](publishing.md) | GitHub Pages publish, the weekly refresh, what is committed vs. ignored, local setup, the verification checklist, which doc holds which numbers, git conventions | `.github/workflows/*.yml`, `.gitignore`, `tools/refresh_report.py`, `tools/requirements.txt`, the six top-level docs |
+| [publishing.md](publishing.md) | GitHub Pages publish, the weekly refresh, what is committed vs. ignored, local setup, the verification checklist, which doc holds which numbers, git conventions | `.github/workflows/*.yml`, `.gitignore`, `tools/refresh_report.py`, `tools/requirements.txt`, `README.md`, `docs/`, `CONTRIBUTING.md` |
 
 ## Routing by task
 

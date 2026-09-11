@@ -139,9 +139,9 @@ exclusive views), `--json`. Exit 1 only if every id was missing.
 
 ### Decision docs
 
-- `TODO.md` — the search enrichment items that are still open.
-- `HISTORY.md:1511` "Search enrichment — 2026-09-02" — the write-up of what landed.
-- `ARCHITECTURE.md:363-416` (CLI), `:466-540` (index files), `:560-585` (excerpt); `README.md:319-455`, `:807-862`.
+- `docs/TODO.md` — the search enrichment items that are still open.
+- `docs/HISTORY.md:1511` "Search enrichment — 2026-09-02" — the write-up of what landed.
+- `docs/ARCHITECTURE.md:363-416` (CLI), `:466-540` (index files), `:560-585` (excerpt); `docs/GUIDE.md:327-463`, `:807-862`.
 
 ## How
 
@@ -188,9 +188,9 @@ Verified against the code:
 |---|---|---|
 | CLI, no schema change | column filters, TTY colour + `NO_COLOR`, `--speaker`, `--sort`, `--min/max-duration`, `--max-year`, `--since/--before`, `--exact-timing`, `--explain`, `--fields`, `--md`, `--random --seed`, filter-only listings, `-word`, `--facets`, `--per-conference/--per-year` | **All built.** |
 | CLI, query-time | synonym groups | **Built** as query-time `atu.SYNONYMS`, shared with the browser via `tindex/_manifest.json`; no schema bump was needed. |
-| CLI, schema change | `language` column / `--lang`, `fts5vocab` did-you-mean for query typos, trigram fuzzy `--speaker`, `--like/--related`, `--near N` | **Not built**; the open items are in `TODO.md`. Each needs a `DB_SCHEMA_VERSION` bump (except `--near`, which changes ranking). `check_speaker()`'s difflib did-you-mean is the partial substitute for fuzzy speakers; query-word typos are handled by relaxation (an absent word is dropped first), not corrected. |
+| CLI, schema change | `language` column / `--lang`, `fts5vocab` did-you-mean for query typos, trigram fuzzy `--speaker`, `--like/--related`, `--near N` | **Not built**; the open items are in `docs/TODO.md`. Each needs a `DB_SCHEMA_VERSION` bump (except `--near`, which changes ranking). `check_speaker()`'s difflib did-you-mean is the partial substitute for fuzzy speakers; query-word typos are handled by relaxation (an absent word is dropped first), not corrected. |
 | Skill | `--excerpt`, `--quotes`, `--outline`, `--words/--total-words`, `--at`, duplicate collapse | **Built.** Dupes are folded at query time in `collapse_dupes()` (`also` field), not marked at build time. |
 | Semantic | the optional vector layer | **Built** as model2vec talk-level vectors with optional chunk anchors, opt-in via `tools/install_semantic.sh`, RRF union — `semantic.md`. |
 
 Where a doc and the code disagree, the code wins. What remains open lives in
-`TODO.md`, not here.
+`docs/TODO.md`, not here.

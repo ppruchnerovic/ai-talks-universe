@@ -1,7 +1,7 @@
 # Architecture
 
 How the AI talks universe is put together, and why it is put together that
-way. The prose that explains each piece to a *user* is in `README.md`; this
+way. The prose that explains each piece to a *user* is in `GUIDE.md`; this
 file is the map — what talks to what, what is derived from what, and the
 decisions that hold it in that shape. Current numbers are in `STATE.md`, open
 work in `TODO.md`, and the story of how each piece got here in `HISTORY.md`.

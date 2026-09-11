@@ -29,12 +29,12 @@ Responsibilities:
 Not responsible for: the search itself (`search-cli.md`, `semantic.md`), the
 data (`data-model.md`, `transcripts.md`), the browser (`search-browser.md`).
 The skill documents the tools; when they change, it is edited *last*
-(HISTORY.md:1177 "Edit SKILL.md last, once the tools exist").
+(docs/HISTORY.md:1177 "Edit SKILL.md last, once the tools exist").
 
-Cost anchor, measured (HISTORY.md:799 "Making the skill affordable"): the
+Cost anchor, measured (docs/HISTORY.md:799 "Making the skill affordable"): the
 pre-2026-09-01 skill said `cat talks/**.md` and cost ~150k tokens a question;
 the ladder costs ~15-17k (`--brief -n 15` ~1.5k, six default excerpts ~7k,
-`--quotes` over the same six ~1.2k). ARCHITECTURE.md:586 has the sequence
+`--quotes` over the same six ~1.2k). docs/ARCHITECTURE.md:586 has the sequence
 diagram.
 
 ## Where
@@ -56,10 +56,10 @@ diagram.
 | `tools/excerpt.py:679` | `[m:ss](url&t=Ns)` deep links; `~m:ss` when guessed. |
 | `tools/fetch_transcripts.py:994-1030` | `--probe`, `-c/--conference`, `--limit`, `--source exact`, `--retry-after` — the "Fetching what is missing" rung. |
 | `tools/install_semantic.sh`, `tools/semantic.py`, `tools/build_embeddings.py` | The optional layer the skill's "semantic" section describes. See `semantic.md`. |
-| `README.md:456` "With Claude Code" | The user-facing two-paragraph description and the canonical example question. |
-| `ARCHITECTURE.md:586` | "The skill — a retrieval ladder with a price on it": sequence diagram, the 2026-09-02 rungs. |
-| `HISTORY.md:799`, `HISTORY.md:1175-1195` | Why the ladder exists; section F, the 2026-09-02 revision list. |
-| `STATE.md:41` | One-line status of the skill and its revision dates. |
+| `docs/GUIDE.md:464` "With Claude Code" | The user-facing two-paragraph description and the canonical example question. |
+| `docs/ARCHITECTURE.md:586` | "The skill — a retrieval ladder with a price on it": sequence diagram, the 2026-09-02 rungs. |
+| `docs/HISTORY.md:799`, `docs/HISTORY.md:1175-1195` | Why the ladder exists; section F, the 2026-09-02 revision list. |
+| `docs/STATE.md:41` | One-line status of the skill and its revision dates. |
 
 ### SKILL.md, section by section
 
@@ -109,7 +109,7 @@ CLI (`--status`, `--chunks`, `--embed-query`, `--serve`).
 The cost table (SKILL.md "2. Read…" and "What a question should cost") is
 measured, not derived: if `WINDOW`, `OPENING`, `PASSAGES` (`excerpt.py:65-94`)
 or the `--brief` field set change, re-measure on a 30-40 minute talk and update
-the numbers. `HISTORY.md:799` records how they were measured, and
+the numbers. `docs/HISTORY.md:799` records how they were measured, and
 `excerpt.py`'s argparse epilog (`excerpt.py:821-824`) states the same figures
 — keep the two in step.
 
@@ -139,7 +139,7 @@ questions, `--max-year`, the `(also: id, id)` duplicate collapse,
 and the opt-in semantic layer (model2vec, union + RRF fusion, silent FTS5
 fallback; `semantic.md`).
 
-Two items the skill would use are still open and are tracked in `TODO.md`,
+Two items the skill would use are still open and are tracked in `docs/TODO.md`,
 not here:
 
 - `--related <id>` (more like this talk) — not in argparse; the skill does not
@@ -152,11 +152,11 @@ When either lands, add the flag to the couplings table and to the skill.
 ### Testing the skill by hand
 
 There is no automated skill test; the tools' tests are `cd tools && python3
-test_query.py`, `test_excerpt.py`, `test_semantic.py` (README.md:824-853).
+test_query.py`, `test_excerpt.py`, `test_semantic.py` (docs/GUIDE.md:832-861).
 To test the skill, start Claude Code at the repo root and ask:
 
 1. *"What do people at different conferences say about agent reliability?"*
-   (README.md:460, ARCHITECTURE.md:595). Good: it runs `--stats` or
+   (docs/GUIDE.md:468, docs/ARCHITECTURE.md:595). Good: it runs `--stats` or
    `--facets`, one `--brief` search (maybe `--per-conference`), `excerpt.py`
    or `--excerpt` on a handful of ids; the answer is grouped by position,
    every claim names a speaker (or "a speaker at <conf>") and a conference,

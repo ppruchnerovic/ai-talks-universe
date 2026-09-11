@@ -38,7 +38,7 @@ together" badge, `OR` groups then synonyms, explicit `prefix*`, speaker
 typeahead, duration sorts and length bucket, facet counts, "Spoken only",
 "also matches in the full description", export/copy-link/`j`/`k`/newest-first
 memory, the transcript-language badge. **Not built, by choice** — the open
-items live in `TODO.md`: related talks, typo tolerance, autocomplete,
+items live in `docs/TODO.md`: related talks, typo tolerance, autocomplete,
 `_vocab.json`, per-talk pages (`#talk=`), inline snippets on every card.
 
 ## Where
@@ -239,7 +239,7 @@ Invariants and the mistakes a model makes here:
   per-page). Fill `detail` in `L.check` with what was actually seen.
 - **`suite-ranking`'s CLI half** needs `data/talks.db` built and runs
   `--no-semantic` so lexical is compared with lexical. If it goes red after a
-  corpus change, read ARCHITECTURE.md:883 first — the top-40 window is a
+  corpus change, read docs/ARCHITECTURE.md:883 first — the top-40 window is a
   known-fragile check, not proof the browser broke.
 - **Facts the prose has drifted from before, so check the code, not a doc:**
   the page has five sorts (`SORTS = rel/new/title/short/long`), not three;
@@ -247,4 +247,4 @@ Invariants and the mistakes a model makes here:
   query's words, stems and long-stem prefixes — nothing from the query is ever
   compiled into a RegExp (same whole-token guarantee as the old `\b` version);
   the uitest check count is whatever `run.js` tallies and is recorded in
-  `STATE.md`, nowhere else.
+  `docs/STATE.md`, nowhere else.
