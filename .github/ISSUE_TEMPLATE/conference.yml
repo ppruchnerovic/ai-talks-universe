@@ -1,0 +1,48 @@
+name: Add a conference
+description: Propose a conference the corpus should cover.
+labels: [conference]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Conference name and site
+      placeholder: e.g. AI Engineer, https://www.ai.engineer/
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: Where the recordings are
+      description: YouTube channel or playlist URLs, one per line. Per-edition playlists are better than a whole channel when the channel publishes more than the conference.
+    validations:
+      required: true
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Is it entirely about AI?
+      options:
+        - Yes, keep every talk (scope "all")
+        - No, it has AI tracks in a general programme (scope "ai")
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Conference type
+      options:
+        - Practitioner AI conferences
+        - General software conferences
+        - Vendor events
+        - Security conferences
+        - Business & industry events
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs
+      description: A sentence or two, the same thing ai-conferences.md says about the others.
+  - type: checkboxes
+    id: pr
+    attributes:
+      label: Pull request
+      options:
+        - label: I intend to open the pull request myself, following CONTRIBUTING.md

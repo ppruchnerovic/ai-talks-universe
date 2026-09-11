@@ -1,0 +1,34 @@
+name: Bug report
+description: Something is wrong in the browser, the CLI, the pipeline or the data.
+labels: [bug]
+body:
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where
+      options:
+        - Browser (index.html on GitHub Pages)
+        - Terminal (query.py, excerpt.py)
+        - Pipeline (sync_catalog.py, enrich.py, fetch_transcripts.py, build_index.py)
+        - Data (a wrong title, speaker, year, topic or transcript)
+        - Docs
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, what you got. Paste the exact command or the search URL.
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: Output
+      description: Error text, stderr, or a screenshot. This is rendered as a code block.
+      render: text
+  - type: input
+    id: talk
+    attributes:
+      label: Talk id, if one talk is affected
+      placeholder: e.g. O72p-rBb2bA
