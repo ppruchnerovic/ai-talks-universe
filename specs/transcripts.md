@@ -298,7 +298,7 @@ Rules a model gets wrong without being told:
   spent` for an IP that fetched 15,871 words minutes later with the proxy
   stopped; a datacenter range is also blocked hardest. Drop it before
   trusting a block verdict or the quota table.
-- **Known hole, documented not fixed** (`docs/HISTORY.md:562`): route 2 limits
+- **Known hole, documented not fixed** (`docs/HISTORY.md` §"The bug list, worked" → "Still open, deliberately"): route 2 limits
   `--sub-langs` to `LANGUAGES`, so on an our-IP run a video whose only track
   is off-list is recorded as a miss ("no subtitles for the requested
   languages") — violating the "foreign-only captions are never a miss"

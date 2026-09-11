@@ -1,17 +1,10 @@
 # State and handoff
 
 Where the corpus and the tools stand today, and how to run the next collection
-without repeating a mistake this repo has already made. This is the file to
-read first in a new session; it is meant to stay short.
-
-| File | What it holds |
-|---|---|
-| `../README.md` | the landing page: headline numbers, browse link, quick start, docs index |
-| `GUIDE.md` | the user-facing documentation: what the corpus is, how to search it, how to rebuild it |
-| **`STATE.md`** (this file) | the state table, the handoff recipe, the quota, and the numbers to refresh after a run |
-| `ARCHITECTURE.md` | the diagrams — pipeline, data flow, the fetcher's routes and failure classes, both rankers, CI — and the design decisions not to relitigate |
-| `TODO.md` | everything open, one list |
-| `HISTORY.md` | the dated write-ups of every session's work, verbatim; where the numbers and decisions here get their provenance |
+without repeating a mistake this repo has already made. It is meant to stay
+short. The index of the other documents is in the root `README.md`; an AI
+agent starts at `specs/README.md` instead, and `specs/transcripts.md` distils
+the handoff and quota sections below.
 
 Built by porting an earlier, private WeAreDevelopers talk knowledge base
 (built against the congress agenda API; not published) onto a different and

@@ -5,10 +5,13 @@ one spec that covers the domain you are touching, then do the task. Specs
 are the source of truth: trust them over re-reading the code, and if you
 find a spec is wrong, fix the spec in the same change.
 
-The prose for humans lives in `README.md` and `docs/GUIDE.md`; the design
-rationale in `docs/ARCHITECTURE.md`; current numbers in `docs/STATE.md`.
-Specs distil those plus the code into what a model needs, and record where docs and code disagree
-(the code wins).
+Specs say what the code is and the rules for changing it. Docs say why it is
+that way, how a person operates it, and what was measured when: the guide is
+`docs/GUIDE.md`, the diagrams and design rationale `docs/ARCHITECTURE.md`,
+current numbers `docs/STATE.md`, provenance `docs/HISTORY.md`. Specs distil
+those plus the code into what a model needs, and record where docs and code
+disagree (the code wins). A spec cites a doc by section heading, never by
+line number, and never depends on the doc having been read.
 
 ## What the app is
 
@@ -53,14 +56,14 @@ Two properties carry everything else:
 
 | Spec | Read it when you touch | Files it maps |
 |---|---|---|
-| [data-model.md](data-model.md) | The registry schema, what a talk record contains, how speakers/topics/year/AI filter are derived, the four corpus representations, shared helpers | `conferences.json`, `ai-conferences.md`, `tools/atu.py`, `tools/check_registry.py`, `talks/`, `data/talks.{json,csv}`, `test_speakers.py`, `test_topics.py` |
-| [catalog-sync.md](catalog-sync.md) | Enumerating listings, enriching metadata, importing seeds or InfoQ, deriving the corpus, adding a conference | `tools/sync_catalog.py`, `tools/enrich.py`, `tools/infoq.py`, `tools/import_kb.py`, `data/catalog/`, `data/seeds/`, `data/infoq/`, `test_infoq.py` |
-| [transcripts.md](transcripts.md) | Fetching captions, the route ladder, the four failure classes, the per-IP quota and egress pool, running an extraction | `tools/fetch_transcripts.py`, `data/transcripts/`, `logs/`, `test_fetch_transcripts.py` |
-| [search-cli.md](search-cli.md) | The query language, ranking, the SQLite schema and `DB_SCHEMA_VERSION`, excerpt budgets, CLI output formats | `tools/query.py`, `tools/excerpt.py`, `data/talks.db`, `test_query.py`, `test_stem.py`, `test_excerpt.py` |
+| [data-model.md](data-model.md) | The registry schema, what a talk record contains, how speakers/topics/year/AI filter are derived, the four corpus representations, shared helpers | `conferences.json`, `ai-conferences.md`, `tools/atu.py`, `tools/check_registry.py`, `talks/`, `data/talks.{json,csv}`, `tools/test_speakers.py`, `tools/test_topics.py` |
+| [catalog-sync.md](catalog-sync.md) | Enumerating listings, enriching metadata, importing seeds or InfoQ, deriving the corpus, adding a conference | `tools/sync_catalog.py`, `tools/enrich.py`, `tools/infoq.py`, `tools/import_kb.py`, `data/catalog/`, `data/seeds/`, `data/infoq/`, `tools/test_infoq.py` |
+| [transcripts.md](transcripts.md) | Fetching captions, the route ladder, the four failure classes, the per-IP quota and egress pool, running an extraction | `tools/fetch_transcripts.py`, `data/transcripts/`, `logs/`, `tools/test_fetch_transcripts.py` |
+| [search-cli.md](search-cli.md) | The query language, ranking, the SQLite schema and `DB_SCHEMA_VERSION`, excerpt budgets, CLI output formats | `tools/query.py`, `tools/excerpt.py`, `data/talks.db`, `tools/test_query.py`, `tools/test_stem.py`, `tools/test_excerpt.py` |
 | [search-browser.md](search-browser.md) | The static page, its ranking and facets, the shard and meta file formats, the index builder, the UI test suites | `index.html`, `tools/build_index.py`, `tools/assemble_site.sh`, `data/search-meta.json`, `data/tindex/`, `tools/uitest/` |
-| [semantic.md](semantic.md) | The opt-in embedding layer, its install, how it fuses into `query.py`, graceful absence | `tools/semantic.py`, `tools/build_embeddings.py`, `tools/install_semantic.sh`, `tools/requirements-semantic.txt`, `test_semantic.py`, `data/embeddings/` |
+| [semantic.md](semantic.md) | The opt-in embedding layer, its install, how it fuses into `query.py`, graceful absence | `tools/semantic.py`, `tools/build_embeddings.py`, `tools/install_semantic.sh`, `tools/requirements-semantic.txt`, `tools/test_semantic.py`, `data/embeddings/` |
 | [skill.md](skill.md) | The Claude Code skill: its retrieval ladder, citation rules, and every CLI flag and output string it depends on | `.claude/skills/ai-conference-talks/SKILL.md` |
-| [publishing.md](publishing.md) | GitHub Pages publish, the weekly refresh, what is committed vs. ignored, local setup, the verification checklist, which doc holds which numbers, git conventions | `.github/workflows/*.yml`, `tools/refresh_local.sh`, `tools/systemd/`, `tools/install_refresh_timer.sh`, `.gitignore`, `tools/refresh_report.py`, `tools/requirements.txt`, `README.md`, `docs/`, `CONTRIBUTING.md` |
+| [publishing.md](publishing.md) | GitHub Pages publish, the weekly refresh, what is committed vs. ignored, local setup, the verification checklist, which doc holds which numbers, git conventions | `.github/workflows/*.yml`, `tools/check_specs.py`, `tools/refresh_local.sh`, `tools/systemd/`, `tools/install_refresh_timer.sh`, `.gitignore`, `tools/refresh_report.py`, `tools/requirements.txt`, `README.md`, `docs/`, `CONTRIBUTING.md` |
 
 ## Routing by task
 
@@ -82,3 +85,4 @@ Two properties carry everything else:
 * Never quote corpus counts from memory. Compute them with `query.py --stats`, and update the docs listed in publishing.md when they change.
 * Secrets are env vars sourced from the shell profile; never write values into the repo.
 * Keep each spec 50–500 lines. Split before it grows past that.
+* `tools/check_specs.py` verifies that every file the table above maps exists and that every script in `tools/` is named by some spec. Run it after adding, moving or deleting a tool.

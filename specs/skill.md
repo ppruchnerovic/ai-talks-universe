@@ -29,13 +29,13 @@ Responsibilities:
 Not responsible for: the search itself (`search-cli.md`, `semantic.md`), the
 data (`data-model.md`, `transcripts.md`), the browser (`search-browser.md`).
 The skill documents the tools; when they change, it is edited *last*
-(docs/HISTORY.md:1177 "Edit SKILL.md last, once the tools exist").
+(docs/HISTORY.md §"F. The skill, after the tools have changed": "Edit SKILL.md last, once the tools exist").
 
-Cost anchor, measured (docs/HISTORY.md:799 "Making the skill affordable"): the
+Cost anchor, measured (docs/HISTORY.md §"Making the skill affordable"): the
 pre-2026-09-01 skill said `cat talks/**.md` and cost ~150k tokens a question;
 the ladder costs ~15-17k (`--brief -n 15` ~1.5k, six default excerpts ~7k,
-`--quotes` over the same six ~1.2k). docs/ARCHITECTURE.md:586 has the sequence
-diagram.
+`--quotes` over the same six ~1.2k). docs/ARCHITECTURE.md §"The skill — a retrieval ladder with a price on it"
+has the sequence diagram.
 
 ## Where
 
@@ -56,10 +56,10 @@ diagram.
 | `tools/excerpt.py:679` | `[m:ss](url&t=Ns)` deep links; `~m:ss` when guessed. |
 | `tools/fetch_transcripts.py:994-1030` | `--probe`, `-c/--conference`, `--limit`, `--source exact`, `--retry-after` — the "Fetching what is missing" rung. |
 | `tools/install_semantic.sh`, `tools/semantic.py`, `tools/build_embeddings.py` | The optional layer the skill's "semantic" section describes. See `semantic.md`. |
-| `docs/GUIDE.md:464` "With Claude Code" | The user-facing two-paragraph description and the canonical example question. |
-| `docs/ARCHITECTURE.md:586` | "The skill — a retrieval ladder with a price on it": sequence diagram, the 2026-09-02 rungs. |
-| `docs/HISTORY.md:799`, `docs/HISTORY.md:1175-1195` | Why the ladder exists; section F, the 2026-09-02 revision list. |
-| `docs/STATE.md:41` | One-line status of the skill and its revision dates. |
+| `docs/GUIDE.md` §"With Claude Code" | The user-facing two-paragraph description and the canonical example question. |
+| Diagrams: `docs/ARCHITECTURE.md` §"The skill — a retrieval ladder with a price on it" | Sequence diagram, the 2026-09-02 rungs. |
+| `docs/HISTORY.md` §"Making the skill affordable", §"F. The skill, after the tools have changed" | Why the ladder exists; the 2026-09-02 revision list. |
+| `docs/STATE.md` state table, the skill row | One-line status of the skill and its revision dates. |
 
 ### SKILL.md, section by section
 
@@ -109,7 +109,7 @@ CLI (`--status`, `--chunks`, `--embed-query`, `--serve`).
 The cost table (SKILL.md "2. Read…" and "What a question should cost") is
 measured, not derived: if `WINDOW`, `OPENING`, `PASSAGES` (`excerpt.py:65-94`)
 or the `--brief` field set change, re-measure on a 30-40 minute talk and update
-the numbers. `docs/HISTORY.md:799` records how they were measured, and
+the numbers. `docs/HISTORY.md` §"Making the skill affordable" records how they were measured, and
 `excerpt.py`'s argparse epilog (`excerpt.py:821-824`) states the same figures
 — keep the two in step.
 
@@ -152,11 +152,11 @@ When either lands, add the flag to the couplings table and to the skill.
 ### Testing the skill by hand
 
 There is no automated skill test; the tools' tests are `cd tools && python3
-test_query.py`, `test_excerpt.py`, `test_semantic.py` (docs/GUIDE.md:832-861).
+test_query.py`, `test_excerpt.py`, `test_semantic.py` (docs/GUIDE.md §"Testing").
 To test the skill, start Claude Code at the repo root and ask:
 
 1. *"What do people at different conferences say about agent reliability?"*
-   (docs/GUIDE.md:468, docs/ARCHITECTURE.md:595). Good: it runs `--stats` or
+   (docs/GUIDE.md §"With Claude Code", docs/ARCHITECTURE.md §"The skill"). Good: it runs `--stats` or
    `--facets`, one `--brief` search (maybe `--per-conference`), `excerpt.py`
    or `--excerpt` on a handful of ids; the answer is grouped by position,
    every claim names a speaker (or "a speaker at <conf>") and a conference,

@@ -102,7 +102,7 @@ in `.gitignore` cite Pages.
 |---|---|---|
 | `README.md` | the landing page: the headline numbers, the browse link, a terminal quick start, the docs index, licence |
 | `docs/GUIDE.md` | user prose: what the corpus is, how to search (browser, CLI, skill, semantic, excerpt), how to rebuild, what gets published, how to test | session narrative, open items |
-| `docs/ARCHITECTURE.md` | the diagrams (pipeline, derivation, fetcher routes, both rankers, CI), the testing table, "Design decisions worth not relitigating" | current counts (they drift) |
+| `docs/ARCHITECTURE.md` | the diagrams (pipeline, derivation, fetcher routes, both rankers, CI), the testing table (no counts), "Design decisions worth not relitigating" | current counts (they drift); any rule that only one spec owns — state it there and cite it |
 | `docs/STATE.md` | the state table ("Where things stand"), "Verifying a change", the transcript-run handoff, the quota, "Numbers to refresh" | history; meant to stay short |
 | `docs/TODO.md` | open work, one list, each line pointing at a `docs/HISTORY.md` section; finished lines are **deleted**, not struck | background |
 | `docs/HISTORY.md` | dated write-ups per session, verbatim — provenance for every number and decision | anything that needs to be current |
@@ -115,7 +115,6 @@ refresh"). These must move together:
 |---|---|---|
 | `README.md` and `docs/GUIDE.md` | talks / transcripts / conferences / enumerated (now 9,048 / 3,174 / 53 / 17,677); the 2026 scope count and how many are transcribed | `query.py --stats` |
 | `docs/STATE.md` state table | transcript, description, year, tag, speaker coverage; per-conference transcript split; 2026 pending backlog; passage count; credits spent this month; sizes of `talks.db`, `search-meta.json`, `tindex/`; test and uitest check counts | `sync_catalog.py` end-of-run coverage; `build_index.py` passage count, sizes and the 6 MiB trigger line; the suites' own tallies |
-| `docs/ARCHITECTURE.md` testing table | test counts per suite | the suites' tallies (already stale: it says `test_query.py (34)`, the file has 75) |
 | `.claude/skills/ai-conference-talks/SKILL.md` | none — deliberately carries no hard-coded counts | — |
 
 ### Git conventions (from `git log --oneline -25`)
@@ -155,6 +154,8 @@ non-login (tool-driven) shell does not read it, and the tools degrade
 
 1. `cd tools && python3 check_registry.py` — instant; fails if
    `conferences.json` and `ai-conferences.md` drift.
+   `python3 tools/check_specs.py` — instant; fails if the spec map names a
+   path that is gone, or a script in `tools/` that no spec names.
 2. Offline suites, in one chain so a failure stops the run:
    `python3 test_query.py && python3 test_excerpt.py && python3 test_infoq.py && python3 test_speakers.py && python3 test_topics.py && python3 test_semantic.py && python3 test_stem.py && python3 test_fetch_transcripts.py`
    (all ~0.1–1 s except `test_stem.py` ~6 s, which reads the corpus and runs

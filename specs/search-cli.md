@@ -140,8 +140,9 @@ exclusive views), `--json`. Exit 1 only if every id was missing.
 ### Decision docs
 
 - `docs/TODO.md` — the search enrichment items that are still open.
-- `docs/HISTORY.md:1511` "Search enrichment — 2026-09-02" — the write-up of what landed.
-- `docs/ARCHITECTURE.md:363-416` (CLI), `:466-540` (index files), `:560-585` (excerpt); `docs/GUIDE.md:327-463`, `:807-862`.
+- `docs/HISTORY.md` §"Search enrichment — 2026-09-02" — the write-up of what landed.
+- Diagrams: `docs/ARCHITECTURE.md` §"The CLI — `query.py`", §"The index files", §"Reading a talk without reading all of it — `excerpt.py`".
+- `docs/GUIDE.md` §"From the terminal", §"Reading a talk without reading all of it", §"Testing".
 
 ## How
 

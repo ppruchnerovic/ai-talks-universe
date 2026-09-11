@@ -1,6 +1,6 @@
 name: Tests
 
-# The registry check, the eight offline suites and the linter, on every push
+# The registry check, the spec-map check, the eight offline suites and the linter, on every push
 # and pull request. Nothing here touches the network or the corpus caches:
 # the suites build what they need in memory, and test_stem.py reads the
 # committed talks.json. The browser suites (tools/uitest) are not run here;
@@ -42,6 +42,9 @@ jobs:
       - name: Registry agrees with the curated list
         working-directory: tools
         run: python3 check_registry.py
+
+      - name: Spec map matches the tree
+        run: python3 tools/check_specs.py
 
       - name: Offline suites
         working-directory: tools

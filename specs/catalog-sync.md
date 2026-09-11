@@ -37,6 +37,12 @@ YouTube listings, one `videos` seed, one `infoq` source).
 
 ## Where
 
+Diagrams: `docs/ARCHITECTURE.md` §"The pipeline, stage by stage" and
+§"What is derived from what". Human prose: `docs/GUIDE.md` §"Where the data
+comes from", §"Rebuilding". Rationale: `docs/ARCHITECTURE.md` §"Design
+decisions" (enumeration is flat; a source that returns nothing keeps its
+cached videos; a seed is a source).
+
 ### `tools/sync_catalog.py` (1138 lines)
 
 | Symbol | Line | Purpose |

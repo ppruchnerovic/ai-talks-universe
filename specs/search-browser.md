@@ -239,7 +239,7 @@ Invariants and the mistakes a model makes here:
   per-page). Fill `detail` in `L.check` with what was actually seen.
 - **`suite-ranking`'s CLI half** needs `data/talks.db` built and runs
   `--no-semantic` so lexical is compared with lexical. If it goes red after a
-  corpus change, read docs/ARCHITECTURE.md:883 first — the top-40 window is a
+  corpus change, read docs/ARCHITECTURE.md §"Design decisions" → "The two rankers are compared at the web's top 40" first — the top-40 window is a
   known-fragile check, not proof the browser broke.
 - **Facts the prose has drifted from before, so check the code, not a doc:**
   the page has five sorts (`SORTS = rel/new/title/short/long`), not three;
