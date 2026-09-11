@@ -1150,7 +1150,7 @@ def main() -> None:
     print(f"\ntopics ({len(talks) - untopical} talks carry at least one, {untopical} none):")
     for name in atu.TOPIC_NAMES:
         print(f"  {per_topic.get(name, 0):>5}  {name}")
-    print(f"\n  data/talks.json · data/talks.csv · talks/")
+    print("\n  data/talks.json · data/talks.csv · talks/")
 
 
 if __name__ == "__main__":

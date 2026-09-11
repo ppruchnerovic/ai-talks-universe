@@ -1,0 +1,55 @@
+name: Tests
+
+# The registry check, the eight offline suites and the linter, on every push
+# and pull request. Nothing here touches the network or the corpus caches:
+# the suites build what they need in memory, and test_stem.py reads the
+# committed talks.json. The browser suites (tools/uitest) are not run here;
+# they take four minutes and Playwright, and CONTRIBUTING.md asks for them
+# locally when index.html or the index builder changes.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: tests-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Lint
+        run: |
+          pip install --quiet ruff
+          ruff check .
+
+      - name: Registry agrees with the curated list
+        working-directory: tools
+        run: python3 check_registry.py
+
+      - name: Offline suites
+        working-directory: tools
+        run: |
+          set -e
+          for t in test_query test_excerpt test_infoq test_speakers test_topics \
+                   test_semantic test_fetch_transcripts test_stem; do
+            echo "::group::$t"
+            python3 "$t.py"
+            echo "::endgroup::"
+          done
