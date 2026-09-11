@@ -84,9 +84,10 @@ conferences.json ─► sync_catalog.py ─► data/catalog/     every video the
 ```
 
 Every stage caches to disk and is resumable, so enumeration can be redone
-weekly for nothing while transcripts accumulate over months. A GitHub Actions
-run re-enumerates every Monday and proposes what it found on a review branch;
-it never publishes on its own. Transcripts are fetched on a real machine,
+daily for nothing while transcripts accumulate over months. A daily run of
+`tools/refresh_local.sh` on the maintainer's machine re-enumerates, enriches,
+fetches up to 300 new transcripts and opens a pull request with a coverage
+report; merging it is what publishes. It runs locally rather than in CI
 because YouTube meters the caption endpoint per IP and blocks cloud ranges.
 
 ## Documentation

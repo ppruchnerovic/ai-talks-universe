@@ -636,7 +636,7 @@ flowchart TD
     REF --> CH{"anything changed?"}
     CH -- no --> END["nothing to propose"]
     CH -- yes --> REP["refresh_report.py<br/>field coverage vs HEAD:data/talks.json<br/>exit 2 if any field lost &gt;2% of the corpus"]
-    REP --> PUSHB["force-push to automation/kb-refresh<br/>one long-lived branch, rewritten weekly"]
+    REP --> PUSHB["push refresh-YYYY-MM-DD, open a PR<br/>(since 2026-09-11: tools/refresh_local.sh, daily, local)"]
     PUSHB --> SUM["the coverage table in the run summary<br/>🔴 if regressed, with a compare link"]
     SUM --> HUMAN{"a human reads the table"}
     HUMAN -- "merge" --> MAIN["main → pages.yml publishes"]

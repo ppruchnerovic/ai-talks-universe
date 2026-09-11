@@ -16,8 +16,13 @@ session-by-session record with numbers and provenance is
 - A tests workflow: the registry check, the eight offline suites and `ruff`
   on every push and pull request.
 - `AGENTS.md` as the entry point for AI agents, pointing at the spec map.
+- `tools/refresh_local.sh`: the whole refresh, transcripts included, run
+  daily by a systemd user timer on the maintainer's machine and delivered as
+  a pull request with the coverage report.
 
 ### Changed
+- The weekly GitHub Actions refresh is gone; it had no keys, so it could
+  enumerate but never enrich or transcribe.
 - The README is now a landing page. The long-form guide moved to
   `docs/GUIDE.md`, alongside `ARCHITECTURE`, `STATE`, `STATS`, `TODO` and
   `HISTORY`.

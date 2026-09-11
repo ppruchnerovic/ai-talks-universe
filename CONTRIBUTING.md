@@ -16,7 +16,8 @@ source of truth if the two ever disagree.
   `data/embeddings/`, any virtualenv. `.gitignore` covers them; check
   `git status --porcelain` after a rebuild.
 - Do not fetch transcripts from CI or a cloud machine. YouTube meters the
-  caption endpoint per IP and blocks cloud ranges. Fetch locally.
+  caption endpoint per IP and blocks cloud ranges. The maintainer's daily
+  `tools/refresh_local.sh` does it; contributors need not.
 - Be kind. The [code of conduct](CODE_OF_CONDUCT.md) applies everywhere in
   this project.
 
@@ -105,5 +106,5 @@ The pull request template repeats this list as checkboxes.
   trailing period: *Publish only what the browser fetches, not the whole
   repository*. Doc-only commits may prefix the file: *STATE.md: …*.
 - One branch per piece of work, merged with an explicit merge commit.
-- Never base work on `automation/kb-refresh` (rewritten weekly by the bot)
-  or `gh-pages` (one orphan commit, rewritten on every deploy).
+- Never base work on a `refresh-YYYY-MM-DD` branch (the daily refresh's
+  pull request) or `gh-pages` (one orphan commit, rewritten on every deploy).

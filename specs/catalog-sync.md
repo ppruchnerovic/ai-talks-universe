@@ -186,8 +186,9 @@ conference, language, auto_generated, source, timing, word_count, segments:
   `looks_ai`, `topics_of`, `segment_plain_text`, `is_youtube_id`, `INFOQ_ID_PREFIX`.
 - `tools/check_registry.py`: `conferences.json` must agree with `ai-conferences.md`.
 - `tools/refresh_report.py`: field-level diff of a rebuilt corpus vs the
-  committed one; used by `kb-refresh.yml` (which runs `sync_catalog.py --refresh`,
-  `enrich.py --limit 4000`, `sync_catalog.py` — see `publishing.md`).
+  committed one; used by `tools/refresh_local.sh` (which runs `sync_catalog.py
+  --refresh`, `enrich.py`, the fetcher, `sync_catalog.py`, `build_index.py` —
+  see `publishing.md`).
 
 ## How
 

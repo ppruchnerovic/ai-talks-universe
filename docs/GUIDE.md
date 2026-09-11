@@ -533,6 +533,11 @@ talk.
 
 ### Fetching what has no transcript yet
 
+Day to day this is done by `tools/refresh_local.sh`, which runs the whole
+chain below on a daily systemd timer (`tools/install_refresh_timer.sh`) and
+opens a pull request with the coverage report. The rest of this section is
+the same run by hand.
+
 Nothing is pending. The 2026-09-06 refresh — 27 new videos, 3 InfoQ-only
 presentations, and 722 already-cached videos that the description backfill
 let through the AI filter — left 241 talks of 2026 without a transcript, and

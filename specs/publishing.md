@@ -11,10 +11,26 @@ Responsible for:
 
 - `pages.yml` — every push to `main` assembles the site and force-pushes it to
   `gh-pages` as one orphan commit. Publishes only what `index.html` fetches.
-- `kb-refresh.yml` — Mondays 04:17 UTC (or a push touching `conferences.json`,
-  `tools/**`, or itself): re-enumerates YouTube, rebuilds the indexes, pushes a
-  review branch `automation/kb-refresh` and writes a field-coverage table into
-  the run summary. **Never** commits to `main`, opens a PR, or publishes.
+- `tools/refresh_local.sh` — the refresh, run daily on the maintainer's
+  machine by a systemd user timer (`tools/systemd/`, installed by
+  `tools/install_refresh_timer.sh`), because both keys live there and CI has
+  neither. Chain: preconditions (clean tree, on `main`, keys present, flock)
+  → `git pull --ff-only` → `check_registry.py` → `sync_catalog.py --refresh`
+  → `enrich.py --min-year <this year> --include-unknown-year` →
+  `sync_catalog.py` → `fetch_transcripts.py --source supadata --min-year
+  <this year> --include-unknown-year --workers 32 --limit 300` (the credit
+  cap; `--limit N`, `--no-transcripts`) → `sync_catalog.py` → `build_index.py`
+  → `refresh_report.py -o logs/…` (rc 2 aborts) → the eight offline suites →
+  commit on `refresh-YYYY-MM-DD`, push, `gh pr create` with the report as
+  body. **Never** commits to `main`; merging the PR is the gate and triggers
+  `pages.yml`. On abort it restores tracked files and deletes untracked ones
+  *except* `data/transcripts/`, so bought transcripts survive and the next
+  run folds them in; the dirty-tree check ignores untracked transcripts for
+  the same reason. Keys come from `~/.config/ai-talks-universe/env` (mode
+  600), never the shell profile. Logs to `logs/refresh-<date>.log`.
+  `--dry-run` prints the plan. The former `kb-refresh.yml` (a weekly Actions
+  run that could enumerate but never enrich or fetch) was removed on
+  2026-09-11; its design notes are in "The refresh branch" below.
 - `tests.yml` — every push to `main` and every pull request: `ruff check .`
   (Pyflakes only, configured in `pyproject.toml`), `check_registry.py`, then
   the eight offline suites in one chain. No network, no `talks.db`; the
@@ -49,7 +65,7 @@ Live site: <https://ppruchnerovic.github.io/ai-talks-universe/>, served from
 | Path | What it is |
 |---|---|
 | `.github/workflows/pages.yml` | `on: push` to `main` + `workflow_dispatch`. Two steps: `tools/assemble_site.sh _site`, then `git init -b gh-pages` inside `_site`, one commit `Publish <sha8>`, `git push --force` to `gh-pages`. `permissions: contents: write`; `concurrency: pages`, cancel-in-progress. Only env: `GITHUB_TOKEN` (built-in). |
-| `.github/workflows/kb-refresh.yml` | Python 3.12, `pip install yt-dlp`, then in `tools/`: `check_registry.py` → `sync_catalog.py --refresh` → (only if `YOUTUBE_API_KEY` secret is set) `enrich.py --limit 4000` + `sync_catalog.py` → `build_index.py`. If `git status --porcelain` is non-empty: `refresh_report.py -o /tmp/refresh-report.md` (rc 0 clean / 2 regressed / else fail), then `git checkout -B automation/kb-refresh`, commit "Refresh the AI talk catalogue", `push --force`, and append the report + a `compare/main...automation/kb-refresh` link to `$GITHUB_STEP_SUMMARY`. `concurrency: kb-refresh`, no cancel. Transcripts are never fetched here (YouTube blocks GitHub's IP ranges). |
+| `.github/workflows/kb-refresh.yml` (removed 2026-09-11, kept here for the record) | Python 3.12, `pip install yt-dlp`, then in `tools/`: `check_registry.py` → `sync_catalog.py --refresh` → (only if `YOUTUBE_API_KEY` secret is set) `enrich.py --limit 4000` + `sync_catalog.py` → `build_index.py`. If `git status --porcelain` is non-empty: `refresh_report.py -o /tmp/refresh-report.md` (rc 0 clean / 2 regressed / else fail), then `git checkout -B automation/kb-refresh`, commit "Refresh the AI talk catalogue", `push --force`, and append the report + a `compare/main...automation/kb-refresh` link to `$GITHUB_STEP_SUMMARY`. `concurrency: kb-refresh`, no cancel. Transcripts are never fetched here (YouTube blocks GitHub's IP ranges). |
 | `tools/assemble_site.sh OUT_DIR` | `rm -rf OUT`; copy `index.html`, `.nojekyll`, `ai-conferences.md` (footer link) to `OUT/`; `data/search-meta.json`, `data/tindex/`, `data/transcripts/` to `OUT/data/`; delete `OUT/data/transcripts/_misses.json`; print `du -sh` per part and total. `set -euo pipefail`; resolves the repo root from its own location, so it runs from anywhere. |
 | `tools/refresh_report.py` | `FIELDS = (channel, description, year, speakers, tags, published_at, topics)`, `TOLERANCE = 0.02`. `committed_talks(ref)` reads `git show <ref>:data/talks.json`; `report(base, now, tol)` returns markdown + regressed flag: talks before→after, added/dropped ids, a per-field Before/After/Δ table, "Do not merge as-is" when any field lost more than `int(len(base)*tol)` talks, first 40 added and dropped titles. Flags `--base` (default `HEAD`), `--tolerance`, `-o/--out`. Exit 0 clean, 1 no baseline, 2 regressed. Uses `atu.ROOT` and `atu.load_talks()`. |
 | `tools/check_registry.py` | `conferences.json` vs `ai-conferences.md`, per conference block. First step of the refresh and of the local checklist. See `catalog-sync.md`. |
@@ -116,9 +132,9 @@ refresh"). These must move together:
 - Worktrees live under `.claude/worktrees/` (directory exists, currently
   empty); the remote branch `worktree-search-options` is one such. Agent
   worktrees are named after the branch.
-- Bot branches: `automation/kb-refresh` (rewritten weekly by force-push),
-  `gh-pages` (one orphan commit, rewritten on every deploy). Never base work
-  on either.
+- Bot branches: `refresh-YYYY-MM-DD` (one per daily run of
+  `refresh_local.sh`, deleted after merge), `gh-pages` (one orphan commit,
+  rewritten on every deploy). Never base work on either.
 
 ## How
 
@@ -168,6 +184,10 @@ non-login (tool-driven) shell does not read it, and the tools degrade
    same commit. Nothing else publishes it.
 
 ### The refresh branch
+
+History of the gate; the mechanism now lives in `tools/refresh_local.sh`
+(see "What"), which keeps the same rule: a regression in the coverage table
+aborts, and only a human merge publishes.
 
 - The gate is a human reading the coverage table in the run summary, then
   opening a PR from the compare link if it is worth merging. Merging to `main`

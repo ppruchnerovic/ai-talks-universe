@@ -5,9 +5,9 @@
 `tools/fetch_transcripts.py` turns a talk record (`data/talks.json`, see
 `data-model.md`) into a timed transcript file `data/transcripts/<video_id>.json`.
 It is the only stage that talks to YouTube's caption endpoint, and the only
-stage that spends money (Supadata credits). It is run by hand on a real
-machine — never from CI, because YouTube blocks GitHub's IP ranges outright
-(`.github/workflows/kb-refresh.yml:3-6`).
+stage that spends money (Supadata credits). It runs on a real machine, by
+hand or daily from `tools/refresh_local.sh` (capped at `--limit 300` credits
+a run) — never from CI, because YouTube blocks GitHub's IP ranges outright.
 
 Responsible for:
 

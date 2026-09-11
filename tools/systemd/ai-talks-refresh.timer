@@ -1,0 +1,11 @@
+[Unit]
+Description=Daily refresh of the AI talks universe
+
+[Timer]
+OnCalendar=*-*-* 06:30:00
+# A laptop asleep at 06:30 runs it on wake instead of skipping the day.
+Persistent=true
+RandomizedDelaySec=15m
+
+[Install]
+WantedBy=timers.target
