@@ -15,6 +15,19 @@ Responsible for:
   `tools/**`, or itself): re-enumerates YouTube, rebuilds the indexes, pushes a
   review branch `automation/kb-refresh` and writes a field-coverage table into
   the run summary. **Never** commits to `main`, opens a PR, or publishes.
+- `tests.yml` — every push to `main` and every pull request: `ruff check .`
+  (Pyflakes only, configured in `pyproject.toml`), `check_registry.py`, then
+  the eight offline suites in one chain. No network, no `talks.db`; the
+  browser suites are not run here. This is the badge at the top of `README.md`.
+- The open-source set at the root: `LICENSE` (MIT, code), `DATA-NOTICE.md`
+  (CC BY 4.0 for the curated data, no claim over transcripts, takedown
+  route), `CONTRIBUTING.md` (the verification order below, distilled),
+  `CODE_OF_CONDUCT.md`, `SECURITY.md`, `CHANGELOG.md` (dated, Keep a
+  Changelog; user-visible changes only, `docs/HISTORY.md` keeps the detail),
+  `AGENTS.md` and `CLAUDE.md` (both point at `specs/README.md`),
+  `.github/ISSUE_TEMPLATE/`, `.github/PULL_REQUEST_TEMPLATE.md`,
+  `.github/dependabot.yml`. When the verification order changes, change
+  `CONTRIBUTING.md` and the PR template in the same commit as this spec.
 - `refresh_report.py` — the gate that table comes from: per-field coverage of
   the working-tree corpus vs `HEAD:data/talks.json`.
 - `assemble_site.sh` — the one definition of "the site". Used by `pages.yml`
