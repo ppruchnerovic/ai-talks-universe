@@ -6,8 +6,9 @@ but not on its `/videos` tab, so the flat listing `sync_catalog.py` runs never
 returns them: of 358 congress talks, exactly one is in the 700 videos that
 enumeration found. What *does* know about them is the congress agenda API, and
 that was already harvested — titles, abstracts, speakers, tracks and a
-`recording_url` per session — into the corpus at `../presentations/kb`, together
-with an exact-timing transcript for all 358.
+`recording_url` per session — into a private corpus (`--kb`, by default a
+sibling checkout at `../presentations/kb`; not part of this repository),
+together with an exact-timing transcript for all 358.
 
 So this is a metadata import, not a fetch. It touches no network, spends no
 Supadata credit and draws nothing from the per-IP caption allowance:

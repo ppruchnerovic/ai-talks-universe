@@ -37,9 +37,9 @@ every rule in this spec is reversible without a fetch.
 
 | File | What it is |
 |---|---|
-| `/home/peter/git/ai-talks-universe/conferences.json` | The registry. Top level: `version`, `note`, `min_year` (2023, the corpus floor), `fields` (prose docs for the non-obvious keys), `conferences[]` (53 entries). |
-| `/home/peter/git/ai-talks-universe/ai-conferences.md` | Human curation. One `### <Conference>` block per conference under `## <section>` headings; each block lists Site, YouTube channel/playlists, availability and the reasoning. Sections `## Academic research…` and `## Checked but weak sources…` are ignored by the checker. |
-| `/home/peter/git/ai-talks-universe/tools/check_registry.py` | Compares the two. `markdown_blocks()` (line 33) maps each `###` heading to the YouTube URLs under it; `key()` (line 51) reduces a URL to `list:<id>` or `chan:@handle` so tracking params and `/videos` suffixes do not matter. Flags a documented block whose URLs the registry reads *none* of, and a registered YouTube source no block mentions. `videos` and `infoq` sources are skipped (no YouTube URL to match). Exit 1 on drift. Runs in CI (`.github/workflows/kb-refresh.yml:68`). |
+| `conferences.json` | The registry. Top level: `version`, `note`, `min_year` (2023, the corpus floor), `fields` (prose docs for the non-obvious keys), `conferences[]` (53 entries). |
+| `ai-conferences.md` | Human curation. One `### <Conference>` block per conference under `## <section>` headings; each block lists Site, YouTube channel/playlists, availability and the reasoning. Sections `## Academic research…` and `## Checked but weak sources…` are ignored by the checker. |
+| `tools/check_registry.py` | Compares the two. `markdown_blocks()` (line 33) maps each `###` heading to the YouTube URLs under it; `key()` (line 51) reduces a URL to `list:<id>` or `chan:@handle` so tracking params and `/videos` suffixes do not matter. Flags a documented block whose URLs the registry reads *none* of, and a registered YouTube source no block mentions. `videos` and `infoq` sources are skipped (no YouTube URL to match). Exit 1 on drift. Runs in CI (`.github/workflows/kb-refresh.yml:68`). |
 
 A conference entry (the key is **`sources`**, not "listings"):
 

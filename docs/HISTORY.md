@@ -211,7 +211,8 @@ the miss file empty.
 
 ## The WeAreDevelopers import
 
-The corpus this repo was ported from — `../presentations/kb` — holds the 358
+The corpus this repo was ported from — a private one built from the congress
+agenda API, `../presentations/kb` on the machine that ran this — holds the 358
 recorded talks of WeAreDevelopers World Congress 2026, each with an exact-timing
 transcript, harvested from the congress agenda API. None of it was here. The
 check that settled why: of those 358 video ids, **1** appears anywhere in the

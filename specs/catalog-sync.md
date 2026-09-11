@@ -111,8 +111,9 @@ keeps iq- records, `claim_for_infoq` is idempotent).
 ### `tools/import_kb.py` (212 lines)
 
 Offline import of a conference whose recordings are unlisted on YouTube, from
-a corpus built against the conference's agenda API (default
-`../presentations/kb`, the WeAreDevelopers World Congress 2026).
+a corpus built against the conference's agenda API (default `--kb
+../presentations/kb`, a private WeAreDevelopers World Congress 2026 corpus
+that is not part of this repository).
 
 | Symbol | Line | Purpose |
 |---|---|---|
