@@ -1,0 +1,15 @@
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+  - package-ecosystem: pip
+    directory: /tools
+    schedule:
+      interval: monthly
+    # requirements-semantic.txt is pinned on purpose to the versions the layer
+    # was measured with; bump it by hand, after re-measuring.
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-patch"]
