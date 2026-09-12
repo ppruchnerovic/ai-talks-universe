@@ -877,5 +877,5 @@ check("and each is filed under the language it is in",
 
 
 print("\n" + (f"{len(FAILS)} FAILED: {FAILS}" if FAILS else
-              f"all checks passed"))
+              "all checks passed"))
 sys.exit(1 if FAILS else 0)

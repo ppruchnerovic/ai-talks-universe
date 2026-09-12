@@ -57,7 +57,8 @@ standard library and skips its end-to-end block.
 | `tools/uitest/suite-ranking.js:58` | Runs `query.py --no-semantic` so browser-vs-CLI agreement is lexical vs lexical. |
 | `.gitignore` | `tools/.venv-semantic/`, `data/embeddings/`. |
 | `.claude/skills/ai-conference-talks/SKILL.md:276-292` | "The optional semantic layer" — the caveats a model needs. |
-| Docs | `ARCHITECTURE.md:541-560` (flowchart, stamp), `README.md:395-427`, `HISTORY.md:1613-1650` (measurements), `TODO.md:39-44` (next steps), `STATE.md:35`. |
+| Diagrams | [Semantic integration flow](#semantic-integration-flow); stamp format is defined in this spec. |
+| Docs | `docs/GUIDE.md` §"Optional: semantic search layer"; `docs/HISTORY.md` §"Search enrichment" → "The semantic layer" (measurements); `docs/TODO.md` (the semantic bullet: next steps); `docs/STATE.md` state table row "Excerpting". |
 
 ### `tools/semantic.py` — key symbols
 
@@ -141,13 +142,12 @@ cd tools && python3 test_semantic.py   # < 1 s, system python, no numpy
 python3 tools/query.py "..." --semantic | --no-semantic | --explain
 ```
 
-Measured (HISTORY.md, 2026-09-02): cold install 196 s (pip 118 MiB in 12 s,
-model 29.5 MiB, talks ~10 s, chunks ~85 s); 1–2 s when current;
-byte-identical on `--force`. Query: `available()` ~12 ms; subprocess
-round-trip ~600 ms (≈0.5 s is model load); in-process 18 ms warm. Fused
-`query.py` call ~1.2 s vs 0.55 s lexical. Disk: venv ~133 MB + model 30 MB +
-vectors 4.4 MiB (+ 88 MiB with chunks). CPU only; no GPU path exists or is
-needed.
+The numbers that shape the design: a fused `query.py` call costs roughly
+twice a lexical one (~1.2 s vs ~0.55 s), most of it model load, which is why
+the layer is opt-in per call; rebuilds are byte-identical on `--force`. CPU
+only; no GPU path exists or is needed. The full measurements (install time,
+disk, per-call latency) are in `docs/HISTORY.md` §"Search enrichment" →
+"The semantic layer".
 
 ## How
 
@@ -192,8 +192,28 @@ needed.
   proxy the model fetch can fail where pip succeeds (certifi vs system CA);
   the script exports `SSL_CERT_FILE` to the system bundle when unset.
 - **Where docs and code disagree, the code wins:**
-  - `README.md:418-421` says a missing layer "says why on stderr". Code:
+  - `docs/GUIDE.md` §"Optional: semantic search layer" says a missing layer "says why on stderr". Code:
     silent unless `--explain` (`query.py:786-788`); only `--semantic` errors.
-    SKILL.md and ARCHITECTURE.md state it correctly.
-  - `TODO.md:39` lists chunk-level *ranking* and a cross-encoder rerank as
+    SKILL.md and docs/ARCHITECTURE.md state it correctly.
+  - `docs/TODO.md` (the semantic bullet) lists chunk-level *ranking* and a cross-encoder rerank as
     possible next steps — neither exists; chunks anchor excerpts only.
+
+## Diagrams
+
+Selective views of the behavior specified above; omitted fields and branches
+remain defined by the detailed sections in this spec. Update the relevant
+diagram with a change to that flow; keep rationale in `docs/ARCHITECTURE.md`.
+
+### Semantic integration flow
+
+```mermaid
+flowchart LR
+    I["tools/install_semantic.sh"] --> V["tools/.venv-semantic<br/>numpy · tokenizers · model2vec — no torch, no onnx"]
+    I --> B["build_embeddings.py<br/>potion-base-8M, 256-d static embeddings"]
+    B --> E["data/embeddings/ (gitignored)<br/>talks.f16.npy · talks.ids.json (stamp)<br/>chunks.f16.npy · chunks.spans.f32.npy"]
+    Q["query.py on the system python"] --> A{"available()?<br/>files present · stamp current · libraries importable"}
+    A -- no --> L["FTS5 alone, silently"]
+    A -- yes --> C["_call(): in-process if numpy imports,<br/>else `semantic.py --serve` under the venv,<br/>one JSON request in, one reply out"]
+    C --> F["fuse_rrf(lexical head, vector top-k)<br/>union, reciprocal rank"]
+    F --> X["--excerpt anchors a vector-only hit<br/>on its best chunk starts"]
+```

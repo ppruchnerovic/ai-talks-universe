@@ -6,8 +6,9 @@ but not on its `/videos` tab, so the flat listing `sync_catalog.py` runs never
 returns them: of 358 congress talks, exactly one is in the 700 videos that
 enumeration found. What *does* know about them is the congress agenda API, and
 that was already harvested — titles, abstracts, speakers, tracks and a
-`recording_url` per session — into the corpus at `../presentations/kb`, together
-with an exact-timing transcript for all 358.
+`recording_url` per session — into a private corpus (`--kb`, by default a
+sibling checkout at `../presentations/kb`; not part of this repository),
+together with an exact-timing transcript for all 358.
 
 So this is a metadata import, not a fetch. It touches no network, spends no
 Supadata credit and draws nothing from the per-IP caption allowance:
@@ -95,7 +96,7 @@ def seed_record(talk: dict, tr: dict | None) -> dict:
         # everything downstream, and the AI-relevance test matches on them.
         "tags": [t for t in ([talk.get("track")] + list(talk.get("tags") or [])) if t],
         # When the talk was *given*. Not a YouTube upload timestamp, which the
-        # agenda API does not know — see STATE.md.
+        # agenda API does not know — see docs/STATE.md.
         "published_at": talk.get("starts_at"),
         "session_page": talk.get("session_page"),
     }

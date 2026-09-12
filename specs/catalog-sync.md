@@ -37,6 +37,12 @@ YouTube listings, one `videos` seed, one `infoq` source).
 
 ## Where
 
+Diagrams: [pipeline stages](#pipeline-stages) and
+[artifact flow](ARCHITECTURE.md#artifact-flow). Human prose: `docs/GUIDE.md` §"Where the data
+comes from", §"Rebuilding". Rationale: `docs/ARCHITECTURE.md` §"Design
+decisions" (enumeration is flat; a source that returns nothing keeps its
+cached videos; a seed is a source).
+
 ### `tools/sync_catalog.py` (1138 lines)
 
 | Symbol | Line | Purpose |
@@ -111,8 +117,9 @@ keeps iq- records, `claim_for_infoq` is idempotent).
 ### `tools/import_kb.py` (212 lines)
 
 Offline import of a conference whose recordings are unlisted on YouTube, from
-a corpus built against the conference's agenda API (default
-`../presentations/kb`, the WeAreDevelopers World Congress 2026).
+a corpus built against the conference's agenda API (default `--kb
+../presentations/kb`, a private WeAreDevelopers World Congress 2026 corpus
+that is not part of this repository).
 
 | Symbol | Line | Purpose |
 |---|---|---|
@@ -185,8 +192,9 @@ conference, language, auto_generated, source, timing, word_count, segments:
   `looks_ai`, `topics_of`, `segment_plain_text`, `is_youtube_id`, `INFOQ_ID_PREFIX`.
 - `tools/check_registry.py`: `conferences.json` must agree with `ai-conferences.md`.
 - `tools/refresh_report.py`: field-level diff of a rebuilt corpus vs the
-  committed one; used by `kb-refresh.yml` (which runs `sync_catalog.py --refresh`,
-  `enrich.py --limit 4000`, `sync_catalog.py` — see `publishing.md`).
+  committed one; used by `tools/refresh_local.sh` (which runs `sync_catalog.py
+  --refresh`, `enrich.py`, the fetcher, `sync_catalog.py`, `build_index.py` —
+  see `publishing.md`).
 
 ## How
 
@@ -208,7 +216,7 @@ Adding a conference (registry schema in `data-model.md`):
 3. If the conference is `scope: "ai"`: `python3 enrich.py --all -c <slug>
    --include-unknown-year`, then `python3 sync_catalog.py` again. The AI
    filter reads descriptions, so titles that never say "AI" are dropped
-   until this runs. STATE.md lists enrich *before* the first `--refresh`;
+   until this runs. docs/STATE.md lists enrich *before* the first `--refresh`;
    that cannot work for a new slug (enrich.py reads the catalog, which does
    not exist yet) — enumerate first, as here.
 4. `python3 build_index.py`; transcripts per `transcripts.md`.
@@ -255,3 +263,30 @@ Invariants and caveats:
   only re-select talks whose year is already known.
 - `talks/` is deleted and rewritten every derive; anything placed there by
   hand is lost.
+
+## Diagrams
+
+Selective views of the behavior specified above; omitted fields and branches
+remain defined by the detailed sections in this spec. Update the relevant
+diagram with a change to that flow; keep rationale in `docs/ARCHITECTURE.md`.
+
+### Pipeline stages
+
+```mermaid
+flowchart TD
+    A["sync_catalog.py --refresh<br/><i>enumerate</i>: one page request per 100 videos<br/>writes data/catalog/&lt;conf&gt;.json"]
+    B["enrich.py<br/><i>enrich</i>: 1 Data API unit per 50 videos<br/>writes descriptions, published_at, tags into the same catalog files"]
+    C["fetch_transcripts.py<br/><i>transcribe</i>: one Supadata credit per talk, or a metered per-IP sitting<br/>writes data/transcripts/&lt;id&gt;.json"]
+    C2["infoq.py<br/>metadata + transcript per page at robots.txt's 3 s<br/>writes data/infoq/, data/transcripts/, and onto matched catalog records"]
+    C3["import_kb.py<br/>offline: another corpus → data/seeds/ + data/transcripts/"]
+    D["sync_catalog.py<br/><i>derive</i>: offline, idempotent<br/>catalog + seeds + infoq → talks.json, talks.csv, talks/**.md"]
+    E["build_index.py<br/>offline, idempotent<br/>talks.json + transcripts → talks.db, search-meta.json, tindex/"]
+    F["git push main → pages.yml → gh-pages"]
+
+    A --> B --> D
+    C --> D
+    C2 --> D
+    C3 --> D
+    D --> E --> F
+    E -. "query.py / excerpt.py rebuild talks.db themselves when it is stale" .-> E
+```

@@ -38,7 +38,7 @@ together" badge, `OR` groups then synonyms, explicit `prefix*`, speaker
 typeahead, duration sorts and length bucket, facet counts, "Spoken only",
 "also matches in the full description", export/copy-link/`j`/`k`/newest-first
 memory, the transcript-language badge. **Not built, by choice** — the open
-items live in `TODO.md`: related talks, typo tolerance, autocomplete,
+items live in `docs/TODO.md`: related talks, typo tolerance, autocomplete,
 `_vocab.json`, per-talk pages (`#talk=`), inline snippets on every card.
 
 ## Where
@@ -239,7 +239,7 @@ Invariants and the mistakes a model makes here:
   per-page). Fill `detail` in `L.check` with what was actually seen.
 - **`suite-ranking`'s CLI half** needs `data/talks.db` built and runs
   `--no-semantic` so lexical is compared with lexical. If it goes red after a
-  corpus change, read ARCHITECTURE.md:883 first — the top-40 window is a
+  corpus change, read docs/ARCHITECTURE.md §"Design decisions" → "The two rankers are compared at the web's top 40" first — the top-40 window is a
   known-fragile check, not proof the browser broke.
 - **Facts the prose has drifted from before, so check the code, not a doc:**
   the page has five sorts (`SORTS = rel/new/title/short/long`), not three;
@@ -247,4 +247,36 @@ Invariants and the mistakes a model makes here:
   query's words, stems and long-stem prefixes — nothing from the query is ever
   compiled into a RegExp (same whole-token guarantee as the old `\b` version);
   the uitest check count is whatever `run.js` tallies and is recorded in
-  `STATE.md`, nowhere else.
+  `docs/STATE.md`, nowhere else.
+
+## Diagrams
+
+Selective views of the behavior specified above; omitted fields and branches
+remain defined by the detailed sections in this spec. Update the relevant
+diagram with a change to that flow; keep rationale in `docs/ARCHITECTURE.md`.
+
+### Browser request flow
+
+```mermaid
+sequenceDiagram
+    participant U as visitor
+    participant P as index.html
+    participant M as data/search-meta.json
+    participant X as data/tindex/
+    participant T as data/transcripts/
+
+    U->>P: open the page
+    P->>M: fetch metadata once (Pages compresses the response)
+    P->>X: fetch _manifest.json (shard list, doc lengths, stopwords)
+    Note over P: build the conference / conference type / topic / year facets from the data
+    U->>P: type "agent evaluation"
+    Note over P: stem the words → agent, evalu
+    P->>X: fetch ag.json and ev.json — one shard per two-letter prefix
+    Note over P: metadata layer from search-meta fields<br/>title 9 · tags 5 · speakers 4 · conference 3 · abstract 2<br/>description postings (d) and metadata df (m) come from the shard,<br/>so the 300-char clip is display only
+    Note over P: transcript layer: idf (f) and postings (p) from the shard,<br/>BM25 with the manifest's doc lengths, passage co-occurrence bonus
+    Note over P: gate: every word somewhere, then relax one word at a time<br/>and say which in the status line
+    P-->>U: ranked cards, hash carries the query
+    U->>P: click "Find this in the talk"
+    P->>T: fetch transcripts/<id>.json once per page
+    P-->>U: the moments where the words are spoken, deep-linked to the second
+```

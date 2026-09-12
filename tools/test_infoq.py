@@ -224,7 +224,7 @@ import sync_catalog as S
 
 SRC = {"url": "https://www.youtube.com/@InfoQ", "label": "InfoQ channel", "year": None}
 prev = {"video_id": "aaaaaaaaaaa", "title": "Scaling to 100+ - Thiago Ghisi - QCon",
-        "source_url": SRC["url"], "label": "InfoQ channel", "year": None,
+        "source_url": SRC["url"],
         "description": "InfoQ's abstract", "speakers": ["Thiago Ghisi"],
         "label": "QCon San Francisco 2025", "year": 2025, "page_url": "https://www.infoq.com/p/x/",
         "infoq_url": "https://www.infoq.com/p/x/", "infoq_at": "2026-09-01T00:00:00+00:00",

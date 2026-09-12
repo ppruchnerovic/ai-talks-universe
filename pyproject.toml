@@ -1,0 +1,11 @@
+# Not a package: the tools are scripts, run from tools/ with the system
+# python3. This file only carries the linter configuration CI applies.
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+extend-exclude = ["tools/.venv", "tools/.venv-semantic", "tools/uitest"]
+
+[tool.ruff.lint]
+# Pyflakes and the syntax-error class only. The code's one-line `if x: return`
+# and `a = 1; b = 2` style is deliberate, so pycodestyle's E7xx are not applied.
+select = ["F", "E9"]

@@ -1,0 +1,15 @@
+# Installed to ~/.config/systemd/user/ by tools/install_refresh_timer.sh,
+# which also fills in the repository path.
+[Unit]
+Description=Refresh the AI talks universe catalogue and transcripts
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/git/ai-talks-universe
+ExecStart=%h/git/ai-talks-universe/tools/refresh_local.sh
+# The refresh reads its keys from ~/.config/ai-talks-universe/env itself.
+# gh and yt-dlp come from the user's PATH, which a timer does not inherit.
+Environment=PATH=%h/.local/bin:%h/.local/node/bin:/usr/local/bin:/usr/bin:/bin
+Nice=10
