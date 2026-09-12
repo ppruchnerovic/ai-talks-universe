@@ -49,7 +49,7 @@ Languages: 3,143 `en`, 12 `hi` (see How), a handful of `de/es/ja/no/lt/...`.
 | `data/transcripts/_misses.json` | `{video_id: {conference, reason, detail}}` — "this video has no captions". Permanent until `--retry-misses`. |
 | `logs/` | Gitignored scratch (`.gitignore`: "run logs from local collection runs"). Nothing reads it. |
 | `docs/STATE.md` §"Handoff — running a transcript extraction", §"The quota" | Operational prose this spec distils. |
-| `docs/ARCHITECTURE.md` §"Fetching transcripts" | Mermaid diagrams of the ladder, the failure classes, the pool. |
+| [Diagrams](#diagrams) | Route ladder, failure classification and egress pool. |
 | `docs/GUIDE.md` §"Transcripts, and YouTube's quota", §"Beating the per-IP quota" | Measured yields and the reasoning. |
 | `docs/HISTORY.md` §"Bug 7 cannot be fixed by refetching", §"The 402 that was recorded as 'no captions'" | Why the invariants below exist. |
 
@@ -307,5 +307,60 @@ Rules a model gets wrong without being told:
 - **Credits ≈ talks.** Supadata charges nothing for a captionless video
   (206), so a budget needs no headroom beyond the selection count. Pro plan is
   3,000 credits/month; `docs/STATE.md` tracks the month's spend.
-- Docs vs code: `docs/ARCHITECTURE.md`'s selection list omits `--min-duration`,
-  which `select()` also honours. The code wins.
+
+## Diagrams
+
+Selective views of the behavior specified above; omitted fields and branches
+remain defined by the detailed sections in this spec. Update the relevant
+diagram with a change to that flow; keep rationale in `docs/ARCHITECTURE.md`.
+
+### Route ladder diagram
+
+```mermaid
+flowchart TD
+    S["one talk, one leased Egress<br/>(no lease at all for --source supadata / kome)"] --> R1
+    R1["1. youtube-transcript-api<br/>exact · free · our IP"] -- ok --> SAVE
+    R1 -- "blocked" --> SKIP["skip route 2:<br/>same IP, same allowance"]
+    R1 -- "other failure<br/>(3 strikes → skip it in auto)" --> R2
+    R2["2. yt-dlp, a different Innertube client<br/>exact · free · our IP"] -- ok --> SAVE
+    R2 -- "blocked" --> R3
+    R2 -- "other failure" --> R3
+    SKIP --> R3
+    R3["3. supadata.ai mode=native lang=en<br/>exact · 1 credit · their IP"] -- ok --> LANG
+    R3 -- "failure" --> R4
+    R4["4. kome.ai<br/>estimated · free · their IP<br/>never under --source exact"] -- ok --> SAVE
+    R4 -- "failure" --> CLASS
+    LANG{"came back in a<br/>language on LANGUAGES?"} -- yes --> SAVE
+    LANG -- "no, but availableLangs<br/>offers one" --> RE["re-request once, one more credit"] --> SAVE
+    LANG -- "no, and nothing on-list" --> SAVE2["save under its real language<br/>it has captions, so it is not a miss"]
+    SAVE["data/transcripts/&lt;id&gt;.json"]
+    CLASS["classify the last error<br/>(see below)"]
+```
+
+### Failure classification diagram
+
+```mermaid
+flowchart LR
+    E["an exception from a route"] --> Q1{"is_block?<br/>429 / 'Sign in to confirm' from YouTube"}
+    Q1 -- yes --> BLOCKED["<b>BlockedError</b> — a verdict on our IP<br/>bench this Egress for --proxy-cooldown<br/>retry the talk on another identity now<br/>never a miss"]
+    Q1 -- no --> Q2{"AccountError?<br/>Supadata 401 / 402"}
+    Q2 -- yes --> ACCT["<b>AccountError</b> — a verdict on our account<br/>bench nothing: no other IP has a fuller balance<br/>retire the route, end the round<br/>never a miss"]
+    Q2 -- no --> Q3{"TransientError?<br/>5xx, timeout, dropped connection,<br/>a job that never finished, HTML at HTTP 200,<br/>RateLimited (429 from Supadata, honours Retry-After)"}
+    Q3 -- yes --> TRANS["<b>TransientError</b> — no verdict at all<br/>bench nothing, end nothing<br/>the talk waits for a rerun"]
+    Q3 -- no --> LOOK["<b>LookupError</b> — a verdict on the video<br/>no captions, 206, 404, members-only 403, job failed<br/><b>→ _misses.json</b>"]
+```
+
+### Egress pool diagram
+
+```mermaid
+flowchart TD
+    subgraph pool["Pool — one Egress per identity: the direct connection plus each --proxy-file line"]
+        E1["Egress: direct<br/>strikes · fetched · benched-until"]
+        E2["Egress: proxy A"]
+        E3["Egress: proxy B (benched)"]
+    end
+    W1["worker 1"] -- "acquire → exactly one worker per identity" --> E1
+    W2["worker 2"] --> E2
+    W3["worker 3"] -. "everything usable is leased: wait" .-> pool
+    OFF["--source supadata or kome:<br/>uses_our_ip() is false, so<br/>no lease, no --min-delay pacing,<br/>--workers is real parallelism"] -.-> W1
+```

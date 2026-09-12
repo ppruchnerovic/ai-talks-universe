@@ -141,7 +141,7 @@ exclusive views), `--json`. Exit 1 only if every id was missing.
 
 - `docs/TODO.md` — the search enrichment items that are still open.
 - `docs/HISTORY.md` §"Search enrichment — 2026-09-02" — the write-up of what landed.
-- Diagrams: `docs/ARCHITECTURE.md` §"The CLI — `query.py`", §"The index files", §"Reading a talk without reading all of it — `excerpt.py`".
+- Diagrams: [ranking, index relationships and excerpts](#diagrams).
 - `docs/GUIDE.md` §"From the terminal", §"Reading a talk without reading all of it", §"Testing".
 
 ## How
@@ -195,3 +195,88 @@ Verified against the code:
 
 Where a doc and the code disagree, the code wins. What remains open lives in
 `docs/TODO.md`, not here.
+
+## Diagrams
+
+Selective views of the behavior specified above; omitted fields and branches
+remain defined by the detailed sections in this spec. Update the relevant
+diagram with a change to that flow; keep rationale in `docs/ARCHITECTURE.md`.
+
+### Lexical ranking flow
+
+```mermaid
+flowchart TD
+    Q["query string"] --> P{"explicit FTS5 syntax?<br/>quotes, OR, NOT, prefix*"}
+    P -- yes --> EX["run as typed on both layers<br/>hyphenated or punctuated terms quoted for you<br/>never relaxed"]
+    P -- no --> CW["content words: stopwords and query furniture<br/>('people', 'say', 'talk') dropped,<br/>de-duplicated, capped at 32"]
+    CW --> GATE["gate: the set of talks saying <i>every</i> word<br/>anywhere — metadata or transcript"]
+    GATE --> EMPTY{"empty?"}
+    EMPTY -- "yes, and &gt;1 word left" --> RELAX["drop one word: a word <i>no</i> talk says first (a typo),<br/>then the commonest — say so on stderr"] --> GATE
+    EMPTY -- no --> RANK
+    EX --> RANK
+    RANK["rank within the gate"] --> META["metadata layer<br/>bm25 over talks_fts<br/>title 8 · description 2 · tags 4 · speakers 4 · conference 1.5"]
+    RANK --> SEG["transcript layer<br/>bm25 over segments_fts, best 4 moments per talk,<br/>diminishing returns on the 2nd, 3rd, 4th"]
+    SEG --> TOG["× (1 + 1.6 · min(1, log1p(passages saying all the words) / log 4))"]
+    META --> NORM["each layer normalised to [0, 1] across the result set"]
+    TOG --> NORM
+    NORM --> BLEND["score = 1.0 · meta + 0.7 · transcript"]
+    BLEND --> OUT["top n, with snippets and deep-linked moments<br/>~12:34 when the timing is estimated<br/>--brief · --json · --ids"]
+```
+
+### Index relationships
+
+```mermaid
+erDiagram
+    talks {
+        int n PK "dense integer, 1-based position in talks.json"
+        string id UK "video id or iq- id"
+        string title
+        string description
+        string speakers
+        string conference
+        int year
+        string url
+        string youtube_url
+        int has_transcript
+        int transcript_words
+        string timing "exact | estimated | NULL"
+        string topics "JSON list"
+    }
+    talk_topics {
+        int talk_n FK
+        string topic "one row per (talk, topic); what --topic and --list-topics read"
+    }
+    talks_fts {
+        string title "porter unicode61"
+        string description
+        string tags
+        string speakers
+        string conference_name
+    }
+    segments {
+        int rowid PK
+        int talk_n FK
+        float start "seconds"
+        int pos "word offset"
+        int bridge "1 for the half-stride tiling that overlaps the primary one"
+        string text "24 words"
+    }
+    segments_fts {
+        string text
+    }
+    talks ||--|| talks_fts : "rowid = n"
+    talks ||--o{ talk_topics : "talk_n"
+    talks ||--o{ segments : "talk_n"
+    segments ||--|| segments_fts : "rowid"
+```
+
+### Excerpt flow
+
+```mermaid
+flowchart LR
+    IDS["video ids, or markdown paths<br/>(lifted out of argv before argparse, since ids may start with -)"] --> Q["the same parse and relaxation as query.py,<br/>restricted to one talk's passages"]
+    Q --> HITS["best-ranked passage starts"]
+    HITS --> WIN["a --window of speech either side of each,<br/>spent best hit first until -n windows' worth is used"]
+    WIN --> MERGE["merge overlapping windows"]
+    MERGE --> OUT["metadata · description · the opening (thesis) ·<br/>each passage deep-linked · 'x of y words (z%)'"]
+```

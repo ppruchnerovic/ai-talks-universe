@@ -248,3 +248,35 @@ Invariants and the mistakes a model makes here:
   compiled into a RegExp (same whole-token guarantee as the old `\b` version);
   the uitest check count is whatever `run.js` tallies and is recorded in
   `docs/STATE.md`, nowhere else.
+
+## Diagrams
+
+Selective views of the behavior specified above; omitted fields and branches
+remain defined by the detailed sections in this spec. Update the relevant
+diagram with a change to that flow; keep rationale in `docs/ARCHITECTURE.md`.
+
+### Browser request flow
+
+```mermaid
+sequenceDiagram
+    participant U as visitor
+    participant P as index.html
+    participant M as data/search-meta.json
+    participant X as data/tindex/
+    participant T as data/transcripts/
+
+    U->>P: open the page
+    P->>M: fetch metadata once (Pages compresses the response)
+    P->>X: fetch _manifest.json (shard list, doc lengths, stopwords)
+    Note over P: build the conference / conference type / topic / year facets from the data
+    U->>P: type "agent evaluation"
+    Note over P: stem the words → agent, evalu
+    P->>X: fetch ag.json and ev.json — one shard per two-letter prefix
+    Note over P: metadata layer from search-meta fields<br/>title 9 · tags 5 · speakers 4 · conference 3 · abstract 2<br/>description postings (d) and metadata df (m) come from the shard,<br/>so the 300-char clip is display only
+    Note over P: transcript layer: idf (f) and postings (p) from the shard,<br/>BM25 with the manifest's doc lengths, passage co-occurrence bonus
+    Note over P: gate: every word somewhere, then relax one word at a time<br/>and say which in the status line
+    P-->>U: ranked cards, hash carries the query
+    U->>P: click "Find this in the talk"
+    P->>T: fetch transcripts/<id>.json once per page
+    P-->>U: the moments where the words are spoken, deep-linked to the second
+```

@@ -102,7 +102,10 @@ in `.gitignore` cite Pages.
 |---|---|---|
 | `README.md` | the landing page: the headline numbers, the browse link, a terminal quick start, the docs index, licence |
 | `docs/GUIDE.md` | user prose: what the corpus is, how to search (browser, CLI, skill, semantic, excerpt), how to rebuild, what gets published, how to test | session narrative, open items |
-| `docs/ARCHITECTURE.md` | the diagrams (pipeline, derivation, fetcher routes, both rankers, CI), the testing table (no counts), "Design decisions worth not relitigating" | current counts (they drift); any rule that only one spec owns — state it there and cite it |
+| `specs/README.md` | brief orientation and task routing | detailed diagrams or rationale |
+| `specs/ARCHITECTURE.md` | system boundary and artifact-flow diagrams, ownership and cross-domain contract directory | local algorithms, historical measurements, duplicate contract definitions |
+| Domain specs | detailed behavior, local diagrams, files, invariants and verification; authoritative for their domain | copies of another spec’s diagrams or contracts |
+| `docs/ARCHITECTURE.md` | explanation, tradeoffs, historical measurements and links to canonical spec diagrams | implementation rules; define them in the owning spec and link there |
 | `docs/STATE.md` | the state table ("Where things stand"), "Verifying a change", the transcript-run handoff, the quota, "Numbers to refresh" | history; meant to stay short |
 | `docs/TODO.md` | open work, one list, each line pointing at a `docs/HISTORY.md` section; finished lines are **deleted**, not struck | background |
 | `docs/HISTORY.md` | dated write-ups per session, verbatim — provenance for every number and decision | anything that needs to be current |
@@ -223,3 +226,42 @@ aborts, and only a human merge publishes.
 - Finished `docs/TODO.md` lines are deleted and their write-up goes to
   `docs/HISTORY.md`; a struck-through line is how the previous state file reached
   1,800 lines.
+
+## Diagrams
+
+Selective views of the behavior specified above; omitted fields and branches
+remain defined by the detailed sections in this spec. Update the relevant
+diagram with a change to that flow; keep rationale in `docs/ARCHITECTURE.md`.
+
+### Publish flow
+
+```mermaid
+flowchart LR
+    PUSH["push to main"] --> PG["pages.yml"]
+    PG --> ASM["tools/assemble_site.sh _site<br/>index.html · .nojekyll · ai-conferences.md<br/>data/search-meta.json · data/tindex/ · data/transcripts/ (minus _misses.json)"]
+    ASM --> DU["du — the size report, read it every deploy"]
+    ASM --> ORPHAN["one orphan commit, force-pushed to gh-pages<br/>no history: only the assembled site"]
+    ORPHAN --> LIVE["ppruchnerovic.github.io/ai-talks-universe"]
+    NAV["uitest navigation suite<br/>assembles and serves the same tree"] -. "a path the page needs that the script forgets fails a test" .-> ASM
+```
+
+### Local refresh flow
+
+```mermaid
+flowchart TD
+    TIMER["Daily local systemd timer or manual run"] --> PRE["refresh_local.sh<br/>clean main, keys, lock, fast-forward pull"]
+    PRE --> ENUM["check_registry.py; sync_catalog.py --refresh"]
+    ENUM --> ENR["enrich.py for current year, including unknown years; derive"]
+    ENR --> FETCH["fetch_transcripts.py via Supadata<br/>current year plus unknown, credit cap; optional --no-transcripts"]
+    FETCH --> BUILD["sync_catalog.py; build_index.py"]
+    BUILD --> CH{"working-tree changes?"}
+    CH -- no --> END["nothing to propose"]
+    CH -- yes --> REP["refresh_report.py: field coverage vs HEAD"]
+    REP -- regression or error --> ABORT["abort; preserve purchased transcripts"]
+    REP -- pass --> TEST["eight offline suites"]
+    TEST -- fail --> ABORT
+    TEST -- pass --> PR["commit and push refresh-YYYY-MM-DD; open or update PR"]
+    PR --> HUMAN{"human review"}
+    HUMAN -- merge --> MAIN["main push triggers Publish flow"]
+    HUMAN -- reject --> STOP["no publication"]
+```

@@ -57,7 +57,7 @@ standard library and skips its end-to-end block.
 | `tools/uitest/suite-ranking.js:58` | Runs `query.py --no-semantic` so browser-vs-CLI agreement is lexical vs lexical. |
 | `.gitignore` | `tools/.venv-semantic/`, `data/embeddings/`. |
 | `.claude/skills/ai-conference-talks/SKILL.md:276-292` | "The optional semantic layer" — the caveats a model needs. |
-| Diagrams | `docs/ARCHITECTURE.md` §"The optional semantic layer" (flowchart, stamp). |
+| Diagrams | [Semantic integration flow](#semantic-integration-flow); stamp format is defined in this spec. |
 | Docs | `docs/GUIDE.md` §"Optional: semantic search layer"; `docs/HISTORY.md` §"Search enrichment" → "The semantic layer" (measurements); `docs/TODO.md` (the semantic bullet: next steps); `docs/STATE.md` state table row "Excerpting". |
 
 ### `tools/semantic.py` — key symbols
@@ -197,3 +197,23 @@ disk, per-call latency) are in `docs/HISTORY.md` §"Search enrichment" →
     SKILL.md and docs/ARCHITECTURE.md state it correctly.
   - `docs/TODO.md` (the semantic bullet) lists chunk-level *ranking* and a cross-encoder rerank as
     possible next steps — neither exists; chunks anchor excerpts only.
+
+## Diagrams
+
+Selective views of the behavior specified above; omitted fields and branches
+remain defined by the detailed sections in this spec. Update the relevant
+diagram with a change to that flow; keep rationale in `docs/ARCHITECTURE.md`.
+
+### Semantic integration flow
+
+```mermaid
+flowchart LR
+    I["tools/install_semantic.sh"] --> V["tools/.venv-semantic<br/>numpy · tokenizers · model2vec — no torch, no onnx"]
+    I --> B["build_embeddings.py<br/>potion-base-8M, 256-d static embeddings"]
+    B --> E["data/embeddings/ (gitignored)<br/>talks.f16.npy · talks.ids.json (stamp)<br/>chunks.f16.npy · chunks.spans.f32.npy"]
+    Q["query.py on the system python"] --> A{"available()?<br/>files present · stamp current · libraries importable"}
+    A -- no --> L["FTS5 alone, silently"]
+    A -- yes --> C["_call(): in-process if numpy imports,<br/>else `semantic.py --serve` under the venv,<br/>one JSON request in, one reply out"]
+    C --> F["fuse_rrf(lexical head, vector top-k)<br/>union, reciprocal rank"]
+    F --> X["--excerpt anchors a vector-only hit<br/>on its best chunk starts"]
+```

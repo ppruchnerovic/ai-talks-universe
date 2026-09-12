@@ -33,8 +33,7 @@ every rule in this spec is reversible without a fetch.
 
 ## Where
 
-Diagrams: `docs/ARCHITECTURE.md` §"What is derived from what" → "One talk
-record", §"Deriving the corpus: what survives". Human prose: `docs/GUIDE.md`
+Diagrams: [record and derivation flows](#diagrams). Human prose: `docs/GUIDE.md`
 §"What survives into the corpus", §"Layout". Rationale: `docs/ARCHITECTURE.md`
 §"Design decisions" (two files describe the conferences; the AI filter is a
 property of the source; speaker extraction is two-pass; topics are derived
@@ -255,3 +254,90 @@ Rules a model gets wrong:
 - **`speakers` and `topics` come from the record's stated data first.** A seed's or InfoQ's `speakers` list bypasses the name filter entirely, so a bad name in a seed goes straight into a field weighted 4x in both rankers. Fix it in the seed, not with a filter.
 - **`year` is the edition's year, not the upload year.** A playlist `year` in the registry beats `published_at`; adding a per-edition playlist is the way to correct a mis-dated batch, not editing records.
 - **Preserve the record order and the byte-identity.** Anything that makes `sync_catalog.py` output differ between two no-op runs (a wall clock, a set iterated unsorted) is a bug: it dirties a 15 MB tracked file and defeats `git diff` as the change log.
+
+## Diagrams
+
+Selective views of the behavior specified above; omitted fields and branches
+remain defined by the detailed sections in this spec. Update the relevant
+diagram with a change to that flow; keep rationale in `docs/ARCHITECTURE.md`.
+
+### Talk and transcript relationship
+
+```mermaid
+erDiagram
+    TALK {
+        string id "YouTube id, or iq-... for an InfoQ-only presentation"
+        string video_id
+        string title
+        string description "cleaned: link-only lines, hashtag walls and Subscribe lines stripped"
+        list speakers "stated by a seed or InfoQ, else read out of title and description"
+        string conference "registry slug"
+        string category "the conference type — kind of venue, one of five, from the registry"
+        string edition "the source label, e.g. a playlist"
+        int year "the edition's year, not the upload date"
+        string published_at "upload time; for a seed, when the talk was given"
+        int duration_min
+        list tags
+        list topics "0..n of fifteen subjects, by keyword rule over title, tags and description"
+        string url "canonical link: the video, or the InfoQ page"
+        string youtube_url "null unless there really is a video"
+        int priority "from the registry: 1 is the practitioner core"
+    }
+    TRANSCRIPT {
+        string video_id
+        string language "the track's real language, never a lie"
+        string timing "exact | estimated"
+        string source "yt | ytdlp | supa | kome | infoq | import"
+        int word_count
+        list segments "start, duration, text"
+    }
+    TALK ||--o| TRANSCRIPT : "keyed by id, file exists or not"
+```
+
+### Corpus selection flow
+
+```mermaid
+flowchart TD
+    V["one enumerated video"] --> T{"has a title?"}
+    T -- no --> DROP1["drop: untitled<br/>a hollow record from a private or deleted video"]
+    T -- yes --> DUR{"duration meets min_duration?<br/>0 disables this check; otherwise unknown fails"}
+    DUR -- no --> DROP2["drop: short / no-duration<br/>stings, trailers, sponsor spots"]
+    DUR -- yes --> MATCH{"source or conference<br/>has match / exclude regex?"}
+    MATCH -- fails --> DROP3["drop: match / exclude"]
+    MATCH -- passes --> SCOPE{"scope == ai?"}
+    SCOPE -- "all" --> FLOOR
+    SCOPE -- "ai" --> AI{"atu.looks_ai on<br/>title + description + tags"}
+    AI -- no --> DROP4["drop: not-ai"]
+    AI -- yes --> FLOOR{"year known and<br/>below the floor?<br/>registry 2023, per-conference override, null = none"}
+    FLOOR -- yes --> DROP5["drop: pre-2023<br/>counted last, so the report shows what the floor really cost"]
+    FLOOR -- "no, or year unknown" --> KEEP["keep → talks.json"]
+```
+
+### Speaker derivation flow
+
+```mermaid
+flowchart LR
+    D["description"] --> H{"Speaker(s): heading?<br/>NFKC-normalised, so Unicode bold matches"}
+    H -- yes --> N1["names on that line, and the<br/>bullet or bare lines under it"]
+    H -- no --> TT["title"]
+    TT --> SHAPES["Topic — A &amp; B, Company<br/>Topic by A and B<br/>[Tag] Name - Topic"]
+    SHAPES --> TEST{"every part passes name_like?<br/>2–4 capitalised words, no role word,<br/>no brand word, not the conference's own name"}
+    TEST -- no --> NONE["no speaker"]
+    TEST -- yes --> PASS2{"per-conference second pass:<br/>name count &gt; max(4, 10% of candidates);<br/>word count &gt; max(5, 6% of candidate names)"}
+    N1 --> PASS2
+    PASS2 -- "filtered" --> NONE
+    PASS2 -- "kept" --> S["speakers"]
+    SEED["a seed or InfoQ states the speaker"] -- "bypasses both passes" --> S
+```
+
+### Topic derivation flow
+
+```mermaid
+flowchart LR
+    TI["title"] -- "any phrase: 2" --> SUM
+    TG["tags, minus the ones on >30% of the conference"] -- "1 per distinct phrase" --> SUM
+    DE["description, minus lines >10% of the conference repeats verbatim"] -- "1 per distinct phrase" --> SUM
+    SUM{"score ≥ 2?"} -- yes --> ON["topic assigned"]
+    SUM -- no --> OFF["not this topic"]
+    TR["transcript"] -. "never read" .- SUM
+```

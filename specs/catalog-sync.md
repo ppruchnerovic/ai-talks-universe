@@ -37,8 +37,8 @@ YouTube listings, one `videos` seed, one `infoq` source).
 
 ## Where
 
-Diagrams: `docs/ARCHITECTURE.md` §"The pipeline, stage by stage" and
-§"What is derived from what". Human prose: `docs/GUIDE.md` §"Where the data
+Diagrams: [pipeline stages](#pipeline-stages) and
+[artifact flow](ARCHITECTURE.md#artifact-flow). Human prose: `docs/GUIDE.md` §"Where the data
 comes from", §"Rebuilding". Rationale: `docs/ARCHITECTURE.md` §"Design
 decisions" (enumeration is flat; a source that returns nothing keeps its
 cached videos; a seed is a source).
@@ -263,3 +263,30 @@ Invariants and caveats:
   only re-select talks whose year is already known.
 - `talks/` is deleted and rewritten every derive; anything placed there by
   hand is lost.
+
+## Diagrams
+
+Selective views of the behavior specified above; omitted fields and branches
+remain defined by the detailed sections in this spec. Update the relevant
+diagram with a change to that flow; keep rationale in `docs/ARCHITECTURE.md`.
+
+### Pipeline stages
+
+```mermaid
+flowchart TD
+    A["sync_catalog.py --refresh<br/><i>enumerate</i>: one page request per 100 videos<br/>writes data/catalog/&lt;conf&gt;.json"]
+    B["enrich.py<br/><i>enrich</i>: 1 Data API unit per 50 videos<br/>writes descriptions, published_at, tags into the same catalog files"]
+    C["fetch_transcripts.py<br/><i>transcribe</i>: one Supadata credit per talk, or a metered per-IP sitting<br/>writes data/transcripts/&lt;id&gt;.json"]
+    C2["infoq.py<br/>metadata + transcript per page at robots.txt's 3 s<br/>writes data/infoq/, data/transcripts/, and onto matched catalog records"]
+    C3["import_kb.py<br/>offline: another corpus → data/seeds/ + data/transcripts/"]
+    D["sync_catalog.py<br/><i>derive</i>: offline, idempotent<br/>catalog + seeds + infoq → talks.json, talks.csv, talks/**.md"]
+    E["build_index.py<br/>offline, idempotent<br/>talks.json + transcripts → talks.db, search-meta.json, tindex/"]
+    F["git push main → pages.yml → gh-pages"]
+
+    A --> B --> D
+    C --> D
+    C2 --> D
+    C3 --> D
+    D --> E --> F
+    E -. "query.py / excerpt.py rebuild talks.db themselves when it is stale" .-> E
+```

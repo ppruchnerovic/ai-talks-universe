@@ -95,7 +95,8 @@ because YouTube meters the caption endpoint per IP and blocks cloud ranges.
 | Read | For |
 |---|---|
 | [`docs/GUIDE.md`](docs/GUIDE.md) | The full guide: data sources, what survives into the corpus, search syntax, rebuilding, adding a conference, fetching transcripts, testing |
-| [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) | Diagrams of the pipeline, the fetcher's routes, both rankers and CI, and the design decisions not to relitigate |
+| [`specs/ARCHITECTURE.md`](specs/ARCHITECTURE.md) | Current system boundaries, data flows, artifact ownership and links to detailed diagrams and contracts |
+| [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) | Design rationale, tradeoffs and historical measurements, alongside links to canonical spec diagrams |
 | [`docs/STATE.md`](docs/STATE.md) | Where the corpus and the tools stand today, and the handoff for the next collection run |
 | [`docs/STATS.md`](docs/STATS.md) | The corpus by the numbers |
 | [`docs/TODO.md`](docs/TODO.md) | Open items |

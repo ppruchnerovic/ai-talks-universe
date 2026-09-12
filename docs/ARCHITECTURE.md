@@ -1,77 +1,22 @@
 # Architecture
 
-How the AI talks universe is put together, and why it is put together that
-way. The prose that explains each piece to a *user* is in `GUIDE.md`; this
-file is the map — what talks to what, what is derived from what, and the
-decisions that hold it in that shape. Current numbers are in `STATE.md`, open
-work in `TODO.md`, and the story of how each piece got here in `HISTORY.md`.
+The explanation of why the system has this shape: tradeoffs, experiments,
+operational background, and measurements from its development. Historical
+measurements below describe those experiments, not today's corpus.
 
-Every diagram is Mermaid, which GitHub renders inline.
+The current system map and cross-domain contract directory live in
+[`specs/ARCHITECTURE.md`](../specs/ARCHITECTURE.md). Detailed behavior and
+implementation rules belong to the linked domain specs; they take precedence
+over this explanatory account. Diagrams have one canonical home in `specs/`
+and are linked here alongside their rationale. The user guide is in
+[`GUIDE.md`](GUIDE.md), current numbers in [`STATE.md`](STATE.md), open work in
+[`TODO.md`](TODO.md), and dated provenance in [`HISTORY.md`](HISTORY.md).
 
 ## The system in one picture
 
-Five sources, four stages, one corpus, three readers.
+Cached sources feed one corpus, used by the browser, terminal tools, and skill.
 
-```mermaid
-flowchart LR
-    subgraph sources["Where the programmes are"]
-        YT["YouTube channels and playlists<br/>83 listings across the 53 conferences"]
-        API["YouTube Data API v3<br/>descriptions, dates, tags"]
-        CAP["YouTube caption tracks<br/>metered per egress IP"]
-        SUPA["supadata.ai<br/>caption tracks from their IPs"]
-        IQ["infoq.com/presentations<br/>metadata and transcripts in HTML"]
-        AGENDA["A conference's own agenda<br/>unlisted videos YouTube will not list"]
-    end
-
-    subgraph tools["tools/"]
-        SYNC["sync_catalog.py<br/>enumerate + derive"]
-        ENR["enrich.py"]
-        FETCH["fetch_transcripts.py"]
-        INFOQ["infoq.py"]
-        IMPORT["import_kb.py"]
-        BUILD["build_index.py"]
-    end
-
-    subgraph data["data/ — caches and the corpus"]
-        REG[("conferences.json<br/>the registry")]
-        CAT[("catalog/&lt;conf&gt;.json<br/>every video ever listed")]
-        SEED[("seeds/&lt;name&gt;.json")]
-        IQC[("infoq/&lt;edition&gt;.json")]
-        TR[("transcripts/&lt;id&gt;.json<br/>one per talk")]
-        TALKS[("talks.json · talks.csv<br/>talks/**.md")]
-        IDX[("talks.db · search-meta.json<br/>tindex/")]
-    end
-
-    subgraph readers["Who reads it"]
-        WEB["index.html on GitHub Pages"]
-        CLI["query.py · excerpt.py"]
-        SKILL["Claude Code skill<br/>ai-conference-talks"]
-    end
-
-    REG --> SYNC
-    YT -- "yt-dlp flat listing" --> SYNC
-    SYNC <--> CAT
-    API --> ENR --> CAT
-    AGENDA --> IMPORT --> SEED
-    IMPORT --> TR
-    IQ --> INFOQ --> IQC
-    INFOQ --> TR
-    INFOQ -- "better metadata onto matched records" --> CAT
-    CAP --> FETCH
-    SUPA --> FETCH
-    FETCH --> TR
-    CAT --> SYNC
-    SEED --> SYNC
-    IQC --> SYNC
-    TR -- "inlined into the markdown" --> SYNC
-    SYNC --> TALKS
-    TALKS --> BUILD
-    TR --> BUILD
-    BUILD --> IDX
-    IDX --> WEB
-    IDX --> CLI
-    CLI --> SKILL
-```
+[Canonical diagram: System boundaries](../specs/ARCHITECTURE.md#system-boundaries).
 
 Two properties of this picture carry everything else:
 
@@ -88,24 +33,7 @@ Two properties of this picture carry everything else:
 
 ## The pipeline, stage by stage
 
-```mermaid
-flowchart TD
-    A["sync_catalog.py --refresh<br/><i>enumerate</i>: one page request per 100 videos<br/>writes data/catalog/&lt;conf&gt;.json"]
-    B["enrich.py<br/><i>enrich</i>: 1 Data API unit per 50 videos<br/>writes descriptions, published_at, tags into the same catalog files"]
-    C["fetch_transcripts.py<br/><i>transcribe</i>: one Supadata credit per talk, or a metered per-IP sitting<br/>writes data/transcripts/&lt;id&gt;.json"]
-    C2["infoq.py<br/>metadata + transcript per page at robots.txt's 3 s<br/>writes data/infoq/, data/transcripts/, and onto matched catalog records"]
-    C3["import_kb.py<br/>offline: another corpus → data/seeds/ + data/transcripts/"]
-    D["sync_catalog.py<br/><i>derive</i>: offline, idempotent<br/>catalog + seeds + infoq → talks.json, talks.csv, talks/**.md"]
-    E["build_index.py<br/>offline, idempotent, ~48 s<br/>talks.json + transcripts → talks.db, search-meta.json, tindex/"]
-    F["git push main → pages.yml → gh-pages"]
-
-    A --> B --> D
-    C --> D
-    C2 --> D
-    C3 --> D
-    D --> E --> F
-    E -. "query.py / excerpt.py rebuild talks.db themselves when it is stale" .-> E
-```
+[Canonical diagram: Pipeline stages](../specs/catalog-sync.md#pipeline-stages).
 
 The order matters in one place: **enrich before derive** for any conference
 registered `"scope": "ai"`, because the AI filter reads the description, and a
@@ -116,30 +44,11 @@ is invisible to every reader, so it is a credit spent for nothing.
 
 ## What is derived from what
 
-Solid arrows are generation. Everything below the registry line is
-reproducible from what is above it, and the two right-hand columns are
-reproducible from `talks.json` plus `transcripts/` alone.
+Acquired caches are retained because acquiring them again costs network
+requests or credits. The corpus and indexes can be rebuilt offline from
+those caches; the registry alone cannot reproduce fetched data.
 
-```mermaid
-flowchart LR
-    REG["conferences.json"] --> CAT
-    MD["ai-conferences.md"] -. "check_registry.py: must agree" .- REG
-    CAT["data/catalog/*.json<br/>raw enumeration + enrichment<br/><b>committed</b>"] --> TJ
-    SEED["data/seeds/*.json<br/><b>committed</b>"] --> TJ
-    IQC["data/infoq/*.json<br/><b>committed</b>"] --> TJ
-    TJ["data/talks.json<br/><b>the source of truth</b>"] --> CSV["data/talks.csv"]
-    TJ --> MDT["talks/&lt;conf&gt;/&lt;id&gt;-&lt;slug&gt;.md"]
-    TR["data/transcripts/&lt;id&gt;.json<br/><b>committed</b>"] --> MDT
-    TJ --> DB["data/talks.db<br/>SQLite + FTS5<br/><b>gitignored</b>, rebuilt on demand"]
-    TR --> DB
-    TJ --> META["data/search-meta.json<br/>~5.6 MiB, loaded up front"]
-    TJ --> TIX["data/tindex/&lt;xx&gt;.json + _manifest.json<br/>stemmed inverted index, ~700 shards"]
-    TR --> TIX
-    META --> SITE["gh-pages<br/>assembled by tools/assemble_site.sh"]
-    TIX --> SITE
-    TR --> SITE
-    HTML["index.html"] --> SITE
-```
+[Canonical diagram: Artifact flow](../specs/ARCHITECTURE.md#artifact-flow).
 
 Why four representations of the same corpus:
 
@@ -155,36 +64,7 @@ Why four representations of the same corpus:
 `talks.json` carries one record per talk; the keys the search layers weight
 most are the ones a channel is least likely to fill in.
 
-```mermaid
-erDiagram
-    TALK {
-        string id "YouTube id, or iq-... for an InfoQ-only presentation"
-        string video_id
-        string title
-        string description "cleaned: link-only lines, hashtag walls and Subscribe lines stripped"
-        list speakers "stated by a seed or InfoQ, else read out of title and description"
-        string conference "registry slug"
-        string category "the conference type — kind of venue, one of five, from the registry"
-        string edition "the source label, e.g. a playlist"
-        int year "the edition's year, not the upload date"
-        string published_at "upload time; for a seed, when the talk was given"
-        int duration_min
-        list tags
-        list topics "0..n of fifteen subjects, by keyword rule over title, tags and description"
-        string url "canonical link: the video, or the InfoQ page"
-        string youtube_url "null unless there really is a video"
-        int priority "from the registry: 1 is the practitioner core"
-    }
-    TRANSCRIPT {
-        string video_id
-        string language "the track's real language, never a lie"
-        string timing "exact | estimated"
-        string source "yt | ytdlp | supa | kome | infoq | import"
-        int word_count
-        list segments "start, duration, text"
-    }
-    TALK ||--o| TRANSCRIPT : "keyed by id, file exists or not"
-```
+[Canonical diagram: Talk and transcript relationship](../specs/data-model.md#talk-and-transcript-relationship).
 
 ## Deriving the corpus: what survives
 
@@ -193,22 +73,7 @@ may override any rule its conference sets, which is how a curated seed
 contributes a whole congress while the same conference's channel listing
 contributes only its AI talks.
 
-```mermaid
-flowchart TD
-    V["one enumerated video"] --> T{"has a title?"}
-    T -- no --> DROP1["drop: untitled<br/>a hollow record from a private or deleted video"]
-    T -- yes --> DUR{"duration ≥ min_duration?<br/>unknown duration fails"}
-    DUR -- no --> DROP2["drop: short / no-duration<br/>stings, trailers, sponsor spots"]
-    DUR -- yes --> MATCH{"source or conference<br/>has match / exclude regex?"}
-    MATCH -- fails --> DROP3["drop: match / exclude"]
-    MATCH -- passes --> SCOPE{"scope == ai?"}
-    SCOPE -- "all" --> FLOOR
-    SCOPE -- "ai" --> AI{"atu.looks_ai on<br/>title + description + tags"}
-    AI -- no --> DROP4["drop: not-ai"]
-    AI -- yes --> FLOOR{"year known and<br/>below the floor?<br/>registry 2023, per-conference override, null = none"}
-    FLOOR -- yes --> DROP5["drop: pre-2023<br/>counted last, so the report shows what the floor really cost"]
-    FLOOR -- "no, or year unknown" --> KEEP["keep → talks.json"]
-```
+[Canonical diagram: Corpus selection flow](../specs/data-model.md#corpus-selection-flow).
 
 An unknown year *passes* the floor while an unknown duration *fails* the
 minimum, and both are deliberate: enrichment is what resolves a year, so
@@ -220,24 +85,11 @@ Two guards sit after the filter: a source that returns nothing keeps its cached
 videos (yt-dlp exits 0 with no entries when throttled), and the run refuses to
 write a corpus more than 10% smaller than the last one without
 `--allow-shrink`. Both count records; `refresh_report.py` is the field-level
-guard, and it lives in CI rather than here.
+guard, and it gates the local refresh rather than running inside derivation.
 
 ### Who gave the talk
 
-```mermaid
-flowchart LR
-    D["description"] --> H{"Speaker(s): heading?<br/>NFKC-normalised, so Unicode bold matches"}
-    H -- yes --> N1["names on that line, and the<br/>bullet or bare lines under it"]
-    H -- no --> TT["title"]
-    TT --> SHAPES["Topic — A &amp; B, Company<br/>Topic by A and B<br/>[Tag] Name - Topic"]
-    SHAPES --> TEST{"every part passes name_like?<br/>2–4 capitalised words, no role word,<br/>no brand word, not the conference's own name"}
-    TEST -- no --> NONE["no speaker"]
-    TEST -- yes --> PASS2{"per-conference second pass:<br/>a name on &gt;10% of talks is the host;<br/>a word across &gt;6% of names is a topic"}
-    N1 --> PASS2
-    PASS2 -- "filtered" --> NONE
-    PASS2 -- "kept" --> S["speakers"]
-    SEED["a seed or InfoQ states the speaker"] -- "bypasses both passes" --> S
-```
+[Canonical diagram: Speaker derivation flow](../specs/data-model.md#speaker-derivation-flow).
 
 The rule is conservative on purpose: `speakers` is weighted four times a
 description word in both rankers, so one false positive lands under every talk
@@ -253,15 +105,7 @@ browser as **Conference type** — so it cannot follow a subject inside a
 programme. `topics` is per talk and multi-valued: fifteen subjects (`atu.TOPICS`), each a list of
 phrases compiled with the same word boundaries as the AI-relevance test.
 
-```mermaid
-flowchart LR
-    TI["title"] -- "any phrase: 2" --> SUM
-    TG["tags, minus the ones on >30% of the conference"] -- "1 per distinct phrase" --> SUM
-    DE["description, minus lines >10% of the conference repeats verbatim"] -- "1 per distinct phrase" --> SUM
-    SUM{"score ≥ 2?"} -- yes --> ON["topic assigned"]
-    SUM -- no --> OFF["not this topic"]
-    TR["transcript"] -. "never read" .- SUM
-```
+[Canonical diagram: Topic derivation flow](../specs/data-model.md#topic-derivation-flow).
 
 A title mention is enough by itself; tags and description together have to
 say two *different* things about a subject. Transcripts are left out on
@@ -284,45 +128,18 @@ get their turn, and if none is configured the block is re-raised so the caller
 can bench the identity. What must never happen is a block quietly becoming an
 estimate.
 
-```mermaid
-flowchart TD
-    S["one talk, one leased Egress<br/>(no lease at all for --source supadata / kome)"] --> R1
-    R1["1. youtube-transcript-api<br/>exact · free · our IP"] -- ok --> SAVE
-    R1 -- "blocked" --> SKIP["skip route 2:<br/>same IP, same allowance"]
-    R1 -- "other failure<br/>(3 strikes → skip it in auto)" --> R2
-    R2["2. yt-dlp, a different Innertube client<br/>exact · free · our IP"] -- ok --> SAVE
-    R2 -- "blocked" --> R3
-    R2 -- "other failure" --> R3
-    SKIP --> R3
-    R3["3. supadata.ai mode=native lang=en<br/>exact · 1 credit · their IP"] -- ok --> LANG
-    R3 -- "failure" --> R4
-    R4["4. kome.ai<br/>estimated · free · their IP<br/>never under --source exact"] -- ok --> SAVE
-    R4 -- "failure" --> CLASS
-    LANG{"came back in a<br/>language on LANGUAGES?"} -- yes --> SAVE
-    LANG -- "no, but availableLangs<br/>offers one" --> RE["re-request once, one more credit"] --> SAVE
-    LANG -- "no, and nothing on-list" --> SAVE2["save under its real language<br/>it has captions, so it is not a miss"]
-    SAVE["data/transcripts/&lt;id&gt;.json"]
-    CLASS["classify the last error<br/>(see below)"]
-```
+[Canonical diagram: Route ladder diagram](../specs/transcripts.md#route-ladder-diagram).
 
 ### Four kinds of failure, one of which is a fact about the video
 
 `_misses.json` is permanent — `select()` skips anything in it forever unless
 `--retry-misses` — so what may be written there is the whole question. The
-runners ask one predicate, `about_the_video()`, before writing a miss, which is
-what makes a *new* failure class retryable by default instead of silently
-permanent.
+runners ask one predicate, `about_the_video()`, before writing a miss, which
+excludes the known network and account failure classes. Unknown
+exceptions currently fall through as misses; see the transcript spec before
+adding a failure path.
 
-```mermaid
-flowchart LR
-    E["an exception from a route"] --> Q1{"is_block?<br/>429 / 'Sign in to confirm' from YouTube"}
-    Q1 -- yes --> BLOCKED["<b>BlockedError</b> — a verdict on our IP<br/>bench this Egress for --proxy-cooldown<br/>retry the talk on another identity now<br/>never a miss"]
-    Q1 -- no --> Q2{"AccountError?<br/>Supadata 401 / 402"}
-    Q2 -- yes --> ACCT["<b>AccountError</b> — a verdict on our account<br/>bench nothing: no other IP has a fuller balance<br/>retire the route, end the round<br/>never a miss"]
-    Q2 -- no --> Q3{"TransientError?<br/>5xx, timeout, dropped connection,<br/>a job that never finished, HTML at HTTP 200,<br/>RateLimited (429 from Supadata, honours Retry-After)"}
-    Q3 -- yes --> TRANS["<b>TransientError</b> — no verdict at all<br/>bench nothing, end nothing<br/>the talk waits for a rerun"]
-    Q3 -- no --> LOOK["<b>LookupError</b> — a verdict on the video<br/>no captions, 206, 404, members-only 403, job failed<br/><b>→ _misses.json</b>"]
-```
+[Canonical diagram: Failure classification diagram](../specs/transcripts.md#failure-classification-diagram).
 
 A 429 from Supadata is *not* an IP block — benching an identity would not
 help, since the request went out from their IP — and it is not an account
@@ -332,18 +149,7 @@ makes `--workers 32` safe.
 
 ### The egress pool
 
-```mermaid
-flowchart TD
-    subgraph pool["Pool — one Egress per identity: the direct connection plus each --proxy-file line"]
-        E1["Egress: direct<br/>strikes · fetched · benched-until"]
-        E2["Egress: proxy A"]
-        E3["Egress: proxy B (benched)"]
-    end
-    W1["worker 1"] -- "acquire → exactly one worker per identity" --> E1
-    W2["worker 2"] --> E2
-    W3["worker 3"] -. "everything usable is leased: wait" .-> pool
-    OFF["--source supadata or kome:<br/>uses_our_ip() is false, so<br/>no lease, no --min-delay pacing,<br/>--workers is real parallelism"] -.-> W1
-```
+[Canonical diagram: Egress pool diagram](../specs/transcripts.md#egress-pool-diagram).
 
 The lease is about spending an IP's allowance, not about politeness: two
 parallel requests down one IP spend that IP's allowance twice as fast for no
@@ -371,24 +177,7 @@ says the query's words *together* the same saturating bonus.
 
 ### The CLI — `query.py`
 
-```mermaid
-flowchart TD
-    Q["query string"] --> P{"explicit FTS5 syntax?<br/>quotes, OR, NOT, prefix*"}
-    P -- yes --> EX["run as typed on both layers<br/>hyphenated or punctuated terms quoted for you<br/>never relaxed"]
-    P -- no --> CW["content words: stopwords and query furniture<br/>('people', 'say', 'talk') dropped,<br/>de-duplicated, capped at 32"]
-    CW --> GATE["gate: the set of talks saying <i>every</i> word<br/>anywhere — metadata or transcript"]
-    GATE --> EMPTY{"empty?"}
-    EMPTY -- "yes, and &gt;1 word left" --> RELAX["drop one word: a word <i>no</i> talk says first (a typo),<br/>then the commonest — say so on stderr"] --> GATE
-    EMPTY -- no --> RANK
-    EX --> RANK
-    RANK["rank within the gate"] --> META["metadata layer<br/>bm25 over talks_fts<br/>title 8 · description 2 · tags 4 · speakers 4 · conference 1.5"]
-    RANK --> SEG["transcript layer<br/>bm25 over segments_fts, best 4 moments per talk,<br/>diminishing returns on the 2nd, 3rd, 4th"]
-    SEG --> TOG["× (1 + 1.6 · min(1, log1p(passages saying all the words) / log 4))"]
-    META --> NORM["each layer normalised to [0, 1] across the result set"]
-    TOG --> NORM
-    NORM --> BLEND["score = 1.0 · meta + 0.7 · transcript"]
-    BLEND --> OUT["top n, with snippets and deep-linked moments<br/>~12:34 when the timing is estimated<br/>--brief · --json · --ids"]
-```
+[Canonical diagram: Lexical ranking flow](../specs/search-cli.md#lexical-ranking-flow).
 
 Normalising before blending was a correctness fix, not tuning: `bm25()` is
 only comparable within one table, and a 24-word passage scores near its
@@ -420,32 +209,10 @@ nothing changes and nothing is printed unless `--explain` asks.
 No backend, so the index is files and the page fetches only what a query
 needs.
 
-```mermaid
-sequenceDiagram
-    participant U as visitor
-    participant P as index.html
-    participant M as data/search-meta.json
-    participant X as data/tindex/
-    participant T as data/transcripts/
+[Canonical diagram: Browser request flow](../specs/search-browser.md#browser-request-flow).
 
-    U->>P: open the page
-    P->>M: fetch once, ~5.6 MiB gzipped by Pages
-    P->>X: fetch _manifest.json (shard list, doc lengths, stopwords)
-    Note over P: build the conference / conference type / topic / year facets from the data
-    U->>P: type "agent evaluation"
-    Note over P: stem the words → agent, evalu
-    P->>X: fetch ag.json and ev.json — one shard per two-letter prefix
-    Note over P: metadata layer from search-meta fields<br/>title 9 · tags 5 · speakers 4 · conference 3 · abstract 2<br/>description postings (d) and metadata df (m) come from the shard,<br/>so the 300-char clip is display only
-    Note over P: transcript layer: idf (f) and postings (p) from the shard,<br/>BM25 with the manifest's doc lengths, passage co-occurrence bonus
-    Note over P: gate: every word somewhere, then relax one word at a time<br/>and say which in the status line
-    P-->>U: ranked cards, hash carries the query
-    U->>P: click "Find this in the talk"
-    P->>T: fetch transcripts/<id>.json once per page
-    P-->>U: the moments where the words are spoken, deep-linked to the second
-```
-
-The shard key is the term's first two characters and `shard_key()` in
-`build_index.py` must agree exactly with `shardKeyOf()` in `index.html`: a
+The [shard-key contract](../specs/search-browser.md#how) couples
+`shard_key()` in the builder to `shardKeyOf()` in the browser: a
 disagreement is silent — the browser asks for a shard the manifest does not
 list, gets nothing, and transcript search quietly degrades to metadata-only
 hits. Two characters is the deepest split that still keeps "agent" and
@@ -466,50 +233,7 @@ embedded client-side — which is why `suite-ranking` runs `query.py
 
 ### The index files
 
-```mermaid
-erDiagram
-    talks {
-        int n PK "dense integer, position in talks.json; never leaves the index"
-        string id UK "video id or iq- id"
-        string title
-        string description
-        string speakers
-        string conference
-        int year
-        string url
-        string youtube_url
-        int has_transcript
-        int transcript_words
-        string timing "exact | estimated | NULL"
-        string topics "JSON list"
-    }
-    talk_topics {
-        int talk_n FK
-        string topic "one row per (talk, topic); what --topic and --list-topics read"
-    }
-    talks_fts {
-        string title "porter unicode61"
-        string description
-        string tags
-        string speakers
-        string conference_name
-    }
-    segments {
-        int rowid PK
-        int talk_n FK
-        float start "seconds"
-        int pos "word offset"
-        int bridge "1 for the half-stride tiling that overlaps the primary one"
-        string text "24 words"
-    }
-    segments_fts {
-        string text
-    }
-    talks ||--|| talks_fts : "rowid = n"
-    talks ||--o{ talk_topics : "talk_n"
-    talks ||--o{ segments : "talk_n"
-    segments ||--|| segments_fts : "rowid"
-```
+[Canonical diagram: Index relationships](../specs/search-cli.md#index-relationships).
 
 Passages are 24 words at a 12-word stride, so a phrase that straddles a
 boundary lands whole in the bridge passage. `PRAGMA user_version` carries
@@ -541,17 +265,7 @@ language", since the dozen `hi` ones are English mis-detected.
 
 ### The optional semantic layer — `semantic.py`
 
-```mermaid
-flowchart LR
-    I["tools/install_semantic.sh"] --> V["tools/.venv-semantic<br/>numpy · tokenizers · model2vec — no torch, no onnx"]
-    I --> B["build_embeddings.py<br/>potion-base-8M, 256-d static embeddings"]
-    B --> E["data/embeddings/ (gitignored)<br/>talks.f16.npy · talks.ids.json (stamp)<br/>chunks.f16.npy · chunks.spans.f32.npy"]
-    Q["query.py on the system python"] --> A{"available()?<br/>files present · stamp current · libraries importable"}
-    A -- no --> L["FTS5 alone, silently"]
-    A -- yes --> C["_call(): in-process if numpy imports,<br/>else `semantic.py --serve` under the venv,<br/>one JSON request in, one reply out"]
-    C --> F["fuse_rrf(lexical head, vector top-k)<br/>union, reciprocal rank"]
-    F --> X["--excerpt anchors a vector-only hit<br/>on its best chunk starts"]
-```
+[Canonical diagram: Semantic integration flow](../specs/semantic.md#semantic-integration-flow).
 
 The stamp in `talks.ids.json` records `talks.json`'s `generated_at` and size,
 the transcript count, `DB_SCHEMA_VERSION`, the model and `LAYER_VERSION`; any
@@ -560,14 +274,7 @@ longer mean the same talks. It is never rebuilt by `db_stale()`.
 
 ### Reading a talk without reading all of it — `excerpt.py`
 
-```mermaid
-flowchart LR
-    IDS["video ids, or markdown paths<br/>(lifted out of argv before argparse, since ids may start with -)"] --> Q["the same parse and relaxation as query.py,<br/>restricted to one talk's passages"]
-    Q --> HITS["best-ranked passage starts"]
-    HITS --> WIN["a --window of speech either side of each,<br/>spent best hit first until -n windows' worth is used"]
-    WIN --> MERGE["merge overlapping windows"]
-    MERGE --> OUT["metadata · description · the opening (thesis) ·<br/>each passage deep-linked · 'x of y words (z%)'"]
-```
+[Canonical diagram: Excerpt flow](../specs/search-cli.md#excerpt-flow).
 
 `-n` is a budget, not a count: counting passages bounds nothing, because on a
 talk that says the word every other minute six windows grow into each other
@@ -586,22 +293,7 @@ in the same process as the ranking.
 
 ### The skill — a retrieval ladder with a price on it
 
-```mermaid
-sequenceDiagram
-    participant U as user
-    participant C as Claude Code
-    participant Q as query.py
-    participant E as excerpt.py
-
-    U->>C: "what do people say about agent reliability?"
-    C->>Q: --stats — what the corpus is today, never from memory
-    C->>Q: "agent reliability" -n 15 --brief — the topic's words, not the question
-    Q-->>C: ~5 KB: title, speakers, conference, year, transcript?, which layer matched, url
-    C->>E: the chosen ids, -q "agent reliability"
-    E-->>C: ~1–2 K tokens per talk: opening + the passages that matched, deep-linked
-    C-->>U: positions, attributed to named speakers and conferences,<br/>quoted from transcripts only, ~ timestamps cited as approximate
-    Note over C: ~17k tokens a question. cat talks/**.md would be ~60k and rising
-```
+[Canonical diagram: Retrieval sequence](../specs/skill.md#retrieval-sequence).
 
 Two rungs were added on 2026-09-02: `--facets` before choosing a slice,
 because the transcripts are 99% year-2026 and a top-100 shows it, and
@@ -613,40 +305,20 @@ by hand.
 
 ### Every push to `main` publishes
 
-```mermaid
-flowchart LR
-    PUSH["push to main"] --> PG["pages.yml"]
-    PG --> ASM["tools/assemble_site.sh _site<br/>index.html · .nojekyll · ai-conferences.md<br/>data/search-meta.json · data/tindex/ · data/transcripts/ (minus _misses.json)"]
-    ASM --> DU["du — the size report, read it every deploy"]
-    ASM --> ORPHAN["one orphan commit, force-pushed to gh-pages<br/>no history: the branch is the size of the site, ~250 MB"]
-    ORPHAN --> LIVE["ppruchnerovic.github.io/ai-talks-universe"]
-    NAV["uitest navigation suite<br/>assembles and serves the same tree"] -. "a path the page needs that the script forgets fails a test" .-> ASM
-```
+[Canonical diagram: Publish flow](../specs/publishing.md#publish-flow).
 
 The mirror it replaced was the whole repository: 411 MB of a 1 GB ceiling,
 169 MB of it never fetched by any browser, and on a curve to ~850 MB at full
 transcript coverage.
 
-### The weekly refresh proposes, it does not write
+### The refresh proposes, review publishes
 
-```mermaid
-flowchart TD
-    CRON["Mondays 04:17 UTC, or a push touching conferences.json / tools/"] --> CHK["check_registry.py<br/>conferences.json vs ai-conferences.md"]
-    CHK --> REF["sync_catalog.py --refresh<br/>enrich.py --limit 4000 if YOUTUBE_API_KEY<br/>sync_catalog.py · build_index.py"]
-    REF --> CH{"anything changed?"}
-    CH -- no --> END["nothing to propose"]
-    CH -- yes --> REP["refresh_report.py<br/>field coverage vs HEAD:data/talks.json<br/>exit 2 if any field lost &gt;2% of the corpus"]
-    REP --> PUSHB["push refresh-YYYY-MM-DD, open a PR<br/>(since 2026-09-11: tools/refresh_local.sh, daily, local)"]
-    PUSHB --> SUM["the coverage table in the run summary<br/>🔴 if regressed, with a compare link"]
-    SUM --> HUMAN{"a human reads the table"}
-    HUMAN -- "merge" --> MAIN["main → pages.yml publishes"]
-    HUMAN -- "throttled run: hollow records" --> DISCARD["discard the branch"]
-```
+[Canonical diagram: Local refresh flow](../specs/publishing.md#local-refresh-flow).
 
-Transcripts are deliberately not fetched here: YouTube blocks GitHub's IP
-ranges outright, and the one route that would work from CI, Supadata, would
-spend credits on a schedule. The review gate exists because enumeration from a
-runner *degrades* rather than fails — a throttled listing returns titles and
+The retired weekly CI refresh did not fetch transcripts: YouTube blocks
+GitHub's IP ranges outright. Since 2026-09-11, the daily local refresh also
+enriches and fetches with a credit cap before proposing a PR. The review
+gate exists because enumeration from a runner *degrades* rather than fails — a throttled listing returns titles and
 durations with no uploader, and one scheduled run wrote `channel: null` over
 ~4,540 talks; the record-count backstops both passed it. So the report diffs
 field coverage, which is the thing a reviewer needs and cannot get from a
@@ -668,13 +340,17 @@ having written a test at all.
 | `test_stem.py` | ~6 s, reads the corpus, runs node | the Python and JavaScript stemmers disagreeing on any corpus word — a silent miss on one side |
 | `test_semantic.py` | 0.2 s, standard library | the staleness rules, reciprocal-rank fusion and the pool mapping on a machine that never installed the layer — the fallback path |
 | `check_registry.py` | instant | `conferences.json` and `ai-conferences.md` drifting apart |
-| `refresh_report.py` | CI | a hollowed field passing the record-count guards |
+| `refresh_report.py` | local refresh | a hollowed field passing the record-count guards |
 | `tools/uitest/` (9 suites, ~4 min) | Playwright + Chromium against a local server, or `KB_URL=` against production | the browser: load, search, controls, filters, moments, resilience, a11y, ranking agreement with the CLI, navigation and the assembled site |
 
 The browser suites skip rather than fail when a fixture has not been collected
 yet, so a green run reads its skip count: the last full run skipped nothing.
 
 ## Design decisions worth not relitigating
+
+These explain the decisions; the [contract directory](../specs/ARCHITECTURE.md#cross-domain-contract-directory)
+points to their current implementation rules. Historical comparisons below
+are evidence for the choices, not acceptance criteria for a new change.
 
 - **Two files describe the conferences, on purpose.** `ai-conferences.md` is the
   human curation — why a source is worth having, what is gated, what was
@@ -777,8 +453,9 @@ yet, so a green run reads its skip count: the last full run skipped nothing.
   Speaker coverage went from 2,591 to 2,947 on 357 talks, because every one of
   them has a name the heuristics would mostly have missed.
 
-- **The transcript index is sharded two characters deep, and `shard_key()` in
-  `build_index.py` must agree exactly with `shardKeyOf()` in `index.html`.**
+- **Why the transcript index is sharded two characters deep.**
+  The current [shard-key contract](../specs/search-browser.md#how) belongs
+  to the browser spec.
   There is no shard-*count* knob: the key is the term's prefix, so the depth is
   the count. One character meant every term starting with "s" shared a 4.0 MB
   file that was downloaded whole to answer one query; two gives 674 shards, a
@@ -807,11 +484,11 @@ yet, so a green run reads its skip count: the last full run skipped nothing.
 - **A 429 is not the same kind of refusal as a 402.** Both are account-level,
   which is why they were handled together, and that was wrong once more than
   one request was in flight: waiting fixes a rate limit and does not fix an
-  empty balance. 429 backs off and retries, then raises `BlockedError` — never
-  `LookupError`, because that path writes `_misses.json` and a miss means *this
+  empty balance. 429 backs off and retries, then raises `RateLimited`
+  (a `TransientError`) — never `LookupError`, because that path writes `_misses.json` and a miss means *this
   video has no captions* forever. 401 and 402 still retire the route for the
   run, and now raise `AccountError` for the same reason 429 raises
-  `BlockedError` — see below.
+  `TransientError` — see below.
 
 - **Four kinds of failure, and only one of them is a fact about the video.**
   `_misses.json` is permanent, so what may be written there is the whole
@@ -822,9 +499,10 @@ yet, so a green run reads its skip count: the last full run skipped nothing.
   balance — retires the route and ends the round; `TransientError` is no
   verdict at all, so it benches nothing and ends nothing, and the talk simply
   waits for a rerun. `about_the_video()` is the one predicate the two runners
-  ask before writing a miss, which is what makes a new failure class retryable
-  by default instead of silently permanent — the previous arrangement asked
-  `is_block()`, so everything that was not an IP block was cached forever.
+  ask before writing a miss, which excludes those known non-video failures.
+  Unknown exceptions still
+  fall through as misses; the transcript spec documents that implementation
+  caveat and the test required for a new failure path.
 
 - **Collection is scoped to 2026, the corpus to 2023, and enumeration to
   nothing.** Three lines for three costs, and collapsing them is the mistake.
@@ -935,7 +613,8 @@ yet, so a green run reads its skip count: the last full run skipped nothing.
   so the element stays on screen while the script believes it is gone. This
   shipped in the corpus this was ported from: a four-hit search offered "Show
   more (-16 left)". A `[hidden] { display: none !important; }` reset covers all
-  three and `suite-controls` guards it. Do not remove the reset.
+  three and `suite-controls` guards it. The
+  [browser spec](../specs/search-browser.md#how) owns the reset invariant.
 
 - **Ranking matches tokens, never substrings.** Two bugs were found by testing
   in the original and must not be reintroduced: without IDF weighting a generic

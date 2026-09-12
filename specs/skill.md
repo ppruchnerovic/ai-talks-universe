@@ -34,8 +34,7 @@ The skill documents the tools; when they change, it is edited *last*
 Cost anchor, measured (docs/HISTORY.md §"Making the skill affordable"): the
 pre-2026-09-01 skill said `cat talks/**.md` and cost ~150k tokens a question;
 the ladder costs ~15-17k (`--brief -n 15` ~1.5k, six default excerpts ~7k,
-`--quotes` over the same six ~1.2k). docs/ARCHITECTURE.md §"The skill — a retrieval ladder with a price on it"
-has the sequence diagram.
+`--quotes` over the same six ~1.2k). The [retrieval sequence](#retrieval-sequence) maps the tool calls.
 
 ## Where
 
@@ -57,7 +56,7 @@ has the sequence diagram.
 | `tools/fetch_transcripts.py:994-1030` | `--probe`, `-c/--conference`, `--limit`, `--source exact`, `--retry-after` — the "Fetching what is missing" rung. |
 | `tools/install_semantic.sh`, `tools/semantic.py`, `tools/build_embeddings.py` | The optional layer the skill's "semantic" section describes. See `semantic.md`. |
 | `docs/GUIDE.md` §"With Claude Code" | The user-facing two-paragraph description and the canonical example question. |
-| Diagrams: `docs/ARCHITECTURE.md` §"The skill — a retrieval ladder with a price on it" | Sequence diagram, the 2026-09-02 rungs. |
+| [Retrieval sequence](#retrieval-sequence) | Tool calls and citation flow; the ladder below defines all rungs. |
 | `docs/HISTORY.md` §"Making the skill affordable", §"F. The skill, after the tools have changed" | Why the ladder exists; the 2026-09-02 revision list. |
 | `docs/STATE.md` state table, the skill row | One-line status of the skill and its revision dates. |
 
@@ -182,3 +181,28 @@ the second, a quote whose words are in a description but not a transcript.
   cost table or the couplings above rather than adding prose.
 - Do not add a `cd tools` anywhere: subagent cwd resets between calls.
 - Where SKILL.md and argparse disagree, argparse wins; fix the skill.
+
+## Diagrams
+
+Selective views of the behavior specified above; omitted fields and branches
+remain defined by the detailed sections in this spec. Update the relevant
+diagram with a change to that flow; keep rationale in `docs/ARCHITECTURE.md`.
+
+### Retrieval sequence
+
+```mermaid
+sequenceDiagram
+    participant U as user
+    participant C as Claude Code
+    participant Q as query.py
+    participant E as excerpt.py
+
+    U->>C: "what do people say about agent reliability?"
+    C->>Q: --stats — what the corpus is today, never from memory
+    C->>Q: "agent reliability" -n 15 --brief — the topic's words, not the question
+    Q-->>C: ~5 KB: title, speakers, conference, year, transcript?, which layer matched, url
+    C->>E: the chosen ids, -q "agent reliability"
+    E-->>C: ~1–2 K tokens per talk: opening + the passages that matched, deep-linked
+    C-->>U: positions, attributed to named speakers and conferences,<br/>quoted from transcripts only, ~ timestamps cited as approximate
+    Note over C: ~17k tokens a question. cat talks/**.md would be ~60k and rising
+```
