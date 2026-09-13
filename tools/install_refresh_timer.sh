@@ -12,8 +12,8 @@
 #     systemctl --user start ai-talks-refresh.service      # run it now
 #     journalctl --user -u ai-talks-refresh.service -n 50
 #
-# Timers run only while you are logged in unless lingering is on:
-#     loginctl enable-linger "$USER"
+# Timers run only while you are logged in unless lingering is on; the
+# installer turns it on (loginctl enable-linger), --remove leaves it alone.
 set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 UNITS="$HOME/.config/systemd/user"
@@ -32,13 +32,17 @@ sed "s|%h/git/ai-talks-universe|$ROOT|g; s|%h/.local/node/bin|$(dirname "$(comma
 cp "$ROOT/tools/systemd/ai-talks-refresh.timer" "$UNITS/ai-talks-refresh.timer"
 
 if [ ! -f "$ENV_FILE" ]; then
-  printf 'YOUTUBE_API_KEY=\nSUPADATA_API_KEY=\n' > "$ENV_FILE"
+  printf 'YOUTUBE_API_KEY=\nSUPADATA_API_KEY=\nGH_TOKEN=\nSUPADATA_MONTHLY_BUDGET=3000\n' > "$ENV_FILE"
   chmod 600 "$ENV_FILE"
-  echo "created $ENV_FILE — fill in both keys before the first run"
+  echo "created $ENV_FILE — fill in the three keys before the first run"
 else
   chmod 600 "$ENV_FILE"
 fi
 
+if [ "$(loginctl show-user "$USER" -p Linger --value 2>/dev/null)" != "yes" ]; then
+  loginctl enable-linger "$USER" && echo "lingering enabled: the timer fires without a login session" \
+    || echo "!! could not enable lingering; the timer runs only while you are logged in"
+fi
 systemctl --user daemon-reload
 systemctl --user enable --now ai-talks-refresh.timer
 systemctl --user list-timers ai-talks-refresh.timer --no-pager
