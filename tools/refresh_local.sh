@@ -4,6 +4,8 @@
 #     tools/refresh_local.sh                 # refresh, fetch up to 300 transcripts, push a PR
 #     tools/refresh_local.sh --limit 50      # spend at most 50 Supadata credits
 #     tools/refresh_local.sh --no-transcripts
+#     tools/refresh_local.sh --monthly-budget 2000   # override SUPADATA_MONTHLY_BUDGET
+#     tools/refresh_local.sh --no-update     # do not upgrade yt-dlp first
 #     tools/refresh_local.sh --dry-run       # print the plan, touch nothing
 #
 # Why this exists: the GitHub Actions refresh could enumerate but never
@@ -18,14 +20,29 @@
 #
 #     YOUTUBE_API_KEY=...       descriptions and dates (free tier)
 #     SUPADATA_API_KEY=...      transcripts from any network (credits)
+#     GH_TOKEN=...              for gh and the push; a timer inherits no shell auth
+#     SUPADATA_MONTHLY_BUDGET=3000   credits per calendar month (default 3000, the Pro plan)
+#
+# Credits are metered in ~/.config/ai-talks-universe/credits-YYYY-MM.log, one
+# "date attempted" line per run, where attempted = fetched + missed (Supadata
+# charges for a miss too; a language re-request costs a second credit the
+# ledger does not see, so leave a little headroom). Before fetching, --limit is
+# lowered to what is left of the month; at zero the fetch is skipped and the
+# rest of the refresh still runs.
 #
 # What it does, and where it stops:
 #
-#   1. refuses a dirty tree, a second concurrent run, or a missing key
-#   2. check_registry.py
+#   1. refuses a dirty tree, a second concurrent run, a missing key, no gh
+#      login, or an open pull request from an earlier refresh-* branch (its
+#      transcripts live only on that branch; merge or close it first or the
+#      same videos are bought again)
+#   2. upgrades yt-dlp in tools/.venv (YouTube changes, enumeration follows),
+#      then check_registry.py
 #   3. sync_catalog.py --refresh, enrich.py for this year, sync_catalog.py
 #   4. fetch_transcripts.py --source supadata for this year, capped by --limit
-#   5. sync_catalog.py, build_index.py
+#      and by the monthly budget; records the credits in the ledger
+#   5. sync_catalog.py, build_index.py, refresh_docs.py (the counts in
+#      README.md, docs/GUIDE.md and docs/STATE.md)
 #   6. refresh_report.py — exit 2 (a field lost coverage, the throttled-
 #      enumeration signature) aborts the run and resets the tree
 #   7. the offline test suites
@@ -41,19 +58,25 @@ TOOLS="$ROOT/tools"
 PY="$TOOLS/.venv/bin/python"; [ -x "$PY" ] || PY=python3
 LIMIT=300
 TRANSCRIPTS=1
+UPDATE=1
 DRY=0
+MONTHLY_BUDGET=""
 ENV_FILE="${ATU_ENV_FILE:-$HOME/.config/ai-talks-universe/env}"
+LEDGER="$(dirname "$ENV_FILE")/credits-$(date +%Y-%m).log"
 YEAR="$(date +%Y)"
 TODAY="$(date +%F)"
 BRANCH="refresh-$TODAY"
 LOCK="$ROOT/logs/refresh.lock"
 LOG="$ROOT/logs/refresh-$TODAY.log"
 REPORT="$ROOT/logs/refresh-$TODAY-report.md"
+FETCH_OUT="$ROOT/logs/refresh-$TODAY-fetch.txt"
 
 while [ $# -gt 0 ]; do
   case "$1" in
     --limit) LIMIT="$2"; shift 2 ;;
     --no-transcripts) TRANSCRIPTS=0; shift ;;
+    --monthly-budget) MONTHLY_BUDGET="$2"; shift 2 ;;
+    --no-update) UPDATE=0; shift ;;
     --dry-run) DRY=1; shift ;;
     -h|--help) sed -n '2,40p' "$0"; exit 0 ;;
     *) echo "unknown option: $1" >&2; exit 2 ;;
@@ -82,7 +105,11 @@ if [ "$TRANSCRIPTS" = 1 ] && [ -z "${SUPADATA_API_KEY:-}" ]; then
   echo "SUPADATA_API_KEY is not set (looked in $ENV_FILE); pass --no-transcripts to skip." >&2
   exit 2
 fi
+MONTHLY_BUDGET="${MONTHLY_BUDGET:-${SUPADATA_MONTHLY_BUDGET:-3000}}"
 command -v gh >/dev/null || { echo "gh (GitHub CLI) is required to open the pull request" >&2; exit 2; }
+gh auth status >/dev/null 2>&1 || { echo "gh is not authenticated; put GH_TOKEN in $ENV_FILE" >&2; exit 2; }
+# The venv's yt-dlp (kept current below) goes first; sync_catalog.py takes it from PATH.
+[ -x "$TOOLS/.venv/bin/yt-dlp" ] && export PATH="$TOOLS/.venv/bin:$PATH"
 command -v yt-dlp >/dev/null || { echo "yt-dlp must be on PATH for enumeration" >&2; exit 2; }
 
 cd "$ROOT"
@@ -95,6 +122,13 @@ if [ -n "$dirty" ]; then
 fi
 if [ "$(git rev-parse --abbrev-ref HEAD)" != "main" ]; then
   echo "not on main (on $(git rev-parse --abbrev-ref HEAD))" >&2
+  [ "$DRY" = 1 ] || exit 2
+fi
+stale_prs="$(gh pr list --state open --json headRefName -q '.[].headRefName' 2>/dev/null \
+             | grep '^refresh-' | grep -vx "$BRANCH" || true)"
+if [ -n "$stale_prs" ]; then
+  echo "an earlier refresh is still open; merge or close it first, its transcripts live only there:" >&2
+  echo "$stale_prs" >&2
   [ "$DRY" = 1 ] || exit 2
 fi
 if [ "$DRY" = 0 ]; then
@@ -119,8 +153,13 @@ abort() {
 
 run git pull --ff-only origin main || abort "git pull"
 
-# ---- 2–3. registry, enumerate, enrich, derive -------------------------------
+# ---- 2–3. yt-dlp, registry, enumerate, enrich, derive -----------------------
 cd "$TOOLS"
+if [ "$UPDATE" = 1 ] && [ -x "$TOOLS/.venv/bin/pip" ]; then
+  # Best effort: a PyPI outage must not cost the day's refresh.
+  run "$TOOLS/.venv/bin/pip" install -q -U yt-dlp || echo "!! yt-dlp upgrade failed, continuing with $(yt-dlp --version)"
+fi
+echo "+ yt-dlp $(yt-dlp --version)"
 run python3 check_registry.py || abort "check_registry.py"
 run python3 sync_catalog.py --refresh || abort "sync_catalog.py --refresh"
 run python3 enrich.py --min-year "$YEAR" --include-unknown-year || abort "enrich.py"
@@ -131,13 +170,33 @@ run python3 sync_catalog.py || abort "sync_catalog.py after enrich"
 # would cost a credit a day for nothing. A miss is bookkeeping, not failure —
 # the fetcher records it in _misses.json and exits 0.
 if [ "$TRANSCRIPTS" = 1 ]; then
+  spent=0; [ -f "$LEDGER" ] && spent="$(awk '{s+=$2} END{print s+0}' "$LEDGER")"
+  left=$(( MONTHLY_BUDGET - spent ))
+  echo "+ credits: $spent of $MONTHLY_BUDGET spent this month ($LEDGER), $left left"
+  if [ "$left" -le 0 ]; then
+    echo "!! monthly budget exhausted; skipping transcripts this run"
+    TRANSCRIPTS=0
+  elif [ "$left" -lt "$LIMIT" ]; then
+    echo "+ lowering --limit $LIMIT to $left, the rest of the month's budget"
+    LIMIT="$left"
+  fi
+fi
+if [ "$TRANSCRIPTS" = 1 ]; then
   run "$PY" fetch_transcripts.py --source supadata --min-year "$YEAR" \
-      --include-unknown-year --workers 32 --limit "$LIMIT" || abort "fetch_transcripts.py"
+      --include-unknown-year --workers 32 --limit "$LIMIT" 2>&1 | tee "$FETCH_OUT" \
+      || abort "fetch_transcripts.py"
+  if [ "$DRY" = 0 ]; then
+    attempted="$(grep -oE '^done: [0-9]+ fetched, [0-9]+ missed' "$FETCH_OUT" | awk '{print $2+$4}' || true)"
+    mkdir -p "$(dirname "$LEDGER")"
+    echo "$TODAY ${attempted:-0}" >> "$LEDGER"
+    echo "+ credits: ${attempted:-0} attempted this run, recorded in $LEDGER"
+  fi
 fi
 
 # ---- 5. derive and index ----------------------------------------------------
 run python3 sync_catalog.py || abort "sync_catalog.py after fetch"
 run python3 build_index.py || abort "build_index.py"
+run python3 refresh_docs.py || abort "refresh_docs.py"
 
 cd "$ROOT"
 if [ "$DRY" = 0 ] && [ -z "$(git status --porcelain)" ]; then
