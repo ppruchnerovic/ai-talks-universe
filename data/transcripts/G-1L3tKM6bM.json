@@ -1,0 +1,2243 @@
+{
+  "video_id": "G-1L3tKM6bM",
+  "title": "Inside Mercedes-Benz: 140 Years of Heritage meet AI",
+  "conference": "wearedevelopers",
+  "language": "en",
+  "auto_generated": true,
+  "source": "yt",
+  "timing": "exact",
+  "word_count": 3052,
+  "imported_from": "presentations/kb (WeAreDevelopers agenda API)",
+  "segments": [
+    {
+      "start": 18.48,
+      "duration": 5.44,
+      "text": "Hello everyone, welcome back. Um, in our"
+    },
+    {
+      "start": 21.84,
+      "duration": 5.36,
+      "text": "next session, we will hear about turning"
+    },
+    {
+      "start": 23.92,
+      "duration": 4.96,
+      "text": "AI into real enterprise value. uh inside"
+    },
+    {
+      "start": 27.2,
+      "duration": 5.68,
+      "text": "Mercedes-Benz"
+    },
+    {
+      "start": 28.88,
+      "duration": 6.8,
+      "text": "140 years of heritage uh meeting AI and"
+    },
+    {
+      "start": 32.88,
+      "duration": 7.48,
+      "text": "uh our speakers will be Danielle Gazel"
+    },
+    {
+      "start": 35.68,
+      "duration": 4.68,
+      "text": "and Yans Peterson. Welcome"
+    },
+    {
+      "start": 41.27,
+      "duration": 2.02,
+      "text": "[applause]"
+    },
+    {
+      "start": 63.53,
+      "duration": 2.02,
+      "text": ">> [applause]"
+    },
+    {
+      "start": 66.32,
+      "duration": 5.04,
+      "text": ">> Welcome. We are developers."
+    },
+    {
+      "start": 69.44,
+      "duration": 4.24,
+      "text": "It's great to have you here at the stage"
+    },
+    {
+      "start": 71.36,
+      "duration": 6.48,
+      "text": "11 to our talk about inside"
+    },
+    {
+      "start": 73.68,
+      "duration": 7.92,
+      "text": "Mercedes-Benz and how we will bring AI"
+    },
+    {
+      "start": 77.84,
+      "duration": 5.76,
+      "text": "into our 140 years of heritage."
+    },
+    {
+      "start": 81.6,
+      "duration": 4.4,
+      "text": "When you look at Mercedes, there are"
+    },
+    {
+      "start": 83.6,
+      "duration": 4.88,
+      "text": "three dimensions where we apply AI"
+    },
+    {
+      "start": 86.0,
+      "duration": 5.28,
+      "text": "already today. You find AI in our"
+    },
+    {
+      "start": 88.48,
+      "duration": 5.2,
+      "text": "products. You will find AI in our"
+    },
+    {
+      "start": 91.28,
+      "duration": 4.64,
+      "text": "software engineering processes. And"
+    },
+    {
+      "start": 93.68,
+      "duration": 6.0,
+      "text": "every employee in Mercedes spends over"
+    },
+    {
+      "start": 95.92,
+      "duration": 5.84,
+      "text": "107,000 70,000 uh colleagues around the"
+    },
+    {
+      "start": 99.68,
+      "duration": 5.2,
+      "text": "world are already using AI in their"
+    },
+    {
+      "start": 101.76,
+      "duration": 7.04,
+      "text": "daily work. And this is uh where we are"
+    },
+    {
+      "start": 104.88,
+      "duration": 6.48,
+      "text": "at as Mercedes-Benz as of now. Today"
+    },
+    {
+      "start": 108.8,
+      "duration": 4.48,
+      "text": "Yens and myself we want to focus at the"
+    },
+    {
+      "start": 111.36,
+      "duration": 3.84,
+      "text": "middle part and that's what we are"
+    },
+    {
+      "start": 113.28,
+      "duration": 4.16,
+      "text": "developers is all about. It's about"
+    },
+    {
+      "start": 115.2,
+      "duration": 4.32,
+      "text": "developers software engineers and we"
+    },
+    {
+      "start": 117.44,
+      "duration": 4.56,
+      "text": "want to dig deeper what AI really means"
+    },
+    {
+      "start": 119.52,
+      "duration": 4.48,
+      "text": "for us in operating it. Last year"
+    },
+    {
+      "start": 122.0,
+      "duration": 4.32,
+      "text": "Marknos and Katherine talked about the"
+    },
+    {
+      "start": 124.0,
+      "duration": 4.56,
+      "text": "product side they talked about the"
+    },
+    {
+      "start": 126.32,
+      "duration": 4.32,
+      "text": "knowledge worker side and today it's all"
+    },
+    {
+      "start": 128.56,
+      "duration": 4.88,
+      "text": "about software engineering and the"
+    },
+    {
+      "start": 130.64,
+      "duration": 5.12,
+      "text": "details around of that"
+    },
+    {
+      "start": 133.44,
+      "duration": 4.4,
+      "text": "when we dig a bit deeper. So who we are?"
+    },
+    {
+      "start": 135.76,
+      "duration": 6.16,
+      "text": "My name is Daniel as introduced I'm"
+    },
+    {
+      "start": 137.84,
+      "duration": 6.96,
+      "text": "responsible for the techups in recep and"
+    },
+    {
+      "start": 141.92,
+      "duration": 5.04,
+      "text": "together with Yens my CTO. We will dig"
+    },
+    {
+      "start": 144.8,
+      "duration": 6.0,
+      "text": "deeper as I said in the different"
+    },
+    {
+      "start": 146.96,
+      "duration": 6.4,
+      "text": "dimensions of operating AI. What is uh"
+    },
+    {
+      "start": 150.8,
+      "duration": 5.76,
+      "text": "my responsibility our responsibility all"
+    },
+    {
+      "start": 153.36,
+      "duration": 5.68,
+      "text": "about? In Mercedes-Benz we invested"
+    },
+    {
+      "start": 156.56,
+      "duration": 5.36,
+      "text": "couple of years ago already in building"
+    },
+    {
+      "start": 159.04,
+      "duration": 5.36,
+      "text": "out uh building up inhouse captive"
+    },
+    {
+      "start": 161.92,
+      "duration": 4.4,
+      "text": "knowledge for software engineering. So"
+    },
+    {
+      "start": 164.4,
+      "duration": 4.96,
+      "text": "we have tech experts around the globe."
+    },
+    {
+      "start": 166.32,
+      "duration": 5.76,
+      "text": "You see the locations on the slide. And"
+    },
+    {
+      "start": 169.36,
+      "duration": 5.04,
+      "text": "we are forming a captive tech"
+    },
+    {
+      "start": 172.08,
+      "duration": 4.56,
+      "text": "environment within Mercedes-Benz. We"
+    },
+    {
+      "start": 174.4,
+      "duration": 5.84,
+      "text": "provide software across the whole life"
+    },
+    {
+      "start": 176.64,
+      "duration": 5.6,
+      "text": "cycle from the first draw of a car when"
+    },
+    {
+      "start": 180.24,
+      "duration": 4.32,
+      "text": "it starts at the designing phase when it"
+    },
+    {
+      "start": 182.24,
+      "duration": 4.4,
+      "text": "comes to engineering to the incar"
+    },
+    {
+      "start": 184.56,
+      "duration": 4.72,
+      "text": "software development part when it comes"
+    },
+    {
+      "start": 186.64,
+      "duration": 5.68,
+      "text": "to the production to sales after sales"
+    },
+    {
+      "start": 189.28,
+      "duration": 5.2,
+      "text": "and financial services. That means the"
+    },
+    {
+      "start": 192.32,
+      "duration": 5.12,
+      "text": "software we build it runs across the"
+    },
+    {
+      "start": 194.48,
+      "duration": 6.64,
+      "text": "globe in every production plant in over"
+    },
+    {
+      "start": 197.44,
+      "duration": 5.36,
+      "text": "um in all of uh our 240 locations"
+    },
+    {
+      "start": 201.12,
+      "duration": 3.44,
+      "text": "worldwide"
+    },
+    {
+      "start": 202.8,
+      "duration": 4.24,
+      "text": "and this"
+    },
+    {
+      "start": 204.56,
+      "duration": 4.64,
+      "text": "combined with our heritage you could"
+    },
+    {
+      "start": 207.04,
+      "duration": 5.52,
+      "text": "imagine it's kind of a complex"
+    },
+    {
+      "start": 209.2,
+      "duration": 6.72,
+      "text": "environment and uh what we have to find"
+    },
+    {
+      "start": 212.56,
+      "duration": 6.08,
+      "text": "it as an in-house software tech unit is"
+    },
+    {
+      "start": 215.92,
+      "duration": 4.8,
+      "text": "a bit of the management core belief AI"
+    },
+    {
+      "start": 218.64,
+      "duration": 4.24,
+      "text": "will solve all your problems terms,"
+    },
+    {
+      "start": 220.72,
+      "duration": 4.72,
+      "text": "don't forget about it. Just apply AI and"
+    },
+    {
+      "start": 222.88,
+      "duration": 5.6,
+      "text": "everything will go away. But you could"
+    },
+    {
+      "start": 225.44,
+      "duration": 5.44,
+      "text": "imagine over the last decades, we have"
+    },
+    {
+      "start": 228.48,
+      "duration": 5.2,
+      "text": "lots of different ownerships. We have a"
+    },
+    {
+      "start": 230.88,
+      "duration": 5.12,
+      "text": "legacy environment. We have mainframe"
+    },
+    {
+      "start": 233.68,
+      "duration": 6.4,
+      "text": "still running in Mercedes-Bench which"
+    },
+    {
+      "start": 236.0,
+      "duration": 5.76,
+      "text": "are older than me and Yens. Um and um"
+    },
+    {
+      "start": 240.08,
+      "duration": 5.12,
+      "text": "when we also look at the technical"
+    },
+    {
+      "start": 241.76,
+      "duration": 5.84,
+      "text": "depth, it's quite huge. So maybe we"
+    },
+    {
+      "start": 245.2,
+      "duration": 5.6,
+      "text": "start with a short question."
+    },
+    {
+      "start": 247.6,
+      "duration": 4.8,
+      "text": "How many observability text and tools do"
+    },
+    {
+      "start": 250.8,
+      "duration": 4.0,
+      "text": "you believe we are using in"
+    },
+    {
+      "start": 252.4,
+      "duration": 5.04,
+      "text": "Mercedes-Benz as of now? I give you"
+    },
+    {
+      "start": 254.8,
+      "duration": 5.6,
+      "text": "three choices. Hands up when you think"
+    },
+    {
+      "start": 257.44,
+      "duration": 5.36,
+      "text": "you hit the right one. So, who believes"
+    },
+    {
+      "start": 260.4,
+      "duration": 5.76,
+      "text": "in Mercedes we are using 10"
+    },
+    {
+      "start": 262.8,
+      "duration": 5.76,
+      "text": "observability text tools uh across?"
+    },
+    {
+      "start": 266.16,
+      "duration": 4.4,
+      "text": "Hands up for 10."
+    },
+    {
+      "start": 268.56,
+      "duration": 4.72,
+      "text": "Okay. So, my introduction Oh, at least"
+    },
+    {
+      "start": 270.56,
+      "duration": 7.88,
+      "text": "one core belief really good. Who"
+    },
+    {
+      "start": 273.28,
+      "duration": 5.16,
+      "text": "believes we are using around 25 tools"
+    },
+    {
+      "start": 279.36,
+      "duration": 3.0,
+      "text": "50"
+    },
+    {
+      "start": 282.48,
+      "duration": 4.48,
+      "text": "100."
+    },
+    {
+      "start": 284.72,
+      "duration": 4.64,
+      "text": "Okay, we are not that bad. So [laughter]"
+    },
+    {
+      "start": 286.96,
+      "duration": 4.64,
+      "text": "um in Mercedes-Benz we have across"
+    },
+    {
+      "start": 289.36,
+      "duration": 5.68,
+      "text": "roughly 50 different observability"
+    },
+    {
+      "start": 291.6,
+      "duration": 6.16,
+      "text": "tools. Our developer ecosystem"
+    },
+    {
+      "start": 295.04,
+      "duration": 4.96,
+      "text": "incorporates more than 140 different"
+    },
+    {
+      "start": 297.76,
+      "duration": 4.32,
+      "text": "tools, tech stacks and that is the"
+    },
+    {
+      "start": 300.0,
+      "duration": 5.04,
+      "text": "heritage uh which we are currently"
+    },
+    {
+      "start": 302.08,
+      "duration": 5.28,
+      "text": "heavily fighting against. Uh the IT"
+    },
+    {
+      "start": 305.04,
+      "duration": 5.52,
+      "text": "landscape more than 7,000 different"
+    },
+    {
+      "start": 307.36,
+      "duration": 7.12,
+      "text": "applications as I said mainframe SAP"
+    },
+    {
+      "start": 310.56,
+      "duration": 6.32,
+      "text": "brings up quite uh big complexity in and"
+    },
+    {
+      "start": 314.48,
+      "duration": 4.88,
+      "text": "this is which we are in and it's not"
+    },
+    {
+      "start": 316.88,
+      "duration": 5.12,
+      "text": "just of uh it's not just about how we"
+    },
+    {
+      "start": 319.36,
+      "duration": 5.84,
+      "text": "apply AI. The question is how do we"
+    },
+    {
+      "start": 322.0,
+      "duration": 6.88,
+      "text": "operate AI as Mercedes-Benz at a broader"
+    },
+    {
+      "start": 325.2,
+      "duration": 6.4,
+      "text": "scale? Therefore, we brought you our"
+    },
+    {
+      "start": 328.88,
+      "duration": 5.12,
+      "text": "five engineering bets and our core"
+    },
+    {
+      "start": 331.6,
+      "duration": 4.16,
+      "text": "belief and this is what the whole speech"
+    },
+    {
+      "start": 334.0,
+      "duration": 3.28,
+      "text": "and talk is all about and I'm handing"
+    },
+    {
+      "start": 335.76,
+      "duration": 3.76,
+      "text": "over to Yans."
+    },
+    {
+      "start": 337.28,
+      "duration": 6.24,
+      "text": ">> Thanks Danielle and uh welcome everyone"
+    },
+    {
+      "start": 339.52,
+      "duration": 6.24,
+      "text": "from my side. Um these five engineering"
+    },
+    {
+      "start": 343.52,
+      "duration": 4.8,
+      "text": "bets we have we are heavily heavily"
+    },
+    {
+      "start": 345.76,
+      "duration": 4.64,
+      "text": "focusing on especially this year and"
+    },
+    {
+      "start": 348.32,
+      "duration": 4.24,
+      "text": "last year and we'll see whether we need"
+    },
+    {
+      "start": 350.4,
+      "duration": 4.4,
+      "text": "additional ones but um the ones we"
+    },
+    {
+      "start": 352.56,
+      "duration": 6.64,
+      "text": "brought with us today actually brought"
+    },
+    {
+      "start": 354.8,
+      "duration": 8.32,
+      "text": "us on good speed um in order to um move"
+    },
+    {
+      "start": 359.2,
+      "duration": 9.2,
+      "text": "forward applying AI with our heritage."
+    },
+    {
+      "start": 363.12,
+      "duration": 7.68,
+      "text": "And the first one is about that we have"
+    },
+    {
+      "start": 368.4,
+      "duration": 6.48,
+      "text": "a a very strong base with coding tools"
+    },
+    {
+      "start": 370.8,
+      "duration": 6.64,
+      "text": "and coding harnesses um for coding, for"
+    },
+    {
+      "start": 374.88,
+      "duration": 4.56,
+      "text": "testing, for releasing, for reviewing."
+    },
+    {
+      "start": 377.44,
+      "duration": 3.6,
+      "text": "But actually there is more to it. It's"
+    },
+    {
+      "start": 379.44,
+      "duration": 4.72,
+      "text": "not just the simple product development"
+    },
+    {
+      "start": 381.04,
+      "duration": 5.44,
+      "text": "we are facing. It's also about the the"
+    },
+    {
+      "start": 384.16,
+      "duration": 4.88,
+      "text": "full product development life cycle. So"
+    },
+    {
+      "start": 386.48,
+      "duration": 5.44,
+      "text": "we need to take into account people"
+    },
+    {
+      "start": 389.04,
+      "duration": 6.32,
+      "text": "working in uh design thinking in idea"
+    },
+    {
+      "start": 391.92,
+      "duration": 5.76,
+      "text": "creation um also the roll out in the end"
+    },
+    {
+      "start": 395.36,
+      "duration": 4.08,
+      "text": "and and the whole product sundown also"
+    },
+    {
+      "start": 397.68,
+      "duration": 3.6,
+      "text": "is a is a big thing on our end as you"
+    },
+    {
+      "start": 399.44,
+      "duration": 5.04,
+      "text": "heard mainframe migrations we have a lot"
+    },
+    {
+      "start": 401.28,
+      "duration": 5.36,
+      "text": "of legacy migrations um that we move"
+    },
+    {
+      "start": 404.48,
+      "duration": 4.88,
+      "text": "from a legacy stack into the cloud. So"
+    },
+    {
+      "start": 406.64,
+      "duration": 4.72,
+      "text": "we actually have to take a close look"
+    },
+    {
+      "start": 409.36,
+      "duration": 4.72,
+      "text": "not what is hype at the market but what"
+    },
+    {
+      "start": 411.36,
+      "duration": 5.2,
+      "text": "fits to us and what is a pressuring pain"
+    },
+    {
+      "start": 414.08,
+      "duration": 4.96,
+      "text": "also for us and this goes way further"
+    },
+    {
+      "start": 416.56,
+      "duration": 4.4,
+      "text": "than just um looking into plain software"
+    },
+    {
+      "start": 419.04,
+      "duration": 5.76,
+      "text": "development."
+    },
+    {
+      "start": 420.96,
+      "duration": 7.28,
+      "text": "This also leads us to not only focusing"
+    },
+    {
+      "start": 424.8,
+      "duration": 6.48,
+      "text": "on engineers, plane engineers or or"
+    },
+    {
+      "start": 428.24,
+      "duration": 6.0,
+      "text": "shredding code um but brings us to our"
+    },
+    {
+      "start": 431.28,
+      "duration": 6.72,
+      "text": "second bet which is that we have the"
+    },
+    {
+      "start": 434.24,
+      "duration": 7.28,
+      "text": "core belief and the bet that every role"
+    },
+    {
+      "start": 438.0,
+      "duration": 6.56,
+      "text": "independent of um the profession has an"
+    },
+    {
+      "start": 441.52,
+      "duration": 4.48,
+      "text": "agentic harness. So yes, there are good"
+    },
+    {
+      "start": 444.56,
+      "duration": 4.4,
+      "text": "harnesses out there that we can"
+    },
+    {
+      "start": 446.0,
+      "duration": 5.12,
+      "text": "leverage, but the agentic harnesses are"
+    },
+    {
+      "start": 448.96,
+      "duration": 4.72,
+      "text": "there also for people that are"
+    },
+    {
+      "start": 451.12,
+      "duration": 4.32,
+      "text": "supporting the product development. So"
+    },
+    {
+      "start": 453.68,
+      "duration": 4.96,
+      "text": "we are looking into harnesses for"
+    },
+    {
+      "start": 455.44,
+      "duration": 6.0,
+      "text": "project managers, for um agile coaches"
+    },
+    {
+      "start": 458.64,
+      "duration": 4.56,
+      "text": "and so on and so forth that we have"
+    },
+    {
+      "start": 461.44,
+      "duration": 6.88,
+      "text": "actually a decent support and a decent"
+    },
+    {
+      "start": 463.2,
+      "duration": 8.16,
+      "text": "coverage and um this is something that"
+    },
+    {
+      "start": 468.32,
+      "duration": 5.2,
+      "text": "um some of our folks adopted quite early"
+    },
+    {
+      "start": 471.36,
+      "duration": 6.0,
+      "text": "to be honest. Um so especially the UX"
+    },
+    {
+      "start": 473.52,
+      "duration": 6.8,
+      "text": "guys um started back in end of 24"
+    },
+    {
+      "start": 477.36,
+      "duration": 6.88,
+      "text": "applying and developing skills and"
+    },
+    {
+      "start": 480.32,
+      "duration": 6.32,
+      "text": "agents um over the past um roughly one"
+    },
+    {
+      "start": 484.24,
+      "duration": 6.8,
+      "text": "one and a half years that can be used"
+    },
+    {
+      "start": 486.64,
+      "duration": 6.4,
+      "text": "for user research for um UI design and"
+    },
+    {
+      "start": 491.04,
+      "duration": 5.28,
+      "text": "it's built on top of copilot and as you"
+    },
+    {
+      "start": 493.04,
+      "duration": 5.28,
+      "text": "can see these are our major let's say"
+    },
+    {
+      "start": 496.32,
+      "duration": 4.48,
+      "text": "coding agents that we currently have in"
+    },
+    {
+      "start": 498.32,
+      "duration": 4.56,
+      "text": "place at Mercedes um which is GitHub"
+    },
+    {
+      "start": 500.8,
+      "duration": 5.12,
+      "text": "copilot where we have a strong base, a"
+    },
+    {
+      "start": 502.88,
+      "duration": 6.16,
+      "text": "strong ecosystem which um which we have"
+    },
+    {
+      "start": 505.92,
+      "duration": 6.16,
+      "text": "in the company spread widely. Um and"
+    },
+    {
+      "start": 509.04,
+      "duration": 4.88,
+      "text": "this adoption grew over the past years"
+    },
+    {
+      "start": 512.08,
+      "duration": 5.84,
+      "text": "quite steadily and beginning of this"
+    },
+    {
+      "start": 513.92,
+      "duration": 7.76,
+      "text": "year we introduced um also for for other"
+    },
+    {
+      "start": 517.92,
+      "duration": 6.8,
+      "text": "um roles especially um um Devon and also"
+    },
+    {
+      "start": 521.68,
+      "duration": 5.52,
+      "text": "Claude there was the necessity out of"
+    },
+    {
+      "start": 524.72,
+      "duration": 4.8,
+      "text": "the engineering community to provide"
+    },
+    {
+      "start": 527.2,
+      "duration": 4.56,
+      "text": "something else than GitHub copilot for"
+    },
+    {
+      "start": 529.52,
+      "duration": 6.0,
+      "text": "some of the roles but also the the the"
+    },
+    {
+      "start": 531.76,
+      "duration": 5.92,
+      "text": "need um um to extend our ecosystem"
+    },
+    {
+      "start": 535.52,
+      "duration": 5.36,
+      "text": "offering in general."
+    },
+    {
+      "start": 537.68,
+      "duration": 5.68,
+      "text": "Speaking about the ecosystem,"
+    },
+    {
+      "start": 540.88,
+      "duration": 5.44,
+      "text": "it is way more complex than simply"
+    },
+    {
+      "start": 543.36,
+      "duration": 6.32,
+      "text": "putting out tools there. So um what we"
+    },
+    {
+      "start": 546.32,
+      "duration": 5.92,
+      "text": "discovered um across our journey of the"
+    },
+    {
+      "start": 549.68,
+      "duration": 4.56,
+      "text": "past two to three years is that if you"
+    },
+    {
+      "start": 552.24,
+      "duration": 3.68,
+      "text": "want to scale impact within your"
+    },
+    {
+      "start": 554.24,
+      "duration": 3.04,
+      "text": "organization when it comes to software"
+    },
+    {
+      "start": 555.92,
+      "duration": 3.84,
+      "text": "development and if you have such a"
+    },
+    {
+      "start": 557.28,
+      "duration": 5.52,
+      "text": "diverse organization culturally"
+    },
+    {
+      "start": 559.76,
+      "duration": 4.96,
+      "text": "culturally technically uh and also"
+    },
+    {
+      "start": 562.8,
+      "duration": 4.88,
+      "text": "process-wise"
+    },
+    {
+      "start": 564.72,
+      "duration": 6.4,
+      "text": "um the tools are just one part of the"
+    },
+    {
+      "start": 567.68,
+      "duration": 7.68,
+      "text": "equation. We have a very strong AI"
+    },
+    {
+      "start": 571.12,
+      "duration": 6.4,
+      "text": "ecosystem that provides central models"
+    },
+    {
+      "start": 575.36,
+      "duration": 4.32,
+      "text": "to everyone that can be consumed"
+    },
+    {
+      "start": 577.52,
+      "duration": 5.04,
+      "text": "centrally. We provide central agents. We"
+    },
+    {
+      "start": 579.68,
+      "duration": 5.84,
+      "text": "provide central skills to have a certain"
+    },
+    {
+      "start": 582.56,
+      "duration": 5.52,
+      "text": "governance layer uh in our agents and to"
+    },
+    {
+      "start": 585.52,
+      "duration": 7.36,
+      "text": "build individual journey or text tech"
+    },
+    {
+      "start": 588.08,
+      "duration": 7.52,
+      "text": "dependent agents on top. And um where we"
+    },
+    {
+      "start": 592.88,
+      "duration": 6.48,
+      "text": "invested quite heavily is the evaluation"
+    },
+    {
+      "start": 595.6,
+      "duration": 5.52,
+      "text": "of exactly the the coding tools um that"
+    },
+    {
+      "start": 599.36,
+      "duration": 3.68,
+      "text": "we rolled out. We wanted to make sure"
+    },
+    {
+      "start": 601.12,
+      "duration": 4.32,
+      "text": "that we have the tools that fit our way"
+    },
+    {
+      "start": 603.04,
+      "duration": 4.32,
+      "text": "of working that fit a text which is"
+    },
+    {
+      "start": 605.44,
+      "duration": 4.8,
+      "text": "close to the vehicle or inside the"
+    },
+    {
+      "start": 607.36,
+      "duration": 6.08,
+      "text": "vehicle but also a tech that helps us"
+    },
+    {
+      "start": 610.24,
+      "duration": 6.8,
+      "text": "build mobile apps, web front ends, SAP"
+    },
+    {
+      "start": 613.44,
+      "duration": 5.44,
+      "text": "um and and for example X XR. And it's"
+    },
+    {
+      "start": 617.04,
+      "duration": 4.08,
+      "text": "not that easy to just pick offtheshelf"
+    },
+    {
+      "start": 618.88,
+      "duration": 5.84,
+      "text": "stuff. This is why the whole topic of"
+    },
+    {
+      "start": 621.12,
+      "duration": 6.32,
+      "text": "the ecosystem closely governing what"
+    },
+    {
+      "start": 624.72,
+      "duration": 5.2,
+      "text": "goes in there closely monitoring how"
+    },
+    {
+      "start": 627.44,
+      "duration": 4.8,
+      "text": "it's used apply new standards roll out"
+    },
+    {
+      "start": 629.92,
+      "duration": 4.4,
+      "text": "new standards test new standards this is"
+    },
+    {
+      "start": 632.24,
+      "duration": 4.24,
+      "text": "why this third horizon that you guys can"
+    },
+    {
+      "start": 634.32,
+      "duration": 4.64,
+      "text": "see is super important to us to get in"
+    },
+    {
+      "start": 636.48,
+      "duration": 6.2,
+      "text": "the MB specifics that help us to"
+    },
+    {
+      "start": 638.96,
+      "duration": 3.72,
+      "text": "actually scale AI."
+    },
+    {
+      "start": 642.72,
+      "duration": 8.0,
+      "text": "One thing that was a feedback from our"
+    },
+    {
+      "start": 647.04,
+      "duration": 5.36,
+      "text": "developer community without AI is that"
+    },
+    {
+      "start": 650.72,
+      "duration": 4.96,
+      "text": "compliance"
+    },
+    {
+      "start": 652.4,
+      "duration": 7.12,
+      "text": "to be compliant in our world in our um"
+    },
+    {
+      "start": 655.68,
+      "duration": 6.08,
+      "text": "in our organization and in our texts um"
+    },
+    {
+      "start": 659.52,
+      "duration": 4.0,
+      "text": "is a super painful process. You have to"
+    },
+    {
+      "start": 661.76,
+      "duration": 4.4,
+      "text": "know a lot of manual guidelines and I"
+    },
+    {
+      "start": 663.52,
+      "duration": 4.32,
+      "text": "think um it's it's quite commonly known"
+    },
+    {
+      "start": 666.16,
+      "duration": 4.72,
+      "text": "that we are good in guidelines,"
+    },
+    {
+      "start": 667.84,
+      "duration": 4.64,
+      "text": "processes and and regulations. Um, but"
+    },
+    {
+      "start": 670.88,
+      "duration": 4.0,
+      "text": "the closer you move to the vehicle, the"
+    },
+    {
+      "start": 672.48,
+      "duration": 4.56,
+      "text": "regulations get tighter. H, and we have"
+    },
+    {
+      "start": 674.88,
+      "duration": 5.68,
+      "text": "to make sure that those regulations that"
+    },
+    {
+      "start": 677.04,
+      "duration": 7.12,
+      "text": "we have are baked in to that ecosystem."
+    },
+    {
+      "start": 680.56,
+      "duration": 5.92,
+      "text": "So, we make sure that continuous"
+    },
+    {
+      "start": 684.16,
+      "duration": 5.44,
+      "text": "compliance is something especially now"
+    },
+    {
+      "start": 686.48,
+      "duration": 6.96,
+      "text": "with AI because there is a lot of uh a"
+    },
+    {
+      "start": 689.6,
+      "duration": 6.32,
+      "text": "lot of um um ecosystem drift otherwise"
+    },
+    {
+      "start": 693.44,
+      "duration": 4.4,
+      "text": "um we have to make sure that continuous"
+    },
+    {
+      "start": 695.92,
+      "duration": 5.92,
+      "text": "compliance is built in by default. This"
+    },
+    {
+      "start": 697.84,
+      "duration": 6.32,
+      "text": "is why our experts are hardly governing"
+    },
+    {
+      "start": 701.84,
+      "duration": 6.08,
+      "text": "um this ecosystem to make sure that"
+    },
+    {
+      "start": 704.16,
+      "duration": 7.04,
+      "text": "compliance is built in. We have agents"
+    },
+    {
+      "start": 707.92,
+      "duration": 5.04,
+      "text": "running in CI/CD pipelines that do"
+    },
+    {
+      "start": 711.2,
+      "duration": 4.32,
+      "text": "static code analysis, dynamic"
+    },
+    {
+      "start": 712.96,
+      "duration": 5.2,
+      "text": "application testing to make sure that if"
+    },
+    {
+      "start": 715.52,
+      "duration": 4.8,
+      "text": "we deploy a backend that we can do a"
+    },
+    {
+      "start": 718.16,
+      "duration": 5.52,
+      "text": "quick ad hoc pen test of a new feature"
+    },
+    {
+      "start": 720.32,
+      "duration": 6.88,
+      "text": "for example. And last but not least, if"
+    },
+    {
+      "start": 723.68,
+      "duration": 6.16,
+      "text": "we look at governance and governing AI"
+    },
+    {
+      "start": 727.2,
+      "duration": 6.64,
+      "text": "access to a certain degree, um, we have"
+    },
+    {
+      "start": 729.84,
+      "duration": 6.16,
+      "text": "a a central, we call it nexus, we have a"
+    },
+    {
+      "start": 733.84,
+      "duration": 4.64,
+      "text": "central product that is our gateway, our"
+    },
+    {
+      "start": 736.0,
+      "duration": 4.48,
+      "text": "LLM gateway for everything we build, for"
+    },
+    {
+      "start": 738.48,
+      "duration": 4.08,
+      "text": "every use case you already saw in the"
+    },
+    {
+      "start": 740.48,
+      "duration": 3.92,
+      "text": "beginning. So the products are using"
+    },
+    {
+      "start": 742.56,
+      "duration": 4.48,
+      "text": "that gateway, the developers are using"
+    },
+    {
+      "start": 744.4,
+      "duration": 4.4,
+      "text": "that gateway um in order to have a"
+    },
+    {
+      "start": 747.04,
+      "duration": 4.24,
+      "text": "central way of releasing models, having"
+    },
+    {
+      "start": 748.8,
+      "duration": 4.56,
+      "text": "a certain model clearance process and"
+    },
+    {
+      "start": 751.28,
+      "duration": 5.6,
+      "text": "providing the latest frontier models but"
+    },
+    {
+      "start": 753.36,
+      "duration": 7.76,
+      "text": "also open- source models."
+    },
+    {
+      "start": 756.88,
+      "duration": 8.8,
+      "text": "this gateway heavily pays into um also"
+    },
+    {
+      "start": 761.12,
+      "duration": 7.2,
+      "text": "our fifth bet and um I think it's it's"
+    },
+    {
+      "start": 765.68,
+      "duration": 6.96,
+      "text": "common knowledge also uh also in this"
+    },
+    {
+      "start": 768.32,
+      "duration": 7.12,
+      "text": "round um that first when we started to"
+    },
+    {
+      "start": 772.64,
+      "duration": 5.84,
+      "text": "push the AI adoption we told everyone"
+    },
+    {
+      "start": 775.44,
+      "duration": 5.04,
+      "text": "use AI as much as possible go for token"
+    },
+    {
+      "start": 778.48,
+      "duration": 5.68,
+      "text": "spend then there was I don't know some"
+    },
+    {
+      "start": 780.48,
+      "duration": 6.32,
+      "text": "of you folks does anyone know Strad"
+    },
+    {
+      "start": 784.16,
+      "duration": 5.92,
+      "text": "Strad anyone str audi"
+    },
+    {
+      "start": 786.8,
+      "duration": 6.56,
+      "text": "So it's like Straa but for cloud code"
+    },
+    {
+      "start": 790.08,
+      "duration": 6.08,
+      "text": "and they had a a ranking how many tokens"
+    },
+    {
+      "start": 793.36,
+      "duration": 6.16,
+      "text": "um you have you're burning basically and"
+    },
+    {
+      "start": 796.16,
+      "duration": 5.2,
+      "text": "um I think the the the world record or"
+    },
+    {
+      "start": 799.52,
+      "duration": 4.0,
+      "text": "the currently the the person on first"
+    },
+    {
+      "start": 801.36,
+      "duration": 5.52,
+      "text": "place has something like half a million"
+    },
+    {
+      "start": 803.52,
+      "duration": 5.68,
+      "text": "tokens so half a million dollars worth"
+    },
+    {
+      "start": 806.88,
+      "duration": 5.28,
+      "text": "in tokens spent on one person only. So"
+    },
+    {
+      "start": 809.2,
+      "duration": 4.88,
+      "text": "it's the the whole dynamics of what is"
+    },
+    {
+      "start": 812.16,
+      "duration": 5.12,
+      "text": "actually important um when it comes to"
+    },
+    {
+      "start": 814.08,
+      "duration": 6.0,
+      "text": "token spend to AI usage um is shifting"
+    },
+    {
+      "start": 817.28,
+      "duration": 5.52,
+      "text": "from use it as much use it as much as"
+    },
+    {
+      "start": 820.08,
+      "duration": 5.76,
+      "text": "you can going back to ah don't use it"
+    },
+    {
+      "start": 822.8,
+      "duration": 5.84,
+      "text": "that much um and we settle for something"
+    },
+    {
+      "start": 825.84,
+      "duration": 5.6,
+      "text": "that we say it's our duty to identify"
+    },
+    {
+      "start": 828.64,
+      "duration": 4.64,
+      "text": "the business value or to give our teams"
+    },
+    {
+      "start": 831.44,
+      "duration": 4.0,
+      "text": "context to determine their business"
+    },
+    {
+      "start": 833.28,
+      "duration": 4.64,
+      "text": "value there is no oneizefits all a"
+    },
+    {
+      "start": 835.44,
+      "duration": 5.36,
+      "text": "business value in cloud in cloud"
+    },
+    {
+      "start": 837.92,
+      "duration": 4.72,
+      "text": "environments is way more easy um to"
+    },
+    {
+      "start": 840.8,
+      "duration": 4.96,
+      "text": "point out than it is for example in a"
+    },
+    {
+      "start": 842.64,
+      "duration": 5.28,
+      "text": "very regulated ECU or incar environment."
+    },
+    {
+      "start": 845.76,
+      "duration": 5.92,
+      "text": "So what we provide to the organization"
+    },
+    {
+      "start": 847.92,
+      "duration": 5.36,
+      "text": "is that um we have on an individual"
+    },
+    {
+      "start": 851.68,
+      "duration": 3.6,
+      "text": "level we can show developers what are"
+    },
+    {
+      "start": 853.28,
+      "duration": 4.32,
+      "text": "you currently consuming across the"
+    },
+    {
+      "start": 855.28,
+      "duration": 5.76,
+      "text": "different tools be it claude be it Devon"
+    },
+    {
+      "start": 857.6,
+      "duration": 6.0,
+      "text": "or be it uh GitHub copilot um because as"
+    },
+    {
+      "start": 861.04,
+      "duration": 5.6,
+      "text": "you as you have saw as you have seen the"
+    },
+    {
+      "start": 863.6,
+      "duration": 5.44,
+      "text": "numbers that we had up there um were"
+    },
+    {
+      "start": 866.64,
+      "duration": 4.4,
+      "text": "quite so there were more than 5,000"
+    },
+    {
+      "start": 869.04,
+      "duration": 4.72,
+      "text": "people than that is covering our"
+    },
+    {
+      "start": 871.04,
+      "duration": 4.88,
+      "text": "organization um and people are jumping"
+    },
+    {
+      "start": 873.76,
+      "duration": 4.24,
+      "text": "from tool to tool and We experienced"
+    },
+    {
+      "start": 875.92,
+      "duration": 3.84,
+      "text": "that people are simply if they have"
+    },
+    {
+      "start": 878.0,
+      "duration": 3.28,
+      "text": "certain quotota issues with one or the"
+    },
+    {
+      "start": 879.76,
+      "duration": 4.08,
+      "text": "other tool, they just jump back and"
+    },
+    {
+      "start": 881.28,
+      "duration": 4.64,
+      "text": "forth and just use the next tool. So"
+    },
+    {
+      "start": 883.84,
+      "duration": 5.52,
+      "text": "what we wanted to provide and make a"
+    },
+    {
+      "start": 885.92,
+      "duration": 4.96,
+      "text": "certain yeah reasonable insight for for"
+    },
+    {
+      "start": 889.36,
+      "duration": 5.52,
+      "text": "our developers and their respective"
+    },
+    {
+      "start": 890.88,
+      "duration": 5.68,
+      "text": "organizations, teams and and um units is"
+    },
+    {
+      "start": 894.88,
+      "duration": 3.36,
+      "text": "that they have a transparency on what"
+    },
+    {
+      "start": 896.56,
+      "duration": 3.76,
+      "text": "are they spending on an individual"
+    },
+    {
+      "start": 898.24,
+      "duration": 4.64,
+      "text": "basis. So they can actually start"
+    },
+    {
+      "start": 900.32,
+      "duration": 6.24,
+      "text": "calculating their business value that"
+    },
+    {
+      "start": 902.88,
+      "duration": 6.08,
+      "text": "they get out of that. We um coach our"
+    },
+    {
+      "start": 906.56,
+      "duration": 5.52,
+      "text": "teams when it comes to token"
+    },
+    {
+      "start": 908.96,
+      "duration": 4.96,
+      "text": "optimization. So the harness um that I"
+    },
+    {
+      "start": 912.08,
+      "duration": 5.12,
+      "text": "showed you guys earlier, we have certain"
+    },
+    {
+      "start": 913.92,
+      "duration": 7.12,
+      "text": "skills in place. Many of you maybe know"
+    },
+    {
+      "start": 917.2,
+      "duration": 6.64,
+      "text": "um caveman as a skill or ponytail or"
+    },
+    {
+      "start": 921.04,
+      "duration": 5.52,
+      "text": "whatever which reduces the bloatiness of"
+    },
+    {
+      "start": 923.84,
+      "duration": 6.8,
+      "text": "the of the LLM but also the generated"
+    },
+    {
+      "start": 926.56,
+      "duration": 6.96,
+      "text": "code. So we provide that to our teams um"
+    },
+    {
+      "start": 930.64,
+      "duration": 5.6,
+      "text": "ecosystemwise but also coaching wise"
+    },
+    {
+      "start": 933.52,
+      "duration": 4.32,
+      "text": "giving them uh the best fit uh and the"
+    },
+    {
+      "start": 936.24,
+      "duration": 4.96,
+      "text": "best coaching for the tools they have in"
+    },
+    {
+      "start": 937.84,
+      "duration": 6.56,
+      "text": "place. And last but not least it's our"
+    },
+    {
+      "start": 941.2,
+      "duration": 5.36,
+      "text": "duty to also see and also um challenge"
+    },
+    {
+      "start": 944.4,
+      "duration": 5.36,
+      "text": "ourselves constantly what's the best"
+    },
+    {
+      "start": 946.56,
+      "duration": 5.12,
+      "text": "average token cost for us. So um I don't"
+    },
+    {
+      "start": 949.76,
+      "duration": 4.56,
+      "text": "know a lot of people just went with"
+    },
+    {
+      "start": 951.68,
+      "duration": 6.24,
+      "text": "let's go with the default Opus 4.8 for"
+    },
+    {
+      "start": 954.32,
+      "duration": 5.92,
+      "text": "quite some time. Um but if you throw one"
+    },
+    {
+      "start": 957.92,
+      "duration": 5.12,
+      "text": "of the other force models which are very"
+    },
+    {
+      "start": 960.24,
+      "duration": 5.28,
+      "text": "capable as of now uh into the mix the"
+    },
+    {
+      "start": 963.04,
+      "duration": 5.76,
+      "text": "average token cost drastically decreases"
+    },
+    {
+      "start": 965.52,
+      "duration": 6.08,
+      "text": "which also helps certain business units"
+    },
+    {
+      "start": 968.8,
+      "duration": 5.2,
+      "text": "um to have a decent mix when it comes to"
+    },
+    {
+      "start": 971.6,
+      "duration": 4.08,
+      "text": "um what is actually my my token spend"
+    },
+    {
+      "start": 974.0,
+      "duration": 3.6,
+      "text": "and what is my business value I get out"
+    },
+    {
+      "start": 975.68,
+      "duration": 4.56,
+      "text": "of it."
+    },
+    {
+      "start": 977.6,
+      "duration": 5.36,
+      "text": "Having said that, all of these five bets"
+    },
+    {
+      "start": 980.24,
+      "duration": 6.32,
+      "text": "as you or as I pointed out from time to"
+    },
+    {
+      "start": 982.96,
+      "duration": 6.24,
+      "text": "time um do not work if we do not enable"
+    },
+    {
+      "start": 986.56,
+      "duration": 4.72,
+      "text": "the people properly. Uh and this is"
+    },
+    {
+      "start": 989.2,
+      "duration": 3.68,
+      "text": "where we're looking into our core"
+    },
+    {
+      "start": 991.28,
+      "duration": 4.8,
+      "text": "principle"
+    },
+    {
+      "start": 992.88,
+      "duration": 5.68,
+      "text": "which I would hand back over to you. So"
+    },
+    {
+      "start": 996.08,
+      "duration": 5.84,
+      "text": "the core belief I think it's obvious um"
+    },
+    {
+      "start": 998.56,
+      "duration": 5.92,
+      "text": "it's not uh it's only working uh with"
+    },
+    {
+      "start": 1001.92,
+      "duration": 4.88,
+      "text": "capable people in our organization and"
+    },
+    {
+      "start": 1004.48,
+      "duration": 4.16,
+      "text": "therefore we said we need to analyze"
+    },
+    {
+      "start": 1006.8,
+      "duration": 4.88,
+      "text": "what's the need of our organization"
+    },
+    {
+      "start": 1008.64,
+      "duration": 6.0,
+      "text": "what's the need of our people um we need"
+    },
+    {
+      "start": 1011.68,
+      "duration": 5.12,
+      "text": "to coach them on different levels and we"
+    },
+    {
+      "start": 1014.64,
+      "duration": 4.24,
+      "text": "need to scale the expertise uh with"
+    },
+    {
+      "start": 1016.8,
+      "duration": 5.28,
+      "text": "different formats and when you look at"
+    },
+    {
+      "start": 1018.88,
+      "duration": 6.32,
+      "text": "the analyze phase um it's pretty simple"
+    },
+    {
+      "start": 1022.08,
+      "duration": 6.24,
+      "text": "we had big employee service surveys"
+    },
+    {
+      "start": 1025.2,
+      "duration": 5.28,
+      "text": "pulse surveys and so on. Um, but we"
+    },
+    {
+      "start": 1028.32,
+      "duration": 4.0,
+      "text": "never had a developer survey. Last year"
+    },
+    {
+      "start": 1030.48,
+      "duration": 4.8,
+      "text": "we started the first developer survey in"
+    },
+    {
+      "start": 1032.32,
+      "duration": 5.6,
+      "text": "Mercedes-Benz and over 3,000 engineers"
+    },
+    {
+      "start": 1035.28,
+      "duration": 5.04,
+      "text": "gave us quite some good feedback,"
+    },
+    {
+      "start": 1037.92,
+      "duration": 4.72,
+      "text": "drastic feedback, clear feedback where"
+    },
+    {
+      "start": 1040.32,
+      "duration": 4.16,
+      "text": "we had to act on. One of the feedback"
+    },
+    {
+      "start": 1042.64,
+      "duration": 4.88,
+      "text": "was the little game which we played"
+    },
+    {
+      "start": 1044.48,
+      "duration": 5.76,
+      "text": "earlier about observability. Another"
+    },
+    {
+      "start": 1047.52,
+      "duration": 6.4,
+      "text": "feedback was by the engineering team. It"
+    },
+    {
+      "start": 1050.24,
+      "duration": 6.16,
+      "text": "takes us on average more than 20 days as"
+    },
+    {
+      "start": 1053.92,
+      "duration": 4.56,
+      "text": "a cloud native team to set the whole"
+    },
+    {
+      "start": 1056.4,
+      "duration": 4.72,
+      "text": "environment up to get uh the whole"
+    },
+    {
+      "start": 1058.48,
+      "duration": 5.68,
+      "text": "coding work start. So it takes them 20"
+    },
+    {
+      "start": 1061.12,
+      "duration": 5.28,
+      "text": "days before they can do actual work and"
+    },
+    {
+      "start": 1064.16,
+      "duration": 4.48,
+      "text": "this is something um which we take up"
+    },
+    {
+      "start": 1066.4,
+      "duration": 8.8,
+      "text": "quite serious as our organization is"
+    },
+    {
+      "start": 1068.64,
+      "duration": 8.96,
+      "text": "also forming um since um since 12 12 um"
+    },
+    {
+      "start": 1075.2,
+      "duration": 5.52,
+      "text": "18 months quite new. So we are heavily"
+    },
+    {
+      "start": 1077.6,
+      "duration": 5.12,
+      "text": "using now that feedback in driving and"
+    },
+    {
+      "start": 1080.72,
+      "duration": 4.4,
+      "text": "optimizing that. So we need to come down"
+    },
+    {
+      "start": 1082.72,
+      "duration": 4.64,
+      "text": "from days to hours. That's a clear"
+    },
+    {
+      "start": 1085.12,
+      "duration": 5.12,
+      "text": "ambition and we already have a huge"
+    },
+    {
+      "start": 1087.36,
+      "duration": 5.04,
+      "text": "progress there. On the coaching side,"
+    },
+    {
+      "start": 1090.24,
+      "duration": 4.4,
+      "text": "it's not just coaching our developers on"
+    },
+    {
+      "start": 1092.4,
+      "duration": 4.56,
+      "text": "an individual level, on a team level or"
+    },
+    {
+      "start": 1094.64,
+      "duration": 6.56,
+      "text": "on an organizational level. As I said"
+    },
+    {
+      "start": 1096.96,
+      "duration": 6.24,
+      "text": "earlier, um we have also um a training"
+    },
+    {
+      "start": 1101.2,
+      "duration": 4.08,
+      "text": "and a coaching need towards the"
+    },
+    {
+      "start": 1103.2,
+      "duration": 4.56,
+      "text": "management uh at a broader scale within"
+    },
+    {
+      "start": 1105.28,
+      "duration": 4.96,
+      "text": "Mercedes. You could imagine 5,000"
+    },
+    {
+      "start": 1107.76,
+      "duration": 5.68,
+      "text": "developers hitting"
+    },
+    {
+      "start": 1110.24,
+      "duration": 6.64,
+      "text": "170,000 people at different stages"
+    },
+    {
+      "start": 1113.44,
+      "duration": 6.0,
+      "text": "knowing less or limited about AI. So"
+    },
+    {
+      "start": 1116.88,
+      "duration": 4.4,
+      "text": "it's also a training exercise for the"
+    },
+    {
+      "start": 1119.44,
+      "duration": 4.32,
+      "text": "whole company. So it's not just the"
+    },
+    {
+      "start": 1121.28,
+      "duration": 4.88,
+      "text": "coding part as Yens described, it's also"
+    },
+    {
+      "start": 1123.76,
+      "duration": 4.64,
+      "text": "about the product owners, the the"
+    },
+    {
+      "start": 1126.16,
+      "duration": 4.56,
+      "text": "business process owners, the whole roles"
+    },
+    {
+      "start": 1128.4,
+      "duration": 4.08,
+      "text": "when it comes to a product life cycle."
+    },
+    {
+      "start": 1130.72,
+      "duration": 5.84,
+      "text": "And last but not least, when it's about"
+    },
+    {
+      "start": 1132.48,
+      "duration": 7.12,
+      "text": "scaling, um we have communities set up"
+    },
+    {
+      "start": 1136.56,
+      "duration": 4.96,
+      "text": "for the different areas we applying uh"
+    },
+    {
+      "start": 1139.6,
+      "duration": 5.76,
+      "text": "with gamification."
+    },
+    {
+      "start": 1141.52,
+      "duration": 6.48,
+      "text": "um a nice belt system so you could uh"
+    },
+    {
+      "start": 1145.36,
+      "duration": 4.96,
+      "text": "build up your belts to get uh even"
+    },
+    {
+      "start": 1148.0,
+      "duration": 5.36,
+      "text": "higher in the ranking when it comes to"
+    },
+    {
+      "start": 1150.32,
+      "duration": 6.32,
+      "text": "AI and that's a huge progress. Um we"
+    },
+    {
+      "start": 1153.36,
+      "duration": 5.84,
+      "text": "have already over 6,000 belts in MB uh"
+    },
+    {
+      "start": 1156.64,
+      "duration": 6.16,
+      "text": "being distributed. It's being rolled out"
+    },
+    {
+      "start": 1159.2,
+      "duration": 6.4,
+      "text": "uh even more uh over the time. So that"
+    },
+    {
+      "start": 1162.8,
+      "duration": 6.56,
+      "text": "all summing up the five engineering bets"
+    },
+    {
+      "start": 1165.6,
+      "duration": 6.24,
+      "text": "our core belief. Um let me uh finish uh"
+    },
+    {
+      "start": 1169.36,
+      "duration": 4.8,
+      "text": "our talk maybe with that uh with with a"
+    },
+    {
+      "start": 1171.84,
+      "duration": 5.36,
+      "text": "statement. Whatever we do in"
+    },
+    {
+      "start": 1174.16,
+      "duration": 4.88,
+      "text": "Mercedes-Benz building software there's"
+    },
+    {
+      "start": 1177.2,
+      "duration": 3.76,
+      "text": "a high probability that the software"
+    },
+    {
+      "start": 1179.04,
+      "duration": 4.48,
+      "text": "will run for decades either on a"
+    },
+    {
+      "start": 1180.96,
+      "duration": 5.2,
+      "text": "production plant in a car at a"
+    },
+    {
+      "start": 1183.52,
+      "duration": 5.28,
+      "text": "dealership in a sales organization"
+    },
+    {
+      "start": 1186.16,
+      "duration": 5.92,
+      "text": "wherever worldwide. So the software we"
+    },
+    {
+      "start": 1188.8,
+      "duration": 6.72,
+      "text": "built might stay for quite some time. We"
+    },
+    {
+      "start": 1192.08,
+      "duration": 6.56,
+      "text": "are clear that AI won't solve the won't"
+    },
+    {
+      "start": 1195.52,
+      "duration": 5.84,
+      "text": "solve the software problems we have. It"
+    },
+    {
+      "start": 1198.64,
+      "duration": 5.84,
+      "text": "will exposes them. The weak architecture"
+    },
+    {
+      "start": 1201.36,
+      "duration": 5.84,
+      "text": "we've seen over decades will even be"
+    },
+    {
+      "start": 1204.48,
+      "duration": 5.28,
+      "text": "more accelerated. The unclear ownership"
+    },
+    {
+      "start": 1207.2,
+      "duration": 4.8,
+      "text": "which we have in our company is now"
+    },
+    {
+      "start": 1209.76,
+      "duration": 4.96,
+      "text": "something which we heavily address"
+    },
+    {
+      "start": 1212.0,
+      "duration": 5.52,
+      "text": "because unclearership is super cost"
+    },
+    {
+      "start": 1214.72,
+      "duration": 5.6,
+      "text": "intense. And that means when you look at"
+    },
+    {
+      "start": 1217.52,
+      "duration": 5.92,
+      "text": "it, the key question is not how you"
+    },
+    {
+      "start": 1220.32,
+      "duration": 6.0,
+      "text": "personally adopt uh AI. It's more about"
+    },
+    {
+      "start": 1223.44,
+      "duration": 5.44,
+      "text": "how your engineering foundation embeds"
+    },
+    {
+      "start": 1226.32,
+      "duration": 4.72,
+      "text": "AI fully so to that you are able to"
+    },
+    {
+      "start": 1228.88,
+      "duration": 7.17,
+      "text": "apply to the whole company. Thanks a lot"
+    },
+    {
+      "start": 1231.04,
+      "duration": 5.01,
+      "text": "for listening. Thanks. [applause]"
+    },
+    {
+      "start": 1239.93,
+      "duration": 2.02,
+      "text": "[applause]"
+    },
+    {
+      "start": 1242.32,
+      "duration": 5.68,
+      "text": "Thank you so much guys. Enjoy. We are"
+    },
+    {
+      "start": 1245.52,
+      "duration": 4.0,
+      "text": "developers and if you see us wandering"
+    },
+    {
+      "start": 1248.0,
+      "duration": 3.04,
+      "text": "around, have any questions, feel free to"
+    },
+    {
+      "start": 1249.52,
+      "duration": 5.53,
+      "text": "hit us up."
+    },
+    {
+      "start": 1251.04,
+      "duration": 4.01,
+      "text": ">> Have a nice day. Bye-bye. [applause]"
+    }
+  ]
+}

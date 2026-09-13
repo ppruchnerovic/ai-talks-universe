@@ -1,0 +1,4588 @@
+{
+  "video_id": "zrxgMTk6QCw",
+  "title": "7 Ways to Fail at Building a Platform",
+  "conference": "wearedevelopers",
+  "language": "en",
+  "auto_generated": true,
+  "source": "yt",
+  "timing": "exact",
+  "word_count": 5982,
+  "imported_from": "presentations/kb (WeAreDevelopers agenda API)",
+  "segments": [
+    {
+      "start": 4.52,
+      "duration": 4.56,
+      "text": "Good morning everybody and welcome to"
+    },
+    {
+      "start": 6.88,
+      "duration": 4.04,
+      "text": "the best one of the best events for"
+    },
+    {
+      "start": 9.08,
+      "duration": 3.08,
+      "text": "developers today. Welcome to VR"
+    },
+    {
+      "start": 10.92,
+      "duration": 2.8,
+      "text": "Developers"
+    },
+    {
+      "start": 12.16,
+      "duration": 3.28,
+      "text": "2026."
+    },
+    {
+      "start": 13.72,
+      "duration": 3.88,
+      "text": "I am Sandhya Menon and I'll be your"
+    },
+    {
+      "start": 15.44,
+      "duration": 5.08,
+      "text": "stage moderator for today."
+    },
+    {
+      "start": 17.6,
+      "duration": 4.92,
+      "text": "I am myself a data engineer and I think"
+    },
+    {
+      "start": 20.52,
+      "duration": 3.48,
+      "text": "we found the best stage for today at the"
+    },
+    {
+      "start": 22.52,
+      "duration": 3.68,
+      "text": "conference."
+    },
+    {
+      "start": 24.0,
+      "duration": 6.48,
+      "text": "Uh we have an exciting lineup of topics,"
+    },
+    {
+      "start": 26.2,
+      "duration": 7.36,
+      "text": "DevOps, AI, um platform security, etc."
+    },
+    {
+      "start": 30.48,
+      "duration": 6.76,
+      "text": "coming up. But before we start, we'll"
+    },
+    {
+      "start": 33.56,
+      "duration": 3.68,
+      "text": "have a look at the code of conduct."
+    },
+    {
+      "start": 79.28,
+      "duration": 4.28,
+      "text": "Perfect. I'd also once again thank all"
+    },
+    {
+      "start": 81.32,
+      "duration": 4.6,
+      "text": "the sponsors, media partners, and all"
+    },
+    {
+      "start": 83.56,
+      "duration": 4.4,
+      "text": "our partners who have made this event"
+    },
+    {
+      "start": 85.92,
+      "duration": 4.4,
+      "text": "happen for all of us today."
+    },
+    {
+      "start": 87.96,
+      "duration": 5.16,
+      "text": "So, our first lineup for today Seven"
+    },
+    {
+      "start": 90.32,
+      "duration": 4.36,
+      "text": "ways to fail at building a platform. All"
+    },
+    {
+      "start": 93.12,
+      "duration": 4.08,
+      "text": "good lessons are always learned from"
+    },
+    {
+      "start": 94.68,
+      "duration": 4.23,
+      "text": "failures, right? Please welcome Michael"
+    },
+    {
+      "start": 97.2,
+      "duration": 3.73,
+      "text": "Cote."
+    },
+    {
+      "start": 98.91,
+      "duration": 2.02,
+      "text": ">> [applause]"
+    },
+    {
+      "start": 110.6,
+      "duration": 3.88,
+      "text": ">> Hello. How about that jingle? Uh well,"
+    },
+    {
+      "start": 112.76,
+      "duration": 3.36,
+      "text": "thanks for coming to my talk."
+    },
+    {
+      "start": 114.48,
+      "duration": 3.72,
+      "text": "Uh I I afraid everyone's going to be"
+    },
+    {
+      "start": 116.12,
+      "duration": 2.88,
+      "text": "gripped by code automation at uh you"
+    },
+    {
+      "start": 118.2,
+      "duration": 2.32,
+      "text": "know"
+    },
+    {
+      "start": 119.0,
+      "duration": 2.32,
+      "text": "in the keynote or whatever. But here we"
+    },
+    {
+      "start": 120.52,
+      "duration": 2.76,
+      "text": "are"
+    },
+    {
+      "start": 121.32,
+      "duration": 3.48,
+      "text": "in in the the lovely place here. Well,"
+    },
+    {
+      "start": 123.28,
+      "duration": 2.92,
+      "text": "as mentioned,"
+    },
+    {
+      "start": 124.8,
+      "duration": 3.04,
+      "text": "I always think I'm a little too negative"
+    },
+    {
+      "start": 126.2,
+      "duration": 3.84,
+      "text": "in things as I get older. I should be"
+    },
+    {
+      "start": 127.84,
+      "duration": 3.8,
+      "text": "happier and more optimistic."
+    },
+    {
+      "start": 130.04,
+      "duration": 3.16,
+      "text": "But here we are nonetheless. Here's an"
+    },
+    {
+      "start": 131.64,
+      "duration": 3.72,
+      "text": "overview of if you're if you're thinking"
+    },
+    {
+      "start": 133.2,
+      "duration": 3.56,
+      "text": "about a a platform"
+    },
+    {
+      "start": 135.36,
+      "duration": 2.28,
+      "text": "and I'll get a little bit into what that"
+    },
+    {
+      "start": 136.76,
+      "duration": 2.72,
+      "text": "is."
+    },
+    {
+      "start": 137.64,
+      "duration": 4.16,
+      "text": "Things that I've seen people"
+    },
+    {
+      "start": 139.48,
+      "duration": 4.12,
+      "text": "do that kind of messes them up when they"
+    },
+    {
+      "start": 141.8,
+      "duration": 3.68,
+      "text": "build it. And just to give you a little"
+    },
+    {
+      "start": 143.6,
+      "duration": 3.92,
+      "text": "preview, I think it's much better to get"
+    },
+    {
+      "start": 145.48,
+      "duration": 3.48,
+      "text": "an already built platform and put that"
+    },
+    {
+      "start": 147.52,
+      "duration": 3.24,
+      "text": "in place instead of building it on your"
+    },
+    {
+      "start": 148.96,
+      "duration": 3.12,
+      "text": "own. So why do platforms matter"
+    },
+    {
+      "start": 150.76,
+      "duration": 4.44,
+      "text": "nowadays?"
+    },
+    {
+      "start": 152.08,
+      "duration": 5.72,
+      "text": "Well, it really starts with the rise of"
+    },
+    {
+      "start": 155.2,
+      "duration": 4.92,
+      "text": "containers. This is from the CNCF survey"
+    },
+    {
+      "start": 157.8,
+      "duration": 3.92,
+      "text": "about uh people using containers in"
+    },
+    {
+      "start": 160.12,
+      "duration": 2.8,
+      "text": "production. Now of course, when they"
+    },
+    {
+      "start": 161.72,
+      "duration": 2.28,
+      "text": "talk about containers, they mean"
+    },
+    {
+      "start": 162.92,
+      "duration": 2.52,
+      "text": "Kubernetes. I don't think they're"
+    },
+    {
+      "start": 164.0,
+      "duration": 2.76,
+      "text": "talking about the data center of the"
+    },
+    {
+      "start": 165.44,
+      "duration": 2.8,
+      "text": "future"
+    },
+    {
+      "start": 166.76,
+      "duration": 3.64,
+      "text": "uh or you know, any other sort of"
+    },
+    {
+      "start": 168.24,
+      "duration": 3.76,
+      "text": "container thing. It's just the one. But"
+    },
+    {
+      "start": 170.4,
+      "duration": 3.88,
+      "text": "this has steadily been going up. You can"
+    },
+    {
+      "start": 172.0,
+      "duration": 4.48,
+      "text": "see the dark blue line is uh containers"
+    },
+    {
+      "start": 174.28,
+      "duration": 3.4,
+      "text": "used in production. So you get more and"
+    },
+    {
+      "start": 176.48,
+      "duration": 2.76,
+      "text": "more of containers running the"
+    },
+    {
+      "start": 177.68,
+      "duration": 3.64,
+      "text": "applications"
+    },
+    {
+      "start": 179.24,
+      "duration": 4.48,
+      "text": "uh that developers are writing other"
+    },
+    {
+      "start": 181.32,
+      "duration": 4.2,
+      "text": "things like that and you need some way"
+    },
+    {
+      "start": 183.72,
+      "duration": 3.4,
+      "text": "of managing them, something to do with"
+    },
+    {
+      "start": 185.52,
+      "duration": 4.64,
+      "text": "them. And when it comes to applications"
+    },
+    {
+      "start": 187.12,
+      "duration": 4.48,
+      "text": "that organizations write themselves"
+    },
+    {
+      "start": 190.16,
+      "duration": 2.92,
+      "text": "that's what I primarily think of as a"
+    },
+    {
+      "start": 191.6,
+      "duration": 4.16,
+      "text": "platform, the thing that runs those"
+    },
+    {
+      "start": 193.08,
+      "duration": 4.36,
+      "text": "applications. The issue with Kubernetes"
+    },
+    {
+      "start": 195.76,
+      "duration": 3.8,
+      "text": "and containers, I don't know if you've"
+    },
+    {
+      "start": 197.44,
+      "duration": 4.08,
+      "text": "ever done this, but you get this. Your"
+    },
+    {
+      "start": 199.56,
+      "duration": 3.92,
+      "text": "operations team they build up this"
+    },
+    {
+      "start": 201.52,
+      "duration": 4.4,
+      "text": "infrastructure or maybe you do. Uh"
+    },
+    {
+      "start": 203.48,
+      "duration": 4.88,
+      "text": "they've got all this great uh security"
+    },
+    {
+      "start": 205.92,
+      "duration": 4.52,
+      "text": "and operational stuff and then they say,"
+    },
+    {
+      "start": 208.36,
+      "duration": 3.88,
+      "text": "\"Here you go. Have fun with that.\" And"
+    },
+    {
+      "start": 210.44,
+      "duration": 3.6,
+      "text": "they pass you off a blinking cursor and"
+    },
+    {
+      "start": 212.24,
+      "duration": 4.24,
+      "text": "then you're responsible for everything"
+    },
+    {
+      "start": 214.04,
+      "duration": 4.68,
+      "text": "on top of this raw infrastructure, this"
+    },
+    {
+      "start": 216.48,
+      "duration": 4.0,
+      "text": "container as a service if you will. So"
+    },
+    {
+      "start": 218.72,
+      "duration": 2.84,
+      "text": "what emerges from that"
+    },
+    {
+      "start": 220.48,
+      "duration": 2.64,
+      "text": "you can look at there's a great"
+    },
+    {
+      "start": 221.56,
+      "duration": 3.6,
+      "text": "reference architecture again from the"
+    },
+    {
+      "start": 223.12,
+      "duration": 3.48,
+      "text": "Cloud Native Computing Foundation is"
+    },
+    {
+      "start": 225.16,
+      "duration": 3.8,
+      "text": "this notion of we have this blinking"
+    },
+    {
+      "start": 226.6,
+      "duration": 5.36,
+      "text": "cursor. Let's build a platform on top of"
+    },
+    {
+      "start": 228.96,
+      "duration": 5.2,
+      "text": "it. All of the not only the services"
+    },
+    {
+      "start": 231.96,
+      "duration": 4.92,
+      "text": "like messaging and of course AI things"
+    },
+    {
+      "start": 234.16,
+      "duration": 5.16,
+      "text": "nowadays, and databases, but as you look"
+    },
+    {
+      "start": 236.88,
+      "duration": 4.8,
+      "text": "through this you can see the the the"
+    },
+    {
+      "start": 239.32,
+      "duration": 4.56,
+      "text": "whether it's the the CLI that you use,"
+    },
+    {
+      "start": 241.68,
+      "duration": 4.12,
+      "text": "the the the GUI, or whatever a web"
+    },
+    {
+      "start": 243.88,
+      "duration": 3.88,
+      "text": "interface is a wooey,"
+    },
+    {
+      "start": 245.8,
+      "duration": 4.24,
+      "text": "that you have on top of it. You can see"
+    },
+    {
+      "start": 247.76,
+      "duration": 4.44,
+      "text": "if you remember you remember backstage,"
+    },
+    {
+      "start": 250.04,
+      "duration": 4.52,
+      "text": "that also kind of gets pulled into the"
+    },
+    {
+      "start": 252.2,
+      "duration": 4.88,
+      "text": "the the platform here. The way that you"
+    },
+    {
+      "start": 254.56,
+      "duration": 5.16,
+      "text": "package up, you configure things, you"
+    },
+    {
+      "start": 257.08,
+      "duration": 3.96,
+      "text": "bind the services, all of the stuff"
+    },
+    {
+      "start": 259.72,
+      "duration": 4.0,
+      "text": "aside from actually writing the"
+    },
+    {
+      "start": 261.04,
+      "duration": 4.52,
+      "text": "application, getting it to run. And"
+    },
+    {
+      "start": 263.72,
+      "duration": 3.28,
+      "text": "that's gone over here in in the"
+    },
+    {
+      "start": 265.56,
+      "duration": 3.44,
+      "text": "reference architecture. Now, what's"
+    },
+    {
+      "start": 267.0,
+      "duration": 3.24,
+      "text": "notable, right, is that except for a"
+    },
+    {
+      "start": 269.0,
+      "duration": 3.28,
+      "text": "little bit of integrations, the"
+    },
+    {
+      "start": 270.24,
+      "duration": 3.76,
+      "text": "infrastructure, that thing underneath"
+    },
+    {
+      "start": 272.28,
+      "duration": 4.08,
+      "text": "the blinking cursor, isn't really part"
+    },
+    {
+      "start": 274.0,
+      "duration": 3.52,
+      "text": "of of the platform. And then of course,"
+    },
+    {
+      "start": 276.36,
+      "duration": 2.6,
+      "text": "I would be remiss if I didn't say"
+    },
+    {
+      "start": 277.52,
+      "duration": 2.92,
+      "text": "there's the world's best platform for"
+    },
+    {
+      "start": 278.96,
+      "duration": 2.56,
+      "text": "doing things, but you can check that out"
+    },
+    {
+      "start": 280.44,
+      "duration": 2.68,
+      "text": "later."
+    },
+    {
+      "start": 281.52,
+      "duration": 3.4,
+      "text": "Now,"
+    },
+    {
+      "start": 283.12,
+      "duration": 3.64,
+      "text": "this has been adopted by by many people."
+    },
+    {
+      "start": 284.92,
+      "duration": 3.32,
+      "text": "This is always a fun figure if if you"
+    },
+    {
+      "start": 286.76,
+      "duration": 3.72,
+      "text": "like if you like Gartner things. There's"
+    },
+    {
+      "start": 288.24,
+      "duration": 5.68,
+      "text": "a prediction of how many people"
+    },
+    {
+      "start": 290.48,
+      "duration": 5.4,
+      "text": "will be be using platforms, the the the"
+    },
+    {
+      "start": 293.92,
+      "duration": 4.24,
+      "text": "that stack that I was showing you there."
+    },
+    {
+      "start": 295.88,
+      "duration": 4.56,
+      "text": "And then also, if you prefer the"
+    },
+    {
+      "start": 298.16,
+      "duration": 3.92,
+      "text": "Google's DORA stuff, there in their"
+    },
+    {
+      "start": 300.44,
+      "duration": 3.2,
+      "text": "surveys of people you can see there's"
+    },
+    {
+      "start": 302.08,
+      "duration": 3.0,
+      "text": "lots of use of platform out there,"
+    },
+    {
+      "start": 303.64,
+      "duration": 3.24,
+      "text": "right? So, we had to do something with"
+    },
+    {
+      "start": 305.08,
+      "duration": 3.48,
+      "text": "this blinking cursor. Also, lots of"
+    },
+    {
+      "start": 306.88,
+      "duration": 3.12,
+      "text": "people are doing it. And then I think"
+    },
+    {
+      "start": 308.56,
+      "duration": 3.04,
+      "text": "there's another thing that's drawing the"
+    },
+    {
+      "start": 310.0,
+      "duration": 3.44,
+      "text": "importance of platforms, right? So,"
+    },
+    {
+      "start": 311.6,
+      "duration": 4.44,
+      "text": "think about what you use platforms for,"
+    },
+    {
+      "start": 313.44,
+      "duration": 4.04,
+      "text": "right? There's your your programming,"
+    },
+    {
+      "start": 316.04,
+      "duration": 2.8,
+      "text": "easy enough, you write your application,"
+    },
+    {
+      "start": 317.48,
+      "duration": 4.36,
+      "text": "you want to run it, the kind of classic"
+    },
+    {
+      "start": 318.84,
+      "duration": 5.24,
+      "text": "use. And then nowadays you start adding"
+    },
+    {
+      "start": 321.84,
+      "duration": 4.8,
+      "text": "in our our wonderful hopes and dreams"
+    },
+    {
+      "start": 324.08,
+      "duration": 4.56,
+      "text": "for the future, putting AI things into"
+    },
+    {
+      "start": 326.64,
+      "duration": 3.72,
+      "text": "your applications, right? Whatever"
+    },
+    {
+      "start": 328.64,
+      "duration": 3.52,
+      "text": "whatever you can imagine to do with that"
+    },
+    {
+      "start": 330.36,
+      "duration": 3.32,
+      "text": "other than like be a frustrating thing"
+    },
+    {
+      "start": 332.16,
+      "duration": 4.0,
+      "text": "for me to talk about when I want to like"
+    },
+    {
+      "start": 333.68,
+      "duration": 3.64,
+      "text": "update the address on my bank account."
+    },
+    {
+      "start": 336.16,
+      "duration": 2.36,
+      "text": "If you get involved in that ethically,"
+    },
+    {
+      "start": 337.32,
+      "duration": 3.24,
+      "text": "you should just not be involved in"
+    },
+    {
+      "start": 338.52,
+      "duration": 4.36,
+      "text": "customer service and AI. That I would"
+    },
+    {
+      "start": 340.56,
+      "duration": 4.08,
+      "text": "appreciate it. But I think what we see"
+    },
+    {
+      "start": 342.88,
+      "duration": 3.48,
+      "text": "what I'm seeing more and more of and"
+    },
+    {
+      "start": 344.64,
+      "duration": 3.92,
+      "text": "what I think is interesting is when the"
+    },
+    {
+      "start": 346.36,
+      "duration": 5.52,
+      "text": "normies start to come and use AI, right?"
+    },
+    {
+      "start": 348.56,
+      "duration": 4.76,
+      "text": "So, when people who are not uh"
+    },
+    {
+      "start": 351.88,
+      "duration": 2.88,
+      "text": "they're technical in what they do, but"
+    },
+    {
+      "start": 353.32,
+      "duration": 4.04,
+      "text": "they're not programmers, they're not"
+    },
+    {
+      "start": 354.76,
+      "duration": 4.76,
+      "text": "operations people, and instead they're"
+    },
+    {
+      "start": 357.36,
+      "duration": 4.48,
+      "text": "the whole rest of the organization, and"
+    },
+    {
+      "start": 359.52,
+      "duration": 4.16,
+      "text": "they are starting to use AI more and"
+    },
+    {
+      "start": 361.84,
+      "duration": 3.88,
+      "text": "more. And if you think about that as a"
+    },
+    {
+      "start": 363.68,
+      "duration": 3.68,
+      "text": "workload, whatever they're doing, like"
+    },
+    {
+      "start": 365.72,
+      "duration": 3.56,
+      "text": "like imagine going to the various"
+    },
+    {
+      "start": 367.36,
+      "duration": 4.2,
+      "text": "departments, the other people as we in"
+    },
+    {
+      "start": 369.28,
+      "duration": 4.12,
+      "text": "IT like to call them, uh and imagine"
+    },
+    {
+      "start": 371.56,
+      "duration": 3.52,
+      "text": "that they now have their own programmer,"
+    },
+    {
+      "start": 373.4,
+      "duration": 3.08,
+      "text": "just like you do, their little robot"
+    },
+    {
+      "start": 375.08,
+      "duration": 3.44,
+      "text": "friend, and they're writing little"
+    },
+    {
+      "start": 376.48,
+      "duration": 4.0,
+      "text": "applications, and they need to run it"
+    },
+    {
+      "start": 378.52,
+      "duration": 3.48,
+      "text": "somewhere. And they need to be managed"
+    },
+    {
+      "start": 380.48,
+      "duration": 3.6,
+      "text": "and governed and all that thrilling"
+    },
+    {
+      "start": 382.0,
+      "duration": 4.28,
+      "text": "stuff that we love doing. So, this is an"
+    },
+    {
+      "start": 384.08,
+      "duration": 3.92,
+      "text": "entirely new workload that is just now"
+    },
+    {
+      "start": 386.28,
+      "duration": 3.48,
+      "text": "creeping into to view here, right? And"
+    },
+    {
+      "start": 388.0,
+      "duration": 3.36,
+      "text": "this is from earlier this week, here's"
+    },
+    {
+      "start": 389.76,
+      "duration": 4.04,
+      "text": "like an Anthropic report about what"
+    },
+    {
+      "start": 391.36,
+      "duration": 3.64,
+      "text": "people, these normies as I don't know"
+    },
+    {
+      "start": 393.8,
+      "duration": 3.08,
+      "text": "what else to call them, knowledge"
+    },
+    {
+      "start": 395.0,
+      "duration": 4.56,
+      "text": "workers, people,"
+    },
+    {
+      "start": 396.88,
+      "duration": 4.88,
+      "text": "uh are are using uh the of course the"
+    },
+    {
+      "start": 399.56,
+      "duration": 4.24,
+      "text": "Anthropic AI stuff for. And you can see"
+    },
+    {
+      "start": 401.76,
+      "duration": 3.56,
+      "text": "software development and uh you know,"
+    },
+    {
+      "start": 403.8,
+      "duration": 3.92,
+      "text": "writing all that content that that we"
+    },
+    {
+      "start": 405.32,
+      "duration": 4.48,
+      "text": "still do is is high up there, but just"
+    },
+    {
+      "start": 407.72,
+      "duration": 3.48,
+      "text": "like running the organization, business"
+    },
+    {
+      "start": 409.8,
+      "duration": 3.76,
+      "text": "process and operations, almost as"
+    },
+    {
+      "start": 411.2,
+      "duration": 3.92,
+      "text": "thrilling a word as workload. Um but you"
+    },
+    {
+      "start": 413.56,
+      "duration": 3.84,
+      "text": "can see this rise in what's happening"
+    },
+    {
+      "start": 415.12,
+      "duration": 5.04,
+      "text": "there, and doing something with that"
+    },
+    {
+      "start": 417.4,
+      "duration": 4.48,
+      "text": "starts to be important, especially uh if"
+    },
+    {
+      "start": 420.16,
+      "duration": 2.8,
+      "text": "if you consider this kind of anecdotal"
+    },
+    {
+      "start": 421.88,
+      "duration": 3.2,
+      "text": "thing,"
+    },
+    {
+      "start": 422.96,
+      "duration": 3.8,
+      "text": "right? You can imagine uh you know, over"
+    },
+    {
+      "start": 425.08,
+      "duration": 3.32,
+      "text": "the past year we've all figured out how"
+    },
+    {
+      "start": 426.76,
+      "duration": 3.36,
+      "text": "easy it is to waste tokens, especially"
+    },
+    {
+      "start": 428.4,
+      "duration": 3.56,
+      "text": "when you have a highly subsidized flat"
+    },
+    {
+      "start": 430.12,
+      "duration": 3.52,
+      "text": "monthly rate to do things that probably"
+    },
+    {
+      "start": 431.96,
+      "duration": 3.68,
+      "text": "by the fine print you're not supposed to"
+    },
+    {
+      "start": 433.64,
+      "duration": 4.4,
+      "text": "use for your professional stuff."
+    },
+    {
+      "start": 435.64,
+      "duration": 4.28,
+      "text": "But never mind that. Uh but if you"
+    },
+    {
+      "start": 438.04,
+      "duration": 4.36,
+      "text": "imagine giving that over to normal"
+    },
+    {
+      "start": 439.92,
+      "duration": 5.28,
+      "text": "people, really what they're going to do,"
+    },
+    {
+      "start": 442.4,
+      "duration": 5.48,
+      "text": "as Accenture found, is take a PDF and"
+    },
+    {
+      "start": 445.2,
+      "duration": 4.24,
+      "text": "convert it into slides. And just imagine"
+    },
+    {
+      "start": 447.88,
+      "duration": 3.16,
+      "text": "the token usage of that, and the"
+    },
+    {
+      "start": 449.44,
+      "duration": 3.96,
+      "text": "controls that you want over that, right?"
+    },
+    {
+      "start": 451.04,
+      "duration": 4.12,
+      "text": "So, across all the things that"
+    },
+    {
+      "start": 453.4,
+      "duration": 4.12,
+      "text": "non-technical people, the normies are"
+    },
+    {
+      "start": 455.16,
+      "duration": 4.16,
+      "text": "doing, there's essentially the same"
+    },
+    {
+      "start": 457.52,
+      "duration": 3.0,
+      "text": "thing multiplied by all of them that we"
+    },
+    {
+      "start": 459.32,
+      "duration": 3.04,
+      "text": "worry about in development, but that we"
+    },
+    {
+      "start": 460.52,
+      "duration": 4.32,
+      "text": "spend a lot of time thinking about how"
+    },
+    {
+      "start": 462.36,
+      "duration": 4.04,
+      "text": "we control it and and manage it, right?"
+    },
+    {
+      "start": 464.84,
+      "duration": 3.12,
+      "text": "So, you encounter those all those"
+    },
+    {
+      "start": 466.4,
+      "duration": 3.44,
+      "text": "workloads. And the first idea people"
+    },
+    {
+      "start": 467.96,
+      "duration": 4.44,
+      "text": "have, right, is we got to we got to"
+    },
+    {
+      "start": 469.84,
+      "duration": 4.52,
+      "text": "build a platform, right? And usually"
+    },
+    {
+      "start": 472.4,
+      "duration": 3.6,
+      "text": "what you want is you want like all of"
+    },
+    {
+      "start": 474.36,
+      "duration": 3.76,
+      "text": "these uh you know, you want it to be"
+    },
+    {
+      "start": 476.0,
+      "duration": 4.12,
+      "text": "highly configurable, very specialized."
+    },
+    {
+      "start": 478.12,
+      "duration": 4.68,
+      "text": "This is this is a notion a metaphor from"
+    },
+    {
+      "start": 480.12,
+      "duration": 4.44,
+      "text": "my friend Oren over here. Uh and I think"
+    },
+    {
+      "start": 482.8,
+      "duration": 3.2,
+      "text": "it captures the essence of what you see"
+    },
+    {
+      "start": 484.56,
+      "duration": 3.24,
+      "text": "when you end up building a platform."
+    },
+    {
+      "start": 486.0,
+      "duration": 3.8,
+      "text": "Even these tiny little people that you"
+    },
+    {
+      "start": 487.8,
+      "duration": 3.52,
+      "text": "come in here to do things for you. And"
+    },
+    {
+      "start": 489.8,
+      "duration": 3.0,
+      "text": "it's great. You can have exactly the"
+    },
+    {
+      "start": 491.32,
+      "duration": 3.08,
+      "text": "coffee that you want once you figure out"
+    },
+    {
+      "start": 492.8,
+      "duration": 4.12,
+      "text": "all the knobs. And this is kind of a"
+    },
+    {
+      "start": 494.4,
+      "duration": 4.92,
+      "text": "visual representation of YAML uh and"
+    },
+    {
+      "start": 496.92,
+      "duration": 3.52,
+      "text": "higher-level JSON uh that that you can"
+    },
+    {
+      "start": 499.32,
+      "duration": 2.88,
+      "text": "see here."
+    },
+    {
+      "start": 500.44,
+      "duration": 4.08,
+      "text": "But in a larger organization or even a"
+    },
+    {
+      "start": 502.2,
+      "duration": 4.76,
+      "text": "smaller one, it's you get exactly what"
+    },
+    {
+      "start": 504.52,
+      "duration": 5.12,
+      "text": "you want, but then you end up with this."
+    },
+    {
+      "start": 506.96,
+      "duration": 4.64,
+      "text": "Every team or a group, they have the"
+    },
+    {
+      "start": 509.64,
+      "duration": 4.52,
+      "text": "same notion of like we should build a"
+    },
+    {
+      "start": 511.6,
+      "duration": 3.96,
+      "text": "platform out, right? We got to do this."
+    },
+    {
+      "start": 514.16,
+      "duration": 3.08,
+      "text": "We're going to have it. Why would we"
+    },
+    {
+      "start": 515.56,
+      "duration": 2.92,
+      "text": "have a centralized one? Why would I want"
+    },
+    {
+      "start": 517.24,
+      "duration": 2.76,
+      "text": "to spend time actually building an"
+    },
+    {
+      "start": 518.48,
+      "duration": 3.2,
+      "text": "application when I could figure out the"
+    },
+    {
+      "start": 520.0,
+      "duration": 4.2,
+      "text": "perfect platform finally that I will"
+    },
+    {
+      "start": 521.68,
+      "duration": 4.76,
+      "text": "take to the world and show my brilliance"
+    },
+    {
+      "start": 524.2,
+      "duration": 3.96,
+      "text": "to or just charitably share it with them"
+    },
+    {
+      "start": 526.44,
+      "duration": 3.16,
+      "text": "because they need it, depending on your"
+    },
+    {
+      "start": 528.16,
+      "duration": 2.96,
+      "text": "mindset. But you end up with this"
+    },
+    {
+      "start": 529.6,
+      "duration": 2.28,
+      "text": "landscape. I don't know if if you work"
+    },
+    {
+      "start": 531.12,
+      "duration": 2.44,
+      "text": "at"
+    },
+    {
+      "start": 531.88,
+      "duration": 4.08,
+      "text": "any sort of I don't know, let's say"
+    },
+    {
+      "start": 533.56,
+      "duration": 4.56,
+      "text": "10,000 or more, especially like huge"
+    },
+    {
+      "start": 535.96,
+      "duration": 4.28,
+      "text": "global companies, this is probably what"
+    },
+    {
+      "start": 538.12,
+      "duration": 4.0,
+      "text": "you have platform-wise, right? Not only"
+    },
+    {
+      "start": 540.24,
+      "duration": 4.52,
+      "text": "do you have a lot of them,"
+    },
+    {
+      "start": 542.12,
+      "duration": 4.64,
+      "text": "but uh they all kind of like uh after"
+    },
+    {
+      "start": 544.76,
+      "duration": 3.4,
+      "text": "they lose that glow of people building"
+    },
+    {
+      "start": 546.76,
+      "duration": 3.68,
+      "text": "them, those people move on to other"
+    },
+    {
+      "start": 548.16,
+      "duration": 3.64,
+      "text": "things. And now you have this, right?"
+    },
+    {
+      "start": 550.44,
+      "duration": 2.6,
+      "text": "Like if you have one of these coffee"
+    },
+    {
+      "start": 551.8,
+      "duration": 3.64,
+      "text": "machines, if you ever tried to get it"
+    },
+    {
+      "start": 553.04,
+      "duration": 3.96,
+      "text": "repaired, you sometimes think, maybe I"
+    },
+    {
+      "start": 555.44,
+      "duration": 3.0,
+      "text": "should just buy a new one, right,"
+    },
+    {
+      "start": 557.0,
+      "duration": 3.4,
+      "text": "instead of actually fixing it and"
+    },
+    {
+      "start": 558.44,
+      "duration": 3.16,
+      "text": "maintaining it, uh which which is a"
+    },
+    {
+      "start": 560.4,
+      "duration": 3.72,
+      "text": "struggle."
+    },
+    {
+      "start": 561.6,
+      "duration": 4.52,
+      "text": "Now, instead of having that landscape,"
+    },
+    {
+      "start": 564.12,
+      "duration": 3.76,
+      "text": "if you focus on a more hygienic way of"
+    },
+    {
+      "start": 566.12,
+      "duration": 4.0,
+      "text": "doing your platform strategy, if you"
+    },
+    {
+      "start": 567.88,
+      "duration": 3.32,
+      "text": "will, these are the kind of results uh"
+    },
+    {
+      "start": 570.12,
+      "duration": 2.8,
+      "text": "and these are all people, by the way,"
+    },
+    {
+      "start": 571.2,
+      "duration": 4.4,
+      "text": "who did not build their own platform,"
+    },
+    {
+      "start": 572.92,
+      "duration": 5.52,
+      "text": "right? What you instead see is much more"
+    },
+    {
+      "start": 575.6,
+      "duration": 4.84,
+      "text": "efficiency able you uh by consolidating"
+    },
+    {
+      "start": 578.44,
+      "duration": 3.04,
+      "text": "your platforms down, whatever way you"
+    },
+    {
+      "start": 580.44,
+      "duration": 3.16,
+      "text": "want to measure it, the number of"
+    },
+    {
+      "start": 581.48,
+      "duration": 3.8,
+      "text": "developers you support by operations"
+    },
+    {
+      "start": 583.6,
+      "duration": 3.76,
+      "text": "people, the number of apps, all those"
+    },
+    {
+      "start": 585.28,
+      "duration": 4.52,
+      "text": "kinds of things. But, keep these metrics"
+    },
+    {
+      "start": 587.36,
+      "duration": 4.44,
+      "text": "in mind as a baseline established over"
+    },
+    {
+      "start": 589.8,
+      "duration": 3.68,
+      "text": "the past 10 or so years. And I'm sure"
+    },
+    {
+      "start": 591.8,
+      "duration": 4.24,
+      "text": "you can read the fine print here, but"
+    },
+    {
+      "start": 593.48,
+      "duration": 5.44,
+      "text": "these are large regular organizations,"
+    },
+    {
+      "start": 596.04,
+      "duration": 4.56,
+      "text": "not like Spotify and Facebook, right?"
+    },
+    {
+      "start": 598.92,
+      "duration": 3.8,
+      "text": "They're normal organizations that are"
+    },
+    {
+      "start": 600.6,
+      "duration": 4.48,
+      "text": "achieving pretty good results without"
+    },
+    {
+      "start": 602.72,
+      "duration": 5.2,
+      "text": "that like post-apocalypse coffee machine"
+    },
+    {
+      "start": 605.08,
+      "duration": 4.64,
+      "text": "land having to deal with. So briefly,"
+    },
+    {
+      "start": 607.92,
+      "duration": 3.08,
+      "text": "this is me"
+    },
+    {
+      "start": 609.72,
+      "duration": 3.72,
+      "text": "right there."
+    },
+    {
+      "start": 611.0,
+      "duration": 4.04,
+      "text": "I I've worked at at Pivotal, which was"
+    },
+    {
+      "start": 613.44,
+      "duration": 3.16,
+      "text": "purchased by several other companies,"
+    },
+    {
+      "start": 615.04,
+      "duration": 3.48,
+      "text": "and now I work at"
+    },
+    {
+      "start": 616.6,
+      "duration": 3.64,
+      "text": "my badge is over there, but Tanzu, I"
+    },
+    {
+      "start": 618.52,
+      "duration": 3.68,
+      "text": "think is where I work."
+    },
+    {
+      "start": 620.24,
+      "duration": 3.64,
+      "text": "And I was an industry analyst and a"
+    },
+    {
+      "start": 622.2,
+      "duration": 3.48,
+      "text": "programmer. I've written several books"
+    },
+    {
+      "start": 623.88,
+      "duration": 3.72,
+      "text": "about really centered around how large"
+    },
+    {
+      "start": 625.68,
+      "duration": 3.84,
+      "text": "organizations get better at software."
+    },
+    {
+      "start": 627.6,
+      "duration": 3.8,
+      "text": "And nowadays, a lot of that is about"
+    },
+    {
+      "start": 629.52,
+      "duration": 3.08,
+      "text": "putting a platform in place."
+    },
+    {
+      "start": 631.4,
+      "duration": 3.52,
+      "text": "But, there's also a lot of development"
+    },
+    {
+      "start": 632.6,
+      "duration": 3.52,
+      "text": "stuff there, and I've got some podcasts."
+    },
+    {
+      "start": 634.92,
+      "duration": 3.4,
+      "text": "I don't know if you like my type of"
+    },
+    {
+      "start": 636.12,
+      "duration": 4.08,
+      "text": "stuff. As one of my friends used to say,"
+    },
+    {
+      "start": 638.32,
+      "duration": 3.52,
+      "text": "engage with my brand."
+    },
+    {
+      "start": 640.2,
+      "duration": 3.84,
+      "text": "There it is. Enjoy. You can get most of"
+    },
+    {
+      "start": 641.84,
+      "duration": 3.72,
+      "text": "those books for free. I think we cheaped"
+    },
+    {
+      "start": 644.04,
+      "duration": 2.8,
+      "text": "out at sponsoring one of them, but if"
+    },
+    {
+      "start": 645.56,
+      "duration": 3.44,
+      "text": "you have an O'Reilly subscription, you"
+    },
+    {
+      "start": 646.84,
+      "duration": 3.8,
+      "text": "can get it. Plus other things."
+    },
+    {
+      "start": 649.0,
+      "duration": 3.68,
+      "text": "So, let's look at"
+    },
+    {
+      "start": 650.64,
+      "duration": 3.2,
+      "text": "the the the the orange coffee machine"
+    },
+    {
+      "start": 652.68,
+      "duration": 2.88,
+      "text": "problem."
+    },
+    {
+      "start": 653.84,
+      "duration": 4.96,
+      "text": "Bespoke"
+    },
+    {
+      "start": 655.56,
+      "duration": 5.88,
+      "text": "awesomeness landscape of brokenness."
+    },
+    {
+      "start": 658.8,
+      "duration": 4.4,
+      "text": "And there's seven things that that that"
+    },
+    {
+      "start": 661.44,
+      "duration": 3.52,
+      "text": "we've cataloged and and I've cataloged"
+    },
+    {
+      "start": 663.2,
+      "duration": 3.72,
+      "text": "that people encounter when they build"
+    },
+    {
+      "start": 664.96,
+      "duration": 3.56,
+      "text": "out this platform instead of just"
+    },
+    {
+      "start": 666.92,
+      "duration": 3.96,
+      "text": "focusing on using it. We used to say off"
+    },
+    {
+      "start": 668.52,
+      "duration": 4.68,
+      "text": "the shelf when I was younger."
+    },
+    {
+      "start": 670.88,
+      "duration": 4.08,
+      "text": "Off the web or or or whatever, a"
+    },
+    {
+      "start": 673.2,
+      "duration": 3.84,
+      "text": "platform that's already pre-built"
+    },
+    {
+      "start": 674.96,
+      "duration": 4.4,
+      "text": "instead of one. So, the first one is"
+    },
+    {
+      "start": 677.04,
+      "duration": 4.36,
+      "text": "often you don't have a notion of how"
+    },
+    {
+      "start": 679.36,
+      "duration": 3.84,
+      "text": "much a platform does. You have scope"
+    },
+    {
+      "start": 681.4,
+      "duration": 4.52,
+      "text": "creep. Some people will call this the"
+    },
+    {
+      "start": 683.2,
+      "duration": 4.28,
+      "text": "day two hangover. Day one being"
+    },
+    {
+      "start": 685.92,
+      "duration": 3.84,
+      "text": "we launched the application, we built a"
+    },
+    {
+      "start": 687.48,
+      "duration": 3.8,
+      "text": "platform, we went and celebrated in"
+    },
+    {
+      "start": 689.76,
+      "duration": 3.32,
+      "text": "whichever way we do,"
+    },
+    {
+      "start": 691.28,
+      "duration": 3.36,
+      "text": "Uh we came back, and now something's"
+    },
+    {
+      "start": 693.08,
+      "duration": 3.76,
+      "text": "broken and we have to fix it. And then"
+    },
+    {
+      "start": 694.64,
+      "duration": 4.6,
+      "text": "there's day three and day four and day"
+    },
+    {
+      "start": 696.84,
+      "duration": 4.04,
+      "text": "five plus n on and on for the rest of"
+    },
+    {
+      "start": 699.24,
+      "duration": 3.84,
+      "text": "your life."
+    },
+    {
+      "start": 700.88,
+      "duration": 4.84,
+      "text": "If you don't have a good retirement plan"
+    },
+    {
+      "start": 703.08,
+      "duration": 4.76,
+      "text": "in place. Uh so just as a reminder, we"
+    },
+    {
+      "start": 705.72,
+      "duration": 4.64,
+      "text": "got all this stuff that a platform does,"
+    },
+    {
+      "start": 707.84,
+      "duration": 4.36,
+      "text": "right? So, this is what's on the plate"
+    },
+    {
+      "start": 710.36,
+      "duration": 4.0,
+      "text": "as far as the requirements that you have"
+    },
+    {
+      "start": 712.2,
+      "duration": 3.4,
+      "text": "to to do your platforming, right? So,"
+    },
+    {
+      "start": 714.36,
+      "duration": 3.52,
+      "text": "when you're thinking about building the"
+    },
+    {
+      "start": 715.6,
+      "duration": 4.28,
+      "text": "platform out, right? Like here's kind of"
+    },
+    {
+      "start": 717.88,
+      "duration": 3.24,
+      "text": "a list of the various concerns that you"
+    },
+    {
+      "start": 719.88,
+      "duration": 3.64,
+      "text": "have."
+    },
+    {
+      "start": 721.12,
+      "duration": 5.08,
+      "text": "Uh and it's it's worth thinking and"
+    },
+    {
+      "start": 723.52,
+      "duration": 4.28,
+      "text": "scoping out this responsibility that"
+    },
+    {
+      "start": 726.2,
+      "duration": 3.52,
+      "text": "you'll have with building a platform,"
+    },
+    {
+      "start": 727.8,
+      "duration": 3.44,
+      "text": "right? It's not only the application"
+    },
+    {
+      "start": 729.72,
+      "duration": 3.4,
+      "text": "delivery that you have, but of course"
+    },
+    {
+      "start": 731.24,
+      "duration": 4.28,
+      "text": "you're going to want uh monitoring or"
+    },
+    {
+      "start": 733.12,
+      "duration": 4.68,
+      "text": "observability depending on your age. You"
+    },
+    {
+      "start": 735.52,
+      "duration": 4.24,
+      "text": "want to be able to have the security for"
+    },
+    {
+      "start": 737.8,
+      "duration": 4.2,
+      "text": "access control built in, all the"
+    },
+    {
+      "start": 739.76,
+      "duration": 3.88,
+      "text": "audibility stuff, on and on and on,"
+    },
+    {
+      "start": 742.0,
+      "duration": 2.92,
+      "text": "right? Like I mean this is kind of a bit"
+    },
+    {
+      "start": 743.64,
+      "duration": 3.08,
+      "text": "uh you know the term FUD, fear,"
+    },
+    {
+      "start": 744.92,
+      "duration": 3.16,
+      "text": "uncertainty, and doubt, but it's also"
+    },
+    {
+      "start": 746.72,
+      "duration": 3.36,
+      "text": "just like this these are the"
+    },
+    {
+      "start": 748.08,
+      "duration": 3.12,
+      "text": "requirements of what you need to build,"
+    },
+    {
+      "start": 750.08,
+      "duration": 3.2,
+      "text": "right? As a developer, I'm sure you're"
+    },
+    {
+      "start": 751.2,
+      "duration": 4.48,
+      "text": "often faced with like it shouldn't be"
+    },
+    {
+      "start": 753.28,
+      "duration": 4.24,
+      "text": "that hard to just add like a custom"
+    },
+    {
+      "start": 755.68,
+      "duration": 3.92,
+      "text": "filled out PDF download to this page,"
+    },
+    {
+      "start": 757.52,
+      "duration": 3.8,
+      "text": "right? You have all the information. And"
+    },
+    {
+      "start": 759.6,
+      "duration": 3.16,
+      "text": "you know, as a developer, you're like"
+    },
+    {
+      "start": 761.32,
+      "duration": 3.04,
+      "text": "this is why I'm the developer and you"
+    },
+    {
+      "start": 762.76,
+      "duration": 3.52,
+      "text": "are not, right? Cuz you don't kind of"
+    },
+    {
+      "start": 764.36,
+      "duration": 3.68,
+      "text": "understand the magnitude of it. And it's"
+    },
+    {
+      "start": 766.28,
+      "duration": 3.36,
+      "text": "a similar thing of like really making"
+    },
+    {
+      "start": 768.04,
+      "duration": 3.04,
+      "text": "sure you know all the stuff that goes"
+    },
+    {
+      "start": 769.64,
+      "duration": 3.92,
+      "text": "into building it."
+    },
+    {
+      "start": 771.08,
+      "duration": 5.64,
+      "text": "Now, that's just technology-wise,"
+    },
+    {
+      "start": 773.56,
+      "duration": 4.4,
+      "text": "organization-wise and tracking the scale"
+    },
+    {
+      "start": 776.72,
+      "duration": 4.4,
+      "text": "and how you roll this out over the"
+    },
+    {
+      "start": 777.96,
+      "duration": 5.56,
+      "text": "years, there's another great CNCF paper,"
+    },
+    {
+      "start": 781.12,
+      "duration": 5.32,
+      "text": "the platform maturity model,"
+    },
+    {
+      "start": 783.52,
+      "duration": 4.8,
+      "text": "which is a great phrase, uh but they"
+    },
+    {
+      "start": 786.44,
+      "duration": 4.08,
+      "text": "they that's working group for the past"
+    },
+    {
+      "start": 788.32,
+      "duration": 4.68,
+      "text": "three or so years has uh studied how"
+    },
+    {
+      "start": 790.52,
+      "duration": 3.8,
+      "text": "people roll out platforms, the various"
+    },
+    {
+      "start": 793.0,
+      "duration": 3.16,
+      "text": "stages that they go through. That's what"
+    },
+    {
+      "start": 794.32,
+      "duration": 4.56,
+      "text": "you have in a maturity model. You've got"
+    },
+    {
+      "start": 796.16,
+      "duration": 4.16,
+      "text": "stages and gates, sometimes a phase. Uh"
+    },
+    {
+      "start": 798.88,
+      "duration": 3.6,
+      "text": "but you know, I should stop making fun"
+    },
+    {
+      "start": 800.32,
+      "duration": 3.48,
+      "text": "of it. I think it's good material. But"
+    },
+    {
+      "start": 802.48,
+      "duration": 3.68,
+      "text": "if you look at that paper, right? This"
+    },
+    {
+      "start": 803.8,
+      "duration": 4.2,
+      "text": "is sort of like or it is exactly a"
+    },
+    {
+      "start": 806.16,
+      "duration": 3.96,
+      "text": "schedule for what you can be"
+    },
+    {
+      "start": 808.0,
+      "duration": 4.16,
+      "text": "anticipating over the next, let's say,"
+    },
+    {
+      "start": 810.12,
+      "duration": 3.56,
+      "text": "three to five years is their estimate"
+    },
+    {
+      "start": 812.16,
+      "duration": 3.96,
+      "text": "for kind of getting through this whole"
+    },
+    {
+      "start": 813.68,
+      "duration": 3.8,
+      "text": "loop, right? And a lot of this is the,"
+    },
+    {
+      "start": 816.12,
+      "duration": 3.84,
+      "text": "you know, if you know the phrase,"
+    },
+    {
+      "start": 817.48,
+      "duration": 4.72,
+      "text": "\"technology is not the problem, it's"
+    },
+    {
+      "start": 819.96,
+      "duration": 4.64,
+      "text": "always culture or people.\" Or, as we"
+    },
+    {
+      "start": 822.2,
+      "duration": 4.8,
+      "text": "like saying nowadays in AI, \"writing the"
+    },
+    {
+      "start": 824.6,
+      "duration": 3.84,
+      "text": "code is only 20% of what you do.\""
+    },
+    {
+      "start": 827.0,
+      "duration": 2.76,
+      "text": "There's so much else that goes in there."
+    },
+    {
+      "start": 828.44,
+      "duration": 3.64,
+      "text": "Well, this is the so much else of that"
+    },
+    {
+      "start": 829.76,
+      "duration": 4.44,
+      "text": "kind of phrase. I I would advise you, if"
+    },
+    {
+      "start": 832.08,
+      "duration": 4.28,
+      "text": "you work in technology, don't ever say"
+    },
+    {
+      "start": 834.2,
+      "duration": 4.32,
+      "text": "technology is easy. You always need to"
+    },
+    {
+      "start": 836.36,
+      "duration": 4.76,
+      "text": "be like, \"This is incredibly difficult.\""
+    },
+    {
+      "start": 838.52,
+      "duration": 4.64,
+      "text": "Uh it requires someone with my skill."
+    },
+    {
+      "start": 841.12,
+      "duration": 4.08,
+      "text": "Very hard. It's not something that can"
+    },
+    {
+      "start": 843.16,
+      "duration": 4.48,
+      "text": "be just solved by people. It actually"
+    },
+    {
+      "start": 845.2,
+      "duration": 5.52,
+      "text": "needs smarts and fingers on keyboards"
+    },
+    {
+      "start": 847.64,
+      "duration": 4.56,
+      "text": "and trackpads and stuff to do it. Uh so,"
+    },
+    {
+      "start": 850.72,
+      "duration": 4.04,
+      "text": "let's just get rid of this technology's"
+    },
+    {
+      "start": 852.2,
+      "duration": 4.6,
+      "text": "easy business. It's not helping us."
+    },
+    {
+      "start": 854.76,
+      "duration": 5.0,
+      "text": "Anyhow, look at this maturity model. You"
+    },
+    {
+      "start": 856.8,
+      "duration": 5.2,
+      "text": "can plan out what you can expect to go"
+    },
+    {
+      "start": 859.76,
+      "duration": 4.28,
+      "text": "through. And the whole point of that,"
+    },
+    {
+      "start": 862.0,
+      "duration": 3.88,
+      "text": "right? The features that you have, the"
+    },
+    {
+      "start": 864.04,
+      "duration": 3.36,
+      "text": "processes that you're going through,"
+    },
+    {
+      "start": 865.88,
+      "duration": 3.44,
+      "text": "setting up your organization to work"
+    },
+    {
+      "start": 867.4,
+      "duration": 4.28,
+      "text": "this way, it ends up being a lot more"
+    },
+    {
+      "start": 869.32,
+      "duration": 4.48,
+      "text": "work than than most teams have"
+    },
+    {
+      "start": 871.68,
+      "duration": 3.24,
+      "text": "anticipated um"
+    },
+    {
+      "start": 873.8,
+      "duration": 3.0,
+      "text": "initially."
+    },
+    {
+      "start": 874.92,
+      "duration": 4.0,
+      "text": "So, speaking of,"
+    },
+    {
+      "start": 876.8,
+      "duration": 3.56,
+      "text": "uh there's also underestimating how much"
+    },
+    {
+      "start": 878.92,
+      "duration": 3.44,
+      "text": "it's actually going to cost you, right?"
+    },
+    {
+      "start": 880.36,
+      "duration": 4.72,
+      "text": "And when you're considering like buying"
+    },
+    {
+      "start": 882.36,
+      "duration": 4.68,
+      "text": "a platform or, well, I guess just buying"
+    },
+    {
+      "start": 885.08,
+      "duration": 4.44,
+      "text": "it, outsourcing it, doing whatever,"
+    },
+    {
+      "start": 887.04,
+      "duration": 4.48,
+      "text": "often the comparison"
+    },
+    {
+      "start": 889.52,
+      "duration": 4.44,
+      "text": "can be done based on money, right? And"
+    },
+    {
+      "start": 891.52,
+      "duration": 4.2,
+      "text": "the comparison is a little weird because"
+    },
+    {
+      "start": 893.96,
+      "duration": 3.6,
+      "text": "you're comparing two different things,"
+    },
+    {
+      "start": 895.72,
+      "duration": 3.28,
+      "text": "right? And, you know, usually someone"
+    },
+    {
+      "start": 897.56,
+      "duration": 2.24,
+      "text": "who wants to sell you something,"
+    },
+    {
+      "start": 899.0,
+      "duration": 2.36,
+      "text": "especially if you're a large"
+    },
+    {
+      "start": 899.8,
+      "duration": 3.92,
+      "text": "organization, wants you to agree to a"
+    },
+    {
+      "start": 901.36,
+      "duration": 4.0,
+      "text": "multi-year deal that's going to be seven"
+    },
+    {
+      "start": 903.72,
+      "duration": 3.32,
+      "text": "or more figures for something. And of"
+    },
+    {
+      "start": 905.36,
+      "duration": 3.28,
+      "text": "course, the developers are like, \"Well,"
+    },
+    {
+      "start": 907.04,
+      "duration": 3.2,
+      "text": "that sounds crazy. Just give me the"
+    },
+    {
+      "start": 908.64,
+      "duration": 3.48,
+      "text": "weekend.\" And especially if I've got"
+    },
+    {
+      "start": 910.24,
+      "duration": 4.4,
+      "text": "cloud or whatever, I'm going to code it."
+    },
+    {
+      "start": 912.12,
+      "duration": 4.08,
+      "text": "It's going to be cool, right? And why"
+    },
+    {
+      "start": 914.64,
+      "duration": 3.24,
+      "text": "don't you give me"
+    },
+    {
+      "start": 916.2,
+      "duration": 2.8,
+      "text": "that money or some of it. Which wouldn't"
+    },
+    {
+      "start": 917.88,
+      "duration": 3.16,
+      "text": "that be great if that's how things"
+    },
+    {
+      "start": 919.0,
+      "duration": 4.64,
+      "text": "worked out? However, if if you look at"
+    },
+    {
+      "start": 921.04,
+      "duration": 4.0,
+      "text": "it, if you actually start to add up when"
+    },
+    {
+      "start": 923.64,
+      "duration": 3.96,
+      "text": "you look at that maturity model, what"
+    },
+    {
+      "start": 925.04,
+      "duration": 4.8,
+      "text": "you need to do and also historical"
+    },
+    {
+      "start": 927.6,
+      "duration": 4.2,
+      "text": "figures when you look at platform teams,"
+    },
+    {
+      "start": 929.84,
+      "duration": 3.2,
+      "text": "things start to add up over if you"
+    },
+    {
+      "start": 931.8,
+      "duration": 3.08,
+      "text": "compare it in the same way that you"
+    },
+    {
+      "start": 933.04,
+      "duration": 3.92,
+      "text": "would pay for something, right? So here,"
+    },
+    {
+      "start": 934.88,
+      "duration": 5.12,
+      "text": "this is like based on US stuff and a"
+    },
+    {
+      "start": 936.96,
+      "duration": 4.88,
+      "text": "very very affordable salary for for US"
+    },
+    {
+      "start": 940.0,
+      "duration": 3.28,
+      "text": "people. Maybe if you're in Midwestern"
+    },
+    {
+      "start": 941.84,
+      "duration": 3.68,
+      "text": "insurance companies, the model works. So"
+    },
+    {
+      "start": 943.28,
+      "duration": 3.56,
+      "text": "you got to multiply this out more. But"
+    },
+    {
+      "start": 945.52,
+      "duration": 2.64,
+      "text": "let's say you've got a team of three to"
+    },
+    {
+      "start": 946.84,
+      "duration": 3.16,
+      "text": "eight people, right? And this is the"
+    },
+    {
+      "start": 948.16,
+      "duration": 3.32,
+      "text": "cumulative spend that you have. So you"
+    },
+    {
+      "start": 950.0,
+      "duration": 3.48,
+      "text": "can compare it to how much it would be"
+    },
+    {
+      "start": 951.48,
+      "duration": 3.92,
+      "text": "to just buy a platform. And you can see"
+    },
+    {
+      "start": 953.48,
+      "duration": 4.36,
+      "text": "that these costs, just for the people"
+    },
+    {
+      "start": 955.4,
+      "duration": 4.84,
+      "text": "alone, and this is not even overhead. I"
+    },
+    {
+      "start": 957.84,
+      "duration": 4.36,
+      "text": "used to work with a bunch of um"
+    },
+    {
+      "start": 960.24,
+      "duration": 3.8,
+      "text": "MBA types, so I'm always thinking about"
+    },
+    {
+      "start": 962.2,
+      "duration": 3.56,
+      "text": "things beyond just flat rates of stuff."
+    },
+    {
+      "start": 964.04,
+      "duration": 3.96,
+      "text": "But anyways, you can see that this"
+    },
+    {
+      "start": 965.76,
+      "duration": 3.92,
+      "text": "starts to add up over time. Now, the the"
+    },
+    {
+      "start": 968.0,
+      "duration": 3.16,
+      "text": "thing that you see with platforms is"
+    },
+    {
+      "start": 969.68,
+      "duration": 3.6,
+      "text": "it's not it's not just one team that's"
+    },
+    {
+      "start": 971.16,
+      "duration": 3.96,
+      "text": "working on it. There's actually multiple"
+    },
+    {
+      "start": 973.28,
+      "duration": 3.72,
+      "text": "teams that are supporting this, right?"
+    },
+    {
+      "start": 975.12,
+      "duration": 3.88,
+      "text": "So the costs go up more. You don't have"
+    },
+    {
+      "start": 977.0,
+      "duration": 4.2,
+      "text": "just one team that's three to eight"
+    },
+    {
+      "start": 979.0,
+      "duration": 4.64,
+      "text": "people building that entire CNCF"
+    },
+    {
+      "start": 981.2,
+      "duration": 4.6,
+      "text": "reference architecture, right? Managing"
+    },
+    {
+      "start": 983.64,
+      "duration": 4.2,
+      "text": "that entire change of the organization,"
+    },
+    {
+      "start": 985.8,
+      "duration": 4.92,
+      "text": "you essentially own a product. And if"
+    },
+    {
+      "start": 987.84,
+      "duration": 4.84,
+      "text": "you want to keep it up to spec and in a"
+    },
+    {
+      "start": 990.72,
+      "duration": 3.28,
+      "text": "shape that your developers want to use"
+    },
+    {
+      "start": 992.68,
+      "duration": 3.0,
+      "text": "it, that you the other people in your"
+    },
+    {
+      "start": 994.0,
+      "duration": 3.16,
+      "text": "organization actually want to use it,"
+    },
+    {
+      "start": 995.68,
+      "duration": 2.92,
+      "text": "you're looking at all sorts of people"
+    },
+    {
+      "start": 997.16,
+      "duration": 3.92,
+      "text": "that you're hiring to do that. And"
+    },
+    {
+      "start": 998.6,
+      "duration": 4.84,
+      "text": "pretty soon that cost starts to be if,"
+    },
+    {
+      "start": 1001.08,
+      "duration": 4.8,
+      "text": "you know, a lot more than if you had"
+    },
+    {
+      "start": 1003.44,
+      "duration": 4.68,
+      "text": "gone through other options. So I want to"
+    },
+    {
+      "start": 1005.88,
+      "duration": 5.96,
+      "text": "bring back this slide because again,"
+    },
+    {
+      "start": 1008.12,
+      "duration": 5.4,
+      "text": "what you see in these ratios is a change"
+    },
+    {
+      "start": 1011.84,
+      "duration": 3.44,
+      "text": "in what happens when you're not building"
+    },
+    {
+      "start": 1013.52,
+      "duration": 4.2,
+      "text": "your own platform, right? You have less"
+    },
+    {
+      "start": 1015.28,
+      "duration": 4.68,
+      "text": "operations people who now are just"
+    },
+    {
+      "start": 1017.72,
+      "duration": 3.52,
+      "text": "responsible for running the platform,"
+    },
+    {
+      "start": 1019.96,
+      "duration": 2.56,
+      "text": "keeping it up to date, and more"
+    },
+    {
+      "start": 1021.24,
+      "duration": 3.28,
+      "text": "importantly,"
+    },
+    {
+      "start": 1022.52,
+      "duration": 3.72,
+      "text": "as we know, technology is don't tell"
+    },
+    {
+      "start": 1024.52,
+      "duration": 3.32,
+      "text": "anyone, technology is easy. It's the"
+    },
+    {
+      "start": 1026.24,
+      "duration": 3.6,
+      "text": "people that are hard. But these"
+    },
+    {
+      "start": 1027.84,
+      "duration": 3.48,
+      "text": "operations people spend a lot more time"
+    },
+    {
+      "start": 1029.84,
+      "duration": 3.08,
+      "text": "of their time on the people side of"
+    },
+    {
+      "start": 1031.32,
+      "duration": 4.16,
+      "text": "things, working with people and helping"
+    },
+    {
+      "start": 1032.92,
+      "duration": 5.2,
+      "text": "them out with the platform."
+    },
+    {
+      "start": 1035.48,
+      "duration": 4.4,
+      "text": "So, speaking of culture or people being"
+    },
+    {
+      "start": 1038.12,
+      "duration": 3.72,
+      "text": "hired, the next thing that people often"
+    },
+    {
+      "start": 1039.88,
+      "duration": 3.36,
+      "text": "uh go through is"
+    },
+    {
+      "start": 1041.84,
+      "duration": 3.72,
+      "text": "I've joked about this already or"
+    },
+    {
+      "start": 1043.24,
+      "duration": 3.8,
+      "text": "accurately portrayed it. And that is"
+    },
+    {
+      "start": 1045.56,
+      "duration": 4.16,
+      "text": "that people often think of building a"
+    },
+    {
+      "start": 1047.04,
+      "duration": 3.76,
+      "text": "platform as a one, let's say three-off"
+    },
+    {
+      "start": 1049.72,
+      "duration": 3.04,
+      "text": "thing, right? You're going to build up"
+    },
+    {
+      "start": 1050.8,
+      "duration": 5.04,
+      "text": "the initial platform, add in some new"
+    },
+    {
+      "start": 1052.76,
+      "duration": 5.0,
+      "text": "features, and then you sort of move on"
+    },
+    {
+      "start": 1055.84,
+      "duration": 3.36,
+      "text": "with your professional life."
+    },
+    {
+      "start": 1057.76,
+      "duration": 2.6,
+      "text": "And there's there's there's a phrase"
+    },
+    {
+      "start": 1059.2,
+      "duration": 3.52,
+      "text": "instead"
+    },
+    {
+      "start": 1060.36,
+      "duration": 4.32,
+      "text": "that you see people who are successful"
+    },
+    {
+      "start": 1062.72,
+      "duration": 3.88,
+      "text": "with platforms in organizations doing."
+    },
+    {
+      "start": 1064.68,
+      "duration": 4.16,
+      "text": "And they think of it more as a platform"
+    },
+    {
+      "start": 1066.6,
+      "duration": 3.48,
+      "text": "as a product, right? Which is really one"
+    },
+    {
+      "start": 1068.84,
+      "duration": 2.8,
+      "text": "way of thinking about this if you've got"
+    },
+    {
+      "start": 1070.08,
+      "duration": 2.88,
+      "text": "a developer mindset is like, you know"
+    },
+    {
+      "start": 1071.64,
+      "duration": 3.8,
+      "text": "how we think about our software as a"
+    },
+    {
+      "start": 1072.96,
+      "duration": 4.24,
+      "text": "product and we pay attention to what"
+    },
+    {
+      "start": 1075.44,
+      "duration": 3.48,
+      "text": "our users want to do with it and we try"
+    },
+    {
+      "start": 1077.2,
+      "duration": 3.8,
+      "text": "to do that? Like imagine if the"
+    },
+    {
+      "start": 1078.92,
+      "duration": 4.0,
+      "text": "infrastructure people thought that way,"
+    },
+    {
+      "start": 1081.0,
+      "duration": 3.36,
+      "text": "right? And that is exactly what platform"
+    },
+    {
+      "start": 1082.92,
+      "duration": 4.6,
+      "text": "as a product is, right? You do some"
+    },
+    {
+      "start": 1084.36,
+      "duration": 4.56,
+      "text": "product management, you go talk with the"
+    },
+    {
+      "start": 1087.52,
+      "duration": 2.64,
+      "text": "developers. I don't know when the last"
+    },
+    {
+      "start": 1088.92,
+      "duration": 2.28,
+      "text": "time you talked with an infrastructure"
+    },
+    {
+      "start": 1090.16,
+      "duration": 2.84,
+      "text": "person"
+    },
+    {
+      "start": 1091.2,
+      "duration": 3.32,
+      "text": "regularly and told them what you need"
+    },
+    {
+      "start": 1093.0,
+      "duration": 2.8,
+      "text": "and what works and doesn't work, and"
+    },
+    {
+      "start": 1094.52,
+      "duration": 3.2,
+      "text": "then they went back and changed the"
+    },
+    {
+      "start": 1095.8,
+      "duration": 4.04,
+      "text": "infrastructure around to fit that. Well,"
+    },
+    {
+      "start": 1097.72,
+      "duration": 4.28,
+      "text": "that's what this this method of platform"
+    },
+    {
+      "start": 1099.84,
+      "duration": 4.32,
+      "text": "as a product is. And it really is"
+    },
+    {
+      "start": 1102.0,
+      "duration": 4.2,
+      "text": "something here's here this is"
+    },
+    {
+      "start": 1104.16,
+      "duration": 3.6,
+      "text": "Thomas from Mercedes, but it really is a"
+    },
+    {
+      "start": 1106.2,
+      "duration": 4.24,
+      "text": "practice that you see in these platform"
+    },
+    {
+      "start": 1107.76,
+      "duration": 5.36,
+      "text": "teams where they achieve those those"
+    },
+    {
+      "start": 1110.44,
+      "duration": 5.2,
+      "text": "ratios that I keep putting up there."
+    },
+    {
+      "start": 1113.12,
+      "duration": 4.76,
+      "text": "And so, what what it means to do"
+    },
+    {
+      "start": 1115.64,
+      "duration": 5.0,
+      "text": "platform as a product, right? Is again,"
+    },
+    {
+      "start": 1117.88,
+      "duration": 4.76,
+      "text": "as I was saying, to think about and on a"
+    },
+    {
+      "start": 1120.64,
+      "duration": 3.72,
+      "text": "like on a weekly basis to work with the"
+    },
+    {
+      "start": 1122.64,
+      "duration": 3.8,
+      "text": "users of the system, the developers, and"
+    },
+    {
+      "start": 1124.36,
+      "duration": 4.72,
+      "text": "now increasingly those those normies I"
+    },
+    {
+      "start": 1126.44,
+      "duration": 4.92,
+      "text": "was talking about, and study as what it"
+    },
+    {
+      "start": 1129.08,
+      "duration": 5.64,
+      "text": "is they're doing, go through again a"
+    },
+    {
+      "start": 1131.36,
+      "duration": 5.28,
+      "text": "very developer mindset of all right, so"
+    },
+    {
+      "start": 1134.72,
+      "duration": 3.6,
+      "text": "like what would be something they they"
+    },
+    {
+      "start": 1136.64,
+      "duration": 5.08,
+      "text": "would like to deploy"
+    },
+    {
+      "start": 1138.32,
+      "duration": 5.8,
+      "text": "a headless cloud agent in a platform so"
+    },
+    {
+      "start": 1141.72,
+      "duration": 4.08,
+      "text": "that they can run it for whatever reason"
+    },
+    {
+      "start": 1144.12,
+      "duration": 3.12,
+      "text": "to do fun stuff."
+    },
+    {
+      "start": 1145.8,
+      "duration": 3.12,
+      "text": "Like, you know,"
+    },
+    {
+      "start": 1147.24,
+      "duration": 3.56,
+      "text": "let's go experiment with things. Let's"
+    },
+    {
+      "start": 1148.92,
+      "duration": 3.32,
+      "text": "put one way of doing it and then watch"
+    },
+    {
+      "start": 1150.8,
+      "duration": 3.6,
+      "text": "come back in a week and see if it helped"
+    },
+    {
+      "start": 1152.24,
+      "duration": 3.84,
+      "text": "them out and so forth and so on going"
+    },
+    {
+      "start": 1154.4,
+      "duration": 3.8,
+      "text": "through the cycle. And often these teams"
+    },
+    {
+      "start": 1156.08,
+      "duration": 3.72,
+      "text": "actually have product managers"
+    },
+    {
+      "start": 1158.2,
+      "duration": 3.28,
+      "text": "who have that title"
+    },
+    {
+      "start": 1159.8,
+      "duration": 3.28,
+      "text": "who are doing this kind of product"
+    },
+    {
+      "start": 1161.48,
+      "duration": 2.72,
+      "text": "management. So that's another thing to"
+    },
+    {
+      "start": 1163.08,
+      "duration": 3.52,
+      "text": "think about and again it gets to that"
+    },
+    {
+      "start": 1164.2,
+      "duration": 3.64,
+      "text": "point of the ongoing"
+    },
+    {
+      "start": 1166.6,
+      "duration": 2.84,
+      "text": "platform"
+    },
+    {
+      "start": 1167.84,
+      "duration": 3.2,
+      "text": "work that you're doing."
+    },
+    {
+      "start": 1169.44,
+      "duration": 3.2,
+      "text": "So the next one"
+    },
+    {
+      "start": 1171.04,
+      "duration": 4.16,
+      "text": "and you know as a former application"
+    },
+    {
+      "start": 1172.64,
+      "duration": 4.4,
+      "text": "developer I I certainly"
+    },
+    {
+      "start": 1175.2,
+      "duration": 3.12,
+      "text": "this one is always great for me right is"
+    },
+    {
+      "start": 1177.04,
+      "duration": 3.68,
+      "text": "like you know I don't want to I don't"
+    },
+    {
+      "start": 1178.32,
+      "duration": 5.64,
+      "text": "want to lock in to something right? So"
+    },
+    {
+      "start": 1180.72,
+      "duration": 5.0,
+      "text": "if if we build our own platform"
+    },
+    {
+      "start": 1183.96,
+      "duration": 3.76,
+      "text": "we're not locked into anything. It's"
+    },
+    {
+      "start": 1185.72,
+      "duration": 3.32,
+      "text": "perfect right? Of course you know you're"
+    },
+    {
+      "start": 1187.72,
+      "duration": 2.56,
+      "text": "locked into yourself which is probably"
+    },
+    {
+      "start": 1189.04,
+      "duration": 3.68,
+      "text": "the most"
+    },
+    {
+      "start": 1190.28,
+      "duration": 4.72,
+      "text": "the nicest lock in I guess if you enjoy"
+    },
+    {
+      "start": 1192.72,
+      "duration": 5.16,
+      "text": "yourself and and you're around there."
+    },
+    {
+      "start": 1195.0,
+      "duration": 5.64,
+      "text": "But I would think about the the fear of"
+    },
+    {
+      "start": 1197.88,
+      "duration": 4.4,
+      "text": "lock in or the instead of thinking about"
+    },
+    {
+      "start": 1200.64,
+      "duration": 4.8,
+      "text": "lock in and worrying about proprietary"
+    },
+    {
+      "start": 1202.28,
+      "duration": 4.92,
+      "text": "stuff instead think about probably what"
+    },
+    {
+      "start": 1205.44,
+      "duration": 4.32,
+      "text": "what you want"
+    },
+    {
+      "start": 1207.2,
+      "duration": 5.0,
+      "text": "like strategically right?"
+    },
+    {
+      "start": 1209.76,
+      "duration": 3.96,
+      "text": "And that is as as as Simon Phipps used"
+    },
+    {
+      "start": 1212.2,
+      "duration": 4.24,
+      "text": "to be a open source guy at Sun"
+    },
+    {
+      "start": 1213.72,
+      "duration": 4.68,
+      "text": "Microsystems a long time ago in the in"
+    },
+    {
+      "start": 1216.44,
+      "duration": 3.44,
+      "text": "the the fun old days. He had this"
+    },
+    {
+      "start": 1218.4,
+      "duration": 3.56,
+      "text": "concept of war what you want is the"
+    },
+    {
+      "start": 1219.88,
+      "duration": 3.96,
+      "text": "freedom to leave. You want to make it as"
+    },
+    {
+      "start": 1221.96,
+      "duration": 3.8,
+      "text": "easy as possible to move to something"
+    },
+    {
+      "start": 1223.84,
+      "duration": 3.96,
+      "text": "else. You want portability you want the"
+    },
+    {
+      "start": 1225.76,
+      "duration": 3.92,
+      "text": "switching cost low. So that's how I"
+    },
+    {
+      "start": 1227.8,
+      "duration": 4.16,
+      "text": "would value evaluate locking into"
+    },
+    {
+      "start": 1229.68,
+      "duration": 4.16,
+      "text": "things. How easy is it for me to go to"
+    },
+    {
+      "start": 1231.96,
+      "duration": 3.72,
+      "text": "take my applications to take the"
+    },
+    {
+      "start": 1233.84,
+      "duration": 4.08,
+      "text": "configuration and everything else and go"
+    },
+    {
+      "start": 1235.68,
+      "duration": 4.92,
+      "text": "to another platform if I so think that"
+    },
+    {
+      "start": 1237.92,
+      "duration": 4.6,
+      "text": "platform is is better."
+    },
+    {
+      "start": 1240.6,
+      "duration": 3.6,
+      "text": "Now next is"
+    },
+    {
+      "start": 1242.52,
+      "duration": 3.4,
+      "text": "you know retaining the skilled people."
+    },
+    {
+      "start": 1244.2,
+      "duration": 4.28,
+      "text": "This especially this will probably"
+    },
+    {
+      "start": 1245.92,
+      "duration": 4.12,
+      "text": "happen a lot when in in AI and platforms"
+    },
+    {
+      "start": 1248.48,
+      "duration": 3.8,
+      "text": "and stuff but if you remember in the"
+    },
+    {
+      "start": 1250.04,
+      "duration": 3.44,
+      "text": "Kubernetes era"
+    },
+    {
+      "start": 1252.28,
+      "duration": 2.68,
+      "text": "you would you would go out and survey"
+    },
+    {
+      "start": 1253.48,
+      "duration": 3.96,
+      "text": "people and they would say what's the"
+    },
+    {
+      "start": 1254.96,
+      "duration": 4.16,
+      "text": "number one problem with Kubernetes and"
+    },
+    {
+      "start": 1257.44,
+      "duration": 3.16,
+      "text": "they would say well the number one's"
+    },
+    {
+      "start": 1259.12,
+      "duration": 2.6,
+      "text": "always security. Security is always"
+    },
+    {
+      "start": 1260.6,
+      "duration": 2.76,
+      "text": "going to be the number one problem you"
+    },
+    {
+      "start": 1261.72,
+      "duration": 3.52,
+      "text": "might as well be like not that's of"
+    },
+    {
+      "start": 1263.36,
+      "duration": 4.48,
+      "text": "course that's like saying number one"
+    },
+    {
+      "start": 1265.24,
+      "duration": 5.28,
+      "text": "concern for humans is water and air. Not"
+    },
+    {
+      "start": 1267.84,
+      "duration": 4.08,
+      "text": "really interesting survey. Uh but what"
+    },
+    {
+      "start": 1270.52,
+      "duration": 3.32,
+      "text": "often is"
+    },
+    {
+      "start": 1271.92,
+      "duration": 3.6,
+      "text": "up there is like skills. We can't find"
+    },
+    {
+      "start": 1273.84,
+      "duration": 2.84,
+      "text": "the people, right?"
+    },
+    {
+      "start": 1275.52,
+      "duration": 2.36,
+      "text": "Now,"
+    },
+    {
+      "start": 1276.68,
+      "duration": 2.28,
+      "text": "I have a philosophy degree, not"
+    },
+    {
+      "start": 1277.88,
+      "duration": 2.6,
+      "text": "economics, so I don't know if I'm going"
+    },
+    {
+      "start": 1278.96,
+      "duration": 2.96,
+      "text": "to get this right. But I think there's a"
+    },
+    {
+      "start": 1280.48,
+      "duration": 3.32,
+      "text": "supply and demand thing here that if you"
+    },
+    {
+      "start": 1281.92,
+      "duration": 4.52,
+      "text": "have a low supply of people who know how"
+    },
+    {
+      "start": 1283.8,
+      "duration": 5.24,
+      "text": "to use a technology, they will command a"
+    },
+    {
+      "start": 1286.44,
+      "duration": 4.44,
+      "text": "high price, which means once they have"
+    },
+    {
+      "start": 1289.04,
+      "duration": 3.28,
+      "text": "built out your platform and done your"
+    },
+    {
+      "start": 1290.88,
+      "duration": 3.12,
+      "text": "difficult thing, they're going to find a"
+    },
+    {
+      "start": 1292.32,
+      "duration": 3.8,
+      "text": "new job and leave. And now you're left"
+    },
+    {
+      "start": 1294.0,
+      "duration": 3.68,
+      "text": "with the coffee machine, right? So, this"
+    },
+    {
+      "start": 1296.12,
+      "duration": 3.72,
+      "text": "retention that you have with jobs, you"
+    },
+    {
+      "start": 1297.68,
+      "duration": 4.04,
+      "text": "you probably have some people that you"
+    },
+    {
+      "start": 1299.84,
+      "duration": 3.48,
+      "text": "used to enjoy working with and now they"
+    },
+    {
+      "start": 1301.72,
+      "duration": 3.12,
+      "text": "went elsewhere because they built up"
+    },
+    {
+      "start": 1303.32,
+      "duration": 3.36,
+      "text": "this skill because companies are"
+    },
+    {
+      "start": 1304.84,
+      "duration": 3.24,
+      "text": "terrible at like promoting from within"
+    },
+    {
+      "start": 1306.68,
+      "duration": 3.16,
+      "text": "and and rewarding that kind of thing."
+    },
+    {
+      "start": 1308.08,
+      "duration": 3.2,
+      "text": "But"
+    },
+    {
+      "start": 1309.84,
+      "duration": 3.96,
+      "text": "so maybe you should actually do this if"
+    },
+    {
+      "start": 1311.28,
+      "duration": 5.36,
+      "text": "you're individual. But let's"
+    },
+    {
+      "start": 1313.8,
+      "duration": 4.68,
+      "text": "retract from that. The idea that you"
+    },
+    {
+      "start": 1316.64,
+      "duration": 3.84,
+      "text": "need specialists for a new technology,"
+    },
+    {
+      "start": 1318.48,
+      "duration": 3.92,
+      "text": "something that you've built that's"
+    },
+    {
+      "start": 1320.48,
+      "duration": 4.0,
+      "text": "one-off, comfortably locked into"
+    },
+    {
+      "start": 1322.4,
+      "duration": 4.08,
+      "text": "yourself, you come into the situation of"
+    },
+    {
+      "start": 1324.48,
+      "duration": 3.68,
+      "text": "your staffing is now quite difficult"
+    },
+    {
+      "start": 1326.48,
+      "duration": 2.84,
+      "text": "because you can't just get someone who"
+    },
+    {
+      "start": 1328.16,
+      "duration": 2.48,
+      "text": "knows the technology. Now with"
+    },
+    {
+      "start": 1329.32,
+      "duration": 2.56,
+      "text": "Kubernetes nowadays, I haven't looked at"
+    },
+    {
+      "start": 1330.64,
+      "duration": 3.2,
+      "text": "surveys,"
+    },
+    {
+      "start": 1331.88,
+      "duration": 3.56,
+      "text": "it's probably a little bit lower. People"
+    },
+    {
+      "start": 1333.84,
+      "duration": 2.92,
+      "text": "have probably figured out how to to use"
+    },
+    {
+      "start": 1335.44,
+      "duration": 2.8,
+      "text": "it."
+    },
+    {
+      "start": 1336.76,
+      "duration": 3.0,
+      "text": "Which highly related to that, the other"
+    },
+    {
+      "start": 1338.24,
+      "duration": 2.4,
+      "text": "side of that,"
+    },
+    {
+      "start": 1339.76,
+      "duration": 2.28,
+      "text": "uh"
+    },
+    {
+      "start": 1340.64,
+      "duration": 2.92,
+      "text": "you know, if I want to have seven, I've"
+    },
+    {
+      "start": 1342.04,
+      "duration": 3.68,
+      "text": "got to kind of split some of these"
+    },
+    {
+      "start": 1343.56,
+      "duration": 3.48,
+      "text": "things up, is something called resume"
+    },
+    {
+      "start": 1345.72,
+      "duration": 3.8,
+      "text": "driven development. This is more"
+    },
+    {
+      "start": 1347.04,
+      "duration": 5.0,
+      "text": "something to tell managers about"
+    },
+    {
+      "start": 1349.52,
+      "duration": 5.08,
+      "text": "because it's fine for an individual. But"
+    },
+    {
+      "start": 1352.04,
+      "duration": 4.6,
+      "text": "there is actually people will pursue"
+    },
+    {
+      "start": 1354.6,
+      "duration": 4.68,
+      "text": "building things out to learn how to do"
+    },
+    {
+      "start": 1356.64,
+      "duration": 4.72,
+      "text": "something new and to make their resume,"
+    },
+    {
+      "start": 1359.28,
+      "duration": 3.2,
+      "text": "their CV, whatever you want to call it,"
+    },
+    {
+      "start": 1361.36,
+      "duration": 2.32,
+      "text": "better."
+    },
+    {
+      "start": 1362.48,
+      "duration": 3.32,
+      "text": "Again, to get to that position where"
+    },
+    {
+      "start": 1363.68,
+      "duration": 4.2,
+      "text": "they can command some high salary. Now,"
+    },
+    {
+      "start": 1365.8,
+      "duration": 3.68,
+      "text": "we intuitively all know this, but it was"
+    },
+    {
+      "start": 1367.88,
+      "duration": 3.96,
+      "text": "delightful to find there's actually a"
+    },
+    {
+      "start": 1369.48,
+      "duration": 4.48,
+      "text": "paper written about it, which is kind of"
+    },
+    {
+      "start": 1371.84,
+      "duration": 3.84,
+      "text": "amazing that someone took the time to"
+    },
+    {
+      "start": 1373.96,
+      "duration": 4.52,
+      "text": "study this. I guess it shows you the the"
+    },
+    {
+      "start": 1375.68,
+      "duration": 5.52,
+      "text": "the interesting capacity of academics"
+    },
+    {
+      "start": 1378.48,
+      "duration": 5.04,
+      "text": "out there. But again, I'm not a"
+    },
+    {
+      "start": 1381.2,
+      "duration": 4.16,
+      "text": "scientist, but I think the you know, if"
+    },
+    {
+      "start": 1383.52,
+      "duration": 3.52,
+      "text": "if you look at what happens, the more"
+    },
+    {
+      "start": 1385.36,
+      "duration": 4.2,
+      "text": "people are following trendy new"
+    },
+    {
+      "start": 1387.04,
+      "duration": 5.08,
+      "text": "technologies and kind of chasing this"
+    },
+    {
+      "start": 1389.56,
+      "duration": 4.64,
+      "text": "resume driven development, the worse off"
+    },
+    {
+      "start": 1392.12,
+      "duration": 4.72,
+      "text": "the the business tends to the business,"
+    },
+    {
+      "start": 1394.2,
+      "duration": 4.08,
+      "text": "the organization tends to to do if"
+    },
+    {
+      "start": 1396.84,
+      "duration": 2.56,
+      "text": "that's the way that people are doing"
+    },
+    {
+      "start": 1398.28,
+      "duration": 2.8,
+      "text": "things, right? So that's something to"
+    },
+    {
+      "start": 1399.4,
+      "duration": 4.92,
+      "text": "look out for when there's the we should"
+    },
+    {
+      "start": 1401.08,
+      "duration": 4.6,
+      "text": "build a platform situation arises. So,"
+    },
+    {
+      "start": 1404.32,
+      "duration": 2.72,
+      "text": "the last one"
+    },
+    {
+      "start": 1405.68,
+      "duration": 2.92,
+      "text": "gets to"
+    },
+    {
+      "start": 1407.04,
+      "duration": 4.96,
+      "text": "I don't know. In my experience,"
+    },
+    {
+      "start": 1408.6,
+      "duration": 4.96,
+      "text": "developers, the topic that they find"
+    },
+    {
+      "start": 1412.0,
+      "duration": 3.48,
+      "text": "the most terrible,"
+    },
+    {
+      "start": 1413.56,
+      "duration": 3.44,
+      "text": "which is just like security and"
+    },
+    {
+      "start": 1415.48,
+      "duration": 4.04,
+      "text": "compliance,"
+    },
+    {
+      "start": 1417.0,
+      "duration": 3.96,
+      "text": "all that nonsense, right? And you know,"
+    },
+    {
+      "start": 1419.52,
+      "duration": 3.96,
+      "text": "it's hard to represent how important"
+    },
+    {
+      "start": 1420.96,
+      "duration": 3.88,
+      "text": "that is nowadays. Or or I should say how"
+    },
+    {
+      "start": 1423.48,
+      "duration": 3.36,
+      "text": "much more important it is. I mean,"
+    },
+    {
+      "start": 1424.84,
+      "duration": 3.44,
+      "text": "here's here's a chart tracking it had if"
+    },
+    {
+      "start": 1426.84,
+      "duration": 3.12,
+      "text": "we had the update, you'd probably have"
+    },
+    {
+      "start": 1428.28,
+      "duration": 5.52,
+      "text": "to lower everything cuz this ends in"
+    },
+    {
+      "start": 1429.96,
+      "duration": 5.44,
+      "text": "2025. But the amount of CVEs, of"
+    },
+    {
+      "start": 1433.8,
+      "duration": 3.6,
+      "text": "problems that you have in security is"
+    },
+    {
+      "start": 1435.4,
+      "duration": 3.44,
+      "text": "just like astronomical nowadays. Like in"
+    },
+    {
+      "start": 1437.4,
+      "duration": 3.84,
+      "text": "our"
+    },
+    {
+      "start": 1438.84,
+      "duration": 4.44,
+      "text": "we we we're the stewards of the Spring"
+    },
+    {
+      "start": 1441.24,
+      "duration": 3.84,
+      "text": "Framework, you know, most popular Java"
+    },
+    {
+      "start": 1443.28,
+      "duration": 4.52,
+      "text": "framework out there,"
+    },
+    {
+      "start": 1445.08,
+      "duration": 4.92,
+      "text": "probably. And like we've literally like"
+    },
+    {
+      "start": 1447.8,
+      "duration": 4.28,
+      "text": "stopped for the past 6 months a lot of"
+    },
+    {
+      "start": 1450.0,
+      "duration": 3.6,
+      "text": "feature development just to fix all the"
+    },
+    {
+      "start": 1452.08,
+      "duration": 4.84,
+      "text": "security problems we've been finding"
+    },
+    {
+      "start": 1453.6,
+      "duration": 5.08,
+      "text": "with with AI-driven stuff. And so,"
+    },
+    {
+      "start": 1456.92,
+      "duration": 3.96,
+      "text": "think about building your own platform,"
+    },
+    {
+      "start": 1458.68,
+      "duration": 3.52,
+      "text": "combining together tens if not hundreds"
+    },
+    {
+      "start": 1460.88,
+      "duration": 3.32,
+      "text": "of different, depending on your count"
+    },
+    {
+      "start": 1462.2,
+      "duration": 4.56,
+      "text": "it, components and dependencies that you"
+    },
+    {
+      "start": 1464.2,
+      "duration": 4.84,
+      "text": "have, different services that you have."
+    },
+    {
+      "start": 1466.76,
+      "duration": 4.32,
+      "text": "That's a huge amount of security stuff"
+    },
+    {
+      "start": 1469.04,
+      "duration": 3.36,
+      "text": "to to to bring on board, and it's just"
+    },
+    {
+      "start": 1471.08,
+      "duration": 2.88,
+      "text": "getting more and more. Hopefully, it'll"
+    },
+    {
+      "start": 1472.4,
+      "duration": 3.4,
+      "text": "level off at some point. But that"
+    },
+    {
+      "start": 1473.96,
+      "duration": 3.44,
+      "text": "becomes part of the responsibility that"
+    },
+    {
+      "start": 1475.8,
+      "duration": 3.48,
+      "text": "you have, part of what you have to staff"
+    },
+    {
+      "start": 1477.4,
+      "duration": 3.56,
+      "text": "for and worry about. And then, of"
+    },
+    {
+      "start": 1479.28,
+      "duration": 3.6,
+      "text": "course, you've got regulations and"
+    },
+    {
+      "start": 1480.96,
+      "duration": 2.96,
+      "text": "compliance. All of a sudden, like I"
+    },
+    {
+      "start": 1482.88,
+      "duration": 2.6,
+      "text": "there's lots there's several"
+    },
+    {
+      "start": 1483.92,
+      "duration": 4.68,
+      "text": "organizations I talk with who are just"
+    },
+    {
+      "start": 1485.48,
+      "duration": 5.0,
+      "text": "happy to use the the Pax Americana cloud"
+    },
+    {
+      "start": 1488.6,
+      "duration": 3.84,
+      "text": "or technology, and now they're a little"
+    },
+    {
+      "start": 1490.48,
+      "duration": 3.84,
+      "text": "bit like, \"Hmm, might be cool to not do"
+    },
+    {
+      "start": 1492.44,
+      "duration": 3.68,
+      "text": "that.\" And like have my own platform"
+    },
+    {
+      "start": 1494.32,
+      "duration": 3.28,
+      "text": "running somewhere, and be much more"
+    },
+    {
+      "start": 1496.12,
+      "duration": 2.44,
+      "text": "independent. Again, this is another"
+    },
+    {
+      "start": 1497.6,
+      "duration": 2.92,
+      "text": "thing"
+    },
+    {
+      "start": 1498.56,
+      "duration": 3.4,
+      "text": "compliance-wise that the platform team"
+    },
+    {
+      "start": 1500.52,
+      "duration": 3.12,
+      "text": "now owns. You can you can think about"
+    },
+    {
+      "start": 1501.96,
+      "duration": 3.68,
+      "text": "how a long-lived team, a product"
+    },
+    {
+      "start": 1503.64,
+      "duration": 5.16,
+      "text": "manager, those various teams that you"
+    },
+    {
+      "start": 1505.64,
+      "duration": 5.28,
+      "text": "have become important for coming you"
+    },
+    {
+      "start": 1508.8,
+      "duration": 3.72,
+      "text": "know, meeting whatever whatever issues"
+    },
+    {
+      "start": 1510.92,
+      "duration": 3.72,
+      "text": "that you have there."
+    },
+    {
+      "start": 1512.52,
+      "duration": 2.8,
+      "text": "So, let's look at kind of like a round"
+    },
+    {
+      "start": 1514.64,
+      "duration": 3.08,
+      "text": "up"
+    },
+    {
+      "start": 1515.32,
+      "duration": 5.64,
+      "text": "of security things. This is this is my"
+    },
+    {
+      "start": 1517.72,
+      "duration": 5.56,
+      "text": "naive application developer grouping of"
+    },
+    {
+      "start": 1520.96,
+      "duration": 4.04,
+      "text": "what security means in a platform."
+    },
+    {
+      "start": 1523.28,
+      "duration": 3.44,
+      "text": "A lot more going on, which is a little"
+    },
+    {
+      "start": 1525.0,
+      "duration": 2.92,
+      "text": "bit of the point that I'm making. But"
+    },
+    {
+      "start": 1526.72,
+      "duration": 3.88,
+      "text": "especially when you think about what"
+    },
+    {
+      "start": 1527.92,
+      "duration": 4.72,
+      "text": "you're doing with with with AI, right?"
+    },
+    {
+      "start": 1530.6,
+      "duration": 3.6,
+      "text": "Like how you want to be using it. It"
+    },
+    {
+      "start": 1532.64,
+      "duration": 4.44,
+      "text": "would be super cool if you could just"
+    },
+    {
+      "start": 1534.2,
+      "duration": 5.04,
+      "text": "like have the ease of using the you"
+    },
+    {
+      "start": 1537.08,
+      "duration": 3.76,
+      "text": "know, a personal account to do things."
+    },
+    {
+      "start": 1539.24,
+      "duration": 3.52,
+      "text": "But of course that doesn't work well,"
+    },
+    {
+      "start": 1540.84,
+      "duration": 3.52,
+      "text": "right? Like you've got to manage the the"
+    },
+    {
+      "start": 1542.76,
+      "duration": 3.72,
+      "text": "secrets that you have, the the keys that"
+    },
+    {
+      "start": 1544.36,
+      "duration": 4.44,
+      "text": "you have. You want to manage the the"
+    },
+    {
+      "start": 1546.48,
+      "duration": 5.08,
+      "text": "flow of tokens that you're using, which"
+    },
+    {
+      "start": 1548.8,
+      "duration": 3.96,
+      "text": "which models calls get routed to."
+    },
+    {
+      "start": 1551.56,
+      "duration": 2.6,
+      "text": "And then if you're starting to have more"
+    },
+    {
+      "start": 1552.76,
+      "duration": 3.84,
+      "text": "autonomous running things, right? You"
+    },
+    {
+      "start": 1554.16,
+      "duration": 4.44,
+      "text": "want to contain it in some sort of uh"
+    },
+    {
+      "start": 1556.6,
+      "duration": 4.52,
+      "text": "you could call it a sandbox, a secure"
+    },
+    {
+      "start": 1558.6,
+      "duration": 4.32,
+      "text": "environment, or you know, how do you"
+    },
+    {
+      "start": 1561.12,
+      "duration": 2.96,
+      "text": "make sure you control all the network"
+    },
+    {
+      "start": 1562.92,
+      "duration": 3.2,
+      "text": "egress and"
+    },
+    {
+      "start": 1564.08,
+      "duration": 3.28,
+      "text": "ingress and egress? And then back to"
+    },
+    {
+      "start": 1566.12,
+      "duration": 3.2,
+      "text": "this, right? Like how do you control the"
+    },
+    {
+      "start": 1567.36,
+      "duration": 5.0,
+      "text": "supply chain that you have? Like if if"
+    },
+    {
+      "start": 1569.32,
+      "duration": 5.32,
+      "text": "some some issue comes out in the"
+    },
+    {
+      "start": 1572.36,
+      "duration": 4.04,
+      "text": "I don't know, back to it in the PDF"
+    },
+    {
+      "start": 1574.64,
+      "duration": 4.0,
+      "text": "extraction thing that all of your"
+    },
+    {
+      "start": 1576.4,
+      "duration": 3.88,
+      "text": "normies are using to build new slides,"
+    },
+    {
+      "start": 1578.64,
+      "duration": 3.96,
+      "text": "like how do you go through all of those"
+    },
+    {
+      "start": 1580.28,
+      "duration": 4.84,
+      "text": "thousands of little applications and"
+    },
+    {
+      "start": 1582.6,
+      "duration": 3.72,
+      "text": "patch them and and and fix them up,"
+    },
+    {
+      "start": 1585.12,
+      "duration": 3.08,
+      "text": "right? And these are all sorts of things"
+    },
+    {
+      "start": 1586.32,
+      "duration": 3.6,
+      "text": "that a platform handles. And"
+    },
+    {
+      "start": 1588.2,
+      "duration": 2.84,
+      "text": "to reference him again, my friend Oren"
+    },
+    {
+      "start": 1589.92,
+      "duration": 2.96,
+      "text": "over there, I know you can't click on it"
+    },
+    {
+      "start": 1591.04,
+      "duration": 3.56,
+      "text": "now, but you can get the slides later."
+    },
+    {
+      "start": 1592.88,
+      "duration": 5.08,
+      "text": "He's got a great paper going over what a"
+    },
+    {
+      "start": 1594.6,
+      "duration": 5.88,
+      "text": "platform does security-wise and also all"
+    },
+    {
+      "start": 1597.96,
+      "duration": 4.52,
+      "text": "other wises when it comes to like AI"
+    },
+    {
+      "start": 1600.48,
+      "duration": 2.96,
+      "text": "workloads. That's nice nice to read"
+    },
+    {
+      "start": 1602.48,
+      "duration": 3.92,
+      "text": "through."
+    },
+    {
+      "start": 1603.44,
+      "duration": 5.0,
+      "text": "So, the point of the security stuff and"
+    },
+    {
+      "start": 1606.4,
+      "duration": 4.8,
+      "text": "all the other stuff is let's let's go"
+    },
+    {
+      "start": 1608.44,
+      "duration": 4.64,
+      "text": "over two credos uh, that that we can"
+    },
+    {
+      "start": 1611.2,
+      "duration": 3.88,
+      "text": "live by. This is kind of"
+    },
+    {
+      "start": 1613.08,
+      "duration": 3.92,
+      "text": "the the negative developer credo for"
+    },
+    {
+      "start": 1615.08,
+      "duration": 3.88,
+      "text": "building a platform, right? If you build"
+    },
+    {
+      "start": 1617.0,
+      "duration": 4.44,
+      "text": "it, now you're blamed for it if"
+    },
+    {
+      "start": 1618.96,
+      "duration": 3.8,
+      "text": "something goes wrong. Uh, like you have"
+    },
+    {
+      "start": 1621.44,
+      "duration": 2.72,
+      "text": "you're you're the one you build this"
+    },
+    {
+      "start": 1622.76,
+      "duration": 3.2,
+      "text": "thing, now people think that you're the"
+    },
+    {
+      "start": 1624.16,
+      "duration": 4.24,
+      "text": "one who should be fixing it. So, it'd be"
+    },
+    {
+      "start": 1625.96,
+      "duration": 4.36,
+      "text": "cool to have someone else manage it for"
+    },
+    {
+      "start": 1628.4,
+      "duration": 4.04,
+      "text": "you. Be blamed for the applications that"
+    },
+    {
+      "start": 1630.32,
+      "duration": 3.36,
+      "text": "you have like these slides, not pixel"
+    },
+    {
+      "start": 1632.44,
+      "duration": 3.88,
+      "text": "perfect to the graphs that were in the"
+    },
+    {
+      "start": 1633.68,
+      "duration": 5.28,
+      "text": "PDF. Not I'm not pleased with this as as"
+    },
+    {
+      "start": 1636.32,
+      "duration": 3.68,
+      "text": "a normie, right? Now,"
+    },
+    {
+      "start": 1638.96,
+      "duration": 3.08,
+      "text": "for better or worse, if you're an"
+    },
+    {
+      "start": 1640.0,
+      "duration": 4.2,
+      "text": "infrastructure person, more of the credo"
+    },
+    {
+      "start": 1642.04,
+      "duration": 4.4,
+      "text": "that you end up living by, right? Is"
+    },
+    {
+      "start": 1644.2,
+      "duration": 4.84,
+      "text": "someone's built this platform and"
+    },
+    {
+      "start": 1646.44,
+      "duration": 4.24,
+      "text": "they've moved on and uh, now it's your"
+    },
+    {
+      "start": 1649.04,
+      "duration": 3.0,
+      "text": "problem, right? This is something that"
+    },
+    {
+      "start": 1650.68,
+      "duration": 3.24,
+      "text": "now you have to deal with all those"
+    },
+    {
+      "start": 1652.04,
+      "duration": 3.88,
+      "text": "coffee machines. So, if you're more of"
+    },
+    {
+      "start": 1653.92,
+      "duration": 4.64,
+      "text": "the infrastructure mind, right? Be aware"
+    },
+    {
+      "start": 1655.92,
+      "duration": 4.8,
+      "text": "of this and start to think like"
+    },
+    {
+      "start": 1658.56,
+      "duration": 3.16,
+      "text": "those developers. Do I really want them"
+    },
+    {
+      "start": 1660.72,
+      "duration": 2.44,
+      "text": "building the thing that I'm going to"
+    },
+    {
+      "start": 1661.72,
+      "duration": 3.6,
+      "text": "spend the next 5 years of my life"
+    },
+    {
+      "start": 1663.16,
+      "duration": 3.4,
+      "text": "maintaining and managing and making sure"
+    },
+    {
+      "start": 1665.32,
+      "duration": 2.6,
+      "text": "it works well?"
+    },
+    {
+      "start": 1666.56,
+      "duration": 2.8,
+      "text": "And"
+    },
+    {
+      "start": 1667.92,
+      "duration": 3.28,
+      "text": "I'll that's a personal question. I'll"
+    },
+    {
+      "start": 1669.36,
+      "duration": 4.2,
+      "text": "let I'll let you answer."
+    },
+    {
+      "start": 1671.2,
+      "duration": 4.04,
+      "text": "So, then finally, I think uh, you know,"
+    },
+    {
+      "start": 1673.56,
+      "duration": 4.16,
+      "text": "there's pretty wide agreement across all"
+    },
+    {
+      "start": 1675.24,
+      "duration": 5.6,
+      "text": "sorts of people, including one of the"
+    },
+    {
+      "start": 1677.72,
+      "duration": 4.8,
+      "text": "biggest Kubernetes proponents ever uh,"
+    },
+    {
+      "start": 1680.84,
+      "duration": 3.4,
+      "text": "out there that the notion of building"
+    },
+    {
+      "start": 1682.52,
+      "duration": 3.84,
+      "text": "your own platform on top of Kubernetes"
+    },
+    {
+      "start": 1684.24,
+      "duration": 4.2,
+      "text": "is probably not a good default choice."
+    },
+    {
+      "start": 1686.36,
+      "duration": 4.16,
+      "text": "It's better to start with the assumption"
+    },
+    {
+      "start": 1688.44,
+      "duration": 4.6,
+      "text": "that you're going to not build it and"
+    },
+    {
+      "start": 1690.52,
+      "duration": 4.48,
+      "text": "you're going to get uh, something else."
+    },
+    {
+      "start": 1693.04,
+      "duration": 3.52,
+      "text": "Uh, hopefully just buy one."
+    },
+    {
+      "start": 1695.0,
+      "duration": 4.0,
+      "text": "Uh, and you know, you'll probably will"
+    },
+    {
+      "start": 1696.56,
+      "duration": 4.56,
+      "text": "live a much happier life uh, than if if"
+    },
+    {
+      "start": 1699.0,
+      "duration": 4.76,
+      "text": "you are in the coffee machine landscape."
+    },
+    {
+      "start": 1701.12,
+      "duration": 4.44,
+      "text": "So, with that, I think it's it's uh,"
+    },
+    {
+      "start": 1703.76,
+      "duration": 3.4,
+      "text": "it's it's a good idea to stop building"
+    },
+    {
+      "start": 1705.56,
+      "duration": 3.24,
+      "text": "your own platforms and start building"
+    },
+    {
+      "start": 1707.16,
+      "duration": 4.0,
+      "text": "your own apps instead, right? Your"
+    },
+    {
+      "start": 1708.8,
+      "duration": 4.08,
+      "text": "developers should write applications."
+    },
+    {
+      "start": 1711.16,
+      "duration": 3.52,
+      "text": "That's what I like doing and all of our"
+    },
+    {
+      "start": 1712.88,
+      "duration": 3.16,
+      "text": "lives are better if apps are better. No"
+    },
+    {
+      "start": 1714.68,
+      "duration": 3.96,
+      "text": "one really cares if you've got a very"
+    },
+    {
+      "start": 1716.04,
+      "duration": 3.52,
+      "text": "robust blinking cursor."
+    },
+    {
+      "start": 1718.64,
+      "duration": 2.52,
+      "text": "Uh, like you know, you want to have"
+    },
+    {
+      "start": 1719.56,
+      "duration": 3.72,
+      "text": "applications on top of it. So, with"
+    },
+    {
+      "start": 1721.16,
+      "duration": 3.68,
+      "text": "that, uh, thanks for having me. You can"
+    },
+    {
+      "start": 1723.28,
+      "duration": 3.76,
+      "text": "get those slides so you can read orange"
+    },
+    {
+      "start": 1724.84,
+      "duration": 4.4,
+      "text": "paper, all sorts of other things uh,"
+    },
+    {
+      "start": 1727.04,
+      "duration": 4.8,
+      "text": "there if you want and uh, I appreciate"
+    },
+    {
+      "start": 1729.24,
+      "duration": 4.62,
+      "text": "it. Enjoy the rest of the conference."
+    },
+    {
+      "start": 1731.84,
+      "duration": 2.02,
+      "text": ">> [applause]"
+    },
+    {
+      "start": 1740.36,
+      "duration": 2.08,
+      "text": ">> Thank you so much."
+    },
+    {
+      "start": 1741.76,
+      "duration": 1.8,
+      "text": ">> Sure."
+    },
+    {
+      "start": 1742.44,
+      "duration": 3.2,
+      "text": ">> We have some questions."
+    },
+    {
+      "start": 1743.56,
+      "duration": 3.92,
+      "text": ">> Oh, sure. Questions."
+    },
+    {
+      "start": 1745.64,
+      "duration": 4.52,
+      "text": ">> Thank you so much for the"
+    },
+    {
+      "start": 1747.48,
+      "duration": 4.72,
+      "text": "amazing discussion. I have a question"
+    },
+    {
+      "start": 1750.16,
+      "duration": 4.44,
+      "text": "talking about number six."
+    },
+    {
+      "start": 1752.2,
+      "duration": 5.4,
+      "text": "Would you agree it is better not to"
+    },
+    {
+      "start": 1754.6,
+      "duration": 4.44,
+      "text": "follow each trend to reduce complexity?"
+    },
+    {
+      "start": 1757.6,
+      "duration": 2.16,
+      "text": ">> Is it slide number six?"
+    },
+    {
+      "start": 1759.04,
+      "duration": 2.64,
+      "text": ">> Uh"
+    },
+    {
+      "start": 1759.76,
+      "duration": 3.0,
+      "text": "I think the failure number six. But"
+    },
+    {
+      "start": 1761.68,
+      "duration": 2.96,
+      "text": "resumes, but"
+    },
+    {
+      "start": 1762.76,
+      "duration": 3.04,
+      "text": ">> Oh, yeah, yeah, yeah. Yeah, I mean, I"
+    },
+    {
+      "start": 1764.64,
+      "duration": 2.68,
+      "text": "think"
+    },
+    {
+      "start": 1765.8,
+      "duration": 3.44,
+      "text": "well,"
+    },
+    {
+      "start": 1767.32,
+      "duration": 3.76,
+      "text": "probably if if if you're working in a"
+    },
+    {
+      "start": 1769.24,
+      "duration": 4.16,
+      "text": "large organization whose business isn't"
+    },
+    {
+      "start": 1771.08,
+      "duration": 3.36,
+      "text": "selling the software that you write,"
+    },
+    {
+      "start": 1773.4,
+      "duration": 2.92,
+      "text": "I don't know, you can probably wait a"
+    },
+    {
+      "start": 1774.44,
+      "duration": 3.84,
+      "text": "year or two and see how things shake"
+    },
+    {
+      "start": 1776.32,
+      "duration": 2.96,
+      "text": "out, right? Unless it's something that"
+    },
+    {
+      "start": 1778.28,
+      "duration": 3.32,
+      "text": "is"
+    },
+    {
+      "start": 1779.28,
+      "duration": 3.84,
+      "text": "more or less proven itself. But I think,"
+    },
+    {
+      "start": 1781.6,
+      "duration": 3.96,
+      "text": "you know, things not only get better,"
+    },
+    {
+      "start": 1783.12,
+      "duration": 3.84,
+      "text": "but you're never exactly sure"
+    },
+    {
+      "start": 1785.56,
+      "duration": 2.76,
+      "text": "uh how how something's going to pan out."
+    },
+    {
+      "start": 1786.96,
+      "duration": 3.04,
+      "text": "Now, I think"
+    },
+    {
+      "start": 1788.32,
+      "duration": 3.4,
+      "text": "in addition to that, if one of the"
+    },
+    {
+      "start": 1790.0,
+      "duration": 3.52,
+      "text": "reasons to also have a platform in place"
+    },
+    {
+      "start": 1791.72,
+      "duration": 4.0,
+      "text": "is you have very good layering,"
+    },
+    {
+      "start": 1793.52,
+      "duration": 4.88,
+      "text": "something every developer enjoys and"
+    },
+    {
+      "start": 1795.72,
+      "duration": 4.44,
+      "text": "infrastructure people, is you have uh if"
+    },
+    {
+      "start": 1798.4,
+      "duration": 3.76,
+      "text": "you've layered your things out correctly"
+    },
+    {
+      "start": 1800.16,
+      "duration": 3.88,
+      "text": "or or or helpfully, your layers of"
+    },
+    {
+      "start": 1802.16,
+      "duration": 3.64,
+      "text": "abstraction, then it's easier to"
+    },
+    {
+      "start": 1804.04,
+      "duration": 4.04,
+      "text": "experiment and use newer things in the"
+    },
+    {
+      "start": 1805.8,
+      "duration": 3.92,
+      "text": "layers higher up the stack, right? Like"
+    },
+    {
+      "start": 1808.08,
+      "duration": 3.72,
+      "text": "as close to the UI as you get, the"
+    },
+    {
+      "start": 1809.72,
+      "duration": 3.4,
+      "text": "crazier generally you can be because"
+    },
+    {
+      "start": 1811.8,
+      "duration": 3.0,
+      "text": "there's a lot more control as you go"
+    },
+    {
+      "start": 1813.12,
+      "duration": 3.52,
+      "text": "down the stack, right? So, higher up the"
+    },
+    {
+      "start": 1814.8,
+      "duration": 3.92,
+      "text": "stack, it's a good idea to try out new"
+    },
+    {
+      "start": 1816.64,
+      "duration": 3.44,
+      "text": "things, but lower down the stack, you"
+    },
+    {
+      "start": 1818.72,
+      "duration": 3.32,
+      "text": "want to be a little bit more moderate in"
+    },
+    {
+      "start": 1820.08,
+      "duration": 3.68,
+      "text": "what you're doing. You know, if only"
+    },
+    {
+      "start": 1822.04,
+      "duration": 3.4,
+      "text": "because like when I want to transfer"
+    },
+    {
+      "start": 1823.76,
+      "duration": 3.4,
+      "text": "money from my bank account, I would like"
+    },
+    {
+      "start": 1825.44,
+      "duration": 4.24,
+      "text": "the money first to be there and then"
+    },
+    {
+      "start": 1827.16,
+      "duration": 3.96,
+      "text": "also transfer. So, it's cool if you just"
+    },
+    {
+      "start": 1829.68,
+      "duration": 3.88,
+      "text": "have solid infrastructure that isn't"
+    },
+    {
+      "start": 1831.12,
+      "duration": 2.44,
+      "text": "trendy."
+    },
+    {
+      "start": 1836.0,
+      "duration": 3.08,
+      "text": "All right. Thanks again."
+    },
+    {
+      "start": 1839.26,
+      "duration": 2.02,
+      "text": ">> [applause]"
+    },
+    {
+      "start": 1845.08,
+      "duration": 2.08,
+      "text": ">> Woo!"
+    }
+  ]
+}

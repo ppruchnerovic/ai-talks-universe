@@ -1,0 +1,543 @@
+{
+  "video_id": "sy-FlPZtqUQ",
+  "title": "Your First Pitch Is to AI: How to Make Your Brand/Product Visible in the Age of Generative Search",
+  "conference": "wearedevelopers",
+  "language": "en",
+  "auto_generated": true,
+  "source": "yt",
+  "timing": "exact",
+  "word_count": 563,
+  "imported_from": "presentations/kb (WeAreDevelopers agenda API)",
+  "segments": [
+    {
+      "start": 3.04,
+      "duration": 5.0,
+      "text": "Hi everyone. Right now, somewhere in the"
+    },
+    {
+      "start": 5.4,
+      "duration": 4.92,
+      "text": "world, someone is asking ChatGPT which"
+    },
+    {
+      "start": 8.04,
+      "duration": 3.64,
+      "text": "brand to trust in your category. And if"
+    },
+    {
+      "start": 10.32,
+      "duration": 2.64,
+      "text": "you are not that answer, you're"
+    },
+    {
+      "start": 11.68,
+      "duration": 3.16,
+      "text": "invisible."
+    },
+    {
+      "start": 12.96,
+      "duration": 3.36,
+      "text": "I'm a technical founder like many of you"
+    },
+    {
+      "start": 14.84,
+      "duration": 3.4,
+      "text": "in this room."
+    },
+    {
+      "start": 16.32,
+      "duration": 4.24,
+      "text": "And I feel this pain personally."
+    },
+    {
+      "start": 18.24,
+      "duration": 4.32,
+      "text": "I failed multiple startups in the past,"
+    },
+    {
+      "start": 20.56,
+      "duration": 3.4,
+      "text": "not because the products were bad. I"
+    },
+    {
+      "start": 22.56,
+      "duration": 3.48,
+      "text": "failed because the market didn't"
+    },
+    {
+      "start": 23.96,
+      "duration": 4.68,
+      "text": "understand them. And that's the brutal"
+    },
+    {
+      "start": 26.04,
+      "duration": 4.8,
+      "text": "truth about business."
+    },
+    {
+      "start": 28.64,
+      "duration": 4.16,
+      "text": "A good product is not enough."
+    },
+    {
+      "start": 30.84,
+      "duration": 4.32,
+      "text": "People need to find it. They need to"
+    },
+    {
+      "start": 32.8,
+      "duration": 3.92,
+      "text": "trust it. And they need to understand"
+    },
+    {
+      "start": 35.16,
+      "duration": 3.64,
+      "text": "why it matters."
+    },
+    {
+      "start": 36.72,
+      "duration": 3.28,
+      "text": "For years, we've been solving this"
+    },
+    {
+      "start": 38.8,
+      "duration": 4.12,
+      "text": "through"
+    },
+    {
+      "start": 40.0,
+      "duration": 4.28,
+      "text": "branding, copies, marketing agencies,"
+    },
+    {
+      "start": 42.92,
+      "duration": 4.0,
+      "text": "SEO,"
+    },
+    {
+      "start": 44.28,
+      "duration": 5.4,
+      "text": "freelancers, and industry rights. That"
+    },
+    {
+      "start": 46.92,
+      "duration": 4.72,
+      "text": "was already hard. Now, AI made it"
+    },
+    {
+      "start": 49.68,
+      "duration": 3.96,
+      "text": "brutal."
+    },
+    {
+      "start": 51.64,
+      "duration": 3.88,
+      "text": "Because your first pitch is no longer"
+    },
+    {
+      "start": 53.64,
+      "duration": 4.4,
+      "text": "only to your customer. Your first pitch"
+    },
+    {
+      "start": 55.52,
+      "duration": 4.24,
+      "text": "is to AI. And if AI cannot understand"
+    },
+    {
+      "start": 58.04,
+      "duration": 3.16,
+      "text": "your brand, it cannot recommend your"
+    },
+    {
+      "start": 59.76,
+      "duration": 5.04,
+      "text": "brand."
+    },
+    {
+      "start": 61.2,
+      "duration": 6.16,
+      "text": "And that's why we built Snovica."
+    },
+    {
+      "start": 64.8,
+      "duration": 2.56,
+      "text": "Oops."
+    },
+    {
+      "start": 68.76,
+      "duration": 6.0,
+      "text": "Hey guys, it's not Yeah, thanks."
+    },
+    {
+      "start": 72.04,
+      "duration": 2.72,
+      "text": "Next one."
+    },
+    {
+      "start": 75.0,
+      "duration": 4.68,
+      "text": "Yeah."
+    },
+    {
+      "start": 76.12,
+      "duration": 6.08,
+      "text": "Uh we analyze the market in your niche."
+    },
+    {
+      "start": 79.68,
+      "duration": 3.8,
+      "text": "We take what company already knows about"
+    },
+    {
+      "start": 82.2,
+      "duration": 4.76,
+      "text": "itself."
+    },
+    {
+      "start": 83.48,
+      "duration": 6.68,
+      "text": "And we publish the content into many"
+    },
+    {
+      "start": 86.96,
+      "duration": 5.56,
+      "text": "different places like here the website."
+    },
+    {
+      "start": 90.16,
+      "duration": 4.48,
+      "text": "Can you please switch to Yeah."
+    },
+    {
+      "start": 92.52,
+      "duration": 4.28,
+      "text": "Uh to the website, Reddit, and other"
+    },
+    {
+      "start": 94.64,
+      "duration": 5.08,
+      "text": "places. How we're doing this? We find"
+    },
+    {
+      "start": 96.8,
+      "duration": 4.6,
+      "text": "human model to follow the exact tone of"
+    },
+    {
+      "start": 99.72,
+      "duration": 3.96,
+      "text": "voice of the brand, the style, and"
+    },
+    {
+      "start": 101.4,
+      "duration": 5.36,
+      "text": "everything. We structure the message, we"
+    },
+    {
+      "start": 103.68,
+      "duration": 4.72,
+      "text": "create the content, and we put it across"
+    },
+    {
+      "start": 106.76,
+      "duration": 3.36,
+      "text": "many different sources."
+    },
+    {
+      "start": 108.4,
+      "duration": 4.64,
+      "text": "And we measure and reinforce and"
+    },
+    {
+      "start": 110.12,
+      "duration": 2.92,
+      "text": "technically repeat."
+    },
+    {
+      "start": 114.8,
+      "duration": 4.36,
+      "text": "And this is not the writing tool. This"
+    },
+    {
+      "start": 116.44,
+      "duration": 4.84,
+      "text": "is the execution layer of AI visibility."
+    },
+    {
+      "start": 119.16,
+      "duration": 4.2,
+      "text": "And under the hood, there is algorithmic"
+    },
+    {
+      "start": 121.28,
+      "duration": 6.16,
+      "text": "market analysis, structured brand"
+    },
+    {
+      "start": 123.36,
+      "duration": 4.08,
+      "text": "intelligence, and publishing logic."
+    },
+    {
+      "start": 127.92,
+      "duration": 3.2,
+      "text": "And it works pretty well."
+    },
+    {
+      "start": 131.48,
+      "duration": 4.48,
+      "text": "There are three numbers that decide"
+    },
+    {
+      "start": 132.88,
+      "duration": 8.0,
+      "text": "whether you exist. SEO traffic,"
+    },
+    {
+      "start": 135.96,
+      "duration": 4.92,
+      "text": "AI visibility, and number of leads."
+    },
+    {
+      "start": 142.6,
+      "duration": 4.72,
+      "text": "And this kind of metrics we've been able"
+    },
+    {
+      "start": 144.32,
+      "duration": 5.6,
+      "text": "to achieve within like 26 to 40 weeks"
+    },
+    {
+      "start": 147.32,
+      "duration": 4.48,
+      "text": "for our customers."
+    },
+    {
+      "start": 149.92,
+      "duration": 3.84,
+      "text": "Today, the market is fragmented. One"
+    },
+    {
+      "start": 151.8,
+      "duration": 5.36,
+      "text": "tool to write, one tool to build, one"
+    },
+    {
+      "start": 153.76,
+      "duration": 5.04,
+      "text": "tool to analyze, one tool to publish."
+    },
+    {
+      "start": 157.16,
+      "duration": 4.16,
+      "text": "But people don't need more disconnected"
+    },
+    {
+      "start": 158.8,
+      "duration": 5.0,
+      "text": "tools. They need one system."
+    },
+    {
+      "start": 161.32,
+      "duration": 4.92,
+      "text": "A system that connects publishing logic,"
+    },
+    {
+      "start": 163.8,
+      "duration": 5.6,
+      "text": "analysis, brand context,"
+    },
+    {
+      "start": 166.24,
+      "duration": 5.32,
+      "text": "and other types of intelligence."
+    },
+    {
+      "start": 169.4,
+      "duration": 5.88,
+      "text": "And that's A SYCA. We help companies to"
+    },
+    {
+      "start": 171.56,
+      "duration": 5.48,
+      "text": "become found, trusted, and chosen."
+    },
+    {
+      "start": 175.28,
+      "duration": 3.16,
+      "text": "And this is real. We have 20 plus"
+    },
+    {
+      "start": 177.04,
+      "duration": 2.84,
+      "text": "customers."
+    },
+    {
+      "start": 178.44,
+      "duration": 3.32,
+      "text": "We're in a genuine discussions with all"
+    },
+    {
+      "start": 179.88,
+      "duration": 3.44,
+      "text": "these brands, two of which we closed"
+    },
+    {
+      "start": 181.76,
+      "duration": 3.68,
+      "text": "recently."
+    },
+    {
+      "start": 183.32,
+      "duration": 3.48,
+      "text": "We have subscription-based model,"
+    },
+    {
+      "start": 185.44,
+      "duration": 4.8,
+      "text": "which is pretty affordable for the"
+    },
+    {
+      "start": 186.8,
+      "duration": 3.44,
+      "text": "smaller guys, bigger guys."
+    },
+    {
+      "start": 190.6,
+      "duration": 4.6,
+      "text": "We have a team of 28 superheroes"
+    },
+    {
+      "start": 192.96,
+      "duration": 4.52,
+      "text": "building this across SaaS, AI,"
+    },
+    {
+      "start": 195.2,
+      "duration": 3.24,
+      "text": "marketing, sales,"
+    },
+    {
+      "start": 197.48,
+      "duration": 3.24,
+      "text": "um"
+    },
+    {
+      "start": 198.44,
+      "duration": 5.0,
+      "text": "content, and enterprise delivery."
+    },
+    {
+      "start": 200.72,
+      "duration": 4.12,
+      "text": "I built and exited startups before."
+    },
+    {
+      "start": 203.44,
+      "duration": 3.48,
+      "text": "And this is"
+    },
+    {
+      "start": 204.84,
+      "duration": 3.96,
+      "text": "bigger than a product. This is a new"
+    },
+    {
+      "start": 206.92,
+      "duration": 4.56,
+      "text": "layer of business infrastructure,"
+    },
+    {
+      "start": 208.8,
+      "duration": 6.0,
+      "text": "because soon every company will need to"
+    },
+    {
+      "start": 211.48,
+      "duration": 6.08,
+      "text": "answer one question."
+    },
+    {
+      "start": 214.8,
+      "duration": 5.64,
+      "text": "Can the AI understand us clearly enough"
+    },
+    {
+      "start": 217.56,
+      "duration": 2.88,
+      "text": "to recommend us?"
+    },
+    {
+      "start": 220.88,
+      "duration": 5.16,
+      "text": "I believe the winners of next decade"
+    },
+    {
+      "start": 223.4,
+      "duration": 3.96,
+      "text": "will not just build the best products."
+    },
+    {
+      "start": 226.04,
+      "duration": 3.52,
+      "text": "They'll build"
+    },
+    {
+      "start": 227.36,
+      "duration": 4.76,
+      "text": "the brands AI can understand. They'll"
+    },
+    {
+      "start": 229.56,
+      "duration": 4.56,
+      "text": "build the websites AI can read."
+    },
+    {
+      "start": 232.12,
+      "duration": 4.44,
+      "text": "They will build the context they I can"
+    },
+    {
+      "start": 234.12,
+      "duration": 4.56,
+      "text": "trust."
+    },
+    {
+      "start": 236.56,
+      "duration": 4.64,
+      "text": "We don't need more invisible genius. So,"
+    },
+    {
+      "start": 238.68,
+      "duration": 4.48,
+      "text": "when another time a founder tells you,"
+    },
+    {
+      "start": 241.2,
+      "duration": 4.68,
+      "text": "\"Hey, we built something great, but"
+    },
+    {
+      "start": 243.16,
+      "duration": 4.76,
+      "text": "nobody sees us.\" send them to Snuka."
+    },
+    {
+      "start": 245.88,
+      "duration": 5.16,
+      "text": "Let's make sure the next great company"
+    },
+    {
+      "start": 247.92,
+      "duration": 5.72,
+      "text": "is not invisible. Thank you."
+    },
+    {
+      "start": 251.04,
+      "duration": 2.6,
+      "text": ">> Thank you."
+    }
+  ]
+}
