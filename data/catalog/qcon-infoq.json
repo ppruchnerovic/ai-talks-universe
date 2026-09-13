@@ -1,7 +1,7 @@
 {
   "slug": "qcon-infoq",
   "name": "QCon / InfoQ Dev Summit",
-  "enumerated_at": "2026-09-06T13:18:58+00:00",
+  "enumerated_at": "2026-09-13T22:06:03+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@infoq/videos",
@@ -13,11 +13,11 @@
       "url": "https://www.infoq.com/presentations/",
       "label": "InfoQ presentations",
       "year": null,
-      "count": 225,
+      "count": 224,
       "type": "infoq"
     }
   ],
-  "count": 728,
+  "count": 729,
   "videos": {
     "-1_KvpNDC6k": {
       "video_id": "-1_KvpNDC6k",
@@ -2176,6 +2176,24 @@
         "High Availability"
       ],
       "details_at": "2026-08-31T15:35:31+00:00"
+    },
+    "ECUd5FuK5q4": {
+      "video_id": "ECUd5FuK5q4",
+      "title": "Understanding Progressive Collapse: How To Avoid A Cascading Failure",
+      "duration_s": 2885,
+      "channel": "InfoQ",
+      "label": "QCon London 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "Sam Newman discusses the concept of progressive collapse in civil engineering and how it applies to distributed systems. Using real-world examples - from the 1968 Ronan Point tower failure to AWS outages - he shares crucial resilience engineering strategies for software leaders. Learn how to strengthen components, isolate failures, and reduce interconnections to prevent catastrophic cascades.\n\nSam Newman is an independent consultant. Focusing primarily on cloud, microservices architecture, and continuous delivery, he works with companies all over the world. He is an experienced conference speaker and author of the O’Reilly books Monolith To Microservices, Building Microservices, and the forthcoming Building Resilient Distributed Systems.",
+      "speakers": [
+        "Sam Newman"
+      ],
+      "page_url": "https://www.infoq.com/presentations/progressive-collapse-system-resilience/",
+      "infoq_url": "https://www.infoq.com/presentations/progressive-collapse-system-resilience/",
+      "published_at": "2026-08-19T11:00:00+0000",
+      "details_at": "2026-09-01T21:24:36+00:00",
+      "infoq_at": "2026-09-01T21:24:36+00:00"
     },
     "EJIlpIRcNbk": {
       "video_id": "EJIlpIRcNbk",
@@ -5834,6 +5852,34 @@
         "Scalability"
       ],
       "details_at": "2026-08-31T15:35:32+00:00"
+    },
+    "bfxtSZDScQs": {
+      "video_id": "bfxtSZDScQs",
+      "title": "OpenAI’s Performance Strategy for 900M ChatGPT Users",
+      "duration_s": 3015,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "How do you maintain system performance when AI agents ship 70% more PRs and your user base scales to 900 million weekly active users?\n\nIn this talk, Martin Spier (Head of ChatGPT Performance Team at OpenAI, ex-Netflix) breaks down the compound impact of agentic development on system architecture. As developer workflows shift toward multi-threaded AI execution, traditional performance engineering must evolve. Martin reveals how OpenAI scales non-GPU infrastructure, restructures latency budgets, and deploys autonomous performance agents to fix regressions before production breaks.\n\n⏱️ Video Timestamps (For Navigation)\n00:00 - The Dual Acceleration: Rapid Growth & Agentic Coding\n02:15 - Scaling ChatGPT to 900M Weekly Active Users\n04:30 - The Hidden Engineering Cost of AI-Generated PRs\n07:10 - Why Non-GPU Infrastructure (CPU & Memory) Bottlenecks AI\n09:50 - Measuring What Perception Matters: Deconstructing Latency\n12:40 - Rethinking Performance Engineering: The Always-On Agentic Loop\n15:35 - Building Autonomous Safeguards, Benchmarks, and Observability\n18:10 - The Future Role of Engineering Leaders in an AI-First Stack\n\n🔗 Transcript available on InfoQ:  https://bit.ly/3U7tHnJ   \n  \n#SoftwareArchitecture #OpenAI #PerformanceEngineering #AgenticAI #DevOps",
+      "published_at": "2026-09-07T09:00:05Z",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "Monitoring",
+        "Transcripts",
+        "Artificial Intelligence",
+        "Performance",
+        "Scalability",
+        "SOA",
+        "AI Agents",
+        "InfoQ",
+        "QCon AI Boston",
+        "Software Architecture",
+        "Agentic AI",
+        "DevOps"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
     },
     "bnxa5Te0TWc": {
       "video_id": "bnxa5Te0TWc",
@@ -9772,23 +9818,6 @@
       "published_at": "2025-11-12T14:55:00+0000",
       "page_url": "https://www.infoq.com/presentations/productivity-enjoyment/",
       "video_url": "https://videog.infoq.com/presentations/25-apr-productivity.mp4"
-    },
-    "iq-progressive-collapse-system-resilience": {
-      "video_id": "iq-progressive-collapse-system-resilience",
-      "title": "Understanding Progressive Collapse: How To Avoid A Cascading Failure",
-      "duration_s": 2885,
-      "channel": "InfoQ",
-      "label": "QCon London 2026",
-      "year": 2026,
-      "source_url": "https://www.infoq.com/presentations/",
-      "details_at": "2026-09-01T21:24:36+00:00",
-      "description": "Sam Newman discusses the concept of progressive collapse in civil engineering and how it applies to distributed systems. Using real-world examples - from the 1968 Ronan Point tower failure to AWS outages - he shares crucial resilience engineering strategies for software leaders. Learn how to strengthen components, isolate failures, and reduce interconnections to prevent catastrophic cascades.\n\nSam Newman is an independent consultant. Focusing primarily on cloud, microservices architecture, and continuous delivery, he works with companies all over the world. He is an experienced conference speaker and author of the O’Reilly books Monolith To Microservices, Building Microservices, and the forthcoming Building Resilient Distributed Systems.",
-      "speakers": [
-        "Sam Newman"
-      ],
-      "published_at": "2026-08-19T11:00:00+0000",
-      "page_url": "https://www.infoq.com/presentations/progressive-collapse-system-resilience/",
-      "video_url": "https://videog.infoq.com/presentations/26-mar-progressivecollapse.mp4"
     },
     "iq-rag-vllm": {
       "video_id": "iq-rag-vllm",

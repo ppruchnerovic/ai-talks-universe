@@ -1,7 +1,7 @@
 {
   "slug": "ai-council",
   "name": "AI Council (formerly Data Council)",
-  "enumerated_at": "2026-09-06T13:20:17+00:00",
+  "enumerated_at": "2026-09-13T22:07:18+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/c/DataCouncil/videos",
@@ -2772,7 +2772,7 @@
     "EcYB5qraEZc": {
       "video_id": "EcYB5qraEZc",
       "title": "Scaling CDC to Trillions of Rows: What Broke, What We Rebuilt, and What AI Demands Next | Artie",
-      "duration_s": 1112,
+      "duration_s": 1113,
       "channel": "AI Council",
       "label": "Data Council / AI Council",
       "year": null,
@@ -3889,7 +3889,7 @@
     "LtH4QIKXroo": {
       "video_id": "LtH4QIKXroo",
       "title": "Born Different: How AI Natives Build Startups",
-      "duration_s": 2508,
+      "duration_s": 2509,
       "channel": "AI Council",
       "label": "Data Council / AI Council",
       "year": null,

@@ -1,13 +1,13 @@
 ---
 id: 17-YSUHo6Lk
-title: "Agentic SDLC at Uber — Uday Kiran Medisetty & Adam Huda, Uber"
-slug: agentic-sdlc-at-uber-uday-kiran-medisetty-adam-huda-uber
+title: "Building Blocks for Uber’s Software Factory— Uday Kiran Medisetty & Adam Huda, Uber"
+slug: building-blocks-for-ubers-software-factory-uday-kiran
 conference: ai-engineer
 conference_name: "AI Engineer"
 category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
-speakers: ["Uday Kiran Medisetty", "Adam Huda"]
+speakers: []
 channel: "AI Engineer"
 duration_min: 18
 published_at: 2026-08-21T00:00:00Z
@@ -19,9 +19,9 @@ topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Securit
 transcript: true
 ---
 
-# Agentic SDLC at Uber — Uday Kiran Medisetty & Adam Huda, Uber
+# Building Blocks for Uber’s Software Factory— Uday Kiran Medisetty & Adam Huda, Uber
 
-**Uday Kiran Medisetty, Adam Huda**
+**Speaker not identified**
 
 `AI Engineer` · `AI Engineer` · `2026` · `18 min`
 

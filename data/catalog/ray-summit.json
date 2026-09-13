@@ -1,7 +1,7 @@
 {
   "slug": "ray-summit",
   "name": "Ray Summit (Anyscale)",
-  "enumerated_at": "2026-09-06T13:19:47+00:00",
+  "enumerated_at": "2026-09-13T22:06:48+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLzTswPQNepXnD-PksryocyeOPdK6CyZw6",
@@ -3302,8 +3302,8 @@
       "label": "Ray Summit 2025 keynotes",
       "year": 2025,
       "source_url": "https://www.youtube.com/playlist?list=PLzTswPQNepXnD-PksryocyeOPdK6CyZw6",
-      "details_at": "2026-09-06T13:24:04+00:00",
-      "description": ""
+      "description": "",
+      "details_at": "2026-09-06T13:24:04+00:00"
     },
     "cN2SX6jPS9A": {
       "video_id": "cN2SX6jPS9A",

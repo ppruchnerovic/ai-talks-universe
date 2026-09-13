@@ -1,7 +1,7 @@
 ---
 id: F2Ay09T4EHQ
-title: "1 in 7 Agent Skills Had Something Wrong With It"
-slug: 1-in-7-agent-skills-had-something-wrong-with-it
+title: "GitHub, Snyk, Docker & Anthropic on Securing AI Agents"
+slug: github-snyk-docker-anthropic-on-securing-ai-agents
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
 category: "Practitioner AI conferences"
@@ -19,7 +19,7 @@ topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 
-# 1 in 7 Agent Skills Had Something Wrong With It
+# GitHub, Snyk, Docker & Anthropic on Securing AI Agents
 
 **Speaker not identified**
 

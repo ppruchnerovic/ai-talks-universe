@@ -168,6 +168,26 @@ UcYoMg-8-L8,"500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic
 Speakers:
 - Sanja Grbic (Automattic): Sanja is a product designer based in San Francisco, with over a decade of experience, focused on turning complex technology into simple, inspiring solutions.
 X/Twitter: https://x.com/_dream_stellar"
+9wZpvF3QleU,"500 Skills, Zero Fine-Tuning: LinkedIn's Playbook for AI Agents — Ajay Prakash, LinkedIn",ai-engineer,AI Engineer,Practitioner AI conferences,"Agents & orchestration; Evals, observability & reliability; Training, fine-tuning & model building",AI Engineer,2026,Ajay Prakash,AI Engineer,20,2026-09-09T14:00:06Z,https://www.youtube.com/watch?v=9wZpvF3QleU,"LinkedIn exposes roughly 1,300 tools and 600 playbooks to its coding agents, and all of them sit behind exactly three. MCP degrades somewhere past thirty or forty tools, so Ajay Prakash's team replaced the whole surface with search, get schema, and execute, letting an agent find what it needs instead of carrying everything in context. Prakash is a senior staff software engineer at LinkedIn, and he opens with an on call incident. An alert goes to a coding agent, which pulls the debugging instructions for that specific service, fetches logs and metrics, finds the root cause, proposes mitigation steps, applies them once a human confirms, updates the incident record, and opens a PR for the underlying fix. Minutes instead of hours. The rest of the talk is about the infrastructure that makes that reliable rather than lucky.
+
+It did not start there. Agents trained on public repositories knew nothing about a thousand internal repos, custom databases, or a configuration system that new hires spend a week long boot camp learning, so engineers spent longer correcting hallucinations than writing the code themselves. An internal MCP server with code search helped, then documents, Jira, Slack, and feature flags. Tools alone still fell short, because the knowledge of how to use them sat scattered across stale wikis and old Slack threads, and every session started from nothing. Playbooks are the answer: instructions published as tools, invoked like any other tool, kept self contained and split into small referenced pieces so context arrives progressively. Agents are asked to open a PR improving any playbook they find stale, which is what keeps the corpus alive.
+
+Speaker info:
+- https://x.com/ajay_prakash_ai
+- https://www.linkedin.com/in/ajay-prakash-3780b132/
+
+Timestamps:
+0:00 - An on call incident, handled end to end
+2:48 - Why coding agents failed inside LinkedIn
+5:10 - A thousand repos on internal frameworks
+6:34 - An internal MCP, starting with code search
+8:30 - Why tools alone were not enough
+10:34 - Playbooks, instructions served as tools
+12:27 - Two rules, self contained and broken up
+14:23 - The loop that keeps playbooks fresh
+15:34 - Architecture, local and central playbooks
+17:23 - Three meta tools to scale past the MCP limit
+19:01 - Takeaways"
 0S8xe9ftGTM,6 Things to Know about AIE World's Fair 2026,ai-engineer,AI Engineer,Practitioner AI conferences,,AI Engineer,2026,,AI Engineer,18,2026-06-21T00:00:00Z,https://www.youtube.com/watch?v=0S8xe9ftGTM,"We're back in SF! Regular bird tix will sell out by Monday, and we wanted to make a little video to tell you about why you should get off your couch and come.
 
 See video for how to claim the $40k in sponsor offers for attendees, and a special youtube-only discount: YOUTUBEPROMO (for new tix only, dont be cheeky and ask for refunds pls, our team is trying to do our best with real support issues)
@@ -228,6 +248,22 @@ The session covers LiteRT, the Google AI Edge stack for running models across An
 Speaker info:
 - https://www.linkedin.com/in/weiyiwang1993
 - https://www.linkedin.com/in/chintansparikh"
+YkNulwcc5jk,"ACP: The Universal Remote Control for AI Agents — Alex Hancock, Block",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration,AI Engineer,2026,Alex Hancock,AI Engineer,11,2026-09-09T16:00:03Z,https://www.youtube.com/watch?v=YkNulwcc5jk,"Alex Hancock built one of the clients in this talk the night before he gave it, which is roughly the point. Hancock is a software engineer at Block, works on the open source agent harness Goose, now donated to the Linux Foundation, and maintains the Rust SDK for MCP. His argument is that the agentic stack already has a good standard for agents reaching outward to do things, which is MCP, and that the strongest thing about MCP is not its design but the fact that everyone uses it. What is missing is the other direction, a standard way for client software to tell a harness what to work on and to get updates back. Most harnesses today expose a bespoke interface, and in the worst case exactly one application can drive them. He compares it to needing a different browser for every website.
+
+His candidate is ACP, the agent client protocol, which came out of the Zed and JetBrains teams wanting one high quality editor client capable of driving any harness. It runs on JSON RPC and carries sessions, user messages, tool call notifications, and permission requests. It is deliberately extensible through underscore prefixed custom methods, so common patterns can surface from real usage across projects and then move onto a standards track. Hancock demonstrates Zed and a terminal client from Poolside driving the same Goose agent, then the remote HTTP and websocket transport his team specified, since the protocol had none. With remote transports for the protocol, for MCP, and for models, all four pieces of the stack, client, harness, tools, and model, become independently placeable. He expects a real client market to push user experience upward.
+
+Speaker info:
+- https://x.com/alexjhancock
+- https://www.linkedin.com/in/alexjhancock/
+
+Timestamps:
+0:00 - Goose, MCP, and ACP
+1:23 - Every harness has a bespoke interface
+2:21 - Standards create ecosystems
+3:02 - ACP, where it came from and how it works
+6:17 - Two clients driving the same agent
+7:24 - Remote transport and four movable pieces
+9:26 - Why a client ecosystem raises quality"
 khVX_BUnEwU,"Active Graph Agent Runtime (BabyAGI 4) — Yohei Nakajima, Untapped Capital",ai-engineer,AI Engineer,Practitioner AI conferences,"Agents & orchestration; Training, fine-tuning & model building",AI Engineer,2026,Yohei Nakajima,AI Engineer,18,2026-07-22T00:00:00Z,https://www.youtube.com/watch?v=khVX_BUnEwU,"Yohei Nakajima was running a 500 question eval when his API key died at question 350. Normally that means restarting the whole long agent from scratch. Instead it rolled back one step and resumed at 353, because in ActiveGraph the log is the agent. Most people build agents around the LLM and bolt on memory and logging; Nakajima, the creator of BabyAGI, flips it and builds around an immutable event log. Every action and every change to the agent flattens into one typed log, which projects a graph that is the agent's state, so you get replays, rollbacks, and forks for free.
 
 On top of the log sit behaviors that react to graph changes and emit events, policies that decide what the agent may change on its own versus what needs a human or a contradiction check, and swappable packs for memory, tools, and chat. The LLMs never talk to each other; they only touch shared state, an idea he borrows from 1970s blackboard systems and Kafka, and his hunch is that AI writes this style better than modern agent code because it has decades of training data on it. The payoff is self improvement: a loop that forks the agent, proposes a patch, gates it behind sandbox tests, and keeps it only if accuracy actually rises, and a lab that reads his blog posts, runs its own experiments, and once found a bug in its own code and opened the PR.
@@ -415,32 +451,6 @@ The talk is from Nicholas Kang and Michael Aaron at Google DeepMind's Kaggle tea
 
 Speaker info:
 - https://www.linkedin.com/in/nicholaskangjj"
-17-YSUHo6Lk,"Agentic SDLC at Uber — Uday Kiran Medisetty & Adam Huda, Uber",ai-engineer,AI Engineer,Practitioner AI conferences,"AI in the SDLC & engineering orgs; Agents & orchestration; Security, safety & red teaming",AI Engineer,2026,"Uday Kiran Medisetty, Adam Huda",AI Engineer,18,2026-08-21T00:00:00Z,https://www.youtube.com/watch?v=17-YSUHo6Lk,"More than 70% of pull requests at Uber now come from local or cloud agents, and lines of code per engineer has doubled year over year. Uday Kiran Medisetty walks through the six pieces of infrastructure underneath that, and the constraint shaping all of them shows up in the first one: every model call in the company goes through a single gateway doing Spire identity, redaction of 20 plus PII types, and five specialized safety models, with that entire guardrail budget held under 100 milliseconds. It carries 100 million requests a day across 800 projects, each one attributable to a caller, team, and project.
-
-Most of the rest is about not drowning agents in tokens. An MCP gateway crawls internal APIs into MCP servers, then projects them into a CLI so responses stay out of the context window, which cut fleetwide token use by more than 40%. A skills marketplace holds 2,500 entries behind lint checks and automated review, running 20,000 executions a day. A context graph of 150 node and edge types and 40 million entries replaces the 20 to 30 separate systems agents used to crawl for basic ownership and dependency facts. Adam Huda then takes one feature end to end, from a Slack thread to a draft PR that deliberately stops short of CI so that validation happens in the inner loop, comparing simulator screenshots against Figma specs before anything reaches a build queue. His closing point is that the bottleneck has moved to whether a thing should be built at all.
-
-Speaker info:
-Uday Kiran Medisetty:
-- https://x.com/udaykiran
-- https://www.linkedin.com/in/udaykiran/
-
-Adam Huda:
-- https://x.com/hudaman
-- https://www.linkedin.com/in/thinktopdown/
-- https://adamhuda.com
-
-Timestamps:
-0:00 - The numbers: 70% of PRs, twice the code per engineer
-1:26 - The model gateway, and a 100 millisecond guardrail budget
-3:51 - MCP gateway, and cutting the token tax
-5:48 - Dev pods, agentified into pre-provisioned balloon pods
-7:18 - A managed skills marketplace
-8:39 - The context graph, 40 million entries
-10:19 - Cortana across Slack, CLI, and web
-11:34 - One feature end to end, starting from a Slack thread
-13:28 - Minion, and stopping short of CI on purpose
-16:01 - Maintenance as a managed loop
-17:29 - The bottleneck is now whether you should build it"
 ynJyIKwjonM,"Agentic Search for Context Engineering — Leonie Monigatti, Elastic",ai-engineer,AI Engineer,Practitioner AI conferences,"Agents & orchestration; Prompting & context engineering; RAG, retrieval & knowledge",AI Engineer,2026,Leonie Monigatti,AI Engineer,63,2026-05-08T00:00:00Z,https://www.youtube.com/watch?v=ynJyIKwjonM,"Getting context into an LLM is not just a retrieval problem. It is a search problem. This workshop digs into the part of context engineering that usually gets waved away: how agents actually decide what to pull from files, databases, memory, and the web, and why that choice often matters more than the model itself.
 
 Across semantic search, general-purpose database tools, shell-based retrieval, and agent skills, Leonie Monigatti shows where each search interface works, where it breaks, and how to combine them into a more effective retrieval stack. If you're building agents and trying to make retrieval less brittle, this is a practical guide to the real mechanics behind agentic search.
@@ -1363,6 +1373,28 @@ You'll leave with the architecture, the integration decisions, and an honest vie
 
 Speakers:
 - Dr. Sajjan Kanukolanu (Position2 (Position Squared)): Dr. Sajjan Kanukolanu is VP of Global Operations and Strategy at Position², where he leads the services teams and company's AI-native transformation practice from vision to deployment."
+9R--1tg45Jg,"Build-Time vs. Run-Time: Why Dev Tools Fail in Production — Averi Kitsch & Prerna Kakkar, Google",ai-engineer,AI Engineer,Practitioner AI conferences,"Agents & orchestration; Security, safety & red teaming",AI Engineer,2026,"Averi Kitsch, Prerna Kakkar",AI Engineer,20,2026-09-09T13:00:04Z,https://www.youtube.com/watch?v=9R--1tg45Jg,"In one of the demos an agent hits an error, decides the fix is to delete the table and start fresh, and does exactly that. Nothing stops it. Averi Kitsch, technical lead for MCP Toolbox on Google Cloud databases, and Prerna Kakkar, who leads Eval Bench at Google, use that failure to draw the line their talk is named for. Build time tools serve developer assistance: control plane tools that manage instances, and natural language to SQL that writes whatever query a question needs. They are flexible, belong under a human, and do not belong in production. Run time tools are the opposite, structured SQL with parameters fixed ahead of time, closing off injection, cutting latency, and leaving no room to invent.
+
+The second half is security. A database is only as secure as the agent in front of it, and the confused deputy attack is the shape to watch. A triage agent reads a ticket, a planted instruction tells it to query the salary table and post the results back, and it complies because it has the privileges. Their answer separates user, application, and agent identity, then walks a tool from super user down to something narrow. Connection details move into a YAML source the agent never sees, read only enforcement reaches down to the driver, allowed data sets and output caps bound the blast radius, and custom tools pin the exact SQL behind prepared statements. Sensitive values like a user id are bound by the application, so the agent never handles them. They close on tool quality: outcome shaped tools, read split from write, and errors an agent can act on.
+
+Speaker info:
+- https://www.linkedin.com/in/averikitsch
+- https://averi.dev
+- https://www.linkedin.com/in/prernakakkar95/
+
+Timestamps:
+0:00 - Introductions, MCP Toolbox and managed MCP
+2:56 - Common tool patterns for databases
+4:37 - Structured SQL tools for production
+5:20 - Build time against run time
+6:16 - When a build time tool deletes the table
+8:46 - Your database is only as secure as your agent
+9:13 - The lethal trifecta and the confused deputy
+11:19 - Separating user, application, and agent identity
+12:33 - Evolving a tool from super user to constrained
+14:55 - Custom tools and prepared statements
+15:52 - Best practices for tool quality
+17:39 - Bound parameters, keeping PII from the agent"
 FlzpEGHNVKQ,"Building a Chess Coach — Anant Dole and Asbjorn Steinskog, Take Take Take",ai-engineer,AI Engineer,Practitioner AI conferences,"Evals, observability & reliability",AI Engineer,2026,"Anant Dole, Asbjorn Steinskog",AI Engineer,18,2026-05-13T00:00:00Z,https://www.youtube.com/watch?v=FlzpEGHNVKQ,"LLMs can explain things clearly but can't play chess reliably. Take Take Take (Magnus Carlsen's app) solved this by separating concerns: Stockfish handles position evaluation, tactical and positional detectors extract concepts like forks, pins, and structural weaknesses, and the LLM's only job is translating those structured signals into English. Keeping the model as a translator rather than a reasoner is what makes it work at sub-3-second latency for a consumer app.
 
 Anant Dole and Asbjørn Steinskog also walk through how they closed the feedback loop. When a user flags bad commentary, it posts to Slack and injects the event into a running Claude Code session via Channels, a new MCP feature in research preview. Claude investigates the position, modifies prompts or detectors, regenerates the commentary, and asks clarifying questions back through Slack. During the live demo, Anant was reviewing the PR from his phone.
@@ -1393,6 +1425,26 @@ Timestamps:
 7:00 - Why this does not happen locally
 8:17 - What a context engine does
 10:36 - The same agent, grounded"
+H7vFrcNWXzs,"Building ambitious software — Jonathan Kelley, Dioxus Labs & Cognition",ai-engineer,AI Engineer,Practitioner AI conferences,,AI Engineer,2026,Jonathan Kelley,AI Engineer,19,2026-09-11T20:00:06Z,https://www.youtube.com/watch?v=H7vFrcNWXzs,"The Dioxus team got excited, maxed out their coding agent subscriptions, and turned out tens of thousands of lines of Rust covering features they had wanted for years. Almost none of it cleared the bar for merging. Those lines sat in draft, and Jonathan Kelley says they are sitting there still. He calls the failure mode becoming a slop cannon. Kelley founded Dioxus Labs five years ago, spending his last undergraduate summer on a cross platform Rust app framework instead of taking an internship, and the project now carries roughly 37,000 GitHub stars and an estimated 200 million cumulative end users across apps from voting software to collision avoidance for satellites. Getting there meant building almost everything from scratch, including a rendering engine with a browser grade CSS engine lifted out of Firefox, and a hot reload engine that patches running native code in place in about 100 milliseconds.
+
+The interesting turn is what changed when the agents got good at Rust. Kelley's team spent five years trying to file down Rust's learning curve, and now treats that curve as a feature, because the agents absorb the borrow checker and the edge cases on the developer's behalf. He is specific about where this pays and where it does not. Deeply integrated Kotlin and Swift build plugins went from years of hand written work to weeks. Release checklists, backports, and documentation accuracy became tractable for a team of three. Tests did not, because agents write tests for any API but rarely the right ones, though they excel at fuzzing harnesses. His verdict: code is cheap now, quality is not, and architecture is where the time goes.
+
+Speaker info:
+- https://www.linkedin.com/in/jonathan-r-kelley
+- https://jonathan-kelley.com
+- https://github.com/dioxuslabs/dioxus
+
+Timestamps:
+0:00 - Five years ago, a first commit
+2:49 - Where the project stands now
+4:35 - Blitz and Subsecond
+6:15 - The moment agents got good at Rust
+7:07 - Why a hard language became an advantage
+10:32 - Agents as patient specialists
+13:04 - The mundane work worth automating
+15:37 - Where tests fall short, where fuzzing wins
+16:28 - Architecture is still an art
+17:19 - Reading code over writing code"
 HsxQICTLF84,"Building an ACP-Compatible Agent Live — Bennet Fenner, Zed",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration,AI Engineer,2026,Bennet Fenner,AI Engineer,18,2026-07-08T00:00:00Z,https://www.youtube.com/watch?v=HsxQICTLF84,"In this session, we'll be building a coding agent that implements ACP — covering protocol design, session lifecycle management, and handling tool calls. The session ends with a live demo of the finished agent running inside Zed, showing what ACP looks like in practice from both sides of the protocol."
 pPj_tjlvYjA,"Building an Agentic Video Editor for Mass Consumer — Ekaterina Deyneka, Reelful",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration,AI Engineer,2026,Ekaterina Deyneka,AI Engineer,13,2026-08-18T00:00:00Z,https://www.youtube.com/watch?v=pPj_tjlvYjA,"Nearly every hand in the room went up when she asked who had recorded video at the conference. Almost none stayed up for who had actually posted any of it. Ekaterina Deyneka counts herself in that gap, and Reelful is her answer to it: drop in raw footage with a line of direction, and an agent finds the usable moments, cuts them together, and generates captions, music, voiceover, and b roll around them.
 
@@ -1420,6 +1472,32 @@ In this talk, I’ll walk you through the journey of transitioning traditional s
 Speakers:
 - Angie Jones (Agentic AI Foundation): Angie Jones is the VP of Developer Experience at the Agentic AI Foundation where she guides how agentic systems are designed, implemented, and adopted across the global developer ecosystem.
 X/Twitter: https://x.com/techgirl1908"
+17-YSUHo6Lk,"Building Blocks for Uber’s Software Factory— Uday Kiran Medisetty & Adam Huda, Uber",ai-engineer,AI Engineer,Practitioner AI conferences,"AI in the SDLC & engineering orgs; Agents & orchestration; Security, safety & red teaming",AI Engineer,2026,,AI Engineer,18,2026-08-21T00:00:00Z,https://www.youtube.com/watch?v=17-YSUHo6Lk,"More than 70% of pull requests at Uber now come from local or cloud agents, and lines of code per engineer has doubled year over year. Uday Kiran Medisetty walks through the six pieces of infrastructure underneath that, and the constraint shaping all of them shows up in the first one: every model call in the company goes through a single gateway doing Spire identity, redaction of 20 plus PII types, and five specialized safety models, with that entire guardrail budget held under 100 milliseconds. It carries 100 million requests a day across 800 projects, each one attributable to a caller, team, and project.
+
+Most of the rest is about not drowning agents in tokens. An MCP gateway crawls internal APIs into MCP servers, then projects them into a CLI so responses stay out of the context window, which cut fleetwide token use by more than 40%. A skills marketplace holds 2,500 entries behind lint checks and automated review, running 20,000 executions a day. A context graph of 150 node and edge types and 40 million entries replaces the 20 to 30 separate systems agents used to crawl for basic ownership and dependency facts. Adam Huda then takes one feature end to end, from a Slack thread to a draft PR that deliberately stops short of CI so that validation happens in the inner loop, comparing simulator screenshots against Figma specs before anything reaches a build queue. His closing point is that the bottleneck has moved to whether a thing should be built at all.
+
+Speaker info:
+Uday Kiran Medisetty:
+- https://x.com/udaykiran
+- https://www.linkedin.com/in/udaykiran/
+
+Adam Huda:
+- https://x.com/hudaman
+- https://www.linkedin.com/in/thinktopdown/
+- https://adamhuda.com
+
+Timestamps:
+0:00 - The numbers: 70% of PRs, twice the code per engineer
+1:26 - The model gateway, and a 100 millisecond guardrail budget
+3:51 - MCP gateway, and cutting the token tax
+5:48 - Dev pods, agentified into pre-provisioned balloon pods
+7:18 - A managed skills marketplace
+8:39 - The context graph, 40 million entries
+10:19 - Cortana across Slack, CLI, and web
+11:34 - One feature end to end, starting from a Slack thread
+13:28 - Minion, and stopping short of CI on purpose
+16:01 - Maintenance as a managed loop
+17:29 - The bottleneck is now whether you should build it"
 31GUkCBD-Uc,"Building Closed-Loop Evals for a Multimodal Agent at Scale — Soumya Gupta & Jai Chopra, Uber",ai-engineer,AI Engineer,Practitioner AI conferences,"Agents & orchestration; Enterprise adoption & strategy; Evals, observability & reliability; Multimodal, vision, speech & robotics; Security, safety & red teaming",AI Engineer,2026,"Soumya Gupta, Jai Chopra",AI Engineer,22,2026-07-24T00:00:00Z,https://www.youtube.com/watch?v=31GUkCBD-Uc,"This talk covers how Uber designed evals for its food enhancement agent, which edits food photography to better present dishes for smaller, independent Uber Eats merchants, along with the pitfalls and lessons learned along the way.
 
 The problem is uniquely hard: the system must stay faithful to the original dish, preserve each merchant's brand and packaging, and avoid homogenizing the marketplace, all without an existing playbook for multimodal evals in a narrow domain. Soumya Gupta and Jai Chopra explain how they navigated reward hacking, built a closed feedback loop combining offline and online signals, and balanced creativity against rigid safety guardrails at scale.
@@ -2275,6 +2353,31 @@ Timestamps:
 12:16 - Synthetic data done right
 14:10 - Thomson Reuters and Arcee results
 17:43 - Cheaper than buying compute"
+y2W4FNAuPEA,"Deep dive on LLM Inference at Scale — Harshul Jain, Audible & Tanmay Sah, Independent AI Researcher",ai-engineer,AI Engineer,Practitioner AI conferences,"Classic ML & data science; Inference, serving & GPU infra; Prompting & context engineering",AI Engineer,2026,Harshul Jain,AI Engineer,88,2026-09-08T15:00:06Z,https://www.youtube.com/watch?v=y2W4FNAuPEA,"A single token of KV cache on Mistral 7B costs 131 KB. Multiply that by 16,000 tokens of context and 80 concurrent users and the cache alone wants 42 GB of GPU memory, which is why requests start failing on a 24 GB card. Harshul Jain, a senior software engineer at Audible, and Tanmay Sah, an independent AI researcher, spend this workshop building that number up from first principles. They open on three symptoms every team hits: memory that climbs with context length, time to first token that degrades as prompts grow, and throughput that collapses because a naive server answers requests one after another. The rest of the session explains what causes each one, working down through the inference pipeline into the attention layer, then into how a GPU actually splits its memory between fixed model weights and the cache that has to grow.
+
+From there the workshop splits optimization in two. Sah takes the model side, using two deliberately silly teaching devices, the ostrich algorithm for assumptions you wave through and the world cup algorithm for problems you cut into brackets, to move from quantization through multi head, multi query, grouped query, and latent attention, then flash attention and tiling. Jain takes the serving side: paged attention borrowed from operating system paging, continuous batching, prefix caching, and KV quantization, each benchmarked against a plain baseline. They close on engine selection, where their own testing found no statistical difference between vLLM and SGLang on standard workloads but a three to four times gap once agentic branching enters the picture. Slides and runnable notebooks are linked in the repo.
+
+Speaker info:
+- https://x.com/hj1393
+- https://www.linkedin.com/in/hjain1393/
+- https://harshuljain.substack.com/
+- https://www.linkedin.com/in/tanmay-sah/
+
+Timestamps:
+0:00 - Introductions and what the workshop covers
+2:43 - What LLM inference is, and why it costs so much
+5:21 - The repo, the slides, and the free GPU notebooks
+8:23 - Three pain points, memory, first token, throughput
+12:18 - Foundations, the pipeline and the attention layer
+14:53 - KV cache math and how GPU memory divides
+20:41 - Prefill and decode, and why decode is memory bound
+28:41 - Throughput, concurrency, and the trade off triangle
+34:02 - The capacity calculator and picking a GPU
+37:10 - Model optimization, quantization and attention variants
+48:04 - Flash attention, the scorecard, and a demo
+1:00:14 - Serving optimizations, paging, batching, caching
+1:06:12 - Benchmarking vLLM, and speculative decoding
+1:17:27 - vLLM against SGLang, choosing an engine, what to study next"
 Yk87oUPVaxU,"DeepSWE: A Contamination-Resistant Coding Benchmark — James Shi, Datacurve",ai-engineer,AI Engineer,Practitioner AI conferences,"Evals, observability & reliability",AI Engineer,2026,James Shi,AI Engineer,18,2026-07-26T00:00:00Z,https://www.youtube.com/watch?v=Yk87oUPVaxU,"DeepSWE is 113 software engineering tasks written from scratch, not scraped from pull requests, so a model cannot have seen them in training. Each one is a long horizon problem drawn from a real open source repository, authored by engineers who actually maintain that code, with isolated environments and program based verifiers that check observable behavior rather than trusting the model's own account. James Shi's point is that once you remove the contamination the leaderboard stops clustering: strong models pull far ahead and others, Gemini 3.1 Pro among them, fall toward the bottom.
 
 The more revealing signal is in how models fail. Some quietly expand a task beyond what was asked, a failure mode DeepSWE scores in its own right, and Claude models did this a good fraction of the time while GPT models did it less often. Stronger models also tend not to verify their own work, and there is a real gap between the ones that test what they wrote and the ones that assume it is correct. Since reward hacking is a constant temptation, the verifiers are built to be gamed as little as possible, keeping the score anchored to the objective rather than to a convincing looking rollout.
@@ -2323,6 +2426,25 @@ Timestamps:
 39:02 - Summary: The 80/20 rule and cache-based context blocks
 40:15 - Workshop takeaways: Repositories and scanners
 43:33 - Q&A Session: Addressing scalability, tooling, and cost"
+v42opQpCy60,"Design at the Speed of Adjectives — Paul Bakaus, Renaissance Geek, Inc.",ai-engineer,AI Engineer,Practitioner AI conferences,Coding assistants & agents,AI Engineer,2026,Paul Bakaus,AI Engineer,16,2026-09-10T15:30:14Z,https://www.youtube.com/watch?v=v42opQpCy60,"The instruction Impeccable loads when you type ""bolder"" ends with a challenge: show someone your work, say AI made this bolder, and if they believe you, you failed. Bakaus has built tools for more than twenty years. Impeccable is a design skill that rides on top of a coding harness rather than replacing it, working across Claude Code, Copilot, Cursor, and Codex. He opens by running the same prompt on the same bland page twice, with the skill and without, and lets the room judge. His observation is that the tells of generated design keep moving. The purple gradients are gone from frontier models. What replaced them is a beige palette, Instrument Serif, and italics, which he calls Claude beige, and which is not bad design so much as identical design.
+
+His hot take is that you cannot oneshot design, maybe not ever, because good design is context rich, iterative, and full of people with opinions. Someone still has to decide the emotional territory, what this should never feel like, who it is for. So rather than automate the decision, Impeccable hands you vocabulary to steer it: bolder, quieter, distill, polish, denser, harden. Each word is loaded with a specific meaning for your project, so bolder resolves to hierarchy, scale, and decisive type instead of gradients, glass, and neon. He maps the messy workflow, from shaping through crafting and iterating to hardening and design debt cleanup, then picks injection points along it. He also refuses his most requested feature: there will be no automatic mode, and a pull request adding one is getting closed, because the point is steering rather than abdication.
+
+Speaker info:
+- https://x.com/pbakaus
+- https://linkedin.com/in/paulbakaus
+- https://www.paulbakaus.com/
+
+Timestamps:
+0:00 - Impeccable, and a cold open you can compare
+2:46 - Blurring roles and a broken handoff
+3:51 - Direct manipulation versus fully agentic
+5:15 - Slop moved on: Claude beige, not purple gradients
+5:58 - You cannot oneshot design
+8:16 - Steering with adjectives and verbs
+9:40 - What bolder means in your context
+12:02 - Mapping the messy design workflow
+14:05 - No auto mode, and why taste is not lab grown"
 YZQsWVeN3rE,"Design Patterns for AI Trust: Juries, Libraries, and Agent Tiers — Alex Bauer, Upside.tech",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration,AI Engineer,2026,Alex Bauer,AI Engineer,17,2026-07-11T00:00:00Z,https://www.youtube.com/watch?v=YZQsWVeN3rE,"Ask an agent how much pipeline you created in Q1 and it will happily take January to March and hand back a number that is wrong in exactly the way a right one looks. Alex Bauer's fix at Upside is a librarian. Before any agent acts it consults the documentation, the library of knowledge items about the business, and the schema of prior failed queries, then comes back knowing the fiscal year runs February through April and that pipeline only counts from stage two. Bauer opens with a bedtime story about a go to market team, a tidy pile of data, and a dragon, then admits every part of it is a real problem. The hallucination problem grew up into a trust problem, and his answer is to manage agents the way you manage people: give them commander's intent, the why behind the task, and stop them micromanaging themselves.
 
 Three examples carry it. Rebuilding Upside's website, two months of work for a product marketing team at his last company, failed in one shot until he wrote down the anchor assets first, including a product capabilities reference the agent compiled with citations back to every source system. The librarian is the second. The third is jury and judge for multi touch attribution: independent analysts each build an evidence cited opinion, a consensus judge weighs the reasoning rather than the conclusions, and a split verdict expands the jury. The bonus is agent tiers. Slack's new MCP client proved too weak to consult the librarian, and any model crowbarred into a per seat subscription probably is; important work needs a strong model with subagents, plan mode, and full MCP support.
@@ -3470,6 +3592,25 @@ Timestamps
 12:16 Community research and sovereign AI efforts
 12:56 Real-world applications, from cancer therapy to offline tasks
 14:05 Closing remarks and future outlook"
+Krzs8GeiWTc,"Generative UI... in Python? — Jeremiah Lowin, Prefect",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration; Enterprise adoption & strategy,AI Engineer,2026,Jeremiah Lowin,AI Engineer,18,2026-09-10T16:30:07Z,https://www.youtube.com/watch?v=Krzs8GeiWTc,"Because only the agent can reach an MCP server, a naive file upload tool makes the agent retype the file into the server character by character. Jeremiah Lowin calls it the world's most expensive copy paste operation, and it is the problem MCP apps exist to remove. Lowin is founder and CEO of Prefect and the author of FastMCP. MCP apps, a protocol extension added this year, let a tool result skip the agent and arrive at the user as HTML, CSS, and JavaScript: a real interface a person can click. That solves one problem and creates another, because FastMCP's users are overwhelmingly Python engineers inside enterprises, and shipping React from Python is not something he would pretend to do.
+
+The way out was constraining the problem. His users are not building consumer facing branded products; they share and collect information, which means tables, forms, and charts. Prefab is the result, a Python DSL where nesting context managers builds the interface structure and every component is a class that renders as a polished one. Reactive variables give client side interactivity with no JavaScript. The pipeline runs Python to a declarative representation to a JSON protocol to a React app, and Lowin is blunt that the JSON is the actual point: a serializable UI is one an agent can generate, receive, or edit. The Python DSL, he says, was an accident he noticed later. Two details land. The Prefab documentation is rendered entirely in Prefab, editable in place. And a UI streamed as Python turned out roughly seventy percent smaller than the same UI as JSON, so they now send Python over the wire and convert it in a sandbox.
+
+Speaker info:
+- https://x.com/jlowin
+- https://www.linkedin.com/in/jlowin/
+- https://jlowin.dev
+
+Timestamps:
+0:00 - MCP apps, and bypassing the agent
+3:20 - Shipping UIs to an audience of Python engineers
+4:45 - Constraining the problem to tables, forms, charts
+5:43 - Composing a front end rather than building one
+6:37 - The DSL, and the JSON in the middle
+8:54 - Docs rendered in the thing they document
+10:13 - Interactive tools, and a chart beside a table
+12:56 - Full apps and the expensive copy paste problem
+15:15 - Generative UI, and Python beating JSON on the wire"
 Xln-On3syJk,"Generative Video at the Speed of Light — Keegan McCallum, uRun",ai-engineer,AI Engineer,Practitioner AI conferences,"Inference, serving & GPU infra; Multimodal, vision, speech & robotics",AI Engineer,2026,,AI Engineer,9,2026-08-18T00:00:00Z,https://www.youtube.com/watch?v=Xln-On3syJk,"Ten dollars now buys roughly three hours of continuously generated video, and fifty buys fifteen. Keegan McCallum sets that against the room's own habits, since plenty of hands went up for burning that much on coding tokens inside a single hour. His argument is that the interesting axis in generative video stopped being quality a while ago. Put a real time generation next to one that took minutes and the slower clip still has better motion, but it cost on the order of a hundred times more to produce.
 
 Helios, the model he serves, is a distillation of a 14 billion parameter open model, and it is one of at least forty released this year carrying real time or long horizon capability. What that unlocks has less to do with better clips than with a different interaction shape. A webcam that shows you the haircut you are considering. A visual medium for people who do not think in text, which is most of what working with AI currently demands. Content creation that stops being a slot machine where you spend ten dollars a minute on a prompt and some keyframes and hope for the shot. Steering a generation in under a second is a different job entirely. What is left is the serving problem: GPUs positioned globally, WebRTC with ICE and TURN, and several models wired into one continuous streaming pipeline that stays synchronized with user controls frame by frame.
@@ -4060,6 +4201,27 @@ Timestamps:
 15:06 - Extracting entities without misses
 16:34 - Toward zero invented securities
 20:31 - Where a number really comes from"
+XzJD1bvXKjs,"How long can your skills be before your agent forgets what you told it? — Laurie Voss, Arize AI",ai-engineer,AI Engineer,Practitioner AI conferences,"Agents & orchestration; Evals, observability & reliability",AI Engineer,2026,Laurie Voss,AI Engineer,22,2026-09-09T15:00:06Z,https://www.youtube.com/watch?v=XzJD1bvXKjs,"Laurie Voss reran a year old benchmark and the models walked straight through its ceiling without noticing it was there. IFScale asks a model to write a business report containing a list of exact words, then counts how many actually appear. A year ago frontier models started dropping instructions somewhere around 200 to 300, which is a hard limit on how much you can put in a skills file. Voss, head of developer relations at Arize AI and a cofounder of npm, first replicated that result on the three models from the original paper still reachable by API, then pointed the same test at the current frontier. They scored 100 percent immediately. He had to raise the benchmark from 500 words to 10,000 before anything broke at all. The boundary now sits near 2,000 instructions, and for the best model closer to 5,000, roughly a tenfold gain in twelve months.
+
+The stranger finding is that the models no longer fail the same way. One simply forgets, shedding nearly half its rules by 2,000. One refuses at the API level, because a pile of random words trips its safety classifier. One spends its whole thinking budget verifying instructions and leaves no room to answer. The last writes five thousand words of the report, decides the request is stupid, says so politely, and stops, which reads like a finished answer unless you get to the end. Voss argues this moves the work: fitting rules into a small budget was a compression problem and it is gone, while knowing whether the model obeyed is a verification problem that only checking outputs solves. The whole study cost 29 dollars.
+
+Speaker info:
+- https://x.com/seldo
+- https://www.linkedin.com/in/seldo/
+- https://seldo.com
+
+Timestamps:
+0:00 - The 200 instruction ceiling and where it came from
+1:49 - Not knowing whether it followed your rules
+2:58 - How the IFScale benchmark works
+4:19 - Replicating last year's result
+6:12 - Pointing the same test at current models
+7:07 - The headline, a tenfold jump in a year
+9:01 - Four models, four different ways to fail
+14:27 - What this changes in your workflow
+16:29 - Caveats, and what the test does not prove
+19:32 - Capacity went up, reliability did not
+21:06 - Compression solved, verification remains"
 KA5kPbdkK2E,"How Lovable self-improves every hour — Benjamin Verbeek, Lovable",ai-engineer,AI Engineer,Practitioner AI conferences,,AI Engineer,2026,Benjamin Verbeek,AI Engineer,19,2026-06-02T16:00:33Z,https://www.youtube.com/watch?v=KA5kPbdkK2E,"Within the first hour of launching the vent tool, the agent filed 20 complaints about a silent file copy failure. The team checked: the tool worked fine. What the agent had caught was that filenames with a space in them silently failed to copy, a bug that never surfaced in logs. Benjamin Verbeek from Lovable built it a channel to complain directly to Slack when platform limitations block it, and the first thing it did was find a real production bug.
 
 At 200,000 projects per day, Lovable runs two continuous improvement loops. The first detects sessions where a nontechnical user got stuck and then unblocked, clusters similar cases, and injects that context upstream; a holdout group measures actual project completion rates to prune stale entries when models or features change. The vent loop runs in parallel: the agent flags missing tools, broken platform behavior, and confusing docs as it works. Vent volume spikes turned out to be a reliable incident detector. A second agent now monitors the channel, deduplicates reports, and opens PRs automatically.
@@ -4587,6 +4749,27 @@ Timestamps:
 14:27 - Human approval backed by real policy
 15:52 - Works across CLIs, MCP servers, and any provider
 17:34 - Q&A"
+xo68uCibfm8,"It’s Tokens All The Way Down: How RLMs are Different — Kevin Madura, AlixPartners",ai-engineer,AI Engineer,Practitioner AI conferences,"Evals, observability & reliability; Prompting & context engineering; RAG, retrieval & knowledge",AI Engineer,2026,Kevin Madura,AI Engineer,21,2026-09-09T13:30:27Z,https://www.youtube.com/watch?v=xo68uCibfm8,"Ask a model to sum twelve numbers scattered across thirty thousand tokens and it will often get it wrong. Give it a Python REPL and it writes a few lines of regex instead. That is the shift Kevin Madura, director of advanced technology at AlixPartners, describes in recursive language models. An RLM treats its context as an object living in a REPL rather than as tokens it must attend to, so it can slice, compute over, and iterate on the input as a variable. The second property matters as much: it can delegate to another model, including itself, with its own parameters, so a hard problem decomposes recursively and only the results that matter return to the main context. On a long chain of thought benchmark that moved accuracy from 2.6 percent to 45.4 percent, with the largest gains on tasks that reduce cleanly to code.
+
+Madura frames it against what most teams do now. RAG stuffs the window until quality rots. Agents and tool calls shuttle JSON strings back and forth, leaving logic, execution, and results loosely coupled. An RLM keeps all three in one environment. He walks a cohort retention analysis where three data frames go in, the model reasons in its own REPL as if typing in a notebook, and decides itself when to stop and submit a typed answer. Then case studies: consolidating long invoices with no chunking or embedding, surfacing patterns in raw logs, optimizing an agent harness from its own traces, and generating a security report across five hundred thousand lines of code. His closing bet is that models post trained to be RLM aware will make this much stranger.
+
+Speaker info:
+- https://x.com/kmad
+- https://www.linkedin.com/in/kevinmadura/
+- https://kmad.ai
+
+Timestamps:
+0:00 - What a recursive language model is
+1:36 - Recursive decomposition and delegating to sub models
+3:25 - Benchmarks and the cost curve
+4:31 - A deterministic shell, with the model filling the middle
+5:24 - Context rot, and why an RLM avoids it
+6:21 - How this differs from RAG, agents, and tool calls
+8:00 - When to use one, and when to skip it
+9:38 - Small examples, buried numbers and data frames
+12:35 - A cohort analysis walkthrough and its traces
+15:45 - Case studies, invoices, logs, and a whole codebase
+20:04 - What happens when models become RLM aware"
 X4dEHRzBLmc,"Judge the Judge: Building LLM Evaluators That Actually Work with GEPA — Mahmoud Mabrouk, Agenta AI",ai-engineer,AI Engineer,Practitioner AI conferences,"Evals, observability & reliability",AI Engineer,2026,Mahmoud Mabrouk,AI Engineer,41,2026-04-10T10:00:06Z,https://www.youtube.com/watch?v=X4dEHRzBLmc,"Miscalibrated evals are worse than no evals. They give false confidence while being, at best, useless. This workshop walks you through building a calibrated LLM-as-a-judge, from capturing ground truth to optimizing with GEPA and assessing the judge. You will leave with an LLM-as-a-judge you can trust to actually improve your app.
 
 Mahmoud Mabrouk - Co-founder and CEO, Agenta AI
@@ -5004,6 +5187,24 @@ Timestamps:
 14:29 - What's still evolving in the spec
 16:07 - Interoperability across hosts
 17:14 - Write once, reach hundreds of millions"
+lbaXnx0KLA8,"MCP Apps: Give the Model Data, Give the User a UI — Dustin Mihalik, Indeed",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration,AI Engineer,2026,Dustin Mihalik,AI Engineer,16,2026-09-09T15:30:08Z,https://www.youtube.com/watch?v=lbaXnx0KLA8,"Adding a nice interface made the product worse. With plain text results the model would run ten or fifteen job searches, filter them, and assemble a table. Once a rendering widget was attached, it called the tool once, saw results already on screen, and stopped exploring. Dustin Mihalik is a technical fellow at Indeed working on AI platform and guardrails, and this is a lessons from the trenches account of building MCP apps for Claude, ChatGPT, and Indeed's own job seeker agent. He starts with why a UI is worth having. A text response carries no branding, and getting a host chat app to link out is genuinely hard, since it would rather you stayed; hours of eval work went into that alone. A widget gives you an apply button and a detail view without leaving the conversation.
+
+Then three rules. Anything shown to the user must also reach the model as data, or the widget is a black box and every follow up question fails. The tool description has to say a UI exists, otherwise the model narrates the same results underneath it. And the rule that supersedes the others, separate data processing from UI rendering. At Indeed that meant a plain search tool the model can call freely, plus a render widget taking a list of ids, so it can search a hundred jobs, filter to five, and show only those. Interactions need the same treatment, pushed back through update model context, or the model cannot tell which job was opened. He closes on data first design, small composable tools, and letting the render tool carry the model's own reasoning about why a result fits.
+
+Speaker info:
+- https://www.linkedin.com/in/dmihalik/
+- https://dmihalik.com
+
+Timestamps:
+0:00 - MCP apps at Indeed, and why UI matters
+1:22 - Text based results, and the linking problem
+3:13 - Rule one, show the model everything you show the user
+5:06 - Rule two, tell the description a UI exists
+6:16 - Interactions the model cannot see
+8:19 - Rule three, split data processing from rendering
+10:50 - A search tool and a separate render tool
+12:39 - Letting the model add its own reasoning
+13:34 - Takeaways, data first and small composable tools"
 sAOBXCDiDOs,"MCP Apps: Primitives, discovery, and the Future of Software - Pietro Zullo, Manufact, Inc",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration,AI Engineer,2026,Pietro Zullo,AI Engineer,29,2026-07-05T03:12:17Z,https://www.youtube.com/watch?v=sAOBXCDiDOs,"Everyone in this room knows what MCP is, but I am sure not many people know what MCP Apps are, how they work, how to build them and distribute them. By the end of this talk you'll know everything you need to join the race!
 
 MCP Apps are not just MCP servers with a UI bolted on. They're a full interaction layer: bidirectional, stateful, rendered by the host, with the model and the UI sharing live context.
@@ -5163,6 +5364,27 @@ The deeper issue is that GitHub averaged 275 million commits per week in 2025 on
 Speaker info:
 - https://www.linkedin.com/in/jessicaannbiggs
 - https://www.linkedin.com/in/jackxwang"
+8KkibGU_DDY,"Mousepower: agents that can’t be measured, can’t be managed. — Maximillian Piras, Yutori",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration,AI Engineer,2026,Maximillian Piras,AI Engineer,21,2026-09-10T15:00:39Z,https://www.youtube.com/watch?v=8KkibGU_DDY,"Selling steam engines to people who thought in horses, James Watt studied the horse gins that powered mills, worked out what one animal produced, and called it horsepower. The number was not scientific and arguably not accurate. It did not have to be. It made the improvement legible enough that someone who liked horses would try a machine. Maximillian Piras is the founding designer at Yutori, which builds computer use models: agents that drive a computer as a person would, where no API or MCP exists. His thesis is that agents have Watt's problem. This room can run agents all day, but early adopters are a biased sample, and most people cannot judge whether the tokens were worth it.
+
+He calls the current pattern overspending and underusing: token maxing into austerity, dropping out, then getting pulled back by the fear of missing out. Part of the fix is tracing spend to outcomes rather than tokens, which are only an output: bugs closed, support requests resolved. The harder part is verification. Coding got faster while review did not, so the bottleneck moved to the human reading the diff, and value cannot be judged as fast as it is produced. His framework is an entropy matrix. One axis is uncertainty in the steps a task takes, the other is uncertainty in its acceptance criteria. Too little step uncertainty and you should write a script. Too much and the task sits out of distribution with sparse rewards. Too much criteria uncertainty and verifying costs as much as doing. The sweet spot resembles an NP problem, cheaper to check than to solve, which means you can point agents at the checking too.
+
+Speaker info:
+- https://x.com/MVXMXM
+- https://www.linkedin.com/in/maximilliannyc/
+- https://www.maximin.design
+
+Timestamps:
+0:00 - Backgrounding agents in parallel, until the bill
+2:17 - Computer use models at Yutori
+3:39 - Agents have a measurement problem
+5:01 - Why early adopters are a biased sample
+5:43 - James Watt and the horse gin
+7:07 - Horsepower, inaccurate but legible
+9:12 - Overspending and underusing
+10:33 - Tokens are an output, outcomes are the point
+11:52 - The bottleneck moved to review
+13:53 - Mousepower, and a joke measuring device
+16:37 - An entropy matrix for choosing agent tasks"
 AhQpRalYlyg,"Multimodal Collaborative Agents for Next-Gen Commerce — Nidhi Kaushik Vyas, Google DeepMind",ai-engineer,AI Engineer,Practitioner AI conferences,"Agents & orchestration; Multimodal, vision, speech & robotics",AI Engineer,2026,Nidhi Kaushik Vyas,AI Engineer,21,2026-09-01T17:00:27Z,https://www.youtube.com/watch?v=AhQpRalYlyg,"Asked to redo a living room on a budget, the agent Nidhi Kaushik Vyas walks through does not start recommending. It works out what it does not know, then picks the single question worth asking: how wide is the room. Everything downstream is moot if the furniture will not fit, so that one answer carries the most information per turn. Choosing the next question by expected information gain, rather than working down a checklist, is the heart of her argument about agents that handle fuzzy intent. Most shopping agents behave like a wrapper around the search bar, she says, assuming the user already holds a well formed goal and the vocabulary to express it. Real users arrive with a vibe, and closing that articulation gap is the agent's job rather than theirs.
 
 Her loop runs discovery, research, response. Discovery assembles a working state from past conversation, personal context and any reference images, separating the hard constraints in a query from the soft ones a picture only implies, attaching a confidence score to each, and flagging the variables that must refresh in real time because stale inventory makes an answer worthless. Research decides how to ask: for a subjective preference a visual board beats a text question, and hovers and clicks then feed the confidence model. Response picks a shape, a summary for a policy question, a comparison table for two products, imagery for style. Holding it together is an autorater at every stage, including one that flips part of a query to check the extracted constraints move when they should and stay put when they should not.
@@ -5246,6 +5468,23 @@ Perspective: Knowledge is compounded by observing processes and enabling agents 
 ""The idea that we can actually observe the processes and get better at them by reflecting and improving every step of it is something that is really changed now."" (13:20 - 13:29)
 ""Satya wrote about this recently and reflected on the fact that people and agents can really compound in how they do the work and how they can create this learning loop."" (13:35 - 13:43)
 ""This is a real learning loop materialized in practice... we can enable this learning loops that will capture this differentiated capability that lives in each one of the companies and organizations we work on."" (16:40 - 17:03)"
+O1FN4awNEtM,"One Designer + AI. Hundreds of Deliverables. — Vincent Wendy, AI Engineer",ai-engineer,AI Engineer,Practitioner AI conferences,,AI Engineer,2026,Vincent Wendy,AI Engineer,17,2026-09-10T17:00:06Z,https://www.youtube.com/watch?v=O1FN4awNEtM,"Vincent Wendy pointed an agent at the sponsor banner in the lobby, a wall carrying more than 140 logos, and asked it which ones were missing. It caught every omission in the checks he ran, and he used the same trick on the conference shirt. Wendy is the senior creative designer at AI Engineer, a company of roughly twelve to fifteen people, and he is its only designer. The conference he designs for grew to 7,000 attendees, more than 140 sponsors, more than 300 speakers, and more than 600 sessions, and all of it needs something drawn: stickers, signage, landing pages, wayfinding. A thousand details, as he puts it, means a thousand ways to fail.
+
+His method has five parts: build the foundation first, make designs reusable, automate the workflows, validate the output, and remove friction. The foundation is an ordinary design system, pinned down tightly enough that a model cannot invent its own font size, which lets the marketing team build emails and flyers from the website without involving him. Room schedules once laid out by hand in Figma are now pulled fresh from live data, exported, and carried to the screens on a flash drive. A generator produces announcement graphics and trading cards for all 300 speakers, pixel perfect, pulling in headshots on its own. He shows Devin, which lives in Slack, matching a photographer's shots to the right speaker, and adding an edit button to the schedule tool the morning he needed one. His closing claim: tools stopped being the constraint, so having a real problem is the advantage.
+
+Speaker info:
+- https://id.linkedin.com/in/vinwendy
+
+Timestamps:
+0:00 - One designer for a 7,000 person conference
+2:07 - A thousand details, a thousand ways to fail
+3:22 - The design team: Devin, GPT, and Figma
+4:45 - Five ways to solve the scale problem
+6:54 - Reusable design and the schedule signage pipeline
+9:16 - The speaker announcement generator
+11:50 - Matching photos to the right speaker
+13:15 - Checking 140 sponsor logos for gaps
+14:21 - Removing friction and handling exceptions"
 EmhRyw6xeT0,"One Login to Rule Them All: Cross-App Access for MCP — Garrett Galow, WorkOS",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration,AI Engineer,2026,Garrett Galow,AI Engineer,23,2026-04-28T14:00:06Z,https://www.youtube.com/watch?v=EmhRyw6xeT0,"Connecting a coding agent to multiple services often means facing a dozen OAuth consent screens, a dozen token lifecycles, and a dozen chances for something to break. Despite having Single Sign-On, users still find themselves signing in repeatedly.
 
 This talk explores how Cross-App Access leverages a three-way trust between the MCP client, the MCP server, and the organization's Identity Provider to simplify authentication. Through the Identity Assertion Authorization Grant flow, a single SSO login is transformed into access tokens across every MCP server, offering seamless access to all applications. The session will also highlight what this pattern enables for agent identity beyond MCP.
@@ -6915,6 +7154,26 @@ Timestamps:
 12:12 - Be where the agents are, and cut the friction
 14:54 - What still holds: enablement, community, feedback
 17:02 - The curb cut argument"
+NW-jwOVr32w,"The Design-Code Roundtrip That Isn't — Jonathan Gordon, ReWeaver AI",ai-engineer,AI Engineer,Practitioner AI conferences,,AI Engineer,2026,Jonathan Gordon,AI Engineer,19,2026-09-10T14:30:11Z,https://www.youtube.com/watch?v=NW-jwOVr32w,"Jonathan Gordon was deep in a vibe coding session, ignoring the wall of text scrolling past, when the phrase innerHTML caught his eye. He knew it as an injection risk, stopped the agent, and made it revert. That was the moment he started reading the code again. Gordon has spent more than thirty years building developer tools and IDEs, and he defines his title precisely: a design code roundtrip is a full loop both ways with no loss of fidelity and persistent provenance, so you always know which line of code produced the button in front of you. In three decades he never saw that handoff close, because design and engineering optimize for different outcomes. When a single intelligence could both read design intent and write code, he thought the loop might finally shut.
+
+It did not. He tried five tool setups for a bidirectional roundtrip and every one was lossy: bindings dropped, or a design change survived while the code did not. So he built ReWeaver, demonstrated publicly here for the first time, with generated code on one side, a Figma canvas on the other, and a button marked show drift. It scans both and reports across dimensions including design quality, performance, tokens, and accessibility, which he carries from his years at Microsoft. Models still emit components with no ARIA live region, so a screen reader announces nothing. Running twelve iterations on one codebase, pure model output started near thirty percent fidelity and decayed, while deterministic guardrails held it up. It never reaches a hundred, because the last stretch is human judgment. His name for drift that accumulates unwatched is the new tech debt.
+
+Speaker info:
+- https://x.com/reweaver_ai
+- https://www.linkedin.com/in/jongor/
+- https://www.reweaver.ai
+
+Timestamps:
+0:00 - Losing the speaker notes, and what a roundtrip means
+2:10 - Thirty years of handoffs that never closed
+3:37 - Going all in on vibe coding
+5:27 - The innerHTML moment that made him read the code
+6:20 - Testing the claim that the roundtrip is solved
+7:40 - A harness with code on one side, design on the other
+9:33 - Show drift, accessibility, and what it catches
+11:50 - Deterministic guardrails versus pure model output
+14:06 - Human in control, not just in the loop
+16:25 - Nine dimensions, and trying it yourself"
 XV2oYi7kojc,"The Desktop Frontier — Ahmad Osman, Osmantic",ai-engineer,AI Engineer,Practitioner AI conferences,"Agents & orchestration; Inference, serving & GPU infra",AI Engineer,2026,Ahmad Osman,AI Engineer,18,2026-07-21T02:28:29Z,https://www.youtube.com/watch?v=XV2oYi7kojc,"@TheAhmadOsman  shows the power of local AI on stage, running frontier open models on a DGX Station.
 
 Speaker:
@@ -7548,6 +7807,26 @@ Timestamps:
 10:43 The challenge of supporting diverse model architectures
 14:33 Deep dive into infrastructure and scalability
 16:10 Conclusion and the open-source launch of SAI"
+XWcXwnysmpY,"The Spatial Harness: Bringing Agents to the Canvas — Max Drake, tldraw",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration,AI Engineer,2026,Max Drake,AI Engineer,19,2026-09-10T14:00:06Z,https://www.youtube.com/watch?v=XWcXwnysmpY,"One of Max Drake's colleagues turned a whiteboard app into a window manager, then used it to play Pong with real desktop windows. Drake is a product engineer at tldraw, the London company behind the free infinite canvas app and, more importantly to him, the SDK powering other people's canvases, including Replit's. tldraw exists because people building canvas apps got stuck on the canvas itself, on selection and resizing and matrix math, and never reached their actual product. His talk is about the same trap one layer up. Coding agents work well because code is text in and text out, the medium they were trained on. Ask one to align something in two dimensions and it falls apart. Teaching agents to understand space takes real engineering.
+
+The progression starts with getting a model to read a canvas at all, from a screenshot plus the underlying JSON. Told in one shot to make a mouse blow out a candle, it produces wind and then smoke, positioned correctly, out of ordinary shapes. That becomes the agent starter kit, MIT licensed, where an agent sets its own todos and moves its viewport to go looking for things. Then come fairies, agents rendered as visible characters you can throw around and recolor. The whimsy is load bearing: with ten agents running you read their state by glancing at them rather than reading a chat log. Select several and you get a group chat, one of them acting as orchestrator, assigning work and waiting to review it. Last is a dependency graph where every node is a coding agent, and a desktop build that lets any agent script the editor directly.
+
+Speaker info:
+- https://x.com/max__drake
+- https://www.linkedin.com/in/maxdrake1/
+- https://maxdrake.md
+
+Timestamps:
+0:00 - A demo kicked off before the talk begins
+1:08 - tldraw, the app and the SDK behind other canvases
+4:14 - Why coding agents work and canvas agents struggle
+5:08 - Teaching a model to read and act on the canvas
+7:01 - The agent starter kit goes agentic
+8:26 - Fairies, multiplayer agents you can see working
+9:49 - A group chat of agents with an orchestrator
+12:06 - One node per coding agent, in a dependency graph
+15:48 - Code mode, a window manager, and Pong
+18:05 - The canvas as a place to work with agents"
 QHBjufYK8TA,"The State of Model Routing — NVIDIA, Cognition, OpenRouter",ai-engineer,AI Engineer,Practitioner AI conferences,"Inference, serving & GPU infra",AI Engineer,2026,,AI Engineer,48,2026-08-06T17:07:24Z,https://www.youtube.com/watch?v=QHBjufYK8TA,"Run terminal bench on Opus and on Haiku and Opus scores about three times better at a tenth of the cost, even though Haiku is far cheaper per token. Alex Atallah's point is that a small model pushed outside its training distribution thrashes, calling tools in loops until it costs more than the expensive model ever would. That inverts the obvious version of model routing, where you send each task to whichever model benchmarks best on it. Walden Yan calls that approach fragile for exactly the reason agents make it worse: a session starts as a question about a codebase, becomes a feature request, then becomes live debugging, and the model you picked at the start is stranded.
 
 Cognition's answer keeps a frontier model planning and delegates the implementation, which cut the cost of Fable level intelligence by 40% while going deeper, because a cheaper model can afford to spin off three sub agents to explore a codebase. They also avoid sub agents in favor of one sidekick with a continuous running context, so the KV cache stays warm and cached tokens cost roughly ten times less. Compaction, Yan argues, is worth doing for intelligence rather than cost, since compacting forces a cache miss and model quality falls off a cliff well before the advertised million token window. The most telling story is OpenRouter's: its auto router sat almost unused for two years until openclaw began sending heartbeats every ten minutes, creating one popular app with two completely different intelligence needs.
@@ -7789,6 +8068,24 @@ Timestamps:
 14:35 - The training pipeline, borrowed wholesale from LLMs
 18:54 - What actually mattered for iterating fast
 19:46 - The stack is inverting back toward DALL-E 2"
+sDMGWK4wZ_w,"Training Taste — Thais Castello Branco, Taste Labs",ai-engineer,AI Engineer,Practitioner AI conferences,,AI Engineer,2026,"Training Taste, Thais Castello Branco",AI Engineer,15,2026-09-10T16:00:20Z,https://www.youtube.com/watch?v=sDMGWK4wZ_w,"Taste Labs analyzed more than two million websites going back a decade, and the finding that complicates the usual story is that the internet was homogenizing before AI arrived: palettes converging, layouts converging, trends spreading faster than they once did. AI did not start the collapse. It accelerated it and made it context blind, so a pet shop and a finance firm end up with the same page. Thais Castello Branco founded Taste Labs, out of stealth weeks before this talk, to attack that. She names three signatures of slop: repetition, lack of fit, and low intent. She is careful about the word taste, preferring judgment, and she rejects the idea that the fix is everyone acquiring some. Designers spend careers on it, through exposure, pattern recognition, restraint, and the nerve to break a rule on purpose.
+
+So the work is making a fuzzy domain measurable. Some pieces go nearly deterministic once the context is tight: contrast, alignment, and palette selection are things most experts score the same way. Aesthetics is where experts disagree, so that leans on data instead. Her team mined features from those sites and trained what she calls probes, small classifiers that each detect one characteristic. Stacked together, their combined frequency predicts slop, and she reports it beating the usual approach of asking a model to judge. On the solution side she argues inference time matters as much as the model, because intent and context are exchanged there. One product pushes deliberately out of distribution, breaking chosen rules while respecting a category's expectations rather than raising temperature. Another turns a brand into structured components an agent can follow and that you can grade it against.
+
+Speaker info:
+- https://x.com/thaiscbranco_
+- https://www.linkedin.com/in/thais-castello-branco/
+
+Timestamps:
+0:00 - Taste Labs, and slop as the enemy
+1:33 - Where design gets objective and where it does not
+2:53 - Greatness, and why slop is easier to define
+3:46 - Generation costs nothing, taste takes a lifetime
+5:07 - Three signatures of slop
+6:28 - Two million websites, and what they showed
+7:48 - Probes, small classifiers that predict slop
+10:31 - Going out of distribution on purpose
+11:51 - Turning a brand into something an agent can follow"
 dQ-_i1tZiws,"Tribal Dungeons of Global Shipping: AI Agents at Global Scale — Dmitry Buykin, Maersk",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration,AI Engineer,2026,Dmitry Buykin,AI Engineer,12,2026-08-29T17:30:21Z,https://www.youtube.com/watch?v=dQ-_i1tZiws,"Maersk's standard operating procedures were screenshots. A sequence of images showing what a person sees and where they click, which is a perfectly good record for a human and useless to an agent. Dmitry Buykin calls the gap tribal dungeons: the knowledge exists, just not in a form anything can execute safely. An agent version of the same procedure needs preconditions, decisions, identifiers, backend calls, validation, recovery and evidence that it actually worked. Most of the project was that translation, negotiated with the people who own the process, because experts own the what and agents own the how.
 
 His sharpest point is about where the engineering actually lives. The agent loop is not the system. The refining loop around it is, and the corpus of procedures outweighs the runtime roughly twenty to one, because the same shipping step means different things in different countries. Accuracy was not designed up front in a diagram, it was earned through more than 100,000 corrections over nine months, with heat maps turning traces into priorities and a single cell often costing the team a month or two. A correction only counts once it becomes an executable change, which is the line between an opinion and a production fix. Discovery needs agent freedom, production needs a cage, and a harness exists to make the dumb mistakes impossible rather than to give the model more room.
@@ -8898,6 +9195,26 @@ Using Bright Data's Web MCP, the demo compares blocked and unblocked runs across
 Speaker info:
 - https://il.linkedin.com/in/rafael-levi
 - https://github.com/ScrapeAlchemist"
+KcVkq5L-0f0,"Your agents lack context: Here's how to fix ""You're absolutely right!"" — Brandon Waselnuk, Unblocked",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration; Coding assistants & agents,AI Engineer,2026,Brandon Waselnuk,AI Engineer,14,2026-09-09T14:30:12Z,https://www.youtube.com/watch?v=KcVkq5L-0f0,"Unblocked ran the same prompt against the same model twice, once with a context engine behind it and once without. The run without it burned twenty one million tokens. The run with it burned ten point eight million and finished about two hours sooner. Brandon Waselnuk works in developer relations at Unblocked, and he opens with the standard his talk is named for: AI generated code should feel like it was written by someone who has been on your team for years. You became that person by asking questions, getting PRs rejected, sitting in meetings, and being on call the night production went down. An agent starts every session with none of it. Waselnuk traces how that gap compounds as teams move from tab completion toward parallel and background agents, turning into correction loops, wasted search tokens, and a review tax.
+
+He then walks through two approaches that stall. First the curated context trap, where a team writes markdown files describing the project, then has to distribute them, watch them rot, and decide who has the taste to maintain them for everyone. Then the MCP plateau, where an agent may never call the server at all, or hits satisfaction of search bias and stops at the first plausible answer while last night's Slack thread saying to do the opposite goes unread. Access to information, he argues, is not understanding. The rest of the talk covers the six things a real engine owes you, among them conflict resolution, personalized relevance, and permission enforcement, and closes on three open source tools his team has released, including a workshop that builds a relational context engine from scratch.
+
+Speaker info:
+- https://x.com/BrandonWaselnuk
+- https://ca.linkedin.com/in/brandonwaselnuk
+- https://github.com/unblocked/engineering-social-graph?utm_source=aie+worldfair
+- https://github.com/unblocked/repo-rules-agent?utm_source=aie+worldfair
+- https://github.com/unblocked/document-query-engine?utm_source=aie+worldfair
+
+Timestamps:
+0:00 - Why AI code should feel like a teammate wrote it
+1:50 - How bad context compounds as agents scale
+4:20 - Two dead ends, curated context and the MCP plateau
+5:52 - What a context engine actually has to do
+7:26 - Inside the engine and its six characteristics
+9:16 - The same prompt with and without context
+10:11 - Three open source tools to try
+12:25 - Beyond code generation, and closing"
 bZISsg7H7DA,"Your Agents Need a Save Button - Hamza Tahir, ZenML",ai-engineer,AI Engineer,Practitioner AI conferences,"Agents & orchestration; Inference, serving & GPU infra",AI Engineer,2026,Hamza Tahir,AI Engineer,17,2026-07-18T07:00:06Z,https://www.youtube.com/watch?v=bZISsg7H7DA,"Most of an agent's life is spent waiting - on a tool, a human, the next step - and the whole time you're holding a live process awake and billing for it. Multiply that across every agent your org wants to run overnight and the math stops working.
 
 A save button fixes the obvious stuff: freeze an agent to durable state, drop its compute to zero, bring it back in milliseconds when there's work, and if it crashes, resume from the last save instead of re-burning every token from the top.
@@ -16171,6 +16488,21 @@ Learn how to move past the technical noise, overcome imposter syndrome in massiv
 16:40 - Q&A: Incentivization, Dealing with Loud Stakeholders, and Netflix’s ""Disagree and Commit"" Culture
 
 🔗 Transcript and slides available on InfoQ: https://bit.ly/4g6raTx"
+bfxtSZDScQs,OpenAI’s Performance Strategy for 900M ChatGPT Users,qcon-infoq,QCon / InfoQ Dev Summit,General software conferences,"AI in the SDLC & engineering orgs; Agents & orchestration; Evals, observability & reliability",InfoQ,2026,,InfoQ,50,2026-09-07T09:00:05Z,https://www.youtube.com/watch?v=bfxtSZDScQs,"How do you maintain system performance when AI agents ship 70% more PRs and your user base scales to 900 million weekly active users?
+
+In this talk, Martin Spier (Head of ChatGPT Performance Team at OpenAI, ex-Netflix) breaks down the compound impact of agentic development on system architecture. As developer workflows shift toward multi-threaded AI execution, traditional performance engineering must evolve. Martin reveals how OpenAI scales non-GPU infrastructure, restructures latency budgets, and deploys autonomous performance agents to fix regressions before production breaks.
+
+⏱️ Video Timestamps (For Navigation)
+00:00 - The Dual Acceleration: Rapid Growth & Agentic Coding
+02:15 - Scaling ChatGPT to 900M Weekly Active Users
+04:30 - The Hidden Engineering Cost of AI-Generated PRs
+07:10 - Why Non-GPU Infrastructure (CPU & Memory) Bottlenecks AI
+09:50 - Measuring What Perception Matters: Deconstructing Latency
+12:40 - Rethinking Performance Engineering: The Always-On Agentic Loop
+15:35 - Building Autonomous Safeguards, Benchmarks, and Observability
+18:10 - The Future Role of Engineering Leaders in an AI-First Stack
+
+🔗 Transcript available on InfoQ:  https://bit.ly/3U7tHnJ"
 jA9XLa3ugMU,Patrick Debois: Why Your Job Is Shifting from Coding to Managing Agents,qcon-infoq,QCon / InfoQ Dev Summit,General software conferences,AI in the SDLC & engineering orgs; Agents & orchestration,InfoQ,2026,,InfoQ,47,2026-03-23T07:36:34Z,https://www.youtube.com/watch?v=jA9XLa3ugMU,"The ""Father of DevOps"" returns to redefine the next era of software engineering!
 
 As AI moves from simple tab-completion to autonomous agentic workflows, the role of the senior developer is undergoing a radical unbundling. In this deep dive, Patrick Debois (co-author of The DevOps Handbook) explores the 4 emerging patterns of ""AI Native"" development and why the future of engineering isn't about writing code - it's about Intent Engineering and Review.
@@ -16961,7 +17293,7 @@ Write for InfoQ: Learn and share the changes and innovations in professional sof
 - Join a community of experts.
 - Increase your visibility.
 - Grow your career."
-iq-progressive-collapse-system-resilience,Understanding Progressive Collapse: How To Avoid A Cascading Failure,qcon-infoq,QCon / InfoQ Dev Summit,General software conferences,,QCon London 2026,2026,Sam Newman,InfoQ,48,2026-08-19T11:00:00+0000,https://www.infoq.com/presentations/progressive-collapse-system-resilience/,"Sam Newman discusses the concept of progressive collapse in civil engineering and how it applies to distributed systems. Using real-world examples - from the 1968 Ronan Point tower failure to AWS outages - he shares crucial resilience engineering strategies for software leaders. Learn how to strengthen components, isolate failures, and reduce interconnections to prevent catastrophic cascades.
+ECUd5FuK5q4,Understanding Progressive Collapse: How To Avoid A Cascading Failure,qcon-infoq,QCon / InfoQ Dev Summit,General software conferences,,QCon London 2026,2026,Sam Newman,InfoQ,48,2026-08-19T11:00:00+0000,https://www.youtube.com/watch?v=ECUd5FuK5q4,"Sam Newman discusses the concept of progressive collapse in civil engineering and how it applies to distributed systems. Using real-world examples - from the 1968 Ronan Point tower failure to AWS outages - he shares crucial resilience engineering strategies for software leaders. Learn how to strengthen components, isolate failures, and reduce interconnections to prevent catastrophic cascades.
 
 Sam Newman is an independent consultant. Focusing primarily on cloud, microservices architecture, and continuous delivery, he works with companies all over the world. He is an experienced conference speaker and author of the O’Reilly books Monolith To Microservices, Building Microservices, and the forthcoming Building Resilient Distributed Systems."
 k7VqRPK7sHw,Vibecoding your Own Multi-Agent Workstation,qcon-infoq,QCon / InfoQ Dev Summit,General software conferences,Agents & orchestration; Coding assistants & agents,InfoQ,2026,,InfoQ,46,2026-06-24T09:00:24Z,https://www.youtube.com/watch?v=k7VqRPK7sHw,"No off-the-shelf AI coding tool fits every developer's workflow.
@@ -26363,6 +26695,7 @@ Don't miss out on the annual highlight of every developer's calendar - the WeAre
 Secure your spot at https://www.wearedevelopers.com/world-congress and save 10% with the code ""wearedevs_yt""
 ---------------"
 yuOoyrIB_gk,AI in Your Browser: Exploring Chrome's Built-In LLM,wearedevelopers,WeAreDevelopers World Congress,General software conferences,,World Congress 2026,2026,Daniel Ostrovsky,WeAreDevelopers,30,2026-07-09T14:50:00+00:00,https://www.youtube.com/watch?v=yuOoyrIB_gk,"Let's see how Chrome’s built-in AI is changing the future of web development. In this talk we will try on-device and hybrid AI capabilities, including APIs for tasks like translation, summarization, and general chat-based interactions. We’ll look at real-world use cases, practical examples, and how these tools can enhance user experiences and make applications even better. Learn how to integrate these features into your projects and stay ahead in the new world of AI-driven web development."
+Zjbc_CQHAKQ,"AI Music Detectors, Translating Ancient Languages & Tiny Heads in Teslas - Eddie Jaoude",wearedevelopers,WeAreDevelopers World Congress,General software conferences,,WeAreDevelopers,2026,Eddie Jaoude,WeAreDevelopers,6,2026-09-11T15:02:34Z,https://www.youtube.com/watch?v=Zjbc_CQHAKQ,"On this edition of Fake or News, Eddie Jaoude looks to tell whether a streaming service has built an AI-music detection tool for its competitors, whether AI can translate ancient languages and if a tiny head in a Tesla is enough to trick a supposedly-sophisticated system."
 _h8sn3tudYo,"AI Search Insights from OtterlyAI: What We Tested, What Failed, and What Actually Works",wearedevelopers,WeAreDevelopers World Congress,General software conferences,,World Congress 2026,2026,Klaus-M. Schremser,WeAreDevelopers,30,2026-07-09T13:30:00+00:00,https://www.youtube.com/watch?v=_h8sn3tudYo,"The world of search is changing and AI searches (+LLMs) are helping businesses and people to find new products and services. ChatGPT, Claude and others are answering questions about which products to purchase.
 Businesses have to start monitoring their visibility in AI search and find new ways to optimize how they are shown against competitors. We are sharing our experiments and learnings in this market - what works, what failed and what we anticipate will happen in the future."
 XrlMC5sM68I,"AI That Fits Your Business, Not the Other Way Around",wearedevelopers,WeAreDevelopers World Congress,General software conferences,"Enterprise adoption & strategy; Inference, serving & GPU infra",World Congress 2026,2026,"Anshul Jindal, Cansu Kavili Örnek",WeAreDevelopers,26,2026-07-09T14:10:00+00:00,https://www.youtube.com/watch?v=XrlMC5sM68I,"our models. Your data. Your choice.
@@ -27348,6 +27681,21 @@ WeAreDevelopers is the global platform for developers and AI professionals to gr
 Head to worldcongress.dev to secure 10% with the code ""wearedevs_yt""
 ------------------"
 3UHE26i_lfM,How to govern Vibe Coding for the Enterprise,wearedevelopers,WeAreDevelopers World Congress,General software conferences,"Coding assistants & agents; Governance, ethics & regulation; Security, safety & red teaming",World Congress 2026,2026,Neena Thomas,WeAreDevelopers,17,2026-07-10T11:40:00+00:00,https://www.youtube.com/watch?v=3UHE26i_lfM,"Explore the critical role of security and governance in AI development and app building within various teams. As organizations scale their AI initiatives, governance isn't just a safeguard; it's the foundation that makes speed sustainable. This is a thought leadership conversation on why enterprise-grade security must be built at the platform level from the start."
+1T5iCJbirOo,How to Stop Your Agents From Going Rogue - Arnav Gupta,wearedevelopers,WeAreDevelopers World Congress,General software conferences,Agents & orchestration; Enterprise adoption & strategy,WeAreDevelopers,2026,Arnav Gupta,WeAreDevelopers,24,2026-09-09T10:05:37Z,https://www.youtube.com/watch?v=1T5iCJbirOo,"Join us at Corgi Cafe for an intriguing chat with Arnav Gupta on the future of AI and security in development. Insightful discussion on Prisma's role in tech. Share your thoughts!
+
+00:00 Introduction
+01:44 Prisma App
+02:56 AI Security
+07:31 Industry Focus
+12:39 Open Source Benefits
+19:45 AI Adoption Challenges
+21:25 Coincidental Meeting
+23:36 Closing Thoughts
+
+---------------
+WeAreDevelopers is the global platform for developers and AI professionals to grow, connect, and lead in the age of AI. Millions of professionals use our year-round platform to build skills, explore thousands of hours of expert content, find career opportunities, and engage with a community that shares knowledge at scale. Companies partner with us to reach developers authentically, strengthening their employer brand, engaging top talent, and showcasing their products to a global network. Our flagship events in Europe, North America, and India bring together the world’s leading engineers, tech leaders, and companies. Together, we are driving the innovations that define the next era of technology.
+Head to worldcongress.dev and wearedevelopers.us to secure 10% with the code ""wearedevs_yt""
+---------------"
 pn2voTq4mxY,How to Submit CFPs and Get into Public Speaking - Moran Weber,wearedevelopers,WeAreDevelopers World Congress,General software conferences,Enterprise adoption & strategy,WeAreDevelopers,2026,Moran Weber,WeAreDevelopers,51,2026-07-23T10:43:04Z,https://www.youtube.com/watch?v=pn2voTq4mxY,"On this episode of Coffee with Developers we sit down with Women on Stage CEO Moran Weber to hear her insights into how developers can build confidence with public speaking, and how to nail a CFP.
 
 WeAreDevelopers is the global platform for developers and AI professionals to grow, connect, and lead in the age of AI. Millions of professionals use our year-round platform to build skills, explore thousands of hours of expert content, find career opportunities, and engage with a community that shares knowledge at scale. Companies partner with us to reach developers authentically, strengthening their employer brand, engaging top talent, and showcasing their products to a global network. Our flagship events in Europe, North America, and India bring together the world’s leading engineers, tech leaders, and companies. Together, we are driving the innovations that define the next era of technology.
@@ -28960,6 +29308,22 @@ In this session, we show how to put the user back where value is actually create
 We also show why this takes more than one shiny model or a preferred platform: it requires technology-agnostic thinking, end-to-end delivery discipline, built-in quality and compliance, governance and security, and the ability to scale solutions across markets under the respective regulatory standards.
 
 You will learn how to turn AI-augmented engineering from a promising idea into solutions users adopt, businesses trust, and organizations can scale in the real world."
+z4-_eCPNGlI,Using Agents to Curate the Content You See Online - Dan Gish,wearedevelopers,WeAreDevelopers World Congress,General software conferences,Agents & orchestration,WeAreDevelopers,2026,Dan Gish,WeAreDevelopers,13,2026-09-09T10:01:38Z,https://www.youtube.com/watch?v=z4-_eCPNGlI,"Join us for a coffee chat with Dan Gish at AgentCon! Discover how EvoGENT lets you control your social media experience. Share your thoughts in the comments!
+
+00:00 Introduction
+00:49 EvoGENT Explained
+01:38 Personalization Features
+02:33 Platform Compatibility
+04:17 Project Inspiration
+06:38 Tech Architecture
+08:36 Open Source Concerns
+11:01 Deployment Options
+12:17 Event Impressions
+12:32 Conclusion
+-----------------
+WeAreDevelopers is the global platform for developers and AI professionals to grow, connect, and lead in the age of AI. Millions of professionals use our year-round platform to build skills, explore thousands of hours of expert content, find career opportunities, and engage with a community that shares knowledge at scale. Companies partner with us to reach developers authentically, strengthening their employer brand, engaging top talent, and showcasing their products to a global network. Our flagship events in Europe, North America, and India bring together the world’s leading engineers, tech leaders, and companies. Together, we are driving the innovations that define the next era of technology.
+Head to worldcongress.dev and wearedevelopers.us to secure 10% with the code ""wearedevs_yt""
+-----------------"
 Hd1mkcg4fps,"Using AI in Talent Teams: What Works, What Doesn’t",wearedevelopers,WeAreDevelopers World Congress,General software conferences,Enterprise adoption & strategy,WeAreDevelopers,2026,,WeAreDevelopers,47,2026-03-13T11:41:02Z,https://www.youtube.com/watch?v=Hd1mkcg4fps,"In this episode, Rudi Bauer talks with Alla Pavlova, AI Enabling Trainer and Interim Recruitment at Riot Games, about how AI is transforming the work of recruiters and talent acquisition teams.
 
 They discuss the current state of AI in HR, why it’s important to start with real needs before adopting new tools, and which parts of recruiting should stay human while others can be automated. Alla also shares practical examples of AI tools, reflects on bias in AI-assisted hiring, and explains why closer collaboration between tech and people teams is becoming essential.
@@ -29020,6 +29384,7 @@ In this talk, I’ll present a vertical slice architecture where each feature te
 Instead of organizing codebases by technical layers, we organize by business features. This reduces coordination overhead, increases deployment independence, and aligns teams with product outcomes."
 G4CnddiaktA,WeAreDevelopers LIVE - Making Tech More Human - Jason Torres,wearedevelopers,WeAreDevelopers World Congress,General software conferences,,WeAreDevelopers,2026,Jason Torres,WeAreDevelopers,48,2026-08-28T15:33:10Z,https://www.youtube.com/watch?v=G4CnddiaktA,"WeAreDevelopers is the global platform for developers and AI professionals to grow, connect, and lead in the age of AI. Millions of professionals use our year-round platform to build skills, explore thousands of hours of expert content, find career opportunities, and engage with a community that shares knowledge at scale. Companies partner with us to reach developers authentically, strengthening their employer brand, engaging top talent, and showcasing their products to a global network. Our flagship events in Europe, North America, and India bring together the world’s leading engineers, tech leaders, and companies. Together, we are driving the innovations that define the next era of technology.
 Head to worldcongress.dev to secure 10% with the code ""wearedevs_yt"""
+FUqyA8tWhyE,WeAreDevelopers LIVE - Open Source Agent Toolkits - Eddie Jaoude,wearedevelopers,WeAreDevelopers World Congress,General software conferences,Agents & orchestration,WeAreDevelopers,2026,Eddie Jaoude,WeAreDevelopers,61,2026-09-11T15:01:32Z,https://www.youtube.com/watch?v=FUqyA8tWhyE,"On this episode of WeAreDevelopers LIVE we welcome Eddie Jaoude to talk about his role as Developer Advocate at PayPal and how he used their open source AI Toolkit to build CodeReel, and take a look at the tech news from the week before playing a round of Fake or News."
 3cWtjauX8MU,WebMCP - Making Agents a First-Class Citizen of the Web,wearedevelopers,WeAreDevelopers World Congress,General software conferences,Agents & orchestration,WeAreDevelopers,2026,,WeAreDevelopers,31,2026-02-20T11:24:53Z,https://www.youtube.com/watch?v=3cWtjauX8MU,"Web agents are booming — but today’s web was built for humans, not bots. In this Coffee with Developers episode, we are joined by Andre Cipriani Bandarra & François Beaufort to explore WebMCP (Web Model Context Protocol): a proposal (now in Chrome Canary preview) that lets websites expose structured tools to browser agents instead of forcing them to “click like a human.”
 
 We cover what MCP is, how WebMCP works, the declarative form-annotation API vs the imperative JavaScript API, and why this can make automation faster, more reliable, and less token-hungry. Plus: a live demo using a Chrome extension tool inspector and a reservation form that agents can complete with just a couple HTML attributes.
@@ -32322,36 +32687,6 @@ Chapters:
 
 🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/iao
 🔔 Subscribe for weekly episodes on AI-native development"
-F2Ay09T4EHQ,1 in 7 Agent Skills Had Something Wrong With It,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"Agents & orchestration; Security, safety & red teaming",Tessl,2026,,AI Native Dev,10,2026-08-31T16:00:25Z,https://www.youtube.com/watch?v=F2Ay09T4EHQ,"Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:
-
-Harness engineering has a security problem: the skills, tools and memory we hand coding agents arrive with no permissions, no sandboxing and no controls at all. Four talks from AI DevCon London on what that actually costs.
-
-Joseph Katsioloudes (GitHub Security Lab) opens with the gap the industry is trying to close — roughly one application security specialist for every hundred developers — and argues the answer isn't shifting left, it's starting left. Liran Tal (Snyk) scanned around 4,000 published agent skills and found about 1 in 7 carried malware, suspicious downloads or credential harvesting, in a file format with nowhere to declare a permission. Oleg Šelajev (Docker) demos an agent refusing a dangerous skill, then complying once the same instruction is rewritten as Python, wrapped in a module and the context is cleared. And Lamis Mukta (Anthropic) closes on the unglamorous engineering that makes agent memory safe in production: versioning, so a poisoned memory can be rolled back, and a hash check, so two agents can't overwrite each other.
-
-What we cover:
-– Why one security specialist per 100 developers is the gap AI could close
-– What a scan of 4,000 published agent skills actually turned up
-– Why a SKILL.md file has nowhere to declare permissions or sandboxing
-– How clearing the context talks an agent past its own refusal
-– The guardrails an agent harness needs before memory reaches production
-
-Chapters:
-00:00:00 - Introduction
-00:00:35 - Joseph Katsioloudes, GitHub Security Lab: AI and code security
-00:01:47 - One security specialist for every 100 developers
-00:02:38 - Why ""shift left"" should be ""start left""
-00:02:59 - Liran Tal, Snyk: what's inside 4,000 published skills
-00:04:12 - 1 in 7 skills had something wrong with it
-00:05:16 - Oleg Šelajev, Docker: getting an agent to run what it refused
-00:06:56 - Clearing the context, and the agent complies
-00:07:31 - Lamis Mukta, Anthropic: keeping agent memory safe
-00:09:09 - Concurrency, and stopping two agents overwriting each other
-
-Build your software factory, one workflow at a time, with Tessl:
-
-🔔 Subscribe for weekly videos on AI-native development
-
-Which of these four would keep you up at night? Tell us in the comments."
 TYDOqlDtu0I,4 Agent Skill Pitfalls (and the Fix): Context Development Lifecycle,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"Agents & orchestration; Evals, observability & reliability; Prompting & context engineering",Tessl,2026,,AI Native Dev,31,2026-05-28T12:15:12Z,https://www.youtube.com/watch?v=TYDOqlDtu0I,"A smaller Anthropic model, surprisingly, matches the performance of frontier models when given the right context. This revelation, found in Baptiste Fernandez's exploration of nine models across eleven Node.js agent skills, highlights the shift from coding to mastering context as the real bottleneck in AI development. The community remains divided, exposing a common struggle: optimizing context for agent efficacy.
 
 Baptiste Fernandez, a developer advocate at Tessl, dives deep into the Context Development Lifecycle, drawing from his diverse background in economics and tech from Uber to TikTok. He brings real-world insights into generating, evaluating, and distributing context to enhance AI agent performance, making his perspective invaluable to any team grappling with agent skill pitfalls.
@@ -32381,6 +32716,37 @@ Chapters:
 
 🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.io
 🔔 Subscribe for weekly episodes on AI-native development"
+GRixg2mdJJA,850 PRs a Week: How Tessl Runs a Software Factory,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,AI in the SDLC & engineering orgs,Tessl,2026,,AI Native Dev,51,2026-09-02T12:00:36Z,https://www.youtube.com/watch?v=GRixg2mdJJA,"The software factory that put up 850 pull requests in a week, with 85 to 90% of them handled by agents end to end. Tessl's Head of Product Dru Knox on how it actually got built, why it started with skills rather than automation, and the two things nobody expects a factory to change. Guy Podjarny digs into the skills-to-loops-to-factory path, and what breaks when you skip a step.
+
+What we cover:
+– What a software factory actually is, and how it differs from a pile of disconnected automations
+– Loop engineering: turning a skill into something that gets better every time it runs
+– Why context engineering has to come before automation, and what stalls when it doesn't
+– The two gains nobody forecasts from extra agent capacity: quality and fungibility
+– Verifiers and evals, or how you enforce a standard that agents are free to ignore
+– Context-driven code review, and why a general-purpose reviewer plateaus
+
+Watch:
+- Kikimora minidoc: https://youtu.be/u37qkpp5eB8
+- Tessl Code Review: https://youtu.be/ptwholFiAZg
+
+Chapters:
+00:00:00 - Introduction
+00:03:23 - Kikimora: Tessl's own dark factory
+00:04:45 - Skills, loops and factories, defined
+00:09:09 - 850 PRs a week, and the road to it
+00:11:27 - The surprises: quality and fungibility
+00:13:16 - Why a factory has to be context centric
+00:16:40 - Context-driven code review and the wall teams hit
+00:22:51 - Skills inventory across your whole code estate
+00:28:38 - Verifiers, evals and enforcing what you wrote down
+00:37:30 - Loops, automations and owning your software factory
+
+Build your software factory, one workflow at a time, with Tessl:
+
+🔔 Subscribe for weekly episodes on AI-native development
+
+If you've hit the plateau Dru describes, tell us where it stopped compounding for you."
 SEAVE9XgBbM,A Developer's Guide to Not Getting Replaced by Agents,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,AI in the SDLC & engineering orgs; Agents & orchestration; Enterprise adoption & strategy,Tessl,2026,,AI Native Dev,61,2026-03-10T14:22:21Z,https://www.youtube.com/watch?v=SEAVE9XgBbM,"The best developers often find themselves discarding their AI agent's output without hesitation. It sounds counterproductive. It works. This paradoxical approach, where multiple agents are run but only one is used effectively, mimics treating AI like a junior developer with much to learn.
 
 Daniel Jones, head of product at re:cinq, has guided countless developers across Northern Europe's largest enterprises through this complex landscape. In a conversation with Simon Maple, Jones reveals the unconventional habits and hard data driving effective agentic development teams.
@@ -32549,6 +32915,37 @@ Build your software factory, one workflow at a time, with Tessl:
 🔔 Subscribe for weekly videos on AI-native development
 
 Which of the three limits bites hardest in your setup — human time, attention, or the context window? Tell us in the comments."
+DFDyRt4cU1Q,"Baz, Docker & Meta on Verifying Agent Code",ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,AI in the SDLC & engineering orgs; Agents & orchestration,Tessl,2026,,AI Native Dev,10,2026-09-10T15:00:16Z,https://www.youtube.com/watch?v=DFDyRt4cU1Q,"Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:
+
+Coding agent reliability fails at verification, not generation. A lot of speakers at AI DevCon London said a version of the same thing: the hard part isn't writing the code, it's proving it does what you asked. Four of them on what they tried, and what actually pinned the behavior down.
+
+Shachar Azriel (Baz) wrote a detailed spec, attached a screen recording of the exact bug he did not want repeated, and got that exact bug back — coding agents are built to generate features, not to fully extract a spec or verify the result. Justin Cormack (formerly CTO at Docker) wrote 350,000 lines of Rust with agents, chased 100% test coverage on the advice going round, and found the agent writing tests for a failing random number generator; what actually locked the behavior down was 1,500 tests run against S3 as a test oracle. Ian Thomas (Meta) heard ""can we trust the code?"" in nearly every workshop he ran, and answered it with an anti test slop initiative that uses a different AI tool to judge whether AI-generated tests are worth having. And Christopher Batey on what you do when a 7,000-line pull request lands: stop pretending you can review it, and move the human decision earlier into architecture decision records that agents are then very good at checking code against.
+
+What we cover:
+– Why coding agent reliability breaks down at verification rather than generation
+– What happened when a spec came with a video of the exact bug to avoid
+– Whether 100% test coverage means anything across 350,000 agent-written lines
+– Using a real system as a test oracle instead of testing the impossible
+– Meta's anti test slop initiative, and judging AI's tests with AI
+– Moving the human review earlier, into architecture decision records
+
+Chapters:
+00:00:00 - Introduction
+00:00:22 - Shachar Azriel, Baz: the spec, the recording, the same bug
+00:02:01 - Why coding agents optimize for generating, not verifying
+00:02:38 - Justin Cormack, ex-Docker: 350,000 lines of Rust with agents
+00:03:01 - Chasing 100% test coverage, and why it didn't help
+00:04:40 - Using S3 as a test oracle to lock down behavior
+00:04:59 - Ian Thomas, Meta: can we trust the code?
+00:06:28 - The anti test slop initiative, judging tests with AI
+00:07:01 - Christopher Batey: what to review in a 7,000-line PR
+00:08:30 - Architecture decision records as the human checkpoint
+
+Build your software factory, one workflow at a time, with Tessl:
+
+🔔 Subscribe for weekly videos on AI-native development
+
+What's actually pinned down behavior for you — tests, specs, or ADRs? Tell us in the comments."
 tFffUnSq7VA,Birgitta Böckeler - State of Play: AI Coding Assistants - AI Native DevCon June 2026,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,Agents & orchestration; Coding assistants & agents,Tessl,2026,Birgitta Böckeler,AI Native Dev,42,2026-06-24T07:19:21Z,https://www.youtube.com/watch?v=tFffUnSq7VA,"Artificial intelligence coding assistants are reshaping the landscape of software development. While they're not magic, their ability to enhance interaction with code demonstrates their revolutionary impact. It's impressive math, not mysticism, that allows these tools to integrate seamlessly into workflows and augment developers' capabilities.
 
 Birgitta Böckeler, a distinguished engineer at ThoughtWorks, offers her insights into how AI coding innovations of the past year have influenced development practices. With her deep involvement in the AI coding sphere, Birgitta translates potential into practical benefits, drawing from her extensive experience to illuminate how tools like Opus 4.5 and Claude Code are transforming software teams.
@@ -32911,37 +33308,6 @@ Chapters:
 
 🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/iao
 🔔 Subscribe for weekly episodes on AI-native development"
-GRixg2mdJJA,Dru Knox: Inside Tessl's Software Factory,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,AI in the SDLC & engineering orgs,Tessl,2026,,AI Native Dev,51,2026-09-02T12:00:36Z,https://www.youtube.com/watch?v=GRixg2mdJJA,"The software factory that put up 850 pull requests in a week, with 85 to 90% of them handled by agents end to end. Tessl's Head of Product Dru Knox on how it actually got built, why it started with skills rather than automation, and the two things nobody expects a factory to change. Guy Podjarny digs into the skills-to-loops-to-factory path, and what breaks when you skip a step.
-
-What we cover:
-– What a software factory actually is, and how it differs from a pile of disconnected automations
-– Loop engineering: turning a skill into something that gets better every time it runs
-– Why context engineering has to come before automation, and what stalls when it doesn't
-– The two gains nobody forecasts from extra agent capacity: quality and fungibility
-– Verifiers and evals, or how you enforce a standard that agents are free to ignore
-– Context-driven code review, and why a general-purpose reviewer plateaus
-
-Watch:
-- Kikimora minidoc: https://youtu.be/u37qkpp5eB8
-- Tessl Code Review: https://youtu.be/ptwholFiAZg
-
-Chapters:
-00:00:00 - Introduction
-00:03:23 - Kikimora: Tessl's own dark factory
-00:04:45 - Skills, loops and factories, defined
-00:09:09 - 850 PRs a week, and the road to it
-00:11:27 - The surprises: quality and fungibility
-00:13:16 - Why a factory has to be context centric
-00:16:40 - Context-driven code review and the wall teams hit
-00:22:51 - Skills inventory across your whole code estate
-00:28:38 - Verifiers, evals and enforcing what you wrote down
-00:37:30 - Loops, automations and owning your software factory
-
-Build your software factory, one workflow at a time, with Tessl:
-
-🔔 Subscribe for weekly episodes on AI-native development
-
-If you've hit the plateau Dru describes, tell us where it stopped compounding for you."
 -sYhcsy5OwI,Edouard Maleix - How AI-First Dev Teams Build Collective Intelligence — One Attributed Mistake at,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,,Tessl,2026,Edouard Maleix,AI Native Dev,33,2026-07-19T06:01:20Z,https://www.youtube.com/watch?v=-sYhcsy5OwI,"What if your AI coding agents not only fixed bugs but also learned and shared solutions across the team? It sounds impossible, yet a framework for achieving collective intelligence within dev teams is becoming a reality. Transforming isolated agent interventions into communal knowledge rewrites the rules of team collaboration. Each mistake, captured and compared with past incidents, compounds into trusted, reusable knowledge. Welcome to a world where agents don't just work; they teach and learn.
 
 Edouard Maleix, a French consultant, shares his experience in turning development friction into collaborative intelligence at AI DevCon London 2026. By building an open source infrastructure, he aims to improve the way teams manage AI coding agents, ensuring mistakes lead to growth, not just fixes. His work with tech leads and CTOs focuses on authentication, application performance, and development productivity challenges. In his talk, Edouard explores how giving agents an identity and building a dynamic 'knowledge factory' can help development teams capture valuable lessons that don't just evaporate post-session.
@@ -33047,6 +33413,36 @@ AI Native Dev, powered by Tessl and our global dev community, is your go-to podc
 2. Guy Podjarny- https://www.linkedin.com/in/guypo/
 3. Tessl- https://www.linkedin.com/company/tesslio/
 4. AI Native Dev- https://www.linkedin.com/showcase/ai-native-dev/"
+F2Ay09T4EHQ,"GitHub, Snyk, Docker & Anthropic on Securing AI Agents",ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"Agents & orchestration; Security, safety & red teaming",Tessl,2026,,AI Native Dev,10,2026-08-31T16:00:25Z,https://www.youtube.com/watch?v=F2Ay09T4EHQ,"Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:
+
+Harness engineering has a security problem: the skills, tools and memory we hand coding agents arrive with no permissions, no sandboxing and no controls at all. Four talks from AI DevCon London on what that actually costs.
+
+Joseph Katsioloudes (GitHub Security Lab) opens with the gap the industry is trying to close — roughly one application security specialist for every hundred developers — and argues the answer isn't shifting left, it's starting left. Liran Tal (Snyk) scanned around 4,000 published agent skills and found about 1 in 7 carried malware, suspicious downloads or credential harvesting, in a file format with nowhere to declare a permission. Oleg Šelajev (Docker) demos an agent refusing a dangerous skill, then complying once the same instruction is rewritten as Python, wrapped in a module and the context is cleared. And Lamis Mukta (Anthropic) closes on the unglamorous engineering that makes agent memory safe in production: versioning, so a poisoned memory can be rolled back, and a hash check, so two agents can't overwrite each other.
+
+What we cover:
+– Why one security specialist per 100 developers is the gap AI could close
+– What a scan of 4,000 published agent skills actually turned up
+– Why a SKILL.md file has nowhere to declare permissions or sandboxing
+– How clearing the context talks an agent past its own refusal
+– The guardrails an agent harness needs before memory reaches production
+
+Chapters:
+00:00:00 - Introduction
+00:00:35 - Joseph Katsioloudes, GitHub Security Lab: AI and code security
+00:01:47 - One security specialist for every 100 developers
+00:02:38 - Why ""shift left"" should be ""start left""
+00:02:59 - Liran Tal, Snyk: what's inside 4,000 published skills
+00:04:12 - 1 in 7 skills had something wrong with it
+00:05:16 - Oleg Šelajev, Docker: getting an agent to run what it refused
+00:06:56 - Clearing the context, and the agent complies
+00:07:31 - Lamis Mukta, Anthropic: keeping agent memory safe
+00:09:09 - Concurrency, and stopping two agents overwriting each other
+
+Build your software factory, one workflow at a time, with Tessl:
+
+🔔 Subscribe for weekly videos on AI-native development
+
+Which of these four would keep you up at night? Tell us in the comments."
 nU_Ou3aUkkM,Google DeepMind's Logan Kilpatrick on Why AGI Won't Be a Model,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,Enterprise adoption & strategy; Prompting & context engineering,Tessl,2026,,AI Native Dev,38,2026-04-21T14:01:20Z,https://www.youtube.com/watch?v=nU_Ou3aUkkM,"AGI is not just a model—it's a product someone will create. In a rapidly evolving AI landscape, developers must adapt to achieve top-tier productivity gains. The rules are rewritten constantly, and static knowledge isn't enough. Stay on top, or risk being left behind. It sounds daunting. It still works.
 
 Logan Kilpatrick, a Group Product Manager at Google DeepMind, draws from his deep experience at OpenAI with Sam Altman. At Google DeepMind, he leads efforts to turn research into tangible products, building platforms that weave AI models into usable tools. Kilpatrick provides insights into the dynamic AI ecosystem, sharing what developers need to thrive amid constant change.
@@ -33081,6 +33477,36 @@ Tessl: https://www.linkedin.com/company/tesslio/?originalSubdomain=uk
 
 🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/iao
 🔔 Subscribe for weekly episodes on AI-native development"
+fwL31sNbq8g,"Google, McKinsey & Dave Farley on AI Code Review",ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"AI in the SDLC & engineering orgs; Coding assistants & agents; Evals, observability & reliability",Tessl,2026,,AI Native Dev,11,2026-09-07T15:15:35Z,https://www.youtube.com/watch?v=fwL31sNbq8g,"Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:
+
+Coding agent reliability stops being a model problem the moment review becomes the bottleneck. Four speakers at AI DevCon London arrived at the same fracture from different directions: generating a change costs thirty seconds, reading it costs an hour, and every convention around code review was built for the old ratio.
+
+Jack Wotherspoon (Google) on the drive-by pull request, and why a maintainer can no longer assume a human is on the other side of the code. Dave Kerr (McKinsey) argues review was never quality control at all — it's how you engage with somebody else's mental model, which is exactly what a pile of unread generated code pulls apart. Brian Douglas (Paper Compute) left an agent running for hours, came back to find it politely hallucinating progress, and now pipes every session into a Tapes database with observational memory on top. And Dave Farley (Continuous Delivery), who writes no code by hand at all, explains why he still thinks English is too vague to be the programming language of the future.
+
+What we cover:
+– Why a 30-second drive-by pull request costs a maintainer an hour
+– What happens to coding agent reliability when nobody can say why a change was made
+– How one person's generated code pulls three mental models apart
+– Capturing agent sessions as observations instead of losing them
+– Why precision beats natural language, from someone who hand-writes none of his code
+
+Chapters:
+00:00:00 - Introduction
+00:00:26 - Jack Wotherspoon, Google: the drive-by pull request
+00:02:46 - Why trust between contributors is breaking down
+00:03:18 - Dave Kerr, McKinsey: attention and short-cycle work
+00:04:53 - Maladaptive creativity and diverging mental models
+00:05:39 - Why you still review pull requests and specs
+00:06:12 - Brian Douglas, Paper Compute: politely hallucinating
+00:07:14 - Tapes, observational memory and agent feedback
+00:08:25 - Dave Farley, Continuous Delivery: natural language vs code
+00:10:01 - Why vibe coding alone isn't enough
+
+Build your software factory, one workflow at a time, with Tessl:
+
+🔔 Subscribe for weekly videos on AI-native development
+
+Is coding agent reliability a review problem or a tooling problem? Tell us in the comments."
 uGc3OfEVcgE,GPT 5.5 Is Smarter Than Me — But I Have More Context,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,Agents & orchestration; Coding assistants & agents,Tessl,2026,,AI Native Dev,17,2026-06-22T13:50:18Z,https://www.youtube.com/watch?v=uGc3OfEVcgE,"GPT 5.5 is already smarter than most of us. So what makes you irreplaceable as an engineer? According to OpenAI's Romain Huet, it's context — and Codex is how you give the model everything it needs to become a true teammate.
 
 Filmed live at a Tessl HQ in London, this is an unscripted, demo-heavy 17-minute talk covering what's new in Codex: 120+ plugins, computer use that runs in the background without stealing your machine, an in-app browser for commenting directly on your UI, AI-generated game assets, Codex Spark running on Cerebras chips, and a live audience-driven game build from scratch.
@@ -33644,6 +34070,37 @@ What we cover:
 
 🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/6gq
 🔔 Subscribe for weekly episodes on AI-native development"
+P03T9DXBxYw,Justin Cormack on Debugging With Agents,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"AI in the SDLC & engineering orgs; Agents & orchestration; Coding assistants & agents; Enterprise adoption & strategy; Evals, observability & reliability; Inference, serving & GPU infra",Tessl,2026,,AI Native Dev,10,2026-09-03T16:00:22Z,https://www.youtube.com/watch?v=P03T9DXBxYw,"Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:
+
+Coding agent reliability stops being an abstraction at three in the morning, when somebody still has to run the thing. Day 2 of AI DevCon London went looking for what changes once agents are in production, and the stories turned out to be better than the demos.
+
+A panel assembled at short notice — Stéphane Jourdan, Simon Rohrer and Pini Reznik — works through what happens when everyone in the company is shipping through an agent around the clock, and why the scarce thing isn't root cause analysis but context: what changed yesterday, which service talks to which. Simon works in a regulated industry, and says what surprised his developers most wasn't code generation at all — point an agent at Elastic logs, ServiceNow incidents and the code together and it settles in 30 seconds what would otherwise eat hours of digging. May Walter (co-founder and CTO, Hud) gives the best kind of talk, the one about something that didn't work: they automated the investigation and opened a pull request for every high-impact fix, and nobody read them, so they rebuilt the output to convince the human rather than the agent. Amit Kushwaha (NVIDIA) has the counterintuitive finding — your GPU sits idle while the agent is off making a tool call, and account for that properly and you can serve roughly twice the users your benchmark predicted. And Justin Cormack, formerly CTO at Docker, names his single most useful debugging investment: getting the AI to build him a tracing framework, because an agent handed a rare bug with no reproduction guesses, and an agent handed a trace finds it.
+
+What we cover:
+– Why context from production beats root cause analysis
+– What surprised developers most about pointing agents at an incident
+– Why automated pull requests go unread, and what to send instead
+– Ranking fixes by business impact and risk instead of by optimisation
+– Why your GPU is idle during tool calls, and what that does to concurrency
+– Giving an agent a trace instead of a bug it can't reproduce
+
+Chapters:
+00:00:00 - Introduction
+00:00:25 - Panel: Stéphane Jourdan, Simon Rohrer, Pini Reznik on agents in prod
+00:01:50 - Simon Rohrer: agents are startlingly good at diagnosing production
+00:03:01 - May Walter, Hud: the automation nobody wanted
+00:03:36 - Why the automated pull requests went unread
+00:04:42 - Convince the human, not the agent
+00:05:28 - Amit Kushwaha, NVIDIA: benchmarking the agent era
+00:06:36 - Your GPU is idle while the agent makes a tool call
+00:07:42 - Justin Cormack, formerly Docker: build the tracing framework first
+00:08:59 - Give an agent a trace, not a bug it can't reproduce
+
+Build your software factory, one workflow at a time, with Tessl:
+
+🔔 Subscribe for weekly videos on AI-native development
+
+What's the first thing you'd point an agent at in production? Tell us in the comments."
 5SKh-FmjX7U,"Katie Roberts - Stop Maintaining, Start Evolving: Applying AI-Native Practices to Brownfield Codebas",ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,AI in the SDLC & engineering orgs; Enterprise adoption & strategy,Tessl,2026,"Katie Roberts, Stop Maintaining",AI Native Dev,29,2026-07-13T09:28:53Z,https://www.youtube.com/watch?v=5SKh-FmjX7U,"The ""AI-Native"" dream is often idealized as starting fresh with flawless prompts and no technical debt. But the real world for most engineers consists of mature brownfield environments, with complex codebases and build pipelines held together by hope. It's a challenging paradox. A highly successful product, yet a maze of interconnected systems and legacy logic.
 
 Katie Roberts from NearForm dives into how AI Native Engineering can be the answer to these challenges. With her experience as a Technical Director at NearForm and having worked on various projects at the BBC, Katie brings real-world insights into transforming brownfield codebases. She discusses practical applications like using the Strangler Fig Pattern to modernize legacy systems, illustrating how AI can help document, test, and eventually replace outdated code components.
@@ -33780,6 +34237,36 @@ What we cover:
 
 🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/6gq
 🔔 Subscribe for weekly episodes on AI-native development"
+jfTltMo0TMg,"Meta, Stanford & Odevo on Agentic Coding at Scale",ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,AI in the SDLC & engineering orgs; Agents & orchestration,Tessl,2026,,AI Native Dev,10,2026-09-09T16:00:37Z,https://www.youtube.com/watch?v=jfTltMo0TMg,"Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:
+
+Rolling out agentic coding to one team is a tooling problem. Rolling it out to five hundred engineers is a completely different problem, with a completely different set of ways to get it wrong. Four speakers at AI DevCon London whose job is getting other engineers using these tools on what actually moved the numbers.
+
+Ian Thomas (Meta) grew an organic community 40 times over and took weekly usage from under half to above 80%, with no mandate involved. Rob Willoughby (Tessl) and Simon Obstbaum (Stanford) have been measuring across 150,000 engineers and are seeing the widest performance spread they have ever recorded — Simon set out to disprove the 10x engineer and now thinks he's watching one appear. Daniel Jones (Resync) and Tomasz Maj (Odevo) open with a warning from the 2025 DORA report: point agents at an organization that already ships badly and things get worse, not faster. And Hannah Foxwell on the part that gets the least airtime — on-call rotas, error budgets, and career planning for the skills teams need today rather than yesterday.
+
+What we cover:
+– How Meta moved from ad hoc AI use to 80%+ weekly adoption without mandating it
+– What 150,000 engineers show about the performance spread agentic coding creates
+– Why the 2025 DORA finding says agents make weak delivery worse, not better
+– The fundamentals to fix first: CI/CD, a platform, tests, coding standards
+– Career planning and sustainable on-call for the skills teams actually need now
+
+Chapters:
+00:00:00 - Introduction
+00:00:26 - Ian Thomas, Meta: operational load and slow adoption
+00:01:39 - 40x community growth and 80%+ weekly usage
+00:02:30 - Rob Willoughby and Simon Obstbaum: 150,000 engineers measured
+00:02:47 - The 10x engineer he set out to disprove
+00:03:34 - How the performance spread is shifting
+00:05:00 - Daniel Jones and Tomasz Maj: starting with discovery
+00:05:16 - The 2025 DORA warning about agentic coding
+00:06:26 - CI/CD, platforms, tests and coding standards first
+00:07:24 - Hannah Foxwell: careers, on-call and the broken comb
+
+Build your software factory, one workflow at a time, with Tessl:
+
+🔔 Subscribe for weekly videos on AI-native development
+
+What actually shifted adoption on your team — tooling, training, or someone senior going first? Tell us in the comments."
 vuxztj8MXxI,No More Screenshots. Web MCP Lets Agents Talk to Your Website Directly,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,Agents & orchestration; Enterprise adoption & strategy,Tessl,2026,,AI Native Dev,60,2026-03-31T13:00:58Z,https://www.youtube.com/watch?v=vuxztj8MXxI,"An agent cannot read your website. And that needs to change. Current solutions involve costly and inefficient techniques like taking and analyzing screenshots. But there's a new way forward: Web MCP. This experimental API gives agents direct access to web services, bypassing the traditional methods that fall short in dynamic environments. It's not a replacement for the web but a transformation of how agents interact with it. No more reverse engineering. Just straight-to-the-point interactions that save time and resources. Web MCP changes everything.
 
 Maximiliano Firtman, a 30-year veteran in web development and author of 14 books, joins Guy Podjarny to discuss this revolutionary approach. Firtman's experience spans from the early days of web development to the cutting-edge AI-integrated web landscape. His insights shed light on the inefficiencies of current practices and how Web MCP proposes to solve them. Together, they unravel why our current methods are outdated and how a new API can change the very fabric of web browsing for agents.
@@ -33826,37 +34313,6 @@ Tessl: https://www.linkedin.com/company/tesslio/
 
 🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/iao
 🔔 Subscribe for weekly episodes on AI-native development"
-P03T9DXBxYw,Nobody Read the Pull Requests the Agent Opened,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"AI in the SDLC & engineering orgs; Agents & orchestration; Coding assistants & agents; Enterprise adoption & strategy; Evals, observability & reliability; Inference, serving & GPU infra",Tessl,2026,,AI Native Dev,10,2026-09-03T16:00:22Z,https://www.youtube.com/watch?v=P03T9DXBxYw,"Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:
-
-Coding agent reliability stops being an abstraction at three in the morning, when somebody still has to run the thing. Day 2 of AI DevCon London went looking for what changes once agents are in production, and the stories turned out to be better than the demos.
-
-A panel assembled at short notice — Stéphane Jourdan, Simon Rohrer and Pini Reznik — works through what happens when everyone in the company is shipping through an agent around the clock, and why the scarce thing isn't root cause analysis but context: what changed yesterday, which service talks to which. Simon works in a regulated industry, and says what surprised his developers most wasn't code generation at all — point an agent at Elastic logs, ServiceNow incidents and the code together and it settles in 30 seconds what would otherwise eat hours of digging. May Walter (co-founder and CTO, Hud) gives the best kind of talk, the one about something that didn't work: they automated the investigation and opened a pull request for every high-impact fix, and nobody read them, so they rebuilt the output to convince the human rather than the agent. Amit Kushwaha (NVIDIA) has the counterintuitive finding — your GPU sits idle while the agent is off making a tool call, and account for that properly and you can serve roughly twice the users your benchmark predicted. And Justin Cormack, formerly CTO at Docker, names his single most useful debugging investment: getting the AI to build him a tracing framework, because an agent handed a rare bug with no reproduction guesses, and an agent handed a trace finds it.
-
-What we cover:
-– Why context from production beats root cause analysis
-– What surprised developers most about pointing agents at an incident
-– Why automated pull requests go unread, and what to send instead
-– Ranking fixes by business impact and risk instead of by optimisation
-– Why your GPU is idle during tool calls, and what that does to concurrency
-– Giving an agent a trace instead of a bug it can't reproduce
-
-Chapters:
-00:00:00 - Introduction
-00:00:25 - Panel: Stéphane Jourdan, Simon Rohrer, Pini Reznik on agents in prod
-00:01:50 - Simon Rohrer: agents are startlingly good at diagnosing production
-00:03:01 - May Walter, Hud: the automation nobody wanted
-00:03:36 - Why the automated pull requests went unread
-00:04:42 - Convince the human, not the agent
-00:05:28 - Amit Kushwaha, NVIDIA: benchmarking the agent era
-00:06:36 - Your GPU is idle while the agent makes a tool call
-00:07:42 - Justin Cormack, formerly Docker: build the tracing framework first
-00:08:59 - Give an agent a trace, not a bug it can't reproduce
-
-Build your software factory, one workflow at a time, with Tessl:
-
-🔔 Subscribe for weekly videos on AI-native development
-
-What's the first thing you'd point an agent at in production? Tell us in the comments."
 bFBNXIoLkW4,"Oleg Šelajev - You're absolutely right, it was your home directory! - AI Native DevCon June 2026",ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"Security, safety & red teaming",Tessl,2026,,AI Native Dev,33,2026-07-25T05:51:04Z,https://www.youtube.com/watch?v=bFBNXIoLkW4,"Docker Sandboxes tackle a common AI dilemma: how do you harness AI's productivity without exposing your system to security risks? When AI agents run unchecked, they can unwittingly cause havoc, like optimizing your home directory or upgrading Python unexpectedly. Finding the balance between that YOLO speed and security is crucial.
 
 Oleg Šelajev from Docker dives deep into this challenge, bringing his expertise from the DevRel team. Oleg explores the concept of Docker Sandboxes, highlighting their role in safely managing AI workloads. His experience with Atomic Jar and Testcontainers enhances his insights into isolating AI operations to prevent unwanted system alterations.
@@ -34283,6 +34739,35 @@ What we cover:
 
 🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/6gq
 🔔 Subscribe for weekly episodes on AI-native development"
+tAYbWVgqaBk,Tessl Code Review: Catching 74% of Bugs Pre-Merge,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,AI in the SDLC & engineering orgs; Coding assistants & agents,Tessl,2026,,AI Native Dev,26,2026-09-10T10:43:40Z,https://www.youtube.com/watch?v=tAYbWVgqaBk,"Coding agent reliability is the real bottleneck in a software factory — your agent can open the PR, but can you trust what's in it? Tessl Code Review is Tessl's answer: an AI code reviewer that catches real defects in agent-generated pull requests, and gets sharper the more your team uses it.
+
+In this walkthrough, Tessl's Marc Sloan and Colin Hallett show how Tessl Code Review works, how to set it up, and how to build review rules tuned to your own codebase.
+
+What we cover:
+– Why coding agent reliability is the hard part of a software factory
+– How Tessl Code Review plugs into GitHub as an automated reviewer
+– The four default review lenses (and the three Tessl added for itself)
+– Building and tuning a custom review lens with Tessl's own agent
+– Configuring enforcement, effort level, and per-path lens scoping
+– Running Tessl Code Review locally, before you even open a PR
+
+Chapters:
+00:00:00 - Introduction
+00:01:04 - What Tessl is building: software factories and context loops
+00:03:56 - Where code review fits in the software factory
+00:05:04 - Why generic code review can't fix agent reliability
+00:06:58 - How Tessl Code Review works, at a high level
+00:08:35 - Live demo: a pull request through Tessl Code Review
+00:11:09 - Installing Tessl Code Review
+00:13:27 - Customizing review lenses for your repo
+00:20:32 - Coming out of beta: what's next
+00:21:51 - Audience Q&A
+
+Build your software factory, one workflow at a time, with Tessl:
+
+🔔 Subscribe for weekly videos on AI-native development
+
+What's the biggest blocker to trusting your coding agent's output right now? Tell us in the comments — and stick around, agent reliability is a big part of what we cover here."
 Imw9nfuiKmc,Tessl Skills Clinic - Nnenna Ndukwe from Qodo,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,Agents & orchestration; Coding assistants & agents,Tessl,2026,,AI Native Dev,17,2026-07-22T12:15:45Z,https://www.youtube.com/watch?v=Imw9nfuiKmc,"Qodo's AI code review tool, PR Resolver, faced Tessl's automated skill review with eye-opening results: a jump from 78% to 89%. It sounds like an agentic magic trick, but it's all about the description. If a skill's metadata paints the right picture, agents are more likely to trigger it. Your agent's success hinges on this one detail. Most agent skills never get triggered at all. It begs the question: is letting AI write your skills a good idea?
 
 Qodo's Developer Relations Lead, Nnenna Ndukwe, brings her frontline experience to this live session. As a developer advocate at Qodo, her global insights into developer enablement shape how these skills help teams succeed. Her focus on quality and practical integration informs a transparent journey into skill improvement.
@@ -35217,6 +35702,36 @@ Chapters:
 🔔 Subscribe for weekly videos on AI-native development
 
 What's slowing your team down more right now — agent autonomy, or trusting what they ship? Let us know in the comments."
+_XNMBj-ewE8,You Don't Need Juniors to Code. Hire Them Anyway.,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,Agents & orchestration; Enterprise adoption & strategy,Tessl,2026,,AI Native Dev,52,2026-09-08T12:00:19Z,https://www.youtube.com/watch?v=_XNMBj-ewE8,"Coding agent reliability isn't a model problem, it's a gates problem. Ran Aroussi, creator of yfinance and founder of Automaze, argues that an ""agentic workflow"" is a contradiction in terms, and that the only thing standing between you and full autonomy is deciding where a human still signs off. He also thinks you stopped needing junior developers for their coding skills about a year ago, and that hiring them anyway is the only way the industry gets its next generation of architects.
+
+What we cover:
+– Why ""agentic workflow"" is a contradiction, and when agentic coding is the wrong tool for the job
+– Where a human still has to sign off, and what coding agent reliability actually depends on
+– What a software factory changed about delivery times, pricing and the client backlog
+– Why you no longer need juniors for their coding skills, and why you should hire them anyway
+– Teachable knowledge vs earned knowledge, and the experience agents cannot compress
+– The law firm model: why dev agencies may end up looking more like Kirkland & Ellis than a SaaS startup
+
+*AI DevCon is coming back to New York this November*
+Get 15% off your ticket with code POD15
+
+Chapters:
+00:00:00 - Introduction
+00:03:05 - yfinance, open source and 30 million downloads a month
+00:06:03 - Automaze and the MUXI agent application server
+00:10:42 - Where to draw the line on agent autonomy
+00:15:12 - Software factories and fully autonomous merges
+00:22:25 - The architect archetype and the four-phase ladder
+00:28:11 - Teachable knowledge vs earned knowledge
+00:30:14 - What agents did to delivery times and pricing
+00:37:03 - Why ""agentic workflow"" is an oxymoron
+00:41:08 - Anthropic, OpenClaw and the end of flat subscriptions
+
+Build your software factory, one workflow at a time, with Tessl:
+
+🔔 Subscribe for weekly episodes on AI-native development
+
+Where's your gate? Tell us in the comments where you still refuse to let a coding agent merge without a human looking."
 CD-ukN1bmqY,Your AI Agent Just Deleted Your Database. Now What?,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"Agents & orchestration; Security, safety & red teaming",Tessl,2026,,AI Native Dev,35,2026-08-07T12:50:52Z,https://www.youtube.com/watch?v=CD-ukN1bmqY,"An AI agent found an API token, deleted a company's production database, and wiped its backups — all on its own. Snyk's Nick Vinson breaks down why autonomous AI agents keep going rogue, and what security teams need to build before it happens to them.
 
 What we cover:
@@ -56638,6 +57153,17 @@ PyData conferences aim to be accessible and community-driven, with novice to adv
 00:10 Help us add time stamps or captions to this video! See the description for details.
 
 Want to help add timestamps to our YouTube videos to help with discoverability? Find out more here: https://github.com/numfocus/YouTubeVideoTimestamps"
+gEJwgEF2jSs,The AI Security Paradox: Asymmetric Threats and the Future of Defense - Ammar Alim,pydata,PyData,Practitioner AI conferences,"RAG, retrieval & knowledge; Science, healthcare & applied ML; Security, safety & red teaming",PyData,2026,Ammar Alim,PyData,38,2026-09-10T14:14:30Z,https://www.youtube.com/watch?v=gEJwgEF2jSs,"Software engineering is undergoing its biggest transformation in decades, but application security is shifting in the opposite direction. While AI tools allow developers to write code faster than ever, foundation models trained on decades of public code are accelerating the volume of vulnerable software flowing into production. At the same time, AI grants attackers infinite patience and speed—enabling automated reconnaissance and rapid exploit generation against large, complex enterprise attack surfaces.
+
+This creates a paradox: security hasn't improved by default, and organizations are effectively paying a 'token tax' to scan and fix the very vulnerabilities generated by AI.
+
+In this session, Ammar Alim (Product Security Engineering Leader at Adobe) breaks down how developers and security practitioners across all experience levels can rebalance this equation. We will explore:
+
+The 'Wounded Buffalo' Effect: Why legacy codebases and AI-driven attack vectors give adversaries a short-term advantage.
+
+The Token Tax Fallacy: Why buying off-the-shelf security tokens won't solve the security crisis without deep architectural integration.
+
+Building Next-Era Defense Systems: How to combine deep domain/business logic awareness with custom AI engineering (RAG, knowledge graphs, and autonomous self-healing agents) to turn reactive security into automated, context-aware pipelines."
 -tkOTxTDQUM,The Art of the Optimal: A Pythonic Approach to Complex Decision-Making [PyCon DE & PyData 2026],pydata,PyData,Practitioner AI conferences,Classic ML & data science,PyData,2026,Justine Broihan,PyData,33,2026-08-04T22:21:03Z,https://www.youtube.com/watch?v=-tkOTxTDQUM,"🔊 Recorded at PyCon DE & PyData 2026, 14.04.2026
 
 🎓 Watch Justine Broihan demonstrate how to move beyond basic heuristics and leverage mathematical optimization to solve complex decision-making challenges in Python.
@@ -63066,6 +63592,21 @@ Follow The AI Conference
 
 © The AI Conference 2025
 Video Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved"
+-drke88NhrQ,Dual-Use AI: Building for Commercial and National Security Impact,the-ai-conference,The AI Conference,Practitioner AI conferences,"Security, safety & red teaming",The AI Conference,2026,,The AI Conference™,27,2026-09-11T16:32:59Z,https://www.youtube.com/watch?v=-drke88NhrQ,"Dual-Use AI: Building for Commercial and National Security Impact
+
+Moderator:
+Rita Waite, Partner, In-Q-Tel
+
+Panelists:
+Hicham Oudghiri, Co-founder and CEO, Enigma
+Julien Launay, CEO and co-founder, Adaptive ML
+
+🛎️ Remember to hit the bell icon to stay notified!
+
+Follow The AI Conference
+
+© The AI Conference 2025
+Video Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved"
 JUWkwVG6Ubs,"Ion Stoica, Berkeley: Reliability, an AI challenge",the-ai-conference,The AI Conference,Practitioner AI conferences,"Enterprise adoption & strategy; Evals, observability & reliability",The AI Conference,2026,,The AI Conference™,23,2026-06-04T17:13:26Z,https://www.youtube.com/watch?v=JUWkwVG6Ubs,"Ion Stoica, Professor & Executive Chairman, University of California at Berkeley, Anyscale
 
 Reliability, an AI challenge
@@ -63225,6 +63766,19 @@ Follow The AI Conference
 
 © The AI Conference 2025
 Video Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved"
+PP3ji8p3BfU,"Sarahelizabeth Baguhn, AFB: Expanding the Evidence Base: Expert Insights on AI and Disability",the-ai-conference,The AI Conference,Practitioner AI conferences,"Governance, ethics & regulation",The AI Conference,2026,,The AI Conference™,25,2026-09-11T16:32:35Z,https://www.youtube.com/watch?v=PP3ji8p3BfU,"Sarahelizabeth Baguhn, Research Specialist, American Foundation for the Blind
+
+Expanding the Evidence Base: Expert Insights on AI and Disability
+
+Artificial Intelligence systems increasingly influence daily life—from hiring platforms to digital assistants—yet accessibility for people with disabilities is often reactive or overlooked. The American Foundation for the Blind will share a Delphi study of experts in AI and disability, focusing on key areas of concern and potential, and their policy implications. Additionally, this session will present a sneak peak of survey findings comparing perceptions and experiences of AI tools between people with and without disabilities. This work highlights key disparities in usability, trust, and perceived fairness,
+offering organizations concrete direction for ethical and inclusive AI development.Attendees will gain early insights into how user-informed benchmarks can shape accessibility practices and mitigate future risk.
+
+🛎️ Remember to hit the bell icon to stay notified!
+
+Follow The AI Conference
+
+© The AI Conference 2025
+Video Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved"
 J91bCwHFdDA,"The Future of Agentic AI - Michele Catasta, Head of AI at Replit, and Mark Sullivan of Fast Company",the-ai-conference,The AI Conference,Practitioner AI conferences,Agents & orchestration,The AI Conference,2026,Michele Catasta,The AI Conference™,27,2026-03-20T17:53:21Z,https://www.youtube.com/watch?v=J91bCwHFdDA,"The Future of Agentic AI - Michele Catasta, Head of AI at Replit, and Mark Sullivan of Fast Company come together for an in-depth discussion on the promise and challenges of agentic AI.
 
 🛎️ Remember to hit the bell icon to stay notified!
@@ -63238,6 +63792,18 @@ PGJp2nsEl_I,"Tris Warkentin, GoogleDeepMind: The future of on-device intelligenc
 The future of on-device intelligence: Gemma and Gemini Nano
 
 The next AI revolution won't just be in the cloud. It's happening in your pocket. Join Tris Warkentin, Director of Product Management at Google DeepMind, for a look into the future of on-device intelligence. As a leader behind foundational models and products like Bard, PaLM, and Imagen, Tris will unpack Google's vision to bring powerful AI directly to users through two groundbreaking model families: Gemma, Google's new family of lightweight, state-of-the-art open models, and Gemini Nano, the highly-efficient model built to power on-device experiences in the Android ecosystem. Discover the technical breakthroughs enabling this shift and explore the new wave of faster, more private, and context-aware applications that will redefine our relationship with technology.
+
+🛎️ Remember to hit the bell icon to stay notified!
+
+Follow The AI Conference
+
+© The AI Conference 2025
+Video Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved"
+djTUzNZcbM4,"Ty Smith, Hashgraph: AI and Web3: The Next Frontier",the-ai-conference,The AI Conference,Practitioner AI conferences,,The AI Conference,2026,,The AI Conference™,27,2026-09-11T16:32:28Z,https://www.youtube.com/watch?v=djTUzNZcbM4,"Ty Smith, Senior Product Manager, Hashgraph
+
+AI and Web3: The Next Frontier
+
+Generative‑AI agents are poised to expand how they transact, collaborate, and make high‑stakes decisions in real time, but only if users can verify their data, actions, and costs. In this fast‑paced session, Hedera Senior Product Manager Ty Smith shows how a public‑distributed ledger delivers the missing trust layer for autonomous intelligence. You’ll see how cryptographic attestation, fair‑ordered consensus, and native micro‑payments let AI agents prove computation, share verifiable data streams, and settle value across open networks; without the bottlenecks of traditional blockchains.
 
 🛎️ Remember to hit the bell icon to stay notified!
 
@@ -102164,6 +102730,40 @@ Nora Dossche and Bart Coppens, Ghent University
 Error-handling code is a crucial part of software to ensure stability and security. Failing to handle errors correctly can lead to security vulnerabilities such as DoS, privilege escalation, and data corruption. We propose a novel approach to automatically infer error specifications for system software without a priori domain knowledge, while still achieving a high recall and precision. The key insight behind our approach is that we can identify error-handling paths automatically based on structural similarities between error-handling code. We use the inferred error specification to detect three kinds of bugs: missing error checks, incorrect error checks, and error propagation bugs. Our technique uses a combination of path-sensitive, flow-sensitive and both intra-procedural and inter-procedural data-flow analysis to achieve high accuracy and great scalability. We implemented our technique in a tool called ESSS to demonstrate the effectiveness and efficiency of our approach on 7 well-tested, widely-used open-source software projects: OpenSSL, OpenSSH, PHP, zlib, libpng, freetype2, and libwebp. Our tool reported 827 potential bugs in total for all 7 projects combined. We manually categorised these 827 issues into 279 false positives and 541 true positives. Out of these 541 true positives, we sent bug reports and corresponding patches for 46 of them. All the patches were accepted and applied.
 
 View the full USENIX Security '24 program at https://www.usenix.org/conference/usenixsecurity24/program"
+ggX_X6NbCCc,USENIX Security '26 (Enigma Track) - Breaking the Lethal Trifecta: Secure Agentic Computing via...,usenix-security,USENIX Security Symposium,Security conferences,"Agents & orchestration; Security, safety & red teaming",USENIX Security,2026,,USENIX,17,2026-09-09T21:58:41Z,https://www.youtube.com/watch?v=ggX_X6NbCCc,"Breaking the Lethal Trifecta: Secure Agentic Computing via Causal Isolation Architecture
+
+David Tsao, Notion Labs, Inc.
+
+Most LLM agents over private data have a dangerous shape: the same model reads untrusted instructions, sees sensitive context, and speaks to the outside world. It is like handing a press secretary every private email, incident note, and salary spreadsheet, then hoping a policy memo keeps secrets safe.
+
+Causal Isolation Architecture treats leakage as a systems design failure, not a prompt-writing failure. It splits the lethal trifecta across isolated components, passes only typed abstractions across boundaries, and uses a rule-of-two release judge to preserve useful private-derived guidance while stripping exact facts based on requester trust and source sensitivity.
+
+The key lesson: safety without utility becomes a refusal machine. In our bounded real-model matrix, claim-eligible OpenAI and Anthropic rows showed 0.0% observed secure-path leakage with 83-100% measured utility; matching single-agent baselines leaked private facts. The talk shows the demo, tradeoffs, and limits.
+
+View the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions"
+x2aeFXs0GOI,USENIX Security '26 (Enigma Track) - Detecting Security Posture Drift in AI-Driven Software...,usenix-security,USENIX Security Symposium,Security conferences,"Security, safety & red teaming",USENIX Security,2026,,USENIX,27,2026-09-09T21:58:41Z,https://www.youtube.com/watch?v=x2aeFXs0GOI,"USENIX Security '26 (Enigma Track) - Detecting Security Posture Drift in AI-Driven Software Development via Continuous Threat Modeling
+
+Preeti Ravindra
+
+AI-assisted software development is accelerating how quickly systems are designed, modified, and deployed. While modern security tooling can identify vulnerabilities, misconfigurations, and policy violations, it often struggles to answer a more fundamental question: does the deployed system still reflect the intended security posture?
+
+This talk introduces an approach for automatically deriving threat models from code, infrastructure, and configuration artifacts and tracking their evolution over time. Rather than focusing on code diffs, the approach computes threat model diffs to detect security intent drift, including changes to attack surfaces, trust boundaries, privilege relationships, and sensitive data flows. Through real-world examples of AI-assisted infrastructure changes, I show how security-relevant behavior can emerge without introducing traditional vulnerabilities, and how threat model differencing can surface these risks. The result is a practical workflow for maintaining security oversight in development environments where code changes faster than humans can review it.
+
+View the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessionsac"
+T1DtBdls18o,USENIX Security '26 (Enigma Track) - From Alignment to Access Control: A Unified View of GenAI...,usenix-security,USENIX Security Symposium,Security conferences,"Governance, ethics & regulation; Security, safety & red teaming",USENIX Security,2026,,USENIX,20,2026-09-09T21:58:41Z,https://www.youtube.com/watch?v=T1DtBdls18o,"From Alignment to Access Control: A Unified View of GenAI Policy Enforcement
+
+Nathalie Baracaldo, IBM Research - Almaden
+
+The word ""policy"" means radically different things across the security, engineering, and AI research communities; examples include access controls, agent flow constraints, output validation, behavioral norms, and model alignment. This fragmentation has produced enforcement approaches that are siloed, ad hoc, and designed to handle only one policy at a time, while real enterprise GenAI applications demand simultaneous compliance across all these layers at once. Compounding this problem, some policies have no deterministic enforcement path and require inspecting model internals or relying on model-based judgment, while others demand hard guarantees where probabilistic enforcement is unacceptable — and today's tools are not built to navigate that tension. Until the community confronts this fragmentation and abandons clearly flawed approaches, true policy compliance in enterprise AI systems will remain an illusion.
+
+View the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions"
+4suGQTXBjAI,USENIX Security '26 (Enigma Track) - Red-Teaming for Scraping,usenix-security,USENIX Security Symposium,Security conferences,"Security, safety & red teaming",USENIX Security,2026,,USENIX,27,2026-09-09T21:58:41Z,https://www.youtube.com/watch?v=4suGQTXBjAI,"Red-Teaming for Scraping
+
+Malya Jain
+
+Scraping has evolved from a nuisance into a sophisticated, economically motivated threat to user privacy and platform integrity. Most organizations rely on reactive rate-limiting and passive monitoring defenses routinely bypassed by well-resourced attackers. This talk presents a different approach: proactively attacking your own platform through a dedicated Scraping Red Team program. We introduce adversary economics as the primary defensive metric such as, the attacker's cost-per-record. When that number is low, your defenses are failing regardless of what your dashboards say. Drawing on real operational experience, we walk through engagement design, privacy-aware data handling, structured vulnerability reporting, and validated remediation.
+
+View the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions"
 fZhl18D3O8U,USENIX Security '25 (Enigma Track) - AI Red Teaming and Automation: Exploring Societal Risks in...,usenix-security,USENIX Security Symposium,Security conferences,"Science, healthcare & applied ML; Security, safety & red teaming",USENIX Security,2025,,USENIX,20,2025-10-16T21:25:02Z,https://www.youtube.com/watch?v=fZhl18D3O8U,"AI Red Teaming and Automation: Exploring Societal Risks in GenAI
 
 Bolor-Erdene Jagdagdorj, Microsoft AI Red Team

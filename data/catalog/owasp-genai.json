@@ -1,7 +1,7 @@
 {
   "slug": "owasp-genai",
   "name": "OWASP GenAI Security Project",
-  "enumerated_at": "2026-09-06T13:21:29+00:00",
+  "enumerated_at": "2026-09-13T22:08:16+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@GenAISecurityProject/videos",
@@ -1554,7 +1554,7 @@
     "kWTB6gyVOOU": {
       "video_id": "kWTB6gyVOOU",
       "title": "Mythos, AI Vulnerability Discovery, and the Shrinking Window to Patch",
-      "duration_s": 1451,
+      "duration_s": 1452,
       "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,

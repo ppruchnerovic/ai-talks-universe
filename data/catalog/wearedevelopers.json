@@ -1,7 +1,7 @@
 {
   "slug": "wearedevelopers",
   "name": "WeAreDevelopers World Congress",
-  "enumerated_at": "2026-09-06T13:19:08+00:00",
+  "enumerated_at": "2026-09-13T22:06:11+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@_wearedevs/videos",
@@ -17,7 +17,7 @@
       "type": "videos"
     }
   ],
-  "count": 1060,
+  "count": 1067,
   "videos": {
     "-9vwGZ02aio": {
       "video_id": "-9vwGZ02aio",
@@ -949,6 +949,15 @@
       ],
       "details_at": "2026-08-31T15:35:36+00:00"
     },
+    "0e2nqUksDVk": {
+      "video_id": "0e2nqUksDVk",
+      "title": "Tool Showcase: Marta.sh a fast, native, fully customisable and extensible two-panel file commander",
+      "duration_s": 99,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
+    },
     "0jaPQT-jit8": {
       "video_id": "0jaPQT-jit8",
       "title": "Supercharge your JVM performance with Project Leyden",
@@ -1207,6 +1216,42 @@
         "Artificial intelligence"
       ],
       "details_at": "2026-08-31T15:35:36+00:00"
+    },
+    "1T5iCJbirOo": {
+      "video_id": "1T5iCJbirOo",
+      "title": "How to Stop Your Agents From Going Rogue - Arnav Gupta",
+      "duration_s": 1449,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos",
+      "description": "Join us at Corgi Cafe for an intriguing chat with Arnav Gupta on the future of AI and security in development. Insightful discussion on Prisma's role in tech. Share your thoughts!\n\n00:00 Introduction\n01:44 Prisma App\n02:56 AI Security\n07:31 Industry Focus\n12:39 Open Source Benefits\n19:45 AI Adoption Challenges\n21:25 Coincidental Meeting\n23:36 Closing Thoughts\n\n---------------\nWeAreDevelopers is the global platform for developers and AI professionals to grow, connect, and lead in the age of AI. Millions of professionals use our year-round platform to build skills, explore thousands of hours of expert content, find career opportunities, and engage with a community that shares knowledge at scale. Companies partner with us to reach developers authentically, strengthening their employer brand, engaging top talent, and showcasing their products to a global network. Our flagship events in Europe, North America, and India bring together the world’s leading engineers, tech leaders, and companies. Together, we are driving the innovations that define the next era of technology.\nHead to worldcongress.dev and wearedevelopers.us to secure 10% with the code \"wearedevs_yt\"\n---------------\n#CoffeeWithDevelopers #ArnavGupta #PrismaApp #AISecurity #SanFranciscoTech #OpenSourceSoftware #FoundersInc #AIAgents #DeveloperTools #DeveloperCollaboration #AIGuardrails #AIEthics #AgentSecurity #FintechSecurity #EnterpriseSolutions",
+      "published_at": "2026-09-09T10:05:37Z",
+      "tags": [
+        "conference",
+        "congress",
+        "Europe",
+        "tech",
+        "technology",
+        "IT",
+        "people",
+        "code",
+        "future",
+        "coding",
+        "programming",
+        "programmer",
+        "software",
+        "engineer",
+        "developer",
+        "developing",
+        "WeAreDevs",
+        "WeAreDevelopers",
+        "wearedevelopers",
+        "wearedevs",
+        "wearedeveloperslive",
+        "tech talks"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
     },
     "1TOEF_X8U-Q": {
       "video_id": "1TOEF_X8U-Q",
@@ -8121,6 +8166,42 @@
       ],
       "details_at": "2026-08-31T15:35:37+00:00"
     },
+    "FUqyA8tWhyE": {
+      "video_id": "FUqyA8tWhyE",
+      "title": "WeAreDevelopers LIVE - Open Source Agent Toolkits - Eddie Jaoude",
+      "duration_s": 3638,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos",
+      "description": "On this episode of WeAreDevelopers LIVE we welcome Eddie Jaoude to talk about his role as Developer Advocate at PayPal and how he used their open source AI Toolkit to build CodeReel, and take a look at the tech news from the week before playing a round of Fake or News.",
+      "published_at": "2026-09-11T15:01:32Z",
+      "tags": [
+        "conference",
+        "congress",
+        "Europe",
+        "tech",
+        "technology",
+        "IT",
+        "people",
+        "code",
+        "future",
+        "coding",
+        "programming",
+        "programmer",
+        "software",
+        "engineer",
+        "developer",
+        "developing",
+        "WeAreDevs",
+        "WeAreDevelopers",
+        "wearedevelopers",
+        "wearedevs",
+        "wearedeveloperslive",
+        "tech talks"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
+    },
     "FiHga2ezzok": {
       "video_id": "FiHga2ezzok",
       "title": "The weekly developer show: Spicy Vanilla Web, CSS Magic & More",
@@ -11434,6 +11515,15 @@
         "people"
       ],
       "details_at": "2026-08-31T15:35:37+00:00"
+    },
+    "MvWxTzx95mA": {
+      "video_id": "MvWxTzx95mA",
+      "title": "Building Software for Overlooked Markets - Ryan Sinnott",
+      "duration_s": 1492,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
     },
     "MvuRFCtsicI": {
       "video_id": "MvuRFCtsicI",
@@ -14798,6 +14888,15 @@
         "IT"
       ],
       "details_at": "2026-08-31T15:35:38+00:00"
+    },
+    "TNKHRR8s8vA": {
+      "video_id": "TNKHRR8s8vA",
+      "title": "Developer Communities in San Francisco (LIVE from Corgi Cafe)",
+      "duration_s": 3200,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
     },
     "TXYoPnqg0Mc": {
       "video_id": "TXYoPnqg0Mc",
@@ -18231,6 +18330,42 @@
       ],
       "published_at": "2026-07-09T09:30:00+00:00",
       "session_page": "https://app.wearedevelopers.com/events/16/session/635"
+    },
+    "Zjbc_CQHAKQ": {
+      "video_id": "Zjbc_CQHAKQ",
+      "title": "AI Music Detectors, Translating Ancient Languages & Tiny Heads in Teslas - Eddie Jaoude",
+      "duration_s": 376,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos",
+      "description": "On this edition of Fake or News, Eddie Jaoude looks to tell whether a streaming service has built an AI-music detection tool for its competitors, whether AI can translate ancient languages and if a tiny head in a Tesla is enough to trick a supposedly-sophisticated system.",
+      "published_at": "2026-09-11T15:02:34Z",
+      "tags": [
+        "conference",
+        "congress",
+        "Europe",
+        "tech",
+        "technology",
+        "IT",
+        "people",
+        "code",
+        "future",
+        "coding",
+        "programming",
+        "programmer",
+        "software",
+        "engineer",
+        "developer",
+        "developing",
+        "WeAreDevs",
+        "WeAreDevelopers",
+        "wearedevelopers",
+        "wearedevs",
+        "wearedeveloperslive",
+        "tech talks"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
     },
     "ZmGnqkTWHYA": {
       "video_id": "ZmGnqkTWHYA",
@@ -31662,6 +31797,42 @@
       ],
       "published_at": "2026-07-09T12:50:00+00:00",
       "session_page": "https://app.wearedevelopers.com/events/16/session/727"
+    },
+    "z4-_eCPNGlI": {
+      "video_id": "z4-_eCPNGlI",
+      "title": "Using Agents to Curate the Content You See Online - Dan Gish",
+      "duration_s": 768,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos",
+      "description": "Join us for a coffee chat with Dan Gish at AgentCon! Discover how EvoGENT lets you control your social media experience. Share your thoughts in the comments!\n\n00:00 Introduction\n00:49 EvoGENT Explained\n01:38 Personalization Features\n02:33 Platform Compatibility\n04:17 Project Inspiration\n06:38 Tech Architecture\n08:36 Open Source Concerns\n11:01 Deployment Options\n12:17 Event Impressions\n12:32 Conclusion\n-----------------\nWeAreDevelopers is the global platform for developers and AI professionals to grow, connect, and lead in the age of AI. Millions of professionals use our year-round platform to build skills, explore thousands of hours of expert content, find career opportunities, and engage with a community that shares knowledge at scale. Companies partner with us to reach developers authentically, strengthening their employer brand, engaging top talent, and showcasing their products to a global network. Our flagship events in Europe, North America, and India bring together the world’s leading engineers, tech leaders, and companies. Together, we are driving the innovations that define the next era of technology.\nHead to worldcongress.dev and wearedevelopers.us to secure 10% with the code \"wearedevs_yt\"\n-----------------\n#EvoGENT #SocialMediaAgent #DanGish #AgentCon #SocialMediaCuration #TechChat #SiliconValley #FilterAI #OpenSourceProject #ClaudeCode #Codex #ContentCuration #DigitalControl #PersonalAlgorithms #TechnologyTrends",
+      "published_at": "2026-09-09T10:01:38Z",
+      "tags": [
+        "conference",
+        "congress",
+        "Europe",
+        "tech",
+        "technology",
+        "IT",
+        "people",
+        "code",
+        "future",
+        "coding",
+        "programming",
+        "programmer",
+        "software",
+        "engineer",
+        "developer",
+        "developing",
+        "WeAreDevs",
+        "WeAreDevelopers",
+        "wearedevelopers",
+        "wearedevs",
+        "wearedeveloperslive",
+        "tech talks"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
     },
     "z6W_j9YwYag": {
       "video_id": "z6W_j9YwYag",

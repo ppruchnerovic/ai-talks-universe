@@ -1,7 +1,7 @@
 {
   "slug": "ai-devcon-tessl",
   "name": "AI DevCon (Tessl)",
-  "enumerated_at": "2026-09-06T13:19:12+00:00",
+  "enumerated_at": "2026-09-13T22:06:15+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@tessl-ai/videos",
@@ -10,7 +10,7 @@
       "count": 300
     }
   ],
-  "count": 304,
+  "count": 310,
   "videos": {
     "-6SNbcE3C9o": {
       "video_id": "-6SNbcE3C9o",
@@ -1178,6 +1178,19 @@
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
     },
+    "DFDyRt4cU1Q": {
+      "video_id": "DFDyRt4cU1Q",
+      "title": "Baz, Docker & Meta on Verifying Agent Code",
+      "duration_s": 614,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\nhttps://tessl.co/jbb\n\nCoding agent reliability fails at verification, not generation. A lot of speakers at AI DevCon London said a version of the same thing: the hard part isn't writing the code, it's proving it does what you asked. Four of them on what they tried, and what actually pinned the behavior down.\n\nShachar Azriel (Baz) wrote a detailed spec, attached a screen recording of the exact bug he did not want repeated, and got that exact bug back — coding agents are built to generate features, not to fully extract a spec or verify the result. Justin Cormack (formerly CTO at Docker) wrote 350,000 lines of Rust with agents, chased 100% test coverage on the advice going round, and found the agent writing tests for a failing random number generator; what actually locked the behavior down was 1,500 tests run against S3 as a test oracle. Ian Thomas (Meta) heard \"can we trust the code?\" in nearly every workshop he ran, and answered it with an anti test slop initiative that uses a different AI tool to judge whether AI-generated tests are worth having. And Christopher Batey on what you do when a 7,000-line pull request lands: stop pretending you can review it, and move the human decision earlier into architecture decision records that agents are then very good at checking code against.\n\nWhat we cover:\n– Why coding agent reliability breaks down at verification rather than generation\n– What happened when a spec came with a video of the exact bug to avoid\n– Whether 100% test coverage means anything across 350,000 agent-written lines\n– Using a real system as a test oracle instead of testing the impossible\n– Meta's anti test slop initiative, and judging AI's tests with AI\n– Moving the human review earlier, into architecture decision records\n\nChapters:\n00:00:00 - Introduction\n00:00:22 - Shachar Azriel, Baz: the spec, the recording, the same bug\n00:02:01 - Why coding agents optimize for generating, not verifying\n00:02:38 - Justin Cormack, ex-Docker: 350,000 lines of Rust with agents\n00:03:01 - Chasing 100% test coverage, and why it didn't help\n00:04:40 - Using S3 as a test oracle to lock down behavior\n00:04:59 - Ian Thomas, Meta: can we trust the code?\n00:06:28 - The anti test slop initiative, judging tests with AI\n00:07:01 - Christopher Batey: what to review in a 7,000-line PR\n00:08:30 - Architecture decision records as the human checkpoint\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/gsz\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat's actually pinned down behavior for you — tests, specs, or ADRs? Tell us in the comments.",
+      "published_at": "2026-09-10T15:00:16Z",
+      "tags": [],
+      "details_at": "2026-09-13T22:11:20+00:00"
+    },
     "DIEAEiyceCo": {
       "video_id": "DIEAEiyceCo",
       "title": "Why Your AI Coding Agent Will Fail in Production (And How to Fix It)",
@@ -1403,7 +1416,7 @@
     },
     "F2Ay09T4EHQ": {
       "video_id": "F2Ay09T4EHQ",
-      "title": "1 in 7 Agent Skills Had Something Wrong With It",
+      "title": "GitHub, Snyk, Docker & Anthropic on Securing AI Agents",
       "duration_s": 617,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -1445,7 +1458,7 @@
     },
     "GRixg2mdJJA": {
       "video_id": "GRixg2mdJJA",
-      "title": "Dru Knox: Inside Tessl's Software Factory",
+      "title": "850 PRs a Week: How Tessl Runs a Software Factory",
       "duration_s": 3078,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -2101,6 +2114,15 @@
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "Nm8N5BThi58": {
+      "video_id": "Nm8N5BThi58",
+      "title": "Tessl Academy: Learn AI Coding On Your Own Codebase",
+      "duration_s": 56,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "NnSBat37v7o": {
       "video_id": "NnSBat37v7o",
       "title": "The Importance of Context in AI x Infra: Your Infra is a Graph with Roxane Fischer",
@@ -2175,7 +2197,7 @@
     },
     "P03T9DXBxYw": {
       "video_id": "P03T9DXBxYw",
-      "title": "Nobody Read the Pull Requests the Agent Opened",
+      "title": "Justin Cormack on Debugging With Agents",
       "duration_s": 604,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -3129,6 +3151,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "_XNMBj-ewE8": {
+      "video_id": "_XNMBj-ewE8",
+      "title": "You Don't Need Juniors to Code. Hire Them Anyway.",
+      "duration_s": 3143,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Coding agent reliability isn't a model problem, it's a gates problem. Ran Aroussi, creator of yfinance and founder of Automaze, argues that an \"agentic workflow\" is a contradiction in terms, and that the only thing standing between you and full autonomy is deciding where a human still signs off. He also thinks you stopped needing junior developers for their coding skills about a year ago, and that hiring them anyway is the only way the industry gets its next generation of architects.\n\nWhat we cover:\n– Why \"agentic workflow\" is a contradiction, and when agentic coding is the wrong tool for the job\n– Where a human still has to sign off, and what coding agent reliability actually depends on\n– What a software factory changed about delivery times, pricing and the client backlog\n– Why you no longer need juniors for their coding skills, and why you should hire them anyway\n– Teachable knowledge vs earned knowledge, and the experience agents cannot compress\n– The law firm model: why dev agencies may end up looking more like Kirkland & Ellis than a SaaS startup\n\n*AI DevCon is coming back to New York this November*\nGet 15% off your ticket with code POD15\nhttps://tessl.io/devcon#tickets\n\nChapters:\n00:00:00 - Introduction\n00:03:05 - yfinance, open source and 30 million downloads a month\n00:06:03 - Automaze and the MUXI agent application server\n00:10:42 - Where to draw the line on agent autonomy\n00:15:12 - Software factories and fully autonomous merges\n00:22:25 - The architect archetype and the four-phase ladder\n00:28:11 - Teachable knowledge vs earned knowledge\n00:30:14 - What agents did to delivery times and pricing\n00:37:03 - Why \"agentic workflow\" is an oxymoron\n00:41:08 - Anthropic, OpenClaw and the end of flat subscriptions\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/vut\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nWhere's your gate? Tell us in the comments where you still refuse to let a coding agent merge without a human looking.",
+      "published_at": "2026-09-08T12:00:19Z",
+      "tags": [],
+      "details_at": "2026-09-13T22:11:20+00:00"
+    },
     "a9ciMeRQHEk": {
       "video_id": "a9ciMeRQHEk",
       "title": "Chris Messina - Code As Commodity: How To Thrive With The Medium Of Generative Ai | DevCon Fall 2025",
@@ -3739,6 +3774,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "fwL31sNbq8g": {
+      "video_id": "fwL31sNbq8g",
+      "title": "Google, McKinsey & Dave Farley on AI Code Review",
+      "duration_s": 675,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\nhttps://tessl.co/aak\n\nCoding agent reliability stops being a model problem the moment review becomes the bottleneck. Four speakers at AI DevCon London arrived at the same fracture from different directions: generating a change costs thirty seconds, reading it costs an hour, and every convention around code review was built for the old ratio.\n\nJack Wotherspoon (Google) on the drive-by pull request, and why a maintainer can no longer assume a human is on the other side of the code. Dave Kerr (McKinsey) argues review was never quality control at all — it's how you engage with somebody else's mental model, which is exactly what a pile of unread generated code pulls apart. Brian Douglas (Paper Compute) left an agent running for hours, came back to find it politely hallucinating progress, and now pipes every session into a Tapes database with observational memory on top. And Dave Farley (Continuous Delivery), who writes no code by hand at all, explains why he still thinks English is too vague to be the programming language of the future.\n\nWhat we cover:\n– Why a 30-second drive-by pull request costs a maintainer an hour\n– What happens to coding agent reliability when nobody can say why a change was made\n– How one person's generated code pulls three mental models apart\n– Capturing agent sessions as observations instead of losing them\n– Why precision beats natural language, from someone who hand-writes none of his code\n\nChapters:\n00:00:00 - Introduction\n00:00:26 - Jack Wotherspoon, Google: the drive-by pull request\n00:02:46 - Why trust between contributors is breaking down\n00:03:18 - Dave Kerr, McKinsey: attention and short-cycle work\n00:04:53 - Maladaptive creativity and diverging mental models\n00:05:39 - Why you still review pull requests and specs\n00:06:12 - Brian Douglas, Paper Compute: politely hallucinating\n00:07:14 - Tapes, observational memory and agent feedback\n00:08:25 - Dave Farley, Continuous Delivery: natural language vs code\n00:10:01 - Why vibe coding alone isn't enough\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/2au\n\n🔔 Subscribe for weekly videos on AI-native development\n\nIs coding agent reliability a review problem or a tooling problem? Tell us in the comments.",
+      "published_at": "2026-09-07T15:15:35Z",
+      "tags": [],
+      "details_at": "2026-09-13T22:11:20+00:00"
+    },
     "gCS8k23_G8o": {
       "video_id": "gCS8k23_G8o",
       "title": "Alex Gavrilescu - Backlog md: From zero to success with AI Agents | DevCon Fall 2025",
@@ -3978,6 +4026,19 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "jfTltMo0TMg": {
+      "video_id": "jfTltMo0TMg",
+      "title": "Meta, Stanford & Odevo on Agentic Coding at Scale",
+      "duration_s": 610,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\nhttps://tessl.co/53j\n\nRolling out agentic coding to one team is a tooling problem. Rolling it out to five hundred engineers is a completely different problem, with a completely different set of ways to get it wrong. Four speakers at AI DevCon London whose job is getting other engineers using these tools on what actually moved the numbers.\n\nIan Thomas (Meta) grew an organic community 40 times over and took weekly usage from under half to above 80%, with no mandate involved. Rob Willoughby (Tessl) and Simon Obstbaum (Stanford) have been measuring across 150,000 engineers and are seeing the widest performance spread they have ever recorded — Simon set out to disprove the 10x engineer and now thinks he's watching one appear. Daniel Jones (Resync) and Tomasz Maj (Odevo) open with a warning from the 2025 DORA report: point agents at an organization that already ships badly and things get worse, not faster. And Hannah Foxwell on the part that gets the least airtime — on-call rotas, error budgets, and career planning for the skills teams need today rather than yesterday.\n\nWhat we cover:\n– How Meta moved from ad hoc AI use to 80%+ weekly adoption without mandating it\n– What 150,000 engineers show about the performance spread agentic coding creates\n– Why the 2025 DORA finding says agents make weak delivery worse, not better\n– The fundamentals to fix first: CI/CD, a platform, tests, coding standards\n– Career planning and sustainable on-call for the skills teams actually need now\n\nChapters:\n00:00:00 - Introduction\n00:00:26 - Ian Thomas, Meta: operational load and slow adoption\n00:01:39 - 40x community growth and 80%+ weekly usage\n00:02:30 - Rob Willoughby and Simon Obstbaum: 150,000 engineers measured\n00:02:47 - The 10x engineer he set out to disprove\n00:03:34 - How the performance spread is shifting\n00:05:00 - Daniel Jones and Tomasz Maj: starting with discovery\n00:05:16 - The 2025 DORA warning about agentic coding\n00:06:26 - CI/CD, platforms, tests and coding standards first\n00:07:24 - Hannah Foxwell: careers, on-call and the broken comb\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/jh9\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat actually shifted adoption on your team — tooling, training, or someone senior going first? Tell us in the comments.",
+      "published_at": "2026-09-09T16:00:37Z",
+      "tags": [],
+      "details_at": "2026-09-13T22:11:20+00:00"
     },
     "jg9IGHPXuSg": {
       "video_id": "jg9IGHPXuSg",
@@ -4894,6 +4955,19 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "tAYbWVgqaBk": {
+      "video_id": "tAYbWVgqaBk",
+      "title": "Tessl Code Review: Catching 74% of Bugs Pre-Merge",
+      "duration_s": 1556,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Coding agent reliability is the real bottleneck in a software factory — your agent can open the PR, but can you trust what's in it? Tessl Code Review is Tessl's answer: an AI code reviewer that catches real defects in agent-generated pull requests, and gets sharper the more your team uses it.\n\nIn this walkthrough, Tessl's Marc Sloan and Colin Hallett show how Tessl Code Review works, how to set it up, and how to build review rules tuned to your own codebase.\n\nWhat we cover:\n– Why coding agent reliability is the hard part of a software factory\n– How Tessl Code Review plugs into GitHub as an automated reviewer\n– The four default review lenses (and the three Tessl added for itself)\n– Building and tuning a custom review lens with Tessl's own agent\n– Configuring enforcement, effort level, and per-path lens scoping\n– Running Tessl Code Review locally, before you even open a PR\n\nChapters:\n00:00:00 - Introduction\n00:01:04 - What Tessl is building: software factories and context loops\n00:03:56 - Where code review fits in the software factory\n00:05:04 - Why generic code review can't fix agent reliability\n00:06:58 - How Tessl Code Review works, at a high level\n00:08:35 - Live demo: a pull request through Tessl Code Review\n00:11:09 - Installing Tessl Code Review\n00:13:27 - Customizing review lenses for your repo\n00:20:32 - Coming out of beta: what's next\n00:21:51 - Audience Q&A\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/fo7\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat's the biggest blocker to trusting your coding agent's output right now? Tell us in the comments — and stick around, agent reliability is a big part of what we cover here.",
+      "published_at": "2026-09-10T10:43:40Z",
+      "tags": [],
+      "details_at": "2026-09-13T22:11:20+00:00"
     },
     "tFffUnSq7VA": {
       "video_id": "tFffUnSq7VA",

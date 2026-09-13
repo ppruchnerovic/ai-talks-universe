@@ -1,7 +1,7 @@
 {
   "slug": "fully-connected-wandb",
   "name": "Fully Connected (Weights & Biases)",
-  "enumerated_at": "2026-09-06T13:20:22+00:00",
+  "enumerated_at": "2026-09-13T22:07:24+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLD80i8An1OEEh-4vRV5PF6MgN7OYRB7v4",
@@ -16,7 +16,7 @@
       "count": 300
     }
   ],
-  "count": 300,
+  "count": 303,
   "videos": {
     "-7QfVraLHw4": {
       "video_id": "-7QfVraLHw4",
@@ -587,6 +587,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:49+00:00"
     },
+    "6nD2f1qAW8Q": {
+      "video_id": "6nD2f1qAW8Q",
+      "title": "Accelerate the self-improving AI loop with CoreWeave ARIA",
+      "duration_s": 524,
+      "channel": "Weights & Biases",
+      "label": "Weights & Biases",
+      "year": null,
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
+    },
     "704veqSjvJc": {
       "video_id": "704veqSjvJc",
       "title": "What are Weights & Biases' incremental tables and charts?",
@@ -1095,6 +1104,15 @@
       "published_at": "2025-07-07T20:00:11Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:49+00:00"
+    },
+    "Gsmsc9NWE4c": {
+      "video_id": "Gsmsc9NWE4c",
+      "title": "300x more water-efficient: inside CoreWeave's liquid-cooled AI data centers",
+      "duration_s": 89,
+      "channel": "Weights & Biases",
+      "label": "Weights & Biases",
+      "year": null,
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
     },
     "GtZto6xKHSI": {
       "video_id": "GtZto6xKHSI",
@@ -3331,6 +3349,15 @@
       "published_at": "2024-10-24T15:00:55Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:50+00:00"
+    },
+    "o1ZrnikUPE0": {
+      "video_id": "o1ZrnikUPE0",
+      "title": "CoreWeave brings NVIDIA Vera Rubin NVL72 online: 10x inference, 1/10 the cost",
+      "duration_s": 108,
+      "channel": "Weights & Biases",
+      "label": "Weights & Biases",
+      "year": null,
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
     },
     "oBVzAuYijqw": {
       "video_id": "oBVzAuYijqw",

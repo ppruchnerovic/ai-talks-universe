@@ -1,7 +1,7 @@
 {
   "slug": "black-hat",
   "name": "Black Hat",
-  "enumerated_at": "2026-09-06T13:21:39+00:00",
+  "enumerated_at": "2026-09-13T22:08:26+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@BlackHatOfficialYT/videos",
@@ -10,7 +10,7 @@
       "count": 600
     }
   ],
-  "count": 603,
+  "count": 604,
   "videos": {
     "-BCngzJC1Rc": {
       "video_id": "-BCngzJC1Rc",
@@ -966,6 +966,15 @@
       "published_at": "2024-09-11T16:49:04Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:43+00:00"
+    },
+    "62ljM9dO_ns": {
+      "video_id": "62ljM9dO_ns",
+      "title": "Black Hat Stories | Ryan & Isabella Barnett, Akamai",
+      "duration_s": 119,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
     },
     "63bUI-2APY4": {
       "video_id": "63bUI-2APY4",

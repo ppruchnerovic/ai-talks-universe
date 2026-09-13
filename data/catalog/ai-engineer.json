@@ -1,7 +1,7 @@
 {
   "slug": "ai-engineer",
   "name": "AI Engineer",
-  "enumerated_at": "2026-09-06T13:18:47+00:00",
+  "enumerated_at": "2026-09-13T22:05:51+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@aiDotEngineer/videos",
@@ -10,7 +10,7 @@
       "count": 900
     }
   ],
-  "count": 916,
+  "count": 932,
   "videos": {
     "-561cZmir5Q": {
       "video_id": "-561cZmir5Q",
@@ -579,7 +579,7 @@
     },
     "17-YSUHo6Lk": {
       "video_id": "17-YSUHo6Lk",
-      "title": "Agentic SDLC at Uber — Uday Kiran Medisetty & Adam Huda, Uber",
+      "title": "Building Blocks for Uber’s Software Factory— Uday Kiran Medisetty & Adam Huda, Uber",
       "duration_s": 1106,
       "channel": "AI Engineer",
       "label": "AI Engineer",
@@ -2412,6 +2412,28 @@
       ],
       "details_at": "2026-08-31T15:35:11+00:00"
     },
+    "8KkibGU_DDY": {
+      "video_id": "8KkibGU_DDY",
+      "title": "Mousepower: agents that can’t be measured, can’t be managed. — Maximillian Piras, Yutori",
+      "duration_s": 1238,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Selling steam engines to people who thought in horses, James Watt studied the horse gins that powered mills, worked out what one animal produced, and called it horsepower. The number was not scientific and arguably not accurate. It did not have to be. It made the improvement legible enough that someone who liked horses would try a machine. Maximillian Piras is the founding designer at Yutori, which builds computer use models: agents that drive a computer as a person would, where no API or MCP exists. His thesis is that agents have Watt's problem. This room can run agents all day, but early adopters are a biased sample, and most people cannot judge whether the tokens were worth it.\n\nHe calls the current pattern overspending and underusing: token maxing into austerity, dropping out, then getting pulled back by the fear of missing out. Part of the fix is tracing spend to outcomes rather than tokens, which are only an output: bugs closed, support requests resolved. The harder part is verification. Coding got faster while review did not, so the bottleneck moved to the human reading the diff, and value cannot be judged as fast as it is produced. His framework is an entropy matrix. One axis is uncertainty in the steps a task takes, the other is uncertainty in its acceptance criteria. Too little step uncertainty and you should write a script. Too much and the task sits out of distribution with sparse rewards. Too much criteria uncertainty and verifying costs as much as doing. The sweet spot resembles an NP problem, cheaper to check than to solve, which means you can point agents at the checking too.\n\nSpeaker info:\n- https://x.com/MVXMXM\n- https://www.linkedin.com/in/maximilliannyc/\n- https://www.maximin.design\n\nTimestamps:\n0:00 - Backgrounding agents in parallel, until the bill\n2:17 - Computer use models at Yutori\n3:39 - Agents have a measurement problem\n5:01 - Why early adopters are a biased sample\n5:43 - James Watt and the horse gin\n7:07 - Horsepower, inaccurate but legible\n9:12 - Overspending and underusing\n10:33 - Tokens are an output, outcomes are the point\n11:52 - The bottleneck moved to review\n13:53 - Mousepower, and a joke measuring device\n16:37 - An entropy matrix for choosing agent tasks",
+      "published_at": "2026-09-10T15:00:39Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
+    },
     "8SUJEqQNClw": {
       "video_id": "8SUJEqQNClw",
       "title": "Agents vs Workflows: Why Not Both? — Sam Bhagwat, Mastra.ai",
@@ -2587,6 +2609,28 @@
       ],
       "details_at": "2026-08-30T22:31:47+00:00"
     },
+    "9R--1tg45Jg": {
+      "video_id": "9R--1tg45Jg",
+      "title": "Build-Time vs. Run-Time: Why Dev Tools Fail in Production — Averi Kitsch & Prerna Kakkar, Google",
+      "duration_s": 1226,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "In one of the demos an agent hits an error, decides the fix is to delete the table and start fresh, and does exactly that. Nothing stops it. Averi Kitsch, technical lead for MCP Toolbox on Google Cloud databases, and Prerna Kakkar, who leads Eval Bench at Google, use that failure to draw the line their talk is named for. Build time tools serve developer assistance: control plane tools that manage instances, and natural language to SQL that writes whatever query a question needs. They are flexible, belong under a human, and do not belong in production. Run time tools are the opposite, structured SQL with parameters fixed ahead of time, closing off injection, cutting latency, and leaving no room to invent.\n\nThe second half is security. A database is only as secure as the agent in front of it, and the confused deputy attack is the shape to watch. A triage agent reads a ticket, a planted instruction tells it to query the salary table and post the results back, and it complies because it has the privileges. Their answer separates user, application, and agent identity, then walks a tool from super user down to something narrow. Connection details move into a YAML source the agent never sees, read only enforcement reaches down to the driver, allowed data sets and output caps bound the blast radius, and custom tools pin the exact SQL behind prepared statements. Sensitive values like a user id are bound by the application, so the agent never handles them. They close on tool quality: outcome shaped tools, read split from write, and errors an agent can act on.\n\nSpeaker info:\n- https://www.linkedin.com/in/averikitsch\n- https://averi.dev\n- https://www.linkedin.com/in/prernakakkar95/\n\nTimestamps:\n0:00 - Introductions, MCP Toolbox and managed MCP\n2:56 - Common tool patterns for databases\n4:37 - Structured SQL tools for production\n5:20 - Build time against run time\n6:16 - When a build time tool deletes the table\n8:46 - Your database is only as secure as your agent\n9:13 - The lethal trifecta and the confused deputy\n11:19 - Separating user, application, and agent identity\n12:33 - Evolving a tool from super user to constrained\n14:55 - Custom tools and prepared statements\n15:52 - Best practices for tool quality\n17:39 - Bound parameters, keeping PII from the agent",
+      "published_at": "2026-09-09T13:00:04Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
+    },
     "9arM9b7JgOo": {
       "video_id": "9arM9b7JgOo",
       "title": "Develop at Idea Velocity - Jeffrey Lee-Chan, Snapchat",
@@ -2682,6 +2726,28 @@
       "published_at": "2025-06-04T07:21:01Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:11+00:00"
+    },
+    "9wZpvF3QleU": {
+      "video_id": "9wZpvF3QleU",
+      "title": "500 Skills, Zero Fine-Tuning: LinkedIn's Playbook for AI Agents — Ajay Prakash, LinkedIn",
+      "duration_s": 1225,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "LinkedIn exposes roughly 1,300 tools and 600 playbooks to its coding agents, and all of them sit behind exactly three. MCP degrades somewhere past thirty or forty tools, so Ajay Prakash's team replaced the whole surface with search, get schema, and execute, letting an agent find what it needs instead of carrying everything in context. Prakash is a senior staff software engineer at LinkedIn, and he opens with an on call incident. An alert goes to a coding agent, which pulls the debugging instructions for that specific service, fetches logs and metrics, finds the root cause, proposes mitigation steps, applies them once a human confirms, updates the incident record, and opens a PR for the underlying fix. Minutes instead of hours. The rest of the talk is about the infrastructure that makes that reliable rather than lucky.\n\nIt did not start there. Agents trained on public repositories knew nothing about a thousand internal repos, custom databases, or a configuration system that new hires spend a week long boot camp learning, so engineers spent longer correcting hallucinations than writing the code themselves. An internal MCP server with code search helped, then documents, Jira, Slack, and feature flags. Tools alone still fell short, because the knowledge of how to use them sat scattered across stale wikis and old Slack threads, and every session started from nothing. Playbooks are the answer: instructions published as tools, invoked like any other tool, kept self contained and split into small referenced pieces so context arrives progressively. Agents are asked to open a PR improving any playbook they find stale, which is what keeps the corpus alive.\n\nSpeaker info:\n- https://x.com/ajay_prakash_ai\n- https://www.linkedin.com/in/ajay-prakash-3780b132/\n\nTimestamps:\n0:00 - An on call incident, handled end to end\n2:48 - Why coding agents failed inside LinkedIn\n5:10 - A thousand repos on internal frameworks\n6:34 - An internal MCP, starting with code search\n8:30 - Why tools alone were not enough\n10:34 - Playbooks, instructions served as tools\n12:27 - Two rules, self contained and broken up\n14:23 - The loop that keeps playbooks fresh\n15:34 - Architecture, local and central playbooks\n17:23 - Three meta tools to scale past the MCP limit\n19:01 - Takeaways",
+      "published_at": "2026-09-09T14:00:06Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
     },
     "A-zeQiYkmXk": {
       "video_id": "A-zeQiYkmXk",
@@ -4755,6 +4821,28 @@
       ],
       "details_at": "2026-08-30T22:31:40+00:00"
     },
+    "H7vFrcNWXzs": {
+      "video_id": "H7vFrcNWXzs",
+      "title": "Building ambitious software — Jonathan Kelley, Dioxus Labs & Cognition",
+      "duration_s": 1154,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "The Dioxus team got excited, maxed out their coding agent subscriptions, and turned out tens of thousands of lines of Rust covering features they had wanted for years. Almost none of it cleared the bar for merging. Those lines sat in draft, and Jonathan Kelley says they are sitting there still. He calls the failure mode becoming a slop cannon. Kelley founded Dioxus Labs five years ago, spending his last undergraduate summer on a cross platform Rust app framework instead of taking an internship, and the project now carries roughly 37,000 GitHub stars and an estimated 200 million cumulative end users across apps from voting software to collision avoidance for satellites. Getting there meant building almost everything from scratch, including a rendering engine with a browser grade CSS engine lifted out of Firefox, and a hot reload engine that patches running native code in place in about 100 milliseconds.\n\nThe interesting turn is what changed when the agents got good at Rust. Kelley's team spent five years trying to file down Rust's learning curve, and now treats that curve as a feature, because the agents absorb the borrow checker and the edge cases on the developer's behalf. He is specific about where this pays and where it does not. Deeply integrated Kotlin and Swift build plugins went from years of hand written work to weeks. Release checklists, backports, and documentation accuracy became tractable for a team of three. Tests did not, because agents write tests for any API but rarely the right ones, though they excel at fuzzing harnesses. His verdict: code is cheap now, quality is not, and architecture is where the time goes.\n\nSpeaker info:\n- https://www.linkedin.com/in/jonathan-r-kelley\n- https://jonathan-kelley.com\n- https://github.com/dioxuslabs/dioxus\n\nTimestamps:\n0:00 - Five years ago, a first commit\n2:49 - Where the project stands now\n4:35 - Blitz and Subsecond\n6:15 - The moment agents got good at Rust\n7:07 - Why a hard language became an advantage\n10:32 - Agents as patient specialists\n13:04 - The mundane work worth automating\n15:37 - Where tests fall short, where fuzzing wins\n16:28 - Architecture is still an art\n17:19 - Reading code over writing code",
+      "published_at": "2026-09-11T20:00:06Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
+    },
     "HEFSExa0xl0": {
       "video_id": "HEFSExa0xl0",
       "title": "Teaching Coding Agents to do Spreadsheets - Nuno Campos, Witan Labs",
@@ -5806,6 +5894,28 @@
       "tags": [],
       "details_at": "2026-08-30T22:30:37+00:00"
     },
+    "KcVkq5L-0f0": {
+      "video_id": "KcVkq5L-0f0",
+      "title": "Your agents lack context: Here's how to fix \"You're absolutely right!\" — Brandon Waselnuk, Unblocked",
+      "duration_s": 849,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Unblocked ran the same prompt against the same model twice, once with a context engine behind it and once without. The run without it burned twenty one million tokens. The run with it burned ten point eight million and finished about two hours sooner. Brandon Waselnuk works in developer relations at Unblocked, and he opens with the standard his talk is named for: AI generated code should feel like it was written by someone who has been on your team for years. You became that person by asking questions, getting PRs rejected, sitting in meetings, and being on call the night production went down. An agent starts every session with none of it. Waselnuk traces how that gap compounds as teams move from tab completion toward parallel and background agents, turning into correction loops, wasted search tokens, and a review tax.\n\nHe then walks through two approaches that stall. First the curated context trap, where a team writes markdown files describing the project, then has to distribute them, watch them rot, and decide who has the taste to maintain them for everyone. Then the MCP plateau, where an agent may never call the server at all, or hits satisfaction of search bias and stops at the first plausible answer while last night's Slack thread saying to do the opposite goes unread. Access to information, he argues, is not understanding. The rest of the talk covers the six things a real engine owes you, among them conflict resolution, personalized relevance, and permission enforcement, and closes on three open source tools his team has released, including a workshop that builds a relational context engine from scratch.\n\nSpeaker info:\n- https://x.com/BrandonWaselnuk\n- https://ca.linkedin.com/in/brandonwaselnuk\n- https://github.com/unblocked/engineering-social-graph?utm_source=aie+worldfair\n- https://github.com/unblocked/repo-rules-agent?utm_source=aie+worldfair\n- https://github.com/unblocked/document-query-engine?utm_source=aie+worldfair\n\nTimestamps:\n0:00 - Why AI code should feel like a teammate wrote it\n1:50 - How bad context compounds as agents scale\n4:20 - Two dead ends, curated context and the MCP plateau\n5:52 - What a context engine actually has to do\n7:26 - Inside the engine and its six characteristics\n9:16 - The same prompt with and without context\n10:11 - Three open source tools to try\n12:25 - Beyond code generation, and closing",
+      "published_at": "2026-09-09T14:30:12Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
+    },
     "Kcka7rzcxLk": {
       "video_id": "Kcka7rzcxLk",
       "title": "Books reimagined: AI to create new experiences for things you know — Lukasz Gandecki, TheBrain.pro",
@@ -5862,6 +5972,28 @@
         "machine learning"
       ],
       "details_at": "2026-08-30T22:32:10+00:00"
+    },
+    "Krzs8GeiWTc": {
+      "video_id": "Krzs8GeiWTc",
+      "title": "Generative UI... in Python? — Jeremiah Lowin, Prefect",
+      "duration_s": 1058,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Because only the agent can reach an MCP server, a naive file upload tool makes the agent retype the file into the server character by character. Jeremiah Lowin calls it the world's most expensive copy paste operation, and it is the problem MCP apps exist to remove. Lowin is founder and CEO of Prefect and the author of FastMCP. MCP apps, a protocol extension added this year, let a tool result skip the agent and arrive at the user as HTML, CSS, and JavaScript: a real interface a person can click. That solves one problem and creates another, because FastMCP's users are overwhelmingly Python engineers inside enterprises, and shipping React from Python is not something he would pretend to do.\n\nThe way out was constraining the problem. His users are not building consumer facing branded products; they share and collect information, which means tables, forms, and charts. Prefab is the result, a Python DSL where nesting context managers builds the interface structure and every component is a class that renders as a polished one. Reactive variables give client side interactivity with no JavaScript. The pipeline runs Python to a declarative representation to a JSON protocol to a React app, and Lowin is blunt that the JSON is the actual point: a serializable UI is one an agent can generate, receive, or edit. The Python DSL, he says, was an accident he noticed later. Two details land. The Prefab documentation is rendered entirely in Prefab, editable in place. And a UI streamed as Python turned out roughly seventy percent smaller than the same UI as JSON, so they now send Python over the wire and convert it in a sandbox.\n\nSpeaker info:\n- https://x.com/jlowin\n- https://www.linkedin.com/in/jlowin/\n- https://jlowin.dev\n\nTimestamps:\n0:00 - MCP apps, and bypassing the agent\n3:20 - Shipping UIs to an audience of Python engineers\n4:45 - Constraining the problem to tables, forms, charts\n5:43 - Composing a front end rather than building one\n6:37 - The DSL, and the JSON in the middle\n8:54 - Docs rendered in the thing they document\n10:13 - Interactive tools, and a chart beside a table\n12:56 - Full apps and the expensive copy paste problem\n15:15 - Generative UI, and Python beating JSON on the wire",
+      "published_at": "2026-09-10T16:30:07Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
     },
     "KwhgfwOSToQ": {
       "video_id": "KwhgfwOSToQ",
@@ -6585,6 +6717,28 @@
       "tags": [],
       "details_at": "2026-08-30T22:32:22+00:00"
     },
+    "NW-jwOVr32w": {
+      "video_id": "NW-jwOVr32w",
+      "title": "The Design-Code Roundtrip That Isn't — Jonathan Gordon, ReWeaver AI",
+      "duration_s": 1117,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Jonathan Gordon was deep in a vibe coding session, ignoring the wall of text scrolling past, when the phrase innerHTML caught his eye. He knew it as an injection risk, stopped the agent, and made it revert. That was the moment he started reading the code again. Gordon has spent more than thirty years building developer tools and IDEs, and he defines his title precisely: a design code roundtrip is a full loop both ways with no loss of fidelity and persistent provenance, so you always know which line of code produced the button in front of you. In three decades he never saw that handoff close, because design and engineering optimize for different outcomes. When a single intelligence could both read design intent and write code, he thought the loop might finally shut.\n\nIt did not. He tried five tool setups for a bidirectional roundtrip and every one was lossy: bindings dropped, or a design change survived while the code did not. So he built ReWeaver, demonstrated publicly here for the first time, with generated code on one side, a Figma canvas on the other, and a button marked show drift. It scans both and reports across dimensions including design quality, performance, tokens, and accessibility, which he carries from his years at Microsoft. Models still emit components with no ARIA live region, so a screen reader announces nothing. Running twelve iterations on one codebase, pure model output started near thirty percent fidelity and decayed, while deterministic guardrails held it up. It never reaches a hundred, because the last stretch is human judgment. His name for drift that accumulates unwatched is the new tech debt.\n\nSpeaker info:\n- https://x.com/reweaver_ai\n- https://www.linkedin.com/in/jongor/\n- https://www.reweaver.ai\n\nTimestamps:\n0:00 - Losing the speaker notes, and what a roundtrip means\n2:10 - Thirty years of handoffs that never closed\n3:37 - Going all in on vibe coding\n5:27 - The innerHTML moment that made him read the code\n6:20 - Testing the claim that the roundtrip is solved\n7:40 - A harness with code on one side, design on the other\n9:33 - Show drift, accessibility, and what it catches\n11:50 - Deterministic guardrails versus pure model output\n14:06 - Human in control, not just in the loop\n16:25 - Nine dimensions, and trying it yourself",
+      "published_at": "2026-09-10T14:30:11Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
+    },
     "Nqb7JTx0Pqo": {
       "video_id": "Nqb7JTx0Pqo",
       "title": "MCP Agent Fine tuning Workshop - Ronan McGovern",
@@ -6641,6 +6795,28 @@
         "machine learning"
       ],
       "details_at": "2026-08-31T15:35:12+00:00"
+    },
+    "O1FN4awNEtM": {
+      "video_id": "O1FN4awNEtM",
+      "title": "One Designer + AI. Hundreds of Deliverables. — Vincent Wendy, AI Engineer",
+      "duration_s": 1008,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Vincent Wendy pointed an agent at the sponsor banner in the lobby, a wall carrying more than 140 logos, and asked it which ones were missing. It caught every omission in the checks he ran, and he used the same trick on the conference shirt. Wendy is the senior creative designer at AI Engineer, a company of roughly twelve to fifteen people, and he is its only designer. The conference he designs for grew to 7,000 attendees, more than 140 sponsors, more than 300 speakers, and more than 600 sessions, and all of it needs something drawn: stickers, signage, landing pages, wayfinding. A thousand details, as he puts it, means a thousand ways to fail.\n\nHis method has five parts: build the foundation first, make designs reusable, automate the workflows, validate the output, and remove friction. The foundation is an ordinary design system, pinned down tightly enough that a model cannot invent its own font size, which lets the marketing team build emails and flyers from the website without involving him. Room schedules once laid out by hand in Figma are now pulled fresh from live data, exported, and carried to the screens on a flash drive. A generator produces announcement graphics and trading cards for all 300 speakers, pixel perfect, pulling in headshots on its own. He shows Devin, which lives in Slack, matching a photographer's shots to the right speaker, and adding an edit button to the schedule tool the morning he needed one. His closing claim: tools stopped being the constraint, so having a real problem is the advantage.\n\nSpeaker info:\n- https://id.linkedin.com/in/vinwendy\n\nTimestamps:\n0:00 - One designer for a 7,000 person conference\n2:07 - A thousand details, a thousand ways to fail\n3:22 - The design team: Devin, GPT, and Figma\n4:45 - Five ways to solve the scale problem\n6:54 - Reusable design and the schedule signage pipeline\n9:16 - The speaker announcement generator\n11:50 - Matching photos to the right speaker\n13:15 - Checking 140 sponsor logos for gaps\n14:21 - Removing friction and handling exceptions",
+      "published_at": "2026-09-10T17:00:06Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
     },
     "O3FEoMYvUf8": {
       "video_id": "O3FEoMYvUf8",
@@ -9161,6 +9337,28 @@
       ],
       "details_at": "2026-08-31T15:35:12+00:00"
     },
+    "XWcXwnysmpY": {
+      "video_id": "XWcXwnysmpY",
+      "title": "The Spatial Harness: Bringing Agents to the Canvas — Max Drake, tldraw",
+      "duration_s": 1132,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "One of Max Drake's colleagues turned a whiteboard app into a window manager, then used it to play Pong with real desktop windows. Drake is a product engineer at tldraw, the London company behind the free infinite canvas app and, more importantly to him, the SDK powering other people's canvases, including Replit's. tldraw exists because people building canvas apps got stuck on the canvas itself, on selection and resizing and matrix math, and never reached their actual product. His talk is about the same trap one layer up. Coding agents work well because code is text in and text out, the medium they were trained on. Ask one to align something in two dimensions and it falls apart. Teaching agents to understand space takes real engineering.\n\nThe progression starts with getting a model to read a canvas at all, from a screenshot plus the underlying JSON. Told in one shot to make a mouse blow out a candle, it produces wind and then smoke, positioned correctly, out of ordinary shapes. That becomes the agent starter kit, MIT licensed, where an agent sets its own todos and moves its viewport to go looking for things. Then come fairies, agents rendered as visible characters you can throw around and recolor. The whimsy is load bearing: with ten agents running you read their state by glancing at them rather than reading a chat log. Select several and you get a group chat, one of them acting as orchestrator, assigning work and waiting to review it. Last is a dependency graph where every node is a coding agent, and a desktop build that lets any agent script the editor directly.\n\nSpeaker info:\n- https://x.com/max__drake\n- https://www.linkedin.com/in/maxdrake1/\n- https://maxdrake.md\n\nTimestamps:\n0:00 - A demo kicked off before the talk begins\n1:08 - tldraw, the app and the SDK behind other canvases\n4:14 - Why coding agents work and canvas agents struggle\n5:08 - Teaching a model to read and act on the canvas\n7:01 - The agent starter kit goes agentic\n8:26 - Fairies, multiplayer agents you can see working\n9:49 - A group chat of agents with an orchestrator\n12:06 - One node per coding agent, in a dependency graph\n15:48 - Code mode, a window manager, and Pong\n18:05 - The canvas as a place to work with agents",
+      "published_at": "2026-09-10T14:00:06Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
+    },
     "XZ0boOjtbNo": {
       "video_id": "XZ0boOjtbNo",
       "title": "AI Didn’t Kill the Web, It Moved in! — Olivier Leplus (AWS) & Yohan Lasorsa (Microsoft)",
@@ -9318,6 +9516,28 @@
         "machine learning"
       ],
       "details_at": "2026-08-31T15:35:12+00:00"
+    },
+    "XzJD1bvXKjs": {
+      "video_id": "XzJD1bvXKjs",
+      "title": "How long can your skills be before your agent forgets what you told it? — Laurie Voss, Arize AI",
+      "duration_s": 1346,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Laurie Voss reran a year old benchmark and the models walked straight through its ceiling without noticing it was there. IFScale asks a model to write a business report containing a list of exact words, then counts how many actually appear. A year ago frontier models started dropping instructions somewhere around 200 to 300, which is a hard limit on how much you can put in a skills file. Voss, head of developer relations at Arize AI and a cofounder of npm, first replicated that result on the three models from the original paper still reachable by API, then pointed the same test at the current frontier. They scored 100 percent immediately. He had to raise the benchmark from 500 words to 10,000 before anything broke at all. The boundary now sits near 2,000 instructions, and for the best model closer to 5,000, roughly a tenfold gain in twelve months.\n\nThe stranger finding is that the models no longer fail the same way. One simply forgets, shedding nearly half its rules by 2,000. One refuses at the API level, because a pile of random words trips its safety classifier. One spends its whole thinking budget verifying instructions and leaves no room to answer. The last writes five thousand words of the report, decides the request is stupid, says so politely, and stops, which reads like a finished answer unless you get to the end. Voss argues this moves the work: fitting rules into a small budget was a compression problem and it is gone, while knowing whether the model obeyed is a verification problem that only checking outputs solves. The whole study cost 29 dollars.\n\nSpeaker info:\n- https://x.com/seldo\n- https://www.linkedin.com/in/seldo/\n- https://seldo.com\n\nTimestamps:\n0:00 - The 200 instruction ceiling and where it came from\n1:49 - Not knowing whether it followed your rules\n2:58 - How the IFScale benchmark works\n4:19 - Replicating last year's result\n6:12 - Pointing the same test at current models\n7:07 - The headline, a tenfold jump in a year\n9:01 - Four models, four different ways to fail\n14:27 - What this changes in your workflow\n16:29 - Caveats, and what the test does not prove\n19:32 - Capacity went up, reliability did not\n21:06 - Compression solved, verification remains",
+      "published_at": "2026-09-09T15:00:06Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
     },
     "Y2qc0UhDSnc": {
       "video_id": "Y2qc0UhDSnc",
@@ -9555,6 +9775,28 @@
         "machine learning"
       ],
       "details_at": "2026-08-30T22:32:36+00:00"
+    },
+    "YkNulwcc5jk": {
+      "video_id": "YkNulwcc5jk",
+      "title": "ACP: The Universal Remote Control for AI Agents — Alex Hancock, Block",
+      "duration_s": 661,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Alex Hancock built one of the clients in this talk the night before he gave it, which is roughly the point. Hancock is a software engineer at Block, works on the open source agent harness Goose, now donated to the Linux Foundation, and maintains the Rust SDK for MCP. His argument is that the agentic stack already has a good standard for agents reaching outward to do things, which is MCP, and that the strongest thing about MCP is not its design but the fact that everyone uses it. What is missing is the other direction, a standard way for client software to tell a harness what to work on and to get updates back. Most harnesses today expose a bespoke interface, and in the worst case exactly one application can drive them. He compares it to needing a different browser for every website.\n\nHis candidate is ACP, the agent client protocol, which came out of the Zed and JetBrains teams wanting one high quality editor client capable of driving any harness. It runs on JSON RPC and carries sessions, user messages, tool call notifications, and permission requests. It is deliberately extensible through underscore prefixed custom methods, so common patterns can surface from real usage across projects and then move onto a standards track. Hancock demonstrates Zed and a terminal client from Poolside driving the same Goose agent, then the remote HTTP and websocket transport his team specified, since the protocol had none. With remote transports for the protocol, for MCP, and for models, all four pieces of the stack, client, harness, tools, and model, become independently placeable. He expects a real client market to push user experience upward.\n\nSpeaker info:\n- https://x.com/alexjhancock\n- https://www.linkedin.com/in/alexjhancock/\n\nTimestamps:\n0:00 - Goose, MCP, and ACP\n1:23 - Every harness has a bespoke interface\n2:21 - Standards create ecosystems\n3:02 - ACP, where it came from and how it works\n6:17 - Two clients driving the same agent\n7:24 - Remote transport and four movable pieces\n9:26 - Why a client ecosystem raises quality",
+      "published_at": "2026-09-09T16:00:03Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
     },
     "YnNF55QV0zs": {
       "video_id": "YnNF55QV0zs",
@@ -12927,6 +13169,28 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:13+00:00"
     },
+    "lbaXnx0KLA8": {
+      "video_id": "lbaXnx0KLA8",
+      "title": "MCP Apps: Give the Model Data, Give the User a UI — Dustin Mihalik, Indeed",
+      "duration_s": 934,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Adding a nice interface made the product worse. With plain text results the model would run ten or fifteen job searches, filter them, and assemble a table. Once a rendering widget was attached, it called the tool once, saw results already on screen, and stopped exploring. Dustin Mihalik is a technical fellow at Indeed working on AI platform and guardrails, and this is a lessons from the trenches account of building MCP apps for Claude, ChatGPT, and Indeed's own job seeker agent. He starts with why a UI is worth having. A text response carries no branding, and getting a host chat app to link out is genuinely hard, since it would rather you stayed; hours of eval work went into that alone. A widget gives you an apply button and a detail view without leaving the conversation.\n\nThen three rules. Anything shown to the user must also reach the model as data, or the widget is a black box and every follow up question fails. The tool description has to say a UI exists, otherwise the model narrates the same results underneath it. And the rule that supersedes the others, separate data processing from UI rendering. At Indeed that meant a plain search tool the model can call freely, plus a render widget taking a list of ids, so it can search a hundred jobs, filter to five, and show only those. Interactions need the same treatment, pushed back through update model context, or the model cannot tell which job was opened. He closes on data first design, small composable tools, and letting the render tool carry the model's own reasoning about why a result fits.\n\nSpeaker info:\n- https://www.linkedin.com/in/dmihalik/\n- https://dmihalik.com\n\nTimestamps:\n0:00 - MCP apps at Indeed, and why UI matters\n1:22 - Text based results, and the linking problem\n3:13 - Rule one, show the model everything you show the user\n5:06 - Rule two, tell the description a UI exists\n6:16 - Interactions the model cannot see\n8:19 - Rule three, split data processing from rendering\n10:50 - A search tool and a separate render tool\n12:39 - Letting the model add its own reasoning\n13:34 - Takeaways, data first and small composable tools",
+      "published_at": "2026-09-09T15:30:08Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
+    },
     "li0SaBt9RDM": {
       "video_id": "li0SaBt9RDM",
       "title": "The AI Skill I Rely On Daily — Priscila Andre de Oliveira, Sentry",
@@ -14398,6 +14662,28 @@
       ],
       "details_at": "2026-08-31T15:35:13+00:00"
     },
+    "sDMGWK4wZ_w": {
+      "video_id": "sDMGWK4wZ_w",
+      "title": "Training Taste — Thais Castello Branco, Taste Labs",
+      "duration_s": 906,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Taste Labs analyzed more than two million websites going back a decade, and the finding that complicates the usual story is that the internet was homogenizing before AI arrived: palettes converging, layouts converging, trends spreading faster than they once did. AI did not start the collapse. It accelerated it and made it context blind, so a pet shop and a finance firm end up with the same page. Thais Castello Branco founded Taste Labs, out of stealth weeks before this talk, to attack that. She names three signatures of slop: repetition, lack of fit, and low intent. She is careful about the word taste, preferring judgment, and she rejects the idea that the fix is everyone acquiring some. Designers spend careers on it, through exposure, pattern recognition, restraint, and the nerve to break a rule on purpose.\n\nSo the work is making a fuzzy domain measurable. Some pieces go nearly deterministic once the context is tight: contrast, alignment, and palette selection are things most experts score the same way. Aesthetics is where experts disagree, so that leans on data instead. Her team mined features from those sites and trained what she calls probes, small classifiers that each detect one characteristic. Stacked together, their combined frequency predicts slop, and she reports it beating the usual approach of asking a model to judge. On the solution side she argues inference time matters as much as the model, because intent and context are exchanged there. One product pushes deliberately out of distribution, breaking chosen rules while respecting a category's expectations rather than raising temperature. Another turns a brand into structured components an agent can follow and that you can grade it against.\n\nSpeaker info:\n- https://x.com/thaiscbranco_\n- https://www.linkedin.com/in/thais-castello-branco/\n\nTimestamps:\n0:00 - Taste Labs, and slop as the enemy\n1:33 - Where design gets objective and where it does not\n2:53 - Greatness, and why slop is easier to define\n3:46 - Generation costs nothing, taste takes a lifetime\n5:07 - Three signatures of slop\n6:28 - Two million websites, and what they showed\n7:48 - Probes, small classifiers that predict slop\n10:31 - Going out of distribution on purpose\n11:51 - Turning a brand into something an agent can follow",
+      "published_at": "2026-09-10T16:00:20Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
+    },
     "sJ2jc7leKBk": {
       "video_id": "sJ2jc7leKBk",
       "title": "I Gave an AI Agent the Keys to My Life (Here's What Happened) — Radek Sienkiewicz (@velvetshark-com)",
@@ -15102,6 +15388,28 @@
       "published_at": "2025-12-13T04:44:20Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:13+00:00"
+    },
+    "v42opQpCy60": {
+      "video_id": "v42opQpCy60",
+      "title": "Design at the Speed of Adjectives — Paul Bakaus, Renaissance Geek, Inc.",
+      "duration_s": 959,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "The instruction Impeccable loads when you type \"bolder\" ends with a challenge: show someone your work, say AI made this bolder, and if they believe you, you failed. Bakaus has built tools for more than twenty years. Impeccable is a design skill that rides on top of a coding harness rather than replacing it, working across Claude Code, Copilot, Cursor, and Codex. He opens by running the same prompt on the same bland page twice, with the skill and without, and lets the room judge. His observation is that the tells of generated design keep moving. The purple gradients are gone from frontier models. What replaced them is a beige palette, Instrument Serif, and italics, which he calls Claude beige, and which is not bad design so much as identical design.\n\nHis hot take is that you cannot oneshot design, maybe not ever, because good design is context rich, iterative, and full of people with opinions. Someone still has to decide the emotional territory, what this should never feel like, who it is for. So rather than automate the decision, Impeccable hands you vocabulary to steer it: bolder, quieter, distill, polish, denser, harden. Each word is loaded with a specific meaning for your project, so bolder resolves to hierarchy, scale, and decisive type instead of gradients, glass, and neon. He maps the messy workflow, from shaping through crafting and iterating to hardening and design debt cleanup, then picks injection points along it. He also refuses his most requested feature: there will be no automatic mode, and a pull request adding one is getting closed, because the point is steering rather than abdication.\n\nSpeaker info:\n- https://x.com/pbakaus\n- https://linkedin.com/in/paulbakaus\n- https://www.paulbakaus.com/\n\nTimestamps:\n0:00 - Impeccable, and a cold open you can compare\n2:46 - Blurring roles and a broken handoff\n3:51 - Direct manipulation versus fully agentic\n5:15 - Slop moved on: Claude beige, not purple gradients\n5:58 - You cannot oneshot design\n8:16 - Steering with adjectives and verbs\n9:40 - What bolder means in your context\n12:02 - Mapping the messy design workflow\n14:05 - No auto mode, and why taste is not lab grown",
+      "published_at": "2026-09-10T15:30:14Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
     },
     "v4F1gFy-hqg": {
       "video_id": "v4F1gFy-hqg",
@@ -15922,6 +16230,28 @@
       "tags": [],
       "details_at": "2026-08-30T22:30:23+00:00"
     },
+    "xo68uCibfm8": {
+      "video_id": "xo68uCibfm8",
+      "title": "It’s Tokens All The Way Down: How RLMs are Different — Kevin Madura, AlixPartners",
+      "duration_s": 1248,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Ask a model to sum twelve numbers scattered across thirty thousand tokens and it will often get it wrong. Give it a Python REPL and it writes a few lines of regex instead. That is the shift Kevin Madura, director of advanced technology at AlixPartners, describes in recursive language models. An RLM treats its context as an object living in a REPL rather than as tokens it must attend to, so it can slice, compute over, and iterate on the input as a variable. The second property matters as much: it can delegate to another model, including itself, with its own parameters, so a hard problem decomposes recursively and only the results that matter return to the main context. On a long chain of thought benchmark that moved accuracy from 2.6 percent to 45.4 percent, with the largest gains on tasks that reduce cleanly to code.\n\nMadura frames it against what most teams do now. RAG stuffs the window until quality rots. Agents and tool calls shuttle JSON strings back and forth, leaving logic, execution, and results loosely coupled. An RLM keeps all three in one environment. He walks a cohort retention analysis where three data frames go in, the model reasons in its own REPL as if typing in a notebook, and decides itself when to stop and submit a typed answer. Then case studies: consolidating long invoices with no chunking or embedding, surfacing patterns in raw logs, optimizing an agent harness from its own traces, and generating a security report across five hundred thousand lines of code. His closing bet is that models post trained to be RLM aware will make this much stranger.\n\nSpeaker info:\n- https://x.com/kmad\n- https://www.linkedin.com/in/kevinmadura/\n- https://kmad.ai\n\nTimestamps:\n0:00 - What a recursive language model is\n1:36 - Recursive decomposition and delegating to sub models\n3:25 - Benchmarks and the cost curve\n4:31 - A deterministic shell, with the model filling the middle\n5:24 - Context rot, and why an RLM avoids it\n6:21 - How this differs from RAG, agents, and tool calls\n8:00 - When to use one, and when to skip it\n9:38 - Small examples, buried numbers and data frames\n12:35 - A cohort analysis walkthrough and its traces\n15:45 - Case studies, invoices, logs, and a whole codebase\n20:04 - What happens when models become RLM aware",
+      "published_at": "2026-09-09T13:30:27Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
+    },
     "xq9sz5MksVI": {
       "video_id": "xq9sz5MksVI",
       "title": "The missing pieces of workflow automation — Shirsha Chaudhuri, Thomson Reuters Labs",
@@ -16017,6 +16347,28 @@
       "published_at": "2025-07-20T07:00:58Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:13+00:00"
+    },
+    "y2W4FNAuPEA": {
+      "video_id": "y2W4FNAuPEA",
+      "title": "Deep dive on LLM Inference at Scale — Harshul Jain, Audible & Tanmay Sah, Independent AI Researcher",
+      "duration_s": 5292,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "A single token of KV cache on Mistral 7B costs 131 KB. Multiply that by 16,000 tokens of context and 80 concurrent users and the cache alone wants 42 GB of GPU memory, which is why requests start failing on a 24 GB card. Harshul Jain, a senior software engineer at Audible, and Tanmay Sah, an independent AI researcher, spend this workshop building that number up from first principles. They open on three symptoms every team hits: memory that climbs with context length, time to first token that degrades as prompts grow, and throughput that collapses because a naive server answers requests one after another. The rest of the session explains what causes each one, working down through the inference pipeline into the attention layer, then into how a GPU actually splits its memory between fixed model weights and the cache that has to grow.\n\nFrom there the workshop splits optimization in two. Sah takes the model side, using two deliberately silly teaching devices, the ostrich algorithm for assumptions you wave through and the world cup algorithm for problems you cut into brackets, to move from quantization through multi head, multi query, grouped query, and latent attention, then flash attention and tiling. Jain takes the serving side: paged attention borrowed from operating system paging, continuous batching, prefix caching, and KV quantization, each benchmarked against a plain baseline. They close on engine selection, where their own testing found no statistical difference between vLLM and SGLang on standard workloads but a three to four times gap once agentic branching enters the picture. Slides and runnable notebooks are linked in the repo.\n\nSpeaker info:\n- https://x.com/hj1393\n- https://www.linkedin.com/in/hjain1393/\n- https://harshuljain.substack.com/\n- https://www.linkedin.com/in/tanmay-sah/\n\nTimestamps:\n0:00 - Introductions and what the workshop covers\n2:43 - What LLM inference is, and why it costs so much\n5:21 - The repo, the slides, and the free GPU notebooks\n8:23 - Three pain points, memory, first token, throughput\n12:18 - Foundations, the pipeline and the attention layer\n14:53 - KV cache math and how GPU memory divides\n20:41 - Prefill and decode, and why decode is memory bound\n28:41 - Throughput, concurrency, and the trade off triangle\n34:02 - The capacity calculator and picking a GPU\n37:10 - Model optimization, quantization and attention variants\n48:04 - Flash attention, the scorecard, and a demo\n1:00:14 - Serving optimizations, paging, batching, caching\n1:06:12 - Benchmarking vLLM, and speculative decoding\n1:17:27 - vLLM against SGLang, choosing an engine, what to study next",
+      "published_at": "2026-09-08T15:00:06Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning"
+      ],
+      "details_at": "2026-09-13T22:11:21+00:00"
     },
     "y6L5RkEqQ8g": {
       "video_id": "y6L5RkEqQ8g",
