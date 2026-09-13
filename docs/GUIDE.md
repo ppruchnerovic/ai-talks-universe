@@ -7,7 +7,7 @@ rebuild, extend and test the whole thing. Design rationale and diagrams are in
 [`ARCHITECTURE.md`](ARCHITECTURE.md); the current numbers and the operational
 handoff in [`STATE.md`](STATE.md).
 
-**9,797 talks from 53 conferences, 3,405 of them with a full transcript.** The
+**9,831 talks from 53 conferences, 3,437 of them with a full transcript.** The
 curated list of which conferences and why is
 [`ai-conferences.md`](../ai-conferences.md); its machine-readable mirror, which
 the pipeline actually reads, is [`conferences.json`](../conferences.json).
@@ -128,8 +128,8 @@ passes the floor — enrichment is what resolves a year — and enumeration cach
 every year regardless, so the floor is a re-derivation away from being moved:
 `sync_catalog.py --no-min-year` rebuilds with the whole catalogue.
 
-Of 17,943 videos enumerated, 9,572 survive; with the 225 presentations that
-exist only on infoq.com the corpus is 9,797. `sync_catalog.py` prints exactly
+Of 18,132 videos enumerated, 9,607 survive; with the 224 presentations that
+exist only on infoq.com the corpus is 9,831. `sync_catalog.py` prints exactly
 what each conference dropped and why, the year floor included.
 
 ### Who gave the talk
@@ -673,8 +673,8 @@ exists. Within a priority it takes the longest talks first.
 
 It selects on year too, because on AI topics a 2023 talk is rarely worth a unit
 of an allowance that refills over hours. `--year 2026` (repeatable) or
-`--min-year 2026` keeps only those years — 3,208 of the 9,797 talks are 2026,
-of which 3,167 have a transcript, 37 have no captions or are members-only and 4
+`--min-year 2026` keeps only those years — 3,242 of the 9,831 talks are 2026,
+of which 3,199 have a transcript, 37 have no captions or are members-only and 4
 are held back from the index as ASR failures, so none is waiting on a fetch — and a talk whose year is not known yet is left out unless
 `--include-unknown-year` says otherwise. This is a selection filter and removes
 nothing: `query.py --year` reads every year the corpus has. What the corpus

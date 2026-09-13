@@ -1,7 +1,7 @@
 ---
 id: GRixg2mdJJA
-title: "Dru Knox: Inside Tessl's Software Factory"
-slug: dru-knox-inside-tessl-s-software-factory
+title: "850 PRs a Week: How Tessl Runs a Software Factory"
+slug: 850-prs-a-week-how-tessl-runs-a-software-factory
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
 category: "Practitioner AI conferences"
@@ -19,7 +19,7 @@ topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 
-# Dru Knox: Inside Tessl's Software Factory
+# 850 PRs a Week: How Tessl Runs a Software Factory
 
 **Speaker not identified**
 

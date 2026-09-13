@@ -1,16 +1,16 @@
 {
   "slug": "cerebral-valley",
   "name": "Cerebral Valley AI Summit",
-  "enumerated_at": "2026-09-06T13:23:13+00:00",
+  "enumerated_at": "2026-09-13T22:09:56+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PL0Yg1id5olJP-rgqHPQ32fOSgr_xDtJKV",
       "label": "Cerebral Valley AI Summit",
       "year": null,
-      "count": 67
+      "count": 66
     }
   ],
-  "count": 67,
+  "count": 66,
   "videos": {
     "-Ps_nOev2Qo": {
       "video_id": "-Ps_nOev2Qo",
@@ -589,17 +589,6 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:15+00:00"
     },
-    "TkbXz1___9U": {
-      "video_id": "TkbXz1___9U",
-      "title": "",
-      "duration_s": null,
-      "channel": "Newcomer",
-      "label": "Cerebral Valley AI Summit",
-      "year": null,
-      "source_url": "https://www.youtube.com/playlist?list=PL0Yg1id5olJP-rgqHPQ32fOSgr_xDtJKV",
-      "details_at": "2026-09-06T13:23:52+00:00",
-      "description": ""
-    },
     "UVjeqjijb6s": {
       "video_id": "UVjeqjijb6s",
       "title": "Android Moment of Open Source AI: Jonathan Frankle, Ali Farhadi, Laurens van der Maaten & Jon Turow",
@@ -621,8 +610,8 @@
       "label": "Cerebral Valley AI Summit",
       "year": null,
       "source_url": "https://www.youtube.com/playlist?list=PL0Yg1id5olJP-rgqHPQ32fOSgr_xDtJKV",
-      "details_at": "2026-09-06T13:23:52+00:00",
-      "description": ""
+      "description": "",
+      "details_at": "2026-09-06T13:23:52+00:00"
     },
     "VyxQ0gUpjhU": {
       "video_id": "VyxQ0gUpjhU",

@@ -188,5 +188,15 @@
     "conference": "the-ai-conference",
     "reason": "LookupError",
     "detail": "supadata: no timed transcript for this video"
+  },
+  "-drke88NhrQ": {
+    "conference": "the-ai-conference",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "T1DtBdls18o": {
+    "conference": "usenix-security",
+    "reason": "LookupError",
+    "detail": "supadata: HTTP 403 {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video is age-restricted and requires authentication\",\"documentationUrl\":\"https://docs.supadata.ai/err"
   }
 }

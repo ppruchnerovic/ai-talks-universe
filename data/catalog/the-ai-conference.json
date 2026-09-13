@@ -1,17 +1,30 @@
 {
   "slug": "the-ai-conference",
   "name": "The AI Conference",
-  "enumerated_at": "2026-09-06T13:20:00+00:00",
+  "enumerated_at": "2026-09-13T22:07:02+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@aiconference/videos",
       "label": "The AI Conference",
       "year": null,
-      "count": 183
+      "count": 186
     }
   ],
-  "count": 183,
+  "count": 186,
   "videos": {
+    "-drke88NhrQ": {
+      "video_id": "-drke88NhrQ",
+      "title": "Dual-Use AI: Building for Commercial and National Security Impact",
+      "duration_s": 1603,
+      "channel": "The AI Conference™",
+      "label": "The AI Conference",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Dual-Use AI: Building for Commercial and National Security Impact\n\nModerator:\nRita Waite, Partner, In-Q-Tel\n\nPanelists:\nHicham Oudghiri, Co-founder and CEO, Enigma\nJulien Launay, CEO and co-founder, Adaptive ML\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-09-11T16:32:59Z",
+      "tags": [],
+      "details_at": "2026-09-13T22:11:21+00:00"
+    },
     "0Uqpb5Eoic4": {
       "video_id": "0Uqpb5Eoic4",
       "title": "Philip Rathle, CTO, Neo4J: Why Knowledge Graphs are Necessary for Enterprise AI",
@@ -844,6 +857,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:35+00:00"
     },
+    "PP3ji8p3BfU": {
+      "video_id": "PP3ji8p3BfU",
+      "title": "Sarahelizabeth Baguhn, AFB: Expanding the Evidence Base: Expert Insights on AI and Disability",
+      "duration_s": 1473,
+      "channel": "The AI Conference™",
+      "label": "The AI Conference",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Sarahelizabeth Baguhn, Research Specialist, American Foundation for the Blind\n\nExpanding the Evidence Base: Expert Insights on AI and Disability\n\nArtificial Intelligence systems increasingly influence daily life—from hiring platforms to digital assistants—yet accessibility for people with disabilities is often reactive or overlooked. The American Foundation for the Blind will share a Delphi study of experts in AI and disability, focusing on key areas of concern and potential, and their policy implications. Additionally, this session will present a sneak peak of survey findings comparing perceptions and experiences of AI tools between people with and without disabilities. This work highlights key disparities in usability, trust, and perceived fairness,\noffering organizations concrete direction for ethical and inclusive AI development.Attendees will gain early insights into how user-informed benchmarks can shape accessibility practices and mitigate future risk.\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-09-11T16:32:35Z",
+      "tags": [],
+      "details_at": "2026-09-13T22:11:21+00:00"
+    },
     "PVd17_FaOFM": {
       "video_id": "PVd17_FaOFM",
       "title": "Austin Mejia, Google: AI Wearables - The Next Frontier of Personal Computing",
@@ -1402,6 +1428,19 @@
       "published_at": "2023-10-31T16:51:24Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "djTUzNZcbM4": {
+      "video_id": "djTUzNZcbM4",
+      "title": "Ty Smith, Hashgraph: AI and Web3: The Next Frontier",
+      "duration_s": 1630,
+      "channel": "The AI Conference™",
+      "label": "The AI Conference",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Ty Smith, Senior Product Manager, Hashgraph\n\nAI and Web3: The Next Frontier\n\nGenerative‑AI agents are poised to expand how they transact, collaborate, and make high‑stakes decisions in real time, but only if users can verify their data, actions, and costs. In this fast‑paced session, Hedera Senior Product Manager Ty Smith shows how a public‑distributed ledger delivers the missing trust layer for autonomous intelligence. You’ll see how cryptographic attestation, fair‑ordered consensus, and native micro‑payments let AI agents prove computation, share verifiable data streams, and settle value across open networks; without the bottlenecks of traditional blockchains.\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-09-11T16:32:28Z",
+      "tags": [],
+      "details_at": "2026-09-13T22:11:21+00:00"
     },
     "eBbkbkl2oME": {
       "video_id": "eBbkbkl2oME",

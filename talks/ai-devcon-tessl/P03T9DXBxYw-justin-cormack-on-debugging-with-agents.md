@@ -1,7 +1,7 @@
 ---
 id: P03T9DXBxYw
-title: "Nobody Read the Pull Requests the Agent Opened"
-slug: nobody-read-the-pull-requests-the-agent-opened
+title: "Justin Cormack on Debugging With Agents"
+slug: justin-cormack-on-debugging-with-agents
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
 category: "Practitioner AI conferences"
@@ -19,7 +19,7 @@ topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding 
 transcript: true
 ---
 
-# Nobody Read the Pull Requests the Agent Opened
+# Justin Cormack on Debugging With Agents
 
 **Speaker not identified**
 

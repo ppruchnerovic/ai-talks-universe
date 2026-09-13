@@ -284,7 +284,7 @@ OAuth *and* permission to edit the video, so third-party talks return 403.
 
 `query.py --stats` prints the talk, transcript, conference and year counts
 from the index, per year and per conference — start there. `README.md` states
-9,797 talks / 3,405 transcripts / 53 conferences / 17,943 enumerated, and how
+9,831 talks / 3,437 transcripts / 53 conferences / 18,132 enumerated, and how
 many of them are 2026 and how many of those are transcribed; this file states
 transcript, description, year, tag and speaker coverage, the per-conference
 transcript split, the 2026 pending backlog, the passage count, the credits
