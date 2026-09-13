@@ -1758,3 +1758,65 @@ throughout, regenerated on the new corpus; the two finished `TODO.md` lines
 deleted; `ARCHITECTURE.md`'s testing table. Credits: `STATE.md` said ~2,370 of
 3,000 spent as of 2026-09-03; with today's ~242 that is ~2,610 unless the
 billing month rolled in between, which nobody checked — the dashboard decides.
+
+## The refresh of 2026-09-14
+
+The first refresh driven end to end by `refresh_local.sh` with `refresh_docs.py`
+in the pipeline, logged as `logs/refresh-2026-09-14.log`, and the first that
+needed no intervention: `git pull`, `yt-dlp` update (2026.08.19),
+`check_registry.py`, `sync_catalog.py --refresh`, `enrich.py --min-year 2026
+--include-unknown-year`, `sync_catalog.py`, `fetch_transcripts.py`,
+`sync_catalog.py`, `build_index.py`, `refresh_docs.py`, `refresh_report.py`,
+the offline suites, then branch `refresh-2026-09-14` and #11. A dry run the day
+before (`logs/refresh-2026-09-13.log`) had stopped on a dirty working tree, as
+designed, and is the reason the real run was clean.
+
+The corpus went from **9,797 talks / 3,409 transcripts** to **9,831 / 3,437**
+(3,206 exact timings, 231 estimated), still 53 conferences — `query.py
+--stats`.
+
+### The enumeration
+
+**35 talks added, 1 dropped, no field regressed** (`refresh-2026-09-14-report.md`).
+The additions are where 2026 is still publishing: ai-engineer 16,
+ai-devcon-tessl 5, usenix-security 4, wearedevelopers 4, the-ai-conference 3,
+qcon-infoq 2, pydata 1. The single drop is not a loss: QCon's *Understanding
+Progressive Collapse: How To Avoid A Cascading Failure* was an InfoQ-only
+record (`iq-progressive-collapse-system-resilience`) until the video appeared
+on YouTube, and it came back as `ECUd5FuK5q4`. Its hand-edited InfoQ
+transcript followed the talk to the new id, estimated timing and all, so the
+estimated count held at 231; the old `iq-…json` file is left behind as an
+orphan. InfoQ-only talks went 225 → 224 for exactly that reason. `enrich.py` had **34 videos to enrich over 7
+conferences, 34 enriched, 0 unavailable**. Enumerated videos: 18,132, of which
+9,607 survive the filters.
+
+### The transcript run
+
+`--source supadata --min-year 2026 --include-unknown-year --workers 32 --limit
+300` selected **34** (9,831 talks · 3,409 already fetched · 38 known misses ·
+6,589 outside the year filter — `logs/refresh-2026-09-14-fetch.txt`), fetched
+**32**, missed **2**, about **34 Supadata credits**, the first spend of the
+September billing month (0 of 3,000 before the run). Supadata answered the
+32-worker burst with a wave of `429`s and every one of them was retried
+through; no fetch failed for rate limiting. The two misses are both
+`LookupError` with a fact for a detail: *Dual-Use AI: Building for Commercial
+and National Security Impact* has no timed transcript, and USENIX Security's
+*From Alignment to Access Control* is age-restricted, a 403. `_misses.json` is
+now 40. The longest of the 32 is Eddie Jaoude's *WeAreDevelopers LIVE — Open
+Source Agent Toolkits* at 12,870 words; the run added roughly 131,600 words.
+
+### The index
+
+`build_index.py`: **9,831 talks · 3,437 with transcripts · 1,554,284
+passages**, `talks.db` **423.5 MiB**, `tindex/` 49.5 MiB in **723 shards**,
+59,042 stems (41,514 of them in descriptions). `search-meta.json` came out at
+**5.62 MiB, 94% of the 6 MiB trigger** — the 300 → 150 `META_DESC_CHARS`
+halving from 2026-09-06 is holding, with 0.38 MiB of headroom.
+
+### What the docs got
+
+`refresh_docs.py` rewrote `README.md`'s counts in the run itself. `STATS.md`
+was regenerated afterwards on the new corpus — every table in it, including the
+word-frequency counts over all 3,437 transcripts (18,670,301 words, 2,592,578
+segments) and the storage and code tables (14,153 tracked files, 45 code files,
+15,186 lines).
