@@ -21,6 +21,10 @@ session-by-session record with numbers and provenance is
   a pull request with the coverage report.
 
 ### Changed
+- The corpus documentation follows the 2026-09-14 refresh: **9,831 talks,
+  3,437 transcripts**, 53 conferences. `docs/STATS.md` is regenerated
+  throughout, `docs/STATE.md` carries the new coverage, index sizes and
+  credit ledger, and `docs/HISTORY.md` records the run.
 - The weekly GitHub Actions refresh is gone; it had no keys, so it could
   enumerate but never enrich or transcribe.
 - The README is now a landing page. The long-form guide moved to
