@@ -7,7 +7,7 @@
 #   model2vec -> numpy, tokenizers, safetensors, joblib, jinja2, tqdm
 #   tokenizers -> huggingface_hub -> httpx, hf-xet, filelock, fsspec, ...
 model2vec==0.9.0
-numpy==2.5.2
+numpy==2.5.3
 tokenizers==0.23.2
 safetensors==0.8.0
 huggingface_hub==1.29.0
