@@ -1,0 +1,3588 @@
+{
+  "video_id": "zG-pEUxTI38",
+  "title": "RTX AI PC: Developing local and edge AI applications",
+  "conference": "wearedevelopers",
+  "language": "en",
+  "auto_generated": true,
+  "source": "yt",
+  "timing": "exact",
+  "word_count": 4602,
+  "imported_from": "presentations/kb (WeAreDevelopers agenda API)",
+  "segments": [
+    {
+      "start": 2.84,
+      "duration": 3.96,
+      "text": "So, let's welcome on stage York."
+    },
+    {
+      "start": 7.21,
+      "duration": 2.02,
+      "text": ">> [applause]"
+    },
+    {
+      "start": 12.84,
+      "duration": 4.36,
+      "text": ">> Okay."
+    },
+    {
+      "start": 14.64,
+      "duration": 5.88,
+      "text": "Thank you for having me here. Good"
+    },
+    {
+      "start": 17.2,
+      "duration": 6.08,
+      "text": "afternoon. So, I'm York I'm 25 years at"
+    },
+    {
+      "start": 20.52,
+      "duration": 5.0,
+      "text": "NVIDIA and I'm now responsible for the"
+    },
+    {
+      "start": 23.28,
+      "duration": 3.24,
+      "text": "workstation business of NVIDIA here in"
+    },
+    {
+      "start": 25.52,
+      "duration": 3.44,
+      "text": "the"
+    },
+    {
+      "start": 26.52,
+      "duration": 5.16,
+      "text": "the German-speaking area like"
+    },
+    {
+      "start": 28.96,
+      "duration": 5.48,
+      "text": "Germany, Switzerland, and then Austria."
+    },
+    {
+      "start": 31.68,
+      "duration": 6.2,
+      "text": "So, the topic of the talk is uh"
+    },
+    {
+      "start": 34.44,
+      "duration": 5.24,
+      "text": "RTX AI PC and it is a subline selling"
+    },
+    {
+      "start": 37.88,
+      "duration": 3.68,
+      "text": "development local and edge AI"
+    },
+    {
+      "start": 39.68,
+      "duration": 3.8,
+      "text": "application. So, what I will do, I will"
+    },
+    {
+      "start": 41.56,
+      "duration": 4.68,
+      "text": "do a 5-minutes"
+    },
+    {
+      "start": 43.48,
+      "duration": 5.0,
+      "text": "introduction about the hardware side"
+    },
+    {
+      "start": 46.24,
+      "duration": 4.2,
+      "text": "and then I will hand over to a colleague"
+    },
+    {
+      "start": 48.48,
+      "duration": 4.08,
+      "text": "of mine from one of our great partners"
+    },
+    {
+      "start": 50.44,
+      "duration": 3.92,
+      "text": "on the sort of software development and"
+    },
+    {
+      "start": 52.56,
+      "duration": 4.28,
+      "text": "he will do"
+    },
+    {
+      "start": 54.36,
+      "duration": 6.96,
+      "text": "a lot of talk about what can be done on"
+    },
+    {
+      "start": 56.84,
+      "duration": 6.72,
+      "text": "that hardware locally on the RTX PC."
+    },
+    {
+      "start": 61.32,
+      "duration": 3.96,
+      "text": "And then he had some live demos in the"
+    },
+    {
+      "start": 63.56,
+      "duration": 4.04,
+      "text": "end. So,"
+    },
+    {
+      "start": 65.28,
+      "duration": 5.24,
+      "text": "we have a two part of that. Going"
+    },
+    {
+      "start": 67.6,
+      "duration": 5.32,
+      "text": "forward, I show the upward slide"
+    },
+    {
+      "start": 70.52,
+      "duration": 5.72,
+      "text": "everyone is showing at first slide at"
+    },
+    {
+      "start": 72.92,
+      "duration": 5.76,
+      "text": "this show and you see what happened over"
+    },
+    {
+      "start": 76.24,
+      "duration": 5.88,
+      "text": "the last 10 years in AI, right? And now"
+    },
+    {
+      "start": 78.68,
+      "duration": 6.6,
+      "text": "we are really at autonomous agents."
+    },
+    {
+      "start": 82.12,
+      "duration": 4.12,
+      "text": "And what I want to talk to about today"
+    },
+    {
+      "start": 85.28,
+      "duration": 3.6,
+      "text": "is"
+    },
+    {
+      "start": 86.24,
+      "duration": 6.24,
+      "text": "um it's not only about data centers,"
+    },
+    {
+      "start": 88.88,
+      "duration": 6.32,
+      "text": "about training elements for weeks on a"
+    },
+    {
+      "start": 92.48,
+      "duration": 4.8,
+      "text": "thousands of servers. It's also about"
+    },
+    {
+      "start": 95.2,
+      "duration": 3.24,
+      "text": "local development."
+    },
+    {
+      "start": 97.28,
+      "duration": 3.24,
+      "text": "And"
+    },
+    {
+      "start": 98.44,
+      "duration": 4.64,
+      "text": "if you see in the companies you have the"
+    },
+    {
+      "start": 100.52,
+      "duration": 4.72,
+      "text": "IT which has different needs than a"
+    },
+    {
+      "start": 103.08,
+      "duration": 5.48,
+      "text": "developer, right? So, the IT is looking"
+    },
+    {
+      "start": 105.24,
+      "duration": 4.8,
+      "text": "for long-running agents, data security,"
+    },
+    {
+      "start": 108.56,
+      "duration": 2.44,
+      "text": "and all that stuff."
+    },
+    {
+      "start": 110.04,
+      "duration": 2.76,
+      "text": "But"
+    },
+    {
+      "start": 111.0,
+      "duration": 5.04,
+      "text": "local developers, they want to have a"
+    },
+    {
+      "start": 112.8,
+      "duration": 5.44,
+      "text": "deploy anywhere, direct access, security"
+    },
+    {
+      "start": 116.04,
+      "duration": 4.56,
+      "text": "on their on their own, and they don't"
+    },
+    {
+      "start": 118.24,
+      "duration": 5.36,
+      "text": "want to get interfere with all these"
+    },
+    {
+      "start": 120.6,
+      "duration": 5.36,
+      "text": "data center stuff, right?"
+    },
+    {
+      "start": 123.6,
+      "duration": 4.88,
+      "text": "So, what NVIDIA does offer in that space"
+    },
+    {
+      "start": 125.96,
+      "duration": 4.32,
+      "text": "is a lot of hardware, and what you see"
+    },
+    {
+      "start": 128.48,
+      "duration": 3.84,
+      "text": "here is all the hardware what you can"
+    },
+    {
+      "start": 130.28,
+      "duration": 4.88,
+      "text": "have on your desk or under your desk."
+    },
+    {
+      "start": 132.32,
+      "duration": 6.28,
+      "text": "So, it's not data center. It starts down"
+    },
+    {
+      "start": 135.16,
+      "duration": 5.6,
+      "text": "there with a GTC with a RTX GeForce"
+    },
+    {
+      "start": 138.6,
+      "duration": 4.2,
+      "text": "product in the PC."
+    },
+    {
+      "start": 140.76,
+      "duration": 5.08,
+      "text": "Next thing would be a workstation with"
+    },
+    {
+      "start": 142.8,
+      "duration": 5.48,
+      "text": "an RTX Pro graphic card from us."
+    },
+    {
+      "start": 145.84,
+      "duration": 4.6,
+      "text": "Then we have the DGX part with with the"
+    },
+    {
+      "start": 148.28,
+      "duration": 3.8,
+      "text": "Linux companion which you can connect to"
+    },
+    {
+      "start": 150.44,
+      "duration": 4.36,
+      "text": "any PC"
+    },
+    {
+      "start": 152.08,
+      "duration": 4.8,
+      "text": "to run agents and AI on it."
+    },
+    {
+      "start": 154.8,
+      "duration": 5.68,
+      "text": "You can have a workstation with multiple"
+    },
+    {
+      "start": 156.88,
+      "duration": 7.0,
+      "text": "GPUs, one or two or up to four. You can"
+    },
+    {
+      "start": 160.48,
+      "duration": 5.72,
+      "text": "connect multiple DGX parts to and up to"
+    },
+    {
+      "start": 163.88,
+      "duration": 4.2,
+      "text": "four right now."
+    },
+    {
+      "start": 166.2,
+      "duration": 4.28,
+      "text": "Uh and then on the top end you have the"
+    },
+    {
+      "start": 168.08,
+      "duration": 4.72,
+      "text": "DGX Station which is"
+    },
+    {
+      "start": 170.48,
+      "duration": 5.12,
+      "text": "introduced just now, which is the top"
+    },
+    {
+      "start": 172.8,
+      "duration": 5.4,
+      "text": "line of what is possible to do in a"
+    },
+    {
+      "start": 175.6,
+      "duration": 5.16,
+      "text": "workstation which is not going into the"
+    },
+    {
+      "start": 178.2,
+      "duration": 5.2,
+      "text": "data center and has to be cooled"
+    },
+    {
+      "start": 180.76,
+      "duration": 4.68,
+      "text": "externally. It can be under your desk,"
+    },
+    {
+      "start": 183.4,
+      "duration": 4.0,
+      "text": "but it's already a big machine. And what"
+    },
+    {
+      "start": 185.44,
+      "duration": 5.08,
+      "text": "you see here is uh"
+    },
+    {
+      "start": 187.4,
+      "duration": 5.28,
+      "text": "with the green arrows, that is the"
+    },
+    {
+      "start": 190.52,
+      "duration": 5.0,
+      "text": "that is the model size"
+    },
+    {
+      "start": 192.68,
+      "duration": 5.4,
+      "text": "you can run on those machines, right?"
+    },
+    {
+      "start": 195.52,
+      "duration": 4.08,
+      "text": "So, on a workstation you can go with up"
+    },
+    {
+      "start": 198.08,
+      "duration": 4.48,
+      "text": "to"
+    },
+    {
+      "start": 199.6,
+      "duration": 6.12,
+      "text": "150 billion parameters. On a DGX Spark"
+    },
+    {
+      "start": 202.56,
+      "duration": 5.96,
+      "text": "up to 200. Then you can connect two"
+    },
+    {
+      "start": 205.72,
+      "duration": 4.6,
+      "text": "Sparks to up to 400, and it goes up to"
+    },
+    {
+      "start": 208.52,
+      "duration": 4.64,
+      "text": "the DGX Station where you can you run"
+    },
+    {
+      "start": 210.32,
+      "duration": 5.88,
+      "text": "models with 1,000 billion parameters on"
+    },
+    {
+      "start": 213.16,
+      "duration": 5.4,
+      "text": "a workstation, right?"
+    },
+    {
+      "start": 216.2,
+      "duration": 3.88,
+      "text": "So, on the RTX side it's"
+    },
+    {
+      "start": 218.56,
+      "duration": 3.84,
+      "text": "different form factors. You can have it"
+    },
+    {
+      "start": 220.08,
+      "duration": 4.36,
+      "text": "in a laptop, in a workstation, and of"
+    },
+    {
+      "start": 222.4,
+      "duration": 3.24,
+      "text": "course in a server. It's all the same"
+    },
+    {
+      "start": 224.44,
+      "duration": 3.28,
+      "text": "hardware."
+    },
+    {
+      "start": 225.64,
+      "duration": 4.4,
+      "text": "Every NVIDIA software running on that,"
+    },
+    {
+      "start": 227.72,
+      "duration": 4.84,
+      "text": "every blueprint, every"
+    },
+    {
+      "start": 230.04,
+      "duration": 5.28,
+      "text": "whatever you have will run on all those"
+    },
+    {
+      "start": 232.56,
+      "duration": 2.76,
+      "text": "machines."
+    },
+    {
+      "start": 236.48,
+      "duration": 4.36,
+      "text": "Uh a little bit about the small one, the"
+    },
+    {
+      "start": 239.08,
+      "duration": 5.04,
+      "text": "DGX Spark."
+    },
+    {
+      "start": 240.84,
+      "duration": 7.08,
+      "text": "Uh it has a GB10 inside. It's a Grace"
+    },
+    {
+      "start": 244.12,
+      "duration": 5.6,
+      "text": "Blackwell Grace GPU Blackwell GPU. It"
+    },
+    {
+      "start": 247.92,
+      "duration": 5.12,
+      "text": "has 128"
+    },
+    {
+      "start": 249.72,
+      "duration": 6.36,
+      "text": "GB current memory on that machine and uh"
+    },
+    {
+      "start": 253.04,
+      "duration": 5.96,
+      "text": "you can run it as a standalone."
+    },
+    {
+      "start": 256.08,
+      "duration": 5.24,
+      "text": "So, connecting a screen and a keyboard"
+    },
+    {
+      "start": 259.0,
+      "duration": 5.16,
+      "text": "to it, but you can also run it as a"
+    },
+    {
+      "start": 261.32,
+      "duration": 5.08,
+      "text": "network device. So, you can connect it"
+    },
+    {
+      "start": 264.16,
+      "duration": 3.76,
+      "text": "remotely to any of your PCs or laptops"
+    },
+    {
+      "start": 266.4,
+      "duration": 4.72,
+      "text": "you have."
+    },
+    {
+      "start": 267.92,
+      "duration": 6.8,
+      "text": "You can stack up up to two or four."
+    },
+    {
+      "start": 271.12,
+      "duration": 6.6,
+      "text": "And then going to the the bigger ones,"
+    },
+    {
+      "start": 274.72,
+      "duration": 5.48,
+      "text": "that is the NVIDIA DGX Station. It's uh"
+    },
+    {
+      "start": 277.72,
+      "duration": 5.6,
+      "text": "actually"
+    },
+    {
+      "start": 280.2,
+      "duration": 3.12,
+      "text": "a GB300."
+    },
+    {
+      "start": 283.88,
+      "duration": 4.8,
+      "text": "It's the same GB300 hardware that we"
+    },
+    {
+      "start": 286.24,
+      "duration": 5.08,
+      "text": "have in the big servers like the NVIDIA"
+    },
+    {
+      "start": 288.68,
+      "duration": 6.6,
+      "text": "GB300 and we have"
+    },
+    {
+      "start": 291.32,
+      "duration": 5.56,
+      "text": "uh 72, but it's just one of those GB300"
+    },
+    {
+      "start": 295.28,
+      "duration": 5.92,
+      "text": "in a workstation."
+    },
+    {
+      "start": 296.88,
+      "duration": 6.64,
+      "text": "And it's uh packed with 748 GB memory."
+    },
+    {
+      "start": 301.2,
+      "duration": 4.96,
+      "text": "So, you can run models up to 1 billion"
+    },
+    {
+      "start": 303.52,
+      "duration": 2.64,
+      "text": "parameters."
+    },
+    {
+      "start": 306.92,
+      "duration": 6.56,
+      "text": "And to give you an idea again"
+    },
+    {
+      "start": 310.36,
+      "duration": 5.6,
+      "text": "uh for the everything until up to the"
+    },
+    {
+      "start": 313.48,
+      "duration": 4.56,
+      "text": "green line are models that you can run"
+    },
+    {
+      "start": 315.96,
+      "duration": 4.68,
+      "text": "locally on that machines, right? So,"
+    },
+    {
+      "start": 318.04,
+      "duration": 5.96,
+      "text": "with the big one you can go up with"
+    },
+    {
+      "start": 320.64,
+      "duration": 5.72,
+      "text": "uh models like Jimmy K 2.5, but the"
+    },
+    {
+      "start": 324.0,
+      "duration": 4.0,
+      "text": "smaller ones on the DGX Sparks you can"
+    },
+    {
+      "start": 326.36,
+      "duration": 5.44,
+      "text": "even run DG"
+    },
+    {
+      "start": 328.0,
+      "duration": 5.92,
+      "text": "deep deep seek Lama 7 70 billion"
+    },
+    {
+      "start": 331.8,
+      "duration": 4.44,
+      "text": "parameters and that kind of stuff."
+    },
+    {
+      "start": 333.92,
+      "duration": 4.64,
+      "text": "So, for every kind of this kind of use"
+    },
+    {
+      "start": 336.24,
+      "duration": 3.96,
+      "text": "cases we have different devices."
+    },
+    {
+      "start": 338.56,
+      "duration": 3.96,
+      "text": "And you don't have to go to the data"
+    },
+    {
+      "start": 340.2,
+      "duration": 5.2,
+      "text": "center, but of course you can."
+    },
+    {
+      "start": 342.52,
+      "duration": 4.84,
+      "text": "To summarize this,"
+    },
+    {
+      "start": 345.4,
+      "duration": 3.72,
+      "text": "it's not only important to have enough"
+    },
+    {
+      "start": 347.36,
+      "duration": 4.28,
+      "text": "memory"
+    },
+    {
+      "start": 349.12,
+      "duration": 4.72,
+      "text": "because the memory is really indicating"
+    },
+    {
+      "start": 351.64,
+      "duration": 4.48,
+      "text": "how big your model can be, but it's also"
+    },
+    {
+      "start": 353.84,
+      "duration": 4.6,
+      "text": "about the GPU horsepower."
+    },
+    {
+      "start": 356.12,
+      "duration": 6.52,
+      "text": "So, if you see the DGX box, it has one"
+    },
+    {
+      "start": 358.44,
+      "duration": 6.68,
+      "text": "petaflop horsepower, but 128 GB. The RTX"
+    },
+    {
+      "start": 362.64,
+      "duration": 4.8,
+      "text": "4000 has uh"
+    },
+    {
+      "start": 365.12,
+      "duration": 5.24,
+      "text": "four petaflop horsepower, so four times"
+    },
+    {
+      "start": 367.44,
+      "duration": 5.28,
+      "text": "as fast, but less memory."
+    },
+    {
+      "start": 370.36,
+      "duration": 5.92,
+      "text": "The DGX Station then is the big one. It"
+    },
+    {
+      "start": 372.72,
+      "duration": 5.64,
+      "text": "says 20 petaflop performance."
+    },
+    {
+      "start": 376.28,
+      "duration": 5.76,
+      "text": "The most you can get on a workstation"
+    },
+    {
+      "start": 378.36,
+      "duration": 6.2,
+      "text": "right now. It has 748 GB in it. And of"
+    },
+    {
+      "start": 382.04,
+      "duration": 5.6,
+      "text": "course, if that's not enough, you go to"
+    },
+    {
+      "start": 384.56,
+      "duration": 4.48,
+      "text": "the data center and scale up big."
+    },
+    {
+      "start": 387.64,
+      "duration": 4.84,
+      "text": "Okay."
+    },
+    {
+      "start": 389.04,
+      "duration": 5.8,
+      "text": "So, with everything uh you have on on"
+    },
+    {
+      "start": 392.48,
+      "duration": 5.32,
+      "text": "the desk, you can experience models,"
+    },
+    {
+      "start": 394.84,
+      "duration": 4.96,
+      "text": "prototype AI, and deploy it in the in"
+    },
+    {
+      "start": 397.8,
+      "duration": 3.44,
+      "text": "the cloud, right? So, that is what I"
+    },
+    {
+      "start": 399.8,
+      "duration": 3.12,
+      "text": "want to show you on the hardware side."
+    },
+    {
+      "start": 401.24,
+      "duration": 3.48,
+      "text": "And now I will hand over to my colleague"
+    },
+    {
+      "start": 402.92,
+      "duration": 3.92,
+      "text": "from Black Forest Lab,"
+    },
+    {
+      "start": 404.72,
+      "duration": 4.64,
+      "text": "and he can actually actually show what"
+    },
+    {
+      "start": 406.84,
+      "duration": 4.56,
+      "text": "can be developed and run on those local"
+    },
+    {
+      "start": 409.36,
+      "duration": 5.26,
+      "text": "systems. So, I introduce Steven"
+    },
+    {
+      "start": 411.4,
+      "duration": 4.72,
+      "text": "Waterfall from Black Forest Lab."
+    },
+    {
+      "start": 414.62,
+      "duration": 3.9,
+      "text": ">> [applause]"
+    },
+    {
+      "start": 416.12,
+      "duration": 4.08,
+      "text": ">> Thank you. Hello, everyone."
+    },
+    {
+      "start": 418.52,
+      "duration": 3.6,
+      "text": "Thank you for being here. Yeah, I'm"
+    },
+    {
+      "start": 420.2,
+      "duration": 4.28,
+      "text": "Steven. I work for Black Forest Labs,"
+    },
+    {
+      "start": 422.12,
+      "duration": 4.72,
+      "text": "and let me start with one question"
+    },
+    {
+      "start": 424.48,
+      "duration": 5.32,
+      "text": "first. Can you raise your hand? Who here"
+    },
+    {
+      "start": 426.84,
+      "duration": 5.96,
+      "text": "knows Black Forest Labs?"
+    },
+    {
+      "start": 429.8,
+      "duration": 5.28,
+      "text": "Okay, some people. And who here knows"
+    },
+    {
+      "start": 432.8,
+      "duration": 4.76,
+      "text": "Flux?"
+    },
+    {
+      "start": 435.08,
+      "duration": 4.96,
+      "text": "Okay, about the same people, but"
+    },
+    {
+      "start": 437.56,
+      "duration": 4.28,
+      "text": "yeah, if you don't know us, Black Forest"
+    },
+    {
+      "start": 440.04,
+      "duration": 4.24,
+      "text": "Labs, we're frontier AI company, so we"
+    },
+    {
+      "start": 441.84,
+      "duration": 5.32,
+      "text": "train our model from scratch."
+    },
+    {
+      "start": 444.28,
+      "duration": 5.24,
+      "text": "And we train the Flux models. We're"
+    },
+    {
+      "start": 447.16,
+      "duration": 4.84,
+      "text": "quite known for those."
+    },
+    {
+      "start": 449.52,
+      "duration": 4.16,
+      "text": "You might not know, but Flux is"
+    },
+    {
+      "start": 452.0,
+      "duration": 4.0,
+      "text": "really behind so many different"
+    },
+    {
+      "start": 453.68,
+      "duration": 4.44,
+      "text": "softwares you have. It is directly"
+    },
+    {
+      "start": 456.0,
+      "duration": 3.92,
+      "text": "integrated into Adobe, for example. If"
+    },
+    {
+      "start": 458.12,
+      "duration": 4.8,
+      "text": "you use Meta AI, it's also directly"
+    },
+    {
+      "start": 459.92,
+      "duration": 5.52,
+      "text": "integrated there. So, Flux is behind"
+    },
+    {
+      "start": 462.92,
+      "duration": 4.36,
+      "text": "hundreds of millions of users, actually."
+    },
+    {
+      "start": 465.44,
+      "duration": 3.8,
+      "text": "But, today I'm not here to talk about"
+    },
+    {
+      "start": 467.28,
+      "duration": 3.72,
+      "text": "those. Today, I'm here to talk about the"
+    },
+    {
+      "start": 469.24,
+      "duration": 2.72,
+      "text": "open weight and open source versions we"
+    },
+    {
+      "start": 471.0,
+      "duration": 3.76,
+      "text": "have."
+    },
+    {
+      "start": 471.96,
+      "duration": 5.12,
+      "text": "So, it's actually quite nice for us. We"
+    },
+    {
+      "start": 474.76,
+      "duration": 3.96,
+      "text": "deploy our model, we develop them. We"
+    },
+    {
+      "start": 477.08,
+      "duration": 3.16,
+      "text": "have the API only models, you know,"
+    },
+    {
+      "start": 478.72,
+      "duration": 3.24,
+      "text": "which are closed weights, and then we"
+    },
+    {
+      "start": 480.24,
+      "duration": 3.88,
+      "text": "have the open source and open weight"
+    },
+    {
+      "start": 481.96,
+      "duration": 3.8,
+      "text": "versions, which you can always get on"
+    },
+    {
+      "start": 484.12,
+      "duration": 3.6,
+      "text": "Hugging Face."
+    },
+    {
+      "start": 485.76,
+      "duration": 3.76,
+      "text": "Our models are quite popular there."
+    },
+    {
+      "start": 487.72,
+      "duration": 4.2,
+      "text": "There's more than 100 million downloads"
+    },
+    {
+      "start": 489.52,
+      "duration": 3.8,
+      "text": "directly on Hugging Face. So, if you"
+    },
+    {
+      "start": 491.92,
+      "duration": 3.6,
+      "text": "want to try the models, just go there"
+    },
+    {
+      "start": 493.32,
+      "duration": 4.44,
+      "text": "directly, and then, you know, you can"
+    },
+    {
+      "start": 495.52,
+      "duration": 4.92,
+      "text": "play with them."
+    },
+    {
+      "start": 497.76,
+      "duration": 4.6,
+      "text": "And today, I'm here to talk to you about"
+    },
+    {
+      "start": 500.44,
+      "duration": 3.72,
+      "text": "one in particular. Um"
+    },
+    {
+      "start": 502.36,
+      "duration": 3.0,
+      "text": "so, you know, AI is getting bigger and"
+    },
+    {
+      "start": 504.16,
+      "duration": 3.4,
+      "text": "bigger. The models are getting bigger"
+    },
+    {
+      "start": 505.36,
+      "duration": 5.08,
+      "text": "and bigger all the time. But, in"
+    },
+    {
+      "start": 507.56,
+      "duration": 6.28,
+      "text": "January, we released Flox 2 Kline, which"
+    },
+    {
+      "start": 510.44,
+      "duration": 5.96,
+      "text": "is a model made to run on your GPU. It's"
+    },
+    {
+      "start": 513.84,
+      "duration": 5.68,
+      "text": "made to run on RTX. I think the smallest"
+    },
+    {
+      "start": 516.4,
+      "duration": 4.92,
+      "text": "RTX I've seen is the RTX 3090. So, we"
+    },
+    {
+      "start": 519.52,
+      "duration": 4.28,
+      "text": "have different variants, and then you"
+    },
+    {
+      "start": 521.32,
+      "duration": 4.2,
+      "text": "can do many different things with it."
+    },
+    {
+      "start": 523.8,
+      "duration": 3.76,
+      "text": "So, you can generate images, you can"
+    },
+    {
+      "start": 525.52,
+      "duration": 4.4,
+      "text": "edit your own images as well."
+    },
+    {
+      "start": 527.56,
+      "duration": 5.0,
+      "text": "And I will also show you what you can do"
+    },
+    {
+      "start": 529.92,
+      "duration": 4.08,
+      "text": "um when you go towards real time,"
+    },
+    {
+      "start": 532.56,
+      "duration": 3.72,
+      "text": "because I have many demos to show you,"
+    },
+    {
+      "start": 534.0,
+      "duration": 3.92,
+      "text": "actually, today, if the demo gods are"
+    },
+    {
+      "start": 536.28,
+      "duration": 4.52,
+      "text": "with me."
+    },
+    {
+      "start": 537.92,
+      "duration": 4.68,
+      "text": "But, quickly, so Kline, this is directly"
+    },
+    {
+      "start": 540.8,
+      "duration": 3.48,
+      "text": "from it. Um you can see on the left"
+    },
+    {
+      "start": 542.6,
+      "duration": 4.28,
+      "text": "side, you know, this is just like text"
+    },
+    {
+      "start": 544.28,
+      "duration": 4.64,
+      "text": "to image, and it's not trained on one"
+    },
+    {
+      "start": 546.88,
+      "duration": 3.72,
+      "text": "specific style. You can really go and"
+    },
+    {
+      "start": 548.92,
+      "duration": 3.76,
+      "text": "like generate different things. You can"
+    },
+    {
+      "start": 550.6,
+      "duration": 4.08,
+      "text": "generate, you know, this lion you see,"
+    },
+    {
+      "start": 552.68,
+      "duration": 4.6,
+      "text": "or the castle as well that you see on"
+    },
+    {
+      "start": 554.68,
+      "duration": 3.92,
+      "text": "top. And those are directly on your"
+    },
+    {
+      "start": 557.28,
+      "duration": 3.08,
+      "text": "local machine."
+    },
+    {
+      "start": 558.6,
+      "duration": 4.08,
+      "text": "On top of this, you can also have"
+    },
+    {
+      "start": 560.36,
+      "duration": 4.48,
+      "text": "editing. So, this is what you see on the"
+    },
+    {
+      "start": 562.68,
+      "duration": 3.76,
+      "text": "top right here, where, you know, you can"
+    },
+    {
+      "start": 564.84,
+      "duration": 3.48,
+      "text": "have an input image, and then you can"
+    },
+    {
+      "start": 566.44,
+      "duration": 4.12,
+      "text": "edit it directly. You can also have"
+    },
+    {
+      "start": 568.32,
+      "duration": 5.56,
+      "text": "multiple input images at the same time,"
+    },
+    {
+      "start": 570.56,
+      "duration": 5.32,
+      "text": "and then edit them. So, this is why,"
+    },
+    {
+      "start": 573.88,
+      "duration": 4.4,
+      "text": "like, Kline is so popular. It's because"
+    },
+    {
+      "start": 575.88,
+      "duration": 4.24,
+      "text": "it's very small, and yet you can do so"
+    },
+    {
+      "start": 578.28,
+      "duration": 4.96,
+      "text": "many different things."
+    },
+    {
+      "start": 580.12,
+      "duration": 4.52,
+      "text": "Also have a pretty wide range for style,"
+    },
+    {
+      "start": 583.24,
+      "duration": 2.84,
+      "text": "so you see it on the bottom left uh"
+    },
+    {
+      "start": 584.64,
+      "duration": 2.8,
+      "text": "bottom right, sorry,"
+    },
+    {
+      "start": 586.08,
+      "duration": 4.0,
+      "text": "where, you know, you can do like"
+    },
+    {
+      "start": 587.44,
+      "duration": 4.8,
+      "text": "realistic images, but you can also go"
+    },
+    {
+      "start": 590.08,
+      "duration": 5.12,
+      "text": "into more the anime style, or things"
+    },
+    {
+      "start": 592.24,
+      "duration": 6.4,
+      "text": "that don't exist at all."
+    },
+    {
+      "start": 595.2,
+      "duration": 4.88,
+      "text": "And when we released it, so this was um"
+    },
+    {
+      "start": 598.64,
+      "duration": 3.52,
+      "text": "you know, on an A100, and then you can"
+    },
+    {
+      "start": 600.08,
+      "duration": 4.72,
+      "text": "see the performance in comparison to the"
+    },
+    {
+      "start": 602.16,
+      "duration": 6.76,
+      "text": "size and with the latency. And you can"
+    },
+    {
+      "start": 604.8,
+      "duration": 6.44,
+      "text": "see client can generate images in around"
+    },
+    {
+      "start": 608.92,
+      "duration": 4.36,
+      "text": "half a second. So, this is the time, you"
+    },
+    {
+      "start": 611.24,
+      "duration": 3.68,
+      "text": "know, it takes. And again,"
+    },
+    {
+      "start": 613.28,
+      "duration": 3.28,
+      "text": "half a second on bigger GPUs, I'm not"
+    },
+    {
+      "start": 614.92,
+      "duration": 3.32,
+      "text": "going to lie to you, but on RTX it's"
+    },
+    {
+      "start": 616.56,
+      "duration": 3.6,
+      "text": "going to take you a couple of seconds,"
+    },
+    {
+      "start": 618.24,
+      "duration": 3.88,
+      "text": "whereas the competition and the"
+    },
+    {
+      "start": 620.16,
+      "duration": 4.56,
+      "text": "competitor models like when"
+    },
+    {
+      "start": 622.12,
+      "duration": 6.2,
+      "text": "were more like the 5 to 10 seconds. And"
+    },
+    {
+      "start": 624.72,
+      "duration": 5.0,
+      "text": "so, this is again why it's so nice, and"
+    },
+    {
+      "start": 628.32,
+      "duration": 3.92,
+      "text": "what I'll show you at the end, where"
+    },
+    {
+      "start": 629.72,
+      "duration": 5.04,
+      "text": "you're going to see real real-time"
+    },
+    {
+      "start": 632.24,
+      "duration": 4.36,
+      "text": "editing of me, if the internet works and"
+    },
+    {
+      "start": 634.76,
+      "duration": 2.96,
+      "text": "my webcam works and everything works,"
+    },
+    {
+      "start": 636.6,
+      "duration": 3.0,
+      "text": "but it's like those things that you can"
+    },
+    {
+      "start": 637.72,
+      "duration": 4.0,
+      "text": "do, you know, you can generate an image"
+    },
+    {
+      "start": 639.6,
+      "duration": 4.76,
+      "text": "in less than a second, you can also edit"
+    },
+    {
+      "start": 641.72,
+      "duration": 3.68,
+      "text": "them in less than a second as well with"
+    },
+    {
+      "start": 644.36,
+      "duration": 3.56,
+      "text": "some um"
+    },
+    {
+      "start": 645.4,
+      "duration": 5.84,
+      "text": "some tweaks here and there. Uh but yes,"
+    },
+    {
+      "start": 647.92,
+      "duration": 4.44,
+      "text": "this is uh why it's so popular."
+    },
+    {
+      "start": 651.24,
+      "duration": 2.64,
+      "text": "And then,"
+    },
+    {
+      "start": 652.36,
+      "duration": 3.24,
+      "text": "so this client we released, and then we"
+    },
+    {
+      "start": 653.88,
+      "duration": 2.88,
+      "text": "have two versions. We have the 4B"
+    },
+    {
+      "start": 655.6,
+      "duration": 3.12,
+      "text": "version"
+    },
+    {
+      "start": 656.76,
+      "duration": 3.88,
+      "text": "uh 4B variant, sorry, which is fully"
+    },
+    {
+      "start": 658.72,
+      "duration": 4.04,
+      "text": "open source. You can run it honestly"
+    },
+    {
+      "start": 660.64,
+      "duration": 4.76,
+      "text": "basically on any RTX."
+    },
+    {
+      "start": 662.76,
+      "duration": 5.12,
+      "text": "And then, you have the 9B variant. So,"
+    },
+    {
+      "start": 665.4,
+      "duration": 4.92,
+      "text": "the 9B is open weight. This is what we"
+    },
+    {
+      "start": 667.88,
+      "duration": 4.0,
+      "text": "do when, you know, we also like sell our"
+    },
+    {
+      "start": 670.32,
+      "duration": 2.84,
+      "text": "weights, basically."
+    },
+    {
+      "start": 671.88,
+      "duration": 2.92,
+      "text": "Uh so, you can have it directly on"
+    },
+    {
+      "start": 673.16,
+      "duration": 2.84,
+      "text": "Hugging Face,"
+    },
+    {
+      "start": 674.8,
+      "duration": 2.2,
+      "text": "but then you'll have to get a license"
+    },
+    {
+      "start": 676.0,
+      "duration": 3.28,
+      "text": "with us"
+    },
+    {
+      "start": 677.0,
+      "duration": 4.0,
+      "text": "to be able to use it commercially."
+    },
+    {
+      "start": 679.28,
+      "duration": 4.2,
+      "text": "And on top of this, you have those two"
+    },
+    {
+      "start": 681.0,
+      "duration": 5.08,
+      "text": "variants, and then you have two"
+    },
+    {
+      "start": 683.48,
+      "duration": 4.48,
+      "text": "different flavors. So,"
+    },
+    {
+      "start": 686.08,
+      "duration": 3.6,
+      "text": "I'll go a bit I'll go into it a tiny bit"
+    },
+    {
+      "start": 687.96,
+      "duration": 3.92,
+      "text": "later, but you can also customize those"
+    },
+    {
+      "start": 689.68,
+      "duration": 3.76,
+      "text": "models, so you can fine-tune them. And"
+    },
+    {
+      "start": 691.88,
+      "duration": 3.96,
+      "text": "to make it easy for the people to"
+    },
+    {
+      "start": 693.44,
+      "duration": 4.96,
+      "text": "fine-tune, we released a base variant,"
+    },
+    {
+      "start": 695.84,
+      "duration": 5.04,
+      "text": "which is non-distilled. So, this is the"
+    },
+    {
+      "start": 698.4,
+      "duration": 4.16,
+      "text": "one that is very easy to fine-tune."
+    },
+    {
+      "start": 700.88,
+      "duration": 3.96,
+      "text": "We'll see it, but like you can use"
+    },
+    {
+      "start": 702.56,
+      "duration": 3.08,
+      "text": "basically 10 images, 10-15 images, and"
+    },
+    {
+      "start": 704.84,
+      "duration": 2.84,
+      "text": "then you're going to have your"
+    },
+    {
+      "start": 705.64,
+      "duration": 5.36,
+      "text": "fine-tune, you know, for your brand, for"
+    },
+    {
+      "start": 707.68,
+      "duration": 5.04,
+      "text": "your product, or for anything you want."
+    },
+    {
+      "start": 711.0,
+      "duration": 3.6,
+      "text": "And then, let's say you want to put it"
+    },
+    {
+      "start": 712.72,
+      "duration": 4.04,
+      "text": "into production, you have the distilled"
+    },
+    {
+      "start": 714.6,
+      "duration": 4.04,
+      "text": "distilled variant, which you can run"
+    },
+    {
+      "start": 716.76,
+      "duration": 3.32,
+      "text": "your fine-tune on top of. Or, then it's"
+    },
+    {
+      "start": 718.64,
+      "duration": 3.52,
+      "text": "the one, you know, that is taking half a"
+    },
+    {
+      "start": 720.08,
+      "duration": 3.8,
+      "text": "second to actually generate and edit"
+    },
+    {
+      "start": 722.16,
+      "duration": 3.6,
+      "text": "images."
+    },
+    {
+      "start": 723.88,
+      "duration": 4.6,
+      "text": "They're all available on Hugging Face,"
+    },
+    {
+      "start": 725.76,
+      "duration": 5.08,
+      "text": "so you should have a look there."
+    },
+    {
+      "start": 728.48,
+      "duration": 4.76,
+      "text": "But, on top of this, then what I want to"
+    },
+    {
+      "start": 730.84,
+      "duration": 5.04,
+      "text": "insist on today is that"
+    },
+    {
+      "start": 733.24,
+      "duration": 4.28,
+      "text": "you can run everything locally. So,"
+    },
+    {
+      "start": 735.88,
+      "duration": 3.4,
+      "text": "this is an example of a LoRA that I"
+    },
+    {
+      "start": 737.52,
+      "duration": 4.08,
+      "text": "trained. On the left side, it's the"
+    },
+    {
+      "start": 739.28,
+      "duration": 4.56,
+      "text": "input picture, and on the right side, I"
+    },
+    {
+      "start": 741.6,
+      "duration": 4.8,
+      "text": "tried like I trained like an ugly-fy"
+    },
+    {
+      "start": 743.84,
+      "duration": 4.92,
+      "text": "LoRA. And so, it's really like, you"
+    },
+    {
+      "start": 746.4,
+      "duration": 3.68,
+      "text": "know, make this cat, keep the same cat,"
+    },
+    {
+      "start": 748.76,
+      "duration": 4.56,
+      "text": "don't change anything, but make the cat"
+    },
+    {
+      "start": 750.08,
+      "duration": 4.96,
+      "text": "cat's ugly. And this was trained on 15"
+    },
+    {
+      "start": 753.32,
+      "duration": 4.76,
+      "text": "to 20 images."
+    },
+    {
+      "start": 755.04,
+      "duration": 4.84,
+      "text": "And I trained it on an RTX 4090 that I"
+    },
+    {
+      "start": 758.08,
+      "duration": 3.92,
+      "text": "rented somewhere, and then, you know, it"
+    },
+    {
+      "start": 759.88,
+      "duration": 4.28,
+      "text": "cost me like 50 cents to train it, just"
+    },
+    {
+      "start": 762.0,
+      "duration": 5.0,
+      "text": "because, well, it's so cheap. And the"
+    },
+    {
+      "start": 764.16,
+      "duration": 5.04,
+      "text": "model is so easy to fine-tune that this"
+    },
+    {
+      "start": 767.0,
+      "duration": 3.52,
+      "text": "is the best part. I also wrote a"
+    },
+    {
+      "start": 769.2,
+      "duration": 3.64,
+      "text": "wrote a post about it if you want to"
+    },
+    {
+      "start": 770.52,
+      "duration": 4.6,
+      "text": "read it. It's directly on Hugging Face."
+    },
+    {
+      "start": 772.84,
+      "duration": 4.08,
+      "text": "It's just to teach you basically how to"
+    },
+    {
+      "start": 775.12,
+      "duration": 3.52,
+      "text": "train the model,"
+    },
+    {
+      "start": 776.92,
+      "duration": 4.04,
+      "text": "you know, which data you should get, how"
+    },
+    {
+      "start": 778.64,
+      "duration": 4.84,
+      "text": "you should get the data, um which"
+    },
+    {
+      "start": 780.96,
+      "duration": 3.72,
+      "text": "parameters you should use, how to train"
+    },
+    {
+      "start": 783.48,
+      "duration": 3.32,
+      "text": "a LoRA that is going to be a"
+    },
+    {
+      "start": 784.68,
+      "duration": 3.12,
+      "text": "text-to-image LoRA, or an image-editing"
+    },
+    {
+      "start": 786.8,
+      "duration": 2.6,
+      "text": "LoRA."
+    },
+    {
+      "start": 787.8,
+      "duration": 3.0,
+      "text": "And then, you know, you can also play"
+    },
+    {
+      "start": 789.4,
+      "duration": 3.48,
+      "text": "with it."
+    },
+    {
+      "start": 790.8,
+      "duration": 4.4,
+      "text": "So, you can you should have a look."
+    },
+    {
+      "start": 792.88,
+      "duration": 4.12,
+      "text": "On top of this, those models and Klein"
+    },
+    {
+      "start": 795.2,
+      "duration": 3.52,
+      "text": "like really allows you to have like"
+    },
+    {
+      "start": 797.0,
+      "duration": 4.08,
+      "text": "real-time editing. So, this is what you"
+    },
+    {
+      "start": 798.72,
+      "duration": 4.36,
+      "text": "see here with some of our partners,"
+    },
+    {
+      "start": 801.08,
+      "duration": 3.44,
+      "text": "where they have an iPad app, and then"
+    },
+    {
+      "start": 803.08,
+      "duration": 3.84,
+      "text": "you just draw on it, and then you have"
+    },
+    {
+      "start": 804.52,
+      "duration": 4.72,
+      "text": "the edits basically near real-time. So,"
+    },
+    {
+      "start": 806.92,
+      "duration": 4.0,
+      "text": "this is powered by client."
+    },
+    {
+      "start": 809.24,
+      "duration": 3.24,
+      "text": "And on the right side,"
+    },
+    {
+      "start": 810.92,
+      "duration": 4.04,
+      "text": "this is fully powered by Flex to client"
+    },
+    {
+      "start": 812.48,
+      "duration": 4.28,
+      "text": "as well. Where it's basically near"
+    },
+    {
+      "start": 814.96,
+      "duration": 3.04,
+      "text": "real-time and you see the edits. And"
+    },
+    {
+      "start": 816.76,
+      "duration": 2.8,
+      "text": "then that really allows you, you know,"
+    },
+    {
+      "start": 818.0,
+      "duration": 3.2,
+      "text": "you own the software."
+    },
+    {
+      "start": 819.56,
+      "duration": 5.16,
+      "text": "You can just play with things and you"
+    },
+    {
+      "start": 821.2,
+      "duration": 3.52,
+      "text": "see like the edits in real-time."
+    },
+    {
+      "start": 825.12,
+      "duration": 3.68,
+      "text": "But yeah, now we're going to go into"
+    },
+    {
+      "start": 827.04,
+      "duration": 3.16,
+      "text": "demo time and hopefully everything"
+    },
+    {
+      "start": 828.8,
+      "duration": 2.32,
+      "text": "works."
+    },
+    {
+      "start": 830.2,
+      "duration": 3.4,
+      "text": "So,"
+    },
+    {
+      "start": 831.12,
+      "duration": 5.32,
+      "text": "I have this Hugging Face space that you"
+    },
+    {
+      "start": 833.6,
+      "duration": 4.84,
+      "text": "can use. It's available everywhere. You"
+    },
+    {
+      "start": 836.44,
+      "duration": 4.48,
+      "text": "can find it here on this URL if you if"
+    },
+    {
+      "start": 838.44,
+      "duration": 5.76,
+      "text": "you want to search for it."
+    },
+    {
+      "start": 840.92,
+      "duration": 4.32,
+      "text": "Because this is all about local RTX, I"
+    },
+    {
+      "start": 844.2,
+      "duration": 4.2,
+      "text": "just want to show you that I'm not"
+    },
+    {
+      "start": 845.24,
+      "duration": 4.28,
+      "text": "lying. So, it's running on an RTX 4060"
+    },
+    {
+      "start": 848.4,
+      "duration": 3.12,
+      "text": "Blackwell."
+    },
+    {
+      "start": 849.52,
+      "duration": 3.4,
+      "text": "Those are quite expensive."
+    },
+    {
+      "start": 851.52,
+      "duration": 4.52,
+      "text": "But, you know, you get the idea. It's"
+    },
+    {
+      "start": 852.92,
+      "duration": 6.16,
+      "text": "still an RTX and we're happy."
+    },
+    {
+      "start": 856.04,
+      "duration": 4.72,
+      "text": "Um so, I'm going to run the 4B version."
+    },
+    {
+      "start": 859.08,
+      "duration": 4.0,
+      "text": "And then this one, you know, we're going"
+    },
+    {
+      "start": 860.76,
+      "duration": 5.2,
+      "text": "to first start with a text to image."
+    },
+    {
+      "start": 863.08,
+      "duration": 4.8,
+      "text": "Which is like a ramen stool somewhere"
+    },
+    {
+      "start": 865.96,
+      "duration": 3.04,
+      "text": "that is night in the rain."
+    },
+    {
+      "start": 867.88,
+      "duration": 2.6,
+      "text": "You know,"
+    },
+    {
+      "start": 869.0,
+      "duration": 3.8,
+      "text": "there's like a lantern glow. There's"
+    },
+    {
+      "start": 870.48,
+      "duration": 5.16,
+      "text": "team rising. It's I want I I want it to"
+    },
+    {
+      "start": 872.8,
+      "duration": 4.4,
+      "text": "be like a bit cinematic. And have a bit"
+    },
+    {
+      "start": 875.64,
+      "duration": 4.24,
+      "text": "of a depth of field."
+    },
+    {
+      "start": 877.2,
+      "duration": 5.36,
+      "text": "And we can see it now. This run in like"
+    },
+    {
+      "start": 879.88,
+      "duration": 4.48,
+      "text": "a couple of seconds. Again, just because"
+    },
+    {
+      "start": 882.56,
+      "duration": 3.24,
+      "text": "this is a Hugging Face space where you"
+    },
+    {
+      "start": 884.36,
+      "duration": 2.68,
+      "text": "know, you're sharing the GPUs and you're"
+    },
+    {
+      "start": 885.8,
+      "duration": 2.24,
+      "text": "sharing the resources with everyone"
+    },
+    {
+      "start": 887.04,
+      "duration": 3.0,
+      "text": "else."
+    },
+    {
+      "start": 888.04,
+      "duration": 5.16,
+      "text": "But you get the idea that you could have"
+    },
+    {
+      "start": 890.04,
+      "duration": 5.12,
+      "text": "it directly on an RTX locally and then"
+    },
+    {
+      "start": 893.2,
+      "duration": 3.48,
+      "text": "make it work."
+    },
+    {
+      "start": 895.16,
+      "duration": 3.08,
+      "text": "This I just want to show you that there"
+    },
+    {
+      "start": 896.68,
+      "duration": 3.12,
+      "text": "are different styles."
+    },
+    {
+      "start": 898.24,
+      "duration": 3.28,
+      "text": "You can also go on like vector"
+    },
+    {
+      "start": 899.8,
+      "duration": 3.36,
+      "text": "illustration, you know, with like this"
+    },
+    {
+      "start": 901.52,
+      "duration": 2.88,
+      "text": "red fox here that you see that is going"
+    },
+    {
+      "start": 903.16,
+      "duration": 3.2,
+      "text": "to read a book."
+    },
+    {
+      "start": 904.4,
+      "duration": 4.56,
+      "text": "Hopefully works. And you see it's very,"
+    },
+    {
+      "start": 906.36,
+      "duration": 4.88,
+      "text": "very different. It took about I think I"
+    },
+    {
+      "start": 908.96,
+      "duration": 3.72,
+      "text": "have the time here. So, like the"
+    },
+    {
+      "start": 911.24,
+      "duration": 2.6,
+      "text": "image generation part took about 2"
+    },
+    {
+      "start": 912.68,
+      "duration": 2.72,
+      "text": "seconds."
+    },
+    {
+      "start": 913.84,
+      "duration": 2.8,
+      "text": "Then there are other components on it"
+    },
+    {
+      "start": 915.4,
+      "duration": 2.64,
+      "text": "like you have to"
+    },
+    {
+      "start": 916.64,
+      "duration": 3.88,
+      "text": "decode the image. You have to have the"
+    },
+    {
+      "start": 918.04,
+      "duration": 6.28,
+      "text": "text encoder which adds a bit of time."
+    },
+    {
+      "start": 920.52,
+      "duration": 3.8,
+      "text": "But you can also improve those."
+    },
+    {
+      "start": 924.52,
+      "duration": 5.08,
+      "text": "Again, it's different things you can do."
+    },
+    {
+      "start": 926.68,
+      "duration": 5.88,
+      "text": "So, you have like edits as well. So, we"
+    },
+    {
+      "start": 929.6,
+      "duration": 5.2,
+      "text": "can take a picture of me, and then let's"
+    },
+    {
+      "start": 932.56,
+      "duration": 4.12,
+      "text": "see if that works."
+    },
+    {
+      "start": 934.8,
+      "duration": 3.68,
+      "text": "We can take my favorite picture that was"
+    },
+    {
+      "start": 936.68,
+      "duration": 4.4,
+      "text": "obviously generated with Flux."
+    },
+    {
+      "start": 938.48,
+      "duration": 3.92,
+      "text": "I don't have this outfit, unfortunately."
+    },
+    {
+      "start": 941.08,
+      "duration": 3.0,
+      "text": "Uh but just so you take this one, I'm"
+    },
+    {
+      "start": 942.4,
+      "duration": 3.12,
+      "text": "going to turn it into watercolor"
+    },
+    {
+      "start": 944.08,
+      "duration": 3.96,
+      "text": "painting."
+    },
+    {
+      "start": 945.52,
+      "duration": 4.84,
+      "text": "And again, this is running on the RTX."
+    },
+    {
+      "start": 948.04,
+      "duration": 5.16,
+      "text": "This should take as Hugging Face is"
+    },
+    {
+      "start": 950.36,
+      "duration": 4.92,
+      "text": "saying, around 13 seconds in total. And"
+    },
+    {
+      "start": 953.2,
+      "duration": 3.64,
+      "text": "what is happening here,"
+    },
+    {
+      "start": 955.28,
+      "duration": 3.6,
+      "text": "now you have"
+    },
+    {
+      "start": 956.84,
+      "duration": 3.36,
+      "text": "the image that is being encoded, and"
+    },
+    {
+      "start": 958.88,
+      "duration": 3.72,
+      "text": "then you have the text, and then you"
+    },
+    {
+      "start": 960.2,
+      "duration": 4.76,
+      "text": "have this as the output."
+    },
+    {
+      "start": 962.6,
+      "duration": 4.88,
+      "text": "And you can do way more things as well."
+    },
+    {
+      "start": 964.96,
+      "duration": 4.32,
+      "text": "I could also be like, I don't know,"
+    },
+    {
+      "start": 967.48,
+      "duration": 3.72,
+      "text": "uh add a hat"
+    },
+    {
+      "start": 969.28,
+      "duration": 4.24,
+      "text": "on or replace"
+    },
+    {
+      "start": 971.2,
+      "duration": 3.6,
+      "text": "the hat"
+    },
+    {
+      "start": 973.52,
+      "duration": 3.08,
+      "text": "with"
+    },
+    {
+      "start": 974.8,
+      "duration": 4.8,
+      "text": "a cap,"
+    },
+    {
+      "start": 976.6,
+      "duration": 5.44,
+      "text": "which I didn't plan to do, but I figured"
+    },
+    {
+      "start": 979.6,
+      "duration": 4.8,
+      "text": "life demos wouldn't be fun otherwise."
+    },
+    {
+      "start": 982.04,
+      "duration": 4.2,
+      "text": "So, it kind of worked. Uh I guess I just"
+    },
+    {
+      "start": 984.4,
+      "duration": 5.2,
+      "text": "have to improve my prompt."
+    },
+    {
+      "start": 986.24,
+      "duration": 6.08,
+      "text": "Uh but I could also just be like remove"
+    },
+    {
+      "start": 989.6,
+      "duration": 5.08,
+      "text": "the sunglasses, and that should work"
+    },
+    {
+      "start": 992.32,
+      "duration": 2.36,
+      "text": "better."
+    },
+    {
+      "start": 994.72,
+      "duration": 3.0,
+      "text": "Hopefully."
+    },
+    {
+      "start": 996.04,
+      "duration": 3.36,
+      "text": "Yes."
+    },
+    {
+      "start": 997.72,
+      "duration": 3.44,
+      "text": "So, yeah, that's not exactly my eyes,"
+    },
+    {
+      "start": 999.4,
+      "duration": 3.24,
+      "text": "but it removed the sunglasses and kept"
+    },
+    {
+      "start": 1001.16,
+      "duration": 2.92,
+      "text": "everything else the same."
+    },
+    {
+      "start": 1002.64,
+      "duration": 3.0,
+      "text": "Um so, this is, you know, what you can"
+    },
+    {
+      "start": 1004.08,
+      "duration": 4.04,
+      "text": "do. And again, this is going to be"
+    },
+    {
+      "start": 1005.64,
+      "duration": 4.68,
+      "text": "running on the 4B variant."
+    },
+    {
+      "start": 1008.12,
+      "duration": 4.44,
+      "text": "And on top of this, I mentioned you"
+    },
+    {
+      "start": 1010.32,
+      "duration": 4.52,
+      "text": "know, you can have LoRAs. So, this on"
+    },
+    {
+      "start": 1012.56,
+      "duration": 4.4,
+      "text": "this Hugging Face space as well, you can"
+    },
+    {
+      "start": 1014.84,
+      "duration": 4.44,
+      "text": "also run LoRAs directly. So, if you"
+    },
+    {
+      "start": 1016.96,
+      "duration": 4.0,
+      "text": "train your LoRA, you can also run it."
+    },
+    {
+      "start": 1019.28,
+      "duration": 4.12,
+      "text": "But I want to show you, you know, like"
+    },
+    {
+      "start": 1020.96,
+      "duration": 4.08,
+      "text": "those have been trained by the community"
+    },
+    {
+      "start": 1023.4,
+      "duration": 4.08,
+      "text": "as well, actually."
+    },
+    {
+      "start": 1025.04,
+      "duration": 4.28,
+      "text": "So, you go on Hugging Face, you have the"
+    },
+    {
+      "start": 1027.48,
+      "duration": 4.96,
+      "text": "list of models."
+    },
+    {
+      "start": 1029.32,
+      "duration": 4.72,
+      "text": "This is just on one sub-variant of our"
+    },
+    {
+      "start": 1032.44,
+      "duration": 3.68,
+      "text": "models we have. But then, you know, you"
+    },
+    {
+      "start": 1034.04,
+      "duration": 3.84,
+      "text": "can really search for many LoRAs that"
+    },
+    {
+      "start": 1036.12,
+      "duration": 3.84,
+      "text": "have been done. They are like literally"
+    },
+    {
+      "start": 1037.88,
+      "duration": 3.16,
+      "text": "thousands of Laura's um across different"
+    },
+    {
+      "start": 1039.96,
+      "duration": 2.84,
+      "text": "models."
+    },
+    {
+      "start": 1041.04,
+      "duration": 3.56,
+      "text": "And so then you can, you know, go for"
+    },
+    {
+      "start": 1042.8,
+      "duration": 4.16,
+      "text": "this one and this one would be an art"
+    },
+    {
+      "start": 1044.6,
+      "duration": 4.36,
+      "text": "painting Laura, which really, you know,"
+    },
+    {
+      "start": 1046.96,
+      "duration": 4.8,
+      "text": "can give you what you see on the right."
+    },
+    {
+      "start": 1048.96,
+      "duration": 4.96,
+      "text": "Can like expand your image basically."
+    },
+    {
+      "start": 1051.76,
+      "duration": 4.52,
+      "text": "So those have been done by the community"
+    },
+    {
+      "start": 1053.92,
+      "duration": 4.0,
+      "text": "and this is also like why it's so nice"
+    },
+    {
+      "start": 1056.28,
+      "duration": 3.0,
+      "text": "to have open weights models just because"
+    },
+    {
+      "start": 1057.92,
+      "duration": 3.64,
+      "text": "then, you know, the people are working"
+    },
+    {
+      "start": 1059.28,
+      "duration": 4.44,
+      "text": "on it and then they make it available to"
+    },
+    {
+      "start": 1061.56,
+      "duration": 3.52,
+      "text": "other people as well."
+    },
+    {
+      "start": 1063.72,
+      "duration": 2.84,
+      "text": "So this is"
+    },
+    {
+      "start": 1065.08,
+      "duration": 3.36,
+      "text": "what you can do."
+    },
+    {
+      "start": 1066.56,
+      "duration": 3.44,
+      "text": "But enough yapping."
+    },
+    {
+      "start": 1068.44,
+      "duration": 4.32,
+      "text": "I want to show you"
+    },
+    {
+      "start": 1070.0,
+      "duration": 5.56,
+      "text": "this one which is what I really like,"
+    },
+    {
+      "start": 1072.76,
+      "duration": 5.52,
+      "text": "which is a sprite sheet Laura."
+    },
+    {
+      "start": 1075.56,
+      "duration": 4.8,
+      "text": "And so if you were to use this one with"
+    },
+    {
+      "start": 1078.28,
+      "duration": 4.68,
+      "text": "this car for example,"
+    },
+    {
+      "start": 1080.36,
+      "duration": 4.16,
+      "text": "and you run it with a base model"
+    },
+    {
+      "start": 1082.96,
+      "duration": 3.0,
+      "text": "and with a Laura on top of it that has"
+    },
+    {
+      "start": 1084.52,
+      "duration": 2.68,
+      "text": "been trained on it, you will see the"
+    },
+    {
+      "start": 1085.96,
+      "duration": 2.88,
+      "text": "differences"
+    },
+    {
+      "start": 1087.2,
+      "duration": 5.16,
+      "text": "and you will see why it's so powerful"
+    },
+    {
+      "start": 1088.84,
+      "duration": 6.36,
+      "text": "actually to be able to train your Laura."
+    },
+    {
+      "start": 1092.36,
+      "duration": 5.32,
+      "text": "You see it here on the left."
+    },
+    {
+      "start": 1095.2,
+      "duration": 5.28,
+      "text": "This is the base model. So it kind of"
+    },
+    {
+      "start": 1097.68,
+      "duration": 4.76,
+      "text": "did sprite style,"
+    },
+    {
+      "start": 1100.48,
+      "duration": 4.0,
+      "text": "but the car, you know, didn't move. The"
+    },
+    {
+      "start": 1102.44,
+      "duration": 4.08,
+      "text": "car is always in one direction. And if"
+    },
+    {
+      "start": 1104.48,
+      "duration": 3.16,
+      "text": "you ever worked across video games,"
+    },
+    {
+      "start": 1106.52,
+      "duration": 3.2,
+      "text": "well, you will know you need to show"
+    },
+    {
+      "start": 1107.64,
+      "duration": 3.2,
+      "text": "like different directions, you know, for"
+    },
+    {
+      "start": 1109.72,
+      "duration": 5.56,
+      "text": "the model to understand what's"
+    },
+    {
+      "start": 1110.84,
+      "duration": 5.56,
+      "text": "happening. So this is with a base model."
+    },
+    {
+      "start": 1115.28,
+      "duration": 2.92,
+      "text": "And"
+    },
+    {
+      "start": 1116.4,
+      "duration": 3.8,
+      "text": "oops, sorry."
+    },
+    {
+      "start": 1118.2,
+      "duration": 4.16,
+      "text": "And this is with a Laura."
+    },
+    {
+      "start": 1120.2,
+      "duration": 4.4,
+      "text": "So this is the same car, but you can see"
+    },
+    {
+      "start": 1122.36,
+      "duration": 4.32,
+      "text": "now the model understood that it has to"
+    },
+    {
+      "start": 1124.6,
+      "duration": 4.24,
+      "text": "go into different directions, has to"
+    },
+    {
+      "start": 1126.68,
+      "duration": 6.12,
+      "text": "look on the side, has to look on the top"
+    },
+    {
+      "start": 1128.84,
+      "duration": 6.16,
+      "text": "as well. And so yes, so this is again"
+    },
+    {
+      "start": 1132.8,
+      "duration": 3.36,
+      "text": "why it's so powerful to have Laura's and"
+    },
+    {
+      "start": 1135.0,
+      "duration": 3.48,
+      "text": "to have everything that you can run"
+    },
+    {
+      "start": 1136.16,
+      "duration": 4.48,
+      "text": "locally, that you can customize and that"
+    },
+    {
+      "start": 1138.48,
+      "duration": 4.36,
+      "text": "you can run on your RTX."
+    },
+    {
+      "start": 1140.64,
+      "duration": 4.2,
+      "text": "I have another example that I actually"
+    },
+    {
+      "start": 1142.84,
+      "duration": 3.32,
+      "text": "really like."
+    },
+    {
+      "start": 1144.84,
+      "duration": 3.28,
+      "text": "If"
+    },
+    {
+      "start": 1146.16,
+      "duration": 3.24,
+      "text": "look, it's here."
+    },
+    {
+      "start": 1148.12,
+      "duration": 2.92,
+      "text": "Hop."
+    },
+    {
+      "start": 1149.4,
+      "duration": 3.32,
+      "text": "So I'm going to have another input image"
+    },
+    {
+      "start": 1151.04,
+      "duration": 4.48,
+      "text": "just to show you."
+    },
+    {
+      "start": 1152.72,
+      "duration": 5.28,
+      "text": "we can also do it with a person."
+    },
+    {
+      "start": 1155.52,
+      "duration": 3.64,
+      "text": "So, we have this person here"
+    },
+    {
+      "start": 1158.0,
+      "duration": 2.32,
+      "text": "that we're going to use as the input"
+    },
+    {
+      "start": 1159.16,
+      "duration": 3.24,
+      "text": "image, and then, you know, you could"
+    },
+    {
+      "start": 1160.32,
+      "duration": 4.8,
+      "text": "create a character out of this person as"
+    },
+    {
+      "start": 1162.4,
+      "duration": 4.56,
+      "text": "well. So, it's not only cars. The model"
+    },
+    {
+      "start": 1165.12,
+      "duration": 3.96,
+      "text": "has been mostly trained on vehicles,"
+    },
+    {
+      "start": 1166.96,
+      "duration": 4.6,
+      "text": "actually. Oops."
+    },
+    {
+      "start": 1169.08,
+      "duration": 3.96,
+      "text": "All right. Demo effect."
+    },
+    {
+      "start": 1171.56,
+      "duration": 3.24,
+      "text": "Hopefully."
+    },
+    {
+      "start": 1173.04,
+      "duration": 3.08,
+      "text": "And then I go back."
+    },
+    {
+      "start": 1174.8,
+      "duration": 4.24,
+      "text": "Uh so, it's been trained mostly on"
+    },
+    {
+      "start": 1176.12,
+      "duration": 4.8,
+      "text": "vehicles, but it can actually generalize"
+    },
+    {
+      "start": 1179.04,
+      "duration": 5.24,
+      "text": "to other components like, you know, this"
+    },
+    {
+      "start": 1180.92,
+      "duration": 6.32,
+      "text": "person, which hopefully should work."
+    },
+    {
+      "start": 1184.28,
+      "duration": 4.56,
+      "text": "If we're getting there."
+    },
+    {
+      "start": 1187.24,
+      "duration": 4.16,
+      "text": "Yes."
+    },
+    {
+      "start": 1188.84,
+      "duration": 4.4,
+      "text": "Um so, on the left, you see the base"
+    },
+    {
+      "start": 1191.4,
+      "duration": 3.6,
+      "text": "Laura. Again,"
+    },
+    {
+      "start": 1193.24,
+      "duration": 4.12,
+      "text": "the model is kind of understanding what"
+    },
+    {
+      "start": 1195.0,
+      "duration": 3.68,
+      "text": "it's supposed to do, but yet it's always"
+    },
+    {
+      "start": 1197.36,
+      "duration": 3.08,
+      "text": "in the same direction, and it doesn't"
+    },
+    {
+      "start": 1198.68,
+      "duration": 3.68,
+      "text": "understand that it should, you know, put"
+    },
+    {
+      "start": 1200.44,
+      "duration": 3.8,
+      "text": "the person in the different directions."
+    },
+    {
+      "start": 1202.36,
+      "duration": 3.76,
+      "text": "And then on the right,"
+    },
+    {
+      "start": 1204.24,
+      "duration": 3.8,
+      "text": "you can see it with a Laura."
+    },
+    {
+      "start": 1206.12,
+      "duration": 4.2,
+      "text": "It's facing different directions here,"
+    },
+    {
+      "start": 1208.04,
+      "duration": 5.24,
+      "text": "and then, you know, like it's so, way"
+    },
+    {
+      "start": 1210.32,
+      "duration": 4.84,
+      "text": "better results. So, have a look"
+    },
+    {
+      "start": 1213.28,
+      "duration": 4.68,
+      "text": "on this one. Uh there are many different"
+    },
+    {
+      "start": 1215.16,
+      "duration": 5.56,
+      "text": "Lauras as well. I also wrote a whole"
+    },
+    {
+      "start": 1217.96,
+      "duration": 5.0,
+      "text": "guide on how to train your Laura. You"
+    },
+    {
+      "start": 1220.72,
+      "duration": 4.0,
+      "text": "can also give that to your agents. It"
+    },
+    {
+      "start": 1222.96,
+      "duration": 3.6,
+      "text": "will learn a lot. Uh"
+    },
+    {
+      "start": 1224.72,
+      "duration": 4.6,
+      "text": "I've actually trained a whole Laura with"
+    },
+    {
+      "start": 1226.56,
+      "duration": 4.8,
+      "text": "uh Hermes agent, where I was like I gave"
+    },
+    {
+      "start": 1229.32,
+      "duration": 4.36,
+      "text": "it a goal, and it fetched the data for"
+    },
+    {
+      "start": 1231.36,
+      "duration": 4.68,
+      "text": "me. It captured the data, and it did a"
+    },
+    {
+      "start": 1233.68,
+      "duration": 4.04,
+      "text": "lot of things that are extremely boring."
+    },
+    {
+      "start": 1236.04,
+      "duration": 3.56,
+      "text": "Uh you can also find it somewhere on my"
+    },
+    {
+      "start": 1237.72,
+      "duration": 3.28,
+      "text": "socials uh where I wrote a whole article"
+    },
+    {
+      "start": 1239.6,
+      "duration": 2.64,
+      "text": "about it."
+    },
+    {
+      "start": 1241.0,
+      "duration": 3.04,
+      "text": "But I'm not here"
+    },
+    {
+      "start": 1242.24,
+      "duration": 3.8,
+      "text": "to only talk about that."
+    },
+    {
+      "start": 1244.04,
+      "duration": 3.96,
+      "text": "What I want to show you now,"
+    },
+    {
+      "start": 1246.04,
+      "duration": 2.96,
+      "text": "and then hopefully it works."
+    },
+    {
+      "start": 1248.0,
+      "duration": 2.44,
+      "text": "This is"
+    },
+    {
+      "start": 1249.0,
+      "duration": 3.2,
+      "text": "the stressful part."
+    },
+    {
+      "start": 1250.44,
+      "duration": 3.96,
+      "text": "Where you can see me here on the left, I"
+    },
+    {
+      "start": 1252.2,
+      "duration": 4.84,
+      "text": "have my webcam, and on the right, this"
+    },
+    {
+      "start": 1254.4,
+      "duration": 4.28,
+      "text": "is client that is running on GPUs now,"
+    },
+    {
+      "start": 1257.04,
+      "duration": 3.08,
+      "text": "and that is editing the image in real"
+    },
+    {
+      "start": 1258.68,
+      "duration": 2.4,
+      "text": "time. And I can do many different"
+    },
+    {
+      "start": 1260.12,
+      "duration": 3.4,
+      "text": "things."
+    },
+    {
+      "start": 1261.08,
+      "duration": 4.48,
+      "text": "And then it has a tiny bit of a delay,"
+    },
+    {
+      "start": 1263.52,
+      "duration": 3.84,
+      "text": "but hopefully it works. Yes."
+    },
+    {
+      "start": 1265.56,
+      "duration": 3.52,
+      "text": "Um so, this is, you know, to show you as"
+    },
+    {
+      "start": 1267.36,
+      "duration": 4.28,
+      "text": "well what is possible when you optimize"
+    },
+    {
+      "start": 1269.08,
+      "duration": 4.88,
+      "text": "the model and when you work on making it"
+    },
+    {
+      "start": 1271.64,
+      "duration": 3.4,
+      "text": "available in real time."
+    },
+    {
+      "start": 1273.96,
+      "duration": 2.8,
+      "text": "Now,"
+    },
+    {
+      "start": 1275.04,
+      "duration": 4.44,
+      "text": "I have this like watercolor painting"
+    },
+    {
+      "start": 1276.76,
+      "duration": 4.92,
+      "text": "prompt, but I could also, you know, we"
+    },
+    {
+      "start": 1279.48,
+      "duration": 3.4,
+      "text": "can go in a different style. And now"
+    },
+    {
+      "start": 1281.68,
+      "duration": 2.76,
+      "text": "it's going to be the Ghibli style that"
+    },
+    {
+      "start": 1282.88,
+      "duration": 5.92,
+      "text": "was very popular on socials that you've"
+    },
+    {
+      "start": 1284.44,
+      "duration": 5.76,
+      "text": "seen in the past. Now, we can do I'm"
+    },
+    {
+      "start": 1288.8,
+      "duration": 3.04,
+      "text": "going to butcher the name, I'm sorry."
+    },
+    {
+      "start": 1290.2,
+      "duration": 3.6,
+      "text": "We're going to do Van Gogh style. Sorry"
+    },
+    {
+      "start": 1291.84,
+      "duration": 3.88,
+      "text": "for the Dutch people in the room."
+    },
+    {
+      "start": 1293.8,
+      "duration": 3.36,
+      "text": "Uh, but yes, you can you going to see"
+    },
+    {
+      "start": 1295.72,
+      "duration": 3.64,
+      "text": "and then everything works and you have"
+    },
+    {
+      "start": 1297.16,
+      "duration": 4.04,
+      "text": "like things in real time."
+    },
+    {
+      "start": 1299.36,
+      "duration": 3.8,
+      "text": "Again,"
+    },
+    {
+      "start": 1301.2,
+      "duration": 3.88,
+      "text": "you know, do it in clay and now I am"
+    },
+    {
+      "start": 1303.16,
+      "duration": 4.44,
+      "text": "made out of clay. It's also removing the"
+    },
+    {
+      "start": 1305.08,
+      "duration": 4.8,
+      "text": "background and I'm just fully a clay"
+    },
+    {
+      "start": 1307.6,
+      "duration": 4.8,
+      "text": "person. So this is, you know, what is"
+    },
+    {
+      "start": 1309.88,
+      "duration": 4.92,
+      "text": "possible then when you have those open"
+    },
+    {
+      "start": 1312.4,
+      "duration": 4.32,
+      "text": "models that are"
+    },
+    {
+      "start": 1314.8,
+      "duration": 4.0,
+      "text": "focused on being small and that are"
+    },
+    {
+      "start": 1316.72,
+      "duration": 3.84,
+      "text": "focused, you know, on making it like"
+    },
+    {
+      "start": 1318.8,
+      "duration": 4.2,
+      "text": "efficient instead of just going for the"
+    },
+    {
+      "start": 1320.56,
+      "duration": 3.36,
+      "text": "size and just going for something"
+    },
+    {
+      "start": 1323.0,
+      "duration": 3.8,
+      "text": "um,"
+    },
+    {
+      "start": 1323.92,
+      "duration": 3.64,
+      "text": "that is bigger and bigger."
+    },
+    {
+      "start": 1326.8,
+      "duration": 2.68,
+      "text": "Oops."
+    },
+    {
+      "start": 1327.56,
+      "duration": 4.52,
+      "text": "Um, and then I would just want to finish"
+    },
+    {
+      "start": 1329.48,
+      "duration": 5.2,
+      "text": "on a couple of things is that we at BFL,"
+    },
+    {
+      "start": 1332.08,
+      "duration": 5.36,
+      "text": "so we announced Blackforest Labs almost"
+    },
+    {
+      "start": 1334.68,
+      "duration": 4.16,
+      "text": "2 years ago now, released Flux 1. That"
+    },
+    {
+      "start": 1337.44,
+      "duration": 3.12,
+      "text": "was a big hit. It was the first"
+    },
+    {
+      "start": 1338.84,
+      "duration": 3.96,
+      "text": "text-to-image model that was open"
+    },
+    {
+      "start": 1340.56,
+      "duration": 3.68,
+      "text": "source, that was actually working with"
+    },
+    {
+      "start": 1342.8,
+      "duration": 4.56,
+      "text": "the fingers, you know, that had the"
+    },
+    {
+      "start": 1344.24,
+      "duration": 5.44,
+      "text": "anatomy right. Then we released Context,"
+    },
+    {
+      "start": 1347.36,
+      "duration": 4.24,
+      "text": "which was uh, a bit more than a year ago"
+    },
+    {
+      "start": 1349.68,
+      "duration": 3.96,
+      "text": "now, which was the first open source"
+    },
+    {
+      "start": 1351.6,
+      "duration": 3.88,
+      "text": "editing model in the world."
+    },
+    {
+      "start": 1353.64,
+      "duration": 3.96,
+      "text": "We released Flux 2 then in November,"
+    },
+    {
+      "start": 1355.48,
+      "duration": 3.44,
+      "text": "which was state-of-the-art on the open"
+    },
+    {
+      "start": 1357.6,
+      "duration": 2.92,
+      "text": "part."
+    },
+    {
+      "start": 1358.92,
+      "duration": 3.92,
+      "text": "We released Klein, it was the one I just"
+    },
+    {
+      "start": 1360.52,
+      "duration": 4.24,
+      "text": "showed you now in January, which is, you"
+    },
+    {
+      "start": 1362.84,
+      "duration": 4.48,
+      "text": "know, like this image generation and"
+    },
+    {
+      "start": 1364.76,
+      "duration": 4.2,
+      "text": "editing in a sub-second speed and also"
+    },
+    {
+      "start": 1367.32,
+      "duration": 3.72,
+      "text": "near real time."
+    },
+    {
+      "start": 1368.96,
+      "duration": 4.28,
+      "text": "Now, we're obviously working on more"
+    },
+    {
+      "start": 1371.04,
+      "duration": 3.32,
+      "text": "things. We are a research company at"
+    },
+    {
+      "start": 1373.24,
+      "duration": 3.32,
+      "text": "first"
+    },
+    {
+      "start": 1374.36,
+      "duration": 3.2,
+      "text": "and where I want to do, where we going"
+    },
+    {
+      "start": 1376.56,
+      "duration": 2.56,
+      "text": "is"
+    },
+    {
+      "start": 1377.56,
+      "duration": 3.28,
+      "text": "so real time generation, you know, to"
+    },
+    {
+      "start": 1379.12,
+      "duration": 3.0,
+      "text": "render those mockups as fast as you can"
+    },
+    {
+      "start": 1380.84,
+      "duration": 3.8,
+      "text": "see. This is what I've shown you a bit"
+    },
+    {
+      "start": 1382.12,
+      "duration": 3.84,
+      "text": "before. We're working on more of those"
+    },
+    {
+      "start": 1384.64,
+      "duration": 4.2,
+      "text": "to make it"
+    },
+    {
+      "start": 1385.96,
+      "duration": 6.96,
+      "text": "better, to make it faster, to also make"
+    },
+    {
+      "start": 1388.84,
+      "duration": 6.08,
+      "text": "it on more modalities than just images."
+    },
+    {
+      "start": 1392.92,
+      "duration": 3.88,
+      "text": "We're working also towards world models."
+    },
+    {
+      "start": 1394.92,
+      "duration": 3.04,
+      "text": "There was a session right before this"
+    },
+    {
+      "start": 1396.8,
+      "duration": 3.4,
+      "text": "where they were talking about world"
+    },
+    {
+      "start": 1397.96,
+      "duration": 4.44,
+      "text": "models as well. So, BFL, that's the goal"
+    },
+    {
+      "start": 1400.2,
+      "duration": 5.04,
+      "text": "of BFL is to train world models, release"
+    },
+    {
+      "start": 1402.4,
+      "duration": 5.16,
+      "text": "them to the world, make sure that we"
+    },
+    {
+      "start": 1405.24,
+      "duration": 3.88,
+      "text": "have them that are behind API, but also"
+    },
+    {
+      "start": 1407.56,
+      "duration": 2.92,
+      "text": "on top of this that are going to be open"
+    },
+    {
+      "start": 1409.12,
+      "duration": 3.04,
+      "text": "weight."
+    },
+    {
+      "start": 1410.48,
+      "duration": 3.36,
+      "text": "The world models, if you make them and"
+    },
+    {
+      "start": 1412.16,
+      "duration": 3.28,
+      "text": "you make them great, they also give you"
+    },
+    {
+      "start": 1413.84,
+      "duration": 3.92,
+      "text": "better video models, they give you"
+    },
+    {
+      "start": 1415.44,
+      "duration": 5.6,
+      "text": "better image models, and then you get"
+    },
+    {
+      "start": 1417.76,
+      "duration": 5.24,
+      "text": "control robots, which I think is cool."
+    },
+    {
+      "start": 1421.04,
+      "duration": 4.48,
+      "text": "And finally, is the part I was talking"
+    },
+    {
+      "start": 1423.0,
+      "duration": 5.24,
+      "text": "about, it's the robots part. So, BFL"
+    },
+    {
+      "start": 1425.52,
+      "duration": 6.0,
+      "text": "also on top of doing those, we want to"
+    },
+    {
+      "start": 1428.24,
+      "duration": 5.12,
+      "text": "work and control robots. So, this is why"
+    },
+    {
+      "start": 1431.52,
+      "duration": 3.8,
+      "text": "we're training world models as well. And"
+    },
+    {
+      "start": 1433.36,
+      "duration": 3.96,
+      "text": "then it's really to have Flux being"
+    },
+    {
+      "start": 1435.32,
+      "duration": 4.2,
+      "text": "controlled robotics, the physical AI"
+    },
+    {
+      "start": 1437.32,
+      "duration": 4.0,
+      "text": "department, and then to make sure, you"
+    },
+    {
+      "start": 1439.52,
+      "duration": 4.48,
+      "text": "know, you can train things in the real"
+    },
+    {
+      "start": 1441.32,
+      "duration": 4.64,
+      "text": "world, and then they also get better in"
+    },
+    {
+      "start": 1444.0,
+      "duration": 3.48,
+      "text": "the digital world because they've seen"
+    },
+    {
+      "start": 1445.96,
+      "duration": 4.16,
+      "text": "some parts of the real world, they know"
+    },
+    {
+      "start": 1447.48,
+      "duration": 4.28,
+      "text": "what it is to touch a table here and"
+    },
+    {
+      "start": 1450.12,
+      "duration": 5.0,
+      "text": "that you don't go through it. It's just"
+    },
+    {
+      "start": 1451.76,
+      "duration": 5.72,
+      "text": "because they learn it with action data."
+    },
+    {
+      "start": 1455.12,
+      "duration": 4.48,
+      "text": "So, this is where we want to go."
+    },
+    {
+      "start": 1457.48,
+      "duration": 4.4,
+      "text": "It's very busy time."
+    },
+    {
+      "start": 1459.6,
+      "duration": 3.6,
+      "text": "We're going to come back with something"
+    },
+    {
+      "start": 1461.88,
+      "duration": 3.08,
+      "text": "very soon, so hopefully you're going to"
+    },
+    {
+      "start": 1463.2,
+      "duration": 4.67,
+      "text": "get very excited."
+    },
+    {
+      "start": 1464.96,
+      "duration": 4.93,
+      "text": "But, that's it for my talk. Thank you."
+    },
+    {
+      "start": 1467.87,
+      "duration": 2.02,
+      "text": ">> [applause]"
+    },
+    {
+      "start": 1473.24,
+      "duration": 2.68,
+      "text": ">> Do you have any any questions?"
+    },
+    {
+      "start": 1474.48,
+      "duration": 3.0,
+      "text": ">> you. Thank you."
+    },
+    {
+      "start": 1475.92,
+      "duration": 4.04,
+      "text": "That was brave"
+    },
+    {
+      "start": 1477.48,
+      "duration": 4.16,
+      "text": "showing so many demos on stage and"
+    },
+    {
+      "start": 1479.96,
+      "duration": 3.16,
+      "text": "nothing really breaks."
+    },
+    {
+      "start": 1481.64,
+      "duration": 4.68,
+      "text": "So, there is one question. I think you"
+    },
+    {
+      "start": 1483.12,
+      "duration": 5.92,
+      "text": "kind of hinted on this one showing this"
+    },
+    {
+      "start": 1486.32,
+      "duration": 4.88,
+      "text": "50 cents that you spent on on doing"
+    },
+    {
+      "start": 1489.04,
+      "duration": 5.12,
+      "text": "something. Um so, what is the minimum"
+    },
+    {
+      "start": 1491.2,
+      "duration": 4.36,
+      "text": "invest or setup to obtain acceptable"
+    },
+    {
+      "start": 1494.16,
+      "duration": 2.28,
+      "text": "results?"
+    },
+    {
+      "start": 1495.56,
+      "duration": 2.8,
+      "text": ">> Uh"
+    },
+    {
+      "start": 1496.44,
+      "duration": 4.04,
+      "text": "I guess it depends. It depends if you're"
+    },
+    {
+      "start": 1498.36,
+      "duration": 5.6,
+      "text": "going to use the RTX and you have to buy"
+    },
+    {
+      "start": 1500.48,
+      "duration": 5.4,
+      "text": "it yourself or for me I use RunPod where"
+    },
+    {
+      "start": 1503.96,
+      "duration": 5.04,
+      "text": "they just allow you, you know, to rent"
+    },
+    {
+      "start": 1505.88,
+      "duration": 4.56,
+      "text": "GPUs. Um, for this one then yeah, it was"
+    },
+    {
+      "start": 1509.0,
+      "duration": 3.28,
+      "text": "literally 50 cents because it's a bit"
+    },
+    {
+      "start": 1510.44,
+      "duration": 4.24,
+      "text": "more than a dollar per hour and it took"
+    },
+    {
+      "start": 1512.28,
+      "duration": 4.76,
+      "text": "less than it took about half an hour. So"
+    },
+    {
+      "start": 1514.68,
+      "duration": 2.92,
+      "text": "then you can rent it, use it and drop it"
+    },
+    {
+      "start": 1517.04,
+      "duration": 2.28,
+      "text": "again."
+    },
+    {
+      "start": 1517.6,
+      "duration": 3.68,
+      "text": ">> Yeah. So So"
+    },
+    {
+      "start": 1519.32,
+      "duration": 4.88,
+      "text": "So maybe on on the slide I've shown two"
+    },
+    {
+      "start": 1521.28,
+      "duration": 5.16,
+      "text": "different uh hardware options. So I"
+    },
+    {
+      "start": 1524.2,
+      "duration": 4.84,
+      "text": "think the uh"
+    },
+    {
+      "start": 1526.44,
+      "duration": 5.6,
+      "text": "most competitive one would be the DGX-1"
+    },
+    {
+      "start": 1529.04,
+      "duration": 5.52,
+      "text": "which is around 5 to 6,000 euro uh with"
+    },
+    {
+      "start": 1532.04,
+      "duration": 5.8,
+      "text": "128 GB RAM. You can connect it to your"
+    },
+    {
+      "start": 1534.56,
+      "duration": 5.6,
+      "text": "laptop and running as a uh additional uh"
+    },
+    {
+      "start": 1537.84,
+      "duration": 4.76,
+      "text": "cooperation device. And then you would"
+    },
+    {
+      "start": 1540.16,
+      "duration": 4.84,
+      "text": "have any choice of an RTX graphic card"
+    },
+    {
+      "start": 1542.6,
+      "duration": 5.4,
+      "text": "up to a 6,000 which would be around"
+    },
+    {
+      "start": 1545.0,
+      "duration": 4.4,
+      "text": "12,000 13,000 euro. And then you go"
+    },
+    {
+      "start": 1548.0,
+      "duration": 3.64,
+      "text": "higher."
+    },
+    {
+      "start": 1549.4,
+      "duration": 4.08,
+      "text": "Uh the DGX Station"
+    },
+    {
+      "start": 1551.64,
+      "duration": 5.44,
+      "text": "which will be sold through our OEM"
+    },
+    {
+      "start": 1553.48,
+      "duration": 5.88,
+      "text": "partners will be in the range of 100,000"
+    },
+    {
+      "start": 1557.08,
+      "duration": 2.28,
+      "text": "uh euro."
+    },
+    {
+      "start": 1560.04,
+      "duration": 3.92,
+      "text": ">> Thank you. Let's think one more time."
+    },
+    {
+      "start": 1562.56,
+      "duration": 3.62,
+      "text": "Jorgen Steven, thank you."
+    },
+    {
+      "start": 1563.96,
+      "duration": 2.22,
+      "text": ">> Thank you. [applause]"
+    }
+  ]
+}

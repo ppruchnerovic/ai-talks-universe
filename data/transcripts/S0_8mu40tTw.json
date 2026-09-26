@@ -1,0 +1,3328 @@
+{
+  "video_id": "S0_8mu40tTw",
+  "title": "Rest API Antipatterns",
+  "conference": "wearedevelopers",
+  "language": "en",
+  "auto_generated": true,
+  "source": "yt",
+  "timing": "exact",
+  "word_count": 4505,
+  "imported_from": "presentations/kb (WeAreDevelopers agenda API)",
+  "segments": [
+    {
+      "start": 3.2,
+      "duration": 4.56,
+      "text": "So, we have a nice flow. Rustom told you"
+    },
+    {
+      "start": 5.44,
+      "duration": 5.28,
+      "text": "what to do. I'm going to tell you what"
+    },
+    {
+      "start": 7.76,
+      "duration": 7.4,
+      "text": "not to do, which is sometimes even more"
+    },
+    {
+      "start": 10.72,
+      "duration": 4.44,
+      "text": "important. So,"
+    },
+    {
+      "start": 16.48,
+      "duration": 3.0,
+      "text": "yep."
+    },
+    {
+      "start": 22.24,
+      "duration": 5.44,
+      "text": "Uh, that's me. As I said, I kind of have"
+    },
+    {
+      "start": 25.68,
+      "duration": 3.84,
+      "text": "two professional goals in life. building"
+    },
+    {
+      "start": 27.68,
+      "duration": 5.44,
+      "text": "better programs and building better"
+    },
+    {
+      "start": 29.52,
+      "duration": 7.12,
+      "text": "programmers. And this is kind of both."
+    },
+    {
+      "start": 33.12,
+      "duration": 5.6,
+      "text": "So, not all of the mistakes that I'm"
+    },
+    {
+      "start": 36.64,
+      "duration": 4.24,
+      "text": "going to show are my own. Some of them"
+    },
+    {
+      "start": 38.72,
+      "duration": 5.92,
+      "text": "I've just seen other people make, which"
+    },
+    {
+      "start": 40.88,
+      "duration": 5.76,
+      "text": "is better. So, the agenda is going to be"
+    },
+    {
+      "start": 44.64,
+      "duration": 5.36,
+      "text": "we're going to go through what a REST"
+    },
+    {
+      "start": 46.64,
+      "duration": 6.08,
+      "text": "API is, why we need one, what an"
+    },
+    {
+      "start": 50.0,
+      "duration": 5.84,
+      "text": "antiattern is, how it is different from"
+    },
+    {
+      "start": 52.72,
+      "duration": 7.2,
+      "text": "a mistake, and I want to enforce that."
+    },
+    {
+      "start": 55.84,
+      "duration": 6.0,
+      "text": "we will see some design errors as I call"
+    },
+    {
+      "start": 59.92,
+      "duration": 4.88,
+      "text": "them and then we will go through the"
+    },
+    {
+      "start": 61.84,
+      "duration": 6.4,
+      "text": "actual antiatterns."
+    },
+    {
+      "start": 64.8,
+      "duration": 6.24,
+      "text": "So yeah, rest is representational state"
+    },
+    {
+      "start": 68.24,
+      "duration": 5.92,
+      "text": "transfer. We use methods. It should be"
+    },
+    {
+      "start": 71.04,
+      "duration": 6.88,
+      "text": "stateless. It has resources identified"
+    },
+    {
+      "start": 74.16,
+      "duration": 7.92,
+      "text": "by URLs and the data should be JSON or"
+    },
+    {
+      "start": 77.92,
+      "duration": 6.64,
+      "text": "XML or what have you. So that's kind of"
+    },
+    {
+      "start": 82.08,
+      "duration": 4.48,
+      "text": "that. So why do we use them? Well, we"
+    },
+    {
+      "start": 84.56,
+      "duration": 5.2,
+      "text": "use them to communicate from one"
+    },
+    {
+      "start": 86.56,
+      "duration": 5.28,
+      "text": "computer to another computer. They are"
+    },
+    {
+      "start": 89.76,
+      "duration": 4.88,
+      "text": "designed for computer to computer"
+    },
+    {
+      "start": 91.84,
+      "duration": 5.92,
+      "text": "communication. In most of the cases,"
+    },
+    {
+      "start": 94.64,
+      "duration": 4.64,
+      "text": "it's going to be back end to front end."
+    },
+    {
+      "start": 97.76,
+      "duration": 3.28,
+      "text": "We're going to call them back end and"
+    },
+    {
+      "start": 99.28,
+      "duration": 3.44,
+      "text": "front end. Even if with the front end is"
+    },
+    {
+      "start": 101.04,
+      "duration": 4.4,
+      "text": "yet another back end, doesn't really"
+    },
+    {
+      "start": 102.72,
+      "duration": 4.8,
+      "text": "matter. So, with an API, we always have"
+    },
+    {
+      "start": 105.44,
+      "duration": 4.88,
+      "text": "a producer and a consumer, a back end"
+    },
+    {
+      "start": 107.52,
+      "duration": 4.88,
+      "text": "and a front end. And the concept of rest"
+    },
+    {
+      "start": 110.32,
+      "duration": 4.16,
+      "text": "is that the back end can remain"
+    },
+    {
+      "start": 112.4,
+      "duration": 6.0,
+      "text": "stateless."
+    },
+    {
+      "start": 114.48,
+      "duration": 6.96,
+      "text": "Everything we need is in the request"
+    },
+    {
+      "start": 118.4,
+      "duration": 6.16,
+      "text": "and the front end can be remain agnostic"
+    },
+    {
+      "start": 121.44,
+      "duration": 4.96,
+      "text": "of how the back end does it job. So as"
+    },
+    {
+      "start": 124.56,
+      "duration": 5.2,
+      "text": "far as the front end knows the back end"
+    },
+    {
+      "start": 126.4,
+      "duration": 6.08,
+      "text": "is magical. We send a request we get"
+    },
+    {
+      "start": 129.76,
+      "duration": 4.72,
+      "text": "something in. That's it. If we send the"
+    },
+    {
+      "start": 132.48,
+      "duration": 6.0,
+      "text": "same request, we get the same data in"
+    },
+    {
+      "start": 134.48,
+      "duration": 6.56,
+      "text": "and so on. So it's a bridge"
+    },
+    {
+      "start": 138.48,
+      "duration": 6.48,
+      "text": "between one software system and another"
+    },
+    {
+      "start": 141.04,
+      "duration": 6.88,
+      "text": "software system. And in my experience,"
+    },
+    {
+      "start": 144.96,
+      "duration": 6.88,
+      "text": "in my working life, I t kind of tend to"
+    },
+    {
+      "start": 147.92,
+      "duration": 6.8,
+      "text": "go to the front of the back end and the"
+    },
+    {
+      "start": 151.84,
+      "duration": 5.84,
+      "text": "back side of the front end. So like it"
+    },
+    {
+      "start": 154.72,
+      "duration": 5.84,
+      "text": "or not, I had to do a lot of work with"
+    },
+    {
+      "start": 157.68,
+      "duration": 6.64,
+      "text": "APIs."
+    },
+    {
+      "start": 160.56,
+      "duration": 6.4,
+      "text": "So let's define the other part of the"
+    },
+    {
+      "start": 164.32,
+      "duration": 6.88,
+      "text": "title. What is an anti-attern?"
+    },
+    {
+      "start": 166.96,
+      "duration": 9.2,
+      "text": "So an anti-attern is usually a response,"
+    },
+    {
+      "start": 171.2,
+      "duration": 7.28,
+      "text": "a solution to a recurring problem."
+    },
+    {
+      "start": 176.16,
+      "duration": 5.68,
+      "text": "The problem why do we have the anti?"
+    },
+    {
+      "start": 178.48,
+      "duration": 4.96,
+      "text": "Because it's a common and also a wrong"
+    },
+    {
+      "start": 181.84,
+      "duration": 4.48,
+      "text": "solution."
+    },
+    {
+      "start": 183.44,
+      "duration": 6.16,
+      "text": "So yeah, for any problem in the world,"
+    },
+    {
+      "start": 186.32,
+      "duration": 5.68,
+      "text": "including the most touching uh political"
+    },
+    {
+      "start": 189.6,
+      "duration": 5.68,
+      "text": "issues, you have a solution that is"
+    },
+    {
+      "start": 192.0,
+      "duration": 5.6,
+      "text": "clear and simple and wrong."
+    },
+    {
+      "start": 195.28,
+      "duration": 5.92,
+      "text": "So it's something that seems like a good"
+    },
+    {
+      "start": 197.6,
+      "duration": 5.6,
+      "text": "idea but it tends to backfire. On the"
+    },
+    {
+      "start": 201.2,
+      "duration": 5.36,
+      "text": "other hand that gives us all the lessons"
+    },
+    {
+      "start": 203.2,
+      "duration": 5.44,
+      "text": "learned talks that you're going to get."
+    },
+    {
+      "start": 206.56,
+      "duration": 4.64,
+      "text": "And what one thing that I want to"
+    },
+    {
+      "start": 208.64,
+      "duration": 6.32,
+      "text": "emphasize antiatterns are not errors."
+    },
+    {
+      "start": 211.2,
+      "duration": 6.24,
+      "text": "Error is something that is simply wrong."
+    },
+    {
+      "start": 214.96,
+      "duration": 4.64,
+      "text": "It always has been wrong and you"
+    },
+    {
+      "start": 217.44,
+      "duration": 6.0,
+      "text": "shouldn't have done it but you already"
+    },
+    {
+      "start": 219.6,
+      "duration": 6.08,
+      "text": "did it. Antiatterns seemed like a good"
+    },
+    {
+      "start": 223.44,
+      "duration": 4.0,
+      "text": "idea at the time. We thought it was"
+    },
+    {
+      "start": 225.68,
+      "duration": 5.12,
+      "text": "smart."
+    },
+    {
+      "start": 227.44,
+      "duration": 5.76,
+      "text": "Just it just wasn't. So there are"
+    },
+    {
+      "start": 230.8,
+      "duration": 4.56,
+      "text": "antiatterns in every field of software"
+    },
+    {
+      "start": 233.2,
+      "duration": 5.2,
+      "text": "development. And these are some of my"
+    },
+    {
+      "start": 235.36,
+      "duration": 5.2,
+      "text": "favorite ones. For example, when we are"
+    },
+    {
+      "start": 238.4,
+      "duration": 4.08,
+      "text": "writing requirements and doing things"
+    },
+    {
+      "start": 240.56,
+      "duration": 3.76,
+      "text": "like that, we have the analysis"
+    },
+    {
+      "start": 242.48,
+      "duration": 5.28,
+      "text": "paralysis"
+    },
+    {
+      "start": 244.32,
+      "duration": 6.16,
+      "text": "when we basically analyze the heck out"
+    },
+    {
+      "start": 247.76,
+      "duration": 5.6,
+      "text": "of a problem and forget to write any"
+    },
+    {
+      "start": 250.48,
+      "duration": 6.56,
+      "text": "code or make up with any solutions."
+    },
+    {
+      "start": 253.36,
+      "duration": 5.84,
+      "text": "We have the golden hammer issue where if"
+    },
+    {
+      "start": 257.04,
+      "duration": 5.52,
+      "text": "you only have a hammer, a lot of the"
+    },
+    {
+      "start": 259.2,
+      "duration": 5.44,
+      "text": "problems start looking like nails."
+    },
+    {
+      "start": 262.56,
+      "duration": 5.52,
+      "text": "Yeah, we have the reinventing the wheel"
+    },
+    {
+      "start": 264.64,
+      "duration": 5.2,
+      "text": "when we reinvent an existing technology."
+    },
+    {
+      "start": 268.08,
+      "duration": 4.72,
+      "text": "And usually when we reinvent the wheel,"
+    },
+    {
+      "start": 269.84,
+      "duration": 5.76,
+      "text": "we reinvent it in a bit of a square way."
+    },
+    {
+      "start": 272.8,
+      "duration": 6.4,
+      "text": "So we make a worse version of what's"
+    },
+    {
+      "start": 275.6,
+      "duration": 7.36,
+      "text": "already out there. In specifically in"
+    },
+    {
+      "start": 279.2,
+      "duration": 7.04,
+      "text": "coding, we have the lasagna code"
+    },
+    {
+      "start": 282.96,
+      "duration": 5.52,
+      "text": "antiattern. I mean spaghetti code. Does"
+    },
+    {
+      "start": 286.24,
+      "duration": 4.8,
+      "text": "anybody think the spaghetti is co is"
+    },
+    {
+      "start": 288.48,
+      "duration": 6.0,
+      "text": "spaghetti code is good? No. That's an"
+    },
+    {
+      "start": 291.04,
+      "duration": 5.2,
+      "text": "error. But lasagna code, when we have a"
+    },
+    {
+      "start": 294.48,
+      "duration": 3.6,
+      "text": "layer on top of a layer on top of a"
+    },
+    {
+      "start": 296.24,
+      "duration": 5.92,
+      "text": "layer on top of a layer on top of a"
+    },
+    {
+      "start": 298.08,
+      "duration": 6.72,
+      "text": "layer, that's lasagna code. That could"
+    },
+    {
+      "start": 302.16,
+      "duration": 4.16,
+      "text": "work but doesn't always work. And then"
+    },
+    {
+      "start": 304.8,
+      "duration": 3.84,
+      "text": "we also have the ravioli called"
+    },
+    {
+      "start": 306.32,
+      "duration": 5.04,
+      "text": "antiattern. When everything is"
+    },
+    {
+      "start": 308.64,
+      "duration": 6.24,
+      "text": "self-contained, everything is special."
+    },
+    {
+      "start": 311.36,
+      "duration": 7.84,
+      "text": "We call that microservices, but you can"
+    },
+    {
+      "start": 314.88,
+      "duration": 6.32,
+      "text": "run that into antiattern as well."
+    },
+    {
+      "start": 319.2,
+      "duration": 4.88,
+      "text": "And of course we have management of"
+    },
+    {
+      "start": 321.2,
+      "duration": 4.48,
+      "text": "software in software development. And my"
+    },
+    {
+      "start": 324.08,
+      "duration": 4.64,
+      "text": "two favorite one we have seagull"
+    },
+    {
+      "start": 325.68,
+      "duration": 6.48,
+      "text": "management when the management drops in"
+    },
+    {
+      "start": 328.72,
+      "duration": 5.6,
+      "text": "shits on you and goes away."
+    },
+    {
+      "start": 332.16,
+      "duration": 4.64,
+      "text": "And then we have mushroom management as"
+    },
+    {
+      "start": 334.32,
+      "duration": 4.48,
+      "text": "well. How do you manage developers? Just"
+    },
+    {
+      "start": 336.8,
+      "duration": 5.12,
+      "text": "like mushrooms. Keep them in the dark."
+    },
+    {
+      "start": 338.8,
+      "duration": 4.8,
+      "text": "Feed them"
+    },
+    {
+      "start": 341.92,
+      "duration": 5.6,
+      "text": "Yeah."
+    },
+    {
+      "start": 343.6,
+      "duration": 5.68,
+      "text": "This talk is not about [applause]"
+    },
+    {
+      "start": 347.52,
+      "duration": 4.96,
+      "text": "these are known things. These are not"
+    },
+    {
+      "start": 349.28,
+      "duration": 5.68,
+      "text": "things that I invented. So, but you get"
+    },
+    {
+      "start": 352.48,
+      "duration": 5.8,
+      "text": "the point that antipatterns need to have"
+    },
+    {
+      "start": 354.96,
+      "duration": 3.32,
+      "text": "cute names."
+    },
+    {
+      "start": 358.64,
+      "duration": 4.96,
+      "text": "So, let's go back to an API again."
+    },
+    {
+      "start": 361.44,
+      "duration": 5.12,
+      "text": "Everything I'm going to say are is my"
+    },
+    {
+      "start": 363.6,
+      "duration": 5.44,
+      "text": "opinion. So, you're going to need to"
+    },
+    {
+      "start": 366.56,
+      "duration": 5.68,
+      "text": "trust me on this."
+    },
+    {
+      "start": 369.04,
+      "duration": 5.12,
+      "text": "Yeah. Okay."
+    },
+    {
+      "start": 372.24,
+      "duration": 4.08,
+      "text": "So"
+    },
+    {
+      "start": 374.16,
+      "duration": 6.16,
+      "text": "first I'm going to say talk a bit about"
+    },
+    {
+      "start": 376.32,
+      "duration": 6.8,
+      "text": "the errors we do when we generate APIs."
+    },
+    {
+      "start": 380.32,
+      "duration": 7.12,
+      "text": "So one common thing that we're going to"
+    },
+    {
+      "start": 383.12,
+      "duration": 8.0,
+      "text": "ignore the usage of HTTP methods. So"
+    },
+    {
+      "start": 387.44,
+      "duration": 5.76,
+      "text": "we're going to post everything. Yeah,"
+    },
+    {
+      "start": 391.12,
+      "duration": 5.2,
+      "text": "there is such a thing called postonly"
+    },
+    {
+      "start": 393.2,
+      "duration": 4.72,
+      "text": "APIs where everything is a post. Doesn't"
+    },
+    {
+      "start": 396.32,
+      "duration": 2.88,
+      "text": "matter if you're getting something, if"
+    },
+    {
+      "start": 397.92,
+      "duration": 4.24,
+      "text": "you're setting something, if you're"
+    },
+    {
+      "start": 399.2,
+      "duration": 7.52,
+      "text": "deleting, everything is just a post."
+    },
+    {
+      "start": 402.16,
+      "duration": 6.56,
+      "text": "We sometimes misuse status codes. So,"
+    },
+    {
+      "start": 406.72,
+      "duration": 6.64,
+      "text": "how many of you have used an API where"
+    },
+    {
+      "start": 408.72,
+      "duration": 7.12,
+      "text": "the errors come back as 200? Okay."
+    },
+    {
+      "start": 413.36,
+      "duration": 6.56,
+      "text": "Yeah, that's an error. That's not an"
+    },
+    {
+      "start": 415.84,
+      "duration": 7.68,
+      "text": "antiattern. That was never a good idea."
+    },
+    {
+      "start": 419.92,
+      "duration": 6.0,
+      "text": "So, we have a lot of APIs that will be"
+    },
+    {
+      "start": 423.52,
+      "duration": 4.4,
+      "text": "inconsistent in naming. Half of the API"
+    },
+    {
+      "start": 425.92,
+      "duration": 6.4,
+      "text": "use the book endpoints. Half of half of"
+    },
+    {
+      "start": 427.92,
+      "duration": 7.36,
+      "text": "the API use the books endpoint."
+    },
+    {
+      "start": 432.32,
+      "duration": 5.04,
+      "text": "Sometimes we have APIs that work great"
+    },
+    {
+      "start": 435.28,
+      "duration": 4.24,
+      "text": "on staging. They returned both of the"
+    },
+    {
+      "start": 437.36,
+      "duration": 4.88,
+      "text": "test cases, but we pushed them to"
+    },
+    {
+      "start": 439.52,
+      "duration": 6.0,
+      "text": "production when we have 17 million and"
+    },
+    {
+      "start": 442.24,
+      "duration": 5.44,
+      "text": "suddenly the API kind of doesn't work."
+    },
+    {
+      "start": 445.52,
+      "duration": 5.04,
+      "text": "My Chrome crashed when I called it or"
+    },
+    {
+      "start": 447.68,
+      "duration": 5.36,
+      "text": "something like that. And of course,"
+    },
+    {
+      "start": 450.56,
+      "duration": 4.8,
+      "text": "everybody's perennial favorite. Just no"
+    },
+    {
+      "start": 453.04,
+      "duration": 5.84,
+      "text": "documentation. Here's an endpoint."
+    },
+    {
+      "start": 455.36,
+      "duration": 7.04,
+      "text": "Here's a URL. Use it. How do I use it?"
+    },
+    {
+      "start": 458.88,
+      "duration": 7.68,
+      "text": "That's for you to find out. That's so"
+    },
+    {
+      "start": 462.4,
+      "duration": 7.76,
+      "text": "these things are never good ideas."
+    },
+    {
+      "start": 466.56,
+      "duration": 7.2,
+      "text": "You should not do that. And the biggest"
+    },
+    {
+      "start": 470.16,
+      "duration": 8.08,
+      "text": "error there is if you have inconsistency"
+    },
+    {
+      "start": 473.76,
+      "duration": 7.92,
+      "text": "in your API. So even if"
+    },
+    {
+      "start": 478.24,
+      "duration": 6.4,
+      "text": "uh what's worse than having 200 okay for"
+    },
+    {
+      "start": 481.68,
+      "duration": 5.2,
+      "text": "errors is having half of them have 200."
+    },
+    {
+      "start": 484.64,
+      "duration": 4.56,
+      "text": "Okay."
+    },
+    {
+      "start": 486.88,
+      "duration": 4.8,
+      "text": "And we've already most of us have seen"
+    },
+    {
+      "start": 489.2,
+      "duration": 5.28,
+      "text": "that. Yeah, that's the old part of the"
+    },
+    {
+      "start": 491.68,
+      "duration": 5.76,
+      "text": "API, but the new part returns 404. So"
+    },
+    {
+      "start": 494.48,
+      "duration": 8.36,
+      "text": "then you have you need one of this and"
+    },
+    {
+      "start": 497.44,
+      "duration": 5.4,
+      "text": "one of this and have fun."
+    },
+    {
+      "start": 502.88,
+      "duration": 7.2,
+      "text": "So let's go through what I think again"
+    },
+    {
+      "start": 507.6,
+      "duration": 5.84,
+      "text": "are some of the antiatterns that we"
+    },
+    {
+      "start": 510.08,
+      "duration": 6.08,
+      "text": "actually have. So these are errors. If"
+    },
+    {
+      "start": 513.44,
+      "duration": 4.64,
+      "text": "you do this, don't do them. stop doing"
+    },
+    {
+      "start": 516.16,
+      "duration": 4.4,
+      "text": "them."
+    },
+    {
+      "start": 518.08,
+      "duration": 5.92,
+      "text": "One thing that is common to antiatterns"
+    },
+    {
+      "start": 520.56,
+      "duration": 6.08,
+      "text": "is sometimes they are a good idea. So I"
+    },
+    {
+      "start": 524.0,
+      "duration": 5.52,
+      "text": "don't know your use case. I don't know"
+    },
+    {
+      "start": 526.64,
+      "duration": 4.8,
+      "text": "your code base. If it works for you, if"
+    },
+    {
+      "start": 529.52,
+      "duration": 4.56,
+      "text": "it's the correct design decision for"
+    },
+    {
+      "start": 531.44,
+      "duration": 5.04,
+      "text": "you, do it."
+    },
+    {
+      "start": 534.08,
+      "duration": 6.32,
+      "text": "But make sure that you're not lying to"
+    },
+    {
+      "start": 536.48,
+      "duration": 5.84,
+      "text": "yourself. And regarding errors, I don't"
+    },
+    {
+      "start": 540.4,
+      "duration": 3.68,
+      "text": "have internet right now, but search for"
+    },
+    {
+      "start": 542.32,
+      "duration": 6.08,
+      "text": "this song on Google. It's by Dylan"
+    },
+    {
+      "start": 544.08,
+      "duration": 6.8,
+      "text": "Bitty. It's a beautiful uh cover of"
+    },
+    {
+      "start": 548.4,
+      "duration": 4.8,
+      "text": "Bonjov."
+    },
+    {
+      "start": 550.88,
+      "duration": 5.52,
+      "text": "You give love a bad name. This is you"
+    },
+    {
+      "start": 553.2,
+      "duration": 6.16,
+      "text": "give API a bad name."
+    },
+    {
+      "start": 556.4,
+      "duration": 6.16,
+      "text": "It basically explains all the errors"
+    },
+    {
+      "start": 559.36,
+      "duration": 5.28,
+      "text": "that I already mentioned. So antiatterns"
+    },
+    {
+      "start": 562.56,
+      "duration": 4.0,
+      "text": "I'm going to be talking of course the"
+    },
+    {
+      "start": 564.64,
+      "duration": 4.88,
+      "text": "they have cutesy names. So I'm going to"
+    },
+    {
+      "start": 566.56,
+      "duration": 4.72,
+      "text": "be talking about the chatty ketty. I'm"
+    },
+    {
+      "start": 569.52,
+      "duration": 4.56,
+      "text": "going to be talking about the kitchen"
+    },
+    {
+      "start": 571.28,
+      "duration": 6.08,
+      "text": "sink, about the front end fusion"
+    },
+    {
+      "start": 574.08,
+      "duration": 5.84,
+      "text": "fallacy, the crude obsession,"
+    },
+    {
+      "start": 577.36,
+      "duration": 4.8,
+      "text": "the Russian doll scheme,"
+    },
+    {
+      "start": 579.92,
+      "duration": 6.8,
+      "text": "and the stick no the sticky server"
+    },
+    {
+      "start": 582.16,
+      "duration": 6.48,
+      "text": "situation and the header neglect defect."
+    },
+    {
+      "start": 586.72,
+      "duration": 5.6,
+      "text": "So if you come up with better names,"
+    },
+    {
+      "start": 588.64,
+      "duration": 5.84,
+      "text": "tell me. I will update them because an"
+    },
+    {
+      "start": 592.32,
+      "duration": 5.28,
+      "text": "antiattern needs to have a cute name so"
+    },
+    {
+      "start": 594.48,
+      "duration": 6.96,
+      "text": "people can remember it."
+    },
+    {
+      "start": 597.6,
+      "duration": 6.56,
+      "text": "So what is the chatty ketti? The chatty"
+    },
+    {
+      "start": 601.44,
+      "duration": 6.16,
+      "text": "ketty is when we"
+    },
+    {
+      "start": 604.16,
+      "duration": 5.92,
+      "text": "go overboard and most of the this"
+    },
+    {
+      "start": 607.6,
+      "duration": 5.04,
+      "text": "antipattern is going to be about"
+    },
+    {
+      "start": 610.08,
+      "duration": 5.04,
+      "text": "something going overboard"
+    },
+    {
+      "start": 612.64,
+      "duration": 4.16,
+      "text": "with all the endpoints that we could"
+    },
+    {
+      "start": 615.12,
+      "duration": 3.76,
+      "text": "make."
+    },
+    {
+      "start": 616.8,
+      "duration": 4.4,
+      "text": "Just because we can make an endpoint"
+    },
+    {
+      "start": 618.88,
+      "duration": 5.44,
+      "text": "doesn't mean we have to make an endpoint"
+    },
+    {
+      "start": 621.2,
+      "duration": 5.6,
+      "text": "for that. So which means we will have"
+    },
+    {
+      "start": 624.32,
+      "duration": 5.04,
+      "text": "our endpoints be as fine grained as"
+    },
+    {
+      "start": 626.8,
+      "duration": 6.0,
+      "text": "possible. Any application could have"
+    },
+    {
+      "start": 629.36,
+      "duration": 5.36,
+      "text": "been built using that API. But we don't"
+    },
+    {
+      "start": 632.8,
+      "duration": 4.48,
+      "text": "want any application. We want our"
+    },
+    {
+      "start": 634.72,
+      "duration": 6.48,
+      "text": "client's application."
+    },
+    {
+      "start": 637.28,
+      "duration": 8.4,
+      "text": "So you know that kind of boils down that"
+    },
+    {
+      "start": 641.2,
+      "duration": 8.32,
+      "text": "if we want to make a single use case we"
+    },
+    {
+      "start": 645.68,
+      "duration": 6.24,
+      "text": "need to call the API once once more two"
+    },
+    {
+      "start": 649.52,
+      "duration": 4.24,
+      "text": "times more five times more. If we need"
+    },
+    {
+      "start": 651.92,
+      "duration": 5.12,
+      "text": "five items, we're going to need to pick"
+    },
+    {
+      "start": 653.76,
+      "duration": 5.6,
+      "text": "them up one by one, which means that"
+    },
+    {
+      "start": 657.04,
+      "duration": 4.48,
+      "text": "we're going to have to orchestrate a lot"
+    },
+    {
+      "start": 659.36,
+      "duration": 4.64,
+      "text": "on the front end."
+    },
+    {
+      "start": 661.52,
+      "duration": 4.64,
+      "text": "We have increased network load and we"
+    },
+    {
+      "start": 664.0,
+      "duration": 6.0,
+      "text": "also have increased server load because"
+    },
+    {
+      "start": 666.16,
+      "duration": 8.08,
+      "text": "that could have been a single call. And"
+    },
+    {
+      "start": 670.0,
+      "duration": 8.32,
+      "text": "then of course one of those micro"
+    },
+    {
+      "start": 674.24,
+      "duration": 7.12,
+      "text": "endpoints changes and we have versioning"
+    },
+    {
+      "start": 678.32,
+      "duration": 5.04,
+      "text": "headaches because this was called ID"
+    },
+    {
+      "start": 681.36,
+      "duration": 5.52,
+      "text": "with a lower case. This is called now ID"
+    },
+    {
+      "start": 683.36,
+      "duration": 8.0,
+      "text": "with an uppercase and then it's fun for"
+    },
+    {
+      "start": 686.88,
+      "duration": 8.48,
+      "text": "the front end unendingly. So"
+    },
+    {
+      "start": 691.36,
+      "duration": 5.76,
+      "text": "I'm already losing some of you. So let's"
+    },
+    {
+      "start": 695.36,
+      "duration": 5.52,
+      "text": "look at some code. Yeah, this is an"
+    },
+    {
+      "start": 697.12,
+      "duration": 6.4,
+      "text": "example for a API errors. For example,"
+    },
+    {
+      "start": 700.88,
+      "duration": 6.64,
+      "text": "if we had"
+    },
+    {
+      "start": 703.52,
+      "duration": 7.28,
+      "text": "a post on a book but get on books"
+    },
+    {
+      "start": 707.52,
+      "duration": 6.0,
+      "text": "and then we have a post that updates and"
+    },
+    {
+      "start": 710.8,
+      "duration": 6.4,
+      "text": "then we have a post that deletes and of"
+    },
+    {
+      "start": 713.52,
+      "duration": 6.48,
+      "text": "course since we already used post on a"
+    },
+    {
+      "start": 717.2,
+      "duration": 5.36,
+      "text": "book now the this is a post method that"
+    },
+    {
+      "start": 720.0,
+      "duration": 4.08,
+      "text": "calls delete book. Have you seen such an"
+    },
+    {
+      "start": 722.56,
+      "duration": 4.48,
+      "text": "API?"
+    },
+    {
+      "start": 724.08,
+      "duration": 2.96,
+      "text": "Yep."
+    },
+    {
+      "start": 727.2,
+      "duration": 8.32,
+      "text": "But back to the chatty ketty."
+    },
+    {
+      "start": 731.44,
+      "duration": 6.08,
+      "text": "Yeah. So if we need an outer object."
+    },
+    {
+      "start": 735.52,
+      "duration": 4.4,
+      "text": "So for example, we have something like"
+    },
+    {
+      "start": 737.52,
+      "duration": 4.16,
+      "text": "this. But the outer has a lot of nested"
+    },
+    {
+      "start": 739.92,
+      "duration": 5.52,
+      "text": "properties. For example, they have a"
+    },
+    {
+      "start": 741.68,
+      "duration": 5.92,
+      "text": "nationality ID. And then of course we"
+    },
+    {
+      "start": 745.44,
+      "duration": 5.36,
+      "text": "can add an endpoint that will get a"
+    },
+    {
+      "start": 747.6,
+      "duration": 6.64,
+      "text": "certain outer's nationality. And all of"
+    },
+    {
+      "start": 750.8,
+      "duration": 5.68,
+      "text": "these by themselves are good code."
+    },
+    {
+      "start": 754.24,
+      "duration": 6.64,
+      "text": "They're work. They're operational. They"
+    },
+    {
+      "start": 756.48,
+      "duration": 7.28,
+      "text": "may even make sense. But in order to"
+    },
+    {
+      "start": 760.88,
+      "duration": 4.88,
+      "text": "display an outer on a screen somewhere"
+    },
+    {
+      "start": 763.76,
+      "duration": 4.08,
+      "text": "or get the data for the outer, you will"
+    },
+    {
+      "start": 765.76,
+      "duration": 4.24,
+      "text": "need to call the outer. You will need to"
+    },
+    {
+      "start": 767.84,
+      "duration": 4.32,
+      "text": "get the nationality. You will need to"
+    },
+    {
+      "start": 770.0,
+      "duration": 4.24,
+      "text": "get all the books for the outer. You"
+    },
+    {
+      "start": 772.16,
+      "duration": 4.8,
+      "text": "will need to get all the series for the"
+    },
+    {
+      "start": 774.24,
+      "duration": 5.28,
+      "text": "for that outer and so on. So in order to"
+    },
+    {
+      "start": 776.96,
+      "duration": 4.96,
+      "text": "display a single entity from your"
+    },
+    {
+      "start": 779.52,
+      "duration": 4.32,
+      "text": "application, you will need to call this"
+    },
+    {
+      "start": 781.92,
+      "duration": 4.88,
+      "text": "four times or even more if you want"
+    },
+    {
+      "start": 783.84,
+      "duration": 5.12,
+      "text": "details for the books."
+    },
+    {
+      "start": 786.8,
+      "duration": 5.04,
+      "text": "It makes sense sometimes to have a short"
+    },
+    {
+      "start": 788.96,
+      "duration": 5.44,
+      "text": "and a long version. But even if you"
+    },
+    {
+      "start": 791.84,
+      "duration": 6.32,
+      "text": "separate those not as a parameter but as"
+    },
+    {
+      "start": 794.4,
+      "duration": 6.32,
+      "text": "two separate endpoints, that's two. And"
+    },
+    {
+      "start": 798.16,
+      "duration": 6.88,
+      "text": "any client will need either one or the"
+    },
+    {
+      "start": 800.72,
+      "duration": 6.88,
+      "text": "other. Now we have a client that is not"
+    },
+    {
+      "start": 805.04,
+      "duration": 6.0,
+      "text": "uh satisfied with the short version and"
+    },
+    {
+      "start": 807.6,
+      "duration": 6.32,
+      "text": "is not satisfied with all of these"
+    },
+    {
+      "start": 811.04,
+      "duration": 6.16,
+      "text": "because they will need to call four API"
+    },
+    {
+      "start": 813.92,
+      "duration": 7.28,
+      "text": "calls instead of just using one. So make"
+    },
+    {
+      "start": 817.2,
+      "duration": 8.4,
+      "text": "sure to know what your clients need."
+    },
+    {
+      "start": 821.2,
+      "duration": 7.28,
+      "text": "But let's go to the other side of this."
+    },
+    {
+      "start": 825.6,
+      "duration": 5.52,
+      "text": "This is the kitchen sink antiattern."
+    },
+    {
+      "start": 828.48,
+      "duration": 5.6,
+      "text": "This is the opposite of that. when"
+    },
+    {
+      "start": 831.12,
+      "duration": 4.72,
+      "text": "somebody went overboard with kind of"
+    },
+    {
+      "start": 834.08,
+      "duration": 4.16,
+      "text": "oversharing"
+    },
+    {
+      "start": 835.84,
+      "duration": 4.48,
+      "text": "and to be honest this mostly happens"
+    },
+    {
+      "start": 838.24,
+      "duration": 5.68,
+      "text": "I've seen this happen a lot in Java and"
+    },
+    {
+      "start": 840.32,
+      "duration": 5.84,
+      "text": "C the very strongly coupled"
+    },
+    {
+      "start": 843.92,
+      "duration": 4.96,
+      "text": "objectoriented what not enterprisy"
+    },
+    {
+      "start": 846.16,
+      "duration": 5.6,
+      "text": "languages where we have the so-called"
+    },
+    {
+      "start": 848.88,
+      "duration": 5.12,
+      "text": "the monkey the banana monkey jungle"
+    },
+    {
+      "start": 851.76,
+      "duration": 4.64,
+      "text": "problem you asked for a banana but you"
+    },
+    {
+      "start": 854.0,
+      "duration": 4.56,
+      "text": "get the banana and got the monkey"
+    },
+    {
+      "start": 856.4,
+      "duration": 4.4,
+      "text": "holding the banana and got the tree"
+    },
+    {
+      "start": 858.56,
+      "duration": 5.84,
+      "text": "holding the monkey and so on and so"
+    },
+    {
+      "start": 860.8,
+      "duration": 5.76,
+      "text": "forth. So now we have REST APIs that"
+    },
+    {
+      "start": 864.4,
+      "duration": 6.08,
+      "text": "have complete resource representation"
+    },
+    {
+      "start": 866.56,
+      "duration": 7.6,
+      "text": "and I say complete I mean complete."
+    },
+    {
+      "start": 870.48,
+      "duration": 6.24,
+      "text": "When we ask for an out from Germany we"
+    },
+    {
+      "start": 874.16,
+      "duration": 5.12,
+      "text": "get data about the outer we get data"
+    },
+    {
+      "start": 876.72,
+      "duration": 4.88,
+      "text": "about uh that he's from Germany and then"
+    },
+    {
+      "start": 879.28,
+      "duration": 4.56,
+      "text": "we get all the data about Germany that"
+    },
+    {
+      "start": 881.6,
+      "duration": 4.48,
+      "text": "Germany has so many states and the"
+    },
+    {
+      "start": 883.84,
+      "duration": 4.24,
+      "text": "capitals of those states are those"
+    },
+    {
+      "start": 886.08,
+      "duration": 4.72,
+      "text": "cities and those cities are important"
+    },
+    {
+      "start": 888.08,
+      "duration": 5.36,
+      "text": "because of that. Yeah. Great. I got a 50"
+    },
+    {
+      "start": 890.8,
+      "duration": 5.84,
+      "text": "megabyte response in order to show first"
+    },
+    {
+      "start": 893.44,
+      "duration": 5.12,
+      "text": "name, last name."
+    },
+    {
+      "start": 896.64,
+      "duration": 4.72,
+      "text": "On the other hand, you can say, yeah,"
+    },
+    {
+      "start": 898.56,
+      "duration": 5.92,
+      "text": "that's one sizefits-all approach. You"
+    },
+    {
+      "start": 901.36,
+      "duration": 6.72,
+      "text": "have the data somewhere."
+    },
+    {
+      "start": 904.48,
+      "duration": 6.8,
+      "text": "And in my experience, games are awful at"
+    },
+    {
+      "start": 908.08,
+      "duration": 6.4,
+      "text": "this. Usually, especially Unity games,"
+    },
+    {
+      "start": 911.28,
+      "duration": 5.84,
+      "text": "again, back to C. So, they will you ask"
+    },
+    {
+      "start": 914.48,
+      "duration": 5.28,
+      "text": "for a single thing and they, oh, here's"
+    },
+    {
+      "start": 917.12,
+      "duration": 6.08,
+      "text": "the complete game state again. So, five"
+    },
+    {
+      "start": 919.76,
+      "duration": 7.04,
+      "text": "more megabytes of JSON over the wire."
+    },
+    {
+      "start": 923.2,
+      "duration": 6.32,
+      "text": "So, of course, this kind of works, but"
+    },
+    {
+      "start": 926.8,
+      "duration": 5.44,
+      "text": "it doesn't because we have a huge"
+    },
+    {
+      "start": 929.52,
+      "duration": 5.76,
+      "text": "performance impact both on the server"
+    },
+    {
+      "start": 932.24,
+      "duration": 5.6,
+      "text": "and on the client. The server needs to"
+    },
+    {
+      "start": 935.28,
+      "duration": 4.32,
+      "text": "regenerate all of that. Usually, it's"
+    },
+    {
+      "start": 937.84,
+      "duration": 3.28,
+      "text": "easy because you already have it in an"
+    },
+    {
+      "start": 939.6,
+      "duration": 3.28,
+      "text": "object that's in a tree. So you"
+    },
+    {
+      "start": 941.12,
+      "duration": 4.48,
+      "text": "basically just serialize the whole"
+    },
+    {
+      "start": 942.88,
+      "duration": 6.24,
+      "text": "object, the whole domain object that is"
+    },
+    {
+      "start": 945.6,
+      "duration": 7.36,
+      "text": "nicely connected into just a JSON and"
+    },
+    {
+      "start": 949.12,
+      "duration": 7.36,
+      "text": "kick it over the wire. And it's a"
+    },
+    {
+      "start": 952.96,
+      "duration": 5.2,
+      "text": "security nightmare a bit because you"
+    },
+    {
+      "start": 956.48,
+      "duration": 3.6,
+      "text": "have no idea whether you're sharing"
+    },
+    {
+      "start": 958.16,
+      "duration": 3.84,
+      "text": "something you're not supposed to with"
+    },
+    {
+      "start": 960.08,
+      "duration": 5.04,
+      "text": "somebody you're not supposed to share it"
+    },
+    {
+      "start": 962.0,
+      "duration": 6.16,
+      "text": "with. It's not a peacemail approach. We"
+    },
+    {
+      "start": 965.12,
+      "duration": 5.68,
+      "text": "have this big ball of data and we think"
+    },
+    {
+      "start": 968.16,
+      "duration": 4.24,
+      "text": "it's safe to send it."
+    },
+    {
+      "start": 970.8,
+      "duration": 4.8,
+      "text": "So"
+    },
+    {
+      "start": 972.4,
+      "duration": 6.84,
+      "text": "this is the other side of the chati. So"
+    },
+    {
+      "start": 975.6,
+      "duration": 3.64,
+      "text": "it's the kitchen sink."
+    },
+    {
+      "start": 979.52,
+      "duration": 6.8,
+      "text": "The other approach would be well we have"
+    },
+    {
+      "start": 983.44,
+      "duration": 7.76,
+      "text": "a books endpoint. We have the outers's"
+    },
+    {
+      "start": 986.32,
+      "duration": 7.44,
+      "text": "endpoint and we have with no"
+    },
+    {
+      "start": 991.2,
+      "duration": 4.88,
+      "text": "discernment an outer endpoint. So when"
+    },
+    {
+      "start": 993.76,
+      "duration": 4.88,
+      "text": "we say give us the outer we have no"
+    },
+    {
+      "start": 996.08,
+      "duration": 4.8,
+      "text": "choice whether we get all the data about"
+    },
+    {
+      "start": 998.64,
+      "duration": 4.88,
+      "text": "the outer. So we get all the"
+    },
+    {
+      "start": 1000.88,
+      "duration": 4.64,
+      "text": "nationalities we get all the books and"
+    },
+    {
+      "start": 1003.52,
+      "duration": 4.96,
+      "text": "there are if you ask for Stephen King"
+    },
+    {
+      "start": 1005.52,
+      "duration": 4.96,
+      "text": "you're going to get"
+    },
+    {
+      "start": 1008.48,
+      "duration": 5.28,
+      "text": "it's going to get messy because he wrote"
+    },
+    {
+      "start": 1010.48,
+      "duration": 5.76,
+      "text": "a lot of books he's still writing them."
+    },
+    {
+      "start": 1013.76,
+      "duration": 5.76,
+      "text": "We have all the series everything"
+    },
+    {
+      "start": 1016.24,
+      "duration": 5.12,
+      "text": "whether we like it or not. And each of"
+    },
+    {
+      "start": 1019.52,
+      "duration": 4.08,
+      "text": "don't forget that each of these will"
+    },
+    {
+      "start": 1021.36,
+      "duration": 5.28,
+      "text": "also be a database call whether we need"
+    },
+    {
+      "start": 1023.6,
+      "duration": 8.6,
+      "text": "it or not. There's just no way to"
+    },
+    {
+      "start": 1026.64,
+      "duration": 5.56,
+      "text": "explain that we need this and that's it."
+    },
+    {
+      "start": 1032.72,
+      "duration": 4.64,
+      "text": "Yeah. By the way, if you want to use"
+    },
+    {
+      "start": 1034.8,
+      "duration": 4.4,
+      "text": "GraphQL, use GraphQL. It's a good"
+    },
+    {
+      "start": 1037.36,
+      "duration": 4.24,
+      "text": "technology. But this talk is not about"
+    },
+    {
+      "start": 1039.2,
+      "duration": 6.4,
+      "text": "GraphQL."
+    },
+    {
+      "start": 1041.6,
+      "duration": 6.24,
+      "text": "On to the next one. So"
+    },
+    {
+      "start": 1045.6,
+      "duration": 6.08,
+      "text": "the front- end fusion fallacy and I've"
+    },
+    {
+      "start": 1047.84,
+      "duration": 7.44,
+      "text": "seen this again and again and again"
+    },
+    {
+      "start": 1051.68,
+      "duration": 5.52,
+      "text": "when we have a front end that drives the"
+    },
+    {
+      "start": 1055.28,
+      "duration": 4.24,
+      "text": "big end development."
+    },
+    {
+      "start": 1057.2,
+      "duration": 5.68,
+      "text": "So the front end has has a dashboard"
+    },
+    {
+      "start": 1059.52,
+      "duration": 5.44,
+      "text": "that for example gives you the current"
+    },
+    {
+      "start": 1062.88,
+      "duration": 4.88,
+      "text": "outer you're looking at and the current"
+    },
+    {
+      "start": 1064.96,
+      "duration": 6.16,
+      "text": "weather. So of course you have an API"
+    },
+    {
+      "start": 1067.76,
+      "duration": 6.08,
+      "text": "endpoint that gives you an outer ID and"
+    },
+    {
+      "start": 1071.12,
+      "duration": 5.52,
+      "text": "the weather for Berlin."
+    },
+    {
+      "start": 1073.84,
+      "duration": 7.28,
+      "text": "Is that useful? Is that really what we"
+    },
+    {
+      "start": 1076.64,
+      "duration": 8.16,
+      "text": "want to do? Is that easily explained?"
+    },
+    {
+      "start": 1081.12,
+      "duration": 5.84,
+      "text": "So that means we're going to map our API"
+    },
+    {
+      "start": 1084.8,
+      "duration": 5.04,
+      "text": "and just"
+    },
+    {
+      "start": 1086.96,
+      "duration": 5.76,
+      "text": "match it to the front end."
+    },
+    {
+      "start": 1089.84,
+      "duration": 6.56,
+      "text": "Which means that each time some designer"
+    },
+    {
+      "start": 1092.72,
+      "duration": 5.52,
+      "text": "looks at our front end and says, \"Ah,"
+    },
+    {
+      "start": 1096.4,
+      "duration": 5.28,
+      "text": "let's move this here, let's move this"
+    },
+    {
+      "start": 1098.24,
+      "duration": 5.84,
+      "text": "this, we need to redesign our API.\""
+    },
+    {
+      "start": 1101.68,
+      "duration": 5.84,
+      "text": "That's not how it's supposed to be."
+    },
+    {
+      "start": 1104.08,
+      "duration": 6.72,
+      "text": "Agnostic, stateless. So the data in the"
+    },
+    {
+      "start": 1107.52,
+      "duration": 6.32,
+      "text": "response will be at best a mixed bag of"
+    },
+    {
+      "start": 1110.8,
+      "duration": 6.0,
+      "text": "whatever the front end needs."
+    },
+    {
+      "start": 1113.84,
+      "duration": 5.12,
+      "text": "And if we have 10 pages on our app, then"
+    },
+    {
+      "start": 1116.8,
+      "duration": 4.32,
+      "text": "we have 10 endpoints and that's all"
+    },
+    {
+      "start": 1118.96,
+      "duration": 5.84,
+      "text": "there is. If we have 10 buttons, we have"
+    },
+    {
+      "start": 1121.12,
+      "duration": 5.52,
+      "text": "10 endpoints. That's all there is. If we"
+    },
+    {
+      "start": 1124.8,
+      "duration": 3.6,
+      "text": "want to create a mobile client after"
+    },
+    {
+      "start": 1126.64,
+      "duration": 4.0,
+      "text": "that, we build the web, we want to build"
+    },
+    {
+      "start": 1128.4,
+      "duration": 5.04,
+      "text": "a mobile client. What do we do? Throw"
+    },
+    {
+      "start": 1130.64,
+      "duration": 6.4,
+      "text": "away the back end, start fresh. [snorts]"
+    },
+    {
+      "start": 1133.44,
+      "duration": 5.84,
+      "text": "Note that this what what I'm speaking"
+    },
+    {
+      "start": 1137.04,
+      "duration": 5.36,
+      "text": "about sounds suspiciously like backend"
+    },
+    {
+      "start": 1139.28,
+      "duration": 6.16,
+      "text": "for front end. Who thought that?"
+    },
+    {
+      "start": 1142.4,
+      "duration": 5.28,
+      "text": "Yeah, a few guys. Backend for front end"
+    },
+    {
+      "start": 1145.44,
+      "duration": 3.92,
+      "text": "is part of the front end architecture,"
+    },
+    {
+      "start": 1147.68,
+      "duration": 3.36,
+      "text": "not part of the back end architecture."
+    },
+    {
+      "start": 1149.36,
+      "duration": 3.76,
+      "text": "When I say back end, I don't mean back"
+    },
+    {
+      "start": 1151.04,
+      "duration": 5.44,
+      "text": "end for front end. So back end for front"
+    },
+    {
+      "start": 1153.12,
+      "duration": 5.28,
+      "text": "end is over here. So if we have a back"
+    },
+    {
+      "start": 1156.48,
+      "duration": 4.0,
+      "text": "end for front end, it should be mapped"
+    },
+    {
+      "start": 1158.4,
+      "duration": 4.08,
+      "text": "to that front end because it's part of"
+    },
+    {
+      "start": 1160.48,
+      "duration": 5.04,
+      "text": "the same architecture."
+    },
+    {
+      "start": 1162.48,
+      "duration": 6.8,
+      "text": "But our API that works with our domain"
+    },
+    {
+      "start": 1165.52,
+      "duration": 6.88,
+      "text": "objects and domain logic should not be"
+    },
+    {
+      "start": 1169.28,
+      "duration": 5.68,
+      "text": "created in order to serve one specific"
+    },
+    {
+      "start": 1172.4,
+      "duration": 5.52,
+      "text": "front end that today is designed like"
+    },
+    {
+      "start": 1174.96,
+      "duration": 5.2,
+      "text": "that because tomorrow it won't be."
+    },
+    {
+      "start": 1177.92,
+      "duration": 4.24,
+      "text": "Tomorrow there will be another client."
+    },
+    {
+      "start": 1180.16,
+      "duration": 6.24,
+      "text": "tomorrow somebody will like our data and"
+    },
+    {
+      "start": 1182.16,
+      "duration": 6.4,
+      "text": "pay us to use it and they will"
+    },
+    {
+      "start": 1186.4,
+      "duration": 5.84,
+      "text": "I mean your API is great but why do I"
+    },
+    {
+      "start": 1188.56,
+      "duration": 4.96,
+      "text": "get weather data for Berlin?"
+    },
+    {
+      "start": 1192.24,
+      "duration": 4.32,
+      "text": "Yeah. And we're going to say oh we're"
+    },
+    {
+      "start": 1193.52,
+      "duration": 6.04,
+      "text": "going to change it to Amsterdam."
+    },
+    {
+      "start": 1196.56,
+      "duration": 3.0,
+      "text": "So"
+    },
+    {
+      "start": 1199.68,
+      "duration": 9.28,
+      "text": "yeah something like that if we have a /"
+    },
+    {
+      "start": 1203.44,
+      "duration": 10.29,
+      "text": "dashboard endpoint that's great in BFF"
+    },
+    {
+      "start": 1208.96,
+      "duration": 5.68,
+      "text": "definitely should not happen in our"
+    },
+    {
+      "start": 1213.73,
+      "duration": 4.67,
+      "text": "[clears throat]"
+    },
+    {
+      "start": 1214.64,
+      "duration": 6.24,
+      "text": "proper back end. So dashboard out"
+    },
+    {
+      "start": 1218.4,
+      "duration": 4.56,
+      "text": "profile those are concerns of the front"
+    },
+    {
+      "start": 1220.88,
+      "duration": 4.8,
+      "text": "end and should remain in the front end"
+    },
+    {
+      "start": 1222.96,
+      "duration": 4.88,
+      "text": "part of the architecture. It's easy to"
+    },
+    {
+      "start": 1225.68,
+      "duration": 4.48,
+      "text": "fall into a trap. This is kind of"
+    },
+    {
+      "start": 1227.84,
+      "duration": 4.24,
+      "text": "glaring that this is called outdoor"
+    },
+    {
+      "start": 1230.16,
+      "duration": 4.96,
+      "text": "profile,"
+    },
+    {
+      "start": 1232.08,
+      "duration": 4.96,
+      "text": "but it's uh sometimes it's kind of hard"
+    },
+    {
+      "start": 1235.12,
+      "duration": 4.64,
+      "text": "to see that we're moving in this"
+    },
+    {
+      "start": 1237.04,
+      "duration": 5.36,
+      "text": "direction, that we're tying our front"
+    },
+    {
+      "start": 1239.76,
+      "duration": 4.24,
+      "text": "end to our back end. Those are two"
+    },
+    {
+      "start": 1242.4,
+      "duration": 3.52,
+      "text": "separate things that should remain"
+    },
+    {
+      "start": 1244.0,
+      "duration": 4.64,
+      "text": "separate. If we need some kind of a"
+    },
+    {
+      "start": 1245.92,
+      "duration": 5.44,
+      "text": "service that acts as a mediator, build"
+    },
+    {
+      "start": 1248.64,
+      "duration": 4.72,
+      "text": "that. Call it BFF."
+    },
+    {
+      "start": 1251.36,
+      "duration": 4.48,
+      "text": "It's an awesome pattern that I like very"
+    },
+    {
+      "start": 1253.36,
+      "duration": 4.4,
+      "text": "much and I use it. And to be honest, I"
+    },
+    {
+      "start": 1255.84,
+      "duration": 4.48,
+      "text": "kind of invented it independently a"
+    },
+    {
+      "start": 1257.76,
+      "duration": 4.24,
+      "text": "couple of times. Didn't know that I was"
+    },
+    {
+      "start": 1260.32,
+      "duration": 5.68,
+      "text": "building something and then after we"
+    },
+    {
+      "start": 1262.0,
+      "duration": 8.4,
+      "text": "build it, yeah, this is a BFF."
+    },
+    {
+      "start": 1266.0,
+      "duration": 8.08,
+      "text": "So on the other end of"
+    },
+    {
+      "start": 1270.4,
+      "duration": 7.28,
+      "text": "on the other side of the front end"
+    },
+    {
+      "start": 1274.08,
+      "duration": 6.64,
+      "text": "fallacy is the crude obsession. This is"
+    },
+    {
+      "start": 1277.68,
+      "duration": 4.8,
+      "text": "when we basically reinvent GraphQL in"
+    },
+    {
+      "start": 1280.72,
+      "duration": 6.0,
+      "text": "REST."
+    },
+    {
+      "start": 1282.48,
+      "duration": 7.28,
+      "text": "So instead of going"
+    },
+    {
+      "start": 1286.72,
+      "duration": 5.44,
+      "text": "all in and just having one thing, well,"
+    },
+    {
+      "start": 1289.76,
+      "duration": 5.04,
+      "text": "we have a database. The database has"
+    },
+    {
+      "start": 1292.16,
+      "duration": 5.04,
+      "text": "tables, let's expose or collections or"
+    },
+    {
+      "start": 1294.8,
+      "duration": 4.64,
+      "text": "whatever. Let's expose everything we"
+    },
+    {
+      "start": 1297.2,
+      "duration": 4.16,
+      "text": "have because we have crude operations."
+    },
+    {
+      "start": 1299.44,
+      "duration": 4.48,
+      "text": "So if we have three tables, we're going"
+    },
+    {
+      "start": 1301.36,
+      "duration": 6.08,
+      "text": "to have 12 endpoints,"
+    },
+    {
+      "start": 1303.92,
+      "duration": 6.4,
+      "text": "four endpoints per table. And you can do"
+    },
+    {
+      "start": 1307.44,
+      "duration": 4.48,
+      "text": "anything on the front end. Yeah. We're"
+    },
+    {
+      "start": 1310.32,
+      "duration": 3.12,
+      "text": "going to add logging. We're going to add"
+    },
+    {
+      "start": 1311.92,
+      "duration": 3.6,
+      "text": "authorization. We're going to have"
+    },
+    {
+      "start": 1313.44,
+      "duration": 7.44,
+      "text": "everything that we want. And you can"
+    },
+    {
+      "start": 1315.52,
+      "duration": 8.96,
+      "text": "build any front end on this. Yeah. Sure."
+    },
+    {
+      "start": 1320.88,
+      "duration": 5.92,
+      "text": "But if you have uh a bit compl more"
+    },
+    {
+      "start": 1324.48,
+      "duration": 5.44,
+      "text": "complex operation like I don't know for"
+    },
+    {
+      "start": 1326.8,
+      "duration": 5.92,
+      "text": "books renting out a books selling a book"
+    },
+    {
+      "start": 1329.92,
+      "duration": 4.48,
+      "text": "writing a new book then you get to a"
+    },
+    {
+      "start": 1332.72,
+      "duration": 4.48,
+      "text": "point when the front end has to"
+    },
+    {
+      "start": 1334.4,
+      "duration": 4.8,
+      "text": "orchestrate that when a single operation"
+    },
+    {
+      "start": 1337.2,
+      "duration": 4.24,
+      "text": "that needs to write in that table that"
+    },
+    {
+      "start": 1339.2,
+      "duration": 6.64,
+      "text": "table and that table is actually four"
+    },
+    {
+      "start": 1341.44,
+      "duration": 7.2,
+      "text": "different uh API calls on the front end"
+    },
+    {
+      "start": 1345.84,
+      "duration": 5.12,
+      "text": "and what happens if three go through"
+    },
+    {
+      "start": 1348.64,
+      "duration": 3.92,
+      "text": "well in that case we're going reinvent"
+    },
+    {
+      "start": 1350.96,
+      "duration": 4.32,
+      "text": "transactions only we're going to have"
+    },
+    {
+      "start": 1352.56,
+      "duration": 6.32,
+      "text": "them on the front end"
+    },
+    {
+      "start": 1355.28,
+      "duration": 5.92,
+      "text": "seen that happen. So"
+    },
+    {
+      "start": 1358.88,
+      "duration": 5.52,
+      "text": "the front end has to orchestrate then"
+    },
+    {
+      "start": 1361.2,
+      "duration": 7.52,
+      "text": "the back end and I've seen oh"
+    },
+    {
+      "start": 1364.4,
+      "duration": 7.68,
+      "text": "specifically I've seen a thing we have a"
+    },
+    {
+      "start": 1368.72,
+      "duration": 5.36,
+      "text": "client they have an application that is"
+    },
+    {
+      "start": 1372.08,
+      "duration": 4.56,
+      "text": "built in this way it could have been"
+    },
+    {
+      "start": 1374.08,
+      "duration": 6.0,
+      "text": "generated with a script not with an LLM"
+    },
+    {
+      "start": 1376.64,
+      "duration": 5.44,
+      "text": "with a script and they have 100% code"
+    },
+    {
+      "start": 1380.08,
+      "duration": 3.6,
+      "text": "coverage on it and they say we're"
+    },
+    {
+      "start": 1382.08,
+      "duration": 4.4,
+      "text": "covered"
+    },
+    {
+      "start": 1383.68,
+      "duration": 6.0,
+      "text": "it's literally if they have 100 tables"
+    },
+    {
+      "start": 1386.48,
+      "duration": 5.6,
+      "text": "because they have 400 endpoints. On top"
+    },
+    {
+      "start": 1389.68,
+      "duration": 4.8,
+      "text": "of that, they have a totally untested"
+    },
+    {
+      "start": 1392.08,
+      "duration": 5.2,
+      "text": "and huge Angular application and they"
+    },
+    {
+      "start": 1394.48,
+      "duration": 4.48,
+      "text": "say we have 100% coverage. Yeah, except"
+    },
+    {
+      "start": 1397.28,
+      "duration": 4.32,
+      "text": "all the code is uncovered. Everything"
+    },
+    {
+      "start": 1398.96,
+      "duration": 4.72,
+      "text": "else is covered. So this is a thing that"
+    },
+    {
+      "start": 1401.6,
+      "duration": 4.72,
+      "text": "happens and of course the database will"
+    },
+    {
+      "start": 1403.68,
+      "duration": 5.2,
+      "text": "change. We will have database versioning"
+    },
+    {
+      "start": 1406.32,
+      "duration": 4.48,
+      "text": "issues which means each time we look at"
+    },
+    {
+      "start": 1408.88,
+      "duration": 5.04,
+      "text": "the database wrongly, we need to change"
+    },
+    {
+      "start": 1410.8,
+      "duration": 4.72,
+      "text": "our API."
+    },
+    {
+      "start": 1413.92,
+      "duration": 3.84,
+      "text": "So even if we build everything"
+    },
+    {
+      "start": 1415.52,
+      "duration": 4.4,
+      "text": "correctly, the API will have pagings and"
+    },
+    {
+      "start": 1417.76,
+      "duration": 4.24,
+      "text": "offsets and limits and whatnot. We can"
+    },
+    {
+      "start": 1419.92,
+      "duration": 6.72,
+      "text": "have those things"
+    },
+    {
+      "start": 1422.0,
+      "duration": 6.88,
+      "text": "but still it doesn't expose the our"
+    },
+    {
+      "start": 1426.64,
+      "duration": 3.76,
+      "text": "domain. It exposes directly our"
+    },
+    {
+      "start": 1428.88,
+      "duration": 4.0,
+      "text": "database."
+    },
+    {
+      "start": 1430.4,
+      "duration": 4.56,
+      "text": "I mean if we do that we can basically"
+    },
+    {
+      "start": 1432.88,
+      "duration": 4.64,
+      "text": "send the client the database do whatever"
+    },
+    {
+      "start": 1434.96,
+      "duration": 5.92,
+      "text": "you need to do learn a bit SQL and send"
+    },
+    {
+      "start": 1437.52,
+      "duration": 5.12,
+      "text": "it back to us or MongoDB whatever it"
+    },
+    {
+      "start": 1440.88,
+      "duration": 5.12,
+      "text": "uses."
+    },
+    {
+      "start": 1442.64,
+      "duration": 6.32,
+      "text": "So, and this is an another thing. So,"
+    },
+    {
+      "start": 1446.0,
+      "duration": 5.36,
+      "text": "this first four patterns were kind of in"
+    },
+    {
+      "start": 1448.96,
+      "duration": 4.88,
+      "text": "pairs. We have one side of the coin, the"
+    },
+    {
+      "start": 1451.36,
+      "duration": 7.08,
+      "text": "other side of the coin. This one is one"
+    },
+    {
+      "start": 1453.84,
+      "duration": 4.6,
+      "text": "I see again and again and again"
+    },
+    {
+      "start": 1458.8,
+      "duration": 6.48,
+      "text": "when we have"
+    },
+    {
+      "start": 1462.0,
+      "duration": 5.68,
+      "text": "some domain like most domains actually"
+    },
+    {
+      "start": 1465.28,
+      "duration": 4.08,
+      "text": "when we have objects that contain other"
+    },
+    {
+      "start": 1467.68,
+      "duration": 3.84,
+      "text": "objects that contain other objects that"
+    },
+    {
+      "start": 1469.36,
+      "duration": 6.08,
+      "text": "relate to third objects which is okay."
+    },
+    {
+      "start": 1471.52,
+      "duration": 6.72,
+      "text": "That's our domain model. But some times"
+    },
+    {
+      "start": 1475.44,
+      "duration": 5.84,
+      "text": "we want to put all of that inside the"
+    },
+    {
+      "start": 1478.24,
+      "duration": 6.88,
+      "text": "URL. Sometimes it makes sense. But try"
+    },
+    {
+      "start": 1481.28,
+      "duration": 6.56,
+      "text": "not to go overboard. It sometimes can"
+    },
+    {
+      "start": 1485.12,
+      "duration": 8.0,
+      "text": "look like a language. We invented"
+    },
+    {
+      "start": 1487.84,
+      "duration": 7.44,
+      "text": "another protocol inside our protocol. So"
+    },
+    {
+      "start": 1493.12,
+      "duration": 5.36,
+      "text": "for example, a lot of you have seen like"
+    },
+    {
+      "start": 1495.28,
+      "duration": 6.0,
+      "text": "this APIs like this. We have a library"
+    },
+    {
+      "start": 1498.48,
+      "duration": 5.6,
+      "text": "that has a library and that library has"
+    },
+    {
+      "start": 1501.28,
+      "duration": 4.48,
+      "text": "floors and we specify the floor ID and"
+    },
+    {
+      "start": 1504.08,
+      "duration": 4.32,
+      "text": "within that floor we have set different"
+    },
+    {
+      "start": 1505.76,
+      "duration": 4.72,
+      "text": "sections and in those sections we have"
+    },
+    {
+      "start": 1508.4,
+      "duration": 4.08,
+      "text": "shelves and those shelves we have books"
+    },
+    {
+      "start": 1510.48,
+      "duration": 4.4,
+      "text": "and those books have chapters and those"
+    },
+    {
+      "start": 1512.48,
+      "duration": 6.32,
+      "text": "chapters have pages and so on and so"
+    },
+    {
+      "start": 1514.88,
+      "duration": 5.6,
+      "text": "forth. So one single API is something"
+    },
+    {
+      "start": 1518.8,
+      "duration": 4.0,
+      "text": "like"
+    },
+    {
+      "start": 1520.48,
+      "duration": 3.92,
+      "text": "you are basically describing the whole"
+    },
+    {
+      "start": 1522.8,
+      "duration": 4.32,
+      "text": "world"
+    },
+    {
+      "start": 1524.4,
+      "duration": 7.44,
+      "text": "a single point in the whole world. Yeah,"
+    },
+    {
+      "start": 1527.12,
+      "duration": 8.0,
+      "text": "you can do that. But you didn't want to"
+    },
+    {
+      "start": 1531.84,
+      "duration": 5.28,
+      "text": "specify all of this. If you want to do a"
+    },
+    {
+      "start": 1535.12,
+      "duration": 4.56,
+      "text": "drill down, yeah, do a drill down. But"
+    },
+    {
+      "start": 1537.12,
+      "duration": 4.08,
+      "text": "one or two levels is okay. Already on"
+    },
+    {
+      "start": 1539.68,
+      "duration": 4.8,
+      "text": "the third level, it starts getting"
+    },
+    {
+      "start": 1541.2,
+      "duration": 6.64,
+      "text": "confusing. And my biggest problem with"
+    },
+    {
+      "start": 1544.48,
+      "duration": 5.68,
+      "text": "this is that usually it it's never"
+    },
+    {
+      "start": 1547.84,
+      "duration": 4.64,
+      "text": "secured properly"
+    },
+    {
+      "start": 1550.16,
+      "duration": 3.92,
+      "text": "because now if we have three parameters,"
+    },
+    {
+      "start": 1552.48,
+      "duration": 4.16,
+      "text": "we're going to need to check whether"
+    },
+    {
+      "start": 1554.08,
+      "duration": 4.56,
+      "text": "that floor belongs to that library,"
+    },
+    {
+      "start": 1556.64,
+      "duration": 3.84,
+      "text": "whether that section belongs to the"
+    },
+    {
+      "start": 1558.64,
+      "duration": 4.16,
+      "text": "floor to the floor, whether that section"
+    },
+    {
+      "start": 1560.48,
+      "duration": 4.24,
+      "text": "belongs to the library. What happens if"
+    },
+    {
+      "start": 1562.8,
+      "duration": 4.32,
+      "text": "we have access to the library but don't"
+    },
+    {
+      "start": 1564.72,
+      "duration": 4.32,
+      "text": "have access to the floor?"
+    },
+    {
+      "start": 1567.12,
+      "duration": 3.68,
+      "text": "or even worse if we have access to the"
+    },
+    {
+      "start": 1569.04,
+      "duration": 4.24,
+      "text": "floor but we actually don't have access"
+    },
+    {
+      "start": 1570.8,
+      "duration": 4.8,
+      "text": "to the library."
+    },
+    {
+      "start": 1573.28,
+      "duration": 4.16,
+      "text": "So those are lots and lots and lots of"
+    },
+    {
+      "start": 1575.6,
+      "duration": 5.36,
+      "text": "questions that will need to be handled"
+    },
+    {
+      "start": 1577.44,
+      "duration": 6.16,
+      "text": "in some security code. So now we will"
+    },
+    {
+      "start": 1580.96,
+      "duration": 4.4,
+      "text": "either need to have a security hole in"
+    },
+    {
+      "start": 1583.6,
+      "duration": 4.64,
+      "text": "this call or we will need to have"
+    },
+    {
+      "start": 1585.36,
+      "duration": 6.32,
+      "text": "something like 100 lines of code which"
+    },
+    {
+      "start": 1588.24,
+      "duration": 5.68,
+      "text": "all say if useer roll user roll and"
+    },
+    {
+      "start": 1591.68,
+      "duration": 5.52,
+      "text": "raster model already told you that you"
+    },
+    {
+      "start": 1593.92,
+      "duration": 5.52,
+      "text": "should not do that. That is another"
+    },
+    {
+      "start": 1597.2,
+      "duration": 4.4,
+      "text": "error. Authentication should be done"
+    },
+    {
+      "start": 1599.44,
+      "duration": 5.92,
+      "text": "somehow magically otherwise you're doing"
+    },
+    {
+      "start": 1601.6,
+      "duration": 5.6,
+      "text": "it wrong and it will have security call."
+    },
+    {
+      "start": 1605.36,
+      "duration": 5.04,
+      "text": "Yeah, by magically I mean an annotation"
+    },
+    {
+      "start": 1607.2,
+      "duration": 6.4,
+      "text": "or something like that. So we can have"
+    },
+    {
+      "start": 1610.4,
+      "duration": 5.92,
+      "text": "this rational null nesting scheme."
+    },
+    {
+      "start": 1613.6,
+      "duration": 5.76,
+      "text": "Don't do it. It's fine up to a point,"
+    },
+    {
+      "start": 1616.32,
+      "duration": 6.96,
+      "text": "but if you have three or more levels,"
+    },
+    {
+      "start": 1619.36,
+      "duration": 5.92,
+      "text": "it's kind of going overboard."
+    },
+    {
+      "start": 1623.28,
+      "duration": 6.08,
+      "text": "And the last two that I'm going to"
+    },
+    {
+      "start": 1625.28,
+      "duration": 7.04,
+      "text": "mention are somewhere on the borderline"
+    },
+    {
+      "start": 1629.36,
+      "duration": 4.96,
+      "text": "between an error and an anti-attern"
+    },
+    {
+      "start": 1632.32,
+      "duration": 4.08,
+      "text": "in the sense that there are some"
+    },
+    {
+      "start": 1634.32,
+      "duration": 4.72,
+      "text": "scenario when this is actually a good"
+    },
+    {
+      "start": 1636.4,
+      "duration": 6.08,
+      "text": "idea but very few mostly if you go this"
+    },
+    {
+      "start": 1639.04,
+      "duration": 7.52,
+      "text": "route you're doing it wrong."
+    },
+    {
+      "start": 1642.48,
+      "duration": 6.72,
+      "text": "So if we have a server that is"
+    },
+    {
+      "start": 1646.56,
+      "duration": 6.56,
+      "text": "almost stateless."
+    },
+    {
+      "start": 1649.2,
+      "duration": 6.64,
+      "text": "Yeah, we are stateless, but it's very"
+    },
+    {
+      "start": 1653.12,
+      "duration": 6.4,
+      "text": "easy to basically catch the current page"
+    },
+    {
+      "start": 1655.84,
+      "duration": 7.28,
+      "text": "and just have a simple uh"
+    },
+    {
+      "start": 1659.52,
+      "duration": 6.56,
+      "text": "call to get to the next page. So, we're"
+    },
+    {
+      "start": 1663.12,
+      "duration": 5.6,
+      "text": "going to store some temporary session"
+    },
+    {
+      "start": 1666.08,
+      "duration": 4.16,
+      "text": "state on the back end. Yeah, it's not"
+    },
+    {
+      "start": 1668.72,
+      "duration": 4.4,
+      "text": "going to be important. It's not going to"
+    },
+    {
+      "start": 1670.24,
+      "duration": 5.92,
+      "text": "be easy but that means we're losing item"
+    },
+    {
+      "start": 1673.12,
+      "duration": 5.84,
+      "text": "potency forget which is a huge thing"
+    },
+    {
+      "start": 1676.16,
+      "duration": 6.8,
+      "text": "because we're lo losing caching. Now"
+    },
+    {
+      "start": 1678.96,
+      "duration": 5.76,
+      "text": "suddenly a request does not describe the"
+    },
+    {
+      "start": 1682.96,
+      "duration": 3.68,
+      "text": "response."
+    },
+    {
+      "start": 1684.72,
+      "duration": 3.52,
+      "text": "If you put the request you will get one"
+    },
+    {
+      "start": 1686.64,
+      "duration": 3.36,
+      "text": "response. If you put the request again"
+    },
+    {
+      "start": 1688.24,
+      "duration": 4.0,
+      "text": "oh this is your second get on that"
+    },
+    {
+      "start": 1690.0,
+      "duration": 5.04,
+      "text": "endpoint. So you're going to get a bit"
+    },
+    {
+      "start": 1692.24,
+      "duration": 6.08,
+      "text": "of a different data."
+    },
+    {
+      "start": 1695.04,
+      "duration": 6.32,
+      "text": "And we're again tying the back end to"
+    },
+    {
+      "start": 1698.32,
+      "duration": 5.28,
+      "text": "the front end. The user cannot lose the"
+    },
+    {
+      "start": 1701.36,
+      "duration": 6.72,
+      "text": "session or do something like that and"
+    },
+    {
+      "start": 1703.6,
+      "duration": 5.92,
+      "text": "just resume working. A URL does not show"
+    },
+    {
+      "start": 1708.08,
+      "duration": 4.64,
+      "text": "everything that we have in the"
+    },
+    {
+      "start": 1709.52,
+      "duration": 6.24,
+      "text": "application basically. So we're tightly"
+    },
+    {
+      "start": 1712.72,
+      "duration": 5.76,
+      "text": "coupling something that we started from"
+    },
+    {
+      "start": 1715.76,
+      "duration": 4.72,
+      "text": "the get-go to decouple"
+    },
+    {
+      "start": 1718.48,
+      "duration": 5.2,
+      "text": "and then we kind of do it a backdoor"
+    },
+    {
+      "start": 1720.48,
+      "duration": 5.12,
+      "text": "coupling. So that is important not to do"
+    },
+    {
+      "start": 1723.68,
+      "duration": 4.32,
+      "text": "it. There might be some scenarios where"
+    },
+    {
+      "start": 1725.6,
+      "duration": 5.68,
+      "text": "this is a good idea,"
+    },
+    {
+      "start": 1728.0,
+      "duration": 6.0,
+      "text": "but make sure that this is your case. In"
+    },
+    {
+      "start": 1731.28,
+      "duration": 6.32,
+      "text": "most of the cases, you're just doing it"
+    },
+    {
+      "start": 1734.0,
+      "duration": 5.84,
+      "text": "wrong and you shouldn't do that. And a"
+    },
+    {
+      "start": 1737.6,
+      "duration": 4.96,
+      "text": "perennial favorite"
+    },
+    {
+      "start": 1739.84,
+      "duration": 4.88,
+      "text": "is that when we speak about APIs, REST"
+    },
+    {
+      "start": 1742.56,
+      "duration": 4.96,
+      "text": "APIs, we speak about methods, we speak"
+    },
+    {
+      "start": 1744.72,
+      "duration": 5.52,
+      "text": "about URLs, but we forget that there is"
+    },
+    {
+      "start": 1747.52,
+      "duration": 6.32,
+      "text": "another part in the request that is just"
+    },
+    {
+      "start": 1750.24,
+      "duration": 6.48,
+      "text": "as useful, the headers."
+    },
+    {
+      "start": 1753.84,
+      "duration": 6.4,
+      "text": "The headers are basically negotiation"
+    },
+    {
+      "start": 1756.72,
+      "duration": 5.92,
+      "text": "between the client and the server and we"
+    },
+    {
+      "start": 1760.24,
+      "duration": 4.88,
+      "text": "can use them to communicate as well. The"
+    },
+    {
+      "start": 1762.64,
+      "duration": 6.16,
+      "text": "URL is not the only place when you can"
+    },
+    {
+      "start": 1765.12,
+      "duration": 6.16,
+      "text": "put everything. So you've seen a lot of"
+    },
+    {
+      "start": 1768.8,
+      "duration": 6.16,
+      "text": "APIs that has a question mark and then"
+    },
+    {
+      "start": 1771.28,
+      "duration": 5.76,
+      "text": "you put in basically a whole novel"
+    },
+    {
+      "start": 1774.96,
+      "duration": 4.64,
+      "text": "and most of those things can be put in"
+    },
+    {
+      "start": 1777.04,
+      "duration": 4.56,
+      "text": "the headers. Whether any specific thing"
+    },
+    {
+      "start": 1779.6,
+      "duration": 4.88,
+      "text": "should be put in a header or not. It's"
+    },
+    {
+      "start": 1781.6,
+      "duration": 4.88,
+      "text": "up to your domain and your code. But"
+    },
+    {
+      "start": 1784.48,
+      "duration": 4.0,
+      "text": "basically we should use version. We"
+    },
+    {
+      "start": 1786.48,
+      "duration": 5.68,
+      "text": "could use versioning header, content"
+    },
+    {
+      "start": 1788.48,
+      "duration": 5.84,
+      "text": "type headers, content policy headers in"
+    },
+    {
+      "start": 1792.16,
+      "duration": 4.4,
+      "text": "security. We can use custom headers to"
+    },
+    {
+      "start": 1794.32,
+      "duration": 5.04,
+      "text": "communicate with a specific front end."
+    },
+    {
+      "start": 1796.56,
+      "duration": 5.28,
+      "text": "If we want to do something the X request"
+    },
+    {
+      "start": 1799.36,
+      "duration": 5.04,
+      "text": "ID for example, if we want to define"
+    },
+    {
+      "start": 1801.84,
+      "duration": 5.36,
+      "text": "what is happening. So we are allowed to"
+    },
+    {
+      "start": 1804.4,
+      "duration": 6.96,
+      "text": "use whatever we want that is part of the"
+    },
+    {
+      "start": 1807.2,
+      "duration": 7.52,
+      "text": "request use it as a part of the request."
+    },
+    {
+      "start": 1811.36,
+      "duration": 6.8,
+      "text": "So in conclusion"
+    },
+    {
+      "start": 1814.72,
+      "duration": 5.44,
+      "text": "uh basically think about what you do"
+    },
+    {
+      "start": 1818.16,
+      "duration": 4.08,
+      "text": "have a vision when you're building an"
+    },
+    {
+      "start": 1820.16,
+      "duration": 5.28,
+      "text": "API have a vision of how this going to"
+    },
+    {
+      "start": 1822.24,
+      "duration": 6.56,
+      "text": "be used. Write the docs of course"
+    },
+    {
+      "start": 1825.44,
+      "duration": 5.36,
+      "text": "generate them and be aware there is no"
+    },
+    {
+      "start": 1828.8,
+      "duration": 4.4,
+      "text": "correct way to do this. There is no"
+    },
+    {
+      "start": 1830.8,
+      "duration": 5.44,
+      "text": "silver bullet. Think about your domain"
+    },
+    {
+      "start": 1833.2,
+      "duration": 6.64,
+      "text": "model. Think about your users. You will"
+    },
+    {
+      "start": 1836.24,
+      "duration": 6.48,
+      "text": "fail as I have I. But use that as a"
+    },
+    {
+      "start": 1839.84,
+      "duration": 5.84,
+      "text": "checklist for the next time."
+    },
+    {
+      "start": 1842.72,
+      "duration": 5.44,
+      "text": "So that's kind of all that I had. You"
+    },
+    {
+      "start": 1845.68,
+      "duration": 7.32,
+      "text": "can always contact me on any social"
+    },
+    {
+      "start": 1848.16,
+      "duration": 4.84,
+      "text": "network if you have any questions."
+    },
+    {
+      "start": 1853.12,
+      "duration": 4.76,
+      "text": "Let's give a big round of applause to"
+    },
+    {
+      "start": 1854.88,
+      "duration": 3.0,
+      "text": "Veoslav."
+    }
+  ]
+}
