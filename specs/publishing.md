@@ -92,7 +92,7 @@ Live site: <https://ppruchnerovic.github.io/ai-talks-universe/>, served from
 
 | Path | Status | Notes |
 |---|---|---|
-| `conferences.json`, `ai-conferences.md`, `index.html`, `*.md`, `.claude/skills/` | committed, hand-edited | source |
+| `conferences.json`, `ai-conferences.md`, `index.html`, `*.md`, `.claude/skills/`, `.agents/skills/` | committed, hand-edited | source |
 | `data/catalog/*.json` (53), `data/seeds/wearedevelopers-wwc26.json`, `data/infoq/*.json` (15) | committed | enumeration caches and seeds; rewritten by `sync_catalog.py --refresh` / `infoq.py` |
 | `data/transcripts/<id>.json` (3,175 files incl. `_misses.json`) | committed | fetched on a real machine, never in CI; `_misses.json` is bookkeeping and is stripped from the site |
 | `data/talks.json`, `data/talks.csv`, `talks/<conf>/<id>-<slug>.md` (9,048) | committed, **generated** by `sync_catalog.py` | byte-identical on rerun; `generated_at` moves only when the corpus does |

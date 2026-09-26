@@ -4,7 +4,7 @@
 
 The current system map for changes spanning pipeline stages or readers.
 The app collects conference listings and transcripts into a static corpus,
-then serves it through a browser, terminal tools, and a Claude Code skill.
+then serves it through a browser, terminal tools, and a shared agent skill.
 There is no application server or browser-side collection pipeline.
 
 This spec owns the system boundary diagrams and the directory of contracts
@@ -32,7 +32,7 @@ flowchart LR
     BUILD --> DB["talks.db"]
     BUILD --> WEBIDX["search-meta.json and tindex/"]
     DB --> CLI["query.py and excerpt.py"]
-    CLI --> SKILL["Claude Code skill"]
+    CLI --> SKILL["shared agent skill"]
     WEBIDX --> WEB["index.html on GitHub Pages"]
     CACHE -- "transcripts on demand" --> WEB
     CORPUS -. "explicit optional embedding build" .-> SEM["data/embeddings/"]

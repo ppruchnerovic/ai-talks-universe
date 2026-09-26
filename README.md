@@ -46,12 +46,18 @@ itself, so `--depth 1` saves little.
 An optional semantic layer (`tools/install_semantic.sh`, static embeddings,
 no torch) adds matching by meaning and is fused into the same ranking.
 
-## Ask it questions with Claude Code
+## Ask it questions with an AI agent
 
-The `ai-conference-talks` skill under `.claude/skills/` loads in any Claude
-Code session started in this directory. Ask *what do speakers at different
+The `ai-conference-talks` skill supports Claude Code, GitHub Copilot, Codex,
+OpenCode and Gemini CLI. Open this repository in your agent and ask
+*Use ai-conference-talks: what do speakers at different
 conferences say about agent reliability* and it searches, reads the matching
 passages and compares the positions, citing talk and timestamp.
+
+The instructions live in `.claude/skills/ai-conference-talks/SKILL.md`, with a
+shared discovery link under `.agents/skills/`. See the
+[agent setup guide](docs/GUIDE.md#with-an-ai-agent) for supported paths,
+requirements and a fallback for agents without skill discovery.
 
 ## What is in the box
 
@@ -80,7 +86,7 @@ conferences.json ─► sync_catalog.py ─► data/catalog/     every video the
                          ▼  build_index.py (offline)
               data/talks.db · data/search-meta.json · data/tindex/
                          ▼
-      index.html  ·  query.py / excerpt.py  ·  the Claude Code skill
+      index.html  ·  query.py / excerpt.py  ·  the shared agent skill
 ```
 
 Every stage caches to disk and is resumable, so enumeration can be redone

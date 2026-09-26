@@ -19,10 +19,15 @@ description: |
 
 The corpus lives in this repo; every path below is relative to the repo root,
 and every command is written to be run **from the repo root** as
-`python3 tools/query.py …` — a subagent's working directory is reset between
-calls, so `cd tools` does not survive to the next command. If you are working
-from a different checkout, clone
+`python3 tools/query.py …`. Use your agent's shell/terminal tool and set its
+working directory to the repo root on each call; do not assume a previous
+`cd` persists. This skill works with any agent that can read local files and
+run Python 3 with SQLite FTS5 support. It does not require agent-specific tools.
+If you installed the skill separately, locate an `ai-talks-universe` checkout
+containing `tools/query.py` and `data/talks.json`, or clone
 `https://github.com/ppruchnerovic/ai-talks-universe` and run the commands there.
+The skill folder alone does not include the tools or corpus. If your agent
+cannot run commands, say so and ask for query/excerpt output to work from.
 
 ```
 data/talks.json                    canonical records, one per talk
@@ -327,7 +332,8 @@ likelier to be relevant, than another talk read end to end.
 ### Fetching what is missing
 
 If the question turns on a talk whose transcript has not been fetched, you can
-get it — but it is metered, so ask before spending it:
+get it on a local machine — never from a cloud agent or CI. It is metered,
+so ask before spending it unless the user has already authorized that fetch:
 
 ```bash
 python3 tools/fetch_transcripts.py --probe                 # is this network usable?
