@@ -1820,3 +1820,41 @@ was regenerated afterwards on the new corpus — every table in it, including th
 word-frequency counts over all 3,437 transcripts (18,670,301 words, 2,592,578
 segments) and the storage and code tables (14,153 tracked files, 45 code files,
 15,186 lines).
+
+## The refresh of 2026-09-26
+
+Refreshed all registered YouTube listings on the local machine and enriched
+176 records with the YouTube Data API (none unavailable). The refreshed caches
+contain 18,335 videos. No source was stale, and the coverage gate passed:
+176 talks added, none dropped, with gains in every checked metadata field.
+The additions were Ray Summit (100), AI Engineer (55), AI DevCon (9),
+QCon/InfoQ (5), The AI Conference (5), PyData (1) and GOTO (1).
+
+The budgeted Supadata run selected 176 current-year talks: 174 transcripts
+fetched, one members-only recording and one without timed captions recorded
+as misses. No transient or account errors were recorded as misses. The ledger
+advanced from 34 to 210 attempts for September, out of 3,000. The 2026 scope
+has no pending talks: 3,418 total, 3,377 transcript files (3,373 indexed), and
+41 recorded misses. Four existing low-density ASR transcripts remain withheld
+from search by the unchanged 10 words/minute floor.
+
+`python3 tools/query.py --stats` reports **10,007 talks, 3,611 transcripts,
+53 conferences**; 3,380 transcripts have exact timing and 231 have estimated
+timing. The rebuilt SQLite database is 440.7 MiB and contains 1,621,866
+passages. Browser shards total 51.6 MiB across 724 shards; metadata is
+5.71 MiB (95% of the 6 MiB threshold).
+
+Registry and spec-map checks, Ruff and all eight offline suites passed.
+The optional semantic end-to-end block skipped because embeddings are absent.
+Two offline `sync_catalog.py` + `build_index.py` passes produced identical
+SHA-256 manifests, including SQLite, JSON, CSV, Markdown and browser shards.
+The database remains local and ignored. `docs/STATS.md` remains the explicitly
+dated 2026-09-14 snapshot; current headline and operational counts were updated
+in README, GUIDE and STATE.
+
+Browser verification (`node tools/uitest/run.js`, run from its directory)
+completed with 227 checks, zero failures and one skip: the description-unfold
+fixture needs both short and long descriptions, but all current display clips
+are under its 280-character cutoff. Search, ranking and assembled-site checks
+passed. Whitespace verification passed with CSV CRLF endings recognized
+(`git -c core.whitespace=cr-at-eol diff --check`).

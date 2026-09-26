@@ -1,7 +1,7 @@
 {
   "slug": "black-hat",
   "name": "Black Hat",
-  "enumerated_at": "2026-09-13T22:08:26+00:00",
+  "enumerated_at": "2026-09-26T14:28:39+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@BlackHatOfficialYT/videos",
@@ -10,7 +10,7 @@
       "count": 600
     }
   ],
-  "count": 604,
+  "count": 605,
   "videos": {
     "-BCngzJC1Rc": {
       "video_id": "-BCngzJC1Rc",
@@ -342,6 +342,15 @@
       "published_at": "2025-01-17T18:17:06Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:43+00:00"
+    },
+    "1ADD60wyrbg": {
+      "video_id": "1ADD60wyrbg",
+      "title": "Black Hat USA 2026 | Applying Information Retrieval to Vulnerability Research",
+      "duration_s": 1706,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
     },
     "1I8xo-tjJSs": {
       "video_id": "1I8xo-tjJSs",

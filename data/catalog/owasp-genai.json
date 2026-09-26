@@ -1,7 +1,7 @@
 {
   "slug": "owasp-genai",
   "name": "OWASP GenAI Security Project",
-  "enumerated_at": "2026-09-13T22:08:16+00:00",
+  "enumerated_at": "2026-09-26T14:28:29+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@GenAISecurityProject/videos",
@@ -978,7 +978,7 @@
     "TX_MyfgCK4A": {
       "video_id": "TX_MyfgCK4A",
       "title": "Is AI Really Creating Super Hackers? What the Evidence Actually Shows.",
-      "duration_s": 1259,
+      "duration_s": 1260,
       "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
       "year": null,

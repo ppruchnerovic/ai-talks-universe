@@ -1,7 +1,7 @@
 {
   "slug": "goto",
   "name": "GOTO Conferences",
-  "enumerated_at": "2026-09-13T22:07:37+00:00",
+  "enumerated_at": "2026-09-26T14:27:43+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@GOTO-/videos",
@@ -10,7 +10,7 @@
       "count": 800
     }
   ],
-  "count": 800,
+  "count": 803,
   "videos": {
     "-5kK50d-duc": {
       "video_id": "-5kK50d-duc",
@@ -8992,6 +8992,39 @@
       ],
       "details_at": "2026-09-06T13:23:56+00:00"
     },
+    "JJ0taiCnPGA": {
+      "video_id": "JJ0taiCnPGA",
+      "title": "The Skills That Matter When AI Changes What Good Looks Like • Serena H. Huang • GOTO 2026",
+      "duration_s": 2959,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos",
+      "description": "This presentation was recorded at GOTO Chicago 2026. #GOTOcon #GOTOchgo\nhttps://gotochgo.com\n\nSerena H. Huang - Founder of Data with Serena\n\nORIGINAL TALK TITLE\nHow to Stay Human in the Age of AI - The Skills That Matter When AI Changes What Good Looks Like\n\nRESOURCES\nhttps://www.linkedin.com/in/serenahhuangphd\nhttps://www.datawithserena.com\n\nABSTRACT\nAI did not just change how software gets built. It also changed what good looks like.\n\nAs AI accelerates execution, the differentiators are shifting. The developers and leaders who thrive in an AI-powered world will not necessarily be the people who produce the most output. They will be the clearest thinkers, the fastest learners, the people others trust when the answers are unclear, and the ones who can adapt before they are forced to.\n\nThat shift has major implications for how organizations evaluate talent, develop leaders, and decide who advances. It also changes the equation for individual contributors. Your future is not on your manager’s roadmap. Increasingly, the capabilities that shape careers are the ones AI struggles to replicate and organizations still struggle to measure.\n\nIn this closing keynote, Dr. Serena H. Huang draws on a decade of deploying AI inside some of the world’s largest organizations to explore what becomes more valuable as AI becomes more capable, and why the future may depend less on keeping up with technology and more on strengthening the distinctly human skills that AI cannot replace. [...]\n\nTIMECODES\n00:00 Intro\n\nDownload slides and read the full abstract here:\nhttps://gotochgo.com/accelerate-chicago-2026/sessions/4074\n\nRECOMMENDED BOOKS\nSerena H. Huang • The Inclusion Equation • https://amzn.to/4h9RyfB\nJohn Z. Sonmez • Soft Skills • https://amzn.to/4cThqJR\n\nhttps://bsky.app/profile/gotocon.com\nhttps://www.linkedin.com/company/goto-\nhttps://www.instagram.com/goto_con\nhttps://www.facebook.com/GOTOConferences\n#Skills #GenAI #AICoaches #GenerativeAI #Programming #SoftwareEngineering #TodayInTech #SerenaHHuang #GOTO \n\nCHANNEL MEMBERSHIP BONUS\nJoin this channel to get early access to videos & other perks:\nhttps://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA/join\n\nLooking for a unique learning experience?\nAttend the next GOTO conference near you! Get your ticket at https://gotopia.tech\nSign up for updates and specials at https://gotopia.tech/newsletter\n\nSUBSCRIBE TO OUR CHANNEL - new videos posted almost daily.\nhttps://www.youtube.com/user/GotoConferences/?sub_confirmation=1",
+      "published_at": "2026-09-23T14:42:28Z",
+      "tags": [
+        "GOTO",
+        "GOTOcon",
+        "GOTO Conference",
+        "GOTO (Software Conference)",
+        "Videos for Developers",
+        "Computer Science",
+        "Programming",
+        "Software Engineering",
+        "GOTOpia",
+        "Tech",
+        "Software Development",
+        "Tech Channel",
+        "Tech Conference",
+        "Today in Tech",
+        "GOTOchgo",
+        "GOTO Chicago",
+        "Serena H. Huang",
+        "GenAI",
+        "Skills"
+      ],
+      "details_at": "2026-09-26T14:31:26+00:00"
+    },
     "JL38YBogo2Y": {
       "video_id": "JL38YBogo2Y",
       "title": "A Deep Dive into the Past, Present & Future of OAuth • Aaron Parecki • GOTO 2024",
@@ -17400,6 +17433,15 @@
       ],
       "details_at": "2026-09-06T13:23:57+00:00"
     },
+    "ad7i3NN8cXI": {
+      "video_id": "ad7i3NN8cXI",
+      "title": "C++26 for Lazy Programmers • Will Briggs & Todd Montgomery • GOTO 2026",
+      "duration_s": 1705,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "aejmi16BFnE": {
       "video_id": "aejmi16BFnE",
       "title": "Efficient Reliable Database Migration: A Legacy Innovation Story • Dave Thomas • GOTO 2024",
@@ -22221,6 +22263,15 @@
         "Today in Tech"
       ],
       "details_at": "2026-09-06T13:23:58+00:00"
+    },
+    "mfWRYv2V71k": {
+      "video_id": "mfWRYv2V71k",
+      "title": "Thinking in Platforms • Kasper von Grünberg & Luca Galante • GOTO 2026",
+      "duration_s": 2009,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "miUbs3mqPJE": {
       "video_id": "miUbs3mqPJE",

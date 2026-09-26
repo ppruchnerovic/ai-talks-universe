@@ -1,16 +1,16 @@
 {
   "slug": "the-ai-conference",
   "name": "The AI Conference",
-  "enumerated_at": "2026-09-13T22:07:02+00:00",
+  "enumerated_at": "2026-09-26T14:27:07+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@aiconference/videos",
       "label": "The AI Conference",
       "year": null,
-      "count": 186
+      "count": 191
     }
   ],
-  "count": 186,
+  "count": 191,
   "videos": {
     "-drke88NhrQ": {
       "video_id": "-drke88NhrQ",
@@ -24,6 +24,19 @@
       "published_at": "2026-09-11T16:32:59Z",
       "tags": [],
       "details_at": "2026-09-13T22:11:21+00:00"
+    },
+    "0OINWeJ-Dq8": {
+      "video_id": "0OINWeJ-Dq8",
+      "title": "Philip Rathle, Neo4j: The State of Graph AI: GraphRAG, Klarna, and beyond!",
+      "duration_s": 902,
+      "channel": "The AI Conference™",
+      "label": "The AI Conference",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Philip Rathle, CTO, Neo4j\n\nThe State of Graph AI: GraphRAG, Klarna, and beyond!       \n\nOver the last year, the use of knowledge graphs in AI has exploded. The need for AI knowledge and agentic memory has driven companies like Klarna, Walmart, and Uber to use graph databases at the heart of their AI infrastructure. GraphRAG is becoming a popular way of solving for accuracy, explainability, and governance. Graph data science offers myriad signals that can be used to better understand, predict, and engage with your world. In this talk, Neo4j’s CTO will recap key techniques and latest advances in graph AI, when they are proving to boost AI success, and how to best get started.        \n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-09-21T23:29:39Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "0Uqpb5Eoic4": {
       "video_id": "0Uqpb5Eoic4",
@@ -727,6 +740,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:35+00:00"
     },
+    "LiTLzaT18E8": {
+      "video_id": "LiTLzaT18E8",
+      "title": "Philip Kely, Baseten: Real-Time, Real Problems: Scaling AI in the Wild",
+      "duration_s": 1351,
+      "channel": "The AI Conference™",
+      "label": "The AI Conference",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Philip Kely, Lead Developer Advocate, Baseten\n\nReal-Time, Real Problems: Scaling AI in the Wild\n\nReal-time generative AI applications promise transformative user experiences—but scaling inference in production is a constant battle. Demand spikes, infrastructure meltdowns, and unpredictable model behaviors lurk behind every release. Drawing from direct experience deploying mission-critical AI workloads at startups and large enterprises, this talk covers the four essential components of a production-ready inference platform: applied model performance research, distributed multi-cloud infrastructure, model management and observability tooling, and AI engineering expertise. I'll highlight common pitfalls and share concrete advice on how to build robust, resilient systems that thrive under real-world demand.\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-09-21T23:30:01Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "MKueCgw55rY": {
       "video_id": "MKueCgw55rY",
       "title": "Speeding Up AI/ML WorkloadsBy Eliminating Packet Delays TCP+Ethernet Networks, Vinay Sriram",
@@ -752,6 +778,19 @@
       "published_at": "2023-10-31T16:51:24Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "McCmMX9MKDA": {
+      "video_id": "McCmMX9MKDA",
+      "title": "Sam Julien, Writer: Understanding the Agent Development Lifecycle in the Enterprise",
+      "duration_s": 1334,
+      "channel": "The AI Conference™",
+      "label": "The AI Conference",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Sam Julien, Director, Developer Relations, Writer\n\nUnderstanding the Agent Development Lifecycle in the Enterprise\n\nThe traditional software development lifecycle (SDLC) is breaking under the weight of agentic AI systems—tools that are outcome-driven, adaptive, and non-deterministic. In this session, we introduce the Agent Development Lifecycle (ADLC), a new methodology shaped by real-world deployments across thousands of leading enterprises. We’ll break down the first principles that shift your mental model from building software to developing agents, examine the evolving role of the software engineer, and explore how to navigate the tension between business ambition and production reality. Attendees will leave with practical frameworks for moving beyond demos and POCs to building agents that deliver measurable outcomes at an enterprise scale.\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-09-21T23:29:56Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "N6S-DZPXI40": {
       "video_id": "N6S-DZPXI40",
@@ -1338,6 +1377,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:35+00:00"
     },
+    "aTyWVgc1sMQ": {
+      "video_id": "aTyWVgc1sMQ",
+      "title": "Jeff Boudier, Hugging Face: From models to agents",
+      "duration_s": 1321,
+      "channel": "The AI Conference™",
+      "label": "The AI Conference",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Jeff Boudier, VP of Product, Hugging Face\n\nFrom models to agents - how the world builds its own AI with open source, and how to keep up with it\n\nJoin Jeff, head of product at Hugging Face, and discover the latest AI models and agents through the lens of the world's largest open model platform. Drawing from the usage of millions of AI builders, Jeff will dive into how companies are transitioning from basic model deployment to building sophisticated AI agents. \nThrough practical examples, \n- learn how organizations combine open foundation models with tools on enterprise infrastructure to build their own AI, from prototype to production.\n- understand key trends and patterns in AI agent and model adoption based on data from over 200,000 organizations building with open models on Hugging Face\n- get practical tips to never miss an important new model, library or tool on Hugging Face\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-09-21T23:30:04Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "a_fQwPfT0nk": {
       "video_id": "a_fQwPfT0nk",
       "title": "Vector Databases, the Unsung Hero of AI, Yujian Tang, Developer Advocate, Zilliz",
@@ -1899,6 +1951,19 @@
       "published_at": "2025-06-16T20:20:12Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "oXAyn-ajfak": {
+      "video_id": "oXAyn-ajfak",
+      "title": "Adam Pingel, AI Alliance: Human/Agent Co-Creation of Shared Knowledge with Semiont",
+      "duration_s": 1171,
+      "channel": "The AI Conference™",
+      "label": "The AI Conference",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "Adam Pingel, Head of Open Tools and Applications, AI Alliance\n\nHuman/Agent Co-Creation of Shared Knowledge with Semiont\n\nSemiont is a new open-source framework from the AI Alliance that enables humans and intelligent agents to co-create shared knowledge — governed by you and built to last. At its core, Semiont supports the simultaneous co-creation of a wiki and a knowledge graph, allowing text and structured relationships to evolve side by side. On top of this foundation, Semiont provides powerful retrieval and contextualization, drawing on the principles of GraphRAG (Graph-based Retrieval-Augmented Generation).\nBy weaving together collaborative editing with graph-grounded semantics, Semiont provides a durable framework for meaning-making that goes beyond static documentation or siloed AI memory. Humans and intelligent agents can jointly annotate, connect, and refine entities and relationships, while operators retain full control over what is shared and preserved.\nIn this talk, I will introduce the core principles behind Semiont, demonstrate its workflows, review its roadmap, and explore the broader implications for sustainable knowledge infrastructure in the age of AI.\n\nSubscribe to our channel for the latest news and announcements. 🚀\n\nLearn More: https://aiconference.com/\n🛎️ Remember to hit the bell icon to stay notified!\n\nFollow The AI Conference\nInstagram:   https://www.instagram.com/aiconference\nFacebook:    https://www.facebook.com/AIconference/\nLinkedIn:      https://www.linkedin.com/company/theaiconference/\nTwitter:         https://twitter.com/aiconference\n\n© The AI Conference 2025\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-09-21T23:29:43Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "ol6VUYrjgFU": {
       "video_id": "ol6VUYrjgFU",

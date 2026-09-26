@@ -1,7 +1,7 @@
 {
   "slug": "apple-wwdc",
   "name": "Apple WWDC",
-  "enumerated_at": "2026-09-13T22:09:34+00:00",
+  "enumerated_at": "2026-09-26T14:29:52+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM",
@@ -1901,7 +1901,7 @@
     "ieX4Sbfpz0s": {
       "video_id": "ieX4Sbfpz0s",
       "title": "WWDC25: Enhancing your camera experience with capture controls | Apple",
-      "duration_s": 1160,
+      "duration_s": 1161,
       "channel": "Apple Developer",
       "label": "WWDC25",
       "year": 2025,

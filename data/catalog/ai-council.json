@@ -1,7 +1,7 @@
 {
   "slug": "ai-council",
   "name": "AI Council (formerly Data Council)",
-  "enumerated_at": "2026-09-13T22:07:18+00:00",
+  "enumerated_at": "2026-09-26T14:27:22+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/c/DataCouncil/videos",
@@ -2789,7 +2789,7 @@
     "Eqqd7kGD1BM": {
       "video_id": "Eqqd7kGD1BM",
       "title": "How Action Bias Breaks Autonomous Software Maintenance | LogicStar.ai",
-      "duration_s": 666,
+      "duration_s": 667,
       "channel": "AI Council",
       "label": "Data Council / AI Council",
       "year": null,
@@ -3129,7 +3129,7 @@
     "HSzRTLSCU94": {
       "video_id": "HSzRTLSCU94",
       "title": "Pricing AI Agents | Orb",
-      "duration_s": 2014,
+      "duration_s": 2015,
       "channel": "AI Council",
       "label": "Data Council / AI Council",
       "year": null,
@@ -8369,7 +8369,7 @@
     },
     "o-y1HJ6buGQ": {
       "video_id": "o-y1HJ6buGQ",
-      "title": "AI: too good to be true, too bad to be useful | TypeSafe AI",
+      "title": "Jev: ChatGPT Co-Creator’s Answer to RLHF",
       "duration_s": 2199,
       "channel": "AI Council",
       "label": "Data Council / AI Council",

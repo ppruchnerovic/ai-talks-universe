@@ -1,7 +1,7 @@
 {
   "slug": "qcon-infoq",
   "name": "QCon / InfoQ Dev Summit",
-  "enumerated_at": "2026-09-13T22:06:03+00:00",
+  "enumerated_at": "2026-09-26T14:25:58+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@infoq/videos",
@@ -17,7 +17,7 @@
       "type": "infoq"
     }
   ],
-  "count": 729,
+  "count": 735,
   "videos": {
     "-1_KvpNDC6k": {
       "video_id": "-1_KvpNDC6k",
@@ -69,6 +69,19 @@
       "published_at": "2025-08-11T11:19:32Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:31+00:00"
+    },
+    "-hg4jjaIju8": {
+      "video_id": "-hg4jjaIju8",
+      "title": "Securing AI Agents: Identity, Authorisation, and the DPACT Framework",
+      "duration_s": 2472,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this episode, Sahil Agarwal talks about the critical challenges of identity, authorisation, and security in the age of AI agents. Sahil introduces the DPACT framework (Delegation, Policy, Auditability, Context, and Time) as a blueprint for building responsible, guardrailed agentic systems, moving away from simple token-based access toward bounded, delegated authority.\n\nRead a transcript of this interview:  https://bit.ly/3VuM8TJ  \n\nNewsletter:\nSubscribe to the Software Architects' Newsletter, a monthly roundup of the patterns and technologies senior practitioners are working through, with the news and lessons from people doing the work:\nwww.infoq.com/software-architects-newsletter\n\nInfoQ Online Certification Programs:\n5-week online cohorts for senior engineers and architects, built around QCon talks. Programs now cover software architecture, AI engineering, and organizational architecture. Each week you join a four-hour live session with a confidential peer group of practitioners from other companies, apply frameworks from QCon talks to the decisions you're making at work, and earn an InfoQ certification. You leave with new approaches, or confirmation that the calls you're already making are the right ones. Learn more:\ncertification.qconferences.com/\n\nUpcoming Events:\nQCon San Francisco 2026 (November 16-20, 2026)\nqconsf.com/\n\nQCon London 2027 (April 13-16, 2027)\nqconlondon.com/\n\nThe InfoQ Podcasts:\nWeekly conversations with senior software leaders about how they build systems and teams, including what they'd do differently. Listen to all our podcasts and read interview transcripts:\nThe InfoQ Podcast: www.infoq.com/podcasts/\nEngineering Culture Podcast by InfoQ: www.infoq.com/podcasts/#engineering_culture\nGenerally AI: www.infoq.com/generally-ai-podcast/\n\nFollow InfoQ:\nMastodon: techhub.social/@infoq\nX: x.com/InfoQ\nLinkedIn: www.linkedin.com/company/infoq/\nFacebook: www.facebook.com/InfoQdotcom\nInstagram: www.instagram.com/infoqdotcom/\nYouTube: www.youtube.com/infoq\nBluesky: bsky.app/profile/infoq.com\n\nWrite for InfoQ:\nShare what you've learned building software with a community of senior practitioners, and get your work in front of the people who read InfoQ.\nwww.infoq.com/write-for-infoq",
+      "published_at": "2026-09-21T10:21:26Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:26+00:00"
     },
     "-jaBdv3ECfI": {
       "video_id": "-jaBdv3ECfI",
@@ -829,7 +842,7 @@
     "4lrct1p_YE0": {
       "video_id": "4lrct1p_YE0",
       "title": "Autonomous Marketing at Klaviyo: Architecting Composer and 1:1 Personalization at Scale",
-      "duration_s": 582,
+      "duration_s": 583,
       "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
@@ -2186,13 +2199,13 @@
       "year": 2026,
       "source_url": "https://www.youtube.com/@infoq/videos",
       "description": "Sam Newman discusses the concept of progressive collapse in civil engineering and how it applies to distributed systems. Using real-world examples - from the 1968 Ronan Point tower failure to AWS outages - he shares crucial resilience engineering strategies for software leaders. Learn how to strengthen components, isolate failures, and reduce interconnections to prevent catastrophic cascades.\n\nSam Newman is an independent consultant. Focusing primarily on cloud, microservices architecture, and continuous delivery, he works with companies all over the world. He is an experienced conference speaker and author of the O’Reilly books Monolith To Microservices, Building Microservices, and the forthcoming Building Resilient Distributed Systems.",
+      "published_at": "2026-08-19T11:00:00+0000",
+      "details_at": "2026-09-01T21:24:36+00:00",
       "speakers": [
         "Sam Newman"
       ],
       "page_url": "https://www.infoq.com/presentations/progressive-collapse-system-resilience/",
       "infoq_url": "https://www.infoq.com/presentations/progressive-collapse-system-resilience/",
-      "published_at": "2026-08-19T11:00:00+0000",
-      "details_at": "2026-09-01T21:24:36+00:00",
       "infoq_at": "2026-09-01T21:24:36+00:00"
     },
     "EJIlpIRcNbk": {
@@ -2658,6 +2671,34 @@
         "Trainline"
       ],
       "details_at": "2026-08-31T15:35:31+00:00"
+    },
+    "HnUSurYwp9o": {
+      "video_id": "HnUSurYwp9o",
+      "title": "Anthropic Reliability Engineer EXPOSES the Limits of AI SRE",
+      "duration_s": 2718,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "Can AI actually handle on-call incident response, or is AIOps mostly hype? Alex Palcuie from Anthropic’s AI Reliability team shares a candid look at how Claude is used during real production outages - and why it isn't replacing human SREs anytime soon.\n\nIn this InfoQ talk, Alex breaks down where LLMs are superhuman (like log parsing and anomaly investigation) and where they fail dangerously (such as confusing correlation with causation during complex incidents). Using John Boyd’s OODA Loop framework, he walks through real-world incident case studies, evaluates the SAE autonomy levels applied to software engineering, and outlines 5 practical patterns for integrating LLMs into your incident management workflow today.\n\n⏱️ Video Timestamps (For Navigation)\n00:00 - Introduction & On-Call at Anthropic \n01:30 - Can Claude Really Fix Your Incidents? \n02:40 - The Cynical Take on \"AI SRE\" & Benchmarks \n04:08 - Why We Need to Fix On-Call Culture \n05:15 - The OODA Loop Framework for Incident Response \n06:36 - Where LLMs are Superhuman: Signal Gathering \n07:29 - Case Study 1: Detecting New Year's Eve Fraud \n10:16 - Case Study 2: Investigating Production Rust Panics \n11:13 - Where LLMs Fail: The \"Orient\" Phase & KV Cache Outages \n13:40 - Applying Autonomous Vehicle Levels (SAE) to SRE \n16:13 - 5 Practical AI Patterns for Incident Response \n20:45 - The Long-Term Danger: Engineering Skill Atrophy & Jevons Paradox \n\n🔗 Transcript & slides available on InfoQ:  https://bit.ly/4iEn9Hs      \n   \n#SRE #DevOps #Anthropic #Claude #SoftwareArchitecture #SystemReliability #AIOps #InfoQ",
+      "published_at": "2026-09-21T11:36:27Z",
+      "tags": [
+        "InfoQ",
+        "Incident Response",
+        "Performance",
+        "On-call",
+        "Automation",
+        "Site Reliability Engineering",
+        "Artificial Intelligence",
+        "Transcripts",
+        "QCon London",
+        "Large language models",
+        "Monitoring",
+        "Claude",
+        "Observability",
+        "DevOps"
+      ],
+      "details_at": "2026-09-26T14:31:26+00:00"
     },
     "HnVxmE-kGt4": {
       "video_id": "HnVxmE-kGt4",
@@ -5969,6 +6010,15 @@
       "published_at": "2024-10-03T14:16:21Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:32+00:00"
+    },
+    "cJ8FTxxUGbI": {
+      "video_id": "cJ8FTxxUGbI",
+      "title": "Signals and Levers: Building Thriving Engineering Organizations",
+      "duration_s": 2309,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos"
     },
     "cSlBJ0jq7Zw": {
       "video_id": "cSlBJ0jq7Zw",
@@ -12224,6 +12274,19 @@
       ],
       "details_at": "2026-08-31T15:35:33+00:00"
     },
+    "qkD_KOP9LrQ": {
+      "video_id": "qkD_KOP9LrQ",
+      "title": "How Will We Train Developers If AI Does the Routine Work: A Conversation with Scott Hanselman",
+      "duration_s": 2206,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this podcast Michael Stiefel spoke to Scott Hanselman about developing new software engineers when artificial intelligence agents are doing most of the work on which junior developers were trained. Hanselman suggests the software industry should adopt a preceptorship model similar to the nursing profession. Under this model, the industry needs preceptors whose sole job is to train new engineers, and these preceptors would be evaluated on how well they train people rather than how much code they ship. The use of AI agents requires experienced engineers because while they are capable of generating software features, they perform poorly at software architecture because they often miss the larger context. In addition, engineers must maintain oversight of artificial intelligence tools by acting as reviewers and coordinators to ensure that human judgment remains central to the development process.\n\nThe conversation then broadened to discuss the environment in which agentic AI should be used. When businesses prioritize short term, hyper-optimization, they neglect the longer term investments in human capital and mentorship which will make it impossible to cultivate future senior talent. Beyond that, Hanselman addressed the sociological impacts of modern development, observing that the intersection of remote work, social media, and artificial intelligence severely isolates developers. To counter this isolation and ensure healthy growth, intentional human connection and in-person interactions are vital for the next generation of users and developers of technology.\n\nRead a transcript of this interview: https://bit.ly/4ydBK0H\n\n\nNewsletter:\nSubscribe to the Software Architects' Newsletter, a monthly roundup of the patterns and technologies senior practitioners are working through, with the news and lessons from people doing the work:\nhttps://www.infoq.com/software-architects-newsletter\n\n\nInfoQ Online Certification Programs:\n5-week online cohorts for senior engineers and architects, built around QCon talks. Programs now cover software architecture, AI engineering, and organizational architecture. Each week you join a four-hour live session with a confidential peer group of practitioners from other companies, apply frameworks from QCon talks to the decisions you're making at work, and earn an InfoQ certification. You leave with new approaches, or confirmation that the calls you're already making are the right ones. Learn more:\nhttps://certification.qconferences.com/\n\n\nUpcoming Events:\nQCon San Francisco 2026 (November 16-20, 2026)\nhttps://qconsf.com/\n\n\nQCon London 2027 (April 13-16, 2027)\nhttps://qconlondon.com/\n\n\nThe InfoQ Podcasts:\nWeekly conversations with senior software leaders about how they build systems and teams, including what they'd do differently. Listen to all our podcasts and read interview transcripts:\nThe InfoQ Podcast: https://www.infoq.com/podcasts/\nEngineering Culture Podcast by InfoQ: https://www.infoq.com/podcasts/#engineering_culture\nGenerally AI: https://www.infoq.com/generally-ai-podcast/\n\n\nFollow InfoQ:\nMastodon: https://techhub.social/@infoq\nX: https://x.com/InfoQ\nLinkedIn: https://www.linkedin.com/company/infoq/\nFacebook: https://www.facebook.com/InfoQdotcom\nInstagram: https://www.instagram.com/infoqdotcom/\nYouTube: https://www.youtube.com/infoq\nBluesky: https://bsky.app/profile/infoq.com\n\nWrite for InfoQ:\nShare what you've learned building software with a community of senior practitioners, and get your work in front of the people who read InfoQ.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2026-09-14T10:20:52Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:26+00:00"
+    },
     "qsfiCUIx2-Q": {
       "video_id": "qsfiCUIx2-Q",
       "title": "Five Steps to Building a Personal Brand for Elevating Your Influence",
@@ -12582,6 +12645,19 @@
         "Engineering Leadership"
       ],
       "details_at": "2026-08-31T15:35:33+00:00"
+    },
+    "u27KYW4Gg0o": {
+      "video_id": "u27KYW4Gg0o",
+      "title": "The Future of AI: From Enterprise Adoption to Open Source Sovereignty",
+      "duration_s": 3144,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this episode, a panel of AI experts, Meryem Arik (DoubleWord), Clara Higuera Cabañes (BBVA), and Jeff Smith (C Proof), demystify the current state of AI in the enterprise. The discussion navigates the \"industrial revolution\" moment in AI adoption, exploring why companies are rushing toward these technologies to maintain competitive advantages while grappling with reliability, ethical considerations, and the evolving role of software engineering.\n\nThe conversation highlights the growing tension between proprietary models like Claude and the rise of high-quality open-source alternatives. The guests delve into the technical debt of \"generative code,\" the shift from deterministic to non-deterministic programming, and the critical need for sovereignty over the software supply chain. From local LLM usage to the next wave of \"structuralist AI,\" this episode provides a roadmap for businesses and developers looking to navigate the complex AI landscape.\n\nRead a transcript of this interview: https://bit.ly/3SCS4ZZ\n\n\nNewsletter:\nSubscribe to the Software Architects' Newsletter, a monthly roundup of the patterns and technologies senior practitioners are working through, with the news and lessons from people doing the work:\nhttps://www.infoq.com/software-architects-newsletter\n\n\nInfoQ Online Certification Programs:\n5-week online cohorts for senior engineers and architects, built around QCon talks. Programs now cover software architecture, AI engineering, and organizational architecture. Each week you join a four-hour live session with a confidential peer group of practitioners from other companies, apply frameworks from QCon talks to the decisions you're making at work, and earn an InfoQ certification. You leave with new approaches, or confirmation that the calls you're already making are the right ones. Learn more:\nhttps://certification.qconferences.com/\n\n\nUpcoming Events:\nQCon San Francisco 2026 (November 16-20, 2026)\nhttps://qconsf.com/\n\n\nQCon London 2027 (April 13-16, 2027)\nhttps://qconlondon.com/\n\n\nThe InfoQ Podcasts:\nWeekly conversations with senior software leaders about how they build systems and teams, including what they'd do differently. Listen to all our podcasts and read interview transcripts:\nThe InfoQ Podcast: https://www.infoq.com/podcasts/\nEngineering Culture Podcast by InfoQ: https://www.infoq.com/podcasts/#engineering_culture\nGenerally AI: https://www.infoq.com/generally-ai-podcast/\n\n\nFollow InfoQ:\nMastodon: https://techhub.social/@infoq\nX: https://x.com/InfoQ\nLinkedIn: https://www.linkedin.com/company/infoq/\nFacebook: https://www.facebook.com/InfoQdotcom\nInstagram: https://www.instagram.com/infoqdotcom/\nYouTube: https://www.youtube.com/infoq\nBluesky: https://bsky.app/profile/infoq.com\n\nWrite for InfoQ:\nShare what you've learned building software with a community of senior practitioners, and get your work in front of the people who read InfoQ.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2026-09-25T10:27:02Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:26+00:00"
     },
     "u5RsP0sMaqY": {
       "video_id": "u5RsP0sMaqY",
@@ -13132,6 +13208,37 @@
       "published_at": "2025-08-08T08:14:14Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
+    },
+    "x_dnHivzYtk": {
+      "video_id": "x_dnHivzYtk",
+      "title": "Roblox Engineering Director: \"Prompt to Prod\" Is Broken Without Trust",
+      "duration_s": 2901,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "AI can generate code in seconds, but can your infrastructure handle autonomous deployments without causing a major SEV? Andrew Swerdlow, Engineering Director at Roblox (ex-Google, ex-Instagram), breaks down how Roblox transitioned from basic AI autocomplete to fully autonomous \"Prompt to Prod\" pipelines safely.\n\nDiscover how to solve the \"typing vs. trust\" paradox by implementing automated code review agents, sandboxed runtime environments, institutional knowledge extraction (\"exemplars\"), and new metrics to track engineering productivity in an agentic AI world.\n\n⏱️ Video Timestamps (For Navigation)\n00:00 - The AI Paradox: We Solved Typing, Not Trust\n01:12 - Why Autonomous Code Generation Creates Technical Debt\n02:15 - Roblox's 3 Pillars: Alignment, Security, and Productivity\n03:08 - Security Foundations: Sandboxes & Policy Gateways\n04:22 - Mining 700k PRs for \"Exemplars\" to Train AI Reviewers\n07:15 - Achieving a 70% Acceptance Rate on AI Code Reviews\n08:05 - The \"Prompt to Prod\" Journey: Infrastructure & Plumbing\n10:48 - Rethinking Engineering Productivity Beyond Lines of Code\n13:10 - Measuring Agent Quality and Long-Running Turn Rates\n15:42 - Q&A: Addressing SEVs, Dissecting Design Docs, and the Future of Engineering\n\n🔗 Transcript & slides available on InfoQ:  https://bit.ly/45QbQUR   \n    \n#SoftwareEngineering #AIAgents #DevOps #Roblox Engineering",
+      "published_at": "2026-09-14T08:14:36Z",
+      "tags": [
+        "InfoQ",
+        "Software Architecture",
+        "Infrastructure",
+        "Productivity",
+        "Metrics",
+        "Code Reviews",
+        "Artificial Intelligence",
+        "Transcripts",
+        "Developer Experience",
+        "Orchestration",
+        "Agile",
+        "Platform Engineering",
+        "Prompt Engineering",
+        "autonomous",
+        "QCon AI Boston 2026",
+        "DevOps",
+        "Software Development"
+      ],
+      "details_at": "2026-09-26T14:31:26+00:00"
     },
     "xh_ur8VkO1g": {
       "video_id": "xh_ur8VkO1g",

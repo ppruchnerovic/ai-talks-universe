@@ -1,7 +1,7 @@
 {
   "slug": "wearedevelopers",
   "name": "WeAreDevelopers World Congress",
-  "enumerated_at": "2026-09-13T22:06:11+00:00",
+  "enumerated_at": "2026-09-26T14:26:07+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@_wearedevs/videos",
@@ -17,7 +17,7 @@
       "type": "videos"
     }
   ],
-  "count": 1067,
+  "count": 1071,
   "videos": {
     "-9vwGZ02aio": {
       "video_id": "-9vwGZ02aio",
@@ -496,6 +496,15 @@
         "WeAreDevelopers"
       ],
       "details_at": "2026-08-31T15:35:36+00:00"
+    },
+    "05v-4P2pb8I": {
+      "video_id": "05v-4P2pb8I",
+      "title": "Fake or News: European Robotaxis & Lawyer GPT - Bramus Van Damme",
+      "duration_s": 237,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
     },
     "07Pp8d6u5_k": {
       "video_id": "07Pp8d6u5_k",
@@ -4806,6 +4815,15 @@
       ],
       "published_at": "2026-07-09T14:10:00+00:00",
       "session_page": "https://app.wearedevelopers.com/events/16/session/777"
+    },
+    "7i8_noo9XwA": {
+      "video_id": "7i8_noo9XwA",
+      "title": "Tool Showcase - Snapzy (Open Source Screen Capture Tool)",
+      "duration_s": 74,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
     },
     "7iMIMaJeIcs": {
       "video_id": "7iMIMaJeIcs",
@@ -31205,6 +31223,15 @@
       ],
       "details_at": "2026-08-31T15:35:40+00:00"
     },
+    "yO7R9YHUY-I": {
+      "video_id": "yO7R9YHUY-I",
+      "title": "Using Google Antigravity to Create a Pageflip Component with HTML-in-Canvas - Bramus Van Damme",
+      "duration_s": 167,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
+    },
     "yP-uaoQ6ga0": {
       "video_id": "yP-uaoQ6ga0",
       "title": "Extreme Rules Lawyering with the ECMAScript Specifications",
@@ -31441,6 +31468,15 @@
       ],
       "published_at": "2026-07-10T14:20:00+00:00",
       "session_page": "https://app.wearedevelopers.com/events/16/session/1008"
+    },
+    "yhuqUSiYK_M": {
+      "video_id": "yhuqUSiYK_M",
+      "title": "Is CSS Catching Up To Flash? - Bramus Van Damme",
+      "duration_s": 3814,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
     },
     "yi3uIPrlnFE": {
       "video_id": "yi3uIPrlnFE",

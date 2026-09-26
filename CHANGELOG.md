@@ -21,6 +21,8 @@ session-by-session record with numbers and provenance is
   a pull request with the coverage report.
 
 ### Changed
+- Refresh the catalog on 2026-09-26: 176 new talks and 174 new transcripts;
+  rebuild the search indexes for **10,007 talks and 3,611 transcripts**.
 - The corpus documentation follows the 2026-09-14 refresh: **9,831 talks,
   3,437 transcripts**, 53 conferences. `docs/STATS.md` is regenerated
   throughout, `docs/STATE.md` carries the new coverage, index sizes and

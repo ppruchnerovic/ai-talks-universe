@@ -1,7 +1,7 @@
 {
   "slug": "ray-summit",
   "name": "Ray Summit (Anyscale)",
-  "enumerated_at": "2026-09-13T22:06:48+00:00",
+  "enumerated_at": "2026-09-26T14:26:48+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLzTswPQNepXnD-PksryocyeOPdK6CyZw6",
@@ -16,8 +16,21 @@
       "count": 400
     }
   ],
-  "count": 401,
+  "count": 504,
   "videos": {
+    "-3qrieMBD3U": {
+      "video_id": "-3qrieMBD3U",
+      "title": "vLLM and the State of AI Inference | Simon Mo (Inferact) | Ray Summit 2026",
+      "duration_s": 1138,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "\"vLLM now supports over 1,000 accelerator types and more than 5,000 model architectures, and the workloads running on it have transformed from single-turn completions to agentic systems with tool calling, real-time interaction, and strict latency requirements.\n\nSimon Mo built Ray Serve from zero to one, co-created vLLM, and is now co-founder and CEO of Inferact. In this talk, he surveys the state of open source inference: hardware diversifying across NVIDIA, AMD, and Google TPU; the Kimi K3 launch with Moonshot AI and the vendor verification process that lets anyone trust an open source engine to serve frontier models accurately; distributed KV cache pools delivering order-of-magnitude throughput gains on agentic workloads; and the vLLM roadmap ahead.\n\nLiked this video? Check out other Ray Summit keynote sessions: \nhttps://www.youtube.com/playlist?list=PLYnBpswCtPo4\n \nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n \n 🔗 Connect with us:\n LinkedIn: https://www.linkedin.com/company/joinanyscale/\n X: https://x.com/anyscalecompute\n Website: https://www.anyscale.com/\"",
+      "published_at": "2026-09-17T16:00:36Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "-8wsOk4DsnU": {
       "video_id": "-8wsOk4DsnU",
       "title": "Multimodal data: Architecting pipelines that don’t break at scale",
@@ -30,6 +43,19 @@
       "published_at": "2026-05-14T18:55:06Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
+    },
+    "-HYU0c5t-mI": {
+      "video_id": "-HYU0c5t-mI",
+      "title": "PyTorch loves vLLM | Meta | Ray Summit 2026",
+      "duration_s": 1390,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "PyTorch and vLLM are deeply intertwined, and the integration keeps getting stronger.\n\nAt Ray Summit 2026, Richard Zou, Software Engineer at PyTorch / Meta, explores how PyTorch supports vLLM, touching on the Stable ABI, adoption of new PyTorch releases, and support for heterogeneous hardware and long-tail models.\n\nYou'll leave understanding the foundation vLLM builds on and where the integration is headed.\n\nThis session was part of the first vLLM Conference at Ray Summit, hosted by Inferact.\n\nLiked this video? Check out other Ray Summit vLLM session recordings: https://www.youtube.com/playlist?list=PLXMguE8Nc9o4 \n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:52Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "-J8-xONW3oo": {
       "video_id": "-J8-xONW3oo",
@@ -44,6 +70,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
     },
+    "-TpQ3s95O1o": {
+      "video_id": "-TpQ3s95O1o",
+      "title": "Full-Stack Observability in Ray: Infrastructure Signals in Ray Dashboard | Google | Ray Summit 2026",
+      "duration_s": 899,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Debugging distributed ML jobs on Kubernetes is difficult because of the visibility gap between failures at the infrastructure layer and the framework layer.\n\nAt Ray Summit 2026, Richa Banker, Senior Software Engineer at Google, introduces Ray's new platform events integration, which pulls Kubernetes events, for custom resources like RayCluster, RayJob, and RayService and for pod evictions, spot preemptions, and OOM kills, directly into the Ray dashboard by mapping ephemeral pod lifecycles to stable Ray worker identities.\n\nYou'll leave knowing how to get instant root-cause analysis without manual kubectl queries.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:52Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "-bjWiQfonMs": {
       "video_id": "-bjWiQfonMs",
       "title": "Contextual + Ray: Boosting SFT, RL & Inference at Scale | Ray Summit 2025",
@@ -56,6 +95,15 @@
       "published_at": "2025-12-01T19:44:24Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:03+00:00"
+    },
+    "-dufTVoyIwA": {
+      "video_id": "-dufTVoyIwA",
+      "title": "Ray Summit 2026: 2-minute Recap",
+      "duration_s": 122,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos"
     },
     "-mQPOrRhRws": {
       "video_id": "-mQPOrRhRws",
@@ -95,6 +143,19 @@
       "published_at": "2024-10-10T20:26:49Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
+    },
+    "07XyCSjIwqQ": {
+      "video_id": "07XyCSjIwqQ",
+      "title": "Evolving and Scaling Ray for the Next Generation of AI Workloads | Google | Ray Summit 2026",
+      "duration_s": 1598,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "AI workloads are evolving fast: data processing, training, and inference jobs run longer, span more accelerators, and lean on more advanced hardware, which makes them more prone to failure. The runtime underneath has to stay ahead.\n\nAt Ray Summit 2026, Mengjin Yan, Software Engineer at Anyscale, and Andrew Sy Kim, Software Engineer at Google, cover what Ray Core provides today and how it's evolving along three fronts: reliability, keeping long and expensive runs alive; scalability, pushing the ceiling on the Ray cluster; and hardware, adapting to new accelerators where topology-aware scheduling becomes essential.\n\nYou'll leave with a picture of where AI workloads are heading and the work keeping Ray Core ahead of them.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:52Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "0AKOmPXJkAs": {
       "video_id": "0AKOmPXJkAs",
@@ -174,6 +235,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
     },
+    "19xpyxixf7I": {
+      "video_id": "19xpyxixf7I",
+      "title": "Ray Summit 2026: The Shift to Building & Owning AI",
+      "duration_s": 85,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos"
+    },
     "1ANlI2TzXEc": {
       "video_id": "1ANlI2TzXEc",
       "title": "Ray Summit 2025: Shape the Future of AI",
@@ -199,6 +269,19 @@
       "published_at": "2024-10-21T23:25:18Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:03+00:00"
+    },
+    "1MR9ln9iGp0": {
+      "video_id": "1MR9ln9iGp0",
+      "title": "GammaLake: High-Performance Open-Source Feature Storage for Timeseries | Point72 | Ray Summit 2026",
+      "duration_s": 1772,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "GammaLake is an open-source Point72 project that takes the functionality of Delta tables, adds more structure for timeseries data representations, and leverages Ray for efficient reads and writes.\n\nAt Ray Summit 2026, Todd Gaugler, Quant Developer at Point72 / Cubist, covers how the team implemented the project and how they use it on Anyscale at Cubist.\n\nYou'll leave with an open-source option for high-performance feature storage for timeseries.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:52Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "1MpEYlIlu7w": {
       "video_id": "1MpEYlIlu7w",
@@ -421,6 +504,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
     },
+    "37FEm2XTa98": {
+      "video_id": "37FEm2XTa98",
+      "title": "Platform Orchestration: Anyscale + Ray on Kubernetes | Anyscale | Ray Summit 2026",
+      "duration_s": 1033,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Compute is becoming one of the world's scarcest resources, and intelligent orchestration tuned to your company's needs is becoming the moat.\n\nAt Ray Summit 2026, Adhip Gupta and Elizabeth Hu from Anyscale cover orchestration at three layers: Kubernetes acquiring and managing the infrastructure, Ray turning it into a Python-native distributed runtime, and the Anyscale platform orchestrating across Ray clusters, prioritizing, queueing, and placing work so nothing in your compute estate sits idle. The session covers Anyscale on Azure Kubernetes Service, platform orchestration with the Anyscale Scheduler, and Anyscale KubeRay Connect for adopting Anyscale's observability and orchestration on existing KubeRay clusters.\n\nYou'll leave with a model for getting the most out of scarce compute across many teams, workloads, and clusters.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:52Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "3E0PoEbhYY0": {
       "video_id": "3E0PoEbhYY0",
       "title": "How DataRobot Parallelizes Agentic Pipeline Searches with Ray + syftr | Ray Summit 2025",
@@ -433,6 +529,19 @@
       "published_at": "2025-12-01T19:44:58Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:03+00:00"
+    },
+    "3aFgZJNj7eg": {
+      "video_id": "3aFgZJNj7eg",
+      "title": "Diffusion Large Language Models | Inception Labs | Ray Summit 2026",
+      "duration_s": 2373,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Mercury 2 is the first reasoning model built on a diffusion architecture and the fastest model on the Artificial Analysis index. Modern diffusion LLMs demand a rebuild of the post-training stack, from algorithms to systems.\n\nAt Ray Summit 2026, Aditya Grover, co-founder and CTO of Inception Labs, covers why standard policy-gradient methods break when sequence log-probabilities are intractable, how efficient estimators make GRPO-style RL viable, and the levers unique to this paradigm, plus how diffusion LLMs herald a new era of efficient on-policy training with a well-optimized inference engine.\n\nYou'll leave with a view of the applications powered by Mercury 2 and the future of diffusion LLMs.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:07:44Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "3frBy9yE7v4": {
       "video_id": "3frBy9yE7v4",
@@ -447,6 +556,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:03+00:00"
     },
+    "3s5etTGANrc": {
+      "video_id": "3s5etTGANrc",
+      "title": "Cascade: Write-Once Run-Anywhere Inference on Ray | Samsara | Ray Summit 2026",
+      "duration_s": 1466,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Physical AI systems like robotics and fleets need ML inference pipelines that scale across real-time decisions and offline backfills.\n\nAt Ray Summit 2026, Eagle Lo, Hao Yuan, and Freeman Mak from Samsara present Cascade, a declarative inference framework built on Ray that separates pipeline definition from execution. Pipelines are expressed as DSL-defined DAGs, and an execution planner optimizes and schedules them across Ray Serve, Ray Core, and Spark, so the same pipeline runs consistently across online serving and offline batch and backfill workflows, reducing duplicated logic while improving GPU utilization and throughput.\n\nYou'll leave with design decisions, tradeoffs, and patterns for building declarative pipelines and unifying online and offline inference.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:52Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "3vZ6EhhvpWo": {
       "video_id": "3vZ6EhhvpWo",
       "title": "Build a chat assistant fast using Canopy from Pinecone and Anyscale Endpoints",
@@ -459,6 +581,19 @@
       "published_at": "2023-12-14T17:55:09Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
+    },
+    "4AmKOKbieus": {
+      "video_id": "4AmKOKbieus",
+      "title": "Maximizing GB200 and GB300 Performance with Domain-Aware Scheduling | NVIDIA | Ray Summit 2026",
+      "duration_s": 1461,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Getting full performance out of GB200 and GB300 systems takes scheduling that understands the hardware.\n\nAt Ray Summit 2026, Josh Lee, Software Engineer at Anyscale, and Connor Pedersen, Software Engineer at NVIDIA, present domain-aware scheduling in Ray and a success story of platform transformation achieved through close collaboration between the two teams.\n\nYou'll leave knowing how to maximize Blackwell-generation performance with Ray.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:53Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "4GTmPc5BOVk": {
       "video_id": "4GTmPc5BOVk",
@@ -511,6 +646,19 @@
       "published_at": "2024-10-18T21:59:14Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:03+00:00"
+    },
+    "4vHpltz8KRU": {
+      "video_id": "4vHpltz8KRU",
+      "title": "Ray Data on GPU - Breaking Preprocessing Bottleneck for Model Training | Stripe | Ray Summit 2026",
+      "duration_s": 1721,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "At Stripe, training DNN models on a huge amount of transactional data, $1.9T in 2025, is often limited by slow, I/O-bound CPU preprocessing.\n\nAt Ray Summit 2026, Lee Yang, Sr. Principal Software Engineer at NVIDIA, and Pratik Gujjar, Machine Learning Engineer at Stripe, explore shifting data tasks to the GPU using Ray map_batches with cuDF: why GPUs win on shuffle hash partitioning, the tradeoffs of heterogeneous pipelining, and how to run Ray under heavy memory pressure.\n\nYou'll leave able to build a stable, GPU-accelerated pipeline that keeps your models fed.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:15Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "5KuTdRq9Zto": {
       "video_id": "5KuTdRq9Zto",
@@ -577,6 +725,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
     },
+    "5ohCn8lLwds": {
+      "video_id": "5ohCn8lLwds",
+      "title": "Miles: Enterprise-Facing Agentic RL Framework | RadixArk + Anyscale | Ray Summit 2026",
+      "duration_s": 1759,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Miles is an enterprise-facing agentic RL framework for large-scale PyTorch post-training.\n\nAt Ray Summit 2026, Mao Cheng of RadixArk and Xinyu Zhang of Anyscale cover its end-to-end stack for SFT, LoRA SFT/RL, and agentic RL, scalable multi-turn tool-use rollouts, and integrations with PyTorch, Megatron, and Ray, plus lessons from production workloads: low-precision training, MoE RL stability, speculative rollout acceleration, and extensible hooks for custom models, rewards, environments, and deployment pipelines.\n\nYou'll leave with a clear picture of what enterprise agentic RL takes in production.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:52Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "68pYS-x4SHk": {
       "video_id": "68pYS-x4SHk",
       "title": "Ray Summit 2022 - Day 2 Keynote - Dario Gil",
@@ -615,6 +776,19 @@
       "published_at": "2024-10-21T23:22:30Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:03+00:00"
+    },
+    "6MZ9sI6pAnk": {
+      "video_id": "6MZ9sI6pAnk",
+      "title": "Beyond Text-to-Video: Omni-Context Generation in a 33B Model | MiniMax | Ray Summit 2026",
+      "duration_s": 1723,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "As video generation moves beyond single prompts, models need to reason across images, video, audio, and language as a shared context.\n\nAt Ray Summit 2026, Victor Su-Ortiz, GTM Engineer and Developer Relations at MiniMax, uses the 33B open-weight MiniMax H3 as a case study in omni-context generation: unified audio-video modeling, multimodal conditioning, and the architecture and inference challenges that emerge when generative models move beyond text-to-video.\n\nYou'll leave with a picture of where generative video is headed and what it takes to build and serve it.\n\nThis session was part of the first vLLM Conference at Ray Summit, hosted by Inferact.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLXMguE8Nc9o4 \n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:15Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "6OuAus_cOoo": {
       "video_id": "6OuAus_cOoo",
@@ -720,6 +894,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:03+00:00"
     },
+    "7fCwq7pIrkA": {
+      "video_id": "7fCwq7pIrkA",
+      "title": "Ray and MAI-Thinking-1 | Microsoft AI | Ray Summit 2026",
+      "duration_s": 1682,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Microsoft AI adopted Ray to support end-to-end large reasoning model development, from pretraining and evals to RL post-training.\n\nAt Ray Summit 2026, Shaowei Su, Cheng Liu, and Pawel Beza from Microsoft AI cover Ray with heterogeneous support across Kubernetes and Slurm, scaling Ray with multi-cluster setups, topology-aware scheduling, and benchmarks around GCS, and fault tolerance for both pretraining and RL.\n\nYou'll leave with lessons from building MAI-Thinking-1 on Ray.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:15Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "7fDiui8cAVQ": {
       "video_id": "7fDiui8cAVQ",
       "title": "Ray Summit 2025 Keynote: Physical AI Turing Test with Jim Fan from NVIDIA",
@@ -733,6 +920,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:03+00:00"
     },
+    "7lyBqNsFVcQ": {
+      "video_id": "7lyBqNsFVcQ",
+      "title": "How the Data Center Shapes the Workload | Nscale | Ray Summit 2026",
+      "duration_s": 724,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Everyone talks about the software layer or the chips. Equally important is the control plane deciding which GPU a workload lands on, and when it's trustworthy enough to accept traffic.\n\nAt Ray Summit 2026, Oscar Savolainen, Senior Staff AI Engineer at Nscale, walks through Nscale's fleet manager as a state machine, from power-on and burn-in to Kubernetes admission: how silent stragglers are filtered out before a customer ever sees the node, and how InfiniBand and NVLink topology shape the units of scale Ray workloads actually run on.\n\nYou'll leave understanding how the data center itself shapes the workloads you run on it.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:07:44Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "7tMntN9kQbA": {
       "video_id": "7tMntN9kQbA",
       "title": "A serverless resilient graph analysis platform built on Ray at ByteDance",
@@ -745,6 +945,32 @@
       "published_at": "2023-02-09T01:49:28Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
+    },
+    "7veFC1SeV5o": {
+      "video_id": "7veFC1SeV5o",
+      "title": "Heterogeneous Pipelines as the Unlock for ML at Scale | Motive | Ray Summit 2026",
+      "duration_s": 1384,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "ML evaluation pipelines have three stages that run at different speeds, and running them together on shared resources starves GPUs down to 10 to 40 percent utilization. Motive's rebuilt pipeline runs above 90 percent, and eval iterations that skip the GPU entirely got a 200x speedup.\n\nAt Ray Summit 2026, Tim Cheng and Hareesh Kolluru from Motive show how they rebuilt the pipeline on Ray with each stage on its own tier, CPU-heavy work on wide cheap instances and GPU inference on a separately sized tier, with Ray Data expressing the whole pipeline as one dataflow. Disaggregation creates an explicit interface between the GPU stage and downstream CPU stages, making inference outputs cacheable: the roughly 95 percent of iterations in an active eval cycle that only change scoring logic skip the GPU and replay from cache, turning a multi-hour GPU-bound regression into a CPU-bound replay in minutes.\n\nYou'll leave with code for diagnosing GPU feeder starvation, expressing two-dimensional parallelism with Ray Data, and identifying cacheable boundaries in heterogeneous pipelines.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:52Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "7x1Ssp3MSto": {
+      "video_id": "7x1Ssp3MSto",
+      "title": "Building a Virtual Biology Platform on Ray | Recursion | Ray Summit 2026",
+      "duration_s": 1845,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Recursion is industrializing drug discovery by running multimodal AI on Ray and Anyscale.\n\nAt Ray Summit 2026, Ayla Khan and Aleksandar Djuric from Recursion show how they power diverse scientific workloads, phenomics, transcriptomics, predictive chemistry, and virtual-cell models, across hybrid GCP and on-prem Anyscale clusters, and how intelligent workload routing slashes cloud spend.\n\nYou'll leave knowing how to route diverse scientific workloads across hybrid infrastructure while freeing scientists to find medicines faster.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:52Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "8-nmaZB2Yvc": {
       "video_id": "8-nmaZB2Yvc",
@@ -915,6 +1141,58 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:03+00:00"
     },
+    "AaiDnelX_3Y": {
+      "video_id": "AaiDnelX_3Y",
+      "title": "Tailor-Made Inference at Scale | Simplismart | Ray Summit 2026",
+      "duration_s": 777,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Every use case needs different latency, cost, and compliance tradeoffs, but most teams either over-engineer one-off stacks or force everything through a generic endpoint.\n\nAt Ray Summit 2026, Ansh Pratap Singh, Chief of Staff at Simplismart, covers a configurable inference engine that adapts per use case without new infrastructure: swappable backends across vLLM and TensorRT-LLM, per-workload autoscaling, and prompt-level tuning for data privacy, plus the config schema and the failure modes they hit at scale.\n\nYou'll leave seeing how one engine serves voice, batch, and enterprise workloads differently.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:47Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "AdlcL8bPZk8": {
+      "video_id": "AdlcL8bPZk8",
+      "title": "Operating a Production-Scale Physical AI Data Platform with Ray | Hyundai | Ray Summit 2026",
+      "duration_s": 2093,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "At Hyundai Motor Company, Ray is the foundation of the physical AI data platform for autonomous driving.\n\nAt Ray Summit 2026, Hyeonggyu Kim, Software Engineer at Hyundai Motor Company, shares how the team processes large-scale sensor data, automates model-based data curation, and performs privacy-preserving de-identification workflows at scale, plus lessons from operating Ray in production and the platform engineering strategy for driving Ray adoption across ML teams.\n\nYou'll leave with practical guidance on platform optimization, resource efficiency, and scalable infrastructure design.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:55Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "B5doxR8q_rU": {
+      "video_id": "B5doxR8q_rU",
+      "title": "Serving LLMs for Agents at Scale with Ray + vLLM | JPMorgan Chase | Ray Summit 2026",
+      "duration_s": 1650,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Serving LLMs for agentic workloads at Chase scale means balancing latency, cost, and resilience. The team cut latency from 2,400ms to 275ms, roughly 8.7x faster, with self-hosted LLMs running about 10x faster and 12x cheaper than third-party providers.\n\nAt Ray Summit 2026, Ankur Mohan and Dhayaneshwar Balusamy from JPMorgan Chase show how they built the production platform powering the Chase Digital Assistant across multiple domain agents on Ray and vLLM: a multi-agent architecture with request routing that directs each request to the appropriate model, custom inference optimizations, detailed profiling, and hardware experiments across H100 and B200 GPUs.\n\nYou'll leave with a blueprint for self-hosting LLMs for agentic workloads at enterprise scale.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:47Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "BI2tCELCnmI": {
+      "video_id": "BI2tCELCnmI",
+      "title": "Lessons from Unifying Simulation and RL Training | Torc Robotics | Ray Summit 2026",
+      "duration_s": 1635,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Autonomous trucking is hard. Torc generalizes the task planning stack with reinforcement learning, running two very different RL loops, object simulation and end-to-end with neural rendering, both on Ray.\n\nAt Ray Summit 2026, Neil Wadhvana and Yashovardhan Chaturvedi from Torc Robotics share how they adapted existing LLM post-training frameworks for the end-to-end loop and found the two scaling problems surprisingly alike.\n\nYou'll leave with a blueprint for scaling RL for autonomy.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:55Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "BLWXwFjyiHA": {
       "video_id": "BLWXwFjyiHA",
       "title": "Motional’s Blueprint for High-Performance ML Systems in Autonomous Driving | Ray Summit 2025",
@@ -1005,6 +1283,19 @@
       "published_at": "2024-10-21T16:31:17Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:03+00:00"
+    },
+    "Cd-3H6XdAyE": {
+      "video_id": "Cd-3H6XdAyE",
+      "title": "How Open-Source vLLM Topped the Artificial Analysis Leaderboard | DigitalOcean | Ray Summit 2026",
+      "duration_s": 805,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "DigitalOcean's vLLM deployments reached leading Artificial Analysis results across frontier open-weight models, including 230 tokens per second per user on DeepSeek V3.2 and sub-second time to first token for 10,000-token Qwen 3.5 prompts.\n\nAt Ray Summit 2026, Debarshi Raha, VP and Fellow Engineer at DigitalOcean, breaks down the open-source optimization work behind those results, from low-batch kernel fusion and EAGLE3 speculative decoding to linear-attention fusions and dual-stream execution.\n\nYou'll leave seeing how profiling model-specific bottlenecks and upstreaming the fixes into vLLM delivers production inference performance that rivals proprietary stacks.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:56Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "CrpXSSs0uaw": {
       "video_id": "CrpXSSs0uaw",
@@ -1097,6 +1388,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
     },
+    "DgRIx2AoyHQ": {
+      "video_id": "DgRIx2AoyHQ",
+      "title": "Leveraging Agent Skills for Ray Workloads | Anyscale | Ray Summit 2026",
+      "duration_s": 1870,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Anyscale Skills turn deep Ray and Anyscale expertise into an agent-native CLI, SDK, and MCP surface, so coding agents can launch workloads, inspect clusters, and debug failures the way an expert would.\n\nAt Ray Summit 2026, Aydin Abiar, Goku Mohandas, and Kunling Geng from Anyscale show how to go from a prompt to a running distributed workload, from post-training to physical AI, and how teams extend the same surface with their own skills.\n\nYou'll leave knowing how to put coding agents to work on your Ray workloads.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:07:45Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "EFi0NhgS-gI": {
       "video_id": "EFi0NhgS-gI",
       "title": "Automatically scaling the execution of Foundation Models workflows: Ray with CodeFlare and Red Hat",
@@ -1135,6 +1439,19 @@
       "published_at": "2024-10-21T23:30:04Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "FCtTk4H8ynM": {
+      "video_id": "FCtTk4H8ynM",
+      "title": "Serving Frontier MoE Models at the Lowest Token Cost | NVIDIA | Ray Summit 2026",
+      "duration_s": 849,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Many of today's most capable open-source models use mixture-of-experts architectures, but serving MoE models at production scale is notoriously challenging. Agentic applications raise the stakes: a single prompt can trigger multiple planning, tool-calling, and reasoning requests, multiplying both latency and token costs.\n\nAt Ray Summit 2026, Amr Elmeleegy from NVIDIA goes under the hood of MoE serving to show how NVIDIA Blackwell rack-scale systems and open-source inference software enable low-cost, high-throughput inference, and how Ray Serve operationalizes these deployments.\n\nYou'll leave knowing how to serve frontier MoE models at the lowest token cost.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:15Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "FXfQ1eI89Kk": {
       "video_id": "FXfQ1eI89Kk",
@@ -1344,6 +1661,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
     },
+    "HQe__iv2m68": {
+      "video_id": "HQe__iv2m68",
+      "title": "AMD and vLLM: What's New | AMD | Ray Summit 2026",
+      "duration_s": 1937,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "vLLM and AMD AITER are moving ROCm support beyond simple porting through workload-aware kernel orchestration, with benchmarks showing 1.2 to 4.4x throughput gains across AMD Instinct GPUs.\n\nAt Ray Summit 2026, Douglas Lehr, Engineering Fellow at AMD, covers ROCM_AITER_FA's explicit routing of mixed prefill, extend, and decode traffic to specialized kernels, along with batch reordering, chunked long-context processing, hardware-optimized KV cache layouts, and AITER MLA backends for DeepSeek-class models.\n\nYou'll leave with a clear picture of how software-hardware co-design turns ROCm into a high-performance production serving platform.\n\nThis session was part of the first vLLM Conference at Ray Summit, hosted by Inferact.\n\nLiked this video? Check out other Ray Summit vLLM session recordings: https://www.youtube.com/playlist?list=PLXMguE8Nc9o4 \n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:56Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "HRo90WL4Znc": {
       "video_id": "HRo90WL4Znc",
       "title": "Alpa - Simple large model training and inference on Ray",
@@ -1422,6 +1752,32 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "IWsjvw9mEXY": {
+      "video_id": "IWsjvw9mEXY",
+      "title": "Lightning on Agentic: Embedded LLM, Anyscale, Novita, and Verda | Ray Summit 2026",
+      "duration_s": 2604,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Four focused lightning talks explore systems work for production agentic workloads.\n\nAt Ray Summit 2026, Tun Jian Tan of Embedded LLM covers Agentic API, Jeffrey Wang of Anyscale discusses KV-cache-aware serving with Ray Serve LLM, Danny An of Novita presents human-AI collaboration between agents and engineers, and Ananth Mahadevan of Verda shares lessons learned from serving GLM-5.2 and Kimi K3 in production.\n\nYou'll leave with four rapid-fire perspectives on running agents in production.\n\nThis session was part of the first vLLM Conference at Ray Summit, hosted by Inferact.\n\nLiked this video? Check out other Ray Summit vLLM session recordings: https://www.youtube.com/playlist?list=PLXMguE8Nc9o4 \n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:55Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "ItAslhe8DEI": {
+      "video_id": "ItAslhe8DEI",
+      "title": "Async Inference at Netflix: Batch and Near-Real-Time Serving | Netflix | Ray Summit 2026",
+      "duration_s": 2239,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Netflix built an async inference platform: a unified framework for batch inference and near-real-time serving on a single stack.\n\nAt Ray Summit 2026, Wenbing Bai and Naveen Somasundaram from Netflix cover patterns for multimodal inference with Ray and vLLM, including batching, GPU utilization, and common abstractions, plus practical lessons from running these workloads in production.\n\nYou'll leave with patterns for unifying batch and near-real-time inference on one stack.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:55Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "IwDnMAJwLyo": {
       "video_id": "IwDnMAJwLyo",
       "title": "AWS + vLLM: Building the Future of Open, Fast LLM Serving | Ray Summit 2025",
@@ -1447,6 +1803,19 @@
       "published_at": "2024-07-22T23:08:43Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
+    },
+    "J31qKbcT5BA": {
+      "video_id": "J31qKbcT5BA",
+      "title": "Transforming Grab’s AI Platform with Ray | Grab | Ray Summit 2026",
+      "duration_s": 1818,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Grab is transforming its AI platform with Ray to support three ML experimentation loops on one distributed execution layer: offline training, simulator-based parameter search, and reinforcement learning in simulation.\n\nAt Ray Summit 2026, Yvonne Wong, Chongyu Zhou, and Abhinav Rai from Grab show through production examples how Ray Train, Data, Tune, and Core simplify heterogeneous scaling, improve experimentation throughput, and make topology, reliability, and cost tradeoffs measurable.\n\nYou'll leave with patterns for consolidating experimentation loops on one execution layer.\n\nLiked this video? Check out other Ray Summit breakout session recordings:https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:47Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "J3zJ1MZtLN8": {
       "video_id": "J3zJ1MZtLN8",
@@ -1487,6 +1856,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
     },
+    "Jsh58sufKXA": {
+      "video_id": "Jsh58sufKXA",
+      "title": "Video Action Models | mimic robotics | Ray Summit 2026",
+      "duration_s": 1903,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "What if robot learning could pre-train on freeform human video instead of relying solely on expensive robot action data?\n\nAt Ray Summit 2026, Elvis Nava, co-founder and CTO of mimic robotics, introduces Video Action Models, a model class that repurposes generative video model backbones for general-purpose dexterous robot control.\n\nYou'll leave with a view of a new frontier for robot learning.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:48Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "Jv4qLDK7VMc": {
       "video_id": "Jv4qLDK7VMc",
       "title": "How Runhouse Orchestrates Multi-Cluster Ray Workloads | Ray Summit 2025",
@@ -1512,6 +1894,19 @@
       "published_at": "2023-05-16T22:30:00Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
+    },
+    "K6FddIlAIOk": {
+      "video_id": "K6FddIlAIOk",
+      "title": "Scaling DSpark Training Using vLLM, Speculators and Mooncake | Red Hat | Ray Summit 2026",
+      "duration_s": 1007,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "State-of-the-art speculative decoding lives or dies on the drafter, and training drafters well at scale is a production issue.\n\nAt Ray Summit 2026, Helen Zhao, Machine Learning Engineer at Red Hat, goes under the hood on building drafters via online hidden-state distillation across a full Verda GB300 rack, using GLM5.2 as the example: how vLLM, Mooncake, and Speculators combine into a reproducible pipeline, and how to keep a rack of GPUs coordinated while distilling in real time.\n\nYou'll leave with a reproducible recipe for drafter training at cluster scale.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:15Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "KRgKiac6vDo": {
       "video_id": "KRgKiac6vDo",
@@ -1539,6 +1934,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
     },
+    "L9I2g6yh_LA": {
+      "video_id": "L9I2g6yh_LA",
+      "title": "Right Resource, Right Job: Heterogeneous Ray Clusters on Amazon EKS | Robinhood | Ray Summit 2026",
+      "duration_s": 1819,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "A single ML pipeline has wildly different resource profiles at each stage: data preprocessing is CPU- and memory-bound, large-scale training is accelerator-bound. Forcing the whole pipeline onto one homogeneous GPU node means paying for idle accelerators during data-heavy stages and stalling on scarce GPU capacity.\n\nAt Ray Summit 2026, Robert Macy from Robinhood and Viraj Padte from AWS share chapter two of Robinhood's KubeRay journey: defining multiple worker groups in a single RayCluster, each backed by a different node type, and letting Ray's resource-aware scheduling map each pipeline stage to the hardware it actually needs. They walk through expressing per-task resource requirements, how the Ray autoscaler decides which worker groups to scale, and how Ray Data hands off to Ray Train across different hardware.\n\nYou'll leave knowing how to run heterogeneous Ray clusters on Amazon EKS inside one Ray job.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:15Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "LGP4pR2G40Q": {
       "video_id": "LGP4pR2G40Q",
       "title": "Coinbase's ML Training Evolution: From Sagemaker to Ray | Ray Summit 2024",
@@ -1564,6 +1972,19 @@
       "published_at": "2024-10-18T21:05:28Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "LR947BdMdO4": {
+      "video_id": "LR947BdMdO4",
+      "title": "SkyRL: Democratizing RL Training for Researchers | Anyscale | Ray Summit 2026",
+      "duration_s": 2172,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Agents have taken center stage in 2026, and as they shift to longer-horizon, multi-turn interactions, the systems challenges and requirements on training infrastructure have evolved with them.\n\nAt Ray Summit 2026, Sumanth Hegde and Eric Tang from Anyscale trace SkyRL from a set of modular APIs decoupling training, inference, and environments to where it is today: scalable, fully async RL training on 350B+ parameter MoE models with Megatron and vLLM, the multi-tenant Tinker Engine that lets researchers use their own hardware with Tinker's flexible training APIs, a redesign toward HTTP-based APIs for scalable inference with native RL API contributions to vLLM, and community recipes including large MoE training on long-horizon tasks and custom recursive language models.\n\nYou'll leave with a picture of modular, performant RL training and where SkyRL is headed.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:47Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "LU43Q_JktMs": {
       "video_id": "LU43Q_JktMs",
@@ -1630,6 +2051,32 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
     },
+    "M7fbxwBSIeI": {
+      "video_id": "M7fbxwBSIeI",
+      "title": "TorchSpec: Speculative Decoding Training at Scale | Together AI | Ray Summit 2026",
+      "duration_s": 1831,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "TorchSpec is a torch-native speculative decoding training framework built on Ray, with a disaggregated design that lets each side of drafter training scale independently. Draft models trained with TorchSpec for large models such as Kimi K2.5 have accumulated more than 500K downloads on Hugging Face.\n\nAt Ray Summit 2026, Yubo Wang, ML Research Engineer at Together AI / LightSeek, introduces the framework and the disaggregated approach to training speculative decoding draft models.\n\nYou'll leave knowing how to train drafters for large models at scale.\n\nThis session was part of the first vLLM Conference at Ray Summit, hosted by Inferact.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLXMguE8Nc9o4\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:47Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "M9Mkrxm9rdY": {
+      "video_id": "M9Mkrxm9rdY",
+      "title": "Satellite Imagery to Machine-Readable Intelligence | Xoople | Ray Summit 2026",
+      "duration_s": 2318,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Turning raw satellite imagery into scalable, machine-readable intelligence about physical change on Earth.\n\nAt Ray Summit 2026, Milos Colic, VP of Engineering at Xoople, uses land-cover classification to connect the engineering challenge of processing planetary-scale imagery with the strategic goal of giving AI systems and organizations reliable ground truth for decisions in climate, infrastructure, risk, planning, and operations.\n\nYou'll leave with an operational view of Earth data infrastructure at scale.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:15Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "MChn6O1ecEQ": {
       "video_id": "MChn6O1ecEQ",
       "title": "Ray Dashboard Series: Part Five | Actors",
@@ -1643,6 +2090,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
     },
+    "MFyBXjacCXQ": {
+      "video_id": "MFyBXjacCXQ",
+      "title": "One Cluster, End-to-End | AWS | Ray Summit 2026",
+      "duration_s": 760,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Teams training large models on Ray often run three separate footprints: one for data processing, one for distributed training, one for serving. Each brings its own scheduler, its own scaling behavior, and its own idle GPUs.\n\nAt Ray Summit 2026, Shreyas Adiyodi and Anoop Saha from AWS walk through collapsing that into a single Amazon EKS cluster with SageMaker HyperPod: scheduling heterogeneous CPU and GPU Ray clusters against shared capacity with queue-based admission, where checkpointing belongs when a run spans days, recovering from node-level hardware failure without restarting the pipeline, tightening the experimentation loop, and deploying models for accelerated inference.\n\nYou'll leave with a reference architecture for end-to-end Ray pipelines on Kubernetes that maximizes GPU utilization across every stage of model development.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:55Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "MXEG_r04bY8": {
       "video_id": "MXEG_r04bY8",
       "title": "Matrix: Reliable Framework for Data-Centric Experimentation at Scale | Ray Summit 2025",
@@ -1655,6 +2115,19 @@
       "published_at": "2025-11-18T23:28:45Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "MZFcNuYOch0": {
+      "video_id": "MZFcNuYOch0",
+      "title": "Scaling Massive Transformer Training with KubeRay | Capital One | Ray Summit 2026",
+      "duration_s": 944,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "When infrastructure is siloed, I/O overhead can stretch development cycles into days. Capital One processed 3.5TB of data and cut hyperparameter optimization from days to hours, a 16x acceleration in model tuning.\n\nAt Ray Summit 2026, Mauilin Patel, Raja Chawat, and Yifei Wang from Capital One showcase how KubeRay on their compute platform bridges the gap between raw data and optimized models with a unified ecosystem of Ray Data, Ray Train, and Ray Tune, enabling users to distribute PyTorch training while eliminating costly I/O bottlenecks. They share platform-level lessons on Kubernetes autoscaling, resource isolation, and memory optimization for large-scale transformer workloads, grounded in real Capital One use cases.\n\nYou'll leave with patterns for consolidating fragmented training stacks.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:15Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "McjH0WfdAyI": {
       "video_id": "McjH0WfdAyI",
@@ -1734,6 +2207,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "N5T7l_TX2TI": {
+      "video_id": "N5T7l_TX2TI",
+      "title": "From Reservation to 1,600 GPUs: A Petabyte-Scale Ray Data Pipeline | CoreWeave | Ray Summit 2026",
+      "duration_s": 844,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "What does it take to go from a fresh GPU reservation to a production-scale multimodal data pipeline in less than a day? Scaled to 1,600 GPUs and a 0.6 PB dataset, this pipeline generated 70 million captions in 1 hour and 35 minutes, with storage never becoming the bottleneck.\n\nAt Ray Summit 2026, Xinyu Zhang, Software Engineer at Anyscale, and Jeff Braunstein, Senior Director of Product at CoreWeave, walk through standing up and optimizing a large-scale video captioning workflow on Anyscale on CoreWeave in under 24 hours: the shift from a Ray Core implementation to Ray Data, why streaming execution and autoscaling mattered, and how that change delivered 3.7x more captions per GPU-hour on the initial 600 GB workload.\n\nYou'll leave with concrete lessons for building GPU-efficient, storage-aware data pipelines for large-scale AI workloads on Ray.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:55Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "NCVOhn8LI8Y": {
       "video_id": "NCVOhn8LI8Y",
       "title": "Scaling AI Health Assistants: Challenges and Solutions",
@@ -1786,6 +2272,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "NXW1F0DgPDU": {
+      "video_id": "NXW1F0DgPDU",
+      "title": "Production-Ready Distributed Inference with Ray Serve | Anyscale | Ray Summit 2026",
+      "duration_s": 8898,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "\"Github repository: https://github.com/anyscale/ray-summit-training-2026/tree/main/ray_summit_distributed_inference_2026\n\nDesign scalable distributed inference systems for production AI applications, from classic ML models to large language models.\n\nThis hands-on training session covers building Ray Serve applications with deployments, composition, and load-aware request routing, hardening for production with autoscaling, fault tolerance, and zero-downtime upgrades, deploying and scaling LLM endpoints with Ray Serve LLM on engines like vLLM and SGLang, and optimizing the inference engine with the KV cache, paged attention, prefix caching, and continuous batching.\n\nYou'll leave knowing how to scale frontier models with KV-cache-aware routing, prefill/decode disaggregation, and wide expert parallelism for mixture-of-experts models.\n\nLiked this video? Check out other Ray Summit training session recordings: https://www.youtube.com/playlist?list=PLUpYVYRTFCQM\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/\"",
+      "published_at": "2026-09-17T16:00:37Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "NekkpRrcAWg": {
       "video_id": "NekkpRrcAWg",
       "title": "Operationalizing Ray Serve on Kubernetes",
@@ -1824,6 +2323,19 @@
       "published_at": "2025-11-18T17:32:47Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "NnsuPkqyWGw": {
+      "video_id": "NnsuPkqyWGw",
+      "title": "Petabyte-Scale Video Curation on CoreWeave | CoreWeave | Ray Summit 2026",
+      "duration_s": 1566,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Fragmented multimodal training causes high latency and low GPU utilization.\n\nAt Ray Summit 2026, Jeff Braunstein, Senior Director of Product at CoreWeave, presents a unified architecture that eliminates those silos: Anyscale's managed Ray running natively on CoreWeave Kubernetes Service with CoreWeave AI Object Storage, streamlining video curation at petabyte scale, with benchmarks showing gains in throughput, utilization, and TCO.\n\nYou'll leave with a reusable reference architecture for efficient, integrated training.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:55Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "NrTmPUGQtVU": {
       "video_id": "NrTmPUGQtVU",
@@ -1954,6 +2466,19 @@
       "published_at": "2025-11-18T23:12:54Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "PczWRweQ3qg": {
+      "video_id": "PczWRweQ3qg",
+      "title": "Real-Time Search & Recommendation Systems for AI Commerce | Anyscale | Ray Summit 2026",
+      "duration_s": 9338,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Github repository: https://github.com/anyscale/ray-summit-training-2026/tree/main/ray_summit_search_recommend_training_2026 \n\nBuild a production-scale personalization pipeline spanning distributed data preparation, retrieval, recommendation model training, and scalable online serving.\n\nThis hands-on training session works through an end-to-end commerce AI workflow using Ray Data, Ray Train, and Ray Serve: distributed preprocessing of large-scale commerce datasets, vector search and retrieval pipelines, recommendation model training workflows, real-time inference and scalable serving architectures, and evaluation and optimization of personalization systems.\n\nYou'll leave able to power real-time search and recommendation experiences on Ray.\n\nLiked this video? Check out other Ray Summit training session recordings: https://www.youtube.com/playlist?list=PLUpYVYRTFCQM\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:15Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "Ph6H-r_RiAE": {
       "video_id": "Ph6H-r_RiAE",
@@ -2215,6 +2740,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
     },
+    "QnxcDsMtaK8": {
+      "video_id": "QnxcDsMtaK8",
+      "title": "What Makes RL the Hardest Workload in AI | Robert Nishihara (Anyscale) | Ray Summit 2026",
+      "duration_s": 523,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Reinforcement learning is one of the hardest distributed systems problems in AI: training, inference, and environments all running in one loop.\n \nRobert Nishihara, creator of Ray and co-founder of Anyscale, breaks down the anatomy of a reinforcement learning workload on the Ray Summit 2026 Day 1 keynote stage: the components an RL system has to coordinate, why the combination of large-scale training and large-scale inference in a single loop stresses infrastructure in ways neither does alone, and how Ray was built for exactly this shape of problem.\n \nLiked this video? Check out other Ray Summit keynote sessions: https://www.youtube.com/playlist?list=PLYnBpswCtPo4\n \nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n \n 🔗 Connect with us:\n LinkedIn: https://www.linkedin.com/company/joinanyscale/\n X: https://x.com/anyscalecompute\n Website: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:47Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "QoHqR3TBztE": {
       "video_id": "QoHqR3TBztE",
       "title": "Understanding the Landscape of the Latest Large Models",
@@ -2227,6 +2765,19 @@
       "published_at": "2023-10-12T16:08:37Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
+    },
+    "Qyji-PNYZQ0": {
+      "video_id": "Qyji-PNYZQ0",
+      "title": "Ray Data: What's New - GPU Shuffle, Unity Catalog, DataSourceV2 | Anyscale | Ray Summit 2026",
+      "duration_s": 2182,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Ray Data is the industry standard for AI data processing, and the past year brought major improvements in performance, scaling, and functionality.\n\nAt Ray Summit 2026, Justin Hsu and Goutam Venkatramanan from Anyscale cover what's new from Ray Data 2.53 to 2.58: GPU-based shuffle, Unity Catalog support, and DataSourceV2, plus the recent enhancements that have shown performance improvements of up to 4x on batch inference and training workloads, and future directions for the project.\n\nYou'll leave current on Ray Data and where it's going.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:15Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "R2vqlGJ5Wes": {
       "video_id": "R2vqlGJ5Wes",
@@ -2306,6 +2857,32 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
     },
+    "RqKFVTWx_Qo": {
+      "video_id": "RqKFVTWx_Qo",
+      "title": "Serving vLLM on Agentic Production Workloads | Inferact | Ray Summit 2026",
+      "duration_s": 2195,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Agentic production traffic brings long multi-turn sessions, heavy prefix reuse, and bursty, heterogeneous requests that challenge conventional serving.\n\nAt Ray Summit 2026, Yifan Qiao and Zijing Liu from Inferact explain how vLLM addresses those patterns through independently scaled prefill/decode disaggregation, turn-aware serving, and session and correlation hints that improve prefix caching, prefetching, and eviction. They also cover distributed KV cache transfer and storage with Mooncake and multi-tier offloading, allowing cached context to move across turns and instances instead of being recomputed.\n\nYou'll leave with practical guidance for architecting and tuning vLLM deployments for production agents.\n\nThis session was part of the first vLLM Conference at Ray Summit, hosted by Inferact.\n\nLiked this video? Check out other Ray Summit vLLM session recordings: https://www.youtube.com/playlist?list=PLXMguE8Nc9o4 \n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:47Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "RtEPrSrryQY": {
+      "video_id": "RtEPrSrryQY",
+      "title": "Cost-Effective RL Post-Training with Ray and AWS Trainium | AWS + Anyscale | Ray Summit 2026",
+      "duration_s": 1351,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "RL post-training faces operational complexity and inefficient resource utilization: rollout generation, reward computation, policy training, and frequent model-weight synchronization must all be coordinated across distributed resources.\n\nAt Ray Summit 2026, Chelsie Zhang and Zhenkun Cai from AWS and Artur Niederfahrenhorst from Anyscale show how to simplify and scale RL post-training with Ray on AWS Trainium, a purpose-built AI accelerator for better price performance. They cover the architecture and an end-to-end distributed workflow spanning rollout generation, reward computation, policy updates, and model-weight refresh.\n\nYou'll leave equipped to set up RL post-training pipelines faster and run them at lower cost on AWS Trainium.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:18Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "S3CaJ36xl_U": {
       "video_id": "S3CaJ36xl_U",
       "title": "Ray Serve: Advancing scalability and flexibility | Ray Summit 2025",
@@ -2318,6 +2895,19 @@
       "published_at": "2025-11-20T21:21:41Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "S7rVHuaBVXY": {
+      "video_id": "S7rVHuaBVXY",
+      "title": "Trillion-Token Pretraining | Adyen | Ray Summit 2026",
+      "duration_s": 1975,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Pretraining foundation models on tabular and sequential data presents challenges that differ fundamentally from NLP or vision.\n\nAt Ray Summit 2026, Hanna van der Vlis, AI Research Engineer at Adyen, covers the key design decisions behind a payments foundation model trained on billions of transactions and trillions of tokens: tokenization of heterogeneous features, sequence construction, masking strategies and pretraining objectives for sequential tabular data, and the architectural tradeoffs between hierarchical and language-model framings.\n\nYou'll leave with transferable techniques for adapting self-supervised pretraining to non-text sequential data.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:47Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "SUEBH-0oi-A": {
       "video_id": "SUEBH-0oi-A",
@@ -2344,6 +2934,32 @@
       "published_at": "2023-10-12T16:11:02Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
+    },
+    "StdJgdclw6I": {
+      "video_id": "StdJgdclw6I",
+      "title": "From Agents to Action: Scaling Agentic AI with Ray on Intel Xeon | Intel | Ray Summit 2026",
+      "duration_s": 1044,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Agentic AI shifts the focus from model inference to orchestrating workflows involving reasoning, retrieval, tool execution, and decision-making.\n\nAt Ray Summit 2026, Srikanthan Srinarayan, AI Software Engineer at Intel, highlights how Intel Xeon 6 processors and CPU-based small language models enable scalable, cost-effective agentic AI, and how Ray accelerates agent workflows through distributed execution, orchestration, and parallel tool invocation.\n\nYou'll leave knowing how to improve efficiency, resource utilization, and responsiveness for production agentic AI systems.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:55Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "Sv0wfbPp5LI": {
+      "video_id": "Sv0wfbPp5LI",
+      "title": "Building an AI Science Factory | Andrew Beam (Lila Sciences) | Ray Summit 2026",
+      "duration_s": 1028,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Only about 5% of scientific hypotheses can be verified cheaply. The rest require real experiments, which makes most of science dark matter for reinforcement learning. Lila Sciences is building the verifier: an autonomous laboratory designed to train AI models.\n\nAndrew Beam is the CTO of Lila Sciences and has spent nearly two decades at the frontier of AI in science, from Harvard Medical School to Generate Biomedicines. In this talk, he shows how Lila's AI science factory closes the loop between models and physical experiments: an AI that designs quantum dots to a target wavelength, an in vivo CAR-T candidate reached in months instead of years at a fraction of the cost, and one of the first scaling laws for scientific intelligence, measured across thousands of experimental tasks. All of it feeds one model, trained on Anyscale.\n\nLiked this video? Check out other Ray Summit keynote sessions: https://www.youtube.com/playlist?list=PLYnBpswCtPo4\n \nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n \n 🔗 Connect with us:\n LinkedIn: https://www.linkedin.com/company/joinanyscale/\n X: https://x.com/anyscalecompute\n Website: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:47Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "Sy-Xp-sdlh0": {
       "video_id": "Sy-Xp-sdlh0",
@@ -2423,6 +3039,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "TVLmjuUVYPI": {
+      "video_id": "TVLmjuUVYPI",
+      "title": "GLM-5 RL Training with vLLM | Prime Intellect | Ray Summit 2026",
+      "duration_s": 1638,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Training trillion-parameter MoE models on long-horizon agentic tasks demands that inference and optimization scale independently.\n\nAt Ray Summit 2026, Sami Jaghouar and Radhika Gaonkar from Prime Intellect present the asynchronous prime-rl stack, using GLM-5.1 as a case study: runs at up to 131K sequence length with 256 rollouts and sub-five-minute steps on 28 H200 nodes. They explain how vLLM powers low-precision inference, prefill/decode disaggregation, prefix-aware routing, and distributed KV cache storage, while the trainer combines FSDP, context parallelism, and expert parallelism.\n\nYou'll leave seeing how these pieces reduce idle time and make frontier-scale agentic post-training more efficient.\n\nThis session was part of the first vLLM Conference at Ray Summit, hosted by Inferact.\n\nLiked this video? Check out other Ray Summit vLLM session recordings: https://www.youtube.com/playlist?list=PLXMguE8Nc9o4\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:07:44Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "TogUKeGdjhk": {
       "video_id": "TogUKeGdjhk",
       "title": "Simplified Training, Tuning and Deployment of Foundational Models as a Service with Red Hat OpenShif",
@@ -2474,6 +3103,19 @@
       "published_at": "2023-10-12T16:10:26Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
+    },
+    "UWjMK_mtH0s": {
+      "video_id": "UWjMK_mtH0s",
+      "title": "Ray History Server: Observability for Ephemeral K8s Clusters | KubeRay | Ray Summit 2026",
+      "duration_s": 1033,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Ephemeral Ray clusters on Kubernetes improve cost efficiency and resource sharing, but once a cluster is deleted, the Ray dashboard, jobs, tasks, actors, logs, events, and node state disappear, making post-mortem debugging difficult.\n\nAt Ray Summit 2026, JiaWei Jiang (University of Washington), Aaron Liang (Google), and Hanju Chen (Texas A&M) introduce the Ray History Server, a new KubeRay project with two components: lightweight sidecars that persist the necessary data, and a stateless server that reconstructs the telemetry so users can view historical jobs, tasks, logs, and statuses.\n\nYou'll leave knowing how to keep observability after your clusters are gone.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:18Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "UcnP3_O1X5g": {
       "video_id": "UcnP3_O1X5g",
@@ -2878,6 +3520,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "XRHMqpTCeNM": {
+      "video_id": "XRHMqpTCeNM",
+      "title": "Ray in Production: Engineering Lessons from Spotify's Hendrix Framework | Spotify | Ray Summit 2026",
+      "duration_s": 1912,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Ray powers the foundation model lifecycle at Spotify, from data preprocessing and distributed training to evaluation and deployment.\n\nAt Ray Summit 2026, Shawn Lin and Aamir Anwar from Spotify share how their internal platform provisions Ray clusters on Kubernetes with on-demand GPU infrastructure, how Ray Data drives distributed preprocessing, tokenization, and sequence packing, and how Ray Train powers FSDP2 and HSDP strategies that adapt to cluster topology. They dig into the engineering challenges of scaling these systems, including real debugging stories like an NCCL deadlock caused by uneven end-of-epoch behavior across distributed workers.\n\nYou'll leave with engineering lessons from operating large-scale foundation model workflows in production.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:18Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "Xb34YmbEiOc": {
       "video_id": "Xb34YmbEiOc",
       "title": "Ray Summit 2025 Keynote: The Shift to LLM Fine-Tuning with Thinking Machines",
@@ -2890,6 +3545,19 @@
       "published_at": "2025-11-08T00:07:04Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "Xh04f8eAPNc": {
+      "video_id": "Xh04f8eAPNc",
+      "title": "Accelerating Large Language Models: vLLM on TPUs | Google | Ray Summit 2026",
+      "duration_s": 1069,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Large language models demand significant computational power for inference, and TPUs are becoming a first-class target for serving them.\n\nAt Ray Summit 2026, Qi Zhou, Senior Staff Software Engineer at Google, explores the work to leverage Google TPUs with vLLM, orchestrated by Ray. He covers the performance and cost-efficiency benefits of TPU-based LLM serving, key enablers like the TorchTPU backend that brings a native PyTorch experience to TPUs, and insights from optimizing and scaling vLLM deployments.\n\nYou'll leave with the architectural approaches, the challenges overcome, and the outlook for high-performance, TPU-accelerated LLM inference with vLLM and Ray.\n\nThis session was part of the first vLLM Conference at Ray Summit, hosted by Inferact.\n\nLiked this video? Check out other Ray Summit vLLM session recordings: https://www.youtube.com/playlist?list=PLXMguE8Nc9o4 \n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:58Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "XmUVT2ZvDJ0": {
       "video_id": "XmUVT2ZvDJ0",
@@ -2929,6 +3597,19 @@
       "published_at": "2024-10-21T23:25:00Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "Y1izakNit-g": {
+      "video_id": "Y1izakNit-g",
+      "title": "Scaling the Ray Serve Controller to Thousands of Replicas | Anyscale | Ray Summit 2026",
+      "duration_s": 1406,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "As Ray Serve deployments grow to thousands of autoscaling replicas, the Serve controller, the brain coordinating every replica and routing decision, becomes the bottleneck: control-loop latency climbs and autoscaling decisions act on stale, seconds-old metrics.\n\nAt Ray Summit 2026, Abrar Sheikh, Software Engineer at Anyscale, walks through a systematic scalability experiment that pushed a single controller to 2,048 replicas and pinpointed where the time actually goes, plus the two optimizations that moved the needle: a Pydantic v2 migration of the serialization layer and a Cython-based metrics aggregation path, together delivering a 7x faster control loop, 3.6x higher controller throughput, and 15x fresher replica metrics at peak scale.\n\nYou'll leave knowing where controller time goes and how to scale past it.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:18Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "Y3mqEM05SS8": {
       "video_id": "Y3mqEM05SS8",
@@ -3073,6 +3754,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
     },
+    "Zln7cKS75WY": {
+      "video_id": "Zln7cKS75WY",
+      "title": "Closing the Train-Inference Divide for Asynchronous RL at Scale | Lila Sciences | Ray Summit 2026",
+      "duration_s": 817,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "In asynchronous RL with disaggregated training and inference, even slight differences in model behavior between the training and inference stack can cause significant training instabilities that are painful to debug.\n\nAt Ray Summit 2026, Dominic Yurk, AI Researcher at Lila Sciences, walks through two contributions upstreamed to SkyRL that close that gap: faithful replay of expert-router decisions and of per-token sample support, both captured at rollout and reconstructed exactly on the training side. He digs into the engineering: a consistent abstraction for attaching token-level metadata, efficient encoding and transport of large-scale router replay data, and a sparse representation that makes sample-support computation fast at scale.\n\nYou'll leave with empirical results showing the effect on training stability and throughput.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:18Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "ZxaMq-i6HC0": {
       "video_id": "ZxaMq-i6HC0",
       "title": "Fast and Scalable Model Training with PyTorch and Ray",
@@ -3164,6 +3858,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "_xLnyRFK54o": {
+      "video_id": "_xLnyRFK54o",
+      "title": "From Self-Managed Ray to Anyscale Services: Migrating ML Serving | Coinbase | Ray Summit 2026",
+      "duration_s": 934,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Coinbase moved production ML serving from self-managed Ray Serve on Kubernetes to Anyscale Services, and now powers roughly 1 billion inferences per day.\n\nAt Ray Summit 2026, Aman Choudhary and Akshit Trehan from Coinbase cover the compounding pain points that drove the migration: Ray upgrades that took weeks and left them behind on critical fixes, homogeneous nodes that forced GPU overprovisioning for CPU-only models, and manual deployments that took 30 to 60 minutes per rollout. They show how the move eliminated operational overhead while enabling heterogeneous compute, proper resource isolation, and reliability and performance improvements they couldn't achieve before.\n\nYou'll leave with a playbook for migrating production ML serving at scale.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:18Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "_yu0Rtuetuc": {
       "video_id": "_yu0Rtuetuc",
       "title": "How Ray Empowered Ant Group to Deliver a Large-Scale Online Serverless Platform",
@@ -3203,6 +3910,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
     },
+    "bDG8f5KGetw": {
+      "video_id": "bDG8f5KGetw",
+      "title": "Where’s My Training Job? Ray & GPU Observability at Datadog | Datadog | Ray Summit 2026",
+      "duration_s": 727,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Ray enables large distributed training workloads across GPU fleets, but understanding what happens inside each job remains difficult.\n\nAt Ray Summit 2026, Marina Petzel and Ashley Chu from Datadog share how they built a unified job-level view that preserves history beyond cluster lifetimes, traces work across Ray processes, and connects failures with GPU health, utilization, and cost.\n\nYou'll leave seeing why distributed AI observability should center the job, not just the infrastructure.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:51Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "bEp_bBrAxak": {
       "video_id": "bEp_bBrAxak",
       "title": "Building Production AI Applications with Ray Serve",
@@ -3228,6 +3948,32 @@
       "published_at": "2024-11-06T17:27:24Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "bgem5_ooJqk": {
+      "video_id": "bgem5_ooJqk",
+      "title": "Serving a Frontier Open Model with Ray & vLLM | Nscale | Ray Summit 2026",
+      "duration_s": 1707,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "A simpler setup delivered more tokens per second, with the first token arriving sooner for a single request, than the model card's reference configuration.\n\nAt Ray Summit 2026, Eyal Lantzman, VP of AI Services at Nscale, uses DeepSeek-V4-Flash, Ray, and vLLM to explore the practical tradeoffs between scaling strategies, including tensor and expert parallelism, prefill/decode disaggregation, and whole-replica scale-out, plus the production caveats that matter at scale, from GPU topology and cache pressure to long context and speculative decoding.\n\nYou'll leave with what worked, what didn't, and how to choose a scaling strategy for frontier open models.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:18Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "bmACTn-hAMs": {
+      "video_id": "bmACTn-hAMs",
+      "title": "Multi-Region, Environment Isolated Ray Environments in the Notion Way | Notion | Ray Summit 2026",
+      "duration_s": 1253,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Consistent, permissioned Ray environments across every environment and region, deployed seamlessly.\n\nAt Ray Summit 2026, Nathan Louie, Yunhao Qing, and Preeti Gondi from Notion show how Terraform automation and cell infrastructure make multi-region, environment-isolated Ray deployments repeatable, the Notion way.\n\nYou'll leave with patterns for standardizing Ray environments across a growing organization.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:07:44Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "br7yY0Pdi-Y": {
       "video_id": "br7yY0Pdi-Y",
@@ -3357,6 +4103,32 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "ckfP6i9JWPc": {
+      "video_id": "ckfP6i9JWPc",
+      "title": "From OOMs to 2x Throughput: Scaling Multimodal Data Curation on Ray | Zoox | Ray Summit 2026",
+      "duration_s": 1850,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Curating pre-training data for multimodal driving foundation models means extracting camera, lidar, and vehicle-state data from terabytes of sensor logs, where underlying C++ libraries can cause memory leaks, hangs, or segfaults that are hard to isolate.\n\nAt Ray Summit 2026, Anindya Saha, ML Platform Engineer at Zoox, shows how combining Ray Data streaming with Ray Core task isolation curates more than 7 million samples per run across 200 nodes, at over 2x the efficiency of the previous pipeline.\n\nYou'll leave with the architecture, failure-isolation strategy, and structured observability that made these runs scalable and recoverable.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:07:44Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "dETUxz8bsB8": {
+      "video_id": "dETUxz8bsB8",
+      "title": "Custom Pipeline Parallelism for Frontier-Scale Model Serving | Apple | Ray Summit 2026",
+      "duration_s": 1311,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Serving frontier-scale mixture-of-experts models at low latency requires cross-node pipeline parallelism, but vLLM's compiled-DAG approach deadlocks beyond two stages, and the safe workaround leaves half the GPUs idle.\n\nAt Ray Summit 2026, Abin Shahab and Michael Lee from Apple show how they turned Ray's single-threaded FIFO actor mailboxes into the pipeline scheduler itself, bypassing compiled DAGs, then cut two hidden CPU bottlenecks to reach up to 1.5x throughput.\n\nYou'll leave able to diagnose these failures and rebuild fast pipeline parallelism on Ray and vLLM.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:58Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "dHEZit6tl8E": {
       "video_id": "dHEZit6tl8E",
       "title": "Anyscale Replica Compaction",
@@ -3448,6 +4220,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "eHb9Z6AxdMk": {
+      "video_id": "eHb9Z6AxdMk",
+      "title": "Inside Lila's AI Research Platform | Lila Sciences | Ray Summit 2026",
+      "duration_s": 2003,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "At Lila Sciences, AI research runs on a self-service, cloud-native foundation.\n\nAt Ray Summit 2026, Priunsh Syen and Tyler Titsworth from Lila Sciences give a high-level overview of Lila's AI platform and the unique problems they solved along the way: the theoretical foundation and a four-layer-cake model of the stack, how they think about compute platforms that need to be AI-native, top-down, and workflow-oriented, and how they turn complex infrastructure into approachable tools, from post-training LLMs to massive ETL pipelines of instrument data and protein structure prediction.\n\nYou'll leave with a blueprint for platform design that helps researchers move faster.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:07:45Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "eP4AB6IhBNs": {
       "video_id": "eP4AB6IhBNs",
       "title": "Scaling LLMs on Google Cloud: Synergy Between Ray, TPU, and GKE | Ray Summit 2024",
@@ -3500,6 +4285,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
     },
+    "ehbse-eGsKg": {
+      "video_id": "ehbse-eGsKg",
+      "title": "LLM Post-Training and High-Performance Serving | Anyscale | Ray Summit 2026",
+      "duration_s": 8224,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "\"Github repository: https://github.com/anyscale/ray-summit-training-2026/tree/main/llm-serving-for-coding-agents \n\nLearn how to productionize large language models using distributed post-training and inference optimization techniques.\n\nThis hands-on training session covers multi-turn RL with SkyRL, agentic RL with LLM as a judge, performance monitoring and tuning of distributed LLM inference for RL rollouts, deploying custom LLMs on Anyscale and integrating them with agentic platforms like Claude Code, Cursor, and Codex, and optimizing deployment with fast loading, compile caching, FP8 KV cache, CUDA graphs, autoscaling, and speculative decoding.\n\nYou'll leave able to tune LLM serving end to end and compare costs across self-hosted GPUs, subscriptions, and token-based API billing.\n\nLiked this video? Check out other Ray Summit training session recordings: https://www.youtube.com/playlist?list=PLUpYVYRTFCQM\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/\"",
+      "published_at": "2026-09-17T16:00:36Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "eqXfwM641a4": {
       "video_id": "eqXfwM641a4",
       "title": "Ray Dashboard Series: Part Three | Serve",
@@ -3512,6 +4310,19 @@
       "published_at": "2023-05-16T22:24:56Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
+    },
+    "eu1R58lqfDc": {
+      "video_id": "eu1R58lqfDc",
+      "title": "Training Frontier Knowledge Work Agents: A 397B Open Recipe with SkyRL | Mercor | Ray Summit 2026",
+      "duration_s": 2325,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Mercor RL-post-trained agents to climb APEX-Agents, its benchmark of real knowledge work tasks in investment banking, consulting, and law, scaling model size from 35B to 397B using 20 H200 nodes on Ray, with a headline run improving Pass@1 from 16.11% to 27.29%. The full recipe is open source.\n\nAt Ray Summit 2026, Edward Hu and Charlie Ruan from Mercor walk through making data RL-ready and driving harness error rates near zero before training starts, making agent loops token-in-token-out, the algorithmic choices that mattered in practice, generalization studies across held-out harnesses and datasets, and a transparent per-step cost breakdown of what a run like this actually costs.\n\nYou'll leave seeing why Mercor treats post-training as a platform decision across compute backends, harnesses, and data.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:51Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "f-Bwru7TJSc": {
       "video_id": "f-Bwru7TJSc",
@@ -3538,6 +4349,32 @@
       "published_at": "2024-10-18T21:08:42Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "f4BLia48tEU": {
+      "video_id": "f4BLia48tEU",
+      "title": "Building Self-Serve, Multimodal Medical Image Pipelines with Ray | Heartflow | Ray Summit 2026",
+      "duration_s": 1740,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Heartflow's internal data platform turns data transformations into fault-tolerant, scalable pipelines running nightly on Anyscale, with no Ray code required.\n\nAt Ray Summit 2026, Deepak Sharma and Patrick Violette from Heartflow show how the platform, built on Ray Data and Ray Core, provides self-serve medallion pipelines that autoscale on spot instances, evolve schemas, and publish to Iceberg, powering everything from coronary plaque analytics to metadata extraction from millions of medical images.\n\nYou'll leave with their architecture, how they scaled it, and lessons from running production Ray across teams.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:58Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "f5TYdiw4-lE": {
+      "video_id": "f5TYdiw4-lE",
+      "title": "Agents and Robots: The Human Effort Putting AI Into Production | Encord | Ray Summit 2026",
+      "duration_s": 495,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Whether it's an agent or a robot, production AI runs into the messy reality of its own data: raw output that's unstructured, unlabeled, and full of the ambiguous long-tail cases that decide whether the system actually works.\n\nAt Ray Summit 2026, Oscar Evans, AI Solutions Lead at Encord, looks at how teams building acting AI, in software and in the physical world, turn raw logs and interaction traces into curated datasets that carry human context and reasoning. He walks the spectrum from model-driven curation to human-driven correction, with practical guidance on managing and labeling multimodal data efficiently and accurately.\n\nYou'll leave knowing where to let models carry the load, where human judgment is non-negotiable, and how to place the handoff between them for the biggest gains in model quality.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:58Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "f67SKoxR9H0": {
       "video_id": "f67SKoxR9H0",
@@ -3590,6 +4427,19 @@
       "published_at": "2025-11-18T17:43:30Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "fbbNmhWBS3Q": {
+      "video_id": "fbbNmhWBS3Q",
+      "title": "How Exa Indexes the Entire Web: Ray Data and Lance at Billion-Document Scale | Exa | Ray Summit 2026",
+      "duration_s": 2001,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Maintaining a search index over hundreds of billions of web pages means constantly reprocessing derived artifacts, embeddings, extracted text, and search signals, as content changes. Off-the-shelf data warehouses couldn't meet Exa's need for column-level updates at petabyte scale.\n\nAt Ray Summit 2026, Lei Xu, CTO and co-founder of LanceDB, and Hubert Yuan, Software Engineer at Exa, walk through exa-d, Exa's data framework built on Lance and Ray Data: how dependency graphs drive execution, how fragment-level patching avoids write amplification, and how Ray Actors enable stateful model reuse.\n\nYou'll leave with patterns for derived-data pipelines at billion-document scale.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:58Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "g6gfbPYw4fc": {
       "video_id": "g6gfbPYw4fc",
@@ -3708,6 +4558,32 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
     },
+    "h5WslH8dFkM": {
+      "video_id": "h5WslH8dFkM",
+      "title": "Simulating the Physical World at Scale: Humanoid Locomotion with Ray | Lambda | Ray Summit 2026",
+      "duration_s": 775,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Scale humanoid locomotion and navigation training and simulation from a single GPU to a distributed Lambda GPU cluster.\n\nAt Ray Summit 2026, Amir Zadeh, Staff Machine Learning Researcher at Lambda, demonstrates Isaac Lab running thousands of parallel simulations while Ray orchestrates training jobs and hyperparameter tuning across multiple GPUs: building a navigation task, launching distributed experiments, and evaluating the resulting policy in unseen environments, with better visibility into experiment performance and GPU utilization along the way.\n\nYou'll leave with a practical blueprint for accelerating physical AI development while reducing training time and cost.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:51Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "h5hVWBPAP8A": {
+      "video_id": "h5hVWBPAP8A",
+      "title": "KV Cache and Long-Context Inference: Solutions for Inference at Scale | VAST Data | Ray Summit 2026",
+      "duration_s": 724,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "As agentic AI drives ever-longer context windows, KV cache has become the new memory wall, dwarfing GPU HBM capacity and forcing costly recomputation on every session resume.\n\nAt Ray Summit 2026, Vaughn Stewart, VP of Systems Engineering at VAST Data, covers how offloading KV cache to VAST's flash-based storage with NVIDIA Dynamo and BlueField-4/CMX architecture eliminates that tax: 20x faster time to first token, 90 percent GPU time savings, and up to 64 percent lower three-year TCO.\n\nYou'll leave with sizing guidance, benchmark data, and a blueprint for scaling inference context without scaling GPU spend.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:18Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "h6onw7ufRok": {
       "video_id": "h6onw7ufRok",
       "title": "Building a Distributed Query Engine with Ray",
@@ -3720,6 +4596,19 @@
       "published_at": "2023-10-12T16:10:01Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
+    },
+    "hATMyrrdLWY": {
+      "video_id": "hATMyrrdLWY",
+      "title": "Reward Hacking and the Gaps in Agentic AI | Ion Stoica (Anyscale) | Ray Summit 2026",
+      "duration_s": 1899,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "\"AI coding agents write and test code orders of magnitude faster than humans. The failures are piling up just as fast, and they share a common underlying structure.\n\nIon Stoica is the director of the Sky Computing Lab at UC Berkeley, co-founder and executive chairman of Anyscale, and a co-founder of Databricks. His work spans some of the most widely used open source projects in history, including Apache Spark, Ray, and vLLM. In this talk, he presents unpublished new research on why agents reward hack and hallucinate: the gaps between what users intend and what requirements specify, and between development environments and the real world. He shows an agent that made a key-value store six times faster by not storing the values, explains why these gaps can be narrowed but never closed, and argues that AI-generated code should be treated as malicious by default.\n\nLiked this video? Check out other Ray Summit keynote sessions: \nhttps://www.youtube.com/playlist?list=PLYnBpswCtPo4\n \nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n \n 🔗 Connect with us:\n LinkedIn: https://www.linkedin.com/company/joinanyscale/\n X: https://x.com/anyscalecompute\n Website: https://www.anyscale.com/\"",
+      "published_at": "2026-09-17T16:01:51Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "hC668miU5Nw": {
       "video_id": "hC668miU5Nw",
@@ -3786,6 +4675,32 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "ha-Tp0-SNoA": {
+      "video_id": "ha-Tp0-SNoA",
+      "title": "State of vLLM 2026 | Inferact | Ray Summit 2026",
+      "duration_s": 1829,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "vLLM's engine, ecosystem, and contributor base are all growing fast. This talk surveys where the project stands and the roadmap ahead.\n\nAt Ray Summit 2026, Woosuk Kwon and Zachary Xi of Inferact cover the Flat Model and Model Runner V2 migrations, disaggregated serving with multi-tier KV offloading, speculative decoding toward 1000+ TPS, and production-grade quantized KV cache compression, plus the infrastructure, CI, and security work needed to support a rapidly growing contributor base and the expanding ecosystem around quantization, speculation, RL frameworks, and vLLM-Omni for real-time multimodal models.\n\nYou'll leave current on vLLM across its engine, ecosystem, and open-source practices.\n\nThis session was part of the first vLLM Conference at Ray Summit, hosted by Inferact.\n\nLiked this video? Check out other Ray Summit vLLM session recordings: https://www.youtube.com/playlist?list=PLXMguE8Nc9o4 \n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:07:46Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "hwZfXCYgWNQ": {
+      "video_id": "hwZfXCYgWNQ",
+      "title": "From Benchmark #1 to Production | Nebius | Ray Summit 2026",
+      "duration_s": 957,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Before joining Nebius, the Eigen AI team held the top spots on Artificial Analysis inference benchmarks across multiple models.\n\nAt Ray Summit 2026, Ryan Wang, SVP of Applied AI at Nebius, covers the inference framework techniques behind those results, from kernel and runtime optimization to NVFP4 quantization on Blackwell and speculative decoding, and what changes when you go from benchmark wins to production traffic at scale on Nebius Token Factory.\n\nYou'll leave with concrete optimization techniques and a clear sense of what production traffic actually demands.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:18Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "hyqLMKh-nY0": {
       "video_id": "hyqLMKh-nY0",
       "title": "How Samsara Built an Agentic Framework for GenAI Applications | Ray Summit 2024",
@@ -3811,6 +4726,19 @@
       "published_at": "2023-05-16T22:01:34Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
+    },
+    "iJCyTwAn9b0": {
+      "video_id": "iJCyTwAn9b0",
+      "title": "Foundation Model Distributed Training with Ray | Anyscale | Ray Summit 2026",
+      "duration_s": 8073,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "\"Github repository: https://github.com/anyscale/ray-summit-training-2026/tree/main/ray_summit_foundation_model_training_2026 \n\nBuild and optimize large-scale distributed training systems for foundation models using modern parallelism and orchestration techniques.\n\nThis hands-on training session covers data, tensor, pipeline, sequence/context, and expert parallelism, multidimensional parallelism, DDP, FSDP, and DeepSpeed (ZeRO 1-3) training architectures, multi-node GPU scheduling and orchestration, checkpointing and fault recovery, distributed data sharding and ingestion with Ray Data, and training throughput and utilization optimization.\n\nYou'll leave knowing how systems built with Ray handle multi-node training, communication bottlenecks, and cluster-scale performance optimization.\n\nLiked this video? Check out other Ray Summit training session recordings: https://www.youtube.com/playlist?list=PLUpYVYRTFCQM\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/\"",
+      "published_at": "2026-09-17T16:00:37Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "iMttGrkgn5E": {
       "video_id": "iMttGrkgn5E",
@@ -3851,6 +4779,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "inti906FSuo": {
+      "video_id": "inti906FSuo",
+      "title": "How a Transformers Model Loads in vLLM | Hugging Face | Ray Summit 2026",
+      "duration_s": 1313,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "The Transformers modeling backend for vLLM lets you serve Hugging Face Transformers model implementations at full vLLM speed, with access to all of vLLM's features.\n\nAt Ray Summit 2026, Harry Mellor, Machine Learning Engineer at Hugging Face, takes a deep dive into how a Transformers model loads in vLLM and, as a consequence, why its performance and feature access are so strong.\n\nYou'll leave understanding the mechanics behind the backend and when to reach for it.\n\nThis session was part of the first vLLM Conference at Ray Summit, hosted by Inferact.\n\nLiked this video? Check out other Ray Summit vLLM session recordings: https://www.youtube.com/playlist?list=PLXMguE8Nc9o4 \n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:18Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "j-JzWvN3REw": {
       "video_id": "j-JzWvN3REw",
       "title": "Anyscale's Ray Data: Revolutionizing Batch Inference | Ray Summit 2024",
@@ -3890,6 +4831,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
     },
+    "jAf3ZkJR0_I": {
+      "video_id": "jAf3ZkJR0_I",
+      "title": "Koba: Disaggregated Data Loading for Multimodal Training at Luma AI | Luma AI | Ray Summit 2026",
+      "duration_s": 1936,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "As models and data grow, the multimodal training bottleneck increasingly comes from the surrounding input work rather than the training step itself: decoding, transformation, and tokenization contending with gradient computation for accelerator time.\n\nAt Ray Summit 2026, Minghao Xie and Haoran Cai from Luma AI present Koba, their multimodal data-loading framework, and Kojo, a Ray-based substrate that disaggregates stateless preprocessing stages onto managed actor pools while preserving the existing training loop. The result: compute that scales on its own pool independently of the trainer, fault isolation so a preprocessing failure no longer cascades into training, and reclaimed accelerator capacity returned to the gradient path.\n\nYou'll leave with a reusable pattern for relocating stateless, out-of-step computation off the training GPUs and onto Ray, plus the operational lessons of running it at scale.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:58Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "jL30JowDKH8": {
       "video_id": "jL30JowDKH8",
       "title": "Semiconductor Fab Production Scheduling Using Deep Reinforcement Learning",
@@ -3915,6 +4869,19 @@
       "published_at": "2024-10-18T21:06:08Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "jNSjjduRhS0": {
+      "video_id": "jNSjjduRhS0",
+      "title": "Towards Clinically Grounded LLMs | SonderMind | Ray Summit 2026",
+      "duration_s": 1787,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Mental health support represents a top use case for LLMs, making safe, clinically faithful models an urgent need. In-context learning is powerful, but meaningful support may rely on tacit dynamics that resist explicit prompting.\n\nAt Ray Summit 2026, Anne Clarke and Akele Reed from SonderMind show how they fine-tune a suite of models across families, sizes, and architectures with LoRA on de-identified therapist language, robustly shifting domain performance toward the gold standard of human therapeutic care while preserving the constraints that keep deployment bounded, scoped, and responsible.\n\nYou'll leave with an approach to clinically grounded fine-tuning.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:51Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "jVIcBVqPA0g": {
       "video_id": "jVIcBVqPA0g",
@@ -3981,6 +4948,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
     },
+    "kOMAMEhM_Ag": {
+      "video_id": "kOMAMEhM_Ag",
+      "title": "Highly Compressed Gemma Models with Custom Quantization-Aware Training | DeepMind | Ray Summit 2026",
+      "duration_s": 1523,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Gemma's custom quantization work produces highly compressed quantization-aware training checkpoints while preserving model quality.\n\nAt Ray Summit 2026, Sara Smoot, Software Engineering Manager at Google DeepMind, covers how quantization methods, checkpoint design, and serving integration work together to reduce memory requirements and inference costs, along with practical considerations for deploying these compressed models with vLLM.\n\nYou'll leave knowing what it takes to serve highly compressed Gemma models in production.\n\nThis session was part of the first vLLM Conference at Ray Summit, hosted by Inferact.\n\nLiked this video? Check out other Ray Summit vLLM session recordings: https://www.youtube.com/playlist?list=PLXMguE8Nc9o4 \n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:58Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "ki5N_hpRNOk": {
       "video_id": "ki5N_hpRNOk",
       "title": "Ray Summit 2025 Keynote: Ray + Anyscale Announcements - RDMA, PyTorch Foundation, MLOps, Azure",
@@ -3994,6 +4974,41 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "km0KjONE4Ao": {
+      "video_id": "km0KjONE4Ao",
+      "title": "Multi-Modal Data Processing Pipelines for AI Systems | Anyscale | Ray Summit 2026",
+      "duration_s": 8810,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "\"Github repository: https://github.com/anyscale/ray-summit-training-2026/tree/main/ray_summit_data_training_2026 \n\nDesign and optimize high-throughput distributed data pipelines for modern AI workloads.\n\nThis hands-on training session covers distributed preprocessing and ETL architectures, large-scale shuffling and streaming pipelines, integration with LLM inference engines like vLLM, fault tolerance and recovery patterns, and pipeline throughput optimization and performance evaluation.\n\nYou'll leave knowing how to choose the right distributed primitives and evaluate performance tradeoffs across large-scale structured, unstructured, and multimodal datasets.\n\nLiked this video? Check out other Ray Summit training session recordings: https://www.youtube.com/playlist?list=PLUpYVYRTFCQM\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/\"",
+      "published_at": "2026-09-17T16:00:36Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "kqI_YboaGXE": {
+      "video_id": "kqI_YboaGXE",
+      "title": "Ray Across the Stack Fine Tuning Qwen and Serving 3D Generation at Autodesk with AWS Trainium and In",
+      "duration_s": 1821,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos"
+    },
+    "l1E-Ox2nR6U": {
+      "video_id": "l1E-Ox2nR6U",
+      "title": "Building AV 3.0 for Autonomous Trucking | Felix Heide (Torc Robotics) | Ray Summit 2026",
+      "duration_s": 1278,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "An autonomous truck at highway speed has to perceive and plan at ranges five times longer than a robotaxi. The benchmarks, datasets, and driving stacks built for urban driving don't transfer.\n\nFelix Heide leads AI at Torc Robotics, building fully autonomous long-haul trucking. In this talk, he covers Torc's AV3.0 approach: an end-to-end virtual driver trained with self-play reinforcement learning, where every vehicle in simulation is driven by the same learning policy and difficulty scales itself. He walks through the TruckDrive dataset introduced at CVPR 2026, generative simulation for synthesizing long-tail scenarios, and the training infrastructure behind it all: a billion simulated miles per weekend, training jobs spanning CPU nodes and multiple GPU generations in one pool, all orchestrated on Anyscale.\n\nLiked this video? Check out other Ray Summit keynote sessions: https://www.youtube.com/playlist?list=PLYnBpswCtPo4\n \nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n \n 🔗 Connect with us:\n LinkedIn: https://www.linkedin.com/company/joinanyscale/\n X: https://x.com/anyscalecompute\n Website: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:51Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "lO335UWNGWY": {
       "video_id": "lO335UWNGWY",
       "title": "Multi-model composition with Ray Serve deployment graphs",
@@ -4006,6 +5021,19 @@
       "published_at": "2023-02-09T01:47:12Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
+    },
+    "lhOq0h7KPK8": {
+      "video_id": "lhOq0h7KPK8",
+      "title": "Scaling PyTorch Training with Ray Data on Uber's Michelangelo AI Platform | Uber | Ray Summit 2026",
+      "duration_s": 1951,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Uber scaled both feature preprocessing and training data loading with Ray Data across its Michelangelo ML platform.\n\nAt Ray Summit 2026, Ke Chen and Arushi Arora from Uber cover migrating feature transforms from Spark to native PyTorch on Ray Data, transitioning training dataloaders from Petastorm to Ray Data, and reliability and performance tuning at production scale.\n\nYou'll leave with practical guidance for adopting Ray Data in production and lessons learned at scale.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:21Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "lnDCyiWFDL4": {
       "video_id": "lnDCyiWFDL4",
@@ -4098,6 +5126,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "mgZXBf_nrQg": {
+      "video_id": "mgZXBf_nrQg",
+      "title": "Adapting Ray to Scale RL Training for Nemotron | NVIDIA | Ray Summit 2026",
+      "duration_s": 1545,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Nemotron is one of the leading open model families pushing the frontier of large-scale reinforcement learning. Training it with RL means coordinating complex datasets, long sequence lengths, a 550B-parameter architecture, and workloads spanning thousands of GPUs.\n\nAt Ray Summit 2026, Wenwen Gao and Saurabh Mishra from NVIDIA share how they evolved Ray into a critical orchestration layer for RL at this scale, walking through key improvements across scheduling, fault tolerance, workload coordination, and large-scale training operations that made massive RL jobs more reliable and efficient.\n\nYou'll leave with practical best practices and hard-earned lessons for adapting Ray-based infrastructure to large-scale RL training workloads.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:07:44Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "mppzZ4hLjXs": {
       "video_id": "mppzZ4hLjXs",
       "title": "From Batch to Personalized: Attentive's Journey with Ray and Anyscale | Ray on the Road – NYC 2025",
@@ -4123,6 +5164,19 @@
       "published_at": "2025-11-19T19:16:43Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "n0C1igDgNAU": {
+      "video_id": "n0C1igDgNAU",
+      "title": "LeRobot Dataset v3.0: Scaling Reads with Ray | Anyscale | Ray Summit 2026",
+      "duration_s": 842,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "LeRobot Dataset v3.0 is an emerging standard for robot manipulation data, but scaling reads from it is challenging: the format splits each episode across multiple video files while concatenating many episodes into the same file, so naive parallel processing requires opening each MP4 many times.\n\nAt Ray Summit 2026, Artur Niederfahrenhorst, Member of Technical Staff at Anyscale, looks at the format and at approaches for using it efficiently in Ray-powered pipelines.\n\nYou'll leave knowing how to read LeRobot data at scale without redundant decode work.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:07:44Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "n0zZX2bVcro": {
       "video_id": "n0zZX2bVcro",
@@ -4176,6 +5230,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "nB1p_3Bhj2Y": {
+      "video_id": "nB1p_3Bhj2Y",
+      "title": "Reward Stress Tests for Agentic Post-Training with Ray | Prime Intellect | Ray Summit 2026",
+      "duration_s": 1986,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "In agentic post-training, reward bugs become model behavior.\n\nAt Ray Summit 2026, Radhika Gaonkar, Applied Researcher at Prime Intellect, presents a Ray-based system for stress-testing reward designs and model checkpoints before scaling RL runs: distributed rollout sweeps, paired evaluations, failure traces, and CI-style gates that catch proxy hacks before training scales. Code: github.com/RGaonkar/ray-agent-reward-lab\n\nYou'll leave with a working approach to validating rewards before they cost you a training run.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:22Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "nPHYclgj81c": {
       "video_id": "nPHYclgj81c",
       "title": "Inside Netflix’s Mako: The Next-Gen ML Training Platform | Ray Summit 2025",
@@ -4189,6 +5256,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "nW9GRf_pyVM": {
+      "video_id": "nW9GRf_pyVM",
+      "title": "Production-Grade Distributed Inference with llm-d | Red Hat | Ray Summit 2026",
+      "duration_s": 1869,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "llm-d brings production-grade orchestration and distributed inference optimizations to vLLM deployments on Kubernetes.\n\nAt Ray Summit 2026, Greg Pereira and Michael Goin from Red Hat explore how intelligent prefix-cache-aware routing, prefill/decode disaggregation, hierarchical KV cache offloading, and traffic- and hardware-aware scheduling improve throughput and reliability across multi-node serving clusters, and how llm-d integrates vLLM with the Kubernetes Gateway API and operational tooling to create a modular serving stack.\n\nYou'll leave knowing how to deploy, scale, and tune llm-d for real-world production traffic.\n\nThis session was part of the first vLLM Conference at Ray Summit, hosted by Inferact.\n\nLiked this video? Check out other Ray Summit vLLM session recordings: https://www.youtube.com/playlist?list=PLXMguE8Nc9o4 \n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:58Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "nlbFV1j36bA": {
       "video_id": "nlbFV1j36bA",
       "title": "Ray Summit 2024",
@@ -4201,6 +5281,19 @@
       "published_at": "2024-10-01T19:25:02Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "nwdh1wEKing": {
+      "video_id": "nwdh1wEKing",
+      "title": "Scaling RL with Ray, Kubernetes, and TPUs | Google | Ray Summit 2026",
+      "duration_s": 2050,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Scaling agentic reinforcement learning requires thousands of scheduling decisions per second, which creates unique infrastructure challenges.\n\nAt Ray Summit 2026, Poonam Lamba and Nisha Johnson from Google present a reference architecture using Ray, Kubernetes, and Google TPUs: how Ray enables sub-second scheduling and fault tolerance, how GKE time-slicing and smart inference scheduling maximize accelerator utilization, and how PyTorch and JAX stacks run on TPUs, closing with RL performance benchmarks and Google's product roadmap.\n\nYou'll leave with a reference architecture for RL at scale.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:22Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "oHx77B5i8vk": {
       "video_id": "oHx77B5i8vk",
@@ -4241,6 +5334,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "ou4Bn76rTx0": {
+      "video_id": "ou4Bn76rTx0",
+      "title": "How to Build a Fully Autonomous Excavator | Vincent Gonguet (Bedrock Robotics) | Ray Summit 2026",
+      "duration_s": 910,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "\"Bedrock Robotics just deployed the first fully autonomous excavators on commercial construction sites for paying customers. No one in the cab, an end-to-end machine learning model running on board, doing real work for hours.\n\nVincent Gonguet leads technical foundations at Bedrock Robotics. Before Bedrock, he led Llama safety at Meta Superintelligence Labs and product groups that expanded internet access for over 300 million people. In this talk, he covers why construction is the strategic bottleneck autonomy should solve, how Bedrock retrofits its partners' existing machines, and three ways Ray powers the stack: heterogeneous CPU and GPU pipelines, mining ambiguous multimodal field data from over 50 machines, and a closed-loop simulator that models everything down to soil deformation.\n\nLiked this video? Check out other Ray Summit keynote sessions: https://www.youtube.com/playlist?list=PLYnBpswCtPo4\n \nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n \n 🔗 Connect with us:\n LinkedIn: https://www.linkedin.com/company/joinanyscale/\n X: https://x.com/anyscalecompute\n Website: https://www.anyscale.com/\"",
+      "published_at": "2026-09-17T16:01:51Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "owGJ9wvbr20": {
       "video_id": "owGJ9wvbr20",
       "title": "The LLM-Cloud Synergy: NebiusAI's Insider Perspective | Ray Summit 2024",
@@ -4253,6 +5359,19 @@
       "published_at": "2024-10-21T23:28:43Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "oyUbrX8ZF54": {
+      "video_id": "oyUbrX8ZF54",
+      "title": "Performant Training for All Workstreams | Latitude AI | Ray Summit 2026",
+      "duration_s": 1674,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "GPU utilization is a useful first signal, but past a point it decorrelates from real progress: a busy GPU is not always a fast one. Throughput maps directly to faster training, lower cost, and shorter iteration loops, so it is the metric Latitude optimizes against.\n\nAt Ray Summit 2026, Nicolas Cebron and Krishna Toshniwal from Latitude AI show how they tune the three stages that determine throughput together, the Ray Data pipeline, data transfer onto the GPU, and the training step, measuring each with Ray actors that report per-stage speed and rolling the signals into a fleet-wide live dashboard with one-click profiles for any run.\n\nYou'll leave with the throughput gains this made possible and a blueprint for making training throughput a metric your whole org watches and steadily drives up.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:58Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "p4_WM_9TSZc": {
       "video_id": "p4_WM_9TSZc",
@@ -4345,6 +5464,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
     },
+    "q30VOFRvCjY": {
+      "video_id": "q30VOFRvCjY",
+      "title": "Scaling Physical AI & Robotics Systems with Ray | Anyscale | Ray Summit 2026",
+      "duration_s": 8553,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "\"Github repository: https://github.com/anyscale/ray-summit-training-2026/tree/main/ray_summit_robotics_2026\n\nBuild an end-to-end physical AI workflow using distributed systems powered by Ray.\n\nThis hands-on training session works through robotics data preparation at scale with LeRobot, MCAP, and MP4, Vision-Language-Action model fine-tuning with distributed training, simulation-based evaluation with Isaac Lab, agent-assisted pipeline development with the Anyscale physical AI skill, model distillation for on-edge real-time inference, and world-foundation model pre-training at scale, with the action running live on a real robotic arm.\n\nYou'll leave with working patterns for taking robotics pipelines from data preparation to deployment.\n\nLiked this video? Check out other Ray Summit training session recordings: https://www.youtube.com/playlist?list=PLUpYVYRTFCQM\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/\"",
+      "published_at": "2026-09-17T16:00:37Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "q4Na3q_gQfk": {
       "video_id": "q4Na3q_gQfk",
       "title": "Building Scalable Cross-Modal Search with Ray | Ray Summit 2024",
@@ -4357,6 +5489,19 @@
       "published_at": "2024-10-21T23:23:07Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "q7lyd0womDU": {
+      "video_id": "q7lyd0womDU",
+      "title": "Serving vLLM on Intel GPUs, CPUs, and Gaudi | Intel | Ray Summit 2026",
+      "duration_s": 1869,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "A technical deep dive into vLLM on Intel platforms.\n\nAt Ray Summit 2026, Chendi Xue, AI Software Engineer at Intel, introduces Intel's optimized attention, mixture-of-experts, and GEMM operators powered by Triton and SYCL, shows how Intel's next-generation GPUs support native sub-8-bit microscaling formats (MXFP8/MXFP4), demonstrates how decoupling compute-bound prefill and memory-bound decode onto dedicated nodes eliminates inter-token latency spikes, and highlights Intel's backend support for vLLM-Omni for any-to-any multimodal models spanning text, video, and audio.\n\nYou'll leave with a map of vLLM performance across Intel GPUs, CPUs, and Gaudi.\n\nThis session was part of the first vLLM Conference at Ray Summit, hosted by Inferact.\n\nLiked this video? Check out other Ray Summit vLLM session recordings: https://www.youtube.com/playlist?list=PLXMguE8Nc9o4 \n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:51Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "qBPCIawHcB8": {
       "video_id": "qBPCIawHcB8",
@@ -4397,6 +5542,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "qhw3oiVxfT0": {
+      "video_id": "qhw3oiVxfT0",
+      "title": "Post-training Nemotron with Ray | Bryan Catanzaro (Nvidia) | Ray Summit 2026",
+      "duration_s": 1326,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "\"Demand for intelligence is effectively infinite, which means AI will always run at the limit of available compute. Once you accept that, efficiency is intelligence.\n\nBryan Catanzaro is VP of Applied Deep Learning Research at NVIDIA. His research led to the creation of cuDNN, the library beneath nearly every deep learning framework, and he helped lead the teams behind DLSS and Megatron. In this talk, he walks through how NVIDIA builds Nemotron, its open family of models, datasets, and techniques: pre-training in 4-bit arithmetic, hybrid SSM-transformer architectures, an ensemble of domain-expert teacher models distilled into one, and reinforcement learning across 15 environments, coordinated by Ray on thousands of Blackwell GPUs. He also explains why NVL72 exists and why open technologies matter for every company building its own AI.\n\nLiked this video? Check out other Ray Summit keynote sessions: \nhttps://www.youtube.com/playlist?list=PLYnBpswCtPo4\n \nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n \n 🔗 Connect with us:\n LinkedIn: https://www.linkedin.com/company/joinanyscale/\n X: https://x.com/anyscalecompute\n Website: https://www.anyscale.com/\"",
+      "published_at": "2026-09-17T16:01:51Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "qnhtKGDhVbg": {
       "video_id": "qnhtKGDhVbg",
       "title": "Apple’s Approach to Scalable Machine Learning Infrastructure on Ray | Ray Summit 2025",
@@ -4436,6 +5594,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "r9rV_c5_5uo": {
+      "video_id": "r9rV_c5_5uo",
+      "title": "Serving Fast and Smart: Getting the Most Out of Ray Serve LLM on GKE | Google | Ray Summit 2026",
+      "duration_s": 1087,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Get more out of your LLM serving with Ray Serve on GKE.\n\nAt Ray Summit 2026, Seiji Eicher, Software Engineer at Anyscale, and Spencer Peterson, Software Engineer at Google, show how to configure the latest features end to end to maximize throughput, minimize latency, and stay on top of day-two operations: managing your RayServices, accelerators, and network ingress with Kubernetes and the Gateway API.\n\nYou'll leave with best practices for production LLM serving on GKE.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:22Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "rF-b2qT2yT8": {
       "video_id": "rF-b2qT2yT8",
       "title": "How Uber Optimize Marketplaces with Ray | Ray Summit 2024",
@@ -4448,6 +5619,19 @@
       "published_at": "2024-10-18T22:25:24Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "rJ1yBqWFOU0": {
+      "video_id": "rJ1yBqWFOU0",
+      "title": "Anyscale on Azure: Build, Train, and Serve AI in Your Own Tenant | Microsoft | Ray Summit 2026",
+      "duration_s": 857,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Anyscale on Azure is an Azure-native integration co-engineered with Microsoft. Built on Ray and AKS, it helps teams run Python AI workloads on Azure with more speed, flexibility, and control.\n\nAt Ray Summit 2026, Daniel Arrizza, Field Engineer at Anyscale, and Bob Mital, Product Manager at Microsoft, show how it removes the familiar AI platform tradeoff between developer agility and platform governance, giving ML teams a faster way to build and run AI while helping platform teams keep operations under control.\n\nYou'll leave knowing how to build, train, and serve AI in your own Azure tenant.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:21Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "rNTnKrkfgvU": {
       "video_id": "rNTnKrkfgvU",
@@ -4540,6 +5724,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "rnanZRFbskk": {
+      "video_id": "rnanZRFbskk",
+      "title": "Scaling Machine Learning at Discord: Our Journey with Ray and Anyscale | Discord | Ray Summit 2026",
+      "duration_s": 1823,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Discord's ML engineers help connect people with the communities they'll love.\n\nAt Ray Summit 2026, Alex Furrier and Serrana Aguirregaray from Discord share the journey from single-node training to orchestrating distributed ML infrastructure on Ray and Anyscale, how that let the Revenue ML team ship Discord's first deep learning model for the Quests advertising pillar, and where distributed ML at Discord is headed next.\n\nYou'll leave with a realistic path from single-node ML to distributed infrastructure.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:21Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "rowxoxMsJH0": {
       "video_id": "rowxoxMsJH0",
       "title": "Distributed training with Ray on Kubernetes at Lyft",
@@ -4592,6 +5789,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
     },
+    "srmgiZdIpXk": {
+      "video_id": "srmgiZdIpXk",
+      "title": "Scaling Frontier AI with Ray on Kubernetes | KubeRay | Ray Summit 2026",
+      "duration_s": 1143,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Ray on Kubernetes has emerged as the go-to orchestration platform for large-scale compute, and through the KubeRay project the community is co-engineering Ray and Kubernetes to meet the reliability and scaling demands of frontier models.\n\nAt Ray Summit 2026, KubeRay maintainers Andrew Sy Kim (Google), Jui An Huang (Anyscale), and Hanju Chen (Texas A&M) share how the ecosystem is evolving to support emerging AI workloads, including post-training pipelines and agentic workflows, key community-driven initiatives addressing critical scaling gaps, and real-world lessons from frontier deployments.\n\nYou'll leave with the KubeRay roadmap and lessons from frontier deployments.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:21Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "stqi9CGsOb8": {
       "video_id": "stqi9CGsOb8",
       "title": "Introduction to Anyscale and Ray AI Libraries",
@@ -4604,6 +5814,19 @@
       "published_at": "2025-02-27T00:50:19Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
+    },
+    "svFhsSdCgqg": {
+      "video_id": "svFhsSdCgqg",
+      "title": "Ray Train on Anyscale: Observability and Reliability at Scale | Anyscale | Ray Summit 2026",
+      "duration_s": 1264,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Modern models can span thousands of GPUs and months of training. At this scale, failures become the norm, costing GPU hours and significant engineering time to diagnose.\n\nAt Ray Summit 2026, Jason Li and Mark Towers from Anyscale cover how Ray Train accelerates debugging and minimizes lost GPU hours across three common production failures, data starvation, NCCL hangs, and node preemptions, through rich data ingest observability, proactive hang detection, and JIT checkpointing, and how the Anyscale platform extends this to production scale with the Ray Train dashboard.\n\nYou'll leave knowing how to minimize lost GPU hours at production scale.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:21Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "tH3Vig7YYwg": {
       "video_id": "tH3Vig7YYwg",
@@ -4682,6 +5905,19 @@
       "published_at": "2023-10-12T16:08:50Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
+    },
+    "ts19xgCDoyE": {
+      "video_id": "ts19xgCDoyE",
+      "title": "Training AI on the Scientific Process | Liam Fedus (Periodic Labs) | Ray Summit 2026",
+      "duration_s": 1117,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "\"Today's models are trained on the finished record of science: the final paper, the final textbook. Periodic Labs is training AI on the scientific process itself, with autonomous physical labs as its reinforcement learning environments.\n\nLiam Fedus is the co-founder of Periodic Labs. At OpenAI, he was one of the researchers who helped create ChatGPT and served as VP of research leading post-training. In this talk, he shares how Periodic's AI explained experimental data that a landmark autonomous-lab study could not, surfacing a crystal structure found in no paper or database. He walks through why RL in the physical world breaks the assumptions of digital RL, how Periodic post-trains open models to exceed frontier models on materials characterization at a fraction of the inference cost, and a scaling result for the lab itself: four months of experiments compressed into under two weeks.\n\nLiked this video? Check out other Ray Summit keynote sessions:\nhttps://www.youtube.com/playlist?list=PLYnBpswCtPo4\n \nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n \n 🔗 Connect with us:\n LinkedIn: https://www.linkedin.com/company/joinanyscale/\n X: https://x.com/anyscalecompute\n Website: https://www.anyscale.com/\"",
+      "published_at": "2026-09-17T16:01:51Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "tu6OmjaqBxw": {
       "video_id": "tu6OmjaqBxw",
@@ -4773,6 +6009,19 @@
       "published_at": "2025-11-08T00:26:19Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
+    },
+    "uh4xtpos4mk": {
+      "video_id": "uh4xtpos4mk",
+      "title": "Vertical Mobility: Inference from MVP to Trillion Parameters | CoreWeave | Ray Summit 2026",
+      "duration_s": 705,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "The future of AI inference is not one-size-fits-all.\n\nAt Ray Summit 2026, Sitanshu Gupta, Director of Engineering for Inference Services at CoreWeave, explores a multi-tiered architecture that supports the full AI lifecycle, from rapid pay-per-token experimentation to dedicated, SLO-bound production and extreme-scale self-managed deployments, with lessons from CoreWeave's inference stack as performance, cost, and control requirements evolve.\n\nYou'll leave with a model for scaling an inference platform from MVP to trillion-parameter workloads.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:53Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "v-2qJEN_aow": {
       "video_id": "v-2qJEN_aow",
@@ -4903,6 +6152,19 @@
       "published_at": "2023-10-12T16:09:13Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
+    },
+    "wmNLd05bqGs": {
+      "video_id": "wmNLd05bqGs",
+      "title": "The Synthetic Data Flywheel | Pinterest | Ray Summit 2026",
+      "duration_s": 2036,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Generating millions of synthetic preference pairs for training requires orchestrating GPU inference, rate-limited search APIs, and LLM judges, each with different concurrency profiles and cost constraints.\n\nAt Ray Summit 2026, Eric Wang and Gaurav Arora from Pinterest share a composable operator framework on Ray Data where ML teams configure what runs, models, tools, and prompts, while the platform handles how it scales: streaming execution and backpressure across heterogeneous stages. The trained model then becomes a producer for the next round, driving iterative model self-improvement.\n\nYou'll leave with production results, architecture decisions, and the quality gains from closing the loop.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:53Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "wmPdiIkjR4U": {
       "video_id": "wmPdiIkjR4U",
@@ -5041,6 +6303,58 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:04+00:00"
     },
+    "yHuR4iRe73Q": {
+      "video_id": "yHuR4iRe73Q",
+      "title": "NVIDIA and vLLM Full-Stack Collaboration for DeepSeek and MiniMax Performance | Ray Summit 2026",
+      "duration_s": 1369,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "NVIDIA and the vLLM community collaborated to deliver record-setting DeepSeek and MiniMax performance in the SemiAnalysis InferenceX benchmark.\n\nAt Ray Summit 2026, Siyuan Fu, Software Engineer at NVIDIA, covers the full-stack optimization path, from kernel-level improvements powered by FlashInfer to distributed serving capabilities enabled by NVIDIA Dynamo, and shows how these contributions help vLLM users reach higher throughput, lower latency, and more efficient inference on NVIDIA GPUs.\n\nYou'll leave with a map of the optimizations and where they land in your stack.\n\nThis session was part of the first vLLM Conference at Ray Summit, hosted by Inferact.\n\nLiked this video? Check out other Ray Summit vLLM session recordings: https://www.youtube.com/playlist?list=PLXMguE8Nc9o4 \n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:59Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "yKt-CpfrOIE": {
+      "video_id": "yKt-CpfrOIE",
+      "title": "Inside BMW's AI Gateway: Self-Hosting Cost-Efficient AI at Enterprise Scale | BMW | Ray Summit 2026",
+      "duration_s": 1692,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Relying on APIs is a straightforward Day 1 solution, but the reality of production AI is that long-term enterprise scale requires self-hosting.\n\nAt Ray Summit 2026, Thomas Riedl, AI Platform Engineer at BMW Group, goes inside BMW's AI Gateway, the core of the Connected AI Platform bridging global engineering teams, a vast array of models, and millions of connected vehicles. He unpacks how BMW manages high-volume production traffic and maximizes hardware efficiency, showcasing the specific Ray and vLLM strategies that slash inference costs and power real-world applications at scale.\n\nYou'll leave with the architecture and economics of the transition to self-hosted AI at enterprise scale.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:07:49Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "yMcejOWY1I4": {
+      "video_id": "yMcejOWY1I4",
+      "title": "Scaling LLM Workloads on TPUs with Ray: From Pre-Training to Inference | Google | Ray Summit 2026",
+      "duration_s": 1667,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Scaling models across pre-training, post-training, and inference introduces complex distributed TPU orchestration challenges: topology-aware placement, coordinated scheduling, and failure recovery require abstractions beyond standard Kubernetes primitives.\n\nAt Ray Summit 2026, Ryan O'Leary, Software Engineer at Google, and Lehui Liu, Software Engineer at Anyscale, explore how Ray on GKE establishes a unified operational model for end-to-end TPU workloads, featuring elastic multi-slice training, multi-host inference, and performant PyTorch RL support scaled natively on Cloud TPUs.\n\nYou'll leave with an operational model for TPU workloads on Ray.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:06:21Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
+    "yXsZw3rnYOM": {
+      "video_id": "yXsZw3rnYOM",
+      "title": "What's new in Ray and Anyscale: KubeRay Connect, Native RDMA, and more | Ray Summit 2026",
+      "duration_s": 4119,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Anyscale and Nscale are coming together to build a vertically integrated, AI-native computing stack, optimized across every layer from power to tokens. That news opens the Day 1 keynote, followed by every Ray and Anyscale announcement of the summit. \n\nAnyscale CEO Keerti Melkote makes the case for owning your intelligence through continual learning loops, then sits down with Josh Payne, founder and CEO of Nscale, to talk through what the combination means for Ray, for Anyscale's multi-cloud strategy, and for the developers building on both, including Nscale's commitment of over 300,000 GPUs over the next two years and Ray remaining open source and community-governed under the PyTorch Foundation.\n\nRobert Nishihara, creator of Ray, follows with the anatomy of a reinforcement learning workload and why it is one of the hardest distributed systems problems in AI. The Ray team then covers a year of development: cgroup-based resource isolation on Kubernetes, the new Ray history server, 10x faster startup for 32,000 actors, topology-aware scheduling for multi-host TPUs and NVIDIA Blackwell GPUs, Ray Direct Transport in beta, Ray Data scaling to 5,000 GPUs, Ray Sandboxes launching 100,000 sandboxes in 30 seconds, and Ray Serve LLM reaching general availability. Christian Stano, Field CTO, maps the platform stack from one cluster to many clouds, followed by a live demo of coding agents building a complete learning loop and two announcements: Anyscale KubeRay Connect, which connects an existing KubeRay cluster to Anyscale in minutes with no migration, and Anyscale GPU health observability, which takes hardware root cause analysis from hours to seconds.\n\nChapters: \n00:00 Intro: Keerti Melkote, CEO, Anyscale \n07:28 Nscale Vision and Partnership: Josh Payne, founder and CEO, Nscale\n14:34 Anatomy of AI Workloads: Robert Nishihara, creator of Ray and co-founder, Anyscale \n24:39 Ray Updates: Reliability and Scale: Edward Oakes, Staff Software Engineer, Anyscale\n33:26 Ray Libraries and Workloads: Richard Liaw, Product Manager, Anyscale \n40:56 Platform Challenges and Scaling: Christian Stano, Field CTO, Anyscale, Goku Mohandas, Product Manager, and Kourosh Hakhamaneshi, Team Lead, Anyscale\n55:10 Kubernetes and Observability: Elizabeth Hu, Product Manager, Anyscale and Mike Tower, Product Manager, Anyscale\n\nLiked this video? Check out other Ray Summit keynote sessions: https://www.youtube.com/playlist?list=PLYnBpswCtPo4\n \nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n \n 🔗 Connect with us:\n LinkedIn: https://www.linkedin.com/company/joinanyscale/\n X: https://x.com/anyscalecompute\n Website: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:53Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
+    },
     "yn5Q65iHAR8": {
       "video_id": "yn5Q65iHAR8",
       "title": "Ray Dashboard Series: Part Six | Metrics",
@@ -5118,6 +6432,19 @@
       "published_at": "2026-06-16T22:06:30Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
+    },
+    "zPyKc7_fbW8": {
+      "video_id": "zPyKc7_fbW8",
+      "title": "Why Current AI Cannot Truly See the World | Elorian AI | Ray Summit 2026",
+      "duration_s": 1918,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos",
+      "description": "Frontier AI models score 80 to 90 percent on standard benchmarks like MMMU, yet fall to pieces on visual tasks any 6-year-old handles effortlessly, like counting objects in an image or navigating a maze.\n\nAt Ray Summit 2026, Andrew Dai, co-founder of Elorian AI, draws on 12 years at Google Brain and DeepMind, where he co-led development on GLaM, PaLM 2, and Gemini, to describe the challenges in visual reasoning for current models and a new approach to solving them.\n\nYou'll leave understanding why the gap exists and what closing it takes.\n\nLiked this video? Check out other Ray Summit breakout session recordings: https://www.youtube.com/playlist?list=PLZNaJyYZRPdo\n\nSubscribe to our YouTube channel to stay up-to-date on the future of AI: https://www.youtube.com/c/anyscale\n\n🔗 Connect with us:\nLinkedIn: https://www.linkedin.com/company/joinanyscale/\nX: https://x.com/anyscalecompute\nWebsite: https://www.anyscale.com/",
+      "published_at": "2026-09-17T16:01:53Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:27+00:00"
     },
     "zQKScuKy58Q": {
       "video_id": "zQKScuKy58Q",

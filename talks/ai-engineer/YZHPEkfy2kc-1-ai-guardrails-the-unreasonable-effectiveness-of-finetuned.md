@@ -1,13 +1,13 @@
 ---
 id: YZHPEkfy2kc
-title: "$1 AI Guardrails: The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero"
+title: "$1 AI Guardrails: The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpintero"
 slug: 1-ai-guardrails-the-unreasonable-effectiveness-of-finetuned
 conference: ai-engineer
 conference_name: "AI Engineer"
 category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
-speakers: ["Diego Carpentero"]
+speakers: ["Diego Carpintero"]
 channel: "AI Engineer"
 duration_min: 44
 published_at: 2026-04-16T00:00:00Z
@@ -19,9 +19,9 @@ topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Security, 
 transcript: true
 ---
 
-# $1 AI Guardrails: The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero
+# $1 AI Guardrails: The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpintero
 
-**Diego Carpentero**
+**Diego Carpintero**
 
 `AI Engineer` · `AI Engineer` · `2026` · `44 min`
 

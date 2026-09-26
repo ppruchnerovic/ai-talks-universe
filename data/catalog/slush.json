@@ -1,7 +1,7 @@
 {
   "slug": "slush",
   "name": "Slush",
-  "enumerated_at": "2026-09-13T22:09:50+00:00",
+  "enumerated_at": "2026-09-26T14:30:09+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@slush/videos",
@@ -10,7 +10,7 @@
       "count": 400
     }
   ],
-  "count": 400,
+  "count": 401,
   "videos": {
     "-3QPTopWbhQ": {
       "video_id": "-3QPTopWbhQ",
@@ -13604,6 +13604,15 @@
         "Slush 2025"
       ],
       "details_at": "2026-09-06T13:24:16+00:00"
+    },
+    "xMCyvHLp454": {
+      "video_id": "xMCyvHLp454",
+      "title": "Helsinki Bets on Europe",
+      "duration_s": 96,
+      "channel": "Slush",
+      "label": "Slush",
+      "year": null,
+      "source_url": "https://www.youtube.com/@slush/videos"
     },
     "xRPAbz8HiDU": {
       "video_id": "xRPAbz8HiDU",
