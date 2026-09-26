@@ -18,5 +18,7 @@ The rules that bite most often:
   artefact. `CONTRIBUTING.md` has the verification order.
 - Secrets are environment variables. Never write a value into the repo.
 
-The Claude Code skill for *querying* the corpus, as opposed to working on
-it, is `.claude/skills/ai-conference-talks/`.
+For *querying* the corpus, read `.claude/skills/ai-conference-talks/SKILL.md`.
+It is shared by Claude Code, Copilot, Codex, OpenCode and other agents;
+`.agents/skills/ai-conference-talks` links to the same skill. Keep the
+retrieval instructions in that single source, separate from repo maintenance.

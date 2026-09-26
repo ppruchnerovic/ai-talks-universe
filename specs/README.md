@@ -21,7 +21,7 @@ the same change.
 A knowledge base of recorded AI conference talks. Collection tools retain
 listings, metadata and transcripts in disk caches. Offline derivation turns
 those caches into JSON, CSV and per-talk Markdown; an offline index build
-serves the static browser and terminal readers. The Claude Code skill uses
+serves the static browser and terminal readers. The shared agent skill uses
 the terminal tools, with optional embeddings available to CLI search.
 
 See [the system boundary diagram](ARCHITECTURE.md#system-boundaries) when
@@ -39,7 +39,7 @@ domain below.
 | [search-cli.md](search-cli.md) | Ranking, index and excerpt diagrams, the query language, ranking, the SQLite schema and `DB_SCHEMA_VERSION`, excerpt budgets, CLI output formats | `tools/query.py`, `tools/excerpt.py`, `data/talks.db`, `tools/test_query.py`, `tools/test_stem.py`, `tools/test_excerpt.py` |
 | [search-browser.md](search-browser.md) | The browser request diagram, static page, its ranking and facets, the shard and meta file formats, the index builder, the UI test suites | `index.html`, `tools/build_index.py`, `tools/assemble_site.sh`, `data/search-meta.json`, `data/tindex/`, `tools/uitest/` |
 | [semantic.md](semantic.md) | The semantic integration diagram, opt-in embedding layer, its install, how it fuses into `query.py`, graceful absence | `tools/semantic.py`, `tools/build_embeddings.py`, `tools/install_semantic.sh`, `tools/requirements-semantic.txt`, `tools/test_semantic.py`, `data/embeddings/` |
-| [skill.md](skill.md) | The retrieval sequence and Claude Code skill: its retrieval ladder, citation rules, and every CLI flag and output string it depends on | `.claude/skills/ai-conference-talks/SKILL.md` |
+| [skill.md](skill.md) | The retrieval sequence and shared agent skill: its retrieval ladder, citation rules, and every CLI flag and output string it depends on | `.claude/skills/ai-conference-talks/SKILL.md`, `.agents/skills/ai-conference-talks` |
 | [publishing.md](publishing.md) | Publish/refresh diagrams, GitHub Pages publish, the daily local refresh, what is committed vs. ignored, local setup, the verification checklist, which doc holds which numbers, git conventions | `.github/workflows/*.yml`, `tools/check_specs.py`, `tools/refresh_local.sh`, `tools/refresh_docs.py`, `tools/systemd/`, `tools/install_refresh_timer.sh`, `.gitignore`, `tools/refresh_report.py`, `tools/requirements.txt`, `README.md`, `docs/`, `CONTRIBUTING.md` |
 
 ## Routing by task

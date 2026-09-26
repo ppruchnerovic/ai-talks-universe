@@ -461,13 +461,39 @@ windows that each grow to meet their neighbours are the transcript again.
 Measured over eight topics and 45 talks: **100% of the passages `query.py`
 ranked survive into the excerpt, on 17% of the words.**
 
-### With Claude Code
+### With an AI agent
 
-The `ai-conference-talks` skill (`.claude/skills/`, at the root of this repo,
-so any Claude Code session started here loads it) drives `query.py --brief` and
+The `ai-conference-talks` skill drives `query.py --brief` and
 then `excerpt.py` — which is what you want for questions like *"what do people
 at different conferences say about agent reliability"*: retrieval finds the
 talks, the excerpts carry what was said, and the model compares the positions.
+
+Open the repository in an agent with terminal access and Python 3 with
+SQLite FTS5 support. Enable workspace skills if your client requires it,
+then ask: *Use ai-conference-talks: what do people at different conferences
+say about agent reliability?*
+
+| Agent | Repository discovery path | Documentation |
+|---|---|---|
+| Claude Code | `.claude/skills/ai-conference-talks/` | [Skills](https://code.claude.com/docs/en/skills) |
+| GitHub Copilot (clients with Agent Skills support) | `.claude/skills/ai-conference-talks/` | [Agent skills](https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-cloud-agent/add-skills) |
+| Codex | `.agents/skills/ai-conference-talks/` | [Skills and symlink support](https://developers.openai.com/codex/skills/) |
+| OpenCode | `.claude/skills/ai-conference-talks/` | [Agent Skills](https://opencode.ai/docs/skills/) |
+| Gemini CLI | `.agents/skills/ai-conference-talks/` | [Agent Skills](https://geminicli.com/docs/cli/skills/) |
+
+`.agents/skills/ai-conference-talks` is a relative directory symlink to
+`.claude/skills/ai-conference-talks`, so there is only one maintained copy.
+Use a Git checkout that preserves symlinks (for example, WSL on Windows).
+Restart your agent if it does not discover a newly added skill.
+
+For other agents, older clients, or a checkout without working symlinks,
+ask explicitly: *Read `.claude/skills/ai-conference-talks/SKILL.md` and follow
+it to answer my question.* Agents that support the Agent Skills format can
+also load that folder from their documented skill location. Installing only
+the skill does not install the corpus: commands must run in this repository's
+checkout, from its root. Without terminal access, provide the agent with
+query and excerpt output. Transcript fetching is local-only; cloud agents
+can search the checked-in corpus but must not fetch missing transcripts.
 
 The two-step matters more here than anywhere else, because a model pays for
 every byte it reads. Answering one question by searching and then reading the

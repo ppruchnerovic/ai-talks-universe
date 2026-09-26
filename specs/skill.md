@@ -1,11 +1,24 @@
-# Spec: the Claude Code skill `ai-conference-talks`
+# Spec: the shared agent skill `ai-conference-talks`
 
 ## What
 
-`.claude/skills/ai-conference-talks/SKILL.md` is the prompt Claude Code loads
-when a session started at the repo root gets a question about what was said at
-an AI conference. It is the only file in the skill, the only tracked file
-under `.claude/`, and it is prose for a model, not code: it never runs.
+`.claude/skills/ai-conference-talks/SKILL.md` is the canonical Agent Skills
+prompt for questions about what was said at an AI conference. Claude Code,
+Copilot and OpenCode discover it in `.claude/skills/`. Codex and Gemini CLI
+use `.agents/skills/ai-conference-talks`, a relative directory symlink to
+`../../.claude/skills/ai-conference-talks`. Keep both parent directories real
+and link only the skill folder. Maintain one SKILL.md, not per-agent copies.
+The skill is prose for a model, not executable code.
+
+The frontmatter uses only portable `name` and `description` fields. Agents
+need local file access, a terminal and Python 3 with SQLite FTS5; the skill
+folder alone does not include tools or corpus. Commands run from the checkout
+root on each call, without assuming persistent shell state. Agents without
+skill discovery can explicitly read the canonical file; agents without a
+terminal need query/excerpt output from the user. The setup table and official
+discovery references live in docs/GUIDE.md §"With an AI agent". Symlinks must
+survive checkout; the explicit-read fallback also covers clients that do not
+follow them. Automatic selection remains enabled by default.
 
 Its job is to make a model answer **from the corpus, cheaply**. It does that
 by prescribing a retrieval ladder with a token price on each rung, and by
@@ -41,6 +54,7 @@ the ladder costs ~15-17k (`--brief -n 15` ~1.5k, six default excerpts ~7k,
 | Path | What it is |
 |---|---|
 | `.claude/skills/ai-conference-talks/SKILL.md` (~340 lines) | The skill. Frontmatter + body, sections listed below. |
+| `.agents/skills/ai-conference-talks` | Relative directory symlink to the canonical skill; shared discovery. |
 | `.claude/worktrees/` | Empty, untracked dir Claude Code uses for `isolation: worktree` agents. Not part of the skill; ignore. |
 | `tools/query.py:1424-1502` | `main()` + argparse: every `query.py` flag the skill cites. |
 | `tools/query.py:1235-1287` | `render()`: the text output the skill describes (`· transcript`, `· match:`, `(also: …)`, `topics:`, semantic-match label, moments with `&t=`, url line). |
@@ -55,7 +69,7 @@ the ladder costs ~15-17k (`--brief -n 15` ~1.5k, six default excerpts ~7k,
 | `tools/excerpt.py:679` | `[m:ss](url&t=Ns)` deep links; `~m:ss` when guessed. |
 | `tools/fetch_transcripts.py:994-1030` | `--probe`, `-c/--conference`, `--limit`, `--source exact`, `--retry-after` — the "Fetching what is missing" rung. |
 | `tools/install_semantic.sh`, `tools/semantic.py`, `tools/build_embeddings.py` | The optional layer the skill's "semantic" section describes. See `semantic.md`. |
-| `docs/GUIDE.md` §"With Claude Code" | The user-facing two-paragraph description and the canonical example question. |
+| `docs/GUIDE.md` §"With an AI agent" | The user-facing setup, compatibility table and the canonical example question. |
 | [Retrieval sequence](#retrieval-sequence) | Tool calls and citation flow; the ladder below defines all rungs. |
 | `docs/HISTORY.md` §"Making the skill affordable", §"F. The skill, after the tools have changed" | Why the ladder exists; the 2026-09-02 revision list. |
 | `docs/STATE.md` state table, the skill row | One-line status of the skill and its revision dates. |
@@ -65,7 +79,7 @@ the ladder costs ~15-17k (`--brief -n 15` ~1.5k, six default excerpts ~7k,
 | Section | Content |
 |---|---|
 | Frontmatter | `name: ai-conference-talks`; `description:` a block scalar naming the corpus (conferences, fields) and the triggers: what was said at a conference, who talked about X, compare/synthesize positions across speakers or vendors, which talks to watch, coverage across conferences/years, a specific talk's link/description/conference. Ends "Do NOT use it for talks outside this corpus." No other frontmatter keys. |
-| Preamble | Repo layout table; run everything as `python3 tools/query.py …` **from the repo root** (subagent cwd resets); clone URL for other checkouts; output is plain text when piped. |
+| Preamble | Repo layout table; run everything as `python3 tools/query.py …` **from the repo root** on each call; agent-neutral terminal access and checkout requirements; clone URL for separate installations; output is plain text when piped. |
 | "Know what the corpus is before you trust it" | Rung 0: `--stats`, `"q" --facets`. Four properties: transcript coverage is uneven by year and conference, read the `--stats` tables (`--transcript`, `has_transcript`, `· transcript`); descriptions are YouTube blurbs except InfoQ/WeAreDevelopers; `year` = edition year, `--since/--before` = publish date; `url` vs nullable `youtube_url` (`iq-` ids). Non-English/mislabelled-Hindi transcripts caveat. |
 | "How to answer" | Always retrieve, never from memory. Never `cat` a talk markdown to find a quote (it costs what `--full` costs, more for a long talk). |
 | 1. Find the talks | `query.py "topic words" -n 15 --brief`. `-n` = result count here. Search the topic's words, not the question; read the stderr `dropped X` / `expanded` line. `--brief` is for choosing and contains nothing quotable; `--json --brief`, `--fields`, `--md`, full `--json` when needed. Stemming on, so OR chains carry synonyms; search once, harvest the corpus's own vocabulary, re-query. Syntax: `NEAR()`, `-word`, column filters, phrases, prefixes. All filters. `--category` (venue type) crosses `--topic` (subject); `--topic X --facets` for the split. `--per-conference K` / `--per-year K` after `--facets`. `(also: id, id)` = re-uploads, one talk. `--explain`, `--ids`, `--excerpt`, `--passages N`. |
@@ -73,7 +87,7 @@ the ladder costs ~15-17k (`--brief -n 15` ~1.5k, six default excerpts ~7k,
 | The optional semantic layer | `install_semantic.sh`; auto for bare queries when present; `--semantic`/`--no-semantic`; semantic-only hits carry no snippet/moments; `query.py --excerpt` centres on meaning, hand `excerpt.py` needs `--at` or a `-q` in the talk's own words. |
 | 3. Synthesize | Positions not talks; attribute to named speaker + conference, "a speaker at <conf>" when the name is missing; quote transcripts only; link `url`, `&t=<seconds>s` for YouTube, time in words for InfoQ; `~12:34` is interpolated, cite as approximate; say when the corpus is thin or the spread is the corpus's. |
 | What a question should cost | ~15k tokens, not 150k; widen with another `-q` against talks already in hand. |
-| Fetching what is missing | `fetch_transcripts.py --probe`, `-c CONF --limit N --source exact`, then `sync_catalog.py && build_index.py`. Ask before spending; `--limit` disables `--retry-after`; `iq-` talks are never fetched. |
+| Fetching what is missing | `fetch_transcripts.py --probe`, `-c CONF --limit N --source exact`, then `sync_catalog.py && build_index.py`. Local machines only, never cloud agents or CI; ask before spending unless already authorized; `--limit` disables `--retry-after`; `iq-` talks are never fetched. |
 
 ### The ladder, as the skill prescribes it
 
@@ -152,10 +166,12 @@ When either lands, add the flag to the couplings table and to the skill.
 
 There is no automated skill test; the tools' tests are `cd tools && python3
 test_query.py`, `test_excerpt.py`, `test_semantic.py` (docs/GUIDE.md §"Testing").
-To test the skill, start Claude Code at the repo root and ask:
+Validate the frontmatter and confirm the shared discovery link resolves to the
+canonical skill. To test runtime discovery, start each supported agent at the
+repo root, confirm `ai-conference-talks` is available, and ask:
 
 1. *"What do people at different conferences say about agent reliability?"*
-   (docs/GUIDE.md §"With Claude Code", docs/ARCHITECTURE.md §"The skill"). Good: it runs `--stats` or
+   (docs/GUIDE.md §"With an AI agent", docs/ARCHITECTURE.md §"The skill"). Good: it runs `--stats` or
    `--facets`, one `--brief` search (maybe `--per-conference`), `excerpt.py`
    or `--excerpt` on a handful of ids; the answer is grouped by position,
    every claim names a speaker (or "a speaker at <conf>") and a conference,
@@ -177,9 +193,12 @@ the second, a quote whose words are in a description but not a transcript.
 
 - Edit SKILL.md **after** the tool change is merged, never before; every
   command in it must run as written from the repo root.
-- Keep it under 500 lines (Claude Code's guidance; it is ~340). Add to the
+- Keep it under 500 lines. Add to the
   cost table or the couplings above rather than adding prose.
-- Do not add a `cd tools` anywhere: subagent cwd resets between calls.
+- Do not add a `cd tools` anywhere: shell working directories may reset between calls.
+- Edit only the canonical skill; keep the shared directory symlink relative and
+  resolving within the checkout. Do not add agent-specific tool names or
+  invocation restrictions to its frontmatter.
 - Where SKILL.md and argparse disagree, argparse wins; fix the skill.
 
 ## Diagrams
@@ -193,7 +212,7 @@ diagram with a change to that flow; keep rationale in `docs/ARCHITECTURE.md`.
 ```mermaid
 sequenceDiagram
     participant U as user
-    participant C as Claude Code
+    participant C as AI agent
     participant Q as query.py
     participant E as excerpt.py
 
