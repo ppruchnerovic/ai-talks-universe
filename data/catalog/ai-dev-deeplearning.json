@@ -1,7 +1,7 @@
 {
   "slug": "ai-dev-deeplearning",
   "name": "AI Dev (DeepLearning.AI)",
-  "enumerated_at": "2026-09-13T22:05:56+00:00",
+  "enumerated_at": "2026-09-26T14:25:53+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@Deeplearningai/videos",
@@ -10,7 +10,7 @@
       "count": 400
     }
   ],
-  "count": 401,
+  "count": 403,
   "videos": {
     "-B0zaWoPEFs": {
       "video_id": "-B0zaWoPEFs",
@@ -1949,7 +1949,7 @@
     },
     "MbB1gNIj3G0": {
       "video_id": "MbB1gNIj3G0",
-      "title": "Your coding agent keeps solving the same problem",
+      "title": "Build AI agents that learn from experience",
       "duration_s": 128,
       "channel": "DeepLearningAI",
       "label": "DeepLearning.AI",
@@ -3943,6 +3943,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:08+00:00"
     },
+    "hy8UstR2NEg": {
+      "video_id": "hy8UstR2NEg",
+      "title": "Full Course: Spec-Driven Development with Coding Agents",
+      "duration_s": 3694,
+      "channel": "DeepLearningAI",
+      "label": "DeepLearning.AI",
+      "year": null,
+      "source_url": "https://www.youtube.com/@Deeplearningai/videos"
+    },
     "iPu68fiNyBU": {
       "video_id": "iPu68fiNyBU",
       "title": "AI Dev 25 x NYC | Phillip Snalune: AI Upskilling: A Framework Agnostic Playbook to Scale Adoption",
@@ -4891,6 +4900,15 @@
       "published_at": "2025-07-09T14:28:32Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "uRGHx-1CqBQ": {
+      "video_id": "uRGHx-1CqBQ",
+      "title": "Building AI Assistants with On-Device Memory",
+      "duration_s": 134,
+      "channel": "DeepLearningAI",
+      "label": "DeepLearning.AI",
+      "year": null,
+      "source_url": "https://www.youtube.com/@Deeplearningai/videos"
     },
     "ulClsulw8fs": {
       "video_id": "ulClsulw8fs",

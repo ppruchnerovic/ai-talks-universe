@@ -1,7 +1,7 @@
 {
   "slug": "ai-devcon-tessl",
   "name": "AI DevCon (Tessl)",
-  "enumerated_at": "2026-09-13T22:06:15+00:00",
+  "enumerated_at": "2026-09-26T14:26:11+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@tessl-ai/videos",
@@ -10,7 +10,7 @@
       "count": 300
     }
   ],
-  "count": 310,
+  "count": 320,
   "videos": {
     "-6SNbcE3C9o": {
       "video_id": "-6SNbcE3C9o",
@@ -324,6 +324,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "3fXAZZusxew": {
+      "video_id": "3fXAZZusxew",
+      "title": "Why Your AI Agent Isn't Delivering ROI | Live in London",
+      "duration_s": 50,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "3j1K_1QDyHQ": {
       "video_id": "3j1K_1QDyHQ",
       "title": "How Can You Tell if Your AI Agent Skills Are Working?",
@@ -513,6 +522,19 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "606n8YC_-fU": {
+      "video_id": "606n8YC_-fU",
+      "title": "Spec-Driven Development: Specs Are the Program Now",
+      "duration_s": 451,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\nhttps://tessl.co/poq\n\nSpec-driven development is having a moment: teams write two weeks of specs and generate the code in five minutes, then throw it away and generate it again. At AI DevCon London, Simon Martinelli, Dave Farley and Shachar Azriel of Baz showed what changes when the specification, not the code, becomes the thing you actually maintain.\n\nWhat we cover:\n– How spec-driven development turns code into a disposable output\n– Reverse-engineering specs out of a codebase nobody documented for a government client\n– Why Dave Farley thinks the program is now the problem, not the solution\n– Writing a domain-specific language precise enough for an agent to build from\n– Why teams write better specs once they know an agent is reading them\n\nChapters:\n00:00:00 - Introduction\n00:00:24 - Simon Martinelli: two weeks of specs, five minutes of generating\n00:01:20 - Modernizing a government system, spec-first\n00:02:19 - Dave Farley: the program becomes the specification\n00:03:58 - Designing a language for precise, testable specs\n00:04:56 - Why AI can't infer your security requirements\n00:05:31 - Shachar Azriel, Baz: why point an agent at specs, not tests\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/clb\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich part of your spec would you trust an agent to build from today? Tell us in the comments.",
+      "published_at": "2026-09-14T16:00:11Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:25+00:00"
     },
     "6OiqNuTZRgM": {
       "video_id": "6OiqNuTZRgM",
@@ -1456,6 +1478,19 @@
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "G5mAl_QBr4w": {
+      "video_id": "G5mAl_QBr4w",
+      "title": "Netlify's Dana Lawson: 'We Ain't Precious No More'",
+      "duration_s": 606,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\nhttps://tessl.co/mcc\n\nHarness engineering is the discipline behind every agent that ships working code — and this recap is about where it still comes up short. At AI DevCon London, Marc Sloan (Tessl) walked through an agent that built a pixel-perfect export button and still got it wrong, while Tammuz Dubnov (Autonomy AI), Dana Lawson (Netlify) and Emma Burrows (Rezonant) covered what happens once non-developers are the ones opening the pull request.\n\nWhat we cover:\n– Why an agent's PR can pass every check in the harness and still ship the wrong component\n– The real merge rate for pull requests opened by non-technical teammates\n– Why Netlify redesigned its platform for a builder who isn't a professional developer\n– What it takes for a product manager to become an agent orchestrator, not just a prompt writer\n\nChapters:\n00:00:00 - Introduction\n00:00:24 - Marc Sloan, Tessl: the export button nobody could find\n00:01:44 - Why the agent's PR passed every check and still missed\n00:03:26 - Tammuz Dubnov, Autonomy AI: measuring non-technical PRs\n00:04:15 - 74% merge rate, and what the other 24% means\n00:05:41 - Dana Lawson, Netlify: \"we ain't precious no more\"\n00:06:51 - 500 million new apps and what that does to platforms\n00:07:43 - Emma Burrows, Rezonant: product managers as agent orchestrators\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/0gj\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWould a non-technical teammate's PR pass review on your team today?",
+      "published_at": "2026-09-21T14:30:30Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:25+00:00"
+    },
     "GRixg2mdJJA": {
       "video_id": "GRixg2mdJJA",
       "title": "850 PRs a Week: How Tessl Runs a Software Factory",
@@ -1551,6 +1586,19 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "H_1PygR7kwk": {
+      "video_id": "H_1PygR7kwk",
+      "title": "Dexter Horthy: Why We Stopped Trusting AI to Write the Plan",
+      "duration_s": 3372,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "HumanLayer CEO Dexter Horthy on why his team's bet on spec driven development nearly wrecked their own codebase, and what changed his mind about reviewing AI-written code. Dexter walks through the \"YOLO pull request\" experiment that ran for months before the codebase became unusable, the \"dumb zone\" that limits how much context you can hand a model, and why he now believes there will always be alpha in reviewing something.\n\nWhat we cover:\n– How HumanLayer's \"read the plan, skip the code\" experiment quietly broke their own codebase\n– Why context windows have a \"dumb zone,\" and what that means for context engineering\n– Sean Grove's idea that specs, not code, are becoming the durable artifact\n– Building overnight agents that review and fix code before a human ever sees it\n– Why treating software development like a factory changes how bugs compound\n– What Dexter thinks his advice on reviewing AI-written code will look like in 12 months\n\nChapters:\n00:00:00 - Introduction\n00:02:15 - Meet Dexter Horthy, CEO of HumanLayer\n00:06:03 - The \"dumb zone\": why more context makes models dumber\n00:06:40 - Sean Grove's \"the spec is the new code\"\n00:09:22 - The YOLO pull-request experiment that broke their codebase\n00:11:09 - Letting the model own the architecture\n00:17:03 - Planning as expected-pain management\n00:28:15 - Slop Code Bench and the maintainability oracle problem\n00:37:59 - Why software factories aren't like car factories\n00:42:49 - \"There will always be alpha in reviewing something\"\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/4ep\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nWhere do you land on the determinism-to-adaptability slider — plan tightly, or let the agent run? Tell us in the comments.",
+      "published_at": "2026-09-22T12:30:29Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:25+00:00"
     },
     "HgA0spItnZI": {
       "video_id": "HgA0spItnZI",
@@ -2197,7 +2245,7 @@
     },
     "P03T9DXBxYw": {
       "video_id": "P03T9DXBxYw",
-      "title": "Justin Cormack on Debugging With Agents",
+      "title": "NVIDIA, Docker & Hud on Agents in Production",
       "duration_s": 604,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -2332,6 +2380,19 @@
         "what is agent collaboration"
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "R1j6HtykHNE": {
+      "video_id": "R1j6HtykHNE",
+      "title": "Guy Eisenkot (Baz): Why Coding Agents Ignore AGENTS.md",
+      "duration_s": 1758,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Every coding agent harness reads your AGENTS.md and CLAUDE.md files differently, and that changes with every model release. Baz co-founder and CEO Guy Eisenkot shares data from millions of AI code reviews showing steering-file usage fell by 50% almost overnight, and what actually makes a coding agent harness follow your instructions.\n\nWhat we cover:\n– Why a 50% drop in AGENTS.md and CLAUDE.md usage went almost unnoticed\n– What actually makes a coding agent harness follow your instructions\n– Why CodeRabbit's structured rule set outlasts a plain CLAUDE.md file\n– What's trending in Tessl's own skills registry, and why code review skills dominate it\n– Why specs, verification, and merge tactics are replacing agile rituals on agent-era teams\n\nChapters:\n00:00:00 - Introduction\n00:00:56 - Guy Eisenkot's background: Bridgecrew to Baz\n00:03:04 - The problem: nobody controls your agent harness\n00:06:09 - Why agile rituals are dying in the agent era\n00:09:04 - Inside Baz's data: how the fleet learns what works\n00:11:50 - Tessl's skills registry: what's actually trending\n00:14:28 - The 50% drop: how one model release broke steering\n00:17:13 - Why your instruction files need an owner\n00:19:32 - Three things that replaced agile: specs, verification, merge tactics\n00:23:40 - Audience Q&A: model drift, long-horizon tasks, and DeepSeek\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/e2b\n\n🔔 Subscribe for weekly videos on AI-native development\n\nAre your coding agents actually reading your AGENTS.md, or just the model's own defaults? Tell us what your harness looks like in the comments.",
+      "published_at": "2026-09-21T14:00:03Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:25+00:00"
     },
     "R8Ef0sn_HGI": {
       "video_id": "R8Ef0sn_HGI",
@@ -2500,6 +2561,19 @@
       "published_at": "2025-09-19T13:00:57Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "SLh-wN45ZIM": {
+      "video_id": "SLh-wN45ZIM",
+      "title": "Docker, Adobe & tldraw: Where Should Your Agent Run?",
+      "duration_s": 608,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\nhttps://tessl.co/seo\n\nFour builders spent AI DevCon London answering the same harness engineering question at the center of agentic coding — where should a coding agent actually run — and landed on four different machines. Docker isolates it in a microVM sandbox, Helix ML gives it a whole computer of its own, Adobe runs it inside your browser tab, and tldraw puts it on an infinite canvas as a character you can pick up.\n\nOleg Šelajev (Docker) walks through why containers weren't a boundary security teams would sign off on, and what changed when Docker rebuilt its agent sandboxes on micro VMs instead. Luke Marsden (Helix ML) makes the case for giving every agent its own computer on centralized infrastructure, so work can hand off between people in different time zones. Lars Trieloff (Adobe) built an agent that runs entirely inside the browser tab it's controlling — with a reveal about what it had actually been doing the whole talk. And Steve Ruiz (tldraw) shows agents living on the canvas as small characters you can grab, direct, and watch coordinate as a team.\n\nWhat we cover:\n– Why Docker's security teams rejected containers as an isolation boundary\n– Building a sandbox on micro VMs instead of containers\n– The case for giving every agent its own computer\n– An agent that runs — and controls — its own browser tab\n– Agents as characters living and collaborating on an infinite canvas\n\nChapters:\n00:00:00 - Introduction\n00:00:09 - Oleg Šelajev, Docker: from containers to micro VMs\n00:01:43 - Docker Sandboxes: isolating the agent's machine\n00:03:03 - Luke Marsden, Helix ML: give each agent its own computer\n00:03:59 - Why the centralized approach wins\n00:05:23 - Lars Trieloff, Adobe: an agent that runs inside the browser\n00:06:13 - The self-licking ice cream cone (SLICC)\n00:07:20 - Steve Ruiz, tldraw: agents live on the canvas\n00:09:43 - Coordinating a team of agents\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/rd2\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich answer would you actually trust in production — sandbox, dedicated computer, browser, or canvas? Tell us in the comments.",
+      "published_at": "2026-09-16T15:00:09Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:25+00:00"
     },
     "Sk3PC6f-Sis": {
       "video_id": "Sk3PC6f-Sis",
@@ -2692,6 +2766,19 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
+    },
+    "UVOkQyeY16M": {
+      "video_id": "UVOkQyeY16M",
+      "title": "Christopher Batey on the 3 Boxes You Don't Control",
+      "duration_s": 574,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\nhttps://tessl.co/qbx\n\nContext engineering usually means retrieval and prompts, but at AI DevCon London the sharpest version of it was about codebases that are ten and fifteen years old: what an agent needs to see before it can touch a system nobody fully understands anymore. Katie Roberts (Nearform), Simon Martinelli, Christopher Batey (CECG) and Ian Thomas (Meta) covered brownfield code from four different angles, from reverse-engineered specs to a single VR machine nobody wanted to refactor.\n\nWhat we cover:\n– Why brownfield code behaves more like a functioning city than a ball of mud\n– Reverse-engineering use cases and entity models out of code nobody documented\n– The three boxes — harness, model host, and model — most teams don't realize they depend on\n– How one engineer turned a legacy VR codebase into a fleet of parallel agents\n\nChapters:\n00:00:00 - Introduction\n00:00:21 - Katie Roberts, Nearform: stop calling it a ball of mud\n00:01:03 - Why brownfield code looks more like a functioning city\n00:02:16 - Simon Martinelli: reverse-engineering specs out of legacy code\n00:03:34 - Why lift-and-shift was never modernization\n00:04:23 - Christopher Batey: the three boxes you don't control\n00:05:54 - Choosing a harness you can swap without switching everything\n00:06:42 - Ian Thomas, Meta: teaching one refactor, reviewing fifty\n00:08:07 - The MCP server that got agents off a single VR machine\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/oen\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat's the oldest part of your codebase an agent has actually touched?",
+      "published_at": "2026-09-23T15:00:12Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:25+00:00"
     },
     "Ua-fy6qzgYk": {
       "video_id": "Ua-fy6qzgYk",
@@ -2972,6 +3059,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "Xn7gXeNtoZI": {
+      "video_id": "Xn7gXeNtoZI",
+      "title": "Why AGENTS.md Isn't Solving Your Memory Problem",
+      "duration_s": 565,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\nhttps://tessl.co/6vp\n\nContext engineering has a blind spot: most of what a coding agent learns in a session disappears the moment that session ends, even though you already paid for the thinking that produced it. At AI DevCon London, Davide Eynard and Peter Wilson (Mozilla.ai), Robert Overweg and Brian Douglas (Paper Compute) covered what it actually takes to give an agent a memory worth keeping.\n\nWhat we cover:\n– Why AGENTS.md and CLAUDE.md files don't solve agent memory on their own\n– Building a shared knowledge repository so agents stop rediscovering the same fixes\n– The difference between knowing which agent acted and knowing why it made sense\n– What gets lost when a coding agent deletes sessions after 30 days\n\nChapters:\n00:00:00 - Introduction\n00:00:14 - Davide Eynard & Peter Wilson, Mozilla.ai: Stack Overflow for agents\n00:00:26 - Why AGENTS.md and CLAUDE.md don't solve memory on their own\n00:01:16 - Asking Claude to audit its own memory files\n00:02:41 - Robert Overweg: 1,200 research files, no extra retrieval needed\n00:04:54 - The diary: recording why a decision made sense, not just who made it\n00:07:08 - Brian Douglas, Paper Compute: your agent forgets, and you keep paying\n00:08:12 - Turning throwaway sessions into skills and documentation at scale\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/j5i\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHas your own agent ever repeated a mistake it already \"learned\" from once?",
+      "published_at": "2026-09-25T15:00:28Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:25+00:00"
+    },
     "Xt7r10rX3Xs": {
       "video_id": "Xt7r10rX3Xs",
       "title": "Don't Secure the Code. Secure the Coder.",
@@ -3153,7 +3253,7 @@
     },
     "_XNMBj-ewE8": {
       "video_id": "_XNMBj-ewE8",
-      "title": "You Don't Need Juniors to Code. Hire Them Anyway.",
+      "title": "The New Dev Skill: Multi-Monitoring 10 Agents",
       "duration_s": 3143,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -3410,7 +3510,7 @@
     "bsCZTNAQIf0": {
       "video_id": "bsCZTNAQIf0",
       "title": "DevCon London: Real Talk on AI ROI, Harnesses & Evals (BONUS EP)",
-      "duration_s": 1420,
+      "duration_s": 1421,
       "channel": "AI Native Dev",
       "label": "Tessl",
       "year": null,
@@ -4362,6 +4462,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "nSRpnjkLqgc": {
+      "video_id": "nSRpnjkLqgc",
+      "title": "AWS's Marc Brooker: Specs, Not Code, Are the Hard Part",
+      "duration_s": 3410,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Spec-driven development is reshaping what software engineers actually do all day, and Marc Brooker, VP and Distinguished Engineer at AWS, has read 3,000 to 4,000 postmortems that convinced him the code was never the hard part. In this episode of The AI Native Dev, Marc explains why testing and specification are now the real engineering work, why metastable failures keep taking down systems that look perfectly healthy, and why he still won't let AI write a single word of his blog.\n\nWhat we cover:\n– Why spec-driven development is turning testing into the hardest part of software\n– What metastable failures are, and why they keep taking healthy-looking systems down\n– How agentic coding tools can learn from postmortems and build their own memory\n– Why classic authorization breaks down once you're writing agentic policy\n– Why Marc won't let AI write his blog, but is fully comfortable with AI-generated code\n– What it takes to bring junior engineers up to speed in an AI-native industry\n\nChapters:\n00:00:00 - Introduction\n00:02:17 - Marc Brooker: 18 years at AWS building agentic dev tools\n00:04:36 - Inside Strands, AWS's open source agent SDK\n00:06:44 - Fifteen years on call, and what agents still can't debug\n00:11:23 - Metastable failures and the humility of 4,000 postmortems\n00:14:32 - Teaching agents to learn from postmortems and build their own memory\n00:20:14 - Why agentic policy needs more than classic authorization\n00:32:14 - The agentic software development hypothesis: spec-driven development, oracles, and testing\n00:39:56 - Why Marc won't let AI write his blog (but will let it write code)\n00:46:37 - Advice for leveling up junior engineers in the AI era\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/[SLUG]\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nDo you trust an agent to run its own on-call rotation yet? Tell us in the comments.",
+      "published_at": "2026-09-16T12:30:28Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:25+00:00"
+    },
     "nU_Ou3aUkkM": {
       "video_id": "nU_Ou3aUkkM",
       "title": "Google DeepMind's Logan Kilpatrick on Why AGI Won't Be a Model",
@@ -4940,6 +5053,19 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "svSCh3e7cuI": {
+      "video_id": "svSCh3e7cuI",
+      "title": "Hugging Face's MCP Server: Only 62K of 10M Calls Matter",
+      "duration_s": 584,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\nhttps://tessl.co/weu\n\nMCP and integrations are the plumbing nobody wants to talk about, but Hugging Face's own production numbers make the case: out of every 10 million protocol messages, only 62,000 are the tool calls anyone actually wanted. At AI DevCon London, Shaun Smith, Maximiliano Firtman and Matthias Lübken showed what's actually breaking in the connective tissue between agents and the tools they're supposed to use.\n\nWhat we cover:\n– Why a stateful MCP handshake burns four calls before an agent gets any real work done\n– Web MCP: letting a front end declare its capabilities instead of making agents guess from pixels\n– Where to put guardrails when you can't control what the model decides to call\n– Why Figma's own MCP server still reinvented components that already existed\n\nChapters:\n00:00:00 - Introduction\n00:00:25 - Shaun Smith, Hugging Face: running MCP in production\n00:01:54 - Why the protocol is so chatty\n00:02:07 - 10 million calls, only 62,000 that matter\n00:02:32 - Maximiliano Firtman, Codemia: web MCP and the guessing game\n00:04:40 - Giving the front end capabilities, not pixels\n00:04:57 - Matthias Lübken: guardrails in the plumbing, not the prompt\n00:07:15 - Marc Sloan, Tessl: an agent that reinvented what Figma already had\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/17y\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat's the chattiest part of your own agent stack? Tell us below.",
+      "published_at": "2026-09-18T13:30:26Z",
+      "tags": [],
+      "details_at": "2026-09-26T14:31:25+00:00"
     },
     "t58F68SElhE": {
       "video_id": "t58F68SElhE",

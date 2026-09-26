@@ -1,7 +1,7 @@
 {
   "slug": "usenix-security",
   "name": "USENIX Security Symposium",
-  "enumerated_at": "2026-09-13T22:08:49+00:00",
+  "enumerated_at": "2026-09-26T14:29:06+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@UsenixOrg/videos",
@@ -10,7 +10,7 @@
       "count": 800
     }
   ],
-  "count": 952,
+  "count": 957,
   "videos": {
     "-H7GOS-XPSk": {
       "video_id": "-H7GOS-XPSk",
@@ -3526,6 +3526,15 @@
       "video_id": "CRMpo5QzRW4",
       "title": "OSDI '26 - hS: Speculative Script Reordering at Subprocess Granularity",
       "duration_s": 938,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "CRy27xXDIHI": {
+      "video_id": "CRy27xXDIHI",
+      "title": "OSDI '26 - μShell: A Microkernel-based FPGA Shell Architecture",
+      "duration_s": 878,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -9903,6 +9912,15 @@
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
     },
+    "c8YpQsbYaD4": {
+      "video_id": "c8YpQsbYaD4",
+      "title": "USENIX Security '26 (Enigma Track) - Discussion with the 2026 USENIX Security Symposium Test of Time",
+      "duration_s": 661,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "c9jqIyEI95Q": {
       "video_id": "c9jqIyEI95Q",
       "title": "PEPR '26 - Architecting Scalable Data Lineage Graph for Privacy Compliance and Agentic Analysis",
@@ -12291,7 +12309,7 @@
     "lJJZJnOQOSU": {
       "video_id": "lJJZJnOQOSU",
       "title": "Open Access at USENIX",
-      "duration_s": 497,
+      "duration_s": 498,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -14556,6 +14574,15 @@
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
     },
+    "vHpym8zQAO8": {
+      "video_id": "vHpym8zQAO8",
+      "title": "USENIX Security '26 (Enigma Track) - Youth Digital Immersion: Cyber Readiness Builds Mental...",
+      "duration_s": 1091,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "vNAth4yOdJ4": {
       "video_id": "vNAth4yOdJ4",
       "title": "USENIX Security '25 - Catch-22: Uncovering Compromised Hosts using SSH Public Keys",
@@ -15114,6 +15141,15 @@
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
     },
+    "x3FsQLzgHsM": {
+      "video_id": "x3FsQLzgHsM",
+      "title": "USENIX Security '26 (Enigma Track) - Security Tools Don't Detect Attacks—Humans Do",
+      "duration_s": 1363,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "x4K-ki_BLL0": {
       "video_id": "x4K-ki_BLL0",
       "title": "OSDI '25 - Disentangling the Dual Role of NIC Receive Rings",
@@ -15522,7 +15558,7 @@
     "ynRmrPtrhxw": {
       "video_id": "ynRmrPtrhxw",
       "title": "NSDI '26 - Skyline: A Cloud Centric Internet Monitoring Engine",
-      "duration_s": 842,
+      "duration_s": 843,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -15613,6 +15649,15 @@
       "video_id": "yy1HkNLVgl8",
       "title": "VehicleSec '26 - A Study on Extending the TARA Methodology for Physical AI: A Case Study of ADS",
       "duration_s": 895,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "yyQUXHQHILc": {
+      "video_id": "yyQUXHQHILc",
+      "title": "OSDI '26 - Jetpack: Consensus Made Generally Fast",
+      "duration_s": 1110,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,

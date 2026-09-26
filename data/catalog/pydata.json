@@ -1,7 +1,7 @@
 {
   "slug": "pydata",
   "name": "PyData",
-  "enumerated_at": "2026-09-13T22:06:59+00:00",
+  "enumerated_at": "2026-09-26T14:27:00+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLGVZCDnMOq0qmerwB1eITnr5AfYRGm0DF",
@@ -16,7 +16,7 @@
       "count": 600
     }
   ],
-  "count": 601,
+  "count": 606,
   "videos": {
     "-2iBKx2O9ls": {
       "video_id": "-2iBKx2O9ls",
@@ -2212,6 +2212,15 @@
         "scientific programming"
       ],
       "details_at": "2026-09-06T13:24:01+00:00"
+    },
+    "7tdbC9812Qk": {
+      "video_id": "7tdbC9812Qk",
+      "title": "Behind-the-scenes of Give Me 5: Bonus convo with the team behind GM5",
+      "duration_s": 343,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
     },
     "82g667Cw_Pw": {
       "video_id": "82g667Cw_Pw",
@@ -7046,6 +7055,15 @@
       ],
       "details_at": "2026-08-31T15:35:30+00:00"
     },
+    "QVn9pVfHW6c": {
+      "video_id": "QVn9pVfHW6c",
+      "title": "Template-based web app and deployment pipeline at an enterprise-ready level on Azure",
+      "duration_s": 2544,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
+    },
     "QYDI7r2bed8": {
       "video_id": "QYDI7r2bed8",
       "title": "From Archaeology to AI: How Elizabeth Osanyinro Co-Founded PyData Bradford | Give Me 5 S2",
@@ -9254,6 +9272,34 @@
       ],
       "details_at": "2026-09-06T13:24:02+00:00"
     },
+    "ZrO55sK3d2I": {
+      "video_id": "ZrO55sK3d2I",
+      "title": "Mohamed Rashad - Building a production-ready agentic harness from scratch and scaling it",
+      "duration_s": 3372,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos",
+      "description": "www.pydata.org\n\nPyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R. \n\nPyData conferences aim to be accessible and community-driven, with novice to advanced level presentations. PyData tutorials and talks bring attendees the latest project features along with cutting-edge use cases.\n\n00:00 Welcome!\n00:10 Help us add time stamps or captions to this video! See the description for details.\n\nWant to help add timestamps to our YouTube videos to help with discoverability? Find out more here: https://github.com/numfocus/YouTubeVideoTimestamps",
+      "published_at": "2026-09-17T18:22:52Z",
+      "tags": [
+        "Python",
+        "Tutorial",
+        "Education",
+        "NumFOCUS",
+        "PyData",
+        "Opensource",
+        "learn",
+        "software",
+        "python 3",
+        "Julia",
+        "coding",
+        "learn to code",
+        "how to program",
+        "scientific programming"
+      ],
+      "details_at": "2026-09-26T14:31:26+00:00"
+    },
     "ZvEIqSvvat8": {
       "video_id": "ZvEIqSvvat8",
       "title": "Restaurants around train stations are bad and I can prove it [PyCon DE & PyData 2026]",
@@ -9386,6 +9432,15 @@
         "scientific programming"
       ],
       "details_at": "2026-08-31T15:35:30+00:00"
+    },
+    "_UdRuek25Gg": {
+      "video_id": "_UdRuek25Gg",
+      "title": "PyData Chicago Meetup: Sept. 17, 2026",
+      "duration_s": 2181,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
     },
     "_Xs7r9d86qQ": {
       "video_id": "_Xs7r9d86qQ",
@@ -13066,6 +13121,15 @@
         "machine learning"
       ],
       "details_at": "2026-08-31T15:35:30+00:00"
+    },
+    "mgjZwaFb3HQ": {
+      "video_id": "mgjZwaFb3HQ",
+      "title": "PyData Amsterdam 2026 | Aftermovie",
+      "duration_s": 155,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
     },
     "moEOrrtd93c": {
       "video_id": "moEOrrtd93c",

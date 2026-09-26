@@ -1,7 +1,7 @@
 {
   "slug": "ndc",
   "name": "NDC Conferences",
-  "enumerated_at": "2026-09-13T22:07:44+00:00",
+  "enumerated_at": "2026-09-26T14:27:51+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@NDC/videos",
@@ -4011,7 +4011,7 @@
     "Buxmr0juFoo": {
       "video_id": "Buxmr0juFoo",
       "title": "What's Inside: A .NET assembly! (and how does Hot Reload change it?) - David Wengier",
-      "duration_s": 3243,
+      "duration_s": 3244,
       "channel": "NDC Conferences",
       "label": "NDC",
       "year": null,

@@ -1,7 +1,7 @@
 {
   "slug": "mlops-world-tmls",
   "name": "MLOps World / Toronto Machine Learning Summit",
-  "enumerated_at": "2026-09-13T22:06:42+00:00",
+  "enumerated_at": "2026-09-26T14:26:41+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@tmls-ai/videos",
@@ -3746,7 +3746,7 @@
     "DRlo8FH3zw0": {
       "video_id": "DRlo8FH3zw0",
       "title": "Pre-RFP Pension Fund Prospect Ranking: Proxy Targets on Noisy Mandate Data, LLM-Assisted Research",
-      "duration_s": 1598,
+      "duration_s": 1599,
       "channel": "Toronto Machine Learning Society (TMLS)",
       "label": "MLOps World / TMLS",
       "year": null,
@@ -4413,7 +4413,7 @@
     "Fibve42XyRE": {
       "video_id": "Fibve42XyRE",
       "title": "One Does Not Simply Build a Quantum Computer Without AI",
-      "duration_s": 1927,
+      "duration_s": 1928,
       "channel": "Toronto Machine Learning Society (TMLS)",
       "label": "MLOps World / TMLS",
       "year": null,
@@ -7083,7 +7083,7 @@
     "PWM4YIrtzN8": {
       "video_id": "PWM4YIrtzN8",
       "title": "Why Agentic AI Evaluation Break in Production",
-      "duration_s": 2046,
+      "duration_s": 2047,
       "channel": "Toronto Machine Learning Society (TMLS)",
       "label": "MLOps World / TMLS",
       "year": null,

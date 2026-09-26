@@ -1,16 +1,16 @@
 {
   "slug": "dreamforce",
   "name": "Salesforce Dreamforce",
-  "enumerated_at": "2026-09-13T22:09:36+00:00",
+  "enumerated_at": "2026-09-26T14:29:55+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM",
       "label": "Dreamforce 2025 keynotes",
       "year": 2025,
-      "count": 102
+      "count": 101
     }
   ],
-  "count": 102,
+  "count": 101,
   "videos": {
     "0-bCKVLxNW4": {
       "video_id": "0-bCKVLxNW4",
@@ -107,17 +107,6 @@
     },
     "32bLTmjfRIc": {
       "video_id": "32bLTmjfRIc",
-      "title": "",
-      "duration_s": null,
-      "channel": "Salesforce",
-      "label": "Dreamforce 2025 keynotes",
-      "year": 2025,
-      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM",
-      "description": "",
-      "details_at": "2026-09-06T13:24:11+00:00"
-    },
-    "39PIo5JkkBQ": {
-      "video_id": "39PIo5JkkBQ",
       "title": "",
       "duration_s": null,
       "channel": "Salesforce",

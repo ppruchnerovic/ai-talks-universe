@@ -1,7 +1,7 @@
 {
   "slug": "fully-connected-wandb",
   "name": "Fully Connected (Weights & Biases)",
-  "enumerated_at": "2026-09-13T22:07:24+00:00",
+  "enumerated_at": "2026-09-26T14:27:28+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLD80i8An1OEEh-4vRV5PF6MgN7OYRB7v4",
@@ -16,7 +16,7 @@
       "count": 300
     }
   ],
-  "count": 303,
+  "count": 305,
   "videos": {
     "-7QfVraLHw4": {
       "video_id": "-7QfVraLHw4",
@@ -446,7 +446,7 @@
     },
     "3rTtaDP_Tm8": {
       "video_id": "3rTtaDP_Tm8",
-      "title": "CoreWeave ARIA: AI Research and Iteration Agent",
+      "title": "CoreWeave ARIA: AI research and iteration agent",
       "duration_s": 97,
       "channel": "Weights & Biases",
       "label": "Weights & Biases",
@@ -1582,6 +1582,15 @@
       "published_at": "2024-07-03T11:07:32Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:49+00:00"
+    },
+    "NmPwYCVtDnA": {
+      "video_id": "NmPwYCVtDnA",
+      "title": "NVIDIA HGX B300: on-site with CoreWeave engineers",
+      "duration_s": 88,
+      "channel": "Weights & Biases",
+      "label": "Weights & Biases",
+      "year": null,
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
     },
     "Nw3QBqV0I-o": {
       "video_id": "Nw3QBqV0I-o",
@@ -3449,6 +3458,15 @@
       "published_at": "2025-10-24T17:01:21Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:50+00:00"
+    },
+    "pgVHZoZlJjw": {
+      "video_id": "pgVHZoZlJjw",
+      "title": "Meet CoreWeave's first NVIDIA Vera Rubin NVL72 rack",
+      "duration_s": 33,
+      "channel": "Weights & Biases",
+      "label": "Weights & Biases",
+      "year": null,
+      "source_url": "https://www.youtube.com/@WeightsBiases/videos"
     },
     "pxbNLZ9k9Bo": {
       "video_id": "pxbNLZ9k9Bo",
