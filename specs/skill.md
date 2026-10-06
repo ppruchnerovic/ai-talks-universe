@@ -55,6 +55,7 @@ the ladder costs ~15-17k (`--brief -n 15` ~1.5k, six default excerpts ~7k,
 |---|---|
 | `.claude/skills/ai-conference-talks/SKILL.md` (~340 lines) | The skill. Frontmatter + body, sections listed below. |
 | `.agents/skills/ai-conference-talks` | Relative directory symlink to the canonical skill; shared discovery. |
+| `prompts/` | Reusable research prompts that drive the skill through one large subject (`ticket-factory.md`). They cite `query.py`/`excerpt.py` flags and query syntax, so a flag change updates them along with SKILL.md; like SKILL.md they carry no corpus counts. |
 | `.claude/worktrees/` | Empty, untracked dir Claude Code uses for `isolation: worktree` agents. Not part of the skill; ignore. |
 | `tools/query.py:1424-1502` | `main()` + argparse: every `query.py` flag the skill cites. |
 | `tools/query.py:1235-1287` | `render()`: the text output the skill describes (`· transcript`, `· match:`, `(also: …)`, `topics:`, semantic-match label, moments with `&t=`, url line). |

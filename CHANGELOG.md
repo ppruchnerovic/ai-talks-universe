@@ -9,6 +9,10 @@ session-by-session record with numbers and provenance is
 ## Unreleased
 
 ### Added
+- `prompts/ticket-factory.md`: a research prompt that drives the skill
+  through how to build a ticket factory (tickets in, verified changes out,
+  agents doing most of the work), with seeded queries per pipeline stage, the
+  corpus traps for the topic and a cited blueprint as output.
 - Shared `ai-conference-talks` skill discovery for Codex and Gemini CLI,
   alongside Claude Code, Copilot and OpenCode; agent setup and fallback guidance.
 - MIT licence for the code and a CC BY 4.0 notice for the curated data
