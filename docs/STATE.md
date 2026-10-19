@@ -22,7 +22,7 @@ the catalogue layer, because there is no agenda API.
 | Speakers | **5,994 of 10,473 (57%)** after the 2026-10-19 refresh. Speaker extraction rules and their history are recorded under *Review of 2026-09-02* in `HISTORY.md` and covered by `test_speakers.py`. |
 | Enrichment (`enrich.py`) | **10,082 of 10,473 talks have descriptions; 6,412 have tags; all have years and publication dates.** The 2026-10-19 refresh enriched 466 records via the Data API, none unavailable. Earlier whole-catalog enrichment is recorded under *The refresh of 2026-09-06* in `HISTORY.md`. |
 | Per-talk markdown | Done. 10,473 files, regenerated from `talks.json` on every sync. |
-| Search indexes (`build_index.py`) | Rebuilt 2026-10-19: **1,775,423 passages**, SQLite FTS5 database **479.5 MiB** (schema version 6); browser index **55.7 MiB in 724 shards**, **63,702 stems**, 43,344 in descriptions. `search-meta.json` is **5.96 MiB, 99% of its 6 MiB trigger** — 40,045 bytes under it, so the next refresh that adds a few hundred talks will cross it. Two offline derive/build passes produced identical SHA-256 hashes for every changed file. Description clips remain at 150 characters; the crossing should move descriptions out of the initial payload rather than halve again, per `specs/search-browser.md`. |
+| Search indexes (`build_index.py`) | Rebuilt 2026-10-19, after the second fetch: **1,815,265 passages**, SQLite FTS5 database **489.1 MiB** (schema version 6); browser index **56.9 MiB in 724 shards**, **64,037 stems**, 43,344 in descriptions. `search-meta.json` is **5.96 MiB, 99% of its 6 MiB trigger** — 39,598 bytes under it, so the next refresh that adds a few hundred talks will cross it. Two offline derive/build passes produced identical SHA-256 hashes for every changed file. Description clips remain at 150 characters; the crossing should move descriptions out of the initial payload rather than halve again, per `specs/search-browser.md`. |
 | Topics | **8,528 of 10,473 talks carry at least one of fifteen topics**; 1,945 have none (90 of those have no description). Keyword rules in `atu.TOPICS` use title, tags and description, never the transcript; channel boilerplate is stripped first. See *The topic facet — built* in `HISTORY.md`. |
 | CLI (`query.py`) | Done, and its ranking was rebalanced — see *Design decisions* in `ARCHITECTURE.md`. Rewritten 2026-09-02 around a gate on content words with progressive relaxation (*Review of 2026-09-02*, section C). Enriched the same day — see *Search enrichment* in `HISTORY.md`: column filters fixed (`title:` `speakers:` `{title tags}:` `transcript:`), colour only on a TTY, `--speaker`, `--sort`, duration and date filters, `--max-year`, `--exact-timing`, `--explain`, `--fields`, `--md`, `--random`, `-word`, `--facets`, `--per-conference`/`--per-year`, synonym groups, duplicate collapse `(also: …)`, `--excerpt`, and `--semantic`/`--no-semantic` (auto: on when the optional layer is installed, silent otherwise). `--topic`/`--list-topics` and the category-as-conference-type rename came in from *The topic facet* and *Category becomes conference type*, same day. |
 | Excerpting (`excerpt.py`) | Done, 2026-09-01. Windowed passages instead of whole transcripts; **100% of the passages `query.py` ranks survive, on 17% of the words**. Since 2026-09-02: `--quotes` (~30 tokens a quote), `--outline` (~17 a two-minute bucket), `--at SECONDS`, `--words`/`--total-words`, `--full`, `--json`; notes in the output, not stderr. Costs measured in *Search enrichment* in `HISTORY.md`. |
@@ -33,7 +33,7 @@ the catalogue layer, because there is no agenda API.
 | Other offline tests | `test_query.py` (75: the parser, column filters, exclusions, synonyms, id resolution, `--topic`/`--category` resolution, the fusion helpers), `test_topics.py` (509, the topic rules, one check per boundary), `test_semantic.py` (60 without the layer, on the standard library: staleness, reciprocal-rank fusion, the pool mapping; its end-to-end block skips when the layer is absent), `test_infoq.py` (54, the fold-in and, since 2026-09-06, `merge_source`'s null-channel and recency-cap rules), `test_speakers.py` (18, every speaker shape and the false positives), `test_stem.py` (5: both stemmers over all 104,061 corpus tokens; skips its node half if node is missing). All green. |
 | Fetcher tests (`tools/test_fetch_transcripts.py`) | Done. **157 offline checks** over the pool, the routes, the year selection, the four failure classes, the off-IP lease rule and the caption-language selection. |
 | Shared agent skill | Done — `ai-conference-talks`, in `.claude/skills/`, linked from `.agents/skills/` for shared discovery. Supports Claude Code, Copilot, Codex, OpenCode and Gemini CLI; setup and fallback in `GUIDE.md` §"With an AI agent". Rewritten 2026-09-01 around a retrieval ladder that costs ~17k tokens a question instead of ~150k — see *Making the skill affordable* in `HISTORY.md`. Revised 2026-09-02 (section F): no hard-coded counts, search the topic's words not the question, `~` timestamps cited as approximate, `-n` is a budget. Revised again for *Search enrichment*: `--facets` before choosing a slice, `--per-conference` instead of a five-call loop, `--excerpt`, the `--quotes`/`--outline` costs, synonyms-not-inflections in OR chains, `python3 tools/query.py` from the repo root, the semantic layer's caveats. |
-| Transcripts | **3,903 of 10,473** over 35 conferences: **3,672 exact**, 231 estimated. Four additional transcript files remain held back by the existing 10 words/minute quality floor. The 2026-10-19 refresh fetched 292 transcripts and recorded seven misses, all without timed captions; one more was rate-limited and left for the next run. Largest transcript collections: ai-engineer 808, wearedevelopers 440, qcon-infoq 351, pydata 247, microsoft-build 187, ndc 184, berkeley-agentic-ai-summit 159, ai-devcon-tessl 156, devoxx 153, kubecon 151. **The 2026 scope is not complete**: 3,881 talks, 3,662 indexed transcripts (3,666 files), 48 recorded misses and **167 pending** — the run's 300-credit cap stopped short of the 466 it selected. 140 of the pending are The AI Conference, 18 dotAI, 6 Devoxx. See *The refresh of 2026-10-19* in `HISTORY.md`. |
+| Transcripts | **4,042 of 10,473** over 35 conferences: **3,811 exact**, 231 estimated. Four additional transcript files remain held back by the existing 10 words/minute quality floor. The 2026-10-19 refresh took two fetches: the first, capped at 300 credits, fetched 292 and recorded seven misses; the second, uncapped, took the remaining 167 — 139 fetched, 28 misses, every one a talk of The AI Conference with no captions on YouTube at all. Largest transcript collections: ai-engineer 809, wearedevelopers 441, qcon-infoq 351, pydata 248, microsoft-build 187, ndc 184, berkeley-agentic-ai-summit 159, devoxx 159, ai-devcon-tessl 156, kubecon 151, the-ai-conference 149. **The 2026 scope is complete**: 3,881 talks, 3,801 indexed transcripts (3,805 files), 76 recorded misses, zero pending. See *The refresh of 2026-10-19* in `HISTORY.md`. |
 | Imports (`import_kb.py`) | Done for WeAreDevelopers World Congress 2026: 358 talks and their transcripts, from the private agenda-API corpus (`--kb`). Offline and rerunnable. |
 | Workflows | `tests.yml` (lint + offline suites, 2026-09-11) and `pages.yml`. `kb-refresh.yml` was removed 2026-09-11 in favour of `tools/refresh_local.sh`, daily on this machine via systemd, because CI had no keys. `pages.yml` was rewritten on 2026-09-02: it now runs `tools/assemble_site.sh` and pushes only what the browser fetches to `gh-pages` as one orphan commit — 249 MB instead of the whole 411 MB repo. **Verified live 2026-09-02**: the merge of `infoq-presentations` was its first deploy — the assemble step reported 250 MB (transcripts 199 MB, tindex 46 MB, search-meta.json 5.7 MB), `gh-pages` is one orphan commit, and the `load` and `moments` suites pass 34 of 34 against the published site. `kb-refresh.yml` pushes a review branch instead of committing to `main`, after the run that did — see *The CI refresh regression* in `HISTORY.md`. |
 | Published site | **Live** at <https://ppruchnerovic.github.io/ai-talks-universe/>, served from `gh-pages` — since 2026-09-02 the assembled 250 MB site rather than a mirror of the repository. |
@@ -79,12 +79,10 @@ something else at the time:
 
 ## Handoff — running a transcript extraction
 
-**167 talks of 2026 are pending**: the 2026-10-19 refresh selected 466 and its
-300-credit cap stopped after 299 attempts plus one rate-limited `LEFT` (*The
-refresh of 2026-10-19* in `HISTORY.md`). 140 are The AI Conference, 18 dotAI,
-6 Devoxx and one each AI Engineer, WeAreDevelopers and PyData; the command
-below without `--limit` takes all of them for about 167 credits. Before that
-run nothing was pending. The 422 talks the seven new conferences brought in were
+**Nothing is pending.** The 2026-10-19 refresh selected 466 talks of 2026;
+a 300-credit fetch and a second, uncapped one took all of them — 431 arrived,
+35 are facts about the video (*The refresh of 2026-10-19* in `HISTORY.md`).
+The 422 talks the seven new conferences brought in were
 fetched on 2026-09-01 (*Closing the 422* in `HISTORY.md`), the one the year-fallback fix
 later moved into the scope went the same way (*The pre-2023 cut* in `HISTORY.md`), and
 the 241 the 2026-09-06 refresh selected were fetched that day — 232 arrived, 9 are
@@ -153,10 +151,10 @@ other kind: an English talk whose only caption track is somebody else's ASR.
   403 for a members-only recording. Anything that looks like a network verdict
   is a bug in the classification, and it is permanent: `--retry-misses` is the
   only way back.
-- **299 of October's 3,000 credits are recorded as attempted** in
-  `~/.config/ai-talks-universe/credits-2026-10.log`, all from 2026-10-19,
-  leaving a ledger budget of 2,701 — enough for the 167 pending 2026 talks.
-  September closed at 210. The ledger counts fetched plus missed talks; the
+- **466 of October's 3,000 credits are recorded as attempted** in
+  `~/.config/ai-talks-universe/credits-2026-10.log`: 299 and 167 from the two
+  fetches of 2026-10-19, leaving a ledger budget of 2,534. September closed
+  at 210. The ledger counts fetched plus missed talks; the
   billing dashboard is authoritative for actual charges and any extra
   language requests.
 
@@ -290,7 +288,7 @@ OAuth *and* permission to edit the video, so third-party talks return 403.
 
 `query.py --stats` prints the talk, transcript, conference and year counts
 from the index, per year and per conference — start there. `README.md` states
-10,473 talks / 3,903 transcripts / 53 conferences / 18,995 enumerated, and how
+10,473 talks / 4,042 transcripts / 53 conferences / 18,995 enumerated, and how
 many of them are 2026 and how many of those are transcribed; this file states
 transcript, description, year, tag and speaker coverage, the per-conference
 transcript split, the 2026 pending backlog, the passage count, the credits
