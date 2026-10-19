@@ -1,7 +1,7 @@
 {
   "slug": "qcon-infoq",
   "name": "QCon / InfoQ Dev Summit",
-  "enumerated_at": "2026-09-26T14:25:58+00:00",
+  "enumerated_at": "2026-10-19T19:53:00+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@infoq/videos",
@@ -17,7 +17,7 @@
       "type": "infoq"
     }
   ],
-  "count": 735,
+  "count": 744,
   "videos": {
     "-1_KvpNDC6k": {
       "video_id": "-1_KvpNDC6k",
@@ -861,6 +861,15 @@
       ],
       "details_at": "2026-08-31T15:35:31+00:00"
     },
+    "54rKmemaOmM": {
+      "video_id": "54rKmemaOmM",
+      "title": "Future Cybersecurity: Hardware Memory Safety, Automated Governance and Post-Quantum Cryptography",
+      "duration_s": 2056,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos"
+    },
     "5EoRn87xiiA": {
       "video_id": "5EoRn87xiiA",
       "title": "Building Composable Teams: Moving Beyond Rigid Organizational Structures",
@@ -1012,6 +1021,19 @@
         "QCon Conferences"
       ],
       "details_at": "2026-08-31T15:35:31+00:00"
+    },
+    "6iVr1BTIMnk": {
+      "video_id": "6iVr1BTIMnk",
+      "title": "What Does It Really Mean To Program With AI: A Conversation with Joy Ebertz",
+      "duration_s": 2688,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this podcast, Michael Stiefel spoke to Joy Ebertz about how the use of artificial intelligence is changing the way architects and developers do their jobs. Focusing on the long term success of the business is one of the most neglected tasks of an architect. This task becomes particularly important as the nature of artificial intelligence changes the landscape of software development. Architects must be especially aware of requirements and their inherent ambiguity. More than ever, they must be expert at explaining technology to the business people, and the business to the technology people. On the flip side, goals must be clearly explained to AI agents, and tests must be unambiguously written. Industry practice is uncertain on how to incorporate changes due to bug reports or new requirements. Should it be done incrementally, or should the module’s or application’s code base be regenerated? This is especially challenging in existing systems, especially old ones where nobody knows what the real requirements were. Unambiguous requirements definition may turn out to be the gating factor in AI driven software development because code reviews seem not to be effective, and verification of the AI work is a great burden.\n\nRead a transcript of this interview: https://bit.ly/3VnVHUL\n\n\nNewsletter:\nSubscribe to the Software Architects' Newsletter, a monthly roundup of the patterns and technologies senior practitioners are working through, with the news and lessons from people doing the work:\nhttps://www.infoq.com/software-architects-newsletter\n\n\nInfoQ Online Certification Programs:\n5-week online cohorts for senior engineers and architects, built around QCon talks. Programs now cover software architecture, AI engineering, and organizational architecture. Each week you join a four-hour live session with a confidential peer group of practitioners from other companies, apply frameworks from QCon talks to the decisions you're making at work, and earn an InfoQ certification. You leave with new approaches, or confirmation that the calls you're already making are the right ones. Learn more:\nhttps://certification.qconferences.com/\n\n\nUpcoming Events:\nQCon San Francisco 2026 (November 16-20, 2026)\nhttps://qconsf.com/\n\n\nQCon London 2027 (April 13-16, 2027)\nhttps://qconlondon.com/\n\n\nThe InfoQ Podcasts:\nWeekly conversations with senior software leaders about how they build systems and teams, including what they'd do differently. Listen to all our podcasts and read interview transcripts:\nThe InfoQ Podcast: https://www.infoq.com/podcasts/\nEngineering Culture Podcast by InfoQ: https://www.infoq.com/podcasts/#engineering_culture\nGenerally AI: https://www.infoq.com/generally-ai-podcast/\n\n\nFollow InfoQ:\nMastodon: https://techhub.social/@infoq\nX: https://x.com/InfoQ\nLinkedIn: https://www.linkedin.com/company/infoq/\nFacebook: https://www.facebook.com/InfoQdotcom\nInstagram: https://www.instagram.com/infoqdotcom/\nYouTube: https://www.youtube.com/infoq\nBluesky: https://bsky.app/profile/infoq.com\n\nWrite for InfoQ:\nShare what you've learned building software with a community of senior practitioners, and get your work in front of the people who read InfoQ.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2026-10-12T10:34:53Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "6qNvZd0bmWk": {
       "video_id": "6qNvZd0bmWk",
@@ -3979,6 +4001,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:32+00:00"
     },
+    "Q3ehiNbgEZU": {
+      "video_id": "Q3ehiNbgEZU",
+      "title": "The Future of Web Apps: Will AI Agents Generate UIs on the Fly?",
+      "duration_s": 2827,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "Rachel Lee Nabors, former React core team member, dives into the architecture and philosophy behind local-first applications, exploring how small language models (SLMs) running directly on-device can deliver privacy-focused, low-latency, and cost-effective alternatives to cloud-hosted LLM wrappers. Rachel shares key insights on evaluating models with golden datasets and leveraging client-side AI for moderation and social content aggregation.\n\nThe discussion also looks ahead to the future of web and application architectures in an AI-driven ecosystem. From the potential rise of OS-level personal agents and dynamic UI rendering standards like A2UI, to the evolving skill set required of software engineers.\n\nRead a transcript of this interview: https://bit.ly/4zUywAr\n\n\nNewsletter:\nSubscribe to the Software Architects' Newsletter, a monthly roundup of the patterns and technologies senior practitioners are working through, with the news and lessons from people doing the work:\nhttps://www.infoq.com/software-architects-newsletter\n\n\nInfoQ Online Certification Programs:\n5-week online cohorts for senior engineers and architects, built around QCon talks. Programs now cover software architecture, AI engineering, and organizational architecture. Each week you join a four-hour live session with a confidential peer group of practitioners from other companies, apply frameworks from QCon talks to the decisions you're making at work, and earn an InfoQ certification. You leave with new approaches, or confirmation that the calls you're already making are the right ones. Learn more:\nhttps://certification.qconferences.com/\n\n\nUpcoming Events:\nQCon San Francisco 2026 (November 16-20, 2026)\nhttps://qconsf.com/\n\n\nQCon London 2027 (April 13-16, 2027)\nhttps://qconlondon.com/\n\n\nThe InfoQ Podcasts:\nWeekly conversations with senior software leaders about how they build systems and teams, including what they'd do differently. Listen to all our podcasts and read interview transcripts:\nThe InfoQ Podcast: https://www.infoq.com/podcasts/\nEngineering Culture Podcast by InfoQ: https://www.infoq.com/podcasts/#engineering_culture\nGenerally AI: https://www.infoq.com/generally-ai-podcast/\n\n\nFollow InfoQ:\nMastodon: https://techhub.social/@infoq\nX: https://x.com/InfoQ\nLinkedIn: https://www.linkedin.com/company/infoq/\nFacebook: https://www.facebook.com/InfoQdotcom\nInstagram: https://www.instagram.com/infoqdotcom/\nYouTube: https://www.youtube.com/infoq\nBluesky: https://bsky.app/profile/infoq.com\n\nWrite for InfoQ:\nShare what you've learned building software with a community of senior practitioners, and get your work in front of the people who read InfoQ.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2026-10-19T10:17:16Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "QCpyyAcwsKk": {
       "video_id": "QCpyyAcwsKk",
       "title": "Evolving Your Architecture: Essential Steps and Tools for Modernization",
@@ -4729,6 +4764,41 @@
         "Tech Career"
       ],
       "details_at": "2026-08-31T15:35:32+00:00"
+    },
+    "V3qrXWQ8YL8": {
+      "video_id": "V3qrXWQ8YL8",
+      "title": "S3 to GPU at 60Gbps: Why Parquet is Bottlenecking Your Data",
+      "duration_s": 2978,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "Parquet and traditional NVMe data pipelines are slowing down your GPU analytics and ML training workloads. In this deep dive, Onur Satici (SpiralDB / Linux Foundation) breaks down how Vortex - an open-source, fast-path columnar file format - streams data directly from S3 to GPUs at up to 60 Gbps, eliminating CPU decompression bottlenecks and saving GPU compute cycles. \n\nDiscover how Vortex decouples logical and physical types, leverages cascading encodings for compute on compressed data, and enables zero-copy execution with Apache Arrow, DataFusion, DuckDB, and Polars. \n\n📌 Timestamps: \n00:00 - Live Demo: Visualizing a 4K 60fps Scan from S3 to GPU \n02:08 - The Problem: GPU Movement Tax vs. Decision Tax \n04:09 - Introducing Vortex: Parquet vs. Vortex Architecture \n05:27 - Vortex File Spec: Postscript, Footers, and Segment Alignment \n06:55 - How Layouts and Zone-Maps Eliminate Unnecessary Disk I/O \n09:20 - Cascading Encodings: DictArray, RunEnd, and Bitpacking \n11:58 - Executing Compute directly on Compressed Data (Zero-Copy) \n12:53 - Scan Architecture: Byte Coalescing for CPU and GPU \n14:41 - Bypassing CPU Memcopies: Buffer Pools, kTLS, and RDMA \n17:42 - Advanced Demo: Custom GPU Expressions & Zone Pruning \n19:50 - Edge Cases: Multi-GPU RDMA & Distributed Aggregations \n21:30 - Q&A: Video Codecs, Database Engine Support (DuckDB, Iceberg), and Benchmarks \n \n🔗 Transcript & slides available on InfoQ:  https://bit.ly/4hfh0Ah    \n \n#SoftwareArchitecture #DataEngineering #GPUAcceleration #Parquet #Vortex",
+      "published_at": "2026-09-28T10:55:09Z",
+      "tags": [
+        "Software Architecture",
+        "Data Engineering",
+        "GPU Acceleration",
+        "Parquet",
+        "Vortex",
+        "S3",
+        "GPU",
+        "Columnar Databases",
+        "QCon London 2026",
+        "AWS",
+        "Database",
+        "Transcripts",
+        "InfoQ",
+        "Cloud Computing",
+        "Machine Learning",
+        "CUDA",
+        "Performance",
+        "Data Pipelines",
+        "Data Lake",
+        "Streaming",
+        "NoSQL"
+      ],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "VGgRcxy-Slk": {
       "video_id": "VGgRcxy-Slk",
@@ -6369,6 +6439,36 @@
       "published_at": "2026-08-03T10:20:29Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:32+00:00"
+    },
+    "efxFeiz2Zk4": {
+      "video_id": "efxFeiz2Zk4",
+      "title": "Context Engineering for LLM Apps: What Worked, What Didn't",
+      "duration_s": 2855,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "Ricardo Ferreira's LLM assistant kept giving bad answers, so he switched to a newer model with a bigger context window. It didn't help, and it cost more. What fixed it was Context Engineering: memory layers, reranking, summarization and semantic caching. \n\nRicardo Ferreira has spent 25+ years building distributed systems and databases. To stress-test an open-source agent memory server built on Redis, he put an LLM behind an Alexa skill, which must answer within 8 seconds, and then used it with his family every day. This talk covers every context failure he hit along the way and how he fixed each one.\n\nRecorded at QCon AI Boston 2026. QCon conferences are practitioner-driven events where senior engineers share real production experience.\n\nIn this talk, you will learn:\n- Why upgrading to a larger model doesn't fix context poisoning, distraction, confusion or rot\n- How to combine short-term session memory with long-term vector memory, including multi-tenant post-filtering\n- How query compression, few-shot examples and reranking make answers more selective\n- Why context that grows without limit drives up token cost, and how token windows and summarization keep it flat\n- How semantic caching removed more than half of redundant LLM calls, and why you must recalibrate thresholds whenever you change models\n\n🔗 Transcript & slides available on InfoQ:  https://bit.ly/3Tz3lLn      \n\n   #ContextEngineering #LLM #AIEngineering #RAG #SemanticCaching",
+      "published_at": "2026-10-05T09:21:16Z",
+      "tags": [
+        "Context Engineering",
+        "LLM",
+        "AI Engineering",
+        "RAG",
+        "Semantic Caching",
+        "Redis",
+        "Caching",
+        "Retrieval-Augmented Generation",
+        "Generative AI",
+        "QCon AI Boston",
+        "Large language models",
+        "Artificial Intelligence",
+        "Database",
+        "Performance",
+        "InfoQ",
+        "AI Agents"
+      ],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "eiqZyybzwjg": {
       "video_id": "eiqZyybzwjg",
@@ -10700,6 +10800,38 @@
       "page_url": "https://www.infoq.com/presentations/zero-trust-principles/",
       "video_url": "https://videog.infoq.com/presentations/25-jun-zerotrustprinciples.mp4"
     },
+    "ir9UUDKJ-UE": {
+      "video_id": "ir9UUDKJ-UE",
+      "title": "Letting AI Approve Low-Risk PRs: What Worked in Production",
+      "duration_s": 2408,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "About 30% of code changes got no reviewer feedback. So the team let an LLM auto-approve the low-risk ones, and median time to merge dropped from about 18 to about 12 hours. \n\nSarah Deitke works on the DevEx AI team at Duolingo, where she helped grow AI tool adoption from about 80% to nearly 100% of engineers, then used that groundwork to build an AI risk-assessment bot that auto-approves low-risk pull requests.\n\nRecorded at QCon London 2026. QCon conferences are practitioner-driven events where senior engineers share real production experience.\n \n🔗 Transcript & slides available on InfoQ:  https://bit.ly/46IRs8G  \n     \n#AICodeReview #CodeReview #DeveloperExperience #AIAdoption #QCon",
+      "published_at": "2026-10-19T07:24:46Z",
+      "tags": [
+        "InfoQ",
+        "Agile",
+        "Automation",
+        "Metrics",
+        "Artificial Intelligence",
+        "Culture",
+        "Adoption",
+        "Transcripts",
+        "Developer Experience",
+        "QCon London 2026",
+        "AI",
+        "ML & Data Engineering",
+        "Culture & Methods",
+        "Software Architecture",
+        "Software Development",
+        "AI Code Review",
+        "Code Review",
+        "AI Adoption"
+      ],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "iuLPCFJxr_E": {
       "video_id": "iuLPCFJxr_E",
       "title": "The MCP Megalith: Surviving the 1,000-Tool Explosion and Auth Fragmentation",
@@ -11192,6 +11324,19 @@
       "published_at": "2024-09-27T08:20:39Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
+    },
+    "l0tlBS_BB74": {
+      "video_id": "l0tlBS_BB74",
+      "title": "The AI Revolution Fails Without Psychological Safety For Developers: A Conversation with Erin Doyle",
+      "duration_s": 3282,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this podcast, Michael Stiefel spoke to Erin Doyle about how artificial intelligence tools are transforming the software development process, and how they are affecting software engineers. Architecture skills are now critical because engineers need to understand how to build systems and handle the constraints and associated ambiguity in the requirements. At the same time, given the rapid change both in the nature of the AI tools, and the amount of code they can produce which can overwhelm developers, psychological safety becomes essential for successful AI adoption. Teams need a secure, non-judgmental environment to share their successes, admit failures, ask for help, and express skepticism. \n\nIndustry lacks a plan to train junior engineers because AI is taking over the tasks they were traditionally trained on, and university education is not adequate preparation for this new reality. The conversation concluded by discussing how software developers and organizations must retain complete ownership and assume full liability for the output generated by AI tools.  To manage this, there is an urgent need to develop advanced verification and telemetry tools that can support the review process.\n\nRead a transcript of this interview: https://bit.ly/4yNWi05\n\n\nNewsletter:\nSubscribe to the Software Architects' Newsletter, a monthly roundup of the patterns and technologies senior practitioners are working through, with the news and lessons from people doing the work:\nhttps://www.infoq.com/software-architects-newsletter\n\n\nInfoQ Online Certification Programs:\n5-week online cohorts for senior engineers and architects, built around QCon talks. Programs now cover software architecture, AI engineering, and organizational architecture. Each week you join a four-hour live session with a confidential peer group of practitioners from other companies, apply frameworks from QCon talks to the decisions you're making at work, and earn an InfoQ certification. You leave with new approaches, or confirmation that the calls you're already making are the right ones. Learn more:\nhttps://certification.qconferences.com/\n\n\nUpcoming Events:\nQCon San Francisco 2026 (November 16-20, 2026)\nhttps://qconsf.com/\n\n\nQCon London 2027 (April 13-16, 2027)\nhttps://qconlondon.com/\n\n\nThe InfoQ Podcasts:\nWeekly conversations with senior software leaders about how they build systems and teams, including what they'd do differently. Listen to all our podcasts and read interview transcripts:\nThe InfoQ Podcast: https://www.infoq.com/podcasts/\nEngineering Culture Podcast by InfoQ: https://www.infoq.com/podcasts/#engineering_culture\nGenerally AI: https://www.infoq.com/generally-ai-podcast/\n\n\nFollow InfoQ:\nMastodon: https://techhub.social/@infoq\nX: https://x.com/InfoQ\nLinkedIn: https://www.linkedin.com/company/infoq/\nFacebook: https://www.facebook.com/InfoQdotcom\nInstagram: https://www.instagram.com/infoqdotcom/\nYouTube: https://www.youtube.com/infoq\nBluesky: https://bsky.app/profile/infoq.com\n\nWrite for InfoQ:\nShare what you've learned building software with a community of senior practitioners, and get your work in front of the people who read InfoQ.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2026-09-28T10:25:59Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "lCg8awbKzCM": {
       "video_id": "lCg8awbKzCM",
@@ -12439,6 +12584,19 @@
       ],
       "details_at": "2026-08-31T15:35:33+00:00"
     },
+    "rx7FGQK_zl4": {
+      "video_id": "rx7FGQK_zl4",
+      "title": "The Minimum Viable Manager: Building Trust, Feedback, and Alignment",
+      "duration_s": 1909,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "This is the Engineering Culture Podcast, from the people behind InfoQ.com and the QCon conferences. In this podcast, Shane Hastie, Lead Editor for Culture & Methods spoke to Matt Gjertsen, founder of Built and author of Minimum Viable Manager, about the three foundational skills every first-time manager needs, how to build trust and give effective feedback, and why human leadership skills matter even more in the age of AI.\n\nRead a transcript of this interview: https://bit.ly/3TFgS43\n\n\nNewsletter:\nSubscribe to the Software Architects' Newsletter, a monthly roundup of the patterns and technologies senior practitioners are working through, with the news and lessons from people doing the work:\nhttps://www.infoq.com/software-architects-newsletter\n\n\nInfoQ Online Certification Programs:\n5-week online cohorts for senior engineers and architects, built around QCon talks. Programs now cover software architecture, AI engineering, and organizational architecture. Each week you join a four-hour live session with a confidential peer group of practitioners from other companies, apply frameworks from QCon talks to the decisions you're making at work, and earn an InfoQ certification. You leave with new approaches, or confirmation that the calls you're already making are the right ones. Learn more:\nhttps://certification.qconferences.com/\n\n\nUpcoming Events:\nQCon San Francisco 2026 (November 16-20, 2026)\nhttps://qconsf.com/\n\n\nQCon London 2027 (April 13-16, 2027)\nhttps://qconlondon.com/\n\n\nThe InfoQ Podcasts:\nWeekly conversations with senior software leaders about how they build systems and teams, including what they'd do differently. Listen to all our podcasts and read interview transcripts:\nThe InfoQ Podcast: https://www.infoq.com/podcasts/\nEngineering Culture Podcast by InfoQ: https://www.infoq.com/podcasts/#engineering_culture\nGenerally AI: https://www.infoq.com/generally-ai-podcast/\n\n\nFollow InfoQ:\nMastodon: https://techhub.social/@infoq\nX: https://x.com/InfoQ\nLinkedIn: https://www.linkedin.com/company/infoq/\nFacebook: https://www.facebook.com/InfoQdotcom\nInstagram: https://www.instagram.com/infoqdotcom/\nYouTube: https://www.youtube.com/infoq\nBluesky: https://bsky.app/profile/infoq.com\n\nWrite for InfoQ:\nShare what you've learned building software with a community of senior practitioners, and get your work in front of the people who read InfoQ.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2026-10-09T08:15:54Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "sCSryDgcnIo": {
       "video_id": "sCSryDgcnIo",
       "title": "Responsible AI in FinTech: Navigating Regulation & Disruption",
@@ -13195,6 +13353,15 @@
         "Software Architecture"
       ],
       "details_at": "2026-08-31T15:35:33+00:00"
+    },
+    "xOi7yW4VmWw": {
+      "video_id": "xOi7yW4VmWw",
+      "title": "Running Payments on AWS, GCP and Azure at Once",
+      "duration_s": 2730,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos"
     },
     "xWnvIzoOC0E": {
       "video_id": "xWnvIzoOC0E",

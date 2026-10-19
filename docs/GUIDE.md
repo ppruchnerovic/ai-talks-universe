@@ -7,7 +7,7 @@ rebuild, extend and test the whole thing. Design rationale and diagrams are in
 [`ARCHITECTURE.md`](ARCHITECTURE.md); the current numbers and the operational
 handoff in [`STATE.md`](STATE.md).
 
-**10,007 talks from 53 conferences, 3,611 of them with a full transcript.** The
+**10,473 talks from 53 conferences, 3,903 of them with a full transcript.** The
 curated list of which conferences and why is
 [`ai-conferences.md`](../ai-conferences.md); its machine-readable mirror, which
 the pipeline actually reads, is [`conferences.json`](../conferences.json).
@@ -128,8 +128,8 @@ passes the floor — enrichment is what resolves a year — and enumeration cach
 every year regardless, so the floor is a re-derivation away from being moved:
 `sync_catalog.py --no-min-year` rebuilds with the whole catalogue.
 
-Of 18,335 videos enumerated, 9,783 survive; with the 224 presentations that
-exist only on infoq.com the corpus is 10,007. `sync_catalog.py` prints exactly
+Of 18,995 videos enumerated, 10,249 survive; with the 224 presentations that
+exist only on infoq.com the corpus is 10,473. `sync_catalog.py` prints exactly
 what each conference dropped and why, the year floor included.
 
 ### Who gave the talk
@@ -564,12 +564,14 @@ chain below on a daily systemd timer (`tools/install_refresh_timer.sh`) and
 opens a pull request with the coverage report. The rest of this section is
 the same run by hand.
 
-Nothing is pending. The 2026-09-06 refresh — 27 new videos, 3 InfoQ-only
+167 talks of 2026 are pending: the 2026-10-19 refresh selected 466 for a
+transcript and its 300-credit cap stopped short, so the next run takes the
+rest. Before that, nothing was pending. The 2026-09-06 refresh — 27 new videos, 3 InfoQ-only
 presentations, and 722 already-cached videos that the description backfill
 let through the AI filter — left 241 talks of 2026 without a transcript, and
 the run below fetched them the same day: 232 returned captions, 9 had none or
 sat behind a members-only 403, for about 242 credits with the probe. Every
-2026 talk now either has a transcript or is recorded in `_misses.json`. When a
+2026 talk then either had a transcript or was recorded in `_misses.json`. When a
 refresh brings new talks in, this is the run, and it takes about five minutes:
 
 ```bash
@@ -699,9 +701,11 @@ exists. Within a priority it takes the longest talks first.
 
 It selects on year too, because on AI topics a 2023 talk is rarely worth a unit
 of an allowance that refills over hours. `--year 2026` (repeatable) or
-`--min-year 2026` keeps only those years — 3,418 of the 10,007 talks are 2026,
-of which 3,373 have a transcript, 37 have no captions or are members-only and 4
-are held back from the index as ASR failures, so none is waiting on a fetch — and a talk whose year is not known yet is left out unless
+`--min-year 2026` keeps only those years — 3,881 of the 10,473 talks are 2026,
+of which 3,662 have a transcript, 48 have no captions or are members-only, 4
+are held back from the index as ASR failures and 167 are waiting on a fetch
+that the 300-credit cap of the 2026-10-19 run left for the next one — and a
+talk whose year is not known yet is left out unless
 `--include-unknown-year` says otherwise. This is a selection filter and removes
 nothing: `query.py --year` reads every year the corpus has. What the corpus
 *has* is a separate decision, made once in the registry — see the year floor

@@ -1,7 +1,7 @@
 {
   "slug": "rsac",
   "name": "RSAC Conference",
-  "enumerated_at": "2026-09-26T14:29:12+00:00",
+  "enumerated_at": "2026-10-19T19:56:02+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@OneRSAC/videos",
@@ -10,7 +10,7 @@
       "count": 400
     }
   ],
-  "count": 400,
+  "count": 401,
   "videos": {
     "-7gtEQ9iswA": {
       "video_id": "-7gtEQ9iswA",
@@ -836,6 +836,15 @@
         "infosec"
       ],
       "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "6DCHsJoFX5U": {
+      "video_id": "6DCHsJoFX5U",
+      "title": "Builders and Breakers: Partnering for Secure Elections",
+      "duration_s": 3080,
+      "channel": "RSAC Cybersecurity",
+      "label": "RSAC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@OneRSAC/videos"
     },
     "6P-L7UmWLDM": {
       "video_id": "6P-L7UmWLDM",

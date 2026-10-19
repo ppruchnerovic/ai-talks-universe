@@ -5,10 +5,10 @@ slug: fully-connected-tokyo-hands-on-workshop-automation-of
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
 category: "Practitioner AI conferences"
-edition: "Weights & Biases"
-year: 2026
+edition: "Fully Connected Tokyo 2025"
+year: 2025
 speakers: []
-channel: "Weights & Biases"
+channel: "CoreWeave"
 duration_min: 153
 published_at: 2026-01-23T21:00:10Z
 video_id: 3VJZhKEG4ik
@@ -23,7 +23,7 @@ transcript: true
 
 **Speaker not identified**
 
-`Fully Connected (Weights & Biases)` · `Weights & Biases` · `2026` · `153 min`
+`Fully Connected (Weights & Biases)` · `Fully Connected Tokyo 2025` · `2025` · `153 min`
 
 [Watch the recording](https://www.youtube.com/watch?v=3VJZhKEG4ik) · [Conference site](https://fullyconnected.com/)
 

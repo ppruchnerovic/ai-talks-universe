@@ -1,7 +1,7 @@
 {
   "slug": "slush",
   "name": "Slush",
-  "enumerated_at": "2026-09-26T14:30:09+00:00",
+  "enumerated_at": "2026-10-19T19:56:56+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@slush/videos",
@@ -10,7 +10,7 @@
       "count": 400
     }
   ],
-  "count": 401,
+  "count": 402,
   "videos": {
     "-3QPTopWbhQ": {
       "video_id": "-3QPTopWbhQ",
@@ -151,6 +151,15 @@
         "Slush 2025"
       ],
       "details_at": "2026-09-06T13:24:15+00:00"
+    },
+    "-Z3K0boijpU": {
+      "video_id": "-Z3K0boijpU",
+      "title": "Slush 2026 Meeting Tool is Live",
+      "duration_s": 73,
+      "channel": "Slush",
+      "label": "Slush",
+      "year": null,
+      "source_url": "https://www.youtube.com/@slush/videos"
     },
     "-irw6Xntx6w": {
       "video_id": "-irw6Xntx6w",

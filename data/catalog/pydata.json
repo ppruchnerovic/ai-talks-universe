@@ -1,7 +1,7 @@
 {
   "slug": "pydata",
   "name": "PyData",
-  "enumerated_at": "2026-09-26T14:27:00+00:00",
+  "enumerated_at": "2026-10-19T19:53:56+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLGVZCDnMOq0qmerwB1eITnr5AfYRGm0DF",
@@ -16,7 +16,7 @@
       "count": 600
     }
   ],
-  "count": 606,
+  "count": 614,
   "videos": {
     "-2iBKx2O9ls": {
       "video_id": "-2iBKx2O9ls",
@@ -3817,7 +3817,7 @@
     "EGuTe4LV8z4": {
       "video_id": "EGuTe4LV8z4",
       "title": "Keynote - Semantic Layers: The Missing Link Between Al and Business Knowledge",
-      "duration_s": 2851,
+      "duration_s": 2852,
       "channel": "PyData",
       "label": "PyData",
       "year": null,
@@ -4823,7 +4823,7 @@
     "I1GvlW1H4WI": {
       "video_id": "I1GvlW1H4WI",
       "title": "Production ML across 2015-2035: A Journey to the Past and the Future [PyCon DE & PyData 2026]",
-      "duration_s": 1780,
+      "duration_s": 1781,
       "channel": "PyData",
       "label": "PyData",
       "year": null,
@@ -5954,6 +5954,15 @@
       ],
       "details_at": "2026-09-06T13:24:02+00:00"
     },
+    "MXTLExcekNw": {
+      "video_id": "MXTLExcekNw",
+      "title": "Ananya Sharma - Detecting and Mitigating Bias in Mortgage Lending - PyData Boston Sept Meetup",
+      "duration_s": 1638,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
+    },
     "Mb_37tp4MZ4": {
       "video_id": "Mb_37tp4MZ4",
       "title": "Ian Stokes-Rees - \"Save your API Keys for someone else\" - PyData Boston 2025",
@@ -6237,6 +6246,62 @@
         "scientific programming"
       ],
       "details_at": "2026-08-31T15:35:29+00:00"
+    },
+    "NOWyyYycZ4c": {
+      "video_id": "NOWyyYycZ4c",
+      "title": "Krithika Murugesan - Building Agentic AI Systems - PyData Boston Sep Meetup",
+      "duration_s": 1632,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos",
+      "description": "www.pydata.org\n\nPyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R. \n\nPyData conferences aim to be accessible and community-driven, with novice to advanced level presentations. PyData tutorials and talks bring attendees the latest project features along with cutting-edge use cases.\n\n00:00 Welcome!\n00:10 Help us add time stamps or captions to this video! See the description for details.\n\nWant to help add timestamps to our YouTube videos to help with discoverability? Find out more here: https://github.com/numfocus/YouTubeVideoTimestamps",
+      "published_at": "2026-10-13T01:11:13Z",
+      "tags": [
+        "Python",
+        "Tutorial",
+        "Education",
+        "NumFOCUS",
+        "PyData",
+        "Opensource",
+        "learn",
+        "software",
+        "python 3",
+        "Julia",
+        "coding",
+        "learn to code",
+        "how to program",
+        "scientific programming"
+      ],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "NUdt80F0YsU": {
+      "video_id": "NUdt80F0YsU",
+      "title": "Building AI solution for massive test generation in leading web server security product",
+      "duration_s": 2472,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos",
+      "description": "www.pydata.org\n\nPyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R. \n\nPyData conferences aim to be accessible and community-driven, with novice to advanced level presentations. PyData tutorials and talks bring attendees the latest project features along with cutting-edge use cases.\n\n00:00 Welcome!\n00:10 Help us add time stamps or captions to this video! See the description for details.\n\nWant to help add timestamps to our YouTube videos to help with discoverability? Find out more here: https://github.com/numfocus/YouTubeVideoTimestamps",
+      "published_at": "2026-10-15T16:46:06Z",
+      "tags": [
+        "Python",
+        "Tutorial",
+        "Education",
+        "NumFOCUS",
+        "PyData",
+        "Opensource",
+        "learn",
+        "software",
+        "python 3",
+        "Julia",
+        "coding",
+        "learn to code",
+        "how to program",
+        "scientific programming"
+      ],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "NcGRNeuOPoE": {
       "video_id": "NcGRNeuOPoE",
@@ -6592,6 +6657,15 @@
         "web accessibility"
       ],
       "details_at": "2026-08-31T15:35:30+00:00"
+    },
+    "ONcIHc17gaI": {
+      "video_id": "ONcIHc17gaI",
+      "title": "Give Me 5 Season 3 Coming Oct. 8",
+      "duration_s": 124,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
     },
     "OWt3Yzhrs1E": {
       "video_id": "OWt3Yzhrs1E",
@@ -8085,6 +8159,15 @@
         "scientific programming"
       ],
       "details_at": "2026-09-06T13:24:02+00:00"
+    },
+    "V5qbiTrEBCo": {
+      "video_id": "V5qbiTrEBCo",
+      "title": "Abby Tse: From IBM Engineer to Community Leader | Give Me 5",
+      "duration_s": 313,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
     },
     "VC_G_lqideY": {
       "video_id": "VC_G_lqideY",
@@ -11861,6 +11944,15 @@
         "scientific programming"
       ],
       "details_at": "2026-09-06T13:24:02+00:00"
+    },
+    "iKJvUalB-0g": {
+      "video_id": "iKJvUalB-0g",
+      "title": "Konstantinos Tsoumas: Open Source Is a People Model | Give Me 5",
+      "duration_s": 385,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
     },
     "iwi3b5l9MTc": {
       "video_id": "iwi3b5l9MTc",
@@ -16415,6 +16507,15 @@
       ],
       "details_at": "2026-08-31T15:35:31+00:00"
     },
+    "yvlDiqf7CH8": {
+      "video_id": "yvlDiqf7CH8",
+      "title": "The Data Analyst Isn’t Disappearing, but the Job is Changing - Cassandra Collier",
+      "duration_s": 4740,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
+    },
     "z2TrFWnH-vc": {
       "video_id": "z2TrFWnH-vc",
       "title": "Hitendri Bomble-The Silent Crash:Why Your RAG Evaluation Metrics Are Lying to You | PyData London 26",
@@ -16463,6 +16564,34 @@
         "machine learning"
       ],
       "details_at": "2026-08-31T15:35:31+00:00"
+    },
+    "z6qatytg32k": {
+      "video_id": "z6qatytg32k",
+      "title": "Sebastian Wallkötter - The physics behind (self-)hosting LLMs - PyData Boston Sep Meetup",
+      "duration_s": 2070,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos",
+      "description": "www.pydata.org\n\nPyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R. \n\nPyData conferences aim to be accessible and community-driven, with novice to advanced level presentations. PyData tutorials and talks bring attendees the latest project features along with cutting-edge use cases.\n\n00:00 Welcome!\n00:10 Help us add time stamps or captions to this video! See the description for details.\n\nWant to help add timestamps to our YouTube videos to help with discoverability? Find out more here: https://github.com/numfocus/YouTubeVideoTimestamps",
+      "published_at": "2026-10-13T01:36:33Z",
+      "tags": [
+        "Python",
+        "Tutorial",
+        "Education",
+        "NumFOCUS",
+        "PyData",
+        "Opensource",
+        "learn",
+        "software",
+        "python 3",
+        "Julia",
+        "coding",
+        "learn to code",
+        "how to program",
+        "scientific programming"
+      ],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "z8QIUrlsO4c": {
       "video_id": "z8QIUrlsO4c",

@@ -1,13 +1,13 @@
 {
   "slug": "microsoft-build",
   "name": "Microsoft Build",
-  "enumerated_at": "2026-09-26T14:29:17+00:00",
+  "enumerated_at": "2026-10-19T19:56:07+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHicIn65R7Oi_1nFXQr4SbtU",
       "label": "Build 2026",
       "year": 2026,
-      "count": 225
+      "count": 224
     },
     {
       "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHgFYS4DKbJ_xCYNE94ZLJjj",
@@ -16,7 +16,7 @@
       "count": 274
     }
   ],
-  "count": 499,
+  "count": 498,
   "videos": {
     "-3OjBT6f_Yw": {
       "video_id": "-3OjBT6f_Yw",
@@ -7715,17 +7715,6 @@
         "msft build 2026"
       ],
       "details_at": "2026-08-31T15:35:55+00:00"
-    },
-    "Ta2OiBQjj7o": {
-      "video_id": "Ta2OiBQjj7o",
-      "title": "",
-      "duration_s": null,
-      "channel": "Microsoft Developer",
-      "label": "Build 2026",
-      "year": 2026,
-      "source_url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHicIn65R7Oi_1nFXQr4SbtU",
-      "description": "",
-      "details_at": "2026-09-06T13:24:13+00:00"
     },
     "TaPAlEkBSVQ": {
       "video_id": "TaPAlEkBSVQ",

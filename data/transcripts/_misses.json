@@ -208,5 +208,40 @@
     "conference": "the-ai-conference",
     "reason": "LookupError",
     "detail": "supadata: no timed transcript for this video"
+  },
+  "EtqGqx7nAU8": {
+    "conference": "ndc",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "L0ONcTxWybQ": {
+    "conference": "the-ai-conference",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "bwcDajorABo": {
+    "conference": "the-ai-conference",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "2DnVMXcOkY4": {
+    "conference": "the-ai-conference",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "5AaJ3H9fG6M": {
+    "conference": "devoxx",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "8H50pjTMWWE": {
+    "conference": "the-ai-conference",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "6N6qFqn1_Uo": {
+    "conference": "devoxx",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
   }
 }

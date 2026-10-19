@@ -1,7 +1,7 @@
 {
   "slug": "usenix-security",
   "name": "USENIX Security Symposium",
-  "enumerated_at": "2026-09-26T14:29:06+00:00",
+  "enumerated_at": "2026-10-19T19:55:57+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@UsenixOrg/videos",
@@ -10,7 +10,7 @@
       "count": 800
     }
   ],
-  "count": 957,
+  "count": 960,
   "videos": {
     "-H7GOS-XPSk": {
       "video_id": "-H7GOS-XPSk",
@@ -1055,6 +1055,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
+    },
+    "3jnwGZ5IXQ8": {
+      "video_id": "3jnwGZ5IXQ8",
+      "title": "OSDI '26 - WriteGuards: Distributed Storage Support for Strongly Consistent Caches",
+      "duration_s": 1193,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "3l11oLIeCjo": {
       "video_id": "3l11oLIeCjo",
@@ -2616,7 +2625,7 @@
     "9HJN_YJ1J60": {
       "video_id": "9HJN_YJ1J60",
       "title": "OSDI '26 - VTC: DNN Compilation with Virtual Tensors for Data Movement Elimination",
-      "duration_s": 921,
+      "duration_s": 922,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -3647,6 +3656,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
+    },
+    "ClrmFZmjbW4": {
+      "video_id": "ClrmFZmjbW4",
+      "title": "OSDI '26 - Incr: Faster Re-Execution via Bolt-On Incrementalization",
+      "duration_s": 735,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "CrbY6Ujo2pI": {
       "video_id": "CrbY6Ujo2pI",
@@ -5213,6 +5231,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
+    },
+    "J281M0xKcOA": {
+      "video_id": "J281M0xKcOA",
+      "title": "OSDI '26 - Heterogeneity at Hyperscale: Characterization and Scheduling of Large Production...",
+      "duration_s": 1146,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "J2RmtTfgPqQ": {
       "video_id": "J2RmtTfgPqQ",
@@ -7530,7 +7557,7 @@
     "SqSs-NdWyk0": {
       "video_id": "SqSs-NdWyk0",
       "title": "USENIX Security '26 (Enigma Track) - What Is a PUF and Why Might You Need One?",
-      "duration_s": 1285,
+      "duration_s": 1286,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -7917,7 +7944,7 @@
     "V9kxql8W0ig": {
       "video_id": "V9kxql8W0ig",
       "title": "OSDI '26 - Controlling Opaque-Component Effects with Semisolates and Try",
-      "duration_s": 722,
+      "duration_s": 723,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -7962,7 +7989,7 @@
     "VHZbH0NaPC4": {
       "video_id": "VHZbH0NaPC4",
       "title": "OSDI '26 - Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms",
-      "duration_s": 982,
+      "duration_s": 983,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -9924,7 +9951,7 @@
     "c9jqIyEI95Q": {
       "video_id": "c9jqIyEI95Q",
       "title": "PEPR '26 - Architecting Scalable Data Lineage Graph for Privacy Compliance and Agentic Analysis",
-      "duration_s": 929,
+      "duration_s": 930,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -11895,7 +11922,7 @@
     "jDR0vbMYpTk": {
       "video_id": "jDR0vbMYpTk",
       "title": "OSDI '26 - TileLoom: Automatic Dataflow Planning for Tile-Based Languages on Spatial Dataflow Accel…",
-      "duration_s": 1312,
+      "duration_s": 1313,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -12201,7 +12228,7 @@
     "kchngC09ydg": {
       "video_id": "kchngC09ydg",
       "title": "WOOT '26 - HotWire: Real-World Impersonation and Discharge Attacks on Electric Vehicle Charging...",
-      "duration_s": 1043,
+      "duration_s": 1044,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -12444,7 +12471,7 @@
     "lms07CqF3Zg": {
       "video_id": "lms07CqF3Zg",
       "title": "WOOT '26 - OSS-CRS: Liberating AIxCC Cyber Reasoning Systems for Real-World Open-Source Security",
-      "duration_s": 893,
+      "duration_s": 894,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -12840,7 +12867,7 @@
     "nuZrl999esk": {
       "video_id": "nuZrl999esk",
       "title": "WOOT '26 - SoK: Multi-Layer Indirect Call Analysis in the Real World",
-      "duration_s": 1035,
+      "duration_s": 1036,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,

@@ -1,7 +1,7 @@
 {
   "slug": "ray-summit",
   "name": "Ray Summit (Anyscale)",
-  "enumerated_at": "2026-09-26T14:26:48+00:00",
+  "enumerated_at": "2026-10-19T19:53:45+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLzTswPQNepXnD-PksryocyeOPdK6CyZw6",
@@ -16,7 +16,7 @@
       "count": 400
     }
   ],
-  "count": 504,
+  "count": 506,
   "videos": {
     "-3qrieMBD3U": {
       "video_id": "-3qrieMBD3U",
@@ -490,6 +490,15 @@
       "published_at": "2024-10-18T21:14:30Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:03+00:00"
+    },
+    "2v3vEPPkZTo": {
+      "video_id": "2v3vEPPkZTo",
+      "title": "Planetary-scale multimodal image processing | Xoople + Anyscale",
+      "duration_s": 215,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos"
     },
     "2y7MrWjYKLc": {
       "video_id": "2y7MrWjYKLc",
@@ -6126,6 +6135,15 @@
       "published_at": "2023-10-12T16:08:03Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
+    },
+    "wfLNdx3kvbU": {
+      "video_id": "wfLNdx3kvbU",
+      "title": "Billion Inferences a Day ML Platform | Coinbase + Anyscale",
+      "duration_s": 193,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos"
     },
     "wi2Ae4mB0SY": {
       "video_id": "wi2Ae4mB0SY",

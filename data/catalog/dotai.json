@@ -1,7 +1,7 @@
 {
   "slug": "dotai",
   "name": "dotAI",
-  "enumerated_at": "2026-09-26T14:27:16+00:00",
+  "enumerated_at": "2026-10-19T19:54:10+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@dotconferences/videos",
@@ -10,7 +10,7 @@
       "count": 400
     }
   ],
-  "count": 400,
+  "count": 432,
   "videos": {
     "-2oU2aUeYks": {
       "video_id": "-2oU2aUeYks",
@@ -76,6 +76,19 @@
       "published_at": "2018-06-20T13:42:38Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
+    },
+    "-UHcQD4pwjo": {
+      "video_id": "-UHcQD4pwjo",
+      "title": "Don't Become Your Agent's B**** - Guillaume Vernade - Google DeepMind - dotAI 2026",
+      "duration_s": 1268,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Guillaume Vernade, Senior Developer Advocate at Google DeepMind: https://www.dotai.io/\n\nGuillaume Vernade is a seasoned technology professional with a passion for building impactful solutions across a wide range of industries. His career began in the fast-paced world of wearable tech, where he prototyped applications for Google Glass and the first generation of Android watches, gaining invaluable experience in user interface design and emerging technologies. Recognizing the importance of effective product development, Guillaume transitioned into roles as a Product Owner and Agile coach, guiding teams to deliver high-quality software and fostering collaborative environments. He also pursued his long-held dream of becoming a video game producer, honing his skills in project management, creative direction, and team leadership. Now, Guillaume is leveraging his diverse skillset to make a significant impact in the field of Artificial Intelligence, driven by a desire to create intelligent systems that improve people's lives.\n\nTalk: \"Don't Become Your Agent's B****\"\nWe were promised we’d become orchestra conductors sipping coffee while AI built our products. Instead, we became on-call terminal janitors doing hourly standups with hallucinating interns. Here is how to reclaim your sovereignty, kill DRY, and architect agent workflows that preserve human sanity.",
+      "published_at": "2026-09-28T14:00:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "-Ub4k0NunVU": {
       "video_id": "-Ub4k0NunVU",
@@ -564,6 +577,19 @@
       ],
       "details_at": "2026-09-06T13:23:53+00:00"
     },
+    "3NDly38DWIE": {
+      "video_id": "3NDly38DWIE",
+      "title": "WebMCP: Stop scraping the Web, start calling it - Patrick Brosset - Microsoft Edge - dotAI 2026",
+      "duration_s": 1222,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Patrick Brosset, Developer Relations PM at Microsoft Edge: https://www.dotai.io/\n\nPatrick Brosset is a Developer Relations PM at Microsoft Edge and a passionate web platform contributor who has spent over two decades building web apps and improving interoperability, developer experience, and developer tooling across Firefox and Chromium.\n\nTalk \"WebMCP: Stop scraping the Web, start calling it\"\n\nToday, most AI on the web relies on a model visually interpreting pages or scraping HTML and then guessing which clicks to make.\nWebMCP is the bridge from “AI can read pages” to “AI can safely and predictably do work on pages” by replacing guesswork with explicit tool contracts.\nIn this talk I’ll show how WebMCP turns multi-step, high-friction workflows into natural-language instructions that map to structured tool calls you can inspect. We’ll see how WebMCP eliminates DOM brittleness, is resilient to UI churn without shipping a separate server-side integration for every scenario and allows for a practical adoption path.\nYou’ll leave with a concrete mental model for what WebMCP is and how it can put users and web developers back into agentic browsing.",
+      "published_at": "2026-09-28T14:00:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "3TC7rOd_WqI": {
       "video_id": "3TC7rOd_WqI",
       "title": "dotSwift 2017 - Saul Mora - Dynamic Swift",
@@ -589,6 +615,19 @@
       "published_at": "2025-11-14T14:16:05Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "3VlrLR1Twuw": {
+      "video_id": "3VlrLR1Twuw",
+      "title": "Own your agent - Joffrey Thomas & Henry Lagarde - Mistral AI - dotAI 2026",
+      "duration_s": 1196,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Joffrey Thomas, Devrel at Mistral AI & Henry Lagarde, Software Engineer at Mistral AI: https://www.dotai.io/\n\nJoffrey Thomas: Developper Relation Engineer at Mistral AI, Helping developers get started in the Mistral ecosystem. Previously a Machine Learning Engineer at Hugging Face getting and customizing AI for companies and getting people up to date with agents (agents course, transformers agents).\n\nHenry Lagarde: Software Engineer at Mistral AI, one of the world’s leading open-source AI companies. Henry contributed to numerous open-source projects to explore the world of tech.\nWorked at Criteo, a leader in retargeting and retail media, and Datadog, the global leader in observability and alerting.\n\nTalk \"Own your agent\"\n\nAs we transition from conversational chatbots to autonomous agents, relying on closed-source APIs has become a major bottleneck for production-grade applications. To build reliable agents that handle critical tasks, developers need absolute control over their models, their data, and their infrastructure.\nIn this talk, we will discover why Open Source is the only viable foundation for truly autonomous agents, offering the freedom to customize, the power to secure your data, and the independence to build without boundaries.",
+      "published_at": "2026-09-28T14:00:24Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "3c9Ard9Ffxc": {
       "video_id": "3c9Ard9Ffxc",
@@ -622,6 +661,15 @@
       "published_at": "2016-12-21T11:17:40Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
+    },
+    "4bttpOmwQVs": {
+      "video_id": "4bttpOmwQVs",
+      "title": "Promise You'll Know It? The async JavaScript Quiz - Thorsten Seyschab - dotJS 2026",
+      "duration_s": 858,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
     },
     "4lUzKhq3C-M": {
       "video_id": "4lUzKhq3C-M",
@@ -712,6 +760,15 @@
       "published_at": "2017-05-26T09:53:11Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
+    },
+    "5b0KmfeONGI": {
+      "video_id": "5b0KmfeONGI",
+      "title": "No-build: pipe dream, or near future? - Lea Verou - TC39 delegate & WHATWG contributor - dotJS 2026",
+      "duration_s": 1995,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
     },
     "5buaPyJ0XeQ": {
       "video_id": "5buaPyJ0XeQ",
@@ -827,6 +884,19 @@
       "published_at": "2017-12-15T09:19:56Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
+    },
+    "7AebpJri-T8": {
+      "video_id": "7AebpJri-T8",
+      "title": "The Moving Target: Benchmarking Dynamic AI Systems End-to-End - Gaëtan Brison - Doctolib - dotAI 26",
+      "duration_s": 1076,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Gaëtan Brison, AI Manager at Doctolib: https://www.dotai.io/\n\nGaëtan is an AI Manager at Doctolib. Together with his team, he works closely with the AI Lab to enhance models through various retrieval and post-training approaches. He has contributed to several open-source initiatives in NLP, computer vision, and optimization.\n\nPreviously, he served as an AI Research Engineering Manager at Institut Polytechnique de Paris and also worked at NYU and Amazon. His main areas of interest include foundation models and multimodal systems.\n\nTalk: \"The Moving Target: Benchmarking Dynamic AI Systems End-to-End\"\n\nAI systems don't stand still — so why should our evaluation frameworks?\n\nAt Doctolib, we are building a complex ecosystem of AI agents spanning triage, clinical interview, retrieval, memory, booking, and image understanding. Evaluating each component in isolation is no longer enough. In a medical context, what matters is whether the system as a whole performs reliably — across multiple turns, multiple sessions, and across successive versions as the product evolves.\n\nIn this talk, we explore how to build an end-to-end evaluation framework for dynamic, multi-agent AI systems in high-stakes healthcare settings. We tackle the core challenge head-on: how do you test a moving target?\n\nWe introduce the concept of synthetic users — AI-powered personas that simulate realistic patient journeys, enabling systematic and reproducible evaluation at scale without compromising real patient data. We show how synthetic users allow us to stress-test agent pipelines across diverse scenarios, edge cases, and failure modes — including interactions with external systems.\n\nBut evaluation goes beyond task completion. In a medical setting, what the AI says matters as much as what it does. We dive into the challenge of managing context integrity across long multi-turn conversations — ensuring the system neither loses track of critical information nor hallucinates facts that were never grounded in the conversation. We present our approach to measuring groundedness: how well agent responses stay anchored to verified sources, retrieved documents, and the actual patient context — rather than drifting into confabulation.",
+      "published_at": "2026-09-28T14:00:25Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "7IOFPqdUArQ": {
       "video_id": "7IOFPqdUArQ",
@@ -1401,6 +1471,15 @@
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
     },
+    "E2aFrZpnNbo": {
+      "video_id": "E2aFrZpnNbo",
+      "title": "JavaScript tooling has a blind spot: codebase-wide questions - Bart Waardenburg - Fallow -dotJS 2026",
+      "duration_s": 1074,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
     "E6ccpH-w09I": {
       "video_id": "E6ccpH-w09I",
       "title": "dotCSS 2019 - Fabien Zibi - CSS tests",
@@ -1488,6 +1567,32 @@
       ],
       "details_at": "2026-09-06T13:23:53+00:00"
     },
+    "EbUa-LSxyr8": {
+      "video_id": "EbUa-LSxyr8",
+      "title": "AI for Prediction: Why You Need a Statistician Not a Philosopher - Kevin Scaman - Fundamental -dotAI",
+      "duration_s": 1285,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Kevin Scaman, ML researcher at Fundamental: https://www.dotai.io/\n\nBefore joining Fundamental, Kevin was a research scientist at Inria Paris and a part-time Associate Professor at École Polytechnique. His research in machine learning spans from theoretical advances in key aspects of deep learning, including robustness, decentralized learning, and training via non-convex optimization, to practical implementations of graph neural networks extending their expressive power and robustness. Previously, he led an optimization-for-ML research team at Huawei’s machine learning lab in Paris and received a NeurIPS 2018 Best Paper Award for his work on distributed optimization.\n\nAt Fundamental, Kevin is part of the research team and focuses on extending the capabilities of tabular foundation models, bringing his experience in structured data, optimization, and scalable learning to build models that can reason about tabular data and take advantage of their complex structure.\n\nTalk \"AI for Prediction: Why You Need a Statistician, Not a Philosopher\"​\n\nAI has become remarkably good at talking, reasoning, and generating content. But many of the decisions that matter most in business are not language problems, but prediction problems: Which customer will churn? How much will demand grow? Where is the risk? What happens next? These questions live in the world of structured, tabular data. And while Large Language Models were trained to understand and generate language, a new class of Large Tabular Models is being trained on billions of tables to learn the statistical patterns behind prediction. In this talk, I’ll explain why these two kinds of models have fundamentally different strengths. Think of them as complementary sides of an AI brain: one built to understand and communicate, the other to predict from data. Through a series of simple experiments, we’ll look inside the surprising limitations of LLMs when asked to make predictions and see why, when an important decision depends on your data, you may want a statistician rather than a philosopher.",
+      "published_at": "2026-09-28T14:00:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "Ecv83JrmuqM": {
+      "video_id": "Ecv83JrmuqM",
+      "title": "Radiological AGI: How Close Are We? - Hélène Philippe - Raidium - dotAI 2026",
+      "duration_s": 620,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Hélène Philippe, Machine Learning Researcher AT Raidium: https://www.dotai.io/\n\nHélène is a Machine Learning Engineer and PhD student at Raidium, a startup building foundation models for radiology. Her work is translational: she takes these models out of the lab and into the real world, applying them to clinical questions alongside radiologists.\n\nLightning talk: \"Radiological AGI: How Close Are We?\"\n\nAI in radiology has split between specialized point-tools that excel at narrow tasks but don't generalize, and vision-language models (VLMs) whose versatility and zero-shot capacity are undermined by hallucinations, imprecise measurements, and poor reproducibility. Our work examines how agentic systems could bridge this gap, pointing toward a path for building autonomous radiological assistants — and toward what real progress on Radiological AGI actually looks like.",
+      "published_at": "2026-09-28T14:00:24Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "EqClcrPVljw": {
       "video_id": "EqClcrPVljw",
       "title": "Coding Agents - Katia Gil Guzman - OpenAI",
@@ -1514,6 +1619,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
     },
+    "EzIU5Vf7wXk": {
+      "video_id": "EzIU5Vf7wXk",
+      "title": "Your AI agents have ADHD - Greg Qualls - Upsun - dotAI 2026",
+      "duration_s": 680,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Greg Qualls, Head of PM & Content at Upsun, Co-Builder of askcodex.ai: https://www.dotai.io/\n\nGreg Qualls builds AI products and writes about why they fail. Diagnosed with ADHD at 39, he now maps executive dysfunction patterns to AI agent failure modes, turning clinical concepts into deployment checklists. He co-built askcodex.ai, shipped kinhold.app and crackin.uk solo, and helps maintain getgaal.com on the side, while being the Head of Product Marketing and Content at Upsun.\n\nLightning talk: \"Your AI agents have ADHD\"\n\nAn algorithm figured out I had ADHD before any human did.\n\nIt was 2020. TikTok kept feeding me videos about how the adult ADHD brain works, and one after another, they described me.\n\nYears later, I started building AI agents. And I watched them fail in the exact same ways my brain does. Not as a metaphor. As the same structural problem, close to one to one.\n\nThe part I didn't see coming: the wiring behind those failures is the same wiring behind the strengths, in a brain and in an agent alike. That changes what you're supposed to do about it.\n\nPeople with ADHD have quietly solved this for decades. In ten minutes, I'll show you how to point those same tools at your agents, and you'll walk out with something you can use Monday morning. The lens comes from the last place anyone expected.",
+      "published_at": "2026-09-28T14:00:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "F_A4ES3Lew0": {
       "video_id": "F_A4ES3Lew0",
       "title": "dotSwift 2018 - Grégoire Lhotellier - How to turn an onion into a snake?",
@@ -1539,6 +1657,19 @@
       "published_at": "2017-01-06T13:42:39Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
+    },
+    "G85qi0_17YE": {
+      "video_id": "G85qi0_17YE",
+      "title": "Mechanistic Interpretability - David Louapre - Hugging Face - dotAI 2026",
+      "duration_s": 1182,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by David Louapre, AI Scientist & Educator at Hugging Face: https://www.dotai.io/\n\nDavid holds a PhD in theoretical physics, specializing in quantum gravity. He worked at Saint-Gobain, first on machine learning and then as a project leader across several R&D efforts in materials science. In 2018, he went on to become scientific director at the video game company Ubisoft, where he explored the interplay between science and game design, notably integrating large language models (LLMs) into non-player characters. In 2025, he joined Hugging Face, working on open science in language models and robotics. He also created \"Science Étonnante\", a science outreach Youtube channel with more than 1.5M subscribers.\n\nTalk \"Mechanistic Interpretability\"\nMechanistic Interpretability is the field of ML that tries to open the black box and understand what is happening inside deep neural networks. Sometimes compared to the neuroscience of AI, mechanistic interpretability is of great interest for the security of AI models, but also to gain a deeper understanding of how they work and process knowledge through reasoning. Applied to LLM in the past few years, it has shown that language models represent concepts that can be identified, located and influenced, and it has lifted the veil on some of their internal mechanisms.\n\nIn this talk, I’ll introduce mechanistic interpretability in vision and language models, its recent results on LLM about concept representation and steering, and illustrate how it is possible to apply to open source models.",
+      "published_at": "2026-09-28T14:00:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "G9UZnpOw-OE": {
       "video_id": "G9UZnpOw-OE",
@@ -1714,6 +1845,19 @@
       "published_at": "2016-12-22T14:40:53Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
+    },
+    "HzeZw1p8rbM": {
+      "video_id": "HzeZw1p8rbM",
+      "title": "We Thought the Digital World Would Be Easy to Simulate. Was it? - Maxime Langevin - H - dotAI 2026",
+      "duration_s": 1244,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Maxime Langevin, Research Lead at H Company: https://www.dotai.io/\n\nMaxime graduated from École Polytechnique before earning a PhD in AI from École Normale Supérieure, where he specialized in generative AI for drug discovery. He later joined H’s research team, where he works on the research and training behind Holo, H Company’s series of generalist agentic models.\n\nTalk: \"We Thought the Digital World Would Be Easy to Simulate. Was it?\"\n\nSelf-driving cars stopped learning on real roads years ago. They learn in simulators, because a real crash is too slow, too dangerous, and too expensive to learn from at scale. Robotics went the same way. Digital agents, the software that clicks, types, and navigates your apps, are now making the same move, and it raises a puzzle.\n\nYou would expect the digital world to be the easy one to simulate. It is already digital: just run the real browser. The physical world, with its messy sensors and continuous physics, should be far harder. Yet simulation came first for cars and robots, and only now for software. Why?\n\nThe answer reframes what a world model actually is. Training an agent with reinforcement learning needs millions of resettable, parallel, rewardable trials, and real apps are too slow, flaky, and unobservable to provide them. Recent work like Qwen-AgentWorld shows the alternative: a language model that simulates the environment itself. It works not despite the digital world's complexity, but because that world is authored in symbols and text — accessibility trees, not pixels — which is exactly what language models already compress. This talk explains why the sim-to-real gap that torments robotics nearly disappears when the \"world\" is made of language, and what that means for how we build capable agents.",
+      "published_at": "2026-09-28T14:00:24Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "IPEzwWt4adY": {
       "video_id": "IPEzwWt4adY",
@@ -2077,6 +2221,15 @@
       "published_at": "2024-07-11T15:59:05Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
+    },
+    "L_h8wOhR5Mg": {
+      "video_id": "L_h8wOhR5Mg",
+      "title": "Web Perf APIs That You (Probably) Never Knew Existed - Matheus Albuquerque - Medallia - dotJS 2026",
+      "duration_s": 1324,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
     },
     "LdKjS94ugYI": {
       "video_id": "LdKjS94ugYI",
@@ -2541,6 +2694,15 @@
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
     },
+    "QA-hjjRPE5I": {
+      "video_id": "QA-hjjRPE5I",
+      "title": "Your Lighthouse Score Doesn’t Matter on 3G - Vishnudhasan Govindarajan - Virgio - dotJS 2026",
+      "duration_s": 1255,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
     "QfFwceFo97E": {
       "video_id": "QfFwceFo97E",
       "title": "dotGo 2016 - Elias Naur - Make mobile programming fun (again)",
@@ -2566,6 +2728,19 @@
       "published_at": "2016-12-22T14:41:03Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
+    },
+    "R-UkAmFv5G0": {
+      "video_id": "R-UkAmFv5G0",
+      "title": "How Anthropic Uses Claude - Ian Massingham - Anthropic - dotAI 2026",
+      "duration_s": 1255,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Ian Massingham, Head of Applied AI, EMEA Startups at Anthropic: https://www.dotai.io/\n\nIan Massingham leads Applied AI for startups across EMEA at Anthropic, where he and his team help founders & startup engineering teams build production AI products on Claude. He brings two decades of experience spanning engineering, developer relations, and go-to-market leadership.\n\nPreviously, Ian was an early team member at Griptape, a startup focused on generative AI in visual effects, and served as CMO at Aiven, the Finnish open-source data infrastructure unicorn. Prior to that, Ian spent several years at AWS leading developer relations and solutions architecture, helping hundreds of thousands of developers adopt cloud and AI technologies. \n\nToday he works closely with Europe's fastest-growing AI-native startups, advising technical leaders on how to move from prototype to scaled deployment. Ian is a frequent speaker on applied AI, developer ecosystems, and what it takes to build durable companies on frontier models.\n\nTalk: \"How Anthropic Uses Claude\"\n\nEvery developer in the room can use the same models Anthropic does. So why do some teams turn them into measured results while others are still running demos? In this talk, you'll learn how radical new approaches to working with Claude have driven productivity at Anthropic as Ian walks through the five operating principles behind that, with the engineering, security and sales cases to copy into your own organizations.",
+      "published_at": "2026-09-28T14:00:24Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "R50q4NES6Iw": {
       "video_id": "R50q4NES6Iw",
@@ -2617,6 +2792,19 @@
         "Compiler"
       ],
       "details_at": "2026-09-06T13:23:53+00:00"
+    },
+    "Rfyqlhygf2M": {
+      "video_id": "Rfyqlhygf2M",
+      "title": "From Blank Page to Prod: A Year of Building AI Agents at Carrefour - Guillaume Blaquiere - dotAI 26",
+      "duration_s": 624,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Guillaume Blaquiere, Group Data Architect at Carrefour: https://www.dotai.io/\n\nGuillaume has been a Google Developer Expert on Cloud Platform since 2019 and works at Carrefour as Group Data Architect.\nInitially a Java developer, and despite holding positions of responsibility, he has always maintained his desire to create, develop, discover and test new solutions, especially in Cloud, AI, & GenAI. He notably contributed to Python and Go open-source projects and libraries (Google SDK, Airflow, ADK).\n\nAn innovation addict and a 3x Google Cloud certified professional, writer, and speaker in his free time, he is fascinated by serverless and GenAI solutions and all the \"usual\" problems they solve.\n\nLightning talk: \"From Blank Page to Production: A Year of Building AI Agents at Carrefour\"​\n\nWhen we started deploying AI agents in early 2025, there were no frameworks or templates—just a blank page. Month after month, as tech stacks evolved, we integrated RAG, observability, and evaluation systems into our ecosystem. This journey was anything but a straight line, and hands-on experience completely reframed our vision of what agents can do. In this retrospective, I will share our key takeaways, unexpected challenges, and the ultimate Do's and Don'ts of agent development and deployment.",
+      "published_at": "2026-09-28T14:00:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "Rlhlc6NaO4w": {
       "video_id": "Rlhlc6NaO4w",
@@ -2808,6 +2996,15 @@
         "Web fonts"
       ],
       "details_at": "2026-09-06T13:23:53+00:00"
+    },
+    "TwlEn8Sqc_Q": {
+      "video_id": "TwlEn8Sqc_Q",
+      "title": "A 50-year accident: how JavaScript got Date, and why Temporal exists - Devlin Duldulao - dotJS 2026",
+      "duration_s": 985,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
     },
     "UdZP6JeTCkM": {
       "video_id": "UdZP6JeTCkM",
@@ -3179,6 +3376,15 @@
       "published_at": "2024-07-11T15:59:05Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
+    },
+    "WfojGcUb5Rk": {
+      "video_id": "WfojGcUb5Rk",
+      "title": "Boring but Effective: WebAI That Ships - Nico Martin - Hugging Face - dotJS 2026",
+      "duration_s": 1338,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
     },
     "WpPc8MyYC5k": {
       "video_id": "WpPc8MyYC5k",
@@ -3928,6 +4134,28 @@
       "tags": [],
       "details_at": "2026-09-06T13:23:54+00:00"
     },
+    "bnGlGJ5LTRc": {
+      "video_id": "bnGlGJ5LTRc",
+      "title": "TypeScript was built for agent factories - Guillaume Moigneu - Upsun - dotJS 2026",
+      "duration_s": 660,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "bq1cSrr0ZjM": {
+      "video_id": "bq1cSrr0ZjM",
+      "title": "llama.cpp - faster and easier for everyone! - Xuan-Son Nguyen - Hugging Face - dotAI 2026",
+      "duration_s": 649,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Xuan-Son Nguyen, Software Engineer at Hugging Face: https://www.dotai.io/\n\nSoftware engineer at Hugging Face, core maintainer of llama.cpp, and an active contributor to open-source LLM tooling and on-device AI.\n\nTalk \"llama.cpp - faster and easier for everyone!\"\n\nllama.cpp started as a single-file experiment: run a large model on a laptop. Three years on, it's a full local-inference platform. We'll go under the hood of its biggest recent gain, speculative decoding: why it's \"free,\" and how llama.cpp drafts tokens several ways: draft model, n-gram, MTP, and the newest additions, DFlash / DSpark. And since fast tokens are only half the story, we'll finish with a live demo: one command to install, running in seconds.",
+      "published_at": "2026-09-28T14:00:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "bwA9i6wjfhw": {
       "video_id": "bwA9i6wjfhw",
       "title": "dotJS 2019 - Vladimir Agafonkin - Fast by default: algorithmic performance optimization in practice",
@@ -4070,6 +4298,19 @@
       "published_at": "2017-07-21T12:07:48Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:54+00:00"
+    },
+    "dFsws_PfGUk": {
+      "video_id": "dFsws_PfGUk",
+      "title": "Hallucinations: Harvesting Uncertainty - Aygalic Jara - Paris-Saclay × SCIAM - dotAI 2026",
+      "duration_s": 615,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Aygalic Jara, PhD researcher at Université Paris-Saclay × SCIAM: https://www.dotai.io/\n\nAygalic is a PhD researcher at Université Paris-Saclay × SCIAM, where he researches LLM reliability, focusing on hallucination detection, evaluation, and mitigation.\n\nLightning talk: \"Hallucinations: Harvesting Uncertainty\"\n\nLLMs are startlingly confident even when they're completely wrong, and disclaimers, RAG, and tool use only take you so far. But there's a signal we mostly ignore: models carry a usable internal sense of when they're about to hallucinate, readable before generation starts and token by token as it proceeds. \n\nThis talk covers why hallucinations are structural rather than accidental, how uncertainty can be harvested from the model's internals, and what you can do with it: fine-grained hallucination detection, model and human escalation, abstention, and observability into the queries your system handles badly. \n\nThe goal: reframe model uncertainty as an engineering tool, not a research curiosity.",
+      "published_at": "2026-09-28T14:00:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "dHptnyroFNA": {
       "video_id": "dHptnyroFNA",
@@ -4216,6 +4457,19 @@
         "Objective-C"
       ],
       "details_at": "2026-09-06T13:23:54+00:00"
+    },
+    "eg8u-0102lw": {
+      "video_id": "eg8u-0102lw",
+      "title": "Will the future of code be formal or informal? - Stanislas Polu - Dust - dotAI 2026",
+      "duration_s": 1296,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Stanislas Polu, Co-Founder at Dust, Ex-Research at OpenAI: https://www.dotai.io/\n\nStanislas is the co-founder of Dust, a platform that enables enterprises to build and deploy AI agents powered by internal data (Salesforce, GitHub, GSuite) and actions (MCP).\n\nPreviously, he co-founded TOTEM in 2011, a data analytics company acquired by Stripe in 2014. He then joined OpenAI as a research engineer (2019-2022) on Greg Brockman's team, tackling AI reasoning and co-authoring papers with Ilya Sutskever on formal mathematics and automated theorem proving. \n\nTalk \"Will the future of code be formal or informal?\"\n\nHuman attention (in the form of reviewing agent-generated code) has become the bottleneck for modern software teams. As code becomes cheaper to write and more expensive to trust, will it remain the primary artifact developers work with? I’ll explore the spectrum from formal methods made practical by agents to futures where developers no longer work with code at all. I’ll argue that code is here to stay, but that neither fully informal nor fully formal specifications are desirable. The interesting future might lie between prose and proof: code augmented by local, structured natural-language contracts that humans can review and agents can audit.",
+      "published_at": "2026-09-28T14:00:24Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "eqZqx6lRPe0": {
       "video_id": "eqZqx6lRPe0",
@@ -4364,6 +4618,19 @@
         "Tech"
       ],
       "details_at": "2026-09-06T13:23:54+00:00"
+    },
+    "fhNZWExzlqU": {
+      "video_id": "fhNZWExzlqU",
+      "title": "How to Be Correct at Scale With No Ground Truth - Diane Le Douaron - Mirakl - dotAI 2026",
+      "duration_s": 557,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Diane Le Douaron, Staff AI PM at Mirakl: https://www.dotai.io/\n\nDiane Le Douaron is Staff AI Product Manager at Mirakl, where she leads the AI Catalog product suite as well as new product initiatives. She combines a technical and business background to build scalable AI products.\n\nLightning talk \"How to Be Correct at Scale With No Ground Truth\"\n\nMost LLM work tolerates a near miss. Catalog transformation cannot afford it: expected outputs like fixed value lists and fixed rules demand a deterministic standard of correctness. This talk covers how we evaluate correctness when capabilities span several pipeline blocks and no ground truth exists.",
+      "published_at": "2026-09-28T14:00:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "g72SAF4KOH0": {
       "video_id": "g72SAF4KOH0",
@@ -4622,6 +4889,15 @@
       "tags": [],
       "details_at": "2026-09-06T13:23:54+00:00"
     },
+    "iymZjaNcwc8": {
+      "video_id": "iymZjaNcwc8",
+      "title": "Beyond the Chatbot: Gen UI & the Execution Trust Problem - Harshil Agrawal - Cloudflare - dotJS 2026",
+      "duration_s": 1074,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
     "jEG4Qyo_4Bc": {
       "video_id": "jEG4Qyo_4Bc",
       "title": "dotGo 2016 - Damian Gryski - Slices: Performance through cache-friendliness",
@@ -4736,6 +5012,15 @@
       ],
       "details_at": "2026-09-06T13:23:54+00:00"
     },
+    "kJ5GyP9HGio": {
+      "video_id": "kJ5GyP9HGio",
+      "title": "Unlocking Client-Side AI in Your Web App - Maximiliano Firtman - dotJS 2026",
+      "duration_s": 1274,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
     "k_Hn5G9h5xU": {
       "video_id": "k_Hn5G9h5xU",
       "title": "dotAI 2024 - Eliot Andres - Training a foundation image model and deploying it to millions of users",
@@ -4761,6 +5046,15 @@
       "published_at": "2018-06-20T14:20:03Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:54+00:00"
+    },
+    "kwTSkSGuxyA": {
+      "video_id": "kwTSkSGuxyA",
+      "title": "Building MCP Apps w/ All the Comfort of Modern TypeScript DevX - Nikolay Rodionov - Alpic - dotJS 26",
+      "duration_s": 658,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
     },
     "kxn35uybdMA": {
       "video_id": "kxn35uybdMA",
@@ -4831,6 +5125,15 @@
       "published_at": "2017-12-12T15:12:46Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:54+00:00"
+    },
+    "litIF9DM6t0": {
+      "video_id": "litIF9DM6t0",
+      "title": "Microfrontends done right - Gabor Csomak - Bally’s Intralot - dotJS 2026",
+      "duration_s": 582,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
     },
     "luAqYCd_TC8": {
       "video_id": "luAqYCd_TC8",
@@ -5160,6 +5463,19 @@
       ],
       "details_at": "2026-09-06T13:23:54+00:00"
     },
+    "poJ1bdZJjLk": {
+      "video_id": "poJ1bdZJjLk",
+      "title": "When Prompting Runs Out: Post-Training an Open Model - Ziv Ilan - NVIDIA - dotAI 2026",
+      "duration_s": 1275,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Ziv Ilan, AI Labs at NVIDIA: https://www.dotai.io/\n\nZiv Ilan works with AI labs at NVIDIA, where he previously served as a Senior Solutions Architect. With a background spanning software engineering, electrical engineering, and computer science, he helps research teams architect and scale the systems behind their AI models, bridging cutting-edge research with the infrastructure that brings it to production.\n\nTalk \"When Prompting Runs Out: Post-Training an Open Model\"\nThere is a specific moment when prompt engineering, retrieval, and better tooling stop paying and post-training starts. Most teams miss it in both directions.\n\nThis talk maps the cheaper levers first - a newer base checkpoint, context engineering, RAG, tools, constrained decoding, routing - and the exit condition for each. Then what comes after: choosing between SFT, DPO, RL with verifiable rewards, and distillation by the learning signal you actually have, with real data and compute needs per method.\n\nWe'll use Nemotron as the worked example, having the weights, the datasets, and the training recipes all public - you can read every step, then run it on your own domain.",
+      "published_at": "2026-09-28T14:00:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "puXyo1jGQys": {
       "video_id": "puXyo1jGQys",
       "title": "dotJS 2019 - Bert Belder - Deno",
@@ -5348,6 +5664,28 @@
       "tags": [],
       "details_at": "2026-09-06T13:23:54+00:00"
     },
+    "rg0Th87CGeY": {
+      "video_id": "rg0Th87CGeY",
+      "title": "What You’re Really Trusting When You Run npm install - Karen Li - GitHub - dotJS 2026",
+      "duration_s": 1160,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "riEnw0MDbKQ": {
+      "video_id": "riEnw0MDbKQ",
+      "title": "How Do We Compress Giant AI Models to Run at the Edge? - Léo Arsenin - Cloudflare - dotAI 2026",
+      "duration_s": 646,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Léo Arsenin, Solutions Engineer at Cloudflare: https://www.dotai.io/\n\nLeo helps startups and scale-ups build on the platform that powers 20% of the web. As a Solutions Engineer at Cloudflare, he partners with customers to bridge the gap between infrastructure and AI. His work focuses on architecting agentic workloads and deploying AI inference services.\n\nLightning talk: \"How Do We Compress Giant AI Models to Run at the Edge?\"\n\nQuantization is the go-to method for making LLMs smaller, but it's lossy, quality degrades in ways that are hard to predict and impossible to reverse. We found a different path by looking at how model weights are actually stored. In BF16 format, every weight has an 8-bit exponent, but only 16 values out of 256 cover 99% of all weights in a typical layer. Information theory says you need just 2.6 bits to represent that distribution, which means 5.4 bits per weight are pure waste. Unweight applies Huffman coding to the exponent stream, decompresses directly in fast on-chip shared memory, and feeds the reconstructed weights straight to the tensor cores, they never round-trip through slow main memory. The result is a 22% model size reduction that is 100% lossless with bit-exact outputs, saving roughly 3 GB of VRAM on Llama 3.1 8B alone. For Cloudflare, this means fitting more models on fewer GPUs across our 330+ city network, making inference cheaper and faster for everyone. We open-sourced the GPU kernels and published the full research paper, so you can use this technique on your own models today. If you care about running AI sustainably and affordably, this talk shows you a compression approach that doesn't ask you to sacrifice quality.",
+      "published_at": "2026-09-28T14:00:24Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "s1J4T1NW3qo": {
       "video_id": "s1J4T1NW3qo",
       "title": "dotCSS 2017 - Jonathan Snook - Container Queries",
@@ -5432,6 +5770,15 @@
         "UIKit"
       ],
       "details_at": "2026-09-06T13:23:54+00:00"
+    },
+    "tH5JDK5FBfk": {
+      "video_id": "tH5JDK5FBfk",
+      "title": "The (Abundant) State of the Web - with @JadJoubran - LearnJavaScript.online - dotJS 2026",
+      "duration_s": 1334,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
     },
     "tIQP73mmQ1g": {
       "video_id": "tIQP73mmQ1g",
@@ -5791,6 +6138,19 @@
       "published_at": "2017-07-24T09:46:47Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:54+00:00"
+    },
+    "xMHnwGw_ROI": {
+      "video_id": "xMHnwGw_ROI",
+      "title": "Beyond the Chatbox: What Changes When AI Runs Where You Are - Christian Keller - Meta - dotAI 2026",
+      "duration_s": 1248,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2026 by Christian Keller, Product Lead for AI Research at Meta Superintelligence Labs: https://www.dotai.io/\n\nChristian is Product Lead for AI Research at Meta Superintelligence Labs, working on generative AI, world models, and reasoning. Before Llama 3, Llama 4, Muse, and AI agents, Christian led product for PyTorch, launching PyTorch 2.0 and ExecuTorch. His work has brought AI at scale to the open source community and to billions of people through deployments across Wearables and Meta apps. A three-time startup founder and investor, he holds an MBA from Stanford and MS degrees from Georgia Tech and CentraleSupélec.\n\nTalk \"Beyond the Chatbox: What Changes When AI Runs Where You Are\"\n\nMost AI is built as if the answer is always a language model in a data center, reached through a text box. That breaks the moment your product runs on a laptop, a phone, or a pair of glasses. This talk starts from the constraint instead of the model: how form factor drives model choice, why specialized models solve problems no amount of prompting will, and why open weights make that design space navigable.",
+      "published_at": "2026-09-28T14:00:24Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "xZeuRolzlGY": {
       "video_id": "xZeuRolzlGY",

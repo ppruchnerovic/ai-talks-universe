@@ -1,7 +1,7 @@
 {
   "slug": "ai-dev-deeplearning",
   "name": "AI Dev (DeepLearning.AI)",
-  "enumerated_at": "2026-09-26T14:25:53+00:00",
+  "enumerated_at": "2026-10-19T19:52:53+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@Deeplearningai/videos",
@@ -10,7 +10,7 @@
       "count": 400
     }
   ],
-  "count": 403,
+  "count": 405,
   "videos": {
     "-B0zaWoPEFs": {
       "video_id": "-B0zaWoPEFs",
@@ -206,6 +206,15 @@
       "published_at": "2026-05-12T19:45:58Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:06+00:00"
+    },
+    "2IuO_80wB0s": {
+      "video_id": "2IuO_80wB0s",
+      "title": "Give your team AI skills you can trust",
+      "duration_s": 63,
+      "channel": "DeepLearningAI",
+      "label": "DeepLearning.AI",
+      "year": null,
+      "source_url": "https://www.youtube.com/@Deeplearningai/videos"
     },
     "2UMBWyOk75M": {
       "video_id": "2UMBWyOk75M",
@@ -5169,6 +5178,15 @@
       "published_at": "2022-12-01T13:23:06Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "yUyfHQBXSzs": {
+      "video_id": "yUyfHQBXSzs",
+      "title": "The Data Engineering Professional Certificate is now on DeepLearning.AI",
+      "duration_s": 93,
+      "channel": "DeepLearningAI",
+      "label": "DeepLearning.AI",
+      "year": null,
+      "source_url": "https://www.youtube.com/@Deeplearningai/videos"
     },
     "ycKLqk5tezw": {
       "video_id": "ycKLqk5tezw",
