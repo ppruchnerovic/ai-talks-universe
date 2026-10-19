@@ -1,7 +1,7 @@
 {
   "slug": "black-hat",
   "name": "Black Hat",
-  "enumerated_at": "2026-09-26T14:28:39+00:00",
+  "enumerated_at": "2026-10-19T19:55:34+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@BlackHatOfficialYT/videos",
@@ -10,7 +10,7 @@
       "count": 600
     }
   ],
-  "count": 605,
+  "count": 610,
   "videos": {
     "-BCngzJC1Rc": {
       "video_id": "-BCngzJC1Rc",
@@ -1166,6 +1166,15 @@
       "published_at": "2026-07-07T15:15:19Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:09+00:00"
+    },
+    "7f9T16YYOj4": {
+      "video_id": "7f9T16YYOj4",
+      "title": "Black Hat Stories | Taylor Margot, Lytical Ventures",
+      "duration_s": 101,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
     },
     "7g3ti5AWEY0": {
       "video_id": "7g3ti5AWEY0",
@@ -3689,6 +3698,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:44+00:00"
     },
+    "S-5hDzFksLI": {
+      "video_id": "S-5hDzFksLI",
+      "title": "Black Hat Stories | Lynn Dohm, Executive Director at Women in Cybersecurity (WiCyS)",
+      "duration_s": 114,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
+    },
     "S-vieCNshPQ": {
       "video_id": "S-vieCNshPQ",
       "title": "Deleting Your Domain? Preventing Data Leaks at TLD Scale",
@@ -6107,6 +6125,15 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:10+00:00"
     },
+    "lCUZoZomkq8": {
+      "video_id": "lCUZoZomkq8",
+      "title": "Black Hat Asia 2026 Highlights",
+      "duration_s": 53,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
+    },
     "lS4qlzbFN6c": {
       "video_id": "lS4qlzbFN6c",
       "title": "Black Hat Asia 2026 | Ensuring the Cloud Quantum Computer Runs Your Program… But Learns Nothing",
@@ -7329,6 +7356,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:45+00:00"
     },
+    "uQ3miEp_0Wo": {
+      "video_id": "uQ3miEp_0Wo",
+      "title": "Black Hat Stories | Chris Gaun, VP of Product Marketing at Island.io",
+      "duration_s": 83,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
+    },
     "uVErrDWfAKM": {
       "video_id": "uVErrDWfAKM",
       "title": "What We Can Learn from Ukraine's Cyber Defenders about Building a More Resilient Future",
@@ -7640,6 +7676,15 @@
       "published_at": "2026-04-09T23:18:46Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:10+00:00"
+    },
+    "wwk4SGLGcfY": {
+      "video_id": "wwk4SGLGcfY",
+      "title": "Black Hat Stories | Tony Lee, Black Hat Review Board Member and VP of Operations at HackerOne",
+      "duration_s": 94,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
     },
     "x-956BVXMLQ": {
       "video_id": "x-956BVXMLQ",

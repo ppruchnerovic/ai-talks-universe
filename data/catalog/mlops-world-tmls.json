@@ -1,7 +1,7 @@
 {
   "slug": "mlops-world-tmls",
   "name": "MLOps World / Toronto Machine Learning Summit",
-  "enumerated_at": "2026-09-26T14:26:41+00:00",
+  "enumerated_at": "2026-10-19T19:53:38+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@tmls-ai/videos",
@@ -10969,7 +10969,7 @@
     "bg48_k8Q9Jc": {
       "video_id": "bg48_k8Q9Jc",
       "title": "Putting Resilient, Self-Recovering Agents in Production",
-      "duration_s": 2139,
+      "duration_s": 2140,
       "channel": "Toronto Machine Learning Society (TMLS)",
       "label": "MLOps World / TMLS",
       "year": null,

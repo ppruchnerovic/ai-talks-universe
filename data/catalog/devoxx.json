@@ -1,7 +1,7 @@
 {
   "slug": "devoxx",
   "name": "Devoxx",
-  "enumerated_at": "2026-09-26T14:28:02+00:00",
+  "enumerated_at": "2026-10-19T19:54:55+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@DevoxxForever/videos",
@@ -10,7 +10,7 @@
       "count": 800
     }
   ],
-  "count": 800,
+  "count": 994,
   "videos": {
     "-0vkHxlGlOU": {
       "video_id": "-0vkHxlGlOU",
@@ -38,6 +38,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:23:52+00:00"
     },
+    "-2vEfnB2mRw": {
+      "video_id": "-2vEfnB2mRw",
+      "title": "From User Prompt to JPA Query: Comparing Tool Calling, Structured Output & Hybrid Approach by Sebas",
+      "duration_s": 2346,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:44:05Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "-5DtHWGfm4U": {
       "video_id": "-5DtHWGfm4U",
       "title": "Prometheus Puzzlers: Traps, Pitfalls, and Corner Cases by Patrycja Wegrzynowicz",
@@ -64,6 +77,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
     },
+    "-Aub1KMjMFM": {
+      "video_id": "-Aub1KMjMFM",
+      "title": "Devoxx the mini series: The Attendee",
+      "duration_s": 373,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "-B33pQnGQUI": {
       "video_id": "-B33pQnGQUI",
       "title": "Optimizing API Integration in a Large React Application Using OpenAPI Generator by Stefano Marzo",
@@ -76,6 +98,19 @@
       "published_at": "2025-02-19T16:00:00Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
+    },
+    "-LMWT5OCneA": {
+      "video_id": "-LMWT5OCneA",
+      "title": "Keeping Spring Applications Secure in the Age of AI by Neven Cvetkovic",
+      "duration_s": 2450,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:44:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "-OSYyY17VzE": {
       "video_id": "-OSYyY17VzE",
@@ -168,6 +203,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
     },
+    "0-1IGpVrFLQ": {
+      "video_id": "0-1IGpVrFLQ",
+      "title": "Reflect, Transform, Accelerate: Bringing GPU Computing to Java By Juan Fumero",
+      "duration_s": 3028,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:44:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "00BoeRkumG8": {
       "video_id": "00BoeRkumG8",
       "title": "The Three Amigos in Java by Venkat Subramaniam",
@@ -206,6 +254,19 @@
       "published_at": "2026-04-08T19:58:40Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
+    },
+    "0A2jqCqSIjg": {
+      "video_id": "0A2jqCqSIjg",
+      "title": "223 Pull Requests in 11 Days: The Recipe for Building Real Software with AI Agents by Julien Dubois",
+      "duration_s": 3028,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T08:57:58Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "0B5kYjVQ-I4": {
       "video_id": "0B5kYjVQ-I4",
@@ -480,6 +541,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
     },
+    "1PtdpItmzTo": {
+      "video_id": "1PtdpItmzTo",
+      "title": "Bootiful Spring Boot 4 by Josh Long",
+      "duration_s": 2960,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "1SdrnPtzBh4": {
       "video_id": "1SdrnPtzBh4",
       "title": "Code Review Remarks: Lessons Learned by Blagoj Jovanov",
@@ -597,6 +667,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
     },
+    "1yndLHw9mbo": {
+      "video_id": "1yndLHw9mbo",
+      "title": "Mission Possible: The 45 Minute Path to Bullet Proof Java Container Images by Pasha Finkelshtein",
+      "duration_s": 2575,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "1zaBgCYU1vQ": {
       "video_id": "1zaBgCYU1vQ",
       "title": "Data platforms synchronisation journey at Carrefour by Guillaume Blaquiere",
@@ -649,6 +728,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
     },
+    "2D72Qlr1ATw": {
+      "video_id": "2D72Qlr1ATw",
+      "title": "Devoxx Belgium is Next Week!",
+      "duration_s": 49,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "2QkhBvgqR8c": {
       "video_id": "2QkhBvgqR8c",
       "title": "There may not be intelligent life in our Universe after all by Robert Pabst",
@@ -661,6 +749,15 @@
       "published_at": "2025-10-10T05:10:24Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
+    },
+    "2Yh7LKt8YNw": {
+      "video_id": "2Yh7LKt8YNw",
+      "title": "The Dark Secrets of Computer Science by Fabien Marsaud",
+      "duration_s": 2924,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "2h3NWZdhuYw": {
       "video_id": "2h3NWZdhuYw",
@@ -713,6 +810,19 @@
       "published_at": "2025-10-09T05:36:05Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
+    },
+    "2pSyF44THEc": {
+      "video_id": "2pSyF44THEc",
+      "title": "AI Made Building Cheap Now Decisions Are the Bottleneck by Dave Sammut, João Rosa",
+      "duration_s": 2539,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:40:42Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "2peFTUktkuY": {
       "video_id": "2peFTUktkuY",
@@ -817,6 +927,19 @@
       "published_at": "2025-01-20T19:58:28Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
+    },
+    "3bIiAoYtAPs": {
+      "video_id": "3bIiAoYtAPs",
+      "title": "Beyond the Pod: Architecting and Scaling AI Agents on Kubernetes by Abdellfetah SGHIOUAR",
+      "duration_s": 2601,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:43:00Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "3dQ5eszGuLk": {
       "video_id": "3dQ5eszGuLk",
@@ -974,6 +1097,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
     },
+    "496nv8jsWhQ": {
+      "video_id": "496nv8jsWhQ",
+      "title": "From Developer to Story Builder: Engineering a Novel, an ARG, and a Transmedia World with AI by Rap",
+      "duration_s": 2403,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-07T05:58:08Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "4AhgCW64b0s": {
       "video_id": "4AhgCW64b0s",
       "title": "Devoxx Greece 2025 - Speed Up Your Maven Build x10… Before You Move to Gradle by Sergei Chernov",
@@ -1130,6 +1266,28 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
     },
+    "4ck-T2gaMQ4": {
+      "video_id": "4ck-T2gaMQ4",
+      "title": "Teaching an Old Handle New Tricks: From Core Reflection to FFM by Maurizio Cimadamore, Viktor Klang",
+      "duration_s": 3094,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "4hXQoN8co80": {
+      "video_id": "4hXQoN8co80",
+      "title": "Hey Belfius! Meet our new bank AI assistant—and discover how we’re building and securing AI across B",
+      "duration_s": 2544,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:44:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "4i-APXp5MzM": {
       "video_id": "4i-APXp5MzM",
       "title": "Devoxx Greece 2025 - We hate code - The !joy of maintaining dead code by Gerrit Grunwald",
@@ -1168,6 +1326,19 @@
       "published_at": "2026-02-27T13:52:44Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
+    },
+    "4qeUklTLyTs": {
+      "video_id": "4qeUklTLyTs",
+      "title": "Eval Driven Development: Why you need it to make your Agentic Application survive Production by Ur",
+      "duration_s": 2417,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:41:52Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "4rYPXgCKamM": {
       "video_id": "4rYPXgCKamM",
@@ -1260,6 +1431,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
     },
+    "5AaJ3H9fG6M": {
+      "video_id": "5AaJ3H9fG6M",
+      "title": "AI Security Deep Dive, Securing Agents and AI Applications by Brian Vermeer",
+      "duration_s": 9013,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-07T05:58:29Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "5C0NgH3Z_9Y": {
       "video_id": "5C0NgH3Z_9Y",
       "title": "Managing expectations with Autonomy Poker by Linda van der Pal",
@@ -1325,6 +1509,24 @@
       "tags": [],
       "details_at": "2026-09-06T13:23:52+00:00"
     },
+    "5VjB4t8aFWE": {
+      "video_id": "5VjB4t8aFWE",
+      "title": "Beyond system out println: Applying a Debugging Mindset at Scale by Cees Bos",
+      "duration_s": 2188,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "5W4o_aYOaIY": {
+      "video_id": "5W4o_aYOaIY",
+      "title": "java raspberry Pi and the art of by Matti Tahvonen",
+      "duration_s": 2636,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "5Y370b8iTq0": {
       "video_id": "5Y370b8iTq0",
       "title": "You Don’t Need a PhD to Try Quantum Computing by Matteo Di Pirro",
@@ -1389,6 +1591,15 @@
       "published_at": "2025-04-22T15:37:41Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:52+00:00"
+    },
+    "5y_82lCevHg": {
+      "video_id": "5y_82lCevHg",
+      "title": "Everyday JSON by Viktor Klang, Alan Bateman",
+      "duration_s": 3082,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "60EoWj2gYdI": {
       "video_id": "60EoWj2gYdI",
@@ -1481,6 +1692,28 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
     },
+    "6N6qFqn1_Uo": {
+      "video_id": "6N6qFqn1_Uo",
+      "title": "Harness Engineering: Building the System Around Your AI Coding Agent by JI Darwish",
+      "duration_s": 2394,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:42:08Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "6SPnBmQrYEk": {
+      "video_id": "6SPnBmQrYEk",
+      "title": "Tap into the NVIDIA Ecosystem from Java with TornadoVM's Hybrid API by Thanos Stratikopoulos, Micha",
+      "duration_s": 1611,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "6cZv0ZKaUoc": {
       "video_id": "6cZv0ZKaUoc",
       "title": "Information Reliability Service - a novel approach to fraud detection by Giovanni Degiorgi",
@@ -1519,6 +1752,19 @@
       "published_at": "2025-04-07T13:45:19Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
+    },
+    "6mzvcPr30kg": {
+      "video_id": "6mzvcPr30kg",
+      "title": "Hardwood: Building a Parquet Parser From Scratch With a Little Help From AI by Gunnar Morling",
+      "duration_s": 3118,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:43:00Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "70AuY_mShrI": {
       "video_id": "70AuY_mShrI",
@@ -1832,6 +2078,28 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
     },
+    "8JuQaWFKk4w": {
+      "video_id": "8JuQaWFKk4w",
+      "title": "Consistency Patterns in Event Driven Architecture by Emanuel Trandafir",
+      "duration_s": 2712,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "8NURE3I4AJQ": {
+      "video_id": "8NURE3I4AJQ",
+      "title": "High Performance Java Native AI with CUDA and the Vector API by Zoran Sevarac",
+      "duration_s": 2964,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T08:57:58Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "8SPnxNQ999k": {
       "video_id": "8SPnxNQ999k",
       "title": "Devoxx Greece 2025 - Applied Psychology: Psychology-based UI improvements by Keren Kenzi",
@@ -1883,6 +2151,15 @@
       "published_at": "2026-04-08T19:33:23Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
+    },
+    "8nY-kqwoD_A": {
+      "video_id": "8nY-kqwoD_A",
+      "title": "G1, ZGC, Shenandoah, with all these GCs in Java, which one do I choose? by Antoine DESSAIGNE",
+      "duration_s": 2925,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "8pDCcKqbwB4": {
       "video_id": "8pDCcKqbwB4",
@@ -1962,6 +2239,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
     },
+    "9ARcNYC-eVk": {
+      "video_id": "9ARcNYC-eVk",
+      "title": "\"You May Now Optimize the Wedding\": Optimizing the Seating, Bachelor Party, and Honeymoon with Const",
+      "duration_s": 2217,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "9LrSZq5oueA": {
       "video_id": "9LrSZq5oueA",
       "title": "Secure Java Applications against Quantum Threats by Ana-Maria Mihalceanu",
@@ -1975,6 +2261,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
     },
+    "9MPYPejgTGo": {
+      "video_id": "9MPYPejgTGo",
+      "title": "Emergent DevEx: The Good, the Bad, and the Legacy by Makan Sepehrifar, Soroosh Khodami",
+      "duration_s": 2877,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "9QPzmRLuMN4": {
       "video_id": "9QPzmRLuMN4",
       "title": "The future of development: Are our jobs getting harder or easier? by Holly Cummins",
@@ -1987,6 +2282,15 @@
       "published_at": "2024-10-23T07:08:31Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
+    },
+    "9Uz6lyElOL0": {
+      "video_id": "9Uz6lyElOL0",
+      "title": "Devoxx the mini series: Inside the singularity",
+      "duration_s": 443,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "9WUoNens0C4": {
       "video_id": "9WUoNens0C4",
@@ -2053,6 +2357,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
     },
+    "9vtYvAI2Dtk": {
+      "video_id": "9vtYvAI2Dtk",
+      "title": "Deterministic by Design Achieving Reproducible Builds with Maven by Maarten Mulders",
+      "duration_s": 2894,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "A-20bqSU3tg": {
       "video_id": "A-20bqSU3tg",
       "title": "Cracking the Code Review: from Guesswork to Automated Guidance by Paco van Beckhoven",
@@ -2091,6 +2404,32 @@
       "published_at": "2026-02-27T13:52:44Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
+    },
+    "A7ZIf8LkSvE": {
+      "video_id": "A7ZIf8LkSvE",
+      "title": "Loop Engineering, beyond prompt, context, and harness engineering by Guillaume Laforge, Wietse Ven",
+      "duration_s": 8964,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-07T05:57:54Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "A8TBUalnfdc": {
+      "video_id": "A8TBUalnfdc",
+      "title": "Why Documentation Won’t Write Itself—and AI Won’t Save You by Christian Heitzmann",
+      "duration_s": 3064,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:41:55Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "ABjIUw7ojiU": {
       "video_id": "ABjIUw7ojiU",
@@ -2170,6 +2509,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
     },
+    "A_fp7RaG5UY": {
+      "video_id": "A_fp7RaG5UY",
+      "title": "AsyncAPI in action: OpenAPI for event driven applications by Michel Schudel",
+      "duration_s": 1799,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "Aa2Zn8WFJrI": {
       "video_id": "Aa2Zn8WFJrI",
       "title": "Behavioral Software Engineering by Mario Fusco",
@@ -2209,6 +2557,15 @@
       "tags": [],
       "details_at": "2026-09-06T13:23:52+00:00"
     },
+    "AmL_OCs5F4E": {
+      "video_id": "AmL_OCs5F4E",
+      "title": "Strangling the dragon: modernizing legacy systems with the Strangler Fig pattern by Daniel Ranela",
+      "duration_s": 2123,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "AnL5LRXz8og": {
       "video_id": "AnL5LRXz8og",
       "title": "From Chaos to Clarity: Disarming Toxic Behavior A Guide to better Collaboration - Sabine Wojcieszak",
@@ -2234,6 +2591,24 @@
       "published_at": "2026-04-09T19:03:50Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
+    },
+    "AsVt_dzTmN4": {
+      "video_id": "AsVt_dzTmN4",
+      "title": "Kill All Mutants! Intro to Mutation Testing by Dave Aronson",
+      "duration_s": 2981,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "AxhLQZqZdIg": {
+      "video_id": "AxhLQZqZdIg",
+      "title": "Kubernetes for Developers by Alain Regnier",
+      "duration_s": 2836,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "B-P5Fxah3w4": {
       "video_id": "B-P5Fxah3w4",
@@ -2274,6 +2649,28 @@
       "tags": [],
       "details_at": "2026-09-06T13:23:52+00:00"
     },
+    "B5-4mDLrWjM": {
+      "video_id": "B5-4mDLrWjM",
+      "title": "From Laptop to Lakehouse: Analytical SQL with DuckDB by Oliver Geisser",
+      "duration_s": 1733,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "BLBwQpczk7M": {
+      "video_id": "BLBwQpczk7M",
+      "title": "How to survive and thrive as a dev team in the exponential age of AI Real world AI adoption, smarte",
+      "duration_s": 3117,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:41:13Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "BMbAWG8zABI": {
       "video_id": "BMbAWG8zABI",
       "title": "Welcome to Voxxed Days Amsterdam 2026 Day Two - Opening (room 2)",
@@ -2286,6 +2683,19 @@
       "published_at": "2026-04-09T19:08:00Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:16+00:00"
+    },
+    "BOcNjR2lBus": {
+      "video_id": "BOcNjR2lBus",
+      "title": "Architecture Observability and Guardrails by Victor Rentea",
+      "duration_s": 3124,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:40:35Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "BOpzs5AGU50": {
       "video_id": "BOpzs5AGU50",
@@ -2390,6 +2800,15 @@
       "published_at": "2025-11-11T10:37:48Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "C10mZ3pCnGo": {
+      "video_id": "C10mZ3pCnGo",
+      "title": "Responsibly Dimming the Lights in the Software Factory by Victor Rentea",
+      "duration_s": 9990,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "C4UbgAWYBOs": {
       "video_id": "C4UbgAWYBOs",
@@ -2534,6 +2953,24 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "CscMBNKvQA8": {
+      "video_id": "CscMBNKvQA8",
+      "title": "Devoxx the mini series: The Rebellion",
+      "duration_s": 313,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "CuvV3Aud3Q0": {
+      "video_id": "CuvV3Aud3Q0",
+      "title": "Decoding the Cosmos: Voyager's 1970s Algorithms Meet Today's Cutting Edge Tech by Pieter van der Me",
+      "duration_s": 2483,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "D-MyhXkBx70": {
       "video_id": "D-MyhXkBx70",
       "title": "Thirty years of Java development: keeping it all together by Cristian Schuszter",
@@ -2677,6 +3114,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "D_AmK8-UnZg": {
+      "video_id": "D_AmK8-UnZg",
+      "title": "Why it takes 3000 commits to bring Valhalla's value objects to the JDK by David Simms",
+      "duration_s": 3069,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "DaYNwrvJGmk": {
       "video_id": "DaYNwrvJGmk",
       "title": "Platform Engineering 101: Building Internal Developer Platforms by Maarten Vandeperre",
@@ -2768,6 +3214,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "DniA37kVfvI": {
+      "video_id": "DniA37kVfvI",
+      "title": "Embabel Agent v1 5 By Rod Johnson",
+      "duration_s": 3073,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-13T16:45:20Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "DrOqerird-4": {
       "video_id": "DrOqerird-4",
       "title": "Devoxx Greece 2025 - Processing 1 Million Emails per Hour: A Re-Platforming Case Study",
@@ -2780,6 +3239,15 @@
       "published_at": "2025-04-22T15:37:44Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:52+00:00"
+    },
+    "DseVLPC4Qjs": {
+      "video_id": "DseVLPC4Qjs",
+      "title": "Run Frontier Open Models on consumer hardware by Prince Canuma",
+      "duration_s": 2988,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "DwmiQWw3ZJE": {
       "video_id": "DwmiQWw3ZJE",
@@ -2806,6 +3274,19 @@
       "published_at": "2025-02-19T16:13:18Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "E--oDq3X74E": {
+      "video_id": "E--oDq3X74E",
+      "title": "AI without spaghetti: Clean architecture in these of AI by Maarten Vandeperre en Lutske van der Mee",
+      "duration_s": 2754,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T08:57:58Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "E3II7a4XloE": {
       "video_id": "E3II7a4XloE",
@@ -2858,6 +3339,19 @@
       "published_at": "2025-10-09T05:36:06Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "EJv0TMNSUjw": {
+      "video_id": "EJv0TMNSUjw",
+      "title": "Create your own AI Agents without code by David Gageot",
+      "duration_s": 2722,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:40:08Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "EPKTy6KcJUM": {
       "video_id": "EPKTy6KcJUM",
@@ -2936,6 +3430,19 @@
       "published_at": "2025-10-10T05:10:24Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "EnHPYkSAaCo": {
+      "video_id": "EnHPYkSAaCo",
+      "title": "Expanding Vector Search Beyond Similarity by Alina Yurenko",
+      "duration_s": 1861,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-06T05:30:38Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "Estmz1P9wCU": {
       "video_id": "Estmz1P9wCU",
@@ -3028,6 +3535,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "FFRdupUFpL0": {
+      "video_id": "FFRdupUFpL0",
+      "title": "Devoxx the mini series: Kinepolis in 2170",
+      "duration_s": 533,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "FHzzVPf9qvQ": {
       "video_id": "FHzzVPf9qvQ",
       "title": "Trash Talk: Exploring the JVM memory management by Gerrit Grunwald",
@@ -3093,6 +3609,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "FvVe9J0Abjg": {
+      "video_id": "FvVe9J0Abjg",
+      "title": "Modernizing legacy code with AI: hands on examples & lessons learned by Koen Vanderkimpen, Wim Lamb",
+      "duration_s": 3037,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:43:00Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "G2iBRl84ua4": {
       "video_id": "G2iBRl84ua4",
       "title": "Hack Your Brain: Smarter Learning for Devs by Simone de Gijt",
@@ -3145,6 +3674,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "GGEmc6eR8c4": {
+      "video_id": "GGEmc6eR8c4",
+      "title": "Codepocalypse Now: LangChain4j vs JetBrains Koog by Viktor Gamov, Baruch Sadogursky",
+      "duration_s": 10813,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "GIP8FxCHUUM": {
       "video_id": "GIP8FxCHUUM",
       "title": "Introducing Code Assist: Build Applications Faster with AI by Marc Gueury, John Karasoulos",
@@ -3157,6 +3695,19 @@
       "published_at": "2024-10-11T05:09:40Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "GLJGhkxMdgU": {
+      "video_id": "GLJGhkxMdgU",
+      "title": "Secure Your Coding Agent Like It’s Malware by Richard Gross",
+      "duration_s": 1831,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-06T05:31:22Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "GPG4bMUapZc": {
       "video_id": "GPG4bMUapZc",
@@ -3183,6 +3734,24 @@
       "published_at": "2026-04-09T21:31:07Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "GkcE1X1BJRI": {
+      "video_id": "GkcE1X1BJRI",
+      "title": "The games are in. It’s your turn to play! 🎮 🕹️",
+      "duration_s": 78,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "Go76-9Q51wU": {
+      "video_id": "Go76-9Q51wU",
+      "title": "What’s happening with Project Amber? By Gavin Bierman",
+      "duration_s": 3101,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "GwKRRsjfBOA": {
       "video_id": "GwKRRsjfBOA",
@@ -3248,6 +3817,19 @@
       "published_at": "2025-10-07T05:13:49Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "HO5CpETzywk": {
+      "video_id": "HO5CpETzywk",
+      "title": "Building LLM Inference Engines in Java with TornadoVM and the NVIDIA Ecosystem by Thanos Stratikopo",
+      "duration_s": 2673,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:40:32Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "HQsYsUac51g": {
       "video_id": "HQsYsUac51g",
@@ -3353,6 +3935,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "HzbNrEDZkYU": {
+      "video_id": "HzbNrEDZkYU",
+      "title": "0 to 350 Engineers on Claude Code: What Could Go Wrong? by Nicolas Martignole",
+      "duration_s": 2672,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:41:41Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "I1xb9BVtWUQ": {
       "video_id": "I1xb9BVtWUQ",
       "title": "Java 24: A story about code, conflicts and conquer by Lutske de Leeuw",
@@ -3392,6 +3987,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "IXcQYp51PLM": {
+      "video_id": "IXcQYp51PLM",
+      "title": "From AI to Agent: A Field Guide to Agentic Patterns in LangChain4j by Loïc Magnette",
+      "duration_s": 8633,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-06T05:32:16Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "IYkm5sUie3s": {
       "video_id": "IYkm5sUie3s",
       "title": "The Bold, the Broken, and the Burned: Hard won lessons in the 6 years of developing Quarkus by Guill",
@@ -3417,6 +4025,15 @@
       "published_at": "2025-04-07T13:45:21Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "Ij5RsREpjBg": {
+      "video_id": "Ij5RsREpjBg",
+      "title": "Fun with Flags: How OpenFeature Solves Your Feature Flag Headaches by Simon Schrottner",
+      "duration_s": 3067,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "ImQIJfxhiGw": {
       "video_id": "ImQIJfxhiGw",
@@ -3548,6 +4165,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "JWFZY0aJTjg": {
+      "video_id": "JWFZY0aJTjg",
+      "title": "Project Detroit: From Foreign Libraries to Foreign Language Runtimes by Maurizio Cimadamore",
+      "duration_s": 3006,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "JXpcVf2ukEA": {
       "video_id": "JXpcVf2ukEA",
       "title": "Commit to Change: From Analyst to Java Developer by Janne Ploeger",
@@ -3613,6 +4239,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "JzFelLDiVJQ": {
+      "video_id": "JzFelLDiVJQ",
+      "title": "Introduction to Spring AI by Timo Salm",
+      "duration_s": 2563,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-06T05:31:49Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "JzP86TT8Rns": {
       "video_id": "JzP86TT8Rns",
       "title": "Coupling, Cohesion and Change, The Blueprint of Modern Software Design by Boyen van Gorp",
@@ -3625,6 +4264,19 @@
       "published_at": "2026-04-08T20:09:11Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "K3kD89Y1YCk": {
+      "video_id": "K3kD89Y1YCk",
+      "title": "Stopping AI Generated Architectural Drift: Deterministic Guardrails for Agentic Coding by Sasha Podl",
+      "duration_s": 1439,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-06T05:30:56Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "KDHFBVaVkLU": {
       "video_id": "KDHFBVaVkLU",
@@ -3743,6 +4395,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "KwQ76IvU59M": {
+      "video_id": "KwQ76IvU59M",
+      "title": "Introducing Agent Control Theory: The System Runs the Model by Mark Pollack",
+      "duration_s": 3095,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:43:00Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "KwXMAtldEz0": {
       "video_id": "KwXMAtldEz0",
       "title": "Bootiful Spring Boot by Josh Long",
@@ -3821,6 +4486,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "LD2tKMpToYg": {
+      "video_id": "LD2tKMpToYg",
+      "title": "Snake in 10 Lines: Learning More by Coding Less by Guus de Wit",
+      "duration_s": 2910,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "LGlyLmxjutI": {
       "video_id": "LGlyLmxjutI",
       "title": "Authorization in Spring Security: permissions, roles and beyond by Daniel Garnier Moiroux",
@@ -3833,6 +4507,15 @@
       "published_at": "2025-10-08T05:30:35Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "LIGVpEuIrrY": {
+      "video_id": "LIGVpEuIrrY",
+      "title": "My old trains have a second life, with TinyGo! By Florian FORESTIER, Justine Bachelard",
+      "duration_s": 2403,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "LJN5jdaeOf0": {
       "video_id": "LJN5jdaeOf0",
@@ -3886,6 +4569,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "LPhGSgO5eKE": {
+      "video_id": "LPhGSgO5eKE",
+      "title": "Production Ready Java Containers: Smaller, Faster, Smarter by Albert Attard",
+      "duration_s": 2900,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "LSoDQU_9MMA": {
       "video_id": "LSoDQU_9MMA",
       "title": "Backlog.md : Reaching 95% Task success rate with AI Agents by Alex Gavrilescu",
@@ -3924,6 +4616,15 @@
       "published_at": "2025-11-11T10:37:48Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "Lf_m5dIjjqw": {
+      "video_id": "Lf_m5dIjjqw",
+      "title": "The Magic of OpenTelemetry: Rewriting Your App in Production by Bruce Bujon",
+      "duration_s": 1790,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "LhsiycygApY": {
       "video_id": "LhsiycygApY",
@@ -4068,6 +4769,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "Mdu5_gndYn0": {
+      "video_id": "Mdu5_gndYn0",
+      "title": "Green Maven builds: sustainable CI in practice by Jan Boonen",
+      "duration_s": 2416,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "MiaXVBnvIf0": {
       "video_id": "MiaXVBnvIf0",
       "title": "Hidden gems in Angular: hybrid rendering, new routing features, and beyond by Vojtech Mašek",
@@ -4080,6 +4790,19 @@
       "published_at": "2026-04-01T08:08:21Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "MmSvjJhZl3A": {
+      "video_id": "MmSvjJhZl3A",
+      "title": "Beyond assertEquals: Probabilistic Security and Bias Testing for Java LLM Applications by Iryna Doh",
+      "duration_s": 2190,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-07T05:59:12Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "MrIyUJQjbeM": {
       "video_id": "MrIyUJQjbeM",
@@ -4119,6 +4842,19 @@
       "published_at": "2025-10-10T05:10:26Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "N3VyoNNLDqQ": {
+      "video_id": "N3VyoNNLDqQ",
+      "title": "Safety, speed, and governance in the agentic era by Oleg Šelajev",
+      "duration_s": 2485,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:44:05Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "NCd3-JuB5NE": {
       "video_id": "NCd3-JuB5NE",
@@ -4171,6 +4907,15 @@
       "published_at": "2025-10-09T05:35:17Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "NT0wyPM58G8": {
+      "video_id": "NT0wyPM58G8",
+      "title": "The Devoxx Robot Games by Stephan Janssen",
+      "duration_s": 2432,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "NV5uUI2I_ow": {
       "video_id": "NV5uUI2I_ow",
@@ -4237,6 +4982,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "NkstzPeo400": {
+      "video_id": "NkstzPeo400",
+      "title": "BootUI, the missing developer console for Spring Boot and Quarkus by Julien Dubois",
+      "duration_s": 1772,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "NmOAUrlJawI": {
       "video_id": "NmOAUrlJawI",
       "title": "From Prompt to PR: Vibe Coding Meets AI Code Review by Triantafyllos Tsirellis",
@@ -4276,6 +5030,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "OCCOIgkCnjE": {
+      "video_id": "OCCOIgkCnjE",
+      "title": "Building, Shipping and Governing AI Agents on Kubernetes by Tom O'Rourke, Ep Heijting",
+      "duration_s": 3092,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:44:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "OL587zzRHwc": {
       "video_id": "OL587zzRHwc",
       "title": "Scaling a Monolith, Is A Four-Letter Word by Anastasios Efthymiadis",
@@ -4288,6 +5055,15 @@
       "published_at": "2024-10-23T07:08:34Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "OLQ98Ko4p3Q": {
+      "video_id": "OLQ98Ko4p3Q",
+      "title": "GraalVM Next: Layers, Crema, and WebAssembly in Action by Alina Yurenko",
+      "duration_s": 2839,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "OOLKTTT5B8s": {
       "video_id": "OOLKTTT5B8s",
@@ -4380,6 +5156,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "P14Fy05Gs38": {
+      "video_id": "P14Fy05Gs38",
+      "title": "I Hired a Real Robot as My Junior Dev — and Now My Kids Don't Want to Learn Java Anymore by Jan Van",
+      "duration_s": 2881,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "P3CxlzQPqcs": {
       "video_id": "P3CxlzQPqcs",
       "title": "Plan for Unplanned Work: Game Days with Chaos Engineering by Daniel Afonso",
@@ -4418,6 +5203,15 @@
       "published_at": "2024-10-23T07:08:34Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "PGpKfdXZrpc": {
+      "video_id": "PGpKfdXZrpc",
+      "title": "Their API Went Down So Why Is My App on Fire? by Ines Panker",
+      "duration_s": 2752,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "PJOthBhLbao": {
       "video_id": "PJOthBhLbao",
@@ -4484,6 +5278,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "Pg5kS8l9CpI": {
+      "video_id": "Pg5kS8l9CpI",
+      "title": "Engineering for the Long Haul: Operating Open Source at Scale by Sven Sellen",
+      "duration_s": 1954,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "PmUeJ7UWUD4": {
       "video_id": "PmUeJ7UWUD4",
       "title": "How I became my son's hero by building an AI Minecraft Mod with LangChain4J by Dominique Broeglin",
@@ -4549,6 +5352,28 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "Q91obeWeWNQ": {
+      "video_id": "Q91obeWeWNQ",
+      "title": "Agent Loops, Decoded: Fundamentals to Agentic Patterns in Spring AI by Christian Tzolov",
+      "duration_s": 9719,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-06T05:32:11Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "QBQ11aL2aZc": {
+      "video_id": "QBQ11aL2aZc",
+      "title": "Learning modern Java the playful way by Marit van Dijk, Piotr Przybyl",
+      "duration_s": 10737,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "QEzAlHaoZV0": {
       "video_id": "QEzAlHaoZV0",
       "title": "The Remix Evolution: How React Router v7 Enables Fast and Resilient Apps by Aurora Scharff",
@@ -4601,6 +5426,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "QQcsZNf0eWs": {
+      "video_id": "QQcsZNf0eWs",
+      "title": "CRAcking Compliance The EU Cyber Resilience Act by Christian Schabetsberger",
+      "duration_s": 2703,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "QWDV6r0F6fs": {
       "video_id": "QWDV6r0F6fs",
       "title": "Coding challenge: AI test vs PI test by Frederieke Scheper, Laurens van der Kooi",
@@ -4626,6 +5460,45 @@
       "published_at": "2026-05-13T03:37:50Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "QbA-rs7XLEk": {
+      "video_id": "QbA-rs7XLEk",
+      "title": "Owning the inference layer: When and how to run your own models by Maarten Vandeperre, Camille Nigo",
+      "duration_s": 3080,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:43:05Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "Qdn-I3q50Ww": {
+      "video_id": "Qdn-I3q50Ww",
+      "title": "Measuring the Unmeasurable: Evaluating Generative AI in Practice by Erin Pacquetet",
+      "duration_s": 2436,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-07T05:58:11Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "Qg7Uu_XBvpI": {
+      "video_id": "Qg7Uu_XBvpI",
+      "title": "10 boring reasons why Java is the best ecosystem for agentic development By Ed Burns",
+      "duration_s": 2989,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-13T16:45:20Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "Qn-NLC9E7V8": {
       "video_id": "Qn-NLC9E7V8",
@@ -4665,6 +5538,19 @@
       "published_at": "2025-04-22T15:39:17Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:52+00:00"
+    },
+    "QvyIzP4-OvM": {
+      "video_id": "QvyIzP4-OvM",
+      "title": "AI Doesn’t Click Buttons :APIs for the Agentic Age by Kim Lauwers",
+      "duration_s": 2281,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:44:05Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "Qy1Un4U3DQY": {
       "video_id": "Qy1Un4U3DQY",
@@ -4796,6 +5682,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "RlJaauOvcG0": {
+      "video_id": "RlJaauOvcG0",
+      "title": "Devoxx Belgium : See You Next Year 🤩",
+      "duration_s": 31,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "Ro-zZPkizas": {
       "video_id": "Ro-zZPkizas",
       "title": "The Ultimate Showdown of Database Migration Tools by Pasha Finkelshteyn & Mikhail Polivakha",
@@ -4861,6 +5756,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "S7x4DxwRnk4": {
+      "video_id": "S7x4DxwRnk4",
+      "title": "Quixotic: Pure Java Inference at Native Speed by Alfonso² Peterssen",
+      "duration_s": 2868,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:44:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "S8h-pgE8ikc": {
       "video_id": "S8h-pgE8ikc",
       "title": "Don't be an Idiot - Keynote by Asim Hussain",
@@ -4873,6 +5781,19 @@
       "published_at": "2025-10-02T12:30:37Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "SC5nO6iadsU": {
+      "video_id": "SC5nO6iadsU",
+      "title": "Building AI Agents from First Principles by Adib Saikali",
+      "duration_s": 8991,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-07T05:58:00Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "SCV2AKUZS9A": {
       "video_id": "SCV2AKUZS9A",
@@ -4925,6 +5846,15 @@
       "published_at": "2026-04-09T21:36:25Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "SQUrHzMie3o": {
+      "video_id": "SQUrHzMie3o",
+      "title": "Owning the Code You Didn't Type by Renato Guerra Cavalcanti",
+      "duration_s": 3023,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "SR59HPXyQSE": {
       "video_id": "SR59HPXyQSE",
@@ -5003,6 +5933,33 @@
       "published_at": "2025-10-10T05:09:25Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
+    },
+    "SgK0zMNayq0": {
+      "video_id": "SgK0zMNayq0",
+      "title": "The Quarkus advantage: Turning build time metaprogramming into runtime performances by Mario Fusco,",
+      "duration_s": 8874,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "SoWgxHeAPGU": {
+      "video_id": "SoWgxHeAPGU",
+      "title": "You thought technical debt was bad? Meet design debt! by Julien Topçu, Josian Chevalier",
+      "duration_s": 2996,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "Spxl1eDQJKs": {
+      "video_id": "Spxl1eDQJKs",
+      "title": "The Quantum Tech Lead: Hands On and Abstract at the Same Time by Cristian Schuszter",
+      "duration_s": 2831,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "SrFXsjeGc6Q": {
       "video_id": "SrFXsjeGc6Q",
@@ -5095,6 +6052,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:17+00:00"
     },
+    "TB45qqp-OxM": {
+      "video_id": "TB45qqp-OxM",
+      "title": "10 Billion Records vs The Regulator: An Architectural Post Mortem of an 11TB Exadata Failure",
+      "duration_s": 2922,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "TBqkL_u1x5Y": {
       "video_id": "TBqkL_u1x5Y",
       "title": "Shield your backend from outside attacks with API Managers by Bárbara Teruggi",
@@ -5147,6 +6113,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
     },
+    "Tc2RFLa0ip8": {
+      "video_id": "Tc2RFLa0ip8",
+      "title": "The pizza party of the future 🍕 by Katie Clark and Simon Rohrer",
+      "duration_s": 3077,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "TfY0uXudi6Y": {
       "video_id": "TfY0uXudi6Y",
       "title": "Welcome to Voxxed Days Amsterdam 2026 - Opening (room 1)",
@@ -5159,6 +6134,24 @@
       "published_at": "2026-04-08T17:55:44Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
+    },
+    "Tfrt19d3TEA": {
+      "video_id": "Tfrt19d3TEA",
+      "title": "rm rf self doubt: Debugging Impostor Syndrome for Developers by Vincent Mayers",
+      "duration_s": 2322,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "TgkY2UmWtBo": {
+      "video_id": "TgkY2UmWtBo",
+      "title": "All you need to know about Maven 4! by Matthias Bünger",
+      "duration_s": 2833,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "Tl1uqW8RSAo": {
       "video_id": "Tl1uqW8RSAo",
@@ -5251,6 +6244,28 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
     },
+    "U7Z9fZn7rFg": {
+      "video_id": "U7Z9fZn7rFg",
+      "title": "Choose your own adventure in agentic design patterns by Guillaume Laforge",
+      "duration_s": 3107,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:43:05Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "U9pOWsERF6o": {
+      "video_id": "U9pOWsERF6o",
+      "title": "30 minutes to build your first Vidocq app, the 100% European Sovereign Java stack with zero external",
+      "duration_s": 1844,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "UAQZ10Mx3xg": {
       "video_id": "UAQZ10Mx3xg",
       "title": "Beyond REST: Using Full-Stack Signals for Real-Time Reactive UIs by Leif Åstrand",
@@ -5341,6 +6356,15 @@
       "published_at": "2024-10-23T07:13:40Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
+    },
+    "Upd5ZqUn1qY": {
+      "video_id": "Upd5ZqUn1qY",
+      "title": "Write Java Code Like a Seasoned Hacker: 2026 Edition by Soroosh Khodami",
+      "duration_s": 10007,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "UqaSWiE076w": {
       "video_id": "UqaSWiE076w",
@@ -5459,6 +6483,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
     },
+    "VTxhxCy_2lE": {
+      "video_id": "VTxhxCy_2lE",
+      "title": "Solving Multimodal and Long Context Challenges by Laurent Picard",
+      "duration_s": 10737,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-12T16:13:23Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "VVUngUrMjAo": {
       "video_id": "VVUngUrMjAo",
       "title": "Bring the Action: Using GraalVM in Production by Alina Yurenko",
@@ -5511,6 +6548,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
     },
+    "VaT7DgmVSms": {
+      "video_id": "VaT7DgmVSms",
+      "title": "Engineering Lessons from Working on Software Older Than Me by Guust Ysebie",
+      "duration_s": 2064,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "VbirNYPARiU": {
       "video_id": "VbirNYPARiU",
       "title": "It Works on My Machine: Why Engineers Are Misunderstood (and What They Can Do About It)",
@@ -5537,6 +6583,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
     },
+    "VmPMUGImB-M": {
+      "video_id": "VmPMUGImB-M",
+      "title": "Who to blame? The AI, The Programmer, or The Prompt? by Makan Sepehrifar",
+      "duration_s": 2394,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:44:20Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "Vv4rN7jhId0": {
       "video_id": "Vv4rN7jhId0",
       "title": "Dockerfiles, Buildpacks, Jib and more ... what's the best way to run your Java code in Containers?",
@@ -5549,6 +6608,15 @@
       "published_at": "2025-04-07T13:45:21Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
+    },
+    "W-OKVLMtPAw": {
+      "video_id": "W-OKVLMtPAw",
+      "title": "Bootiful Security by Daniel Garnier Moiroux, Josh Long",
+      "duration_s": 3078,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "W5L4sb4ROYU": {
       "video_id": "W5L4sb4ROYU",
@@ -5901,6 +6969,15 @@
       "tags": [],
       "details_at": "2026-09-06T13:23:52+00:00"
     },
+    "YEy7AgRO7As": {
+      "video_id": "YEy7AgRO7As",
+      "title": "The day we stopped publishing Kafka event from our API by Virginie Zinck",
+      "duration_s": 1802,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "YFDBKkEUbE8": {
       "video_id": "YFDBKkEUbE8",
       "title": "Fail more, learn more! by Sander Mak",
@@ -5965,6 +7042,19 @@
       "published_at": "2025-04-17T05:05:51Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:52+00:00"
+    },
+    "Ycdt7IT7Kdw": {
+      "video_id": "Ycdt7IT7Kdw",
+      "title": "Cheaper or Better? The Strategic Choice Behind AI Adoption by Miriam Sasse",
+      "duration_s": 9007,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-07T05:58:03Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "YicnrjV2WME": {
       "video_id": "YicnrjV2WME",
@@ -6069,6 +7159,28 @@
       "published_at": "2025-11-11T10:37:56Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
+    },
+    "Z64CjgCO5gk": {
+      "video_id": "Z64CjgCO5gk",
+      "title": "Software engineering in the age of AI agents: who’s in control? by Bert Jan Schrijver",
+      "duration_s": 2902,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:44:21Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "ZDocIlx7Zvg": {
+      "video_id": "ZDocIlx7Zvg",
+      "title": "From Brainless to Brilliant — Giving an Open Source Robot a Mind of Its Own by Jan Van Wassenhove",
+      "duration_s": 992,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "ZEl5n1-98qw": {
       "video_id": "ZEl5n1-98qw",
@@ -6213,6 +7325,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
     },
+    "_CtnBnmYQC0": {
+      "video_id": "_CtnBnmYQC0",
+      "title": "Integration patterns for distributed systems by Dirk Fröhner, Sabarish Sekar",
+      "duration_s": 2957,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "_Hbn-WhMiHA": {
       "video_id": "_Hbn-WhMiHA",
       "title": "RAG in the wild: real-world lessons from modernizing legacy systems by Susanne Pieterse",
@@ -6239,6 +7360,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
     },
+    "_VZg6dxlGaM": {
+      "video_id": "_VZg6dxlGaM",
+      "title": "Java, LEGO & AI: Teaching the Next Generation to Build, Not Just Prompt by Eddy Vos",
+      "duration_s": 1412,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-06T05:32:28Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "_Y-srK-Ad4c": {
       "video_id": "_Y-srK-Ad4c",
       "title": "Gen AI Grows Up: Enterprise JVM Agents With Embabel by Rod Johnson",
@@ -6251,6 +7385,15 @@
       "published_at": "2025-10-10T05:09:25Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
+    },
+    "_dcauZC9ST8": {
+      "video_id": "_dcauZC9ST8",
+      "title": "In the loop, not in the dark: staying in control in the era of dark software factories by Alex Gavr",
+      "duration_s": 1731,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "_lTosGE5aIQ": {
       "video_id": "_lTosGE5aIQ",
@@ -6304,6 +7447,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
     },
+    "a5cQAl0g2AM": {
+      "video_id": "a5cQAl0g2AM",
+      "title": "No Country For Old APIs Wrapping legacy Java services as MCP tools without rewriting them by Žel",
+      "duration_s": 2672,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:40:12Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "aEWYb8uCQY4": {
       "video_id": "aEWYb8uCQY4",
       "title": "[VDBUH2025] - PANEL: Local Tech Ecosystem",
@@ -6343,6 +7499,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
     },
+    "adFS-_sCTQ4": {
+      "video_id": "adFS-_sCTQ4",
+      "title": "SIMD for Java: how Elasticsearch already benefits from the Panama Vector API by Piotr Przybyl",
+      "duration_s": 3147,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "aemFEi5N8Ho": {
       "video_id": "aemFEi5N8Ho",
       "title": "What the Duck?🦆 The Hidden Crisis in Tech by Aicha Laafia",
@@ -6369,6 +7534,24 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
     },
+    "am8adCMJQzk": {
+      "video_id": "am8adCMJQzk",
+      "title": "Dream Machines & Walled Gardens by Anders Norås",
+      "duration_s": 2938,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "aow56RgptLA": {
+      "video_id": "aow56RgptLA",
+      "title": "Structured Concurrency Looms by Alan Bateman, Viktor Klang",
+      "duration_s": 3056,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "arUOVFUKt6s": {
       "video_id": "arUOVFUKt6s",
       "title": "Devoxx Greece 2025 - Top REST API Design Pitfalls by Victor Rentea",
@@ -6381,6 +7564,24 @@
       "published_at": "2025-04-22T15:39:17Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
+    },
+    "asAxisu6EQ0": {
+      "video_id": "asAxisu6EQ0",
+      "title": "Testing Architecture Made Simple by Gunter Rotsaert",
+      "duration_s": 1404,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "aup9tNzQu7c": {
+      "video_id": "aup9tNzQu7c",
+      "title": "Welcome to Devoxx Belgium 2026 by Stephan Janssen",
+      "duration_s": 1584,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "ayZbbioDd5U": {
       "video_id": "ayZbbioDd5U",
@@ -6499,6 +7700,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
     },
+    "bqwtnKLU35E": {
+      "video_id": "bqwtnKLU35E",
+      "title": "How to Architect Green Software by Ioannis Kolaxis",
+      "duration_s": 2990,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "br2Mo2JS-xA": {
       "video_id": "br2Mo2JS-xA",
       "title": "Devoxx Greece 2025 : How Simple Should Your LLM Integration Be? by Efstratios Marinos",
@@ -6524,6 +7734,28 @@
       "published_at": "2025-03-31T20:39:59Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:18+00:00"
+    },
+    "c45C2wNSZFc": {
+      "video_id": "c45C2wNSZFc",
+      "title": "Solving Distributed Transactions with the Saga Pattern and Temporal by Andrei Sulyz",
+      "duration_s": 1734,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "c4F7Iy3XqaY": {
+      "video_id": "c4F7Iy3XqaY",
+      "title": "Toxic Flows in MCP Servers and Skills: What Your Agent Blindly Trusts by Brian Vermeer",
+      "duration_s": 2977,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T08:57:58Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "c7LpamFLGRo": {
       "video_id": "c7LpamFLGRo",
@@ -6642,6 +7874,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "cbSl8UVdMVg": {
+      "video_id": "cbSl8UVdMVg",
+      "title": "Quarkus Meets Leyden at the JVM Performance Edge by Georgios Andrianakis, Ana Maria Mihalceanu",
+      "duration_s": 3573,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "cbs4BQ0BwmA": {
       "video_id": "cbs4BQ0BwmA",
       "title": "Spring Boot in the Cloud: Advanced Optimization Deep Dive by Patrick Baumgartner",
@@ -6733,6 +7974,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "d1SJXp9QeWE": {
+      "video_id": "d1SJXp9QeWE",
+      "title": "Agents With Seatbelts: Practical Ways to Keep AI Code Gen Under Control by Jonathan Vila López",
+      "duration_s": 3069,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:44:26Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "d3ObY-aLEm0": {
       "video_id": "d3ObY-aLEm0",
       "title": "Generative AI: tech du jour or the next big thing? by Massimo Re Ferre'",
@@ -6745,6 +7999,19 @@
       "published_at": "2025-10-10T05:09:25Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
+    },
+    "d6D8nef-32c": {
+      "video_id": "d6D8nef-32c",
+      "title": "Prompt It Right: Spring Boot Testing in the AI Era by Philip Riecks",
+      "duration_s": 9188,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-06T05:32:06Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "dCryQg7CDyk": {
       "video_id": "dCryQg7CDyk",
@@ -6811,6 +8078,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "dWF5HMkKiLg": {
+      "video_id": "dWF5HMkKiLg",
+      "title": "Building the Trusted Agent Ecosystem by Ivan Petrov, Patrick McGrath",
+      "duration_s": 2098,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-06T05:30:12Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "dYpbsoZDZoc": {
       "video_id": "dYpbsoZDZoc",
       "title": "YOLO - moving straight to production by Adam Michalik",
@@ -6849,6 +8129,19 @@
       "published_at": "2026-04-08T19:20:07Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
+    },
+    "dq5rueVhiIM": {
+      "video_id": "dq5rueVhiIM",
+      "title": "Can AI Build a Jakarta EE Runtime? The Vidocq Experiment by Antoine Sabot Durand, yann Blazart, Seba",
+      "duration_s": 8682,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-06T05:31:46Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "dt9YWaHM1Ns": {
       "video_id": "dt9YWaHM1Ns",
@@ -6902,6 +8195,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "eFSEg54mwVU": {
+      "video_id": "eFSEg54mwVU",
+      "title": "Microservices Without the Distributed Mess by Steven Hillaert",
+      "duration_s": 2744,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "eHWFHFQ8tKo": {
       "video_id": "eHWFHFQ8tKo",
       "title": "A Kafka Producer’s Request: Or, There and Back Again by Danica Fine",
@@ -6940,6 +8242,37 @@
       "published_at": "2024-10-11T05:09:45Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
+    },
+    "ePBmAdRYl10": {
+      "video_id": "ePBmAdRYl10",
+      "title": "When ORM Becomes OMG: Performance Pitfalls in JPA and Friends by Jos Roseboom",
+      "duration_s": 3048,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "ePQyy9sLmsY": {
+      "video_id": "ePQyy9sLmsY",
+      "title": "Beyond encryption at rest: computing on encrypted data by Andrea Iacono",
+      "duration_s": 3045,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "eSSPOCeoF0c": {
+      "video_id": "eSSPOCeoF0c",
+      "title": "How AI transforms engineering and inspiring young minds – Ayoub Hammou Ahabchane & Kamel Zaraoui",
+      "duration_s": 3080,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T08:57:59Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "eWb7SO2hZ4g": {
       "video_id": "eWb7SO2hZ4g",
@@ -7032,6 +8365,24 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "ewCPBgOrLAE": {
+      "video_id": "ewCPBgOrLAE",
+      "title": "Ask the Architects by Gavin Bierman, Maurizio Cimadamore, Per Ake Minborg, Viktor Klang, Alan Batem",
+      "duration_s": 3032,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "eyJ5LO-Kyuw": {
+      "video_id": "eyJ5LO-Kyuw",
+      "title": "🧰 Dev Containers: the ultimate toolbox for developers? by Stéphane Philippart",
+      "duration_s": 1417,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "eyoQJjtzp2c": {
       "video_id": "eyoQJjtzp2c",
       "title": "Avoiding career pitfalls — A well-grounded software engineer by Martin Stefanko",
@@ -7110,6 +8461,19 @@
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
     },
+    "fShgG3jtkXQ": {
+      "video_id": "fShgG3jtkXQ",
+      "title": "MCP 2 0 Stateless, New Auth CIMD, and Exciting Extensions by James Ward",
+      "duration_s": 3047,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:44:09Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "f_5b_qanhzg": {
       "video_id": "f_5b_qanhzg",
       "title": "AI Powered Form Wizards: Chat, Click, Done by Loïc Magnette",
@@ -7149,6 +8513,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "fszyRIZXjQM": {
+      "video_id": "fszyRIZXjQM",
+      "title": "Java on Kubernetes Without Container Images: The WebAssembly Way By Bruno Borges",
+      "duration_s": 3168,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "fwrcM5JMysk": {
       "video_id": "fwrcM5JMysk",
       "title": "Team and Software: Making an Impact as an Architect by Eberhard Wolff",
@@ -7187,6 +8560,15 @@
       "published_at": "2025-04-07T13:45:23Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
+    },
+    "gPtWq_LHL8o": {
+      "video_id": "gPtWq_LHL8o",
+      "title": "Let's dance! – Teaching your robot some moves with reinforcement learning by Thomas Endres, Martin",
+      "duration_s": 2476,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "gc5fF6pGhDA": {
       "video_id": "gc5fF6pGhDA",
@@ -7357,6 +8739,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "hHu3rLsbYog": {
+      "video_id": "hHu3rLsbYog",
+      "title": "Why Java Is Perfect for AI Just Not the AI You’re Thinking Of by Trisha Gee, Andrey Santrosyan",
+      "duration_s": 2749,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:43:10Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "hVEr-H2qHdY": {
       "video_id": "hVEr-H2qHdY",
       "title": "Devoxx Greece 2025 - Lord of Vulnerabilities: Fellowship of Secure Software Development",
@@ -7500,6 +8895,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "i_VXe0mNicY": {
+      "video_id": "i_VXe0mNicY",
+      "title": "A Deserter Returns: What the Java community helped me rediscover by Thierry Chantier",
+      "duration_s": 2518,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "ikyPZBlOamc": {
       "video_id": "ikyPZBlOamc",
       "title": "Language Games by Eli Holderness",
@@ -7538,6 +8942,19 @@
       "published_at": "2025-11-11T10:37:58Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
+    },
+    "j3aEB0i3Up8": {
+      "video_id": "j3aEB0i3Up8",
+      "title": "Your AI Agent Trusts Strangers Let Me Show You by Elder Moraes",
+      "duration_s": 1757,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-06T05:30:23Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "j9dhCtfjLVk": {
       "video_id": "j9dhCtfjLVk",
@@ -7617,6 +9034,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "jFxR6YYWdmI": {
+      "video_id": "jFxR6YYWdmI",
+      "title": "Is the IDE dead ? by Martin Lippert",
+      "duration_s": 2089,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "jHXEIPfp5Ig": {
       "video_id": "jHXEIPfp5Ig",
       "title": "Taming Microservice Overload: Our Journey to Modular Monoliths by Mario Klaver",
@@ -7668,6 +9094,15 @@
       "published_at": "2025-11-11T10:38:19Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
+    },
+    "jhvT8hVYSvQ": {
+      "video_id": "jhvT8hVYSvQ",
+      "title": "In the loop , not in the dark: Staying in controlling the era dark software factories By Alex Gavr",
+      "duration_s": 2692,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "ji_KwSrvWpI": {
       "video_id": "ji_KwSrvWpI",
@@ -7812,6 +9247,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "kaT6UpLrzhU": {
+      "video_id": "kaT6UpLrzhU",
+      "title": "AI in the Dark: Running LLMs in Air Gapped Production Environments by Mihaela Gheorghe Roman",
+      "duration_s": 3050,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:43:05Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "khRkbvTuPX4": {
       "video_id": "khRkbvTuPX4",
       "title": "30 minutes to understand MCP Model Context Protocol by S ébastien Blanc",
@@ -7851,6 +9299,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "knE4uy7IYXY": {
+      "video_id": "knE4uy7IYXY",
+      "title": "Making sense of vector databases by Balkrishna Rawool",
+      "duration_s": 2869,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "kr_iQjTEU3o": {
       "video_id": "kr_iQjTEU3o",
       "title": "Complementing LLM with agentic AI: a Quarkus story on AI by Mario Fusco Daniele Zonca",
@@ -7876,6 +9333,15 @@
       "published_at": "2024-10-23T07:08:36Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
+    },
+    "kuUeHD_k5fs": {
+      "video_id": "kuUeHD_k5fs",
+      "title": "Java and the Next Generation of Programming Models by Ana Maria Mihalceanu",
+      "duration_s": 2398,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "l1qGVxEf0NA": {
       "video_id": "l1qGVxEf0NA",
@@ -7968,6 +9434,24 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "lUB15M3mMLs": {
+      "video_id": "lUB15M3mMLs",
+      "title": "Escaping Java's Allocation Gravity with Value Classes By Clément de Tastes, Remi Forax",
+      "duration_s": 3074,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "lW1faHx-guk": {
+      "video_id": "lW1faHx-guk",
+      "title": "Devoxx: ThankYou",
+      "duration_s": 94,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "lW6VqE3HMvQ": {
       "video_id": "lW6VqE3HMvQ",
       "title": "[VDBUH2026] Victor Botan - Scaling the Future: Lakehouse Architecture and OpenSource Collaboration",
@@ -8033,6 +9517,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "lsvVJaigNp8": {
+      "video_id": "lsvVJaigNp8",
+      "title": "\"You May Now Optimize the Wedding\": Optimizing the Seating, Bachelor Party, and Honeymoon with Const",
+      "duration_s": 2217,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "lw8CtPn6cLQ": {
       "video_id": "lw8CtPn6cLQ",
       "title": "Sharing is caring! Building trust in a system through transparency: lessons from Swiss Post E-Voting",
@@ -8071,6 +9564,15 @@
       "published_at": "2025-04-22T15:39:19Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
+    },
+    "m9viRAIRAUQ": {
+      "video_id": "m9viRAIRAUQ",
+      "title": "The Hexagonal Hangover by Ties van de Ven",
+      "duration_s": 2933,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "mAXNKkejl38": {
       "video_id": "mAXNKkejl38",
@@ -8123,6 +9625,15 @@
       "published_at": "2025-02-19T16:04:55Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
+    },
+    "mOmuF5fDiUM": {
+      "video_id": "mOmuF5fDiUM",
+      "title": "Pragmatic multi cloud architecture: designing for resilience and portability beyond the hype by Al",
+      "duration_s": 2098,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "mPtZ24EMOXA": {
       "video_id": "mPtZ24EMOXA",
@@ -8188,6 +9699,32 @@
       "published_at": "2025-10-10T15:50:23Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
+    },
+    "mebPFAKSpzw": {
+      "video_id": "mebPFAKSpzw",
+      "title": "Exquisite Evals for Skills & MCPs by Christian Tzolov, James Ward",
+      "duration_s": 1934,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-07T05:59:38Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "mnoUXIT4nMY": {
+      "video_id": "mnoUXIT4nMY",
+      "title": "A Fleet of AI Agents, Each in Its Own Sandbox: Inside Docker's Agentic Platform by Jean Laurent de",
+      "duration_s": 1253,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:44:09Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "mtWHfYTLeKE": {
       "video_id": "mtWHfYTLeKE",
@@ -8267,6 +9804,32 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "nEW0kosJjc8": {
+      "video_id": "nEW0kosJjc8",
+      "title": "A Year of Agentic AI Evolution by Mario Fusco & Kevin Dubois",
+      "duration_s": 3099,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:42:03Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "nHRSwiFNQ9E": {
+      "video_id": "nHRSwiFNQ9E",
+      "title": "State of Agentic Coding by Daniela Petruzalek",
+      "duration_s": 2883,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:44:29Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "nI037FsuJhc": {
       "video_id": "nI037FsuJhc",
       "title": "One Does Not Simply Query a Stream by Viktor Gamov",
@@ -8332,6 +9895,28 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "nhVRKv8VHKU": {
+      "video_id": "nhVRKv8VHKU",
+      "title": "Life in the Ivory Tower Confessions of a Former Developer Who Turned Into an Architect by Robin cu",
+      "duration_s": 2095,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "niBYuCuViGw": {
+      "video_id": "niBYuCuViGw",
+      "title": "We created our own AI orchestrator and it became so much more! by Ricky van Rijn",
+      "duration_s": 3093,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-13T16:45:25Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "nlMJkNiuPSc": {
       "video_id": "nlMJkNiuPSc",
       "title": "Devoxx Greece 2025 - Data Modeling for Software Engineers by Scott Sosna",
@@ -8344,6 +9929,28 @@
       "published_at": "2025-04-22T15:39:19Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
+    },
+    "nma5a_sbX5E": {
+      "video_id": "nma5a_sbX5E",
+      "title": "Speaking next week at Devoxx Belgium?",
+      "duration_s": 58,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "npSWywhFDHo": {
+      "video_id": "npSWywhFDHo",
+      "title": "Specialized AI Agents: from concept to production by David Gageot",
+      "duration_s": 8332,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-07T05:58:26Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "nruQ2MTYF6s": {
       "video_id": "nruQ2MTYF6s",
@@ -8618,6 +10225,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "oey2TbFvfWE": {
+      "video_id": "oey2TbFvfWE",
+      "title": "Agents Shouldn't Control Control Flow by Jeremy Adams",
+      "duration_s": 2428,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:44:29Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "okdgOPcFCqw": {
       "video_id": "okdgOPcFCqw",
       "title": "Building AI Agents with Spring & MCP by James Ward, Josh Long",
@@ -8735,6 +10355,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
     },
+    "pMv_39iSXVA": {
+      "video_id": "pMv_39iSXVA",
+      "title": "From Autocomplete to Autopilot: How AI Is Changing the Developer Experience by Tugdual Grall",
+      "duration_s": 10923,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-06T05:32:03Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "pNbRinV8hOo": {
       "video_id": "pNbRinV8hOo",
       "title": "Developer Productivity Engineering: What's in it for me? by Trisha Gee",
@@ -8799,6 +10432,15 @@
       "published_at": "2025-10-09T05:36:10Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:19+00:00"
+    },
+    "pgVJWp-SjxI": {
+      "video_id": "pgVJWp-SjxI",
+      "title": "Java Script No, Not That One: Modern Automation with Java by Loïc Magnette",
+      "duration_s": 1772,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "pkSZHPG61S4": {
       "video_id": "pkSZHPG61S4",
@@ -8865,6 +10507,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
     },
+    "q58Y2tyRdCE": {
+      "video_id": "q58Y2tyRdCE",
+      "title": "Building an Agent Ready Platform by Timo Salm",
+      "duration_s": 2942,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:41:02Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "q9rf6sIH6vQ": {
       "video_id": "q9rf6sIH6vQ",
       "title": "Agentic Programming, this is how it's done by Jeroen Egelmeers",
@@ -8877,6 +10532,19 @@
       "published_at": "2026-04-09T19:48:58Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "qFTuteOEtsE": {
+      "video_id": "qFTuteOEtsE",
+      "title": "Half of a billion Idle GPUs: The Case for On Device AI by Prince Canuma",
+      "duration_s": 1192,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:44:09Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "qGecMwOt4kE": {
       "video_id": "qGecMwOt4kE",
@@ -9060,6 +10728,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
     },
+    "qrtd6svRUnk": {
+      "video_id": "qrtd6svRUnk",
+      "title": "Knocking on the Wrong Door: The Six Developers You’ll Meet in Security by Enrique Larios Vargas",
+      "duration_s": 2487,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "qyPbNHhS0Mk": {
       "video_id": "qyPbNHhS0Mk",
       "title": "Welcome to Voxxed Days Amsterdam 2026 Day Two - Opening (room 1)",
@@ -9138,6 +10815,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
     },
+    "rNOzf12RORI": {
+      "video_id": "rNOzf12RORI",
+      "title": "The Yearly Java Performance Update for 2026 by Per Ake Minborg",
+      "duration_s": 2502,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "rV7MIxFKSDI": {
       "video_id": "rV7MIxFKSDI",
       "title": "Are We Ready For The Next Cyber Security Crisis Like Log4Shell? by Soroosh Khodami",
@@ -9176,6 +10862,28 @@
       "published_at": "2025-10-10T05:09:28Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "rk22mStXsGU": {
+      "video_id": "rk22mStXsGU",
+      "title": "Teaching a New Dog Old Tricks: Give the Agent a Debugger by Anton Arhipov",
+      "duration_s": 2092,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-06T05:30:20Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "rv2KpWgb0Mw": {
+      "video_id": "rv2KpWgb0Mw",
+      "title": "Build a private cluster for the office by John Davies",
+      "duration_s": 2840,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "rvW8tu1n5x4": {
       "video_id": "rvW8tu1n5x4",
@@ -9255,6 +10963,15 @@
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
     },
+    "sWP9osLV45I": {
+      "video_id": "sWP9osLV45I",
+      "title": "Help! I hate my team mate! by Jessica Siewert",
+      "duration_s": 3100,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "sYSyvuopq5A": {
       "video_id": "sYSyvuopq5A",
       "title": "Visualizing robot minds, and other fun stuff by Alessandro Giusti",
@@ -9267,6 +10984,19 @@
       "published_at": "2026-02-27T13:52:51Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "sexe_tnhAOI": {
+      "video_id": "sexe_tnhAOI",
+      "title": "Beyond Code: The Intent Driven IDE for the Agentic Age by Bruno Borges",
+      "duration_s": 2092,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-06T07:37:07Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "sfelnVlUplg": {
       "video_id": "sfelnVlUplg",
@@ -9398,6 +11128,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
     },
+    "t9e9FtHB-48": {
+      "video_id": "t9e9FtHB-48",
+      "title": "The Importance of HITL to Avoid Chaos and EU Regulations for AI by Juan Antonio Breña 🇪🇸🇪🇺",
+      "duration_s": 1193,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-07T05:59:16Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "tAYsGCYC5Vg": {
       "video_id": "tAYsGCYC5Vg",
       "title": "Voxxed Days Thessaloniki 2024 - After movie",
@@ -9514,6 +11257,15 @@
       "published_at": "2026-04-01T08:08:11Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "tle2mA7EwWU": {
+      "video_id": "tle2mA7EwWU",
+      "title": "The Year of the Runtime by Ron Pressler",
+      "duration_s": 888,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "tzmEudUS9Os": {
       "video_id": "tzmEudUS9Os",
@@ -9632,6 +11384,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
     },
+    "ufhs9THbYZI": {
+      "video_id": "ufhs9THbYZI",
+      "title": "Java Next From Valhalla to Leyden, from Babylon to Panama, from Amber to Detroit By Nicolai Parlog",
+      "duration_s": 3096,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "uk-2RRzJzxU": {
       "video_id": "uk-2RRzJzxU",
       "title": "Data Mesh: The Speedrun by Nick Bozovits",
@@ -9736,6 +11497,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
     },
+    "v86SfHA5ISw": {
+      "video_id": "v86SfHA5ISw",
+      "title": "Taming Microservice Overload: Our Journey to Modular Monoliths by Mario Klaver",
+      "duration_s": 2986,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "vAbGZuQAX9c": {
       "video_id": "vAbGZuQAX9c",
       "title": "Wired 2.0! Create your ultimate learning environment by Simone de Gijt",
@@ -9749,6 +11519,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
     },
+    "vAfQ4f8wIVI": {
+      "video_id": "vAfQ4f8wIVI",
+      "title": "Agentic Engineering Reconversion by Victor Rentea",
+      "duration_s": 1306,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:44:12Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "vF3srcZZ9s0": {
       "video_id": "vF3srcZZ9s0",
       "title": "Psst! A Sneak Peek at StableValue and SegmentMapper by Per Minborg",
@@ -9761,6 +11544,59 @@
       "published_at": "2024-10-11T05:08:44Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "vLDbzmiT7Xs": {
+      "video_id": "vLDbzmiT7Xs",
+      "title": "Will Valhalla Fix Tony's Billion Dollar Mistake? by José Paumard, Remi Forax",
+      "duration_s": 9660,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "vN9jWqSvJNE": {
+      "video_id": "vN9jWqSvJNE",
+      "title": "Surviving the \"AI Slopageddon\": How AI shakes the foundations of Open Source by Raphael Semeteys",
+      "duration_s": 2938,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:40:46Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "vNeyNkeU4ms": {
+      "video_id": "vNeyNkeU4ms",
+      "title": "Taming the Chaos: Security and Predictability in LLM Powered Applications by Rustam Mehmandarov",
+      "duration_s": 2917,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:43:15Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "vcL6eCAwLwY": {
+      "video_id": "vcL6eCAwLwY",
+      "title": "From a startup stack to 5 microseconds: inside a crypto trading engine by Oleg Lobanov",
+      "duration_s": 2720,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "vhDwy1eCXbs": {
+      "video_id": "vhDwy1eCXbs",
+      "title": "Big Runtimes Make Efficient Programs by Ron Pressler",
+      "duration_s": 3006,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "vm__sHBLOrY": {
       "video_id": "vm__sHBLOrY",
@@ -9814,6 +11650,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
     },
+    "w2RTFWet_6c": {
+      "video_id": "w2RTFWet_6c",
+      "title": "Choose your own adventure in agentic design patterns by Guillaume Laforge",
+      "duration_s": 3107,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:43:15Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "w76ZrXh-EDE": {
       "video_id": "w76ZrXh-EDE",
       "title": "Have you gone MADR? by Johan Hutting",
@@ -9866,6 +11715,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
     },
+    "wJ7R4qkVs8Y": {
+      "video_id": "wJ7R4qkVs8Y",
+      "title": "Underneath the Black Marker: AI Techniques for Detecting and Reversing Redactions by David vonThene",
+      "duration_s": 2998,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:43:15Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "wJHp_MoFumg": {
       "video_id": "wJHp_MoFumg",
       "title": "Nobody Cares It’s Blockchain: How Lugano Made Digital Tokens Mainstream by S. Gamba & G. Perletti",
@@ -9891,6 +11753,28 @@
       "published_at": "2025-10-07T05:13:54Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "wUyQmRriCng": {
+      "video_id": "wUyQmRriCng",
+      "title": "F*ck The System, and other bad ideas for the future by Jo Caudron",
+      "duration_s": 3562,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "wWfj4AJahlQ": {
+      "video_id": "wWfj4AJahlQ",
+      "title": "One tool to rule them all: bash, a tiny LLM, and the birth of a coding agent by Philippe Charrièr",
+      "duration_s": 1809,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-06T05:30:08Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "wY2JEeRZSI8": {
       "video_id": "wY2JEeRZSI8",
@@ -9931,6 +11815,24 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
     },
+    "wbzpP0T9w6I": {
+      "video_id": "wbzpP0T9w6I",
+      "title": "Conquest, time travel and explosions using Git by Alexander Chatzizacharias",
+      "duration_s": 2800,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "wcghmWdu-HY": {
+      "video_id": "wcghmWdu-HY",
+      "title": "Destructoring is the future of Javas Encapsulation by Richard Gross",
+      "duration_s": 2191,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "wkXpsCjO0Ps": {
       "video_id": "wkXpsCjO0Ps",
       "title": "Develop your own Browser extension by Łukasz Nowak",
@@ -9957,6 +11859,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
     },
+    "wrV4f83UMWI": {
+      "video_id": "wrV4f83UMWI",
+      "title": "Is AI killing XP practices? Or are we letting it? By Nacho Cougil",
+      "duration_s": 2956,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-13T16:45:25Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "wwqLhShXJi0": {
       "video_id": "wwqLhShXJi0",
       "title": "Cracking the Code Review by Paco van Beckhoven",
@@ -9969,6 +11884,19 @@
       "published_at": "2025-01-20T19:58:32Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "wxNQRGPnJ24": {
+      "video_id": "wxNQRGPnJ24",
+      "title": "The Rise of Agent Enablement: Coding Agents Don't Scale Themselves Neither Do Your Teams by Patric",
+      "duration_s": 2836,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:44:29Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "wz0GQbkrr1Q": {
       "video_id": "wz0GQbkrr1Q",
@@ -9983,6 +11911,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
     },
+    "wzN6qq08w0U": {
+      "video_id": "wzN6qq08w0U",
+      "title": "ADRs: The Why and How by Venkat Subramaniam",
+      "duration_s": 3000,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "x4C4YQKKWuM": {
       "video_id": "x4C4YQKKWuM",
       "title": "Devoxx Greece 2025 - 82 Bugs I Collected in a Year You Won’t Believe Made It to Production",
@@ -9995,6 +11932,19 @@
       "published_at": "2025-04-22T15:37:47Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:53+00:00"
+    },
+    "xEAYnXyt3L4": {
+      "video_id": "xEAYnXyt3L4",
+      "title": "Say Goodbye to LLM API keys with Workload Identity Federation by Siarhei Biarozkin",
+      "duration_s": 2611,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T07:44:29Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "xFb_LcapbXw": {
       "video_id": "xFb_LcapbXw",
@@ -10061,6 +12011,37 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
     },
+    "y4F1XBtQeDw": {
+      "video_id": "y4F1XBtQeDw",
+      "title": "Build the Builder: A Java Coding Agent in Your IDE with ACP by Vadim Briliantov",
+      "duration_s": 2982,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:44:12Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "y9JjxyKc6gU": {
+      "video_id": "y9JjxyKc6gU",
+      "title": "Do We Need a Build Language? Java Builds Java by Rafael Winterhalter",
+      "duration_s": 1836,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "yB6FIQPgsWE": {
+      "video_id": "yB6FIQPgsWE",
+      "title": "What rules the virtual? How our systems obey physical laws by Marianne Hoornenborg",
+      "duration_s": 2938,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
     "yNM1mcefLUQ": {
       "video_id": "yNM1mcefLUQ",
       "title": "The three laws of Scalable Engineering by Jacopo Nardiello",
@@ -10073,6 +12054,33 @@
       "published_at": "2026-04-09T18:58:53Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "yUMnuh5U5k4": {
+      "video_id": "yUMnuh5U5k4",
+      "title": "Post Quantum Today: How Your Passwords Will Be Safe in a Quantum Future by Julian Burr",
+      "duration_s": 2184,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "yePre1hOvHE": {
+      "video_id": "yePre1hOvHE",
+      "title": "When benchmarks go bad what we learned from measuring performance wrong by Francesco Nigro, Holly",
+      "duration_s": 3241,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "yhk1qvy6A_4": {
+      "video_id": "yhk1qvy6A_4",
+      "title": "Coder, Coach, Catalyst using questions to make people grow by Martin Mazur",
+      "duration_s": 3106,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "yitHp0k2CI0": {
       "video_id": "yitHp0k2CI0",
@@ -10099,6 +12107,19 @@
       "published_at": "2025-10-10T05:09:28Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "ymLlOAB8h_c": {
+      "video_id": "ymLlOAB8h_c",
+      "title": "Wrap, Reshape, or Redesign: Retrofitting Your APIs for a World of Agents by Horacio Gonzalez Zaal 1",
+      "duration_s": 2857,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-08T06:44:12Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "ymhqicq2nVc": {
       "video_id": "ymhqicq2nVc",
@@ -10203,6 +12224,50 @@
       "published_at": "2025-10-07T05:13:54Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "z8lal-Yt_04": {
+      "video_id": "z8lal-Yt_04",
+      "title": "From Developer to Builder: A Spec Driven Development Deep Dive by Simon Martinelli",
+      "duration_s": 9391,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "zC2tbq7S5UE": {
+      "video_id": "zC2tbq7S5UE",
+      "title": "Modern Java in Practice The Features That Matter by Nicolai Parlog, Falk Sippach",
+      "duration_s": 9654,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
+    },
+    "zDqS1U5Gnk8": {
+      "video_id": "zDqS1U5Gnk8",
+      "title": "Don’t burn your fingers in the heat of the AI revolution And get an OpenClaw by Maarten Vandeperr",
+      "duration_s": 7794,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-07T05:58:23Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "zEUSFvDOiCo": {
+      "video_id": "zEUSFvDOiCo",
+      "title": "From vibe coding to harness engineering: modernizing a regulated environment with AI by Anyul Rivas",
+      "duration_s": 2436,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos",
+      "description": "",
+      "published_at": "2026-10-09T08:57:59Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "zLAOqBiGKWQ": {
       "video_id": "zLAOqBiGKWQ",
@@ -10359,6 +12424,15 @@
       "published_at": "2025-02-19T16:01:09Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "zo6L7bxn4OY": {
+      "video_id": "zo6L7bxn4OY",
+      "title": "Faster Development with Java, Python, and Micronaut by Graeme Rocher, Thomas Wuerthinger",
+      "duration_s": 2863,
+      "channel": "Devoxx",
+      "label": "Devoxx",
+      "year": null,
+      "source_url": "https://www.youtube.com/@DevoxxForever/videos"
     },
     "zowTw-FufXg": {
       "video_id": "zowTw-FufXg",

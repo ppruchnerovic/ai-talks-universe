@@ -1,7 +1,7 @@
 {
   "slug": "ai-devcon-tessl",
   "name": "AI DevCon (Tessl)",
-  "enumerated_at": "2026-09-26T14:26:11+00:00",
+  "enumerated_at": "2026-10-19T19:53:14+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@tessl-ai/videos",
@@ -10,7 +10,7 @@
       "count": 300
     }
   ],
-  "count": 320,
+  "count": 337,
   "videos": {
     "-6SNbcE3C9o": {
       "video_id": "-6SNbcE3C9o",
@@ -209,6 +209,19 @@
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
     },
+    "1FDAowpMReo": {
+      "video_id": "1FDAowpMReo",
+      "title": "Introducing Tessl Verifiers: Enforce AI Coding Standards in Every Change",
+      "duration_s": 241,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Your coding agent knows the rules. But does every change actually follow them?\n\nIntroducing Tessl Verifiers, a way to write rules for your repo in plain language and automatically check them on every code change.\n\nVerifiers are designed for standards that traditional linters and tests can’t reliably enforce, such as:\n\n• Every user-facing error tells the user what to do next\n• Every API route uses your typed response helpers\n• No handler logs request headers, tokens, or passwords\n\nEach verifier returns a clear pass or fail, so you can use it like lint or tests: run it locally, in pre-commit, or make it a CI gate.\n\nIn this video, we cover how Verifiers work, when to use them, how to create your first verifier, and how to start enforcing your coding-agent standards in CI.\n\nVerifiers is generally available now.\n\nGet started:\nhttps://docs.tessl.io/codifying-and-enforcing-your-skill-standards/verifiers-overview",
+      "published_at": "2026-10-02T07:57:10Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:28+00:00"
+    },
     "1QaAPfsEqYQ": {
       "video_id": "1QaAPfsEqYQ",
       "title": "Introducing Tessl Agent",
@@ -295,6 +308,19 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "2NhZWzBMm2E": {
+      "video_id": "2NhZWzBMm2E",
+      "title": "Liz Fong-Jones: 2x the PRs, 1.5x the Incidents",
+      "duration_s": 2979,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Honeycomb went from 30 to 70 merged pull requests a day in three months. The catch: automated code review, not code generation, became the real bottleneck of software automation. Liz Fong-Jones, Technical Fellow at Honeycomb, explains why incidents still rose 1.5x, how their internal bot Autobot now reviews every PR, and why AI amplifies whatever org you already have.\n\nWhat we cover:\n– How automated code review lets humans focus on design, not trivial bugs\n– Using a decision model like Jev to decide which PRs are safe to auto-merge\n– What makes a codebase ready for AI coding agents\n– When to trust AI agents with production incidents, and when they're just throwing darts\n– Why \"Claude did it\" isn't an excuse, and what ownership means with AI\n– How open source maintainers can handle a flood of AI slop pull requests\n\nChapters:\n00:00:00 - Introduction\n00:06:41 - Why AI amplifies dysfunctional engineering orgs\n00:10:45 - What makes a codebase AI ready\n00:14:01 - Honeycomb's Autobot and automated code review\n00:19:06 - Using Jev to decide which PRs are safe to merge\n00:26:51 - Trusting AI agents during production incidents\n00:30:40 - Least privilege and guardrails for coding agents\n00:33:25 - If your name's on it, you own it\n00:38:55 - AI slop pull requests and open source\n00:45:56 - Will observability engineering survive as a role?\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/nlr\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nIs your team's review capacity keeping up with your AI coding agents? Tell us in the comments.",
+      "published_at": "2026-09-29T12:00:05Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:28+00:00"
     },
     "3-W0Et-X5Ew": {
       "video_id": "3-W0Et-X5Ew",
@@ -448,6 +474,19 @@
       "published_at": "2025-11-08T14:00:09Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "59TBijDBbQg": {
+      "video_id": "59TBijDBbQg",
+      "title": "The $600 PR: Where Software Factory ROI Really Comes From",
+      "duration_s": 2215,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Most of the ROI in an AI software factory doesn't come from the model or the coding agent — it comes from everything around it. Rob Willoughby, who leads research at Tessl, shows how Tessl's internal software factory now carries around 80% of its PRs using off-the-shelf agents, and why context, verification and feedback loops are where the real returns live.\n\nWhat we cover:\n– How a $600 PR came from two agents doing exactly what they were told, and why Tessl fixed the system rather than the agent\n– The five stages of a software factory, and why the feedback loop matters most\n– Keeping humans in the loop at the behavior level, not the code level\n– Using formal verification with Quint to knock out an entire class of bugs\n– Why CI pass rate alone hid the true cost of medium vs high effort\n– Measuring agentic coding ROI: the full cost of a PR, fast signals and shadow experiments\n\nChapters:\n00:00:00 - Introduction\n00:01:31 - The $600 PR: two agents doing exactly what they were told\n00:02:56 - The five stages of a software factory\n00:04:42 - Human in the loop at the behavior level, not the code\n00:06:02 - Measuring ROI when the input is token cost\n00:08:55 - Context and environment: verifying against the right target\n00:12:37 - Formal verification to knock out a class of bugs\n00:14:52 - Why CI pass rate alone is the wrong metric\n00:17:14 - Better questions beat smarter agents\n00:21:38 - Evidence, full cost and the feedback loop\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/mu6\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhere is your software factory getting its ROI — from the agent, or from everything around it? Tell us in the comments.",
+      "published_at": "2026-10-01T14:00:32Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:28+00:00"
     },
     "5OS3pZ3yXrg": {
       "video_id": "5OS3pZ3yXrg",
@@ -605,6 +644,15 @@
       "published_at": "2026-08-26T07:59:08Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "6xGR6-PVqXQ": {
+      "video_id": "6xGR6-PVqXQ",
+      "title": "Valerio Panzica: Booking.com’s Road to an Agentic SDLC",
+      "duration_s": 55,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
     },
     "72o72t4WPkQ": {
       "video_id": "72o72t4WPkQ",
@@ -1533,6 +1581,15 @@
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "Gl5ZJGTb72w": {
+      "video_id": "Gl5ZJGTb72w",
+      "title": "Dru Knox on the Loops Your Software Factory Needs",
+      "duration_s": 33,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "GqdDqR73jxs": {
       "video_id": "GqdDqR73jxs",
       "title": "Creating a spec with Tessl",
@@ -1934,6 +1991,28 @@
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "LBo4eMkQW8c": {
+      "video_id": "LBo4eMkQW8c",
+      "title": "Agents Aren't Stupid, They're Just Blind",
+      "duration_s": 2387,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "AI agents aren't stupid, they're just blind, and the fix is context engineering at the data layer, not a smarter model. Tom Scott, who runs Streambased, explains why wiring agents to every MCP server leads to data blind spots, runaway warehouse costs and confidently wrong answers.\n\nRecorded at the AI Native Dev September meetup, this talk makes the case for designing data around context rather than around one business question at a time.\n\nWhat we cover:\n– The four data blind spots that lead agents to confidently wrong answers\n– RAG vs MCP vs skills: how agents get data today, and where each one breaks\n– Why the medallion architecture was built for a different world\n– Why LLMs make poor data engineers, and what that does to your agent ROI\n– Context engineering at the data layer with federation and logical views\n– Temporal consistency: stitching Kafka and Iceberg into one view\n\nChapters:\n00:00:00 - Introduction\n00:03:49 - How agents started reaching for data\n00:06:00 - Four data blind spots in agentic AI\n00:10:02 - RAG vs MCP vs skills for agent data access\n00:12:48 - Why the medallion architecture falls short\n00:16:27 - Why LLMs make terrible data engineers\n00:20:15 - Context engineering: build for context, not one problem\n00:26:18 - Federation, logical views and temporal consistency\n00:29:41 - The ROI of a context layer\n00:32:55 - Q&A: governance, Streambased and measuring value\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/k3c\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow are you handling context engineering for your agents' data? Tell us in the comments.",
+      "published_at": "2026-10-02T14:15:00Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:28+00:00"
+    },
+    "LFAAHnAzBlk": {
+      "video_id": "LFAAHnAzBlk",
+      "title": "Your AI Isn't Stupid, It's Blind: Ran Aroussi on Memory",
+      "duration_s": 51,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "LNm5Wbsfp4c": {
       "video_id": "LNm5Wbsfp4c",
       "title": "The Background Check You Can't Run on an AI Agent",
@@ -2090,6 +2169,15 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
+    },
+    "MonPJAUreAA": {
+      "video_id": "MonPJAUreAA",
+      "title": "Baruch Sadogursky on Building an AI Software Factory",
+      "duration_s": 95,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
     },
     "NM0LCfjISfY": {
       "video_id": "NM0LCfjISfY",
@@ -2326,7 +2414,7 @@
     "PfDOFL_Fu_A": {
       "video_id": "PfDOFL_Fu_A",
       "title": "OFFICIAL TRAILER: Kikimora: Building The Dark Factory",
-      "duration_s": 60,
+      "duration_s": 61,
       "channel": "AI Native Dev",
       "label": "Tessl",
       "year": null,
@@ -2383,7 +2471,7 @@
     },
     "R1j6HtykHNE": {
       "video_id": "R1j6HtykHNE",
-      "title": "Guy Eisenkot (Baz): Why Coding Agents Ignore AGENTS.md",
+      "title": "The Hidden 50% Drop in AI Agents Following Your Rules",
       "duration_s": 1758,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -2769,7 +2857,7 @@
     },
     "UVOkQyeY16M": {
       "video_id": "UVOkQyeY16M",
-      "title": "Christopher Batey on the 3 Boxes You Don't Control",
+      "title": "Meta's VR Codebase Nobody Wanted to Touch — Until This",
       "duration_s": 574,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -2977,6 +3065,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "WJcVXgJboao": {
+      "video_id": "WJcVXgJboao",
+      "title": "Ido Safruti: Run Coding Agents in YOLO Mode, Safely",
+      "duration_s": 41,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "WjMy0JFTQZ0": {
       "video_id": "WjMy0JFTQZ0",
       "title": "Building an AI Agent in 100 Lines of Code | Yaniv Aknin",
@@ -3020,6 +3117,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "XH8jVolg7S0": {
+      "video_id": "XH8jVolg7S0",
+      "title": "Context Drift Is a Systems Problem, Not a Prompt Problem",
+      "duration_s": 48,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "XPgl3ZjCJbI": {
       "video_id": "XPgl3ZjCJbI",
       "title": "Lada Kesseler | Emerging Patterns for Coding with Generative AI",
@@ -3061,7 +3167,7 @@
     },
     "Xn7gXeNtoZI": {
       "video_id": "Xn7gXeNtoZI",
-      "title": "Why AGENTS.md Isn't Solving Your Memory Problem",
+      "title": "Your Coding Agent Deletes Its Memory After 30 Days",
       "duration_s": 565,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -3482,7 +3588,7 @@
     "bUtAGFXPc3A": {
       "video_id": "bUtAGFXPc3A",
       "title": "Why Your Coding Agents Need a Harness, Not a Prompt",
-      "duration_s": 3214,
+      "duration_s": 3215,
       "channel": "AI Native Dev",
       "label": "Tessl",
       "year": null,
@@ -3720,7 +3826,7 @@
     "eBt8aw5bNyU": {
       "video_id": "eBt8aw5bNyU",
       "title": "The Hallway Track: AI Adoption Is Accelerating",
-      "duration_s": 84,
+      "duration_s": 85,
       "channel": "AI Native Dev",
       "label": "Tessl",
       "year": null,
@@ -3845,6 +3951,24 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
+    },
+    "fVvKI_ouVp4": {
+      "video_id": "fVvKI_ouVp4",
+      "title": "Hamza Oza: Building Design Quality Into Software Factories",
+      "duration_s": 78,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
+    "f_bAEubfp_Y": {
+      "video_id": "f_bAEubfp_Y",
+      "title": "Keep the Lights On: Dark Factory Considered Harmful",
+      "duration_s": 44,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
     },
     "fjbeqFnB3LY": {
       "video_id": "fjbeqFnB3LY",
@@ -3998,6 +4122,15 @@
       "published_at": "2025-11-23T15:52:10Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "hgO_F90MFAc": {
+      "video_id": "hgO_F90MFAc",
+      "title": "Join us in NYC for AI DevCon Fall 2026",
+      "duration_s": 76,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
     },
     "hi8KRB0eI6M": {
       "video_id": "hi8KRB0eI6M",
@@ -4265,6 +4398,15 @@
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
     },
+    "l1WyQKUeRWI": {
+      "video_id": "l1WyQKUeRWI",
+      "title": "Steve Yegge, Geoffrey Huntley & More: AI DevCon NYC 2026",
+      "duration_s": 173,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "lEO_Yp4Ks2U": {
       "video_id": "lEO_Yp4Ks2U",
       "title": "Why Every Enterprise AI Team Needs Evals (And How to Build Them)",
@@ -4389,6 +4531,19 @@
       "published_at": "2025-11-07T10:54:22Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "mbdDv1qwLdk": {
+      "video_id": "mbdDv1qwLdk",
+      "title": "Jacob Lauritzen: Token Maxing Is the New Lines of Code",
+      "duration_s": 2663,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "AI coding agents now write almost all of Legora's code, with engineers running up to ten in parallel. Yet the CTO behind that shift thinks measuring adoption by tokens burned is a mistake. Jacob Lauritzen, CTO of Legora, joins Simon Maple to unpack what actually scales when agents do the typing, and where human judgment still has to stay in charge.\n\nWhat we cover:\n– How Legora's engineers orchestrate many AI coding agents at once, from shared local dev resources to cloud agent setups\n– An agentic loop that reproduces, fixes and tests bugs straight from Slack\n– Why token maxing is a bad way to drive AI adoption, and what to measure instead\n– Agent evaluation: regression testing the harness as models and prompts change every week\n– Decision models, the verifier's rule, and where autonomy ends and human judgment begins\n– Why AI agents need more than a chat interface\n\nChapters:\n00:00:00 - Introduction\n00:01:47 - Legora's growth from $100M to $200M ARR\n00:03:44 - Parallel coding agents and bug-fix loops\n00:07:15 - Senior engineers vs AI-first engineers\n00:10:10 - Why token maxing is the new lines of code\n00:14:13 - What AI can and can't verify in legal work\n00:17:30 - Decision models vs autoregressive LLMs\n00:24:22 - Weekly model benchmarks and harness evals\n00:26:58 - Why AI agents need more than a chat interface\n00:35:03 - The verifier's rule and litigation strategy\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/lpg\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nIs token count telling you anything real about how your team uses AI coding agents? Tell us in the comments.",
+      "published_at": "2026-10-06T12:00:33Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:28+00:00"
     },
     "mpLhEa1VBoI": {
       "video_id": "mpLhEa1VBoI",
@@ -4545,6 +4700,19 @@
         "what is stateless MCP"
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "nnja7kk4EPM": {
+      "video_id": "nnja7kk4EPM",
+      "title": "Uber Burned 6x Its AI Budget in Four Months",
+      "duration_s": 618,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\nhttps://tessl.co/huo\n\nAI DevCon London had a recurring theme this year: what agentic coding actually costs, and where that money goes once it leaves the budget. Amit Kushwaha (Nvidia), Tammuz Dubnov (Autonomy AI), Luke Marsden (Helix ML) and John Groetzinger (Cisco) walked through the caching tricks, the budget blowouts, and the eval gates that decide whether that spend is worth it.\n\nWhat we cover:\n– Why cache-aware routing is the difference between an agent workload that's affordable and one that isn't\n– Uber's AI budget, six times bigger and gone in four months\n– Why only $18 of every $100 spent on AI reaches code that actually ships\n– How Cisco lets evaluations decide when a knowledge-base change needs a human at all\n\nChapters:\n00:00:00 - Introduction\n00:00:23 - Amit Kushwaha, Nvidia: why caching is the make-or-break optimization\n00:02:06 - Getting cache-aware routing right across replicas\n00:03:12 - Tammuz Dubnov, Autonomy AI: Uber's 6x AI budget, gone in 4 months\n00:04:57 - Only $18 of every $100 spent on AI ships to users\n00:05:23 - Luke Marsden, Helix ML: open-weight models now handle 80% of the work\n00:07:54 - John Groetzinger, Cisco: letting evals decide when a human needs to look\n00:09:50 - Why reviewing text diffs on a skill wastes an engineer's time\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/1jp\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat's your actual dollar-to-shipped-code ratio right now?",
+      "published_at": "2026-09-28T13:30:32Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:28+00:00"
     },
     "ntkM-hRblfo": {
       "video_id": "ntkM-hRblfo",
@@ -4820,7 +4988,7 @@
     "ptwholFiAZg": {
       "video_id": "ptwholFiAZg",
       "title": "AI Code Review That Understands Your PR's Intent",
-      "duration_s": 330,
+      "duration_s": 331,
       "channel": "AI Native Dev",
       "label": "Tessl",
       "year": null,
@@ -5029,7 +5197,7 @@
     "ru5SX4eonzM": {
       "video_id": "ru5SX4eonzM",
       "title": "Datadog Deleted All Its AI Context. It Worked.",
-      "duration_s": 3683,
+      "duration_s": 3684,
       "channel": "AI Native Dev",
       "label": "Tessl",
       "year": null,
@@ -5504,6 +5672,19 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "wrRxw15s31k": {
+      "video_id": "wrRxw15s31k",
+      "title": "Your Software Factory Should Fix Itself",
+      "duration_s": 2278,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Agent feedback loops are how a software factory maintains itself: agents mining their own session logs, PR comments and production signals, then fixing what they find. Maria Gorinova, member of technical staff at Tessl, explains how to build them, and why vague intent turns a loop into a mess.\n\nWhat we cover:\n– What a software factory is: repeatable workflows, a shared execution environment and agent feedback loops\n– Why agent context alone isn't enough, and where harness engineering comes in\n– The three stages of a feedback loop: analyze a data stream, find the problem, request the fix\n– Inner, middle and outer loops, from verifiers on every PR to self-healing in production\n– How Tessl's \"comment diet\" loop catches drift that no single PR causes\n– Operators and stewards: the human roles in a software factory\n\nChapters:\n00:00:00 - Introduction\n00:02:36 - What is a software factory?\n00:05:38 - From agents to context to harness engineering\n00:09:15 - The three stages of an agent feedback loop\n00:13:16 - Inner, middle and outer feedback loops\n00:18:35 - Why vague intent breaks agent feedback loops\n00:21:50 - Comment bloat, drift and the rule of three\n00:25:48 - The software factory mindset\n00:27:45 - Loops, feedback loops and meta feedback loops\n00:32:45 - Operators, stewards and building your first loop\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/2uf\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nWhich agent feedback loop would you build first in your own software factory? Tell us in the comments.",
+      "published_at": "2026-10-13T12:00:31Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:28+00:00"
     },
     "wuGJNWhUOoE": {
       "video_id": "wuGJNWhUOoE",

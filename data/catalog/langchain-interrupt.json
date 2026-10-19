@@ -1,13 +1,13 @@
 {
   "slug": "langchain-interrupt",
   "name": "LangChain Interrupt",
-  "enumerated_at": "2026-09-26T14:26:14+00:00",
+  "enumerated_at": "2026-10-19T19:53:16+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae2uJrYpdMZz_HbFfCfYIlVR",
       "label": "Interrupt 2026",
       "year": 2026,
-      "count": 24
+      "count": 27
     },
     {
       "url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy",
@@ -16,7 +16,7 @@
       "count": 18
     }
   ],
-  "count": 42,
+  "count": 45,
   "videos": {
     "1PRcceHpJjM": {
       "video_id": "1PRcceHpJjM",
@@ -116,6 +116,50 @@
         "LangGraph"
       ],
       "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "950byF7njfw": {
+      "video_id": "950byF7njfw",
+      "title": "Interrupt NYC: Opening Keynote",
+      "duration_s": 1930,
+      "channel": "LangChain",
+      "label": "Interrupt 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae2uJrYpdMZz_HbFfCfYIlVR",
+      "description": "Harrison Chase, Co-Founder and CEO of LangChain, uses examples from Rogo, Harvey, and JPMorgan Chase to explain owning your intelligence, which means building domain-specific pieces in and around the model, and the three pillars it takes: an open, model-neutral harness such as LangGraph or Deep Agents, a loop that compounds what you learn from how people use your agents, and governance for internal agents. \n\nHe then walks through the LangSmith platform layer by layer: a new Managed Deep Agents release with auth primitives, user-level memory, and built-in web search via Parallel, decision models like Jev and SemIf through the LangSmith LLM Gateway, and three launches for observability and evals: LangSmith Trajectories, LangSmith Fine-Tuning with the smithtune CLI, and LangSmith Custom Apps. He closes with LangSmith Engine v2, which adds red teaming and tests its own fixes on LangSmith Deployment, and shares that Engine has scanned over 70 million traces and detected over 21,000 issues.\n\nThis session was captured at Interrupt New York City, the agent conference by LangChain.\n\nLangChain products in this talk: LangSmith, LangSmith Engine, Managed Deep Agents, Deep Agents, LangGraph, LangSmith Deployment, LangSmith Sandboxes, LangSmith LLM Gateway, LangSmith Trajectories, LangSmith Fine-Tuning, LangSmith Custom Apps, SmithDB\n\nSpeakers: Harrison Chase, Co-Founder and CEO, LangChain\n\nChapters:\n0:00 How agents went from prototypes to the application layer\n2:43 Why teams want to own their intelligence now\n4:25 What it takes to own your intelligence\n7:22 How to organize your people and process around agents\n9:20 What LangChain builds for runtime, evals, and intelligence\n12:42 How Managed Deep Agents handles auth, memory, and web search\n15:51 What a decision model like Jev is good for\n18:00 Routing every model call through the LangSmith LLM Gateway\n19:50 Why trajectories make agent debugging faster\n22:57 Turning trajectories into optimized models with smithtune\n24:44 Building custom UIs on your LangSmith data\n26:03 How LangSmith Engine clusters issues and proposes fixes\n28:04 How Engine v2 tests its fixes and red teams your agent\n30:45 What LangChain wants Engine to take on next\n\nResources:\n→ LangSmith Engine: https://www.langchain.com/langsmith/engine\n→ Managed Deep Agents: https://docs.langchain.com/langsmith/python/managed-deep-agents-overview\n→ LangSmith Fine-Tuning (smithtune): https://docs.langchain.com/langsmith/smithtune\n→ LangSmith: https://www.langchain.com/langsmith\n→ Interrupt, the agent conference by LangChain: https://interrupt.langchain.com",
+      "published_at": "2026-10-05T12:23:25Z",
+      "tags": [
+        "Interrupt NYC",
+        "LangChain",
+        "Harrison Chase",
+        "LangChain keynote",
+        "LangSmith",
+        "LangSmith Engine",
+        "Engine v2",
+        "Managed Deep Agents",
+        "Deep Agents",
+        "LangGraph",
+        "LangSmith Deployment",
+        "LangSmith Sandboxes",
+        "LangSmith LLM Gateway",
+        "LangSmith Trajectories",
+        "LangSmith Fine-Tuning",
+        "smithtune",
+        "LangSmith Custom Apps",
+        "SmithDB",
+        "own your intelligence",
+        "agent harness",
+        "decision models",
+        "Jev",
+        "SemIf",
+        "red teaming",
+        "fine-tuning",
+        "trajectories",
+        "AI agents",
+        "agent engineering",
+        "LLM evaluation",
+        "production AI"
+      ],
+      "details_at": "2026-10-19T19:58:29+00:00"
     },
     "AqU_WyOdEyo": {
       "video_id": "AqU_WyOdEyo",
@@ -575,6 +619,47 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:14+00:00"
     },
+    "S3l7U7gOsyY": {
+      "video_id": "S3l7U7gOsyY",
+      "title": "Building Engine v2: How LangChain approaches agent improvement",
+      "duration_s": 1219,
+      "channel": "LangChain",
+      "label": "Interrupt 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae2uJrYpdMZz_HbFfCfYIlVR",
+      "description": "Ben Tannyhill, Product Manager at LangChain, explains how his team builds and evaluates LangSmith Engine, the agent in LangSmith that finds issues in production traces, proposes fixes, and creates evals to catch regressions. He covers the per-task benchmarks behind Engine's 2x better error identification on IssueBench, how the team runs Engine on LangChain's own go-to-market and coding agents and on Engine itself, and why a smaller model is sometimes the better choice for a simple task. He then walks through what Engine v2 adds, from detecting cross-trace metric trends and inefficient agent paths to validated fixes and red teaming (both in private beta for LangSmith Deployment customers), and previews the team's plans for Engine v3.\n\nThis session was captured at Interrupt New York City, the agent conference by LangChain.\n\nLangChain products in this talk: LangSmith Engine, LangSmith, LangSmith Deployment\n\nSpeakers:\nBen Tannyhill, Product Manager, LangChain\n\nChapters:\n0:00 What does an agent for agent engineering do?\n2:11 Why an agent with many tasks needs a benchmark for each\n4:40 Keeping benchmarks honest by dogfooding internal agents\n5:57 Running Engine on its own traces with a meta Engine\n6:45 When is a smaller model better than a frontier model?\n8:06 How hill climbing doubled error identification on IssueBench\n9:09 What Engine v1 could never catch in the agent problem space\n10:59 Why can a model swap look fine trace by trace?\n12:25 Catching agents that go on inefficient side quests\n13:02 How validated fixes reproduce the bug and test the fix\n16:08 Red teaming your agent before it ever touches a user\n17:29 What comes after Engine v2?\n18:41 Could Engine propose a cheaper model backed by your evals?\n19:38 Bring your own key support coming to self-hosted Engine\n\nResources:\n→ LangSmith Engine: https://www.langchain.com/langsmith/engine\n→ LangSmith Engine docs: https://docs.langchain.com/langsmith/engine-overview\n→ LangSmith Deployment: https://www.langchain.com/langsmith/deployment\n→ LangSmith: https://www.langchain.com/langsmith\n→ Interrupt, the agent conference by LangChain: https://interrupt.langchain.com",
+      "published_at": "2026-10-07T12:54:08Z",
+      "tags": [
+        "Interrupt NYC",
+        "Interrupt",
+        "LangChain",
+        "LangSmith Engine",
+        "LangSmith Engine v2",
+        "LangSmith",
+        "LangSmith Deployment",
+        "Ben Tannyhill",
+        "agent improvement",
+        "agent engineering",
+        "AI agents",
+        "LLM evaluation",
+        "production AI",
+        "agent evals",
+        "IssueBench",
+        "agent benchmarks",
+        "red teaming",
+        "validated fixes",
+        "dogfooding",
+        "production traces",
+        "root cause analysis",
+        "regression testing",
+        "agent development lifecycle",
+        "model selection",
+        "self-hosted LangSmith",
+        "bring your own key",
+        "LLM observability"
+      ],
+      "details_at": "2026-10-19T19:58:29+00:00"
+    },
     "UVeeNW_z068": {
       "video_id": "UVeeNW_z068",
       "title": "How Lyft Builds Evals That Actually Matter in Production | Interrupt 26",
@@ -604,6 +689,47 @@
         "AI in production"
       ],
       "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "XcsspzECTKA": {
+      "video_id": "XcsspzECTKA",
+      "title": "Managed Deep Agents | Deploying mission critical agents to production",
+      "duration_s": 948,
+      "channel": "LangChain",
+      "label": "Interrupt 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae2uJrYpdMZz_HbFfCfYIlVR",
+      "description": "Victor Moreira, Product Manager at LangChain, introduces Managed Deep Agents, now in public beta, which bundles the Deep Agents harness with managed LangSmith infrastructure so you can define an agent as a folder of instructions, skills, and tools, test it locally, and deploy it with the mda CLI. Using LangChain's internal go-to-market agent as the example, he walks through the questions that come up in production and how Managed Deep Agents answers them: caller identity across Slack and web surfaces, user and agent-scoped credentials that can pause mid-task for a user to authenticate, memory with access control by channel, versioned context in Context Hub, and Harbor evals traced to LangSmith experiments. He also shares how Madrigal built a pharmaceutical research agent with Deep Agents on LangSmith and how the team at Consensus builds agents for different parts of its organization, and closes with what is new in the 0.8 release, including HTTP channels, user-scoped memory, Slack file transfers, and built-in search powered by Parallel.\n\nThis session was captured at Interrupt New York City, the agent conference by LangChain.\n\nLangChain products in this talk: Managed Deep Agents, Deep Agents, LangGraph, LangSmith, LangSmith Deployment, LangSmith Sandboxes, LangSmith Context Hub\n\nSpeakers:\nVictor Moreira, Product Manager, LangChain\n\nChapters:\n0:00 What is an agent harness, and why does context matter?\n1:26 The four core areas that make up a deep agent\n3:15 Madrigal spins up research agents in hours instead of weeks\n3:59 What changes when a local agent goes to production?\n5:32 How Managed Deep Agents bundles harness and infrastructure\n6:37 An agent as a folder, shipped with three mda commands\n7:43 How LangChain's GTM agent maps onto files\n8:34 Who is asking, and whose account should the agent use?\n10:42 Which memories can the agent use in a DM or shared channel?\n11:40 Versioned context in Context Hub and evals with Harbor\n13:15 How Consensus builds agents for different parts of its org\n14:18 What's new in the Managed Deep Agents 0.8 release\n\nResources:\n→ Managed Deep Agents docs: https://docs.langchain.com/langsmith/python/managed-deep-agents-overview\n→ Deep Agents: https://www.langchain.com/deep-agents\n→ LangSmith Deployment: https://www.langchain.com/langsmith/deployment\n→ LangSmith: https://www.langchain.com/langsmith\n→ Interrupt, the agent conference by LangChain: https://interrupt.langchain.com",
+      "published_at": "2026-10-09T14:41:48Z",
+      "tags": [
+        "Interrupt NYC",
+        "LangChain",
+        "Managed Deep Agents",
+        "Deep Agents",
+        "LangGraph",
+        "LangSmith",
+        "LangSmith Deployment",
+        "LangSmith Sandboxes",
+        "LangSmith Context Hub",
+        "Victor Moreira",
+        "mda CLI",
+        "agent harness",
+        "deploying agents to production",
+        "mission-critical agents",
+        "agent memory",
+        "agent authentication",
+        "OAuth for agents",
+        "human in the loop",
+        "Harbor evals",
+        "Parallel search",
+        "Slack agents",
+        "subagents",
+        "context engineering",
+        "AI agents",
+        "agent engineering",
+        "LLM evaluation",
+        "production AI"
+      ],
+      "details_at": "2026-10-19T19:58:29+00:00"
     },
     "_XWJdCZM8Ag": {
       "video_id": "_XWJdCZM8Ag",

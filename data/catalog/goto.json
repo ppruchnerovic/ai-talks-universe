@@ -1,7 +1,7 @@
 {
   "slug": "goto",
   "name": "GOTO Conferences",
-  "enumerated_at": "2026-09-26T14:27:43+00:00",
+  "enumerated_at": "2026-10-19T19:54:34+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@GOTO-/videos",
@@ -10,7 +10,7 @@
       "count": 800
     }
   ],
-  "count": 803,
+  "count": 805,
   "videos": {
     "-5kK50d-duc": {
       "video_id": "-5kK50d-duc",
@@ -2751,6 +2751,15 @@
         "Apache Kafka"
       ],
       "details_at": "2026-09-06T13:23:56+00:00"
+    },
+    "4kpk6c_5wG4": {
+      "video_id": "4kpk6c_5wG4",
+      "title": "Systems Programming with Zig • Garrison Hinson-Hasty & Trevor Berrange Sanchez • GOTO 2026",
+      "duration_s": 2288,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "4tfkwx4yKoo": {
       "video_id": "4tfkwx4yKoo",
@@ -24756,6 +24765,15 @@
         "Observability"
       ],
       "details_at": "2026-09-06T13:23:58+00:00"
+    },
+    "rjLEG38jM2g": {
+      "video_id": "rjLEG38jM2g",
+      "title": "Ash Framework: Declarative Elixir Web Apps • Rebecca Le, Zach Daniel & C. Alexander • GOTO 2026",
+      "duration_s": 1704,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "rjVHhMCvNJY": {
       "video_id": "rjVHhMCvNJY",

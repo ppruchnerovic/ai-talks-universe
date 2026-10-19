@@ -1,13 +1,13 @@
 {
   "slug": "nvidia-gtc",
   "name": "NVIDIA GTC",
-  "enumerated_at": "2026-09-26T14:29:40+00:00",
+  "enumerated_at": "2026-10-19T19:56:28+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
       "label": "GTC 2026",
       "year": 2026,
-      "count": 32
+      "count": 33
     },
     {
       "url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
@@ -16,7 +16,7 @@
       "count": 35
     }
   ],
-  "count": 67,
+  "count": 68,
   "videos": {
     "-2nCxItGNvE": {
       "video_id": "-2nCxItGNvE",
@@ -548,6 +548,15 @@
       "published_at": "2025-04-07T19:09:39Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:14+00:00"
+    },
+    "UPmU8AG_548": {
+      "video_id": "UPmU8AG_548",
+      "title": "Pause to pick your #NVIDIAGTC Berlin gear. 👀",
+      "duration_s": 9,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT"
     },
     "UaGFUtqravQ": {
       "video_id": "UaGFUtqravQ",

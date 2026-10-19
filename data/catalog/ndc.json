@@ -1,7 +1,7 @@
 {
   "slug": "ndc",
   "name": "NDC Conferences",
-  "enumerated_at": "2026-09-26T14:27:51+00:00",
+  "enumerated_at": "2026-10-19T19:54:44+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@NDC/videos",
@@ -10,7 +10,7 @@
       "count": 800
     }
   ],
-  "count": 800,
+  "count": 839,
   "videos": {
     "-9KiLFr8_hI": {
       "video_id": "-9KiLFr8_hI",
@@ -399,6 +399,15 @@
       ],
       "details_at": "2026-08-31T15:35:26+00:00"
     },
+    "0XzKLa7mhhI": {
+      "video_id": "0XzKLa7mhhI",
+      "title": "Code Once, Pin Everywhere: Multiplatform Widgets for Android & iOS - Andrea Della Porta",
+      "duration_s": 3032,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
     "0dr4JQgeLjs": {
       "video_id": "0dr4JQgeLjs",
       "title": "Bringing stories to life with AI, data streaming and generative agents - Olena Kutsenko",
@@ -639,6 +648,32 @@
         "Niek Palm"
       ],
       "details_at": "2026-08-31T15:35:26+00:00"
+    },
+    "1LQx_dWobDE": {
+      "video_id": "1LQx_dWobDE",
+      "title": "Cobots, Dark Modules and Architecting For AI -",
+      "duration_s": 2401,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos",
+      "description": "This talk was recorded at NDC Oslo in Oslo, Norway. #ndcoslo #ndcconferences #developer #softwaredeveloper    \n\nAttend the next NDC conference near you: \nhttps://ndcconferences.com\nhttps://ndcoslo.com/\n\nSubscribe to our YouTube channel and learn every day:   \n/     @NDC \n\nFollow our Social Media!\n\nhttps://www.facebook.com/ndcconferences\nhttps://twitter.com/NDC_Conferences\nhttps://www.instagram.com/ndc_conferences/\n\n#architecture #ai #devops #tools \n\nThe use of AI as part of software delivery has been transformative. Or, more to the point, we are in the middle of the transformation. It is throwing up a number of challenges to the way we work, but some aspects appear to have been overlooked - including architecture.\n\nIn this talk I will explore how concepts from robotics and industrial automation more generally can point towards architecting with AI-assisted software delivery in mind. Bringing in ideas from outside our industry, together with idea both old and new, I show how architecture can be key to navigating the uncertainty of AI, whilst also making sure you are well positioned to take advantage of it.",
+      "published_at": "2026-10-07T09:16:13Z",
+      "tags": [
+        "Architecture",
+        "AI",
+        "DevOps",
+        "Tools",
+        "NDC",
+        "Conferences",
+        "2026",
+        "Live",
+        "Fun",
+        "Oslo",
+        "Norway",
+        "Sam Newman"
+      ],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "1MAvdjpew1g": {
       "video_id": "1MAvdjpew1g",
@@ -1314,6 +1349,38 @@
       ],
       "details_at": "2026-09-06T13:23:59+00:00"
     },
+    "3AfLkVmgtLs": {
+      "video_id": "3AfLkVmgtLs",
+      "title": ".NET Testing Techniques You Didn’t Know You Needed - Dante De Ruwe - NDC Oslo 2026",
+      "duration_s": 3249,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
+    "3HcomNq-kgU": {
+      "video_id": "3HcomNq-kgU",
+      "title": "What You Need to Know (And Why You Should Care) About AI Governance - Michelle Frost - NDC Oslo 2026",
+      "duration_s": 3245,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos",
+      "description": "This talk was recorded at NDC Oslo in Oslo, Norway. #ndcoslo #ndcconferences #developer #softwaredeveloper    \n\nAttend the next NDC conference near you: \nhttps://ndcconferences.com\nhttps://ndcoslo.com/\n\nSubscribe to our YouTube channel and learn every day:   \n/      @NDC \n\nFollow our Social Media!\n\nhttps://www.facebook.com/ndcconferences\nhttps://twitter.com/NDC_Conferences\nhttps://www.instagram.com/ndc_conferences/\n\n#ai \n\nAI governance is no longer just for your legal team, but is becoming a daily reality for\ndevelopers, designers, and product managers. AI agents taking real-world actions introduces an\nentirely new risk profile for product teams as well.\n\nBut what does \"governance\" actually look like when you’re debugging an agent's reasoning loop\nor trying to hit a sprint deadline without getting blocked?\nThis session skips legal theory to focus on what product teams actually need to know. We’ll look\nat how to translate high-level guidelines like NIST’s AI Risk Management Framework and the\nEU AI Act into practical engineering decisions. We will use a beginner friendly governance\nframework as a lens on how to balance innovation with accountability, helping your team\nnavigate: what we need to do for the product, what we should do ethically, what we must do\nlegally, and what we can do technically.\nWhether you’re writing code or managing the roadmap, you’ll leave with practical strategies to\nbuild systems that are resilient, compliant, and ready for global deployment.",
+      "published_at": "2026-10-13T12:27:20Z",
+      "tags": [
+        "AI",
+        "NDC",
+        "Conferences",
+        "2026",
+        "Live",
+        "Fun",
+        "Oslo",
+        "Norway",
+        "Michelle Frost"
+      ],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "3PtMscz58eA": {
       "video_id": "3PtMscz58eA",
       "title": "Coder, Coach, Catalyst - using questions to make people grow - Martin Mazur - NDC Oslo 2025",
@@ -1580,6 +1647,15 @@
         "James Eastham"
       ],
       "details_at": "2026-09-06T13:23:59+00:00"
+    },
+    "4FlLqv21SxE": {
+      "video_id": "4FlLqv21SxE",
+      "title": "Copy & Paste the World with Gaussian Splatting - Scott Leaman - NDC Oslo 2026",
+      "duration_s": 2053,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
     },
     "4I9K-YHqcZ0": {
       "video_id": "4I9K-YHqcZ0",
@@ -2721,6 +2797,15 @@
       ],
       "details_at": "2026-09-06T13:23:59+00:00"
     },
+    "7f1pKXux1cU": {
+      "video_id": "7f1pKXux1cU",
+      "title": "Flying a drone with gestures, bananas & Web APIs - Lucky Nkosi - NDC Oslo 2026",
+      "duration_s": 3069,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
     "7oMQ1H9uPRI": {
       "video_id": "7oMQ1H9uPRI",
       "title": "Let's break some WCAG rules - Elise Kristiansen - NDC London 2026",
@@ -3753,6 +3838,15 @@
       ],
       "details_at": "2026-08-31T15:35:26+00:00"
     },
+    "BCY04UJ23yo": {
+      "video_id": "BCY04UJ23yo",
+      "title": "Turning microservice chaos into a beautiful concerto - Marc Duiker - NDC Oslo 2026",
+      "duration_s": 2970,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
     "BEOfgSYX3XA": {
       "video_id": "BEOfgSYX3XA",
       "title": "Passwordless BankID with Passkeys and WebAuthn - Tarald Riise - NDC Oslo 2025",
@@ -4183,6 +4277,31 @@
         "Ignat Korchagin"
       ],
       "details_at": "2026-08-31T15:35:26+00:00"
+    },
+    "CKqW8xdlLuE": {
+      "video_id": "CKqW8xdlLuE",
+      "title": "From MVP to GitHub.com: An AI Story of Engineering & Product Collaboration. - Anjuan Simmons",
+      "duration_s": 2558,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos",
+      "description": "This talk was recorded at NDC Oslo in Oslo, Norway. #ndcoslo #ndcconferences #developer #softwaredeveloper    \n\nAttend the next NDC conference near you: \nhttps://ndcconferences.com\nhttps://ndcoslo.com/\n\nSubscribe to our YouTube channel and learn every day:   \n/      @NDC \n\nFollow our Social Media!\n\nhttps://www.facebook.com/ndcconferences\nhttps://twitter.com/NDC_Conferences\nhttps://www.instagram.com/ndc_conferences/\n\n#ai #softskills #github \n\nJourney through the evolution of GitHub's AI-powered productivity dashboard module from proof-of-concept to a core feature of GitHub's homepage. This session reveals how cross-functional collaboration between engineering, product, and design teams shaped an MVP using Copilot-generated insights into a powerful productivity tool.\n\nLearn how the team tackled technical constraints, scaled the solution, and navigated the interplay of engineering and product management. Discover practical strategies for implementing AI features that enhance developer productivity while building trust with users.",
+      "published_at": "2026-10-09T13:07:31Z",
+      "tags": [
+        "AI",
+        "People",
+        "Soft Skills",
+        "NDC",
+        "Conferences",
+        "2026",
+        "Live",
+        "Fun",
+        "Oslo",
+        "Norway",
+        "Anjuan Simmons"
+      ],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "CRHQJfos3NI": {
       "video_id": "CRHQJfos3NI",
@@ -4692,6 +4811,15 @@
       ],
       "details_at": "2026-09-06T13:23:59+00:00"
     },
+    "E2w9qOGNJtA": {
+      "video_id": "E2w9qOGNJtA",
+      "title": "Does This PR Lower the Energy State? - Dag Brattli - NDC Oslo 2026",
+      "duration_s": 3326,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
     "E3GJP2ctjt4": {
       "video_id": "E3GJP2ctjt4",
       "title": "Ctrl+Alt+Deceit - The Game Jam Scam - Sean Sinclair - NDC Security 2026",
@@ -5007,6 +5135,57 @@
         "Tjalve Aarflot"
       ],
       "details_at": "2026-08-31T15:35:26+00:00"
+    },
+    "Epyiqh19rH4": {
+      "video_id": "Epyiqh19rH4",
+      "title": "From Copilot to the Garden of Eden - Adam Cogan - NDC Oslo 2026",
+      "duration_s": 3740,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos",
+      "description": "This talk was recorded at NDC Oslo in Oslo, Norway. #ndcoslo #ndcconferences #developer #softwaredeveloper    \n\nAttend the next NDC conference near you: \nhttps://ndcconferences.com\nhttps://ndcoslo.com/\n\nSubscribe to our YouTube channel and learn every day:   \n/      @NDC \n\nFollow our Social Media!\n\nhttps://www.facebook.com/ndcconferences\nhttps://twitter.com/NDC_Conferences\nhttps://www.instagram.com/ndc_conferences/\n\n#ai #dotnet \n\nMove beyond the underwhelming 2023 \"Copilot hype\" to the tools actually delivering value for developers. Adam Cogan cuts through the noise, exploring how AI is fundamentally reshaping the enterprise stack, from Copilot and Cowork to agentic workflows and CLI-based coding.\n\nAgents such as OpenClaw, and Hermes are changing the way developers automate their day-to-day work.\n\nLearn how roles are shifting, which AI assistants are winning, and what an AI-integrated \"Garden of Eden\" looks like. Leave with a practical roadmap to build, analyze, and automate with confidence.",
+      "published_at": "2026-10-07T13:51:24Z",
+      "tags": [
+        "AI",
+        ".NET",
+        "NDC",
+        "Conferences",
+        "2026",
+        "Live",
+        "Fun",
+        "Oslo",
+        "Norway",
+        "Adam Cogan"
+      ],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
+    "EtqGqx7nAU8": {
+      "video_id": "EtqGqx7nAU8",
+      "title": "WebNN, Built-in AI, WebMCP: What’s New in Web AI? - Christian Liebel - NDC Oslo 2026",
+      "duration_s": 3543,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos",
+      "description": "This talk was recorded at NDC Oslo in Oslo, Norway. #ndcoslo #ndcconferences #developer #softwaredeveloper    \n\nAttend the next NDC conference near you: \nhttps://ndcconferences.com\nhttps://ndcoslo.com/\n\nSubscribe to our YouTube channel and learn every day:   \n/      @NDC \n\nFollow our Social Media!\n\nhttps://www.facebook.com/ndcconferences\nhttps://twitter.com/NDC_Conferences\nhttps://www.instagram.com/ndc_conferences/\n\n#web #ai #javascript #ux #genai #api \n\nGenerative AI is becoming a key part of modern software architecture, and its presence in web apps is growing. As demand increases, vendors and specification authors are working to make AI capabilities more accessible and integrated into the web platform.\n\nIn this session, Christian Liebel—member of the W3C TAG and WebML Working Group—will share what's cooking behind the scenes in Web AI. You'll get an update on the latest advancements in the WebNN API, Chromium's Built-in AI APIs, WebMCP, emerging developer tools, usage statistics, and the real-world challenges that browser vendors and standards authors are navigating to bring AI to the web.",
+      "published_at": "2026-10-07T09:47:39Z",
+      "tags": [
+        "Web",
+        "AI",
+        "JavaScript",
+        "UX",
+        "GenAI",
+        "NDC",
+        "Conferences",
+        "2026",
+        "Live",
+        "Fun",
+        "Oslo",
+        "Norway",
+        "Christian Liebel"
+      ],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "EudNG_IjyQw": {
       "video_id": "EudNG_IjyQw",
@@ -6079,6 +6258,15 @@
       ],
       "details_at": "2026-08-31T15:35:26+00:00"
     },
+    "HVkH8xMibR0": {
+      "video_id": "HVkH8xMibR0",
+      "title": "Unf*ck your mind: How to finally build something great again - Marin Niehues - NDC Oslo 2026",
+      "duration_s": 3444,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
     "HZVLtpz63uM": {
       "video_id": "HZVLtpz63uM",
       "title": "Crafting Intelligent Agents with Context Engineering - Carly Richmond - NDC London 2026",
@@ -6393,6 +6581,15 @@
         "Chris Auld"
       ],
       "details_at": "2026-08-31T15:35:26+00:00"
+    },
+    "Ijd6Tr3EtXs": {
+      "video_id": "Ijd6Tr3EtXs",
+      "title": "Demystifying CSP for modern applications - Philippe De Ryck - NDC Oslo 2026",
+      "duration_s": 3672,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
     },
     "ImXMNTPXu8w": {
       "video_id": "ImXMNTPXu8w",
@@ -8168,6 +8365,15 @@
       "tags": [],
       "details_at": "2026-09-06T13:23:59+00:00"
     },
+    "OGO5hRw0ub8": {
+      "video_id": "OGO5hRw0ub8",
+      "title": "Socio-technical API patterns - Einar Høst - NDC Oslo 2026",
+      "duration_s": 3017,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
     "OJjO-xtX1JE": {
       "video_id": "OJjO-xtX1JE",
       "title": "From Code to Customer - Tobias Mende - NDC Porto 2024",
@@ -8294,6 +8500,15 @@
         "Oriana Sparks"
       ],
       "details_at": "2026-08-31T15:35:27+00:00"
+    },
+    "OkKmP9oATjk": {
+      "video_id": "OkKmP9oATjk",
+      "title": "The Patterns We Don't Name - Christian Johansen - NDC Oslo 2026",
+      "duration_s": 2772,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
     },
     "OtG6hBDSt24": {
       "video_id": "OtG6hBDSt24",
@@ -8952,6 +9167,31 @@
       ],
       "details_at": "2026-09-06T13:24:00+00:00"
     },
+    "QUwDYXNgx0E": {
+      "video_id": "QUwDYXNgx0E",
+      "title": "From Intent to Merge: A Hands-On Talk on SDLC in the Agent Era - Joseph Katsioloudes",
+      "duration_s": 2043,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos",
+      "description": "This talk was recorded at NDC Oslo in Oslo, Norway. #ndcoslo #ndcconferences #developer #softwaredeveloper    \n\nAttend the next NDC conference near you: \nhttps://ndcconferences.com\nhttps://ndcoslo.com/\n\nSubscribe to our YouTube channel and learn every day:   \n/      @NDC \n\nFollow our Social Media!\n\nhttps://www.facebook.com/ndcconferences\nhttps://twitter.com/NDC_Conferences\nhttps://www.instagram.com/ndc_conferences/\n\n#ai #tools \n\nThe agent touched 47 files, invented three abstractions, briefly considered rewriting everything in Rust, passed the tests and disappeared into the night.\n\nGit knows what changed. Your tracker knows what you asked for. Everyone else is doing prompt archaeology and hoping the answer is not “the vibes were immaculate.”\n\nThis session is about capturing that missing middle and the final review: the context, decisions, dead ends and evaluations behind agent-written code, connected all the way from intent to production. Because when the code ships, “LGTM” should not be the only surviving witness.",
+      "published_at": "2026-10-07T09:05:31Z",
+      "tags": [
+        "AI",
+        "Tools",
+        "NDC",
+        "Conferences",
+        "2026",
+        "Live",
+        "Fun",
+        "Oslo",
+        "Norway",
+        "SDLC",
+        "Joseph Katsioloudes"
+      ],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "QXGJCn-1VEo": {
       "video_id": "QXGJCn-1VEo",
       "title": "CQRS, DDD and GraphQL, a perfect fit? - Michael Staib - NDC Porto 2024",
@@ -9240,6 +9480,15 @@
       ],
       "details_at": "2026-08-31T15:35:27+00:00"
     },
+    "RKYWSMUz0iU": {
+      "video_id": "RKYWSMUz0iU",
+      "title": "Humans Are the Most Unreliable Node in Your System - Joanna Montgomery - NDC Oslo 2026",
+      "duration_s": 2858,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
     "RL2po1swXO4": {
       "video_id": "RL2po1swXO4",
       "title": "Chrome Browser Exploitation: from zero to heap sandbox escape - Matteo Malvica - NDC Security 2025",
@@ -9328,6 +9577,15 @@
         "Jodie Burchell"
       ],
       "details_at": "2026-09-06T13:24:00+00:00"
+    },
+    "RVivSLno1_8": {
+      "video_id": "RVivSLno1_8",
+      "title": "Demoscene Coding Kickstart - Espen Sande-Larsen - NDC Oslo 2026",
+      "duration_s": 2433,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
     },
     "RYAIEaPdu50": {
       "video_id": "RYAIEaPdu50",
@@ -9622,6 +9880,15 @@
       ],
       "details_at": "2026-08-31T15:35:27+00:00"
     },
+    "SI7MCebO2V0": {
+      "video_id": "SI7MCebO2V0",
+      "title": "Developers in the Dark Forest - Sergès Goma - NDC Oslo 2026",
+      "duration_s": 3507,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
     "SIthyiM1vcs": {
       "video_id": "SIthyiM1vcs",
       "title": "Demystifying the Enigma Machine - a Functional Journey - Isaac Abraham - NDC Copenhagen 2025",
@@ -9876,6 +10143,15 @@
         "Tomas Hensrud Gulla"
       ],
       "details_at": "2026-09-06T13:24:00+00:00"
+    },
+    "TJefrFDNXmI": {
+      "video_id": "TJefrFDNXmI",
+      "title": "The Algorithm That Nearly Killed Me: When Testing Isn't Enough - Andrew Paul - NDC Oslo 2026",
+      "duration_s": 3687,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
     },
     "TcRIRJGwWkY": {
       "video_id": "TcRIRJGwWkY",
@@ -10194,6 +10470,15 @@
       ],
       "details_at": "2026-09-06T13:24:00+00:00"
     },
+    "UeLdsKfgGaA": {
+      "video_id": "UeLdsKfgGaA",
+      "title": "Safe Systems in a Chaotic World - Bryan Hunter - NDC Oslo 2026",
+      "duration_s": 3710,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
     "UfoT88iE-TY": {
       "video_id": "UfoT88iE-TY",
       "title": "Linux user namespaces: a blessing and a curse - Ignat Korchagin - NDC TechTown 2024",
@@ -10277,6 +10562,31 @@
       ],
       "details_at": "2026-09-06T13:24:00+00:00"
     },
+    "UuhTm8Ie1RA": {
+      "video_id": "UuhTm8Ie1RA",
+      "title": "Functional Programming with the aid of AI - Venkat Subramaniam - NDC Oslo 2026",
+      "duration_s": 3638,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos",
+      "description": "This talk was recorded at NDC Oslo in Oslo, Norway. #ndcoslo #ndcconferences #developer #softwaredeveloper    \n\nAttend the next NDC conference near you: \nhttps://ndcconferences.com\nhttps://ndcoslo.com/\n\nSubscribe to our YouTube channel and learn every day:   \n/      @NDC \n\nFollow our Social Media!\n\nhttps://www.facebook.com/ndcconferences\nhttps://twitter.com/NDC_Conferences\nhttps://www.instagram.com/ndc_conferences/\n\n#functionalprogramming #ai #code \n\nFunctional programming is a great alternative to imperative style of programming due to reduced complexity and ease of maintenance. However, most programmers have spent more time learning and practicing imperative style and often find it hard to program in the functional style.\n\nHey, why not use AI to create functional style code? Great thought but we can't simply put AI on autopilot on this one. In this presentation, we will take an example driven approach to understand the power and perils of using AI to create functional style code.",
+      "published_at": "2026-10-12T09:32:21Z",
+      "tags": [
+        "Functional Programming",
+        "AI",
+        "Code",
+        "NDC",
+        "Conferences",
+        "2026",
+        "Live",
+        "Fun",
+        "Oslo",
+        "Norway",
+        "Venkat Subramaniam"
+      ],
+      "details_at": "2026-10-19T19:58:30+00:00"
+    },
     "Uwx1uCc5rxk": {
       "video_id": "Uwx1uCc5rxk",
       "title": "Building an Application with TDD, DDD and Hexagonal Architecture... - Mufrid Krilic - NDC Oslo 2025",
@@ -10300,6 +10610,15 @@
         "Norway"
       ],
       "details_at": "2026-09-06T13:24:00+00:00"
+    },
+    "V7Fd4-uwr9o": {
+      "video_id": "V7Fd4-uwr9o",
+      "title": "Stop scaling and start tuning - Matt Burke - NDC Oslo 2026",
+      "duration_s": 3304,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
     },
     "V9xlxn80ob0": {
       "video_id": "V9xlxn80ob0",
@@ -10534,6 +10853,15 @@
         "Kevlin Henney"
       ],
       "details_at": "2026-09-06T13:24:00+00:00"
+    },
+    "Vhjo1myKaCk": {
+      "video_id": "Vhjo1myKaCk",
+      "title": "Types Are Worth the Typing - Filip Sodic - NDC Oslo 2026",
+      "duration_s": 3608,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
     },
     "Vn-vcl4rQX0": {
       "video_id": "Vn-vcl4rQX0",
@@ -12022,6 +12350,24 @@
       ],
       "details_at": "2026-09-06T13:24:00+00:00"
     },
+    "a2QGmzYKo4Y": {
+      "video_id": "a2QGmzYKo4Y",
+      "title": "The Shopping Dead: A Zombie's Guide to Web Accessibility - Daniel Yuschick - NDC Oslo 2026",
+      "duration_s": 2632,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
+    "a3XZfXydGic": {
+      "video_id": "a3XZfXydGic",
+      "title": "ASP.NET Core meets OWASP Top 10 2025 - Anders Abel - NDC Oslo 2026",
+      "duration_s": 3315,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
     "aBPLHbwAEVg": {
       "video_id": "aBPLHbwAEVg",
       "title": "Has your flight been cancelled? You might be eligible for a cybersec session! - Konstantinos Fouzas",
@@ -13027,6 +13373,32 @@
         "London"
       ],
       "details_at": "2026-09-06T13:24:00+00:00"
+    },
+    "cxz9xw09oa0": {
+      "video_id": "cxz9xw09oa0",
+      "title": "From Code to Intelligence: The Rise of the Full-Stack AI Engineer - Adam Stephensen - NDC Oslo 2026",
+      "duration_s": 3623,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos",
+      "description": "This talk was recorded at NDC Oslo in Oslo, Norway. #ndcoslo #ndcconferences #developer #softwaredeveloper    \n\nAttend the next NDC conference near you: \nhttps://ndcconferences.com\nhttps://ndcoslo.com/\n\nSubscribe to our YouTube channel and learn every day:   \n/      @NDC \n\nFollow our Social Media!\n\nhttps://www.facebook.com/ndcconferences\nhttps://twitter.com/NDC_Conferences\nhttps://www.instagram.com/ndc_conferences/\n\n#ai #architecture #cloud #genai \n\nMost AI projects don’t fail because the model isn’t good enough—they fail because everything around the model isn’t built.\n\nIn this session, we’ll break down what it actually takes to deliver enterprise AI systems that make it to production and create real value. Drawing on real-world implementations across government, finance, and education, we’ll show why AI success is an ecosystem problem—not a model, prompt, or framework problem.\n\nYou’ll see how modern enterprise AI systems are built and explore how the Microsoft AI ecosystem (Foundry, Fabric, Copilot, and emerging “IQ” layers) is converging into a unified intelligence platform—and what that means for how developers design systems today.\n\nAlong the way, we’ll unpack the most common failure patterns and more importantly, we’ll show what actually works: - how to move from pilots to platforms\nhow to build an enterprise intelligence capability iteratively, and\nhow to deliver measurable value early while laying the foundations for agent-driven systems.\n\nFor developers, this talk introduces a fundamental shift in the role itself. You’re no longer just writing code - you’re orchestrating intelligence across low-code and pro-code agents, data platforms, copilots, and governed systems.\n\nThis is the rise of the Full-Stack AI Engineer.\n\nIf you want to move beyond demos and build AI systems that scale, ship, and survive real enterprise constraints—this session is for you.",
+      "published_at": "2026-10-12T08:33:14Z",
+      "tags": [
+        "AI",
+        "Architecture",
+        "Cloud",
+        "GenAI",
+        "NDC",
+        "Conferences",
+        "2026",
+        "Live",
+        "Fun",
+        "Oslo",
+        "Norway",
+        "Adam Stephensen"
+      ],
+      "details_at": "2026-10-19T19:58:30+00:00"
     },
     "d8NDgwOllaI": {
       "video_id": "d8NDgwOllaI",
@@ -14938,6 +15310,24 @@
       ],
       "details_at": "2026-08-31T15:35:27+00:00"
     },
+    "iCfiWKNYf5g": {
+      "video_id": "iCfiWKNYf5g",
+      "title": "UX audit in practice: from friction to fix - Kitty Toft - NDC Oslo 2026",
+      "duration_s": 3049,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
+    "iFqYI18Rpn8": {
+      "video_id": "iFqYI18Rpn8",
+      "title": "How I built my own intelligent Robot Arm from Scratch - Iulia Feroli - NDC Oslo 2026",
+      "duration_s": 2303,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
     "iPIm5tS0Pxk": {
       "video_id": "iPIm5tS0Pxk",
       "title": "Expression-based Programming for Better Code? - Jason Turner - NDC Toronto 2026",
@@ -14960,6 +15350,15 @@
         "Jason Turner"
       ],
       "details_at": "2026-08-31T15:35:27+00:00"
+    },
+    "iRJ3_YTFdEg": {
+      "video_id": "iRJ3_YTFdEg",
+      "title": "Meditations on Code As Art - David Whitney - NDC Oslo 2026",
+      "duration_s": 2888,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
     },
     "iSTAi_LoqmI": {
       "video_id": "iSTAi_LoqmI",
@@ -15054,6 +15453,15 @@
         "Bekah Rice"
       ],
       "details_at": "2026-09-06T13:24:00+00:00"
+    },
+    "ifBrLuraKeU": {
+      "video_id": "ifBrLuraKeU",
+      "title": "The .NET MAUI Community Toolkits: 3 Essential Libraries for Every .NET MAUI Dev - Brandon Minnick",
+      "duration_s": 2776,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
     },
     "imejbnfQFJA": {
       "video_id": "imejbnfQFJA",
@@ -15442,6 +15850,24 @@
         "Peter Gallagher"
       ],
       "details_at": "2026-09-06T13:24:00+00:00"
+    },
+    "kCtal3G1vkE": {
+      "video_id": "kCtal3G1vkE",
+      "title": "Change is inevitable: versioning event-driven systems - Laila Bougria - NDC Oslo 2026",
+      "duration_s": 3726,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
+    "kSzbuPFjdQo": {
+      "video_id": "kSzbuPFjdQo",
+      "title": "If you thought the speed of writing code was your problem, you have bigger problems - Andrew Murphy",
+      "duration_s": 2942,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
     },
     "kVPetdjHF_M": {
       "video_id": "kVPetdjHF_M",
@@ -16313,6 +16739,15 @@
       ],
       "details_at": "2026-09-06T13:24:00+00:00"
     },
+    "n2dQVqr-0FU": {
+      "video_id": "n2dQVqr-0FU",
+      "title": "Demand-Driven Context: What 300 Incidents Reveal About Tribal Knowledge - Raj Navakoti",
+      "duration_s": 2240,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
     "n4IBcydMNU0": {
       "video_id": "n4IBcydMNU0",
       "title": "Security Starts With Plain Language - Håvard Eide - NDC Security 2026",
@@ -16647,6 +17082,15 @@
         "Dylan Beattie"
       ],
       "details_at": "2026-08-31T15:35:27+00:00"
+    },
+    "nnOB71VnbSE": {
+      "video_id": "nnOB71VnbSE",
+      "title": "Lambda Calculus - Foundation of Functional Programming - Mark Volkmann - NDC Oslo 2026",
+      "duration_s": 2829,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
     },
     "np6R0wE68oI": {
       "video_id": "np6R0wE68oI",
@@ -17848,6 +18292,15 @@
       ],
       "details_at": "2026-09-06T13:24:00+00:00"
     },
+    "rWw3kShGriI": {
+      "video_id": "rWw3kShGriI",
+      "title": "How to Accidentally Destroy a Codebase (A Step-by-Step Guide) - Mariami Tsotsolashvili",
+      "duration_s": 2108,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
+    },
     "rY8GpdjVQL0": {
       "video_id": "rY8GpdjVQL0",
       "title": "Reliable Agentic Systems need Durable Execution 🤖 - Marc Duiker - NDC London 2026",
@@ -18558,6 +19011,15 @@
         "William Brander"
       ],
       "details_at": "2026-09-06T13:24:01+00:00"
+    },
+    "tYFljFUaAw0": {
+      "video_id": "tYFljFUaAw0",
+      "title": "Writing a compiler from scratch - Erik Schierboom - NDC Oslo 2026",
+      "duration_s": 3713,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
     },
     "twS0iC3_hGs": {
       "video_id": "twS0iC3_hGs",
@@ -19347,6 +19809,15 @@
         "Scott Hanselman"
       ],
       "details_at": "2026-09-06T13:24:01+00:00"
+    },
+    "wHr5qtdgHFA": {
+      "video_id": "wHr5qtdgHFA",
+      "title": "A practical introduction to Domain Storytelling - Haimanot Tekie - NDC Oslo 2026",
+      "duration_s": 2532,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
     },
     "wJIhPYNxOio": {
       "video_id": "wJIhPYNxOio",
@@ -20412,6 +20883,15 @@
         "Vittorio Romeo"
       ],
       "details_at": "2026-09-06T13:24:01+00:00"
+    },
+    "zLaN_7eyh38": {
+      "video_id": "zLaN_7eyh38",
+      "title": "Rethinking Tooltips with Interest Invokers and Popover API - Martine Dowden - NDC Oslo 2026",
+      "duration_s": 2691,
+      "channel": "NDC Conferences",
+      "label": "NDC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@NDC/videos"
     },
     "zN3rWz89yWA": {
       "video_id": "zN3rWz89yWA",
