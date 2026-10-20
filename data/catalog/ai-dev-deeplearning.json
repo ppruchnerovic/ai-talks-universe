@@ -1,7 +1,7 @@
 {
   "slug": "ai-dev-deeplearning",
   "name": "AI Dev (DeepLearning.AI)",
-  "enumerated_at": "2026-10-19T19:52:53+00:00",
+  "enumerated_at": "2026-10-20T11:46:06+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@Deeplearningai/videos",
@@ -209,7 +209,7 @@
     },
     "2IuO_80wB0s": {
       "video_id": "2IuO_80wB0s",
-      "title": "Give your team AI skills you can trust",
+      "title": "Help your teams gain the right AI engineering skills",
       "duration_s": 63,
       "channel": "DeepLearningAI",
       "label": "DeepLearning.AI",

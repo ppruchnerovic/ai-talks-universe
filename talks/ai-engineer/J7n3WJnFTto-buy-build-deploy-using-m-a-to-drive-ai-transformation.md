@@ -1,7 +1,7 @@
 ---
 id: J7n3WJnFTto
-title: "Why Buying Companies Beats Selling Them AI — Prathik Naidu, Long Lake"
-slug: why-buying-companies-beats-selling-them-ai-prathik-naidu
+title: "Buy, Build, Deploy: Using M&A to Drive AI Transformation — Prathik Naidu, Long Lake"
+slug: buy-build-deploy-using-m-a-to-drive-ai-transformation
 conference: ai-engineer
 conference_name: "AI Engineer"
 category: "Practitioner AI conferences"
@@ -19,7 +19,7 @@ topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 
-# Why Buying Companies Beats Selling Them AI — Prathik Naidu, Long Lake
+# Buy, Build, Deploy: Using M&A to Drive AI Transformation — Prathik Naidu, Long Lake
 
 **Prathik Naidu**
 

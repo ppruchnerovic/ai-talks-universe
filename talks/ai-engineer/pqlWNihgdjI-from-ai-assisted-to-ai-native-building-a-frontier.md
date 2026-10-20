@@ -1,7 +1,7 @@
 ---
 id: pqlWNihgdjI
-title: "\"Frontier developers write maybe 1-2% of code. The rest is agents.\" — Clare Liguori, AWS"
-slug: frontier-developers-write-maybe-1-2-of-code-the-rest-is
+title: "From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS"
+slug: from-ai-assisted-to-ai-native-building-a-frontier
 conference: ai-engineer
 conference_name: "AI Engineer"
 category: "Practitioner AI conferences"
@@ -15,11 +15,11 @@ video_id: pqlWNihgdjI
 url: https://www.youtube.com/watch?v=pqlWNihgdjI
 youtube_url: https://www.youtube.com/watch?v=pqlWNihgdjI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
-topics: ["Agents & orchestration"]
+topics: []
 transcript: true
 ---
 
-# "Frontier developers write maybe 1-2% of code. The rest is agents." — Clare Liguori, AWS
+# From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS
 
 **Clare Liguori**
 

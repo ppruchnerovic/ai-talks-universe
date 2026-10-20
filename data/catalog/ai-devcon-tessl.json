@@ -1,7 +1,7 @@
 {
   "slug": "ai-devcon-tessl",
   "name": "AI DevCon (Tessl)",
-  "enumerated_at": "2026-10-19T19:53:14+00:00",
+  "enumerated_at": "2026-10-20T11:46:27+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@tessl-ai/videos",
@@ -647,7 +647,7 @@
     },
     "6xGR6-PVqXQ": {
       "video_id": "6xGR6-PVqXQ",
-      "title": "Valerio Panzica: Booking.com’s Road to an Agentic SDLC",
+      "title": "Scaling AI Isn’t About Better Models | AI DevCon NYC",
       "duration_s": 55,
       "channel": "AI Native Dev",
       "label": "Tessl",
