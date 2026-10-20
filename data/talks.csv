@@ -1,30 +1,4 @@
 id,title,conference,conference_name,category,topics,edition,year,speakers,channel,duration_min,published_at,url,description
-pqlWNihgdjI,"""Frontier developers write maybe 1-2% of code. The rest is agents."" — Clare Liguori, AWS",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration,AI Engineer,2026,Clare Liguori,AI Engineer,21,2026-08-28T00:00:00Z,https://www.youtube.com/watch?v=pqlWNihgdjI,"Amazon watched 50 ordinary teams for the better part of a year, teams with normal seniority mixes working in existing codebases. Ninety percent of them used the same coding assistant. Half saw under 3x improvement in deployment velocity to production. The other half saw a median of 4.5x and sometimes past 10x. The tool was not the variable. The teams that pulled ahead had deliberately changed how they worked, and the rest had sprinkled agents on top of the way they already worked. Clare Liguori calls the result frontier development, and defines it by behavior: engineers writing one to two percent of their own code, agents running for hours without interruption, several running at once.
-
-Her five habits are mostly unglamorous. Write down what lives in your head, then keep pruning it as models improve so old workarounds stop bloating context. Expect to get slower first, because brownfield codebases need real work before agents succeed in them, which for some teams meant better error messages, new tools, or restructuring outright. Feed agents rather than babysitting them, since a running conversation keeps you in the loop and makes parallelism impossible. Fix the intent in a document before arguing with generated code. Shift testing left, with local deterministic mocks, so the feedback loop is fast enough for an agent to self correct. The new bottleneck is decision speed.
-
-Speaker info:
-- https://x.com/clare_liguori
-- https://www.linkedin.com/in/clareliguori/
-- https://clare.dev/
-
-Timestamps:
-0:00 - Four phases, and only 10% to 20% felt
-1:22 - What the pilots actually measured
-2:34 - Thirty people for 18 months, or six people for 76 days
-3:43 - Why that team was not reproducible
-4:51 - A ten day sprint, and its asterisks
-5:57 - Fifty ordinary teams, and the real split
-7:04 - Same tools, different ways of working
-8:14 - Habit one: invest in agent context
-9:21 - Pruning context as models improve
-10:31 - Habit two: slow down to speed up
-12:50 - Feeding agents instead of babysitting them
-13:58 - Making intent explicit before writing code
-15:09 - Shifting testing left with local mocks
-16:15 - Burnout, FOMO and cognitive load
-17:23 - What organizations have to change
-19:41 - When decision speed becomes the bottleneck"
 -CnA2lGfymY,"""I've never seen anything scarier than an LLM with tool calls."" — Erik Meijer aka @HeadinTheBox",ai-engineer,AI Engineer,Practitioner AI conferences,"Agents & orchestration; Governance, ethics & regulation; Security, safety & red teaming",AI Engineer,2026,,AI Engineer,21,2026-07-13T00:00:00Z,https://www.youtube.com/watch?v=-CnA2lGfymY,"AI agents today execute on blind trust, and the failure modes are already in the headlines: a dealership chatbot agreeing to sell a $76,000 Chevy Tahoe for $1, a coding agent wiping a production database during a code freeze, an ""agent skill"" quietly installing a keylogger on a developer's machine.
 
 These are not edge cases. They are the predictable consequence of allowing agents to act without any mechanical guarantee of correctness or safety. Execution is irreversible. You cannot unsend a message, unwire a payment, or un-delete a database. In that regime, permitting an unsafe action costs far more than withholding a safe one, and thus the economically rational choice is to refuse to let agents act on unchecked intent alone.
@@ -3523,6 +3497,20 @@ Join our upcoming AI Engineer conferences (see https://ai.engineer landing page)
 - AIEi Sydney, December 7–8 — the first AIEi run alongside NeurIPS 2026 in Sydney
 
 ---"
+J7n3WJnFTto,"Buy, Build, Deploy: Using M&A to Drive AI Transformation — Prathik Naidu, Long Lake",ai-engineer,AI Engineer,Practitioner AI conferences,Enterprise adoption & strategy,AI Engineer,2026,Prathik Naidu,AI Engineer,19,2026-10-19T09:00:32Z,https://www.youtube.com/watch?v=J7n3WJnFTto,"Deploying AI into real businesses is hard: org charts are messy, trust takes decades, and service firms don't scale like software. Prathik Naidu, founding partner at Long Lake, explains their strategy: acquire established service businesses, then transform them with AI from the inside. He covers how they choose companies and what changes once they own them, drawing on 40 businesses across residential services, architecture, HR and more.
+
+Chapters:
+- 00:00 Intro
+- 02:15 Why deploying AI into businesses is hard
+- 06:27 Why trust and brand win
+- 10:41 Software vs service economics
+- 12:42 The Long Lake model
+- 14:50 Choosing what to buy
+- 16:53 Results
+
+Prathik Naidu — Long Lake
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 Akm1sqvWG4A,"Bypassing the Multimodal Tax: Hybrid RAG, SQL RRF & UI Telemetry - Abed Matini, Ogilvy",ai-engineer,AI Engineer,Practitioner AI conferences,"Data engineering & MLOps; Enterprise adoption & strategy; Multimodal, vision, speech & robotics; RAG, retrieval & knowledge; Security, safety & red teaming",AI Engineer,2026,Abed Matini,AI Engineer,46,2026-06-28T00:00:00Z,https://www.youtube.com/watch?v=Akm1sqvWG4A,"Building a prototype chatbot interface takes an afternoon, but scaling it into a secure, predictable enterprise app requires solving production infrastructure challenges: minimizing unpredictable cloud API token bills, handling broken layout extractions, mapping session telemetry, and executing deterministic search.
 
 In this practical, demo-driven session, we will bypass high-level wrapper libraries to dissect the complete technical implementation of a local-first document ingestion application. While our demo runs on local developer environments, the underlying design patterns mirror exactly how you build high-performance, cost-effective architectures using enterprise infrastructure like Azure Database for PostgreSQL with pgvector.
@@ -5669,6 +5657,32 @@ Timestamps:
 13:02 - A CI pipeline for agents
 15:19 - Connecting traces, experiments, and benchmarks
 16:51 - Q&A"
+pqlWNihgdjI,"From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS",ai-engineer,AI Engineer,Practitioner AI conferences,,AI Engineer,2026,Clare Liguori,AI Engineer,21,2026-08-28T00:00:00Z,https://www.youtube.com/watch?v=pqlWNihgdjI,"Amazon watched 50 ordinary teams for the better part of a year, teams with normal seniority mixes working in existing codebases. Ninety percent of them used the same coding assistant. Half saw under 3x improvement in deployment velocity to production. The other half saw a median of 4.5x and sometimes past 10x. The tool was not the variable. The teams that pulled ahead had deliberately changed how they worked, and the rest had sprinkled agents on top of the way they already worked. Clare Liguori calls the result frontier development, and defines it by behavior: engineers writing one to two percent of their own code, agents running for hours without interruption, several running at once.
+
+Her five habits are mostly unglamorous. Write down what lives in your head, then keep pruning it as models improve so old workarounds stop bloating context. Expect to get slower first, because brownfield codebases need real work before agents succeed in them, which for some teams meant better error messages, new tools, or restructuring outright. Feed agents rather than babysitting them, since a running conversation keeps you in the loop and makes parallelism impossible. Fix the intent in a document before arguing with generated code. Shift testing left, with local deterministic mocks, so the feedback loop is fast enough for an agent to self correct. The new bottleneck is decision speed.
+
+Speaker info:
+- https://x.com/clare_liguori
+- https://www.linkedin.com/in/clareliguori/
+- https://clare.dev/
+
+Timestamps:
+0:00 - Four phases, and only 10% to 20% felt
+1:22 - What the pilots actually measured
+2:34 - Thirty people for 18 months, or six people for 76 days
+3:43 - Why that team was not reproducible
+4:51 - A ten day sprint, and its asterisks
+5:57 - Fifty ordinary teams, and the real split
+7:04 - Same tools, different ways of working
+8:14 - Habit one: invest in agent context
+9:21 - Pruning context as models improve
+10:31 - Habit two: slow down to speed up
+12:50 - Feeding agents instead of babysitting them
+13:58 - Making intent explicit before writing code
+15:09 - Shifting testing left with local mocks
+16:15 - Burnout, FOMO and cognitive load
+17:23 - What organizations have to change
+19:41 - When decision speed becomes the bottleneck"
 u6q-byPWUuo,"From Ambient Documentation to Clinical Intelligence — Chaitanya Asawa, Abridge",ai-engineer,AI Engineer,Practitioner AI conferences,"Evals, observability & reliability; Science, healthcare & applied ML; Security, safety & red teaming",AI Engineer,2026,Chaitanya Asawa,AI Engineer,22,2026-08-19T00:00:00Z,https://www.youtube.com/watch?v=u6q-byPWUuo,"Clinicians call it pajama time: the roughly two hours a day spent writing visit notes after work has finished. Abridge started there, and within two to three years the documentation product alone reached 300 of the largest health systems in the United States. Chaitanya Asawa's framing is that everything in healthcare sits downstream of a single conversation between a doctor and a patient, and that the administrative machinery got built around that conversation rather than out of it. The notes are high stakes in both directions. They are the basis of billing, and they are the context the next clinician inherits.
 
 The engineering problem he stays with longest is evaluation, because clinical decision support leaves almost no gap between generating an answer and checking one. Sudoku is hard to solve and trivial to verify. Here, a verifier good enough to trust would already be your generator. Their approach abandons the idea of a single correct answer, since many different responses can be right. Two physicians independently write rubrics describing the elements a good response should contain, a third adjudicates those into one rubric, a fourth runs quality assurance, and only then does a judge score responses against those elements. Separate judges cover safety, adversarial boundaries and tone. On cost, at a run rate near 100 million medical conversations a year, they decompose the note into its sections and post train smaller models per section rather than running frontier intelligence over everything, betting that a dataset nobody else holds plus a narrow enough problem can outrun the frontier's rate of change.
@@ -8060,6 +8074,24 @@ Live from the Sheraton New York Times Square Hotel in New York City, AI Engineer
 Event: AI Engineer NYC
 Dates: October 12–14, 2026
 Venue: Sheraton New York Times Square Hotel"
+_4Ph2dhmUFI,"How to Know When an AI Agent Can Work Unsupervised — Evan Kormos, Coinbase",ai-engineer,AI Engineer,Practitioner AI conferences,"Agents & orchestration; Evals, observability & reliability; Governance, ethics & regulation",AI Engineer,2026,Evan Kormos,AI Engineer,18,2026-10-19T23:00:08Z,https://www.youtube.com/watch?v=_4Ph2dhmUFI,"Evan Kormos, a player-coach at Coinbase with 15 years in enterprise financial services, lays out a practical way to bring agents into policy-driven, regulated workflows. He models processes as DAGs and loops, explains why a loop is only as trustworthy as its check, and shows how evals and traces become a new confidence mechanism. Agents then move through three stages: fully supervised, then sampled, then humans handling only exceptions.
+
+Chapters:
+- 00:00 Policy is the original system prompt
+- 02:53 Where agents fit: people, process, technology
+- 03:49 Workflows as DAGs
+- 05:31 Inside a node: the loop
+- 07:16 Exception flows and bottlenecks
+- 08:59 Quality inputs, quality outputs
+- 10:43 The loop is only as good as the check
+- 11:47 Evals as a confidence mechanism
+- 12:39 Which steps should an agent own?
+- 14:29 Supervised, then sampled, then exceptions only
+- 15:31 Takeaways
+
+Evan Kormos — https://www.coinbase.com
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 kfSDc2eVLo4,"How to Leverage Domain Expertise — Chris Lovejoy, Notius Labs",ai-engineer,AI Engineer,Practitioner AI conferences,,AI Engineer,2026,Chris Lovejoy,AI Engineer,25,2026-05-16T16:00:06Z,https://www.youtube.com/watch?v=kfSDc2eVLo4,"Granola's first employee was a writer who still reviews meeting note outputs and tweaks prompts directly. Chris Lovejoy says that is not a gap in the org chart. There is no objectively perfect meeting note, so you need someone with taste doing both the assessment and the improvement.
 
 He frames this as one of three patterns: the Oracle owns the full loop, the Evaluator defines quality and measures it while engineers improve, the Architect builds systems that improve from usage automatically. Three case studies cover when each is appropriate, what skills to hire for, and what happens when you bring in a domain expert but give them no ownership.
@@ -11782,6 +11814,20 @@ Timestamps:
 1:19:14 Using Data Sets and Experiments
 1:50:19 Final Tips and Best Practices
 1:51:48 Differences Between Phoenix and Arize AX"
+Bz1HFxQA1o8,"Shipping AI Into 5 Major Banks Without a 12-Month Compliance Wait — Al Chen, Cisco",ai-engineer,AI Engineer,Practitioner AI conferences,"Governance, ethics & regulation; Security, safety & red teaming",AI Engineer,2026,Al Chen,AI Engineer,18,2026-10-20T09:00:06Z,https://www.youtube.com/watch?v=Bz1HFxQA1o8,"Banks don't buy AI software until it survives their security and compliance review. Al Chen shares what it took to deploy inside five major banks without a year-long bottleneck. He covers the build pipeline, CVE remediation with agents writing and testing exploits, backup and restore verification, PII leaking through LLM judges, and why zero leakage and data sovereignty are never free.
+
+Chapters:
+- 00:00 Intro
+- 02:15 What banks check
+- 04:17 Fixing CVEs with agents
+- 08:30 Proving backup and restore
+- 10:33 PII leaking through LLM judges
+- 14:48 Making customer problems engineering problems
+- 16:56 Takeaways
+
+Al Chen — X: https://x.com/bigal123 | https://www.cisco.com
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 McknwOzbmyg,"Shipping AI to a Million Patients Without an A/B Test — Jared Joselowitz, Ufonia",ai-engineer,AI Engineer,Practitioner AI conferences,"Classic ML & data science; Evals, observability & reliability; Multimodal, vision, speech & robotics; Science, healthcare & applied ML",AI Engineer,2026,Jared Joselowitz,AI Engineer,19,2026-08-19T15:00:31Z,https://www.youtube.com/watch?v=McknwOzbmyg,"You cannot A/B test on patients, because randomizing someone into the worse variant is unethical and often illegal. You cannot undo a call once spoken. And a vendor's benchmark number is not a defense at a post incident review. Jared Joselowitz builds the safety and evaluation stack behind Dora, a Ufonia voice agent that phones patients for post op follow ups and pre op checks. It has made roughly 200,000 real clinical calls across 20 UK hospitals and is contracted to reach a million patients within two years. Because it asks about symptoms and gives advice, it is a regulated medical device.
 
 Ship to 5% and watch the dashboard does not survive that. 5% is thousands of patients, and a dashboard turning red means someone was already harmed. So the reactive loop moves into simulation, as self driving did with millions of simulated miles. Their framework has one model play the patient against hazards written with clinicians, and a second model judge every dialogue. Both were validated rather than assumed. In a patient and public involvement study, real patients shown a genuine consultation beside a simulated one picked the simulated patient as more realistic in three of four sets. The judge, checked against 10 clinicians from 10 specialties on 240 cases, matched or beat them at near perfect sensitivity, the metric that counts when a missed red flag is catastrophic and a false alarm is merely annoying. Prompts are then optimized against a cost matrix instead of hand tuned. You do not ship the model, you ship the evidence.
@@ -13950,6 +13996,19 @@ Recorded at the AI Engineer World's Fair 2026 in San Francisco.
 AI Engineer: https://ai.engineer
 YouTube: https://www.youtube.com/@aiDotEngineer
 X: https://x.com/aiDotEngineer"
+UHbODjuviAU,"The Investor's Edge Lives in Their Head — Anekha Sokhal, Moshi",ai-engineer,AI Engineer,Practitioner AI conferences,"Enterprise adoption & strategy; Science, healthcare & applied ML",AI Engineer,2026,Anekha Sokhal,AI Engineer,16,2026-10-20T08:00:19Z,https://www.youtube.com/watch?v=UHbODjuviAU,"Every investor wants an edge: knowing first, seeing their blind spots, and acting with conviction. Anekha Sokhal, founder and CEO of Moshi, argues the most valuable context isn't in a database but in the investor's head. She explains how to build AI that does the data grind of a quant team while leaving the decision to the human.
+
+Chapters:
+- 00:00 Intro
+- 04:03 What edge really means
+- 06:06 What AI changed in finance
+- 08:26 One-person pods and the next generation
+- 10:28 Split the grind from the decision
+- 12:31 A quant team for every investor
+
+Anekha Sokhal — https://hellomoshi.ai
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 s-aixZYJG4c,"The Last Human Code Review: Building Trust in AI-Generated Code — Itamar Friedman, Qodo",ai-engineer,AI Engineer,Practitioner AI conferences,AI in the SDLC & engineering orgs,AI Engineer,2026,Itamar Friedman,AI Engineer,19,2026-08-20T13:30:38Z,https://www.youtube.com/watch?v=s-aixZYJG4c,"If you are shipping AI generated code faster than your humans can review it, Itamar Friedman's position is that you are inside the problem rather than ahead of it. He asks the room whether developers will still be reading diffs line by line by the end of the year, then reports finding two incompatible camps among engineering leaders the night before: one holding that every line must be human trusted, the other content to ship bugs and fix them quickly because velocity wins. Which camp you sit in decides what you have to build.
 
 His claim is that models stopped being the constraint. Code review benchmarks have barely moved across recent model releases, and the difference between a review that catches a real contract break and one that asks whether you considered error handling is context, not reasoning. That context is scattered across competing instruction files, differs between teams inside the same company, and largely is not written down at all, living instead in senior developers' heads and in Slack threads. Codifying it means building for two audiences at once, because the format an agent parses cleanly is not the format developers will actually maintain. The deeper version encodes the architecture itself, including which service contract broke production three months ago, so that review shifts from reading one pull request to reading a graph and noticing that three changes in flight are about to collide.
@@ -16607,6 +16666,23 @@ Chapters:
 Jan Curn — X: https://x.com/jancurn | https://apify.com
 
 Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
+f_HwzoYrZ7s,"Why AI Agents Will Need Their Own Bank Accounts — Lincoln Murr, Coinbase",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration,AI Engineer,2026,Lincoln Murr,AI Engineer,17,2026-10-20T07:00:35Z,https://www.youtube.com/watch?v=f_HwzoYrZ7s,"Lincoln Murr, head of AI product at Coinbase, explains agentic finance: agents that pay with money and agents that grow it. He covers the path from AgentKit, an early experiment giving an AI a wallet, to x402, an open standard built on the long-unused HTTP 402 ""payment required"" code. x402 now handles hundreds of millions of agent transactions a month. Other topics are microtransactions as a replacement for the ad economy, agents running trades on simple instructions, and what two years of building taught Coinbase. Trust is earned step by step, and the AI is the enabler, not the product. He ends with a look at agents that can pay for their own upkeep.
+
+Chapters:
+- 00:00 What is agentic finance?
+- 01:20 AgentKit: giving an AI a wallet
+- 02:09 HTTP 402 and x402
+- 03:13 How fast x402 took off
+- 04:24 Microtransactions vs. the ad economy
+- 06:23 Agents that grow money
+- 08:14 A weekend trade, by voice
+- 09:48 Lesson: trust is earned one step at a time
+- 11:35 AI is the enabler, not the product
+- 14:21 Where agentic finance is heading
+
+Lincoln Murr, Coinbase: https://www.coinbase.com
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 HLTa7Vcs4X0,"Why AI Didn't Actually Make You Ship Faster — Gabriel Spencer-Harper, Meticulous",ai-engineer,AI Engineer,Practitioner AI conferences,AI in the SDLC & engineering orgs,AI Engineer,2026,,AI Engineer,11,2026-10-02T21:30:22Z,https://www.youtube.com/watch?v=HLTa7Vcs4X0,"AI writes code faster than humans can review it. Verification is now your bottleneck.
 
 Gabriel Spencer-Harper, co-founder and CEO of Meticulous, explains why assertion-based tests can't keep up with AI-generated code, and what near-exhaustive frontend verification with zero developer effort looks like. He demos how Meticulous records real user flows, replays them on every pull request and shows visual before/after diffs. He also explains the three technologies that make it work: fully mocked network traffic, a deterministic browser and coverage-guided flow selection.
@@ -16734,20 +16810,6 @@ _fQ7Z_Wfouk,"Why building eval platforms is hard — Phil Hetzel, Braintrust",ai
 
 Speaker info:
 - https://www.linkedin.com/in/philliphetzel/"
-J7n3WJnFTto,"Why Buying Companies Beats Selling Them AI — Prathik Naidu, Long Lake",ai-engineer,AI Engineer,Practitioner AI conferences,Enterprise adoption & strategy,AI Engineer,2026,Prathik Naidu,AI Engineer,19,2026-10-19T09:00:32Z,https://www.youtube.com/watch?v=J7n3WJnFTto,"Deploying AI into real businesses is hard: org charts are messy, trust takes decades, and service firms don't scale like software. Prathik Naidu, founding partner at Long Lake, explains their strategy: acquire established service businesses, then transform them with AI from the inside. He covers how they choose companies and what changes once they own them, drawing on 40 businesses across residential services, architecture, HR and more.
-
-Chapters:
-- 00:00 Intro
-- 02:15 Why deploying AI into businesses is hard
-- 06:27 Why trust and brand win
-- 10:41 Software vs service economics
-- 12:42 The Long Lake model
-- 14:50 Choosing what to buy
-- 16:53 Results
-
-Prathik Naidu — Long Lake
-
-Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 iUWwcG-C8OU,"Why Can't Anyone Answer Questions About the Business? — Garrett Galow, WorkOS",ai-engineer,AI Engineer,Practitioner AI conferences,"Data engineering & MLOps; Evals, observability & reliability",AI Engineer,2026,Garrett Galow,AI Engineer,19,2026-06-11T18:00:06Z,https://www.youtube.com/watch?v=iUWwcG-C8OU,"Every business question that needs SQL follows the same loop: explain the question, wait for an engineer, get an answer, realize it needs one more join, share a one-off in Slack, repeat. Garrett Galow from WorkOS built Studio to break that loop — an internal workspace where anyone can ask questions against Snowflake, Linear, and Notion in natural language and get answers or reusable widgets without filing a request.
 
 The widgets are the interesting part: the LLM writes them once as declarative JavaScript that calls the underlying data sources directly, so every subsequent run is deterministic and cheap. Three things made it reliable enough to hand to a support team. Preflight sequencing that injects schema context only at the moment a tool is invoked, not upfront, keeping the context window clean. A layering rule that explicitly tells the model to distrust its own knowledge about WorkOS and go to primary sources. And query validation that runs every generated Snowflake query before hardcoding it into a widget, catching the valid SQL that returns zero rows failure mode.

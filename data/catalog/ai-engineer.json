@@ -1,7 +1,7 @@
 {
   "slug": "ai-engineer",
   "name": "AI Engineer",
-  "enumerated_at": "2026-10-19T19:52:48+00:00",
+  "enumerated_at": "2026-10-20T11:46:01+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@aiDotEngineer/videos",
@@ -10,7 +10,7 @@
       "count": 900
     }
   ],
-  "count": 1171,
+  "count": 1175,
   "videos": {
     "-561cZmir5Q": {
       "video_id": "-561cZmir5Q",
@@ -4941,6 +4941,40 @@
       ],
       "details_at": "2026-08-31T15:35:11+00:00"
     },
+    "Bz1HFxQA1o8": {
+      "video_id": "Bz1HFxQA1o8",
+      "title": "Shipping AI Into 5 Major Banks Without a 12-Month Compliance Wait — Al Chen, Cisco",
+      "duration_s": 1062,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Banks don't buy AI software until it survives their security and compliance review. Al Chen shares what it took to deploy inside five major banks without a year-long bottleneck. He covers the build pipeline, CVE remediation with agents writing and testing exploits, backup and restore verification, PII leaking through LLM judges, and why zero leakage and data sovereignty are never free.\n\nChapters:\n- 00:00 Intro\n- 02:15 What banks check\n- 04:17 Fixing CVEs with agents\n- 08:30 Proving backup and restore\n- 10:33 PII leaking through LLM judges\n- 14:48 Making customer problems engineering problems\n- 16:56 Takeaways\n\nAl Chen — X: https://x.com/bigal123 | https://www.cisco.com\n\nJoin us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!",
+      "published_at": "2026-10-20T09:00:06Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning",
+        "Al Chen",
+        "Cisco",
+        "enterprise AI",
+        "banking AI",
+        "compliance",
+        "security",
+        "CVE",
+        "data sovereignty",
+        "PII",
+        "LLM as judge",
+        "AI Engineer",
+        "AIE NYC"
+      ],
+      "details_at": "2026-10-20T11:52:01+00:00"
+    },
     "C13jiFWNuo8": {
       "video_id": "C13jiFWNuo8",
       "title": "Google Photos Magic Editor: GenAI Under the Hood of a Billion-User App - Kelvin Ma, Google Photos",
@@ -7529,7 +7563,7 @@
     },
     "J7n3WJnFTto": {
       "video_id": "J7n3WJnFTto",
-      "title": "Why Buying Companies Beats Selling Them AI — Prathik Naidu, Long Lake",
+      "title": "Buy, Build, Deploy: Using M&A to Drive AI Transformation — Prathik Naidu, Long Lake",
       "duration_s": 1131,
       "channel": "AI Engineer",
       "label": "AI Engineer",
@@ -11429,6 +11463,38 @@
       ],
       "details_at": "2026-10-19T19:58:29+00:00"
     },
+    "UHbODjuviAU": {
+      "video_id": "UHbODjuviAU",
+      "title": "The Investor's Edge Lives in Their Head — Anekha Sokhal, Moshi",
+      "duration_s": 989,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Every investor wants an edge: knowing first, seeing their blind spots, and acting with conviction. Anekha Sokhal, founder and CEO of Moshi, argues the most valuable context isn't in a database but in the investor's head. She explains how to build AI that does the data grind of a quant team while leaving the decision to the human.\n\nChapters:\n- 00:00 Intro\n- 04:03 What edge really means\n- 06:06 What AI changed in finance\n- 08:26 One-person pods and the next generation\n- 10:28 Split the grind from the decision\n- 12:31 A quant team for every investor\n\nAnekha Sokhal — https://hellomoshi.ai\n\nJoin us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!",
+      "published_at": "2026-10-20T08:00:19Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning",
+        "Anekha Sokhal",
+        "Moshi",
+        "AI for investing",
+        "quant",
+        "hedge funds",
+        "financial services AI",
+        "AI analyst",
+        "context engineering",
+        "AI Engineer",
+        "AIE NYC"
+      ],
+      "details_at": "2026-10-20T11:52:01+00:00"
+    },
     "UM6sFg_jdlE": {
       "video_id": "UM6sFg_jdlE",
       "title": "RAG is dead, right?? — Kuba Rogut, Turbopuffer",
@@ -14213,6 +14279,41 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:12+00:00"
     },
+    "_4Ph2dhmUFI": {
+      "video_id": "_4Ph2dhmUFI",
+      "title": "How to Know When an AI Agent Can Work Unsupervised — Evan Kormos, Coinbase",
+      "duration_s": 1053,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Evan Kormos, a player-coach at Coinbase with 15 years in enterprise financial services, lays out a practical way to bring agents into policy-driven, regulated workflows. He models processes as DAGs and loops, explains why a loop is only as trustworthy as its check, and shows how evals and traces become a new confidence mechanism. Agents then move through three stages: fully supervised, then sampled, then humans handling only exceptions.\n\nChapters:\n- 00:00 Policy is the original system prompt\n- 02:53 Where agents fit: people, process, technology\n- 03:49 Workflows as DAGs\n- 05:31 Inside a node: the loop\n- 07:16 Exception flows and bottlenecks\n- 08:59 Quality inputs, quality outputs\n- 10:43 The loop is only as good as the check\n- 11:47 Evals as a confidence mechanism\n- 12:39 Which steps should an agent own?\n- 14:29 Supervised, then sampled, then exceptions only\n- 15:31 Takeaways\n\nEvan Kormos — https://www.coinbase.com\n\nJoin us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!",
+      "published_at": "2026-10-19T23:00:08Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning",
+        "Evan Kormos",
+        "Coinbase",
+        "AI agents",
+        "agentic workflows",
+        "financial services AI",
+        "compliance",
+        "evals",
+        "human in the loop",
+        "DAG",
+        "policy",
+        "enterprise AI",
+        "AI Engineer",
+        "AIE NYC"
+      ],
+      "details_at": "2026-10-20T11:52:01+00:00"
+    },
     "_A367W_qvc8": {
       "video_id": "_A367W_qvc8",
       "title": "Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind",
@@ -16480,6 +16581,40 @@
         "machine learning"
       ],
       "details_at": "2026-09-26T14:31:26+00:00"
+    },
+    "f_HwzoYrZ7s": {
+      "video_id": "f_HwzoYrZ7s",
+      "title": "Why AI Agents Will Need Their Own Bank Accounts — Lincoln Murr, Coinbase",
+      "duration_s": 1018,
+      "channel": "AI Engineer",
+      "label": "AI Engineer",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "description": "Lincoln Murr, head of AI product at Coinbase, explains agentic finance: agents that pay with money and agents that grow it. He covers the path from AgentKit, an early experiment giving an AI a wallet, to x402, an open standard built on the long-unused HTTP 402 \"payment required\" code. x402 now handles hundreds of millions of agent transactions a month. Other topics are microtransactions as a replacement for the ad economy, agents running trades on simple instructions, and what two years of building taught Coinbase. Trust is earned step by step, and the AI is the enabler, not the product. He ends with a look at agents that can pay for their own upkeep.\n\nChapters:\n- 00:00 What is agentic finance?\n- 01:20 AgentKit: giving an AI a wallet\n- 02:09 HTTP 402 and x402\n- 03:13 How fast x402 took off\n- 04:24 Microtransactions vs. the ad economy\n- 06:23 Agents that grow money\n- 08:14 A weekend trade, by voice\n- 09:48 Lesson: trust is earned one step at a time\n- 11:35 AI is the enabler, not the product\n- 14:21 Where agentic finance is heading\n\nLincoln Murr, Coinbase: https://www.coinbase.com\n\nJoin us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!",
+      "published_at": "2026-10-20T07:00:35Z",
+      "tags": [
+        "ai",
+        "ai engineer",
+        "ai engineering",
+        "software development",
+        "tech",
+        "startups",
+        "software architecture",
+        "machine learning",
+        "Coinbase",
+        "Lincoln Murr",
+        "x402",
+        "agentic finance",
+        "AI agents",
+        "agent payments",
+        "stablecoins",
+        "HTTP 402",
+        "micropayments",
+        "AgentKit",
+        "MCP",
+        "AIE NYC"
+      ],
+      "details_at": "2026-10-20T11:52:01+00:00"
     },
     "fcPUqxfrE6Y": {
       "video_id": "fcPUqxfrE6Y",
@@ -20080,7 +20215,7 @@
     },
     "pqlWNihgdjI": {
       "video_id": "pqlWNihgdjI",
-      "title": "\"Frontier developers write maybe 1-2% of code. The rest is agents.\" — Clare Liguori, AWS",
+      "title": "From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS",
       "duration_s": 1257,
       "channel": "AI Engineer",
       "label": "AI Engineer",
