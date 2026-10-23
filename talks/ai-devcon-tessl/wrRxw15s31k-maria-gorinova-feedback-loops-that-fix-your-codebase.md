@@ -1,7 +1,7 @@
 ---
 id: wrRxw15s31k
-title: "Your Software Factory Should Fix Itself"
-slug: your-software-factory-should-fix-itself
+title: "Maria Gorinova: Feedback Loops That Fix Your Codebase"
+slug: maria-gorinova-feedback-loops-that-fix-your-codebase
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
 category: "Practitioner AI conferences"
@@ -19,7 +19,7 @@ topics: []
 transcript: true
 ---
 
-# Your Software Factory Should Fix Itself
+# Maria Gorinova: Feedback Loops That Fix Your Codebase
 
 **Speaker not identified**
 

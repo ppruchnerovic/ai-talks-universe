@@ -1,7 +1,7 @@
 {
   "slug": "ai-devcon-tessl",
   "name": "AI DevCon (Tessl)",
-  "enumerated_at": "2026-10-20T11:46:27+00:00",
+  "enumerated_at": "2026-10-23T04:01:21+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@tessl-ai/videos",
@@ -10,7 +10,7 @@
       "count": 300
     }
   ],
-  "count": 337,
+  "count": 340,
   "videos": {
     "-6SNbcE3C9o": {
       "video_id": "-6SNbcE3C9o",
@@ -647,7 +647,7 @@
     },
     "6xGR6-PVqXQ": {
       "video_id": "6xGR6-PVqXQ",
-      "title": "Scaling AI Isn’t About Better Models | AI DevCon NYC",
+      "title": "Scaling AI Coding Across Thousands of Booking.com Engineers",
       "duration_s": 55,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -1030,6 +1030,19 @@
         "verifiers"
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "AsNb4Y638J4": {
+      "video_id": "AsNb4Y638J4",
+      "title": "Your Coding Agent Should Never Hold a Credential",
+      "duration_s": 1793,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Your coding agent should never hold a credential, and in a software factory that rule is only the start. Recorded live at the AI Security Summit in San Francisco, Simon Maple sits down with Eli Aleyner (Docker), Marcelo Sousa (Snyk) and Ian Livingstone (Keycard), co-authors of Agent Baseline, a security reference architecture for the AI software factory.\n\nThe panel unpacks why agents have to be treated as fundamentally unpredictable actors, why sandboxing alone is not enough when skills and MCP servers make the supply chain dynamic, and why approval prompts collapse into fatigue. Marcelo's verdict: sometimes these are kids with chainsaws.\n\nWhat we cover:\n– The three levels of autonomy, from coding agents to fully agent-directed workflows\n– Sandboxing coding agents and injecting secrets at the egress point\n– Why the agent supply chain is dynamic: skills, MCP servers and cloned repos\n– Prompt injection, least privilege and agents monitoring other agents in the harness\n– Approval fatigue: YOLO mode vs CYA mode\n– Where to start securing your software factory on Monday morning\n\nChapters:\n00:00:00 - Introduction\n00:03:14 - What Agent Baseline is and who it's for\n00:04:17 - The three levels of software factory autonomy\n00:06:53 - Sandbox boundaries and manufacturing trust in agents\n00:09:22 - Why coding agents should never hold credentials\n00:11:44 - The dynamic agent supply chain: skills and MCP servers\n00:14:57 - Untrusted input, least privilege and agents watching agents\n00:18:02 - Approval fatigue: YOLO mode vs CYA mode\n00:20:22 - Are poisoned agent skills a supply chain problem?\n00:22:45 - Where the panel disagreed, and where to start Monday\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/gsh\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nWhich level of the software factory are you at today, and what are you locking down first? Tell us in the comments.",
+      "published_at": "2026-10-22T12:00:05Z",
+      "tags": [],
+      "details_at": "2026-10-23T04:06:09+00:00"
     },
     "B57MLbmpdGw": {
       "video_id": "B57MLbmpdGw",
@@ -2840,6 +2853,19 @@
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
     },
+    "URFAQgm86UA": {
+      "video_id": "URFAQgm86UA",
+      "title": "Snyk's Manoj Nair: Skills and MCP Are the New npm",
+      "duration_s": 2793,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Skills and MCP servers are the new npm, and AI coding agents are pulling them into enterprise codebases faster than security can keep up. Manoj Nair, Chief Innovation Officer at Snyk, joins Guy Podjarny at the Snyk AI Security Summit to map where enterprise agentic coding really stands.\n\nThey get into why a 50,000-agent Claude Code rollout was pulled forward by weeks, why the autonomous attacker has some CISOs ready to accept an outage to patch faster, and how security is moving into the agent loop of the software factory.\n\nWhat we cover:\n– Why leadership and culture, not tooling, decide how fast enterprises adopt AI coding agents\n– The three risks of agentic coding: insecure output, the skills and MCP server supply chain, and agent behavior\n– Running coding agents locked down: sandboxes, agent identities and no open internet\n– Who owns the code an agent writes, and why AI-native organizations treat it as shared risk\n– Securing the software factory: security context in the agent loop and agentic remediation of the backlog\n– What still has to be solved before enterprises trust agents: identity, intent and behavior\n\nChapters:\n00:00:00 - Introduction\n00:01:50 - The state of enterprise AI and agent adoption\n00:09:45 - Leadership, culture and a 50,000-agent rollout\n00:11:18 - Agentic coding risks: output, supply chain, behavior\n00:14:29 - Locked-down coding agents and the security trade-off\n00:18:01 - Who owns agent output? Compliance and accountability\n00:22:54 - The autonomous attacker and security technical debt\n00:27:56 - Securing the product vs securing the software factory\n00:33:00 - Agentic remediation and the security backlog\n00:40:18 - What enterprises need to trust AI coding agents\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/jw0\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nWhere is your organization on the path from copilot to AI coding agents? Tell us in the comments.",
+      "published_at": "2026-10-20T12:00:02Z",
+      "tags": [],
+      "details_at": "2026-10-23T04:06:09+00:00"
+    },
     "UTqnwO96q4I": {
       "video_id": "UTqnwO96q4I",
       "title": "Vijay Ramamurthy - Productionizing LangChain Agents with Oso | DevCon Fall 2025",
@@ -3963,7 +3989,7 @@
     },
     "f_bAEubfp_Y": {
       "video_id": "f_bAEubfp_Y",
-      "title": "Keep the Lights On: Dark Factory Considered Harmful",
+      "title": "Should We Stop Reading Code Written by Agents?",
       "duration_s": 44,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -5027,6 +5053,15 @@
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "q3-QLagMHYk": {
+      "video_id": "q3-QLagMHYk",
+      "title": "Meet Codeplain at AI DevCon NYC This November",
+      "duration_s": 36,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "q5M7fktysTQ": {
       "video_id": "q5M7fktysTQ",
       "title": "Coding Agent Evals 101 - Free London Meetup on March 17th, 2026",
@@ -5675,7 +5710,7 @@
     },
     "wrRxw15s31k": {
       "video_id": "wrRxw15s31k",
-      "title": "Your Software Factory Should Fix Itself",
+      "title": "Maria Gorinova: Feedback Loops That Fix Your Codebase",
       "duration_s": 2278,
       "channel": "AI Native Dev",
       "label": "Tessl",

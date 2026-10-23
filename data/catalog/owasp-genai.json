@@ -1,16 +1,16 @@
 {
   "slug": "owasp-genai",
   "name": "OWASP GenAI Security Project",
-  "enumerated_at": "2026-10-20T11:49:02+00:00",
+  "enumerated_at": "2026-10-23T04:03:22+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@GenAISecurityProject/videos",
       "label": "OWASP GenAI Security",
       "year": null,
-      "count": 144
+      "count": 145
     }
   ],
-  "count": 144,
+  "count": 145,
   "videos": {
     "-Zt-nDAKXA0": {
       "video_id": "-Zt-nDAKXA0",
@@ -1291,6 +1291,19 @@
       "published_at": "2024-09-13T18:24:13Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:01+00:00"
+    },
+    "csVbOSTz_ng": {
+      "video_id": "csVbOSTz_ng",
+      "title": "AI Models Vote on Cyber Attacks + Open-Weight GLM 5.3 Guardrail Removal | EP20",
+      "duration_s": 1561,
+      "channel": "OWASP GenAI Security Project",
+      "label": "OWASP GenAI Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Threat actors are no longer relying on a single AI model to run an attack. Rachel James and Dr. Bryan Nakayama break down new research on multi-model command and control, and on how open-weight models are putting frontier-level cyber capability in anyone's hands.\n\nKey Takeaway: \nFrontier labs can't see what happens on infrastructure they don't control. Once safeguards can be removed cheaply, defenders lose both the guardrails and the early-warning reporting they've relied on.\n\nHosted by Rachel James & Dr. Bryan Nakayama\n\nProduced by the Gen AI Security Project with help from RumRunner Media\n\n\nHashtags:\n#ThreatIntelligence #AISecurity #OpenSourceAI #Cybersecurity #GenAI #AIAgents #InfoSec\n#OWASP #CyberDefense #CiscoTalos",
+      "published_at": "2026-10-22T18:27:59Z",
+      "tags": [],
+      "details_at": "2026-10-23T04:06:09+00:00"
     },
     "dY7B9DpzuSU": {
       "video_id": "dY7B9DpzuSU",
