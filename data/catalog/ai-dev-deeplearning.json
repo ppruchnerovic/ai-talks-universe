@@ -1,7 +1,7 @@
 {
   "slug": "ai-dev-deeplearning",
   "name": "AI Dev (DeepLearning.AI)",
-  "enumerated_at": "2026-10-20T11:46:06+00:00",
+  "enumerated_at": "2026-10-23T04:01:03+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@Deeplearningai/videos",
@@ -10,7 +10,7 @@
       "count": 400
     }
   ],
-  "count": 405,
+  "count": 406,
   "videos": {
     "-B0zaWoPEFs": {
       "video_id": "-B0zaWoPEFs",
@@ -209,7 +209,7 @@
     },
     "2IuO_80wB0s": {
       "video_id": "2IuO_80wB0s",
-      "title": "Help your teams gain the right AI engineering skills",
+      "title": "Give your team AI skills you can trust",
       "duration_s": 63,
       "channel": "DeepLearningAI",
       "label": "DeepLearning.AI",
@@ -1131,6 +1131,15 @@
       "published_at": "2023-07-27T16:57:59Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:07+00:00"
+    },
+    "CUjHZlvQufk": {
+      "video_id": "CUjHZlvQufk",
+      "title": "Learn to build better AI Agents through better context",
+      "duration_s": 90,
+      "channel": "DeepLearningAI",
+      "label": "DeepLearning.AI",
+      "year": null,
+      "source_url": "https://www.youtube.com/@Deeplearningai/videos"
     },
     "CXd0kDikK0U": {
       "video_id": "CXd0kDikK0U",

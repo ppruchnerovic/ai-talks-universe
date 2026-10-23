@@ -1,7 +1,7 @@
 {
   "slug": "pydata",
   "name": "PyData",
-  "enumerated_at": "2026-10-20T11:47:22+00:00",
+  "enumerated_at": "2026-10-23T04:02:02+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLGVZCDnMOq0qmerwB1eITnr5AfYRGm0DF",
@@ -16,7 +16,7 @@
       "count": 600
     }
   ],
-  "count": 614,
+  "count": 615,
   "videos": {
     "-2iBKx2O9ls": {
       "video_id": "-2iBKx2O9ls",
@@ -15581,6 +15581,15 @@
         "machine learning"
       ],
       "details_at": "2026-08-31T15:35:30+00:00"
+    },
+    "uzo-O1CIbvs": {
+      "video_id": "uzo-O1CIbvs",
+      "title": "Ralf Gommers: Maintaining NumPy and SciPy for 15 Years | Give Me 5",
+      "duration_s": 374,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
     },
     "v1IBilOD7zI": {
       "video_id": "v1IBilOD7zI",

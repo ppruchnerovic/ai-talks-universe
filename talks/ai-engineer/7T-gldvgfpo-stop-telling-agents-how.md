@@ -1,13 +1,13 @@
 ---
 id: 7T-gldvgfpo
-title: "Stop Telling Agents How — Dan Barrett, Raymond Weitekamp & Jose Montes de Oca, OpenProse"
-slug: stop-telling-agents-how-dan-barrett-raymond-weitekamp-jose
+title: "Stop Telling Agents How"
+slug: stop-telling-agents-how
 conference: ai-engineer
 conference_name: "AI Engineer"
 category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
-speakers: ["Dan Barrett"]
+speakers: []
 channel: "AI Engineer"
 duration_min: 50
 published_at: 2026-10-18T19:00:05Z
@@ -19,9 +19,9 @@ topics: ["Agents & orchestration", "Coding assistants & agents", "Prompting & co
 transcript: true
 ---
 
-# Stop Telling Agents How — Dan Barrett, Raymond Weitekamp & Jose Montes de Oca, OpenProse
+# Stop Telling Agents How
 
-**Dan Barrett**
+**Speaker not identified**
 
 `AI Engineer` · `AI Engineer` · `2026` · `50 min`
 

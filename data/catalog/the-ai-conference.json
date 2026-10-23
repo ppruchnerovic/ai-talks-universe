@@ -1,16 +1,16 @@
 {
   "slug": "the-ai-conference",
   "name": "The AI Conference",
-  "enumerated_at": "2026-10-20T11:47:28+00:00",
+  "enumerated_at": "2026-10-23T04:02:06+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@aiconference/videos",
       "label": "The AI Conference",
       "year": null,
-      "count": 346
+      "count": 345
     }
   ],
-  "count": 346,
+  "count": 345,
   "videos": {
     "-drke88NhrQ": {
       "video_id": "-drke88NhrQ",
@@ -2685,19 +2685,6 @@
       "published_at": "2025-05-12T22:41:15Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:35+00:00"
-    },
-    "_x3MdDm_19A": {
-      "video_id": "_x3MdDm_19A",
-      "title": "Julia Diament: Cyber Offense Hits Its Moore’s Law Moment",
-      "duration_s": 1302,
-      "channel": "The AI Conference™",
-      "label": "The AI Conference",
-      "year": null,
-      "source_url": "https://www.youtube.com/@aiconference/videos",
-      "description": "Julia Diament presents “Cyber Offense Hits Its Moore’s Law Moment - when compute gets cheap, persistence becomes the exploit.” at The AI Conference 2026.\n\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
-      "published_at": "2026-10-13T18:33:33Z",
-      "tags": [],
-      "details_at": "2026-10-19T19:58:31+00:00"
     },
     "_xsDZc5Gau8": {
       "video_id": "_xsDZc5Gau8",

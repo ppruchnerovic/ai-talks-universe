@@ -1,7 +1,7 @@
 ---
 id: 7Y4sbZgBdnc
-title: "Smarter Models Killed the Harness. Here's What's Left — Jediah Katz, SpaceXAI"
-slug: smarter-models-killed-the-harness-here-s-what-s-left-jediah
+title: "Is the Agent Harness Dead? — Jediah Katz, SpaceXAI"
+slug: is-the-agent-harness-dead-jediah-katz-spacexai
 conference: ai-engineer
 conference_name: "AI Engineer"
 category: "Practitioner AI conferences"
@@ -19,7 +19,7 @@ topics: ["Agents & orchestration", "Coding assistants & agents", "Prompting & co
 transcript: true
 ---
 
-# Smarter Models Killed the Harness. Here's What's Left — Jediah Katz, SpaceXAI
+# Is the Agent Harness Dead? — Jediah Katz, SpaceXAI
 
 **Jediah Katz**
 

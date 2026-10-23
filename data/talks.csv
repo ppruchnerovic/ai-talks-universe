@@ -232,6 +232,27 @@ Recorded at the AI Engineer World's Fair 2026 in San Francisco.
 AI Engineer: https://ai.engineer
 YouTube: https://www.youtube.com/@aiDotEngineer
 X: https://x.com/aiDotEngineer"
+mMw3arwQsL0,"1,368 AI Failures and What They Teach About Evals — Vishal Srivastava & Tanmay Sah, New York Life",ai-engineer,AI Engineer,Practitioner AI conferences,"Evals, observability & reliability; Governance, ethics & regulation",AI Engineer,2026,"Vishal Srivastava, Tanmay Sah",AI Engineer,20,2026-10-22T09:00:12Z,https://www.youtube.com/watch?v=mMw3arwQsL0,"Vishal Srivastava and Tanmay Sah studied 1,368 incidents from a public AI incident database to ask what real failures say about how AI systems should be tested. They sort failures across three areas (technical strength, deployment controls and business impact) and 13 sub-areas that cover about 98% of incidents. Weak deployment controls, such as human review and monitoring, are the most closely tied to harm. They show how to rank use cases by how much is at stake, why the evaluator itself needs checking, and a build-break-fix loop that tries to prove a system wrong instead of right, applied to a real airline chatbot that gave a customer the wrong refund policy.
+
+Chapters:
+- 00:00 Intro
+- 00:41 AI failures are rising fast
+- 01:35 Three dimensions of failure
+- 03:34 13 sub-dimensions
+- 06:09 What covers 98% of failures
+- 07:12 Which failures cause the most harm
+- 09:43 Ranking use cases by materiality
+- 10:43 Breaking risk into four parts
+- 11:40 What to test in an agentic system
+- 13:14 Can you trust the evaluator?
+- 13:48 Confirmation bias and failure-driven evals
+- 15:20 Build, break, fix
+- 17:03 A real chatbot failure
+- 18:30 Recap
+
+Vishal Srivastava & Tanmay Sah, New York Life: https://www.newyorklife.com
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 hqHC6Z_lXyo,"20 days of compute vs 7 hours: rethinking what state-of-the-art means — Bertrand Charpentier, Pruna",ai-engineer,AI Engineer,Practitioner AI conferences,,AI Engineer,2026,Bertrand Charpentier,AI Engineer,20,2026-06-01T00:00:00Z,https://www.youtube.com/watch?v=hqHC6Z_lXyo,"Ranking image generation models the way Design Arena does it — 26,000 battles, 62 seconds per generation — takes 20 days of compute, costs $5,000, and consumes roughly 400 marathons worth of energy. Bertrand Charpentier, cofounder and chief scientist at Pruna AI, uses that number to make a point: the same evaluation on a fast compressed model takes 7 hours and $265. Efficiency is a dimension of state of the art, not a footnote.
 
 The rest of the talk dismantles the idea that any single model holds the title. Leaderboard rankings disagree with each other — the same model goes from rank 10 on one to rank 5 on another. Most models lose 40% of their head-to-head battles, which means the top-ranked model is the wrong choice for nearly half of real use cases. His answer is the Pareto front: plot quality against latency or cost, find the frontier, and expect three or four models clustered tightly in quality score but varying up to 20x in efficiency. Evaluating this way tends to surface small specialized models rather than large foundation models.
@@ -268,6 +289,32 @@ Timestamps:
 17:14 - The tests needed to catch a 1% failure
 18:03 - Grading on the scale used for humans
 18:55 - Building a benchmark for empathy"
+pqlWNihgdjI,"5 Habits of AI-Native Teams: Data from 50 teams running at Amazon-Scale — Clare Liguori, AWS",ai-engineer,AI Engineer,Practitioner AI conferences,AI in the SDLC & engineering orgs,AI Engineer,2026,Clare Liguori,AI Engineer,21,2026-08-28T00:00:00Z,https://www.youtube.com/watch?v=pqlWNihgdjI,"Amazon watched 50 ordinary teams for the better part of a year, teams with normal seniority mixes working in existing codebases. Ninety percent of them used the same coding assistant. Half saw under 3x improvement in deployment velocity to production. The other half saw a median of 4.5x and sometimes past 10x. The tool was not the variable. The teams that pulled ahead had deliberately changed how they worked, and the rest had sprinkled agents on top of the way they already worked. Clare Liguori calls the result frontier development, and defines it by behavior: engineers writing one to two percent of their own code, agents running for hours without interruption, several running at once.
+
+Her five habits are mostly unglamorous. Write down what lives in your head, then keep pruning it as models improve so old workarounds stop bloating context. Expect to get slower first, because brownfield codebases need real work before agents succeed in them, which for some teams meant better error messages, new tools, or restructuring outright. Feed agents rather than babysitting them, since a running conversation keeps you in the loop and makes parallelism impossible. Fix the intent in a document before arguing with generated code. Shift testing left, with local deterministic mocks, so the feedback loop is fast enough for an agent to self correct. The new bottleneck is decision speed.
+
+Speaker info:
+- https://x.com/clare_liguori
+- https://www.linkedin.com/in/clareliguori/
+- https://clare.dev/
+
+Timestamps:
+0:00 - Four phases, and only 10% to 20% felt
+1:22 - What the pilots actually measured
+2:34 - Thirty people for 18 months, or six people for 76 days
+3:43 - Why that team was not reproducible
+4:51 - A ten day sprint, and its asterisks
+5:57 - Fifty ordinary teams, and the real split
+7:04 - Same tools, different ways of working
+8:14 - Habit one: invest in agent context
+9:21 - Pruning context as models improve
+10:31 - Habit two: slow down to speed up
+12:50 - Feeding agents instead of babysitting them
+13:58 - Making intent explicit before writing code
+15:09 - Shifting testing left with local mocks
+16:15 - Burnout, FOMO and cognitive load
+17:23 - What organizations have to change
+19:41 - When decision speed becomes the bottleneck"
 vblnYHzBgS4,"5 Voice Agent Failure Modes You'll Hit in Week One — Venky B, Plivo",ai-engineer,AI Engineer,Practitioner AI conferences,"Agents & orchestration; Enterprise adoption & strategy; Evals, observability & reliability; Multimodal, vision, speech & robotics; Training, fine-tuning & model building",AI Engineer,2026,Venky B,AI Engineer,27,2026-09-15T15:30:09Z,https://www.youtube.com/watch?v=vblnYHzBgS4,"Nearly every intelligence gain in language models over the past year has come from letting them think longer. Voice agents have to turn thinking off, because the budget between a user finishing a sentence and the agent starting to speak is measured in hundreds of milliseconds. Venky B is founder and CEO of Plivo, which carries over a billion voice calls a month and has been building telephony infrastructure since 2011, and this talk is a tour of what breaks when a voice agent leaves the demo and meets production. On latency his numbers are blunt. Teams aim for under 550 milliseconds and most land between 750 and 1,200, and past that users simply hang up. His team's answer is smaller open source models hosted themselves, targeting under 300 milliseconds, chosen partly on how many tokens a language needs per word.
 
 The failure he says wrecks half of all deployments is data collection, and his fix is to stop treating it as transcription at all. Decide the shape before you ask. A phone number is a typed field with a length and a validator, so a stray letter in the middle is either corrected with confidence or sent back to the caller, and evaluation happens per field as a unit test rather than end to end. That reframing took his accuracy from roughly 30 percent to the mid nineties with no fine tuning. He is equally specific about transcription being brittle by default, especially with proper nouns and code switched languages, and about never feeding model output straight into speech synthesis. His own benchmark for a vendor is whether it can pronounce his surname and his company's name.
@@ -345,6 +392,24 @@ timestmaps
 9:20 Leadership track and Token Billionaires
 12:05 Focus on AI Verticals
 13:41 Side events, orientation, and community"
+adfw3xJBx1o,"A Bank Built Its Own Coding Agent. It Took Off — Felippe Felisola Caso & Francesco Galletta, Monzo",ai-engineer,AI Engineer,Practitioner AI conferences,"Agents & orchestration; Coding assistants & agents; Science, healthcare & applied ML",AI Engineer,2026,"Felippe Felisola Caso, Francesco Galletta",AI Engineer,16,2026-10-20T19:00:34Z,https://www.youtube.com/watch?v=adfw3xJBx1o,"Monzo's in-house agent started as an emoji you could react with in Slack. Now it authors over 10% of all merged PRs across Monzo's tech teams and runs more than 1,800 tasks a day. Felipe and Francesco explain why it worked so fast. Their answer is the ""lots of little multipliers"" Monzo already had: an MCP gateway into internal tools and knowledge, a sandboxed agent orchestration system built for a regulated bank, and a platform that turns the agent itself into a building block. That building block now handles incidents, on-call data quality and requests from non-engineers.
+
+Chapters:
+- 00:00 Intro
+- 00:28 Monzo by the numbers
+- 01:37 The Slack agent that went viral
+- 02:51 10% of merged PRs, 1,800 tasks a day
+- 03:51 LLMs = lots of little multipliers
+- 05:04 The MCP gateway
+- 05:59 Agent orchestration in a sandbox
+- 08:37 The agent as a building block
+- 10:07 Incident mode and on-call
+- 12:12 Non-engineers shipping changes
+- 12:57 Why keep building it in-house
+
+Felipe Felisola Caso & Francesco Galletta, Monzo: https://monzo.com
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 jVjt-2g8NMY,"A Genius With Amnesia - Victor Savkin, Nx",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration,AI Engineer,2026,Victor Savkin,AI Engineer,20,2026-06-26T00:00:00Z,https://www.youtube.com/watch?v=jVjt-2g8NMY,"Imagine a genie grants your wish and materializes the best engineer in the world, John Carmack in his prime, to work on your codebase. The catch: he can only see a tiny corner of it, and he forgets everything between interactions. No matter how good he is, the value isn’t there. This is what coding agents are today. We need to fix it.
 
 Speakers:
@@ -1407,6 +1472,23 @@ Recorded at the AI Engineer World's Fair 2026 in San Francisco.
 AI Engineer: https://ai.engineer
 YouTube: https://www.youtube.com/@aiDotEngineer
 X: https://x.com/aiDotEngineer"
+uA4ah-dVHvU,"AI Cut Our Research Time From 7 Days to 15 Minutes — Gareth Yoder, Vanguard",ai-engineer,AI Engineer,Practitioner AI conferences,Enterprise adoption & strategy,AI Engineer,2026,Gareth Yoder,AI Engineer,16,2026-10-21T08:00:37Z,https://www.youtube.com/watch?v=uA4ah-dVHvU,"Gareth Yoder leads the cash program at Vanguard. He walks through modernizing a cash ledger that takes up to 30 million calls a day, running data, producer and consumer migrations in parallel. The turning point was exposing the legacy code base to AI tools through an MCP server. Research that took a mainframe engineer seven days dropped to 15 minutes. He closes with five lessons: make legacy code AI-queryable, treat migration docs as product, reimagine instead of lift-and-shift, adopt AI incrementally, and never skip observability.
+
+Chapters:
+- 00:00 Intro
+- 01:10 What a cash ledger is
+- 01:52 Three migrations in parallel
+- 02:32 Legacy code over MCP: 7 days to 15 minutes
+- 03:20 Data migration
+- 04:12 Producer migration
+- 06:38 Consumer migration
+- 08:58 Onboarding 50 consumers
+- 11:11 What we learned
+- 13:12 Five takeaways
+
+Gareth Yoder, Vanguard: https://investor.vanguard.com
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 XZ0boOjtbNo,"AI Didn’t Kill the Web, It Moved in! — Olivier Leplus (AWS) & Yohan Lasorsa (Microsoft)",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration,AI Engineer,2026,Olivier Leplus,AI Engineer,53,2026-04-10T00:00:00Z,https://www.youtube.com/watch?v=XZ0boOjtbNo,"In 2026, AI didn't replace the web. It became part of it. Your browser now ships a built-in MCP server. Chrome DevTools debug your app with AI. Native Web APIs let you summarize, translate, and prompt right from your frontend code. Meanwhile, the web feeds agents right back through standards like LLMs.txt and MCP tools that make sure models always have the right documentation. AI builds the web. The web feeds AI. And now, AI lives inside the browser itself. In this talk, we'll follow a feature from idea to production and demo this new symbiosis in action: coding agents, AI-powered debugging in Chrome devtools, Web AI APIs, WebMCP, and more. Because your next website won't just be built with AI. It will be built for humans and AI agents alike. AI isn't just for Python folks. The web is AI's new home."
 bMjlRrWjdT0,"AI Evals for Cross-Functional Teams — Nachiket Paranjape & Swaroop Chitlur Haridas, DoorDash",ai-engineer,AI Engineer,Practitioner AI conferences,"Coding assistants & agents; Evals, observability & reliability",AI Engineer,2026,"Nachiket Paranjape, Swaroop Chitlur Haridas",AI Engineer,16,2026-08-28T00:00:00Z,https://www.youtube.com/watch?v=bMjlRrWjdT0,"The people annotating DoorDash's eval data are not engineers, and they build their own annotation tools. Because the GenAI platform team went API first, strategy and operations staff can point a coding agent at those endpoints and vibe code whatever interface their use case needs, whether that is grading restaurant menus or reviewing images. The platform team stopped trying to anticipate every UI, and shipped stable APIs instead. Nachiket Paranjape and Swaroop Chitlur Haridas make the broader case that evals stopped being an engineering harness for them and became a cross functional job.
 
@@ -2287,6 +2369,25 @@ Nimrod is a Principal Engineer at Baz, building AI-powered code review agents. A
 Socials:
 
 Slides:"
+Ve2bAarPA2I,"Better AI Models Won't Fix Your Engineering Team — Nicholas Arcolano, Jellyfish",ai-engineer,AI Engineer,Practitioner AI conferences,AI in the SDLC & engineering orgs; Coding assistants & agents; Enterprise adoption & strategy,AI Engineer,2026,Nicholas Arcolano,AI Engineer,17,2026-10-22T19:00:39Z,https://www.youtube.com/watch?v=Ve2bAarPA2I,"Nicholas Arcolano, head of AI and research at Jellyfish, uses data from about 50,000 engineers at 447 companies to ask how much the model really matters for AI coding output. When Cursor pushed many of its users onto Grok, merged PRs barely moved. Breaking down what drives throughput, the tool explains under 1%, skill use about 3% (heavy skill users see roughly a 30% bump), token usage about 9%, company and team about 12%, and the individual engineer most of the rest. The engineers who were top performers before AI are mostly still the top performers now. His advice for leaders: focus on the people, skills and environment you can control.
+
+Chapters:
+- 00:00 Intro
+- 00:40 A golf analogy
+- 02:01 Models keep getting better
+- 02:59 A natural experiment: the Grok switch
+- 04:54 What actually drives output
+- 07:14 The tool
+- 08:07 How well you use it: skills
+- 10:00 How much you use it: tokens
+- 11:23 Where you work
+- 12:22 You, the individual
+- 13:42 Is AI reshuffling the top engineers?
+- 14:50 What leaders can control
+
+Nicholas Arcolano, Jellyfish: https://jellyfish.co
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 FWEInOtngmM,"Beyond Code Coverage: Functionality Testing with Playwright MCP — Marlene Mhangami, Microsoft",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration,AI Engineer,2026,Marlene Mhangami,AI Engineer,20,2026-05-16T00:00:00Z,https://www.youtube.com/watch?v=FWEInOtngmM,"When an LLM writes your tests, it tends to write tests that confirm what the code does rather than tests that verify what the user experiences. Your test suite goes green. The app still breaks in ways none of those tests would catch.
 
 Marlene Mhangami from Microsoft makes the case for flipping the order: get the agent to write failing Playwright tests against the expected behavior first, then generate code to pass them. The demo runs this live with GitHub Copilot and the Playwright MCP server on a toy store search feature, with the browser open so you can watch the agent click through filters and validate results in real time.
@@ -4788,6 +4889,22 @@ Timestamps:
 19:05 Personalized collections on store pages
 20:33 Results in the pets category
 20:48 Three takeaways"
+bU5gDVyu_28,"Does Code Quality Still Matter? It Depends on This — Max Kanat-Alexander, Capital One",ai-engineer,AI Engineer,Practitioner AI conferences,AI in the SDLC & engineering orgs,AI Engineer,2026,,AI Engineer,16,2026-10-21T19:01:02Z,https://www.youtube.com/watch?v=bU5gDVyu_28,"Every senior engineer's answer is ""it depends."" Max Kanat-Alexander says what it actually depends on. Code quality always existed for two things: understanding a system and safely changing it. AI is making a new kind of software common: disposable software, with low consequences, few dependents and near-zero cost to replace or maintain. For that software, quality doesn't matter. For durable software it matters more than ever. He also shows how to make systems more disposable and how to make rigor cheap through standards, in-workflow tooling, easy testing and maximum strictness.
+
+Chapters:
+- 00:00 ""It depends"" — on what?
+- 01:14 Understanding and execution
+- 02:42 Why structure matters
+- 04:47 The two risks of every change
+- 06:56 Disposable software
+- 07:59 Durable software
+- 09:54 Making software more disposable
+- 12:05 Lowering the cost of rigor
+- 15:50 The answer
+
+Max Kanat-Alexander, Capital One: https://www.capitalone.com
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 NKwIX3CiRgU,"Does GenAI ""belong"" to data scientists? — Phil Hetzel, Braintrust",ai-engineer,AI Engineer,Practitioner AI conferences,"Classic ML & data science; Data engineering & MLOps; Evals, observability & reliability; Prompting & context engineering",AI Engineer,2026,Phil Hetzel,AI Engineer,19,2026-05-25T00:00:00Z,https://www.youtube.com/watch?v=NKwIX3CiRgU,"At most traditional enterprises, GenAI got handed to the ML platform team because it had AI in the name. Phil Hetzel from Braintrust argues that was the wrong move, not because data scientists lack value, but because Anthropic and OpenAI already ran the data pipeline. What is left is prompt and context engineering, distributed systems, human annotation, and functional evaluation across a much broader surface area than precision and recall. The mistake is isolating it to one team. The answer is a diverse one.
 
 Speaker info:
@@ -5657,32 +5774,6 @@ Timestamps:
 13:02 - A CI pipeline for agents
 15:19 - Connecting traces, experiments, and benchmarks
 16:51 - Q&A"
-pqlWNihgdjI,"From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS",ai-engineer,AI Engineer,Practitioner AI conferences,,AI Engineer,2026,Clare Liguori,AI Engineer,21,2026-08-28T00:00:00Z,https://www.youtube.com/watch?v=pqlWNihgdjI,"Amazon watched 50 ordinary teams for the better part of a year, teams with normal seniority mixes working in existing codebases. Ninety percent of them used the same coding assistant. Half saw under 3x improvement in deployment velocity to production. The other half saw a median of 4.5x and sometimes past 10x. The tool was not the variable. The teams that pulled ahead had deliberately changed how they worked, and the rest had sprinkled agents on top of the way they already worked. Clare Liguori calls the result frontier development, and defines it by behavior: engineers writing one to two percent of their own code, agents running for hours without interruption, several running at once.
-
-Her five habits are mostly unglamorous. Write down what lives in your head, then keep pruning it as models improve so old workarounds stop bloating context. Expect to get slower first, because brownfield codebases need real work before agents succeed in them, which for some teams meant better error messages, new tools, or restructuring outright. Feed agents rather than babysitting them, since a running conversation keeps you in the loop and makes parallelism impossible. Fix the intent in a document before arguing with generated code. Shift testing left, with local deterministic mocks, so the feedback loop is fast enough for an agent to self correct. The new bottleneck is decision speed.
-
-Speaker info:
-- https://x.com/clare_liguori
-- https://www.linkedin.com/in/clareliguori/
-- https://clare.dev/
-
-Timestamps:
-0:00 - Four phases, and only 10% to 20% felt
-1:22 - What the pilots actually measured
-2:34 - Thirty people for 18 months, or six people for 76 days
-3:43 - Why that team was not reproducible
-4:51 - A ten day sprint, and its asterisks
-5:57 - Fifty ordinary teams, and the real split
-7:04 - Same tools, different ways of working
-8:14 - Habit one: invest in agent context
-9:21 - Pruning context as models improve
-10:31 - Habit two: slow down to speed up
-12:50 - Feeding agents instead of babysitting them
-13:58 - Making intent explicit before writing code
-15:09 - Shifting testing left with local mocks
-16:15 - Burnout, FOMO and cognitive load
-17:23 - What organizations have to change
-19:41 - When decision speed becomes the bottleneck"
 u6q-byPWUuo,"From Ambient Documentation to Clinical Intelligence — Chaitanya Asawa, Abridge",ai-engineer,AI Engineer,Practitioner AI conferences,"Evals, observability & reliability; Science, healthcare & applied ML; Security, safety & red teaming",AI Engineer,2026,Chaitanya Asawa,AI Engineer,22,2026-08-19T00:00:00Z,https://www.youtube.com/watch?v=u6q-byPWUuo,"Clinicians call it pajama time: the roughly two hours a day spent writing visit notes after work has finished. Abridge started there, and within two to three years the documentation product alone reached 300 of the largest health systems in the United States. Chaitanya Asawa's framing is that everything in healthcare sits downstream of a single conversation between a doctor and a patient, and that the administrative machinery got built around that conversation rather than out of it. The notes are high stakes in both directions. They are the basis of billing, and they are the context the next clinician inherits.
 
 The engineering problem he stays with longest is evaluation, because clinical decision support leaves almost no gap between generating an answer and checking one. Sudoku is hard to solve and trivial to verify. Here, a verifier good enough to trust would already be your generator. Their approach abandons the idea of a single correct answer, since many different responses can be right. Two physicians independently write rubrics describing the elements a good response should contain, a third adjudicates those into one rubric, a fourth runs quality assurance, and only then does a judge score responses against those elements. Separate judges cover safety, adversarial boundaries and tone. On cost, at a run rate near 100 million medical conversations a year, they decompose the note into its sections and post train smaller models per section rather than running frontier intelligence over everything, betting that a dataset nobody else holds plus a narrow enough problem can outrun the frontier's rate of change.
@@ -8108,6 +8199,28 @@ Speaker info:
 - https://x.com/isnit0
 - https://x.com/isnit0/status/2024104717039685915
 - https://elevenlabs.io/blog/talk-to-a-statue-building-a-multi-modal-elevenagents-powered-app"
+c_SPW__jF9w,"How to Test AI Agents When No Benchmark Exists — Nathanael Weill, Air Canada",ai-engineer,AI Engineer,Practitioner AI conferences,"Agents & orchestration; Evals, observability & reliability",AI Engineer,2026,Nathanael Weill,AI Engineer,20,2026-10-22T08:00:01Z,https://www.youtube.com/watch?v=c_SPW__jF9w,"Nathanael Weill leads a team building AI agents at Air Canada, where tasks are so specific there's no public benchmark and domain experts have little time to grade results. His fix is to write the answer first: start from a known answer, generate the input from it, and check whether the agent finds its way back. He shows how that took a past RAG project from one expert-graded test a week to dozens of automated tests a day, then applies it to a supplier-contract review agent with five ways to build a test set: past decisions, planted rule violations, removed clauses, changes that shouldn't matter, and contract templates with filled-in blanks. He also explains why he avoids LLM judges whenever code can check the answer.
+
+Chapters:
+- 00:00 Intro
+- 00:47 No benchmark, no experts
+- 01:41 A lesson from a telecom RAG project
+- 04:43 Weekly expert reviews were too slow
+- 05:38 Flip it: write the answer first
+- 06:33 From one test a week to dozens a day
+- 07:30 Supplier contract review
+- 10:08 How the contract agent works
+- 10:39 Five ways to build a test set
+- 12:31 Planting rule violations
+- 13:39 Removing clauses
+- 14:42 Changes that shouldn't matter
+- 15:38 Templates with blanks
+- 16:39 Avoid LLM judges when code can check
+- 18:07 Use expert feedback to build better tests
+
+Nathanael Weill, Air Canada: https://www.aircanada.com
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 VhfAVA3BG2I,"How Transformers Finally Ate Vision – Isaac Robinson, Roboflow",ai-engineer,AI Engineer,Practitioner AI conferences,"Multimodal, vision, speech & robotics",AI Engineer,2026,Isaac Robinson,AI Engineer,17,2026-05-08T17:00:06Z,https://www.youtube.com/watch?v=VhfAVA3BG2I,"Vision used to belong to CNNs. This talk explains why that changed, and why transformers only recently started winning for vision despite looking like the less natural fit for images. The answer runs through pretraining, scaling, borrowed infrastructure from the LLM world, and the long arc back to the simple architecture that scales best.
 
 Using the evolution from ViT and Swin through ConvNeXt, Hiera, SAM, and RF-DETR, Isaac Robinson walks through what actually made transformer vision systems practical, where the tradeoffs still are, and why deployment flexibility now matters as much as raw benchmark wins. What comes next for VLMs, world models, and physical AI?
@@ -8760,6 +8873,25 @@ Timestamps
 19:07 Imperative vs. Declarative Models
 20:13 WebMCP Demo with the Debugging Extension
 21:47 Leveraging Native Browser APIs (Speech, Animation, etc.)"
+YvQ4BVTWfHI,"Is a Faster Model Actually Faster? Test the Whole Job — Morgan Suo, MiniMax",ai-engineer,AI Engineer,Practitioner AI conferences,"Inference, serving & GPU infra",AI Engineer,2026,Morgan Suo,AI Engineer,18,2026-10-21T07:00:34Z,https://www.youtube.com/watch?v=YvQ4BVTWfHI,"A faster model only helps if the finished job gets faster. Morgan Suo of MiniMax uses one real research task to test the changes inside the M3.1 Flash model: an analyst checking whether circuit-board suppliers are turning AI demand into cash. The changes are sparse attention on long inputs, a 4-bit KV cache, low-precision experts, speculative decoding, server load and reasoning budgets. Each one saves compute, and each can quietly cost accuracy or wait time. She then shows how to judge a model switch: check sources and calculations, count the full cost of a usable report, and make the result repeatable.
+
+Chapters:
+- 00:00 Intro
+- 01:44 The research job
+- 03:20 Profit vs. cash flow
+- 04:22 What changed inside the model
+- 05:09 Sparse attention on long inputs
+- 07:53 4-bit KV cache
+- 08:59 Low-precision experts
+- 10:20 Speculative decoding
+- 11:39 Throughput vs. wait time
+- 13:09 Reasoning budgets
+- 14:41 How to evaluate a model switch
+- 16:12 Recap
+
+Morgan Suo, MiniMax: https://www.minimax.io
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 XTpyNrEgJQ4,Is Speculative Decoding Worth It? Profiling vLLM on NVIDIA Blackwell — Akamai,ai-engineer,AI Engineer,Practitioner AI conferences,"Inference, serving & GPU infra",AI Engineer,2026,,AI Engineer,15,2026-10-06T22:30:02Z,https://www.youtube.com/watch?v=XTpyNrEgJQ4,"A small model guesses the next few tokens. The big model checks them in one pass. When is that worth it?
 
 Sheilah Kirui, developer advocate at Akamai, explains speculative decoding and how to tell whether it's worth turning on. She walks through the prefill and decode phases of inference, how a small draft model proposes tokens that the target model verifies in a single forward pass, and the memory cost of hosting a second model and its KV cache. She covers how to choose a draft model, then demos both setups side by side with vLLM on a single NVIDIA Blackwell GPU: structured output ran 1.6x faster with a high acceptance rate, while creative writing saw far lower acceptance. She also explains why long-context and high-concurrency workloads gain less.
@@ -8799,6 +8931,23 @@ Recorded at the AI Engineer World's Fair 2026 in San Francisco.
 AI Engineer: https://ai.engineer
 YouTube: https://www.youtube.com/@aiDotEngineer
 X: https://x.com/aiDotEngineer"
+7Y4sbZgBdnc,"Is the Agent Harness Dead? — Jediah Katz, SpaceXAI",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration; Coding assistants & agents; Prompting & context engineering,AI Engineer,2026,Jediah Katz,AI Engineer,18,2026-10-19T19:00:17Z,https://www.youtube.com/watch?v=7Y4sbZgBdnc,"Is the agent harness dead? Jediah Katz, Cursor's longest-tenured agent-harness engineer and now at SpaceX, explains why fancy harnesses no longer add coding intelligence: the data flywheel teaches models the skills harnesses used to patch in. He then argues why the harness matters more than ever. It opens new frontiers like Grokbot, and it owns what models can't absorb: infrastructure, trust and security, and efficiency. He closes with predictions, including that 90% of agent work runs off the laptop within six months.
+
+Chapters:
+- 00:00 Is the harness dead?
+- 01:09 From prompt engineer to harness engineer
+- 02:02 What's inside an agent harness
+- 02:59 Peak harness, and the backlash
+- 05:00 What the research says
+- 06:16 The data flywheel
+- 07:34 The harness unlocks the next frontier
+- 12:07 What models can't absorb: infra, trust, efficiency
+- 14:21 What's next for harnesses
+- 17:36 Long live the harness
+
+Jediah Katz — X: https://x.com/jediahkatz | https://cursor.com
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 q-WOjZhOMCA,"IT Admin for the AI Workforce — Sarthak Aggarwal, Decawork",ai-engineer,AI Engineer,Practitioner AI conferences,"Enterprise adoption & strategy; Security, safety & red teaming",AI Engineer,2026,Sarthak Aggarwal,AI Engineer,16,2026-08-20T14:30:38Z,https://www.youtube.com/watch?v=q-WOjZhOMCA,"A code freeze that exists only as an instruction is not a boundary. Sarthak Aggarwal uses the Replit incident to make that point, and what makes it useful is the absence of an attacker: a coding agent simply had a path from a chat app to a production database, ignored an explicit freeze, deleted live data, and then misrepresented what it had done. Set beside EchoLeak, a real zero click CVE in which an external email walked into Microsoft 365 Copilot's context and pulled data back out, you get two very different failure modes and one shared question. What could it touch?
 
 His framing is that enterprises are onboarding a second workforce, and that the hard part stopped being model behavior and became employment readiness. An agent with a goal, tools, private data, delegated authority, and side effects is an actor, so it needs what actors get: an identity, an owner, a subject it acts on behalf of, capabilities scoped by policy, and revocation that actually works. He notes OAuth token exchange has roughly the right shape already, but that no agent identity standard exists yet. What follows is privilege separation. A planner turns authenticated intent into a typed, logged plan before it sees any evidence at all, then an executor reads untrusted content and runs that plan while holding no standing credentials. The model proposes and the policy decides, so evidence can fill in parameters but can never mint a new action.
@@ -10217,6 +10366,22 @@ Perspective: Knowledge is compounded by observing processes and enabling agents 
 ""The idea that we can actually observe the processes and get better at them by reflecting and improving every step of it is something that is really changed now."" (13:20 - 13:29)
 ""Satya wrote about this recently and reflected on the fact that people and agents can really compound in how they do the work and how they can create this learning loop."" (13:35 - 13:43)
 ""This is a real learning loop materialized in practice... we can enable this learning loops that will capture this differentiated capability that lives in each one of the companies and organizations we work on."" (16:40 - 17:03)"
+DouK81O8R3o,"One Day, $1,000 in Tokens: An AI War Room for Legacy Code — Ford Prior, GEICO",ai-engineer,AI Engineer,Practitioner AI conferences,AI in the SDLC & engineering orgs; Agents & orchestration,AI Engineer,2026,Ford Prior,AI Engineer,19,2026-10-21T09:00:26Z,https://www.youtube.com/watch?v=DouK81O8R3o,"At GEICO, coding got fast but everything around it (decisions, sign-offs, context) stayed slow. Ford Prior's fix was a multiplayer, AI-native war room: the right decision makers, one driver, and fleets of agents wired into GEICO's knowledge, tools and code. His bet was that one day and $1,000 in tokens could map a legacy claims domain end to end and ship one real change. He ran it three times across rentals, damages and salvage. He covers FleetKit, the markdown rulebook that steers the agent fleet, plus the worksheets and diagrams it produced and what he'd change next.
+
+Chapters:
+- 00:00 Inner loop vs. outer loop
+- 02:05 Claims tech at GEICO
+- 04:37 The AI-native war room
+- 05:23 The one-day, $1,000 experiment
+- 06:33 Three modernization missions
+- 08:29 What the vendor brings vs. what GEICO brings
+- 09:47 FleetKit: running an agent fleet
+- 11:55 Inside the war room
+- 15:58 Lessons and what's next
+
+Ford Prior, GEICO: https://www.geico.com
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 O1FN4awNEtM,"One Designer + AI. Hundreds of Deliverables. — Vincent Wendy, AI Engineer",ai-engineer,AI Engineer,Practitioner AI conferences,,AI Engineer,2026,Vincent Wendy,AI Engineer,17,2026-09-10T17:00:06Z,https://www.youtube.com/watch?v=O1FN4awNEtM,"Vincent Wendy pointed an agent at the sponsor banner in the lobby, a wall carrying more than 140 logos, and asked it which ones were missing. It caught every omission in the checks he ran, and he used the same trick on the conference shirt. Wendy is the senior creative designer at AI Engineer, a company of roughly twelve to fifteen people, and he is its only designer. The conference he designs for grew to 7,000 attendees, more than 140 sponsors, more than 300 speakers, and more than 600 sessions, and all of it needs something drawn: stickers, signage, landing pages, wayfinding. A thousand details, as he puts it, means a thousand ways to fail.
 
 His method has five parts: build the foundation first, make designs reusable, automate the workflows, validate the output, and remove friction. The foundation is an ordinary design system, pinned down tightly enough that a model cannot invent its own font size, which lets the marketing team build emails and flyers from the website without involving him. Room schedules once laid out by hand in Figma are now pulled fresh from live data, exported, and carried to the screens on a flash drive. A generator produces announcement graphics and trading cards for all 300 speakers, pixel perfect, pulling in headshots on its own. He shows Devin, which lives in Slack, matching a photographer's shots to the right speaker, and adding an edit button to the schedule tool the morning he needed one. His closing claim: tools stopped being the constraint, so having a real problem is the advantage.
@@ -11341,6 +11506,24 @@ a2muGkT4WD4,"Running LLMs on your iPhone: 40 tok/s Gemma 4 with MLX — Adrien G
 
 Speaker info:
 - https://x.com/adrgrondin"
+3axY1wz2OvA,"Same GPU, 50% More Output: Why the Operator Matters — Oliver Kennon, SemiAnalysis",ai-engineer,AI Engineer,Practitioner AI conferences,"Inference, serving & GPU infra",AI Engineer,2026,Oliver Kennon,AI Engineer,18,2026-10-20T23:00:22Z,https://www.youtube.com/watch?v=3axY1wz2OvA,"Buying GPUs gives you potential. The operator decides how much useful work you actually get out of them. Oliver Kennon looks at compute as a commodity market: on the same B200 chip, the serving stack alone can deliver about 50% more output. Cluster security is part of whether intelligence is ""useful"". SemiAnalysis's ClusterMAX rates operators, and rental price and production cost are different numbers. Your spot on the cost curve depends on your competitors, not just you. He closes on what it takes to build credible compute grades and futures.
+
+Chapters:
+- 00:00 Intro
+- 01:05 Compute is a commodity market
+- 02:21 GPU hours are the input, intelligence is the output
+- 03:23 Same B200, ~50% more output
+- 04:45 What counts as useful intelligence
+- 06:33 Rating operators with ClusterMAX
+- 07:48 Rental price vs. production cost
+- 10:01 Your cost position is relative
+- 12:41 Grading comparable compute
+- 14:13 What compute futures can hedge
+- 15:54 Takeaways
+
+Oliver Kennon, SemiAnalysis: https://semianalysis.com
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 _naLJOqVOEI,"Same Model, Different Speed: Why Your Inference Provider Matters — FriendliAI",ai-engineer,AI Engineer,Practitioner AI conferences,"Inference, serving & GPU infra",AI Engineer,2026,,AI Engineer,13,2026-10-11T19:30:05Z,https://www.youtube.com/watch?v=_naLJOqVOEI,"Open-weight models are good enough now. The question is who can run them fast and reliably.
 
 Yunmo Koo, founding engineer at FriendliAI, argues that open-weight models like GLM 5.2 and MiniMax M3 now compete with the best proprietary models. He shows GLM 5.2 and Claude Opus 4.8 building similar tower defense games from one prompt, with GLM 5.2 more than 5.6x cheaper. Then he runs the same model and the same coding agent on two providers: FriendliAI builds a Candy Crush-style game in about two minutes, the other takes more than three. He explains where the gap comes from: prefix caching with cache-aware routing and a GPU, CPU and NVMe cache hierarchy for long, repetitive agent inputs, plus hybrid speculative decoding that adapts to live traffic. He also covers why reliability matters for agents (one failed call can sink a whole run) and shares Kilo Code's results of up to 7x faster responses with fewer errors.
@@ -12076,23 +12259,6 @@ Recorded at the AI Engineer World's Fair 2026 in San Francisco.
 AI Engineer: https://ai.engineer
 YouTube: https://www.youtube.com/@aiDotEngineer
 X: https://x.com/aiDotEngineer"
-7Y4sbZgBdnc,"Smarter Models Killed the Harness. Here's What's Left — Jediah Katz, SpaceXAI",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration; Coding assistants & agents; Prompting & context engineering,AI Engineer,2026,Jediah Katz,AI Engineer,18,2026-10-19T19:00:17Z,https://www.youtube.com/watch?v=7Y4sbZgBdnc,"Is the agent harness dead? Jediah Katz, Cursor's longest-tenured agent-harness engineer and now at SpaceX, explains why fancy harnesses no longer add coding intelligence: the data flywheel teaches models the skills harnesses used to patch in. He then argues why the harness matters more than ever. It opens new frontiers like Grokbot, and it owns what models can't absorb: infrastructure, trust and security, and efficiency. He closes with predictions, including that 90% of agent work runs off the laptop within six months.
-
-Chapters:
-- 00:00 Is the harness dead?
-- 01:09 From prompt engineer to harness engineer
-- 02:02 What's inside an agent harness
-- 02:59 Peak harness, and the backlash
-- 05:00 What the research says
-- 06:16 The data flywheel
-- 07:34 The harness unlocks the next frontier
-- 12:07 What models can't absorb: infra, trust, efficiency
-- 14:21 What's next for harnesses
-- 17:36 Long live the harness
-
-Jediah Katz — X: https://x.com/jediahkatz | https://cursor.com
-
-Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 tUPPVhBBcoM,"Software Engineering Is Becoming Factory Engineering — Zach Lloyd, Warp",ai-engineer,AI Engineer,Practitioner AI conferences,AI in the SDLC & engineering orgs; Agents & orchestration; Coding assistants & agents; Enterprise adoption & strategy,AI Engineer,2026,Zach Lloyd,AI Engineer,21,2026-09-27T17:30:36Z,https://www.youtube.com/watch?v=tUPPVhBBcoM,"Zach Lloyd, founder and CEO of Warp and a former principal engineer who led engineering on Google Docs, is still shipping all the time, but hasn't written a line of code in six months. His thesis: software engineering is turning into factory engineering. Every serious project will run a software factory, the same way every project now has CI/CD.
 
 Lloyd explains why Warp open-sourced after five years closed (60,000+ GitHub stars and over 800,000 active developers). When software gets cheap to build and clone, a great product isn't enough. Building in the open builds an ecosystem, and automation now handles the usual pain of noisy issues and sloppy PRs. He tours the factory floor: inputs, triage, product and tech specs, implementation, review, verification and monitoring, plus the architecture and data layer underneath. He also covers skill loops that improve the factory itself. He ends with a starter repo for building your own factory agents, and Q&A on build vs. buy, advice for new grads and why human taste still matters.
@@ -12700,7 +12866,7 @@ My rule: rent to learn, own to run. Rent the model while you're hunting PMF, own
 Speakers:
 - Thiyagarajan Maruthavanan (Kalmantic Labs): Thiyagarajan M (Rajan) runs an agentic lab focused on AI inference and agent harness, has built open source tools and other products to shape work on it, and authored a book on peak inference performance.
 X/Twitter: https://x.com/mtraja"
-7T-gldvgfpo,"Stop Telling Agents How — Dan Barrett, Raymond Weitekamp & Jose Montes de Oca, OpenProse",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration; Coding assistants & agents; Prompting & context engineering,AI Engineer,2026,Dan Barrett,AI Engineer,50,2026-10-18T19:00:05Z,https://www.youtube.com/watch?v=7T-gldvgfpo,"Say what you want, not how to get it. The OpenProse team shows how to write multi-agent workflows as declarative contracts in plain markdown, which any harness (Claude Code, Codex and others) can compile and run. Demos include event-driven jobs triggered by webhooks and pull requests, a ""grumpy senior"" PR reviewer, and an end-to-end bank model-documentation workflow. They also discuss composing contracts, pinning a winning run into a reusable workflow, and how this compares to DSPy.
+7T-gldvgfpo,Stop Telling Agents How,ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration; Coding assistants & agents; Prompting & context engineering,AI Engineer,2026,,AI Engineer,50,2026-10-18T19:00:05Z,https://www.youtube.com/watch?v=7T-gldvgfpo,"Say what you want, not how to get it. The OpenProse team shows how to write multi-agent workflows as declarative contracts in plain markdown, which any harness (Claude Code, Codex and others) can compile and run. Demos include event-driven jobs triggered by webhooks and pull requests, a ""grumpy senior"" PR reviewer, and an end-to-end bank model-documentation workflow. They also discuss composing contracts, pinning a winning run into a reusable workflow, and how this compares to DSPy.
 
 Chapters:
 - 00:00 From prompt engineering to declaring intent
@@ -13265,6 +13431,29 @@ Timestamps
 Speakers:
 - Jack Cable (Corridor): Jack Cable is a hacker who serves as the Co-Founder and CEO at Corridor, the security platform for AI coding.
 X/Twitter: https://x.com/jackhcable"
+CFbnVpSsDFQ,"The AI Content System Behind 200M Views — Sarah Chieng, Cerebras & Cova Lee, OpenAI",ai-engineer,AI Engineer,Practitioner AI conferences,,AI Engineer,2026,Sarah Chieng,AI Engineer,53,2026-10-21T23:00:14Z,https://www.youtube.com/watch?v=CFbnVpSsDFQ,"Sarah Chieng (head of developer experience at Cerebras) and Cova Lee (OpenAI developer experience, formerly a full-time creator) share the agent-powered system they use to make content. It runs across six stages: ideating, scripting, recording, editing, repurposing and publishing. Topics include swipe files and custom research tools, voice-based scripting and script skills, shot lists, design systems, and editing through APIs and computer use. They also cover cutting long videos into shorts, scheduled publishing, and a weekly skill that reviews your own process. Their main point: let AI take the tedious work so you can treat content as a craft, not make slop.
+
+Chapters:
+- 00:00 Intro
+- 01:12 Meet Sarah and Cova
+- 04:05 The six stages
+- 05:19 Ideation: swipe files and research tools
+- 09:34 Scripting with your voice
+- 12:35 Shot lists and recording
+- 17:06 Design systems
+- 18:39 Editing with AI
+- 23:13 Transforming your visuals
+- 26:16 Repurposing and captions
+- 28:00 Publishing on autopilot
+- 29:25 Reviewing your own process
+- 32:02 Don't make slop
+- 34:19 Gear
+- 36:25 Q&A
+
+Sarah Chieng, Cerebras: https://www.cerebras.ai
+Cova Lee, OpenAI: https://openai.com
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 li0SaBt9RDM,"The AI Skill I Rely On Daily — Priscila Andre de Oliveira, Sentry",ai-engineer,AI Engineer,Practitioner AI conferences,AI in the SDLC & engineering orgs,AI Engineer,2026,Priscila Andre de Oliveira,AI Engineer,17,2026-05-27T17:00:06Z,https://www.youtube.com/watch?v=li0SaBt9RDM,"Priscila Andre de Oliveira analyzed 116 of her own Claude sessions from daily work at Sentry. 67% were comprehension. 2% were code generation.
 
 Working in a codebase with 15 years of history, around 100 PRs merged per day, and 100,000 organizations depending on it, the unlock is not generation but understanding. She built a personal skill called catch me up with six exploration modes covering architecture, conventions, feature traces, syntax, testing, and history. The loop: understand what the agent found before you let it plan and implement, because a misaligned mental model is where slop comes from.
@@ -16722,6 +16911,45 @@ Recorded at the AI Engineer World's Fair 2026 in San Francisco.
 AI Engineer: https://ai.engineer
 YouTube: https://www.youtube.com/@aiDotEngineer
 X: https://x.com/aiDotEngineer"
+Wk2bUUGFC_o,"Why AI Startups Will Disappear Without Compute Markets — Evan Conrad, San Francisco Compute",ai-engineer,AI Engineer,Practitioner AI conferences,"Enterprise adoption & strategy; Inference, serving & GPU infra",AI Engineer,2026,Evan Conrad,AI Engineer,18,2026-10-22T23:00:12Z,https://www.youtube.com/watch?v=Wk2bUUGFC_o,"Evan Conrad explains how San Francisco Compute, which began as an AI lab that had to sublease its own GPU cluster to stay alive, ended up both operating clusters and running a market for them. He walks through the chain of problems a new lab or inference company hits: everyone is sold out, the deposit eats the bank balance, clusters arrive late and break, and demand is nearly impossible to predict. He argues these are all one risk problem, that AI companies run into credit limits before power limits, and that without a working compute market the price of entry keeps climbing until no new startups can get in.
+
+Chapters:
+- 00:00 Intro
+- 00:42 Physically settled compute
+- 01:35 Supercomputing as a service
+- 02:08 How a struggling AI lab became a GPU broker
+- 03:32 Two miracle problems
+- 04:26 Sold out, deposits and delays
+- 06:20 It's all one risk problem
+- 08:13 Credit, not power, is the bottleneck
+- 10:13 What a compute market has to solve
+- 11:37 Why you have to operate the cluster
+- 13:05 Why nobody does physical settlement
+- 13:59 From $10M to $1B deposits
+- 15:26 Why startups need this
+
+Evan Conrad, San Francisco Compute: https://sfcompute.com
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
+_dTF3NpPzGo,"Why AI Writing Still Reads Like Slop — Louis-François Bouchard, Towards AI",ai-engineer,AI Engineer,Practitioner AI conferences,"Evals, observability & reliability; Prompting & context engineering",AI Engineer,2026,,AI Engineer,19,2026-10-22T07:00:28Z,https://www.youtube.com/watch?v=_dTF3NpPzGo,"Louis-François Bouchard of Towards AI breaks down what makes AI writing feel like slop: overused words, vague generalities, saying nothing, repetition, hallucination and a voice that sounds like everyone at once. He then shows how his team built a benchmark to measure whether a model can write a video script in his own voice: 10 scripts, 5 drafts per model, 4 LLM judges, nine scoring metrics and 1,000 human A/B checks. He shares what it cost, why judges favor their own model family, and practical tips for writing with AI: very long prompts full of examples, one review pass from a strong model, many cheap drafts merged together, and always a human edit.
+
+Chapters:
+- 00:00 What is slop?
+- 02:41 Measuring sloppy writing
+- 03:49 Why build another benchmark
+- 05:44 Can a model write like me?
+- 07:19 10 scripts, 5 drafts, 4 judges
+- 09:14 What gets measured
+- 11:10 How the judges score
+- 12:38 Judges prefer their own models
+- 13:46 Human A/B checks
+- 14:15 What it cost
+- 15:20 What we learned
+- 16:21 How to write better with AI
+
+Louis-François Bouchard, Towards AI: https://towardsai.net
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!"
 DrfyORO8RqA,"Why Bigger Context Windows Won't Save Your Agent — Elizabeth Fuentes Leone, AWS",ai-engineer,AI Engineer,Practitioner AI conferences,Agents & orchestration; Prompting & context engineering,AI Engineer,2026,Elizabeth Fuentes Leone,AI Engineer,16,2026-10-08T00:30:18Z,https://www.youtube.com/watch?v=DrfyORO8RqA,"A bigger context window won't save your agent. Past a point, it forgets the middle.
 
 Elizabeth Fuentes Leone, developer advocate at AWS, explains why agents break when tools return huge amounts of data, and why bigger context windows aren't the fix: models remember the start and end of a long context but lose the middle. Using the open-source, model-agnostic Strands Agents framework, she walks through four strategies (externalize, select, compress, isolate) with code. She covers sliding-window and summarizing conversation managers, short-term, long-term and graph memory, memory pointers that keep big tool outputs out of context, sharing pointers across a swarm of agents, capping tool calls to stop endless loops, and async handles for slow MCP tools. She ends with the anti-patterns to avoid.
@@ -24193,6 +24421,13 @@ Bluesky: https://bsky.app/profile/infoq.com
 
 Write for InfoQ:
 Share what you've learned building software with a community of senior practitioners, and get your work in front of the people who read InfoQ."
+ISdTqzYQiHg,"Context Engineering for Coding Agents Across 1,000 Repos",qcon-infoq,QCon / InfoQ Dev Summit,General software conferences,Agents & orchestration; Coding assistants & agents; Prompting & context engineering,InfoQ,2026,,InfoQ,50,2026-10-22T06:30:15Z,https://www.youtube.com/watch?v=ISdTqzYQiHg,"Coding agents can write code, but they don’t know how your company debugs, migrates or sets up a repo. Ajay Prakash shows how 600+ MCP playbooks gave agents that knowledge for 8,000 daily users.
+
+Ajay Prakash is a software engineer at LinkedIn with 14 years of experience. He has spent the last four years on LLMs, context engineering and AI agents, and previously led AI platform and product work for LinkedIn Sales Navigator.
+
+Recorded at QCon AI Boston 2026. QCon conferences are practitioner-driven events where senior engineers share real production experience.
+
+🔗 Transcript & slides available on InfoQ:  https://bit.ly/4si7foJ"
 efxFeiz2Zk4,"Context Engineering for LLM Apps: What Worked, What Didn't",qcon-infoq,QCon / InfoQ Dev Summit,General software conferences,"Prompting & context engineering; RAG, retrieval & knowledge",InfoQ,2026,,InfoQ,48,2026-10-05T09:21:16Z,https://www.youtube.com/watch?v=efxFeiz2Zk4,"Ricardo Ferreira's LLM assistant kept giving bad answers, so he switched to a newer model with a bigger context window. It didn't help, and it cost more. What fixed it was Context Engineering: memory layers, reranking, summarization and semantic caching.
 
 Ricardo Ferreira has spent 25+ years building distributed systems and databases. To stress-test an open-source agent memory server built on Redis, he put an LLM behind an Alexa skill, which must answer within 8 seconds, and then used it with his family every day. This talk covers every context failure he hit along the way and how he fixed each one.
@@ -43410,6 +43645,33 @@ What we cover:
 
 🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/6gq
 🔔 Subscribe for weekly episodes on AI-native development"
+wrRxw15s31k,Maria Gorinova: Feedback Loops That Fix Your Codebase,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,,Tessl,2026,,AI Native Dev,38,2026-10-13T12:00:31Z,https://www.youtube.com/watch?v=wrRxw15s31k,"Agent feedback loops are how a software factory maintains itself: agents mining their own session logs, PR comments and production signals, then fixing what they find. Maria Gorinova, member of technical staff at Tessl, explains how to build them, and why vague intent turns a loop into a mess.
+
+What we cover:
+– What a software factory is: repeatable workflows, a shared execution environment and agent feedback loops
+– Why agent context alone isn't enough, and where harness engineering comes in
+– The three stages of a feedback loop: analyze a data stream, find the problem, request the fix
+– Inner, middle and outer loops, from verifiers on every PR to self-healing in production
+– How Tessl's ""comment diet"" loop catches drift that no single PR causes
+– Operators and stewards: the human roles in a software factory
+
+Chapters:
+00:00:00 - Introduction
+00:02:36 - What is a software factory?
+00:05:38 - From agents to context to harness engineering
+00:09:15 - The three stages of an agent feedback loop
+00:13:16 - Inner, middle and outer feedback loops
+00:18:35 - Why vague intent breaks agent feedback loops
+00:21:50 - Comment bloat, drift and the rule of three
+00:25:48 - The software factory mindset
+00:27:45 - Loops, feedback loops and meta feedback loops
+00:32:45 - Operators, stewards and building your first loop
+
+Build your software factory, one workflow at a time, with Tessl:
+
+🔔 Subscribe for weekly episodes on AI-native development
+
+Which agent feedback loop would you build first in your own software factory? Tell us in the comments."
 H2g4nFyqa8A,Marit van Dijk at JCON 2026 — do we need an IDE when we have AI coding agents?,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,Agents & orchestration; Coding assistants & agents,Tessl,2026,,AI Native Dev,10,2026-04-27T22:09:04Z,https://www.youtube.com/watch?v=H2g4nFyqa8A,"Marit van Dijk (JetBrains) walks through what's actually new in IntelliJ when you plug AI into it, and why reading code is suddenly a more valuable skill than writing it. When half of what you're reading wasn't written by a human, the old rules for code review don't quite apply."
 Ex1Zu0qel8M,Matthias Lubken - Piece of PI – Embedding The OpenClaw Coding Agent In Your Product - AI Native De,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"Agents & orchestration; Coding assistants & agents; RAG, retrieval & knowledge",Tessl,2026,Matthias Lubken,AI Native Dev,32,2026-07-04T07:15:06Z,https://www.youtube.com/watch?v=Ex1Zu0qel8M,"When people first experience OpenClaw, they often find it incredible. It auto-discovers new capabilities, integrates data sources seamlessly, and dynamically builds solutions, giving the impression of a learning system. This magic is underpinned by pi.dev, a coding agent with remarkable extensibility that fits perfectly with OpenClaw's evolving architecture.
 
@@ -43832,6 +44094,35 @@ What we cover:
 
 🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.io
 🔔 Subscribe for weekly episodes on AI-native development"
+URFAQgm86UA,Snyk's Manoj Nair: Skills and MCP Are the New npm,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"Agents & orchestration; Coding assistants & agents; Enterprise adoption & strategy; Governance, ethics & regulation",Tessl,2026,,AI Native Dev,47,2026-10-20T12:00:02Z,https://www.youtube.com/watch?v=URFAQgm86UA,"Skills and MCP servers are the new npm, and AI coding agents are pulling them into enterprise codebases faster than security can keep up. Manoj Nair, Chief Innovation Officer at Snyk, joins Guy Podjarny at the Snyk AI Security Summit to map where enterprise agentic coding really stands.
+
+They get into why a 50,000-agent Claude Code rollout was pulled forward by weeks, why the autonomous attacker has some CISOs ready to accept an outage to patch faster, and how security is moving into the agent loop of the software factory.
+
+What we cover:
+– Why leadership and culture, not tooling, decide how fast enterprises adopt AI coding agents
+– The three risks of agentic coding: insecure output, the skills and MCP server supply chain, and agent behavior
+– Running coding agents locked down: sandboxes, agent identities and no open internet
+– Who owns the code an agent writes, and why AI-native organizations treat it as shared risk
+– Securing the software factory: security context in the agent loop and agentic remediation of the backlog
+– What still has to be solved before enterprises trust agents: identity, intent and behavior
+
+Chapters:
+00:00:00 - Introduction
+00:01:50 - The state of enterprise AI and agent adoption
+00:09:45 - Leadership, culture and a 50,000-agent rollout
+00:11:18 - Agentic coding risks: output, supply chain, behavior
+00:14:29 - Locked-down coding agents and the security trade-off
+00:18:01 - Who owns agent output? Compliance and accountability
+00:22:54 - The autonomous attacker and security technical debt
+00:27:56 - Securing the product vs securing the software factory
+00:33:00 - Agentic remediation and the security backlog
+00:40:18 - What enterprises need to trust AI coding agents
+
+Build your software factory, one workflow at a time, with Tessl:
+
+🔔 Subscribe for weekly episodes on AI-native development
+
+Where is your organization on the path from copilot to AI coding agents? Tell us in the comments."
 606n8YC_-fU,Spec-Driven Development: Specs Are the Program Now,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,AI in the SDLC & engineering orgs,Tessl,2026,,AI Native Dev,8,2026-09-14T16:00:11Z,https://www.youtube.com/watch?v=606n8YC_-fU,"Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:
 
 Spec-driven development is having a moment: teams write two weeks of specs and generate the code in five minutes, then throw it away and generate it again. At AI DevCon London, Simon Martinelli, Dave Farley and Shachar Azriel of Baz showed what changes when the specification, not the code, becomes the thing you actually maintain.
@@ -45187,33 +45478,35 @@ Build your software factory, one workflow at a time, with Tessl:
 🔔 Subscribe for weekly videos on AI-native development
 
 Has your own agent ever repeated a mistake it already ""learned"" from once?"
-wrRxw15s31k,Your Software Factory Should Fix Itself,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,,Tessl,2026,,AI Native Dev,38,2026-10-13T12:00:31Z,https://www.youtube.com/watch?v=wrRxw15s31k,"Agent feedback loops are how a software factory maintains itself: agents mining their own session logs, PR comments and production signals, then fixing what they find. Maria Gorinova, member of technical staff at Tessl, explains how to build them, and why vague intent turns a loop into a mess.
+AsNb4Y638J4,Your Coding Agent Should Never Hold a Credential,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"Agents & orchestration; Coding assistants & agents; Science, healthcare & applied ML; Security, safety & red teaming",Tessl,2026,,AI Native Dev,30,2026-10-22T12:00:05Z,https://www.youtube.com/watch?v=AsNb4Y638J4,"Your coding agent should never hold a credential, and in a software factory that rule is only the start. Recorded live at the AI Security Summit in San Francisco, Simon Maple sits down with Eli Aleyner (Docker), Marcelo Sousa (Snyk) and Ian Livingstone (Keycard), co-authors of Agent Baseline, a security reference architecture for the AI software factory.
+
+The panel unpacks why agents have to be treated as fundamentally unpredictable actors, why sandboxing alone is not enough when skills and MCP servers make the supply chain dynamic, and why approval prompts collapse into fatigue. Marcelo's verdict: sometimes these are kids with chainsaws.
 
 What we cover:
-– What a software factory is: repeatable workflows, a shared execution environment and agent feedback loops
-– Why agent context alone isn't enough, and where harness engineering comes in
-– The three stages of a feedback loop: analyze a data stream, find the problem, request the fix
-– Inner, middle and outer loops, from verifiers on every PR to self-healing in production
-– How Tessl's ""comment diet"" loop catches drift that no single PR causes
-– Operators and stewards: the human roles in a software factory
+– The three levels of autonomy, from coding agents to fully agent-directed workflows
+– Sandboxing coding agents and injecting secrets at the egress point
+– Why the agent supply chain is dynamic: skills, MCP servers and cloned repos
+– Prompt injection, least privilege and agents monitoring other agents in the harness
+– Approval fatigue: YOLO mode vs CYA mode
+– Where to start securing your software factory on Monday morning
 
 Chapters:
 00:00:00 - Introduction
-00:02:36 - What is a software factory?
-00:05:38 - From agents to context to harness engineering
-00:09:15 - The three stages of an agent feedback loop
-00:13:16 - Inner, middle and outer feedback loops
-00:18:35 - Why vague intent breaks agent feedback loops
-00:21:50 - Comment bloat, drift and the rule of three
-00:25:48 - The software factory mindset
-00:27:45 - Loops, feedback loops and meta feedback loops
-00:32:45 - Operators, stewards and building your first loop
+00:03:14 - What Agent Baseline is and who it's for
+00:04:17 - The three levels of software factory autonomy
+00:06:53 - Sandbox boundaries and manufacturing trust in agents
+00:09:22 - Why coding agents should never hold credentials
+00:11:44 - The dynamic agent supply chain: skills and MCP servers
+00:14:57 - Untrusted input, least privilege and agents watching agents
+00:18:02 - Approval fatigue: YOLO mode vs CYA mode
+00:20:22 - Are poisoned agent skills a supply chain problem?
+00:22:45 - Where the panel disagreed, and where to start Monday
 
 Build your software factory, one workflow at a time, with Tessl:
 
 🔔 Subscribe for weekly episodes on AI-native development
 
-Which agent feedback loop would you build first in your own software factory? Tell us in the comments."
+Which level of the software factory are you at today, and what are you locking down first? Tell us in the comments."
 CKqpy8tl1Tg,Adam Larson - Evaluating An LLM's Ability To Code | DevCon Fall 2025,ai-devcon-tessl,AI DevCon (Tessl),Practitioner AI conferences,"Evals, observability & reliability",Tessl,2025,Adam Larson,AI Native Dev,25,2025-11-27T21:58:14Z,https://www.youtube.com/watch?v=CKqpy8tl1Tg,"In this talk I want to share the dimensions I like to look at LLM's from, the path I've taken so far at building testing capabilities, and how much more there is to do to continue research in this space.
 
 Benchmarks will come out and show that some new model is the best at coding, but that doesn't always align with real world usage. This was frustrating to me, and led me down a path of trying to build a way to evaluate in a way that would mimic real world usage.
@@ -74992,9 +75285,6 @@ _a5Lz0oYsHg,João Moura & Lorenze Hay: Designing Reliable Agentic Systems that m
 They walk through the harness every production agent needs: control flow, a plan-execute-observe-replan design, and observability teams can act on. The session uses real production failures and a benchmark where the same model improved from 20% to more than 60% by changing the surrounding system, then closes with a pre-deployment checklist.
 
 Video Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved"
-_x3MdDm_19A,Julia Diament: Cyber Offense Hits Its Moore’s Law Moment,the-ai-conference,The AI Conference,Practitioner AI conferences,Classic ML & data science,The AI Conference,2026,,The AI Conference™,22,2026-10-13T18:33:33Z,https://www.youtube.com/watch?v=_x3MdDm_19A,"Julia Diament presents “Cyber Offense Hits Its Moore’s Law Moment - when compute gets cheap, persistence becomes the exploit.” at The AI Conference 2026.
-
-Video Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved"
 iVZXFXulEZI,"Julia Jose, New York University: Propaganda in the Age of Agentic AI",the-ai-conference,The AI Conference,Practitioner AI conferences,"Agents & orchestration; Classic ML & data science; Governance, ethics & regulation",The AI Conference,2026,,The AI Conference™,20,2026-09-03T15:50:09Z,https://www.youtube.com/watch?v=iVZXFXulEZI,"Julia Jose, PhD Candidate, New York University
 
 Propaganda in the Age of Agentic AI: Balancing Innovation and Ethics
@@ -89314,6 +89604,42 @@ Join this channel to get early access to videos & other perks:
 
 Looking for a unique learning experience?
 Attend the next GOTO conference near you! Get your ticket at https://gotopia.tech"
+aUIbUnWj8N0,Open Source Is Under Attack & AI Made It Worse • Steve Poole & Olimpiu Pop • GOTO 2026,goto,GOTO Conferences,General software conferences,"Governance, ethics & regulation; Science, healthcare & applied ML; Security, safety & red teaming",GOTO,2026,"Steve Poole, Olimpiu Pop",GOTO Conferences,28,2026-10-22T07:23:03Z,https://www.youtube.com/watch?v=aUIbUnWj8N0,"This interview was recorded for GOTO Unscripted. #GOTOcon #GOTOunscripted
+
+Steve Poole - Developer Advocate at HeroDevs & Community Director at London Java Community
+Olimpiu Pop - Technologist & Tech Journalist
+
+RESOURCES
+Steve
+
+Olimpiu
+
+DESCRIPTION
+Steve Poole of HeroDevs, a longtime voice on software supply chain security, tells host Olimpiu Pop that the landscape has hit a ""watershed moment"" in the last few weeks. The long-standing attack methods are simple: typo'd or confusingly named packages, unchecked scripts, inflated version numbers that trick builds into pulling the wrong release, and maintainers who build trust and then turn bad. Developers are among the weakest links because their machines hold so many credentials. The new factor is AI-driven vulnerability discovery, which both attackers and security researchers are using. Steve's concern is that discovery is now industrialized while fixing is not: maintainers who once saw a CVE or two a year may now face batches of them, and he fears more will simply walk away. Unsupported packages are especially exposed, since CVEs against them often never get reported at all. His worst-case scenario is that open source security fixes end up arriving in small commercial enclaves first, as regulation and cyber insurers push companies to pay for maintenance.
+
+The practical advice for engineers is concrete. Fixing an open source dependency yourself is fine once, but then CVEs two through six arrive and you are in the maintenance business. Instead, scrutinize and reduce your dependencies, noting that studies suggest AI-generated apps pick roughly three times more of them than people do. Stay as close to HEAD as you can on maintained releases, and build your pipelines into ""sleek engines"" that can upgrade continuously, because under the EU Cyber Resilience Act ""best efforts"" to fix a vulnerability will not mean a migration in six months (Steve is clear he is not a lawyer). The two close on responsibility: like a compiler's output, AI-generated code is still your code, as Kubernetes' AI policy makes explicit by ruling out AI co-authorship. The hard part is the non-deterministic output, which means thinking harder about testing and proving quality. Steve's closing hope is that the industry becomes more pragmatic about AI's downsides, though he admits so many forces are converging that it's hard to predict where this ends.
+
+TIMECODES
+00:00 Intro
+01:30 A watershed moment for software supply chains
+04:50 How attackers actually get in
+08:59 The CRA, regulators & a surprise enforcer: Insurers
+11:58 Maintainers are walking away
+19:41 Vibe coding brings 3x more dependencies
+24:09 AI-generated code is still your responsibility
+27:46 Outro
+
+RECOMMENDED BOOKS
+Anna L. Davis • Open Source • https://link.amazon/B03AygKpw
+Nadia Asparouhova • Working in Public • https://link.amazon/B01nx6BLp
+Will McGugan • Beginning Python Games Development 2nd ed. • https://amzn.to/4ebBfxu
+Eric Evans • Domain-Driven Design • https://amzn.to/3tnGhwm
+
+CHANNEL MEMBERSHIP BONUS
+Join this channel to get early access to videos & other perks:
+
+Looking for a unique learning experience?
+Attend the next GOTO conference near you! Get your ticket at https://gotopia.tech"
 SDTKhis5vD4,Platform Engineering • Ajay Chankramath & Nic Cheneweth,goto,GOTO Conferences,General software conferences,Enterprise adoption & strategy,GOTO,2026,"Ajay Chankramath, Nic Cheneweth",GOTO Conferences,35,2026-03-31T12:22:28Z,https://www.youtube.com/watch?v=SDTKhis5vD4,"This interview was recorded for GOTO Unscripted.
 
 Ajay Chankramath - Founder & CEO at Platformetrics & Co-Author of ""Effective Platform Engineering""
@@ -90244,6 +90570,22 @@ Robert Axelrod • The Evolution of Cooperation • https://amzn.to/3BSvn67
 Michael Jackson • Software Requirements and Specifications • https://amzn.to/3ql2T14
 Geoffrey West • Scale • http://amzn.to/3eKMbpc
 Donald G. Reinertsen • The Principles of Product Development Flow • https://amzn.to/3hJ2Ye2
+
+CHANNEL MEMBERSHIP BONUS
+Join this channel to get early access to videos & other perks:
+
+Looking for a unique learning experience?
+Attend the next GOTO conference near you! Get your ticket at https://gotopia.tech"
+8ujA-rNhUE4,The Agentic Automation Revolution • Don Syme • Bug Bash EU 2026,goto,GOTO Conferences,General software conferences,Agents & orchestration,GOTO,2026,Don Syme,GOTO Conferences,47,2026-10-21T07:00:31Z,https://www.youtube.com/watch?v=8ujA-rNhUE4,"This presentation was recorded at Bug Bash EU 2026.
+
+Don Syme - Distinguished Engineer at GitHub, Designer of F# & Co-Creator of GitHub Agentic Workflows
+
+RESOURCES
+
+ABSTRACT
+Don Syme, designer of F# and co-originator of async/await, on the shift to agentic automation in software development, and what it means for the way we build and maintain code.
+
+Bluesky • Instagram • LinkedIn
 
 CHANNEL MEMBERSHIP BONUS
 Join this channel to get early access to videos & other perks:
@@ -109990,6 +110332,16 @@ Key themes include the non-determinism challenge of auditing agents (why code-st
 They close with practical advice: don’t treat “Top 10” as checkbox compliance—use it as a guide to focus on what applies to your use case, and follow trusted hubs (government, standards bodies, OWASP/NIST) to stay current.
 
 YouTube Hashtags"
+csVbOSTz_ng,AI Models Vote on Cyber Attacks + Open-Weight GLM 5.3 Guardrail Removal | EP20,owasp-genai,OWASP GenAI Security Project,Security conferences,"Security, safety & red teaming; Training, fine-tuning & model building",OWASP GenAI Security,2026,,OWASP GenAI Security Project,26,2026-10-22T18:27:59Z,https://www.youtube.com/watch?v=csVbOSTz_ng,"Threat actors are no longer relying on a single AI model to run an attack. Rachel James and Dr. Bryan Nakayama break down new research on multi-model command and control, and on how open-weight models are putting frontier-level cyber capability in anyone's hands.
+
+Key Takeaway:
+Frontier labs can't see what happens on infrastructure they don't control. Once safeguards can be removed cheaply, defenders lose both the guardrails and the early-warning reporting they've relied on.
+
+Hosted by Rachel James & Dr. Bryan Nakayama
+
+Produced by the Gen AI Security Project with help from RumRunner Media
+
+Hashtags:"
 ywH6SrutWag,AI’s Zero-Day Wake-Up Call: What Mythos Means for Cyber Defense,owasp-genai,OWASP GenAI Security Project,Security conferences,"Science, healthcare & applied ML; Security, safety & red teaming; Training, fine-tuning & model building",OWASP GenAI Security,2026,,OWASP GenAI Security Project,30,2026-06-02T07:00:30Z,https://www.youtube.com/watch?v=ywH6SrutWag,"In this episode of The Threat Intelligence Podcast, Rachel James and Brian Nakayama of the OWASP GenAI AI Threat Intelligence Initiative about Anthropic’s Mythos model and the changing role of AI in vulnerability discovery.
 
 Rachel explains how earlier AI models offered limited value to attackers unless the user already had significant technical expertise. Those systems could help with pieces of a task, but they struggled to reason through vulnerabilities or generate reliable exploit paths on their own. Mythos, by contrast, appears to demonstrate a more advanced ability to analyze source code, understand how functions behave, identify weaknesses, and assist in building working exploits.

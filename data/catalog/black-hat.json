@@ -1,7 +1,7 @@
 {
   "slug": "black-hat",
   "name": "Black Hat",
-  "enumerated_at": "2026-10-20T11:49:13+00:00",
+  "enumerated_at": "2026-10-23T04:03:31+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@BlackHatOfficialYT/videos",
@@ -10,7 +10,7 @@
       "count": 600
     }
   ],
-  "count": 611,
+  "count": 612,
   "videos": {
     "-BCngzJC1Rc": {
       "video_id": "-BCngzJC1Rc",
@@ -367,7 +367,7 @@
     },
     "1PZ8fu1v14Q": {
       "video_id": "1PZ8fu1v14Q",
-      "title": "Black Hat Europe 2026 | Shaping the Future of AI and Cybersecurity",
+      "title": "The AI Reality. The Human Response. | Black Hat Europe 2026, London",
       "duration_s": 64,
       "channel": "Black Hat",
       "label": "Black Hat",
@@ -3121,6 +3121,15 @@
       "published_at": "2025-09-16T16:58:25Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:44+00:00"
+    },
+    "Muk6elQ_qcs": {
+      "video_id": "Muk6elQ_qcs",
+      "title": "Black Hat Europe 2026 | Hear From Our Sponsors",
+      "duration_s": 40,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
     },
     "N-gZavGUKWs": {
       "video_id": "N-gZavGUKWs",
