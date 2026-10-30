@@ -1,0 +1,1315 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Talks Universe</title>
+<meta name="description" content="Search recorded talks from the world's AI conferences — by topic, conference, speaker or what was actually said on stage.">
+<meta name="color-scheme" content="dark">
+<style>
+  :root {
+    --bg: #0f1115;
+    --card: #181b22;
+    --accent: #8fd3ff;
+    --text: #e6e6e6;
+    --muted: #9aa3b2;
+    --border: #262b36;
+    --chip: #20242d;
+    --accent-soft: rgba(143,211,255,0.12);
+    --accent-line: rgba(143,211,255,0.35);
+    --accent-hover: rgba(143,211,255,0.5);
+    --radius: 12px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  /* Any author rule that sets `display` outranks the UA stylesheet's [hidden]
+     rule, so the controls the script hides need this to stay hidden. */
+  [hidden] { display: none !important; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg); color: var(--text); line-height: 1.6; padding: 0 0 60px;
+  }
+  a { color: var(--accent); }
+  .wrap { max-width: 900px; margin: 0 auto; padding: 0 20px; }
+
+  header {
+    background: linear-gradient(135deg, #14161c 0%, #1d2027 100%);
+    border-bottom: 1px solid var(--border);
+    padding: 40px 24px 30px; text-align: center;
+  }
+  .head-in { max-width: 900px; margin: 0 auto; }
+  .kicker {
+    display: inline-block; color: var(--accent); font-size: 0.75rem; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 12px;
+  }
+  .kicker a { text-decoration: none; }
+  .kicker a:hover { text-decoration: underline; }
+  h1 { font-size: 1.9rem; letter-spacing: -0.02em; margin-bottom: 8px; }
+  .sub { color: var(--muted); font-size: 0.95rem; max-width: 660px; margin: 0 auto 22px; }
+
+  .searchbar { position: relative; max-width: 640px; margin: 0 auto; text-align: left; }
+  #q {
+    width: 100%; padding: 13px 18px 13px 44px; font-size: 1rem; font-family: inherit;
+    color: var(--text); background: var(--card);
+    border: 1px solid var(--border); border-radius: 999px;
+  }
+  #q::placeholder { color: var(--muted); }
+  #q:focus { outline: none; border-color: var(--accent-line);
+    box-shadow: 0 0 0 3px rgba(143,211,255,0.13); }
+  .searchbar svg { position: absolute; left: 17px; top: 50%; transform: translateY(-50%);
+    width: 17px; height: 17px; fill: none; stroke: var(--muted); stroke-width: 2; }
+  .hint { margin: 10px auto 0; max-width: 660px; font-size: 0.8rem; color: var(--muted); }
+  .hint code { background: rgba(255,255,255,0.06); color: var(--accent);
+    padding: 2px 7px; border-radius: 999px; font-size: 0.75rem; }
+
+  .filters { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px;
+    align-items: center; justify-content: center; }
+  select, .toggle {
+    font: inherit; font-size: 0.82rem; padding: 7px 14px; color: var(--text);
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 999px; cursor: pointer; max-width: 260px;
+  }
+  select:hover, .toggle:hover { border-color: var(--accent-hover); }
+  .toggle.on { background: var(--accent-soft); border-color: var(--accent-line);
+    color: var(--accent); font-weight: 600; }
+  #clear { background: none; border: 0; color: var(--muted); font: inherit; font-size: 0.82rem;
+    cursor: pointer; text-decoration: underline; padding: 7px 4px; }
+  #clear:hover { color: var(--accent); }
+  /* The speaker box is a filter, so it dresses like the selects beside it. */
+  #f-spk { font: inherit; font-size: 0.82rem; padding: 7px 14px; color: var(--text);
+    background: var(--card); border: 1px solid var(--border); border-radius: 999px; width: 170px; }
+  #f-spk:hover { border-color: var(--accent-hover); }
+  #f-spk:focus { outline: none; border-color: var(--accent-line);
+    box-shadow: 0 0 0 3px rgba(143,211,255,0.13); }
+  #f-spk::placeholder { color: var(--muted); }
+
+  .tools { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 14px;
+    font-size: 0.78rem; color: var(--muted); }
+  .tools button { font: inherit; font-size: 0.78rem; padding: 4px 12px; color: var(--muted);
+    background: none; border: 1px solid var(--border); border-radius: 999px; cursor: pointer; }
+  .tools button:hover { color: var(--accent); border-color: var(--accent-line); }
+  .tools .kbd { margin-left: auto; }
+
+  /* Deliberately not uppercased: this line echoes back what the visitor typed,
+     and their query is not ours to restyle. */
+  .status { padding: 26px 0 14px; color: var(--muted); font-size: 0.85rem;
+    display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+  .status b { color: var(--accent); font-weight: 700; }
+
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 20px 22px; margin-bottom: 14px; transition: border-color 0.15s ease;
+  }
+  .card:hover { border-color: var(--accent-hover); }
+  /* The card j/k landed on. */
+  .card.cur { border-color: var(--accent); }
+  .card h2 { font-size: 1.15rem; font-weight: 600; line-height: 1.4;
+    letter-spacing: -0.01em; margin-bottom: 6px; }
+  .card h2 a { color: var(--text); text-decoration: none; }
+  .card h2 a:hover { color: var(--accent); }
+  .who { font-size: 0.88rem; color: var(--text); margin-bottom: 10px; }
+  .who .co { color: var(--muted); }
+  .badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 11px; }
+  .b { font-family: inherit; font-size: 0.72rem; padding: 3px 11px; border-radius: 999px;
+    background: var(--chip); color: var(--muted); white-space: nowrap;
+    border: 1px solid transparent; line-height: 1.5; }
+  .b.conf { background: var(--accent-soft); color: var(--accent); font-weight: 600;
+    cursor: pointer; }
+  .b.conf:hover { border-color: var(--accent-line); }
+  .b.tag { cursor: pointer; }
+  .b.tag:hover { border-color: var(--accent-line); color: var(--accent); }
+    .b.together { background: var(--accent-soft); color: var(--accent); }
+  .b.deep { font-style: italic; }
+  /* A topic chip sets the Topic filter, the way the conference badge sets its
+     filter; a tag chip runs a search. Outlined rather than filled, so the two
+     kinds of chip read differently. */
+  .b.topic { cursor: pointer; background: none; border-color: var(--border); color: var(--muted); }
+  .b.topic:hover { border-color: var(--accent-line); color: var(--accent); }
+  .b.tag:focus-visible, .b.conf:focus-visible, .b.topic:focus-visible {
+    outline: 2px solid var(--accent); outline-offset: 2px; }
+  .absw { margin-bottom: 13px; }
+  .abs { font-size: 0.9rem; color: var(--muted); white-space: pre-wrap; }
+  /* Collapsed to a few lines; the button below only appears when there is
+     actually something hidden, which is measured after render. */
+  .abs.clamped { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 4;
+    line-clamp: 4; overflow: hidden; }
+  .abs-more { display: inline-block; margin-top: 7px; border: 0; background: none;
+    font: inherit; font-size: 0.8rem; font-weight: 600; color: var(--accent); cursor: pointer; }
+  .abs-more:hover { text-decoration: underline; }
+  mark { background: rgba(143,211,255,0.24); color: #dcefff; border-radius: 3px; padding: 0 2px; }
+  .links { display: flex; flex-wrap: wrap; gap: 16px; font-size: 0.85rem; }
+  .links a { text-decoration: none; font-weight: 600; }
+  .links a:hover { text-decoration: underline; }
+
+  .moments { margin-top: 15px; border-top: 1px solid var(--border); padding-top: 14px; }
+  .moments .mo-head { font-size: 0.72rem; color: var(--accent); font-weight: 600;
+    letter-spacing: 0.08em; text-transform: uppercase; }
+  .mo { display: flex; gap: 12px; font-size: 0.88rem; margin-top: 11px; align-items: baseline; }
+  .mo a.ts {
+    display: inline-flex; align-items: center; justify-content: center;
+    padding: 1px 12px; border-radius: 999px; background: var(--accent-soft); color: var(--accent);
+    font-weight: 700; font-size: 0.8rem; font-variant-numeric: tabular-nums;
+    text-decoration: none; white-space: nowrap; flex-shrink: 0;
+  }
+  .mo a.ts:hover { background: rgba(143,211,255,0.22); }
+  .mo span { color: var(--muted); }
+
+  .empty { text-align: center; padding: 54px 20px; color: var(--muted);
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); }
+  .empty h3 { color: var(--text); margin-bottom: 8px; font-size: 1.05rem; }
+  .spinner { display: inline-block; width: 13px; height: 13px; border: 2px solid var(--border);
+    border-top-color: var(--accent); border-radius: 50%; animation: spin .7s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  #more {
+    display: block; margin: 22px auto 0; padding: 10px 24px;
+    font: inherit; font-size: 0.9rem; font-weight: 700;
+    background: none; border: 1px solid var(--accent-line); border-radius: 999px;
+    color: var(--accent); cursor: pointer; transition: background 0.15s ease, color 0.15s ease;
+  }
+  #more:hover { background: var(--accent); color: #14161c; }
+  footer { max-width: 900px; margin: 48px auto 0; padding: 0 20px;
+    color: var(--muted); font-size: 0.8rem; text-align: center; }
+</style>
+</head>
+<body>
+<header>
+  <div class="head-in">
+    <span class="kicker">AI Talks Universe</span>
+    <h1>Search the world's AI conference talks</h1>
+    <p class="sub" id="sub">Loading the catalogue…</p>
+    <div class="searchbar">
+      <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      <input id="q" type="search" autocomplete="off" spellcheck="false"
+             aria-label="Search talks by topic, speaker, conference or what was said on stage"
+             aria-describedby="hint"
+             placeholder="Search topics, speakers, conferences — e.g. context engineering">
+    </div>
+    <p class="hint" id="hint">Searches titles, descriptions, speakers and — where a transcript has
+      been fetched — what was actually said on stage. Try <code>agent evals</code>,
+      <code>"prompt injection"</code>, <code>context engineering</code>;
+      also <code>title:rag</code>, <code>speaker:chase</code>, <code>year:2025</code>,
+      <code>-kubernetes</code>, <code>rust OR zig</code>, <code>kube*</code>.</p>
+    <div class="filters">
+      <select id="f-conf" aria-label="Filter by conference"><option value="">All conferences</option></select>
+      <select id="f-cat" aria-label="Filter by conference type"><option value="">All conference types</option></select>
+      <select id="f-topic" aria-label="Filter by topic"><option value="">All topics</option></select>
+      <select id="f-year" aria-label="Filter by year"><option value="">All years</option></select>
+      <select id="f-len" aria-label="Filter by length">
+        <option value="">Any length</option>
+        <option value="lt10">Under 10 min</option>
+        <option value="10to30">10–30 min</option>
+        <option value="30to60">30–60 min</option>
+        <option value="gt60">Over 60 min</option>
+      </select>
+      <select id="f-sort" aria-label="Sort results">
+        <option value="rel">Most relevant</option>
+        <option value="new">Newest first</option>
+        <option value="title">Title A–Z</option>
+        <option value="short">Shortest first</option>
+        <option value="long">Longest first</option>
+      </select>
+      <input id="f-spk" type="search" list="spk-list" autocomplete="off" spellcheck="false"
+             aria-label="Filter by speaker" placeholder="Speaker">
+      <datalist id="spk-list"></datalist>
+      <button class="toggle" id="f-tr" type="button" hidden
+              title="Only talks whose transcript has been fetched and indexed">Transcript only</button>
+      <button class="toggle" id="f-spoken" type="button" hidden
+              title="Match only what was said on stage — titles, descriptions and tags are not consulted">Spoken only</button>
+      <button id="clear" type="button">Reset</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="status" id="status" role="status" aria-live="polite"></div>
+  <div class="tools" id="tools" hidden>
+    <span>Export</span>
+    <button type="button" id="x-md" title="Download the current results as a Markdown list">Markdown</button>
+    <button type="button" id="x-csv" title="Download the current results as CSV">CSV</button>
+    <button type="button" id="x-link" title="Copy a link to this view">Copy link</button>
+    <span class="kbd"><kbd>j</kbd>/<kbd>k</kbd> move · <kbd>Enter</kbd> opens · <kbd>/</kbd> searches</span>
+  </div>
+  <div id="results"></div>
+  <button id="more" hidden>Show more</button>
+</main>
+
+<footer>
+  Built from public YouTube playlists listed in
+  <a href="ai-conferences.md">ai-conferences.md</a> ·
+  <a href="https://github.com/ppruchnerovic/ai-talks-universe">source on GitHub</a>
+</footer>
+
+<script>
+(() => {
+'use strict';
+const PAGE = 20;
+const $ = s => document.querySelector(s);
+const el = { q: $('#q'), res: $('#results'), status: $('#status'), sub: $('#sub'), more: $('#more'),
+             spk: $('#f-spk'), tools: $('#tools') };
+
+// search-meta.json keys, kept short because every visitor downloads the whole
+// file before typing anything:
+//   i  dense index (also the key used by the transcript postings)
+//   v  YouTube video id      t  title            d  description (clipped)
+//   s  speakers              c  conference name  cs conference slug
+//   g  conference type (the registry `category`)   e  edition   y  year
+//   m  duration in minutes   a  tags             p  published_at
+//   u  conference site       w  transcript word count (0 = not fetched)
+//   k  topics — the per-talk facet, as indices into the file's `topics`
+//      list; absent when the talk has none. Resolved to names at boot.
+//   l  the talk's own page, only when there is no YouTube video to link
+//   x  1 when the transcript's timings are interpolated, not measured
+//   lg the transcript's language code, only when it is not "en"
+// The description here is a display clip. Its terms are searched through the
+// sharded index, which carries every description whole, stemmed.
+let TALKS = [], BY_N = new Map(), MANIFEST = null, STOP = new Set(), DF = new Map();
+const SHARDS = new Map();          // letter -> {term: {f: idf, p: [[n, tf, positions]]}}
+const TRANSCRIPTS = new Map();     // video id -> parsed transcript, fetched once per talk
+// stem -> the synonym group it belongs to, as a list of alternatives; each
+// alternative is the stems of one member, so "language model" is two.
+const SYN = new Map();
+let shown = PAGE, reqSeq = 0, ALL_TR = false, ANY_TR = false;
+// Remembering "newest first" across visits: the one sort a regular reader
+// picks every time. Storage can be walled off (private windows), so it is
+// touched only through these.
+const PREF = 'atu.sort';
+const prefGet = () => { try { return localStorage.getItem(PREF); } catch (_) { return null; } };
+const prefSet = v => { try { v ? localStorage.setItem(PREF, v) : localStorage.removeItem(PREF); } catch (_) {} };
+
+const publishedAt = t => {
+  const d = t.p ? new Date(t.p) : null;
+  if (d && !isNaN(d)) return d.getTime();
+  return t.y ? new Date(t.y, 0, 1).getTime() : -Infinity;
+};
+
+// --- porter stemmer ---
+// Porter's 1980 algorithm, step for step, the same function as atu.stem() in
+// Python — the index is keyed on that one's output and queries are stemmed
+// by this one, so they have to agree on every word or a search silently
+// matches nothing. tools/test_stem.py runs both over the whole corpus
+// vocabulary and diffs them. Only [a-z]+ words are stemmed; a token with a
+// digit or punctuation ("gpt-4", "c++", ".net") passes through unchanged.
+const VOWELS = new Set('aeiou');
+function isCons(w, i) {
+  const c = w[i];
+  if (VOWELS.has(c)) return false;
+  if (c === 'y') return i === 0 || !isCons(w, i - 1);
+  return true;
+}
+function measure(st) {
+  let m = 0, i = 0;
+  const n = st.length;
+  while (i < n && isCons(st, i)) i++;
+  while (i < n) {
+    while (i < n && !isCons(st, i)) i++;
+    if (i >= n) break;
+    m++;
+    while (i < n && isCons(st, i)) i++;
+  }
+  return m;
+}
+function hasVowel(st) { for (let i = 0; i < st.length; i++) if (!isCons(st, i)) return true; return false; }
+function endsDouble(w) { return w.length >= 2 && w[w.length - 1] === w[w.length - 2] && isCons(w, w.length - 1); }
+function endsCVC(w) {
+  const n = w.length;
+  if (n < 3) return false;
+  if (!(isCons(w, n - 1) && !isCons(w, n - 2) && isCons(w, n - 3))) return false;
+  return !'wxy'.includes(w[n - 1]);
+}
+const STEP2 = [['ational', 'ate'], ['tional', 'tion'], ['enci', 'ence'], ['anci', 'ance'],
+  ['izer', 'ize'], ['bli', 'ble'], ['alli', 'al'], ['entli', 'ent'], ['eli', 'e'],
+  ['ousli', 'ous'], ['ization', 'ize'], ['ation', 'ate'], ['ator', 'ate'],
+  ['alism', 'al'], ['iveness', 'ive'], ['fulness', 'ful'], ['ousness', 'ous'],
+  ['aliti', 'al'], ['iviti', 'ive'], ['biliti', 'ble'], ['logi', 'log']];
+const STEP3 = [['icate', 'ic'], ['ative', ''], ['alize', 'al'], ['iciti', 'ic'], ['ical', 'ic'],
+  ['ful', ''], ['ness', '']];
+const STEP4 = ['al', 'ance', 'ence', 'er', 'ic', 'able', 'ible', 'ant', 'ement', 'ment', 'ent',
+  'ion', 'ou', 'ism', 'ate', 'iti', 'ous', 'ive', 'ize'];
+function stem(word) {
+  let w = word;
+  if (w.length <= 2 || !/^[a-z]+$/.test(w)) return w;
+  // Step 1a
+  if (w.endsWith('sses')) w = w.slice(0, -2);
+  else if (w.endsWith('ies')) w = w.slice(0, -2);
+  else if (w.endsWith('ss')) { /* keep */ }
+  else if (w.endsWith('s')) w = w.slice(0, -1);
+  // Step 1b
+  if (w.endsWith('eed')) {
+    if (measure(w.slice(0, -3)) > 0) w = w.slice(0, -1);
+  } else {
+    let stripped = null;
+    if (w.endsWith('ed') && hasVowel(w.slice(0, -2))) stripped = w.slice(0, -2);
+    else if (w.endsWith('ing') && hasVowel(w.slice(0, -3))) stripped = w.slice(0, -3);
+    if (stripped !== null) {
+      w = stripped;
+      if (w.endsWith('at') || w.endsWith('bl') || w.endsWith('iz')) w += 'e';
+      else if (endsDouble(w) && !'lsz'.includes(w[w.length - 1])) w = w.slice(0, -1);
+      else if (measure(w) === 1 && endsCVC(w)) w += 'e';
+    }
+  }
+  // Step 1c
+  if (w.endsWith('y') && hasVowel(w.slice(0, -1))) w = w.slice(0, -1) + 'i';
+  // Step 2
+  for (const [suf, rep] of STEP2) {
+    if (w.endsWith(suf)) {
+      if (measure(w.slice(0, -suf.length)) > 0) w = w.slice(0, -suf.length) + rep;
+      break;
+    }
+  }
+  // Step 3
+  for (const [suf, rep] of STEP3) {
+    if (w.endsWith(suf)) {
+      if (measure(w.slice(0, -suf.length)) > 0) w = w.slice(0, -suf.length) + rep;
+      break;
+    }
+  }
+  // Step 4
+  for (const suf of STEP4) {
+    if (w.endsWith(suf)) {
+      const base = w.slice(0, -suf.length);
+      if (measure(base) > 1 && (suf !== 'ion' || (base && 'st'.includes(base[base.length - 1])))) w = base;
+      break;
+    }
+  }
+  // Step 5a
+  if (w.endsWith('e')) {
+    const base = w.slice(0, -1);
+    const m = measure(base);
+    if (m > 1 || (m === 1 && !endsCVC(base))) w = base;
+  }
+  // Step 5b
+  if (measure(w) > 1 && endsDouble(w) && w.endsWith('l')) w = w.slice(0, -1);
+  return w;
+}
+// --- end porter stemmer ---
+
+// The same tokens as atu.tokenize(): lowercase, stopwords dropped on the
+// surface form, and the parts of a compound as well as the whole, so "spec
+// driven" finds "spec-driven".
+const TOKEN_RE = /[a-z0-9][a-z0-9+#.\-]*/g;
+function surface(s) {
+  const out = [];
+  for (let t of String(s || '').toLowerCase().match(TOKEN_RE) || []) {
+    t = t.replace(/^[.\-]+|[.\-]+$/g, '');
+    if (t.length < 2 || STOP.has(t)) continue;
+    out.push(t);
+    if (t.includes('-') || t.includes('.')) {
+      for (const part of t.split(/[.\-]+/)) {
+        if (part.length >= 2 && part !== t && !STOP.has(part)) out.push(part);
+      }
+    }
+  }
+  return out;
+}
+// …each one stemmed — what the index is keyed on, as atu.stems() does it. A
+// stem shorter than two characters is dropped, because a shard key needs two.
+function tokenize(s) {
+  const out = [];
+  for (const t of surface(s)) { const st = stem(t); if (st.length >= 2) out.push(st); }
+  return out;
+}
+
+const esc = s => String(s == null ? '' : s)
+  .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+// ---------- loading ----------
+async function boot() {
+  // The manifest carries the stopword list the metadata has to be tokenised
+  // with, so it is awaited before the catalogue is indexed, not after.
+  const [meta, manifest] = await Promise.all([
+    fetch('data/search-meta.json').then(r => r.json()),
+    fetch('data/tindex/_manifest.json').then(r => r.ok ? r.json() : null).catch(() => null),
+  ]);
+  MANIFEST = manifest;
+  if (MANIFEST) STOP = new Set(MANIFEST.stopwords);
+  TALKS = meta.talks;
+  const TOPIC_NAMES = meta.topics || [];
+  TALKS.forEach(t => {
+    BY_N.set(t.i, t);
+    t.k = (t.k || []).map(i => TOPIC_NAMES[i]).filter(Boolean);
+    t._hay = [t.t, t.d, (t.a || []).join(' '), (t.s || []).join(' '), t.c, t.e]
+      .join('   ').toLowerCase();
+    // Per-field token sets. Matching on tokens rather than raw substrings is what
+    // keeps a search for "rust" out of every talk with the word "trust" in it.
+    t._f = {
+      title:      new Set(tokenize(t.t)),
+      tags:       new Set(tokenize((t.a || []).join(' '))),
+      speakers:   new Set(tokenize((t.s || []).join(' '))),
+      conference: new Set(tokenize(`${t.c || ''} ${t.e || ''}`)),
+      // The conference type (t.g) is a filter, never a field: a venue label is
+      // not evidence about a talk, and scoring it made "security" match every
+      // talk at ten security conferences. Topics stay out for the same reason.
+    };
+    // The description's terms live in the shards, whole; what this file
+    // carries is a clip for display. Only without an index at all is the clip
+    // the best there is, and then it is searched.
+    if (!MANIFEST) t._f.abstract = new Set(tokenize(t.d));
+    t._tok = new Set();
+    for (const s of Object.values(t._f)) for (const x of s) t._tok.add(x);
+  });
+
+  // Document frequency over the metadata this file holds, so a rare word like
+  // "sdlc" outweighs a word like "ai" that this entire corpus uses. For a term
+  // the shards know, their `m` — which counts the full descriptions too —
+  // replaces this; see dfOf().
+  for (const t of TALKS) for (const tok of t._tok) DF.set(tok, (DF.get(tok) || 0) + 1);
+
+  const withTr = TALKS.filter(t => t.w > 0).length;
+  const confs = new Set(TALKS.map(t => t.cs)).size;
+  el.sub.textContent = `${TALKS.length.toLocaleString()} talks from ${confs} conferences · ` +
+    (withTr ? `${withTr.toLocaleString()} full transcripts searchable`
+            : 'transcripts not fetched yet');
+  // "Transcript only" says nothing when every talk has one; hide it rather than
+  // ship a filter that matches everything.
+  ALL_TR = withTr === TALKS.length;
+  ANY_TR = withTr > 0;
+  $('#f-tr').hidden = ALL_TR;
+  // …and "Spoken only" says nothing when there is nothing spoken to search.
+  $('#f-spoken').hidden = !ANY_TR;
+
+  // The synonym groups the CLI expands with, from the same list (atu.SYNONYMS
+  // via the manifest), keyed by stem so that "databases" lands in the `db`
+  // group the way "database" does. Only a member that is one stem can be
+  // typed as one bare word, so only those are keys; a phrase member is
+  // reachable as an alternative, never as a trigger — as in query.py.
+  for (const group of (MANIFEST && MANIFEST.synonyms) || []) {
+    const alts = [], seen = new Set();
+    for (const name of group) {
+      const stems = tokenize(name);
+      const key = stems.join(' ');
+      if (stems.length && !seen.has(key)) { seen.add(key); alts.push({ stems, name }); }
+    }
+    for (const a of alts) if (a.stems.length === 1) SYN.set(a.stems[0], alts);
+  }
+
+  fillFilters();
+  readHash();
+  run();
+}
+
+function fillFilters() {
+  // Each option remembers its own name, since render() appends a count to it.
+  const opt = (name, value) => { const o = new Option(name, value); o.dataset.name = name; return o; };
+  const confs = new Map();
+  TALKS.forEach(t => confs.set(t.cs, t.c));
+  [...confs].sort((a, b) => a[1].localeCompare(b[1]))
+    .forEach(([slug, name]) => $('#f-conf').add(opt(name, slug)));
+  [...new Set(TALKS.map(t => t.g).filter(Boolean))].sort()
+    .forEach(v => $('#f-cat').add(opt(v, v)));
+  // Topics are multi-valued, so the options are the union of every talk's
+  // list — and, unlike the conference type, a talk may match several of them.
+  [...new Set(TALKS.flatMap(t => t.k || []))].sort()
+    .forEach(v => $('#f-topic').add(opt(v, v)));
+  [...new Set(TALKS.map(t => t.y).filter(Boolean))].sort((a, b) => b - a)
+    .forEach(v => $('#f-year').add(opt(String(v), v)));
+  for (const o of $('#f-len').options) o.dataset.name = o.textContent;
+  // Every identified speaker, once, for the typeahead beside the selects.
+  const speakers = [...new Set(TALKS.flatMap(t => t.s || []))].sort((a, b) => a.localeCompare(b));
+  $('#spk-list').innerHTML = speakers.map(s => `<option value="${esc(s)}">`).join('');
+}
+
+// Two characters, and it must agree exactly with shard_key() in
+// build_index.py — a disagreement is silent, since asking for a shard the
+// manifest does not list just drops the transcript layer. One character per
+// shard meant every term starting with "s" shared a 4 MB file that was
+// downloaded whole to answer one query. tokenize() drops terms shorter than
+// two characters, so the second one is always there.
+const shardChar = c =>
+  (c >= 'a' && c <= 'z') ? c : ((c >= '0' && c <= '9') ? '0' : '_');
+const shardKeyOf = term => shardChar(term[0]) + shardChar(term[1]);
+
+async function loadShards(terms) {
+  if (!MANIFEST) return;
+  const need = [...new Set(terms.map(shardKeyOf))]
+    .filter(k => MANIFEST.shards.includes(k) && !SHARDS.has(k));
+  await Promise.all(need.map(async k => {
+    try { SHARDS.set(k, await fetch(`data/tindex/${k}.json`).then(r => r.json())); }
+    catch (_) { SHARDS.set(k, {}); }
+  }));
+}
+
+const shardOf = term => SHARDS.get(shardKeyOf(term));
+
+// ---------- scoring ----------
+const W = { title: 9, tags: 5, speakers: 4, conference: 3, abstract: 2 };
+
+// Talks whose metadata says the term, description included when the shard
+// for it has loaded — and it has, by the time anything is scored.
+const entryOf = term => { const sh = shardOf(term); return sh ? sh[term] : undefined; };
+const dfOf = term => { const e = entryOf(term); return e && e.m != null ? e.m : (DF.get(term) || 0); };
+const idf = term => Math.log(1 + TALKS.length / (1 + dfOf(term)));
+// How many talks say the term anywhere — metadata or transcript. Relaxation
+// drops the word this is largest for.
+const talksWith = term => { const e = entryOf(term); return dfOf(term) + (e && e.p ? e.p.length : 0); };
+
+// Exact token hit scores full weight; a prefix hit ("agent" -> "agentic") scores
+// less. Nothing matches mid-word. A stem under four characters is not tried
+// as a prefix unless the query asked for it with a star ("ml*").
+function fieldHit(set, term, force) {
+  if (set.has(term)) return 1;
+  if (force || term.length >= 4) { for (const tok of set) if (tok.startsWith(term)) return 0.55; }
+  return 0;
+}
+
+// A term is an object: `s` the stem, `w` the word as typed, `prefix` when it
+// carried a star, `fields` the metadata fields it is confined to (`title:`,
+// `speaker:`) and `scope` — 'both', 'meta' for a field-scoped term, 'tr' for
+// `transcript:`. A hit is remembered by stem, so two terms with one stem are
+// one term.
+function scoreMeta(t, terms, phrases, described) {
+  let s = 0;
+  const matched = new Set(), deep = new Set();
+  for (const term of terms) {
+    let hit = 0, inField = false;
+    for (const field of term.fields || META_FIELDS) {
+      if (!t._f[field]) continue;
+      const h = fieldHit(t._f[field], term.s, term.prefix) * W[field];
+      if (h) inField = true;
+      hit += h;
+    }
+    // The description layer comes from the shard: the whole description,
+    // stemmed, not the clip on the card.
+    const d = !term.fields && described.get(term.s);
+    if (d && d.has(t.i)) { hit += W.abstract; if (!inField) deep.add(term.s); }
+    if (hit) { matched.add(term.s); s += hit * idf(term.s); }
+  }
+  for (const ph of phrases) {
+    if (ph.fields ? fieldText(t, ph.fields[0]).includes(ph.text) : t._hay.includes(ph.text)) {
+      s += 14 * Math.max(1, ...terms.map(x => idf(x.s)));
+    }
+  }
+  return { score: s, matched, deep };
+}
+
+const META_FIELDS = ['title', 'tags', 'speakers', 'conference', 'abstract'];
+const fieldText = (t, field) =>
+  (field === 'title' ? t.t || '' : field === 'speakers' ? (t.s || []).join(', ') : t._hay).toLowerCase();
+
+// Passage indices arrive base36 delta-encoded: "2f.1.4" -> {87, 88, 92}.
+function decodePositions(s) {
+  const out = new Set();
+  if (!s) return out;
+  let cur = 0;
+  for (const part of s.split('.')) { cur += parseInt(part, 36); out.add(cur); }
+  return out;
+}
+
+function scoreTranscripts(terms) {
+  const out = new Map();
+  if (!MANIFEST) return out;
+  const { avg_doc_len: avg, doc_len: len } = MANIFEST;
+  const k1 = 1.4, b = 0.72;
+  for (const term of terms) {
+    const shard = shardOf(term.s);
+    if (!shard) continue;
+    // The exact stem; failing that — or when a star asked for it — the twelve
+    // most-said stems it prefixes, so "kube" still reaches "kubernet". Stemming
+    // already folds "agents" and "agentic" onto "agent", so this is for the
+    // truncated query, not the inflected one.
+    const keys = shard[term.s] && !term.prefix ? [term.s]
+      : Object.keys(shard).filter(w => w.startsWith(term.s) && shard[w].p)
+          .sort((a, b) => shard[b].p.length - shard[a].p.length).slice(0, 12);
+    if (term.prefix && shard[term.s] && shard[term.s].p && !keys.includes(term.s)) keys.unshift(term.s);
+    for (const key of keys) {
+      const e = shard[key];
+      if (!e.p) continue;                     // a description-only stem
+      const decay = key === term.s ? 1 : 0.45;
+      for (const [n, tf, pos] of e.p) {
+        const dl = len[n] || avg;
+        const norm = tf * (k1 + 1) / (tf + k1 * (1 - b + b * dl / avg));
+        let rec = out.get(n);
+        if (!rec) { rec = { score: 0, matched: new Set(), segs: new Map() }; out.set(n, rec); }
+        rec.score += e.f * norm * decay;
+        rec.matched.add(term.s);
+        if (pos) {
+          let set = rec.segs.get(term.s);
+          if (!set) { set = new Set(); rec.segs.set(term.s, set); }
+          for (const i of decodePositions(pos)) set.add(i);
+        }
+      }
+    }
+  }
+  return out;
+}
+
+// Whole-transcript BM25 cannot tell a talk that argues about "context
+// engineering" from one that says "engineering" throughout and "context" once
+// in an unrelated aside. query.py can, because it scores individual ~25-word
+// passages. These weights mirror its W_SEG, and the bonus saturates at three
+// good passages so one long talk cannot run away with the ranking.
+const PASSAGE_W = 1.6;
+const NEAR_W = 0.5;
+const SATURATE = Math.log(4);
+
+// The passages in which every set has a member, and those in which every set
+// has one within a passage either side. A set here is one query group: a
+// passage that says "k8s" counts as saying "kubernetes".
+function cooccur(sets) {
+  sets = sets.slice().sort((a, b) => a.size - b.size);   // scan the rarest group
+  let together = 0, near = 0;
+  for (const i of sets[0]) {
+    if (sets.every(s => s.has(i))) together++;
+    else if (sets.every(s => s.has(i) || s.has(i - 1) || s.has(i + 1))) near++;
+  }
+  return { together, near };
+}
+
+function groupSegs(rec, group) {
+  const out = new Set();
+  for (const alt of group.alts) for (const s of alt) for (const i of rec.segs.get(s) || []) out.add(i);
+  return out;
+}
+
+function passageFactor(rec, groups) {
+  if (groups.length < 2) return { factor: 1, together: 0 };   // nothing to co-occur with
+  const sets = groups.map(g => groupSegs(rec, g));
+  if (sets.some(s => !s.size)) return { factor: 1, together: 0 };   // some group is never spoken
+  const { together, near } = cooccur(sets);
+  // Scattered terms are not disqualifying, so this only ever promotes.
+  return { together, factor: 1 + PASSAGE_W * Math.min(1, Math.log1p(together) / SATURATE)
+                                + NEAR_W * Math.min(1, Math.log1p(near) / SATURATE) };
+}
+
+// Every talk that says every group, scored. The gate is what lets both layers
+// be scored on the OR of the words without one common word like "ai" pulling
+// in the whole corpus. A group passes on any of its alternatives, every stem
+// of that alternative present — "language model" needs both words. A
+// quoted phrase is a gate too: in the metadata as written, or, for a talk
+// matched only by its transcript, its words spoken in one passage — the
+// nearest thing to a phrase the index can tell without word positions.
+function gather(q) {
+  const { groups, phrases, excluded, spoken } = q;
+  const terms = q.terms.map(t => spoken ? { ...t, scope: 'tr' } : t);
+  const metaTerms = terms.filter(t => t.scope !== 'tr');
+  const trTerms = terms.filter(t => t.scope !== 'meta');
+  const tScores = scoreTranscripts(trTerms);
+  const described = new Map();
+  for (const term of metaTerms) {
+    const e = entryOf(term.s);
+    if (e && e.d) described.set(term.s, new Set(e.d.map(x => x[0])));
+  }
+  // Talks an excluded word appears in — description or transcript, from the
+  // shard; the rest of the metadata is checked per talk below.
+  const banned = new Set();
+  for (const s of excluded) {
+    const e = entryOf(s);
+    if (e && e.d) for (const x of e.d) banned.add(x[0]);
+    if (e && e.p) for (const x of e.p) banned.add(x[0]);
+  }
+  const scope = new Map(terms.map(t => [t.s, t.scope]));
+  const hits = [];
+  for (const t of TALKS) {
+    if (banned.has(t.i) || excluded.some(s => t._tok.has(s))) continue;
+    const m = scoreMeta(t, metaTerms, phrases, described);
+    const tr = tScores.get(t.i);
+    const said = s => (scope.get(s) !== 'tr' && m.matched.has(s)) ||
+                      (scope.get(s) !== 'meta' && !!tr && tr.matched.has(s));
+    if (!groups.every(g => g.alts.some(alt => alt.every(said)))) continue;
+    if (!phrases.every(ph => (ph.fields ? fieldText(t, ph.fields[0]) : t._hay).includes(ph.text) ||
+        (!ph.fields && tr && ph.stems.length > 1 && ph.stems.every(s => rec_has(tr, s)) &&
+         cooccur(ph.stems.map(s => tr.segs.get(s))).together > 0))) continue;
+    // The passage bonus scales the transcript component only: a title match is
+    // already precise and should not be reweighted by what was said.
+    const pf = tr ? passageFactor(tr, groups.filter(g => g.scope !== 'meta')) : { factor: 1, together: 0 };
+    const total = m.score + (tr ? tr.score * 2.2 * pf.factor : 0);
+    if (total > 0 || !groups.length) hits.push({ t, score: total, fromTranscript: !!tr && m.score === 0,
+                               together: pf.together, deep: m.deep });
+  }
+  return hits;
+}
+const rec_has = (rec, s) => { const set = rec.segs.get(s); return !!set && set.size > 0; };
+
+// ---------- the query ----------
+// What `field:` can scope. `year:` and `conf:` are filters and set the selects;
+// the others confine a word to one field, or to the transcript.
+const FIELDS = { title: 'title', speaker: 'speakers', speakers: 'speakers',
+                 conf: 'conf', conference: 'conf', year: 'year', transcript: 'transcript' };
+// One item of a query: an optional minus, an optional `field:`, then a quoted
+// phrase or a run of non-space characters. The colon lives here, not in the
+// tokeniser, so `year:2025` is read as a filter before "year" could become a
+// word to search for. A prefix that is not a field ("agents: what works",
+// "foo:bar") is left to the tokeniser, which has no colon and splits it.
+const ITEM_RE = /(-?)(?:([a-z]+):)?(?:"([^"]*)"|([^\s"]+))/gi;
+
+// `alts` are the alternatives of one group, each a list of stems; `said` is
+// what the visitor typed for it, for the status line.
+function parseQuery(raw) {
+  const groups = [], phrases = [], excluded = [], words = [], prefix = new Set(), set = {};
+  const termsBy = new Map();
+  const term = (s, w, fields, scope, star) => {
+    if (!termsBy.has(s)) termsBy.set(s, { s, w, fields, scope, prefix: !!star });
+    else if (star) termsBy.get(s).prefix = true;
+    return s;
+  };
+  let joinNext = false;
+  for (const m of raw.matchAll(ITEM_RE)) {
+    let [, minus, field, quoted, bare] = m;
+    field = field ? FIELDS[field.toLowerCase()] : undefined;
+    if (m[2] && !field) { bare = m[0].replace(/^-/, ''); quoted = undefined; }
+    const text = quoted != null ? quoted : bare;
+    if (field === 'year' || field === 'conf') { set[field] = text.trim(); continue; }
+    if (bare === 'OR') { joinNext = groups.length > 0; continue; }
+    const star = !quoted && /\*$/.test(bare) && bare.length > 1;
+    const surf = surface(quoted != null ? quoted : bare.replace(/\*+$/, ''));
+    const pairs = surf.map(w => [w, stem(w)]).filter(([, st]) => st.length >= 2);
+    const stems = pairs.map(([, st]) => st);
+    if (!stems.length) { joinNext = false; continue; }
+    if (minus) { for (const s of stems) excluded.push(s); joinNext = false; continue; }
+    const fields = field === 'title' || field === 'speakers' ? [field] : null;
+    const scope = field === 'transcript' ? 'tr' : fields ? 'meta' : 'both';
+    for (const [w, st] of pairs) {
+      term(st, w, fields, scope, star);
+      if (star) prefix.add(st);
+    }
+    words.push(...surf);
+    if (quoted != null && stems.length > 1) {
+      phrases.push({ text: quoted.trim().toLowerCase().replace(/\s+/g, ' '), fields, stems });
+    }
+    // An OR joins this item, all its stems as one alternative, to the last
+    // group; otherwise every stem is a group of its own, as before, so
+    // "spec-driven" still asks for the compound and its parts.
+    if (joinNext) { groups[groups.length - 1].alts.push(stems); groups[groups.length - 1].said += ' OR ' + text; }
+    else for (const [w, st] of pairs) groups.push({ alts: [[st]], said: w, scope });
+    joinNext = false;
+  }
+  // Repeated words are one word: "evals evals evals" is "evals".
+  const seen = new Set();
+  const unique = groups.filter(g => {
+    const key = g.alts.map(a => a.join(' ')).sort().join('|') + '/' + g.scope;
+    if (seen.has(key)) return false;
+    seen.add(key); return true;
+  });
+  // Synonyms on top: a bare word whose stem belongs to a group is expanded to
+  // that group, one gate term with alternatives — the same expansion query.py
+  // makes, from the same list, so the two rankers admit the same talks.
+  const expanded = [];
+  for (const g of unique) {
+    if (g.alts.length !== 1 || g.alts[0].length !== 1 || g.scope !== 'both') continue;
+    const s = g.alts[0][0];
+    const syn = SYN.get(s);
+    if (!syn || prefix.has(s)) continue;
+    g.also = [];
+    for (const a of syn) {
+      if (a.stems.length === 1 && a.stems[0] === s) continue;
+      g.alts.push(a.stems);
+      g.also.push(a.name);
+      for (const x of a.stems) term(x, x, null, 'both', false);
+    }
+    expanded.push(g);
+  }
+  return { groups: unique, phrases, excluded: [...new Set(excluded)], words: [...new Set(words)],
+           prefix, set, expanded, terms: [...termsBy.values()] };
+}
+
+// `year:` and `conf:` in the query drive the selects, so the filters shown
+// are the filters applied. What the query set, it also unsets: when the
+// visitor deletes `year:2025` the select goes back to "All years" — unless
+// they have since chosen a different year by hand, which is theirs to keep.
+const qSet = {};
+function applyQuerySet(set) {
+  for (const [key, id] of [['year', 'f-year'], ['conf', 'f-conf']]) {
+    const sel = $('#' + id);
+    let want = set[key];
+    if (want != null && key === 'conf') {
+      const v = want.toLowerCase();
+      const o = [...sel.options].find(o => o.value === v) ||
+                [...sel.options].find(o => o.dataset.name && o.dataset.name.toLowerCase() === v) ||
+                [...sel.options].find(o => o.value && (o.value.includes(v) ||
+                                                       o.dataset.name.toLowerCase().includes(v)));
+      want = o ? o.value : want;
+    }
+    if (want != null) { sel.value = want; qSet[key] = want; }
+    else if (qSet[key] != null) { if (sel.value === qSet[key]) sel.value = ''; delete qSet[key]; }
+  }
+}
+
+// How many talks say the group anywhere: the widest alternative, each
+// alternative as narrow as its rarest stem. Relaxation drops the group this
+// is largest for.
+const groupReach = g => Math.max(...g.alts.map(alt => Math.min(...alt.map(talksWith))));
+
+async function search(raw) {
+  const q = parseQuery(raw);
+  applyQuerySet(q.set);
+  q.spoken = !$('#f-spoken').hidden && $('#f-spoken').classList.contains('on');
+  if (!q.groups.length && !q.excluded.length) return null;
+  await loadShards([...q.terms.map(t => t.s), ...q.excluded]);
+
+  // Only exclusions, or only filters: a listing of what is left, unranked.
+  if (!q.groups.length) {
+    const hits = gather(q);          // no groups: every talk not excluded, at score 0
+    return { hits, terms: [], words: [], prefix: q.prefix, dropped: [], expanded: [], listing: true };
+  }
+
+  // When no talk has every word, relax one word at a time rather than fall
+  // off a cliff to "Nothing matched": first a word no talk says at all (a
+  // typo, usually — it narrows nothing and empties the gate), then the word
+  // the most talks say, which is the likeliest to be the question's furniture
+  // rather than its subject. The same order as query.py, and the status line
+  // says what went. A synonym group goes as one.
+  const dropped = [];
+  let hits = gather(q);
+  while (!hits.length && q.groups.length > 1) {
+    const absent = q.groups.filter(g => groupReach(g) === 0);
+    const gone = absent.length ? absent[0]
+      : q.groups.reduce((a, b) => groupReach(b) > groupReach(a) ? b : a);
+    q.groups = q.groups.filter(g => g !== gone);
+    dropped.push(gone.said);
+    hits = gather(q);
+  }
+  hits.sort((a, b) => b.score - a.score);
+  const live = new Set(q.groups.flatMap(g => g.alts.flat()));
+  const terms = q.terms.filter(t => live.has(t.s)).map(t => t.s);
+  // Highlighting lights what was typed, not the synonyms that were searched
+  // alongside it: "rag" lighting up every "generation" would read as noise.
+  const typed = new Set(q.words.map(stem));
+  return { hits, terms, words: q.words, prefix: q.prefix, dropped,
+           hl: terms.filter(s => typed.has(s)),
+           expanded: q.expanded.filter(g => live.has(g.alts[0][0])) };
+}
+
+// ---------- rendering ----------
+// Marks the words of `text` that the search matched: a token is lit when it
+// is one of the query's words, when its stem is one of the query's stems, or
+// when a stem of four or more letters prefixes it — the same three rules the
+// scoring uses. Whole tokens, never substrings, so "rust" does not light up
+// inside "trust" and "rag" stays out of "program"; and the mark goes round the
+// whole of "agentic" for a search for "agent", stem included. `hl`, when a
+// result carries it, is the typed stems without their synonyms.
+const TOKEN_RE_I = /[a-z0-9][a-z0-9+#.\-]*/gi;
+function highlight(text, q) {
+  if (!text) return '';
+  const lightUp = q && (q.hl || q.terms) || [];
+  if (!lightUp.length) return esc(text);
+  const stems = new Set(lightUp), words = new Set(q.words || []);
+  const long = lightUp.filter(s => s.length >= 4 || (q.prefix && q.prefix.has(s)));
+  const lit = tok => {
+    const t = tok.toLowerCase().replace(/^[.\-]+|[.\-]+$/g, '');
+    const parts = (t.includes('-') || t.includes('.')) ? [t, ...t.split(/[.\-]+/)] : [t];
+    return parts.some(p => p.length >= 2 &&
+      (words.has(p) || stems.has(stem(p)) || long.some(s => p.startsWith(s))));
+  };
+  let out = '', last = 0;
+  for (const m of text.matchAll(TOKEN_RE_I)) {
+    out += esc(text.slice(last, m.index));
+    out += lit(m[0]) ? `<mark>${esc(m[0])}</mark>` : esc(m[0]);
+    last = m.index + m[0].length;
+  }
+  return out + esc(text.slice(last));
+}
+
+function card(hit, q) {
+  const t = hit.t;
+  const terms = q ? q.terms : [];
+  const who = (t.s || []).length
+    ? esc(t.s.join(', '))
+    : '<span class="co">Speaker not identified</span>';
+  // `l` is present only on the records whose link is not a YouTube watch URL
+  // — InfoQ's own presentation pages, which have no video id to build from.
+  const yt = t.l || `https://www.youtube.com/watch?v=${t.v}`;
+  const edition = t.e && t.e !== t.c ? t.e : '';
+  const badges = [
+    `<button type="button" class="b conf" data-conf="${esc(t.cs)}">${esc(t.c)}</button>`,
+    edition ? `<span class="b">${esc(edition)}</span>` : '',
+    t.y ? `<span class="b">${t.y}</span>` : '',
+    t.m ? `<span class="b">${t.m} min</span>` : '',
+    t.w && !ALL_TR ? `<span class="b">transcript</span>` : '',
+    // "Transcript language", not "language": the dozen `hi` ones are English
+    // talks the caption source mislabelled, and the badge reports the label.
+    t.lg ? `<span class="b" title="Transcript language, as the caption source labelled it">transcript language: ${esc(t.lg)}</span>` : '',
+    hit.together ? `<span class="b together" title="The words of the query are spoken together, in one passage">said together</span>` : '',
+    // The card shows a clip of the description; a word matched further down
+    // it would otherwise look like a match on nothing.
+    deepMatch(hit) ? `<span class="b deep" title="A query word appears in the description beyond the clip shown here">also matches in the full description</span>` : '',
+    // Buttons rather than styled spans: a chip that runs a search has to be
+    // reachable by keyboard, not only by mouse.
+    ...(t.k || []).map(x =>
+      `<button type="button" class="b topic" data-topic="${esc(x)}">${esc(x)}</button>`),
+    ...(t.a || []).slice(0, 6).map(x =>
+      `<button type="button" class="b tag" data-tag="${esc(x)}">#${esc(x)}</button>`)
+  ].join('');
+
+  // The whole description, clamped to a few lines. Whether that clamp actually
+  // hides anything depends on the rendered height, so the toggle stays hidden
+  // until markOverflow() has measured this card.
+  const abs = (t.d || '').trim()
+    ? `<div class="absw">
+         <p class="abs clamped">${highlight(t.d, q)}</p>
+         <button class="abs-more" type="button" hidden>Show full description</button>
+       </div>`
+    : '';
+
+  return `<article class="card" data-n="${t.i}">
+    <h2><a href="${yt}" target="_blank" rel="noopener">${highlight(t.t, q)}</a></h2>
+    <div class="who">${who}</div>
+    <div class="badges">${badges}</div>
+    ${abs}
+    <div class="links">
+      <a href="${yt}" target="_blank" rel="noopener">▶ Watch recording</a>
+      ${t.u ? `<a href="${esc(t.u)}" target="_blank" rel="noopener">Conference site</a>` : ''}
+      ${t.w && terms.length ? `<a href="#" class="mo-load" data-n="${t.i}">Find this in the talk</a>` : ''}
+    </div>
+    <div class="mo-slot"></div>
+  </article>`;
+}
+
+// A term the shard found in the whole description that the clip on the card
+// does not contain.
+function deepMatch(hit) {
+  if (!hit.deep || !hit.deep.size) return false;
+  const clip = new Set(tokenize(hit.t.d));
+  return [...hit.deep].some(s => !fieldHit(clip, s, true));
+}
+
+// A clamped paragraph that overflows its four lines is the only one that needs
+// an unfold control.
+function markOverflow() {
+  for (const p of el.res.querySelectorAll('.abs.clamped')) {
+    const btn = p.nextElementSibling;
+    if (btn) btn.hidden = p.scrollHeight <= p.clientHeight + 2;
+  }
+}
+
+let currentResult = null, viewHits = [], cur = -1;
+
+// The length buckets the select offers, by option value.
+const LEN = { lt10: m => m < 10, '10to30': m => m >= 10 && m < 30,
+              '30to60': m => m >= 30 && m < 60, gt60: m => m >= 60 };
+
+// The filters as one predicate, with one dimension left out — that is how
+// the facet counts are made: a conference's count is what choosing it would
+// give, under every *other* filter, so an option never promises talks the
+// year filter is about to take away.
+function filterFn(skip) {
+  // A `year:` or `conf:` the select could not represent still filters, to
+  // nothing: "year:1999" must not quietly show every year.
+  const fc = $('#f-conf').value || qSet.conf || '', fg = $('#f-cat').value;
+  const fy = $('#f-year').value || qSet.year || '', fl = $('#f-len').value;
+  const fk = $('#f-topic').value;
+  const spk = el.spk.value.trim().toLowerCase();
+  const trOnly = !$('#f-tr').hidden && $('#f-tr').classList.contains('on');
+  return h => (skip === 'conf' || !fc || h.t.cs === fc) &&
+              (skip === 'cat' || !fg || h.t.g === fg) &&
+              (skip === 'topic' || !fk || (h.t.k || []).includes(fk)) &&
+              (skip === 'year' || !fy || String(h.t.y) === fy) &&
+              (skip === 'len' || !fl || (h.t.m > 0 && LEN[fl](h.t.m))) &&
+              (!spk || (h.t.s || []).some(x => x.toLowerCase().includes(spk))) &&
+              (!trOnly || h.t.w > 0);
+}
+
+function facetCounts(hits) {
+  // Each key function returns the values a talk counts under: one for the
+  // single-valued facets, every topic a talk carries for the multi-valued one.
+  for (const [dim, id, keys] of [['conf', 'f-conf', t => [t.cs]], ['cat', 'f-cat', t => [t.g]],
+                                 ['topic', 'f-topic', t => t.k || []],
+                                 ['year', 'f-year', t => [String(t.y)]],
+                                 ['len', 'f-len', t => [t.m > 0 && Object.keys(LEN).find(k => LEN[k](t.m))]]]) {
+    const n = new Map();
+    for (const h of hits.filter(filterFn(dim))) for (const k of keys(h.t)) n.set(k, (n.get(k) || 0) + 1);
+    // Labels only: the values are what the hash and the tests read.
+    for (const o of $('#' + id).options) {
+      if (o.value) o.textContent = `${o.dataset.name} (${(n.get(o.value) || 0).toLocaleString()})`;
+    }
+  }
+}
+
+function render(result) {
+  currentResult = result;
+  cur = -1;
+  const terms = result ? result.terms : [];
+  // Unranked when nothing was searched for — a listing, or only exclusions.
+  const ranked = !!result && terms.length > 0;
+  const all = result ? result.hits.slice() : TALKS.map(t => ({ t, score: 0 }));
+  facetCounts(all);
+  let hits = all.filter(filterFn(null));
+
+  const byTitle = (a, b) => a.t.t.localeCompare(b.t.t);
+  const byNewest = (a, b) => (publishedAt(b.t) - publishedAt(a.t)) || byTitle(a, b);
+  // Talks of unknown length go last either way.
+  const byShort = (a, b) => ((a.t.m || Infinity) - (b.t.m || Infinity)) || byTitle(a, b);
+  const byLong = (a, b) => ((b.t.m || 0) - (a.t.m || 0)) || byTitle(a, b);
+  // Relevance only exists once something has been searched for; browsing the
+  // whole catalogue falls back to newest first, and the status line says so
+  // rather than leaving the picker looking broken.
+  const sort = $('#f-sort').value;
+  const effective = sort === 'rel' && !ranked ? 'new' : sort;
+  if (effective === 'title') hits.sort(byTitle);
+  else if (effective === 'new') hits.sort(byNewest);
+  else if (effective === 'short') hits.sort(byShort);
+  else if (effective === 'long') hits.sort(byLong);
+  viewHits = hits;
+
+  const nTr = hits.filter(h => h.fromTranscript).length;
+  const orderNote = sort === 'rel' && !ranked
+    ? ' <span>· newest first — search to rank by relevance</span>' : '';
+  const relaxNote = result && result.dropped.length
+    ? ` <span>· no talk has every word — dropped <b>${esc(result.dropped.join(', '))}</b></span>` : '';
+  // What the synonym list added, said the way query.py says it on stderr.
+  const synNote = result && result.expanded.length
+    ? result.expanded.map(g => ` <span>· <b>${esc(g.said)}</b> also as <b>${esc(g.also.join(', '))}</b></span>`).join('') : '';
+  el.status.innerHTML = hits.length
+    ? `<b>${hits.length.toLocaleString()}</b> talk${hits.length === 1 ? '' : 's'}` +
+      (result ? ` matching <b>${esc(el.q.value.trim())}</b>` : '') +
+      (nTr ? ` <span>· ${nTr} found only in the spoken transcript</span>` : '') +
+      relaxNote + synNote + orderNote
+    : '';
+  el.tools.hidden = !hits.length;
+
+  if (!hits.length) {
+    el.res.innerHTML = `<div class="empty"><h3>Nothing matched</h3>
+      <p>Try fewer or broader words, or reset the filters.</p></div>`;
+    el.more.hidden = true;
+    return;
+  }
+  el.res.innerHTML = hits.slice(0, shown).map(h => card(h, result)).join('');
+  markOverflow();
+  el.more.hidden = hits.length <= shown;
+  el.more.textContent = `Show more (${(hits.length - shown).toLocaleString()} left)`;
+}
+
+// ---------- export ----------
+const talkUrl = t => t.l || `https://www.youtube.com/watch?v=${t.v}`;
+const download = (name, type, text) => {
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([text], { type }));
+  a.download = name;
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+};
+const stamp = () => new Date().toISOString().slice(0, 10);
+function exportMarkdown() {
+  const q = el.q.value.trim();
+  const lines = [`# AI Talks Universe — ${viewHits.length} talk${viewHits.length === 1 ? '' : 's'}` +
+    (q ? ` matching "${q}"` : ''), ''];
+  for (const { t } of viewHits) {
+    lines.push(`- [${t.t}](${talkUrl(t)})` + ((t.s || []).length ? ` — ${t.s.join(', ')}` : '') +
+      ` · ${t.c}${t.y ? ' ' + t.y : ''}${t.m ? ` · ${t.m} min` : ''}`);
+  }
+  download(`ai-talks-${stamp()}.md`, 'text/markdown', lines.join('\n') + '\n');
+}
+function exportCsv() {
+  const cell = v => `"${String(v == null ? '' : v).replace(/"/g, '""')}"`;
+  const rows = [['title', 'speakers', 'conference', 'edition', 'category', 'year', 'duration_min', 'url']];
+  for (const { t } of viewHits) {
+    rows.push([t.t, (t.s || []).join('; '), t.c, t.e, t.g, t.y, t.m, talkUrl(t)]);
+  }
+  download(`ai-talks-${stamp()}.csv`, 'text/csv', rows.map(r => r.map(cell).join(',')).join('\r\n') + '\r\n');
+}
+async function copyLink(btn) {
+  const was = btn.textContent;
+  try { await navigator.clipboard.writeText(location.href); btn.textContent = 'Copied'; }
+  catch (_) { btn.textContent = 'Could not copy'; }
+  setTimeout(() => { btn.textContent = was; }, 1500);
+}
+
+// ---------- j/k ----------
+// Moves the current-card mark; the cards are whatever is on screen, so the
+// mark never points past "Show more".
+function moveCur(delta) {
+  const cards = el.res.querySelectorAll('.card');
+  if (!cards.length) return;
+  const next = Math.max(0, Math.min(cards.length - 1, cur + delta));
+  cards.forEach((c, i) => c.classList.toggle('cur', i === next));
+  cur = next;
+  cards[next].scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+}
+
+// ---------- transcript moments, fetched per talk on demand ----------
+async function showMoments(n, slot, q) {
+  const terms = q.terms;
+  slot.innerHTML = '<div class="moments"><span class="spinner"></span></div>';
+  const talk = BY_N.get(n);
+  let tr = TRANSCRIPTS.get(talk.v);
+  if (!tr) {
+    try {
+      tr = await fetch(`data/transcripts/${talk.v}.json`).then(r => {
+        if (!r.ok) throw new Error(r.status);
+        return r.json();
+      });
+      TRANSCRIPTS.set(talk.v, tr);
+    } catch (_) {
+      slot.innerHTML = '<div class="moments"><small>Transcript unavailable.</small></div>';
+      return;
+    }
+  }
+
+  const segs = tr.segments || [];
+  const scored = [];
+  for (let i = 0; i < segs.length; i++) {
+    // Token matching, not substring: searching "rust" must not offer up every
+    // moment where someone said "trust". Same rule the index itself uses.
+    const toks = new Set(tokenize(segs[i].text));
+    let hit = 0;
+    for (const t of terms) hit += fieldHit(toks, t, q.prefix && q.prefix.has(t));
+    if (hit) scored.push({ i, n: hit, start: segs[i].start });
+  }
+  if (!scored.length) {
+    slot.innerHTML = '<div class="moments"><small>None of those words are spoken in this talk.</small></div>';
+    return;
+  }
+  scored.sort((a, b) => b.n - a.n || a.start - b.start);
+  const picked = [], used = [];
+  for (const s of scored) {
+    if (picked.length >= 6) break;
+    if (used.some(u => Math.abs(u - s.start) < 60)) continue;
+    used.push(s.start); picked.push(s);
+  }
+  picked.sort((a, b) => a.start - b.start);
+
+  // `x` marks a transcript whose timings were interpolated from word position
+  // rather than read off a caption track — InfoQ's prose transcripts, the
+  // kome.ai route — so its stamps are shown as "~12:34", never as a second
+  // that was measured.
+  const approx = talk.x ? '~' : '';
+  const why = talk.x ? ' title="approximate — timings are interpolated, not measured"' : '';
+  slot.innerHTML = `<div class="moments"><div class="mo-head">Moments in the talk` +
+    (talk.x ? ' <small>(timings approximate)</small>' : '') + `</div>` +
+    picked.map(s => {
+      const ctx = segs.slice(Math.max(0, s.i - 1), s.i + 2).map(x => x.text).join(' ');
+      const mm = Math.floor(s.start / 60), ss = String(Math.floor(s.start % 60)).padStart(2, '0');
+      return `<div class="mo">
+        ${talk.l
+          ? `<span class="ts"${why}>${approx}${mm}:${ss}</span>`
+          : `<a class="ts" href="https://www.youtube.com/watch?v=${talk.v}&t=${Math.floor(s.start)}s"
+           target="_blank" rel="noopener"${why}>${approx}${mm}:${ss}</a>`}
+        <span>${highlight(ctx, { ...q, hl: null })}</span></div>`;
+    }).join('') + '</div>';
+}
+
+// ---------- wiring ----------
+let timer;
+async function run() {
+  const raw = el.q.value.trim();
+  const seq = ++reqSeq;
+  const result = raw ? await search(raw) : null;
+  if (seq !== reqSeq) return;               // a newer keystroke already won
+  render(result);
+  writeHash();
+}
+
+el.q.addEventListener('input', () => { shown = PAGE; clearTimeout(timer); timer = setTimeout(run, 140); });
+el.spk.addEventListener('input', () => { shown = PAGE; clearTimeout(timer); timer = setTimeout(run, 140); });
+['f-conf', 'f-cat', 'f-topic', 'f-year', 'f-len', 'f-sort'].forEach(id =>
+  $('#' + id).addEventListener('change', () => { shown = PAGE; run(); }));
+// "Newest first" is remembered; any other choice forgets it.
+$('#f-sort').addEventListener('change', e => prefSet(e.target.value === 'new' ? 'new' : null));
+['f-tr', 'f-spoken'].forEach(id => $('#' + id).addEventListener('click', e => {
+  e.currentTarget.classList.toggle('on'); shown = PAGE; run();
+}));
+$('#clear').addEventListener('click', () => {
+  el.q.value = ''; el.spk.value = '';
+  ['f-conf', 'f-cat', 'f-topic', 'f-year', 'f-len'].forEach(id => $('#' + id).value = '');
+  $('#f-sort').value = 'rel'; prefSet(null);
+  ['f-tr', 'f-spoken'].forEach(id => $('#' + id).classList.remove('on'));
+  shown = PAGE; run();
+});
+el.more.addEventListener('click', () => { shown += PAGE; render(currentResult); });
+$('#x-md').addEventListener('click', exportMarkdown);
+$('#x-csv').addEventListener('click', exportCsv);
+$('#x-link').addEventListener('click', e => copyLink(e.currentTarget));
+
+// A narrower window rewraps the descriptions, so what fits in four lines changes.
+let rzTimer;
+window.addEventListener('resize', () => { clearTimeout(rzTimer); rzTimer = setTimeout(markOverflow, 150); });
+
+el.res.addEventListener('click', async e => {
+  const conf = e.target.closest('.conf');
+  if (conf) {
+    $('#f-conf').value = conf.dataset.conf; shown = PAGE; run();
+    window.scrollTo({ top: 0, behavior: 'smooth' }); return;
+  }
+  const topic = e.target.closest('.topic');
+  if (topic) {
+    $('#f-topic').value = topic.dataset.topic; shown = PAGE; run();
+    window.scrollTo({ top: 0, behavior: 'smooth' }); return;
+  }
+  const tag = e.target.closest('.tag');
+  if (tag) {
+    el.q.value = tag.dataset.tag; shown = PAGE; run();
+    window.scrollTo({ top: 0, behavior: 'smooth' }); return;
+  }
+
+  const more = e.target.closest('.abs-more');
+  if (more) {
+    const p = more.previousElementSibling;
+    const clamped = p.classList.toggle('clamped');
+    more.textContent = clamped ? 'Show full description' : 'Show less';
+    return;
+  }
+
+  const mo = e.target.closest('.mo-load');
+  if (mo) {
+    e.preventDefault();
+    const card = mo.closest('.card');
+    const slot = card.querySelector('.mo-slot');
+    if (!currentResult || !currentResult.terms.length) return;   // no link without a query
+    // Second click hides what the first one loaded, rather than leaving the card
+    // stuck open with no way back.
+    if (slot.dataset.state) {
+      const open = slot.dataset.state === 'open';
+      slot.hidden = open;
+      slot.dataset.state = open ? 'closed' : 'open';
+      mo.textContent = open ? 'Find this in the talk' : 'Hide moments';
+      return;
+    }
+    slot.dataset.state = 'open';
+    slot.hidden = false;
+    mo.textContent = 'Hide moments';
+    showMoments(Number(card.dataset.n), slot, currentResult);
+  }
+});
+
+// Keys mean nothing while something is being typed into.
+const typing = () => /^(INPUT|SELECT|TEXTAREA)$/.test(document.activeElement.tagName);
+document.addEventListener('keydown', e => {
+  if (e.ctrlKey || e.metaKey || e.altKey) return;
+  if (e.key === '/' && !typing()) { e.preventDefault(); el.q.focus(); return; }
+  if (typing()) return;
+  if (e.key === 'j') { e.preventDefault(); moveCur(1); }
+  else if (e.key === 'k') { e.preventDefault(); moveCur(-1); }
+  else if (e.key === 'Enter' && cur >= 0) {
+    const a = el.res.querySelectorAll('.card')[cur]?.querySelector('h2 a');
+    if (a) a.click();
+  }
+});
+
+const SORTS = ['rel', 'new', 'title', 'short', 'long'];
+const LENS = ['', ...Object.keys(LEN)];
+function writeHash() {
+  const p = new URLSearchParams();
+  if (el.q.value.trim()) p.set('q', el.q.value.trim());
+  [['conf', 'f-conf'], ['cat', 'f-cat'], ['topic', 'f-topic'], ['year', 'f-year'], ['len', 'f-len']].forEach(([k, id]) => {
+    if ($('#' + id).value) p.set(k, $('#' + id).value);
+  });
+  if (el.spk.value.trim()) p.set('spk', el.spk.value.trim());
+  if ($('#f-tr').classList.contains('on')) p.set('tr', '1');
+  if ($('#f-spoken').classList.contains('on')) p.set('spoken', '1');
+  if ($('#f-sort').value !== 'rel') p.set('sort', $('#f-sort').value);
+  const s = p.toString();
+  history.replaceState(null, '', s ? '#' + s : location.pathname);
+}
+function readHash() {
+  const p = new URLSearchParams(location.hash.slice(1));
+  el.q.value = p.get('q') || '';
+  if (p.get('conf')) $('#f-conf').value = p.get('conf');
+  if (p.get('cat')) $('#f-cat').value = p.get('cat');
+  if (p.get('topic')) $('#f-topic').value = p.get('topic');
+  if (p.get('year')) $('#f-year').value = p.get('year');
+  if (LENS.includes(p.get('len'))) $('#f-len').value = p.get('len');
+  el.spk.value = p.get('spk') || '';
+  if (SORTS.includes(p.get('sort'))) $('#f-sort').value = p.get('sort');
+  // A link that says nothing about the order gets the remembered preference;
+  // one that says something wrong gets relevance, not the preference.
+  else if (!p.has('sort') && prefGet() === 'new') $('#f-sort').value = 'new';
+  if (p.get('tr') && !$('#f-tr').hidden) $('#f-tr').classList.add('on');
+  if (p.get('spoken') && !$('#f-spoken').hidden) $('#f-spoken').classList.add('on');
+}
+
+boot().catch(err => {
+  el.sub.textContent = 'Could not load the catalogue.';
+  el.res.innerHTML = `<div class="empty"><h3>Failed to load</h3><p>${esc(err.message)}</p></div>`;
+});
+})();
+</script>
+</body>
+</html>

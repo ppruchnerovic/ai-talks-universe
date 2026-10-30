@@ -1,0 +1,3943 @@
+{
+  "video_id": "m5HiwDNUsJM",
+  "title": "Passkeys: Truly Phishing-Resistant? Implementation and Pitfalls",
+  "conference": "wearedevelopers",
+  "language": "en",
+  "auto_generated": true,
+  "source": "yt",
+  "timing": "exact",
+  "word_count": 4782,
+  "imported_from": "presentations/kb (WeAreDevelopers agenda API)",
+  "segments": [
+    {
+      "start": 2.6,
+      "duration": 5.28,
+      "text": "I would like to welcome Martina Kraus on"
+    },
+    {
+      "start": 5.2,
+      "duration": 5.88,
+      "text": "the stage. Let's have a round of"
+    },
+    {
+      "start": 7.88,
+      "duration": 3.2,
+      "text": "applause for her. Thank you."
+    },
+    {
+      "start": 12.45,
+      "duration": 2.02,
+      "text": ">> [music]"
+    },
+    {
+      "start": 16.92,
+      "duration": 2.76,
+      "text": ">> Yes, amazing. [music]"
+    },
+    {
+      "start": 18.48,
+      "duration": 3.48,
+      "text": "Thank you so much for the nice"
+    },
+    {
+      "start": 19.68,
+      "duration": 4.92,
+      "text": "introduction. It's actually a great"
+    },
+    {
+      "start": 21.96,
+      "duration": 5.84,
+      "text": "honor for me to be here."
+    },
+    {
+      "start": 24.6,
+      "duration": 5.32,
+      "text": "Um, first question of all, who of you"
+    },
+    {
+      "start": 27.8,
+      "duration": 3.6,
+      "text": "have already passed passkeys and use"
+    },
+    {
+      "start": 29.92,
+      "duration": 3.56,
+      "text": "passkeys?"
+    },
+    {
+      "start": 31.4,
+      "duration": 4.6,
+      "text": "Yes, that's great. I really hope"
+    },
+    {
+      "start": 33.48,
+      "duration": 5.64,
+      "text": "afterwards you also learn to implement"
+    },
+    {
+      "start": 36.0,
+      "duration": 4.88,
+      "text": "and to implement them correctly"
+    },
+    {
+      "start": 39.12,
+      "duration": 4.2,
+      "text": "to make them, of course, phishing"
+    },
+    {
+      "start": 40.88,
+      "duration": 4.76,
+      "text": "resistant. Or maybe they are already"
+    },
+    {
+      "start": 43.32,
+      "duration": 3.84,
+      "text": "phishing resistant by default. So, when"
+    },
+    {
+      "start": 45.64,
+      "duration": 4.76,
+      "text": "we talk about phishing, I guess every"
+    },
+    {
+      "start": 47.16,
+      "duration": 6.32,
+      "text": "one of you can somehow imagine what"
+    },
+    {
+      "start": 50.4,
+      "duration": 5.84,
+      "text": "phishing is. We trick a user to click on"
+    },
+    {
+      "start": 53.48,
+      "duration": 5.08,
+      "text": "a link by social engineering or email."
+    },
+    {
+      "start": 56.24,
+      "duration": 4.8,
+      "text": "Of course, AI helps a little bit making"
+    },
+    {
+      "start": 58.56,
+      "duration": 4.92,
+      "text": "this easier to create authentic emails."
+    },
+    {
+      "start": 61.04,
+      "duration": 4.44,
+      "text": "And then we need to somehow figure out"
+    },
+    {
+      "start": 63.48,
+      "duration": 5.16,
+      "text": "is this the right origin, is this the"
+    },
+    {
+      "start": 65.48,
+      "duration": 4.88,
+      "text": "right URL, and the username. User just"
+    },
+    {
+      "start": 68.64,
+      "duration": 3.84,
+      "text": "types really the username and password"
+    },
+    {
+      "start": 70.36,
+      "duration": 4.12,
+      "text": "inside. And then, of course, bear my"
+    },
+    {
+      "start": 72.48,
+      "duration": 3.48,
+      "text": "have the username and password of a user"
+    },
+    {
+      "start": 74.48,
+      "duration": 3.12,
+      "text": "since this is not the origin it's"
+    },
+    {
+      "start": 75.96,
+      "duration": 3.44,
+      "text": "supposed to be."
+    },
+    {
+      "start": 77.6,
+      "duration": 4.32,
+      "text": "So,"
+    },
+    {
+      "start": 79.4,
+      "duration": 5.6,
+      "text": "the other thing is that I claim that"
+    },
+    {
+      "start": 81.92,
+      "duration": 5.88,
+      "text": "passkeys make now these kind of phishing"
+    },
+    {
+      "start": 85.0,
+      "duration": 5.36,
+      "text": "attacks impossible. But, of course, what"
+    },
+    {
+      "start": 87.8,
+      "duration": 6.04,
+      "text": "we are doing so far, we are giving away"
+    },
+    {
+      "start": 90.36,
+      "duration": 6.04,
+      "text": "millions of euros and money to create"
+    },
+    {
+      "start": 93.84,
+      "duration": 4.92,
+      "text": "awareness trainings to tell user, oh"
+    },
+    {
+      "start": 96.4,
+      "duration": 4.4,
+      "text": "yes, this is a correct link and this"
+    },
+    {
+      "start": 98.76,
+      "duration": 4.08,
+      "text": "isn't one. It's like, you know, I always"
+    },
+    {
+      "start": 100.8,
+      "duration": 3.2,
+      "text": "compare this to when you have a house"
+    },
+    {
+      "start": 102.84,
+      "duration": 4.12,
+      "text": "and you have some different kind of"
+    },
+    {
+      "start": 104.0,
+      "duration": 6.08,
+      "text": "switches. We need to train the users to"
+    },
+    {
+      "start": 106.96,
+      "duration": 5.84,
+      "text": "make a hole in the wall and and read the"
+    },
+    {
+      "start": 110.08,
+      "duration": 4.52,
+      "text": "electricity to tell them, hey yeah, this"
+    },
+    {
+      "start": 112.8,
+      "duration": 3.84,
+      "text": "this is actually a switch you can turn"
+    },
+    {
+      "start": 114.6,
+      "duration": 4.24,
+      "text": "on. This is really secure. This is"
+    },
+    {
+      "start": 116.64,
+      "duration": 4.72,
+      "text": "really kind of insane. But the second"
+    },
+    {
+      "start": 118.84,
+      "duration": 4.64,
+      "text": "thing we did so far is of course having"
+    },
+    {
+      "start": 121.36,
+      "duration": 4.52,
+      "text": "a second factor. Having like Google"
+    },
+    {
+      "start": 123.48,
+      "duration": 5.76,
+      "text": "Authenticator and maybe or maybe an SMS"
+    },
+    {
+      "start": 125.88,
+      "duration": 6.56,
+      "text": "code sent to our smartphone basically to"
+    },
+    {
+      "start": 129.24,
+      "duration": 5.88,
+      "text": "entering inside a third input field this"
+    },
+    {
+      "start": 132.44,
+      "duration": 5.24,
+      "text": "kind of code. But what makes us actually"
+    },
+    {
+      "start": 135.12,
+      "duration": 5.72,
+      "text": "think that this is more secure?"
+    },
+    {
+      "start": 137.68,
+      "duration": 5.4,
+      "text": "If I can fish out your email address and"
+    },
+    {
+      "start": 140.84,
+      "duration": 4.96,
+      "text": "maybe your password, I can also fish out"
+    },
+    {
+      "start": 143.08,
+      "duration": 4.84,
+      "text": "your authentication code as well."
+    },
+    {
+      "start": 145.8,
+      "duration": 4.56,
+      "text": "Since I make it a little bit I need to"
+    },
+    {
+      "start": 147.92,
+      "duration": 4.88,
+      "text": "be fast of course just in this point. So"
+    },
+    {
+      "start": 150.36,
+      "duration": 6.48,
+      "text": "I would just let you visit some fishing"
+    },
+    {
+      "start": 152.8,
+      "duration": 6.64,
+      "text": "URL and then I have a proxy basically."
+    },
+    {
+      "start": 156.84,
+      "duration": 6.24,
+      "text": "Maybe it's shop.com or whatnot and this"
+    },
+    {
+      "start": 159.44,
+      "duration": 5.92,
+      "text": "kind of proxy just in real time actually"
+    },
+    {
+      "start": 163.08,
+      "duration": 5.04,
+      "text": "forwards this authentication code and"
+    },
+    {
+      "start": 165.36,
+      "duration": 4.8,
+      "text": "everything towards maybe the legitimate"
+    },
+    {
+      "start": 168.12,
+      "duration": 5.12,
+      "text": "site like the real URL like real"
+    },
+    {
+      "start": 170.16,
+      "duration": 5.64,
+      "text": "shop.com and the login succeed. So the"
+    },
+    {
+      "start": 173.24,
+      "duration": 4.8,
+      "text": "only different having just a username"
+    },
+    {
+      "start": 175.8,
+      "duration": 4.88,
+      "text": "and password and having a fishing attack"
+    },
+    {
+      "start": 178.04,
+      "duration": 4.44,
+      "text": "here is just that I need to be fast. But"
+    },
+    {
+      "start": 180.68,
+      "duration": 3.4,
+      "text": "entering a proxy in between proxying"
+    },
+    {
+      "start": 182.48,
+      "duration": 3.72,
+      "text": "this immediately through maybe the"
+    },
+    {
+      "start": 184.08,
+      "duration": 5.16,
+      "text": "legitimate site"
+    },
+    {
+      "start": 186.2,
+      "duration": 6.32,
+      "text": "I can just also fish your code basically"
+    },
+    {
+      "start": 189.24,
+      "duration": 5.64,
+      "text": "and steal your session cookie and of"
+    },
+    {
+      "start": 192.52,
+      "duration": 5.0,
+      "text": "course the victim the user would not see"
+    },
+    {
+      "start": 194.88,
+      "duration": 4.64,
+      "text": "anything strange because I also forward"
+    },
+    {
+      "start": 197.52,
+      "duration": 4.16,
+      "text": "back basically to the victim's browser"
+    },
+    {
+      "start": 199.52,
+      "duration": 5.08,
+      "text": "and maybe the answer but I just have"
+    },
+    {
+      "start": 201.68,
+      "duration": 5.0,
+      "text": "your cookie data. So"
+    },
+    {
+      "start": 204.6,
+      "duration": 4.36,
+      "text": "I need to tell you having a time based"
+    },
+    {
+      "start": 206.68,
+      "duration": 3.36,
+      "text": "OTP does not really protect against"
+    },
+    {
+      "start": 208.96,
+      "duration": 3.16,
+      "text": "fishing."
+    },
+    {
+      "start": 210.04,
+      "duration": 4.36,
+      "text": "The issue lies really in the whole"
+    },
+    {
+      "start": 212.12,
+      "duration": 4.04,
+      "text": "structure underneath."
+    },
+    {
+      "start": 214.4,
+      "duration": 4.72,
+      "text": "And that's why I want to show you and"
+    },
+    {
+      "start": 216.16,
+      "duration": 5.24,
+      "text": "tell you what actually makes fishing"
+    },
+    {
+      "start": 219.12,
+      "duration": 3.76,
+      "text": "structurally impossible when you using"
+    },
+    {
+      "start": 221.4,
+      "duration": 3.76,
+      "text": "passkeys."
+    },
+    {
+      "start": 222.88,
+      "duration": 4.24,
+      "text": "But first let me introduce a little bit"
+    },
+    {
+      "start": 225.16,
+      "duration": 4.2,
+      "text": "myself. My name is Martina I'm coming"
+    },
+    {
+      "start": 227.12,
+      "duration": 5.48,
+      "text": "from Karlsruhe. I'm working as a appsec"
+    },
+    {
+      "start": 229.36,
+      "duration": 5.16,
+      "text": "engineer more in the defensive section."
+    },
+    {
+      "start": 232.6,
+      "duration": 4.32,
+      "text": "So, I educate and help developers"
+    },
+    {
+      "start": 234.52,
+      "duration": 4.48,
+      "text": "hands-on to make the web applications"
+    },
+    {
+      "start": 236.92,
+      "duration": 4.48,
+      "text": "more secure. I'm also involved in a"
+    },
+    {
+      "start": 239.0,
+      "duration": 4.92,
+      "text": "couple of communities, currently working"
+    },
+    {
+      "start": 241.4,
+      "duration": 3.96,
+      "text": "on the OWASP Top 10 German translation."
+    },
+    {
+      "start": 243.92,
+      "duration": 3.64,
+      "text": "I also"
+    },
+    {
+      "start": 245.36,
+      "duration": 4.92,
+      "text": "author, co-author, and review some of"
+    },
+    {
+      "start": 247.56,
+      "duration": 6.36,
+      "text": "the MDN docs in this security web"
+    },
+    {
+      "start": 250.28,
+      "duration": 5.08,
+      "text": "application community group at the W3C."
+    },
+    {
+      "start": 253.92,
+      "duration": 3.44,
+      "text": "I'm also a Google Developer Expert in"
+    },
+    {
+      "start": 255.36,
+      "duration": 4.08,
+      "text": "Angular and Identity, which is really"
+    },
+    {
+      "start": 257.36,
+      "duration": 3.4,
+      "text": "nice because I get some Google swag from"
+    },
+    {
+      "start": 259.44,
+      "duration": 2.68,
+      "text": "time to time."
+    },
+    {
+      "start": 260.76,
+      "duration": 4.28,
+      "text": "If you have any kind of question, you"
+    },
+    {
+      "start": 262.12,
+      "duration": 4.52,
+      "text": "can ping me in the email. I usually love"
+    },
+    {
+      "start": 265.04,
+      "duration": 3.28,
+      "text": "to answer questions to make the world"
+    },
+    {
+      "start": 266.64,
+      "duration": 3.88,
+      "text": "more secure without sending you"
+    },
+    {
+      "start": 268.32,
+      "duration": 4.2,
+      "text": "immediately an invoice afterwards."
+    },
+    {
+      "start": 270.52,
+      "duration": 4.76,
+      "text": "Since I'm really into authentication"
+    },
+    {
+      "start": 272.52,
+      "duration": 4.32,
+      "text": "authorization, I also wrote a book about"
+    },
+    {
+      "start": 275.28,
+      "duration": 3.48,
+      "text": "this whole topic."
+    },
+    {
+      "start": 276.84,
+      "duration": 4.04,
+      "text": "Basically, I call it All Things OAuth"
+    },
+    {
+      "start": 278.76,
+      "duration": 4.28,
+      "text": "and Open ID Connect,"
+    },
+    {
+      "start": 280.88,
+      "duration": 3.96,
+      "text": "which a couple of live coding examples"
+    },
+    {
+      "start": 283.04,
+      "duration": 4.88,
+      "text": "and how to integrate all the things you"
+    },
+    {
+      "start": 284.84,
+      "duration": 5.2,
+      "text": "maybe heard previously from Alex,"
+    },
+    {
+      "start": 287.92,
+      "duration": 4.12,
+      "text": "like about DPoP and best practices and"
+    },
+    {
+      "start": 290.04,
+      "duration": 4.48,
+      "text": "what not. You can read that, but it's"
+    },
+    {
+      "start": 292.04,
+      "duration": 4.68,
+      "text": "just available in the German language."
+    },
+    {
+      "start": 294.52,
+      "duration": 4.48,
+      "text": "But enough about me. Let's talk a little"
+    },
+    {
+      "start": 296.72,
+      "duration": 5.96,
+      "text": "bit how actually passkeys make phishing"
+    },
+    {
+      "start": 299.0,
+      "duration": 6.44,
+      "text": "attacks impossible. For that, I need to"
+    },
+    {
+      "start": 302.68,
+      "duration": 4.84,
+      "text": "shortly give a step back. Maybe some of"
+    },
+    {
+      "start": 305.44,
+      "duration": 5.24,
+      "text": "you already familiar with that, like how"
+    },
+    {
+      "start": 307.52,
+      "duration": 5.84,
+      "text": "a passkey is actually created. We get a"
+    },
+    {
+      "start": 310.68,
+      "duration": 3.8,
+      "text": "challenge from the server, like the user"
+    },
+    {
+      "start": 313.36,
+      "duration": 3.48,
+      "text": "clicks of course and registers a"
+    },
+    {
+      "start": 314.48,
+      "duration": 4.64,
+      "text": "passkey. We get a challenge from the"
+    },
+    {
+      "start": 316.84,
+      "duration": 4.4,
+      "text": "from the server. This challenge can just"
+    },
+    {
+      "start": 319.12,
+      "duration": 4.96,
+      "text": "be used once, so it's a perfectly"
+    },
+    {
+      "start": 321.24,
+      "duration": 4.48,
+      "text": "protection against replay attacks. And"
+    },
+    {
+      "start": 324.08,
+      "duration": 3.12,
+      "text": "of course, it has a high entropy. It"
+    },
+    {
+      "start": 325.72,
+      "duration": 4.64,
+      "text": "should not be guessable. It should be"
+    },
+    {
+      "start": 327.2,
+      "duration": 4.64,
+      "text": "cryptographically perfect nonce value."
+    },
+    {
+      "start": 330.36,
+      "duration": 3.36,
+      "text": "And now comes actually the most"
+    },
+    {
+      "start": 331.84,
+      "duration": 4.12,
+      "text": "interesting part, we're calling the"
+    },
+    {
+      "start": 333.72,
+      "duration": 3.84,
+      "text": "WebAuthn API. This is a JavaScript API"
+    },
+    {
+      "start": 335.96,
+      "duration": 4.6,
+      "text": "inside the browser,"
+    },
+    {
+      "start": 337.56,
+      "duration": 6.08,
+      "text": "quite common. And throughout a so-called"
+    },
+    {
+      "start": 340.56,
+      "duration": 5.84,
+      "text": "client authenticator protocol 2,"
+    },
+    {
+      "start": 343.64,
+      "duration": 4.76,
+      "text": "we know exactly how my browser can now"
+    },
+    {
+      "start": 346.4,
+      "duration": 3.56,
+      "text": "contact all the connected"
+    },
+    {
+      "start": 348.4,
+      "duration": 3.56,
+      "text": "authenticators."
+    },
+    {
+      "start": 349.96,
+      "duration": 4.36,
+      "text": "And we're passing along"
+    },
+    {
+      "start": 351.96,
+      "duration": 4.24,
+      "text": "a JSON object. And inside this JSON"
+    },
+    {
+      "start": 354.32,
+      "duration": 4.64,
+      "text": "object, we find something really"
+    },
+    {
+      "start": 356.2,
+      "duration": 4.8,
+      "text": "important and crucial by this all thing"
+    },
+    {
+      "start": 358.96,
+      "duration": 4.48,
+      "text": "why passkeys works."
+    },
+    {
+      "start": 361.0,
+      "duration": 5.52,
+      "text": "We're having this relying party ID."
+    },
+    {
+      "start": 363.44,
+      "duration": 4.04,
+      "text": "Inside this ID, this is basically"
+    },
+    {
+      "start": 366.52,
+      "duration": 3.24,
+      "text": "um"
+    },
+    {
+      "start": 367.48,
+      "duration": 4.2,
+      "text": "part of the part of the origin, like"
+    },
+    {
+      "start": 369.76,
+      "duration": 4.12,
+      "text": "basically the domain,"
+    },
+    {
+      "start": 371.68,
+      "duration": 5.04,
+      "text": "which tells my authenticator, you're"
+    },
+    {
+      "start": 373.88,
+      "duration": 5.0,
+      "text": "just allowed to use this passkey for"
+    },
+    {
+      "start": 376.72,
+      "duration": 4.48,
+      "text": "this kind of domain."
+    },
+    {
+      "start": 378.88,
+      "duration": 5.32,
+      "text": "We will come back a little bit later in"
+    },
+    {
+      "start": 381.2,
+      "duration": 5.32,
+      "text": "how to maybe still mess that up, but um"
+    },
+    {
+      "start": 384.2,
+      "duration": 5.04,
+      "text": "so far so good. Apart from that, you can"
+    },
+    {
+      "start": 386.52,
+      "duration": 5.16,
+      "text": "also even tell the authenticator what"
+    },
+    {
+      "start": 389.24,
+      "duration": 4.88,
+      "text": "kind of algorithm should be used to"
+    },
+    {
+      "start": 391.68,
+      "duration": 4.76,
+      "text": "create this public private key pair. As"
+    },
+    {
+      "start": 394.12,
+      "duration": 6.0,
+      "text": "we all know, minus seven stands for"
+    },
+    {
+      "start": 396.44,
+      "duration": 6.92,
+      "text": "ECDSA with SHA uh 256."
+    },
+    {
+      "start": 400.12,
+      "duration": 5.0,
+      "text": "This is often the default, but you can"
+    },
+    {
+      "start": 403.36,
+      "duration": 3.84,
+      "text": "of course change it to any other"
+    },
+    {
+      "start": 405.12,
+      "duration": 3.72,
+      "text": "algorithm which you find way more"
+    },
+    {
+      "start": 407.2,
+      "duration": 3.52,
+      "text": "secure."
+    },
+    {
+      "start": 408.84,
+      "duration": 4.08,
+      "text": "And after this is passed along, we know"
+    },
+    {
+      "start": 410.72,
+      "duration": 4.04,
+      "text": "the drill. Our authenticator will create"
+    },
+    {
+      "start": 412.92,
+      "duration": 4.36,
+      "text": "this public private key pair. The"
+    },
+    {
+      "start": 414.76,
+      "duration": 4.56,
+      "text": "private key signs the challenge, and"
+    },
+    {
+      "start": 417.28,
+      "duration": 3.68,
+      "text": "along with the public key, it's sent"
+    },
+    {
+      "start": 419.32,
+      "duration": 4.48,
+      "text": "back basically"
+    },
+    {
+      "start": 420.96,
+      "duration": 5.16,
+      "text": "as an answer to this great uh function"
+    },
+    {
+      "start": 423.8,
+      "duration": 3.8,
+      "text": "back to the client and is sent back to"
+    },
+    {
+      "start": 426.12,
+      "duration": 3.44,
+      "text": "the server."
+    },
+    {
+      "start": 427.6,
+      "duration": 5.0,
+      "text": "So, the server stores basically just the"
+    },
+    {
+      "start": 429.56,
+      "duration": 4.8,
+      "text": "private uh public key, and of course"
+    },
+    {
+      "start": 432.6,
+      "duration": 3.84,
+      "text": "verifies the challenge, otherwise it"
+    },
+    {
+      "start": 434.36,
+      "duration": 4.36,
+      "text": "wouldn't make sense so much."
+    },
+    {
+      "start": 436.44,
+      "duration": 4.64,
+      "text": "And all what is in a database of the"
+    },
+    {
+      "start": 438.72,
+      "duration": 4.32,
+      "text": "server is of course the public key. So,"
+    },
+    {
+      "start": 441.08,
+      "duration": 4.08,
+      "text": "no shared secret anymore, no password"
+    },
+    {
+      "start": 443.04,
+      "duration": 3.68,
+      "text": "anymore. That's why we love passkeys as"
+    },
+    {
+      "start": 445.16,
+      "duration": 4.4,
+      "text": "well so much."
+    },
+    {
+      "start": 446.72,
+      "duration": 5.12,
+      "text": "And I can't emphasize it emphasize it um"
+    },
+    {
+      "start": 449.56,
+      "duration": 6.08,
+      "text": "enough. Passkeys are really strongly"
+    },
+    {
+      "start": 451.84,
+      "duration": 6.68,
+      "text": "bound to their relying party ID. I can't"
+    },
+    {
+      "start": 455.64,
+      "duration": 5.36,
+      "text": "trick the browser to use the passkey for"
+    },
+    {
+      "start": 458.52,
+      "duration": 5.04,
+      "text": "any other origin or domain."
+    },
+    {
+      "start": 461.0,
+      "duration": 5.2,
+      "text": "And that's actually one of the reason"
+    },
+    {
+      "start": 463.56,
+      "duration": 5.0,
+      "text": "why phishing fails with passkeys. They"
+    },
+    {
+      "start": 466.2,
+      "duration": 4.36,
+      "text": "are strongly bound to their domain."
+    },
+    {
+      "start": 468.56,
+      "duration": 5.08,
+      "text": "There is no shared secret anymore. So,"
+    },
+    {
+      "start": 470.56,
+      "duration": 4.24,
+      "text": "even if a database breach somewhat"
+    },
+    {
+      "start": 473.64,
+      "duration": 3.84,
+      "text": "happens,"
+    },
+    {
+      "start": 474.8,
+      "duration": 5.44,
+      "text": "all the attacker gets is maybe some kind"
+    },
+    {
+      "start": 477.48,
+      "duration": 4.48,
+      "text": "of public keys. So, the attacker can"
+    },
+    {
+      "start": 480.24,
+      "duration": 3.72,
+      "text": "write me an encrypted love letter or"
+    },
+    {
+      "start": 481.96,
+      "duration": 4.76,
+      "text": "something, but nothing more with that"
+    },
+    {
+      "start": 483.96,
+      "duration": 4.48,
+      "text": "basically. It's as I said already, and"
+    },
+    {
+      "start": 486.72,
+      "duration": 3.84,
+      "text": "built-in replay protection with this"
+    },
+    {
+      "start": 488.44,
+      "duration": 5.08,
+      "text": "one-time use challenge."
+    },
+    {
+      "start": 490.56,
+      "duration": 5.0,
+      "text": "And no real secret can be intercepted."
+    },
+    {
+      "start": 493.52,
+      "duration": 4.88,
+      "text": "We're not sending the private key along."
+    },
+    {
+      "start": 495.56,
+      "duration": 5.4,
+      "text": "We're not sending any kind of um"
+    },
+    {
+      "start": 498.4,
+      "duration": 5.24,
+      "text": "password or or anything along the way."
+    },
+    {
+      "start": 500.96,
+      "duration": 5.04,
+      "text": "Even if you have kind of broken TLS,"
+    },
+    {
+      "start": 503.64,
+      "duration": 4.88,
+      "text": "there's nothing to actually be able to"
+    },
+    {
+      "start": 506.0,
+      "duration": 3.76,
+      "text": "intercept. That's why we love passkeys"
+    },
+    {
+      "start": 508.52,
+      "duration": 3.4,
+      "text": "so much."
+    },
+    {
+      "start": 509.76,
+      "duration": 4.56,
+      "text": "But of course, integrating passkeys now"
+    },
+    {
+      "start": 511.92,
+      "duration": 4.48,
+      "text": "in our web application, it comes with"
+    },
+    {
+      "start": 514.32,
+      "duration": 4.92,
+      "text": "some pitfalls. And I want to show you a"
+    },
+    {
+      "start": 516.4,
+      "duration": 5.44,
+      "text": "couple of those and how to avoid them."
+    },
+    {
+      "start": 519.24,
+      "duration": 6.76,
+      "text": "So, first of all, I want to uh use"
+    },
+    {
+      "start": 521.84,
+      "duration": 6.72,
+      "text": "Keycloak, one really lovely identity"
+    },
+    {
+      "start": 526.0,
+      "duration": 3.72,
+      "text": "provider I most of the times now using"
+    },
+    {
+      "start": 528.56,
+      "duration": 4.68,
+      "text": "basically,"
+    },
+    {
+      "start": 529.72,
+      "duration": 5.44,
+      "text": "um and show you how to integrate it. We"
+    },
+    {
+      "start": 533.24,
+      "duration": 4.52,
+      "text": "taking shortly look in the realm setup"
+    },
+    {
+      "start": 535.16,
+      "duration": 4.8,
+      "text": "and enabling passkey basically,"
+    },
+    {
+      "start": 537.76,
+      "duration": 4.4,
+      "text": "um how to set the relying party ID base"
+    },
+    {
+      "start": 539.96,
+      "duration": 4.24,
+      "text": "and and making some configurations. And"
+    },
+    {
+      "start": 542.16,
+      "duration": 4.64,
+      "text": "then just to shortly"
+    },
+    {
+      "start": 544.2,
+      "duration": 5.08,
+      "text": "to taking a look how you can register"
+    },
+    {
+      "start": 546.8,
+      "duration": 4.12,
+      "text": "now passkey and how you can authenticate"
+    },
+    {
+      "start": 549.28,
+      "duration": 3.44,
+      "text": "them with a passkey."
+    },
+    {
+      "start": 550.92,
+      "duration": 4.0,
+      "text": "So,"
+    },
+    {
+      "start": 552.72,
+      "duration": 4.68,
+      "text": "here again, maybe if you visited the"
+    },
+    {
+      "start": 554.92,
+      "duration": 6.24,
+      "text": "last talk, you saw this already. We are"
+    },
+    {
+      "start": 557.4,
+      "duration": 5.8,
+      "text": "here in the realm setup. And I'm right"
+    },
+    {
+      "start": 561.16,
+      "duration": 4.04,
+      "text": "now here in the authentication. So, here"
+    },
+    {
+      "start": 563.2,
+      "duration": 4.32,
+      "text": "you have another tab. It's called"
+    },
+    {
+      "start": 565.2,
+      "duration": 5.32,
+      "text": "policies. And here we have now the"
+    },
+    {
+      "start": 567.52,
+      "duration": 5.36,
+      "text": "beautiful policy for a WebAuthn"
+    },
+    {
+      "start": 570.52,
+      "duration": 4.8,
+      "text": "passwordless. And there's actually the"
+    },
+    {
+      "start": 572.88,
+      "duration": 4.88,
+      "text": "place where you can enable passkey. So,"
+    },
+    {
+      "start": 575.32,
+      "duration": 4.2,
+      "text": "you can give it a name. You can define"
+    },
+    {
+      "start": 577.76,
+      "duration": 4.16,
+      "text": "what kind of signature algorithms you"
+    },
+    {
+      "start": 579.52,
+      "duration": 4.2,
+      "text": "want to use, and here's the relying"
+    },
+    {
+      "start": 581.92,
+      "duration": 3.44,
+      "text": "party ID. Right now, it's kind of"
+    },
+    {
+      "start": 583.72,
+      "duration": 3.88,
+      "text": "boring, it's just localhost because my"
+    },
+    {
+      "start": 585.36,
+      "duration": 4.48,
+      "text": "Keycloak runs on localhost."
+    },
+    {
+      "start": 587.6,
+      "duration": 4.52,
+      "text": "And I will come, as I said, a little bit"
+    },
+    {
+      "start": 589.84,
+      "duration": 4.72,
+      "text": "again to it later how to set it"
+    },
+    {
+      "start": 592.12,
+      "duration": 3.44,
+      "text": "properly. There other Actually, it's"
+    },
+    {
+      "start": 594.56,
+      "duration": 3.12,
+      "text": "really great. There are so many"
+    },
+    {
+      "start": 595.56,
+      "duration": 4.84,
+      "text": "configurations you can do."
+    },
+    {
+      "start": 597.68,
+      "duration": 5.72,
+      "text": "But, of course, many configurations that"
+    },
+    {
+      "start": 600.4,
+      "duration": 5.96,
+      "text": "maybe can lead to a weak weak passkey"
+    },
+    {
+      "start": 603.4,
+      "duration": 5.56,
+      "text": "use, and that's what I want to showcase."
+    },
+    {
+      "start": 606.36,
+      "duration": 5.68,
+      "text": "Um but one important thing what I want"
+    },
+    {
+      "start": 608.96,
+      "duration": 6.6,
+      "text": "to already mention is the authenticator"
+    },
+    {
+      "start": 612.04,
+      "duration": 5.88,
+      "text": "attachment. This basically tells what"
+    },
+    {
+      "start": 615.56,
+      "duration": 3.48,
+      "text": "kind of authenticators are allowed to be"
+    },
+    {
+      "start": 617.92,
+      "duration": 3.24,
+      "text": "used."
+    },
+    {
+      "start": 619.04,
+      "duration": 4.4,
+      "text": "Here we have cross-plat- we have have"
+    },
+    {
+      "start": 621.16,
+      "duration": 4.28,
+      "text": "cross-platform and platform. Platform"
+    },
+    {
+      "start": 623.44,
+      "duration": 5.2,
+      "text": "basically is also called"
+    },
+    {
+      "start": 625.44,
+      "duration": 5.56,
+      "text": "hardware-bounded passkeys, like passkeys"
+    },
+    {
+      "start": 628.64,
+      "duration": 5.8,
+      "text": "that are inside your TBN in a secure"
+    },
+    {
+      "start": 631.0,
+      "duration": 5.76,
+      "text": "enclave. And cross-platform passkeys are"
+    },
+    {
+      "start": 634.44,
+      "duration": 3.84,
+      "text": "authenticators that can be used on"
+    },
+    {
+      "start": 636.76,
+      "duration": 3.84,
+      "text": "different kind of platforms, like a"
+    },
+    {
+      "start": 638.28,
+      "duration": 4.04,
+      "text": "YubiKey. You can use a YubiKey on"
+    },
+    {
+      "start": 640.6,
+      "duration": 4.72,
+      "text": "different kind of laptops, you just need"
+    },
+    {
+      "start": 642.32,
+      "duration": 5.16,
+      "text": "to um plug it in, and then you can use"
+    },
+    {
+      "start": 645.32,
+      "duration": 4.24,
+      "text": "the passkey that is basically on this"
+    },
+    {
+      "start": 647.48,
+      "duration": 4.8,
+      "text": "kind of YubiKey."
+    },
+    {
+      "start": 649.56,
+      "duration": 4.92,
+      "text": "So, you as a server or as a Keycloak,"
+    },
+    {
+      "start": 652.28,
+      "duration": 4.08,
+      "text": "you can just decide actually what kind"
+    },
+    {
+      "start": 654.48,
+      "duration": 5.16,
+      "text": "of device type, like what kind of"
+    },
+    {
+      "start": 656.36,
+      "duration": 5.56,
+      "text": "authenticator type, you want to allow."
+    },
+    {
+      "start": 659.64,
+      "duration": 3.4,
+      "text": "So, but so far so good. Uh as I said, I"
+    },
+    {
+      "start": 661.92,
+      "duration": 3.28,
+      "text": "will come to couple of those"
+    },
+    {
+      "start": 663.04,
+      "duration": 4.84,
+      "text": "configurations later. This is all what"
+    },
+    {
+      "start": 665.2,
+      "duration": 6.24,
+      "text": "it takes to enable passkey. Another"
+    },
+    {
+      "start": 667.88,
+      "duration": 6.16,
+      "text": "great thing is that now you maybe want"
+    },
+    {
+      "start": 671.44,
+      "duration": 5.2,
+      "text": "to enforce your users Enforcements are"
+    },
+    {
+      "start": 674.04,
+      "duration": 4.76,
+      "text": "always good, especially when it comes to"
+    },
+    {
+      "start": 676.64,
+      "duration": 4.8,
+      "text": "uh uh security. You want to enforce your"
+    },
+    {
+      "start": 678.8,
+      "duration": 5.44,
+      "text": "users to use the passkey. So, as soon as"
+    },
+    {
+      "start": 681.44,
+      "duration": 6.56,
+      "text": "they log in, they should be asked and"
+    },
+    {
+      "start": 684.24,
+      "duration": 6.24,
+      "text": "told also register a passkey. So, what"
+    },
+    {
+      "start": 688.0,
+      "duration": 5.08,
+      "text": "you can have are so-called required"
+    },
+    {
+      "start": 690.48,
+      "duration": 7.88,
+      "text": "actions, and there you can actually"
+    },
+    {
+      "start": 693.08,
+      "duration": 7.56,
+      "text": "enable as an as a default action this"
+    },
+    {
+      "start": 698.36,
+      "duration": 5.04,
+      "text": "register passwordless."
+    },
+    {
+      "start": 700.64,
+      "duration": 7.2,
+      "text": "So, what happens then is when you want"
+    },
+    {
+      "start": 703.4,
+      "duration": 6.36,
+      "text": "to log in, and now I will log in myself,"
+    },
+    {
+      "start": 707.84,
+      "duration": 3.96,
+      "text": "I get immediately asked, \"Please"
+    },
+    {
+      "start": 709.76,
+      "duration": 4.6,
+      "text": "register a passkey.\" And this is"
+    },
+    {
+      "start": 711.8,
+      "duration": 3.96,
+      "text": "basically the common drill you maybe"
+    },
+    {
+      "start": 714.36,
+      "duration": 3.76,
+      "text": "already know since you're already"
+    },
+    {
+      "start": 715.76,
+      "duration": 5.04,
+      "text": "familiar with passkeys. I will register"
+    },
+    {
+      "start": 718.12,
+      "duration": 5.32,
+      "text": "it. My iCloud keychain authenticator"
+    },
+    {
+      "start": 720.8,
+      "duration": 4.44,
+      "text": "will be asked. So, I got asked for user"
+    },
+    {
+      "start": 723.44,
+      "duration": 3.32,
+      "text": "verification again towards my"
+    },
+    {
+      "start": 725.24,
+      "duration": 3.08,
+      "text": "authenticator,"
+    },
+    {
+      "start": 726.76,
+      "duration": 4.12,
+      "text": "and"
+    },
+    {
+      "start": 728.32,
+      "duration": 4.12,
+      "text": "my passkey is basically registered. I"
+    },
+    {
+      "start": 730.88,
+      "duration": 4.76,
+      "text": "can give it a name,"
+    },
+    {
+      "start": 732.44,
+      "duration": 6.08,
+      "text": "and that's it. So, if I log out if I log"
+    },
+    {
+      "start": 735.64,
+      "duration": 5.84,
+      "text": "myself out, I log myself in again, the"
+    },
+    {
+      "start": 738.52,
+      "duration": 4.32,
+      "text": "really, really cool thing here is that"
+    },
+    {
+      "start": 741.48,
+      "duration": 3.36,
+      "text": "you don't have to"
+    },
+    {
+      "start": 742.84,
+      "duration": 4.84,
+      "text": "enforce it immediately. So, it's not"
+    },
+    {
+      "start": 744.84,
+      "duration": 4.8,
+      "text": "like you you need the users need to"
+    },
+    {
+      "start": 747.68,
+      "duration": 4.32,
+      "text": "immediately switch to passkeys. You can"
+    },
+    {
+      "start": 749.64,
+      "duration": 4.12,
+      "text": "have a transition phase in a sense that"
+    },
+    {
+      "start": 752.0,
+      "duration": 3.04,
+      "text": "the users can still log in with a"
+    },
+    {
+      "start": 753.76,
+      "duration": 3.44,
+      "text": "password,"
+    },
+    {
+      "start": 755.04,
+      "duration": 4.76,
+      "text": "but you also get some kind of auto"
+    },
+    {
+      "start": 757.2,
+      "duration": 3.92,
+      "text": "completion for passkeys. So, I still"
+    },
+    {
+      "start": 759.8,
+      "duration": 4.88,
+      "text": "could log in now with username and"
+    },
+    {
+      "start": 761.12,
+      "duration": 5.16,
+      "text": "password, but I can just since passkeys"
+    },
+    {
+      "start": 764.68,
+      "duration": 4.36,
+      "text": "are discoverable,"
+    },
+    {
+      "start": 766.28,
+      "duration": 4.68,
+      "text": "I can just log in myself with a passkey."
+    },
+    {
+      "start": 769.04,
+      "duration": 4.28,
+      "text": "Again, user verification. My"
+    },
+    {
+      "start": 770.96,
+      "duration": 5.72,
+      "text": "authenticator tells me to verify again"
+    },
+    {
+      "start": 773.32,
+      "duration": 5.68,
+      "text": "towards it, and I'm logged in."
+    },
+    {
+      "start": 776.68,
+      "duration": 5.16,
+      "text": "Another really important thing is that"
+    },
+    {
+      "start": 779.0,
+      "duration": 4.84,
+      "text": "Keycloak also gives us out of the box is"
+    },
+    {
+      "start": 781.84,
+      "duration": 4.68,
+      "text": "to be able to manage those passkeys for"
+    },
+    {
+      "start": 783.84,
+      "duration": 5.76,
+      "text": "sure. So, I just got forwarded to an"
+    },
+    {
+      "start": 786.52,
+      "duration": 5.68,
+      "text": "account page basically, and what I have"
+    },
+    {
+      "start": 789.6,
+      "duration": 5.8,
+      "text": "here, of course, the possibility to add"
+    },
+    {
+      "start": 792.2,
+      "duration": 5.56,
+      "text": "another passkey, to delete it, or to to"
+    },
+    {
+      "start": 795.4,
+      "duration": 4.96,
+      "text": "somehow, yeah, basically delete delete"
+    },
+    {
+      "start": 797.76,
+      "duration": 5.16,
+      "text": "it or add another passkey. Um one"
+    },
+    {
+      "start": 800.36,
+      "duration": 5.28,
+      "text": "important thing as a side note, if you"
+    },
+    {
+      "start": 802.92,
+      "duration": 4.24,
+      "text": "delete a passkey over here, that doesn't"
+    },
+    {
+      "start": 805.64,
+      "duration": 4.24,
+      "text": "affect the passkey on your"
+    },
+    {
+      "start": 807.16,
+      "duration": 4.48,
+      "text": "authenticator. It's a separated step."
+    },
+    {
+      "start": 809.88,
+      "duration": 4.36,
+      "text": "Since of course your passkey can be on"
+    },
+    {
+      "start": 811.64,
+      "duration": 4.56,
+      "text": "your YubiKey. So so if your YubiKey"
+    },
+    {
+      "start": 814.24,
+      "duration": 4.0,
+      "text": "isn't plugged in, how should Keycloak"
+    },
+    {
+      "start": 816.2,
+      "duration": 4.08,
+      "text": "now delete the passkey that you have"
+    },
+    {
+      "start": 818.24,
+      "duration": 4.84,
+      "text": "been created on the YubiKey?"
+    },
+    {
+      "start": 820.28,
+      "duration": 4.92,
+      "text": "So um just keep in mind that of course"
+    },
+    {
+      "start": 823.08,
+      "duration": 3.92,
+      "text": "you can delete your passkeys binding"
+    },
+    {
+      "start": 825.2,
+      "duration": 3.12,
+      "text": "towards Keycloak or towards your"
+    },
+    {
+      "start": 827.0,
+      "duration": 3.88,
+      "text": "identity provider, but you need to"
+    },
+    {
+      "start": 828.32,
+      "duration": 4.6,
+      "text": "delete it secondly also on your"
+    },
+    {
+      "start": 830.88,
+      "duration": 4.92,
+      "text": "authenticator for sure."
+    },
+    {
+      "start": 832.92,
+      "duration": 5.96,
+      "text": "Okay, that was basically how you can"
+    },
+    {
+      "start": 835.8,
+      "duration": 5.0,
+      "text": "enable the whole thing. What are common"
+    },
+    {
+      "start": 838.88,
+      "duration": 5.56,
+      "text": "pitfalls when we want to enable it or"
+    },
+    {
+      "start": 840.8,
+      "duration": 7.52,
+      "text": "integrate that in our web applications?"
+    },
+    {
+      "start": 844.44,
+      "duration": 6.44,
+      "text": "There are four I I figured on I figured"
+    },
+    {
+      "start": 848.32,
+      "duration": 5.04,
+      "text": "critical pitfalls. Of course first of"
+    },
+    {
+      "start": 850.88,
+      "duration": 5.44,
+      "text": "all setting the relying party ID."
+    },
+    {
+      "start": 853.36,
+      "duration": 5.6,
+      "text": "Ignoring attestation is something really"
+    },
+    {
+      "start": 856.32,
+      "duration": 4.12,
+      "text": "crucial. Missing user verification, I"
+    },
+    {
+      "start": 858.96,
+      "duration": 4.36,
+      "text": "guess this is something already you can"
+    },
+    {
+      "start": 860.44,
+      "duration": 5.72,
+      "text": "imagine what this could mean. And still"
+    },
+    {
+      "start": 863.32,
+      "duration": 4.08,
+      "text": "having passwords as a fallback"
+    },
+    {
+      "start": 866.16,
+      "duration": 3.56,
+      "text": "alternative"
+    },
+    {
+      "start": 867.4,
+      "duration": 4.12,
+      "text": "is also of course one of the pitfalls."
+    },
+    {
+      "start": 869.72,
+      "duration": 5.2,
+      "text": "So let's start with setting the relying"
+    },
+    {
+      "start": 871.52,
+      "duration": 6.04,
+      "text": "party ID. This is really an and tricky"
+    },
+    {
+      "start": 874.92,
+      "duration": 4.68,
+      "text": "thing. So as mentioned, if you want to"
+    },
+    {
+      "start": 877.56,
+      "duration": 5.04,
+      "text": "set the relying party ID,"
+    },
+    {
+      "start": 879.6,
+      "duration": 5.48,
+      "text": "um it's actually still possible. Let me"
+    },
+    {
+      "start": 882.6,
+      "duration": 5.0,
+      "text": "shortly go back to this one over here."
+    },
+    {
+      "start": 885.08,
+      "duration": 6.6,
+      "text": "So let's say you set your relying party"
+    },
+    {
+      "start": 887.6,
+      "duration": 7.32,
+      "text": "ID to I don't know shop.com."
+    },
+    {
+      "start": 891.68,
+      "duration": 5.8,
+      "text": "That means your passkey would also work"
+    },
+    {
+      "start": 894.92,
+      "duration": 5.44,
+      "text": "for subdomains like shop.com,"
+    },
+    {
+      "start": 897.48,
+      "duration": 5.44,
+      "text": "app.shop.com, www.shop.com,"
+    },
+    {
+      "start": 900.36,
+      "duration": 5.4,
+      "text": "all subdomains basically. So having this"
+    },
+    {
+      "start": 902.92,
+      "duration": 4.88,
+      "text": "kind of so called apex domain works in"
+    },
+    {
+      "start": 905.76,
+      "duration": 4.44,
+      "text": "scenarios where you might have single"
+    },
+    {
+      "start": 907.8,
+      "duration": 5.24,
+      "text": "sign on and having a couple of redirects"
+    },
+    {
+      "start": 910.2,
+      "duration": 3.6,
+      "text": "and and you need this kind of subdomain"
+    },
+    {
+      "start": 913.04,
+      "duration": 3.88,
+      "text": "um"
+    },
+    {
+      "start": 913.8,
+      "duration": 5.52,
+      "text": "possibility. I highly recommend to not"
+    },
+    {
+      "start": 916.92,
+      "duration": 5.84,
+      "text": "do that. I I really if you have the"
+    },
+    {
+      "start": 919.32,
+      "duration": 5.52,
+      "text": "possibility, narrow it down as as strong"
+    },
+    {
+      "start": 922.76,
+      "duration": 4.76,
+      "text": "as possible that it's really as as"
+    },
+    {
+      "start": 924.84,
+      "duration": 4.64,
+      "text": "strict as string matching. I mean, if"
+    },
+    {
+      "start": 927.52,
+      "duration": 4.32,
+      "text": "you if you run Keycloak, you run it on"
+    },
+    {
+      "start": 929.48,
+      "duration": 5.72,
+      "text": "one specific kind of domain, so you can"
+    },
+    {
+      "start": 931.84,
+      "duration": 4.96,
+      "text": "really type into maybe like your auth"
+    },
+    {
+      "start": 935.2,
+      "duration": 3.24,
+      "text": "server"
+    },
+    {
+      "start": 936.8,
+      "duration": 4.72,
+      "text": ".com."
+    },
+    {
+      "start": 938.44,
+      "duration": 5.0,
+      "text": "And then that's it. If and a second"
+    },
+    {
+      "start": 941.52,
+      "duration": 3.88,
+      "text": "thought, if you need to have the"
+    },
+    {
+      "start": 943.44,
+      "duration": 3.64,
+      "text": "possibility to have really the"
+    },
+    {
+      "start": 945.4,
+      "duration": 4.0,
+      "text": "subdomains,"
+    },
+    {
+      "start": 947.08,
+      "duration": 4.6,
+      "text": "then take care of your DNS records. Take"
+    },
+    {
+      "start": 949.4,
+      "duration": 5.48,
+      "text": "care of your CNAME records because a"
+    },
+    {
+      "start": 951.68,
+      "duration": 6.08,
+      "text": "subdomain takeover attack is possible."
+    },
+    {
+      "start": 954.88,
+      "duration": 5.28,
+      "text": "So, just be aware that you have you keep"
+    },
+    {
+      "start": 957.76,
+      "duration": 5.32,
+      "text": "your DNS records really strongly"
+    },
+    {
+      "start": 960.16,
+      "duration": 5.12,
+      "text": "observed that this can't that someone"
+    },
+    {
+      "start": 963.08,
+      "duration": 5.64,
+      "text": "like a dangling subdomain does not"
+    },
+    {
+      "start": 965.28,
+      "duration": 5.68,
+      "text": "happen and someone steals it maybe."
+    },
+    {
+      "start": 968.72,
+      "duration": 4.48,
+      "text": "So, it's I said it's a little bit"
+    },
+    {
+      "start": 970.96,
+      "duration": 4.8,
+      "text": "tricky, so set the relying party ID as"
+    },
+    {
+      "start": 973.2,
+      "duration": 4.52,
+      "text": "specific as you can, but as broad as you"
+    },
+    {
+      "start": 975.76,
+      "duration": 3.76,
+      "text": "must. The best case, of course, as"
+    },
+    {
+      "start": 977.72,
+      "duration": 4.52,
+      "text": "strict as you can"
+    },
+    {
+      "start": 979.52,
+      "duration": 5.76,
+      "text": "because you can't migrate your passkeys"
+    },
+    {
+      "start": 982.24,
+      "duration": 4.88,
+      "text": "later. So, it's not something"
+    },
+    {
+      "start": 985.28,
+      "duration": 4.2,
+      "text": "I mean, imagine you would need to tell"
+    },
+    {
+      "start": 987.12,
+      "duration": 5.4,
+      "text": "the authenticator or the authenticator,"
+    },
+    {
+      "start": 989.48,
+      "duration": 6.16,
+      "text": "I created a passkeys on app.com and now"
+    },
+    {
+      "start": 992.52,
+      "duration": 4.88,
+      "text": "change it to www.app.com."
+    },
+    {
+      "start": 995.64,
+      "duration": 4.04,
+      "text": "You can't you can't do something There's"
+    },
+    {
+      "start": 997.4,
+      "duration": 4.64,
+      "text": "no such specification for that, so you"
+    },
+    {
+      "start": 999.68,
+      "duration": 3.84,
+      "text": "can't migrate them in a way. So, you"
+    },
+    {
+      "start": 1002.04,
+      "duration": 4.12,
+      "text": "need to be really strict from the"
+    },
+    {
+      "start": 1003.52,
+      "duration": 2.64,
+      "text": "beginning."
+    },
+    {
+      "start": 1006.24,
+      "duration": 3.84,
+      "text": "Talking about user verification,"
+    },
+    {
+      "start": 1008.76,
+      "duration": 3.8,
+      "text": "I guess this is kind of"
+    },
+    {
+      "start": 1010.08,
+      "duration": 4.28,
+      "text": "self-explainable."
+    },
+    {
+      "start": 1012.56,
+      "duration": 3.84,
+      "text": "It actually means when you log in with"
+    },
+    {
+      "start": 1014.36,
+      "duration": 4.2,
+      "text": "your passkey or create a passkey that"
+    },
+    {
+      "start": 1016.4,
+      "duration": 3.72,
+      "text": "your authenticator asks the user again"
+    },
+    {
+      "start": 1018.56,
+      "duration": 3.84,
+      "text": "to verify."
+    },
+    {
+      "start": 1020.12,
+      "duration": 4.24,
+      "text": "Mainly by giving a fingerprint or facial"
+    },
+    {
+      "start": 1022.4,
+      "duration": 3.48,
+      "text": "recognition or something that tells the"
+    },
+    {
+      "start": 1024.36,
+      "duration": 3.68,
+      "text": "tells the authenticator, yes, you are"
+    },
+    {
+      "start": 1025.88,
+      "duration": 4.96,
+      "text": "allowed to use the passkey then."
+    },
+    {
+      "start": 1028.04,
+      "duration": 4.12,
+      "text": "Otherwise, it opens for really strange"
+    },
+    {
+      "start": 1030.84,
+      "duration": 3.64,
+      "text": "attack."
+    },
+    {
+      "start": 1032.16,
+      "duration": 5.52,
+      "text": "Maybe you know already that you can use"
+    },
+    {
+      "start": 1034.48,
+      "duration": 5.24,
+      "text": "also passkeys throughout Bluetooth. Like"
+    },
+    {
+      "start": 1037.68,
+      "duration": 4.36,
+      "text": "you have on you have a passkey on your"
+    },
+    {
+      "start": 1039.72,
+      "duration": 5.8,
+      "text": "smartphone, it's connected via Bluetooth"
+    },
+    {
+      "start": 1042.04,
+      "duration": 5.56,
+      "text": "to your PC, and then you log in, and"
+    },
+    {
+      "start": 1045.52,
+      "duration": 5.2,
+      "text": "then you can use your passkey Bluetooth"
+    },
+    {
+      "start": 1047.6,
+      "duration": 5.08,
+      "text": "passkey basically from your smartphone."
+    },
+    {
+      "start": 1050.72,
+      "duration": 3.88,
+      "text": "But imagine a scenario, you don't ask"
+    },
+    {
+      "start": 1052.68,
+      "duration": 3.96,
+      "text": "for user verification, and you have your"
+    },
+    {
+      "start": 1054.6,
+      "duration": 4.32,
+      "text": "unlocked smartphone maybe in your pocket"
+    },
+    {
+      "start": 1056.64,
+      "duration": 4.32,
+      "text": "or somewhere laying laying around, and"
+    },
+    {
+      "start": 1058.92,
+      "duration": 4.28,
+      "text": "someone passing by"
+    },
+    {
+      "start": 1060.96,
+      "duration": 4.76,
+      "text": "and uh trying to log in,"
+    },
+    {
+      "start": 1063.2,
+      "duration": 4.4,
+      "text": "and the website is trying to connect to"
+    },
+    {
+      "start": 1065.72,
+      "duration": 3.52,
+      "text": "a Bluetooth passkey."
+    },
+    {
+      "start": 1067.6,
+      "duration": 4.96,
+      "text": "And if the person of course is close"
+    },
+    {
+      "start": 1069.24,
+      "duration": 4.96,
+      "text": "enough close enough to your connected um"
+    },
+    {
+      "start": 1072.56,
+      "duration": 3.52,
+      "text": "as passkey,"
+    },
+    {
+      "start": 1074.2,
+      "duration": 3.56,
+      "text": "then it will use this kind of passkey"
+    },
+    {
+      "start": 1076.08,
+      "duration": 4.64,
+      "text": "without asking for another user"
+    },
+    {
+      "start": 1077.76,
+      "duration": 5.84,
+      "text": "verification. So, please always uh"
+    },
+    {
+      "start": 1080.72,
+      "duration": 5.56,
+      "text": "enable that. Here for instance, you find"
+    },
+    {
+      "start": 1083.6,
+      "duration": 4.76,
+      "text": "that um over here, user verification"
+    },
+    {
+      "start": 1086.28,
+      "duration": 4.04,
+      "text": "requirement. Um"
+    },
+    {
+      "start": 1088.36,
+      "duration": 4.56,
+      "text": "of course, you might could ask, why is"
+    },
+    {
+      "start": 1090.32,
+      "duration": 5.52,
+      "text": "this not default like by default just"
+    },
+    {
+      "start": 1092.92,
+      "duration": 5.44,
+      "text": "required? There are cases or there were"
+    },
+    {
+      "start": 1095.84,
+      "duration": 5.08,
+      "text": "some cases where passkeys are used as a"
+    },
+    {
+      "start": 1098.36,
+      "duration": 4.48,
+      "text": "second factor."
+    },
+    {
+      "start": 1100.92,
+      "duration": 3.72,
+      "text": "So, it's a little bit annoying having"
+    },
+    {
+      "start": 1102.84,
+      "duration": 3.52,
+      "text": "username password and then passkeys as a"
+    },
+    {
+      "start": 1104.64,
+      "duration": 3.28,
+      "text": "second factor and having this user"
+    },
+    {
+      "start": 1106.36,
+      "duration": 3.56,
+      "text": "verification."
+    },
+    {
+      "start": 1107.92,
+      "duration": 5.12,
+      "text": "Um basically,"
+    },
+    {
+      "start": 1109.92,
+      "duration": 5.32,
+      "text": "um so, that's why there is a possibility"
+    },
+    {
+      "start": 1113.04,
+      "duration": 4.52,
+      "text": "on a specification to turn it off. But"
+    },
+    {
+      "start": 1115.24,
+      "duration": 4.4,
+      "text": "if you have passkey only,"
+    },
+    {
+      "start": 1117.56,
+      "duration": 4.44,
+      "text": "um then I highly recommend to just of"
+    },
+    {
+      "start": 1119.64,
+      "duration": 6.2,
+      "text": "course having this as a requirement,"
+    },
+    {
+      "start": 1122.0,
+      "duration": 6.28,
+      "text": "which I think makes a lot of sense."
+    },
+    {
+      "start": 1125.84,
+      "duration": 4.04,
+      "text": "Attestation."
+    },
+    {
+      "start": 1128.28,
+      "duration": 4.72,
+      "text": "If you"
+    },
+    {
+      "start": 1129.88,
+      "duration": 5.88,
+      "text": "enable passkeys, you need to the server"
+    },
+    {
+      "start": 1133.0,
+      "duration": 5.52,
+      "text": "Keycloak or the IDP or whatnot need to"
+    },
+    {
+      "start": 1135.76,
+      "duration": 4.2,
+      "text": "evaluate the attestation. What is of"
+    },
+    {
+      "start": 1138.52,
+      "duration": 2.84,
+      "text": "course what is the attestation"
+    },
+    {
+      "start": 1139.96,
+      "duration": 5.36,
+      "text": "basically?"
+    },
+    {
+      "start": 1141.36,
+      "duration": 7.48,
+      "text": "Um it's also again a JSON object, which"
+    },
+    {
+      "start": 1145.32,
+      "duration": 5.68,
+      "text": "the authenticator sends over to the"
+    },
+    {
+      "start": 1148.84,
+      "duration": 5.64,
+      "text": "client and then towards the server"
+    },
+    {
+      "start": 1151.0,
+      "duration": 5.36,
+      "text": "giving information about authenticator."
+    },
+    {
+      "start": 1154.48,
+      "duration": 3.04,
+      "text": "For instance, we find the format over"
+    },
+    {
+      "start": 1156.36,
+      "duration": 3.36,
+      "text": "here."
+    },
+    {
+      "start": 1157.52,
+      "duration": 4.88,
+      "text": "The format is basically"
+    },
+    {
+      "start": 1159.72,
+      "duration": 4.2,
+      "text": "unfortunately completely different for"
+    },
+    {
+      "start": 1162.4,
+      "duration": 2.96,
+      "text": "all of the authenticators we know,"
+    },
+    {
+      "start": 1163.92,
+      "duration": 5.92,
+      "text": "because there is there is no really"
+    },
+    {
+      "start": 1165.36,
+      "duration": 7.28,
+      "text": "standard. So, it's basically um how um"
+    },
+    {
+      "start": 1169.84,
+      "duration": 4.96,
+      "text": "how the attestation looks like, where to"
+    },
+    {
+      "start": 1172.64,
+      "duration": 4.44,
+      "text": "find fields, where to find the"
+    },
+    {
+      "start": 1174.8,
+      "duration": 5.16,
+      "text": "certificate, where to find the"
+    },
+    {
+      "start": 1177.08,
+      "duration": 5.56,
+      "text": "signature and whatnot. Um so, the whole"
+    },
+    {
+      "start": 1179.96,
+      "duration": 4.16,
+      "text": "JSON could look differently um when"
+    },
+    {
+      "start": 1182.64,
+      "duration": 3.8,
+      "text": "we're having it from an Android's"
+    },
+    {
+      "start": 1184.12,
+      "duration": 4.72,
+      "text": "authenticator or iCloud Keychain or"
+    },
+    {
+      "start": 1186.44,
+      "duration": 3.68,
+      "text": "whatnot."
+    },
+    {
+      "start": 1188.84,
+      "duration": 4.24,
+      "text": "So,"
+    },
+    {
+      "start": 1190.12,
+      "duration": 5.6,
+      "text": "because the second thing um the the"
+    },
+    {
+      "start": 1193.08,
+      "duration": 4.2,
+      "text": "monitor got off, just to say that this"
+    },
+    {
+      "start": 1195.72,
+      "duration": 4.84,
+      "text": "monitor got off."
+    },
+    {
+      "start": 1197.28,
+      "duration": 5.76,
+      "text": "All good? Um but the picture is still"
+    },
+    {
+      "start": 1200.56,
+      "duration": 3.76,
+      "text": "there, so I'm good. Um in the general,"
+    },
+    {
+      "start": 1203.04,
+      "duration": 3.52,
+      "text": "I'm good."
+    },
+    {
+      "start": 1204.32,
+      "duration": 4.16,
+      "text": "Um so, I don't know the time anymore, so"
+    },
+    {
+      "start": 1206.56,
+      "duration": 4.76,
+      "text": "I pretend I can just keep talking for"
+    },
+    {
+      "start": 1208.48,
+      "duration": 4.6,
+      "text": "half an hour more, so that's fine. Um"
+    },
+    {
+      "start": 1211.32,
+      "duration": 4.24,
+      "text": "just kidding."
+    },
+    {
+      "start": 1213.08,
+      "duration": 4.88,
+      "text": "So, what we want to Thank you. What we"
+    },
+    {
+      "start": 1215.56,
+      "duration": 5.28,
+      "text": "want to know is um"
+    },
+    {
+      "start": 1217.96,
+      "duration": 4.44,
+      "text": "if this is an authentic authenticator."
+    },
+    {
+      "start": 1220.84,
+      "duration": 4.6,
+      "text": "So, we find something that's called"
+    },
+    {
+      "start": 1222.4,
+      "duration": 5.84,
+      "text": "attestation statement beneath here."
+    },
+    {
+      "start": 1225.44,
+      "duration": 4.96,
+      "text": "There's basically the algorithm, how was"
+    },
+    {
+      "start": 1228.24,
+      "duration": 4.48,
+      "text": "the signature created. So, the"
+    },
+    {
+      "start": 1230.4,
+      "duration": 5.44,
+      "text": "authenticator, of course, needed to sign"
+    },
+    {
+      "start": 1232.72,
+      "duration": 5.96,
+      "text": "with its uh firmware or provider"
+    },
+    {
+      "start": 1235.84,
+      "duration": 5.2,
+      "text": "certificate this whole attestation."
+    },
+    {
+      "start": 1238.68,
+      "duration": 3.8,
+      "text": "And this makes this whole JSON, of"
+    },
+    {
+      "start": 1241.04,
+      "duration": 2.92,
+      "text": "course, as you can imagine, more"
+    },
+    {
+      "start": 1242.48,
+      "duration": 4.44,
+      "text": "authentic."
+    },
+    {
+      "start": 1243.96,
+      "duration": 5.44,
+      "text": "If in the format there can be also a"
+    },
+    {
+      "start": 1246.92,
+      "duration": 5.0,
+      "text": "null value. Null value means the"
+    },
+    {
+      "start": 1249.4,
+      "duration": 6.24,
+      "text": "authenticator refused"
+    },
+    {
+      "start": 1251.92,
+      "duration": 5.92,
+      "text": "to sign the whole object over here with"
+    },
+    {
+      "start": 1255.64,
+      "duration": 5.2,
+      "text": "its certificate. So, the So, the"
+    },
+    {
+      "start": 1257.84,
+      "duration": 5.6,
+      "text": "authenticator doesn't prove its its"
+    },
+    {
+      "start": 1260.84,
+      "duration": 4.56,
+      "text": "authen- authenticity."
+    },
+    {
+      "start": 1263.44,
+      "duration": 2.88,
+      "text": "Which could lead to the point"
+    },
+    {
+      "start": 1265.4,
+      "duration": 3.44,
+      "text": "this"
+    },
+    {
+      "start": 1266.32,
+      "duration": 4.68,
+      "text": "kind of authenticator might be not a"
+    },
+    {
+      "start": 1268.84,
+      "duration": 4.56,
+      "text": "good one, might be an insecure one,"
+    },
+    {
+      "start": 1271.0,
+      "duration": 4.76,
+      "text": "might be somehow"
+    },
+    {
+      "start": 1273.4,
+      "duration": 5.4,
+      "text": "be broken or whatnot. So, you never"
+    },
+    {
+      "start": 1275.76,
+      "duration": 6.0,
+      "text": "should accept an authenticator"
+    },
+    {
+      "start": 1278.8,
+      "duration": 5.16,
+      "text": "that has the format non value. And of"
+    },
+    {
+      "start": 1281.76,
+      "duration": 3.68,
+      "text": "course, always check for this kind of"
+    },
+    {
+      "start": 1283.96,
+      "duration": 4.12,
+      "text": "signature"
+    },
+    {
+      "start": 1285.44,
+      "duration": 5.76,
+      "text": "a certificate. Another really important"
+    },
+    {
+      "start": 1288.08,
+      "duration": 6.16,
+      "text": "thing is the good over here. It's called"
+    },
+    {
+      "start": 1291.2,
+      "duration": 5.08,
+      "text": "authenticator attestation good. This is"
+    },
+    {
+      "start": 1294.24,
+      "duration": 5.04,
+      "text": "basically good that tells exactly the"
+    },
+    {
+      "start": 1296.28,
+      "duration": 4.64,
+      "text": "authenticator model of"
+    },
+    {
+      "start": 1299.28,
+      "duration": 4.4,
+      "text": "the the given authenticator. For"
+    },
+    {
+      "start": 1300.92,
+      "duration": 5.88,
+      "text": "instance, this one would be YubiKey 5"
+    },
+    {
+      "start": 1303.68,
+      "duration": 5.72,
+      "text": "Series. And with this kind of good, the"
+    },
+    {
+      "start": 1306.8,
+      "duration": 5.52,
+      "text": "server should reach out to something"
+    },
+    {
+      "start": 1309.4,
+      "duration": 5.4,
+      "text": "that's called FIDO metadata service."
+    },
+    {
+      "start": 1312.32,
+      "duration": 4.88,
+      "text": "And by calling this metadata service,"
+    },
+    {
+      "start": 1314.8,
+      "duration": 5.64,
+      "text": "it's something like, \"Hey,"
+    },
+    {
+      "start": 1317.2,
+      "duration": 5.12,
+      "text": "there's an authenticator YubiKey 5."
+    },
+    {
+      "start": 1320.44,
+      "duration": 4.0,
+      "text": "Can you tell me something about it? Are"
+    },
+    {
+      "start": 1322.32,
+      "duration": 4.28,
+      "text": "there some known security issues? How"
+    },
+    {
+      "start": 1324.44,
+      "duration": 4.0,
+      "text": "old is this authenticator?\" Like typical"
+    },
+    {
+      "start": 1326.6,
+      "duration": 3.96,
+      "text": "metadata things about this"
+    },
+    {
+      "start": 1328.44,
+      "duration": 4.28,
+      "text": "authenticator. And then of course, the"
+    },
+    {
+      "start": 1330.56,
+      "duration": 5.84,
+      "text": "service this metadata service can give"
+    },
+    {
+      "start": 1332.72,
+      "duration": 5.52,
+      "text": "the server enough information to decide"
+    },
+    {
+      "start": 1336.4,
+      "duration": 4.44,
+      "text": "if it should block or reject this"
+    },
+    {
+      "start": 1338.24,
+      "duration": 4.96,
+      "text": "authenticator or not."
+    },
+    {
+      "start": 1340.84,
+      "duration": 4.4,
+      "text": "If the server by the way blocks the pass"
+    },
+    {
+      "start": 1343.2,
+      "duration": 4.4,
+      "text": "key blocks the authenticator, the user"
+    },
+    {
+      "start": 1345.24,
+      "duration": 5.04,
+      "text": "is not able to, as you can imagine,"
+    },
+    {
+      "start": 1347.6,
+      "duration": 5.56,
+      "text": "register this kind of pass key given"
+    },
+    {
+      "start": 1350.28,
+      "duration": 5.56,
+      "text": "this kind of authenticator."
+    },
+    {
+      "start": 1353.16,
+      "duration": 4.84,
+      "text": "You can enable this whole check and you"
+    },
+    {
+      "start": 1355.84,
+      "duration": 6.84,
+      "text": "should enable this whole check."
+    },
+    {
+      "start": 1358.0,
+      "duration": 7.64,
+      "text": "Um here by do do do, it was here. Yes."
+    },
+    {
+      "start": 1362.68,
+      "duration": 4.44,
+      "text": "Um by the attestation conveyance"
+    },
+    {
+      "start": 1365.64,
+      "duration": 4.08,
+      "text": "preference."
+    },
+    {
+      "start": 1367.12,
+      "duration": 7.24,
+      "text": "Here for instance, when you enable it"
+    },
+    {
+      "start": 1369.72,
+      "duration": 7.6,
+      "text": "with direct, it means Keycloak now um"
+    },
+    {
+      "start": 1374.36,
+      "duration": 6.2,
+      "text": "calls the MD MDS service like the"
+    },
+    {
+      "start": 1377.32,
+      "duration": 5.64,
+      "text": "metadata service with the given good. It"
+    },
+    {
+      "start": 1380.56,
+      "duration": 4.44,
+      "text": "checks for the signature. It checks for"
+    },
+    {
+      "start": 1382.96,
+      "duration": 5.28,
+      "text": "the format and whatnot, and it would"
+    },
+    {
+      "start": 1385.0,
+      "duration": 5.48,
+      "text": "recheck any kind of passkey or like"
+    },
+    {
+      "start": 1388.24,
+      "duration": 3.68,
+      "text": "attestation object that has this format"
+    },
+    {
+      "start": 1390.48,
+      "duration": 3.88,
+      "text": "non value."
+    },
+    {
+      "start": 1391.92,
+      "duration": 4.48,
+      "text": "There are other values indirect."
+    },
+    {
+      "start": 1394.36,
+      "duration": 4.52,
+      "text": "Indirect basically means"
+    },
+    {
+      "start": 1396.4,
+      "duration": 4.92,
+      "text": "um as far as I understood at least that"
+    },
+    {
+      "start": 1398.88,
+      "duration": 5.48,
+      "text": "just if there's a given format, so if"
+    },
+    {
+      "start": 1401.32,
+      "duration": 4.88,
+      "text": "the value is not none, it would check"
+    },
+    {
+      "start": 1404.36,
+      "duration": 3.4,
+      "text": "for the metadata service and all these"
+    },
+    {
+      "start": 1406.2,
+      "duration": 4.32,
+      "text": "kind of things."
+    },
+    {
+      "start": 1407.76,
+      "duration": 4.32,
+      "text": "Um but if there's a non value inside it,"
+    },
+    {
+      "start": 1410.52,
+      "duration": 3.04,
+      "text": "it would still accept the passkey."
+    },
+    {
+      "start": 1412.08,
+      "duration": 4.36,
+      "text": "That's at least how I understood this"
+    },
+    {
+      "start": 1413.56,
+      "duration": 5.08,
+      "text": "indirect value, which of course"
+    },
+    {
+      "start": 1416.44,
+      "duration": 4.72,
+      "text": "doesn't make so much sense if you want a"
+    },
+    {
+      "start": 1418.64,
+      "duration": 4.28,
+      "text": "really strict security uh guideline over"
+    },
+    {
+      "start": 1421.16,
+      "duration": 4.44,
+      "text": "here."
+    },
+    {
+      "start": 1422.92,
+      "duration": 5.12,
+      "text": "Additionally, what we also find here is"
+    },
+    {
+      "start": 1425.6,
+      "duration": 4.56,
+      "text": "a whitelist for GUIDs, a whitelist for"
+    },
+    {
+      "start": 1428.04,
+      "duration": 5.68,
+      "text": "authenticators, which is in my opinion"
+    },
+    {
+      "start": 1430.16,
+      "duration": 5.44,
+      "text": "really great. So, you can just disallow"
+    },
+    {
+      "start": 1433.72,
+      "duration": 3.92,
+      "text": "a specific kind of models of your"
+    },
+    {
+      "start": 1435.6,
+      "duration": 4.2,
+      "text": "authenticator. You could for instance"
+    },
+    {
+      "start": 1437.64,
+      "duration": 4.52,
+      "text": "disallow Windows Hello, you could"
+    },
+    {
+      "start": 1439.8,
+      "duration": 3.64,
+      "text": "disallow iCloud keychain authenticator"
+    },
+    {
+      "start": 1442.16,
+      "duration": 4.88,
+      "text": "or whatnot."
+    },
+    {
+      "start": 1443.44,
+      "duration": 6.4,
+      "text": "Um and maybe you just allow UbiKeys."
+    },
+    {
+      "start": 1447.04,
+      "duration": 5.0,
+      "text": "But you can do this uh uh"
+    },
+    {
+      "start": 1449.84,
+      "duration": 5.44,
+      "text": "depending on your own security guideline"
+    },
+    {
+      "start": 1452.04,
+      "duration": 3.24,
+      "text": "what you have in your company."
+    },
+    {
+      "start": 1457.04,
+      "duration": 3.64,
+      "text": "Just another example like for instance"
+    },
+    {
+      "start": 1458.72,
+      "duration": 4.0,
+      "text": "this kind of GUID means maybe basically"
+    },
+    {
+      "start": 1460.68,
+      "duration": 3.88,
+      "text": "Windows Hello and this kind of GUID"
+    },
+    {
+      "start": 1462.72,
+      "duration": 3.6,
+      "text": "means Apple Touch ID. It's really a"
+    },
+    {
+      "start": 1464.56,
+      "duration": 3.68,
+      "text": "unique identifier"
+    },
+    {
+      "start": 1466.32,
+      "duration": 4.8,
+      "text": "basically to tell what kind of"
+    },
+    {
+      "start": 1468.24,
+      "duration": 6.32,
+      "text": "authenticator model this is."
+    },
+    {
+      "start": 1471.12,
+      "duration": 6.48,
+      "text": "Last but not least, um"
+    },
+    {
+      "start": 1474.56,
+      "duration": 5.0,
+      "text": "just try to explain your users as good"
+    },
+    {
+      "start": 1477.6,
+      "duration": 4.64,
+      "text": "as possible that you should not use"
+    },
+    {
+      "start": 1479.56,
+      "duration": 5.56,
+      "text": "passwords anymore."
+    },
+    {
+      "start": 1482.24,
+      "duration": 5.4,
+      "text": "If you still have passwords active for"
+    },
+    {
+      "start": 1485.12,
+      "duration": 4.64,
+      "text": "long long time, that's the weakest link"
+    },
+    {
+      "start": 1487.64,
+      "duration": 4.12,
+      "text": "in your application. I mean, of course"
+    },
+    {
+      "start": 1489.76,
+      "duration": 4.6,
+      "text": "you can enable passkeys and you can"
+    },
+    {
+      "start": 1491.76,
+      "duration": 5.48,
+      "text": "leave the user in a state where the user"
+    },
+    {
+      "start": 1494.36,
+      "duration": 5.84,
+      "text": "can can choose both, but just enforce"
+    },
+    {
+      "start": 1497.24,
+      "duration": 6.0,
+      "text": "it. Just give it some transition time."
+    },
+    {
+      "start": 1500.2,
+      "duration": 4.92,
+      "text": "But in in my experience, I I helped"
+    },
+    {
+      "start": 1503.24,
+      "duration": 3.92,
+      "text": "already a couple of companies"
+    },
+    {
+      "start": 1505.12,
+      "duration": 4.0,
+      "text": "integrating passkeys"
+    },
+    {
+      "start": 1507.16,
+      "duration": 4.48,
+      "text": "and consulting over there. But the most"
+    },
+    {
+      "start": 1509.12,
+      "duration": 5.08,
+      "text": "important thing is actually"
+    },
+    {
+      "start": 1511.64,
+      "duration": 5.12,
+      "text": "giving an exploration why you now"
+    },
+    {
+      "start": 1514.2,
+      "duration": 5.04,
+      "text": "enforce passkeys."
+    },
+    {
+      "start": 1516.76,
+      "duration": 4.44,
+      "text": "I know with a passkey, it's not so easy"
+    },
+    {
+      "start": 1519.24,
+      "duration": 4.04,
+      "text": "to share it on WhatsApp anymore. Maybe"
+    },
+    {
+      "start": 1521.2,
+      "duration": 3.56,
+      "text": "your Netflix password to just post it on"
+    },
+    {
+      "start": 1523.28,
+      "duration": 3.84,
+      "text": "WhatsApp because some of your friends"
+    },
+    {
+      "start": 1524.76,
+      "duration": 4.8,
+      "text": "also want to share your"
+    },
+    {
+      "start": 1527.12,
+      "duration": 4.32,
+      "text": "Netflix account."
+    },
+    {
+      "start": 1529.56,
+      "duration": 5.4,
+      "text": "But we all know we shouldn't do that."
+    },
+    {
+      "start": 1531.44,
+      "duration": 6.6,
+      "text": "So, tell that to your users and let this"
+    },
+    {
+      "start": 1534.96,
+      "duration": 5.48,
+      "text": "whole thing finally fade out."
+    },
+    {
+      "start": 1538.04,
+      "duration": 4.48,
+      "text": "There's just one thing that passkeys"
+    },
+    {
+      "start": 1540.44,
+      "duration": 3.6,
+      "text": "doesn't solve and this is the account"
+    },
+    {
+      "start": 1542.52,
+      "duration": 4.52,
+      "text": "recovery."
+    },
+    {
+      "start": 1544.04,
+      "duration": 5.32,
+      "text": "So, there are people"
+    },
+    {
+      "start": 1547.04,
+      "duration": 5.44,
+      "text": "There are people who are telling you"
+    },
+    {
+      "start": 1549.36,
+      "duration": 5.2,
+      "text": "Yes, if you let's say you have a passkey"
+    },
+    {
+      "start": 1552.48,
+      "duration": 3.28,
+      "text": "on a YubiKey and then you lose your"
+    },
+    {
+      "start": 1554.56,
+      "duration": 2.88,
+      "text": "YubiKey,"
+    },
+    {
+      "start": 1555.76,
+      "duration": 3.72,
+      "text": "then we are screwed because we can't log"
+    },
+    {
+      "start": 1557.44,
+      "duration": 3.52,
+      "text": "in anymore, of course."
+    },
+    {
+      "start": 1559.48,
+      "duration": 4.12,
+      "text": "So, there are people telling you yes,"
+    },
+    {
+      "start": 1560.96,
+      "duration": 4.48,
+      "text": "but you should then maybe having like a"
+    },
+    {
+      "start": 1563.6,
+      "duration": 4.16,
+      "text": "second YubiKey"
+    },
+    {
+      "start": 1565.44,
+      "duration": 5.04,
+      "text": "and like two passkeys. Of course, you"
+    },
+    {
+      "start": 1567.76,
+      "duration": 5.52,
+      "text": "can add multiple passkeys to to an"
+    },
+    {
+      "start": 1570.48,
+      "duration": 4.68,
+      "text": "account. So, the other YubiKey is"
+    },
+    {
+      "start": 1573.28,
+      "duration": 4.36,
+      "text": "basically your fallback YubiKey. So, you"
+    },
+    {
+      "start": 1575.16,
+      "duration": 4.28,
+      "text": "store it somewhere at home in in a"
+    },
+    {
+      "start": 1577.64,
+      "duration": 3.44,
+      "text": "secret place. So, when you lose the"
+    },
+    {
+      "start": 1579.44,
+      "duration": 3.16,
+      "text": "first YubiKey, you at least have the"
+    },
+    {
+      "start": 1581.08,
+      "duration": 4.88,
+      "text": "second one."
+    },
+    {
+      "start": 1582.6,
+      "duration": 5.16,
+      "text": "This is a suggestion I you maybe I I I"
+    },
+    {
+      "start": 1585.96,
+      "duration": 3.56,
+      "text": "read a lot, but this is not really"
+    },
+    {
+      "start": 1587.76,
+      "duration": 4.12,
+      "text": "practical."
+    },
+    {
+      "start": 1589.52,
+      "duration": 4.68,
+      "text": "So, the same let's say recovery"
+    },
+    {
+      "start": 1591.88,
+      "duration": 4.68,
+      "text": "strategies or fallback strategies that"
+    },
+    {
+      "start": 1594.2,
+      "duration": 5.4,
+      "text": "apply to password kind of applies here"
+    },
+    {
+      "start": 1596.56,
+      "duration": 5.8,
+      "text": "as well. Usually, maybe having a magic"
+    },
+    {
+      "start": 1599.6,
+      "duration": 5.04,
+      "text": "link, a one-time link sending towards a"
+    },
+    {
+      "start": 1602.36,
+      "duration": 4.24,
+      "text": "verified email address where the user"
+    },
+    {
+      "start": 1604.64,
+      "duration": 3.4,
+      "text": "basically can click on it and then, of"
+    },
+    {
+      "start": 1606.6,
+      "duration": 3.08,
+      "text": "course,"
+    },
+    {
+      "start": 1608.04,
+      "duration": 4.04,
+      "text": "deleting the old one, telling yes, the"
+    },
+    {
+      "start": 1609.68,
+      "duration": 5.04,
+      "text": "old one should be revoked and adding a"
+    },
+    {
+      "start": 1612.08,
+      "duration": 5.84,
+      "text": "new passkey."
+    },
+    {
+      "start": 1614.72,
+      "duration": 5.92,
+      "text": "So, slowly coming to an end, summarizing"
+    },
+    {
+      "start": 1617.92,
+      "duration": 4.6,
+      "text": "the what I called integration checklist,"
+    },
+    {
+      "start": 1620.64,
+      "duration": 4.64,
+      "text": "we have those four things I just"
+    },
+    {
+      "start": 1622.52,
+      "duration": 4.4,
+      "text": "mentioned, some kind of pitfalls. Um we"
+    },
+    {
+      "start": 1625.28,
+      "duration": 3.92,
+      "text": "learn"
+    },
+    {
+      "start": 1626.92,
+      "duration": 5.4,
+      "text": "about the relying party ID, it's not so"
+    },
+    {
+      "start": 1629.2,
+      "duration": 6.08,
+      "text": "easy to just determine um it, but make"
+    },
+    {
+      "start": 1632.32,
+      "duration": 5.56,
+      "text": "it as strict as possible. Just use"
+    },
+    {
+      "start": 1635.28,
+      "duration": 4.8,
+      "text": "Epic's domain from the start. If you"
+    },
+    {
+      "start": 1637.88,
+      "duration": 3.52,
+      "text": "need it, maybe for some redirection"
+    },
+    {
+      "start": 1640.08,
+      "duration": 5.04,
+      "text": "purposes."
+    },
+    {
+      "start": 1641.4,
+      "duration": 5.36,
+      "text": "Um but then keep your DNS records clean,"
+    },
+    {
+      "start": 1645.12,
+      "duration": 4.32,
+      "text": "and and make sure that a dangling"
+    },
+    {
+      "start": 1646.76,
+      "duration": 4.16,
+      "text": "subdomain will not happen."
+    },
+    {
+      "start": 1649.44,
+      "duration": 3.92,
+      "text": "Set for you uh enforce user"
+    },
+    {
+      "start": 1650.92,
+      "duration": 4.96,
+      "text": "verification. Validate as"
+    },
+    {
+      "start": 1653.36,
+      "duration": 6.68,
+      "text": "attestation. This is basically like one"
+    },
+    {
+      "start": 1655.88,
+      "duration": 8.0,
+      "text": "of my most crucial part over here."
+    },
+    {
+      "start": 1660.04,
+      "duration": 5.36,
+      "text": "You your application is way more secure"
+    },
+    {
+      "start": 1663.88,
+      "duration": 4.12,
+      "text": "if you know exactly what kind of"
+    },
+    {
+      "start": 1665.4,
+      "duration": 5.48,
+      "text": "authenticator is used, and maybe to"
+    },
+    {
+      "start": 1668.0,
+      "duration": 5.24,
+      "text": "disallow some of those older ones or not"
+    },
+    {
+      "start": 1670.88,
+      "duration": 4.16,
+      "text": "secure ones, basically. And of course,"
+    },
+    {
+      "start": 1673.24,
+      "duration": 3.92,
+      "text": "let password-based authentication"
+    },
+    {
+      "start": 1675.04,
+      "duration": 4.68,
+      "text": "finally fade out."
+    },
+    {
+      "start": 1677.16,
+      "duration": 5.16,
+      "text": "A couple of more recommendations, um"
+    },
+    {
+      "start": 1679.72,
+      "duration": 4.64,
+      "text": "like highlighting to mention, is"
+    },
+    {
+      "start": 1682.32,
+      "duration": 4.36,
+      "text": "basically creating this whitelist of"
+    },
+    {
+      "start": 1684.36,
+      "duration": 5.6,
+      "text": "authenticators, which makes lot of"
+    },
+    {
+      "start": 1686.68,
+      "duration": 5.0,
+      "text": "sense. It's like a whitelist um"
+    },
+    {
+      "start": 1689.96,
+      "duration": 3.6,
+      "text": "like for redirect URIs when when you"
+    },
+    {
+      "start": 1691.68,
+      "duration": 3.88,
+      "text": "know in in OAuth, basically it's really"
+    },
+    {
+      "start": 1693.56,
+      "duration": 4.08,
+      "text": "really great."
+    },
+    {
+      "start": 1695.56,
+      "duration": 3.72,
+      "text": "Another thing I haven't emphasized so"
+    },
+    {
+      "start": 1697.64,
+      "duration": 4.6,
+      "text": "much, but um"
+    },
+    {
+      "start": 1699.28,
+      "duration": 5.64,
+      "text": "what you also could do is just enforcing"
+    },
+    {
+      "start": 1702.24,
+      "duration": 5.08,
+      "text": "device-bounded passkeys. So, in the the"
+    },
+    {
+      "start": 1704.92,
+      "duration": 4.4,
+      "text": "FIDO2 standard, there is"
+    },
+    {
+      "start": 1707.32,
+      "duration": 4.16,
+      "text": "somehow the terms device-bounded and"
+    },
+    {
+      "start": 1709.32,
+      "duration": 4.0,
+      "text": "sync passkeys. Sync passkeys, for"
+    },
+    {
+      "start": 1711.48,
+      "duration": 4.2,
+      "text": "instance, as you maybe already also"
+    },
+    {
+      "start": 1713.32,
+      "duration": 4.76,
+      "text": "heard the term, is in the act of"
+    },
+    {
+      "start": 1715.68,
+      "duration": 4.88,
+      "text": "keychain, maybe putting your private key"
+    },
+    {
+      "start": 1718.08,
+      "duration": 5.12,
+      "text": "in C drive and whatnot, to have this"
+    },
+    {
+      "start": 1720.56,
+      "duration": 4.12,
+      "text": "kind of cross-platform. Um there are"
+    },
+    {
+      "start": 1723.2,
+      "duration": 3.72,
+      "text": "password managers who are already"
+    },
+    {
+      "start": 1724.68,
+      "duration": 4.2,
+      "text": "enabling the support of passkeys, but"
+    },
+    {
+      "start": 1726.92,
+      "duration": 4.12,
+      "text": "most of the times you start this kind of"
+    },
+    {
+      "start": 1728.88,
+      "duration": 4.2,
+      "text": "database then in a Google Drive or"
+    },
+    {
+      "start": 1731.04,
+      "duration": 4.04,
+      "text": "OneDrive or whatnot. This is what we"
+    },
+    {
+      "start": 1733.08,
+      "duration": 4.84,
+      "text": "call sync pass keys because we want to"
+    },
+    {
+      "start": 1735.08,
+      "duration": 5.04,
+      "text": "use them in all devices."
+    },
+    {
+      "start": 1737.92,
+      "duration": 4.2,
+      "text": "This is of course"
+    },
+    {
+      "start": 1740.12,
+      "duration": 5.2,
+      "text": "not the best way"
+    },
+    {
+      "start": 1742.12,
+      "duration": 5.76,
+      "text": "and you can enforce this to"
+    },
+    {
+      "start": 1745.32,
+      "duration": 4.84,
+      "text": "that they should not be used. You can"
+    },
+    {
+      "start": 1747.88,
+      "duration": 3.56,
+      "text": "enforce just device bound the pass keys."
+    },
+    {
+      "start": 1750.16,
+      "duration": 4.64,
+      "text": "In Keycloak to be fair, it's a little"
+    },
+    {
+      "start": 1751.44,
+      "duration": 5.28,
+      "text": "bit trickier to to to enforce this. You"
+    },
+    {
+      "start": 1754.8,
+      "duration": 3.92,
+      "text": "have to enable a couple of steps and"
+    },
+    {
+      "start": 1756.72,
+      "duration": 4.04,
+      "text": "then click a couple of configurations,"
+    },
+    {
+      "start": 1758.72,
+      "duration": 4.0,
+      "text": "but you can enforce that"
+    },
+    {
+      "start": 1760.76,
+      "duration": 3.76,
+      "text": "to have maybe just UbiKeys, to maybe"
+    },
+    {
+      "start": 1762.72,
+      "duration": 3.84,
+      "text": "just have"
+    },
+    {
+      "start": 1764.52,
+      "duration": 3.88,
+      "text": "authenticators directly on your machine"
+    },
+    {
+      "start": 1766.56,
+      "duration": 5.04,
+      "text": "like the Android authenticator, the"
+    },
+    {
+      "start": 1768.4,
+      "duration": 6.64,
+      "text": "TPMs, or stored in your secure enclave"
+    },
+    {
+      "start": 1771.6,
+      "duration": 3.44,
+      "text": "on iOS devices."
+    },
+    {
+      "start": 1775.36,
+      "duration": 4.6,
+      "text": "Check your cryptographic algorithm also"
+    },
+    {
+      "start": 1777.84,
+      "duration": 5.52,
+      "text": "considering maybe already post-quantum"
+    },
+    {
+      "start": 1779.96,
+      "duration": 4.8,
+      "text": "cryptographic signature algorithm."
+    },
+    {
+      "start": 1783.36,
+      "duration": 4.84,
+      "text": "It will also make sense to create this"
+    },
+    {
+      "start": 1784.76,
+      "duration": 5.4,
+      "text": "kind of white list as you can see here."
+    },
+    {
+      "start": 1788.2,
+      "duration": 4.24,
+      "text": "For instance, we have already this kind"
+    },
+    {
+      "start": 1790.16,
+      "duration": 5.64,
+      "text": "of possibility to choose"
+    },
+    {
+      "start": 1792.44,
+      "duration": 6.12,
+      "text": "what is allowed to use as algorithm for"
+    },
+    {
+      "start": 1795.8,
+      "duration": 5.64,
+      "text": "creating the signature. So, also use"
+    },
+    {
+      "start": 1798.56,
+      "duration": 5.36,
+      "text": "this of course properly. And last but"
+    },
+    {
+      "start": 1801.44,
+      "duration": 5.04,
+      "text": "not least, don't implement this on your"
+    },
+    {
+      "start": 1803.92,
+      "duration": 4.96,
+      "text": "own. I get often told"
+    },
+    {
+      "start": 1806.48,
+      "duration": 4.44,
+      "text": "basically, \"Ah, FIDO2 is it's a"
+    },
+    {
+      "start": 1808.88,
+      "duration": 3.24,
+      "text": "specification is so complicated and"
+    },
+    {
+      "start": 1810.92,
+      "duration": 4.12,
+      "text": "whatnot.\""
+    },
+    {
+      "start": 1812.12,
+      "duration": 4.84,
+      "text": "I don't know if you ever have"
+    },
+    {
+      "start": 1815.04,
+      "duration": 4.8,
+      "text": "read through all the OAuth"
+    },
+    {
+      "start": 1816.96,
+      "duration": 4.6,
+      "text": "specifications or FIDO2 specifications."
+    },
+    {
+      "start": 1819.84,
+      "duration": 3.52,
+      "text": "No one would ever think about"
+    },
+    {
+      "start": 1821.56,
+      "duration": 4.72,
+      "text": "implementing OAuth on your own. Why"
+    },
+    {
+      "start": 1823.36,
+      "duration": 6.32,
+      "text": "should you? And it's the same over here."
+    },
+    {
+      "start": 1826.28,
+      "duration": 5.24,
+      "text": "Use Keycloak. Use maybe also an identity"
+    },
+    {
+      "start": 1829.68,
+      "duration": 4.32,
+      "text": "as a service solution like Auth0 or"
+    },
+    {
+      "start": 1831.52,
+      "duration": 4.72,
+      "text": "Entra ID or whatnot. Don't implement"
+    },
+    {
+      "start": 1834.0,
+      "duration": 4.2,
+      "text": "Don't ever think you can be better than"
+    },
+    {
+      "start": 1836.24,
+      "duration": 3.96,
+      "text": "persons who are doing this in full-time."
+    },
+    {
+      "start": 1838.2,
+      "duration": 4.84,
+      "text": "It might sound harsh,"
+    },
+    {
+      "start": 1840.2,
+      "duration": 4.88,
+      "text": "but do never implement this on your own."
+    },
+    {
+      "start": 1843.04,
+      "duration": 4.52,
+      "text": "You There are so many things you don't"
+    },
+    {
+      "start": 1845.08,
+      "duration": 5.04,
+      "text": "know and so many things you don't know"
+    },
+    {
+      "start": 1847.56,
+      "duration": 5.88,
+      "text": "you don't know yet. So, please take this"
+    },
+    {
+      "start": 1850.12,
+      "duration": 5.08,
+      "text": "advice and just use maybe Keycloak if"
+    },
+    {
+      "start": 1853.44,
+      "duration": 3.88,
+      "text": "you want."
+    },
+    {
+      "start": 1855.2,
+      "duration": 5.04,
+      "text": "Having then said, my time is already"
+    },
+    {
+      "start": 1857.32,
+      "duration": 4.84,
+      "text": "also running out. So, thank you so much"
+    },
+    {
+      "start": 1860.24,
+      "duration": 3.6,
+      "text": "for staying with you so late. I'm so"
+    },
+    {
+      "start": 1862.16,
+      "duration": 3.96,
+      "text": "happy and it's a great honor that you"
+    },
+    {
+      "start": 1863.84,
+      "duration": 5.44,
+      "text": "all joined me so late."
+    },
+    {
+      "start": 1866.12,
+      "duration": 5.24,
+      "text": "Hope you liked it and have a great"
+    },
+    {
+      "start": 1869.28,
+      "duration": 4.1,
+      "text": "evening. Thank you."
+    },
+    {
+      "start": 1871.36,
+      "duration": 2.02,
+      "text": ">> [applause]"
+    }
+  ]
+}
