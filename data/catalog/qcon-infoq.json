@@ -1,7 +1,7 @@
 {
   "slug": "qcon-infoq",
   "name": "QCon / InfoQ Dev Summit",
-  "enumerated_at": "2026-10-20T11:46:13+00:00",
+  "enumerated_at": "2026-10-23T04:01:09+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@infoq/videos",
@@ -17,7 +17,7 @@
       "type": "infoq"
     }
   ],
-  "count": 744,
+  "count": 745,
   "videos": {
     "-1_KvpNDC6k": {
       "video_id": "-1_KvpNDC6k",
@@ -2783,6 +2783,32 @@
       "published_at": "2025-05-30T08:12:29Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:31+00:00"
+    },
+    "ISdTqzYQiHg": {
+      "video_id": "ISdTqzYQiHg",
+      "title": "Context Engineering for Coding Agents Across 1,000 Repos",
+      "duration_s": 3007,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "Coding agents can write code, but they don’t know how your company debugs, migrates or sets up a repo. Ajay Prakash shows how 600+ MCP playbooks gave agents that knowledge for 8,000 daily users. \n\nAjay Prakash is a software engineer at LinkedIn with 14 years of experience. He has spent the last four years on LLMs, context engineering and AI agents, and previously led AI platform and product work for LinkedIn Sales Navigator.\n\nRecorded at QCon AI Boston 2026. QCon conferences are practitioner-driven events where senior engineers share real production experience.\n\n🔗 Transcript & slides available on InfoQ:  https://bit.ly/4si7foJ    \n     \n#ContextEngineering #MCP #AIAgents #DeveloperProductivity #QCon",
+      "published_at": "2026-10-22T06:30:15Z",
+      "tags": [
+        "QCon AI Boston",
+        "AI Architecture",
+        "AI",
+        "Transcripts",
+        "Model Context Protocol (MCP)",
+        "LinkedIn",
+        "AI Agents",
+        "Productivity",
+        "InfoQ",
+        "Context Engineering",
+        "MCP",
+        "Developer Productivity"
+      ],
+      "details_at": "2026-10-23T04:06:09+00:00"
     },
     "IY6YjsIWDF8": {
       "video_id": "IY6YjsIWDF8",

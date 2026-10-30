@@ -1,7 +1,7 @@
 {
   "slug": "rsac",
   "name": "RSAC Conference",
-  "enumerated_at": "2026-10-20T11:49:44+00:00",
+  "enumerated_at": "2026-10-23T04:03:57+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@OneRSAC/videos",
@@ -10,7 +10,7 @@
       "count": 400
     }
   ],
-  "count": 401,
+  "count": 403,
   "videos": {
     "-7gtEQ9iswA": {
       "video_id": "-7gtEQ9iswA",
@@ -2369,6 +2369,15 @@
         "infosec"
       ],
       "details_at": "2026-08-31T15:35:57+00:00"
+    },
+    "IwDmSTBcrU0": {
+      "video_id": "IwDmSTBcrU0",
+      "title": "RSA Conference 2027 | Learn From Cybersecurity Experts",
+      "duration_s": 28,
+      "channel": "RSAC Cybersecurity",
+      "label": "RSAC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@OneRSAC/videos"
     },
     "IzEy7dGnaV8": {
       "video_id": "IzEy7dGnaV8",
@@ -5566,6 +5575,15 @@
         "infosec"
       ],
       "details_at": "2026-08-31T15:35:57+00:00"
+    },
+    "f9KgIAsM3NY": {
+      "video_id": "f9KgIAsM3NY",
+      "title": "RSA Conference 2027 | Explore the Latest Cybersecurity Solutions",
+      "duration_s": 31,
+      "channel": "RSAC Cybersecurity",
+      "label": "RSAC",
+      "year": null,
+      "source_url": "https://www.youtube.com/@OneRSAC/videos"
     },
     "fDrwabdafxk": {
       "video_id": "fDrwabdafxk",

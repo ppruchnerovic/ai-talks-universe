@@ -1,7 +1,7 @@
 {
   "slug": "goto",
   "name": "GOTO Conferences",
-  "enumerated_at": "2026-10-20T11:48:05+00:00",
+  "enumerated_at": "2026-10-23T04:02:37+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@GOTO-/videos",
@@ -10,7 +10,7 @@
       "count": 800
     }
   ],
-  "count": 805,
+  "count": 808,
   "videos": {
     "-5kK50d-duc": {
       "video_id": "-5kK50d-duc",
@@ -4869,6 +4869,38 @@
       ],
       "details_at": "2026-09-06T13:23:56+00:00"
     },
+    "8ujA-rNhUE4": {
+      "video_id": "8ujA-rNhUE4",
+      "title": "The Agentic Automation Revolution • Don Syme • Bug Bash EU 2026",
+      "duration_s": 2796,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos",
+      "description": "This presentation was recorded at Bug Bash EU 2026.\nhttps://antithesis.com/bugbash/europe/2026/\n\nDon Syme - Distinguished Engineer at GitHub, Designer of F# & Co-Creator of GitHub Agentic Workflows\n\n\nRESOURCES\nhttps://github.com/dsyme\nhttps://twitter.com/dsymetweets\nhttps://www.linkedin.com/in/don-syme-558b58\nhttps://github.github.com/gh-aw/\n\nABSTRACT\nDon Syme, designer of F# and co-originator of async/await, on the shift to agentic automation in software development, and what it means for the way we build and maintain code.\n\nBluesky • Instagram • LinkedIn\nhttps://bsky.app/profile/gotocon.com\nhttps://www.linkedin.com/company/goto-\nhttps://www.instagram.com/goto_con\n\nCHANNEL MEMBERSHIP BONUS\nJoin this channel to get early access to videos & other perks:\nhttps://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA/join\n\nLooking for a unique learning experience?\nAttend the next GOTO conference near you! Get your ticket at https://gotopia.tech\n\nSUBSCRIBE TO OUR CHANNEL - new videos posted almost daily!\n\n#agenticai #aiagents #github #softwareengineering #BugBash",
+      "published_at": "2026-10-21T07:00:31Z",
+      "tags": [
+        "GOTO",
+        "GOTOcon",
+        "GOTO Conference",
+        "GOTO (Software Conference)",
+        "Videos for Developers",
+        "Computer Science",
+        "Programming",
+        "Software Engineering",
+        "GOTOpia",
+        "Tech",
+        "Software Development",
+        "Tech Channel",
+        "Tech Conference",
+        "Today in Tech",
+        "AgenticAI",
+        "AIAgents",
+        "GitHub",
+        "BugBash"
+      ],
+      "details_at": "2026-10-23T04:06:09+00:00"
+    },
     "8veIsn1YsHY": {
       "video_id": "8veIsn1YsHY",
       "title": "Developing Highly Scalable Image Storage Solution with AWS Serverless • Vadym Kazulkin • GOTO 2024",
@@ -6703,6 +6735,15 @@
         "Platform Engineering"
       ],
       "details_at": "2026-09-06T13:23:56+00:00"
+    },
+    "DT4ohOdKKg0": {
+      "video_id": "DT4ohOdKKg0",
+      "title": "Fast Code That Misses the User’s Reality Is Still the Wrong Code • Rafal Truszkowski • GOTO 2026",
+      "duration_s": 2030,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "DXCQjpxdikI": {
       "video_id": "DXCQjpxdikI",
@@ -17348,6 +17389,41 @@
         "Today in Tech"
       ],
       "details_at": "2026-08-31T15:35:21+00:00"
+    },
+    "aUIbUnWj8N0": {
+      "video_id": "aUIbUnWj8N0",
+      "title": "Open Source Is Under Attack & AI Made It Worse • Steve Poole & Olimpiu Pop • GOTO 2026",
+      "duration_s": 1695,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos",
+      "description": "This interview was recorded for GOTO Unscripted. #GOTOcon #GOTOunscripted\nhttps://gotopia.tech\n\nSteve Poole - Developer Advocate at HeroDevs & Community Director at London Java Community\nOlimpiu Pop - Technologist & Tech Journalist\n\nCheck out more here:\nhttps://gotopia.tech/articles/457\n\nRESOURCES\nSteve\nhttps://x.com/spoole167\nhttps://github.com/spoole167\nhttps://www.linkedin.com/in/noregressions\n\nOlimpiu\nhttps://x.com/olimpiupop\nhttps://github.com/zroll\nhttps://www.linkedin.com/in/olimpiupop\n\nDESCRIPTION\nSteve Poole of HeroDevs, a longtime voice on software supply chain security, tells host Olimpiu Pop that the landscape has hit a \"watershed moment\" in the last few weeks. The long-standing attack methods are simple: typo'd or confusingly named packages, unchecked scripts, inflated version numbers that trick builds into pulling the wrong release, and maintainers who build trust and then turn bad. Developers are among the weakest links because their machines hold so many credentials. The new factor is AI-driven vulnerability discovery, which both attackers and security researchers are using. Steve's concern is that discovery is now industrialized while fixing is not: maintainers who once saw a CVE or two a year may now face batches of them, and he fears more will simply walk away. Unsupported packages are especially exposed, since CVEs against them often never get reported at all. His worst-case scenario is that open source security fixes end up arriving in small commercial enclaves first, as regulation and cyber insurers push companies to pay for maintenance.\n\nThe practical advice for engineers is concrete. Fixing an open source dependency yourself is fine once, but then CVEs two through six arrive and you are in the maintenance business. Instead, scrutinize and reduce your dependencies, noting that studies suggest AI-generated apps pick roughly three times more of them than people do. Stay as close to HEAD as you can on maintained releases, and build your pipelines into \"sleek engines\" that can upgrade continuously, because under the EU Cyber Resilience Act \"best efforts\" to fix a vulnerability will not mean a migration in six months (Steve is clear he is not a lawyer). The two close on responsibility: like a compiler's output, AI-generated code is still your code, as Kubernetes' AI policy makes explicit by ruling out AI co-authorship. The hard part is the non-deterministic output, which means thinking harder about testing and proving quality. Steve's closing hope is that the industry becomes more pragmatic about AI's downsides, though he admits so many forces are converging that it's hard to predict where this ends.\n\nTIMECODES\n00:00 Intro\n01:30 A watershed moment for software supply chains\n04:50 How attackers actually get in\n08:59 The CRA, regulators & a surprise enforcer: Insurers\n11:58 Maintainers are walking away\n19:41 Vibe coding brings 3x more dependencies\n24:09 AI-generated code is still your responsibility\n27:46 Outro\n\nRECOMMENDED BOOKS\nAnna L. Davis • Open Source • https://link.amazon/B03AygKpw\nNadia Asparouhova • Working in Public • https://link.amazon/B01nx6BLp\nWill McGugan • Beginning Python Games Development 2nd ed. • https://amzn.to/4ebBfxu\nEric Evans • Domain-Driven Design • https://amzn.to/3tnGhwm\n\nhttps://bsky.app/profile/gotocon.com\nhttps://twitter.com/GOTOcon\nhttps://www.linkedin.com/company/goto-\nhttps://www.instagram.com/goto_con\nhttps://www.facebook.com/GOTOConferences\n#OpenSource #OpenSourceMaintainers #AI #SoftwareSupplyChain #SoftwareEngineering #Programming #TodayInTech #StevePoole #OlimpiuPop #GOTO\n\nCHANNEL MEMBERSHIP BONUS\nJoin this channel to get early access to videos & other perks:\nhttps://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA/join\n\nLooking for a unique learning experience?\nAttend the next GOTO conference near you! Get your ticket at https://gotopia.tech\n\nSUBSCRIBE TO OUR CHANNEL - new videos posted almost daily.\nhttps://www.youtube.com/user/GotoConferences/?sub_confirmation=1",
+      "published_at": "2026-10-22T07:23:03Z",
+      "tags": [
+        "GOTO",
+        "GOTOcon",
+        "GOTO Conference",
+        "GOTO (Software Conference)",
+        "Videos for Developers",
+        "Computer Science",
+        "Programming",
+        "Software Engineering",
+        "GOTOpia",
+        "Tech",
+        "Software Development",
+        "Tech Channel",
+        "Tech Conference",
+        "Today in Tech",
+        "GOTO Unscripted",
+        "Steve Poole",
+        "Olimpiu Pop",
+        "Open Source",
+        "Open Source Maintainers",
+        "AI",
+        "software supply chains"
+      ],
+      "details_at": "2026-10-23T04:06:09+00:00"
     },
     "aa60K-UC9Uo": {
       "video_id": "aa60K-UC9Uo",

@@ -1,7 +1,7 @@
 {
   "slug": "wearedevelopers",
   "name": "WeAreDevelopers World Congress",
-  "enumerated_at": "2026-10-20T11:46:22+00:00",
+  "enumerated_at": "2026-10-23T04:01:16+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@_wearedevs/videos",
@@ -17,7 +17,7 @@
       "type": "videos"
     }
   ],
-  "count": 1076,
+  "count": 1080,
   "videos": {
     "-9vwGZ02aio": {
       "video_id": "-9vwGZ02aio",
@@ -4992,6 +4992,15 @@
       "published_at": "2026-07-09T11:55:00+00:00",
       "session_page": "https://app.wearedevelopers.com/events/16/session/702"
     },
+    "8WB8N_5jM-c": {
+      "video_id": "8WB8N_5jM-c",
+      "title": "Syntax, Semantics, and Systems: From Linguistics to Software - Yasmine Kordjazy",
+      "duration_s": 1389,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
+    },
     "8WagJ2FBrDg": {
       "video_id": "8WagJ2FBrDg",
       "title": "The weekly developer show: Accessibility isn't magic, Longevity & DevRel in times of AI",
@@ -6206,6 +6215,15 @@
       ],
       "published_at": "2026-07-10T11:00:00+00:00",
       "session_page": "https://app.wearedevelopers.com/events/16/session/931"
+    },
+    "BGnOXLZTE-U": {
+      "video_id": "BGnOXLZTE-U",
+      "title": "Fake or News: Dating AI Spies, Danish Data Leaks and Fridges on Fire",
+      "duration_s": 266,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
     },
     "BHh6FE8iYc8": {
       "video_id": "BHh6FE8iYc8",
@@ -20520,6 +20538,15 @@
       "published_at": "2026-07-09T15:30:00+00:00",
       "session_page": "https://app.wearedevelopers.com/events/16/session/807"
     },
+    "cuJzqlFBKVA": {
+      "video_id": "cuJzqlFBKVA",
+      "title": "Fake or News: Sand Batteries, AI Maps and McCartney Kicked Off Reddit - Eleftheria Batsou",
+      "duration_s": 243,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
+    },
     "cx-EnS30adU": {
       "video_id": "cx-EnS30adU",
       "title": "Compose the Future: Building Agentic Applications, Made Simple with Docker",
@@ -23868,6 +23895,15 @@
         "tech talks"
       ],
       "details_at": "2026-08-31T15:35:39+00:00"
+    },
+    "jCX1_1cq-VQ": {
+      "video_id": "jCX1_1cq-VQ",
+      "title": "Fake or News: Poetry Malware, Slovenian Domains and Self-Checkouts",
+      "duration_s": 224,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
     },
     "jDAmC7b_9vM": {
       "video_id": "jDAmC7b_9vM",
