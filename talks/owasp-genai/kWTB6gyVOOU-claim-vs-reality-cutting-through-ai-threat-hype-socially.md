@@ -1,7 +1,7 @@
 ---
 id: kWTB6gyVOOU
-title: "Mythos, AI Vulnerability Discovery, and the Shrinking Window to Patch"
-slug: mythos-ai-vulnerability-discovery-and-the-shrinking-window
+title: "Claim vs. Reality: Cutting Through AI Threat Hype + Socially Engineered Computers | EP1"
+slug: claim-vs-reality-cutting-through-ai-threat-hype-socially
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
 category: "Security conferences"
@@ -19,7 +19,7 @@ topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 
-# Mythos, AI Vulnerability Discovery, and the Shrinking Window to Patch
+# Claim vs. Reality: Cutting Through AI Threat Hype + Socially Engineered Computers | EP1
 
 **Speaker not identified**
 

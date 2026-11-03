@@ -383,5 +383,10 @@
     "conference": "the-ai-conference",
     "reason": "LookupError",
     "detail": "supadata: no timed transcript for this video"
+  },
+  "fYCKMxa59w8": {
+    "conference": "goto",
+    "reason": "LookupError",
+    "detail": "supadata: HTTP 403 {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/for"
   }
 }

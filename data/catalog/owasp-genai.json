@@ -1,16 +1,16 @@
 {
   "slug": "owasp-genai",
   "name": "OWASP GenAI Security Project",
-  "enumerated_at": "2026-10-23T04:03:22+00:00",
+  "enumerated_at": "2026-11-03T17:43:24+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@GenAISecurityProject/videos",
       "label": "OWASP GenAI Security",
       "year": null,
-      "count": 145
+      "count": 150
     }
   ],
-  "count": 145,
+  "count": 150,
   "videos": {
     "-Zt-nDAKXA0": {
       "video_id": "-Zt-nDAKXA0",
@@ -669,6 +669,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:28+00:00"
     },
+    "IOJ73fomY1g": {
+      "video_id": "IOJ73fomY1g",
+      "title": "The 2026 OWASP Top 10 for LLMs: What Changed and Why It Matters | EP2",
+      "duration_s": 1625,
+      "channel": "OWASP GenAI Security Project",
+      "label": "OWASP GenAI Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "The OWASP Top 10 for LLM Applications just got its biggest update yet. Scott Clinton talks with Steve Wilson and Rock—the co-leads behind the list—about how it's evolved since its first version in 2023, and what the 2026 edition means for anyone building or securing AI systems.\n\nWhat we cover:\n• Why Excessive Agency jumped several spots as LLMs evolve into tool-using, decision-making\nagents\n• A real-world hacking story: how a guardrail written as a prompt instead of code got bypassed by a simple misspelling\n• Why Prompt Injection is now treated as inevitable—and what that means for how you architect defences\n• Practical advice for everyday ChatGPT users vs. enterprise AI builders\n• How this year's list used real incident data for the first time, and why the data was messier than expected\n• How to contribute to the next version of the Top 10\n\nKey Takeaways:\nStop trying to make the model unbreakable. Prompt injection is inevitable—design your downstream systems so it doesn't matter when it happens.\n\nHosted by Scott Clinton\nFeaturing Steve Wilson & Rock, Co-Leads, OWASP Top 10 for LLM Applications\nProduced by the Gen AI Security Project with help from RumRunner Media\n\n#AISecurity #GenAI #OWASP #Cybersecurity #LLMSecurity #PromptInjection #AIAgents #InfoSec #SecurityPodcast #AIGovernance #CyberDefense #ExcessiveAgency",
+      "published_at": "2026-10-31T15:49:50Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
+    },
     "J5RDIqrnsqI": {
       "video_id": "J5RDIqrnsqI",
       "title": "Meeting December 7, 2023 - OWASP Top 10 For LLM Applications",
@@ -1061,6 +1074,19 @@
       "published_at": "2026-07-19T23:51:04Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:28+00:00"
+    },
+    "XtjbGXBamR4": {
+      "video_id": "XtjbGXBamR4",
+      "title": "MITRE ATLAS + OWASP Top Ten for LLMs: The What and the How of AI Security | EP5",
+      "duration_s": 1319,
+      "channel": "OWASP GenAI Security Project",
+      "label": "OWASP GenAI Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Put in charge of defending GenAI and hearing about ATLAS, OWASP and NIST all at once? Rachel James and Dr. Bryan Nakayama explain what MITRE ATLAS and the OWASP Top Ten for LLM Applications are, how they differ, and how to use them together from day one.\n\nWhat we cover:\n• Guidance vs. regulation: why the EU AI Act is a different kind of framework\n• What MITRE ATLAS is and how it builds on MITRE ATT&CK\n• Tactics, techniques and procedures for AI systems\n• What the OWASP Top Ten for LLM Applications covers\n• Prompt injection, excessive agency and system prompt leakage\n• OWASP as the \"what\" and ATLAS as the \"how\"\n• A customer support chatbot walkthrough with retrieval over a knowledge base\n• Prompt injection, sensitive information disclosure, vector weaknesses and misinformation\n• Threat modeling: human review for high-risk actions and layered controls\n• Testing your prompt injection filters beyond plain English\n• Why AI supply chain risk jumped to number three\n• Verified sources, signed artifacts, dependency scanning and runtime monitoring\n• Using threat intelligence to prioritize your AI defenses\n\nKey Takeaway: You don't need to pick a winner. Use OWASP to prioritize risks, use ATLAS to model how attackers will exploit them, and build a threat intelligence led roadmap for defending your AI systems.\n\nHosted by Rachel James & Dr. Bryan Nakayama\nProduced by the Gen AI Security Project with help from RumRunner Media\n\nHashtags\n#ThreatIntelligence #AISecurity #MITREATLAS #OWASP #LLMSecurity #GenAI #PromptInjection #Cybersecurity #InfoSec #CyberDefense #CTI",
+      "published_at": "2026-10-31T14:35:10Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "Y6HqtKqfUCc": {
       "video_id": "Y6HqtKqfUCc",
@@ -1566,7 +1592,7 @@
     },
     "kWTB6gyVOOU": {
       "video_id": "kWTB6gyVOOU",
-      "title": "Mythos, AI Vulnerability Discovery, and the Shrinking Window to Patch",
+      "title": "Claim vs. Reality: Cutting Through AI Threat Hype + Socially Engineered Computers | EP1",
       "duration_s": 1452,
       "channel": "OWASP GenAI Security Project",
       "label": "OWASP GenAI Security",
@@ -1589,6 +1615,19 @@
       "published_at": "2023-12-22T18:55:01Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:01+00:00"
+    },
+    "l1aCm5ykl4c": {
+      "video_id": "l1aCm5ykl4c",
+      "title": "Malicious AI Agent Skills Exposed: Don't Tell The User | Ep 19",
+      "duration_s": 1602,
+      "channel": "OWASP GenAI Security Project",
+      "label": "OWASP GenAI Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "What happens when the skills that make AI agents useful become the way attackers get in?\nRachel James & Dr. Bryan Nakayama talk with Yi Liu (Common Defense, Nanyang Technological University) about his research on malicious agent skills in the wild.\n\nWhat we cover:\n• How the team gathered nearly 100,000 skills and confirmed 157 as malicious\n• The email skill that secretly copied an attacker and told the agent not to tell the user \n• Why prompt injection shows up in at least a third of malicious skills \n• How benign scripts and benign instructions combine into a harmful whole \n• Second-order attacks that plant triggers in agent memory \n• The skills factory: tracing malicious skills back to a single GitHub account \n• Why vibe coding makes these skills easy to build \n• Whether the landscape is getting better or worse \n• No-click root access through agent harness configuration \n• How to vet a skill before you install it \nKey Takeaway: A skill runs with the same permissions as the user, and the combination of script\nand natural language is hard to detect. Stick to official sources and stay skeptical of everything\nelse.\n\nHosted by Rachel James & Dr. Bryan Nakayama\nProduced by the OWASP GenAI Security Project with help from RumRunner Media\n\n#ThreatIntelligence #AISecurity #AgentSkills #PromptInjection #Cybersecurity #GenAI #AIAgents\n#InfoSec #OWASP #CyberDefense",
+      "published_at": "2026-10-26T16:53:14Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "l5ElTNCzp6U": {
       "video_id": "l5ElTNCzp6U",
@@ -1706,6 +1745,19 @@
       "published_at": "2026-01-21T03:22:12Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:28+00:00"
+    },
+    "oVmGCcOFPEs": {
+      "video_id": "oVmGCcOFPEs",
+      "title": "From a Top Ten List, to Global Impact | Scott Clinton on Building the Gen AI SecurityProject | EP1",
+      "duration_s": 1408,
+      "channel": "OWASP GenAI Security Project",
+      "label": "OWASP GenAI Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Welcome to the Gen AI Security Inside Track Podcast—the show diving deep into the world-leading resource for generative AI security.\nIn this inaugural episode, Scott Clinton, co-founder and co-chair, shares how the OWASP Gen AI Security Project went from a single \"Top 10 LLM Risks\" list in 2023 to a community of 30,000+ members shaping the future of AI security.\n\nIn This Episode:\n■ The \"happy accident\" that sparked a global movement \n■ Why community-driven security matters more than ever \n■ 10 working initiatives covering the entire AI security landscape \n■Partnerships with NIST, Turing Institute, Stanford, Oxford & more \n■ Practitioner-focused guidance: incident response, red teaming, agent security \n■ What's launching next: Red Teaming Guide v2, Agent Security deep-dives, Council for Agent Security \n\nKey Takeaway:\nWhen AI moves this fast, traditional standards bodies can't keep pace. The answer is rapid execution, shared knowledge, and community effort.\n\nHosted by Project Co-Founder Scott Clinton\nProduced by The Gen AI Security Project with help from RumRunner Media\n\n\n#AISecurity #GenAI #Cybersecurity #OWASP #SecurityResearch #PodcastLaunch #Inaugural\n#InfoSec #CyberDefense #LLMSecurity #SecurityCommunity #OpenSource #AI #ThreatIntelligence\n#SecurityPodcast",
+      "published_at": "2026-10-27T13:22:12Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "pKyRE4y0prI": {
       "video_id": "pKyRE4y0prI",
@@ -1886,6 +1938,19 @@
       "published_at": "2026-01-13T00:49:40Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:28+00:00"
+    },
+    "u7sm2FCSCH8": {
+      "video_id": "u7sm2FCSCH8",
+      "title": "AI-Integrated Malware Exposed: Inside CAIRN and Closed Quorum | Threat Intelligence Podcast EP21",
+      "duration_s": 1496,
+      "channel": "OWASP GenAI Security Project",
+      "label": "OWASP GenAI Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "What happens when malware lets a panel of AI models decide its next move? \nRachel James and Dr. Bryan Nakayama talk with Ryan Fetterman (Cisco Talos) about CAIRN, his research network for finding and characterizing AI-integrated malware before it goes mainstream.\n\nWhat we cover:\n• Ryan's path from MITRE and Splunk to Cisco Talos\n• Why CAIRN means \"trail marker,\" and what a cognitive artifact is\n• Hunting within your adversary's constraints\n• Anti-analysis strings: prompt injection aimed at AI malware analysts\n• How \"ignore your instructions\" copycats spread from a red team course to APT campaigns\n• Closed Quorum: up to four LLMs voting on the implant's next action\n• The Discord webhook that lets attackers watch the malware steer itself\n• Why DeepSeek may have been chosen as the tiebreaker\n• How CAIRN's funnel moves from AI strings to AI purpose\n• Why every binary needs reverse engineering before it's called malware\n• Practical advice for CTI and threat hunting teams starting to modernize\n\nKey Takeaway: Cutting through the hype means working from real binaries, hashes, and fingerprints. Today's experiments are tomorrow's commonplace techniques, so prepare now without panicking.\n\nLinks to Ryan Fetterman's work:\n\nhttps://blog.talosintelligence.com/author/ryan-fetterman/\n\nhttps://www.splunk.com/en_us/blog/security/threat-hunters-cookbook-guide.html\n\nhttps://github.com/Cisco-Talos/Cognitive-Artifact-Intelligence-Research-Network\n\n\nHosted by Rachel James & Dr. Bryan Nakayama\nProduced by the Gen AI Security Project with help from RumRunner Media\n\n#ThreatIntelligence #AISecurity #AIMalware #ThreatHunting #Cybersecurity #GenAI #InfoSec #OWASP\n#CyberDefense #CTI",
+      "published_at": "2026-10-29T11:00:22Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "v8u9N2go_74": {
       "video_id": "v8u9N2go_74",

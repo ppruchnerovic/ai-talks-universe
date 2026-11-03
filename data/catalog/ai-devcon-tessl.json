@@ -1,7 +1,7 @@
 {
   "slug": "ai-devcon-tessl",
   "name": "AI DevCon (Tessl)",
-  "enumerated_at": "2026-10-23T04:01:21+00:00",
+  "enumerated_at": "2026-11-03T17:41:09+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@tessl-ai/videos",
@@ -10,7 +10,7 @@
       "count": 300
     }
   ],
-  "count": 340,
+  "count": 347,
   "videos": {
     "-6SNbcE3C9o": {
       "video_id": "-6SNbcE3C9o",
@@ -150,6 +150,19 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "0cySwRF7oJI": {
+      "video_id": "0cySwRF7oJI",
+      "title": "Maggie Appleton: Agentic Coding Has Outgrown the Text Box",
+      "duration_s": 3131,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Agentic coding has outgrown the text box. Maggie Appleton, staff research engineer at GitHub Next, argues that walls of CLI output and AGENTS.md files serve coding agents far better than the humans steering them. She walks through Chopin, the GitHub Next prototype where background agents turn a team's planning chat into a structured plan, and makes the case for agents that prompt you instead of waiting to be prompted.\n\nWhat we cover:\n– Why text-heavy agentic coding tools favor agents over humans\n– Boundary objects: what AGENTS.md, skill files and MCP servers get right and wrong\n– Multiplayer planning with coding agents in GitHub Next's Chopin\n– Human-to-agent handoffs, formal verification and spec-driven development\n– Why software quality is rising, not falling, with coding agents\n– Which roles still matter: PMs, designers and engineers\n\nChapters:\n00:00:00 - Introduction\n00:02:14 - Inside GitHub Next and the Chopin project\n00:05:57 - Why solo agents break team alignment\n00:07:52 - Why coding agents struggle with design\n00:12:16 - Boundary objects: AGENTS.md, skills and MCP\n00:18:27 - Planning with coding agents as collaborators\n00:26:49 - Multiplayer planning with background agents\n00:31:57 - Agent handoffs and spec-driven development\n00:37:41 - Quality, craft and who decides what to build\n00:44:29 - Starting a career in agentic coding\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/j3d\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nShould coding agents be prompting you more? Tell us in the comments how your team plans agentic coding work today.",
+      "published_at": "2026-11-03T13:00:18Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:22+00:00"
     },
     "0kIBwaQNxgs": {
       "video_id": "0kIBwaQNxgs",
@@ -647,7 +660,7 @@
     },
     "6xGR6-PVqXQ": {
       "video_id": "6xGR6-PVqXQ",
-      "title": "Scaling AI Coding Across Thousands of Booking.com Engineers",
+      "title": "Valerio Panzica: Booking.com’s Road to an Agentic SDLC",
       "duration_s": 55,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -708,6 +721,19 @@
       "published_at": "2025-11-07T10:58:01Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "7NXdKekm95g": {
+      "video_id": "7NXdKekm95g",
+      "title": "AI Found 400 Linux Zero-Days, 2.5 Hours Each",
+      "duration_s": 3293,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "AI attackers now move at machine speed, while most security teams still move at meeting speed. Former Robinhood CSO Caleb Sima has seen an AI attacker up close, and he argues the only way to keep up is to take humans out of the defense loop.\n\nCaleb joins Guy Podjarny to unpack what changes when the attacker is an agent: one that hits every surface at once, reverses open-source code to find a 0-day, and once inside, burns your own AI tokens to keep going.\n\nWhat we cover:\n– Why AI attackers outran the red teamers' predictions, including 400 Linux 0-days found at 2.5 hours each\n– Whether sandboxes can contain AI agents, and why external monitoring matters\n– Who is accountable when your AI agent hacks someone else\n– What actually changes when an AI attacker gets inside your company\n– Deception, digital twins and forensic-grade detection\n– Automating security: instant patching, one-way vs two-way doors, and security teams that ship the fix\n\nChapters:\n00:00:00 - Introduction\n00:02:58 - AI security goes mainstream\n00:05:52 - Why AI attackers surprised the red teamers\n00:12:50 - Can sandboxes contain AI agents?\n00:18:03 - Security vs safety vs alignment\n00:22:18 - Who's accountable when your AI agent hacks?\n00:29:00 - What changes when an AI attacker hits you\n00:36:47 - Detection, forensics and deception\n00:44:10 - Machine speed vs meeting speed: automating defense\n00:48:53 - Security teams that ship the fix\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/9ja\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nAre your defenses ready for AI attackers, or still running at meeting speed? Tell us in the comments.",
+      "published_at": "2026-10-27T13:00:27Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:22+00:00"
     },
     "7PKEXIq25H0": {
       "video_id": "7PKEXIq25H0",
@@ -2168,6 +2194,15 @@
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "MH0iF9D-buk": {
+      "video_id": "MH0iF9D-buk",
+      "title": "Ticket to PR: Automate Software Development with Tessl",
+      "duration_s": 50,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "McB4Sth3_Ss": {
       "video_id": "McB4Sth3_Ss",
       "title": "Liran Tal - These Aren't the Tools You're Looking For: MCP Security Awakens | DevCon Fall 2025",
@@ -2481,6 +2516,15 @@
         "what is agent collaboration"
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "QegSgp0ed70": {
+      "video_id": "QegSgp0ed70",
+      "title": "Dark Factory Considered Harmful? Meet the AI DevCon NYC Speakers",
+      "duration_s": 44,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
     },
     "R1j6HtykHNE": {
       "video_id": "R1j6HtykHNE",
@@ -3792,6 +3836,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "dWk1-VGfm4w": {
+      "video_id": "dWk1-VGfm4w",
+      "title": "Tessl Code Review: A Hands-On Walkthrough with Simon Maple",
+      "duration_s": 518,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "See Tessl Code Review in action as we review a real pull request from Nuclei, an open-source vulnerability scanner, and uncover issues missed in the original review.\n\nIn this walkthrough, you'll learn how to:\n\n- Connect Tessl Code Review to your GitHub repository in minutes.\n- Automatically review new pull requests and get actionable, line-level feedback.\n- Configure reviews to run in comment-only or blocking mode.\n- Identify bugs, reliability issues and potential performance problems.\n- Use review feedback in automated workflows to improve code quality before merging.\n\nTessl Code Review can also be integrated into a software factory, where issues are passed back to coding agents for automated fixes and further review.\n\nTry Tessl Code Review for free: tessl.io/code-review\n\nLearn more about Tessl: tessl.io\n\n#CodeReview #AIcoding #GitHub #SoftwareEngineering #Tessl",
+      "published_at": "2026-10-28T17:00:22Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:22+00:00"
+    },
     "dans3VeY8GM": {
       "video_id": "dans3VeY8GM",
       "title": "Why Context Beats Model Choice for AI Agents",
@@ -3989,7 +4046,7 @@
     },
     "f_bAEubfp_Y": {
       "video_id": "f_bAEubfp_Y",
-      "title": "Should We Stop Reading Code Written by Agents?",
+      "title": "Ray Myers: Why the Dark Software Factory Is a Bad Idea",
       "duration_s": 44,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -4545,6 +4602,19 @@
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "mHa0bImgN1o": {
+      "video_id": "mHa0bImgN1o",
+      "title": "Harness Engineering: What's Actually New (And What Isn't)",
+      "duration_s": 2363,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Harness engineering is the new name for everything around the model: tools, context, guardrails, telemetry. Carly Richmond, Senior Manager of Developer Advocacy at Elastic, shows what's genuinely new about building agents, and why most of the harness still rests on software engineering fundamentals you already know.\n\nWhat we cover:\n– What harness engineering is, and how it builds on prompt, context and loop engineering\n– What's genuinely new: non-determinism, tool calling and models that change under your feet\n– Why TDD evolves into AI agent evals, and when LLM-as-a-judge is the wrong tool\n– Writing tool descriptions for agents the way you'd write an OpenAPI spec\n– Telemetry, guardrails and security for an agent harness\n\nChapters:\n00:00:00 - Introduction\n00:02:26 - What is harness engineering?\n00:04:45 - Prompt vs context vs harness vs loop engineering\n00:06:33 - What's genuinely new about building agents\n00:09:28 - Incremental changes, pipelines and testing\n00:12:09 - From TDD to AI agent evals\n00:14:04 - Context engineering and why LLMs get things wrong\n00:17:41 - Tools, OpenAPI and agent orchestration\n00:21:43 - Observability, security and guardrails for agents\n00:28:12 - Key takeaway and audience Q&A\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/t5v\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich parts of harness engineering feel new to you, and which feel like the same old fundamentals? Tell us in the comments.",
+      "published_at": "2026-10-28T13:00:19Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:22+00:00"
+    },
     "mVIRYUoVD6Y": {
       "video_id": "mVIRYUoVD6Y",
       "title": "AI-Powered Application Modernization using Claude-Flow | Derek Ashmore, Asperitas Consulting",
@@ -5055,7 +5125,7 @@
     },
     "q3-QLagMHYk": {
       "video_id": "q3-QLagMHYk",
-      "title": "Meet Codeplain at AI DevCon NYC This November",
+      "title": "Codeplain at AI DevCon New York: Regenerative Software",
       "duration_s": 36,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -5583,6 +5653,19 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "v-0JZTX7Kzg": {
+      "video_id": "v-0JZTX7Kzg",
+      "title": "Simon Maple: Lessons From Running Tessl's Software Factory",
+      "duration_s": 2774,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Tessl's software factory opens around 1,200 agent-written pull requests a week, and 75% merge without a human needing to step in. Simon Maple from Tessl shares what it took to get there, from agent loops and feedback loops to the runaway review loop that taught the team to cap every run.\n\nWhat we cover:\n– What a software factory actually is: agent loops, feedback loops and review lenses\n– Why every agent loop needs a run cap and a spend cap\n– Giving operational changes separate authority, and tests an independent source of truth\n– How good agent skills let Sonnet match Opus on review at roughly 39 cents on the dollar\n– A live build of a software factory with Tessl, from Linear ticket to merged pull request\n– Why owning your context and staying model-agnostic matters\n\nChapters:\n00:00:00 - Introduction\n00:00:58 - Inside Tessl's software factory\n00:04:30 - What a software factory is: agent loops and feedback loops\n00:09:03 - Lessons learned building a software factory\n00:10:36 - Why agent loops need run caps and spend caps\n00:12:44 - Operational changes, invariants and tests\n00:17:29 - Cutting cost with agent skills and model routing\n00:20:37 - How to measure whether your factory is working\n00:22:13 - Live demo: from Linear ticket to merged PR\n00:41:20 - Q&A: model choice, context and vendor lock-in\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/rfj\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhere would you set the run cap in your own software factory? Tell us in the comments.",
+      "published_at": "2026-10-27T15:06:43Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:22+00:00"
     },
     "vLRIe8za00E": {
       "video_id": "vLRIe8za00E",

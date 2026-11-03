@@ -1,7 +1,7 @@
 ---
 id: pqlWNihgdjI
-title: "5 Habits of AI-Native Teams: Data from 50 teams running at Amazon-Scale — Clare Liguori, AWS"
-slug: 5-habits-of-ai-native-teams-data-from-50-teams-running-at
+title: "From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS"
+slug: from-ai-assisted-to-ai-native-building-a-frontier
 conference: ai-engineer
 conference_name: "AI Engineer"
 category: "Practitioner AI conferences"
@@ -15,11 +15,11 @@ video_id: pqlWNihgdjI
 url: https://www.youtube.com/watch?v=pqlWNihgdjI
 youtube_url: https://www.youtube.com/watch?v=pqlWNihgdjI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
-topics: ["AI in the SDLC & engineering orgs"]
+topics: []
 transcript: true
 ---
 
-# 5 Habits of AI-Native Teams: Data from 50 teams running at Amazon-Scale — Clare Liguori, AWS
+# From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS
 
 **Clare Liguori**
 

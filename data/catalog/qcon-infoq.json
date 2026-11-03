@@ -1,7 +1,7 @@
 {
   "slug": "qcon-infoq",
   "name": "QCon / InfoQ Dev Summit",
-  "enumerated_at": "2026-10-23T04:01:09+00:00",
+  "enumerated_at": "2026-11-03T17:40:55+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@infoq/videos",
@@ -17,7 +17,7 @@
       "type": "infoq"
     }
   ],
-  "count": 745,
+  "count": 749,
   "videos": {
     "-1_KvpNDC6k": {
       "video_id": "-1_KvpNDC6k",
@@ -69,6 +69,15 @@
       "published_at": "2025-08-11T11:19:32Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:31+00:00"
+    },
+    "-hb2We9LfSc": {
+      "video_id": "-hb2We9LfSc",
+      "title": "Educating an Architect: A Conversation with Luca Mezzalira",
+      "duration_s": 4042,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos"
     },
     "-hg4jjaIju8": {
       "video_id": "-hg4jjaIju8",
@@ -4299,6 +4308,35 @@
       ],
       "details_at": "2026-08-31T15:35:32+00:00"
     },
+    "RwxNnF1PeR0": {
+      "video_id": "RwxNnF1PeR0",
+      "title": "Context Is the New Code: DevOps Practices for AI Agents",
+      "duration_s": 3024,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "Your AI coding agent is only as good as the context you give it. Patrick Debois argues that context should be built, tested, shipped and monitored the same way you treat code. \n\nRecorded at QCon London 2026. QCon conferences are practitioner-driven events where senior engineers share real production experience.\n\n🔗 Transcript & slides available on InfoQ:  https://bit.ly/4xV4kDz     \n     \n#ContextEngineering #AIAgents #DevOps #AICoding #QCon",
+      "published_at": "2026-10-26T12:31:10Z",
+      "tags": [
+        "Context Engineering",
+        "AI Agents",
+        "DevOps",
+        "AI Coding",
+        "InfoQ",
+        "Performance",
+        "Agile",
+        "Testing",
+        "Artificial Intelligence",
+        "Software Development Lifecycle",
+        "Transcripts",
+        "Quality",
+        "QCon London",
+        "Monitoring",
+        "Code Quality"
+      ],
+      "details_at": "2026-11-03T17:46:23+00:00"
+    },
     "RxhuiOVcmks": {
       "video_id": "RxhuiOVcmks",
       "title": "Intentional Culture and Continuous Compensation: An Interview with Austin Vance",
@@ -4650,6 +4688,35 @@
       "published_at": "2024-10-03T14:06:40Z",
       "tags": [],
       "details_at": "2026-08-31T20:13:56+00:00"
+    },
+    "UC8AY7S8Lxc": {
+      "video_id": "UC8AY7S8Lxc",
+      "title": "What Changes for Dev Teams When Agents Write the Code",
+      "duration_s": 3190,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "AI agents can now write, test and ship code faster than most teams can decide what to build. Hannah Foxwell argues the hard part is not the agents but the team around them. \n\nHannah Foxwell has spent more than a decade in platform engineering building high-performing engineering organizations. She recently built and shipped a base image management platform with one other person in two weeks, using agentic tools. She now works as an independent consultant on platform engineering, security and agentic AI.\n\nRecorded at QCon London 2026. QCon conferences are practitioner-driven events where senior engineers share real production experience. The original talk title is “The Reinvention of the Dev Team.”\n\n🔗 Transcript & slides available on InfoQ:  https://bit.ly/4B0vqfu  \n     \n#AgenticAI #PlatformEngineering #SRE #DevOps #SoftwareEngineering",
+      "published_at": "2026-11-02T11:51:44Z",
+      "tags": [
+        "Software Architecture",
+        "Software Development",
+        "InfoQ",
+        "Site Reliability Engineering",
+        "DevOps",
+        "Artificial Intelligence",
+        "Transcripts",
+        "Developer Experience",
+        "Agile",
+        "Product Management",
+        "Platform Engineering",
+        "QCon London",
+        "Culture & Methods",
+        "Agentic AI",
+        "SRE"
+      ],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "UCgQj1ZlDqk": {
       "video_id": "UCgQj1ZlDqk",
@@ -12355,6 +12422,19 @@
       "published_at": "2026-04-10T08:06:50Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:33+00:00"
+    },
+    "qR23GPBiFq8": {
+      "video_id": "qR23GPBiFq8",
+      "title": "AI, ML, and Data Engineering InfoQ Trends Report 2026",
+      "duration_s": 4278,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this episode of the podcast, members of the InfoQ AI and MIL editorial staff and friends of InfoQ discuss the current trends in the domain of AI, ML and Data Engineering.\n\nOne of the regular features of InfoQ are the trends reports, which each focus on a different aspect of software development. These reports provide the InfoQ readers and listeners with a high-level overview of the topics to pay attention to this year.\n\nInfoQ AI, ML and Data Engineering editorial team met with an external guest to discuss the 2026 trends in AI and ML areas, and what to watch out for the next 12 months. In addition to the written report and trends graph, this podcast provides a recording of a discussion where expert panelists discuss how innovative AI technologies are disrupting the industry.\n\nRead a transcript of this interview: https://bit.ly/47PKZt0\n\n\nNewsletter:\nSubscribe to the Software Architects' Newsletter, a monthly roundup of the patterns and technologies senior practitioners are working through, with the news and lessons from people doing the work:\nhttps://www.infoq.com/software-architects-newsletter\n\n\nInfoQ Online Certification Programs:\n5-week online cohorts for senior engineers and architects, built around QCon talks. Programs now cover software architecture, AI engineering, and organizational architecture. Each week you join a four-hour live session with a confidential peer group of practitioners from other companies, apply frameworks from QCon talks to the decisions you're making at work, and earn an InfoQ certification. You leave with new approaches, or confirmation that the calls you're already making are the right ones. Learn more:\nhttps://certification.qconferences.com/\n\n\nUpcoming Events:\nQCon San Francisco 2026 (November 16-20, 2026)\nhttps://qconsf.com/\n\n\nQCon London 2027 (April 13-16, 2027)\nhttps://qconlondon.com/\n\n\nThe InfoQ Podcasts:\nWeekly conversations with senior software leaders about how they build systems and teams, including what they'd do differently. Listen to all our podcasts and read interview transcripts:\nThe InfoQ Podcast: https://www.infoq.com/podcasts/\nEngineering Culture Podcast by InfoQ: https://www.infoq.com/podcasts/#engineering_culture\nGenerally AI: https://www.infoq.com/generally-ai-podcast/\n\n\nFollow InfoQ:\nMastodon: https://techhub.social/@infoq\nX: https://x.com/InfoQ\nLinkedIn: https://www.linkedin.com/company/infoq/\nFacebook: https://www.facebook.com/InfoQdotcom\nInstagram: https://www.instagram.com/infoqdotcom/\nYouTube: https://www.youtube.com/infoq\nBluesky: https://bsky.app/profile/infoq.com\n\nWrite for InfoQ:\nShare what you've learned building software with a community of senior practitioners, and get your work in front of the people who read InfoQ.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2026-10-30T08:25:20Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "qSl8VxsI3W8": {
       "video_id": "qSl8VxsI3W8",

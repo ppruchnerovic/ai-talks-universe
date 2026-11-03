@@ -1,7 +1,7 @@
 {
   "slug": "ai-dev-deeplearning",
   "name": "AI Dev (DeepLearning.AI)",
-  "enumerated_at": "2026-10-23T04:01:03+00:00",
+  "enumerated_at": "2026-11-03T17:40:48+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@Deeplearningai/videos",
@@ -10,7 +10,7 @@
       "count": 400
     }
   ],
-  "count": 406,
+  "count": 408,
   "videos": {
     "-B0zaWoPEFs": {
       "video_id": "-B0zaWoPEFs",
@@ -3038,6 +3038,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:08+00:00"
     },
+    "Zo2oyjbTEXA": {
+      "video_id": "Zo2oyjbTEXA",
+      "title": "Agents on longer tasks need more than one loop",
+      "duration_s": 88,
+      "channel": "DeepLearningAI",
+      "label": "DeepLearning.AI",
+      "year": null,
+      "source_url": "https://www.youtube.com/@Deeplearningai/videos"
+    },
     "Zt2HRp9F5YQ": {
       "video_id": "Zt2HRp9F5YQ",
       "title": "New course with Qualcomm: Introduction to On-Device AI",
@@ -4567,6 +4576,15 @@
       "published_at": "2022-12-01T13:23:03Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:08+00:00"
+    },
+    "p1jhV6LlbFY": {
+      "video_id": "p1jhV6LlbFY",
+      "title": "Join Andrew Ng at AI Dev NYC for two days of technical sessions and workshops.",
+      "duration_s": 39,
+      "channel": "DeepLearningAI",
+      "label": "DeepLearning.AI",
+      "year": null,
+      "source_url": "https://www.youtube.com/@Deeplearningai/videos"
     },
     "pG5xMfkeMtg": {
       "video_id": "pG5xMfkeMtg",
