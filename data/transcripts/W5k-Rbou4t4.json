@@ -1,0 +1,2793 @@
+{
+  "video_id": "W5k-Rbou4t4",
+  "title": "Scaling GraphRAG: Efficient Knowledge Retrieval for AI",
+  "conference": "wearedevelopers",
+  "language": "en",
+  "auto_generated": true,
+  "source": "yt",
+  "timing": "exact",
+  "word_count": 2816,
+  "imported_from": "presentations/kb (WeAreDevelopers agenda API)",
+  "segments": [
+    {
+      "start": 3.28,
+      "duration": 4.48,
+      "text": "Pleasure to be here."
+    },
+    {
+      "start": 6.0,
+      "duration": 3.76,
+      "text": "All right."
+    },
+    {
+      "start": 7.76,
+      "duration": 3.84,
+      "text": "Good morning."
+    },
+    {
+      "start": 9.76,
+      "duration": 4.12,
+      "text": "You came here today for scanning graph"
+    },
+    {
+      "start": 11.6,
+      "duration": 3.84,
+      "text": "rag efficient knowledge retrieval for"
+    },
+    {
+      "start": 13.88,
+      "duration": 2.8,
+      "text": "AI."
+    },
+    {
+      "start": 15.44,
+      "duration": 3.16,
+      "text": "And it will be."
+    },
+    {
+      "start": 16.68,
+      "duration": 4.56,
+      "text": "I promise."
+    },
+    {
+      "start": 18.6,
+      "duration": 4.84,
+      "text": "We will get to the meat and potatoes."
+    },
+    {
+      "start": 21.24,
+      "duration": 5.8,
+      "text": "But before efficiency, I want to talk"
+    },
+    {
+      "start": 23.44,
+      "duration": 8.08,
+      "text": "with you about accuracy."
+    },
+    {
+      "start": 27.04,
+      "duration": 7.04,
+      "text": "Cuz we all know how important it is."
+    },
+    {
+      "start": 31.52,
+      "duration": 6.32,
+      "text": "So we will we will do it backwards."
+    },
+    {
+      "start": 34.08,
+      "duration": 7.36,
+      "text": "First, how accurate graph rag is."
+    },
+    {
+      "start": 37.84,
+      "duration": 5.48,
+      "text": "Then, how efficient it is."
+    },
+    {
+      "start": 41.44,
+      "duration": 4.36,
+      "text": "I am Gaetano Bellini. I am an AI"
+    },
+    {
+      "start": 43.32,
+      "duration": 7.24,
+      "text": "engineer at Falco DB."
+    },
+    {
+      "start": 45.8,
+      "duration": 4.76,
+      "text": "And I build knowledge graphs for AI."
+    },
+    {
+      "start": 54.2,
+      "duration": 3.8,
+      "text": "And it's not working."
+    },
+    {
+      "start": 58.3,
+      "duration": 4.54,
+      "text": ">> [laughter]"
+    },
+    {
+      "start": 60.0,
+      "duration": 6.6,
+      "text": ">> Yeah, thank you."
+    },
+    {
+      "start": 62.84,
+      "duration": 5.04,
+      "text": "Look at this number, 95%."
+    },
+    {
+      "start": 66.6,
+      "duration": 2.76,
+      "text": "That's the share of enterprise"
+    },
+    {
+      "start": 67.88,
+      "duration": 5.36,
+      "text": "generative AI"
+    },
+    {
+      "start": 69.36,
+      "duration": 7.56,
+      "text": "pilots that, according to MIT 2025"
+    },
+    {
+      "start": 73.24,
+      "duration": 5.72,
+      "text": "report, deliver no measurable return."
+    },
+    {
+      "start": 76.92,
+      "duration": 5.16,
+      "text": "95%"
+    },
+    {
+      "start": 78.96,
+      "duration": 5.68,
+      "text": "never get into production."
+    },
+    {
+      "start": 82.08,
+      "duration": 5.24,
+      "text": "And when you dig into why, it's almost"
+    },
+    {
+      "start": 84.64,
+      "duration": 5.92,
+      "text": "never the model's fault."
+    },
+    {
+      "start": 87.32,
+      "duration": 6.2,
+      "text": "The models are extraordinary."
+    },
+    {
+      "start": 90.56,
+      "duration": 7.8,
+      "text": "The problem is the context we hand them."
+    },
+    {
+      "start": 93.52,
+      "duration": 6.72,
+      "text": "Ungrounded, disconnected, half relevant."
+    },
+    {
+      "start": 98.36,
+      "duration": 3.4,
+      "text": "One confident hallucination in front of"
+    },
+    {
+      "start": 100.24,
+      "duration": 4.84,
+      "text": "a customer,"
+    },
+    {
+      "start": 101.76,
+      "duration": 6.28,
+      "text": "and the pilot is shut down."
+    },
+    {
+      "start": 105.08,
+      "duration": 6.52,
+      "text": "The fixed isn't a bigger model."
+    },
+    {
+      "start": 108.04,
+      "duration": 3.56,
+      "text": "It's a better retrieval."
+    },
+    {
+      "start": 113.56,
+      "duration": 3.52,
+      "text": "This drawing is basically the whole"
+    },
+    {
+      "start": 115.76,
+      "duration": 2.76,
+      "text": "talk."
+    },
+    {
+      "start": 117.08,
+      "duration": 2.76,
+      "text": "Garbage in,"
+    },
+    {
+      "start": 118.52,
+      "duration": 3.31,
+      "text": "garbage out."
+    },
+    {
+      "start": 119.84,
+      "duration": 2.52,
+      "text": "If you fed a rag system unconnected"
+    },
+    {
+      "start": 121.83,
+      "duration": 2.73,
+      "text": "[clears throat]"
+    },
+    {
+      "start": 122.36,
+      "duration": 5.12,
+      "text": "disorganized data,"
+    },
+    {
+      "start": 124.56,
+      "duration": 5.52,
+      "text": "you get a garbage answer."
+    },
+    {
+      "start": 127.48,
+      "duration": 4.28,
+      "text": "Hallucinations, wrong facts, missing"
+    },
+    {
+      "start": 130.08,
+      "duration": 3.88,
+      "text": "context."
+    },
+    {
+      "start": 131.76,
+      "duration": 4.64,
+      "text": "The machine isn't broken."
+    },
+    {
+      "start": 133.96,
+      "duration": 4.08,
+      "text": "The data you are feeding it"
+    },
+    {
+      "start": 136.4,
+      "duration": 3.68,
+      "text": "is a mess."
+    },
+    {
+      "start": 138.04,
+      "duration": 3.48,
+      "text": "So, you can't fix this with a bigger"
+    },
+    {
+      "start": 140.08,
+      "duration": 5.92,
+      "text": "model."
+    },
+    {
+      "start": 141.52,
+      "duration": 4.48,
+      "text": "You fix it by giving the data structure."
+    },
+    {
+      "start": 147.4,
+      "duration": 5.36,
+      "text": "Remember that 95%?"
+    },
+    {
+      "start": 150.28,
+      "duration": 5.48,
+      "text": "Here's a system that doesn't fail."
+    },
+    {
+      "start": 152.76,
+      "duration": 6.8,
+      "text": "On a public graph rag benchmark,"
+    },
+    {
+      "start": 155.76,
+      "duration": 7.08,
+      "text": "our graph rag SDK is number one."
+    },
+    {
+      "start": 159.56,
+      "duration": 5.4,
+      "text": "Almost 82 overall accuracy."
+    },
+    {
+      "start": 162.84,
+      "duration": 6.88,
+      "text": "Compare it to the vector rag with only"
+    },
+    {
+      "start": 164.96,
+      "duration": 7.84,
+      "text": "55 overall accuracy. That's 26 points"
+    },
+    {
+      "start": 169.72,
+      "duration": 4.92,
+      "text": "gap just from adding a graph."
+    },
+    {
+      "start": 172.8,
+      "duration": 4.56,
+      "text": "26 points"
+    },
+    {
+      "start": 174.64,
+      "duration": 6.24,
+      "text": "is the difference between a demo and"
+    },
+    {
+      "start": 177.36,
+      "duration": 3.52,
+      "text": "something you actually ship."
+    },
+    {
+      "start": 182.88,
+      "duration": 5.68,
+      "text": "Here's a question, a real one. Which of"
+    },
+    {
+      "start": 185.52,
+      "duration": 4.6,
+      "text": "my customers are in a city where I have"
+    },
+    {
+      "start": 188.56,
+      "duration": 2.92,
+      "text": "an office?"
+    },
+    {
+      "start": 190.12,
+      "duration": 2.76,
+      "text": "To you,"
+    },
+    {
+      "start": 191.48,
+      "duration": 3.72,
+      "text": "that's easy."
+    },
+    {
+      "start": 192.88,
+      "duration": 5.72,
+      "text": "To a normal rag system,"
+    },
+    {
+      "start": 195.2,
+      "duration": 5.72,
+      "text": "it's a trap and it will fail it"
+    },
+    {
+      "start": 198.6,
+      "duration": 4.52,
+      "text": "because there is no single chunk of text"
+    },
+    {
+      "start": 200.92,
+      "duration": 4.12,
+      "text": "anywhere that say this."
+    },
+    {
+      "start": 203.12,
+      "duration": 5.4,
+      "text": "Your customer location"
+    },
+    {
+      "start": 205.04,
+      "duration": 5.32,
+      "text": "live lives in one document."
+    },
+    {
+      "start": 208.52,
+      "duration": 3.64,
+      "text": "Your office locations"
+    },
+    {
+      "start": 210.36,
+      "duration": 4.36,
+      "text": "lives in another."
+    },
+    {
+      "start": 212.16,
+      "duration": 4.96,
+      "text": "Vector cells are nothing to match and"
+    },
+    {
+      "start": 214.72,
+      "duration": 4.0,
+      "text": "that's exactly the a gap"
+    },
+    {
+      "start": 217.12,
+      "duration": 5.32,
+      "text": "a graph closes."
+    },
+    {
+      "start": 218.72,
+      "duration": 3.72,
+      "text": "We will come to this question later."
+    },
+    {
+      "start": 223.96,
+      "duration": 5.76,
+      "text": "Almost everyone here has shipped a rag"
+    },
+    {
+      "start": 225.84,
+      "duration": 5.68,
+      "text": "pipeline and almost every one of them"
+    },
+    {
+      "start": 229.72,
+      "duration": 4.44,
+      "text": "at some point"
+    },
+    {
+      "start": 231.52,
+      "duration": 4.88,
+      "text": "confidentially made something up."
+    },
+    {
+      "start": 234.16,
+      "duration": 4.28,
+      "text": "So, we know the loop."
+    },
+    {
+      "start": 236.4,
+      "duration": 4.64,
+      "text": "Chunk your documents, embed them, and"
+    },
+    {
+      "start": 238.44,
+      "duration": 4.4,
+      "text": "store them in a vector database."
+    },
+    {
+      "start": 241.04,
+      "duration": 4.16,
+      "text": "And at query time,"
+    },
+    {
+      "start": 242.84,
+      "duration": 4.8,
+      "text": "pull back the top K chunks that looks"
+    },
+    {
+      "start": 245.2,
+      "duration": 5.28,
+      "text": "like your question."
+    },
+    {
+      "start": 247.64,
+      "duration": 5.0,
+      "text": "But, look at what you get."
+    },
+    {
+      "start": 250.48,
+      "duration": 4.04,
+      "text": "A pile of chunk."
+    },
+    {
+      "start": 252.64,
+      "duration": 5.84,
+      "text": "A flat list."
+    },
+    {
+      "start": 254.52,
+      "duration": 5.64,
+      "text": "Nothing connects fact A in chunk three"
+    },
+    {
+      "start": 258.48,
+      "duration": 5.68,
+      "text": "to fact"
+    },
+    {
+      "start": 260.16,
+      "duration": 4.0,
+      "text": "B in chunk 47."
+    },
+    {
+      "start": 267.6,
+      "duration": 5.8,
+      "text": "So, where this system broke breaks? I"
+    },
+    {
+      "start": 270.36,
+      "duration": 5.12,
+      "text": "want to talk about four points."
+    },
+    {
+      "start": 273.4,
+      "duration": 4.96,
+      "text": "The first The first one is about"
+    },
+    {
+      "start": 275.48,
+      "duration": 5.08,
+      "text": "multi-hop reasoning."
+    },
+    {
+      "start": 278.36,
+      "duration": 4.2,
+      "text": "If your question require multi-hop"
+    },
+    {
+      "start": 280.56,
+      "duration": 5.24,
+      "text": "multi-hop knowledge,"
+    },
+    {
+      "start": 282.56,
+      "duration": 5.2,
+      "text": "for example, people to people to event"
+    },
+    {
+      "start": 285.8,
+      "duration": 4.2,
+      "text": "to a job,"
+    },
+    {
+      "start": 287.76,
+      "duration": 6.48,
+      "text": "we need to extract the knowledge that"
+    },
+    {
+      "start": 290.0,
+      "duration": 7.88,
+      "text": "leaves behind similarity."
+    },
+    {
+      "start": 294.24,
+      "duration": 3.64,
+      "text": "And the flat list can do that."
+    },
+    {
+      "start": 297.92,
+      "duration": 4.88,
+      "text": "If you're talking about concepts, like"
+    },
+    {
+      "start": 299.92,
+      "duration": 5.48,
+      "text": "if you search about girl or any one of"
+    },
+    {
+      "start": 302.8,
+      "duration": 5.48,
+      "text": "you or like this event, there is no"
+    },
+    {
+      "start": 305.4,
+      "duration": 5.76,
+      "text": "grounding in vector search. So, your"
+    },
+    {
+      "start": 308.28,
+      "duration": 4.48,
+      "text": "concept is across the documents, and you"
+    },
+    {
+      "start": 311.16,
+      "duration": 3.52,
+      "text": "need to find"
+    },
+    {
+      "start": 312.76,
+      "duration": 5.36,
+      "text": "all the concept and to understand if"
+    },
+    {
+      "start": 314.68,
+      "duration": 5.84,
+      "text": "it's relevant to your question or not."
+    },
+    {
+      "start": 318.12,
+      "duration": 6.2,
+      "text": "When you add documents,"
+    },
+    {
+      "start": 320.52,
+      "duration": 7.12,
+      "text": "you only add more and more vectors."
+    },
+    {
+      "start": 324.32,
+      "duration": 5.88,
+      "text": "So, you add noise, and you need to find"
+    },
+    {
+      "start": 327.64,
+      "duration": 5.76,
+      "text": "the relevant concept that with with"
+    },
+    {
+      "start": 330.2,
+      "duration": 5.04,
+      "text": "database that doesn't scale."
+    },
+    {
+      "start": 333.4,
+      "duration": 3.92,
+      "text": "And when you eventually get to the ask"
+    },
+    {
+      "start": 335.24,
+      "duration": 5.16,
+      "text": "the question,"
+    },
+    {
+      "start": 337.32,
+      "duration": 4.96,
+      "text": "you only extract K chunks."
+    },
+    {
+      "start": 340.4,
+      "duration": 5.44,
+      "text": "And you don't know if your"
+    },
+    {
+      "start": 342.28,
+      "duration": 6.64,
+      "text": "uh relevant information it it is in the"
+    },
+    {
+      "start": 345.84,
+      "duration": 3.08,
+      "text": "K plus one chunk."
+    },
+    {
+      "start": 353.2,
+      "duration": 4.2,
+      "text": "I'm sure most of you already know this."
+    },
+    {
+      "start": 355.84,
+      "duration": 3.24,
+      "text": "But just in case,"
+    },
+    {
+      "start": 357.4,
+      "duration": 3.24,
+      "text": "a knowledge graph is the simplest"
+    },
+    {
+      "start": 359.08,
+      "duration": 3.16,
+      "text": "structure there is."
+    },
+    {
+      "start": 360.64,
+      "duration": 4.24,
+      "text": "Nodes"
+    },
+    {
+      "start": 362.24,
+      "duration": 4.4,
+      "text": "are the entities, the things your data"
+    },
+    {
+      "start": 364.88,
+      "duration": 5.36,
+      "text": "is about."
+    },
+    {
+      "start": 366.64,
+      "duration": 6.64,
+      "text": "People, places, products."
+    },
+    {
+      "start": 370.24,
+      "duration": 4.32,
+      "text": "Edges are the relationship between them,"
+    },
+    {
+      "start": 373.28,
+      "duration": 4.04,
+      "text": "typed"
+    },
+    {
+      "start": 374.56,
+      "duration": 6.04,
+      "text": "and directional."
+    },
+    {
+      "start": 377.32,
+      "duration": 5.36,
+      "text": "And the key idea, the fact,"
+    },
+    {
+      "start": 380.6,
+      "duration": 5.8,
+      "text": "lives on the edge."
+    },
+    {
+      "start": 382.68,
+      "duration": 7.76,
+      "text": "Alice founded founded Falco DB"
+    },
+    {
+      "start": 386.4,
+      "duration": 6.32,
+      "text": "isn't a sentence to be read every time."
+    },
+    {
+      "start": 390.44,
+      "duration": 5.72,
+      "text": "It's one edge."
+    },
+    {
+      "start": 392.72,
+      "duration": 7.28,
+      "text": "Alice founded Falco DB."
+    },
+    {
+      "start": 396.16,
+      "duration": 8.8,
+      "text": "Falco DB based in London."
+    },
+    {
+      "start": 400.0,
+      "duration": 7.56,
+      "text": "Falco DB builds graph right SDK."
+    },
+    {
+      "start": 404.96,
+      "duration": 6.04,
+      "text": "Same picture you sketch on a whiteboard,"
+    },
+    {
+      "start": 407.56,
+      "duration": 7.2,
+      "text": "except now it's queryable. And the SDK"
+    },
+    {
+      "start": 411.0,
+      "duration": 3.76,
+      "text": "does this automatically."
+    },
+    {
+      "start": 417.12,
+      "duration": 4.24,
+      "text": "Yeah."
+    },
+    {
+      "start": 419.28,
+      "duration": 4.76,
+      "text": "Back to the question from earlier."
+    },
+    {
+      "start": 421.36,
+      "duration": 5.56,
+      "text": "To a human, easy."
+    },
+    {
+      "start": 424.04,
+      "duration": 6.68,
+      "text": "To vector search, a trap."
+    },
+    {
+      "start": 426.92,
+      "duration": 6.44,
+      "text": "Because the the two facts live in"
+    },
+    {
+      "start": 430.72,
+      "duration": 5.08,
+      "text": "different chunks. Top K graphs, whatever"
+    },
+    {
+      "start": 433.36,
+      "duration": 4.28,
+      "text": "looks like your the question."
+    },
+    {
+      "start": 435.8,
+      "duration": 3.72,
+      "text": "And the two facts that are relevant"
+    },
+    {
+      "start": 437.64,
+      "duration": 3.28,
+      "text": "never ends up in the same context"
+    },
+    {
+      "start": 439.52,
+      "duration": 2.88,
+      "text": "window."
+    },
+    {
+      "start": 440.92,
+      "duration": 3.16,
+      "text": "So, the model"
+    },
+    {
+      "start": 442.4,
+      "duration": 3.96,
+      "text": "guesses."
+    },
+    {
+      "start": 444.08,
+      "duration": 3.2,
+      "text": "But a graph already has the joint built"
+    },
+    {
+      "start": 446.36,
+      "duration": 4.24,
+      "text": "in."
+    },
+    {
+      "start": 447.28,
+      "duration": 5.52,
+      "text": "Customer to city, back to office."
+    },
+    {
+      "start": 450.6,
+      "duration": 3.6,
+      "text": "That's a path you can walk."
+    },
+    {
+      "start": 452.8,
+      "duration": 4.76,
+      "text": "Two hops,"
+    },
+    {
+      "start": 454.2,
+      "duration": 5.12,
+      "text": "one query. The answer isn't retrieved,"
+    },
+    {
+      "start": 457.56,
+      "duration": 3.36,
+      "text": "it's traversed,"
+    },
+    {
+      "start": 459.32,
+      "duration": 5.92,
+      "text": "and it's grounded."
+    },
+    {
+      "start": 460.92,
+      "duration": 4.32,
+      "text": "Because every step is a real edge."
+    },
+    {
+      "start": 465.84,
+      "duration": 3.32,
+      "text": "That's it. You don't throw anything"
+    },
+    {
+      "start": 468.04,
+      "duration": 4.84,
+      "text": "away."
+    },
+    {
+      "start": 469.16,
+      "duration": 6.36,
+      "text": "Look at these two sides. On the left,"
+    },
+    {
+      "start": 472.88,
+      "duration": 6.08,
+      "text": "your documents and their chunks. Only"
+    },
+    {
+      "start": 475.52,
+      "duration": 5.76,
+      "text": "now they are connected."
+    },
+    {
+      "start": 478.96,
+      "duration": 5.2,
+      "text": "Chunks to chunks and to the source"
+    },
+    {
+      "start": 481.28,
+      "duration": 5.32,
+      "text": "documents. On the right, you have the"
+    },
+    {
+      "start": 484.16,
+      "duration": 5.44,
+      "text": "entities and relationship"
+    },
+    {
+      "start": 486.6,
+      "duration": 4.8,
+      "text": "from the original chunks."
+    },
+    {
+      "start": 489.6,
+      "duration": 3.4,
+      "text": "The information is just with"
+    },
+    {
+      "start": 491.4,
+      "duration": 4.04,
+      "text": "representation"
+    },
+    {
+      "start": 493.0,
+      "duration": 4.32,
+      "text": "as a graph."
+    },
+    {
+      "start": 495.44,
+      "duration": 3.8,
+      "text": "Put them together"
+    },
+    {
+      "start": 497.32,
+      "duration": 4.32,
+      "text": "and you can use"
+    },
+    {
+      "start": 499.24,
+      "duration": 5.92,
+      "text": "this graph to walk from document to"
+    },
+    {
+      "start": 501.64,
+      "duration": 4.88,
+      "text": "chunk to entity to entity to entity and"
+    },
+    {
+      "start": 505.16,
+      "duration": 4.6,
+      "text": "then to chunk."
+    },
+    {
+      "start": 506.52,
+      "duration": 6.24,
+      "text": "And you can connect two documents with"
+    },
+    {
+      "start": 509.76,
+      "duration": 5.56,
+      "text": "same relationships that lives"
+    },
+    {
+      "start": 512.76,
+      "duration": 2.56,
+      "text": "in them."
+    },
+    {
+      "start": 517.08,
+      "duration": 3.8,
+      "text": "So, how"
+    },
+    {
+      "start": 519.12,
+      "duration": 4.28,
+      "text": "So, how do we build it?"
+    },
+    {
+      "start": 520.88,
+      "duration": 4.72,
+      "text": "The first two steps are identical to"
+    },
+    {
+      "start": 523.4,
+      "duration": 3.8,
+      "text": "vanilla rag."
+    },
+    {
+      "start": 525.6,
+      "duration": 3.36,
+      "text": "Take your documents, split them into"
+    },
+    {
+      "start": 527.2,
+      "duration": 3.04,
+      "text": "chunks."
+    },
+    {
+      "start": 528.96,
+      "duration": 4.32,
+      "text": "Only now"
+    },
+    {
+      "start": 530.24,
+      "duration": 5.96,
+      "text": "you need to extract entities."
+    },
+    {
+      "start": 533.28,
+      "duration": 4.24,
+      "text": "This is where the graph came come from."
+    },
+    {
+      "start": 536.2,
+      "duration": 4.16,
+      "text": "Extraction."
+    },
+    {
+      "start": 537.52,
+      "duration": 5.72,
+      "text": "We use an LLM to extract entities and"
+    },
+    {
+      "start": 540.36,
+      "duration": 4.72,
+      "text": "and and relationships. Then, we need to"
+    },
+    {
+      "start": 543.24,
+      "duration": 4.72,
+      "text": "resolve them"
+    },
+    {
+      "start": 545.08,
+      "duration": 4.6,
+      "text": "uh in order to deduplicate"
+    },
+    {
+      "start": 547.96,
+      "duration": 3.84,
+      "text": "the graph and"
+    },
+    {
+      "start": 549.68,
+      "duration": 4.92,
+      "text": "reduce the noise."
+    },
+    {
+      "start": 551.8,
+      "duration": 5.36,
+      "text": "At the end, we get a a full knowledge"
+    },
+    {
+      "start": 554.6,
+      "duration": 3.84,
+      "text": "graph linked and embedded."
+    },
+    {
+      "start": 557.16,
+      "duration": 3.52,
+      "text": "And that's it."
+    },
+    {
+      "start": 558.44,
+      "duration": 5.48,
+      "text": "Same embedding as vector,"
+    },
+    {
+      "start": 560.68,
+      "duration": 4.64,
+      "text": "same same chunks. Only now with"
+    },
+    {
+      "start": 563.92,
+      "duration": 5.16,
+      "text": "connections"
+    },
+    {
+      "start": 565.32,
+      "duration": 3.76,
+      "text": "and that we can traverse."
+    },
+    {
+      "start": 573.48,
+      "duration": 5.44,
+      "text": "How does text become a graph?"
+    },
+    {
+      "start": 576.36,
+      "duration": 5.36,
+      "text": "It's an entity extraction"
+    },
+    {
+      "start": 578.92,
+      "duration": 5.08,
+      "text": "We found out that using two models for"
+    },
+    {
+      "start": 581.72,
+      "duration": 3.52,
+      "text": "extraction is more accurate and fast and"
+    },
+    {
+      "start": 584.0,
+      "duration": 4.2,
+      "text": "faster."
+    },
+    {
+      "start": 585.24,
+      "duration": 6.24,
+      "text": "The first the first step is a is done"
+    },
+    {
+      "start": 588.2,
+      "duration": 6.0,
+      "text": "doing done by local name entity entity"
+    },
+    {
+      "start": 591.48,
+      "duration": 4.84,
+      "text": "recognition model, Gleaner."
+    },
+    {
+      "start": 594.2,
+      "duration": 5.04,
+      "text": "This model is optimized to extract"
+    },
+    {
+      "start": 596.32,
+      "duration": 4.96,
+      "text": "entity based on a given ontology."
+    },
+    {
+      "start": 599.24,
+      "duration": 5.12,
+      "text": "It's local, it's fast, run by"
+    },
+    {
+      "start": 601.28,
+      "duration": 5.12,
+      "text": "milliseconds, and zero API cost."
+    },
+    {
+      "start": 604.36,
+      "duration": 4.48,
+      "text": "Free."
+    },
+    {
+      "start": 606.4,
+      "duration": 6.4,
+      "text": "At the output, we get entities."
+    },
+    {
+      "start": 608.84,
+      "duration": 6.76,
+      "text": "Alice, Faculty B, London."
+    },
+    {
+      "start": 612.8,
+      "duration": 5.88,
+      "text": "And then we are using LLM to verify"
+    },
+    {
+      "start": 615.6,
+      "duration": 5.08,
+      "text": "those entities and extract relationship"
+    },
+    {
+      "start": 618.68,
+      "duration": 3.36,
+      "text": "between them."
+    },
+    {
+      "start": 620.68,
+      "duration": 3.44,
+      "text": "The output"
+    },
+    {
+      "start": 622.04,
+      "duration": 5.2,
+      "text": "is a complete knowledge graph."
+    },
+    {
+      "start": 624.12,
+      "duration": 5.08,
+      "text": "Now Alice connected to Faculty B with"
+    },
+    {
+      "start": 627.24,
+      "duration": 4.96,
+      "text": "real edge."
+    },
+    {
+      "start": 629.2,
+      "duration": 6.36,
+      "text": "Faculty B connected to London"
+    },
+    {
+      "start": 632.2,
+      "duration": 3.36,
+      "text": "with also a real edge."
+    },
+    {
+      "start": 637.84,
+      "duration": 3.92,
+      "text": "Now we have"
+    },
+    {
+      "start": 639.88,
+      "duration": 4.92,
+      "text": "we have extracted entities. And"
+    },
+    {
+      "start": 641.76,
+      "duration": 5.84,
+      "text": "sometimes we got duplications. For"
+    },
+    {
+      "start": 644.8,
+      "duration": 5.44,
+      "text": "example, from documents we can get a"
+    },
+    {
+      "start": 647.6,
+      "duration": 4.84,
+      "text": "several men mentioning names like Nova,"
+    },
+    {
+      "start": 650.24,
+      "duration": 5.96,
+      "text": "Novacorp, and Nova Inc."
+    },
+    {
+      "start": 652.44,
+      "duration": 5.04,
+      "text": "We want to deduplicate this"
+    },
+    {
+      "start": 656.2,
+      "duration": 3.36,
+      "text": "this"
+    },
+    {
+      "start": 657.48,
+      "duration": 4.76,
+      "text": "entities in order to get a single"
+    },
+    {
+      "start": 659.56,
+      "duration": 6.92,
+      "text": "representation on our graph"
+    },
+    {
+      "start": 662.24,
+      "duration": 6.8,
+      "text": "and to know that every time we when we"
+    },
+    {
+      "start": 666.48,
+      "duration": 4.56,
+      "text": "search for concept, we return to a"
+    },
+    {
+      "start": 669.04,
+      "duration": 3.8,
+      "text": "single representation."
+    },
+    {
+      "start": 671.04,
+      "duration": 5.08,
+      "text": "This is how it scales."
+    },
+    {
+      "start": 672.84,
+      "duration": 6.36,
+      "text": "And we're doing that but by taking these"
+    },
+    {
+      "start": 676.12,
+      "duration": 4.36,
+      "text": "entities and created communities."
+    },
+    {
+      "start": 679.2,
+      "duration": 4.28,
+      "text": "A similar"
+    },
+    {
+      "start": 680.48,
+      "duration": 5.48,
+      "text": "a similar semantic groups. For example,"
+    },
+    {
+      "start": 683.48,
+      "duration": 4.6,
+      "text": "Nova and Novacorp in one group"
+    },
+    {
+      "start": 685.96,
+      "duration": 4.48,
+      "text": "and Apple in another."
+    },
+    {
+      "start": 688.08,
+      "duration": 4.96,
+      "text": "Then we extract the entities that look"
+    },
+    {
+      "start": 690.44,
+      "duration": 4.6,
+      "text": "similar on the graph"
+    },
+    {
+      "start": 693.04,
+      "duration": 4.44,
+      "text": "and create batches."
+    },
+    {
+      "start": 695.04,
+      "duration": 5.28,
+      "text": "Each batches we give to the LLM to"
+    },
+    {
+      "start": 697.48,
+      "duration": 4.08,
+      "text": "decide if to merge these entities or"
+    },
+    {
+      "start": 700.32,
+      "duration": 3.0,
+      "text": "not."
+    },
+    {
+      "start": 701.56,
+      "duration": 4.08,
+      "text": "At the end we get the the single"
+    },
+    {
+      "start": 703.32,
+      "duration": 4.68,
+      "text": "representation and unified knowledge"
+    },
+    {
+      "start": 705.64,
+      "duration": 7.08,
+      "text": "graph. This is how when you add"
+    },
+    {
+      "start": 708.0,
+      "duration": 7.0,
+      "text": "documents and add same entities, they"
+    },
+    {
+      "start": 712.72,
+      "duration": 3.44,
+      "text": "return and merge to the entities in the"
+    },
+    {
+      "start": 715.0,
+      "duration": 3.96,
+      "text": "graph"
+    },
+    {
+      "start": 716.16,
+      "duration": 5.04,
+      "text": "and we can add and add documents and the"
+    },
+    {
+      "start": 718.96,
+      "duration": 4.68,
+      "text": "concept is single of the graph in the"
+    },
+    {
+      "start": 721.2,
+      "duration": 2.44,
+      "text": "graph."
+    },
+    {
+      "start": 727.2,
+      "duration": 5.88,
+      "text": "By now,"
+    },
+    {
+      "start": 729.04,
+      "duration": 5.12,
+      "text": "we know a little bit a bit how to build"
+    },
+    {
+      "start": 733.08,
+      "duration": 3.92,
+      "text": "a graph"
+    },
+    {
+      "start": 734.16,
+      "duration": 5.64,
+      "text": "and what is what is it look like."
+    },
+    {
+      "start": 737.0,
+      "duration": 4.08,
+      "text": "Let's talk about how we retrieve it."
+    },
+    {
+      "start": 739.8,
+      "duration": 4.76,
+      "text": "For example,"
+    },
+    {
+      "start": 741.08,
+      "duration": 5.76,
+      "text": "when we query a question, we now can"
+    },
+    {
+      "start": 744.56,
+      "duration": 4.92,
+      "text": "take this question and find entry point"
+    },
+    {
+      "start": 746.84,
+      "duration": 3.88,
+      "text": "in the graph. For example, Alice and"
+    },
+    {
+      "start": 749.48,
+      "duration": 3.4,
+      "text": "London."
+    },
+    {
+      "start": 750.72,
+      "duration": 4.08,
+      "text": "And now we can use the graph that we"
+    },
+    {
+      "start": 752.88,
+      "duration": 4.52,
+      "text": "built to"
+    },
+    {
+      "start": 754.8,
+      "duration": 6.56,
+      "text": "do a multi-hop reasoning."
+    },
+    {
+      "start": 757.4,
+      "duration": 7.12,
+      "text": "We are the one hop to to walk out, then"
+    },
+    {
+      "start": 761.36,
+      "duration": 5.56,
+      "text": "to base in, and expand it to other"
+    },
+    {
+      "start": 764.52,
+      "duration": 5.12,
+      "text": "information that we want. Think what you"
+    },
+    {
+      "start": 766.92,
+      "duration": 6.96,
+      "text": "can do with it when the agent can"
+    },
+    {
+      "start": 769.64,
+      "duration": 4.24,
+      "text": "control the hops."
+    },
+    {
+      "start": 774.36,
+      "duration": 5.0,
+      "text": "Let's get more specific."
+    },
+    {
+      "start": 776.24,
+      "duration": 6.72,
+      "text": "When we query a question, we extract"
+    },
+    {
+      "start": 779.36,
+      "duration": 5.08,
+      "text": "keywords and embed them. And now finding"
+    },
+    {
+      "start": 782.96,
+      "duration": 4.04,
+      "text": "the entry point"
+    },
+    {
+      "start": 784.44,
+      "duration": 4.8,
+      "text": "and the route between them. This is the"
+    },
+    {
+      "start": 787.0,
+      "duration": 3.68,
+      "text": "power of graph."
+    },
+    {
+      "start": 789.24,
+      "duration": 4.48,
+      "text": "Only now"
+    },
+    {
+      "start": 790.68,
+      "duration": 3.96,
+      "text": "we have the edges and the fact between"
+    },
+    {
+      "start": 793.72,
+      "duration": 4.08,
+      "text": "them."
+    },
+    {
+      "start": 794.64,
+      "duration": 5.6,
+      "text": "For example, Alice co-founded Faculty B"
+    },
+    {
+      "start": 797.8,
+      "duration": 4.64,
+      "text": "in 2023"
+    },
+    {
+      "start": 800.24,
+      "duration": 5.24,
+      "text": "is a fact that live in your original"
+    },
+    {
+      "start": 802.44,
+      "duration": 5.56,
+      "text": "chunks and now it's on the database"
+    },
+    {
+      "start": 805.48,
+      "duration": 4.0,
+      "text": "connecting the two concepts, Alice and"
+    },
+    {
+      "start": 808.0,
+      "duration": 3.4,
+      "text": "Faculty B."
+    },
+    {
+      "start": 809.48,
+      "duration": 2.88,
+      "text": "We extract this structure and re-rank"
+    },
+    {
+      "start": 811.4,
+      "duration": 3.04,
+      "text": "it."
+    },
+    {
+      "start": 812.36,
+      "duration": 6.32,
+      "text": "And then give it"
+    },
+    {
+      "start": 814.44,
+      "duration": 4.24,
+      "text": "give this complete context to the LLM."
+    },
+    {
+      "start": 820.2,
+      "duration": 6.28,
+      "text": "Every answer cited its source. The"
+    },
+    {
+      "start": 823.24,
+      "duration": 5.2,
+      "text": "answer Alice works at Faculty B didn't"
+    },
+    {
+      "start": 826.48,
+      "duration": 4.76,
+      "text": "come from nowhere."
+    },
+    {
+      "start": 828.44,
+      "duration": 6.64,
+      "text": "It resolved to the entity Alice,"
+    },
+    {
+      "start": 831.24,
+      "duration": 6.4,
+      "text": "which as mentioned in this exact chunk,"
+    },
+    {
+      "start": 835.08,
+      "duration": 5.36,
+      "text": "which is part of this document,"
+    },
+    {
+      "start": 837.64,
+      "duration": 4.88,
+      "text": "company profile.md,"
+    },
+    {
+      "start": 840.44,
+      "duration": 4.88,
+      "text": "for example."
+    },
+    {
+      "start": 842.52,
+      "duration": 4.68,
+      "text": "So, when someone asks, \"Why did the the"
+    },
+    {
+      "start": 845.32,
+      "duration": 3.96,
+      "text": "system say that?\""
+    },
+    {
+      "start": 847.2,
+      "duration": 3.4,
+      "text": "you show the trail."
+    },
+    {
+      "start": 849.28,
+      "duration": 3.72,
+      "text": "That's it."
+    },
+    {
+      "start": 850.6,
+      "duration": 3.56,
+      "text": "The score, the the source sentence, the"
+    },
+    {
+      "start": 853.0,
+      "duration": 3.8,
+      "text": "file,"
+    },
+    {
+      "start": 854.16,
+      "duration": 6.48,
+      "text": "that's the difference between black box"
+    },
+    {
+      "start": 856.8,
+      "duration": 6.48,
+      "text": "and knowing exactly where your answer"
+    },
+    {
+      "start": 860.64,
+      "duration": 2.64,
+      "text": "came from."
+    },
+    {
+      "start": 864.88,
+      "duration": 3.72,
+      "text": "Everything I'm showing you package and"
+    },
+    {
+      "start": 867.16,
+      "duration": 4.76,
+      "text": "it's open source."
+    },
+    {
+      "start": 868.6,
+      "duration": 5.92,
+      "text": "Point uh the Graph Rag SDK is one simple"
+    },
+    {
+      "start": 871.92,
+      "duration": 4.76,
+      "text": "API, point it at your documents, and you"
+    },
+    {
+      "start": 874.52,
+      "duration": 4.36,
+      "text": "extract uh and you build the the"
+    },
+    {
+      "start": 876.68,
+      "duration": 4.48,
+      "text": "knowledge graph, and then you can ask."
+    },
+    {
+      "start": 878.88,
+      "duration": 5.84,
+      "text": "It's built on Faculty B, including"
+    },
+    {
+      "start": 881.16,
+      "duration": 5.6,
+      "text": "vector and full text index"
+    },
+    {
+      "start": 884.72,
+      "duration": 4.6,
+      "text": "uh in one engine."
+    },
+    {
+      "start": 886.76,
+      "duration": 5.16,
+      "text": "Automatic extraction and reservation"
+    },
+    {
+      "start": 889.32,
+      "duration": 5.92,
+      "text": "reso- resolution, every answer is"
+    },
+    {
+      "start": 891.92,
+      "duration": 3.32,
+      "text": "grounded and cited."
+    },
+    {
+      "start": 896.56,
+      "duration": 2.8,
+      "text": "Okay. Let [snorts] me show you a quick"
+    },
+    {
+      "start": 898.2,
+      "duration": 4.68,
+      "text": "demo."
+    },
+    {
+      "start": 899.36,
+      "duration": 5.4,
+      "text": "Uh we uh built a demo of an application"
+    },
+    {
+      "start": 902.88,
+      "duration": 4.8,
+      "text": "with this Graph Rag SDK,"
+    },
+    {
+      "start": 904.76,
+      "duration": 5.92,
+      "text": "uh ingesting a document, and then ask"
+    },
+    {
+      "start": 907.68,
+      "duration": 5.92,
+      "text": "the question from earlier."
+    },
+    {
+      "start": 910.68,
+      "duration": 5.52,
+      "text": "Um this is the first step. We ingest the"
+    },
+    {
+      "start": 913.6,
+      "duration": 4.24,
+      "text": "documents, the all the steps of of uh"
+    },
+    {
+      "start": 916.2,
+      "duration": 3.4,
+      "text": "creating the graph."
+    },
+    {
+      "start": 917.84,
+      "duration": 3.64,
+      "text": "Then we have extracted entities and"
+    },
+    {
+      "start": 919.6,
+      "duration": 5.32,
+      "text": "relationship. The graph looks like this."
+    },
+    {
+      "start": 921.48,
+      "duration": 6.12,
+      "text": "We can see how the databases look like."
+    },
+    {
+      "start": 924.92,
+      "duration": 4.68,
+      "text": "We have a visual"
+    },
+    {
+      "start": 927.6,
+      "duration": 3.92,
+      "text": "and then"
+    },
+    {
+      "start": 929.6,
+      "duration": 4.68,
+      "text": "we can ask our question,"
+    },
+    {
+      "start": 931.52,
+      "duration": 5.48,
+      "text": "go to the database, search, traverse,"
+    },
+    {
+      "start": 934.28,
+      "duration": 5.08,
+      "text": "and we rank, and now we can build the"
+    },
+    {
+      "start": 937.0,
+      "duration": 6.28,
+      "text": "question and"
+    },
+    {
+      "start": 939.36,
+      "duration": 3.92,
+      "text": "connect it to the source chunks."
+    },
+    {
+      "start": 947.32,
+      "duration": 5.12,
+      "text": "Nothing's free."
+    },
+    {
+      "start": 949.0,
+      "duration": 4.72,
+      "text": "So, that be Let Let me be straight with"
+    },
+    {
+      "start": 952.44,
+      "duration": 3.48,
+      "text": "you."
+    },
+    {
+      "start": 953.72,
+      "duration": 4.76,
+      "text": "Creating a graph"
+    },
+    {
+      "start": 955.92,
+      "duration": 5.0,
+      "text": "is cost you an LLM tokens and a"
+    },
+    {
+      "start": 958.48,
+      "duration": 5.64,
+      "text": "processing time. The extraction, the"
+    },
+    {
+      "start": 960.92,
+      "duration": 4.68,
+      "text": "resolution, the incremental updates, the"
+    },
+    {
+      "start": 964.12,
+      "duration": 3.92,
+      "text": "deduplication"
+    },
+    {
+      "start": 965.6,
+      "duration": 5.04,
+      "text": "has its own processing time and it take"
+    },
+    {
+      "start": 968.04,
+      "duration": 5.08,
+      "text": "tokens."
+    },
+    {
+      "start": 970.64,
+      "duration": 3.48,
+      "text": "But, at the end, you get a database that"
+    },
+    {
+      "start": 973.12,
+      "duration": 2.8,
+      "text": "you can"
+    },
+    {
+      "start": 974.12,
+      "duration": 5.0,
+      "text": "reuse."
+    },
+    {
+      "start": 975.92,
+      "duration": 5.96,
+      "text": "An accuracy and trust that vectors alone"
+    },
+    {
+      "start": 979.12,
+      "duration": 2.76,
+      "text": "can give you."
+    },
+    {
+      "start": 983.68,
+      "duration": 6.24,
+      "text": "This is one graph that goes with you."
+    },
+    {
+      "start": 987.16,
+      "duration": 5.24,
+      "text": "It's multi-tenant, one graph per tenant,"
+    },
+    {
+      "start": 989.92,
+      "duration": 4.72,
+      "text": "how this relation. It's incremental, you"
+    },
+    {
+      "start": 992.4,
+      "duration": 5.16,
+      "text": "update and delete."
+    },
+    {
+      "start": 994.64,
+      "duration": 6.24,
+      "text": "You don't rebuild it from scratch."
+    },
+    {
+      "start": 997.56,
+      "duration": 5.16,
+      "text": "It's efficient because you traverse and"
+    },
+    {
+      "start": 1000.88,
+      "duration": 3.52,
+      "text": "the relevant sub-graph, not the whole"
+    },
+    {
+      "start": 1002.72,
+      "duration": 4.56,
+      "text": "thing."
+    },
+    {
+      "start": 1004.4,
+      "duration": 4.56,
+      "text": "And it's fast, sub-milliseconds queries"
+    },
+    {
+      "start": 1007.28,
+      "duration": 4.52,
+      "text": "on Faculty B."
+    },
+    {
+      "start": 1008.96,
+      "duration": 6.96,
+      "text": "Add gra- Add data, add tenant, add"
+    },
+    {
+      "start": 1011.8,
+      "duration": 4.12,
+      "text": "traffic, the the graph keeps up."
+    },
+    {
+      "start": 1016.92,
+      "duration": 5.56,
+      "text": "Okay. So, everything I've shown you"
+    },
+    {
+      "start": 1019.84,
+      "duration": 4.56,
+      "text": "until now runs on one engine, Faculty B,"
+    },
+    {
+      "start": 1022.48,
+      "duration": 4.28,
+      "text": "the graph database. It's including the"
+    },
+    {
+      "start": 1024.4,
+      "duration": 5.52,
+      "text": "vector search, the full text, like I"
+    },
+    {
+      "start": 1026.76,
+      "duration": 5.12,
+      "text": "told you, and all runs on Graph Blast"
+    },
+    {
+      "start": 1029.92,
+      "duration": 5.04,
+      "text": "and in milliseconds. Let me show you"
+    },
+    {
+      "start": 1031.88,
+      "duration": 7.56,
+      "text": "three more use cases that we at Faculty"
+    },
+    {
+      "start": 1034.96,
+      "duration": 6.92,
+      "text": "B built with AI to solve problems."
+    },
+    {
+      "start": 1039.44,
+      "duration": 4.8,
+      "text": "Um"
+    },
+    {
+      "start": 1041.88,
+      "duration": 3.28,
+      "text": "The fifth use case is your own code"
+    },
+    {
+      "start": 1044.24,
+      "duration": 4.08,
+      "text": "base."
+    },
+    {
+      "start": 1045.16,
+      "duration": 4.8,
+      "text": "Point code graph at any repo and it"
+    },
+    {
+      "start": 1048.32,
+      "duration": 2.6,
+      "text": "turns your code base into a knowledge"
+    },
+    {
+      "start": 1049.96,
+      "duration": 3.92,
+      "text": "graph."
+    },
+    {
+      "start": 1050.92,
+      "duration": 5.76,
+      "text": "Modules, classes, functions connected by"
+    },
+    {
+      "start": 1053.88,
+      "duration": 5.96,
+      "text": "calls, inheritance, depends on."
+    },
+    {
+      "start": 1056.68,
+      "duration": 6.4,
+      "text": "You can trace code, run impact analysis,"
+    },
+    {
+      "start": 1059.84,
+      "duration": 5.68,
+      "text": "and literally chat with your code base."
+    },
+    {
+      "start": 1063.08,
+      "duration": 4.44,
+      "text": "And it ships an MCP server, so Cloud"
+    },
+    {
+      "start": 1065.52,
+      "duration": 5.32,
+      "text": "Code and Cursur"
+    },
+    {
+      "start": 1067.52,
+      "duration": 7.08,
+      "text": "can query it directly. Think of it."
+    },
+    {
+      "start": 1070.84,
+      "duration": 8.2,
+      "text": "Your code base as an architecture of"
+    },
+    {
+      "start": 1074.6,
+      "duration": 4.44,
+      "text": "uh graph. Calls, functions, models."
+    },
+    {
+      "start": 1080.28,
+      "duration": 2.84,
+      "text": "Query Weaver"
+    },
+    {
+      "start": 1083.52,
+      "duration": 5.56,
+      "text": "is is open source text to SQL."
+    },
+    {
+      "start": 1086.08,
+      "duration": 5.64,
+      "text": "You ask your existing MySQL or Postgres"
+    },
+    {
+      "start": 1089.08,
+      "duration": 3.88,
+      "text": "database a question in plain English."
+    },
+    {
+      "start": 1091.72,
+      "duration": 4.32,
+      "text": "The trick is"
+    },
+    {
+      "start": 1092.96,
+      "duration": 4.92,
+      "text": "graph semantic layer. We basically take"
+    },
+    {
+      "start": 1096.04,
+      "duration": 4.52,
+      "text": "your relational schema uh relational"
+    },
+    {
+      "start": 1097.88,
+      "duration": 5.92,
+      "text": "database schema and represent it as a"
+    },
+    {
+      "start": 1100.56,
+      "duration": 5.28,
+      "text": "semantic layer on the graph."
+    },
+    {
+      "start": 1103.8,
+      "duration": 4.8,
+      "text": "What we can achieve with that that when"
+    },
+    {
+      "start": 1105.84,
+      "duration": 6.2,
+      "text": "you ask question, we can retrieve sub"
+    },
+    {
+      "start": 1108.6,
+      "duration": 6.96,
+      "text": "graph of your schema, give it to the LLM"
+    },
+    {
+      "start": 1112.04,
+      "duration": 5.32,
+      "text": "in order to create SQL query."
+    },
+    {
+      "start": 1115.56,
+      "duration": 3.08,
+      "text": "For example, if you have"
+    },
+    {
+      "start": 1117.36,
+      "duration": 3.12,
+      "text": "table"
+    },
+    {
+      "start": 1118.64,
+      "duration": 3.96,
+      "text": "one and table two, and your question"
+    },
+    {
+      "start": 1120.48,
+      "duration": 4.4,
+      "text": "talking about this table, but in order"
+    },
+    {
+      "start": 1122.6,
+      "duration": 4.68,
+      "text": "to create complete SQL, you need a"
+    },
+    {
+      "start": 1124.88,
+      "duration": 4.92,
+      "text": "connection table that semantic not"
+    },
+    {
+      "start": 1127.28,
+      "duration": 4.0,
+      "text": "connecting uh or similar to your"
+    },
+    {
+      "start": 1129.8,
+      "duration": 3.24,
+      "text": "question."
+    },
+    {
+      "start": 1131.28,
+      "duration": 2.92,
+      "text": "Only if if you have the route between"
+    },
+    {
+      "start": 1133.04,
+      "duration": 2.92,
+      "text": "this table,"
+    },
+    {
+      "start": 1134.2,
+      "duration": 5.0,
+      "text": "you can understand it."
+    },
+    {
+      "start": 1135.96,
+      "duration": 5.56,
+      "text": "And you can use it without all schema."
+    },
+    {
+      "start": 1139.2,
+      "duration": 5.92,
+      "text": "Maybe your schema is large and you can"
+    },
+    {
+      "start": 1141.52,
+      "duration": 3.6,
+      "text": "get it into the context window."
+    },
+    {
+      "start": 1145.44,
+      "duration": 6.04,
+      "text": "And finally, memory to your agent."
+    },
+    {
+      "start": 1149.04,
+      "duration": 4.8,
+      "text": "Agent forget anything between sessions."
+    },
+    {
+      "start": 1151.48,
+      "duration": 5.92,
+      "text": "Give them graph memory and their memory"
+    },
+    {
+      "start": 1153.84,
+      "duration": 5.68,
+      "text": "becomes relationship instead of a flat"
+    },
+    {
+      "start": 1157.4,
+      "duration": 3.72,
+      "text": "text. Alice"
+    },
+    {
+      "start": 1159.52,
+      "duration": 2.68,
+      "text": "follows diet vegan."
+    },
+    {
+      "start": 1161.12,
+      "duration": 3.36,
+      "text": "Alice"
+    },
+    {
+      "start": 1162.2,
+      "duration": 5.48,
+      "text": "lives in London."
+    },
+    {
+      "start": 1164.48,
+      "duration": 5.76,
+      "text": "Now the agent can reason across facts,"
+    },
+    {
+      "start": 1167.68,
+      "duration": 4.36,
+      "text": "not just retrieve them."
+    },
+    {
+      "start": 1170.24,
+      "duration": 4.04,
+      "text": "And it's sub-milliseconds."
+    },
+    {
+      "start": 1172.04,
+      "duration": 5.6,
+      "text": "It plugs into Graphity, Cogney, Mem"
+    },
+    {
+      "start": 1174.28,
+      "duration": 3.36,
+      "text": "Zero, and LangChain."
+    },
+    {
+      "start": 1178.52,
+      "duration": 4.6,
+      "text": "Okay, wrap it up."
+    },
+    {
+      "start": 1180.56,
+      "duration": 4.0,
+      "text": "The system that I've shown you today"
+    },
+    {
+      "start": 1183.12,
+      "duration": 6.36,
+      "text": "leverages the powerful graph"
+    },
+    {
+      "start": 1184.56,
+      "duration": 4.92,
+      "text": "capabilities to solve problems with AI."
+    },
+    {
+      "start": 1190.76,
+      "duration": 4.28,
+      "text": "All run on Faculty B, a graph engine,"
+    },
+    {
+      "start": 1193.72,
+      "duration": 4.16,
+      "text": "and"
+    },
+    {
+      "start": 1195.04,
+      "duration": 3.84,
+      "text": "the use cases are connected here in this"
+    },
+    {
+      "start": 1197.88,
+      "duration": 2.8,
+      "text": "uh slide."
+    },
+    {
+      "start": 1198.88,
+      "duration": 3.32,
+      "text": "It's open source."
+    },
+    {
+      "start": 1200.68,
+      "duration": 4.4,
+      "text": "Go try it."
+    },
+    {
+      "start": 1202.2,
+      "duration": 5.48,
+      "text": "You can use it with Docker and run it"
+    },
+    {
+      "start": 1205.08,
+      "duration": 6.64,
+      "text": "and we you don't need to pay anything."
+    },
+    {
+      "start": 1207.68,
+      "duration": 4.04,
+      "text": "Just use it without limitation."
+    },
+    {
+      "start": 1212.56,
+      "duration": 2.84,
+      "text": "Thank you."
+    },
+    {
+      "start": 1213.72,
+      "duration": 4.2,
+      "text": "This is the QR code for the Graph AI"
+    },
+    {
+      "start": 1215.4,
+      "duration": 3.57,
+      "text": "SDK. I will be around for your"
+    },
+    {
+      "start": 1217.92,
+      "duration": 3.07,
+      "text": "questions."
+    },
+    {
+      "start": 1218.97,
+      "duration": 2.02,
+      "text": ">> [applause]"
+    },
+    {
+      "start": 1236.16,
+      "duration": 4.6,
+      "text": ">> Okay, just quick announcement for people"
+    },
+    {
+      "start": 1238.96,
+      "duration": 3.8,
+      "text": "who may have questions. In order for you"
+    },
+    {
+      "start": 1240.76,
+      "duration": 4.2,
+      "text": "to ask the questions, you have to submit"
+    },
+    {
+      "start": 1242.76,
+      "duration": 4.36,
+      "text": "them through the app. You will see a"
+    },
+    {
+      "start": 1244.96,
+      "duration": 4.44,
+      "text": "section where you can submit questions."
+    },
+    {
+      "start": 1247.12,
+      "duration": 2.68,
+      "text": "But I have two questions for you."
+    },
+    {
+      "start": 1249.4,
+      "duration": 3.72,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1249.8,
+      "duration": 6.16,
+      "text": ">> So one is from Johan. He says, \"I see"
+    },
+    {
+      "start": 1253.12,
+      "duration": 5.92,
+      "text": "vector databases are all are all over."
+    },
+    {
+      "start": 1255.96,
+      "duration": 4.48,
+      "text": "What does Falcon do better?\""
+    },
+    {
+      "start": 1259.04,
+      "duration": 3.81,
+      "text": ">> I can answer it, but I want to do a"
+    },
+    {
+      "start": 1260.44,
+      "duration": 4.32,
+      "text": "selfie before."
+    },
+    {
+      "start": 1262.85,
+      "duration": 2.55,
+      "text": ">> [laughter]"
+    },
+    {
+      "start": 1264.76,
+      "duration": 2.72,
+      "text": ">> With you."
+    },
+    {
+      "start": 1265.4,
+      "duration": 2.08,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1271.32,
+      "duration": 3.0,
+      "text": ">> Okay."
+    },
+    {
+      "start": 1272.76,
+      "duration": 4.76,
+      "text": "Um"
+    },
+    {
+      "start": 1274.32,
+      "duration": 7.2,
+      "text": "What Faulko do better?"
+    },
+    {
+      "start": 1277.52,
+      "duration": 4.72,
+      "text": "So, vector vector database are simple."
+    },
+    {
+      "start": 1281.52,
+      "duration": 3.36,
+      "text": "Uh"
+    },
+    {
+      "start": 1282.24,
+      "duration": 5.52,
+      "text": "it's cheap. You just put your documents,"
+    },
+    {
+      "start": 1284.88,
+      "duration": 5.12,
+      "text": "create vectors from each chunk, and"
+    },
+    {
+      "start": 1287.76,
+      "duration": 5.04,
+      "text": "simple to to run it."
+    },
+    {
+      "start": 1290.0,
+      "duration": 5.08,
+      "text": "What Faulko DB brings and graph database"
+    },
+    {
+      "start": 1292.8,
+      "duration": 3.56,
+      "text": "brings is the connection between these"
+    },
+    {
+      "start": 1295.08,
+      "duration": 4.0,
+      "text": "chunks."
+    },
+    {
+      "start": 1296.36,
+      "duration": 4.4,
+      "text": "Now, with graph, you can connect with"
+    },
+    {
+      "start": 1299.08,
+      "duration": 2.28,
+      "text": "entities,"
+    },
+    {
+      "start": 1300.76,
+      "duration": 3.56,
+      "text": "um"
+    },
+    {
+      "start": 1301.36,
+      "duration": 4.92,
+      "text": "and you you also connect the the chunks."
+    },
+    {
+      "start": 1304.32,
+      "duration": 4.2,
+      "text": "The the simplest way is you connect the"
+    },
+    {
+      "start": 1306.28,
+      "duration": 3.36,
+      "text": "chunks. And now you can walk on the"
+    },
+    {
+      "start": 1308.52,
+      "duration": 3.4,
+      "text": "chunks."
+    },
+    {
+      "start": 1309.64,
+      "duration": 4.92,
+      "text": "Um"
+    },
+    {
+      "start": 1311.92,
+      "duration": 6.28,
+      "text": "So, basically, Faulko DB brings the"
+    },
+    {
+      "start": 1314.56,
+      "duration": 5.24,
+      "text": "vector DB into graph. So, you have the"
+    },
+    {
+      "start": 1318.2,
+      "duration": 3.28,
+      "text": "vector"
+    },
+    {
+      "start": 1319.8,
+      "duration": 3.68,
+      "text": "uh index in them."
+    },
+    {
+      "start": 1321.48,
+      "duration": 3.32,
+      "text": "And you can use the"
+    },
+    {
+      "start": 1323.48,
+      "duration": 3.0,
+      "text": "the edges"
+    },
+    {
+      "start": 1324.8,
+      "duration": 3.2,
+      "text": "For example, for example, about the"
+    },
+    {
+      "start": 1326.48,
+      "duration": 4.24,
+      "text": "Query Weaver,"
+    },
+    {
+      "start": 1328.0,
+      "duration": 4.04,
+      "text": "uh you can like store your schema as a"
+    },
+    {
+      "start": 1330.72,
+      "duration": 4.64,
+      "text": "vector DB."
+    },
+    {
+      "start": 1332.04,
+      "duration": 5.32,
+      "text": "But let's say you want a table that has"
+    },
+    {
+      "start": 1335.36,
+      "duration": 4.64,
+      "text": "connection to a uh with with a business"
+    },
+    {
+      "start": 1337.36,
+      "duration": 5.12,
+      "text": "logic to other table or other"
+    },
+    {
+      "start": 1340.0,
+      "duration": 4.64,
+      "text": "information. Now, when you extract"
+    },
+    {
+      "start": 1342.48,
+      "duration": 4.04,
+      "text": "knowledge, it it came with the"
+    },
+    {
+      "start": 1344.64,
+      "duration": 4.16,
+      "text": "connection, and you can extract the"
+    },
+    {
+      "start": 1346.52,
+      "duration": 4.04,
+      "text": "knowledge to complete the information"
+    },
+    {
+      "start": 1348.8,
+      "duration": 6.04,
+      "text": "that LLM need"
+    },
+    {
+      "start": 1350.56,
+      "duration": 6.28,
+      "text": "uh needs to create the sequel."
+    },
+    {
+      "start": 1354.84,
+      "duration": 3.52,
+      "text": "I hope that"
+    },
+    {
+      "start": 1356.84,
+      "duration": 4.44,
+      "text": ">> I hope that answered the question, too."
+    },
+    {
+      "start": 1358.36,
+      "duration": 5.68,
+      "text": "So, the second question is from Thomas,"
+    },
+    {
+      "start": 1361.28,
+      "duration": 5.8,
+      "text": "and then he says, \"How can graph handle"
+    },
+    {
+      "start": 1364.04,
+      "duration": 5.16,
+      "text": "restrict restricted information if not"
+    },
+    {
+      "start": 1367.08,
+      "duration": 3.52,
+      "text": "every user is allowed to access every"
+    },
+    {
+      "start": 1369.2,
+      "duration": 2.68,
+      "text": "document?\""
+    },
+    {
+      "start": 1370.6,
+      "duration": 3.36,
+      "text": ">> Can you repeat that?"
+    },
+    {
+      "start": 1371.88,
+      "duration": 5.04,
+      "text": ">> How can graph handle restricted"
+    },
+    {
+      "start": 1373.96,
+      "duration": 5.6,
+      "text": "information if not every user is allowed"
+    },
+    {
+      "start": 1376.92,
+      "duration": 3.76,
+      "text": "to access every document?"
+    },
+    {
+      "start": 1379.56,
+      "duration": 2.32,
+      "text": ">> Okay."
+    },
+    {
+      "start": 1380.68,
+      "duration": 2.32,
+      "text": "Thomas."
+    },
+    {
+      "start": 1381.88,
+      "duration": 3.36,
+      "text": "Um"
+    },
+    {
+      "start": 1383.0,
+      "duration": 6.32,
+      "text": "good question."
+    },
+    {
+      "start": 1385.24,
+      "duration": 5.84,
+      "text": "Uh, yeah, Thomas. No, yeah, Thomas. Uh,"
+    },
+    {
+      "start": 1389.32,
+      "duration": 5.04,
+      "text": "you can uh,"
+    },
+    {
+      "start": 1391.08,
+      "duration": 5.92,
+      "text": "you can create user management and"
+    },
+    {
+      "start": 1394.36,
+      "duration": 7.2,
+      "text": "create different graphs to be different"
+    },
+    {
+      "start": 1397.0,
+      "duration": 5.84,
+      "text": "user and split like restrict usage"
+    },
+    {
+      "start": 1401.56,
+      "duration": 5.04,
+      "text": "between them."
+    },
+    {
+      "start": 1402.84,
+      "duration": 5.6,
+      "text": "Uh, we at Faculty B have this ability."
+    },
+    {
+      "start": 1406.6,
+      "duration": 5.32,
+      "text": "Uh, I will state with you, I didn't"
+    },
+    {
+      "start": 1408.44,
+      "duration": 6.16,
+      "text": "build it. Uh, but we have the ability to"
+    },
+    {
+      "start": 1411.92,
+      "duration": 5.04,
+      "text": "create restriction between graphs."
+    },
+    {
+      "start": 1414.6,
+      "duration": 4.2,
+      "text": "Uh, single connection to Faculty B with"
+    },
+    {
+      "start": 1416.96,
+      "duration": 3.64,
+      "text": "single single database, you have"
+    },
+    {
+      "start": 1418.8,
+      "duration": 4.2,
+      "text": "multi-tenancy. So, you can create graphs"
+    },
+    {
+      "start": 1420.6,
+      "duration": 5.08,
+      "text": "and graphs and graphs and you can choose"
+    },
+    {
+      "start": 1423.0,
+      "duration": 4.24,
+      "text": "which graph is allowed to which users."
+    },
+    {
+      "start": 1425.68,
+      "duration": 4.44,
+      "text": "Also,"
+    },
+    {
+      "start": 1427.24,
+      "duration": 4.88,
+      "text": "I saw uh, use cases when you namespacing"
+    },
+    {
+      "start": 1430.12,
+      "duration": 3.68,
+      "text": "and know a knowledge into the in the"
+    },
+    {
+      "start": 1432.12,
+      "duration": 3.64,
+      "text": "knowledge graph and when you retrieve"
+    },
+    {
+      "start": 1433.8,
+      "duration": 4.8,
+      "text": "them, you filter it based on the on the"
+    },
+    {
+      "start": 1435.76,
+      "duration": 7.68,
+      "text": "user. But, we at Faculty B believe full"
+    },
+    {
+      "start": 1438.6,
+      "duration": 4.84,
+      "text": "isolation is the is the way to solve it."
+    }
+  ]
+}
