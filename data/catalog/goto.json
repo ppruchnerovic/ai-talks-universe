@@ -1,7 +1,7 @@
 {
   "slug": "goto",
   "name": "GOTO Conferences",
-  "enumerated_at": "2026-10-23T04:02:37+00:00",
+  "enumerated_at": "2026-11-03T17:42:35+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@GOTO-/videos",
@@ -10,7 +10,7 @@
       "count": 800
     }
   ],
-  "count": 808,
+  "count": 819,
   "videos": {
     "-5kK50d-duc": {
       "video_id": "-5kK50d-duc",
@@ -6825,6 +6825,15 @@
       ],
       "details_at": "2026-09-06T13:23:56+00:00"
     },
+    "DhmcJK2nCK0": {
+      "video_id": "DhmcJK2nCK0",
+      "title": "Separate Protocol Logic from I/O for Deterministic Tests • Somtochi Onyekwere • Bug Bash EU 2026",
+      "duration_s": 1204,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "DnSogTnJlqk": {
       "video_id": "DnSogTnJlqk",
       "title": "Wardley Mapping Strategy at BigCorp – A True Story • Erik Schoen • GOTO 2023",
@@ -7644,6 +7653,15 @@
       ],
       "details_at": "2026-09-06T13:23:56+00:00"
     },
+    "FjRu48yhg2E": {
+      "video_id": "FjRu48yhg2E",
+      "title": "Middle Management for Robots: How My Team Ships Software with OpenClaw • Cedric Hurst • GOTO 2026",
+      "duration_s": 2456,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "FmmKRkUverw": {
       "video_id": "FmmKRkUverw",
       "title": "Serverless & Agentic AI: Better Together • Prashanth HN • GOTO 2025",
@@ -7831,6 +7849,15 @@
         "Storytelling"
       ],
       "details_at": "2026-09-06T13:23:56+00:00"
+    },
+    "GFjSbjRU-es": {
+      "video_id": "GFjSbjRU-es",
+      "title": "AI-Friendly Code: The Missing Link for Speed with Quality • Adam Tornhill • GOTO Copenhagen 2026",
+      "duration_s": null,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "GKooySZftCk": {
       "video_id": "GKooySZftCk",
@@ -18861,6 +18888,39 @@
       ],
       "details_at": "2026-09-06T13:23:57+00:00"
     },
+    "ds9np_fgI-U": {
+      "video_id": "ds9np_fgI-U",
+      "title": "Formal Methods & AI for Reliable Databases • Anatoliy Bilenko & AlbertoCarretero • Bug Bash EU 2026",
+      "duration_s": 2052,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos",
+      "description": "This presentation was recorded at Bug Bash EU 2026.\nhttps://antithesis.com/bugbash/europe/2026/\n\nAnatoliy Bilenko - Staff Engineer at Canonical\nAlberto Carretero - Software Engineer at Canonical\n\nORIGINAL TALK TITLE\nBuilding a Reliable Database Protocol with AI, Formal Methods, and a\nSimulation Framework\n\nRESOURCES\nAnatoliy\nhttps://www.linkedin.com/in/anatoliy-bilenko\n\nAlberto\nhttps://www.linkedin.com/in/angel-alberto-carretero\n\nABSTRACT\nBuilding a critical distributed protocol in 2026 means treating correctness as a continuous engineering practice, not a final verification step.\n\nThis talk presents a workflow that combines executable state-machine designs and formal methods with AI-assisted development, observability, and Antithesis testing.\n\nThe goal is to move from a protocol model to evidence from real-system executions: expose meaningful events, generate and investigate failure scenarios, and use code together with observability data to validate distributed properties that code alone cannot reveal. [...]\n\nBluesky • Instagram • LinkedIn\nhttps://bsky.app/profile/gotocon.com\nhttps://www.linkedin.com/company/goto-\nhttps://www.instagram.com/goto_con\n#\n\nCHANNEL MEMBERSHIP BONUS\nJoin this channel to get early access to videos & other perks:\nhttps://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA/join\n\nLooking for a unique learning experience?\nAttend the next GOTO conference near you! Get your ticket at https://gotopia.tech\n\nSUBSCRIBE TO OUR CHANNEL - new videos posted almost daily!\n\n#FormalMethods #DistributedSystems #Databases #Testing #BugBash",
+      "published_at": "2026-10-23T07:00:12Z",
+      "tags": [
+        "GOTO",
+        "GOTOcon",
+        "GOTO Conference",
+        "GOTO (Software Conference)",
+        "Videos for Developers",
+        "Computer Science",
+        "Programming",
+        "Software Engineering",
+        "GOTOpia",
+        "Tech",
+        "Software Development",
+        "Tech Channel",
+        "Tech Conference",
+        "Today in Tech",
+        "Formal Methods",
+        "Distributed Systems",
+        "Databases",
+        "Testing",
+        "BugBash"
+      ],
+      "details_at": "2026-11-03T17:46:23+00:00"
+    },
     "dy0jyGtU9NI": {
       "video_id": "dy0jyGtU9NI",
       "title": "The Rush to Adopt AI: How to Get it Right & Business Risks • Nick Selby & Sarah Wells",
@@ -19509,6 +19569,15 @@
       ],
       "details_at": "2026-08-31T15:35:21+00:00"
     },
+    "fDdAgexp_bU": {
+      "video_id": "fDdAgexp_bU",
+      "title": "The Augmented Forest • Kent Beck• GOTO Copenhagen 2026",
+      "duration_s": 3066,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "fJVKnN53Kp4": {
       "video_id": "fJVKnN53Kp4",
       "title": "Conceptualisation • Michael Feathers • YOW! 2025",
@@ -19618,6 +19687,40 @@
         "Similarity Search"
       ],
       "details_at": "2026-09-06T13:23:57+00:00"
+    },
+    "fYCKMxa59w8": {
+      "video_id": "fYCKMxa59w8",
+      "title": "The Validation-First Loop: Ship Production Code with AI Coding Assistants • Cole Medin • GOTO 2026",
+      "duration_s": 1774,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos",
+      "description": "This presentation was recorded at GOTO Chicago 2026. #GOTOcon #GOTOchgo\nhttps://gotochgo.com\n\nCole Medin - Founder of Dynamous AI @ColeMedin \n\nFULL TALK TITLE\nThe Validation-First Loop: How to Ship Production Code with AI Coding Assistants\n\nRESOURCES\nhttps://twitter.com/cole_medin\nhttps://github.com/coleam00\nhttps://www.linkedin.com/in/cole-medin-727752184\n\nABSTRACT\nCole Medin is a tech leader and educator who leverages AI to solve real business problems. He has built and scaled AI solutions across multiple ventures - from custom agent architectures to enterprise RAG systems and local AI deployments.\n\nHis biggest passion is teaching other engineers how to leverage AI effectively. He runs a private AI community and a YouTube channel that breaks down complex AI concepts into practical, hands-on guides and courses. Cole's content and training cover both building AI agents and leveraging AI coding assistants in ways that truly scale. [...]\n\nTIMECODES\n00:00 Intro\n\nDownload slides and read the full abstract here:\nhttps://gotochgo.com/accelerate-chicago-2026/sessions/3994\n\nRECOMMENDED BOOKS\nLinda Rising • Design Patterns in Communications Software • https://amzn.to/2XsxDCg\nDaniel Kahneman • Thinking, Fast and Slow • https://amzn.to/2XmJEtf\nDan Ariely • Predictably Irrational • https://amzn.to/3lyDBd7\nNir Eyal • Indistractable • https://amzn.to/3EE3Pn9\nEckhart Tolle • The Power of Now • https://amzn.to/39yjS7r\n\nhttps://bsky.app/profile/gotocon.com\nhttps://www.linkedin.com/company/goto-\nhttps://www.instagram.com/goto_con\n#AI #ArtificialIntelligence #AIEngineering #QualityEngineering #Programming #TodayInTech #SoftwareEngineering #ColeMedin #GOTO\n\nCHANNEL MEMBERSHIP BONUS\nJoin this channel to get early access to videos & other perks:\nhttps://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA/join\n\nLooking for a unique learning experience?\nAttend the next GOTO conference near you! Get your ticket at https://gotopia.tech\nSign up for updates and specials at https://gotopia.tech/newsletter\n\nSUBSCRIBE TO OUR CHANNEL - new videos posted almost daily.\nhttps://www.youtube.com/user/GotoConferences/?sub_confirmation=1",
+      "published_at": "2026-10-26T10:45:57Z",
+      "tags": [
+        "GOTO",
+        "GOTOcon",
+        "GOTO Conference",
+        "GOTO (Software Conference)",
+        "Videos for Developers",
+        "Computer Science",
+        "Programming",
+        "Software Engineering",
+        "GOTOpia",
+        "Tech",
+        "Software Development",
+        "Tech Channel",
+        "Tech Conference",
+        "Today in Tech",
+        "GOTOchgo",
+        "GOTO Chicago",
+        "AI Engineering",
+        "Cole Medin",
+        "Quality Engineering",
+        "AI"
+      ],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "fYWvTYFmVYs": {
       "video_id": "fYWvTYFmVYs",
@@ -19979,6 +20082,15 @@
         "OCaml"
       ],
       "details_at": "2026-09-06T13:23:57+00:00"
+    },
+    "gINXSCYTC0A": {
+      "video_id": "gINXSCYTC0A",
+      "title": "From Unit Tests to Synthetic Canaries at Netflix • William Schor • Bug Bash EU 2026",
+      "duration_s": 1354,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "gLMe85XyXhI": {
       "video_id": "gLMe85XyXhI",
@@ -20730,6 +20842,15 @@
         "Spotify Backstage"
       ],
       "details_at": "2026-09-06T13:23:57+00:00"
+    },
+    "iXD6NvG8k7A": {
+      "video_id": "iXD6NvG8k7A",
+      "title": "Verifying Code That Calls Code You Can't Trust • Sophia Drossopoulou • Bug Bash EU 2026",
+      "duration_s": 2404,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "ia60rF-nR2I": {
       "video_id": "ia60rF-nR2I",
@@ -22348,6 +22469,15 @@
         "Today in Tech"
       ],
       "details_at": "2026-09-06T13:23:58+00:00"
+    },
+    "mdIiq50zFKo": {
+      "video_id": "mdIiq50zFKo",
+      "title": "Deterministic Orchestration for Systems You Can't Predict • Eric Johnson • GOTO 2026",
+      "duration_s": 2547,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "mfWRYv2V71k": {
       "video_id": "mfWRYv2V71k",
@@ -24960,6 +25090,15 @@
       ],
       "details_at": "2026-09-06T13:23:58+00:00"
     },
+    "s8zmmxHCKXg": {
+      "video_id": "s8zmmxHCKXg",
+      "title": "Velocity Through Rigour: Then & Now • Cate Huston • Bug Bash EU 2026",
+      "duration_s": 2353,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "sDLGB6VWrDg": {
       "video_id": "sDLGB6VWrDg",
       "title": "Architecture Modernization • Nick Tune & Eduardo da Sliva • GOTO 2024",
@@ -26126,6 +26265,15 @@
         "Serverless"
       ],
       "details_at": "2026-09-06T13:23:58+00:00"
+    },
+    "ucaLq-xDHKA": {
+      "video_id": "ucaLq-xDHKA",
+      "title": "Grokking Software Architecture • Matt Erman & Luca Mezzalira • GOTO 2026",
+      "duration_s": 2111,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "ufS2OqhLUxI": {
       "video_id": "ufS2OqhLUxI",

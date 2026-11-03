@@ -1,7 +1,7 @@
 {
   "slug": "pydata",
   "name": "PyData",
-  "enumerated_at": "2026-10-23T04:02:02+00:00",
+  "enumerated_at": "2026-11-03T17:41:53+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLGVZCDnMOq0qmerwB1eITnr5AfYRGm0DF",
@@ -16,7 +16,7 @@
       "count": 600
     }
   ],
-  "count": 615,
+  "count": 625,
   "videos": {
     "-2iBKx2O9ls": {
       "video_id": "-2iBKx2O9ls",
@@ -3591,6 +3591,15 @@
       ],
       "details_at": "2026-08-31T15:35:29+00:00"
     },
+    "CrkJGtj8rrU": {
+      "video_id": "CrkJGtj8rrU",
+      "title": "PyData Chicago Meet-Up: Oct 22, 2026",
+      "duration_s": 3085,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
+    },
     "CsyYagFbc1Q": {
       "video_id": "CsyYagFbc1Q",
       "title": "Clinton Oyogo-Engineering Large-scale geospatial raster processing with xarray + dask-PyData Global",
@@ -4589,6 +4598,34 @@
         "scientific programming"
       ],
       "details_at": "2026-09-06T13:24:02+00:00"
+    },
+    "HWkTTRiBxMI": {
+      "video_id": "HWkTTRiBxMI",
+      "title": "Local AI Agents on Modest Hardware | Garry Capps",
+      "duration_s": 1686,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos",
+      "description": "This talk explores local agentic AI, from full agent harnesses running capable 27-billion-parameter models to micro-agentic systems that accomplish useful work with remarkably little computing power. It covers practical hardware, model compression, inference runtimes, context management, privacy, cost, and what useful autonomous computing can do on modest machines.",
+      "published_at": "2026-10-25T19:23:48Z",
+      "tags": [
+        "Python",
+        "Tutorial",
+        "Education",
+        "NumFOCUS",
+        "PyData",
+        "Opensource",
+        "learn",
+        "software",
+        "python 3",
+        "Julia",
+        "coding",
+        "learn to code",
+        "how to program",
+        "scientific programming"
+      ],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "HYqv1Dn-6_w": {
       "video_id": "HYqv1Dn-6_w",
@@ -6863,6 +6900,15 @@
       ],
       "details_at": "2026-09-06T13:24:02+00:00"
     },
+    "P7rOy0sfidU": {
+      "video_id": "P7rOy0sfidU",
+      "title": "Katrina Riehl: From Fruit Flies to Python | Give Me 5",
+      "duration_s": 383,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
+    },
     "PEJakKxVh1c": {
       "video_id": "PEJakKxVh1c",
       "title": "Building Secure Environments for CLI Code Agents [PyCon DE & PyData 2026]",
@@ -8916,6 +8962,34 @@
       ],
       "details_at": "2026-08-31T15:35:30+00:00"
     },
+    "Y3qlj4vTNxg": {
+      "video_id": "Y3qlj4vTNxg",
+      "title": "How LLMs Recall | Ayoub Ghriss",
+      "duration_s": 2454,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos",
+      "description": "This talk dives into the attention mechanism and how large language models use it to retrieve information.",
+      "published_at": "2026-10-25T19:24:03Z",
+      "tags": [
+        "Python",
+        "Tutorial",
+        "Education",
+        "NumFOCUS",
+        "PyData",
+        "Opensource",
+        "learn",
+        "software",
+        "python 3",
+        "Julia",
+        "coding",
+        "learn to code",
+        "how to program",
+        "scientific programming"
+      ],
+      "details_at": "2026-11-03T17:46:23+00:00"
+    },
     "YDBbwwrByk4": {
       "video_id": "YDBbwwrByk4",
       "title": "Domagoj Marić - Modern Web Data Extraction: Techniques, Tools, Legal and Ethical Considerations",
@@ -10932,6 +11006,15 @@
       ],
       "details_at": "2026-08-31T15:35:30+00:00"
     },
+    "dPiNDNU-pgE": {
+      "video_id": "dPiNDNU-pgE",
+      "title": "Airflow for Geospatial Pipelines | Kevin Lai",
+      "duration_s": 1423,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
+    },
     "dYt_fabaK60": {
       "video_id": "dYt_fabaK60",
       "title": "Tom Augspurger - GPU Accelerated Zarr - PyData Global 2025",
@@ -12066,6 +12149,15 @@
       ],
       "details_at": "2026-08-31T15:35:30+00:00"
     },
+    "jIwXX50PPRc": {
+      "video_id": "jIwXX50PPRc",
+      "title": "From Zero to Cloud in 30 Minutes | Kyle Cunningham",
+      "duration_s": 2103,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
+    },
     "jLo-fyKuEjQ": {
       "video_id": "jLo-fyKuEjQ",
       "title": "Geert Jongen - From Data Lake Entanglement to Data Mesh Decoupling: Scaling...-PyData Eindhoven 2025",
@@ -12943,6 +13035,15 @@
       ],
       "details_at": "2026-08-31T15:35:30+00:00"
     },
+    "lv8R8Ym14pU": {
+      "video_id": "lv8R8Ym14pU",
+      "title": "Lifetimes in the Wild: How Reaper's Rust Editor Backend uses 'a without fear | Asha Somayajula",
+      "duration_s": 1750,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
+    },
     "lwTfY3Eh1dw": {
       "video_id": "lwTfY3Eh1dw",
       "title": "Embedding Data Science in IoT devices with MicroPython and emlearn [PyCon DE & PyData 2026]",
@@ -13103,6 +13204,34 @@
         "scientific programming"
       ],
       "details_at": "2026-08-31T15:35:30+00:00"
+    },
+    "m9HJkFvHeRk": {
+      "video_id": "m9HJkFvHeRk",
+      "title": "Beyond RAG: Designing AI Agent Playbooks for Complex Customer Support | Akshay Danthi",
+      "duration_s": 1667,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos",
+      "description": "RAG can retrieve information and generate answers, but complex customer support cases often require understanding underlying problems, identifying resolution steps, and executing backend actions. This session explores multi-stage LLM analysis, actionable playbooks, agent evaluation, capability gaps, and balancing accuracy, cost, and scalability.",
+      "published_at": "2026-10-25T19:24:10Z",
+      "tags": [
+        "Python",
+        "Tutorial",
+        "Education",
+        "NumFOCUS",
+        "PyData",
+        "Opensource",
+        "learn",
+        "software",
+        "python 3",
+        "Julia",
+        "coding",
+        "learn to code",
+        "how to program",
+        "scientific programming"
+      ],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "mCdqcaiWt4Q": {
       "video_id": "mCdqcaiWt4Q",
@@ -15771,6 +15900,15 @@
       ],
       "details_at": "2026-08-31T15:35:30+00:00"
     },
+    "vj43wVmKDo4": {
+      "video_id": "vj43wVmKDo4",
+      "title": "Backpropagation Based Systems as a Model of Human Cognition | Michael Crist",
+      "duration_s": 2634,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
+    },
     "vyhwnu5mdr4": {
       "video_id": "vyhwnu5mdr4",
       "title": "Probably Fun: Games to teach Machine Learning",
@@ -15832,6 +15970,15 @@
         "scientific programming"
       ],
       "details_at": "2026-08-31T15:35:30+00:00"
+    },
+    "wEsmayYvsAY": {
+      "video_id": "wEsmayYvsAY",
+      "title": "Comparing Promises, Observables, & Signals | Lance Finney",
+      "duration_s": 1994,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
     },
     "wG0no-mUMf0": {
       "video_id": "wG0no-mUMf0",

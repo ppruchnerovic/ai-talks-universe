@@ -1,7 +1,7 @@
 {
   "slug": "wearedevelopers",
   "name": "WeAreDevelopers World Congress",
-  "enumerated_at": "2026-10-23T04:01:16+00:00",
+  "enumerated_at": "2026-11-03T17:41:04+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@_wearedevs/videos",
@@ -17,7 +17,7 @@
       "type": "videos"
     }
   ],
-  "count": 1080,
+  "count": 1089,
   "videos": {
     "-9vwGZ02aio": {
       "video_id": "-9vwGZ02aio",
@@ -7579,6 +7579,42 @@
       ],
       "details_at": "2026-08-31T15:35:37+00:00"
     },
+    "E2x4lSgumTo": {
+      "video_id": "E2x4lSgumTo",
+      "title": "Agentic Software Engineering - Dr. Ralf S. Engelschall",
+      "duration_s": 2750,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos",
+      "description": "On this episode of Coffee with Developers we welcome Dr. Ralf S. Engelschall, CTO of msg Group, to discuss Agentic Software Engineering and how fusing engineering principles with agentic capabilities is the perfect mix.\n\nWeAreDevelopers is the global platform for developers and AI professionals to grow, connect, and lead in the age of AI. Millions of professionals use our year-round platform to build skills, explore thousands of hours of expert content, find career opportunities, and engage with a community that shares knowledge at scale. Companies partner with us to reach developers authentically, strengthening their employer brand, engaging top talent, and showcasing their products to a global network. Our flagship events in Europe, North America, and India bring together the world’s leading engineers, tech leaders, and companies. Together, we are driving the innovations that define the next era of technology.\nHead to worldcongress.dev to secure 10% with the code \"wearedevs_yt\"",
+      "published_at": "2026-10-26T09:15:10Z",
+      "tags": [
+        "conference",
+        "congress",
+        "Europe",
+        "tech",
+        "technology",
+        "IT",
+        "people",
+        "code",
+        "future",
+        "coding",
+        "programming",
+        "programmer",
+        "software",
+        "engineer",
+        "developer",
+        "developing",
+        "WeAreDevs",
+        "WeAreDevelopers",
+        "wearedevelopers",
+        "wearedevs",
+        "wearedeveloperslive",
+        "tech talks"
+      ],
+      "details_at": "2026-11-03T17:46:23+00:00"
+    },
     "E3l4pGi0Jw4": {
       "video_id": "E3l4pGi0Jw4",
       "title": "The weekly developer show: AI, Privacy & the Future of Frontend: A Deep Dive with Stefan Judis",
@@ -8273,6 +8309,15 @@
         "tech talks"
       ],
       "details_at": "2026-09-13T22:11:21+00:00"
+    },
+    "FVq3bMUmfvk": {
+      "video_id": "FVq3bMUmfvk",
+      "title": "Secure and Accessible Login Systems - Ramona Schwering",
+      "duration_s": 1479,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
     },
     "FiHga2ezzok": {
       "video_id": "FiHga2ezzok",
@@ -9785,6 +9830,15 @@
       "published_at": "2026-07-09T09:10:00+00:00",
       "session_page": "https://app.wearedevelopers.com/events/16/session/634"
     },
+    "IcJQrop5cfk": {
+      "video_id": "IcJQrop5cfk",
+      "title": "WeAreDevelopers LIVE - Your Brain Is Lying to You: Cognitive Biases in Development - Kate Astrid",
+      "duration_s": 4789,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
+    },
     "IlekqKuGBPA": {
       "video_id": "IlekqKuGBPA",
       "title": "The Limits of LLMs in Real-World Applications",
@@ -10311,6 +10365,15 @@
       ],
       "published_at": "2026-07-10T10:20:00+00:00",
       "session_page": "https://app.wearedevelopers.com/events/16/session/892"
+    },
+    "JpUqbiix8qY": {
+      "video_id": "JpUqbiix8qY",
+      "title": "Fake or News: Wordpress Dropping PHP, $10M on Tokens and Claude Finds Cures - Kate Astrid",
+      "duration_s": 249,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
     },
     "JpzlxlxaEqM": {
       "video_id": "JpzlxlxaEqM",
@@ -11077,6 +11140,15 @@
         "Google"
       ],
       "details_at": "2026-08-31T15:35:37+00:00"
+    },
+    "M5Lvhx1TUhw": {
+      "video_id": "M5Lvhx1TUhw",
+      "title": "WeAreDevelopers LIVE - Like Peas in a Pod: What Happens When People Clone Your App?",
+      "duration_s": 4579,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
     },
     "M74vomMsLRQ": {
       "video_id": "M74vomMsLRQ",
@@ -23742,6 +23814,42 @@
       ],
       "details_at": "2026-09-06T13:24:05+00:00"
     },
+    "idO6VUkNZlw": {
+      "video_id": "idO6VUkNZlw",
+      "title": "The Human Side of Software Engineering in the Age of AI - Olena Babenko",
+      "duration_s": 1787,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos",
+      "description": "On this episode of Coffee with Developers, we welcome Olena Babenko, Staff Senior Engineer at Aiven, to talk about humans are more important than ever in the age of AI.\n\n---\n\nWeAreDevelopers is the global platform for developers and AI professionals to grow, connect, and lead in the age of AI. Millions of professionals use our year-round platform to build skills, explore thousands of hours of expert content, find career opportunities, and engage with a community that shares knowledge at scale. Companies partner with us to reach developers authentically, strengthening their employer brand, engaging top talent, and showcasing their products to a global network. Our flagship events in Europe, North America, and India bring together the world’s leading engineers, tech leaders, and companies. Together, we are driving the innovations that define the next era of technology.\nHead to worldcongress.dev to secure 10% with the code \"wearedevs_yt\"",
+      "published_at": "2026-11-03T00:00:14Z",
+      "tags": [
+        "conference",
+        "congress",
+        "Europe",
+        "tech",
+        "technology",
+        "IT",
+        "people",
+        "code",
+        "future",
+        "coding",
+        "programming",
+        "programmer",
+        "software",
+        "engineer",
+        "developer",
+        "developing",
+        "WeAreDevs",
+        "WeAreDevelopers",
+        "wearedevelopers",
+        "wearedevs",
+        "wearedeveloperslive",
+        "tech talks"
+      ],
+      "details_at": "2026-11-03T17:46:23+00:00"
+    },
     "iuOlICXUsxE": {
       "video_id": "iuOlICXUsxE",
       "title": "The Talent Stage: Directing the Candidate Journey Like a Play?",
@@ -23900,6 +24008,15 @@
       "video_id": "jCX1_1cq-VQ",
       "title": "Fake or News: Poetry Malware, Slovenian Domains and Self-Checkouts",
       "duration_s": 224,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
+    },
+    "jCforkyqytw": {
+      "video_id": "jCforkyqytw",
+      "title": "Psychological Safety in Software Engineering - Jenny-Margrethe Vej and Alexandra Hou Aldershaab",
+      "duration_s": 2886,
       "channel": "WeAreDevelopers",
       "label": "WeAreDevelopers",
       "year": null,
@@ -24176,6 +24293,15 @@
       ],
       "published_at": "2026-07-10T07:40:00+00:00",
       "session_page": "https://app.wearedevelopers.com/events/16/session/844"
+    },
+    "jWCzDGd2uOg": {
+      "video_id": "jWCzDGd2uOg",
+      "title": "Forecasting Cyber Attacks with Glassdoor Reviews - Lianne Potter",
+      "duration_s": 1289,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
     },
     "jWDAL2FTYfo": {
       "video_id": "jWDAL2FTYfo",
@@ -25122,6 +25248,42 @@
         "coding"
       ],
       "details_at": "2026-08-31T15:35:39+00:00"
+    },
+    "l7cusZswpG4": {
+      "video_id": "l7cusZswpG4",
+      "title": "Building the Agentic Software Factory - Matan Grinberg and Thomas Dohmke",
+      "duration_s": 1829,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos",
+      "description": "What does building a software factory for the era of agents look like? Join Thomas Dohmke (CEO and founder, Entire) and Matan Grinberg (CEO and cofounder, Factory) to discuss how the software development lifecycle must change to adapt to a world where agents are the primary producers of code. Drawing on their respective experience across the industry building independent, model agnostic platforms, the pair will lay out a shared vision for the future: From Git hosting, to multi-agent reviews, to the end of human code review altogether.\n\nWeAreDevelopers is the global platform for developers and AI professionals to grow, connect, and lead in the age of AI. Millions of professionals use our year-round platform to build skills, explore thousands of hours of expert content, find career opportunities, and engage with a community that shares knowledge at scale. Companies partner with us to reach developers authentically, strengthening their employer brand, engaging top talent, and showcasing their products to a global network. Our flagship events in Europe, North America, and India bring together the world’s leading engineers, tech leaders, and companies. Together, we are driving the innovations that define the next era of technology.\nHead to worldcongress.dev to secure 10% with the code \"wearedevs_yt\"",
+      "published_at": "2026-10-26T12:47:08Z",
+      "tags": [
+        "conference",
+        "congress",
+        "Europe",
+        "tech",
+        "technology",
+        "IT",
+        "people",
+        "code",
+        "future",
+        "coding",
+        "programming",
+        "programmer",
+        "software",
+        "engineer",
+        "developer",
+        "developing",
+        "WeAreDevs",
+        "WeAreDevelopers",
+        "wearedevelopers",
+        "wearedevs",
+        "wearedeveloperslive",
+        "tech talks"
+      ],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "lBiS6q7LMdA": {
       "video_id": "lBiS6q7LMdA",

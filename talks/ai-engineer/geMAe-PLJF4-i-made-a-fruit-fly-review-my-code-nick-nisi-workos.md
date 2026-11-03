@@ -1,0 +1,99 @@
+---
+id: geMAe-PLJF4
+title: "I Made a Fruit Fly Review My Code - Nick Nisi, WorkOS"
+slug: i-made-a-fruit-fly-review-my-code-nick-nisi-workos
+conference: ai-engineer
+conference_name: "AI Engineer"
+category: "Practitioner AI conferences"
+edition: "AI Engineer"
+year: 2026
+speakers: ["Nick Nisi"]
+channel: "AI Engineer"
+duration_min: 17
+published_at: 2026-11-01T20:00:08Z
+video_id: geMAe-PLJF4
+url: https://www.youtube.com/watch?v=geMAe-PLJF4
+youtube_url: https://www.youtube.com/watch?v=geMAe-PLJF4
+tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning", "Nick Nisi", "WorkOS", "code review", "fruit fly", "connectome", "AI code review", "pull requests", "developer experience", "coding agents", "CI", "software engineering", "AI Engineer", "AIE NYC"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
+transcript: true
+---
+
+# I Made a Fruit Fly Review My Code - Nick Nisi, WorkOS
+
+**Nick Nisi**
+
+`AI Engineer` · `AI Engineer` · `2026` · `17 min`
+
+`#ai` `#ai engineer` `#ai engineering` `#software development` `#tech` `#startups` `#software architecture` `#machine learning` `#Nick Nisi` `#WorkOS` `#code review` `#fruit fly` `#connectome` `#AI code review` `#pull requests` `#developer experience` `#coding agents` `#CI` `#software engineering` `#AI Engineer` `#AIE NYC`
+
+[Watch the recording](https://www.youtube.com/watch?v=geMAe-PLJF4) · [Conference site](https://www.ai.engineer/)
+
+## Description
+
+Code is being written faster than ever, and Nick Nisi, who leads developer and agent experience at WorkOS, argues that the human reviewer is now the bottleneck. To make the point, he hooked a simulated fruit fly brain, built from a full scan of its neurons, up to code review: AI turns each change into literal "code smells," sugar and bitter rewards teach the fly what good and bad code taste like, and it was right about 88% of the time in testing. Then he plays a live round against the audience and lays out a practical plan where team review skills, classifiers and automated reviewers only send the risky pull requests to a human, backed by proof like screenshots and smoke tests.
+
+Chapters:
+0:00 Intro
+0:37 Humans are the bottleneck
+2:35 Where the word "bug" came from
+3:04 Using a bug to find bugs
+4:00 Wiring a fruit fly brain into code review
+4:57 Turning code into smells
+6:43 Sugar, bitterness and memory
+7:32 Does the fly actually matter?
+8:15 Game: are you smarter than a fruit fly?
+10:22 Trying a real pull request
+11:55 What only humans know: why
+12:33 Escalate only the reviews that matter
+14:56 Proof instead of review
+
+Nick Nisi
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!
+
+## Transcript
+
+*3,075 words · source: supa (en, exact timings)*
+
+**[0:01](https://www.youtube.com/watch?v=geMAe-PLJF4&t=1s)** [music] >> Welcome. Thank you for coming to my talk. My name is Nick Nisi and I am a software engineer and engineering manager at WorkOS where I lead the developer and agent experiences team. Uh and it's a lot of fun and I do lots of really fun stuff there. Uh and at WorkOS we do have a booth here. So if you want to chat with me about this talk or about uh WorkOS itself, come down and see us uh downstairs. Uh but I want to talk to you about what I see as the big bottleneck in software development right now. Uh code is being written faster than ever. Uh and we are putting up more PRs than ever before. But
+
+**[0:50](https://www.youtube.com/watch?v=geMAe-PLJF4&t=50s)** there's a bottleneck there. We've got good CI, we've got linting, we've got agents running our [snorts] running like finding things on there. But it's just stuck waiting for me. So I I've become the the uh I've become the bottleneck. Uh and that is uh something that hopefully we can solve and I think that we really can. Um that's just the biggest piece of it. If we're not writing the code anymore, why do we need a human to review the code? Uh it doesn't quite make sense when the functionality is what matters. So let's uh dive into that a little bit. Um [snorts] like I said, I do think that this is a bottleneck that's going to be solved. Uh code Claude co- Claude Codex um etc. has solved the coding problem. Uh and we're still there, but we're managing it. We've become managers, project managers.
+
+**[1:39](https://www.youtube.com/watch?v=geMAe-PLJF4&t=99s)** Uh we've got agents and we've got CI. We've always had CI kind of doing checks on our pull requests. Uh and now we've got agents running on them as well. Graphite and Code Rabbit and other ones. If Graphite gives me a five out of five, I am excited and uh I'm pretty confident that I'm not going to break production. So um it doesn't matter as much to look at the code. What I really want to know is does it actually do what I expect it to do? Uh and if code review does stick around, I think that it's just going to change like the reasoning why it's sticking around. I don't think that it's going to be for me to give a thumbs up, yes I approve this even though that is a part of it. It's more going to be to bring the context back to the human to say here's the change that is being proposed and why it matters to you and that's going to be the most important piece of it, but it's not going to be please go
+
+**[2:27](https://www.youtube.com/watch?v=geMAe-PLJF4&t=147s)** make sure that Reptile didn't find uh didn't miss something that a human could find cuz only a human could find it cuz I don't believe that that's the case anymore. Uh but before we dive into that more, let's take a step back and uh talk about bugs. Uh so the term bug in software came from a literal moth that was found in a relay uh that was disrupting a program that was running uh way back in on my birthday in uh 1947 although despite the greys I wasn't around then. Um and that's where the term came from. Now skip ahead to 2026 and I'm going to use a bug to find bugs in my software. So let's wake up our fly. Let's bring him into the matrix and let's get him going. Now to do that we'll connect him in. We'll see his uh connectome and his neurons
+
+**[3:15](https://www.youtube.com/watch?v=geMAe-PLJF4&t=195s)** firing. Now I'm not the first one to do this. The this is actually been done several times before. Uh if you've been on the internet, lots of people are torturing this poor fly. They're making it play Doom uh which is a lot of fun, pretty cool. Uh they're also doing things like making it play Beat Saber or do things like that. Uh now if you think that this is torture to this poor fly's mind in the matrix, uh then you're really going to dislike what I did to it. I made it review JavaScript. All of JavaScript and its lovely lovely idioms. >> [sighs] >> Ugh. I remember when I used to look at this code. Uh so let's plug it back in and let's make it learn some code review. So this diagram itself, let's talk about
+
+**[4:02](https://www.youtube.com/watch?v=geMAe-PLJF4&t=242s)** what it actually is. This is called a connectome and it's the actual neurons of a male fruit fly brain that they meticulously scanned one by one under an electron microscope by slicing this brain thousands of times and taking photographs of it and then wiring up all of the connections between those 176,000 neurons to create 6.3 million connections and over 125 million synapses. That's what we're passing our code reviews to in this demo and that's what's going to be taking our jobs as code reviewers. I didn't really change anything else about it. I taught it to run, got it working, played around with it. And then I didn't touch it. I didn't change any of the neurons except for a small subset of them that I'm using to retain memories. And I'll dig into what I did, but I
+
+**[4:52](https://www.youtube.com/watch?v=geMAe-PLJF4&t=292s)** basically have it remembering what's good and what's bad code. So, you might be wondering how does it know what code is? It's a fly. Well, it doesn't. It has sensilla which is like little hairs on it that act as its nose. And I use AI, specifically I use Jev, a system one model, to act as its nose and ask 30 questions that are non-biased about the code that it's reviewing. And then it passes that to the brain as a smell. So, we're taking our code and turning it into literal code smells. Then that goes against the memory that the fly has about what's good and what's bad code. Before it gets to a pull request that it's reviewing, it's been trained on the code in the pull request and it know or sorry, in the code base
+
+**[5:38](https://www.youtube.com/watch?v=geMAe-PLJF4&t=338s)** and it knows is this good code? Is this bad code? And I'll explain how that works. And then if it's if it was trained as good code, it got like a sense of smelling sugar water and if it's bad code, it got a very bitter smell and so it's afraid of that and doesn't want to go near it. And then a teacher reinforces that over it to give it this taste. So, effectively the bug has a taste of is this good or bad code and goes from there. And then it just like as the smells come in in different levels because, you know, every coder diff is different, it's going to get different hormones sent to it, either good hormones or bad hormones that, um, uh, like dopamine that, uh, wires like how the neurons are going to connect with each other and then what behavior it's going to display. And then it'll vote and it'll say, yes,
+
+**[6:26](https://www.youtube.com/watch?v=geMAe-PLJF4&t=386s)** the smell alone makes me think that this is, uh, a good, uh, PR. Otherwise, no, I think that changes should be made because I'm terrified of this code. It's terrified a lot. And all of that just like ends up being like a hash table, uh, where the keys collide on purpose, uh, and we use testing to, um, to write those values. >> [snorts] >> So, every result that it gets from that training is a taste. And so, the memories give it a taste of what's good and what's bad code. Uh, if the test produces a bug, it gets a bitter punishment dopamine, uh, and that weakens the lit cell wires between the approach. And if it's a good thing, it gets sugar, which uh fires reward dopamine, uh, and that weakens the wires to avoid, and then the tongue will come out as if it wants to slurp that up.
+
+**[7:16](https://www.youtube.com/watch?v=geMAe-PLJF4&t=436s)** Uh, if the tongue comes out, smells good to me. That's, uh, that's the indicator that we get from the fly. And otherwise, if, uh, it doesn't come out and it retracts, uh, then that is something that we should avoid. So, uh, I tested this and like the thing that I was really worried about was making the fly brain kind of redundant in this, right? I don't want it to just be like it's Jev that's saying it's good or bad and then the fly is just there to interpret what that means. That's not what's actually happening. If I remove those memories, then it totally freaks out and doesn't do the right thing because it has no recollection of like what's good and what's bad code and what caused a bitter, uh, bitter taste uh, versus a sweet taste, and so it won't behave correctly. It'll scramble everything. The tongue will come out
+
+**[8:03](https://www.youtube.com/watch?v=geMAe-PLJF4&t=483s)** when it shouldn't, uh, and it overall just doesn't work. So, the, um, the fly brain is actually doing the processing on this and it's thinking about what's good and what's bad code. >> [snorts] >> So, the name of this talk was are you smarter than a fruit fly? So, we're going to play a game as an audience. Uh step right up. Let's go ahead and uh hit this button and draw. We're just going to pick three random files from the actual code base uh for this fruit fly. And show of hands, would you approve this change in the code? Raise your hand if you would approve of this change. No hands raised. That's either no participation or we're not going to. So, I'll say that we are uh going to request changes in this.
+
+**[8:52](https://www.youtube.com/watch?v=geMAe-PLJF4&t=532s)** Let's see what the fruit fly did. It smells good to the fruit fly. So, let's see what the actual response was. It's a bug. The fruit fly was wrong. Not looking good so far. All right, next one. Uh in this PKCE code, would you raise your hand if you would approve this change or if you would reject this change? Oh, sorry. If you would approve this change, raise your hand. Okay? See some hands. I'll go with approve. The fly will also approve. Cool. It was a harmless change. All good. Last one. Uh on this change, raise your hand if you would approve this change. One.
+
+**[9:42](https://www.youtube.com/watch?v=geMAe-PLJF4&t=582s)** >> [laughter] >> All right. Yeah, I think this is probably we're going to reject this change. Does the fly reject it? Ooh, yeah. Something stinks. Bug. All right. So, the room went three for three. The fly went two for three. That's pretty good. Uh obviously, you'll you all are smarter than a fruit fly. Congratulations. Uh but the fruit fly was pretty good. It got uh it got it right about 88% of the time when I was testing it. So, um overall, is it worth your time when a fruit fly can do it 80% of the time? 80% of the time it's correct all the time. Um that's that's a good question. So, let's try it on a on something real. Let me paste in a uh a pull request here. Uh and this one is just to one of my pie extensions.
+
+**[10:29](https://www.youtube.com/watch?v=geMAe-PLJF4&t=629s)** Um and it's something that I approved, but let's see if the fruit fly agrees with that as well. So, I'm sending it to Jeff. And it's going to do a test. Um read that and fetch it and hopefully things cooperate with me in a live demo. But, if they don't, that's okay. I have a backup. We'll go with the backup. And it can't tell. So, the backup didn't uh didn't make a distinction either on this change. Um that's okay. Uh you can run this yourself at fruitfly.review uh online and play with it. But, you probably don't want to actually use a fruit fly to test your code. Um
+
+**[11:18](https://www.youtube.com/watch?v=geMAe-PLJF4&t=678s)** now in this code, um I did give it a lot of hard a lot harder of tests than uh what I showed here. >> [snorts] >> Uh 96% of the time it would correct correctly uh catch the first example here uh where it would request changes. At 98% of the time uh a very plausible mistake, it would uh also request changes on that. So, it is working most of the time where it can find issues. Of course, it's a fruit fly, it can't communicate and it doesn't know what JavaScript actually is, so it's not going to tell you how to change it. It's just going to say, "This smells funny to me. I don't think I would accept that." So, if the fruit fly can do the code review moderately well, then why are humans still doing it? That's the question. Um what we've learned from this uh is basically it can figure out what's
+
+**[12:06](https://www.youtube.com/watch?v=geMAe-PLJF4&t=726s)** changed, uh figure out conditionals, removed logic, um Um, you know, simple issues like that and it can steer you away from that and it can kind of keep us on track. Of course, Reptile, Code Rabbit, all of those can do it much better. Um, but nothing knows why. And I think that that's the important thing that humans will always have a uh hand on because we need to understand why code is actually being changed or why functionality is changing more specifically. So, how do we do that? If we were to take humans out of the review process, um, we can start by just escalating to the ones uh escalating the ones that need our reviews and letting everything else pass. And I've got some ideas about how we might do that. Uh, the first one is a team review skill. So, uh I lead the DX team at WorkOS and if a code review is tagged
+
+**[12:56](https://www.youtube.com/watch?v=geMAe-PLJF4&t=776s)** with us, like we use code owners on GitHub, uh if it's tagged with us, there should be a reviewer script or skill that we maintain as a team that is basically like the bare minimum of what a DX engineer at WorkOS would be reviewing for. And it's something that we meticulously keep up uh and keep track of and make sure it's working correctly. Um, if it passes that, then it can move on to the next thing. Some kind of classifier. This could be Jev or Clef or something else or some lightweight model, excuse me, that is doing uh a check to see, you know, is this too complex? Is it actually doing what it says it's going to do? Will this cause significant risk? It can do like different uh weights on that. But assuming it passes all of that, then it can give it to an automated reviewer like Reptile, Code Rabbit, uh
+
+**[13:45](https://www.youtube.com/watch?v=geMAe-PLJF4&t=825s)** Codo, all of the the fantastic companies that are here today. And then, from there, it decides. If any of those failed, escalate that to a human. If none of those failed, it's probably a safe PR to merge on its own and we don't have to bother another human. We can get software shipped in faster. If something does break, we can review what happened, uh audit the this whole thing, see if maybe we can fix the team review skill to catch it or fix one of the automated code reviewers to catch it uh the next time. But more importantly, we can use AI to fix the code uh the uh and go forward from there. And then, deliver back a summarized response to the human as to why this change happened uh and you know, what it was. Is it business logic that's changing? Uh were there all alternatives that were tested and discarded? Uh etc.
+
+**[14:36](https://www.youtube.com/watch?v=geMAe-PLJF4&t=876s)** But, the main thing is I think uh as a next step is teams managing that skill where they can keep track of what's changed, uh how they would review these skill or review code as a as a team, and then use that to decide if something should be escalated to someone on that team to check. And then, of course, on the last thing when it's summarizing, uh if we don't care about the code so much anymore and we only care about does this actually do what we uh expect it to do, we're going to want some kind of proof of that or some kind of verification. And so, you can prove that the agents actually like did the work to verify this by having it create screenshots, videos, uh put test results or command outputs on there. Write and provide smoke tests that I can run and it and see the outputs of that as well. Or just give me easy ways to replicate this so that I can do some
+
+**[15:25](https://www.youtube.com/watch?v=geMAe-PLJF4&t=925s)** manual testing if I need to, uh and that will slowly diminish as I trust these other methods to go. So, that review might look something like this. For the DX team, uh it might say like, "This is anything that a human uh would look at, and these are things that would a human would stop and say, 'No, we need to request changes on from there.'" And so, it can just kind of do that review based on that. This would be very uh dependent on what your team expects, what your team's looking for, what your team covers. You know, a DX team is going to be different from a platform team. Um I'm not going to know any what to do with the animal files, for example. Uh and so, we're going to have different different things that we're going to look at and focus on. And depending on what we're changing, uh those teams can manage different aspects of it and come to a conclusion as to whether we actually need to
+
+**[16:14](https://www.youtube.com/watch?v=geMAe-PLJF4&t=974s)** escalate this to a human in the loop. And with that, uh I invite you to try this out. You can go run your own pull request there at fruitfly.review. You can also see the slides there and uh any uh references. So, check it out and uh come see me at the Work OS booth.

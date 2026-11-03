@@ -1,16 +1,16 @@
 {
   "slug": "the-ai-conference",
   "name": "The AI Conference",
-  "enumerated_at": "2026-10-23T04:02:06+00:00",
+  "enumerated_at": "2026-11-03T17:41:59+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@aiconference/videos",
       "label": "The AI Conference",
       "year": null,
-      "count": 345
+      "count": 346
     }
   ],
-  "count": 345,
+  "count": 346,
   "videos": {
     "-drke88NhrQ": {
       "video_id": "-drke88NhrQ",
@@ -388,6 +388,19 @@
       "published_at": "2026-10-07T22:54:44Z",
       "tags": [],
       "details_at": "2026-10-19T19:58:31+00:00"
+    },
+    "5rdK3sSbxXo": {
+      "video_id": "5rdK3sSbxXo",
+      "title": "Eric Ries & Tim O’Reilly | Keynote: Building AI Companies That Matter",
+      "duration_s": 1296,
+      "channel": "The AI Conference™",
+      "label": "The AI Conference",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aiconference/videos",
+      "description": "AI is reshaping how companies are started, scaled, governed, and sustained. Tim O’Reilly and Eric Ries bring decades of perspective on technology cycles, founder responsibility, and the systems that determine which companies endure. O’Reilly has helped shape some of the defining ideas of modern technology, from open source and Web 2.0 to mechanism design for the human-AI economy. Their conversation will cover Eric’s experience advising Anthropic, the ideas behind Incorruptible, and what it takes to build AI companies that matter.\n\nVideo Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved",
+      "published_at": "2026-10-07T15:36:05Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "5yzQ6wjv-Xo": {
       "video_id": "5yzQ6wjv-Xo",

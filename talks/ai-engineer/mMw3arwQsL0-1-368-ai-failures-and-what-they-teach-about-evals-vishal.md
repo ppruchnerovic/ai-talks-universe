@@ -1,13 +1,13 @@
 ---
 id: mMw3arwQsL0
-title: "1,368 AI Failures and What They Teach About Evals — Vishal Srivastava & Tanmay Sah, New York Life"
+title: "1,368 AI Failures and What They Teach About Evals — Vishal Srivastava, New York Life & Tanmay Sah"
 slug: 1-368-ai-failures-and-what-they-teach-about-evals-vishal
 conference: ai-engineer
 conference_name: "AI Engineer"
 category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
-speakers: ["Vishal Srivastava", "Tanmay Sah"]
+speakers: ["Vishal Srivastava"]
 channel: "AI Engineer"
 duration_min: 20
 published_at: 2026-10-22T09:00:12Z
@@ -19,9 +19,9 @@ topics: ["Evals, observability & reliability", "Governance, ethics & regulation"
 transcript: true
 ---
 
-# 1,368 AI Failures and What They Teach About Evals — Vishal Srivastava & Tanmay Sah, New York Life
+# 1,368 AI Failures and What They Teach About Evals — Vishal Srivastava, New York Life & Tanmay Sah
 
-**Vishal Srivastava, Tanmay Sah**
+**Vishal Srivastava**
 
 `AI Engineer` · `AI Engineer` · `2026` · `20 min`
 
