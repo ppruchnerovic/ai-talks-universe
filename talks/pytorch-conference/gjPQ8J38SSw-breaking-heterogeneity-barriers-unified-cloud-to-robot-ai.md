@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Yonghua Lin"]
-channel: "PyTorch"
+channel: "PyTorch Foundation"
 duration_min: 30
 published_at: 2025-11-04T03:47:26Z
 video_id: gjPQ8J38SSw

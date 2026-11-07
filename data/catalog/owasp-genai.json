@@ -1,16 +1,16 @@
 {
   "slug": "owasp-genai",
   "name": "OWASP GenAI Security Project",
-  "enumerated_at": "2026-11-03T17:43:24+00:00",
+  "enumerated_at": "2026-11-07T22:12:07+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@GenAISecurityProject/videos",
       "label": "OWASP GenAI Security",
       "year": null,
-      "count": 150
+      "count": 152
     }
   ],
-  "count": 150,
+  "count": 152,
   "videos": {
     "-Zt-nDAKXA0": {
       "video_id": "-Zt-nDAKXA0",
@@ -246,6 +246,21 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:28+00:00"
     },
+    "5de3Xi7Zq2U": {
+      "video_id": "5de3Xi7Zq2U",
+      "title": "Tireless AI Agents + Why The Harness Matters As Much As The Model | Ep 22",
+      "duration_s": 1576,
+      "channel": "OWASP GenAI Security Project",
+      "label": "OWASP GenAI Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Does an attacker still need to be 80% expert to get a 20% boost from AI? After almost three years of hands-on research, the answer may be changing.\n\nRachel James talks with Andrea Fukushima and Ben Ramirez, two major contributors to the Threat Intelligence Initiative's Exploit Research project, about tireless AI agents, why the harness around the model matters so much, and what defenders should do next.\n\nCHAPTERS\n0:00 Does an attacker still need to be 80% expert?\n0:51 Welcome and the Exploit Research project\n2:44 Meet the guests\n4:29 Phase one recap: the 80/20 finding\n7:38 Has the 80/20 flipped? Rogue AI agents and tireless systems\n10:56 Why the harness matters as much as the model\n12:09 Running offensive AI locally: what breaks\n14:24 \"Stupid loops\" and what a harness fixes\n15:05 Offensive frameworks (HexStrike, Kali, MCP) vs Claude Code\n17:26 Trading one kind of expertise for another\n18:50 When the orchestrator spawns 20 agents for 20 ports\n19:57 Too many tools: why agents pick the wrong one\n21:23 Predictions: what defenders should do next\n24:48 Wrap-up and the upcoming research paper\n25:39 Credits\n\nLINKS\nExploit Research paper:\nhttps://genai.owasp.org/resource/llm-exploit-generation-guide-2-0/\n\nGenAI Security Inside Track podcast:\nhttps://www.youtube.com/playlist?list=PLDx2T6Ncn_G4\n\nMore Threat Intelligence episodes:\nhttps://www.youtube.com/playlist?list=PL88ZTZzbZQnhr1v54-B4qId3n70Ix-NIg\n\nProduced by:\nGen AI Security Project - https://genai.owasp.org\n\nwith help from RumRunner Media - https://rumrunnermedia.com\n\nAll opinions expressed by the host and guests are theirs alone and do not necessarily reflect the opinions of the organizations with or for whom they work.",
+      "published_at": "2026-11-06T12:06:13Z",
+      "tags": [
+        "#AISecurity #ThreatIntelligence #CyberSecurity #AIAgents #LLMSecurity"
+      ],
+      "details_at": "2026-11-07T22:15:57+00:00"
+    },
     "6A3KuOQHzj8": {
       "video_id": "6A3KuOQHzj8",
       "title": "How Do You Feel About Disclosure Of AI Threats And Standards? Talk About It At Our Bi-Weekly Meeting",
@@ -366,6 +381,35 @@
       "published_at": "2024-05-15T16:29:32Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:01+00:00"
+    },
+    "85ycOfZHXmk": {
+      "video_id": "85ycOfZHXmk",
+      "title": "Why Jailbreaks Aren’t Real Security Risk | AI Red Teaming | EP 3",
+      "duration_s": 1580,
+      "channel": "OWASP GenAI Security Project",
+      "label": "OWASP GenAI Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GenAISecurityProject/videos",
+      "description": "Jailbreaking a chatbot is fun, but it's not real security risk. Real risk is an agent that leaks data, compromises a code repository, or takes an action nobody approved.\n\nScott Clinton talks with Jason Ross (AI red teaming, Salesforce) and Sonu Kumar, co-leads of the Gen AI Security Project's Red Teaming Initiative. They cover how to scope an AI red team engagement, why non-deterministic behavior makes findings hard to prove or fix, and why human-in-the-loop is a weak control. They also preview the upcoming Red Teaming Manual.\n\nCHAPTERS\n0:00 Teaser: treat your AI with an assumed breach posture\n0:38 Welcome and the Red Teaming Initiative\n1:21 Meet Jason Ross and Sonu Kumar\n2:15 How the Red Teaming Initiative started\n4:30 What the initiative focuses on now\n7:06 What has changed since 2024\n8:22 Jailbreaks are not real security risk\n9:26 Automated red teaming: AI for scale, humans for judgment\n10:51 Containment and new compliance requirements\n11:22 Mapping agent privileges and identities\n13:19 Deterministic vs non-deterministic, explained\n14:42 Proving a vulnerability is real, or fixed\n16:08 The upcoming Red Teaming Manual\n18:30 How to contribute\n19:33 What to test beyond prompt injection\n20:25 Why human-in-the-loop is not a real control\n21:54 Agent identity and permissions\n22:23 2027 takeaways: follow the whole chain\n23:48 Assume breach and shrink the blast radius\n25:01 Manual timing and how to join\n25:51 Credits\n\nLINKS\nGen AI Security Project: \nhttps://genai.owasp.org\n\nGen AI Security Inside Track playlist: \nhttps://www.youtube.com/playlist?list=PLDx2T6Ncn_G4\n\nJoin OWASP on Slack:\nhttps://owasp.org/slack/invite\n\nProduced by the Gen AI Security Project - https://genai.owasp.org\n\nwith help from RumRunner Media - https://rumrunnermedia.com\n\nThe views expressed by the host and guests are their own and do not necessarily reflect those of the organizations they work for.\n\n#AIRedTeaming #GenAISecurity #OWASP #AgentSecurity #PromptInjection",
+      "published_at": "2026-11-06T12:56:32Z",
+      "tags": [
+        "AI red teaming",
+        "GenAI security",
+        "OWASP",
+        "agentic AI security",
+        "prompt injection",
+        "AI agents security",
+        "human in the loop",
+        "red team manual",
+        "Gen AI Security Project",
+        "AI pentesting",
+        "assume breach",
+        "non-deterministic AI",
+        "Scott Clinton",
+        "Jason Ross",
+        "Sonu Kumar"
+      ],
+      "details_at": "2026-11-07T22:15:57+00:00"
     },
     "8ehQZx39OyE": {
       "video_id": "8ehQZx39OyE",

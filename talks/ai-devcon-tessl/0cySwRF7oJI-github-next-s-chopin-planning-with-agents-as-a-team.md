@@ -1,7 +1,7 @@
 ---
 id: 0cySwRF7oJI
-title: "Maggie Appleton: Agentic Coding Has Outgrown the Text Box"
-slug: maggie-appleton-agentic-coding-has-outgrown-the-text-box
+title: "GitHub Next's Chopin: Planning With Agents as a Team"
+slug: github-next-s-chopin-planning-with-agents-as-a-team
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
 category: "Practitioner AI conferences"
@@ -19,7 +19,7 @@ topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 
-# Maggie Appleton: Agentic Coding Has Outgrown the Text Box
+# GitHub Next's Chopin: Planning With Agents as a Team
 
 **Speaker not identified**
 

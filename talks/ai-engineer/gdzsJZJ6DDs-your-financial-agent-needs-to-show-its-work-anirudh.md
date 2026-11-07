@@ -1,0 +1,91 @@
+---
+id: gdzsJZJ6DDs
+title: "Your Financial Agent Needs to Show Its Work - Anirudh Veeraragavan, Fieldguide"
+slug: your-financial-agent-needs-to-show-its-work-anirudh
+conference: ai-engineer
+conference_name: "AI Engineer"
+category: "Practitioner AI conferences"
+edition: "AI Engineer"
+year: 2026
+speakers: ["Anirudh Veeraragavan"]
+channel: "AI Engineer"
+duration_min: 13
+published_at: 2026-11-07T18:00:02Z
+video_id: gdzsJZJ6DDs
+url: https://www.youtube.com/watch?v=gdzsJZJ6DDs
+youtube_url: https://www.youtube.com/watch?v=gdzsJZJ6DDs
+tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning", "Anirudh Veeraragavan", "Fieldguide", "AI agents", "financial audit", "AI in finance", "AI governance", "auditability", "AI evals", "evidence provenance", "human in the loop", "compliance", "AI Engineer", "AIE NYC"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
+transcript: true
+---
+
+# Your Financial Agent Needs to Show Its Work - Anirudh Veeraragavan, Fieldguide
+
+**Anirudh Veeraragavan**
+
+`AI Engineer` · `AI Engineer` · `2026` · `13 min`
+
+`#ai` `#ai engineer` `#ai engineering` `#software development` `#tech` `#startups` `#software architecture` `#machine learning` `#Anirudh Veeraragavan` `#Fieldguide` `#AI agents` `#financial audit` `#AI in finance` `#AI governance` `#auditability` `#AI evals` `#evidence provenance` `#human in the loop` `#compliance` `#AI Engineer` `#AIE NYC`
+
+[Watch the recording](https://www.youtube.com/watch?v=gdzsJZJ6DDs) · [Conference site](https://www.ai.engineer/)
+
+## Description
+
+Anirudh Veeraragavan, lead security engineer at Fieldguide, argues that in finance an agent getting the right answer isn't enough; you have to be able to show how it got there. Building an agent for a bank reconciliation audit, he walks through four controls that make its decisions defensible: authorization that stops an agent from overwriting work a human already reviewed, execution records that let you replay and compare individual steps, citations tied to an exact document version, and auditing your eval data so a 97% score doesn't hide real failures. He also covers when the agent should stop and hand the decision to a person, and how the same pattern applies to credit and anti-money-laundering.
+
+Chapters:
+0:00 Intro
+0:40 Building a financial audit agent
+1:56 When someone asks why
+2:18 Why it matters: the Peregrine fraud
+3:05 Can an auditor follow the agent?
+4:00 Example: a bank reconciliation
+4:27 Control 1: Authorization
+5:37 Control 2: Execution control
+7:33 Control 3: Evidence provenance
+8:44 Control 4: Evaluation integrity
+10:09 When the agent should stop and ask
+11:23 You need all four
+12:16 Beyond audit: credit and AML
+
+Anirudh Veeraragavan
+
+Join us in SF for the second annual AIE CODE summit: https://aie.codes our last flagship summit of 2026. Applications live now!
+
+## Transcript
+
+*2,579 words · source: supa (en, exact timings)*
+
+**[0:12](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=12s)** Uh my name is Anerud and I'm lead security engineer at field guide where we're defining what a gentic audit means. So in audit the opinion is the product and opinion is only as good as the basis behind it. So it's not so much whether you're correct or wrong. It's really about the decision-making process behind what you're putting forward. And so this raises the question, what does an agentic decision-making process look like? So to kind of dive into this, let's build a financial agent. So we'll take a financial audit use case and we'll take this specific audit procedure where we're testing a bank reconciliation. uh to any auditors in the room, please bear with me on the simplification. But bank reconciliation is where you take the client's book and the cash balance that they have on that those books and
+
+**[1:01](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=61s)** you compare it to the cash balance that their bank has. And any differences should be explained by things like deposits in transit, outstanding checks makes. Basically, you want to make sure that whatever the client is saying is their financial reality actually matches the truth. So, how would you kind of build this out if you wanted to build an agent for this? because this can be kind of tedious high volume work. So what you would do is you would take your client's book. You would take the list of reconciling items. You would take evidence. You would give it to your agent which has some audit methodology for doing the the matching. You can even have some prior year audits as examples. You can even build an eval previously reviewed audits and then you kind of surface everything to a human reviewer to finally sign off. This is totally reasonable. Great great approach. So you know we build this out. We have great
+
+**[1:47](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=107s)** evals, great metrics, users are happy, everyone wins, we ship this to GA and the story ends there until your audit is selected for inspection and someone asks you why was this sufficient that is I don't care what your eval say. I don't care what your metrics say. I don't even care what your users say for this specific audit, for this specific test procedure, for this specific piece of evidence. How did you arrive at this decision? And you may be wondering, this seems like a little overkill. You know, this is maybe not going to happen that much in practice. But the thing is, financial fraud is very much real. Paragrin Financial Group is, or I guess I should say, was a brokerage firm that was uh based in Iowa. And for over 20 years, they committed bank account fraud. On paper,
+
+**[2:36](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=156s)** they claimed they had over $200 million. And in reality, at the bank, there was only $5 million. And when this fraud came to light, $200 million basically just vanished. And I'm not here to litigate who or what or why this happened. But what this shows us is that in the financial industry, the consequences of being wrong are quite severe. So we need to have confidence behind the decisions that we make and we need to be able to stand behind them in case things do go ary in the future. So in terms of how to do this, I think the audit industry has like a nice definition we can take some inspiration from. uh they say that an experienced auditor who hasn't done the work before should be able to understand the test you performed, the evidence you collected, the decision that was reached. In other words, an experienced auditor new to the work can follow it.
+
+**[3:25](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=205s)** And we can adopt this to the agent world where we say an experienced auditor new to the work can follow the agent. And in order to follow the agent, you need these different controls in place around authorization, execution control, evidence, provenence, and evaluation integrity. And ultimately, all of this rests upon knowing when the agent should stop and the human should decide instead. So this is a pattern for decision assurance. And I'll kind of walk through this financial audit example again, but it really applies to many more domains than just this one. So let's go back to our audit. You know, we're going back to bank reconciliation. We have this fictional client called their freight lines and we're closing the books for 2026. So, as per their bank, they have around $2.9 million. On their books, they have $2.7 million. And
+
+**[4:14](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=254s)** the difference is explained by 41 reconciling items. So, we'll take these four, two checks, two deposits, and let's kind of see what our agent does and let's walk through these different controls to ensure we're making defensible decision-m. So, the first one is around authorization. So you can imagine that a human reviewer is kind of going through these reconciling items. They flag one of these checks as hey I think there may be something wrong here and a few days later we get some additional context. We get some more additional information around why that is not an exception which triggers the agent run and then it rewrites that to no exception. Now the thing here here is that the human already a human already reviewed it and they already signed it but what they reviewed the content behind it has now changed. The agent didn't do anything wrong. It had the permission. It had the
+
+**[5:01](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=301s)** evidence. And it arrived at the right conclusion. But in this specific instance, it shouldn't have overwritten anything because now what the reviewer has claimed to review doesn't match what they actually looked at. So what we're seeing here is that authorization isn't just about is this tool call allowed. It's is this tool call allowed for this object given this state at this point in time. The agent should be allowed to draft unreviewed rows as itself, but it cannot overwrite what a human reviewed. It cannot replace what a human did. It has to kind of exist as its own suggestion as opposed to its own authoritative truth. The next control is around execution control. Uh so you can imagine you know in 2027 we kind of go through this exercise, we have no exception and then maybe a year or two later we're selected for review. We rerun it and we get a
+
+**[5:49](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=349s)** completely different result. So now the question arises like what happened? How did this how could this have happened? So we have logs. We know that the agent fetched evidence. It did some reasoning. It outputed uh its final answer. But that's not enough to reconstruct what happened in 2027 against what happened in 2028 and identify the gap. So really what we need is a record. We need a record of these were the steps that happened. This is the culmination of the run and you can interrogate each point along the way. So this run is a chain of recorded steps where each step has a ID that kind of lets you understand what is being done here. What are the inputs? What are the outputs? And you can clearly delineate between deterministic steps where you're using code to fetch an item or to do a match versus where
+
+**[6:37](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=397s)** you're using the agent to extract, you know, a field from a PDF or to arrive at the final conclusion. And given this chain of recorded steps, you can then rerun individual steps as opposed to the whole thing and seeing what happens. And this gives you much stronger assurance around being able to uh being able to compare runs against different points in time because now we can kind of compare our new run against our old run, identify the exact step where something went wrong. And in this example, we're seeing that our original run was actually correct, even though the run of this newer run is wrong. But again, it's not so much about whether you're correct or not. It's about being able to demonstrate with a high level of conviction that you know you were right. You didn't just get lucky that the model picked the right answer. You can clearly show that you had these steps and when
+
+**[7:25](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=445s)** you rerun this step, this is why there's now a difference compared to when we originally ran it, the model did arrive at the right answer. Then you next we have evidence providence. So in this example, the model arrived at the wrong conclusion. It said that this was valid, but it actually pointed to the wrong account. Um, and if you look at the citation, the model claims that it found this piece of evidence from January bank statement page two. And the thing is this citation isn't useful because you can imagine if you have a big engagement, you could have many such documents with the same name. Even if this is a unique document name, what version did the model look at? Who uploaded this? Like where did this even come from? And this isn't even related to hallucination. It can be a real document but we need to understand more about the context behind that document.
+
+**[8:13](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=493s)** So what we arrive at is a citation is identity. It's not just a string. It's have a very specific ID, a very specific version of the document, a hash of the contents behind it. And being able to concretely tie where an agent picks something from allows you to then assert rules around the evidence that's allowed or any kind of um quality constraints you want around it. For example, we may only want evidence that's sourced directly from the bank as opposed to something that the client uploaded where they may be able to tamper with it in some sort of way. And finally, we arrive at evaluation integrity. So, we claimed we have this eval, this gold data that was based on last year's reviewed audits. But just because the audit was reviewed doesn't necessarily mean it's correct. So it's important to audit that data set as well
+
+**[9:01](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=541s)** because mistakes in it could punish a right agent or it could reward a wrong agent. So there's some examples here of how in the reviewed audit you could have examples that were then superseded. You could have uh you could have decisions that were made based on out of bad evidence or you could even have changes in methodology. And all of these are examples of how your underlying goal data may not be as gold as you thought it was. And what this can kind of look like in practice is that this kind of headline great overall score can hide a lot of underlying failures. So in this case we have 97% but out of nine of the misses four was because the eval itself was just wrong. So our agent is actually doing better than expected. But there are 12 examples where our evil said this should be no exception. But because of
+
+**[9:50](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=590s)** some business rule changes or because of some audit methodology changes these are now wrong. So these are examples where the agent actually missed and was incorrect. So what we see is we don't know if our agent is doing better than expected, it's doing worse than expected. The score is hiding a lot of important context behind how effective our agent actually is. And you know ultimately there is a point where the agent has to stop and ask a human. And all of this ties back to kind of examples we've already covered through these past few controls. If it's trying to change work a human has already reviewed. If a new run is disagreeing with a previous run, if evidence is not conforming with these different rules, all of these are examples where something has gone ary and a human needs to step in to determine what's happening. And the key thing here is that these escalations, they should be easy to verify, but not
+
+**[10:38](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=638s)** necessarily easy to approve. We know automation bias is real. If you can if you continually ping the human, they'll just start hitting yes to everything. So, we only want to flag exceptional cases. And those exceptional cases should very clearly call out like what is wrong and where does someone need to step in. So the example here is we have this deposit. It was cleared in 11 business days but it's calling out what is the discrepancy and what needs to be investigated. It may take some time for the human to do this review and to eventually arrive at an approval decision. But that's okay because we know 80% of the time the agent will do what it needs to do. And for those 20% of cases when we want the human to step in, we want to make sure they're stepping in where it counts and they have the context they need to arrive at the right decision. So if we kind of take a step back, we've covered these four controls and what we
+
+**[11:28](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=688s)** arrive at is defensibility is an and in the sense that you need all of them otherwise things can only can always slip through the cracks. If you skip authorization, then you could have uh a scenario where someone reviewed something, but then the answer changes out underneath them. If you skip execution control, you can arrive at the right answer, but you can't show how. You may as well attribute it to luck at that point. If you skip evidence providence, you can have the wrong answer, but you don't know where the wrong answer came from. Came from some citation that you can't tie back to a concrete source. And if you skip evaluation integrity, you can arrive at a great flagship number of 97%. But you have no idea what [clears throat] the reality is. Are you doing better than that? Are you doing worse than that? All you know is you have this number to go off of. And this pattern for assurance, you
+
+**[12:17](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=737s)** know, I've kind of been talking about audit, but it really scales beyond audit into many other domains. In credit, if you're approving or declining a loan, you can interrogate that. You know, why did you make that decision? in AML if you're clo as closing or escalating alert again what was the evidence behind that so these same four questions can apply to different domains where you may change the nouns behind them but the principles uh are still the same so you know I think uh what this really comes down to is anytime you're making a financial decision where the impact could be quite uh tremendous you need to have some defensibility behind how you're arriving at that decision And if your if your defense is the model said so that's not really going to cut it in today's day and world. So thank
+
+**[13:06](https://www.youtube.com/watch?v=gdzsJZJ6DDs&t=786s)** you all for your time. Uh these are some of the things we're working on at Field Guide. So if you're interested we are hiring and if you want to learn talk more about this feel free to find me at the conference. But yeah thank you all for your time and hope you enjoy the rest of today. [applause]

@@ -1,7 +1,7 @@
 {
   "slug": "ai-devcon-tessl",
   "name": "AI DevCon (Tessl)",
-  "enumerated_at": "2026-11-03T17:41:09+00:00",
+  "enumerated_at": "2026-11-07T22:09:30+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@tessl-ai/videos",
@@ -153,7 +153,7 @@
     },
     "0cySwRF7oJI": {
       "video_id": "0cySwRF7oJI",
-      "title": "Maggie Appleton: Agentic Coding Has Outgrown the Text Box",
+      "title": "GitHub Next's Chopin: Planning With Agents as a Team",
       "duration_s": 3131,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -724,7 +724,7 @@
     },
     "7NXdKekm95g": {
       "video_id": "7NXdKekm95g",
-      "title": "AI Found 400 Linux Zero-Days, 2.5 Hours Each",
+      "title": "Caleb Sima: AI Attackers Move at Machine Speed",
       "duration_s": 3293,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -2928,7 +2928,7 @@
     "UVOkQyeY16M": {
       "video_id": "UVOkQyeY16M",
       "title": "Meta's VR Codebase Nobody Wanted to Touch — Until This",
-      "duration_s": 574,
+      "duration_s": 575,
       "channel": "AI Native Dev",
       "label": "Tessl",
       "year": null,
@@ -3838,7 +3838,7 @@
     },
     "dWk1-VGfm4w": {
       "video_id": "dWk1-VGfm4w",
-      "title": "Tessl Code Review: A Hands-On Walkthrough with Simon Maple",
+      "title": "Automated AI Code Review on GitHub, Set Up in 2 Minutes",
       "duration_s": 518,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -4604,7 +4604,7 @@
     },
     "mHa0bImgN1o": {
       "video_id": "mHa0bImgN1o",
-      "title": "Harness Engineering: What's Actually New (And What Isn't)",
+      "title": "Don't Panic: Agents Still Run on Engineering Fundamentals",
       "duration_s": 2363,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -4800,7 +4800,7 @@
     "nnja7kk4EPM": {
       "video_id": "nnja7kk4EPM",
       "title": "Uber Burned 6x Its AI Budget in Four Months",
-      "duration_s": 618,
+      "duration_s": 619,
       "channel": "AI Native Dev",
       "label": "Tessl",
       "year": null,
@@ -5125,7 +5125,7 @@
     },
     "q3-QLagMHYk": {
       "video_id": "q3-QLagMHYk",
-      "title": "Codeplain at AI DevCon New York: Regenerative Software",
+      "title": "Regenerative Software for Coding Agents | Codeplain",
       "duration_s": 36,
       "channel": "AI Native Dev",
       "label": "Tessl",

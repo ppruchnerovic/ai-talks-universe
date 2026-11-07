@@ -1,7 +1,7 @@
 {
   "slug": "the-ai-conference",
   "name": "The AI Conference",
-  "enumerated_at": "2026-11-03T17:41:59+00:00",
+  "enumerated_at": "2026-11-07T22:10:34+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@aiconference/videos",
@@ -560,7 +560,7 @@
     },
     "8H50pjTMWWE": {
       "video_id": "8H50pjTMWWE",
-      "title": "Claire Southey, Jason Hiner & Todd Earwood: AI Transformation Actually Looks Like",
+      "title": "Claire Southey, Jason Hiner & Todd Earwood: What AI Transformation Actually Looks Like",
       "duration_s": 1820,
       "channel": "The AI Conference™",
       "label": "The AI Conference",
@@ -1080,7 +1080,7 @@
     },
     "G2PNv_iNURQ": {
       "video_id": "G2PNv_iNURQ",
-      "title": "Piyush Agarwal: Introducing Redpanda's Agentic Data Plane",
+      "title": "Piyush Agarwal: Governing AI Agents with a Secure Agentic Data Plane",
       "duration_s": 609,
       "channel": "The AI Conference™",
       "label": "The AI Conference",

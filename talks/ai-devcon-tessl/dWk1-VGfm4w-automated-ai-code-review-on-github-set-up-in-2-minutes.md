@@ -1,7 +1,7 @@
 ---
 id: dWk1-VGfm4w
-title: "Tessl Code Review: A Hands-On Walkthrough with Simon Maple"
-slug: tessl-code-review-a-hands-on-walkthrough-with-simon-maple
+title: "Automated AI Code Review on GitHub, Set Up in 2 Minutes"
+slug: automated-ai-code-review-on-github-set-up-in-2-minutes
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
 category: "Practitioner AI conferences"
@@ -15,11 +15,11 @@ video_id: dWk1-VGfm4w
 url: https://www.youtube.com/watch?v=dWk1-VGfm4w
 youtube_url: https://www.youtube.com/watch?v=dWk1-VGfm4w
 tags: []
-topics: ["AI in the SDLC & engineering orgs"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 
-# Tessl Code Review: A Hands-On Walkthrough with Simon Maple
+# Automated AI Code Review on GitHub, Set Up in 2 Minutes
 
 **Speaker not identified**
 

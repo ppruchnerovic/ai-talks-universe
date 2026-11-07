@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Yineng Zhang"]
-channel: "PyTorch"
+channel: "PyTorch Foundation"
 duration_min: 25
 published_at: 2025-11-04T03:47:29Z
 video_id: wDNfcv_fbWs
