@@ -1,7 +1,7 @@
 {
   "slug": "wearedevelopers",
   "name": "WeAreDevelopers World Congress",
-  "enumerated_at": "2026-11-03T17:41:04+00:00",
+  "enumerated_at": "2026-11-07T22:09:24+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@_wearedevs/videos",
@@ -17,7 +17,7 @@
       "type": "videos"
     }
   ],
-  "count": 1089,
+  "count": 1091,
   "videos": {
     "-9vwGZ02aio": {
       "video_id": "-9vwGZ02aio",
@@ -7262,6 +7262,15 @@
       ],
       "details_at": "2026-08-31T15:35:37+00:00"
     },
+    "CyK2q2AwXXQ": {
+      "video_id": "CyK2q2AwXXQ",
+      "title": "WeAreDevelopers LIVE - Humans in the Loop: Storytelling in Tech - Pritesh Kiri",
+      "duration_s": 3613,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
+    },
     "DE9eH-ZI9BA": {
       "video_id": "DE9eH-ZI9BA",
       "title": "Scrum Repacked",
@@ -9833,7 +9842,7 @@
     "IcJQrop5cfk": {
       "video_id": "IcJQrop5cfk",
       "title": "WeAreDevelopers LIVE - Your Brain Is Lying to You: Cognitive Biases in Development - Kate Astrid",
-      "duration_s": 4789,
+      "duration_s": 4710,
       "channel": "WeAreDevelopers",
       "label": "WeAreDevelopers",
       "year": null,
@@ -11144,7 +11153,7 @@
     "M5Lvhx1TUhw": {
       "video_id": "M5Lvhx1TUhw",
       "title": "WeAreDevelopers LIVE - Like Peas in a Pod: What Happens When People Clone Your App?",
-      "duration_s": 4579,
+      "duration_s": 4484,
       "channel": "WeAreDevelopers",
       "label": "WeAreDevelopers",
       "year": null,
@@ -29341,6 +29350,15 @@
       ],
       "published_at": "2026-07-10T13:40:00+00:00",
       "session_page": "https://app.wearedevelopers.com/events/16/session/1004"
+    },
+    "skEw8RBdqRc": {
+      "video_id": "skEw8RBdqRc",
+      "title": "Fake or News: Everythingmaxxing, Humanoid Cleaners & Hackers Pretend to Be Bots",
+      "duration_s": 222,
+      "channel": "WeAreDevelopers",
+      "label": "WeAreDevelopers",
+      "year": null,
+      "source_url": "https://www.youtube.com/@_wearedevs/videos"
     },
     "skY7neldOuI": {
       "video_id": "skY7neldOuI",

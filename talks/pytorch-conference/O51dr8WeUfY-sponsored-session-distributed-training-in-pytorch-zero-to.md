@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Corey Lowman"]
-channel: "PyTorch"
+channel: "PyTorch Foundation"
 duration_min: 25
 published_at: 2025-11-04T03:45:05Z
 video_id: O51dr8WeUfY

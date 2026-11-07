@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Robert Nishihara", "Ion Stoica"]
-channel: "PyTorch"
+channel: "PyTorch Foundation"
 duration_min: 15
 published_at: 2025-11-04T03:45:43Z
 video_id: B7U05Y4YcJg

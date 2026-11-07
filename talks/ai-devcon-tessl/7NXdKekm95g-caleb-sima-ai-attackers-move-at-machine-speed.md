@@ -1,7 +1,7 @@
 ---
 id: 7NXdKekm95g
-title: "AI Found 400 Linux Zero-Days, 2.5 Hours Each"
-slug: ai-found-400-linux-zero-days-2-5-hours-each
+title: "Caleb Sima: AI Attackers Move at Machine Speed"
+slug: caleb-sima-ai-attackers-move-at-machine-speed
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
 category: "Practitioner AI conferences"
@@ -19,7 +19,7 @@ topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 
-# AI Found 400 Linux Zero-Days, 2.5 Hours Each
+# Caleb Sima: AI Attackers Move at Machine Speed
 
 **Speaker not identified**
 

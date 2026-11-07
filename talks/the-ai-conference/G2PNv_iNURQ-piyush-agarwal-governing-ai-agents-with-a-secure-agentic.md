@@ -1,7 +1,7 @@
 ---
 id: G2PNv_iNURQ
-title: "Piyush Agarwal: Introducing Redpanda's Agentic Data Plane"
-slug: piyush-agarwal-introducing-redpanda-s-agentic-data-plane
+title: "Piyush Agarwal: Governing AI Agents with a Secure Agentic Data Plane"
+slug: piyush-agarwal-governing-ai-agents-with-a-secure-agentic
 conference: the-ai-conference
 conference_name: "The AI Conference"
 category: "Practitioner AI conferences"
@@ -19,7 +19,7 @@ topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security,
 transcript: true
 ---
 
-# Piyush Agarwal: Introducing Redpanda's Agentic Data Plane
+# Piyush Agarwal: Governing AI Agents with a Secure Agentic Data Plane
 
 **Speaker not identified**
 

@@ -1,7 +1,7 @@
 ---
 id: 8H50pjTMWWE
-title: "Claire Southey, Jason Hiner & Todd Earwood: AI Transformation Actually Looks Like"
-slug: claire-southey-jason-hiner-todd-earwood-ai-transformation
+title: "Claire Southey, Jason Hiner & Todd Earwood: What AI Transformation Actually Looks Like"
+slug: claire-southey-jason-hiner-todd-earwood-what-ai
 conference: the-ai-conference
 conference_name: "The AI Conference"
 category: "Practitioner AI conferences"
@@ -19,7 +19,7 @@ topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 
-# Claire Southey, Jason Hiner & Todd Earwood: AI Transformation Actually Looks Like
+# Claire Southey, Jason Hiner & Todd Earwood: What AI Transformation Actually Looks Like
 
 **Speaker not identified**
 

@@ -1,7 +1,7 @@
 {
   "slug": "goto",
   "name": "GOTO Conferences",
-  "enumerated_at": "2026-11-03T17:42:35+00:00",
+  "enumerated_at": "2026-11-07T22:11:14+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@GOTO-/videos",
@@ -10,7 +10,7 @@
       "count": 800
     }
   ],
-  "count": 819,
+  "count": 824,
   "videos": {
     "-5kK50d-duc": {
       "video_id": "-5kK50d-duc",
@@ -11009,6 +11009,15 @@
       ],
       "details_at": "2026-09-06T13:23:56+00:00"
     },
+    "NVkw-RFx2cc": {
+      "video_id": "NVkw-RFx2cc",
+      "title": "The Augmented Forest • Kent Beck• GOTO Copenhagen 2026",
+      "duration_s": 3066,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "NYixq2MIRPU": {
       "video_id": "NYixq2MIRPU",
       "title": "AI-Powered Software Development From the Trenches • Henrik Kniberg • GOTO 2024",
@@ -15976,6 +15985,15 @@
       ],
       "details_at": "2026-09-06T13:23:57+00:00"
     },
+    "YDd_vm0vFks": {
+      "video_id": "YDd_vm0vFks",
+      "title": "Am I holding this right? • Daniel Terhorst-North • GOTO Copenhagen 2026",
+      "duration_s": 2560,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "YIxL2qRubOs": {
       "video_id": "YIxL2qRubOs",
       "title": "Learning Python Programming • Fabrizio Romano & Naomi Ceder",
@@ -16975,6 +16993,15 @@
         "AI"
       ],
       "details_at": "2026-08-31T15:35:21+00:00"
+    },
+    "_-6DpjiO200": {
+      "video_id": "_-6DpjiO200",
+      "title": "Code Health Guardian • Artie Shevchenko & Titus Winters • GOTO 2026",
+      "duration_s": 1782,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "_8VDvfFzHAk": {
       "video_id": "_8VDvfFzHAk",
@@ -18451,6 +18478,34 @@
         "Tech Conference"
       ],
       "details_at": "2026-08-31T15:35:21+00:00"
+    },
+    "ciRTdOIhNCc": {
+      "video_id": "ciRTdOIhNCc",
+      "title": "AI-Friendly Code: The Missing Link for Speed with Quality • Adam Tornhill • GOTO Copenhagen 2026",
+      "duration_s": 2682,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos",
+      "description": "This presentation was recorded at GOTO Copenhagen 2026. #GOTOcon #GOTOcph\nJoin us at GOTO Copenhagen 2027, October 4–8. https://gotocph.com/2027?utm_source=youtube&utm_medium=video&utm_campaign=cph26-talks\n\nAdam Tornhill - Founder and CTO at CodeScene Programmer, psychologist, Lisp hacker, speaker and author of several books including \"Your Code as a Crime Scene\" @adamtornhill2546\n\n\nRESOURCES\nhttps://x.com/AdamTornhill\nhttps://www.linkedin.com/in/adam-tornhill-71759b48\nhttps://www.adamtornhill.com/\nhttps://github.com/adamtornhill\nhttps://gotopia.tech/experts/3/adam-tornhill\n\n\nABSTRACT\nHave you seen early productivity gains from AI, only to watch them disappear under growing complexity and production incidents? You're not alone. There's a common reason: many production systems already struggle with technical debt. When AI agents enter the development loop, that debt becomes a multiplier. Poor-quality code not only increases defects and costs. It dramatically raises AI risk by driving high breakage rates, turning promising AI agents into legacy code generators rather than genuine help.\n\nFortunately, there's hope on the horizon. In this talk, Adam Tornhill shows how organizations can achieve both speed and quality with AI. Backed by large-scale empirical studies on AI coding and developer productivity, we separate what works from what doesn't in real-world systems. Building on these findings, we then look at a practical framework for driving and sustaining AI-friendly code at scale. The AI revolution is here. Is your code ready?\n\nTIMECODES\n0:00 Intro\n0:34 The more things change - The more we realize that software engineering is hard\n1:20 Coding might be dead. Why code with a Agents?\n4:06 The core Challenges for AI Agent\n6:20 Code Health - How easy code is to understand\n10:14 Research on AI - What we have found\n12:49 Questioning The Relevance\n16:00 The Illusion of Instant Software\n18:57 Success Criteria - Safeguard any AI generated or edited code\n21:27 Success Criteria - Make Buisness critical code AI-ready\n23:15  - Make code healt uplift agents\n25:43 Case Study - Refactoring at scale with agents\nCase study - The code quality improvement\n34:48 The Foundation - Adapt to the local problems at hand\n37:17 Success Criteria - Software design is more important than ever\n42:52 Refactoring code - The next challenge\n43:34 Summary - Wrap up and resources\n\n\nDownload slides and read the full abstract here:\nhttps://gotocph.com/2026/sessions/3981\n\n\nhttps://bsky.app/profile/gotocon.com\nhttps://www.linkedin.com/company/goto-\nhttps://www.instagram.com/goto_con\n#GOTOcph #GOTO #[topic] #[topic] #[SpeakerName]\n\nHEAR TALKS LIKE THIS LIVE\nGOTO Copenhagen 2027, October 4–8. Five days of talks, masterclasses and the people behind the tools you use.\nTickets: https://gotocph.com/2027?utm_source=youtube&utm_medium=video&utm_campaign=cph26-talks\nMore GOTO events worldwide: https://gotopia.tech\nSign up for updates: https://gotopia.tech/newsletter\n\nCHANNEL MEMBERSHIP BONUS\nJoin this channel for early access to Book Club episodes, GOTO Copenhagen special offers and other benefits:\nhttps://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA/join\n\nSUBSCRIBE TO OUR CHANNEL - new videos posted almost daily.\nhttps://www.youtube.com/user/GotoConferences/?sub_confirmation=1",
+      "published_at": "2026-11-04T13:00:10Z",
+      "tags": [
+        "GOTO",
+        "GOTOcon",
+        "GOTO Conference",
+        "GOTO (Software Conference)",
+        "Videos for Developers",
+        "Computer Science",
+        "Programming",
+        "Software Engineering",
+        "GOTOpia",
+        "Tech",
+        "Software Development",
+        "Tech Channel",
+        "Tech Conference",
+        "Today in Tech"
+      ],
+      "details_at": "2026-11-07T22:15:57+00:00"
     },
     "criKm8YF4KM": {
       "video_id": "criKm8YF4KM",
@@ -26543,6 +26598,15 @@
         "Project Valhalla"
       ],
       "details_at": "2026-08-31T15:35:21+00:00"
+    },
+    "vD7fLhkU0lc": {
+      "video_id": "vD7fLhkU0lc",
+      "title": "Grokking the Brain: What AI Reveals About How You Learn • Barbara Oakley • GOTO Copenhagen 2026",
+      "duration_s": null,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "vEcVtSvLgo0": {
       "video_id": "vEcVtSvLgo0",

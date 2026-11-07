@@ -1,7 +1,7 @@
 {
   "slug": "ai-dev-deeplearning",
   "name": "AI Dev (DeepLearning.AI)",
-  "enumerated_at": "2026-11-03T17:40:48+00:00",
+  "enumerated_at": "2026-11-07T22:09:00+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@Deeplearningai/videos",
@@ -10,7 +10,7 @@
       "count": 400
     }
   ],
-  "count": 408,
+  "count": 409,
   "videos": {
     "-B0zaWoPEFs": {
       "video_id": "-B0zaWoPEFs",
@@ -475,6 +475,15 @@
       "published_at": "2024-04-29T13:33:44Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:06+00:00"
+    },
+    "5__Fm2TnPcU": {
+      "video_id": "5__Fm2TnPcU",
+      "title": "Stop guessing how to fix your agent",
+      "duration_s": 66,
+      "channel": "DeepLearningAI",
+      "label": "DeepLearning.AI",
+      "year": null,
+      "source_url": "https://www.youtube.com/@Deeplearningai/videos"
     },
     "5g4H5_gsTpU": {
       "video_id": "5g4H5_gsTpU",

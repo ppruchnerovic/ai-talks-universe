@@ -1,7 +1,7 @@
 {
   "slug": "pydata",
   "name": "PyData",
-  "enumerated_at": "2026-11-03T17:41:53+00:00",
+  "enumerated_at": "2026-11-07T22:10:29+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLGVZCDnMOq0qmerwB1eITnr5AfYRGm0DF",
@@ -16,7 +16,7 @@
       "count": 600
     }
   ],
-  "count": 625,
+  "count": 626,
   "videos": {
     "-2iBKx2O9ls": {
       "video_id": "-2iBKx2O9ls",
@@ -16460,6 +16460,15 @@
         "scientific programming"
       ],
       "details_at": "2026-08-31T15:35:31+00:00"
+    },
+    "y3B6mITlvuc": {
+      "video_id": "y3B6mITlvuc",
+      "title": "Peter Wang: The Internet’s Serendipity Era Is Ending | Give Me 5, Season 3, Episode 5",
+      "duration_s": 371,
+      "channel": "PyData",
+      "label": "PyData",
+      "year": null,
+      "source_url": "https://www.youtube.com/@PyDataTV/videos"
     },
     "y8QhjahS8VY": {
       "video_id": "y8QhjahS8VY",

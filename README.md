@@ -9,7 +9,7 @@ A searchable knowledge base of recorded talks from the world's AI conferences:
 titles, descriptions, speakers, conference and year, recording links and, where
 they have been fetched, full timestamped transcripts.
 
-**10,596 talks from 53 conferences, 4,164 of them with a full transcript.**
+**10,631 talks from 53 conferences, 4,199 of them with a full transcript.**
 More numbers in [`docs/STATS.md`](docs/STATS.md); which conferences and why in
 [`ai-conferences.md`](ai-conferences.md).
 

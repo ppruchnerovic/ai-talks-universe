@@ -1,7 +1,7 @@
 ---
 id: mHa0bImgN1o
-title: "Harness Engineering: What's Actually New (And What Isn't)"
-slug: harness-engineering-what-s-actually-new-and-what-isn-t
+title: "Don't Panic: Agents Still Run on Engineering Fundamentals"
+slug: don-t-panic-agents-still-run-on-engineering-fundamentals
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
 category: "Practitioner AI conferences"
@@ -19,7 +19,7 @@ topics: ["Agents & orchestration", "Evals, observability & reliability", "Prompt
 transcript: true
 ---
 
-# Harness Engineering: What's Actually New (And What Isn't)
+# Don't Panic: Agents Still Run on Engineering Fundamentals
 
 **Speaker not identified**
 

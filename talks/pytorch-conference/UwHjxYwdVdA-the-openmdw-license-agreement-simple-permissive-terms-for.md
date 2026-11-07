@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Steve Winslow"]
-channel: "PyTorch"
+channel: "PyTorch Foundation"
 duration_min: 21
 published_at: 2025-11-04T03:48:10Z
 video_id: UwHjxYwdVdA
