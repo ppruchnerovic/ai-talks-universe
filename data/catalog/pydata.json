@@ -1,7 +1,7 @@
 {
   "slug": "pydata",
   "name": "PyData",
-  "enumerated_at": "2026-11-07T22:10:29+00:00",
+  "enumerated_at": "2026-11-09T19:15:26+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLGVZCDnMOq0qmerwB1eITnr5AfYRGm0DF",
@@ -381,7 +381,7 @@
     },
     "08tyYLgfaBg": {
       "video_id": "08tyYLgfaBg",
-      "title": "Building reliable data pipelines with polars and dataframely [PyCon DE & PyData 2026]",
+      "title": "pytest tips and tricks for a better testsuite [PyCon DE & PyData 2026]",
       "duration_s": 5263,
       "channel": "PyData",
       "label": "PyData",

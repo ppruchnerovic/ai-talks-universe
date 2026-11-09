@@ -80,6 +80,7 @@
       "priority": 1,
       "min_duration": 240,
       "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM", "label": "AI DevCon NYC 2026", "year": 2026},
         {"type": "channel", "url": "https://www.youtube.com/@tessl-ai/videos", "label": "Tessl", "first": 300}
       ]
     },

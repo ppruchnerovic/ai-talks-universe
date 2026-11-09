@@ -7,7 +7,7 @@ rebuild, extend and test the whole thing. Design rationale and diagrams are in
 [`ARCHITECTURE.md`](ARCHITECTURE.md); the current numbers and the operational
 handoff in [`STATE.md`](STATE.md).
 
-**10,631 talks from 53 conferences, 4,199 of them with a full transcript.** The
+**10,726 talks from 53 conferences, 4,292 of them with a full transcript.** The
 curated list of which conferences and why is
 [`ai-conferences.md`](../ai-conferences.md); its machine-readable mirror, which
 the pipeline actually reads, is [`conferences.json`](../conferences.json).
@@ -128,8 +128,8 @@ passes the floor — enrichment is what resolves a year — and enumeration cach
 every year regardless, so the floor is a re-derivation away from being moved:
 `sync_catalog.py --no-min-year` rebuilds with the whole catalogue.
 
-Of 19,342 videos enumerated, 10,407 survive; with the 224 presentations that
-exist only on infoq.com the corpus is 10,631. `sync_catalog.py` prints exactly
+Of 19,438 videos enumerated, 10,502 survive; with the 224 presentations that
+exist only on infoq.com the corpus is 10,726. `sync_catalog.py` prints exactly
 what each conference dropped and why, the year floor included.
 
 ### Who gave the talk
@@ -701,8 +701,8 @@ exists. Within a priority it takes the longest talks first.
 
 It selects on year too, because on AI topics a 2023 talk is rarely worth a unit
 of an allowance that refills over hours. `--year 2026` (repeatable) or
-`--min-year 2026` keeps only those years — 4,039 of the 10,631 talks are 2026,
-of which 3,958 have a transcript, 76 have no captions or are members-only and 4
+`--min-year 2026` keeps only those years — 4,133 of the 10,726 talks are 2026,
+of which 4,051 have a transcript, 76 have no captions or are members-only and 4
 are held back from the index as ASR failures, so none is waiting on a fetch —
 and a talk whose year is not known yet is left out unless
 `--include-unknown-year` says otherwise. This is a selection filter and removes
