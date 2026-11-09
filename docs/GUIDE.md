@@ -7,7 +7,7 @@ rebuild, extend and test the whole thing. Design rationale and diagrams are in
 [`ARCHITECTURE.md`](ARCHITECTURE.md); the current numbers and the operational
 handoff in [`STATE.md`](STATE.md).
 
-**10,726 talks from 53 conferences, 4,292 of them with a full transcript.** The
+**10,726 talks from 53 conferences, 4,293 of them with a full transcript.** The
 curated list of which conferences and why is
 [`ai-conferences.md`](../ai-conferences.md); its machine-readable mirror, which
 the pipeline actually reads, is [`conferences.json`](../conferences.json).
@@ -702,7 +702,7 @@ exists. Within a priority it takes the longest talks first.
 It selects on year too, because on AI topics a 2023 talk is rarely worth a unit
 of an allowance that refills over hours. `--year 2026` (repeatable) or
 `--min-year 2026` keeps only those years — 4,133 of the 10,726 talks are 2026,
-of which 4,051 have a transcript, 76 have no captions or are members-only and 4
+of which 4,052 have a transcript, 76 have no captions or are members-only and 4
 are held back from the index as ASR failures, so none is waiting on a fetch —
 and a talk whose year is not known yet is left out unless
 `--include-unknown-year` says otherwise. This is a selection filter and removes
