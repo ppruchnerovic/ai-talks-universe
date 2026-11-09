@@ -1,7 +1,7 @@
 {
   "slug": "goto",
   "name": "GOTO Conferences",
-  "enumerated_at": "2026-11-07T22:11:14+00:00",
+  "enumerated_at": "2026-11-09T19:16:14+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@GOTO-/videos",
@@ -10,7 +10,7 @@
       "count": 800
     }
   ],
-  "count": 824,
+  "count": 825,
   "videos": {
     "-5kK50d-duc": {
       "video_id": "-5kK50d-duc",
@@ -18409,6 +18409,15 @@
       ],
       "details_at": "2026-08-31T15:35:21+00:00"
     },
+    "cZ_PqBpZygY": {
+      "video_id": "cZ_PqBpZygY",
+      "title": "The smoothest reorg\": lessons in collaborative org design • Joakim Sundén • GOTO Copenhagen 2026",
+      "duration_s": null,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "cZjlVoTJ0K4": {
       "video_id": "cZjlVoTJ0K4",
       "title": "Design & Develop Distributed Software Better w/ Multiplayer • Tom Johnson & Julian Wood • GOTO 2025",
@@ -26602,11 +26611,30 @@
     "vD7fLhkU0lc": {
       "video_id": "vD7fLhkU0lc",
       "title": "Grokking the Brain: What AI Reveals About How You Learn • Barbara Oakley • GOTO Copenhagen 2026",
-      "duration_s": null,
+      "duration_s": 2996,
       "channel": "GOTO Conferences",
       "label": "GOTO",
       "year": null,
-      "source_url": "https://www.youtube.com/@GOTO-/videos"
+      "source_url": "https://www.youtube.com/@GOTO-/videos",
+      "description": "This presentation was recorded at GOTO Copenhagen 2026. #GOTOcon #GOTOcph\nJoin us at GOTO Copenhagen 2027, October 4–8. https://gotocph.com/2027?utm_source=youtube&utm_medium=video&utm_campaign=cph26-talks\n\nBarbara Oakley - Professor of Engineering at Oakland University @BarbaraOakley\n\n\nRESOURCES\nhttps://x.com/Barbara97881398\nhttps://www.linkedin.com/in/barbaraoakley/\nhttps://barbaraoakley.com/\nhttps://gotopia.tech/experts/1554/barbara-oakley\n\n\nABSTRACT\nTrain an AI model long past the point where it has memorized its examples, and something strange happens — it stops memorizing and suddenly \"groks\" the pattern beneath them. That hard-won pattern can then be \"distilled\" into a smaller, faster model that runs it with ease. These are ideas from AI — but they may give us our clearest view yet of the human brain. We grok a hard skill slowly, with conscious effort, then distill it into a fast, automatic system that needs no effort at all. That is what expertise is.\n\nThe same “machinery” has a quieter side. A model is aligned by its training data — and in an analogous fashion, so are humans. Give me a child to the age of seven, the old saying goes, and I'll show you the adult. But adults are aligned too, usually without knowing it — and a brain aligned a little too well can harden into a mental fortress, deflecting new ideas.\n\nCuriosity provides a way out. Dopamine—reward-based learning—fuels the brain's ability to rewire — it helps us build new links, keeps the fortress gate open, and keeps hard-won knowledge from setting into a wall. We'll look at what all this means for how you learn, how you use AI, and how you keep thinking for yourself in an age that makes it easy not to.\n\nTIMECODES\n00:00 Intro\n00:50 Ernst Strüngmann Forum - Cognitive Offloading\n03:04 Who Am I?\n06:15 The Transformer - Flow of information\n08:45 Here Is Our Brain - The neuron\n13:40 AI Shows, But I'm the only one who KNOWS - Science of learning\n22:42 Theta - The deterioration of the brain with time\n25:22 Working Memory - Human and AI longterm memory\n33:48 The FLynn Effect - Dopamine in curiosity\n39:38 How can we get ourselves curious - Ask ChatGBT\n41:00 How you can use this\n49:30 Outro - Thanks for listening\n\nDownload slides and read the full abstract here:\nhttps://gotocph.com/2026/sessions/4125\n\n\nhttps://bsky.app/profile/gotocon.com\nhttps://www.linkedin.com/company/goto-\nhttps://www.instagram.com/goto_con\n#GOTOcph #GOTO #[topic] #[topic] #[SpeakerName]\n\nHEAR TALKS LIKE THIS LIVE\nGOTO Copenhagen 2027, October 4–8. Five days of talks, masterclasses and the people behind the tools you use.\nTickets: https://gotocph.com/2027?utm_source=youtube&utm_medium=video&utm_campaign=cph26-talks\nMore GOTO events worldwide: https://gotopia.tech\nSign up for updates: https://gotopia.tech/newsletter\n\nCHANNEL MEMBERSHIP BONUS\nJoin this channel for early access to Book Club episodes, GOTO Copenhagen special offers and other benefits:\nhttps://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA/join\n\nSUBSCRIBE TO OUR CHANNEL - new videos posted almost daily.\nhttps://www.youtube.com/user/GotoConferences/?sub_confirmation=1",
+      "published_at": "2026-11-09T13:00:07Z",
+      "tags": [
+        "GOTO",
+        "GOTOcon",
+        "GOTO Conference",
+        "GOTO (Software Conference)",
+        "Videos for Developers",
+        "Computer Science",
+        "Programming",
+        "Software Engineering",
+        "GOTOpia",
+        "Tech",
+        "Software Development",
+        "Tech Channel",
+        "Tech Conference",
+        "Today in Tech"
+      ],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "vEcVtSvLgo0": {
       "video_id": "vEcVtSvLgo0",

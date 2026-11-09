@@ -9,6 +9,8 @@ session-by-session record with numbers and provenance is
 ## Unreleased
 
 ### Added
+- AI DevCon NYC 2026 (Tessl / AI Native Dev): its unlisted sessions playlist
+  is now a registered source, so talks absent from the channel page are read.
 - Shared `ai-conference-talks` skill discovery for Codex and Gemini CLI,
   alongside Claude Code, Copilot and OpenCode; agent setup and fallback guidance.
 - MIT licence for the code and a CC BY 4.0 notice for the curated data

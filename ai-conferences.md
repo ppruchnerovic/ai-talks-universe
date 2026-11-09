@@ -35,7 +35,7 @@ Verified 2026-08-30. Availability legend: **✅ free** = full talks openly on Yo
 
 ### AI DevCon (Tessl)
 - Site: https://tessl.io/devcon/
-- YouTube: https://www.youtube.com/@tessl-ai
+- YouTube: https://www.youtube.com/@tessl-ai — [AI DevCon NYC 2026 (unlisted playlist)](https://www.youtube.com/playlist?list=PLfmfepa7S6EM)
 - Tessl's conference on AI-native software development. ✅ free.
 
 ## Practitioner AI conferences (top picks)

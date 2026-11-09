@@ -1,7 +1,7 @@
 {
   "slug": "qcon-infoq",
   "name": "QCon / InfoQ Dev Summit",
-  "enumerated_at": "2026-11-07T22:09:11+00:00",
+  "enumerated_at": "2026-11-09T19:14:16+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@infoq/videos",
@@ -17,7 +17,7 @@
       "type": "infoq"
     }
   ],
-  "count": 749,
+  "count": 751,
   "videos": {
     "-1_KvpNDC6k": {
       "video_id": "-1_KvpNDC6k",
@@ -6234,6 +6234,33 @@
       "published_at": "2024-09-16T10:34:00Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:32+00:00"
+    },
+    "d5SACd37NV0": {
+      "video_id": "d5SACd37NV0",
+      "title": "Tokens Got Cheaper, Your AI Bill Didn’t: AI Cost Economics",
+      "duration_s": 3003,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "Token prices keep falling, so why are AI bills tripling? Erik Peterson calls it the Jevons Paradox: the cheaper something gets, the more of it we use, and cost per token is the wrong number to watch. \n\nErik Peterson has spent over 20 years building software startups. In 2016 he founded CloudZero to work on engineering-led cloud cost optimization. He’s an AWS Ambassador and active in the FinOps and DevOps communities, and he has written code only with AI since January 2025.\n\nRecorded at QCon AI Boston 2026. QCon conferences are practitioner-driven events where senior engineers share real production experience.\n\n🔗 Transcript & slides available on InfoQ:  https://bit.ly/4hXFMEg   \n \n#FinOps #AIEngineering #CloudCost #LLM #UnitEconomics",
+      "published_at": "2026-11-09T08:36:16Z",
+      "tags": [
+        "DevOps",
+        "AI",
+        "ML & Data Engineering",
+        "Generative AI",
+        "Cloud Computing",
+        "Cost Optimization",
+        "InfoQ",
+        "Software Architecture",
+        "Productivity",
+        "Artificial Intelligence",
+        "FinOps",
+        "Transcripts",
+        "QCon AI Boston"
+      ],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "d7drlYAtkk0": {
       "video_id": "d7drlYAtkk0",
@@ -12831,6 +12858,19 @@
         "Programming Languages"
       ],
       "details_at": "2026-08-31T15:35:33+00:00"
+    },
+    "tIdQHFDcGmI": {
+      "video_id": "tIdQHFDcGmI",
+      "title": "Distributed LLM Inference on Kubernetes with llm-d, Wasm, & TornadoVM",
+      "duration_s": 2618,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this episode, Edoardo Vacchi discusses the evolving landscape of WebAssembly on the backend, running Java workloads on GPUs using TornadoVM, and optimizing distributed AI inference using llm-d and vLLM on Kubernetes. Edoardo explains how llm-d manages cache locality (KV and prefix caches), request routing, and batch inference across Kubernetes clusters to maximize expensive GPU utilization.\n\nRead a transcript of this interview: https://bit.ly/4eLRHnE\n\nNewsletter:\nSubscribe to the Software Architects' Newsletter, a monthly roundup of the patterns and technologies senior practitioners are working through, with the news and lessons from people doing the work: https://www.infoq.com/software-architects-newsletter\n\nInfoQ Online Certification Programs:\nInfoQ’s online cohorts put you in a small group of senior engineers and architects from other companies who face the same decisions. You bring a real decision from your job and work through it using approaches from QCon talks. You write up what you learned as an article, which makes you put the trade-offs into words before your next proposal at work. You leave with new approaches, or confirmation that the calls you’re already making are the right ones. See dates:\nhttps://certification.qconferences.com/\n\n\nUpcoming Events:\nQCon San Francisco 2026 (November 16-20, 2026)\nhttps://qconsf.com/\n\nQCon AI New York 2026 - AI Engineering Conference (December 15-16, 2026)\nhttps://newyork.qcon.ai/ \n\nQCon London 2027 (April 13-16, 2027)\nhttps://qconlondon.com/\n\nQCon AI Boston 2027 - AI Engineering Conference (July 8-9, 2027)\nhttps://boston.qcon.ai/\n\n\nThe InfoQ Podcasts:\nWeekly conversations with senior software leaders about how they build systems and teams, including what they'd do differently. Listen to all our podcasts and read interview transcripts:\nThe InfoQ Podcast: https://www.infoq.com/podcasts/\nEngineering Culture Podcast by InfoQ: https://www.infoq.com/podcasts/#engineering_culture\nGenerally AI: https://www.infoq.com/generally-ai-podcast/\nFollow InfoQ:\nMastodon: https://techhub.social/@infoq\nX: https://x.com/InfoQ\nLinkedIn: https://www.linkedin.com/company/infoq/\nFacebook: https://www.facebook.com/InfoQdotcom\nInstagram: https://www.instagram.com/infoqdotcom/\nYouTube: https://www.youtube.com/infoq\nBluesky: https://bsky.app/profile/infoq.com\n\nWrite for InfoQ:\nShare what you've learned building software with a community of senior practitioners, and get your work in front of the people who read InfoQ. https://www.infoq.com/write-for-infoq",
+      "published_at": "2026-11-09T10:22:27Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "tNDbpnmlsQk": {
       "video_id": "tNDbpnmlsQk",

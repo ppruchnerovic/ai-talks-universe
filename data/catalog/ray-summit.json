@@ -1,7 +1,7 @@
 {
   "slug": "ray-summit",
   "name": "Ray Summit (Anyscale)",
-  "enumerated_at": "2026-11-07T22:10:15+00:00",
+  "enumerated_at": "2026-11-09T19:15:13+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLzTswPQNepXnD-PksryocyeOPdK6CyZw6",
@@ -568,7 +568,7 @@
     "3s5etTGANrc": {
       "video_id": "3s5etTGANrc",
       "title": "Cascade: Write-Once Run-Anywhere Inference on Ray | Samsara | Ray Summit 2026",
-      "duration_s": 1466,
+      "duration_s": 1467,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -594,7 +594,7 @@
     "4AmKOKbieus": {
       "video_id": "4AmKOKbieus",
       "title": "Maximizing GB200 and GB300 Performance with Domain-Aware Scheduling | NVIDIA | Ray Summit 2026",
-      "duration_s": 1461,
+      "duration_s": 1462,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -971,7 +971,7 @@
     "7x1Ssp3MSto": {
       "video_id": "7x1Ssp3MSto",
       "title": "Building a Virtual Biology Platform on Ray | Recursion | Ray Summit 2026",
-      "duration_s": 1845,
+      "duration_s": 1846,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -1673,7 +1673,7 @@
     "HQe__iv2m68": {
       "video_id": "HQe__iv2m68",
       "title": "AMD and vLLM: What's New | AMD | Ray Summit 2026",
-      "duration_s": 1937,
+      "duration_s": 1938,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -3134,7 +3134,7 @@
     "UWjMK_mtH0s": {
       "video_id": "UWjMK_mtH0s",
       "title": "Ray History Server: Observability for Ephemeral K8s Clusters | KubeRay | Ray Summit 2026",
-      "duration_s": 1033,
+      "duration_s": 1034,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -3576,7 +3576,7 @@
     "Xh04f8eAPNc": {
       "video_id": "Xh04f8eAPNc",
       "title": "Accelerating Large Language Models: vLLM on TPUs | Google | Ray Summit 2026",
-      "duration_s": 1069,
+      "duration_s": 1070,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -3888,7 +3888,7 @@
     "_xLnyRFK54o": {
       "video_id": "_xLnyRFK54o",
       "title": "From Self-Managed Ray to Anyscale Services: Migrating ML Serving | Coinbase | Ray Summit 2026",
-      "duration_s": 934,
+      "duration_s": 935,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -4861,7 +4861,7 @@
     "jAf3ZkJR0_I": {
       "video_id": "jAf3ZkJR0_I",
       "title": "Koba: Disaggregated Data Loading for Multimodal Training at Luma AI | Luma AI | Ray Summit 2026",
-      "duration_s": 1936,
+      "duration_s": 1937,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -5520,7 +5520,7 @@
     "q7lyd0womDU": {
       "video_id": "q7lyd0womDU",
       "title": "Serving vLLM on Intel GPUs, CPUs, and Gaudi | Intel | Ray Summit 2026",
-      "duration_s": 1869,
+      "duration_s": 1870,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -5624,7 +5624,7 @@
     "r9rV_c5_5uo": {
       "video_id": "r9rV_c5_5uo",
       "title": "Serving Fast and Smart: Getting the Most Out of Ray Serve LLM on GKE | Google | Ray Summit 2026",
-      "duration_s": 1087,
+      "duration_s": 1088,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -5650,7 +5650,7 @@
     "rJ1yBqWFOU0": {
       "video_id": "rJ1yBqWFOU0",
       "title": "Anyscale on Azure: Build, Train, and Serve AI in Your Own Tenant | Microsoft | Ray Summit 2026",
-      "duration_s": 857,
+      "duration_s": 858,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
