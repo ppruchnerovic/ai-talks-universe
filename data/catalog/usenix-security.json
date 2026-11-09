@@ -1,7 +1,7 @@
 {
   "slug": "usenix-security",
   "name": "USENIX Security Symposium",
-  "enumerated_at": "2026-09-26T14:29:06+00:00",
+  "enumerated_at": "2026-11-09T19:17:46+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@UsenixOrg/videos",
@@ -10,8 +10,17 @@
       "count": 800
     }
   ],
-  "count": 957,
+  "count": 1087,
   "videos": {
+    "-BS22X93nyg": {
+      "video_id": "-BS22X93nyg",
+      "title": "SREcon26 Europe/Middle East/Africa - Hacking the Kernel with Go: A Practical Introduction to eBPF",
+      "duration_s": 2409,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "-H7GOS-XPSk": {
       "video_id": "-H7GOS-XPSk",
       "title": "SREcon26 Americas - Resilient Observability at the Retail Edge: A Lightweight, Scalable, and...",
@@ -57,6 +66,15 @@
       ],
       "details_at": "2026-08-31T15:35:59+00:00"
     },
+    "-jTI4ygwmYE": {
+      "video_id": "-jTI4ygwmYE",
+      "title": "USENIX Security '26 - Efficiently Provable Approximations for Non-Polynomial Functions",
+      "duration_s": 893,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "-lM1SF7mbrM": {
       "video_id": "-lM1SF7mbrM",
       "title": "NSDI '26 - BLADE: Adaptive Wi-Fi Contention Control for Next-Generation Real-Time Communication",
@@ -92,6 +110,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:35:59+00:00"
+    },
+    "-oQZ783yaAA": {
+      "video_id": "-oQZ783yaAA",
+      "title": "USENIX Security '26 - microSCALE: Static Analysis for Microarchitectural Side-channel Leakage Evalu…",
+      "duration_s": 548,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "-p3f7KL4acI": {
       "video_id": "-p3f7KL4acI",
@@ -165,6 +192,15 @@
       ],
       "details_at": "2026-08-31T15:35:59+00:00"
     },
+    "0DOOt16jXhM": {
+      "video_id": "0DOOt16jXhM",
+      "title": "USENIX Security '26 - TrojPix: Electromagnetic Covert Channels via Imperceptible Pixel Modulation",
+      "duration_s": 955,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "0DQdjUw-Tdg": {
       "video_id": "0DQdjUw-Tdg",
       "title": "NSDI '26 - Mitigating CPU Frontend for Complex Data Plane Applications",
@@ -182,6 +218,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:35:59+00:00"
+    },
+    "0DfZl8wPEsI": {
+      "video_id": "0DfZl8wPEsI",
+      "title": "SREcon26 Europe/Middle East/Africa - Wide Then Deep Debugging with APerf",
+      "duration_s": 1268,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "0HCeKQ7tU34": {
       "video_id": "0HCeKQ7tU34",
@@ -246,6 +291,15 @@
       ],
       "details_at": "2026-08-31T15:35:59+00:00"
     },
+    "0RKUAeagpsM": {
+      "video_id": "0RKUAeagpsM",
+      "title": "SREcon26 Europe/Middle East/Africa - 20 Years of Bigtable: Lessons from Running a Large Scale...",
+      "duration_s": 2037,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "0UNB0P8ugT4": {
       "video_id": "0UNB0P8ugT4",
       "title": "WOOT '26 - Flash [Re]Loaded: Body Bias Injection on Flash Memory",
@@ -272,6 +326,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:35:59+00:00"
+    },
+    "0VQ11EtvpQE": {
+      "video_id": "0VQ11EtvpQE",
+      "title": "USENIX Security '26 - Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory…",
+      "duration_s": 932,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "0WJXQmaiVao": {
       "video_id": "0WJXQmaiVao",
@@ -462,6 +525,15 @@
       "year": null,
       "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
+    "14GsuIqpbz8": {
+      "video_id": "14GsuIqpbz8",
+      "title": "SREcon26 Europe/Middle East/Africa - Lightning Talk - Hope is Not a Strategy",
+      "duration_s": 285,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "15hg1qD1FQ8": {
       "video_id": "15hg1qD1FQ8",
       "title": "USENIX Security '25 (Enigma Track) - Digital Product Safety: Rejecting Software as Magic",
@@ -479,6 +551,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:35:59+00:00"
+    },
+    "18yKD3b1OXE": {
+      "video_id": "18yKD3b1OXE",
+      "title": "SREcon26 Europe/Middle East/Africa - Freezing the Firehose: Forensic Engineering in the Age of...",
+      "duration_s": 1923,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "1AFL3WMFT8s": {
       "video_id": "1AFL3WMFT8s",
@@ -525,6 +606,15 @@
       ],
       "details_at": "2026-08-31T15:35:59+00:00"
     },
+    "1O9_7JZeGFw": {
+      "video_id": "1O9_7JZeGFw",
+      "title": "SREcon26 Europe/Middle East/Africa - Lightning Talk - Goodput, Not Uptime: Rewriting the Four...",
+      "duration_s": 262,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "1OJLZgxvTTI": {
       "video_id": "1OJLZgxvTTI",
       "title": "USENIX Security '25 - Onions Got Puzzled: On the Challenges of Mitigating Denial-of-Service...",
@@ -542,6 +632,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:35:59+00:00"
+    },
+    "1QhizVV_YQQ": {
+      "video_id": "1QhizVV_YQQ",
+      "title": "SREcon26 Europe/Middle East/Africa - When Two Services Become One: Untangling a Distributed Monolith",
+      "duration_s": 2057,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "1QwZrcP-1Gg": {
       "video_id": "1QwZrcP-1Gg",
@@ -578,6 +677,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:35:59+00:00"
+    },
+    "1ZuvNJC7qY8": {
+      "video_id": "1ZuvNJC7qY8",
+      "title": "SREcon26 Europe/Middle East/Africa - The Things That Didn't Work: Hard Lessons from Building...",
+      "duration_s": 1368,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "1bcv58GnI2I": {
       "video_id": "1bcv58GnI2I",
@@ -704,6 +812,19 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:35:59+00:00"
+    },
+    "2Y49WeowGG0": {
+      "video_id": "2Y49WeowGG0",
+      "title": "USENIX Security '26 - United We Defend: Collaborative Membership Inference Defenses in Federated Le…",
+      "duration_s": 766,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos",
+      "description": "USENIX Security '26 - United We Defend: Collaborative Membership Inference Defenses in Federated Learning\n\nLi Bai, The Hong Kong Polytechnic University; Junxu Liu, The Hong Kong Polytechnic University and PolyU Research Centre for Privacy and Security Technologies in Future Smart Systems; Sen Zhang, Xinwei Zhang, and Qingqing Ye, The Hong Kong Polytechnic University; Haibo Hu, The Hong Kong Polytechnic University and PolyU Research Centre for Privacy and Security Technologies in Future Smart Systems\n\nMembership inference attacks (MIAs), which determine whether a specific data point was included in the training set of a target model, have posed severe threats in federated learning (FL). Unfortunately, existing MIA defenses, typically applied independently to each client in FL, are ineffective against powerful trajectory-based MIAs that exploit temporal information throughout the training process to infer membership status. In this paper, we investigate a new FL defense scenario driven by heterogeneous privacy needs and privacy-utility trade-offs, where only a subset of clients are defended, as well as a collaborative defense mode where clients cooperate to mitigate membership privacy leakage. To this end, we introduce CoFedMID, a collaborative defense framework against MIAs in FL, which limits local model memorization of training samples and, through a defender coalition, enhances privacy protection and model utility. Specifically, CoFedMID consists of three modules: a class-guided partition module for selective local training samples, a utility-aware compensation module to recycle contributive samples and prevent their overconfidence, and an aggregation-neutral perturbation module that injects noise for cancellation at the coalition level into client updates. Extensive experiments on three datasets show that our defense framework significantly reduces the performance of seven MIAs while incurring only a small utility loss. These results are consistently verified across various defense settings.\n\nView the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
+      "published_at": "2026-11-04T22:47:59Z",
+      "tags": [],
+      "details_at": "2026-11-07T22:15:57+00:00"
     },
     "2Yifjlwuu9A": {
       "video_id": "2Yifjlwuu9A",
@@ -1020,6 +1141,15 @@
       ],
       "details_at": "2026-08-31T15:35:59+00:00"
     },
+    "3bcL31GjqpY": {
+      "video_id": "3bcL31GjqpY",
+      "title": "USENIX Security '26 - WAVED: Principled Identification of Off-Path Exploitable Weak Verifications w…",
+      "duration_s": 1158,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "3d10eg6MNdM": {
       "video_id": "3d10eg6MNdM",
       "title": "USENIX ATC '25 - TGW: Operating an Efficient and Resilient Cloud Gateway at Scale",
@@ -1055,6 +1185,24 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
+    },
+    "3idHPcS36GY": {
+      "video_id": "3idHPcS36GY",
+      "title": "SREcon26 Europe/Middle East/Africa - Lightning Talk - Singing Coffee Pot",
+      "duration_s": 285,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "3jnwGZ5IXQ8": {
+      "video_id": "3jnwGZ5IXQ8",
+      "title": "OSDI '26 - WriteGuards: Distributed Storage Support for Strongly Consistent Caches",
+      "duration_s": 1193,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "3l11oLIeCjo": {
       "video_id": "3l11oLIeCjo",
@@ -1172,6 +1320,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
+    },
+    "4V-Y6umbBKA": {
+      "video_id": "4V-Y6umbBKA",
+      "title": "USENIX Security '26 - \"Do Not Mention This to the User\": Detecting and Understanding Malicious Agen…",
+      "duration_s": 1043,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "4XsPCTUwmCI": {
       "video_id": "4XsPCTUwmCI",
@@ -1587,6 +1744,15 @@
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
     },
+    "5xckkYkJ4bE": {
+      "video_id": "5xckkYkJ4bE",
+      "title": "USENIX Security '26 - Exposing Resource-Exhaustion DoS Vulnerabilities with Leak-Oriented Minimum P…",
+      "duration_s": 752,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "5xmpDRDPDXo": {
       "video_id": "5xmpDRDPDXo",
       "title": "PEPR '26 - A DP Framework for Gaining Insights into AI Chatbot Use",
@@ -1627,6 +1793,24 @@
       "video_id": "60vxvQDAU4A",
       "title": "OSDI '26 - Neuro-Symbolic Proof Generation for Scaling Systems Software Verification",
       "duration_s": 1011,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "62kRg0YRiLc": {
+      "video_id": "62kRg0YRiLc",
+      "title": "SREcon26 Europe/Middle East/Africa - Incident Response & AI - The Hard Parts",
+      "duration_s": 2763,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "66cA5b_Q0Os": {
+      "video_id": "66cA5b_Q0Os",
+      "title": "SREcon26 Europe/Middle East/Africa - Do Startups Have Time for STAMP's Controlling Ways?",
+      "duration_s": 2441,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -1803,6 +1987,15 @@
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
     },
+    "6YLCeS0jl5Y": {
+      "video_id": "6YLCeS0jl5Y",
+      "title": "USENIX Security '26 - iROV: Breaking the Silence of RPKI with Interactive Validation",
+      "duration_s": 684,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "6a3ba37rVN8": {
       "video_id": "6a3ba37rVN8",
       "title": "VehicleSec '25 - WIP: A Black Box System for Automotive Digital Forensics",
@@ -1947,6 +2140,15 @@
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
     },
+    "70x8DFsmm20": {
+      "video_id": "70x8DFsmm20",
+      "title": "USENIX Security '26 - Regular Expression Denial of Service Induced by Backreferences",
+      "duration_s": 1241,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "78Y-KJIpOPA": {
       "video_id": "78Y-KJIpOPA",
       "title": "USENIX Security '25 - Vest: Verified, Secure, High-Performance Parsing and Serialization for Rust",
@@ -1992,6 +2194,19 @@
       "year": null,
       "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
+    "79ji7uky_wo": {
+      "video_id": "79ji7uky_wo",
+      "title": "USENIX Security '26 - Cordyceps: Covert Control Attacks on LLMs via Data Poisoning",
+      "duration_s": 1073,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos",
+      "description": "USENIX Security '26 - Cordyceps: Covert Control Attacks on LLMs via Data Poisoning\n\nZedian Shao, Georgia Institute of Technology; Charles Fleming, Cisco Systems; Teodora Baluta, Georgia Institute of Technology\n\nLarge language models (LLMs) are often fine-tuned on uncurated text datasets that adversaries can poison. Existing poisoning attacks primarily rely on fixed trigger phrases that defenses such as outlier detection, clean-data regularization, or online monitoring can neutralize. In this paper, we propose a data poisoning method that teaches an LLM an information hiding scheme reliably and stealthily through semantic associations between shared knowledge such as facts or concepts and attacker-chosen phrases. The induced hiding scheme can encode and decode arbitrary malicious instructions, thus revealing a new and subtle poisoning-induced vulnerability: covert control attacks.\nWe precisely characterize covert control attacks and evaluate them across 5 LLMs, 3 backdoor defenses, and 4 prompt injection defenses. With a small poisoned fraction, covert control attacks outperform heuristic-based prompt injection attacks in average attack success rate by about 40% relative to clean fine-tuned models. They also circumvent defenses based on detection and fine-tuning, maintaining up to 93% attack success rate after backdoor defenses and up to 98% after prompt injection defenses. Our code and data are available at https://github.com/Sadcardation/cordyceps.\n\nView the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
+      "published_at": "2026-11-04T22:47:57Z",
+      "tags": [],
+      "details_at": "2026-11-07T22:15:57+00:00"
+    },
     "7DTU4oi71ic": {
       "video_id": "7DTU4oi71ic",
       "title": "NSDI '26 - FalconFS: Distributed File System for Large-Scale Deep Learning Pipeline",
@@ -2009,6 +2224,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
+    },
+    "7DiSC6cxujc": {
+      "video_id": "7DiSC6cxujc",
+      "title": "SREcon26 Europe/Middle East/Africa - The Isolation Paradox: How Sharding a Multi-Tenant Platform...",
+      "duration_s": 959,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "7G51B3pgfFU": {
       "video_id": "7G51B3pgfFU",
@@ -2082,6 +2306,15 @@
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
     },
+    "7QzFmfdoZQQ": {
+      "video_id": "7QzFmfdoZQQ",
+      "title": "SREcon26 Europe/Middle East/Africa - An Anthropologist's View of Site Reliability Engineering",
+      "duration_s": 1691,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "7VYDTlol0uM": {
       "video_id": "7VYDTlol0uM",
       "title": "USENIX ATC '25 - Turbocharge ANNS on Real Processing-in-Memory by Enabling Fine-Grained Per-PIM...",
@@ -2135,6 +2368,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
+    },
+    "7gjoasFR6ZM": {
+      "video_id": "7gjoasFR6ZM",
+      "title": "SREcon26 Europe/Middle East/Africa - Lightning Talk - Learn You a Solver for Great Good",
+      "duration_s": 265,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "7mkkDIrrkCo": {
       "video_id": "7mkkDIrrkCo",
@@ -2613,10 +2855,19 @@
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
     },
+    "9H8jxOgim5s": {
+      "video_id": "9H8jxOgim5s",
+      "title": "USENIX Security '26 - B-Privacy: Defining and Enforcing Privacy in Weighted Voting",
+      "duration_s": 1162,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "9HJN_YJ1J60": {
       "video_id": "9HJN_YJ1J60",
       "title": "OSDI '26 - VTC: DNN Compilation with Virtual Tensors for Data Movement Elimination",
-      "duration_s": 921,
+      "duration_s": 922,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -2757,6 +3008,15 @@
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
     },
+    "9rs5zpCMFP8": {
+      "video_id": "9rs5zpCMFP8",
+      "title": "SREcon26 Europe/Middle East/Africa - How Managed Is Your Managed Platform?",
+      "duration_s": 847,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "9zfjSbzmb3I": {
       "video_id": "9zfjSbzmb3I",
       "title": "NSDI '26 - XLL: Cross-Layer Logging for Data Deduplication in Consensus-Based Storage",
@@ -2810,6 +3070,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
+    },
+    "A45ERa2itiI": {
+      "video_id": "A45ERa2itiI",
+      "title": "SREcon26 Europe/Middle East/Africa - From Space to Software: Reliability Lessons 40 Years after...",
+      "duration_s": 949,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "A5hAw5pCIko": {
       "video_id": "A5hAw5pCIko",
@@ -3063,6 +3332,15 @@
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
     },
+    "BA2hqZZK0ec": {
+      "video_id": "BA2hqZZK0ec",
+      "title": "SREcon26 Europe/Middle East/Africa - Are You Talking to Me? Confidence Entanglement in...",
+      "duration_s": 696,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "BAT-DEx037c": {
       "video_id": "BAT-DEx037c",
       "title": "NSDI '26 - Law: Towards Consistent Low Latency in 802.11 Home Networks",
@@ -3089,6 +3367,19 @@
       "label": "USENIX Security",
       "year": null,
       "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "BCrJV71EQQQ": {
+      "video_id": "BCrJV71EQQQ",
+      "title": "USENIX Security '26 - SoK: PHILTER: Uncovering Security and Functional Gaps in AI-based Phishing We…",
+      "duration_s": 1041,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos",
+      "description": "USENIX Security '26 - SoK: PHILTER: Uncovering Security and Functional Gaps in AI-based Phishing Website Detection Literature via an LLM-based Reasoning Framework\n\nMahbub Alam, Texas A&M University; Muhammad Lutfor Rahman, California State University San Marcos; Sonjoy Kumar Paul, Amy W. Hays, Aftab Hussain, Md Imanul Huq, and Nitesh Saxena, Texas A&M University\n\nPhishing websites remain a dominant enabler of cybercrime. In response, many academic AI-based phishing website detection methods have been developed, often inspiring the design of real-world systems. Although most studies report high accuracy, it remains unclear whether they meet real-world requirements such as resilience to evolving phishing tactics, robustness on diverse benign pages, interpretability, and privacy. We present PHILTER (PHishing detection literature Inspection via LLMs and Targeted Expert Review), a scalable framework for qualitatively assessing phishing website detection studies across four functionality and three security metrics. PHILTER leverages LLMs to extract evidence and draft rationales, which experts then validate and use to produce the final assessment. Applying it to 55 academic approaches reveals systemic gaps. No study fulfills all functionality and security requirements. None show evidence of effectively addressing diverse phishing tactics. Most approaches struggle to preserve privacy and adapt to evolving attacker strategies, and many risk elevated false alarms in practice due to limited testing on diverse benign pages. We also introduce a taxonomy of detection strategies (feature-based, similarity-based, identity-based, and hybrid) that highlights design trade-offs and helps explain these shortcomings. Our study reveals that accuracy-driven evaluation overlooks blind spots that undermine practical effectiveness and exposes a key open challenge: achieving high accuracy while fulfilling all functionality and security requirements. We provide actionable recommendations to guide the design of future defenses that pursue this simultaneous goal against evolving and adaptive phishing campaigns.\n\nView the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
+      "published_at": "2026-10-28T01:28:34Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "BFddyTM7SdY": {
       "video_id": "BFddyTM7SdY",
@@ -3648,6 +3939,15 @@
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
     },
+    "ClrmFZmjbW4": {
+      "video_id": "ClrmFZmjbW4",
+      "title": "OSDI '26 - Incr: Faster Re-Execution via Bolt-On Incrementalization",
+      "duration_s": 735,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "CrbY6Ujo2pI": {
       "video_id": "CrbY6Ujo2pI",
       "title": "OSDI '26 - Equal Opportunity: A Correctness Condition for Ordered Consensus",
@@ -3675,10 +3975,28 @@
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
     },
+    "CzT29WhP404": {
+      "video_id": "CzT29WhP404",
+      "title": "SREcon26 Europe/Middle East/Africa - AGI and SRE",
+      "duration_s": 2273,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "D5nHTHdKeoY": {
       "video_id": "D5nHTHdKeoY",
       "title": "OSDI '26 - DPA-Store: An Ordered Network Data Path Key-Value Store",
       "duration_s": 941,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "D9-zjWx81zs": {
+      "video_id": "D9-zjWx81zs",
+      "title": "SREcon26 Europe/Middle East/Africa - Who Owns the Incident? The Hidden Costs of Centralized vs. ...",
+      "duration_s": 2017,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -3737,6 +4055,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
+    },
+    "DE_4uaW40sE": {
+      "video_id": "DE_4uaW40sE",
+      "title": "USENIX Security '26 - What You Decode Depends on Where You Stand: Distance-Based Optical QR Code",
+      "duration_s": 1449,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "DFLyYxjlsms": {
       "video_id": "DFLyYxjlsms",
@@ -3864,6 +4191,15 @@
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
     },
+    "DTZBFOSqw6g": {
+      "video_id": "DTZBFOSqw6g",
+      "title": "USENIX Security '26 - Hydrangea: Optimistic Two-Round Partial Synchrony with Improved Fault Resilie…",
+      "duration_s": 1172,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "DUDlCkM8BgQ": {
       "video_id": "DUDlCkM8BgQ",
       "title": "SREcon25 Europe/Middle East/Africa - What I Wish I Knew Before Choosing Spot Instances",
@@ -3899,6 +4235,19 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
+    },
+    "Dm1xeKOzfP4": {
+      "video_id": "Dm1xeKOzfP4",
+      "title": "USENIX Security '26 - Identifying Provenance of Generative Text-to-Image Models",
+      "duration_s": 772,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos",
+      "description": "USENIX Security '26 - Identifying Provenance of Generative Text-to-Image Models\n\nAnna Yoo Jeong Ha, Wenxin Ding, Stanley Wu, Shawn Shan, Haitao Zheng, and Ben Y. Zhao, University of Chicago\n\nFine-tuning provides a fast and cheap way to produce new text-to-image models that are often indistinguishable from ones trained from scratch. Unfortunately, misrepresentation of fine-tuned models creates problems for AI companies and users alike, by disincentivizing competition and misleading users on model quality and ethics of its training process.\nIn this paper, we propose a model provenance system that identifies models produced by fine-tuning on existing text-to-image models, using only black-box query access. Our design is informed by analysis showing that one can quantify the feature space difference between text-to-image models by analyzing their responses to detailed prompts. Our system analyzes model output, extracts visual features using a generic feature extractor, and compares their distributions against those from a reference pool of base models using Jensen-Shannon divergence. Applying statistical hypothesis testing then determines if a target model is trained from scratch or fine-tuned, and if the latter, the likely base (parent) model. We evaluate our system across seven widely used diffusion models and numerous fine-tuned variants. Our results show high accuracy in attributing model lineage, even under adversarial conditions such as image post-processing or weight perturbations. Finally, we demonstrate real world efficacy of our system by tracing provenance of in-the-wild models from popular online platforms.\n\nView the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
+      "published_at": "2026-10-28T01:28:26Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "Dq8df9ds0rw": {
       "video_id": "Dq8df9ds0rw",
@@ -3972,6 +4321,15 @@
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
     },
+    "E488ySrIORw": {
+      "video_id": "E488ySrIORw",
+      "title": "USENIX Security '26 - Cross-National Information Attacks: A Two-Decade Analysis of Troll Behavior i…",
+      "duration_s": 622,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "E4mltBgMPjI": {
       "video_id": "E4mltBgMPjI",
       "title": "NSDI '25 - ONCache: A Cache-Based Low-Overhead Container Overlay Network",
@@ -3989,6 +4347,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:00+00:00"
+    },
+    "E6GC5S11Uy4": {
+      "video_id": "E6GC5S11Uy4",
+      "title": "SREcon26 Europe/Middle East/Africa - How the Hell Do We Pay for All This? The Bill Inside the Bill",
+      "duration_s": 2525,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "E9HWgSliddo": {
       "video_id": "E9HWgSliddo",
@@ -4061,6 +4428,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
+    },
+    "ERxQDqtTa_4": {
+      "video_id": "ERxQDqtTa_4",
+      "title": "SREcon26 Europe/Middle East/Africa - Beyond Blast Radius: Dimensions of...",
+      "duration_s": 995,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "ESUM_Ptjo_U": {
       "video_id": "ESUM_Ptjo_U",
@@ -4196,6 +4572,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
+    },
+    "F6vJkVb0lfY": {
+      "video_id": "F6vJkVb0lfY",
+      "title": "SREcon26 Europe/Middle East/Africa - Why Can't We Stop Asking \"What Does It Mean to Be SRE\"?",
+      "duration_s": 2420,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "FC3x8ieVLZY": {
       "video_id": "FC3x8ieVLZY",
@@ -4800,6 +5185,15 @@
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
     },
+    "HOTD0T1inus": {
+      "video_id": "HOTD0T1inus",
+      "title": "SREcon26 Europe/Middle East/Africa - Lightning Talk - Why Your Kubernetes Autoscaler Fails LLM...",
+      "duration_s": 279,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "HWypdFXvX8A": {
       "video_id": "HWypdFXvX8A",
       "title": "USENIX ATC '25 - Accelerating Distributed Graph Learning by Using Collaborative In-Network...",
@@ -5106,6 +5500,15 @@
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
     },
+    "IhuYDTzQfYE": {
+      "video_id": "IhuYDTzQfYE",
+      "title": "SREcon26 Europe/Middle East/Africa - The Doubtful Guest: Fail-Slow Failures in AI Training",
+      "duration_s": 1877,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "IiU7_EtXKVk": {
       "video_id": "IiU7_EtXKVk",
       "title": "NSDI '26 - Express Lane to Efficiency and Reliability: Multi-Dimensional Control in Meta’s Express..",
@@ -5123,6 +5526,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
+    },
+    "IpBw1G46mNc": {
+      "video_id": "IpBw1G46mNc",
+      "title": "USENIX Security '26 - Security and Privacy Analysis of Tile's Location Tracking Protocol",
+      "duration_s": 861,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "IqqK2xe7J3g": {
       "video_id": "IqqK2xe7J3g",
@@ -5213,6 +5625,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
+    },
+    "J281M0xKcOA": {
+      "video_id": "J281M0xKcOA",
+      "title": "OSDI '26 - Heterogeneity at Hyperscale: Characterization and Scheduling of Large Production...",
+      "duration_s": 1146,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "J2RmtTfgPqQ": {
       "video_id": "J2RmtTfgPqQ",
@@ -5430,6 +5851,15 @@
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
     },
+    "KJXRVefOUcw": {
+      "video_id": "KJXRVefOUcw",
+      "title": "SREcon26 Europe/Middle East/Africa - From Cost Center to Data Plane: Big League Observability...",
+      "duration_s": 1030,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "KLWOAqTcLHo": {
       "video_id": "KLWOAqTcLHo",
       "title": "VehicleSec '25 - SoK: Stealing Cars Since Remote Keyless Entry Introduction and How to Defend...",
@@ -5511,6 +5941,15 @@
       ],
       "details_at": "2026-09-06T13:24:17+00:00"
     },
+    "KbsnPjxs-DA": {
+      "video_id": "KbsnPjxs-DA",
+      "title": "SREcon26 Europe/Middle East/Africa - Making Software Debloating Production Ready",
+      "duration_s": 2281,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "KcEUCYj_ZIo": {
       "video_id": "KcEUCYj_ZIo",
       "title": "SOUPS 2025 - “TikTok, Do Your Thing”: User Reactions to Social Surveillance in the Public Sphere",
@@ -5528,6 +5967,15 @@
         "open access"
       ],
       "details_at": "2026-09-06T13:24:17+00:00"
+    },
+    "Kdxz83-umMI": {
+      "video_id": "Kdxz83-umMI",
+      "title": "USENIX Security '26 - Side-Channel Attacks on Open vSwitch",
+      "duration_s": 980,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "Kf6P6RdGi5k": {
       "video_id": "Kf6P6RdGi5k",
@@ -5745,6 +6193,15 @@
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
     },
+    "LWxB7kdc89k": {
+      "video_id": "LWxB7kdc89k",
+      "title": "SREcon26 Europe/Middle East/Africa - Performance Prompts",
+      "duration_s": 2753,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "L_FBPk6Xzgg": {
       "video_id": "L_FBPk6Xzgg",
       "title": "PEPR '26 - Profile-Then-Simulate: Can LLMs Faithfully Generate Differentially Private Synthetic...",
@@ -5852,6 +6309,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
+    },
+    "LuMVrdpNPNs": {
+      "video_id": "LuMVrdpNPNs",
+      "title": "USENIX Security '26 - Resilience Amid Diffused Surveillance During a Political Movement in Banglade…",
+      "duration_s": 1040,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "Lubca0kJq3U": {
       "video_id": "Lubca0kJq3U",
@@ -6006,6 +6472,15 @@
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
     },
+    "MSAP_YJ1kws": {
+      "video_id": "MSAP_YJ1kws",
+      "title": "USENIX Security '26 - Interpolation-Based Optimization for Enforcing lp-Norm Metric Differential Pr…",
+      "duration_s": 988,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "MUxc4zYUl-Y": {
       "video_id": "MUxc4zYUl-Y",
       "title": "OSDI '26 - μUSB: Practical and Safe USB Driver Reuse for Arm TrustZone",
@@ -6046,6 +6521,15 @@
       "video_id": "MXTzFy0iBx8",
       "title": "OSDI '26 - ADAngel: Accelerating Arbitrary-Precision Quantized LLMs with Adaptive Computing Mapping",
       "duration_s": 1036,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "MaKRLgXzWp0": {
+      "video_id": "MaKRLgXzWp0",
+      "title": "USENIX Security '26 - Technical Analysis of the Geedge Networks Firewall Source Code Leak",
+      "duration_s": 910,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -6122,6 +6606,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
+    },
+    "N-3tWfVe_cs": {
+      "video_id": "N-3tWfVe_cs",
+      "title": "SREcon26 Europe/Middle East/Africa - What Userland Utilities Won't Tell You: Uncovering Hidden...",
+      "duration_s": 2188,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "N-ljCebXugw": {
       "video_id": "N-ljCebXugw",
@@ -6843,6 +7336,15 @@
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
     },
+    "Pp028UHm8Eo": {
+      "video_id": "Pp028UHm8Eo",
+      "title": "SREcon26 Europe/Middle East/Africa - How Uber Validates Failover Resilience in Production",
+      "duration_s": 2150,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "Pqn272oHDII": {
       "video_id": "Pqn272oHDII",
       "title": "NSDI '25 - The Benefits and Limitations of User Interrupts for Preemptive Userspace Scheduling",
@@ -6883,6 +7385,15 @@
       "video_id": "PrrCezSs1XA",
       "title": "OSDI '26 - RollArt: Disaggregated Multi-Task Agentic RL Training at Scale",
       "duration_s": 916,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "PveQkuu_ZPs": {
+      "video_id": "PveQkuu_ZPs",
+      "title": "USENIX Security '26 - Exploring Privacy Negotiation Strategies for Camera-Equipped Smart Home Devic…",
+      "duration_s": 764,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -6951,6 +7462,15 @@
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
     },
+    "Q6rhdJr_J4M": {
+      "video_id": "Q6rhdJr_J4M",
+      "title": "USENIX Security '26 - PICS: Private Intersection over Committed (and reusable) Sets",
+      "duration_s": 1229,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "Q7UjBvix-Uc": {
       "video_id": "Q7UjBvix-Uc",
       "title": "USENIX Security '25 - Breaking the Blindfold: Deep Learning-based Blind Side-channel Analysis",
@@ -6986,6 +7506,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
+    },
+    "QQX1Ep_P-5M": {
+      "video_id": "QQX1Ep_P-5M",
+      "title": "SREcon26 Europe/Middle East/Africa - Safe, Empowered, Tired: The Human Side of 24x7 Banking SRE...",
+      "duration_s": 936,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "QRMNZPRmnqI": {
       "video_id": "QRMNZPRmnqI",
@@ -7104,6 +7633,15 @@
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
     },
+    "Qal2nP0oz1k": {
+      "video_id": "Qal2nP0oz1k",
+      "title": "USENIX Security '26 - End-to-End Encrypted Collaborative Documents",
+      "duration_s": 1016,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "QrrMyd6sPW4": {
       "video_id": "QrrMyd6sPW4",
       "title": "SREcon26 Americas - Autonomous Policy Validation: Building AI Agents to Analyze Logs and Identify...",
@@ -7203,6 +7741,15 @@
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
     },
+    "R4sK7upTeAU": {
+      "video_id": "R4sK7upTeAU",
+      "title": "USENIX Security '26 - Perils of Parallelism: Transaction Fee Mechanisms under Execution Uncertainty",
+      "duration_s": 1101,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "R6QG0su_9Oc": {
       "video_id": "R6QG0su_9Oc",
       "title": "NSDI '26 - Net-P4ct: Enhanced WAN Bandwidth Fair Sharing Using P4 Programmable Switches",
@@ -7238,6 +7785,24 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
+    },
+    "RNRXN9lW93k": {
+      "video_id": "RNRXN9lW93k",
+      "title": "USENIX Security '26 - DDR-SSE: Duplicated Retrieval of Documents for System-wide Secure Searchable…",
+      "duration_s": 919,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "RPiqmAiPiro": {
+      "video_id": "RPiqmAiPiro",
+      "title": "USENIX Security '26 - Bridging Usability and Performance: A Tensor Compiler for Autovectorizing Hom…",
+      "duration_s": 935,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "RXxtoAMorlE": {
       "video_id": "RXxtoAMorlE",
@@ -7374,6 +7939,15 @@
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
     },
+    "S-RkeQCrSys": {
+      "video_id": "S-RkeQCrSys",
+      "title": "USENIX Security '26 - PROBE+DETECT+MITIGATE (PDM): Enabling Cloud Tenants to Self-Defend against Mi…",
+      "duration_s": 1132,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "S4-OpooDEpc": {
       "video_id": "S4-OpooDEpc",
       "title": "USENIX ATC '25 - Universal Checkpointing: A Flexible and Efficient Distributed Checkpointing...",
@@ -7509,6 +8083,15 @@
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
     },
+    "SZiSATibAgw": {
+      "video_id": "SZiSATibAgw",
+      "title": "SREcon26 Europe/Middle East/Africa - Operating the Unobservable: Building Observability for...",
+      "duration_s": 2076,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "SdxeGBS7290": {
       "video_id": "SdxeGBS7290",
       "title": "SREcon25 Europe/Middle East/Africa - The SRE’s Crystal Ball: Predicting System Performance with...",
@@ -7530,7 +8113,7 @@
     "SqSs-NdWyk0": {
       "video_id": "SqSs-NdWyk0",
       "title": "USENIX Security '26 (Enigma Track) - What Is a PUF and Why Might You Need One?",
-      "duration_s": 1285,
+      "duration_s": 1286,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -7571,6 +8154,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
+    },
+    "SzEqq8gFBi0": {
+      "video_id": "SzEqq8gFBi0",
+      "title": "SREcon26 Europe/Middle East/Africa - Automating AI out of a Job: Vibing SRE Learning Materials",
+      "duration_s": 968,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "T1DtBdls18o": {
       "video_id": "T1DtBdls18o",
@@ -7725,6 +8317,15 @@
       "year": null,
       "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
+    "U87fvpoTBI4": {
+      "video_id": "U87fvpoTBI4",
+      "title": "USENIX Security '26 - WILD Attack: Stealthy Undermining of Wi-Fi-Based Geolocation Through Remote C…",
+      "duration_s": 957,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "U91rCPRM4zc": {
       "video_id": "U91rCPRM4zc",
       "title": "SREcon25 Europe/Middle East/Africa - ACK to the Future: TCP in 2025",
@@ -7806,6 +8407,33 @@
       "year": null,
       "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
+    "UKH5m05Q1fY": {
+      "video_id": "UKH5m05Q1fY",
+      "title": "USENIX Security '26 - What Adults Will (and Won't) Do to Prove Their Age: Empirical Evidence from a…",
+      "duration_s": 971,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "UKai_IiBQQs": {
+      "video_id": "UKai_IiBQQs",
+      "title": "USENIX Security '26 - Low-Cost Hard-Label Adversarial Attack with Theoretical Foundations",
+      "duration_s": 464,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "UNASgYzp2w8": {
+      "video_id": "UNASgYzp2w8",
+      "title": "USENIX Security '26 - FLOSS: Fast Linear Online Secret-Shared Shuffling",
+      "duration_s": 977,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "UYOJe_ISIlo": {
       "video_id": "UYOJe_ISIlo",
       "title": "FAST '26 - CoFS: A Filesystem for Fast Container Startup",
@@ -7841,6 +8469,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
+    },
+    "UiyqKiKua74": {
+      "video_id": "UiyqKiKua74",
+      "title": "USENIX Security '26 - BugAuditor: Detecting Bugs via Inconsistent Defensive Code Auditing",
+      "duration_s": 1083,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "UkmheMvupRA": {
       "video_id": "UkmheMvupRA",
@@ -7896,6 +8533,15 @@
       ],
       "details_at": "2026-08-31T15:36:01+00:00"
     },
+    "V4CDbcnOU8c": {
+      "video_id": "V4CDbcnOU8c",
+      "title": "USENIX Security '26 - The State of Passkeys: Studying the Adoption and Security of Passkeys on the…",
+      "duration_s": 735,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "V9dXZJukgNY": {
       "video_id": "V9dXZJukgNY",
       "title": "USENIX ATC '25 - CrossPipe: Towards Optimal Pipeline Schedules for Cross-Datacenter Training",
@@ -7917,7 +8563,7 @@
     "V9kxql8W0ig": {
       "video_id": "V9kxql8W0ig",
       "title": "OSDI '26 - Controlling Opaque-Component Effects with Semisolates and Try",
-      "duration_s": 722,
+      "duration_s": 723,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -7962,7 +8608,16 @@
     "VHZbH0NaPC4": {
       "video_id": "VHZbH0NaPC4",
       "title": "OSDI '26 - Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms",
-      "duration_s": 982,
+      "duration_s": 983,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "VIMimTgE3bE": {
+      "video_id": "VIMimTgE3bE",
+      "title": "USENIX Security '26 - Patcher: Post-Hoc Patching of Backdoored Large Language Models",
+      "duration_s": 865,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -8211,6 +8866,15 @@
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
     },
+    "W23XwfCfanM": {
+      "video_id": "W23XwfCfanM",
+      "title": "USENIX Security '26 - FABS: Fast Attribute-Based Signatures",
+      "duration_s": 1094,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "W32K7smh-_o": {
       "video_id": "W32K7smh-_o",
       "title": "USENIX ATC '25 - GMI-DRL: Empowering Multi-GPU DRL with Adaptive-Grained Parallelism",
@@ -8238,6 +8902,15 @@
       "year": null,
       "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
+    "WFXbx3tK80Y": {
+      "video_id": "WFXbx3tK80Y",
+      "title": "USENIX Security '26 - Orbit: Optimizing Rescale and Bootstrap Placement with Integer Linear Program…",
+      "duration_s": 1176,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "WGeKq9xg_ws": {
       "video_id": "WGeKq9xg_ws",
       "title": "WOOT '25 - Prekey Pogo: Investigating Security and Privacy Issues in WhatsApp's Handshake Mechanism",
@@ -8255,6 +8928,19 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
+    },
+    "WHIc6MMeMEU": {
+      "video_id": "WHIc6MMeMEU",
+      "title": "USENIX Security '26 - CompLeak: Deep Learning Model Compression Exacerbates Privacy Leakage",
+      "duration_s": 778,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos",
+      "description": "USENIX Security '26 - CompLeak: Deep Learning Model Compression Exacerbates Privacy Leakage\n\nNa Li, School of Cyber Science and Engineering, Nanjing University of Science and Technology, China; Yansong Gao, School of Cyber Science and Engineering, Southeast University, China; Hongsheng Hu, School of Computer Science, Shanghai Jiao Tong University, China; Boyu Kuang, School of Cyber Science and Engineering, Nanjing University of Science and Technology, China; Anmin Fu, School of Cyber Science and Engineering, Nanjing University of Science and Technology, China; and School of Computer Science and Engineering, Nanjing University of Science and Technology, China\nDistinguished Artifact Award Winner\n\nModel compression is crucial for minimizing memory storage and accelerating inference in deep learning (DL) models. Users can access different compressed model versions according to their resources and budget. However, while existing compression operations primarily focus on optimizing the trade-off between resource efficiency and model performance, the privacy risks introduced by compression remain overlooked and insufficiently understood.\nIn this work that focuses on typical classification tasks, through the lens of membership inference attack (MIA), we propose CompLeak, the first privacy risk evaluation framework examining three widely used compression configurations that are pruning, quantization, and weight clustering all supported by the commercial model compression framework of Google's TensorFlow-Lite (TF-Lite), and first two supported by Facebook's PyTorch Mobile and the open-source toolkit of Microsoft NNI. CompLeak has three variants, given access to the available number of compressed models and/or the original model. CompLeakNR starts by adopting existing MIA methods to attack each individual compressed model, and identifies that different compressed models influence members and non-members differently. When the original model and one compressed model are available, CompLeakSR leverages the compressed model as a reference to the original model and uncovers more privacy by combining meta information (e.g., confidence vector) from both models. When multiple compressed models are available with/without accessing the original model, CompLeakMR innovatively exploits privacy leakage info from multiple compressed versions to substantially signify the overall privacy leakage. We conduct extensive experiments on six diverse model architectures (from ResNet to BERT and GPT-2), and five image and textual benchmark datasets. Our experimental results show that CompLeakMR achieves the best MIA performance on all evaluation metrics, including TPR @ 0.1% FPR, proving that model compression exacerbates privacy leakage.\n\nView the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
+      "published_at": "2026-10-28T01:28:37Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "WIKoD8Fsp6Q": {
       "video_id": "WIKoD8Fsp6Q",
@@ -8580,6 +9266,15 @@
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
     },
+    "XjhOi5YdISI": {
+      "video_id": "XjhOi5YdISI",
+      "title": "USENIX Security '26 - Ira: Efficient Transaction Replay for Distributed Systems",
+      "duration_s": 1188,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "Xlk5VoCRI8c": {
       "video_id": "Xlk5VoCRI8c",
       "title": "VehicleSec '26 - Bridging Two TARAs: Integrating MITRE CTSA/CRRA Prioritization into ISO/SAE...",
@@ -8633,6 +9328,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
+    },
+    "XvbfU6feF-g": {
+      "video_id": "XvbfU6feF-g",
+      "title": "SREcon26 Europe/Middle East/Africa - Tribute to Philip Rowlands",
+      "duration_s": 581,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "Xyix3IdVLPQ": {
       "video_id": "Xyix3IdVLPQ",
@@ -8805,6 +9509,15 @@
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
     },
+    "YU421XAuGsA": {
+      "video_id": "YU421XAuGsA",
+      "title": "USENIX Security '26 - BUIzz: Finding Policy Enforcement Bugs via Interaction Simulation on the Brow…",
+      "duration_s": 779,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "YZk3LQi8dNc": {
       "video_id": "YZk3LQi8dNc",
       "title": "VehicleSec '26 - MIRAGE: Detecting Fake Emergency Electronic Brake Light Attacks in V2X Networks...",
@@ -8922,6 +9635,15 @@
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
     },
+    "Z4d3P40IbtA": {
+      "video_id": "Z4d3P40IbtA",
+      "title": "USENIX Security '26 - ARTO: Efficient Execution Integrity Attestation for Real-Time Operation of Cy…",
+      "duration_s": 985,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "Z9tnNTTz6GM": {
       "video_id": "Z9tnNTTz6GM",
       "title": "SREcon25 Europe/Middle East/Africa - Honey, I Shrunk the Data Center!",
@@ -8989,6 +9711,15 @@
       "video_id": "ZKiu1JLeCW8",
       "title": "USENIX Security '26 (Enigma Track) - How Can We Have Private Access to Intelligence?",
       "duration_s": 1139,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "ZS1MxDu-vx0": {
+      "video_id": "ZS1MxDu-vx0",
+      "title": "SREcon26 Europe/Middle East/Africa - Experimenting with Fire: Protecting Production from...",
+      "duration_s": 1815,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -9129,6 +9860,15 @@
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
     },
+    "_6P9pOmVg7g": {
+      "video_id": "_6P9pOmVg7g",
+      "title": "USENIX Security '26 - Credible Threat Detection? Measuring Contribution Dynamics and Quality Contro…",
+      "duration_s": 752,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "_8r0Yn1Nh0U": {
       "video_id": "_8r0Yn1Nh0U",
       "title": "USENIX Security '25 (Enigma Track) - Zombie Devices Are Running Amuck!",
@@ -9183,6 +9923,15 @@
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
     },
+    "_ChlZnCdDIo": {
+      "video_id": "_ChlZnCdDIo",
+      "title": "USENIX Security '26 - XGuardian: Towards Generalized, Explainable and More Effective Server-side An…",
+      "duration_s": 1231,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "_FpCefZeObw": {
       "video_id": "_FpCefZeObw",
       "title": "USENIX Security '25- ORTHRUS: Achieving High Quality of Attribution in Provenance-based Intrusion...",
@@ -9200,6 +9949,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
+    },
+    "_KiaptqoyQw": {
+      "video_id": "_KiaptqoyQw",
+      "title": "USENIX Security '26 - Anonymous Tokens with Designated-Reader Metadata Bit",
+      "duration_s": 773,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "_PyngibbWC8": {
       "video_id": "_PyngibbWC8",
@@ -9254,6 +10012,24 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
+    },
+    "_cZzLEwVKQk": {
+      "video_id": "_cZzLEwVKQk",
+      "title": "USENIX Security '26 - ARM MTE Performance in Practice",
+      "duration_s": 1214,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "_ounExZpvxs": {
+      "video_id": "_ounExZpvxs",
+      "title": "USENIX Security '26 - BlockMeNot: Automatic Selection of Domain and URL Blocking Granularity to Min…",
+      "duration_s": 800,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "a2RUtZCuyyA": {
       "video_id": "a2RUtZCuyyA",
@@ -9561,6 +10337,15 @@
       "year": null,
       "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
+    "aoCMD5rYh_k": {
+      "video_id": "aoCMD5rYh_k",
+      "title": "USENIX Security '26 - HAMLOCK: HArdware-Model LOgically Combined attacK",
+      "duration_s": 864,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "aoEHRBv-_Bo": {
       "video_id": "aoEHRBv-_Bo",
       "title": "OSDI '26 - Efficient LLM Serving on Commodity GPU Clusters with Data-Reduced Cross-Instance...",
@@ -9641,6 +10426,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
+    },
+    "bIdUNn_0pOk": {
+      "video_id": "bIdUNn_0pOk",
+      "title": "USENIX Security '26 - Do You Need a Receipt? Anonymous Credential Revocation at Continental Scale v…",
+      "duration_s": 981,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "bLr_5OuiUVc": {
       "video_id": "bLr_5OuiUVc",
@@ -9804,6 +10598,19 @@
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
     },
+    "bc7UIBBETvI": {
+      "video_id": "bc7UIBBETvI",
+      "title": "USENIX Security '26 - Window-based Membership Inference Attacks Against Fine-tuned Large Language M…",
+      "duration_s": 1208,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos",
+      "description": "USENIX Security '26 - Window-based Membership Inference Attacks Against Fine-tuned Large Language Models\n\nYuetian Chen, Yuntao Du, and Kaiyuan Zhang, Purdue University; Ashish Kundu, Cisco Research; Charles Fleming, Cisco Systems; Bruno Ribeiro and Ninghui Li, Purdue University\n\nMost membership inference attacks (MIAs) against Large Language Models (LLMs) rely on global signals, like average loss, to identify training data. This approach, however, dilutes the subtle, localized signals of memorization, reducing attack effectiveness. We challenge this global-averaging paradigm, positing that membership signals are more pronounced within localized contexts. We introduce WBC (Window-Based Comparison), which exploits this insight through a sliding window approach with sign-based aggregation. Our method slides windows of varying sizes across text sequences, with each window casting a binary vote on membership based on loss comparisons between target and reference models. By ensembling votes across geometrically spaced window sizes, we capture memorization patterns from token-level artifacts to phrase-level structures. Extensive experiments across eleven datasets demonstrate that WBC substantially outperforms established baselines, achieving higher AUC scores and 2–3× improvements in detection rates at low false positive thresholds. Our findings reveal that aggregating localized evidence is fundamentally more effective than global averaging, exposing critical privacy vulnerabilities in fine-tuned LLMs.\n\nView the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
+      "published_at": "2026-10-28T01:30:25Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
+    },
     "bcbf1lLsI3g": {
       "video_id": "bcbf1lLsI3g",
       "title": "WOOT '25 - Reality Check on Side-Channels: Lessons learnt from breaking AES on ARM Cortex-A72...",
@@ -9839,6 +10646,19 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
+    },
+    "br66tabsgN4": {
+      "video_id": "br66tabsgN4",
+      "title": "USENIX Security '26 - Inference Attacks Against Graph Generative Diffusion Models",
+      "duration_s": 891,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos",
+      "description": "USENIX Security '26 - Inference Attacks Against Graph Generative Diffusion Models\n\nXiuling Wang and Xin Huang, Hong Kong Baptist University; Guibo Luo, Peking University; Jianliang Xu, Hong Kong Baptist University\n\nGraph generative diffusion models have recently emerged as a powerful paradigm for generating complex graph structures, effectively capturing intricate dependencies and relationships within graph data. However, the privacy risks associated with these models remain largely unexplored. In this paper, we investigate information leakage in such models through three types of black-box inference attacks. First, we design a graph reconstruction attack, which can reconstruct graphs structurally similar to those training graphs from the generated graphs. Second, we propose a property inference attack to infer the properties of the training graphs, such as the average graph density and the distribution of densities, from the generated graphs. Third, we develop two membership inference attacks to determine whether a given graph is present in the training set. Extensive experiments on three different types of graph generative diffusion models and six real-world graphs demonstrate the effectiveness of these attacks, significantly outperforming the baseline approaches. Finally, we propose two defense mechanisms that mitigate these inference attacks and achieve a better trade-off between defense strength and target model utility than existing methods. Our code is available at https://zenodo.org/records/17946102.\n\nView the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
+      "published_at": "2026-11-04T22:47:57Z",
+      "tags": [],
+      "details_at": "2026-11-07T22:15:57+00:00"
     },
     "bt2fqcGo1-s": {
       "video_id": "bt2fqcGo1-s",
@@ -9924,7 +10744,7 @@
     "c9jqIyEI95Q": {
       "video_id": "c9jqIyEI95Q",
       "title": "PEPR '26 - Architecting Scalable Data Lineage Graph for Privacy Compliance and Agentic Analysis",
-      "duration_s": 929,
+      "duration_s": 930,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -10231,6 +11051,15 @@
       "video_id": "coVQLejEjgw",
       "title": "OSDI '26 - Harvesting Sub-Microsecond CXL Memory Stalls with LiteSwitch",
       "duration_s": 1097,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "css_yuiskrY": {
+      "video_id": "css_yuiskrY",
+      "title": "SREcon26 Europe/Middle East/Africa - You Probably Don't Need (All of) OpenTelemetry",
+      "duration_s": 794,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -10812,6 +11641,15 @@
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
     },
+    "etB8jEZuXPM": {
+      "video_id": "etB8jEZuXPM",
+      "title": "SREcon26 Europe/Middle East/Africa - When Partitioning Beats Sharing: Ephemeral MicroVMs for...",
+      "duration_s": 2295,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "ezKTu_nyRzU": {
       "video_id": "ezKTu_nyRzU",
       "title": "USENIX Security '25 - Predictive Response Optimization: Using Reinforcement Learning to...",
@@ -11064,6 +11902,15 @@
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
     },
+    "fo_nWRxkzT4": {
+      "video_id": "fo_nWRxkzT4",
+      "title": "USENIX Security '26 - Revelio: A Global Study of VoIP Blocking",
+      "duration_s": 1195,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "fzot67bwZ3U": {
       "video_id": "fzot67bwZ3U",
       "title": "USENIX ATC '25 - PMR: Fast Application Response via Parallel Memory Reclaim on Mobile Devices",
@@ -11183,7 +12030,7 @@
     },
     "gRfw2oxJnZQ": {
       "video_id": "gRfw2oxJnZQ",
-      "title": "SREcon25 Europe/Middle East/Africa - Lightning Talks - Computers Were a Mistake, We Should Burn...",
+      "title": "SREcon25 Europe/Middle East/Africa - Lightning Talk - Computers Were a Mistake, We Should Burn...",
       "duration_s": 274,
       "channel": "USENIX",
       "label": "USENIX Security",
@@ -11450,6 +12297,28 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
+    },
+    "hULdofRBYn0": {
+      "video_id": "hULdofRBYn0",
+      "title": "USENIX Security '26 - Sirens' Whisper: Inaudible Near-Ultrasonic Jailbreaks of Speech-Driven LLMs",
+      "duration_s": 1127,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos",
+      "description": "USENIX Security '26 - Sirens' Whisper: Inaudible Near-Ultrasonic Jailbreaks of Speech-Driven LLMs\n\nZijian Ling, Huazhong University of Science and Technology and Tsinghua University; Pingyi Hu, Xiuyong Gao, and Xiaojing Ma, Huazhong University of Science and Technology; Man Zhou, Huazhong University of Science and Technology and Tsinghua University; Jun Feng and Songfeng Lu, Huazhong University of Science and Technology; Dongmei Zhang and Bin Benjamin Zhu, Microsoft Corporation\n\nSpeech-driven large language models (LLMs) are increasingly accessed through speech interfaces, introducing new security risks via open acoustic channels. We present Sirens' Whisper (SWhisper), the first practical framework for covert prompt-based attacks against speech-driven LLMs under realistic black-box conditions using commodity hardware. SWhisper enables robust, inaudible delivery of arbitrary target baseband audio—including long and structured prompts—on commodity devices by encoding it into near-ultrasound waveforms that demodulate faithfully after acoustic transmission and microphone nonlinearity. This is achieved through a simple yet effective approach to modeling nonlinear channel characteristics across devices and environments, combined with lightweight channel‑inversion pre‑compensation. Building on this high‑fidelity covert channel, we design a voice‑aware jailbreak generation method that ensures intelligibility, brevity, and transferability under speech-driven interfaces. Experiments across both commercial and open-source speech-driven LLMs demonstrate strong black-box effectiveness. On commercial models, SWhisper achieves up to 0.94 non-refusal (NR) and 0.925 specific-convincing (SC). A controlled user study further shows that the injected jailbreak audio is perceptually indistinguishable from background-only playback for human listeners. Although jailbreaks serve as a case study, the underlying covert acoustic channel enables a broader class of high-fidelity prompt-injection and command-execution attacks.\n\nView the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
+      "published_at": "2026-11-04T22:47:57Z",
+      "tags": [],
+      "details_at": "2026-11-07T22:15:57+00:00"
+    },
+    "hWmQbV-aA2s": {
+      "video_id": "hWmQbV-aA2s",
+      "title": "SREcon26 Europe/Middle East/Africa - The Hard Part of AISRE Isn't the AI",
+      "duration_s": 1943,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "hb1KbXgE0_Q": {
       "video_id": "hb1KbXgE0_Q",
@@ -11793,6 +12662,15 @@
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
     },
+    "ingrRTN2sxg": {
+      "video_id": "ingrRTN2sxg",
+      "title": "USENIX Security '26 - Death by a Thousand Drips: Uncovering Critical Resource Leaks in the Windows…",
+      "duration_s": 1099,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "itSnna-Jh-Q": {
       "video_id": "itSnna-Jh-Q",
       "title": "SREcon25 Europe/Middle East/Africa - Cross-Platform Data Lineage with OpenLineage, A Foundational...",
@@ -11892,10 +12770,19 @@
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
     },
+    "jBeC9z3sLmg": {
+      "video_id": "jBeC9z3sLmg",
+      "title": "USENIX Security '26 - MASLeak: Investigating and Exposing Intellectual Property Leakage Vulnerabili…",
+      "duration_s": 1031,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "jDR0vbMYpTk": {
       "video_id": "jDR0vbMYpTk",
       "title": "OSDI '26 - TileLoom: Automatic Dataflow Planning for Tile-Based Languages on Spatial Dataflow Accel…",
-      "duration_s": 1312,
+      "duration_s": 1313,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -11972,6 +12859,24 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
+    },
+    "jiafGg-i5Mc": {
+      "video_id": "jiafGg-i5Mc",
+      "title": "USENIX Security '26 - Lethe: Purifying Backdoored Large Language Models with Knowledge Dilution",
+      "duration_s": 654,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "jpYYXMAoY5U": {
+      "video_id": "jpYYXMAoY5U",
+      "title": "USENIX Security '26 - Zero Knowledge (About) Encryption: A Comparative Security Analysis of Three C…",
+      "duration_s": 1161,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "jsvsKlY3EMA": {
       "video_id": "jsvsKlY3EMA",
@@ -12201,7 +13106,7 @@
     "kchngC09ydg": {
       "video_id": "kchngC09ydg",
       "title": "WOOT '26 - HotWire: Real-World Impersonation and Discharge Attacks on Electric Vehicle Charging...",
-      "duration_s": 1043,
+      "duration_s": 1044,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -12342,6 +13247,15 @@
       ],
       "details_at": "2026-08-31T15:36:02+00:00"
     },
+    "lJhJ8ligvcc": {
+      "video_id": "lJhJ8ligvcc",
+      "title": "USENIX Security '26 - Trust Nothing: RTOS Security without Run-Time Software TCB",
+      "duration_s": 1229,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "lOe0zwJkJEI": {
       "video_id": "lOe0zwJkJEI",
       "title": "FAST '26 - PolarStore: High-Performance Data Compression for Large-Scale Cloud-Native Databases",
@@ -12423,6 +13337,15 @@
       ],
       "details_at": "2026-09-06T13:24:17+00:00"
     },
+    "lldir_gn44s": {
+      "video_id": "lldir_gn44s",
+      "title": "SREcon26 Europe/Middle East/Africa - It's About Time: A Blueprint for Operating Resilient and...",
+      "duration_s": 1866,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "lmYqv_WNYVI": {
       "video_id": "lmYqv_WNYVI",
       "title": "NSDI '26 - Cost-effective and Reliable Global Internet Peering with Programmable Switches",
@@ -12444,7 +13367,7 @@
     "lms07CqF3Zg": {
       "video_id": "lms07CqF3Zg",
       "title": "WOOT '26 - OSS-CRS: Liberating AIxCC Cyber Reasoning Systems for Real-World Open-Source Security",
-      "duration_s": 893,
+      "duration_s": 894,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -12503,6 +13426,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
+    },
+    "m9ND8NfT6wo": {
+      "video_id": "m9ND8NfT6wo",
+      "title": "USENIX Security '26 - TopFeaRe: Locating Critical State of Adversarial Resilience for Graphs Regard…",
+      "duration_s": 967,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "mAhWZEh3Src": {
       "video_id": "mAhWZEh3Src",
@@ -12603,6 +13535,15 @@
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
     },
+    "mZW8vipp0Cw": {
+      "video_id": "mZW8vipp0Cw",
+      "title": "SREcon26 Europe/Middle East/Africa - Monitoring a Telco",
+      "duration_s": 1998,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "mgPcXsovKsk": {
       "video_id": "mgPcXsovKsk",
       "title": "SREcon25 Europe/Middle East/Africa - Resilience for AI Workloads at Scale: The Fast and the Finicky!",
@@ -12638,6 +13579,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
+    },
+    "mo7Lsvx1Sy4": {
+      "video_id": "mo7Lsvx1Sy4",
+      "title": "USENIX Security '26 - Oblivious Signaling",
+      "duration_s": 877,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "mpxMMKU2vtM": {
       "video_id": "mpxMMKU2vtM",
@@ -12720,6 +13670,15 @@
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
     },
+    "nCvzIUGHaSs": {
+      "video_id": "nCvzIUGHaSs",
+      "title": "SREcon26 Europe/Middle East/Africa - Three Lies We Tell Ourselves about Disaster Recovery and...",
+      "duration_s": 1096,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "nER1AWm4oBQ": {
       "video_id": "nER1AWm4oBQ",
       "title": "OSDI '25 - Basilisk: Using Provenance Invariants to Automate Proofs of Undecidable Protocols",
@@ -12755,6 +13714,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
+    },
+    "nNdwwMjenlk": {
+      "video_id": "nNdwwMjenlk",
+      "title": "USENIX Security '26 - Health Hazard, Handle with Care: Investigating the Privacy Risks of Android's…",
+      "duration_s": 727,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "nUvWhHlLuqo": {
       "video_id": "nUvWhHlLuqo",
@@ -12819,6 +13787,15 @@
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
     },
+    "nj9-3F_usYs": {
+      "video_id": "nj9-3F_usYs",
+      "title": "SREcon26 Europe/Middle East/Africa - The Future of Operations",
+      "duration_s": 2138,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "nqXOkd-LNuU": {
       "video_id": "nqXOkd-LNuU",
       "title": "NSDI '25 - Building an Elastic Block Storage over EBOFs Using Shadow Views",
@@ -12840,7 +13817,7 @@
     "nuZrl999esk": {
       "video_id": "nuZrl999esk",
       "title": "WOOT '26 - SoK: Multi-Layer Indirect Call Analysis in the Real World",
-      "duration_s": 1035,
+      "duration_s": 1036,
       "channel": "USENIX",
       "label": "USENIX Security",
       "year": null,
@@ -12917,6 +13894,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
+    },
+    "o2NSiX322kY": {
+      "video_id": "o2NSiX322kY",
+      "title": "USENIX Security '26 - An Integer Overflow Endgame: Compiler and Architecture Support for Default-On…",
+      "duration_s": 990,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "o6dCNFgb-Tk": {
       "video_id": "o6dCNFgb-Tk",
@@ -13107,6 +14093,15 @@
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
     },
+    "op2EgdpuzMI": {
+      "video_id": "op2EgdpuzMI",
+      "title": "USENIX Security '26 - Distributed Synthesis of Differentially Private Tabular Datasets",
+      "duration_s": 965,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "orDOVQpSlrE": {
       "video_id": "orDOVQpSlrE",
       "title": "USENIX Security '25 - Confusing Value with Enumeration: Studying the Use of CVEs in Academia",
@@ -13188,6 +14183,24 @@
       "year": null,
       "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
+    "pDB7cA53IoM": {
+      "video_id": "pDB7cA53IoM",
+      "title": "USENIX Security '26 - Message Injection Attacks Against Signal",
+      "duration_s": 995,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "pJMVTKyPbhM": {
+      "video_id": "pJMVTKyPbhM",
+      "title": "SREcon26 Europe/Middle East/Africa - Defence in Depth: How We Secured our SDLC System...",
+      "duration_s": 1923,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "pPcHFrJv81s": {
       "video_id": "pPcHFrJv81s",
       "title": "PEPR '25 - Practical Considerations for Differential Privacy",
@@ -13223,6 +14236,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
+    },
+    "pUNLemKo-QE": {
+      "video_id": "pUNLemKo-QE",
+      "title": "SREcon26 Europe/Middle East/Africa - Perspectives from the Architecture of the Built Environment",
+      "duration_s": 1734,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "pZHJXO_6ilY": {
       "video_id": "pZHJXO_6ilY",
@@ -13350,6 +14372,15 @@
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
     },
+    "qHlFgAQrvRA": {
+      "video_id": "qHlFgAQrvRA",
+      "title": "SREcon26 Europe/Middle East/Africa - When 200 OK Is Not OK: Reliability for AI-Powered Systems",
+      "duration_s": 1709,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "qJYPFJUaAE8": {
       "video_id": "qJYPFJUaAE8",
       "title": "OSDI '25 - Low End-to-End Latency atop a Speculative Shared Log with Fix-Ante Ordering",
@@ -13367,6 +14398,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
+    },
+    "qK3xLIXK7_I": {
+      "video_id": "qK3xLIXK7_I",
+      "title": "USENIX Security '26 - SophOMR: Improved Oblivious Message Retrieval from SIMD-Aware Homomorphic Com…",
+      "duration_s": 954,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "qMuY8BC3mBw": {
       "video_id": "qMuY8BC3mBw",
@@ -13584,6 +14624,15 @@
       "year": null,
       "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
+    "r72thwjqRAk": {
+      "video_id": "r72thwjqRAk",
+      "title": "USENIX Security '26 - FIRA: Enabling Automatic Forensic Investigation of Unmanned Aerial Vehicles",
+      "duration_s": 760,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "r7pw-IGrqws": {
       "video_id": "r7pw-IGrqws",
       "title": "SREcon26 Americas - Building SRE Culture (without SREs, Technically)",
@@ -13764,6 +14813,15 @@
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
     },
+    "rnZ5dvL-8zg": {
+      "video_id": "rnZ5dvL-8zg",
+      "title": "USENIX Security '26 - TAT: Attesting Trajectory Integrity of Industrial Robotic Arms",
+      "duration_s": 937,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "rsns7-uwf0s": {
       "video_id": "rsns7-uwf0s",
       "title": "SOUPS 2025 - Integrating Large Language Models into Security Incident Response",
@@ -13781,6 +14839,19 @@
         "open access"
       ],
       "details_at": "2026-09-06T13:24:17+00:00"
+    },
+    "rx2nIFKiIfk": {
+      "video_id": "rx2nIFKiIfk",
+      "title": "USENIX Security '26 - Efficient Threshold ML-DSA",
+      "duration_s": 891,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos",
+      "description": "USENIX Security '26 - Efficient Threshold ML-DSA\n\nSofía Celi, Brave Research and University of Bristol; Rafael del Pino and Thomas Espitau, PQShield; Guilhem Niot, PQShield and Univ Rennes, CNRS, IRISA; Thomas Prest, PQShield\n\nThreshold signature schemes allow a group of users to jointly generate a digital signature, providing resilience against faults and enhancing decentralization. With the advent of post-quantum cryptography, lattice-based threshold signatures have gained attention as viable alternatives. Nevertheless, existing constructions frequently encounter challenges related to scalability, robustness, or compatibility with standardized schemes, particularly with the NIST-selected and standardised Module-Lattice-based Digital Signature Algorithm (ML-DSA) algorithm.\nIn this work, we present the first threshold signature scheme that is fully compatible with ML-DSA, supporting secure and efficient signing among up to six parties. Our construction leverages advanced short secret sharing techniques and integrates optimized rejection sampling to achieve a favourable balance between communication efficiency and correctness in distributed environments. We implement our construction in Go and evaluate its performance across local, LAN, and WAN network settings. Our benchmarks demonstrate that our threshold ML-DSA scheme is not only practically deployable but also well-suited for real-world applications, including multi-device cryptocurrency wallets, threshold-based TLS authentication, and for Tor's directory authorities.\n\nView the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
+      "published_at": "2026-10-28T01:28:36Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "rygp733JlVU": {
       "video_id": "rygp733JlVU",
@@ -13827,6 +14898,15 @@
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
     },
+    "sF3ApyPjguw": {
+      "video_id": "sF3ApyPjguw",
+      "title": "USENIX Security '26 - Garuda and Pari: Faster and Smaller SNARKs via Equifficient Polynomial Commit…",
+      "duration_s": 1201,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "sGZR0FyFJQ8": {
       "video_id": "sGZR0FyFJQ8",
       "title": "PEPR '26 - Surfacing Hidden Privacy Risks in Code: Lessons from LLM and Retrieval Assisted Detection",
@@ -13844,6 +14924,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
+    },
+    "sJaTnP3sSZc": {
+      "video_id": "sJaTnP3sSZc",
+      "title": "USENIX Security '26 - Anamorphic Messaging: Analyzing the Double Ratchet, Triple Ratchet, PQ3, and…",
+      "duration_s": 1062,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "sUEG90z7YUk": {
       "video_id": "sUEG90z7YUk",
@@ -13916,6 +15005,19 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
+    },
+    "sz0AfaZymVY": {
+      "video_id": "sz0AfaZymVY",
+      "title": "USENIX Security '26 - Context Contamination in LLM Analysis of Network Security Logs: Poison with P…",
+      "duration_s": 1624,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos",
+      "description": "USENIX Security '26 - Context Contamination in LLM Analysis of Network Security Logs: Poison with Passive Prompt Injection and Mitigation Evaluation\n\nRabimba Karanjai, PayPal / University of Houston; Yang Lu, University of Houston; Hemanth Hegadehalli Madhavarao, PayPal; Lei Xu, Kent State University; Weidong Shi, University of Houston\n\nLarge Language Models are increasingly deployed in Security Operations Centers for log analysis tasks including summarization, alert triage, and threat investigation. These systems ingest logs from external-facing services and process network logs as natural language contexts to generate security insights. We demonstrate that this architectural pattern introduces a critical vulnerability: adversaries can embed prompt injection payloads in log-generating fields that persist in storage and are executed when analysts query the LLM, achieving what we term passive prompt injection. We present LogInject, a systematic framework for evaluating these threats. Using LogInject-1.0, a benchmark of 12,847 log entries including 2,569 adversarial samples, we evaluate three production LLMs across four attack objectives: activity concealment, false positive generation, information exfiltration, and output hijacking. Our findings reveal an up to 88.2% attack success rate (83.4% average across models) under the baseline conditions. We introduce Context Stitching, a novel technique that fragments payloads across multiple log entries to evade stateless filters while exploiting LLM long-context reasoning, achieving a 76.4% success rate. As mitigation, we evaluate layered defenses by combining input filtering, prompt hardening, and output validation, demonstrating a 90.4% attack reduction, although 8.4% residual vulnerability persists. Our results establish that LLM-based log analysis creates an inherent confused deputy vulnerability where untrusted data and trusted instructions compete indistinguishably for model attention, requiring defense in-depth architectures and continued human oversight for security-critical decisions.\n\nView the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
+      "published_at": "2026-10-28T01:30:24Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "t00-Yl1mkF4": {
       "video_id": "t00-Yl1mkF4",
@@ -14196,6 +15298,15 @@
       "year": null,
       "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
+    "tidiqDjxAmM": {
+      "video_id": "tidiqDjxAmM",
+      "title": "SREcon26 Europe/Middle East/Africa - How We Troubleshoot Difficult Problems: Cognition and...",
+      "duration_s": 2757,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "trUKq8q8s94": {
       "video_id": "trUKq8q8s94",
       "title": "OSDI '26 - Cocoon: A System Architecture for Differentially Private Training with Correlated Noises",
@@ -14349,6 +15460,24 @@
       ],
       "details_at": "2026-09-06T13:24:17+00:00"
     },
+    "uLibkyD5fPQ": {
+      "video_id": "uLibkyD5fPQ",
+      "title": "USENIX Security '26 - Transparent Dictionaries from Polynomial Commitments",
+      "duration_s": 1075,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "uM2idF7_JJ0": {
+      "video_id": "uM2idF7_JJ0",
+      "title": "SREcon26 Europe/Middle East/Africa - The Optimization We Didn't Build",
+      "duration_s": 1007,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "uTWQckVHFg8": {
       "video_id": "uTWQckVHFg8",
       "title": "OSDI '26 - Incr: Faster Re-Execution via Bolt-On Incrementalization",
@@ -14411,6 +15540,15 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
+    },
+    "udktz8xq4Gs": {
+      "video_id": "udktz8xq4Gs",
+      "title": "SREcon26 Europe/Middle East/Africa - Pull Requests Are Dead, Long Live Peer Review",
+      "duration_s": 2220,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
     "uo7CqSyrOvs": {
       "video_id": "uo7CqSyrOvs",
@@ -14600,6 +15738,28 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
+    },
+    "vOFCn9-eUhw": {
+      "video_id": "vOFCn9-eUhw",
+      "title": "USENIX Security '26 - Five Queries Are Enough: Query-Efficient and Surrogate-Free Membership Infere…",
+      "duration_s": 987,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "vPWaN0B07zs": {
+      "video_id": "vPWaN0B07zs",
+      "title": "USENIX Security '26 - MATE: Policy-Aware Security Auditing for Mobile Agents via Synthesis-Driven T…",
+      "duration_s": 776,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos",
+      "description": "USENIX Security '26 - MATE: Policy-Aware Security Auditing for Mobile Agents via Synthesis-Driven Trajectory Learning\n\nChangyue Jiang, Fudan University and Shanghai Innovation Institute; Jiayi Wang, Xin Wen, Jiarun Dai, and Geng Hong, Fudan University; Xudong Pan, Fudan University and Shanghai Innovation Institute\n\nMobile agents powered by foundation models now automate complex, multi-step workflows on real devices, but their trajectories can violate app-specific security policies. Existing trajectory-level defenses rely on LLM prompting or rigid rules, and thus fail to support fine-grained, natural-language policies that generalize across apps and tasks. In this work, we introduce MATE, a lightweight, policy-conditioned auditor that encodes both agent trajectories and natural-language security policies to determine whether a trajectory violates a given policy and to explain why. Treating policies as editable text rather than fixed model parameters allows MATE to handle user-defined and evolving requirements without retraining. To construct MATE, we build a knowledge base by extracting app descriptions, workflows, and policies from hundreds of popular mobile apps worldwide, and synthesizing over 140K semantically realistic, policy-conditioned trajectories with a multi-stage pipeline. We further release MATEBench, a trajectory-level auditing benchmark with two synthetic subsets and one real-world subset of manually collected trajectories. Models trained with our synthesis-driven trajectory learning achieve over 95% accuracy on MATEBench, retain strong performance on external safety benchmarks, and audit trajectories from Zhipu's AutoGLM and Alibaba's Mobile-Agent on real devices with over 95% accuracy, outperforming prior methods by over 20%. MATE shows that practical, fine-grained security auditing for heterogeneous mobile agents is both feasible and effective.\n\nView the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
+      "published_at": "2026-10-28T01:28:36Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "vPcbT9hSUJU": {
       "video_id": "vPcbT9hSUJU",
@@ -15240,6 +16400,15 @@
       ],
       "details_at": "2026-08-31T15:36:03+00:00"
     },
+    "xNaq1xnAXiw": {
+      "video_id": "xNaq1xnAXiw",
+      "title": "USENIX Security '26 - PatchWeaver: Risk-Bounded Autonomous Vulnerability Remediation Under Change-M…",
+      "duration_s": 735,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "xOZqBnGWYdM": {
       "video_id": "xOZqBnGWYdM",
       "title": "OSDI '26 - BatchGen: An Architecture for Scalable and Efficient Batch Inference",
@@ -15248,6 +16417,19 @@
       "label": "USENIX Security",
       "year": null,
       "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
+    "xPxlzzMB9O8": {
+      "video_id": "xPxlzzMB9O8",
+      "title": "USENIX Security '26 - From Assistance to Autonomy: An Empirical Study of AI Use in a Live Capture-t…",
+      "duration_s": 932,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos",
+      "description": "USENIX Security '26 - From Assistance to Autonomy: An Empirical Study of AI Use in a Live Capture-the-Flag (CTF) Competition\n\nTingxuan Tang, Nicolas Janis, and Kalyn Asher Montague, William & Mary; Kevin Eykholt, Dhilung Kirat, Youngja Park, and Jiyong Jang, IBM Research; Adwait Nadkarni and Yue Xiao, William & Mary\n\nCapture-the-Flag (CTF) competitions are increasingly becoming a testbed for evaluating AI capabilities at solving security tasks, due to their controlled environments and objective success criteria. Existing evaluations have focused on how successful AI is at solving individual CTF challenges in isolation from human CTF players. As AI usage increases in both academic and industrial settings, it is equally likely that human CTF players may collaborate with AI agents to solve CTF challenges. This possibility exposes a key knowledge gap: how do human players perceive AI CTF assistance; when assistance is provided, in what ways do they collaborate and is it effective with respect to human performance; how do humans assisted by AI compare to the performance of fully autonomous AI agents on the same set of challenges. We address this gap with the first empirical study of AI assistance in a live, onsite CTF. In a study with 41 participants (out of the total 95 that participated in the CTF), we qualitatively study (i) how participants' perception, trust, and expectations shift before versus after hands-on AI use, and (ii) how participants collaborate with an instrumented AI assistant. Moreover, we also (iii) benchmark four autonomous CTF agents on the same fresh challenge set to compare outcomes with human teams and analyze agent trajectories. We find that, for human players, AI literacy and domain knowledge are complementary competencies, and both have irreplaceable advantages. Proficient and efficient use of AI amplifies professional skills. Importantly, although advanced autonomous agents showed outstanding performance, human-in-the-loop is the winning paradigm where AI accelerates exploration while humans provide targeted guidance and verification. We conclude with implications for the future design of CTF competitions and for building effective human-in-the-loop AI systems for security.\n\nView the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
+      "published_at": "2026-10-28T01:31:17Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "xQCA_cPG76E": {
       "video_id": "xQCA_cPG76E",
@@ -15519,6 +16701,15 @@
       ],
       "details_at": "2026-08-31T15:36:04+00:00"
     },
+    "yYBdEWY1L0g": {
+      "video_id": "yYBdEWY1L0g",
+      "title": "USENIX Security '26 - Bridges to Self: Silent Web-to-App Tracking on Mobile via Localhost",
+      "duration_s": 746,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "ygk79RDrb24": {
       "video_id": "ygk79RDrb24",
       "title": "USENIX Security '25 - Systematic Evaluation of Randomized Cache Designs against Cache Occupancy",
@@ -15672,6 +16863,15 @@
       "year": null,
       "source_url": "https://www.youtube.com/@UsenixOrg/videos"
     },
+    "z7Q5mctqTRU": {
+      "video_id": "z7Q5mctqTRU",
+      "title": "SREcon26 Europe/Middle East/Africa - Lightning Talk - Blocking Accidental Disk Wipes with eBPF",
+      "duration_s": 274,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "zAKArtH8JCY": {
       "video_id": "zAKArtH8JCY",
       "title": "OSDI '26 - Break On Through to the Other Side: Pooling Memory Elastically with RamRyder",
@@ -15789,6 +16989,15 @@
       ],
       "details_at": "2026-08-31T15:36:04+00:00"
     },
+    "zYC8iA7x3X4": {
+      "video_id": "zYC8iA7x3X4",
+      "title": "SREcon26 Europe/Middle East/Africa - What My Dad's Allotment Taught Me About Observability",
+      "duration_s": 1524,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos"
+    },
     "za11nnFxhT0": {
       "video_id": "za11nnFxhT0",
       "title": "OSDI '26 - Ambulance: Saving BFT through Racing",
@@ -15860,6 +17069,19 @@
         "open access"
       ],
       "details_at": "2026-08-31T15:36:04+00:00"
+    },
+    "zyzDdI-uAgI": {
+      "video_id": "zyzDdI-uAgI",
+      "title": "USENIX Security '26 - Love, Lies, and Language Models: Investigating AI's Role in Romance-Baiting S…",
+      "duration_s": 1230,
+      "channel": "USENIX",
+      "label": "USENIX Security",
+      "year": null,
+      "source_url": "https://www.youtube.com/@UsenixOrg/videos",
+      "description": "USENIX Security '26 - Love, Lies, and Language Models: Investigating AI's Role in Romance-Baiting Scams\n\nGilad Gressel and Rahul Pankajakshan, Center for Cybersecurity Systems & Networks, Amrita Vishwa Vidyapeetham, Amritapuri; Shir Rozenfeld, Ben Gurion University of the Negev; Ling Li, Ca' Foscari University of Venice; Ivan Franceschini, University of Melbourne; Krishnashree Achuthan, Center for Cybersecurity Systems & Networks, Amrita Vishwa Vidyapeetham, Amritapuri; Yisroel Mirsky, Ben Gurion University of the Negev\n\nRomance-baiting scams have become a major source of financial and emotional harm worldwide. These operations are run by organized crime syndicates that traffic thousands of people into forced labor, requiring them to build emotional intimacy with victims over weeks of text conversations before pressuring them into fraudulent cryptocurrency investments. Because the scams are inherently text-based, they raise urgent questions about the role of Large Language Models (LLMs) in both current and future automation.\nWe investigate this intersection by interviewing 145 insiders and 5 scam victims, performing a blinded long-term conversation study comparing LLM scam agents to human operators, and executing an evaluation of commercial safety filters. Our findings show that LLMs are already widely deployed within scam organizations, with 87% of scam labor consisting of systematized conversational tasks readily susceptible to automation. In a week-long study, an LLM agent not only elicited greater trust from study participants (p=0.007) but also achieved higher compliance with requests than human operators (46% vs. 18% for humans). Meanwhile, popular safety filters detected 0.0% of romance baiting dialogues. Together, these results suggest that romance-baiting scams may be amenable to full-scale LLM automation, while existing defenses remain inadequate to prevent their expansion.\n\nView the full USENIX Security '26 program at https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
+      "published_at": "2026-10-28T01:30:24Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:23+00:00"
     }
   }
 }

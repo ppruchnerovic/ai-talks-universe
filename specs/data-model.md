@@ -67,7 +67,7 @@ A source entry:
 
 | Key | Meaning |
 |---|---|
-| `type` | `channel` (25), `playlist` (58), `videos` (1: a seed file), `infoq` (1: infoq.com pages). |
+| `type` | `channel` (25), `playlist` (59), `videos` (1: a seed file), `infoq` (1: infoq.com pages). |
 | `url` | Identity of the source. `merge_source()` deletes a cached video only when the source with the same `url` no longer lists it. For a seed it is the agenda URL, for documentation only. |
 | `label` | Becomes the talk's `edition` (and the catalog record's `label`). |
 | `year` | Set when a playlist is one edition; overrides every other year signal (`atu.year_of` reads it first). |

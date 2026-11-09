@@ -1,7 +1,7 @@
 {
   "slug": "ray-summit",
   "name": "Ray Summit (Anyscale)",
-  "enumerated_at": "2026-09-26T14:26:48+00:00",
+  "enumerated_at": "2026-11-09T19:15:13+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLzTswPQNepXnD-PksryocyeOPdK6CyZw6",
@@ -16,7 +16,7 @@
       "count": 400
     }
   ],
-  "count": 504,
+  "count": 508,
   "videos": {
     "-3qrieMBD3U": {
       "video_id": "-3qrieMBD3U",
@@ -47,7 +47,7 @@
     "-HYU0c5t-mI": {
       "video_id": "-HYU0c5t-mI",
       "title": "PyTorch loves vLLM | Meta | Ray Summit 2026",
-      "duration_s": 1390,
+      "duration_s": 1391,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -73,7 +73,7 @@
     "-TpQ3s95O1o": {
       "video_id": "-TpQ3s95O1o",
       "title": "Full-Stack Observability in Ray: Infrastructure Signals in Ray Dashboard | Google | Ray Summit 2026",
-      "duration_s": 899,
+      "duration_s": 900,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -273,7 +273,7 @@
     "1MR9ln9iGp0": {
       "video_id": "1MR9ln9iGp0",
       "title": "GammaLake: High-Performance Open-Source Feature Storage for Timeseries | Point72 | Ray Summit 2026",
-      "duration_s": 1772,
+      "duration_s": 1773,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -491,6 +491,15 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:03+00:00"
     },
+    "2v3vEPPkZTo": {
+      "video_id": "2v3vEPPkZTo",
+      "title": "Planetary-scale multimodal image processing | Xoople + Anyscale",
+      "duration_s": 215,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos"
+    },
     "2y7MrWjYKLc": {
       "video_id": "2y7MrWjYKLc",
       "title": "Scaling up Terascale Deep Learning on Commodity CPUs with ThirdAI and Ray",
@@ -559,7 +568,7 @@
     "3s5etTGANrc": {
       "video_id": "3s5etTGANrc",
       "title": "Cascade: Write-Once Run-Anywhere Inference on Ray | Samsara | Ray Summit 2026",
-      "duration_s": 1466,
+      "duration_s": 1467,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -585,7 +594,7 @@
     "4AmKOKbieus": {
       "video_id": "4AmKOKbieus",
       "title": "Maximizing GB200 and GB300 Performance with Domain-Aware Scheduling | NVIDIA | Ray Summit 2026",
-      "duration_s": 1461,
+      "duration_s": 1462,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -650,7 +659,7 @@
     "4vHpltz8KRU": {
       "video_id": "4vHpltz8KRU",
       "title": "Ray Data on GPU - Breaking Preprocessing Bottleneck for Model Training | Stripe | Ray Summit 2026",
-      "duration_s": 1721,
+      "duration_s": 1722,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -923,7 +932,7 @@
     "7lyBqNsFVcQ": {
       "video_id": "7lyBqNsFVcQ",
       "title": "How the Data Center Shapes the Workload | Nscale | Ray Summit 2026",
-      "duration_s": 724,
+      "duration_s": 725,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -949,7 +958,7 @@
     "7veFC1SeV5o": {
       "video_id": "7veFC1SeV5o",
       "title": "Heterogeneous Pipelines as the Unlock for ML at Scale | Motive | Ray Summit 2026",
-      "duration_s": 1384,
+      "duration_s": 1385,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -962,7 +971,7 @@
     "7x1Ssp3MSto": {
       "video_id": "7x1Ssp3MSto",
       "title": "Building a Virtual Biology Platform on Ray | Recursion | Ray Summit 2026",
-      "duration_s": 1845,
+      "duration_s": 1846,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -1287,7 +1296,7 @@
     "Cd-3H6XdAyE": {
       "video_id": "Cd-3H6XdAyE",
       "title": "How Open-Source vLLM Topped the Artificial Analysis Leaderboard | DigitalOcean | Ray Summit 2026",
-      "duration_s": 805,
+      "duration_s": 806,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -1443,7 +1452,7 @@
     "FCtTk4H8ynM": {
       "video_id": "FCtTk4H8ynM",
       "title": "Serving Frontier MoE Models at the Lowest Token Cost | NVIDIA | Ray Summit 2026",
-      "duration_s": 849,
+      "duration_s": 850,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -1664,7 +1673,7 @@
     "HQe__iv2m68": {
       "video_id": "HQe__iv2m68",
       "title": "AMD and vLLM: What's New | AMD | Ray Summit 2026",
-      "duration_s": 1937,
+      "duration_s": 1938,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -1807,7 +1816,7 @@
     "J31qKbcT5BA": {
       "video_id": "J31qKbcT5BA",
       "title": "Transforming Grab’s AI Platform with Ray | Grab | Ray Summit 2026",
-      "duration_s": 1818,
+      "duration_s": 1819,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -1859,7 +1868,7 @@
     "Jsh58sufKXA": {
       "video_id": "Jsh58sufKXA",
       "title": "Video Action Models | mimic robotics | Ray Summit 2026",
-      "duration_s": 1903,
+      "duration_s": 1904,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -1898,7 +1907,7 @@
     "K6FddIlAIOk": {
       "video_id": "K6FddIlAIOk",
       "title": "Scaling DSpark Training Using vLLM, Speculators and Mooncake | Red Hat | Ray Summit 2026",
-      "duration_s": 1007,
+      "duration_s": 1008,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -2054,7 +2063,7 @@
     "M7fbxwBSIeI": {
       "video_id": "M7fbxwBSIeI",
       "title": "TorchSpec: Speculative Decoding Training at Scale | Together AI | Ray Summit 2026",
-      "duration_s": 1831,
+      "duration_s": 1832,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -2093,7 +2102,7 @@
     "MFyBXjacCXQ": {
       "video_id": "MFyBXjacCXQ",
       "title": "One Cluster, End-to-End | AWS | Ray Summit 2026",
-      "duration_s": 760,
+      "duration_s": 761,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -2119,7 +2128,7 @@
     "MZFcNuYOch0": {
       "video_id": "MZFcNuYOch0",
       "title": "Scaling Massive Transformer Training with KubeRay | Capital One | Ray Summit 2026",
-      "duration_s": 944,
+      "duration_s": 945,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -2327,7 +2336,7 @@
     "NnsuPkqyWGw": {
       "video_id": "NnsuPkqyWGw",
       "title": "Petabyte-Scale Video Curation on CoreWeave | CoreWeave | Ray Summit 2026",
-      "duration_s": 1566,
+      "duration_s": 1567,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -2427,6 +2436,15 @@
       "published_at": "2026-01-30T16:26:06Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
+    },
+    "Ogj30eUnalM": {
+      "video_id": "Ogj30eUnalM",
+      "title": "Production-ready Distributed Inference with Ray Serve",
+      "duration_s": 5161,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos"
     },
     "PBN5Ntfm5Ac": {
       "video_id": "PBN5Ntfm5Ac",
@@ -2844,6 +2862,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
     },
+    "RYtEixH7ebQ": {
+      "video_id": "RYtEixH7ebQ",
+      "title": "Running Embedding Processing for AI Search at Scale | Notion + Anyscale",
+      "duration_s": 228,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos"
+    },
     "Ri_LJ_qOTPM": {
       "video_id": "Ri_LJ_qOTPM",
       "title": "Open Source LLMs: Viable for Production or a Low-Quality Toy?",
@@ -2873,7 +2900,7 @@
     "RtEPrSrryQY": {
       "video_id": "RtEPrSrryQY",
       "title": "Cost-Effective RL Post-Training with Ray and AWS Trainium | AWS + Anyscale | Ray Summit 2026",
-      "duration_s": 1351,
+      "duration_s": 1352,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -2938,7 +2965,7 @@
     "StdJgdclw6I": {
       "video_id": "StdJgdclw6I",
       "title": "From Agents to Action: Scaling Agentic AI with Ray on Intel Xeon | Intel | Ray Summit 2026",
-      "duration_s": 1044,
+      "duration_s": 1045,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -3107,7 +3134,7 @@
     "UWjMK_mtH0s": {
       "video_id": "UWjMK_mtH0s",
       "title": "Ray History Server: Observability for Ephemeral K8s Clusters | KubeRay | Ray Summit 2026",
-      "duration_s": 1033,
+      "duration_s": 1034,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -3549,7 +3576,7 @@
     "Xh04f8eAPNc": {
       "video_id": "Xh04f8eAPNc",
       "title": "Accelerating Large Language Models: vLLM on TPUs | Google | Ray Summit 2026",
-      "duration_s": 1069,
+      "duration_s": 1070,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -3861,7 +3888,7 @@
     "_xLnyRFK54o": {
       "video_id": "_xLnyRFK54o",
       "title": "From Self-Managed Ray to Anyscale Services: Migrating ML Serving | Coinbase | Ray Summit 2026",
-      "duration_s": 934,
+      "duration_s": 935,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -3913,7 +3940,7 @@
     "bDG8f5KGetw": {
       "video_id": "bDG8f5KGetw",
       "title": "Where’s My Training Job? Ray & GPU Observability at Datadog | Datadog | Ray Summit 2026",
-      "duration_s": 727,
+      "duration_s": 728,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -3952,7 +3979,7 @@
     "bgem5_ooJqk": {
       "video_id": "bgem5_ooJqk",
       "title": "Serving a Frontier Open Model with Ray & vLLM | Nscale | Ray Summit 2026",
-      "duration_s": 1707,
+      "duration_s": 1708,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -4119,7 +4146,7 @@
     "dETUxz8bsB8": {
       "video_id": "dETUxz8bsB8",
       "title": "Custom Pipeline Parallelism for Frontier-Scale Model Serving | Apple | Ray Summit 2026",
-      "duration_s": 1311,
+      "duration_s": 1312,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -4223,7 +4250,7 @@
     "eHb9Z6AxdMk": {
       "video_id": "eHb9Z6AxdMk",
       "title": "Inside Lila's AI Research Platform | Lila Sciences | Ray Summit 2026",
-      "duration_s": 2003,
+      "duration_s": 2004,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -4366,7 +4393,7 @@
     "f5TYdiw4-lE": {
       "video_id": "f5TYdiw4-lE",
       "title": "Agents and Robots: The Human Effort Putting AI Into Production | Encord | Ray Summit 2026",
-      "duration_s": 495,
+      "duration_s": 496,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -4431,7 +4458,7 @@
     "fbbNmhWBS3Q": {
       "video_id": "fbbNmhWBS3Q",
       "title": "How Exa Indexes the Entire Web: Ray Data and Lance at Billion-Document Scale | Exa | Ray Summit 2026",
-      "duration_s": 2001,
+      "duration_s": 2002,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -4561,7 +4588,7 @@
     "h5WslH8dFkM": {
       "video_id": "h5WslH8dFkM",
       "title": "Simulating the Physical World at Scale: Humanoid Locomotion with Ray | Lambda | Ray Summit 2026",
-      "duration_s": 775,
+      "duration_s": 776,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -4574,7 +4601,7 @@
     "h5hVWBPAP8A": {
       "video_id": "h5hVWBPAP8A",
       "title": "KV Cache and Long-Context Inference: Solutions for Inference at Scale | VAST Data | Ray Summit 2026",
-      "duration_s": 724,
+      "duration_s": 725,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -4691,7 +4718,7 @@
     "hwZfXCYgWNQ": {
       "video_id": "hwZfXCYgWNQ",
       "title": "From Benchmark #1 to Production | Nebius | Ray Summit 2026",
-      "duration_s": 957,
+      "duration_s": 958,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -4782,7 +4809,7 @@
     "inti906FSuo": {
       "video_id": "inti906FSuo",
       "title": "How a Transformers Model Loads in vLLM | Hugging Face | Ray Summit 2026",
-      "duration_s": 1313,
+      "duration_s": 1314,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -4834,7 +4861,7 @@
     "jAf3ZkJR0_I": {
       "video_id": "jAf3ZkJR0_I",
       "title": "Koba: Disaggregated Data Loading for Multimodal Training at Luma AI | Luma AI | Ray Summit 2026",
-      "duration_s": 1936,
+      "duration_s": 1937,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -4873,7 +4900,7 @@
     "jNSjjduRhS0": {
       "video_id": "jNSjjduRhS0",
       "title": "Towards Clinically Grounded LLMs | SonderMind | Ray Summit 2026",
-      "duration_s": 1787,
+      "duration_s": 1788,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -5168,7 +5195,7 @@
     "n0C1igDgNAU": {
       "video_id": "n0C1igDgNAU",
       "title": "LeRobot Dataset v3.0: Scaling Reads with Ray | Anyscale | Ray Summit 2026",
-      "duration_s": 842,
+      "duration_s": 843,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -5259,7 +5286,7 @@
     "nW9GRf_pyVM": {
       "video_id": "nW9GRf_pyVM",
       "title": "Production-Grade Distributed Inference with llm-d | Red Hat | Ray Summit 2026",
-      "duration_s": 1869,
+      "duration_s": 1870,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -5363,7 +5390,7 @@
     "oyUbrX8ZF54": {
       "video_id": "oyUbrX8ZF54",
       "title": "Performant Training for All Workstreams | Latitude AI | Ray Summit 2026",
-      "duration_s": 1674,
+      "duration_s": 1675,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -5493,7 +5520,7 @@
     "q7lyd0womDU": {
       "video_id": "q7lyd0womDU",
       "title": "Serving vLLM on Intel GPUs, CPUs, and Gaudi | Intel | Ray Summit 2026",
-      "duration_s": 1869,
+      "duration_s": 1870,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -5597,7 +5624,7 @@
     "r9rV_c5_5uo": {
       "video_id": "r9rV_c5_5uo",
       "title": "Serving Fast and Smart: Getting the Most Out of Ray Serve LLM on GKE | Google | Ray Summit 2026",
-      "duration_s": 1087,
+      "duration_s": 1088,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -5623,7 +5650,7 @@
     "rJ1yBqWFOU0": {
       "video_id": "rJ1yBqWFOU0",
       "title": "Anyscale on Azure: Build, Train, and Serve AI in Your Own Tenant | Microsoft | Ray Summit 2026",
-      "duration_s": 857,
+      "duration_s": 858,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -5727,7 +5754,7 @@
     "rnanZRFbskk": {
       "video_id": "rnanZRFbskk",
       "title": "Scaling Machine Learning at Discord: Our Journey with Ray and Anyscale | Discord | Ray Summit 2026",
-      "duration_s": 1823,
+      "duration_s": 1824,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -5792,7 +5819,7 @@
     "srmgiZdIpXk": {
       "video_id": "srmgiZdIpXk",
       "title": "Scaling Frontier AI with Ray on Kubernetes | KubeRay | Ray Summit 2026",
-      "duration_s": 1143,
+      "duration_s": 1144,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -6013,7 +6040,7 @@
     "uh4xtpos4mk": {
       "video_id": "uh4xtpos4mk",
       "title": "Vertical Mobility: Inference from MVP to Trillion Parameters | CoreWeave | Ray Summit 2026",
-      "duration_s": 705,
+      "duration_s": 706,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -6126,6 +6153,15 @@
       "published_at": "2023-10-12T16:08:03Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:34+00:00"
+    },
+    "wfLNdx3kvbU": {
+      "video_id": "wfLNdx3kvbU",
+      "title": "Billion Inferences a Day ML Platform | Coinbase + Anyscale",
+      "duration_s": 193,
+      "channel": "Anyscale",
+      "label": "Anyscale",
+      "year": null,
+      "source_url": "https://www.youtube.com/@anyscale/videos"
     },
     "wi2Ae4mB0SY": {
       "video_id": "wi2Ae4mB0SY",
@@ -6306,7 +6342,7 @@
     "yHuR4iRe73Q": {
       "video_id": "yHuR4iRe73Q",
       "title": "NVIDIA and vLLM Full-Stack Collaboration for DeepSeek and MiniMax Performance | Ray Summit 2026",
-      "duration_s": 1369,
+      "duration_s": 1370,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,
@@ -6436,7 +6472,7 @@
     "zPyKc7_fbW8": {
       "video_id": "zPyKc7_fbW8",
       "title": "Why Current AI Cannot Truly See the World | Elorian AI | Ray Summit 2026",
-      "duration_s": 1918,
+      "duration_s": 1919,
       "channel": "Anyscale",
       "label": "Anyscale",
       "year": null,

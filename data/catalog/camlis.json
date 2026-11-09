@@ -1,16 +1,16 @@
 {
   "slug": "camlis",
   "name": "CAMLIS",
-  "enumerated_at": "2026-09-26T14:28:23+00:00",
+  "enumerated_at": "2026-11-09T19:17:04+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
       "label": "CAMLIS",
       "year": null,
-      "count": 119
+      "count": 139
     }
   ],
-  "count": 119,
+  "count": 139,
   "videos": {
     "-p2il-V-0fk": {
       "video_id": "-p2il-V-0fk",
@@ -28,6 +28,19 @@
       ],
       "details_at": "2026-08-31T15:35:14+00:00"
     },
+    "0A5oNyx2Ge4": {
+      "video_id": "0A5oNyx2Ge4",
+      "title": "Latent Undertow: How Ordinary Typos Break Probes",
+      "duration_s": 1390,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 1\n\nSpeaker: Elad David\n\nAuthor(s): Elad David; Max Fomin",
+      "published_at": "2026-11-08T18:38:23Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "0QJgmIeUzA4": {
       "video_id": "0QJgmIeUzA4",
       "title": "Exploring Backdoor Poisoning Attacks Against Malware Classifiers",
@@ -43,6 +56,19 @@
         "camlis2019"
       ],
       "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "1DGsX6ckBqw": {
+      "video_id": "1DGsX6ckBqw",
+      "title": "Hardening ML Malware Classifiers: Evasion Benchmarking and Covariate Shift Correction",
+      "duration_s": 3421,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 3\n\nHardening ML Malware Classifiers Against Adversarial Evasion: Systematic Benchmarking and Covariate Shift Correction\n\nSpeaker: Mihai Nechita\n\nAuthor(s): Daniel Chipiristeanu; Mihai Nechita; Denis Rozimovschii",
+      "published_at": "2026-11-08T19:26:13Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "1cg8nKjjyp0": {
       "video_id": "1cg8nKjjyp0",
@@ -89,6 +115,19 @@
         "camlis2018"
       ],
       "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "2AS9_uTypQA": {
+      "video_id": "2AS9_uTypQA",
+      "title": "Nomos: Verifiable Council-Based Authorization for Autonomous Agent Actions",
+      "duration_s": 1394,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 2\n\nSpeaker: Devin Robison\n\nAuthor(s): Devin Robison; Hsin Chen; Jasmine Jaksic; Ashley Song",
+      "published_at": "2026-11-08T19:00:40Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "2z_8kZVdN-o": {
       "video_id": "2z_8kZVdN-o",
@@ -186,6 +225,19 @@
         "camlis2019"
       ],
       "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "6ozAFGxXoxo": {
+      "video_id": "6ozAFGxXoxo",
+      "title": "An Attacker-Refiner Framework for Generating Denial-of-Service Prompts in LLMs",
+      "duration_s": 1728,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 2\n\nAn Attacker-Refiner Framework for Automated Generation of Prompts Leading to Denial-of-Service in Large Language Models\n\nSpeaker: Muqeet Ali",
+      "published_at": "2026-11-08T19:12:39Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "6xAZ6NYFq64": {
       "video_id": "6xAZ6NYFq64",
@@ -375,6 +427,19 @@
       ],
       "details_at": "2026-08-31T15:35:14+00:00"
     },
+    "GWPoS3pwkeg": {
+      "video_id": "GWPoS3pwkeg",
+      "title": "Euclidean Embedding of TLSH Digests",
+      "duration_s": 1441,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 1\n\nSpeaker: David Ion\n\nAuthor(s): David Ion; Pradeep Swain; Edward Raff; Daniel Chipiristeanu",
+      "published_at": "2026-11-08T18:03:35Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "GpTQyaFRwVY": {
       "video_id": "GpTQyaFRwVY",
       "title": "Is F1 Score Suboptimal for Cybersecurity Models? Introducing Cscore",
@@ -403,6 +468,19 @@
         "camlis2018"
       ],
       "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "HJXmSpgxC4A": {
+      "video_id": "HJXmSpgxC4A",
+      "title": "Inherited Circuits, Learned Semantics: Evasion Vulnerabilities After Fine-Tuning",
+      "duration_s": 1398,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 1\n\nInherited Circuits, Learned Semantics: How Fine-Tuning Creates Evasion Vulnerabilities Invisible to Standard Evaluation\n\nSpeaker: Ryan Fetterman\n\nAuthor(s): Ryan Fetterman",
+      "published_at": "2026-11-08T18:48:45Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "HSKY8zQYzFI": {
       "video_id": "HSKY8zQYzFI",
@@ -490,6 +568,32 @@
         "camlis2019"
       ],
       "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "LUoOSGge2Dk": {
+      "video_id": "LUoOSGge2Dk",
+      "title": "Robustness in the Gray Zone: Securing AI Agents Against Boundary-Search Attacks",
+      "duration_s": 1559,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 1\n\nRobustness in the Gray Zone: Securing AI Agents via Semantic and Episodic Memory against Boundary-Search Attacks\n\nSpeaker: Diane Lin\n\nAuthor(s): Dianhuan Lin; Zicun Cong",
+      "published_at": "2026-11-08T18:04:05Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "M8tGLPLLXsk": {
+      "video_id": "M8tGLPLLXsk",
+      "title": "CaMeLoT: CaMeL orchestrated with Temporal logic for static verification and liveness",
+      "duration_s": 1474,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 2\n\nSpeaker: Elia Nikolaou\n\nAuthor(s): Elia Nikolaou; Magnus Wiik Eckhoff; Robert Flood; Gudmund Grov; Vasileios Mavroeidis; David Aspinall",
+      "published_at": "2026-11-08T19:00:48Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "MDfD83ZNt4E": {
       "video_id": "MDfD83ZNt4E",
@@ -708,6 +812,32 @@
       ],
       "details_at": "2026-08-31T15:35:14+00:00"
     },
+    "Ra6EvRRng-w": {
+      "video_id": "Ra6EvRRng-w",
+      "title": "Set an Agent to Catch an Agent: Automated Vulnerability Discovery in AI Coding Tools",
+      "duration_s": 1608,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 2\n\nSpeaker: Paul Urian\n\nAuthor(s): Paul Urian; Cosmin Alexa; Donato Onofri",
+      "published_at": "2026-11-08T19:12:47Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "RlZBmYOA2Sk": {
+      "video_id": "RlZBmYOA2Sk",
+      "title": "How Much Does the Harness Matter? A Multi-Model Study of LLM Vulnerability Discovery",
+      "duration_s": 1402,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 2\n\nHow Much Does the Harness Matter, and for Whom? A Multi-Model Study of Context in LLM-Driven Vulnerability Discovery\n\nSpeaker: Ganni Galea Curmi\n\nAuthor(s): Giovanni Galea Curmi; Ben Wilde",
+      "published_at": "2026-11-08T19:06:06Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "SErLrmaUl6o": {
       "video_id": "SErLrmaUl6o",
       "title": "An Explainable Framework for Predicting Vulnerability Threat Using Topic and Threat Modeling",
@@ -733,6 +863,19 @@
       "published_at": "2024-11-16T02:48:33Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "SooE0hd8-_Q": {
+      "video_id": "SooE0hd8-_Q",
+      "title": "Learning to Attack and Defend: Adaptive Red Teaming of Language Models via GRPO",
+      "duration_s": 1379,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 2\n\nSpeaker: Blake Bullwinkel\n\nAuthor(s): Blake Bullwinkel; Eugenia Kim; Amanda Minnich; Mark Russinovich",
+      "published_at": "2026-11-08T19:00:32Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "TMtUo5pp1Mg": {
       "video_id": "TMtUo5pp1Mg",
@@ -817,6 +960,19 @@
         "camlis2018"
       ],
       "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "V4vTVADoVyA": {
+      "video_id": "V4vTVADoVyA",
+      "title": "RuleForge: Automated Generation and Validation for Web Vulnerability Detection at Scale",
+      "duration_s": 1525,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 1\n\nSpeaker: Wayne Fullen\n\nAuthor(s): Ayush Garg; Sophia Hager; Jacob Montiel; Aditya Tiwari; Michael Gentile; Zach Reavis; David Magnotti; Wayne Fullen",
+      "published_at": "2026-11-08T18:02:24Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "VIxBxR7G6Ys": {
       "video_id": "VIxBxR7G6Ys",
@@ -1008,6 +1164,19 @@
         "camlis2019"
       ],
       "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "aiceKug06C0": {
+      "video_id": "aiceKug06C0",
+      "title": "kNNGuard: Turning LLM Hidden Activations into a Training-Free Configurable Guardrail",
+      "duration_s": 992,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 3\n\nSpeaker: Mahmoud Abdelfattah\n\nAuthor(s): Mahmoud Abdelfattah; Hamid Nasiri; Peter Garraghan",
+      "published_at": "2026-11-08T19:20:30Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "c5T2AWuPPPU": {
       "video_id": "c5T2AWuPPPU",
@@ -1274,6 +1443,41 @@
       "tags": [],
       "details_at": "2026-09-06T13:23:52+00:00"
     },
+    "m4HgnR6ut4c": {
+      "video_id": "m4HgnR6ut4c",
+      "title": "AI Security: A 10+-year Perspective",
+      "duration_s": 3535,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 1\n\nSpeaker: David Evans",
+      "published_at": "2026-11-08T18:03:04Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "mNwe5HkrAOw": {
+      "video_id": "mNwe5HkrAOw",
+      "title": "Trouble With Time: Compile Timestamps and First-Seen Date Regression in EMBER2024",
+      "duration_s": 1683,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "mW0aJs2hGYo": {
+      "video_id": "mW0aJs2hGYo",
+      "title": "CTI-REALM: Benchmarking AI Agents on Security Detection Rule Generation",
+      "duration_s": 1562,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 1\n\nCTI-REALM: A Benchmark to Evaluate Agent Performance on Security Detection Rule Generation Capabilities\n\nSpeaker: Arjun Chakraborty\n\nAuthor(s): Arjun Chakraborty; Sandra Ho; Adam Cook",
+      "published_at": "2026-11-08T18:55:09Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "mbGXCNihUnw": {
       "video_id": "mbGXCNihUnw",
       "title": "Don’t you forget NLP: prompt injection using repeated sequences in ChatGPT",
@@ -1286,6 +1490,19 @@
       "published_at": "2023-11-18T21:47:56Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "n-VNijhlxWY": {
+      "video_id": "n-VNijhlxWY",
+      "title": "Citadel: A Maintained, Queryable Grounding Layer for the SOC",
+      "duration_s": 1542,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 1\n\nSpeaker: John Seymour\n\nAuthor(s): John Seymour; Mario Moreno; Matt Rittinghouse",
+      "published_at": "2026-11-08T18:48:36Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "nFrpJ3tDoJE": {
       "video_id": "nFrpJ3tDoJE",
@@ -1394,6 +1611,19 @@
       ],
       "details_at": "2026-08-31T15:35:15+00:00"
     },
+    "qRsVyg9hXxM": {
+      "video_id": "qRsVyg9hXxM",
+      "title": "Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis",
+      "duration_s": 1662,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 2\n\nSpeaker: Aryan Luthra\n\nAuthor(s): Anna Bertiger; Bobby Filar; Aryan Luthra; Siddharth Arya; Kshitij Jain",
+      "published_at": "2026-11-08T19:13:04Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "qk4ZvtFuyhc": {
       "video_id": "qk4ZvtFuyhc",
       "title": "Keys to the Digital Castle: Detecting Malicious MDA Device Enrollment at Scale (CAMLIS 2022)",
@@ -1406,6 +1636,19 @@
       "published_at": "2022-11-30T03:30:24Z",
       "tags": [],
       "details_at": "2026-09-06T13:23:52+00:00"
+    },
+    "rFRu98MZFTI": {
+      "video_id": "rFRu98MZFTI",
+      "title": "What Counts as PII? Constitutional Targets for Broad, Efficient Identifier Detection",
+      "duration_s": 1903,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 3\n\nSpeaker: Andy Hsu\n\nAuthor(s): Andy Hsu; Konstantin Berlin",
+      "published_at": "2026-11-08T19:20:21Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "s-1PbX9Rq2E": {
       "video_id": "s-1PbX9Rq2E",
@@ -1548,6 +1791,19 @@
       "published_at": "2025-11-14T08:26:06Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "vj5Y-ne2_GY": {
+      "video_id": "vj5Y-ne2_GY",
+      "title": "NXDirection: Bringing the NX-bit to the Residual Stream",
+      "duration_s": 1635,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2026 · Day 3\n\nSpeaker: Tamás Vörös\n\nAuthor(s): Tamás Vörös",
+      "published_at": "2026-11-08T19:26:20Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "w6MUiZzu2AI": {
       "video_id": "w6MUiZzu2AI",

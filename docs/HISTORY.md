@@ -1858,3 +1858,87 @@ fixture needs both short and long descriptions, but all current display clips
 are under its 280-character cutoff. Search, ranking and assembled-site checks
 passed. Whitespace verification passed with CSV CRLF endings recognized
 (`git -c core.whitespace=cr-at-eol diff --check`).
+
+## The refresh of 2026-10-19
+
+Refreshed all registered YouTube listings by hand on the local machine, the
+same chain as `tools/refresh_local.sh` run step by step (its
+`refresh-YYYY-MM-DD` branch name is not one the repository's branch rule
+accepts), after upgrading yt-dlp in `tools/.venv`. The refreshed caches
+contain 18,995 videos. Enrichment fetched 466 records through the YouTube
+Data API, none unavailable. The coverage gate passed: 466 talks added, none
+dropped, with gains in every checked metadata field. The additions were AI
+Engineer (183), The AI Conference (154), Devoxx (82), dotAI (18), NDC (8),
+QCon/InfoQ (7), AI DevCon (7), LangChain Interrupt (3), PyData (3) and
+WeAreDevelopers (1).
+
+One listing came back empty: `https://www.youtube.com/@WeightsBiases/videos`
+now answers *HTTP Error 404: Not Found* for every request, where the
+2026-09-26 run read it normally. The 305 videos already cached for
+`fully-connected-wandb` are kept — enumeration never deletes — but nothing new
+can arrive from it. The obvious replacement handle, `@wandb`, is an unrelated
+Japanese channel, so the registry entry is left as it is until the channel's
+new address is confirmed.
+
+The budgeted Supadata run (`--min-year 2026 --include-unknown-year --workers
+32 --limit 300`) selected 466 current-year talks (3,615 already fetched, 42
+known misses, 6,592 outside the year filter) and worked through 300 of them:
+292 transcripts fetched, seven recorded as misses — all *no timed transcript
+for this video*, four of them The AI Conference, two Devoxx and one NDC — and
+one `LEFT RateLimited`, a 429 that outlasted the backoff and so carries no
+verdict. Supadata answered the 32-worker burst with a wave of `429`s; all
+the others were retried through. The ledger records 299 attempts for
+October, the first of the month, out of 3,000. That left the 2026 scope
+short for the first time since 2026-09-01 — 3,662 indexed transcripts, 48
+recorded misses and 167 pending, 140 of them The AI Conference and 18 dotAI —
+until the second fetch below took the rest the same day.
+
+### The second fetch
+
+The same command without `--limit` selected exactly the 167 (3,907 already
+fetched, 49 known misses) and fetched **139**, with **28 misses**, all of them
+The AI Conference and all *no timed transcript for this video*. That many
+misses from one channel looked like a classification bug, so they were
+checked: 26 of the 28 were uploaded on 2026-10-07, in the same batch as 48
+talks that did return a transcript, and newer uploads of 2026-10-13 returned
+theirs, so this is not caption lag; and `yt-dlp --list-subs` on one of them
+(`7FUyuc-AM5Q`) reports *no automatic captions* and *no subtitles*. They are
+facts about the videos. The ledger gained 167, 466 for October in all.
+**The 2026 scope is complete again**: 3,881 talks, 3,801 indexed transcripts
+(3,805 files, four held back by the 10 words/minute floor), 76 recorded
+misses, zero pending. `_misses.json` is now 77.
+
+### The index and the checks
+
+`python3 tools/query.py --stats` reports **10,473 talks, 4,042 transcripts,
+53 conferences**; 3,811 transcripts have exact timing and 231 have estimated
+timing. The rebuilt SQLite database is 489.1 MiB and contains 1,815,265
+passages. Browser shards total 56.9 MiB across 724 shards with 64,037 stems.
+`search-meta.json` is **5.96 MiB, 99% of the 6 MiB trigger** and 39,598 bytes
+under it; the next refresh of this size will cross it, and per
+`specs/search-browser.md` the answer then is to move descriptions out of the
+up-front payload rather than halve `META_DESC_CHARS` again.
+
+The browser suite first failed one check, *the talk that says "frontier" is
+in its own result set*. `suite-moments.js` picks its query from the corpus:
+the first transcribed talk in `search-meta.json` and a title word spoken
+three times. After this refresh that talk is Clare Liguori's *Frontier
+developers write maybe 1-2% of code* and the word is "frontier", common
+enough that the talk ranks 11th in the CLI and past the 20 cards of the
+browser's first page. The search was right; the test assumed page one. The
+suite now searches through a `searchTo` helper that presses "Show more"
+until the picked talk's card is rendered, in all four places that relied on
+it. After the change: 227 checks, zero failures, one skip — the
+description-unfold fixture, unchanged from 2026-09-26 (every display clip is
+under its 280-character cutoff).
+
+Registry and spec-map checks, Ruff and all eight offline suites passed after
+each fetch. After each, two offline `sync_catalog.py` + `build_index.py`
+passes produced identical SHA-256 hashes over every changed and new file. `refresh_docs.py` rewrote the
+counts in README, GUIDE and STATE; the STATE table, the backlog prose in STATE
+and GUIDE, and `docs/STATS.md` were updated by hand, on the corpus after the
+second fetch. STATS.md was
+regenerated with the method of the 2026-09-14 snapshot, checked first by
+reproducing that snapshot's figures from its own commit: every number matched
+except one speaker and about 70 Markdown lines, both from edits made after
+that snapshot was taken.

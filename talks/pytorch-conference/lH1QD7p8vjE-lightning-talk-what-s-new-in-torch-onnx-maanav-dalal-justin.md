@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Maanav Dalal", "Justin Chu"]
-channel: "PyTorch"
+channel: "PyTorch Foundation"
 duration_min: 11
 published_at: 2025-11-04T03:45:07Z
 video_id: lH1QD7p8vjE

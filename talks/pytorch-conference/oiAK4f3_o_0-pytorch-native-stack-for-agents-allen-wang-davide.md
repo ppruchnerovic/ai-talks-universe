@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Allen Wang", "Davide Testuggine"]
-channel: "PyTorch"
+channel: "PyTorch Foundation"
 duration_min: 27
 published_at: 2025-11-04T03:47:29Z
 video_id: oiAK4f3_o_0

@@ -1,8 +1,14 @@
 {
   "slug": "ai-devcon-tessl",
   "name": "AI DevCon (Tessl)",
-  "enumerated_at": "2026-09-26T14:26:11+00:00",
+  "enumerated_at": "2026-11-09T19:14:33+00:00",
   "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "count": 51
+    },
     {
       "url": "https://www.youtube.com/@tessl-ai/videos",
       "label": "Tessl",
@@ -10,7 +16,7 @@
       "count": 300
     }
   ],
-  "count": 320,
+  "count": 398,
   "videos": {
     "-6SNbcE3C9o": {
       "video_id": "-6SNbcE3C9o",
@@ -136,6 +142,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "0DQwjoPqolw": {
+      "video_id": "0DQwjoPqolw",
+      "title": "Code Readiness for Agentic Development",
+      "duration_s": 1845,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "One engineer at This Dot Labs merged 231 pull requests in 30 days with 99.6% of the code written by AI, and none have been reverted. Tracy Lee, CEO of This Dot Labs, and Coston Perkins, Engineering Lead II, argue that if that sounds out of reach, the problem is usually code base readiness. Borrowing the strangler pattern, they show how to hand each step to workflows that mix scripts and agents: one-command app setup, deterministic standards, LLM judges, local CI, evidence-rich pull requests and responding to production signals. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why developer-in-the-loop AI is becoming the new legacy process\n– Using the strangler pattern to move work into workflows\n– One command to run your app, for agents and new hires\n– Deterministic team standards, with scripts outside the model\n– LLM judges, local CI and pull requests that carry their own evidence\n– Responding to production signals, and what's left for engineers\n\nChapters:\n00:00:00 - Introduction: 99.6% of code written by AI\n00:02:33 - The problem is code base readiness\n00:04:10 - Developer-in-the-loop is the new legacy\n00:05:26 - The strangler pattern for workflows\n00:08:33 - Step 1: one command to run the app\n00:11:31 - Step 2: deterministic team standards\n00:16:16 - Step 3: judges and quality gates\n00:19:48 - Steps 4 and 5: local CI and evidence-rich PRs\n00:23:28 - How the workflow fits together\n00:24:58 - Step 6: production signals, and what's left for us\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich repetitive step would you hand to a workflow first? Tell us in the comments.",
+      "published_at": "2026-11-07T17:55:09Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "0U46-wl4azs": {
       "video_id": "0U46-wl4azs",
       "title": "CTO of $7B Snyk Talks AI Security, Risky Software & Enterprise Adoption",
@@ -150,6 +169,19 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "0cySwRF7oJI": {
+      "video_id": "0cySwRF7oJI",
+      "title": "Maggie Appleton: Agentic Coding Has Outgrown the Text Box",
+      "duration_s": 3131,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Agentic coding has outgrown the text box. Maggie Appleton, staff research engineer at GitHub Next, argues that walls of CLI output and AGENTS.md files serve coding agents far better than the humans steering them. She walks through Chopin, the GitHub Next prototype where background agents turn a team's planning chat into a structured plan, and makes the case for agents that prompt you instead of waiting to be prompted.\n\nWhat we cover:\n– Why text-heavy agentic coding tools favor agents over humans\n– Boundary objects: what AGENTS.md, skill files and MCP servers get right and wrong\n– Multiplayer planning with coding agents in GitHub Next's Chopin\n– Human-to-agent handoffs, formal verification and spec-driven development\n– Why software quality is rising, not falling, with coding agents\n– Which roles still matter: PMs, designers and engineers\n\nChapters:\n00:00:00 - Introduction\n00:02:14 - Inside GitHub Next and the Chopin project\n00:05:57 - Why solo agents break team alignment\n00:07:52 - Why coding agents struggle with design\n00:12:16 - Boundary objects: AGENTS.md, skills and MCP\n00:18:27 - Planning with coding agents as collaborators\n00:26:49 - Multiplayer planning with background agents\n00:31:57 - Agent handoffs and spec-driven development\n00:37:41 - Quality, craft and who decides what to build\n00:44:29 - Starting a career in agentic coding\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/j3d\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nShould coding agents be prompting you more? Tell us in the comments how your team plans agentic coding work today.",
+      "published_at": "2026-11-03T13:00:18Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:22+00:00"
     },
     "0kIBwaQNxgs": {
       "video_id": "0kIBwaQNxgs",
@@ -209,6 +241,19 @@
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
     },
+    "1FDAowpMReo": {
+      "video_id": "1FDAowpMReo",
+      "title": "Introducing Tessl Verifiers: Enforce AI Coding Standards in Every Change",
+      "duration_s": 241,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Your coding agent knows the rules. But does every change actually follow them?\n\nIntroducing Tessl Verifiers, a way to write rules for your repo in plain language and automatically check them on every code change.\n\nVerifiers are designed for standards that traditional linters and tests can’t reliably enforce, such as:\n\n• Every user-facing error tells the user what to do next\n• Every API route uses your typed response helpers\n• No handler logs request headers, tokens, or passwords\n\nEach verifier returns a clear pass or fail, so you can use it like lint or tests: run it locally, in pre-commit, or make it a CI gate.\n\nIn this video, we cover how Verifiers work, when to use them, how to create your first verifier, and how to start enforcing your coding-agent standards in CI.\n\nVerifiers is generally available now.\n\nGet started:\nhttps://docs.tessl.io/codifying-and-enforcing-your-skill-standards/verifiers-overview",
+      "published_at": "2026-10-02T07:57:10Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:28+00:00"
+    },
     "1QaAPfsEqYQ": {
       "video_id": "1QaAPfsEqYQ",
       "title": "Introducing Tessl Agent",
@@ -250,6 +295,19 @@
         "what is AI-native development"
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "1jUcunPKFh4": {
+      "video_id": "1jUcunPKFh4",
+      "title": "Code Mode Agents Need More Than a Sandbox",
+      "duration_s": 1829,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "With code mode, agents stop picking from a fixed list of tools and start writing and running their own programs, often from untrusted inputs and with no human checkpoint. Cornelia Davis, Developer Advocate at Temporal, explains why that calls for more than a sandbox: governance sandboxes that inherit the harness's permissions and policies, and never exceed them. She compares OS sandboxes and egress gateways with interpreter sandboxes like Pydantic Monty, and live-demos a travel agent where a policy engine blocks a prompt injection. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why code mode changes the security model for agents\n– The spectrum from no sandbox to fully locked down\n– Governance sandboxes: inherit permissions and policies, never exceed them\n– OS sandboxes with egress gateways vs interpreter sandboxes like Monty\n– Live demo: approvals and a policy engine blocking a prompt injection\n– Keep credentials out, deny by default and record everything\n\nChapters:\n00:00:00 - Introduction: sandboxes and code mode\n00:01:48 - Why code mode is risky\n00:04:12 - Tool calling vs code mode\n00:05:47 - The sandbox spectrum\n00:08:54 - Governance sandboxes\n00:11:10 - OS sandboxes and egress gateways\n00:13:01 - Interpreter sandboxes with Pydantic Monty\n00:16:45 - Live demo: a code mode travel agent\n00:20:50 - Live demo: policies that block prompt injection\n00:27:23 - Lessons from OpenAI, and best practices\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow are you governing the code your agents write and run? Tell us in the comments.",
+      "published_at": "2026-11-08T08:12:40Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "2Bnci81TW1E": {
       "video_id": "2Bnci81TW1E",
@@ -296,6 +354,45 @@
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "2NhZWzBMm2E": {
+      "video_id": "2NhZWzBMm2E",
+      "title": "Liz Fong-Jones: 2x the PRs, 1.5x the Incidents",
+      "duration_s": 2979,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Honeycomb went from 30 to 70 merged pull requests a day in three months. The catch: automated code review, not code generation, became the real bottleneck of software automation. Liz Fong-Jones, Technical Fellow at Honeycomb, explains why incidents still rose 1.5x, how their internal bot Autobot now reviews every PR, and why AI amplifies whatever org you already have.\n\nWhat we cover:\n– How automated code review lets humans focus on design, not trivial bugs\n– Using a decision model like Jev to decide which PRs are safe to auto-merge\n– What makes a codebase ready for AI coding agents\n– When to trust AI agents with production incidents, and when they're just throwing darts\n– Why \"Claude did it\" isn't an excuse, and what ownership means with AI\n– How open source maintainers can handle a flood of AI slop pull requests\n\nChapters:\n00:00:00 - Introduction\n00:06:41 - Why AI amplifies dysfunctional engineering orgs\n00:10:45 - What makes a codebase AI ready\n00:14:01 - Honeycomb's Autobot and automated code review\n00:19:06 - Using Jev to decide which PRs are safe to merge\n00:26:51 - Trusting AI agents during production incidents\n00:30:40 - Least privilege and guardrails for coding agents\n00:33:25 - If your name's on it, you own it\n00:38:55 - AI slop pull requests and open source\n00:45:56 - Will observability engineering survive as a role?\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/nlr\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nIs your team's review capacity keeping up with your AI coding agents? Tell us in the comments.",
+      "published_at": "2026-09-29T12:00:05Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:28+00:00"
+    },
+    "2aV2XYo8GVE": {
+      "video_id": "2aV2XYo8GVE",
+      "title": "Geoffrey Huntley: Patch the Planet With Nix and Agents",
+      "duration_s": 1811,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "With AI finding security vulnerabilities faster than teams can patch them, the answer is engineering: a hardened harness for your coding agents and the ability to patch anything, fast. Geoffrey Huntley, creator of the Ralph loop and field CTO at Antithesis, shows how one Nix source of truth covers laptops, CI, agent sandboxes and production, how to remove risky capabilities from agents entirely, and how to build loops with real back pressure. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why security takeoff is the new normal for open source\n– Do you still need third-party libraries when agents can write them?\n– Patch the Planet: monkey-patching any dependency with Nix\n– One source of truth for laptops, CI, agent sandboxes and production\n– Removing capabilities like git force push from your agent harness\n– Loop engineering with deterministic checks and property-based testing\n\nChapters:\n00:00:00 - Introduction: the answer is engineering\n00:00:40 - A wild two weeks of security incidents\n00:04:01 - Do we still need open source libraries?\n00:07:10 - Patch the Planet\n00:09:19 - One source of truth with Nix and devenv\n00:11:13 - Demo: removing force push from git\n00:16:11 - Patching OpenSSL across the whole fleet\n00:17:24 - Security incident response without lost sleep\n00:20:50 - Loop engineering: back pressure and deterministic checks\n00:26:10 - Property-based testing\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow long did your team spend patching during the last big security week? Tell us in the comments.",
+      "published_at": "2026-11-08T10:05:04Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "2uuV0_9snGA": {
+      "video_id": "2uuV0_9snGA",
+      "title": "AI Finds Vulnerabilities Faster Than We Can Patch Them",
+      "duration_s": 1733,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Frontier AI models are now finding open source vulnerabilities faster than the ecosystem can patch them, and the fix is automating software upgrades with agents. Chainguard co-founder and CEO Dan Lorenc explains why the vulnerability dams aren't leaking, they're breaking, and why the safest move is to stop waiting for CVEs and start upgrading everything now. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why five headline-grade open source vulnerabilities landed in a single day\n– How AI-driven vulnerability discovery is overflowing the patch pipeline\n– Invisible vulnerabilities: silent fixes that never get a CVE\n– Retiring whole classes of bugs with memory safety and safer frameworks\n– Using AI coding agents to automate software upgrades and migrations\n– What it costs to migrate an app with an agent (as little as $9)\n\nChapters:\n00:00:00 - Introduction: what breaks at machine speed\n00:00:39 - Five severe open source vulnerabilities in one day\n00:02:52 - Why the vulnerability pipeline is overflowing\n00:07:05 - Everyone is somewhere in the software supply chain\n00:08:12 - Invisible vulnerabilities and silent fixes\n00:11:14 - Getting rid of unsafe design patterns\n00:13:41 - AI as the engine for upgrading software\n00:14:48 - Start upgrading everything now\n00:16:07 - Automating software upgrades with agents\n00:19:18 - Q&A\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nIs your team upgrading ahead of the next vulnerability wave, or waiting for the CVE? Tell us in the comments.",
+      "published_at": "2026-11-07T21:46:11Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "3-W0Et-X5Ew": {
       "video_id": "3-W0Et-X5Ew",
       "title": "AI-First Project Management for Developers | Alex Gavrilescu on Backlog.md",
@@ -323,6 +420,32 @@
       "published_at": "2025-09-16T13:57:15Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "3NH_i8M1Gqg": {
+      "video_id": "3NH_i8M1Gqg",
+      "title": "Guy Podjarny: Building a Software Factory You Can Trust",
+      "duration_s": 2000,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Software development is moving from building the car to building the factory, but concerns about quality, cost and safety hold many teams back. In this opening keynote, Guy Podjarny, Founder & CEO of Tessl, lays out a path to a software factory you can trust: skills that define what good looks like, self-improving loops that learn from what they observe, and factories built around business outcomes. He shares real data from Tessl's own factory, from automated vulnerability remediation to cutting cost per PR. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why quality, cost and safety concerns hold back software factories\n– Delegating to agents like a good manager: skills to loops to factory\n– Automated vulnerability remediation with skills\n– Verifiers that set limits on an agent's empowerment\n– Self-improving loops, and cutting cost per PR from $75 to $13\n– From shared skills to a factory per product\n\nChapters:\n00:00:00 - Introduction: from building the car to building the factory\n00:03:00 - Quality, cost and safety concerns\n00:03:50 - Delegating well: skills to loops to factory\n00:06:24 - What is a software factory?\n00:07:47 - Skills: automated vulnerability remediation\n00:12:18 - Safety: limiting an agent's empowerment\n00:17:11 - Self-improving loops\n00:21:16 - What makes a factory\n00:24:03 - How organizations adopt factories\n00:27:48 - Build vs buy, and the Tessl factory\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhere is your team on the journey from skills to loops to factory? Tell us in the comments.",
+      "published_at": "2026-11-08T07:46:18Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "3bCD7Qqs4Ws": {
+      "video_id": "3bCD7Qqs4Ws",
+      "title": "Aidan Cunniffe: The Software Factory May Be Inside the House",
+      "duration_s": 1709,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Most software factory effort goes into dev infra: cloud agents, dev environments and review bots. Aidan Cunniffe, Member of Product Staff at OpenAI, argues the bigger opportunity may be the app platform, meaning the shared libraries, design systems, auth and query layers your agents build on. Now that code is cheap, abstractions that used to be too expensive are worth building, and they help teams ship faster, bring non-technical contributors in safely and roll out fixes across a code base. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– What citizen developers are already doing differently\n– Why software factories still aren't turnkey, and review is still a bottleneck\n– The real goals: speed, bigger bets, new contributors and less grunt work\n– Dev infra vs app platform: where your agents build\n– Why abstractions that were too expensive are now worth building\n– Revisiting Amazon's API mandate for the age of agents\n\nChapters:\n00:00:00 - Introduction: the software factory may be inside the house\n00:01:02 - Lessons from citizen developers\n00:02:11 - Why factories still aren't turnkey\n00:04:08 - What teams actually want\n00:05:13 - Dev infra vs app platform\n00:06:12 - Abstractions are now worth building\n00:10:11 - Safe zones for non-technical contributors\n00:12:29 - The API mandate, revisited for agents\n00:14:33 - Caveats: bad abstractions and missing evals\n00:16:36 - Q&A\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat shared building blocks would make your agents' work easier to trust? Tell us in the comments.",
+      "published_at": "2026-11-08T08:30:36Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "3fXAZZusxew": {
       "video_id": "3fXAZZusxew",
@@ -365,6 +488,19 @@
       "published_at": "2026-08-13T15:51:11Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "4Az77VWto6k": {
+      "video_id": "4Az77VWto6k",
+      "title": "OpenAI's Mashrur Hossain: What Happens After the AI Pilot",
+      "duration_s": 1975,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Rolling out AI coding agents across a regulated enterprise takes far more than a successful pilot, because the day after a pilot ends, usually nothing happens. Mashrur Hossain, who works in deployed engineering on Codex at OpenAI, shares his recipe for enterprise AI enablement in financial services: prepare, practice and sustain, find your champions, and build the controls regulators expect. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why AI coding pilots never seem to end, and what to do after one succeeds\n– Scaling enablement from a 50-person team to 5,000+ engineers\n– The prepare, practice, sustain recipe for enterprise AI adoption\n– Finding champions who give your rollout credibility\n– Evidence, boundaries and accountability: AI coding controls for regulated industries\n– Automating enablement with your own software factory\n\nChapters:\n00:00:00 - Introduction: enabling AI coding in large enterprises\n00:03:01 - Why AI coding pilots never end\n00:04:04 - What works for 50 engineers won't work for 5,000\n00:06:28 - What happens after a successful pilot\n00:09:05 - The enablement recipe: prepare, practice, sustain\n00:11:50 - Why champions matter in enterprise AI adoption\n00:16:23 - Security, readiness and people: three parallel tracks\n00:20:05 - Controls for regulated industries\n00:24:08 - Small improvements that add up\n00:27:12 - Building an enablement factory\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat's the one improvement you'll make to your next AI coding rollout? Share it in the comments.",
+      "published_at": "2026-11-07T21:41:27Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "4JKzfCdwiSo": {
       "video_id": "4JKzfCdwiSo",
@@ -449,6 +585,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "59TBijDBbQg": {
+      "video_id": "59TBijDBbQg",
+      "title": "The $600 PR: Where Software Factory ROI Really Comes From",
+      "duration_s": 2215,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Most of the ROI in an AI software factory doesn't come from the model or the coding agent — it comes from everything around it. Rob Willoughby, who leads research at Tessl, shows how Tessl's internal software factory now carries around 80% of its PRs using off-the-shelf agents, and why context, verification and feedback loops are where the real returns live.\n\nWhat we cover:\n– How a $600 PR came from two agents doing exactly what they were told, and why Tessl fixed the system rather than the agent\n– The five stages of a software factory, and why the feedback loop matters most\n– Keeping humans in the loop at the behavior level, not the code level\n– Using formal verification with Quint to knock out an entire class of bugs\n– Why CI pass rate alone hid the true cost of medium vs high effort\n– Measuring agentic coding ROI: the full cost of a PR, fast signals and shadow experiments\n\nChapters:\n00:00:00 - Introduction\n00:01:31 - The $600 PR: two agents doing exactly what they were told\n00:02:56 - The five stages of a software factory\n00:04:42 - Human in the loop at the behavior level, not the code\n00:06:02 - Measuring ROI when the input is token cost\n00:08:55 - Context and environment: verifying against the right target\n00:12:37 - Formal verification to knock out a class of bugs\n00:14:52 - Why CI pass rate alone is the wrong metric\n00:17:14 - Better questions beat smarter agents\n00:21:38 - Evidence, full cost and the feedback loop\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/mu6\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhere is your software factory getting its ROI — from the agent, or from everything around it? Tell us in the comments.",
+      "published_at": "2026-10-01T14:00:32Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:28+00:00"
+    },
     "5OS3pZ3yXrg": {
       "video_id": "5OS3pZ3yXrg",
       "title": "The $2B AI Startup Backed By Nvidia & Adobe | Synthesia",
@@ -492,6 +641,19 @@
         "technical debt reduction"
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "5bDYF02lt1E": {
+      "video_id": "5bDYF02lt1E",
+      "title": "A Dream Factory for an Instrument Made of Light",
+      "duration_s": 2204,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Glinster is a musical instrument for Apple Vision Pro, iPhone and iPad that you play with your bare hands, built in two months by one person and Claude Code running in auto mode. In this closing keynote, Geert Bevin, Director of Software Development at Moog Music, shares what happened when he deliberately read almost none of the code: how proven engineering processes let him stay in the creative zone, where agents failed to spot their own failures, the five rules that made it work, and a live Vision Pro demo. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– From a long-held idea to an instrument you play with your bare hands\n– Building with Claude Code in auto mode while barely reading the code\n– Keeping tests, CI/CD and human testers as the safeguards\n– Acting as the product designer, and being free to throw code away\n– When agents can't see their own failures\n– Five rules that made it work, plus a live Vision Pro demo\n\nChapters:\n00:00:00 - Introduction: an idea older than the Vision Pro\n00:03:05 - Building without reading the code\n00:08:12 - Engineering processes as safeguards\n00:10:19 - More production lines\n00:12:38 - Trusting Claude like a team member\n00:15:32 - Free to throw code away\n00:17:23 - Remote sessions and fast builds\n00:19:48 - What happens when no one reads the code\n00:24:44 - Five rules for staying creative\n00:31:10 - Live demo on Vision Pro\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat would you build if you could stay in the creative zone? Tell us in the comments.",
+      "published_at": "2026-11-07T19:09:10Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "5pFdx9ZLIMI": {
       "video_id": "5pFdx9ZLIMI",
@@ -606,6 +768,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "6xGR6-PVqXQ": {
+      "video_id": "6xGR6-PVqXQ",
+      "title": "Valerio Panzica: Booking.com’s Road to an Agentic SDLC",
+      "duration_s": 55,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "72o72t4WPkQ": {
       "video_id": "72o72t4WPkQ",
       "title": "Using Tessl init for existing projects",
@@ -660,6 +831,19 @@
       "published_at": "2025-11-07T10:58:01Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "7NXdKekm95g": {
+      "video_id": "7NXdKekm95g",
+      "title": "AI Attacks at Machine Speed. Defense at Meeting Speed.",
+      "duration_s": 3293,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "AI attackers now move at machine speed, while most security teams still move at meeting speed. Former Robinhood CSO Caleb Sima has seen an AI attacker up close, and he argues the only way to keep up is to take humans out of the defense loop.\n\nCaleb joins Guy Podjarny to unpack what changes when the attacker is an agent: one that hits every surface at once, reverses open-source code to find a 0-day, and once inside, burns your own AI tokens to keep going.\n\nWhat we cover:\n– Why AI attackers outran the red teamers' predictions, including 400 Linux 0-days found at 2.5 hours each\n– Whether sandboxes can contain AI agents, and why external monitoring matters\n– Who is accountable when your AI agent hacks someone else\n– What actually changes when an AI attacker gets inside your company\n– Deception, digital twins and forensic-grade detection\n– Automating security: instant patching, one-way vs two-way doors, and security teams that ship the fix\n\nChapters:\n00:00:00 - Introduction\n00:02:58 - AI security goes mainstream\n00:05:52 - Why AI attackers surprised the red teamers\n00:12:50 - Can sandboxes contain AI agents?\n00:18:03 - Security vs safety vs alignment\n00:22:18 - Who's accountable when your AI agent hacks?\n00:29:00 - What changes when an AI attacker hits you\n00:36:47 - Detection, forensics and deception\n00:44:10 - Machine speed vs meeting speed: automating defense\n00:48:53 - Security teams that ship the fix\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/9ja\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nAre your defenses ready for AI attackers, or still running at meeting speed? Tell us in the comments.",
+      "published_at": "2026-10-27T13:00:27Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:22+00:00"
     },
     "7PKEXIq25H0": {
       "video_id": "7PKEXIq25H0",
@@ -855,6 +1039,19 @@
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
     },
+    "A-exnW0115U": {
+      "video_id": "A-exnW0115U",
+      "title": "How Booking.com Is Moving to an Agentic SDLC",
+      "duration_s": 1929,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Booking.com is moving from AI-assisted coding to automated software delivery across 4,000 engineers, and the bottleneck isn't the models, it's trust. Valerio Panzica, Senior Tech Product Manager at Booking.com, shares the assist, delegate and orchestrate phases of their agentic SDLC, the internal Agent Fabric platform behind it, and why autonomy increases with confidence. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Booking.com's three phases toward autonomous software delivery: assist, delegate, orchestrate\n– Rolling out AI coding agents to 4,000 engineers, with 90% weekly usage\n– Delegating migrations, feature flag cleanup and code review to agents\n– Five areas that build confidence, from context to golden paths\n– Agent Fabric: an internal platform for MCPs, skills and agents\n– Measuring impact and trust with the DX Core 4\n\nChapters:\n00:00:00 - Introduction: Booking.com's engineering scale\n00:02:38 - The vision: an agentic SDLC\n00:04:17 - Assist: rolling out AI coding tools\n00:07:04 - Delegate: centralize the foundation, decentralize innovation\n00:10:39 - Toward orchestration: KTLO from Slack to production\n00:11:55 - Trust is the real bottleneck\n00:15:47 - Agent Fabric: a common agent platform\n00:18:15 - Measuring impact and trust\n00:20:37 - Three takeaways\n00:21:37 - Q&A\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich phase is your team in: assist, delegate or orchestrate? Tell us in the comments.",
+      "published_at": "2026-11-07T21:12:23Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "A7OV2rOIp2Y": {
       "video_id": "A7OV2rOIp2Y",
       "title": "Beyond Prompts: Giving AI Coders the Blueprints They Need with CreateMVPs app with Rohit Ghumare",
@@ -983,6 +1180,32 @@
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "AsNb4Y638J4": {
+      "video_id": "AsNb4Y638J4",
+      "title": "Your Coding Agent Should Never Hold a Credential",
+      "duration_s": 1793,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Your coding agent should never hold a credential, and in a software factory that rule is only the start. Recorded live at the AI Security Summit in San Francisco, Simon Maple sits down with Eli Aleyner (Docker), Marcelo Sousa (Snyk) and Ian Livingstone (Keycard), co-authors of Agent Baseline, a security reference architecture for the AI software factory.\n\nThe panel unpacks why agents have to be treated as fundamentally unpredictable actors, why sandboxing alone is not enough when skills and MCP servers make the supply chain dynamic, and why approval prompts collapse into fatigue. Marcelo's verdict: sometimes these are kids with chainsaws.\n\nWhat we cover:\n– The three levels of autonomy, from coding agents to fully agent-directed workflows\n– Sandboxing coding agents and injecting secrets at the egress point\n– Why the agent supply chain is dynamic: skills, MCP servers and cloned repos\n– Prompt injection, least privilege and agents monitoring other agents in the harness\n– Approval fatigue: YOLO mode vs CYA mode\n– Where to start securing your software factory on Monday morning\n\nChapters:\n00:00:00 - Introduction\n00:03:14 - What Agent Baseline is and who it's for\n00:04:17 - The three levels of software factory autonomy\n00:06:53 - Sandbox boundaries and manufacturing trust in agents\n00:09:22 - Why coding agents should never hold credentials\n00:11:44 - The dynamic agent supply chain: skills and MCP servers\n00:14:57 - Untrusted input, least privilege and agents watching agents\n00:18:02 - Approval fatigue: YOLO mode vs CYA mode\n00:20:22 - Are poisoned agent skills a supply chain problem?\n00:22:45 - Where the panel disagreed, and where to start Monday\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/gsh\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nWhich level of the software factory are you at today, and what are you locking down first? Tell us in the comments.",
+      "published_at": "2026-10-22T12:00:05Z",
+      "tags": [],
+      "details_at": "2026-10-23T04:06:09+00:00"
+    },
+    "B4sTAoiyR_k": {
+      "video_id": "B4sTAoiyR_k",
+      "title": "What Breaks Going From 1 Coding Agent to 10",
+      "duration_s": 1932,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Running one coding agent is easy; running ten that share GitHub, Linear and CI turns software delivery into a distributed systems problem. James Moss, Member of Technical Staff at Tessl, shares five lessons from scaling Tessl's own software factory to 3.5x more merged PRs with the same team: shared state, stale assumptions, convergence, duplicate work, and budgets with stop conditions. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– How Tessl's internal software factory grew to handle 85% of PRs\n– Why independent tickets don't guarantee independent changes\n– Catching stale assumptions when other agents change the code underneath\n– Stopping review agents from talking in circles\n– Idempotency and fault tolerance for factories built on third-party tools\n– Budgets and stop conditions for multi-agent workflows\n\nChapters:\n00:00:00 - Introduction\n00:02:34 - A short history of Tessl's software factories\n00:05:52 - 3.5x more PRs with the same team\n00:07:29 - What we mean by a software factory\n00:10:25 - Shared state: when agents collide\n00:14:23 - Stale assumptions\n00:16:26 - Convergence: getting closer to done\n00:21:29 - Duplicate work and recovery\n00:24:21 - Budgets and stop conditions\n00:27:52 - Key takeaways: tools built for humans\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich of these five problems has your team hit first? Tell us in the comments.",
+      "published_at": "2026-11-08T09:59:25Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "B57MLbmpdGw": {
       "video_id": "B57MLbmpdGw",
       "title": "I Broke Production at 2 AM: How AI Agents are Fixing Post-Mortems",
@@ -1082,6 +1305,19 @@
         "web apps"
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "BtGqqd7rbAI": {
+      "video_id": "BtGqqd7rbAI",
+      "title": "Operating Coding Agents at Scale",
+      "duration_s": 2082,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Rolling out coding agents is the easy part; knowing whether each change to models, settings and tools actually helped is much harder. Nandini Singhal, Senior Software Engineer at Datadog, shares how Datadog answers four questions about the agents its engineers use every day: adoption, productivity, cost and security. She walks through four layers of visibility, an AI gateway, Trajectory session traces, nightly evals on real tasks and versioned rollouts, plus what model router and compression experiments revealed. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– The four questions every company asks: adoption, productivity, cost and security\n– Why tokens, sessions and tool calls don't prove productivity\n– The cost multiplication, and why defaults are product decisions\n– An AI gateway and Trajectory traces for visibility across agents\n– Nightly evals on real tasks, and why a model router raised costs\n– Rolling out config like code, and measuring outcomes that stick\n\nChapters:\n00:00:00 - Introduction: after you enable coding agents\n00:03:26 - Four questions: adoption, productivity, cost, security\n00:06:10 - Why productivity is hard to measure\n00:11:48 - The cost multiplication\n00:13:31 - Defaults are product decisions\n00:16:05 - Four layers of visibility\n00:20:05 - Why the model router cost more\n00:21:59 - Traces with Trajectory\n00:23:39 - Evals on real work\n00:29:21 - Rollouts, outcomes and takeaways\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow does your team decide whether a new model or setting actually helped? Tell us in the comments.",
+      "published_at": "2026-11-06T21:38:00Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "C0OeWkbhiL8": {
       "video_id": "C0OeWkbhiL8",
@@ -1324,6 +1560,19 @@
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
     },
+    "EEXVT_8UQ7s": {
+      "video_id": "EEXVT_8UQ7s",
+      "title": "Automating Design Quality in the Dark Factory",
+      "duration_s": 1731,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "When agents build most of your screens, a designer reviewing everything at the end becomes the bottleneck. Hamza Oza, Lead Designer at Tessl, borrows from Toyota and his years as a mechanical engineer to build design quality into the line instead: redoing agent-built screens by hand to surface unwritten composition rules, turning them into brand and design skills, and adding advisory checks in CI, code review and weekly maintenance loops. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– What manufacturing teaches us about quality at scale\n– Why a designer at the end of the line becomes a bottleneck\n– Why design systems alone don't stop agents producing generic screens\n– Surfacing unwritten composition rules by redoing agent work by hand\n– Design skills, advisory CI checks and weekly maintenance loops\n– What three months of automating design quality taught us\n\nChapters:\n00:00:00 - Introduction: from bike prototypes to software factories\n00:01:59 - Lessons from Toyota\n00:05:03 - The designer bottleneck\n00:06:31 - Values, voice and visuals\n00:07:56 - Why design systems aren't enough\n00:09:17 - Redoing agent screens by hand\n00:12:00 - Adding design gates across the lifecycle\n00:13:19 - CI checks and maintenance loops\n00:15:38 - What three months taught us\n00:18:59 - Q&A\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat unwritten rules would you surface by redoing your agents' work by hand? Tell us in the comments.",
+      "published_at": "2026-11-07T17:16:34Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "Ein9N9U7P1M": {
       "video_id": "Ein9N9U7P1M",
       "title": "​Securing AI-native Commerce Without Breaking the Cart - James Wickett & Adam Dyche",
@@ -1533,6 +1782,15 @@
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "Gl5ZJGTb72w": {
+      "video_id": "Gl5ZJGTb72w",
+      "title": "Dru Knox on the Loops Your Software Factory Needs",
+      "duration_s": 33,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "GqdDqR73jxs": {
       "video_id": "GqdDqR73jxs",
       "title": "Creating a spec with Tessl",
@@ -1671,6 +1929,19 @@
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "I81RrZcQaT8": {
+      "video_id": "I81RrZcQaT8",
+      "title": "AI Agents Are Your New Users",
+      "duration_s": 2002,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Coding agents now read your docs, call your CLIs and APIs, and even react to your error messages, but you can't grab a coffee with them and ask for feedback. Patrick Chanezon, VP of Developer Relations at Microsoft, and Jay Gordon, Senior Program Manager on Azure Cosmos DB, show how Microsoft measures agent experience with Scope, its open-source evaluation system built on scenarios, criteria, profiles and gates, and how the Cosmos DB team used it to improve its agent kit and docs. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why coding agents are a new kind of user for your APIs, CLIs and docs\n– Propensity vs efficacy: will agents pick your product, and use it well?\n– The agent experience playbook: scenario, criteria, profile and gates\n– Measuring lift, drag and cost across harnesses, models, MCP servers and skills\n– A demo comparing curl, the GitHub MCP server and the GitHub CLI\n– How Azure Cosmos DB used Scope to improve its agent kit and docs\n\nChapters:\n00:00:00 - Introduction: agents are your new users\n00:01:36 - How agents behave as users\n00:05:30 - Propensity and efficacy\n00:08:20 - Scenario, criteria, profile and gates\n00:11:47 - Steps for measuring agent experience\n00:13:58 - Inside Scope\n00:15:07 - Demo: curl vs GitHub MCP vs GitHub CLI\n00:20:12 - Agent experience for Azure Cosmos DB\n00:26:14 - Running hundreds of evaluations\n00:30:34 - Results, and open-sourcing Scope\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow do coding agents get along with your APIs and docs today? Tell us in the comments.",
+      "published_at": "2026-11-06T21:51:55Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "I9RWrW32QEw": {
       "video_id": "I9RWrW32QEw",
       "title": "Patrick Debois - The Rise of Agent Enablement - AI Native DevCon June 2026",
@@ -1699,6 +1970,32 @@
         "what is agent enablement"
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "IG-dgFh1wNM": {
+      "video_id": "IG-dgFh1wNM",
+      "title": "Who Gets the Keys in a Software Factory?",
+      "duration_s": 1794,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "In a software factory, neither the coding agent nor the human should hold the keys to production. The deployment pipeline should. Paul Duvall, author of Continuous Integration and founder of Redacted Ventures, explains why judgment belongs upstream in intent and policy, which agent-specific checks to add, and how evidence, not human sign-off on diffs, should authorize every deploy. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why judgment belongs upstream in intent, policy and architecture\n– What to keep from your existing deployment pipeline\n– Agent-specific risks: prompt injection, poisoned context and slopsquatting\n– Evidence as the control: mutation scores, attestations and provenance\n– Lessons from Clinejection, Amazon Q Developer and s1ngularity\n– Protecting the pipeline that holds the keys in your software factory\n\nChapters:\n00:00:00 - Introduction: who gets the keys?\n00:02:35 - Moving judgment upstream\n00:04:37 - What to keep from the deployment pipeline\n00:07:06 - What to add: agent-specific risks\n00:10:02 - Evidence as the control\n00:13:47 - Authorship isn't authority\n00:15:45 - Real incidents: when the keys were in the wrong place\n00:19:24 - Protecting the pipeline: pinned, one and none\n00:22:44 - Walkthrough: build, block, ship\n00:26:44 - Three things to do tomorrow\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWho holds the keys to production in your software factory today? Tell us in the comments.",
+      "published_at": "2026-11-07T21:22:21Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "IISiUI2z5Ls": {
+      "video_id": "IISiUI2z5Ls",
+      "title": "Graph Engineering in Reverse",
+      "duration_s": 1853,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Your company brain gives confident answers to business questions, but a real company has no answer key, so how do you know they're right? Benjamin Gruenbaum, Founding Engineer at Eon, runs graph engineering in reverse: start with hard questions from human experts, plant the answers in a graph, dirty it up like real data, and project it into synthetic companies served by digital twins of systems like Salesforce and SharePoint. He explains how sketching real production data keeps it realistic, and how it enables evals and post-training. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why company brains are so hard to evaluate\n– Running the company brain pipeline in reverse\n– Planting answers, then dirtying the data like the real world\n– Digital twins of Salesforce, SharePoint and other SaaS systems\n– Sketching real production data to keep synthetic data realistic\n– Using synthetic companies for evals, post-training and skill optimization\n\nChapters:\n00:00:00 - Introduction: is that number true?\n00:02:09 - How a company brain works\n00:04:28 - Why company brains are hard to evaluate\n00:05:22 - Running the pipeline in reverse\n00:08:16 - Dirtying the data like the real world\n00:10:21 - Digital twins of SaaS systems\n00:17:11 - Sketching real production data\n00:22:47 - Judges and deterministic rules\n00:26:28 - Evals and post-training\n00:27:45 - Experiment: optimizing skills with Tessl\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow are you testing whether your company brain's answers are right? Tell us in the comments.",
+      "published_at": "2026-11-07T16:46:59Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "INScWK9LkU4": {
       "video_id": "INScWK9LkU4",
@@ -1759,6 +2056,19 @@
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
     },
+    "IiAvs9hiQZ0": {
+      "video_id": "IiAvs9hiQZ0",
+      "title": "Building a Harness That Keeps Up With the Latest Models",
+      "duration_s": 1847,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Every new model release is a chance to delete, not just add. Nick Carmont, Applied AI at Anthropic, helps AI-native startups get the most out of each new Claude model, and shares why leaner harnesses often perform better: newer models bake in behaviors like verification, duplicated or contradictory instructions waste tokens, and the Claude Code team cut its system prompt by over 80%. He walks through an un-harnessing loop and explains why the person running your evals matters more than ever. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– The model, the harness or the eval: diagnosing what's holding you back\n– How newer models bake in behaviors like verification\n– Why the Claude Code team cut its system prompt by over 80%\n– Duplicated and contradictory instructions, and progressive disclosure\n– The un-harnessing SDLC loop\n– Why the person running your evals is so important\n\nChapters:\n00:00:00 - Introduction: keeping up with new models\n00:01:29 - Helping startups adopt each model release\n00:02:49 - The model, the harness or the eval?\n00:07:35 - What newer models bake in\n00:10:21 - Your harness has a shelf life\n00:12:15 - Why leaner harnesses work\n00:14:26 - Patterns for a leaner harness\n00:17:42 - The un-harnessing SDLC loop\n00:20:02 - Why the person running evals matters\n00:22:52 - Three questions, and Q&A\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhen did you last delete instructions from your harness? Tell us in the comments.",
+      "published_at": "2026-11-08T07:37:08Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "Imw9nfuiKmc": {
       "video_id": "Imw9nfuiKmc",
       "title": "Tessl Skills Clinic - Nnenna Ndukwe from Qodo",
@@ -1817,6 +2127,32 @@
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "JCUUAS0cEDc": {
+      "video_id": "JCUUAS0cEDc",
+      "title": "The AI Chop Shop: Everything You Ship Will Be Stolen",
+      "duration_s": 1990,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "AI is moving software from generic and cheap to custom and cheap. Computer scientist and entrepreneur Erik Meijer makes the case for hyper-personalized software: why code is now cheap enough to rewrite what you depend on, what AI authorship means for software patents and copyright, and how partial evaluation and the three Futamura projections give models a principled way to specialize programs, and even other models. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why AI moves software from generic and cheap to custom and cheap\n– Rewriting dependencies instead of importing them\n– Moore's Law for coding: why tokens scale\n– What AI authorship means for software patents and copyright\n– Partial evaluation and the three Futamura projections\n– LLMs as interpreters and partial evaluators\n\nChapters:\n00:00:00 - Introduction: welcome to the AI Chop Shop\n00:02:48 - Hyper-personalized software\n00:04:51 - From generic and cheap to custom and cheap\n00:07:33 - Why rewrite what you depend on?\n00:11:06 - Moore's Law for coding\n00:12:48 - Software patents and original ideas\n00:15:26 - Can AI-written code be protected?\n00:18:52 - Partial evaluation: specializing programs\n00:25:42 - The three Futamura projections\n00:28:09 - LLMs as partial evaluators\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWould you ask an agent to rewrite a dependency instead of importing it? Tell us in the comments.",
+      "published_at": "2026-11-07T20:40:33Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "Jc8gksnyyMM": {
+      "video_id": "Jc8gksnyyMM",
+      "title": "Your Agent Isn't Stupid, It's Blind",
+      "duration_s": 1836,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "An agent connected to every system in your company can still be confidently wrong, because it doesn't know what it doesn't know. Ran Aroussi, Founder and Principal at VarOps, shares what his team learned building memory for company-scale agents: why RAG struggles with a company that changes by the second, how distilling information into versioned claims with provenance keeps answers traceable, why 'I don't know' is a feature, and why permissions must filter evidence before it reaches the model. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why an agent with access to everything can still be confidently wrong\n– From agent memory to a living organizational model\n– Where RAG falls short for fast-changing company knowledge\n– Distilling information into versioned claims with provenance\n– Why 'I don't know' is one of the most useful answers\n– Enforcing permissions before evidence reaches the model, and running locally\n\nChapters:\n00:00:00 - Introduction: confidently wrong agents\n00:03:51 - You'll never capture everything\n00:06:40 - From agent memory to a living organizational model\n00:09:36 - Where RAG falls short\n00:11:14 - Structured claims with provenance\n00:12:16 - Distill, don't hoard\n00:15:26 - Does lossy memory hurt performance?\n00:19:44 - The value of 'I don't know'\n00:23:04 - A prompt is not a security gate\n00:27:42 - Owning your knowledge with local models\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow does your agent tell you when it doesn't know something? Tell us in the comments.",
+      "published_at": "2026-11-07T18:59:54Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "JmKubcTagYw": {
       "video_id": "JmKubcTagYw",
       "title": "James Ward & Josh Long - Hands On Building Agents | DevCon Fall 2025",
@@ -1861,6 +2197,19 @@
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "KFevWYSDxHY": {
+      "video_id": "KFevWYSDxHY",
+      "title": "Ahmed E. Hassan's 7 Principles for Agentic Engineering",
+      "duration_s": 1810,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Agentic software engineering now stalls less on writing code and more on the system around it: people, process and leadership. Ahmed E. Hassan, professor at Queen's University and author of the Agentic Software Engineering book, shares seven principles for engineers and leaders working with coding agents, each paired with a lesson from Canadian history. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why the hard part has moved to the system around the code\n– Owning what your agents ship: accountability beyond code review\n– Making every agent correction compound over time\n– Investing in agent experience as seriously as developer experience\n– Middle loop engineering: designing the human–agent partnership\n– Demos vs shipping, and growing the next generation of engineers\n\nChapters:\n00:00:00 - Introduction: the people side of agentic engineering\n00:02:21 - Immersion: find the limits by pushing them\n00:04:49 - Accountability: own what your agents ship\n00:07:33 - Make every agent correction compound\n00:10:01 - The river principle: invest in agent experience\n00:12:23 - Skate to where the models are going\n00:14:43 - Design the human–agent partnership\n00:16:40 - Mix AI, code and rules\n00:18:39 - Restraint: demos vs shipping, and growing juniors\n00:22:35 - Q&A: trust, knowledge and teaching the next generation\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich of the seven principles is your team furthest from today? Tell us in the comments.",
+      "published_at": "2026-11-08T08:57:30Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "KHqtJgM8ldM": {
       "video_id": "KHqtJgM8ldM",
       "title": "AI Driven Load Test Analysis: From Routine Toward Action with Andrii Raikov",
@@ -1875,6 +2224,32 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "KWDrUyuUSbM": {
+      "video_id": "KWDrUyuUSbM",
+      "title": "Minimize Review, Increase Trust: Verifying Agent Code",
+      "duration_s": 1676,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "What if your coding agent's output had to pass a mechanical verifier before it ever reached the context window? Fernanda Graciolli and Nada Amin, co-founders of Midspiral, share a verification-aware process for agentic programming: contracts checked by an external verifier, a tight agent–verifier loop, functional-core patterns that maximize what can be verified, and ways to stop specs drifting as software evolves. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– What verification means when it escapes LLM judgment\n– How errors compound in an agent's context window\n– Turning agent output into candidates with a mechanical verifier\n– Contracts: reviewing a few lines of spec instead of the whole diff\n– Functional core, state invariants and the interpreter pattern\n– Freezing specs so they don't drift as software evolves\n\nChapters:\n00:00:00 - Introduction: what we mean by verification\n00:04:26 - How errors compound in the context window\n00:06:00 - Adding a mechanical verifier\n00:07:05 - From tests to proofs: choosing a verifier\n00:08:55 - Contracts: preconditions and postconditions\n00:11:59 - Example: catching a money-splitting bug\n00:14:20 - Choosing your level of assurance\n00:16:42 - Functional core and the interpreter pattern\n00:21:57 - Keeping specs from drifting\n00:25:48 - Takeaways\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWould you trade reviewing diffs for reviewing contracts? Tell us in the comments.",
+      "published_at": "2026-11-08T08:38:49Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "K_SJX3J5u_I": {
+      "video_id": "K_SJX3J5u_I",
+      "title": "From Page to Dossier: AI Agents for On-Call Operations",
+      "duration_s": 2065,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Agents love toil, and on-call is full of it. Paul Stack, VP of Product at Swamp Club, shows how his team built a lights-out factory for alerts: every alert arrives as a webhook, agents triage and correlate it, and operators get a ready-made dossier in Discord instead of a bare page. He walks through a real alert, explains where agents make the call and where they don't, and shares how to get started. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why agents are a great fit for operational toil\n– A lights-out factory for alerts\n– How alerts flow from webhook to triage\n– A real alert, from page to dossier\n– Querying incidents from Discord, and adding a small model to the pipeline\n– Where the agent never makes the call, and how to get started\n\nChapters:\n00:00:00 - Introduction: from page to dossier\n00:02:20 - Agents love toil\n00:07:09 - A lights-out factory for alerts\n00:07:40 - How alerts flow through the factory\n00:11:43 - A real alert, from page to dossier\n00:13:28 - Querying incidents from Discord\n00:15:00 - Adding a small model to the pipeline\n00:20:40 - Where agents do and don't make the call\n00:25:03 - How to get started\n00:27:12 - Q&A\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich part of your on-call toil would you hand to an agent first? Tell us in the comments.",
+      "published_at": "2026-11-07T19:52:59Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "KpfnldjO3Iw": {
       "video_id": "KpfnldjO3Iw",
@@ -1933,6 +2308,28 @@
         "when PMs write code"
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "LBo4eMkQW8c": {
+      "video_id": "LBo4eMkQW8c",
+      "title": "Agents Aren't Stupid, They're Just Blind",
+      "duration_s": 2387,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "AI agents aren't stupid, they're just blind, and the fix is context engineering at the data layer, not a smarter model. Tom Scott, who runs Streambased, explains why wiring agents to every MCP server leads to data blind spots, runaway warehouse costs and confidently wrong answers.\n\nRecorded at the AI Native Dev September meetup, this talk makes the case for designing data around context rather than around one business question at a time.\n\nWhat we cover:\n– The four data blind spots that lead agents to confidently wrong answers\n– RAG vs MCP vs skills: how agents get data today, and where each one breaks\n– Why the medallion architecture was built for a different world\n– Why LLMs make poor data engineers, and what that does to your agent ROI\n– Context engineering at the data layer with federation and logical views\n– Temporal consistency: stitching Kafka and Iceberg into one view\n\nChapters:\n00:00:00 - Introduction\n00:03:49 - How agents started reaching for data\n00:06:00 - Four data blind spots in agentic AI\n00:10:02 - RAG vs MCP vs skills for agent data access\n00:12:48 - Why the medallion architecture falls short\n00:16:27 - Why LLMs make terrible data engineers\n00:20:15 - Context engineering: build for context, not one problem\n00:26:18 - Federation, logical views and temporal consistency\n00:29:41 - The ROI of a context layer\n00:32:55 - Q&A: governance, Streambased and measuring value\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/k3c\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow are you handling context engineering for your agents' data? Tell us in the comments.",
+      "published_at": "2026-10-02T14:15:00Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:28+00:00"
+    },
+    "LFAAHnAzBlk": {
+      "video_id": "LFAAHnAzBlk",
+      "title": "Your AI Isn't Stupid, It's Blind: Ran Aroussi on Memory",
+      "duration_s": 51,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
     },
     "LNm5Wbsfp4c": {
       "video_id": "LNm5Wbsfp4c",
@@ -2076,6 +2473,15 @@
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "MH0iF9D-buk": {
+      "video_id": "MH0iF9D-buk",
+      "title": "Ticket to PR: Automate Software Development with Tessl",
+      "duration_s": 50,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "McB4Sth3_Ss": {
       "video_id": "McB4Sth3_Ss",
       "title": "Liran Tal - These Aren't the Tools You're Looking For: MCP Security Awakens | DevCon Fall 2025",
@@ -2090,6 +2496,28 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
+    },
+    "MonPJAUreAA": {
+      "video_id": "MonPJAUreAA",
+      "title": "Baruch Sadogursky on Building an AI Software Factory",
+      "duration_s": 95,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
+    "MrjV4uyuBgI": {
+      "video_id": "MrjV4uyuBgI",
+      "title": "Version Your Software Factory, Not Just Your Code",
+      "duration_s": 1984,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "If a factory built everything in production, which factory is responsible when production breaks? Daniel Meppiel, Director of Agent & Dev Platforms at Microsoft, argues we should treat a software factory as software: define agent contracts, version and package them, and rebuild the fabric of trust we already rely on for classic software. He shows how APM, an open-source package manager for agents, fits in. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– What large enterprises ask for, starting with verification\n– The fabric of trust behind classic software\n– Treating a software factory as an agent program\n– Agent contracts: defining what an agent should do\n– Packaging and versioning agent primitives with APM\n– Answering 'which factory broke production?'\n\nChapters:\n00:00:00 - Introduction\n00:01:44 - What is an agentic software factory?\n00:03:15 - What enterprises need from a factory\n00:04:46 - The fabric of trust behind classic software\n00:06:53 - A factory is an agent program\n00:09:03 - Agent contracts\n00:11:49 - Example: a pull request factory\n00:15:39 - APM: a package manager for agents\n00:22:04 - Which factory broke production?\n00:27:14 - The smallest unit of a factory\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow are you versioning the agents and workflows in your factory? Tell us in the comments.",
+      "published_at": "2026-11-07T20:46:36Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "NM0LCfjISfY": {
       "video_id": "NM0LCfjISfY",
@@ -2199,6 +2627,32 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "NxypyNu1944": {
+      "video_id": "NxypyNu1944",
+      "title": "Context != Context: Codified vs Ambient Context for Agents",
+      "duration_s": 1814,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Everyone agrees context matters, but context isn't one thing. Birgitta Boeckeler, Principal Engineer & Developer Relations at Unblocked, separates codified context, like the AGENTS.md files and skills you deliberately author and reuse, from ambient context assembled at task time from Slack, wikis, tickets and PRs. She walks through what it takes to build a context engine that ingests, evaluates, assembles and observes ambient context, including how it resolves conflicting information using code as the source of reality. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why 'context' needs more precise categories\n– Codified vs ambient context, and why they're delivered differently\n– A framework for what good-quality context looks like\n– The limits of wiring agents to many MCP servers\n– Building a context engine: ingest, evaluate, assemble, observe\n– Resolving conflicting information, with code as the source of reality\n\nChapters:\n00:00:00 - Introduction: context isn't one thing\n00:02:20 - Codified vs ambient context\n00:07:21 - A delivery lifecycle for context\n00:08:37 - What good-quality context looks like\n00:09:56 - Delivering ambient context with MCP servers\n00:11:43 - Context engines\n00:13:41 - Ingest: syncing many systems reliably\n00:16:02 - Evaluating and assembling context\n00:18:59 - Conflict detection: code as the source of reality\n00:24:55 - Maintaining your context\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow does your team keep ambient context fresh and trustworthy for agents? Tell us in the comments.",
+      "published_at": "2026-11-08T08:22:11Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "OAd8IQSBAHQ": {
+      "video_id": "OAd8IQSBAHQ",
+      "title": "We Gave AI Memory. What About Awareness?",
+      "duration_s": 1772,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Your coding agent remembers every turn of the conversation, yet still has no idea who it's working with. Pari Patel, Founder & CEO of Zone, which is building earbuds that read brain signals, argues that agents need awareness as well as memory: sensitivity to what the person needs right now. She shows how to add a user state object to your harness, write handoffs that cost less than doing the work, pace interruptions, measure it all with evals, and what in-ear brain sensing could add. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Memory answers what happened; awareness answers what the person needs now\n– Three ways agents fail their users: depth, pacing and handoffs\n– Adding a user state object to your harness\n– Handoffs that cost the human less than doing the work\n– Pacing rules and evals for awareness\n– What in-ear brain sensing could add, and the non-negotiables\n\nChapters:\n00:00:00 - Introduction: an agent that remembers everything\n00:02:21 - Memory vs awareness\n00:03:26 - Three ways agents fail their users\n00:06:18 - Defining awareness\n00:09:58 - Five steps to add awareness to your harness\n00:12:59 - Better handoffs\n00:15:21 - Pacing interruptions\n00:16:48 - Measuring awareness with evals\n00:18:19 - What in-ear brain sensing can do today\n00:20:53 - Non-negotiables, and Q&A\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat does your coding agent still not know about you? Tell us in the comments.",
+      "published_at": "2026-11-07T18:55:12Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "OfsWo6zyt-4": {
       "video_id": "OfsWo6zyt-4",
       "title": "What OpenAI, Stripe & ElevenLabs Devs Do Differently Now | AI Native Dev",
@@ -2228,6 +2682,19 @@
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
     },
+    "OkoY428jC1I": {
+      "video_id": "OkoY428jC1I",
+      "title": "Data Isn't the New Oil. Refined Data Is.",
+      "duration_s": 2041,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Crude oil is worthless until it's refined, and the same goes for the data behind your AI apps and agents. Pratik Patel, Lead Developer Relations Engineer at Hugging Face, demos an 'ask the docs' assistant that gives the wrong answer on raw documentation and the right one on refined data. He walks through a pipeline that separates, purifies, lints and blends data, then shows how to ship data like code, with versioning, automated jobs, eval gates and releases. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why confidently wrong answers often start with bad data\n– A demo: raw docs vs refined docs in a RAG assistant\n– Separate, purify, lint and blend: refining your data\n– What FineWeb-Edu shows about refined training data\n– Shipping data like code: buckets, Xet, jobs and releases\n– Eval gates, versioned data sets and smaller, cheaper models\n\nChapters:\n00:00:00 - Introduction: Hugging Face beyond models\n00:03:15 - The cost of confidently wrong answers\n00:05:17 - Refined data, not crude oil\n00:08:04 - Demo: raw vs refined docs\n00:09:46 - What was wrong with the raw data\n00:11:30 - Separate, purify, lint and blend\n00:15:51 - Lessons from FineWeb-Edu\n00:17:36 - Ship data like you ship code\n00:23:44 - Eval gates for data\n00:28:58 - Smaller models and versioned data\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow does your team test the data behind its AI apps? Tell us in the comments.",
+      "published_at": "2026-11-07T18:04:38Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "OnM7sWLnAfw": {
       "video_id": "OnM7sWLnAfw",
       "title": "What AI Engineering Looks Like at Meta, Coinbase, ServiceTitan and ThoughtWorks",
@@ -2242,6 +2709,19 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T15:35:09+00:00"
+    },
+    "OwTz4eu1JRk": {
+      "video_id": "OwTz4eu1JRk",
+      "title": "Only 1 in 100 Agent PRs Ships Without a Human",
+      "duration_s": 1854,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "AI coding agents now write over a quarter of merged pull requests at the typical company, yet only about 1 in 100 agent PRs runs like a true software factory, from task to production without a human. Jellyfish Chief Scientist Nicholas Arcolano draws on data from 300,000 developers, and the history of the elevator, to show why review is the new bottleneck and how teams can build trust in their factory. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– What elevators teach us about autonomy, safeguards and trust\n– How much code AI coding agents write today, and how little ships without a human\n– Why human attention caps how many agent sessions developers can run\n– Review as a second job, and why agent PRs die on the vine\n– What the most advanced software factories do differently\n– Moving engineering judgment up front with specs, checks and safeguards\n\nChapters:\n00:00:00 - Introduction: why botsitting doesn't scale\n00:01:02 - What elevators teach us about trust\n00:03:32 - How much code AI agents write today\n00:05:19 - The review and merge bottleneck\n00:08:25 - Human attention is the scarce resource\n00:10:24 - Agent work waits longer and dies on the vine\n00:12:39 - Only 1 in 100 agent PRs is fully automated\n00:13:43 - What leading software factories do differently\n00:20:13 - Getting the operator out of the car\n00:22:52 - Q&A\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhere's the operator still standing in your software factory? Tell us in the comments.",
+      "published_at": "2026-11-07T21:27:01Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "P03T9DXBxYw": {
       "video_id": "P03T9DXBxYw",
@@ -2326,7 +2806,7 @@
     "PfDOFL_Fu_A": {
       "video_id": "PfDOFL_Fu_A",
       "title": "OFFICIAL TRAILER: Kikimora: Building The Dark Factory",
-      "duration_s": 60,
+      "duration_s": 61,
       "channel": "AI Native Dev",
       "label": "Tessl",
       "year": null,
@@ -2381,9 +2861,44 @@
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "PzNzUeHpurI": {
+      "video_id": "PzNzUeHpurI",
+      "title": "Patrick Debois on Multiplayer Software Factories",
+      "duration_s": 1777,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Running a software factory on your own laptop is one thing; opening it up to a whole organization, with many people and many coding agents working on one main branch at once, is another. Patrick Debois, the godfather of DevOps and AI Native Dev advisor at Tessl, maps the new problems of concurrent delivery and the patterns teams are building to solve them. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why a shared, multiplayer software factory creates new kinds of conflict\n– Splitting work so coding agents don't trip over each other\n– Forking the world, not just the code: isolation for agents\n– Merging on intent, not just syntax, plus speculative merges\n– How Slack, sales and support plug into a shared factory\n– Routing decisions by risk and designing for failure\n\nChapters:\n00:00:00 - Introduction: the multiplayer software factory\n00:01:28 - Why concurrent delivery breaks things\n00:05:17 - Splitting work so agents don't collide\n00:07:51 - Forking the world, not just the code\n00:09:11 - Resolving conflicts mid-flight\n00:10:32 - Merging on intent, not just syntax\n00:12:00 - Speculative merges and new delivery infrastructure\n00:14:35 - The human side of a shared factory\n00:19:09 - From questions to decisions\n00:21:18 - Assessing risk and designing for failure\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHas your team moved from solo factories to a shared one yet? Tell us what broke first in the comments.",
+      "published_at": "2026-11-07T21:31:56Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "QZ0YH0QQjV8": {
+      "video_id": "QZ0YH0QQjV8",
+      "title": "Your Software Factory Is Continuous Delivery",
+      "duration_s": 1729,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Agents can generate code far faster than anyone can review it, and big batches are the enemy of a good night's sleep. Bryan Finster, Principal Architect at ACI Worldwide, argues that a software factory is really continuous delivery: small batches, a clear definition of done, and an automated code review cycle that runs deterministic checks first. He shares how he's applying it at a 50-year-old payments company. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why constant rework and giant PRs are delivery problems\n– Lessons from moving from quarterly to two-week delivery\n– Why reviewing agent code at human speed doesn't scale\n– An automated code review cycle: deterministic checks first\n– What the human owns: definition of done, quality controls and outcomes\n– Applying it at a 50-year-old payments company\n\nChapters:\n00:00:00 - Introduction: optimize for sleep\n00:01:19 - Constant rework and giant PRs\n00:03:20 - Lessons from moving to two-week delivery\n00:08:45 - The same problems, now with agents\n00:12:00 - Agents write faster than we can review\n00:13:49 - An automated code review cycle\n00:16:50 - What the human owns\n00:17:44 - In practice at ACI Worldwide\n00:21:47 - More code doesn't mean faster delivery\n00:25:09 - Q&A: model selection\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat does your team own now that agents write more of the code? Tell us in the comments.",
+      "published_at": "2026-11-07T19:37:18Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "QegSgp0ed70": {
+      "video_id": "QegSgp0ed70",
+      "title": "Dark Factory Considered Harmful? Meet the AI DevCon NYC Speakers",
+      "duration_s": 44,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "R1j6HtykHNE": {
       "video_id": "R1j6HtykHNE",
-      "title": "Guy Eisenkot (Baz): Why Coding Agents Ignore AGENTS.md",
+      "title": "The Hidden 50% Drop in AI Agents Following Your Rules",
       "duration_s": 1758,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -2393,6 +2908,19 @@
       "published_at": "2026-09-21T14:00:03Z",
       "tags": [],
       "details_at": "2026-09-26T14:31:25+00:00"
+    },
+    "R3RrrMMmkRc": {
+      "video_id": "R3RrrMMmkRc",
+      "title": "Stop Babysitting Your Agents",
+      "duration_s": 1518,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "If your job has become hopping between terminals and nudging agents to keep going, it might be time to move them off your laptop. Jack Wotherspoon, Member of Technical Staff at Google DeepMind, shares why he moved all his work to remote cloud agents, and walks through Gemini Managed Agents: one API call for an agent with its own sandbox, the Antigravity harness, reusable environments, hooks, credentials that never enter the sandbox, and scheduled triggers that fix bugs while you sleep. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why managing local coding agents turns into watching a screen\n– How cloud sandboxes raise the bar for verification and safety\n– Gemini Managed Agents: harness, environment, tools, credentials and triggers\n– Separating interactions from environments for fresh-eyes review agents\n– Hooks, skills and a credentials proxy that keeps secrets out of the sandbox\n– Scheduled and event-driven agents for issue triage, benchmarks and security checks\n\nChapters:\n00:00:00 - Introduction: babysitting local agents\n00:02:05 - Why your laptop doesn't scale\n00:04:35 - Managed agents architecture\n00:06:39 - The Antigravity harness and Gemini models\n00:08:02 - Interactions vs environments\n00:12:05 - Hooks and guardrails\n00:13:17 - Keeping credentials out of the sandbox\n00:14:24 - Scheduled triggers and use cases\n00:18:06 - Demo: a multi-agent QA run\n00:20:16 - Q&A\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich daily task would you hand to a cloud agent first? Tell us in the comments.",
+      "published_at": "2026-11-06T22:05:47Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "R8Ef0sn_HGI": {
       "video_id": "R8Ef0sn_HGI",
@@ -2422,6 +2950,19 @@
         "webMCP"
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "RQerOLmFiiE": {
+      "video_id": "RQerOLmFiiE",
+      "title": "Harness Engineering: The Loops That Make Agents Trustworthy",
+      "duration_s": 1824,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "At its most basic, a software factory is ticket to PR. Dru Knox, Head of Product & Design at Tessl, walks through what it takes to run one well: the metrics that tell you when it's breaking, why cost per PR is a useful health signal, and the first five problems almost every team hits, from agent IT and code quality to repetition and test quality. The fix each time is to improve the process, not the code. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– What a software factory is: ticket to PR\n– Why engineering still matters in a factory\n– The metrics to watch, including cost per PR\n– The first five problems, starting with agent IT\n– Shifting repeated PR comments left, and making test quality visible\n– Scaling up to orchestrate larger amounts of work\n\nChapters:\n00:00:00 - Introduction: why just 'factory'\n00:01:01 - What is a software factory? Ticket to PR\n00:06:29 - Why coding isn't dead\n00:07:31 - Metrics for a healthy factory\n00:11:35 - The first five problems, starting with agent IT\n00:15:42 - Code quality and architecture\n00:18:54 - Repetition: shift PR comments left\n00:19:59 - Test quality\n00:23:33 - Cranking up: orchestrating larger work\n00:26:10 - Q&A\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich of the five problems is your factory hitting right now? Tell us in the comments.",
+      "published_at": "2026-11-07T19:48:13Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "RTCKpPnxe6g": {
       "video_id": "RTCKpPnxe6g",
@@ -2752,6 +3293,32 @@
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
     },
+    "UPukeLcIWrM": {
+      "video_id": "UPukeLcIWrM",
+      "title": "More Team Automation, Less Agent Autonomy",
+      "duration_s": 1151,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "JetBrains ships IntelliJ IDEA three times a year, and in an agentic world the team wants to move faster. Katharina Dzialets, Product Manager at JetBrains working on Air, shares how three internal software factories evolved through a year of dogfooding: a cloud-based dark factory with preconfigured environments that proved costly and unpredictable, tightly scoped automations that teams chained into end-to-end pipelines, and a new team-first factory with human nodes, a shared inbox, cost forecasting and verification. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why JetBrains is exploring software factories, and its dogfooding culture\n– A cloud dark factory with preconfigured environments for a huge monorepo\n– Why individual setups made factory output unpredictable\n– Scoped automations running 35K times a day across the SDLC\n– Chaining automations into end-to-end pipelines, from ticket to production\n– A team-first factory: workflows, human nodes, a shared inbox and cost forecasting\n\nChapters:\n00:00:00 - Introduction: JetBrains Air\n00:02:16 - Why JetBrains wants to ship faster\n00:03:32 - Dogfooding at JetBrains\n00:04:39 - Factory 1: a cloud dark factory\n00:06:32 - Where the dark factory fell short\n00:08:41 - Factory 2: scoped automations\n00:11:25 - Chaining automations together\n00:12:22 - End-to-end pipelines in practice\n00:14:38 - Factory 3: team workflows with human nodes\n00:17:26 - Q&A\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhere would you put the human in your team's software factory? Tell us in the comments.",
+      "published_at": "2026-11-06T21:29:02Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "URFAQgm86UA": {
+      "video_id": "URFAQgm86UA",
+      "title": "Snyk's Manoj Nair: Skills and MCP Are the New npm",
+      "duration_s": 2793,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Skills and MCP servers are the new npm, and AI coding agents are pulling them into enterprise codebases faster than security can keep up. Manoj Nair, Chief Innovation Officer at Snyk, joins Guy Podjarny at the Snyk AI Security Summit to map where enterprise agentic coding really stands.\n\nThey get into why a 50,000-agent Claude Code rollout was pulled forward by weeks, why the autonomous attacker has some CISOs ready to accept an outage to patch faster, and how security is moving into the agent loop of the software factory.\n\nWhat we cover:\n– Why leadership and culture, not tooling, decide how fast enterprises adopt AI coding agents\n– The three risks of agentic coding: insecure output, the skills and MCP server supply chain, and agent behavior\n– Running coding agents locked down: sandboxes, agent identities and no open internet\n– Who owns the code an agent writes, and why AI-native organizations treat it as shared risk\n– Securing the software factory: security context in the agent loop and agentic remediation of the backlog\n– What still has to be solved before enterprises trust agents: identity, intent and behavior\n\nChapters:\n00:00:00 - Introduction\n00:01:50 - The state of enterprise AI and agent adoption\n00:09:45 - Leadership, culture and a 50,000-agent rollout\n00:11:18 - Agentic coding risks: output, supply chain, behavior\n00:14:29 - Locked-down coding agents and the security trade-off\n00:18:01 - Who owns agent output? Compliance and accountability\n00:22:54 - The autonomous attacker and security technical debt\n00:27:56 - Securing the product vs securing the software factory\n00:33:00 - Agentic remediation and the security backlog\n00:40:18 - What enterprises need to trust AI coding agents\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/jw0\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nWhere is your organization on the path from copilot to AI coding agents? Tell us in the comments.",
+      "published_at": "2026-10-20T12:00:02Z",
+      "tags": [],
+      "details_at": "2026-10-23T04:06:09+00:00"
+    },
     "UTqnwO96q4I": {
       "video_id": "UTqnwO96q4I",
       "title": "Vijay Ramamurthy - Productionizing LangChain Agents with Oso | DevCon Fall 2025",
@@ -2769,8 +3336,8 @@
     },
     "UVOkQyeY16M": {
       "video_id": "UVOkQyeY16M",
-      "title": "Christopher Batey on the 3 Boxes You Don't Control",
-      "duration_s": 574,
+      "title": "Meta's VR Codebase Nobody Wanted to Touch — Until This",
+      "duration_s": 575,
       "channel": "AI Native Dev",
       "label": "Tessl",
       "year": null,
@@ -2922,6 +3489,19 @@
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
     },
+    "Vk9jMB2ywIk": {
+      "video_id": "Vk9jMB2ywIk",
+      "title": "Reimagining Code Review for Coding Agents and Humans",
+      "duration_s": 1759,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Code review breaks down when a coding agent hands you a 7,000-line PR with none of the intent behind it. Entire's answer is per-commit agent evals, deterministic gates and memories that travel with the code. Joseph Katsioloudes and Peyton Montei of Entire demo Trails and show how reviewers can arrive knowing what was intended, decided and verified. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why code review doesn't scale with coding agents, in numbers\n– Coding agents are capable but forgetful: intent, decisions and verification\n– Trails: agent sessions and evals on every commit\n– Building custom review agents, from intent match to UI quality control\n– Gates: adding deterministic checks to agent code review\n– Repo memories so agents don't forget past decisions\n\nChapters:\n00:00:00 - Introduction: code review doesn't scale\n00:01:09 - The data behind the review gap\n00:02:36 - Coding agents are capable but forgetful\n00:04:17 - Introducing Entire\n00:05:54 - What a trail looks like\n00:09:03 - Demo: creating a trail with Codex\n00:13:10 - Custom review agents and gates\n00:18:36 - Memories: so agents don't forget\n00:20:39 - Five problems trails solve\n00:25:30 - Q&A: resolving conflicting memories\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow does your team review the PRs your coding agents open? Tell us in the comments.",
+      "published_at": "2026-11-08T08:48:04Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "VlLmI_FE68k": {
       "video_id": "VlLmI_FE68k",
       "title": "Integrating Tessl with Claude Code",
@@ -2977,6 +3557,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "WJcVXgJboao": {
+      "video_id": "WJcVXgJboao",
+      "title": "Ido Safruti: Run Coding Agents in YOLO Mode, Safely",
+      "duration_s": 41,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "WjMy0JFTQZ0": {
       "video_id": "WjMy0JFTQZ0",
       "title": "Building an AI Agent in 100 Lines of Code | Yaniv Aknin",
@@ -3020,6 +3609,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "XH8jVolg7S0": {
+      "video_id": "XH8jVolg7S0",
+      "title": "Context Drift Is a Systems Problem, Not a Prompt Problem",
+      "duration_s": 48,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "XPgl3ZjCJbI": {
       "video_id": "XPgl3ZjCJbI",
       "title": "Lada Kesseler | Emerging Patterns for Coding with Generative AI",
@@ -3061,7 +3659,7 @@
     },
     "Xn7gXeNtoZI": {
       "video_id": "Xn7gXeNtoZI",
-      "title": "Why AGENTS.md Isn't Solving Your Memory Problem",
+      "title": "Your Coding Agent Deletes Its Memory After 30 Days",
       "duration_s": 565,
       "channel": "AI Native Dev",
       "label": "Tessl",
@@ -3264,6 +3862,19 @@
       "tags": [],
       "details_at": "2026-09-13T22:11:20+00:00"
     },
+    "_jYe6_-k7fc": {
+      "video_id": "_jYe6_-k7fc",
+      "title": "The Software Factory of Factories",
+      "duration_s": 1994,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "A software factory can ship code autonomously, but security, ops, finance, sales and compliance still each want to approve what goes out. Baruch Sadogursky, Head of DevRel at Port, borrows characters from The Phoenix Project to show why none of those approvals are really about code. He maps what each stakeholder needs, where that evidence actually lives, and how a context lake plus governed agents, MCPs and skills turns approval into signals, building a factory of factories. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why every stakeholder's 'as long as' can stall a software factory\n– What approval really means for engineering, security, ops, finance, sales and compliance\n– Why most of the evidence lives outside the repository\n– Pouring context from many tools into a context lake\n– Onboarding agents, MCPs and skills with ownership, permissions and spend controls\n– Why regulators care about how you control what you do\n\nChapters:\n00:00:00 - Introduction: The Office meets The Phoenix Project\n00:01:06 - The stakeholders around the table\n00:05:09 - When every stakeholder wants a review\n00:08:30 - Signals instead of reading code\n00:10:04 - What approval means for each role\n00:13:43 - Where the evidence lives\n00:18:20 - Pouring it into a context lake\n00:20:50 - Onboarding agents, MCPs and skills\n00:23:53 - What compliance really needs\n00:25:31 - Takeaways and Q&A\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat would 'approved' mean for each team in your organization? Tell us in the comments.",
+      "published_at": "2026-11-06T21:13:36Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "a9ciMeRQHEk": {
       "video_id": "a9ciMeRQHEk",
       "title": "Chris Messina - Code As Commodity: How To Thrive With The Medium Of Generative Ai | DevCon Fall 2025",
@@ -3278,6 +3889,19 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
+    },
+    "aDotigCZ-xk": {
+      "video_id": "aDotigCZ-xk",
+      "title": "How SpaceXAI Uses Cursor to Run Its Software Factory",
+      "duration_s": 1821,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Inside SpaceXAI's software factory, most engineers now work almost entirely through cloud coding agents, and fixes can go from feedback to merged PR with little human intervention. Shivam Jindal, Field Engineering Leader at SpaceXAI, shows how the team uses Grok Bots, Cursor Projects, cloud agents and Cursor Automations, live-builds an app from audience feedback, and explains how they encode trust into the system. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– A live demo: an app that rebuilds itself from audience feedback\n– Grok Bots: agents you message like teammates\n– From a Slack bug report to a merged PR in about two hours\n– Orchestrating many cloud agents with Cursor Projects and Automations\n– Why your attention becomes the bottleneck, and how to encode trust instead\n– Making your code base agent-friendly with verification, skills and linters\n\nChapters:\n00:00:00 - Introduction: how SpaceXAI uses Cursor\n00:01:09 - A live demo: the app that builds itself\n00:04:10 - Grok Bots: agents that work like teammates\n00:06:45 - Turning feedback into themes with Data Bot and PM Bot\n00:08:55 - From bug report to merged PR in two hours\n00:11:06 - Cursor Projects: orchestrating cloud agents\n00:14:28 - Cloud agents and Cursor Automations\n00:19:53 - Trusting agents at scale\n00:24:30 - Keeping the code base agent-friendly\n00:27:39 - The results: did the app rebuild itself?\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow much of your team's work already runs through cloud agents? Tell us in the comments.",
+      "published_at": "2026-11-08T08:52:40Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "aI5-oKjfgo4": {
       "video_id": "aI5-oKjfgo4",
@@ -3307,6 +3931,19 @@
         "what is CodeGuard"
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "aJGdUhUmerg": {
+      "video_id": "aJGdUhUmerg",
+      "title": "BYOB: Build Your Own Benchmark for Coding Agents",
+      "duration_s": 1626,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Public benchmarks can help you shortlist models, but they can't tell you which coding agent works best on your code. Joe Tyler, Lead AI Researcher at Sonar, explains where popular benchmarks fall short, from data leakage to the gap between passing tests and being ready to merge, and how his team built a private benchmark from their own repositories with calibrated LLM judges and static analysis. He shares what they learned comparing open and closed models and harnesses on success, cost and security. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why an agent is more than its model\n– Data leakage and the shelf life of public benchmarks\n– Why passing tests isn't the same as ready to merge\n– Building a private benchmark from your own repositories\n– Calibrating LLM judges and analyzing agent trajectories\n– Findings on success, cost, security and harnesses\n\nChapters:\n00:00:00 - Introduction: build your own benchmark\n00:01:02 - What benchmarks tell us\n00:03:59 - Failure one: data leakage\n00:06:06 - Failure two: passing tests isn't ready to merge\n00:08:41 - Failure three: no context\n00:10:10 - Design requirements for your own benchmark\n00:11:06 - Building the benchmark pipeline\n00:14:19 - Findings: success rate and cost\n00:16:16 - Analyzing agent trajectories\n00:18:46 - Security, harnesses and takeaways\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow do you decide which model and harness to use for each workflow? Tell us in the comments.",
+      "published_at": "2026-11-07T19:20:24Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "aWrGSM5vVyc": {
       "video_id": "aWrGSM5vVyc",
@@ -3408,6 +4045,19 @@
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "b7LVk105nsA": {
+      "video_id": "b7LVk105nsA",
+      "title": "Sandboxes Are the Wrong Primitive for a Software Factory",
+      "duration_s": 1604,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Every improvement to a software factory is a trade-off, and the hottest take here is that sandboxes are the wrong primitive for running coding agents. Chris Poulter, founder of usenucleus.dev, shares what he learned building a workflow engine for agentic coding: an evidence-based lifecycle for factory improvements, a decomposed agent harness, and a code graph that runs only the checks each edit needs. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why every software factory improvement is a trade-off\n– How a retrospective fix can overfit and make things worse\n– A separate, evidence-based lifecycle for factory improvements\n– Why sandboxes are the wrong primitive for coding agents\n– Decomposing the agent harness: agent loop, tools, file system and execution\n– Using a code graph to cut per-edit checks to about 15 seconds\n\nChapters:\n00:00:00 - Introduction: did it actually improve the factory?\n00:00:52 - The birth of agentic coding\n00:03:02 - Building a workflow engine for agentic coding\n00:07:36 - The retrospective that overfit\n00:08:45 - A separate lifecycle for factory improvements\n00:10:12 - Why sandboxes are the wrong primitive\n00:12:55 - Decomposing the agent harness\n00:18:32 - From 90 seconds to two, and the cost savings\n00:19:49 - Rethinking CI with a code graph\n00:25:07 - Recap: ask what it made worse\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat's the last factory improvement that quietly made something worse? Tell us in the comments.",
+      "published_at": "2026-11-08T09:02:12Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "b9izY52Yzkk": {
       "video_id": "b9izY52Yzkk",
       "title": "Join Us In New York for AI Native DevCon Fall '26",
@@ -3436,6 +4086,32 @@
         "what is AI Native DevCon"
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "bDeg7BJWVFU": {
+      "video_id": "bDeg7BJWVFU",
+      "title": "Chad Fowler: Throw Away the Code, Keep the System",
+      "duration_s": 1872,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "What if your software continually regenerated itself, like a living system? Chad Fowler, CTO & GP at BlueYard and author of Regenerative Software, now in early access from O'Reilly, makes the case for treating code as a disposable, compiled artifact while the system itself is the asset. He covers the four things you must keep (intent, architecture, evaluations and provenance), demos Phoenix, his open-source take on the idea, and shares how to start with the most boring component you have. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– From immutable infrastructure to disposable code\n– Lessons from Heartbleed and a not-so-simple rewrite\n– Why practices that sound reckless often add rigor\n– Keeping intent, architecture, evaluations and provenance\n– Specs as a graph, and a demo of Phoenix regenerating code\n– Pace layers, compaction and where to start\n\nChapters:\n00:00:00 - Introduction: software that regenerates itself\n00:01:05 - A provocative way to build software\n00:03:01 - From immutable infrastructure to disposable code\n00:04:29 - Lessons from Heartbleed\n00:08:23 - Rigor in practices that sounded reckless\n00:10:19 - Throw away the code, keep the system\n00:16:13 - The regeneration loop\n00:19:34 - Phoenix: specs as a graph\n00:26:45 - Pace layers and compaction\n00:29:55 - How to get started\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat's the most boring component in your system you could regenerate first? Tell us in the comments.",
+      "published_at": "2026-11-08T08:17:24Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "bEwkvEUQj_w": {
+      "video_id": "bEwkvEUQj_w",
+      "title": "One Harness API to Rule Them All",
+      "duration_s": 1885,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Building your own coding agent is rarely worth it, but orchestrating many of them is harder than it looks. George Fahmy, Member of Technical Staff at Vercel, shares why models and harnesses are converging, why workflows like code review, evals and security scanning benefit from mixing harnesses, and what he learned from three failed attempts to abstract them. He then shows Harness SDK, a minimal Python abstraction for harnesses and workspaces, with a live demo of handing a Claude Code session off to a remote sandbox. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why you shouldn't build your own coding agent\n– Models and harnesses are becoming more tightly coupled\n– Why mixing harnesses gets better results, from code review to deepsec\n– ACP and the hard parts: releases, approvals, process models and workspaces\n– Three failed attempts, and a minimal harness and workspace abstraction\n– Live demo: moving a Claude Code session to a remote sandbox\n\nChapters:\n00:00:00 - Introduction: from copilots to orchestration\n00:02:10 - Don't build your own coding agent\n00:04:46 - Why you need multiple harnesses\n00:08:07 - The Agent Client Protocol\n00:10:05 - Why abstracting harnesses is so hard\n00:14:48 - Three failed attempts\n00:17:25 - Harness SDK: harnesses and workspaces\n00:20:43 - Self-improving harnesses\n00:21:28 - Live demo: handing a session to a sandbox\n00:23:33 - Open problems and Q&A\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow many different coding harnesses are you orchestrating today? Tell us in the comments.",
+      "published_at": "2026-11-07T19:15:15Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "bFBNXIoLkW4": {
       "video_id": "bFBNXIoLkW4",
@@ -3482,7 +4158,7 @@
     "bUtAGFXPc3A": {
       "video_id": "bUtAGFXPc3A",
       "title": "Why Your Coding Agents Need a Harness, Not a Prompt",
-      "duration_s": 3214,
+      "duration_s": 3215,
       "channel": "AI Native Dev",
       "label": "Tessl",
       "year": null,
@@ -3660,6 +4336,19 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "dWk1-VGfm4w": {
+      "video_id": "dWk1-VGfm4w",
+      "title": "Watch AI Code Review Run on a Real Open Source PR",
+      "duration_s": 518,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "See Tessl Code Review in action as we review a real pull request from Nuclei, an open-source vulnerability scanner, and uncover issues missed in the original review.\n\nIn this walkthrough, you'll learn how to:\n\n- Connect Tessl Code Review to your GitHub repository in minutes.\n- Automatically review new pull requests and get actionable, line-level feedback.\n- Configure reviews to run in comment-only or blocking mode.\n- Identify bugs, reliability issues and potential performance problems.\n- Use review feedback in automated workflows to improve code quality before merging.\n\nTessl Code Review can also be integrated into a software factory, where issues are passed back to coding agents for automated fixes and further review.\n\nTry Tessl Code Review for free: tessl.io/code-review\n\nLearn more about Tessl: tessl.io\n\n#CodeReview #AIcoding #GitHub #SoftwareEngineering #Tessl",
+      "published_at": "2026-10-28T17:00:22Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:22+00:00"
+    },
     "dans3VeY8GM": {
       "video_id": "dans3VeY8GM",
       "title": "Why Context Beats Model Choice for AI Agents",
@@ -3720,7 +4409,7 @@
     "eBt8aw5bNyU": {
       "video_id": "eBt8aw5bNyU",
       "title": "The Hallway Track: AI Adoption Is Accelerating",
-      "duration_s": 84,
+      "duration_s": 85,
       "channel": "AI Native Dev",
       "label": "Tessl",
       "year": null,
@@ -3818,6 +4507,19 @@
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
     },
+    "eagfcdbKStg": {
+      "video_id": "eagfcdbKStg",
+      "title": "Software Factories for the Software of One",
+      "duration_s": 1947,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "When anyone in an organization can build an app for a single task, one company might end up with 2,500 of them. Matthias Lubken, AI engineer and founder of Tavon.ai, explores software factories for the 'software of one': personal apps built by one person, for one task. He proposes a cheap, agent-friendly stack of isolated JavaScript workers and SQLite in the Durable Objects pattern, then covers access control, insights, promotion strategies and agents that build apps for humans. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– The software of one: built by one person, for one task, owned by one\n– Why organizations may soon run thousands of personal apps\n– What a personal app stack needs: real code, state, isolation and low cost\n– Durable Objects: V8 isolates plus SQLite, and self-hosting with celld and workerd\n– Access control: credential isolation, identity brokering and async approval\n– Insights, promotion strategies and agents that build apps for humans\n\nChapters:\n00:00:00 - Introduction: maybe you just need a little program\n00:02:16 - What is the software of one?\n00:06:07 - From one app to 2,500\n00:07:10 - What a personal app stack needs\n00:09:19 - The stack: Durable Objects, self-hosted\n00:13:33 - SQLite next to your app\n00:15:56 - Concurrency, durability and cost\n00:19:29 - Access control for personal apps\n00:23:39 - Insights and promotion strategies\n00:28:01 - When agents build apps for humans\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat single-task app would you build for yourself first? Tell us in the comments.",
+      "published_at": "2026-11-06T20:56:04Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "eqTrsvM4Zi4": {
       "video_id": "eqTrsvM4Zi4",
       "title": "Identifying and installing usage specs for your entire project",
@@ -3845,6 +4547,50 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
+    },
+    "f1zknXFX9_0": {
+      "video_id": "f1zknXFX9_0",
+      "title": "Stop Writing Skills. Start Training Them.",
+      "duration_s": 1842,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Most teams write a skill once, patch it by hand when an agent misbehaves, and never measure whether it works. Shrey Shah, Senior AI Engineer at Microsoft, treats skills like model checkpoints instead: score them on a golden data set, let a second model propose small edits, and keep an edit only if held-out scores improve in a pairwise test, with git deciding what stays. He walks through a real training run, using LLM judges for subjective skills, and how to test the trainer itself. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why skills are the next thing to evaluate and train\n– Hand-editing skills is gradient descent, one bad PR at a time\n– The training loop: score, edit, gate, then git commit or reset\n– Script-based scorers and LLM judges\n– Bounded edits, held-out scoring and remembering rejections\n– A real training run, and how to test the trainer itself\n\nChapters:\n00:00:00 - Introduction: a skill that trains overnight\n00:01:11 - The thing we optimize keeps moving up\n00:02:28 - What a skill really is\n00:04:55 - Hand-editing skills doesn't scale\n00:06:06 - Treat skills like model checkpoints\n00:07:36 - Four things you need to train a skill\n00:09:30 - One training step, end to end\n00:15:10 - LLM judges for subjective skills\n00:17:11 - Four decisions that keep the loop improving\n00:18:44 - A real training run, and testing the trainer\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow do you know whether your agent skills actually work? Tell us in the comments.",
+      "published_at": "2026-11-07T17:48:11Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "fLMWq3WPWZY": {
+      "video_id": "fLMWq3WPWZY",
+      "title": "Memory Without Deterministic Coordinates Is Just Hearsay",
+      "duration_s": 1853,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "As coding agents work across repos, engineers and weeks, their findings need to be shared, but can you trust which code a memory is actually about? Veljko Kovac, Head of Forward Deployed Engineering at Cognee, the open-source memory platform for agents, explains why memory files, CLAUDE.md, shared folders and skills all fall short, and why every finding needs deterministic coordinates: a function ID and version that are the same on every machine. He shows how linking a code graph to a memory graph enables trustworthy sharing, conflict detection and analysis. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why agents in a software factory need to share what they learn\n– The limits of MEMORY.md, CLAUDE.md, shared folders and skills\n– Why a finding is a fact that should be looked up, not decided\n– Deterministic coordinates: function IDs and versions that match on every machine\n– Connecting a code graph to a memory graph\n– An experiment comparing LLM-attributed and deterministic memory\n\nChapters:\n00:00:00 - Introduction: can you trust shared memory?\n00:01:24 - Why agents need to share what they learn\n00:05:38 - How Claude Code memory works\n00:06:32 - Which function is a finding about?\n00:09:00 - From single player to multiplayer\n00:09:56 - Why shared folders and CLAUDE.md fall short\n00:11:51 - Why skills aren't the answer\n00:14:08 - Facts should be looked up, not decided\n00:18:19 - Deterministic coordinates in practice\n00:21:30 - An experiment, and company ontologies\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow are your coding agents sharing what they learn today? Tell us in the comments.",
+      "published_at": "2026-11-07T17:59:48Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "fVvKI_ouVp4": {
+      "video_id": "fVvKI_ouVp4",
+      "title": "Hamza Oza: Building Design Quality Into Software Factories",
+      "duration_s": 78,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
+    "f_bAEubfp_Y": {
+      "video_id": "f_bAEubfp_Y",
+      "title": "Ray Myers: Why the Dark Software Factory Is a Bad Idea",
+      "duration_s": 44,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
     },
     "fjbeqFnB3LY": {
       "video_id": "fjbeqFnB3LY",
@@ -3986,6 +4732,19 @@
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "hM-xZk3Wv0I": {
+      "video_id": "hM-xZk3Wv0I",
+      "title": "Security in GitHub Agentic Workflows",
+      "duration_s": 1725,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "GitHub Agentic Workflows let you hand the toil of maintaining a repo, from docs and tests to refactoring and dependency updates, to agents that run continuously in GitHub Actions. Landon Cox, Senior Principal Researcher at GitHub Next and Microsoft Research, who leads security for the project, explains the model that keeps them safe: agents never touch secrets, untrusted content is filtered, and every write passes through deterministic safe outputs. He also previews enclave agents with information budgets for cross-repo workflows that touch private code. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– What GitHub Agentic Workflows are and why they took off\n– Continuous automation for the toil in your repo\n– Three security principles: secrets, untrusted reads and safe outputs\n– Keeping auth tokens away from agents with proxies and gateways\n– Logging everything for security, debugging and token efficiency\n– Enclave agents and information budgets for cross-repo workflows\n\nChapters:\n00:00:00 - Introduction: GitHub Next and Agentic Workflows\n00:02:07 - What are agentic workflows?\n00:03:49 - Continuous automation for repo toil\n00:05:07 - Three design principles\n00:06:41 - What our own repos look like\n00:10:42 - Three security principles\n00:13:29 - Keeping secrets away from agents\n00:16:09 - Safe outputs\n00:18:15 - Cross-repo workflows at scale\n00:20:04 - Enclave agents and information budgets\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich repo chores would you hand to an agentic workflow first? Tell us in the comments.",
+      "published_at": "2026-11-08T07:42:42Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "hTfxhXyH8r8": {
       "video_id": "hTfxhXyH8r8",
       "title": "Hacked 7 YC Startups in 30 Minutes | René Brandel",
@@ -3998,6 +4757,15 @@
       "published_at": "2025-11-23T15:52:10Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "hgO_F90MFAc": {
+      "video_id": "hgO_F90MFAc",
+      "title": "Join us in NYC for AI DevCon Fall 2026",
+      "duration_s": 76,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
     },
     "hi8KRB0eI6M": {
       "video_id": "hi8KRB0eI6M",
@@ -4083,6 +4851,19 @@
         "software quality assurance"
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "iS8NbFAcGYA": {
+      "video_id": "iS8NbFAcGYA",
+      "title": "Ray Myers: Dark Factory Considered Harmful",
+      "duration_s": 1986,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "The dark software factory imagines a future where agents write and read all the code and nobody looks again. Ray Myers, founder of The Coding Agency, argues that it fails both in theory and in practice. Drawing on lessons from manufacturing, the Toyota Production System and The Goal, he explains why layered defense still needs inspection, what successful dark-factory-adjacent teams actually do, and why the factory conversation is still worth having. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– What the dark software factory claims\n– How the idea spread, and what the evidence says\n– Lessons from manufacturing: Toyota and The Goal\n– Why layered defense still needs inspection\n– What dark-factory-adjacent successes really do\n– Why the factory conversation is still worth having\n\nChapters:\n00:00:00 - Introduction: Dark Factory Considered Harmful\n00:03:00 - What is the dark software factory?\n00:06:21 - How the idea spread\n00:09:04 - Lessons from the Toyota Production System\n00:11:22 - The Goal and finding the constraint\n00:15:12 - Why it fails in theory\n00:17:05 - Why it fails in practice\n00:19:43 - What actually works\n00:26:04 - Why we're talking about it at all\n00:31:37 - Rebooting how we apply coding agents\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nDo you still read the code your agents write? Tell us in the comments.",
+      "published_at": "2026-11-07T19:43:02Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "iVa0NP3u74s": {
       "video_id": "iVa0NP3u74s",
@@ -4265,6 +5046,15 @@
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
     },
+    "l1WyQKUeRWI": {
+      "video_id": "l1WyQKUeRWI",
+      "title": "Steve Yegge, Geoffrey Huntley & More: AI DevCon NYC 2026",
+      "duration_s": 173,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
+    },
     "lEO_Yp4Ks2U": {
       "video_id": "lEO_Yp4Ks2U",
       "title": "Why Every Enterprise AI Team Needs Evals (And How to Build Them)",
@@ -4377,6 +5167,19 @@
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "mHa0bImgN1o": {
+      "video_id": "mHa0bImgN1o",
+      "title": "Harness Engineering: What's Actually New (And What Isn't)",
+      "duration_s": 2363,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Harness engineering is the new name for everything around the model: tools, context, guardrails, telemetry. Carly Richmond, Senior Manager of Developer Advocacy at Elastic, shows what's genuinely new about building agents, and why most of the harness still rests on software engineering fundamentals you already know.\n\nWhat we cover:\n– What harness engineering is, and how it builds on prompt, context and loop engineering\n– What's genuinely new: non-determinism, tool calling and models that change under your feet\n– Why TDD evolves into AI agent evals, and when LLM-as-a-judge is the wrong tool\n– Writing tool descriptions for agents the way you'd write an OpenAPI spec\n– Telemetry, guardrails and security for an agent harness\n\nChapters:\n00:00:00 - Introduction\n00:02:26 - What is harness engineering?\n00:04:45 - Prompt vs context vs harness vs loop engineering\n00:06:33 - What's genuinely new about building agents\n00:09:28 - Incremental changes, pipelines and testing\n00:12:09 - From TDD to AI agent evals\n00:14:04 - Context engineering and why LLMs get things wrong\n00:17:41 - Tools, OpenAPI and agent orchestration\n00:21:43 - Observability, security and guardrails for agents\n00:28:12 - Key takeaway and audience Q&A\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/t5v\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich parts of harness engineering feel new to you, and which feel like the same old fundamentals? Tell us in the comments.",
+      "published_at": "2026-10-28T13:00:19Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:22+00:00"
+    },
     "mVIRYUoVD6Y": {
       "video_id": "mVIRYUoVD6Y",
       "title": "AI-Powered Application Modernization using Claude-Flow | Derek Ashmore, Asperitas Consulting",
@@ -4389,6 +5192,19 @@
       "published_at": "2025-11-07T10:54:22Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "mbdDv1qwLdk": {
+      "video_id": "mbdDv1qwLdk",
+      "title": "Jacob Lauritzen: Token Maxing Is the New Lines of Code",
+      "duration_s": 2663,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "AI coding agents now write almost all of Legora's code, with engineers running up to ten in parallel. Yet the CTO behind that shift thinks measuring adoption by tokens burned is a mistake. Jacob Lauritzen, CTO of Legora, joins Simon Maple to unpack what actually scales when agents do the typing, and where human judgment still has to stay in charge.\n\nWhat we cover:\n– How Legora's engineers orchestrate many AI coding agents at once, from shared local dev resources to cloud agent setups\n– An agentic loop that reproduces, fixes and tests bugs straight from Slack\n– Why token maxing is a bad way to drive AI adoption, and what to measure instead\n– Agent evaluation: regression testing the harness as models and prompts change every week\n– Decision models, the verifier's rule, and where autonomy ends and human judgment begins\n– Why AI agents need more than a chat interface\n\nChapters:\n00:00:00 - Introduction\n00:01:47 - Legora's growth from $100M to $200M ARR\n00:03:44 - Parallel coding agents and bug-fix loops\n00:07:15 - Senior engineers vs AI-first engineers\n00:10:10 - Why token maxing is the new lines of code\n00:14:13 - What AI can and can't verify in legal work\n00:17:30 - Decision models vs autoregressive LLMs\n00:24:22 - Weekly model benchmarks and harness evals\n00:26:58 - Why AI agents need more than a chat interface\n00:35:03 - The verifier's rule and litigation strategy\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/lpg\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nIs token count telling you anything real about how your team uses AI coding agents? Tell us in the comments.",
+      "published_at": "2026-10-06T12:00:33Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:28+00:00"
     },
     "mpLhEa1VBoI": {
       "video_id": "mpLhEa1VBoI",
@@ -4545,6 +5361,32 @@
         "what is stateless MCP"
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "niMX5QHChlA": {
+      "video_id": "niMX5QHChlA",
+      "title": "Scaling Agentic Engineering at Zalando",
+      "duration_s": 1815,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "How do you scale agentic engineering across 2,000 developers and 150 engineering teams? Bartosz Ocytko, Executive Principal Engineer at Zalando, shares three years of lessons: a central model proxy for vendor independence and cost visibility, community-built tooling, fleet-wide migrations, risk-based PR scoring that auto-approves low-risk changes, an open-source identity broker for agents, and how Zalando is enabling citizen developers and helping engineers keep up. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– A central model proxy for vendor independence and visibility\n– Community-built tooling, from MCP bridges to cost trackers\n– Fleet-wide changes and migrations with LLMs\n– Risk-based PR scoring and automatic approval for low-risk changes\n– Managing cost, compliance and production quality\n– An agent platform with an identity broker, and enabling citizen developers\n\nChapters:\n00:00:00 - Introduction: AI at Zalando\n00:01:26 - A central model proxy\n00:04:18 - Community-built tooling\n00:07:30 - Fleet-wide changes and migrations\n00:09:08 - Risk-based PR scoring\n00:11:45 - Managing cost per user\n00:14:41 - Tech radar, compliance and production probes\n00:17:31 - Building an agent platform\n00:19:14 - An identity broker for agents\n00:22:33 - Enabling citizen developers and engineers\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow are you scaling agentic engineering across your teams? Tell us in the comments.",
+      "published_at": "2026-11-08T08:25:57Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "nnja7kk4EPM": {
+      "video_id": "nnja7kk4EPM",
+      "title": "Uber Burned 6x Its AI Budget in Four Months",
+      "duration_s": 619,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\nhttps://tessl.co/huo\n\nAI DevCon London had a recurring theme this year: what agentic coding actually costs, and where that money goes once it leaves the budget. Amit Kushwaha (Nvidia), Tammuz Dubnov (Autonomy AI), Luke Marsden (Helix ML) and John Groetzinger (Cisco) walked through the caching tricks, the budget blowouts, and the eval gates that decide whether that spend is worth it.\n\nWhat we cover:\n– Why cache-aware routing is the difference between an agent workload that's affordable and one that isn't\n– Uber's AI budget, six times bigger and gone in four months\n– Why only $18 of every $100 spent on AI reaches code that actually ships\n– How Cisco lets evaluations decide when a knowledge-base change needs a human at all\n\nChapters:\n00:00:00 - Introduction\n00:00:23 - Amit Kushwaha, Nvidia: why caching is the make-or-break optimization\n00:02:06 - Getting cache-aware routing right across replicas\n00:03:12 - Tammuz Dubnov, Autonomy AI: Uber's 6x AI budget, gone in 4 months\n00:04:57 - Only $18 of every $100 spent on AI ships to users\n00:05:23 - Luke Marsden, Helix ML: open-weight models now handle 80% of the work\n00:07:54 - John Groetzinger, Cisco: letting evals decide when a human needs to look\n00:09:50 - Why reviewing text diffs on a skill wastes an engineer's time\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/1jp\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat's your actual dollar-to-shipped-code ratio right now?",
+      "published_at": "2026-09-28T13:30:32Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:28+00:00"
     },
     "ntkM-hRblfo": {
       "video_id": "ntkM-hRblfo",
@@ -4762,6 +5604,19 @@
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "pH9CZKTB4yQ": {
+      "video_id": "pH9CZKTB4yQ",
+      "title": "Models Alone Aren't Enough: Connected Context for Agents",
+      "duration_s": 1776,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "AI is making individuals faster, but few companies can point to org-wide returns. Alan Braun, VP of Product for Ecosystem, AI & Developer Platforms at Atlassian, argues that AI outcomes equal context times intelligence, and that the missing piece is connected context across teams, tools and agents. He shows how Atlassian's Teamwork Graph links knowledge, work, code, people and data, shares lessons from building MCP tools, and demos a coding agent planning with and without connected context. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why individual AI gains aren't adding up to org-wide returns\n– AI outcomes = context × intelligence\n– Work spans teams, tools and agents, and the bottleneck has moved\n– Context as a graph: seven layers of connected context\n– Lessons from building MCP tools around jobs to be done\n– Demo: Claude Code with and without connected context\n\nChapters:\n00:00:00 - Introduction: connected context\n00:01:49 - Is AI delivering value?\n00:05:23 - What a good context layer should solve\n00:07:30 - The bottleneck has moved\n00:09:35 - Context as a graph\n00:12:25 - Why org-wide context matters\n00:14:32 - Seven layers of context\n00:16:43 - Lessons from building MCP tools\n00:19:26 - Demo: with and without connected context\n00:25:33 - Takeaways: where to start\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich sources would you connect first to give your agents better context? Tell us in the comments.",
+      "published_at": "2026-11-08T08:34:57Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "pQzLlSSsgDw": {
       "video_id": "pQzLlSSsgDw",
       "title": "Adding tests to your specs",
@@ -4820,7 +5675,7 @@
     "ptwholFiAZg": {
       "video_id": "ptwholFiAZg",
       "title": "AI Code Review That Understands Your PR's Intent",
-      "duration_s": 330,
+      "duration_s": 331,
       "channel": "AI Native Dev",
       "label": "Tessl",
       "year": null,
@@ -4858,6 +5713,15 @@
         "team composition in AI era"
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "q3-QLagMHYk": {
+      "video_id": "q3-QLagMHYk",
+      "title": "Codeplain at AI DevCon New York: Regenerative Software",
+      "duration_s": 36,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos"
     },
     "q5M7fktysTQ": {
       "video_id": "q5M7fktysTQ",
@@ -5026,10 +5890,23 @@
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "rq4wDs3RN2s": {
+      "video_id": "rq4wDs3RN2s",
+      "title": "From Hard-Coded Intents to AI Agents: What Changed",
+      "duration_s": 1248,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Voice assistants used to need months of work to add a single new intent: strict grammars, hard-coded mappings and fulfillment built by every app. Akhil Sharma, software engineer at Meta and formerly of the Google Assistant org, and Sudipta S. Mohapatra of ChartHop trace the evolution from hard-coded intents to AI agents. Using a ride-booking example, they show what reasoning loops, tool calls and human-in-the-loop gates change, and what we give up in determinism. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– What an intent is, and how assistants used to handle them\n– Why adding one new intent took months of work\n– Replacing hard-coded grammars with a reasoning loop\n– A ride-booking example, from request to confirmed booking\n– Human-in-the-loop gates when money is being spent\n– What we give up in determinism, and where this is heading\n\nChapters:\n00:00:00 - Introduction: from intents to agents\n00:00:55 - What is an intent?\n00:03:53 - How intents used to work\n00:06:24 - Why one new intent took months\n00:07:50 - The limits of hard-coded grammars\n00:11:52 - The reasoning loop\n00:12:35 - Example: booking a ride to the airport\n00:16:01 - Human-in-the-loop gates\n00:17:43 - What we give up: determinism\n00:19:14 - Where this is heading\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat changed for your team when hard-coded flows became tool calls? Tell us in the comments.",
+      "published_at": "2026-11-08T10:49:21Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "ru5SX4eonzM": {
       "video_id": "ru5SX4eonzM",
       "title": "Datadog Deleted All Its AI Context. It Worked.",
-      "duration_s": 3683,
+      "duration_s": 3684,
       "channel": "AI Native Dev",
       "label": "Tessl",
       "year": null,
@@ -5038,6 +5915,19 @@
       "published_at": "2026-08-04T12:00:10Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "ryv0rLrrlOg": {
+      "video_id": "ryv0rLrrlOg",
+      "title": "Why Your CTO Is Suddenly Writing Code",
+      "duration_s": 1889,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "When AI coding agents changed how software gets built, leaders lost their usual guides: historical data, trusted advisors and instinct. CircleCI CTO Rob Zuber explains why he went back to writing code with agents to get ground truth, and walks through CircleCI's month-by-month journey toward a software factory, including what broke along the way. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Why engineering leaders need ground truth in the AI transition\n– What \"coding is fun again\" really signals about the leadership job\n– Why data, advisors and instincts all broke at once\n– Moving a whole engineering org to agent-first with Claude Code\n– What broke when CircleCI started building a software factory\n– Making a developer tool work for AI agents, not just humans\n\nChapters:\n00:00:00 - Introduction: the podcast that changed everything\n00:01:48 - Extracting truth from observation\n00:03:16 - Focus on impact, and the pull of the code\n00:05:03 - \"Coding is fun again\" and what it really means\n00:07:58 - Why leaders struggle in the AI transition\n00:13:29 - From \"try the tools\" to agent-first\n00:16:14 - What breaks when you build a software factory\n00:20:05 - Making the product work for agents\n00:24:38 - Validation, review loops and actually shipping\n00:28:11 - Q&A: building trust between engineers and leaders\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nAre your engineering leaders hands-on with coding agents? Let us know how it's going in the comments.",
+      "published_at": "2026-11-07T21:17:28Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "sQpTCatsb7M": {
       "video_id": "sQpTCatsb7M",
@@ -5381,6 +6271,32 @@
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
     },
+    "uw44gm-LCzU": {
+      "video_id": "uw44gm-LCzU",
+      "title": "Steve Yegge: The Future of AI-Powered Factories",
+      "duration_s": 2271,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Implementation is becoming free, and taste is becoming the expensive part. Steve Yegge, creator of Gas Town, shares what he's learned running dozens of agents in his own software factory to rebuild a decades-old online game: why the mechanical factory layer is starting to look the same everywhere, why the creative 'entourage' layer on top is a pet you have to grow yourself, and the surprising drama of managing long-lived agent personas. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Pets vs cattle, and why it's happening again with factories\n– Running a factory on 22 Claude Max accounts as a glimpse of the future\n– The mechanical factory layer vs the creative entourage layer\n– What happens when your factory overwhelms everyone around you\n– Agent personas, office drama and accidental 'case law'\n– Why taste becomes the bottleneck when implementation is free\n\nChapters:\n00:00:00 - Introduction: pets versus cattle\n00:01:40 - Living in the future on 22 Claude Max accounts\n00:03:54 - What goes into a factory\n00:07:53 - Wheelhouse: a factory grown into a game\n00:10:40 - Agent employees and chiefs of staff\n00:14:04 - The entourage layer, and agent drama\n00:18:47 - How one comment can break your factory\n00:22:12 - Why grow a factory this way?\n00:23:41 - Implementation is free, taste is expensive\n00:27:47 - Q&A\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich part of your factory do you think you'll always have to grow yourself? Tell us in the comments.",
+      "published_at": "2026-11-07T21:50:45Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "v-0JZTX7Kzg": {
+      "video_id": "v-0JZTX7Kzg",
+      "title": "Simon Maple: Lessons From Running Tessl's Software Factory",
+      "duration_s": 2774,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Tessl's software factory opens around 1,200 agent-written pull requests a week, and 75% merge without a human needing to step in. Simon Maple from Tessl shares what it took to get there, from agent loops and feedback loops to the runaway review loop that taught the team to cap every run.\n\nWhat we cover:\n– What a software factory actually is: agent loops, feedback loops and review lenses\n– Why every agent loop needs a run cap and a spend cap\n– Giving operational changes separate authority, and tests an independent source of truth\n– How good agent skills let Sonnet match Opus on review at roughly 39 cents on the dollar\n– A live build of a software factory with Tessl, from Linear ticket to merged pull request\n– Why owning your context and staying model-agnostic matters\n\nChapters:\n00:00:00 - Introduction\n00:00:58 - Inside Tessl's software factory\n00:04:30 - What a software factory is: agent loops and feedback loops\n00:09:03 - Lessons learned building a software factory\n00:10:36 - Why agent loops need run caps and spend caps\n00:12:44 - Operational changes, invariants and tests\n00:17:29 - Cutting cost with agent skills and model routing\n00:20:37 - How to measure whether your factory is working\n00:22:13 - Live demo: from Linear ticket to merged PR\n00:41:20 - Q&A: model choice, context and vendor lock-in\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/rfj\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhere would you set the run cap in your own software factory? Tell us in the comments.",
+      "published_at": "2026-10-27T15:06:43Z",
+      "tags": [],
+      "details_at": "2026-11-03T17:46:22+00:00"
+    },
     "vLRIe8za00E": {
       "video_id": "vLRIe8za00E",
       "title": "The Hallway Track: Where Does Context Actually Live?",
@@ -5490,6 +6406,19 @@
       ],
       "details_at": "2026-08-31T20:13:56+00:00"
     },
+    "wiK2SV3gkCo": {
+      "video_id": "wiK2SV3gkCo",
+      "title": "Software Factories Are a Discipline, Not a Technology",
+      "duration_s": 1937,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "A software factory isn't a product you buy, it's a discipline: moving AI coding agents off individual laptops and into shared, automated, measurable workflows. Massimo Re Ferre, Senior Principal Product Manager at AWS working on Kiro, shares what Amazon and its enterprise customers are learning about cost control, standardization and trust on the road from coding tools to coding platforms. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– From in the loop to on the loop, and what comes next\n– Three shifts: agents moving to the cloud, more automation, and agents as team members\n– Mapping the software factory onto the whole SDLC\n– The 80/20 rule of AI coding spend, and how to tell if it's worth it\n– Why trust in a software factory starts with intent, not tests\n– Lessons from the Kiro team's own software factory\n\nChapters:\n00:00:00 - Introduction\n00:01:59 - In the loop, on the loop, and what comes next\n00:03:49 - Three shifts: cloud, automation, agents as teammates\n00:05:31 - Mapping the software factory onto the SDLC\n00:10:57 - How AI coding tool costs are changing\n00:16:08 - Is it worth it? Cost control and the minimum viable model\n00:20:16 - Standardizing how engineers use coding agents\n00:23:35 - Trust starts with intent\n00:26:48 - Inside the Kiro team's software factory\n00:30:19 - Three takeaways\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nIs your team building a software factory bottom-up or top-down? Let us know in the comments.",
+      "published_at": "2026-11-07T21:36:29Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
     "wl8FCp5-ftw": {
       "video_id": "wl8FCp5-ftw",
       "title": "How New Libraries Saw a 50% Improvement | Maria Gorinova",
@@ -5504,6 +6433,19 @@
         "ainativedev"
       ],
       "details_at": "2026-08-31T15:35:10+00:00"
+    },
+    "wrRxw15s31k": {
+      "video_id": "wrRxw15s31k",
+      "title": "Maria Gorinova: Feedback Loops That Fix Your Codebase",
+      "duration_s": 2278,
+      "channel": "AI Native Dev",
+      "label": "Tessl",
+      "year": null,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "description": "Agent feedback loops are how a software factory maintains itself: agents mining their own session logs, PR comments and production signals, then fixing what they find. Maria Gorinova, member of technical staff at Tessl, explains how to build them, and why vague intent turns a loop into a mess.\n\nWhat we cover:\n– What a software factory is: repeatable workflows, a shared execution environment and agent feedback loops\n– Why agent context alone isn't enough, and where harness engineering comes in\n– The three stages of a feedback loop: analyze a data stream, find the problem, request the fix\n– Inner, middle and outer loops, from verifiers on every PR to self-healing in production\n– How Tessl's \"comment diet\" loop catches drift that no single PR causes\n– Operators and stewards: the human roles in a software factory\n\nChapters:\n00:00:00 - Introduction\n00:02:36 - What is a software factory?\n00:05:38 - From agents to context to harness engineering\n00:09:15 - The three stages of an agent feedback loop\n00:13:16 - Inner, middle and outer feedback loops\n00:18:35 - Why vague intent breaks agent feedback loops\n00:21:50 - Comment bloat, drift and the rule of three\n00:25:48 - The software factory mindset\n00:27:45 - Loops, feedback loops and meta feedback loops\n00:32:45 - Operators, stewards and building your first loop\n\nBuild your software factory, one workflow at a time, with Tessl:\nhttps://tessl.co/2uf\n\n🔔 Subscribe for weekly episodes on AI-native development\n\nWhich agent feedback loop would you build first in your own software factory? Tell us in the comments.",
+      "published_at": "2026-10-13T12:00:31Z",
+      "tags": [],
+      "details_at": "2026-10-19T19:58:28+00:00"
     },
     "wuGJNWhUOoE": {
       "video_id": "wuGJNWhUOoE",
@@ -5646,6 +6588,32 @@
       "published_at": "2025-09-24T15:57:50Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:11+00:00"
+    },
+    "yJK2L60AcpA": {
+      "video_id": "yJK2L60AcpA",
+      "title": "In the Loop, Not in the Dark: Staying in Control of AI Code",
+      "duration_s": 1867,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "What happens when you stop reading the code your agents write, and then production breaks? Alex Gavrilescu, Lead Backend and Web Developer at Funstage GmbH and creator of Backlog.md, shares the incident that made him rethink staying in control. He demos Groma, an open-source tool that deterministically maps your repo's architecture as C4 diagrams, so you can review how the system changes rather than every line. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Shipping more with agents, and the incident that followed\n– Why every PR can look fine while the architecture drifts\n– Four attempts at an offline architecture tool\n– Live demo: Groma's C4 views and flows\n– Watching agents change a greenfield architecture in real time\n– Mapping a brownfield code base, and architecture diffs in PRs\n\nChapters:\n00:00:00 - Introduction: shipping more with agents\n00:02:57 - A production incident in a vibe-coded app\n00:06:44 - What the agents actually built\n00:07:57 - Cleaning up, and why it didn't last\n00:09:33 - Why you need to see the architecture\n00:11:01 - Building Groma: four attempts\n00:15:38 - Live demo: C4 views and flows\n00:17:36 - Greenfield demo: agents building live\n00:20:08 - Brownfield demo: mapping Keycloak\n00:27:23 - Q&A\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nHow do you keep track of the architecture your agents are building? Tell us in the comments.",
+      "published_at": "2026-11-08T08:43:17Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
+    },
+    "yKoP9E1NL-w": {
+      "video_id": "yKoP9E1NL-w",
+      "title": "We Stopped Reading Diffs and Started Verifying Intent",
+      "duration_s": 1826,
+      "channel": "AI Native Dev",
+      "label": "AI DevCon NYC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLfmfepa7S6EM",
+      "description": "Code review was never really about finding bugs, and with AI writing most of the code, reading diffs no longer scales. Ankit Jain, Founder & CEO of Aviator, shares how his team now merges 4x more PRs than a year ago: agents that argue before a PR exists, intent and acceptance criteria captured from coding sessions, rules mined from past review comments and turned into deterministic checks, agent-driven proof, and humans debating decisions instead of reading diffs. Recorded at AI DevCon New York 2026.\n\nWhat we cover:\n– Three attempts at fixing code review for AI-written code\n– Why code review is really about mental models, not bugs\n– Argue and capture: agents debate, intent and acceptance criteria get recorded\n– Codify: turning 11,000 review comments into rules and deterministic checks\n– Prove: agent-driven verification with real evidence\n– Debate and own: the human's new role in review\n\nChapters:\n00:00:00 - Introduction: code review is changing\n00:02:22 - Three attempts at AI code review\n00:05:06 - Why we really do code review\n00:08:44 - A new shape for review\n00:10:06 - Argue: let agents debate first\n00:12:06 - Capture: intent and acceptance criteria\n00:15:30 - Codify: turning comments into rules\n00:19:45 - Prove: evidence over green checks\n00:22:05 - Debate and ownership: the human's role\n00:26:36 - Results, and where to start\n\nRegister now for AI DevCon London 2027, June 7–8 at The Brewery, Moorgate:\nhttps://tessl.co/c3e\n\nTry Tessl today and build a software factory you can trust:\nhttps://tessl.co/n1x\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhat would your team's most repeated review comments look like as rules? Tell us in the comments.",
+      "published_at": "2026-11-07T19:04:28Z",
+      "tags": [],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "ySZN5lpJgxI": {
       "video_id": "ySZN5lpJgxI",

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Sergey Levine"]
-channel: "PyTorch"
+channel: "PyTorch Foundation"
 duration_min: 16
 published_at: 2025-11-04T03:45:47Z
 video_id: ujAURT7YG2g

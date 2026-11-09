@@ -5,10 +5,10 @@ slug: fully-connected-tokyo-2025-opening-keynote-with-w-b
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
 category: "Practitioner AI conferences"
-edition: "Weights & Biases"
+edition: "Fully Connected Tokyo 2025"
 year: 2025
 speakers: []
-channel: "Weights & Biases"
+channel: "CoreWeave"
 duration_min: 25
 published_at: 2025-12-11T17:00:56Z
 video_id: Uw2aEJ4CzwM
@@ -23,7 +23,7 @@ transcript: false
 
 **Speaker not identified**
 
-`Fully Connected (Weights & Biases)` · `Weights & Biases` · `2025` · `25 min`
+`Fully Connected (Weights & Biases)` · `Fully Connected Tokyo 2025` · `2025` · `25 min`
 
 [Watch the recording](https://www.youtube.com/watch?v=Uw2aEJ4CzwM) · [Conference site](https://fullyconnected.com/)
 

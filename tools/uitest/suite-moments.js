@@ -32,6 +32,18 @@ async function pickQuery(page) {
   });
 }
 
+// Search, then page through "Show more" until talk n's card is rendered: a word
+// picked from the corpus can be common enough to rank its talk past page one.
+async function searchTo(page, q, n) {
+  await L.search(page, q);
+  const card = page.locator(`#results .card[data-n="${n}"]`);
+  const more = page.locator('#more');
+  for (let i = 0; i < 25 && !(await card.count()) && (await more.isVisible()); i++) {
+    await more.click();
+  }
+  return card;
+}
+
 L.suite('moments', async browser => {
   const probe = await L.newPage(browser);
   await L.boot(probe);
@@ -52,8 +64,7 @@ L.suite('moments', async browser => {
   {
     const page = await L.newPage(browser);
     await L.boot(page);
-    await L.search(page, pick.q);
-    const card = page.locator(`#results .card[data-n="${pick.n}"]`);
+    const card = await searchTo(page, pick.q, pick.n);
     if (!(await card.count())) {
       L.check(`the talk that says "${pick.q}" is in its own result set`, false,
         `card ${pick.n} missing`);
@@ -119,8 +130,7 @@ L.suite('moments', async browser => {
     const reqs = [];
     page.on('request', r => { if (/data\/transcripts\//.test(r.url())) reqs.push(r.url()); });
     await L.boot(page);
-    await L.search(page, pick.q);
-    const link = page.locator(`#results .card[data-n="${pick.n}"] .mo-load`);
+    const link = (await searchTo(page, pick.q, pick.n)).locator('.mo-load');
     await link.click();
     await page.waitForSelector('.mo', { timeout: 20000 });
     const onOpen = reqs.length;
@@ -152,8 +162,7 @@ L.suite('moments', async browser => {
       return null;
     });
     if (pair) {
-      await L.search(page, pair.term);
-      const card = page.locator(`#results .card[data-n="${pair.n}"]`);
+      const card = await searchTo(page, pair.term, pair.n);
       await card.locator('.mo-load').click();
       await page.waitForTimeout(1500);
       const txt = (await card.locator('.mo-slot').textContent()).trim();
@@ -171,8 +180,7 @@ L.suite('moments', async browser => {
     const page = await L.newPage(browser);
     await L.boot(page);
     await page.route('**/data/transcripts/*.json', r => r.fulfill({ status: 404, body: 'nope' }));
-    await L.search(page, pick.q);
-    const card = page.locator(`#results .card[data-n="${pick.n}"]`);
+    const card = await searchTo(page, pick.q, pick.n);
     await card.locator('.mo-load').click();
     await page.waitForTimeout(1500);
     L.check('a missing transcript degrades to a message, not a broken card',

@@ -1,13 +1,13 @@
 {
   "slug": "nvidia-gtc",
   "name": "NVIDIA GTC",
-  "enumerated_at": "2026-09-26T14:29:40+00:00",
+  "enumerated_at": "2026-11-09T19:18:24+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
       "label": "GTC 2026",
       "year": 2026,
-      "count": 32
+      "count": 37
     },
     {
       "url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
@@ -16,7 +16,7 @@
       "count": 35
     }
   ],
-  "count": 67,
+  "count": 72,
   "videos": {
     "-2nCxItGNvE": {
       "video_id": "-2nCxItGNvE",
@@ -549,6 +549,15 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:14+00:00"
     },
+    "UPmU8AG_548": {
+      "video_id": "UPmU8AG_548",
+      "title": "Pause to pick your #NVIDIAGTC Berlin gear. 👀",
+      "duration_s": 9,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT"
+    },
     "UaGFUtqravQ": {
       "video_id": "UaGFUtqravQ",
       "title": "Introducing NVIDIA DGX Spark | GTC 2025 Keynote",
@@ -587,6 +596,15 @@
       "published_at": "2025-03-19T20:36:48Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:14+00:00"
+    },
+    "XWYMvOFMacA": {
+      "video_id": "XWYMvOFMacA",
+      "title": "AI in the UK: Drug Discovery, Robotics and AI Factories | NVIDIA",
+      "duration_s": 181,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT"
     },
     "ZPC6cfr1RVk": {
       "video_id": "ZPC6cfr1RVk",
@@ -732,6 +750,15 @@
         "Telecommunications"
       ],
       "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "dmbT2IHpOKU": {
+      "video_id": "dmbT2IHpOKU",
+      "title": "AI in France: From NVIDIA’s First Chip to AI Factories | NVIDIA",
+      "duration_s": 164,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT"
     },
     "eKwpmzvyD68": {
       "video_id": "eKwpmzvyD68",
@@ -942,6 +969,15 @@
       ],
       "details_at": "2026-08-31T15:35:56+00:00"
     },
+    "ouNWfNvqlDg": {
+      "video_id": "ouNWfNvqlDg",
+      "title": "How Audi is Reimagining Production With Digital Twins and Physical AI",
+      "duration_s": 61,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT"
+    },
     "qI7Q8ppUsnw": {
       "video_id": "qI7Q8ppUsnw",
       "title": "NVIDIA AI Art Gallery at #GTCParis #VivaTech",
@@ -954,6 +990,15 @@
       "published_at": "2025-06-10T20:35:43Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:14+00:00"
+    },
+    "roUZ7_Rsf5c": {
+      "video_id": "roUZ7_Rsf5c",
+      "title": "Accelerating Robot Development With AI Agents and NVIDIA Isaac",
+      "duration_s": 123,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT"
     },
     "rsBobT9INP4": {
       "video_id": "rsBobT9INP4",

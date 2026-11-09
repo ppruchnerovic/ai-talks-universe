@@ -1,7 +1,7 @@
 {
   "slug": "goto",
   "name": "GOTO Conferences",
-  "enumerated_at": "2026-09-26T14:27:43+00:00",
+  "enumerated_at": "2026-11-09T19:16:14+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@GOTO-/videos",
@@ -10,7 +10,7 @@
       "count": 800
     }
   ],
-  "count": 803,
+  "count": 825,
   "videos": {
     "-5kK50d-duc": {
       "video_id": "-5kK50d-duc",
@@ -2752,6 +2752,15 @@
       ],
       "details_at": "2026-09-06T13:23:56+00:00"
     },
+    "4kpk6c_5wG4": {
+      "video_id": "4kpk6c_5wG4",
+      "title": "Systems Programming with Zig • Garrison Hinson-Hasty & Trevor Berrange Sanchez • GOTO 2026",
+      "duration_s": 2288,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "4tfkwx4yKoo": {
       "video_id": "4tfkwx4yKoo",
       "title": "The One Weird Trick for Analyzing Big Data…Eyeball it Early & Often! • John Lamping • YOW! 2016",
@@ -4860,6 +4869,38 @@
       ],
       "details_at": "2026-09-06T13:23:56+00:00"
     },
+    "8ujA-rNhUE4": {
+      "video_id": "8ujA-rNhUE4",
+      "title": "The Agentic Automation Revolution • Don Syme • Bug Bash EU 2026",
+      "duration_s": 2796,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos",
+      "description": "This presentation was recorded at Bug Bash EU 2026.\nhttps://antithesis.com/bugbash/europe/2026/\n\nDon Syme - Distinguished Engineer at GitHub, Designer of F# & Co-Creator of GitHub Agentic Workflows\n\n\nRESOURCES\nhttps://github.com/dsyme\nhttps://twitter.com/dsymetweets\nhttps://www.linkedin.com/in/don-syme-558b58\nhttps://github.github.com/gh-aw/\n\nABSTRACT\nDon Syme, designer of F# and co-originator of async/await, on the shift to agentic automation in software development, and what it means for the way we build and maintain code.\n\nBluesky • Instagram • LinkedIn\nhttps://bsky.app/profile/gotocon.com\nhttps://www.linkedin.com/company/goto-\nhttps://www.instagram.com/goto_con\n\nCHANNEL MEMBERSHIP BONUS\nJoin this channel to get early access to videos & other perks:\nhttps://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA/join\n\nLooking for a unique learning experience?\nAttend the next GOTO conference near you! Get your ticket at https://gotopia.tech\n\nSUBSCRIBE TO OUR CHANNEL - new videos posted almost daily!\n\n#agenticai #aiagents #github #softwareengineering #BugBash",
+      "published_at": "2026-10-21T07:00:31Z",
+      "tags": [
+        "GOTO",
+        "GOTOcon",
+        "GOTO Conference",
+        "GOTO (Software Conference)",
+        "Videos for Developers",
+        "Computer Science",
+        "Programming",
+        "Software Engineering",
+        "GOTOpia",
+        "Tech",
+        "Software Development",
+        "Tech Channel",
+        "Tech Conference",
+        "Today in Tech",
+        "AgenticAI",
+        "AIAgents",
+        "GitHub",
+        "BugBash"
+      ],
+      "details_at": "2026-10-23T04:06:09+00:00"
+    },
     "8veIsn1YsHY": {
       "video_id": "8veIsn1YsHY",
       "title": "Developing Highly Scalable Image Storage Solution with AWS Serverless • Vadym Kazulkin • GOTO 2024",
@@ -6695,6 +6736,15 @@
       ],
       "details_at": "2026-09-06T13:23:56+00:00"
     },
+    "DT4ohOdKKg0": {
+      "video_id": "DT4ohOdKKg0",
+      "title": "Fast Code That Misses the User’s Reality Is Still the Wrong Code • Rafal Truszkowski • GOTO 2026",
+      "duration_s": 2030,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "DXCQjpxdikI": {
       "video_id": "DXCQjpxdikI",
       "title": "Encrypted Computation: What if Decryption Wasn’t Needed? • Katharine Jarmul • GOTO 2024",
@@ -6774,6 +6824,15 @@
         "LLM"
       ],
       "details_at": "2026-09-06T13:23:56+00:00"
+    },
+    "DhmcJK2nCK0": {
+      "video_id": "DhmcJK2nCK0",
+      "title": "Separate Protocol Logic from I/O for Deterministic Tests • Somtochi Onyekwere • Bug Bash EU 2026",
+      "duration_s": 1204,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "DnSogTnJlqk": {
       "video_id": "DnSogTnJlqk",
@@ -7594,6 +7653,15 @@
       ],
       "details_at": "2026-09-06T13:23:56+00:00"
     },
+    "FjRu48yhg2E": {
+      "video_id": "FjRu48yhg2E",
+      "title": "Middle Management for Robots: How My Team Ships Software with OpenClaw • Cedric Hurst • GOTO 2026",
+      "duration_s": 2456,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "FmmKRkUverw": {
       "video_id": "FmmKRkUverw",
       "title": "Serverless & Agentic AI: Better Together • Prashanth HN • GOTO 2025",
@@ -7781,6 +7849,15 @@
         "Storytelling"
       ],
       "details_at": "2026-09-06T13:23:56+00:00"
+    },
+    "GFjSbjRU-es": {
+      "video_id": "GFjSbjRU-es",
+      "title": "AI-Friendly Code: The Missing Link for Speed with Quality • Adam Tornhill • GOTO Copenhagen 2026",
+      "duration_s": null,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "GKooySZftCk": {
       "video_id": "GKooySZftCk",
@@ -10931,6 +11008,15 @@
         "Autism"
       ],
       "details_at": "2026-09-06T13:23:56+00:00"
+    },
+    "NVkw-RFx2cc": {
+      "video_id": "NVkw-RFx2cc",
+      "title": "The Augmented Forest • Kent Beck• GOTO Copenhagen 2026",
+      "duration_s": 3066,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "NYixq2MIRPU": {
       "video_id": "NYixq2MIRPU",
@@ -15899,6 +15985,15 @@
       ],
       "details_at": "2026-09-06T13:23:57+00:00"
     },
+    "YDd_vm0vFks": {
+      "video_id": "YDd_vm0vFks",
+      "title": "Am I holding this right? • Daniel Terhorst-North • GOTO Copenhagen 2026",
+      "duration_s": 2560,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "YIxL2qRubOs": {
       "video_id": "YIxL2qRubOs",
       "title": "Learning Python Programming • Fabrizio Romano & Naomi Ceder",
@@ -16899,6 +16994,15 @@
       ],
       "details_at": "2026-08-31T15:35:21+00:00"
     },
+    "_-6DpjiO200": {
+      "video_id": "_-6DpjiO200",
+      "title": "Code Health Guardian • Artie Shevchenko & Titus Winters • GOTO 2026",
+      "duration_s": 1782,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "_8VDvfFzHAk": {
       "video_id": "_8VDvfFzHAk",
       "title": "Spark Your Imagination: Eneco's Virtual Power Plant • Wesley Coetzee & Sebastian Du Rand • GOTO 2024",
@@ -17339,6 +17443,41 @@
         "Today in Tech"
       ],
       "details_at": "2026-08-31T15:35:21+00:00"
+    },
+    "aUIbUnWj8N0": {
+      "video_id": "aUIbUnWj8N0",
+      "title": "Open Source Is Under Attack & AI Made It Worse • Steve Poole & Olimpiu Pop • GOTO 2026",
+      "duration_s": 1695,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos",
+      "description": "This interview was recorded for GOTO Unscripted. #GOTOcon #GOTOunscripted\nhttps://gotopia.tech\n\nSteve Poole - Developer Advocate at HeroDevs & Community Director at London Java Community\nOlimpiu Pop - Technologist & Tech Journalist\n\nCheck out more here:\nhttps://gotopia.tech/articles/457\n\nRESOURCES\nSteve\nhttps://x.com/spoole167\nhttps://github.com/spoole167\nhttps://www.linkedin.com/in/noregressions\n\nOlimpiu\nhttps://x.com/olimpiupop\nhttps://github.com/zroll\nhttps://www.linkedin.com/in/olimpiupop\n\nDESCRIPTION\nSteve Poole of HeroDevs, a longtime voice on software supply chain security, tells host Olimpiu Pop that the landscape has hit a \"watershed moment\" in the last few weeks. The long-standing attack methods are simple: typo'd or confusingly named packages, unchecked scripts, inflated version numbers that trick builds into pulling the wrong release, and maintainers who build trust and then turn bad. Developers are among the weakest links because their machines hold so many credentials. The new factor is AI-driven vulnerability discovery, which both attackers and security researchers are using. Steve's concern is that discovery is now industrialized while fixing is not: maintainers who once saw a CVE or two a year may now face batches of them, and he fears more will simply walk away. Unsupported packages are especially exposed, since CVEs against them often never get reported at all. His worst-case scenario is that open source security fixes end up arriving in small commercial enclaves first, as regulation and cyber insurers push companies to pay for maintenance.\n\nThe practical advice for engineers is concrete. Fixing an open source dependency yourself is fine once, but then CVEs two through six arrive and you are in the maintenance business. Instead, scrutinize and reduce your dependencies, noting that studies suggest AI-generated apps pick roughly three times more of them than people do. Stay as close to HEAD as you can on maintained releases, and build your pipelines into \"sleek engines\" that can upgrade continuously, because under the EU Cyber Resilience Act \"best efforts\" to fix a vulnerability will not mean a migration in six months (Steve is clear he is not a lawyer). The two close on responsibility: like a compiler's output, AI-generated code is still your code, as Kubernetes' AI policy makes explicit by ruling out AI co-authorship. The hard part is the non-deterministic output, which means thinking harder about testing and proving quality. Steve's closing hope is that the industry becomes more pragmatic about AI's downsides, though he admits so many forces are converging that it's hard to predict where this ends.\n\nTIMECODES\n00:00 Intro\n01:30 A watershed moment for software supply chains\n04:50 How attackers actually get in\n08:59 The CRA, regulators & a surprise enforcer: Insurers\n11:58 Maintainers are walking away\n19:41 Vibe coding brings 3x more dependencies\n24:09 AI-generated code is still your responsibility\n27:46 Outro\n\nRECOMMENDED BOOKS\nAnna L. Davis • Open Source • https://link.amazon/B03AygKpw\nNadia Asparouhova • Working in Public • https://link.amazon/B01nx6BLp\nWill McGugan • Beginning Python Games Development 2nd ed. • https://amzn.to/4ebBfxu\nEric Evans • Domain-Driven Design • https://amzn.to/3tnGhwm\n\nhttps://bsky.app/profile/gotocon.com\nhttps://twitter.com/GOTOcon\nhttps://www.linkedin.com/company/goto-\nhttps://www.instagram.com/goto_con\nhttps://www.facebook.com/GOTOConferences\n#OpenSource #OpenSourceMaintainers #AI #SoftwareSupplyChain #SoftwareEngineering #Programming #TodayInTech #StevePoole #OlimpiuPop #GOTO\n\nCHANNEL MEMBERSHIP BONUS\nJoin this channel to get early access to videos & other perks:\nhttps://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA/join\n\nLooking for a unique learning experience?\nAttend the next GOTO conference near you! Get your ticket at https://gotopia.tech\n\nSUBSCRIBE TO OUR CHANNEL - new videos posted almost daily.\nhttps://www.youtube.com/user/GotoConferences/?sub_confirmation=1",
+      "published_at": "2026-10-22T07:23:03Z",
+      "tags": [
+        "GOTO",
+        "GOTOcon",
+        "GOTO Conference",
+        "GOTO (Software Conference)",
+        "Videos for Developers",
+        "Computer Science",
+        "Programming",
+        "Software Engineering",
+        "GOTOpia",
+        "Tech",
+        "Software Development",
+        "Tech Channel",
+        "Tech Conference",
+        "Today in Tech",
+        "GOTO Unscripted",
+        "Steve Poole",
+        "Olimpiu Pop",
+        "Open Source",
+        "Open Source Maintainers",
+        "AI",
+        "software supply chains"
+      ],
+      "details_at": "2026-10-23T04:06:09+00:00"
     },
     "aa60K-UC9Uo": {
       "video_id": "aa60K-UC9Uo",
@@ -18270,6 +18409,15 @@
       ],
       "details_at": "2026-08-31T15:35:21+00:00"
     },
+    "cZ_PqBpZygY": {
+      "video_id": "cZ_PqBpZygY",
+      "title": "The smoothest reorg\": lessons in collaborative org design • Joakim Sundén • GOTO Copenhagen 2026",
+      "duration_s": null,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "cZjlVoTJ0K4": {
       "video_id": "cZjlVoTJ0K4",
       "title": "Design & Develop Distributed Software Better w/ Multiplayer • Tom Johnson & Julian Wood • GOTO 2025",
@@ -18339,6 +18487,34 @@
         "Tech Conference"
       ],
       "details_at": "2026-08-31T15:35:21+00:00"
+    },
+    "ciRTdOIhNCc": {
+      "video_id": "ciRTdOIhNCc",
+      "title": "AI-Friendly Code: The Missing Link for Speed with Quality • Adam Tornhill • GOTO Copenhagen 2026",
+      "duration_s": 2682,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos",
+      "description": "This presentation was recorded at GOTO Copenhagen 2026. #GOTOcon #GOTOcph\nJoin us at GOTO Copenhagen 2027, October 4–8. https://gotocph.com/2027?utm_source=youtube&utm_medium=video&utm_campaign=cph26-talks\n\nAdam Tornhill - Founder and CTO at CodeScene Programmer, psychologist, Lisp hacker, speaker and author of several books including \"Your Code as a Crime Scene\" @adamtornhill2546\n\n\nRESOURCES\nhttps://x.com/AdamTornhill\nhttps://www.linkedin.com/in/adam-tornhill-71759b48\nhttps://www.adamtornhill.com/\nhttps://github.com/adamtornhill\nhttps://gotopia.tech/experts/3/adam-tornhill\n\n\nABSTRACT\nHave you seen early productivity gains from AI, only to watch them disappear under growing complexity and production incidents? You're not alone. There's a common reason: many production systems already struggle with technical debt. When AI agents enter the development loop, that debt becomes a multiplier. Poor-quality code not only increases defects and costs. It dramatically raises AI risk by driving high breakage rates, turning promising AI agents into legacy code generators rather than genuine help.\n\nFortunately, there's hope on the horizon. In this talk, Adam Tornhill shows how organizations can achieve both speed and quality with AI. Backed by large-scale empirical studies on AI coding and developer productivity, we separate what works from what doesn't in real-world systems. Building on these findings, we then look at a practical framework for driving and sustaining AI-friendly code at scale. The AI revolution is here. Is your code ready?\n\nTIMECODES\n0:00 Intro\n0:34 The more things change - The more we realize that software engineering is hard\n1:20 Coding might be dead. Why code with a Agents?\n4:06 The core Challenges for AI Agent\n6:20 Code Health - How easy code is to understand\n10:14 Research on AI - What we have found\n12:49 Questioning The Relevance\n16:00 The Illusion of Instant Software\n18:57 Success Criteria - Safeguard any AI generated or edited code\n21:27 Success Criteria - Make Buisness critical code AI-ready\n23:15  - Make code healt uplift agents\n25:43 Case Study - Refactoring at scale with agents\nCase study - The code quality improvement\n34:48 The Foundation - Adapt to the local problems at hand\n37:17 Success Criteria - Software design is more important than ever\n42:52 Refactoring code - The next challenge\n43:34 Summary - Wrap up and resources\n\n\nDownload slides and read the full abstract here:\nhttps://gotocph.com/2026/sessions/3981\n\n\nhttps://bsky.app/profile/gotocon.com\nhttps://www.linkedin.com/company/goto-\nhttps://www.instagram.com/goto_con\n#GOTOcph #GOTO #[topic] #[topic] #[SpeakerName]\n\nHEAR TALKS LIKE THIS LIVE\nGOTO Copenhagen 2027, October 4–8. Five days of talks, masterclasses and the people behind the tools you use.\nTickets: https://gotocph.com/2027?utm_source=youtube&utm_medium=video&utm_campaign=cph26-talks\nMore GOTO events worldwide: https://gotopia.tech\nSign up for updates: https://gotopia.tech/newsletter\n\nCHANNEL MEMBERSHIP BONUS\nJoin this channel for early access to Book Club episodes, GOTO Copenhagen special offers and other benefits:\nhttps://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA/join\n\nSUBSCRIBE TO OUR CHANNEL - new videos posted almost daily.\nhttps://www.youtube.com/user/GotoConferences/?sub_confirmation=1",
+      "published_at": "2026-11-04T13:00:10Z",
+      "tags": [
+        "GOTO",
+        "GOTOcon",
+        "GOTO Conference",
+        "GOTO (Software Conference)",
+        "Videos for Developers",
+        "Computer Science",
+        "Programming",
+        "Software Engineering",
+        "GOTOpia",
+        "Tech",
+        "Software Development",
+        "Tech Channel",
+        "Tech Conference",
+        "Today in Tech"
+      ],
+      "details_at": "2026-11-07T22:15:57+00:00"
     },
     "criKm8YF4KM": {
       "video_id": "criKm8YF4KM",
@@ -18775,6 +18951,39 @@
         "Lambda Jam"
       ],
       "details_at": "2026-09-06T13:23:57+00:00"
+    },
+    "ds9np_fgI-U": {
+      "video_id": "ds9np_fgI-U",
+      "title": "Formal Methods & AI for Reliable Databases • Anatoliy Bilenko & AlbertoCarretero • Bug Bash EU 2026",
+      "duration_s": 2052,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos",
+      "description": "This presentation was recorded at Bug Bash EU 2026.\nhttps://antithesis.com/bugbash/europe/2026/\n\nAnatoliy Bilenko - Staff Engineer at Canonical\nAlberto Carretero - Software Engineer at Canonical\n\nORIGINAL TALK TITLE\nBuilding a Reliable Database Protocol with AI, Formal Methods, and a\nSimulation Framework\n\nRESOURCES\nAnatoliy\nhttps://www.linkedin.com/in/anatoliy-bilenko\n\nAlberto\nhttps://www.linkedin.com/in/angel-alberto-carretero\n\nABSTRACT\nBuilding a critical distributed protocol in 2026 means treating correctness as a continuous engineering practice, not a final verification step.\n\nThis talk presents a workflow that combines executable state-machine designs and formal methods with AI-assisted development, observability, and Antithesis testing.\n\nThe goal is to move from a protocol model to evidence from real-system executions: expose meaningful events, generate and investigate failure scenarios, and use code together with observability data to validate distributed properties that code alone cannot reveal. [...]\n\nBluesky • Instagram • LinkedIn\nhttps://bsky.app/profile/gotocon.com\nhttps://www.linkedin.com/company/goto-\nhttps://www.instagram.com/goto_con\n#\n\nCHANNEL MEMBERSHIP BONUS\nJoin this channel to get early access to videos & other perks:\nhttps://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA/join\n\nLooking for a unique learning experience?\nAttend the next GOTO conference near you! Get your ticket at https://gotopia.tech\n\nSUBSCRIBE TO OUR CHANNEL - new videos posted almost daily!\n\n#FormalMethods #DistributedSystems #Databases #Testing #BugBash",
+      "published_at": "2026-10-23T07:00:12Z",
+      "tags": [
+        "GOTO",
+        "GOTOcon",
+        "GOTO Conference",
+        "GOTO (Software Conference)",
+        "Videos for Developers",
+        "Computer Science",
+        "Programming",
+        "Software Engineering",
+        "GOTOpia",
+        "Tech",
+        "Software Development",
+        "Tech Channel",
+        "Tech Conference",
+        "Today in Tech",
+        "Formal Methods",
+        "Distributed Systems",
+        "Databases",
+        "Testing",
+        "BugBash"
+      ],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "dy0jyGtU9NI": {
       "video_id": "dy0jyGtU9NI",
@@ -19424,6 +19633,15 @@
       ],
       "details_at": "2026-08-31T15:35:21+00:00"
     },
+    "fDdAgexp_bU": {
+      "video_id": "fDdAgexp_bU",
+      "title": "The Augmented Forest • Kent Beck• GOTO Copenhagen 2026",
+      "duration_s": 3066,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "fJVKnN53Kp4": {
       "video_id": "fJVKnN53Kp4",
       "title": "Conceptualisation • Michael Feathers • YOW! 2025",
@@ -19533,6 +19751,40 @@
         "Similarity Search"
       ],
       "details_at": "2026-09-06T13:23:57+00:00"
+    },
+    "fYCKMxa59w8": {
+      "video_id": "fYCKMxa59w8",
+      "title": "The Validation-First Loop: Ship Production Code with AI Coding Assistants • Cole Medin • GOTO 2026",
+      "duration_s": 1774,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos",
+      "description": "This presentation was recorded at GOTO Chicago 2026. #GOTOcon #GOTOchgo\nhttps://gotochgo.com\n\nCole Medin - Founder of Dynamous AI @ColeMedin \n\nFULL TALK TITLE\nThe Validation-First Loop: How to Ship Production Code with AI Coding Assistants\n\nRESOURCES\nhttps://twitter.com/cole_medin\nhttps://github.com/coleam00\nhttps://www.linkedin.com/in/cole-medin-727752184\n\nABSTRACT\nCole Medin is a tech leader and educator who leverages AI to solve real business problems. He has built and scaled AI solutions across multiple ventures - from custom agent architectures to enterprise RAG systems and local AI deployments.\n\nHis biggest passion is teaching other engineers how to leverage AI effectively. He runs a private AI community and a YouTube channel that breaks down complex AI concepts into practical, hands-on guides and courses. Cole's content and training cover both building AI agents and leveraging AI coding assistants in ways that truly scale. [...]\n\nTIMECODES\n00:00 Intro\n\nDownload slides and read the full abstract here:\nhttps://gotochgo.com/accelerate-chicago-2026/sessions/3994\n\nRECOMMENDED BOOKS\nLinda Rising • Design Patterns in Communications Software • https://amzn.to/2XsxDCg\nDaniel Kahneman • Thinking, Fast and Slow • https://amzn.to/2XmJEtf\nDan Ariely • Predictably Irrational • https://amzn.to/3lyDBd7\nNir Eyal • Indistractable • https://amzn.to/3EE3Pn9\nEckhart Tolle • The Power of Now • https://amzn.to/39yjS7r\n\nhttps://bsky.app/profile/gotocon.com\nhttps://www.linkedin.com/company/goto-\nhttps://www.instagram.com/goto_con\n#AI #ArtificialIntelligence #AIEngineering #QualityEngineering #Programming #TodayInTech #SoftwareEngineering #ColeMedin #GOTO\n\nCHANNEL MEMBERSHIP BONUS\nJoin this channel to get early access to videos & other perks:\nhttps://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA/join\n\nLooking for a unique learning experience?\nAttend the next GOTO conference near you! Get your ticket at https://gotopia.tech\nSign up for updates and specials at https://gotopia.tech/newsletter\n\nSUBSCRIBE TO OUR CHANNEL - new videos posted almost daily.\nhttps://www.youtube.com/user/GotoConferences/?sub_confirmation=1",
+      "published_at": "2026-10-26T10:45:57Z",
+      "tags": [
+        "GOTO",
+        "GOTOcon",
+        "GOTO Conference",
+        "GOTO (Software Conference)",
+        "Videos for Developers",
+        "Computer Science",
+        "Programming",
+        "Software Engineering",
+        "GOTOpia",
+        "Tech",
+        "Software Development",
+        "Tech Channel",
+        "Tech Conference",
+        "Today in Tech",
+        "GOTOchgo",
+        "GOTO Chicago",
+        "AI Engineering",
+        "Cole Medin",
+        "Quality Engineering",
+        "AI"
+      ],
+      "details_at": "2026-11-03T17:46:23+00:00"
     },
     "fYWvTYFmVYs": {
       "video_id": "fYWvTYFmVYs",
@@ -19894,6 +20146,15 @@
         "OCaml"
       ],
       "details_at": "2026-09-06T13:23:57+00:00"
+    },
+    "gINXSCYTC0A": {
+      "video_id": "gINXSCYTC0A",
+      "title": "From Unit Tests to Synthetic Canaries at Netflix • William Schor • Bug Bash EU 2026",
+      "duration_s": 1354,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "gLMe85XyXhI": {
       "video_id": "gLMe85XyXhI",
@@ -20645,6 +20906,15 @@
         "Spotify Backstage"
       ],
       "details_at": "2026-09-06T13:23:57+00:00"
+    },
+    "iXD6NvG8k7A": {
+      "video_id": "iXD6NvG8k7A",
+      "title": "Verifying Code That Calls Code You Can't Trust • Sophia Drossopoulou • Bug Bash EU 2026",
+      "duration_s": 2404,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "ia60rF-nR2I": {
       "video_id": "ia60rF-nR2I",
@@ -22263,6 +22533,15 @@
         "Today in Tech"
       ],
       "details_at": "2026-09-06T13:23:58+00:00"
+    },
+    "mdIiq50zFKo": {
+      "video_id": "mdIiq50zFKo",
+      "title": "Deterministic Orchestration for Systems You Can't Predict • Eric Johnson • GOTO 2026",
+      "duration_s": 2547,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "mfWRYv2V71k": {
       "video_id": "mfWRYv2V71k",
@@ -24757,6 +25036,15 @@
       ],
       "details_at": "2026-09-06T13:23:58+00:00"
     },
+    "rjLEG38jM2g": {
+      "video_id": "rjLEG38jM2g",
+      "title": "Ash Framework: Declarative Elixir Web Apps • Rebecca Le, Zach Daniel & C. Alexander • GOTO 2026",
+      "duration_s": 1704,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "rjVHhMCvNJY": {
       "video_id": "rjVHhMCvNJY",
       "title": "Monolith vs Microservices • Dave Farley • GOTO 2024",
@@ -24865,6 +25153,15 @@
         "Kotlin Multiplatform"
       ],
       "details_at": "2026-09-06T13:23:58+00:00"
+    },
+    "s8zmmxHCKXg": {
+      "video_id": "s8zmmxHCKXg",
+      "title": "Velocity Through Rigour: Then & Now • Cate Huston • Bug Bash EU 2026",
+      "duration_s": 2353,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
     },
     "sDLGB6VWrDg": {
       "video_id": "sDLGB6VWrDg",
@@ -26033,6 +26330,15 @@
       ],
       "details_at": "2026-09-06T13:23:58+00:00"
     },
+    "ucaLq-xDHKA": {
+      "video_id": "ucaLq-xDHKA",
+      "title": "Grokking Software Architecture • Matt Erman & Luca Mezzalira • GOTO 2026",
+      "duration_s": 2111,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos"
+    },
     "ufS2OqhLUxI": {
       "video_id": "ufS2OqhLUxI",
       "title": "Genomic-scale Data Pipelines • Lynn Langit & Denis Bauer • YOW! 2017",
@@ -26301,6 +26607,34 @@
         "Project Valhalla"
       ],
       "details_at": "2026-08-31T15:35:21+00:00"
+    },
+    "vD7fLhkU0lc": {
+      "video_id": "vD7fLhkU0lc",
+      "title": "Grokking the Brain: What AI Reveals About How You Learn • Barbara Oakley • GOTO Copenhagen 2026",
+      "duration_s": 2996,
+      "channel": "GOTO Conferences",
+      "label": "GOTO",
+      "year": null,
+      "source_url": "https://www.youtube.com/@GOTO-/videos",
+      "description": "This presentation was recorded at GOTO Copenhagen 2026. #GOTOcon #GOTOcph\nJoin us at GOTO Copenhagen 2027, October 4–8. https://gotocph.com/2027?utm_source=youtube&utm_medium=video&utm_campaign=cph26-talks\n\nBarbara Oakley - Professor of Engineering at Oakland University @BarbaraOakley\n\n\nRESOURCES\nhttps://x.com/Barbara97881398\nhttps://www.linkedin.com/in/barbaraoakley/\nhttps://barbaraoakley.com/\nhttps://gotopia.tech/experts/1554/barbara-oakley\n\n\nABSTRACT\nTrain an AI model long past the point where it has memorized its examples, and something strange happens — it stops memorizing and suddenly \"groks\" the pattern beneath them. That hard-won pattern can then be \"distilled\" into a smaller, faster model that runs it with ease. These are ideas from AI — but they may give us our clearest view yet of the human brain. We grok a hard skill slowly, with conscious effort, then distill it into a fast, automatic system that needs no effort at all. That is what expertise is.\n\nThe same “machinery” has a quieter side. A model is aligned by its training data — and in an analogous fashion, so are humans. Give me a child to the age of seven, the old saying goes, and I'll show you the adult. But adults are aligned too, usually without knowing it — and a brain aligned a little too well can harden into a mental fortress, deflecting new ideas.\n\nCuriosity provides a way out. Dopamine—reward-based learning—fuels the brain's ability to rewire — it helps us build new links, keeps the fortress gate open, and keeps hard-won knowledge from setting into a wall. We'll look at what all this means for how you learn, how you use AI, and how you keep thinking for yourself in an age that makes it easy not to.\n\nTIMECODES\n00:00 Intro\n00:50 Ernst Strüngmann Forum - Cognitive Offloading\n03:04 Who Am I?\n06:15 The Transformer - Flow of information\n08:45 Here Is Our Brain - The neuron\n13:40 AI Shows, But I'm the only one who KNOWS - Science of learning\n22:42 Theta - The deterioration of the brain with time\n25:22 Working Memory - Human and AI longterm memory\n33:48 The FLynn Effect - Dopamine in curiosity\n39:38 How can we get ourselves curious - Ask ChatGBT\n41:00 How you can use this\n49:30 Outro - Thanks for listening\n\nDownload slides and read the full abstract here:\nhttps://gotocph.com/2026/sessions/4125\n\n\nhttps://bsky.app/profile/gotocon.com\nhttps://www.linkedin.com/company/goto-\nhttps://www.instagram.com/goto_con\n#GOTOcph #GOTO #[topic] #[topic] #[SpeakerName]\n\nHEAR TALKS LIKE THIS LIVE\nGOTO Copenhagen 2027, October 4–8. Five days of talks, masterclasses and the people behind the tools you use.\nTickets: https://gotocph.com/2027?utm_source=youtube&utm_medium=video&utm_campaign=cph26-talks\nMore GOTO events worldwide: https://gotopia.tech\nSign up for updates: https://gotopia.tech/newsletter\n\nCHANNEL MEMBERSHIP BONUS\nJoin this channel for early access to Book Club episodes, GOTO Copenhagen special offers and other benefits:\nhttps://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA/join\n\nSUBSCRIBE TO OUR CHANNEL - new videos posted almost daily.\nhttps://www.youtube.com/user/GotoConferences/?sub_confirmation=1",
+      "published_at": "2026-11-09T13:00:07Z",
+      "tags": [
+        "GOTO",
+        "GOTOcon",
+        "GOTO Conference",
+        "GOTO (Software Conference)",
+        "Videos for Developers",
+        "Computer Science",
+        "Programming",
+        "Software Engineering",
+        "GOTOpia",
+        "Tech",
+        "Software Development",
+        "Tech Channel",
+        "Tech Conference",
+        "Today in Tech"
+      ],
+      "details_at": "2026-11-09T19:20:37+00:00"
     },
     "vEcVtSvLgo0": {
       "video_id": "vEcVtSvLgo0",

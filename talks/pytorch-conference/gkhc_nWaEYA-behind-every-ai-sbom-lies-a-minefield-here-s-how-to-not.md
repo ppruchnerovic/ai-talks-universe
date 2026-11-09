@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Matthew Crawford", "Jimmy Ahlberg"]
-channel: "PyTorch"
+channel: "PyTorch Foundation"
 duration_min: 24
 published_at: 2025-11-04T03:48:18Z
 video_id: gkhc_nWaEYA

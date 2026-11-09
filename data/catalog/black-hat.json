@@ -1,7 +1,7 @@
 {
   "slug": "black-hat",
   "name": "Black Hat",
-  "enumerated_at": "2026-09-26T14:28:39+00:00",
+  "enumerated_at": "2026-11-09T19:17:21+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/@BlackHatOfficialYT/videos",
@@ -10,7 +10,7 @@
       "count": 600
     }
   ],
-  "count": 605,
+  "count": 618,
   "videos": {
     "-BCngzJC1Rc": {
       "video_id": "-BCngzJC1Rc",
@@ -352,6 +352,15 @@
       "year": null,
       "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
     },
+    "1HU_OsgzBQ0": {
+      "video_id": "1HU_OsgzBQ0",
+      "title": "Black Hat Europe 2026 | Welcome Video",
+      "duration_s": 151,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
+    },
     "1I8xo-tjJSs": {
       "video_id": "1I8xo-tjJSs",
       "title": "Black Hat Europe 2025 | Ghosts in the Stream: Exposing Lives and Devices Behind Encrypted Doors",
@@ -364,6 +373,15 @@
       "published_at": "2026-06-21T19:30:08Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:09+00:00"
+    },
+    "1PZ8fu1v14Q": {
+      "video_id": "1PZ8fu1v14Q",
+      "title": "The AI Reality. The Human Response. | Black Hat Europe 2026, London",
+      "duration_s": 64,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
     },
     "1RFx_5p3DYY": {
       "video_id": "1RFx_5p3DYY",
@@ -1141,6 +1159,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:43+00:00"
     },
+    "7SCMgzQzsx8": {
+      "video_id": "7SCMgzQzsx8",
+      "title": "Understanding the Blast Radius of a Cryptographic Change",
+      "duration_s": 424,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
+    },
     "7UCpHzFYF40": {
       "video_id": "7UCpHzFYF40",
       "title": "Black Hat Asia 2026 | Bad Vibes - Pwning Coding Agents 70 Times With The Same Bugs",
@@ -1166,6 +1193,15 @@
       "published_at": "2026-07-07T15:15:19Z",
       "tags": [],
       "details_at": "2026-09-06T13:24:09+00:00"
+    },
+    "7f9T16YYOj4": {
+      "video_id": "7f9T16YYOj4",
+      "title": "Black Hat Stories | Taylor Margot, Lytical Ventures",
+      "duration_s": 101,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
     },
     "7g3ti5AWEY0": {
       "video_id": "7g3ti5AWEY0",
@@ -2584,6 +2620,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:43+00:00"
     },
+    "J4EgJcmvVws": {
+      "video_id": "J4EgJcmvVws",
+      "title": "AI, Resilience & Trust: Securing the Autonomous Enterprise",
+      "duration_s": 393,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
+    },
     "J5Jn0-FsAc8": {
       "video_id": "J5Jn0-FsAc8",
       "title": "Mini-App But Great Impact: New Ways to Compromise Mobile Apps",
@@ -3104,6 +3149,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:44+00:00"
     },
+    "Muk6elQ_qcs": {
+      "video_id": "Muk6elQ_qcs",
+      "title": "Black Hat Europe 2026 | Hear From Our Sponsors",
+      "duration_s": 40,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
+    },
     "N-gZavGUKWs": {
       "video_id": "N-gZavGUKWs",
       "title": "Secure Shells in Shambles",
@@ -3455,6 +3509,24 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:44+00:00"
     },
+    "QH9Lh7wVZAg": {
+      "video_id": "QH9Lh7wVZAg",
+      "title": "Fromage-Gate: Old-School Hacking Tactics vs. French Supermarkets",
+      "duration_s": 2370,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
+    },
+    "QHb5UPJGmHY": {
+      "video_id": "QHb5UPJGmHY",
+      "title": "Eliminating the Blind Spots Between Humans, Machines, and AI",
+      "duration_s": 532,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
+    },
     "QNJgYIpKWWE": {
       "video_id": "QNJgYIpKWWE",
       "title": "SecTor 2025 | Chasing Shadows: Chronicles of Counter-Intelligence from the Citizen Lab",
@@ -3688,6 +3760,15 @@
       "published_at": "2024-10-09T16:43:47Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:44+00:00"
+    },
+    "S-5hDzFksLI": {
+      "video_id": "S-5hDzFksLI",
+      "title": "Black Hat Stories | Lynn Dohm, Executive Director at Women in Cybersecurity (WiCyS)",
+      "duration_s": 114,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
     },
     "S-vieCNshPQ": {
       "video_id": "S-vieCNshPQ",
@@ -6107,6 +6188,15 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:10+00:00"
     },
+    "lCUZoZomkq8": {
+      "video_id": "lCUZoZomkq8",
+      "title": "Black Hat Asia 2026 Highlights",
+      "duration_s": 53,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
+    },
     "lS4qlzbFN6c": {
       "video_id": "lS4qlzbFN6c",
       "title": "Black Hat Asia 2026 | Ensuring the Cloud Quantum Computer Runs Your Program… But Learns Nothing",
@@ -7329,6 +7419,15 @@
       "tags": [],
       "details_at": "2026-08-31T15:35:45+00:00"
     },
+    "uQ3miEp_0Wo": {
+      "video_id": "uQ3miEp_0Wo",
+      "title": "Black Hat Stories | Chris Gaun, VP of Product Marketing at Island.io",
+      "duration_s": 83,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
+    },
     "uVErrDWfAKM": {
       "video_id": "uVErrDWfAKM",
       "title": "What We Can Learn from Ukraine's Cyber Defenders about Building a More Resilient Future",
@@ -7641,6 +7740,15 @@
       "tags": [],
       "details_at": "2026-09-06T13:24:10+00:00"
     },
+    "wwk4SGLGcfY": {
+      "video_id": "wwk4SGLGcfY",
+      "title": "Black Hat Stories | Tony Lee, Black Hat Review Board Member and VP of Operations at HackerOne",
+      "duration_s": 94,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos"
+    },
     "x-956BVXMLQ": {
       "video_id": "x-956BVXMLQ",
       "title": "Calling all Cybersecurity Pros! Join Us at Black Hat USA 2024 at the Mandalay Bay.",
@@ -7731,6 +7839,19 @@
       "published_at": "2025-04-23T16:38:47Z",
       "tags": [],
       "details_at": "2026-08-31T15:35:45+00:00"
+    },
+    "y_lw2P0393k": {
+      "video_id": "y_lw2P0393k",
+      "title": "SecTor 2026 | Using Claude or Codex? We Can Hack Your App?",
+      "duration_s": 2317,
+      "channel": "Black Hat",
+      "label": "Black Hat",
+      "year": null,
+      "source_url": "https://www.youtube.com/@BlackHatOfficialYT/videos",
+      "description": "Today, most code is actually vibe-coded by the same top AI code models, which often reuse the same implementation patterns, including vulnerability patterns. We found that an attacker can generate and inspect their own applications, discover vulnerabilities that developers may have missed, and use those findings to attack other applications generated by the same model, which have a high chance of containing the same vulnerabilities. In this Briefing, we evaluate how high these chances are among today's top code models and present a new attack and threat model.\n\nWe introduce FSTab, a novel black-box attack that maps visible UI features such as login, upload, and password reset to recurring corresponding backend vulnerabilities. We evaluate how often these vulnerabilities transfer across applications, prompts, and domains using six widely used code LLMs. FSTab reaches up to 85.67% average attack success and 84.97% average vulnerability coverage, showing how model-level coding habits can expose vulnerabilities across thousands of AI-generated applications.\n\nAmit LeVi |  AI Researcher & Founder, ATLAS Lab\nRaz Tel-Vered |  AI and Security Research Team Lead, Zenity\n\nhttps://blackhat.com/sector/briefings/schedule/#using-claude-or-codex-we-can-hack-your-app-extracting-recurring-vulnerabilities-from-black-box-llm-generated-software-55091",
+      "published_at": "2026-11-03T18:06:32Z",
+      "tags": [],
+      "details_at": "2026-11-07T22:15:57+00:00"
     },
     "yaxXBbRYG_g": {
       "video_id": "yaxXBbRYG_g",

@@ -9,6 +9,8 @@ session-by-session record with numbers and provenance is
 ## Unreleased
 
 ### Added
+- AI DevCon NYC 2026 (Tessl / AI Native Dev): its unlisted sessions playlist
+  is now a registered source, so talks absent from the channel page are read.
 - Shared `ai-conference-talks` skill discovery for Codex and Gemini CLI,
   alongside Claude Code, Copilot and OpenCode; agent setup and fallback guidance.
 - MIT licence for the code and a CC BY 4.0 notice for the curated data
@@ -23,6 +25,10 @@ session-by-session record with numbers and provenance is
   a pull request with the coverage report.
 
 ### Changed
+- Refresh the catalog on 2026-10-19: 466 new talks and 431 new transcripts;
+  rebuild the search indexes for **10,473 talks and 4,042 transcripts**.
+  `docs/STATS.md` is regenerated on the new corpus. Every 2026 talk again has
+  a transcript or a recorded reason it cannot have one.
 - Refresh the catalog on 2026-09-26: 176 new talks and 174 new transcripts;
   rebuild the search indexes for **10,007 talks and 3,611 transcripts**.
 - The corpus documentation follows the 2026-09-14 refresh: **9,831 talks,

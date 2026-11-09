@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Thomas Neff"]
-channel: "PyTorch"
+channel: "PyTorch Foundation"
 duration_min: 25
 published_at: 2025-11-04T03:43:38Z
 video_id: LmpXU8UwREA

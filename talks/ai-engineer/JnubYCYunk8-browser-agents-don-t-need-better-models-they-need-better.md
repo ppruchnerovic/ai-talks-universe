@@ -1,6 +1,6 @@
 ---
 id: JnubYCYunk8
-title: "Browser Agents Don't Need Better Models. They Need Better Eyes. - Kushan Raj, ARK"
+title: "Browser Agents Don't Need Better Models. They Need Better Eyes. - Kushan Raj, Sarvam AI"
 slug: browser-agents-don-t-need-better-models-they-need-better
 conference: ai-engineer
 conference_name: "AI Engineer"
@@ -19,7 +19,7 @@ topics: ["Agents & orchestration"]
 transcript: true
 ---
 
-# Browser Agents Don't Need Better Models. They Need Better Eyes. - Kushan Raj, ARK
+# Browser Agents Don't Need Better Models. They Need Better Eyes. - Kushan Raj, Sarvam AI
 
 **Kushan Raj**
 

@@ -8,7 +8,7 @@ category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["R. Dagli", "S. Lamba"]
-channel: "PyTorch"
+channel: "PyTorch Foundation"
 duration_min: 11
 published_at: 2025-11-04T03:43:38Z
 video_id: IMwmmw92fWs
