@@ -41,6 +41,12 @@ session-by-session record with numbers and provenance is
   `docs/GUIDE.md`, alongside `ARCHITECTURE`, `STATE`, `STATS`, `TODO` and
   `HISTORY`.
 
+### Fixed
+- `fetch_transcripts.py --retry-misses` no longer rewrites `_misses.json`
+  with only the run's own misses: a narrow `-c` retry wiped every other
+  conference's recorded misses. The file is now always loaded and written
+  whole.
+
 ## 2026-09-06
 
 ### Changed

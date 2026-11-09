@@ -876,6 +876,50 @@ check("and each is filed under the language it is in",
       {lg for _, lg in saved} == {"hi"} and len(saved) == len(todo), saved[:3])
 
 
+print("\n-- --retry-misses rewrites _misses.json whole, never a subset --")
+# A narrow `-c X --retry-misses` run once wrote back only its own misses and
+# wiped every other conference's entry: the map it saved had started as {}.
+# Retrying changes what select() skips, never what the file keeps.
+import importlib
+import os
+import tempfile
+F = importlib.reload(F)               # earlier sections replaced F.save
+F.time.sleep = lambda s: None
+_tmp = __import__("pathlib").Path(tempfile.mkdtemp())
+F.atu.TRANSCRIPTS = _tmp
+F.MISSES = _tmp / "_misses.json"
+_talk = lambda vid, conf: {"id": vid, "title": vid, "conference": conf, "priority": 1,
+                           "duration_min": 30, "duration_s": 1800, "year": 2026}
+_TALKS = [_talk("aaaaaaaaaaa", "x"), _talk("bbbbbbbbbbb", "x"), _talk("ccccccccccc", "y")]
+F.atu.load_talks = lambda: _TALKS
+_before = {"aaaaaaaaaaa": {"conference": "x", "reason": "LookupError", "detail": "old"},
+           "bbbbbbbbbbb": {"conference": "x", "reason": "LookupError", "detail": "old"},
+           "ccccccccccc": {"conference": "y", "reason": "LookupError", "detail": "old"}}
+F.atu.write_json(F.MISSES, _before)
+_tried = []
+
+def _fetch(eg, vid, source, key):
+    _tried.append(vid)
+    if vid == "aaaaaaaaaaa":
+        return [{"start": 0.0, "duration": 1.0, "text": "captions now"}], "en", True, "exact", "supa"
+    raise LookupError("still no captions")
+
+F.fetch_one = _fetch
+os.environ["SUPADATA_API_KEY"] = "KEY"
+_argv = sys.argv
+sys.argv = ["fetch_transcripts.py", "--source", "supadata", "--retry-misses", "-c", "x",
+            "--min-year", "2026", "--workers", "1"]
+with contextlib.redirect_stdout(io.StringIO()):
+    F.main()
+sys.argv = _argv
+_after = json.loads(F.MISSES.read_text())
+check("only the selected conference's misses are retried", sorted(_tried) == ["aaaaaaaaaaa", "bbbbbbbbbbb"], _tried)
+check("an untouched conference's miss survives the retry", "ccccccccccc" in _after, _after)
+check("a retried miss that now has captions leaves the file", "aaaaaaaaaaa" not in _after, _after)
+check("a retried miss that still has none stays, with the new verdict",
+      _after.get("bbbbbbbbbbb", {}).get("detail") == "still no captions", _after)
+
+
 print("\n" + (f"{len(FAILS)} FAILED: {FAILS}" if FAILS else
               "all checks passed"))
 sys.exit(1 if FAILS else 0)

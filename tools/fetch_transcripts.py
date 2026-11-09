@@ -805,6 +805,20 @@ def load_misses() -> dict:
     return {}
 
 
+def save_misses(misses: dict, fresh: dict) -> None:
+    """Fold this run's misses into the file's and write the whole map.
+
+    Never writes a subset: an id leaves _misses.json only when its transcript
+    is on disk (a retried miss that now has captions), never because this run
+    did not look at it. Both dicts are updated in place.
+    """
+    misses.update(fresh)
+    for vid in [v for v in misses if atu.transcript_path(v).exists()]:
+        del misses[vid]
+        fresh.pop(vid, None)
+    atu.write_json(MISSES, misses)
+
+
 def save(t: dict, segments, lang, generated, timing, source) -> int:
     """Write one transcript, filed under the language it is actually in.
 
@@ -1040,7 +1054,13 @@ def main() -> None:
 
     talks = atu.load_talks()
     atu.TRANSCRIPTS.mkdir(parents=True, exist_ok=True)
-    misses = {} if args.retry_misses else load_misses()
+    # `misses` is what _misses.json holds and is always loaded whole, so every
+    # write keeps the entries this run never touched. `--retry-misses` changes
+    # only what select() skips: the misses recorded during this run (so a
+    # second round does not retry them again), not the file's.
+    misses = load_misses()
+    fresh: dict = {}
+    skip = fresh if args.retry_misses else misses
     pool = build_pool(args)
     key = supadata_key()
     if args.workers is None:
@@ -1067,7 +1087,7 @@ def main() -> None:
     for rnd in range(1, args.max_rounds + 1):
         # Each round re-derives its work from disk, so a blocked round costs
         # nothing but time — nothing is lost and nothing is refetched.
-        todo = select(talks, args, misses)
+        todo = select(talks, args, skip)
         have = sum(1 for t in talks if atu.transcript_path(t["id"]).exists())
         off_year = sum(1 for t in talks if not atu.year_wanted(t.get("year"), args))
         label = f"round {rnd}: " if rnd > 1 else ""
@@ -1081,10 +1101,10 @@ def main() -> None:
             todo = todo[: args.limit]
 
         runner = run_parallel if args.workers > 1 else run_serial
-        ok, fail, blocked = runner(pool, todo, misses, args, key)
+        ok, fail, blocked = runner(pool, todo, fresh, args, key)
         total_ok += ok
         total_fail += fail
-        atu.write_json(MISSES, misses)
+        save_misses(misses, fresh)
 
         if not blocked or not args.retry_after or args.limit:
             break
@@ -1102,7 +1122,7 @@ def main() -> None:
             print("\ninterrupted — finished work is saved, rerun to continue")
             break
 
-    atu.write_json(MISSES, misses)
+    save_misses(misses, fresh)
     print(f"\ndone: {total_ok} fetched, {total_fail} missed. Misses recorded in {MISSES.name}")
     if total_ok:
         print("Next:  python3 sync_catalog.py && python3 build_index.py")

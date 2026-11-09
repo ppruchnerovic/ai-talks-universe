@@ -41,7 +41,7 @@ Languages: 3,143 `en`, 12 `hi` (see How), a handful of `de/es/ja/no/lt/...`.
 
 | Path | What |
 |---|---|
-| `tools/fetch_transcripts.py` | The fetcher. 1,213 lines; module docstring is an accurate short manual. |
+| `tools/fetch_transcripts.py` | The fetcher. 1,233 lines; module docstring is an accurate short manual. |
 | `tools/test_fetch_transcripts.py` | Offline suite (fake HTTP, fake allowances, ~1 s). `cd tools && python3 test_fetch_transcripts.py`. |
 | `tools/atu.py` | Shared helpers the fetcher leans on (below). |
 | `tools/requirements.txt` | `youtube-transcript-api>=1.0`, `yt-dlp>=2025.1.1` — the only third-party deps in the repo; installed in `tools/.venv` (gitignored). |
@@ -82,15 +82,15 @@ then `de es fr pt it nl ja pl uk`), `YTDLP_SUB_LANGS`.
 | `uses_our_ip(source)` | 725 | True for `auto/exact/youtube/ytdlp`. |
 | `off_ip_sources(source, key)` | 734 | Is any route left that does not spend our IP (kome under auto/kome; supadata if key and not retired). |
 | `fetch_one(eg, vid, source, key)` | 741 | **The ladder.** See below. |
-| `load_misses`, `save` | 801-846 | `save` writes the file, filed under its real language; prints a note when off-list. |
-| `select(talks, args, misses)` | 849 | What a run works on. See below. |
-| `BLOCK_ADVICE`, `ACCOUNT_ADVICE`, `stop_advice` | 872-892 | Printed once when a round has nothing left to fetch with. |
-| `attempt(pool, t, args, key)` | 895 | One talk: lease → pace (`--min-delay`..`--max-delay`) → `fetch_one` → on block, bench and retry on the next identity (budget `min(len(pool)+1, 8)`; 1 and no lease for off-IP-only sources) → `save`. `eg.fetched` counts only `yt`/`ytdlp` successes. |
-| `probe` | 939 | One talk per identity through the *exact* routes only (never kome, so a spent IP cannot read as usable), plus one Supadata call if a key is present (1 credit). Exit 1 if nothing works. |
-| `build_pool` | 980 | `--proxy` + `--proxy-file` lines, deduped. Direct IP is included only when there are no proxies or `--with-direct`. |
-| `main` | 1001 | CLI, round loop, `--retry-after` parking. |
-| `spent(pool, args, key)` | 1111 | "Nothing left to fetch with": all identities benched and no off-IP route; for off-IP-only sources, just "no off-IP route". |
-| `run_parallel`, `run_serial` | 1123-1206 | Thread pool / serial round. Write misses only via `about_the_video`. |
+| `load_misses`, `save_misses`, `save` | 801-860 | `save_misses(misses, fresh)` folds the run's misses into the file's map, drops any id whose transcript is now on disk, and writes the **whole** map — never a subset. `save` writes the transcript, filed under its real language; prints a note when off-list. |
+| `select(talks, args, misses)` | 863 | What a run works on. See below. |
+| `BLOCK_ADVICE`, `ACCOUNT_ADVICE`, `stop_advice` | 886-906 | Printed once when a round has nothing left to fetch with. |
+| `attempt(pool, t, args, key)` | 909 | One talk: lease → pace (`--min-delay`..`--max-delay`) → `fetch_one` → on block, bench and retry on the next identity (budget `min(len(pool)+1, 8)`; 1 and no lease for off-IP-only sources) → `save`. `eg.fetched` counts only `yt`/`ytdlp` successes. |
+| `probe` | 953 | One talk per identity through the *exact* routes only (never kome, so a spent IP cannot read as usable), plus one Supadata call if a key is present (1 credit). Exit 1 if nothing works. |
+| `build_pool` | 994 | `--proxy` + `--proxy-file` lines, deduped. Direct IP is included only when there are no proxies or `--with-direct`. |
+| `main` | 1015 | CLI, round loop, `--retry-after` parking. |
+| `spent(pool, args, key)` | 1131 | "Nothing left to fetch with": all identities benched and no off-IP route; for off-IP-only sources, just "no off-IP route". |
+| `run_parallel`, `run_serial` | 1143-1229 | Thread pool / serial round. Write misses only via `about_the_video`. |
 
 ### `tools/atu.py` — what the fetcher borrows
 
@@ -159,7 +159,7 @@ Log line vocabulary: `ok`, `MISS`, `LEFT` (transient/account in parallel),
 - No proxy pool has ever been bought for this corpus; Supadata is the lever
   in use (`docs/STATE.md` §"The quota").
 
-### What a run selects (`select`, `:849-869`)
+### What a run selects (`select`, `:863-883`)
 
 All talks with a YouTube id (InfoQ-only skipped), narrowed by `-c/--conference`
 (repeatable), `--priority N` (registry priority ≤ N), `--min-duration MIN`,
@@ -169,14 +169,14 @@ exists or whose id is in `_misses.json`. Sorted by `(priority, -duration_s)`:
 priority-1 conferences first, longest talks first. `--limit N` truncates
 after sorting and caps the run at one round. Nothing is stored between runs.
 
-### CLI flags (`main`, `:1001-1071`)
+### CLI flags (`main`, `:1015-1085`)
 
 | Flag | Default | Note |
 |---|---|---|
 | `--source {auto,exact,youtube,ytdlp,supadata,kome}` | `auto` | `exact` never estimates; `supadata` requires `SUPADATA_API_KEY`. |
 | `-c/--conference`, `--priority`, `--min-duration`, `--year`, `--min-year`, `--include-unknown-year`, `--limit` | — | Selection. |
 | `--workers N` | `max(2, min(pool, 8))` on our-IP sources; `OFF_IP_WORKERS = 8` under `--source supadata`/`kome` | The `--help` text states both defaults. |
-| `--retry-misses` | off | Loads `{}` instead of `_misses.json`, so every miss is re-attempted. |
+| `--retry-misses` | off | `select()` ignores `_misses.json`, so every miss in the selection is re-attempted (once per run: a miss recorded this run is skipped by later rounds). The file is still loaded whole and rewritten whole: entries outside the selection are kept, a retried id that now has a transcript is dropped, one that misses again gets the new `detail`. |
 | `--probe` | off | One fetch per identity (+1 Supadata credit); exit 1 if nothing works. |
 | `--proxy URL` (repeatable), `--proxy-file PATH`, `--proxy-cooldown MIN` (45), `--with-direct` | — | Pool. |
 | `--min-delay` / `--max-delay` | 3 / 7 s | Per-request pacing on our-IP routes only. |
@@ -190,7 +190,7 @@ round and at exit. On success the script prints the follow-up:
 
 ### Transcript file format — `data/transcripts/<video_id>.json`
 
-Written compact by `save()` (`:808`):
+Written compact by `save()` (`:822`):
 
 | Field | Type | Meaning |
 |---|---|---|
@@ -228,6 +228,9 @@ allowances, with `time.sleep` stubbed. It also imports `enrich.py` to check
 - Language handling: tag folding, `und`, Supadata asks-then-checks and
   re-requests at most once, `pick_and_fetch` reports the fetched language,
   `save()` keeps a foreign-only track and says so.
+- `--retry-misses` through `main()`: a narrow `-c` retry keeps every other
+  conference's entry in `_misses.json`, drops a retried id that now has a
+  transcript, and keeps one that missed again with the new verdict.
 - Full rounds against fake allowances: a pool multiplies yield, blocks are
   never misses, one dead IP does not stop the run, Supadata carries a round
   past a spent pool, credits running out mid-flight loses no talk, off-IP
