@@ -388,10 +388,5 @@
     "conference": "goto",
     "reason": "LookupError",
     "detail": "supadata: HTTP 403 {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/for"
-  },
-  "QZ0YH0QQjV8": {
-    "conference": "ai-devcon-tessl",
-    "reason": "LookupError",
-    "detail": "supadata: no timed transcript for this video"
   }
 }
